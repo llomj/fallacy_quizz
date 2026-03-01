@@ -623,6 +623,7 @@ interface QuizViewProps {
   onComplete: (score: number) => void;
   onExit: () => void;
   onSaveToIdLog?: (entry: { id: number; question: string; correctAnswer: string; explanation: string }) => void;
+  savedIdLogIds?: number[];
   randomizeTrigger?: number; // Add trigger to force re-randomization
   randomMode?: boolean; // Random mode: questions from all levels
   randomModeStats?: { totalAnswered: number; totalCorrect: number }; // Base stats for live score display
@@ -636,6 +637,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
   onComplete,
   onExit,
   onSaveToIdLog,
+  savedIdLogIds = [],
   randomizeTrigger,
   randomMode = false,
   randomModeStats
@@ -649,6 +651,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
   const [score, setScore] = useState(0);
   const [showDetailedExplanation, setShowDetailedExplanation] = useState(false);
   const [scoreJustIncreased, setScoreJustIncreased] = useState(false);
+  const [justSavedId, setJustSavedId] = useState<number | null>(null);
 
   // We use a ref to capture completedIds at the START of the quiz session.
   // This prevents the quiz from re-fetching if completedIds updates mid-quiz.
@@ -757,6 +760,8 @@ export const QuizView: React.FC<QuizViewProps> = ({
       correctAnswer: currentQuestion.options[currentQuestion.correct_option_index],
       explanation: currentQuestion.explanation
     });
+    setJustSavedId(currentQuestion.id);
+    setTimeout(() => setJustSavedId(null), 1200);
   };
 
   if (loading) {
@@ -787,6 +792,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
   );
 
   const currentQuestion = questions[currentIndex];
+  const isIdSaved = savedIdLogIds.includes(currentQuestion.id) || justSavedId === currentQuestion.id;
 
   // Live evolution score for Random mode: base stats + session progress
   // Use sessionCorrectRef so it updates immediately (score state may lag)
@@ -861,11 +867,16 @@ export const QuizView: React.FC<QuizViewProps> = ({
           </div>
           <button
             onClick={handleSaveCurrentId}
-            className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-slate-700/50 text-slate-300 text-[10px] font-black uppercase tracking-[0.2em] border border-slate-600/50 hover:bg-slate-700/70 transition-colors"
-            title={t('idSearch.saveToLog')}
+            className={`inline-flex items-center gap-2 px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.2em] border transition-colors ${
+              isIdSaved
+                ? 'bg-emerald-500/20 text-emerald-300 border-emerald-500/40'
+                : 'bg-slate-700/50 text-slate-300 border-slate-600/50 hover:bg-slate-700/70'
+            }`}
+            title={isIdSaved ? t('idSearch.saved') : t('idSearch.saveToLog')}
             type="button"
           >
             ID: {currentQuestion.id}
+            <i className={`fas ${isIdSaved ? 'fa-check' : 'fa-bookmark'} text-[9px]`}></i>
           </button>
         </div>
 
