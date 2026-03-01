@@ -274,8 +274,8 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-200 selection:bg-indigo-500/30 pb-20">
-      <nav className="p-4 flex items-center justify-between border-b border-white/5 sticky top-0 z-50 glass">
+    <div className="min-h-screen bg-slate-950 text-slate-200 selection:bg-indigo-500/30 pb-28">
+      <nav className="p-2 flex items-center justify-between border-b border-white/5 sticky top-0 z-50 glass">
         <div className="flex items-center gap-4">
           <div className="flex items-center gap-2 cursor-pointer" onClick={() => setView('hub')}>
             <div className="w-8 h-8 rounded-lg bg-indigo-500 flex items-center justify-center shadow-lg shadow-indigo-500/20">
@@ -306,11 +306,11 @@ const App: React.FC = () => {
 
       </nav>
 
-      {/* Settings at bottom - always accessible, avoids status bar overlap on iPhone */}
-      <div className="fixed bottom-0 left-0 right-0 z-40 flex justify-center pb-[env(safe-area-inset-bottom,0)] pt-3 bg-gradient-to-t from-slate-950 to-transparent">
+      {/* Settings at bottom - pb lifts gear above iPhone home-indicator; min 2rem when env is 0 in PWA */}
+      <div className="fixed bottom-0 left-0 right-0 z-40 flex justify-center pb-[max(2rem, env(safe-area-inset-bottom))] pt-2 bg-gradient-to-t from-slate-950 to-transparent">
         <button
           onClick={() => setShowSettingsMenu(!showSettingsMenu)}
-          className="w-14 h-14 flex items-center justify-center rounded-2xl border border-white/10 bg-white/5 hover:bg-white/10 text-slate-400 hover:text-white transition-all shadow-lg"
+          className="w-16 h-16 flex items-center justify-center rounded-2xl border border-white/10 bg-white/5 hover:bg-white/10 text-slate-400 hover:text-white transition-all shadow-lg min-w-[64px] min-h-[64px]"
           title={t('settings.settings')}
         >
           <i className="fas fa-gear text-xl"></i>
@@ -333,7 +333,7 @@ const App: React.FC = () => {
           onResetApp={() => setShowResetModal(true)}
       />
 
-      <main className="container mx-auto px-4 py-6 max-w-4xl min-h-[calc(100dvh-160px)]">
+      <main className="container mx-auto px-4 py-3 max-w-4xl min-h-[calc(100dvh-160px)]">
         {view === 'quiz' ? (
           <QuizView
             level={stats.currentLevel}

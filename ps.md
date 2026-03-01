@@ -74,6 +74,36 @@ Before moving to the next level:
 - Random Mode: toggle in Settings (hub + quiz), point-based evolution, dual persistence (`randomModeStats`), questions from all levels
 - Implemented question display with syntax highlighting for code questions
 
+---
+
+## iPhone PWA: Settings Bar / Status Bar Overlap (DO NOT REPEAT)
+
+**Problem**: On iPhone home-screen PWA, the settings gear overlaps the status bar (time, WiFi, battery %), making it inaccessible.
+
+**What was tried (all failed for user):**
+1. `body { padding-top: 3.5rem }` — push content down
+2. `apple-mobile-web-app-status-bar-style: black` — use non-translucent status bar
+3. Nav `pt-16` on mobile — extra top padding in nav
+4. Nav `pt-[max(2.75rem, env(safe-area-inset-top))]` — safe-area insets
+5. Nav `top-[env(safe-area-inset-top)]` for sticky — stick below status bar
+6. **Settings moved to bottom bar** — removed from nav, fixed bottom bar with gear button
+7. SW cache bumped v4→v5, `CACHE_NAME` v2→v5 — force fresh load
+
+**Current implementation**: Settings button is **only** at the bottom (fixed), nav has no gear. See `App.tsx`: fixed bottom bar, `SettingsMenu` with `anchorBottom`. If user still sees gear at top, they are on a cached build.
+
+**If still broken**: Reduce nav and Evolution Stage padding to shrink top dark area. See "Reduce top padding" below.
+
+**Reduce top padding** (applied when user still sees overlap):
+- Nav: `p-4` → `p-2`
+- Main: `py-6` → `py-3`
+- EvolutionHub header (Evolution Stage): `py-4` → `py-2`, `gap-3` → `gap-2`, `mb-2` unchanged
+- EvolutionHub: `space-y-8` → `space-y-6`
+
+**Settings bar "too high" / can't tap** (user still can't use settings):
+- Increase bottom padding `pb-[max(2rem, env(safe-area-inset-bottom))]` so gear sits above home-indicator (env often 0 in PWA)
+- Gear `w-14` → `w-16` (64px tap target)
+- SettingsMenu anchorBottom: `bottom-24` → `bottom-28`
+
 ## Solutions Needed
 - Increase code panel size significantly
 - Match code panel background to dark theme
