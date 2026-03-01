@@ -34,6 +34,7 @@ export const translations = {
       evolutionScore: "Evolution Score",
       pointsToNext: "{points} points to {persona}",
       randomModeAbsorbText: "Absorb 15 random questions from all levels to earn evolution points.",
+      randomModeDescription: "Questions from all levels. Earn points to evolve through the same 10 personas.",
     },
     
     // Quiz View
@@ -270,6 +271,7 @@ export const translations = {
       evolutionScore: "Score d'Évolution",
       pointsToNext: "{points} points vers {persona}",
       randomModeAbsorbText: "Absorbez 15 questions aléatoires de tous les niveaux pour gagner des points d'évolution.",
+      randomModeDescription: "Questions de tous les niveaux. Gagnez des points pour évoluer à travers les mêmes 10 personas.",
     },
 
     // Quiz View

@@ -10,6 +10,66 @@ Random Mode and French translations are complete. See Improvement Ideas below fo
 
 ---
 
+## March 1, 2026 — Stability-First Execution Plan
+
+### 1) iPhone PWA QA pass (manual checklist)
+
+Goal: verify Home Screen behavior without changing layout patterns.
+
+- Device matrix: iPhone with Dynamic Island + iPhone with notch (older model).
+- Install flow: open in browser, Add to Home Screen, launch from icon.
+- Top safe-area: nav content must be fully below status indicators.
+- Bottom safe-area: settings button must stay tap-safe above home indicator.
+- Settings UX: button at bottom-right, panel opens near top-right, no clipping.
+- Orientation checks: portrait + landscape for nav/settings overlap.
+- Recovery path: `clear-sw.html` flow still refreshes stale cached build.
+- Language switch: EN/FR toggle works in hub, quiz, glossary, settings.
+
+Exit criteria:
+- No blocked taps.
+- No overlap with iOS status/home indicators.
+- No visual regressions on hub/quiz/settings.
+
+### 2) Performance hardening (no visual changes)
+
+Completed:
+- Lazy-loaded heavy views (`QuizView`, `GlossaryView`, `HistoryLog`, `OperationsView`, ID modals, level selector) in `App.tsx`.
+- Added chunking strategy in `vite.config.ts` for:
+  - `react-vendor`
+  - `syntax-highlighter`
+  - `questions-data`
+  - `short-explanations`
+  - `detailed-explanations`
+
+Expected impact:
+- Smaller initial app payload for hub-first load.
+- Better cache reuse for stable vendor chunks.
+- Heavy quiz/translation data loaded when needed.
+
+### 3) Monetization foundation (roadmap)
+
+Phase A — Instrumentation (first):
+- Add analytics events: session start, quiz start/finish, retention (D1/D7), language toggle, random-mode usage.
+- Define funnel: install → first quiz → 3 sessions → 50 questions answered.
+
+Phase B — Packaging:
+- Free tier: core quiz + limited helper tools.
+- Premium tier: advanced review packs, curated weak-spot drills, streak boosts, exports/progress insights.
+
+Phase C — Payments:
+- Web: Stripe Checkout + customer portal.
+- Mobile/PWA note: if wrapped later for App Store, use in-app purchases per platform rules.
+
+Phase D — Pricing tests:
+- A/B monthly vs yearly.
+- Time-limited intro offer for first-week users.
+
+Phase E — Trust/ops:
+- Privacy policy, terms, support email, restore purchases flow.
+- Error monitoring + lightweight abuse controls.
+
+---
+
 ## Random Mode — Point-Based Evolution
 
 **Status**: ✅ Implemented.

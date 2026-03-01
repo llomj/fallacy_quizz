@@ -1,13 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, lazy, Suspense } from 'react';
 import { UserStats, PersonaStage, QuestionAttempt } from './types';
 import { EvolutionHub } from './components/EvolutionHub';
-import { QuizView } from './components/QuizView';
-import { HistoryLog } from './components/HistoryLog';
-import { GlossaryView } from './components/GlossaryView';
-import { OperationsView } from './components/OperationsView';
-import { IdSearchModal } from './components/IdSearchModal';
-import { IdLogView } from './components/IdLogView';
-import { LevelSelectorModal } from './components/LevelSelectorModal';
 import { SettingsMenu } from './components/SettingsMenu';
 import { IdLogEntry } from './types';
 import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getStarsFromProgress, getRandomModeScore, getPersonaFromRandomScore } from './constants';
@@ -28,6 +21,20 @@ const INITIAL_STATS: UserStats = {
   randomModeStats: { totalAnswered: 0, totalCorrect: 0 },
   randomMode: false
 };
+
+const QuizView = lazy(() => import('./components/QuizView').then((module) => ({ default: module.QuizView })));
+const HistoryLog = lazy(() => import('./components/HistoryLog').then((module) => ({ default: module.HistoryLog })));
+const GlossaryView = lazy(() => import('./components/GlossaryView').then((module) => ({ default: module.GlossaryView })));
+const OperationsView = lazy(() => import('./components/OperationsView').then((module) => ({ default: module.OperationsView })));
+const IdSearchModal = lazy(() => import('./components/IdSearchModal').then((module) => ({ default: module.IdSearchModal })));
+const IdLogView = lazy(() => import('./components/IdLogView').then((module) => ({ default: module.IdLogView })));
+const LevelSelectorModal = lazy(() => import('./components/LevelSelectorModal').then((module) => ({ default: module.LevelSelectorModal })));
+
+const ViewLoading: React.FC = () => (
+  <div className="max-w-md mx-auto p-8 glass rounded-3xl text-center text-slate-400">
+    <i className="fas fa-spinner fa-spin"></i>
+  </div>
+);
 
 const App: React.FC = () => {
   const { language, setLanguage, t } = useLanguage();
@@ -305,7 +312,7 @@ const App: React.FC = () => {
 
           <button
             onClick={() => setShowSettingsMenu(!showSettingsMenu)}
-            className="ml-auto w-10 h-10 flex items-center justify-center rounded-xl bg-white/5 hover:bg-white/10 text-slate-400 hover:text-white border border-white/10 transition-all"
+            className="ml-auto hidden sm:flex w-10 h-10 items-center justify-center rounded-xl bg-white/5 hover:bg-white/10 text-slate-400 hover:text-white border border-white/10 transition-all"
             title={t('settings.settings')}
           >
             <i className="fas fa-gear"></i>
@@ -315,7 +322,7 @@ const App: React.FC = () => {
       </nav>
 
       {/* Settings at bottom - pb lifts gear above iPhone home-indicator; min 2rem when env is 0 in PWA */}
-      <div className="fixed bottom-0 left-0 right-0 z-40 flex justify-center pb-[max(2rem,env(safe-area-inset-bottom))] pt-2 bg-gradient-to-t from-slate-950 to-transparent">
+      <div className="fixed bottom-0 left-0 right-0 z-40 flex justify-end pr-4 pb-[max(2rem,env(safe-area-inset-bottom))] pt-2 bg-gradient-to-t from-slate-950 to-transparent">
         <button
           onClick={() => setShowSettingsMenu(!showSettingsMenu)}
           className="w-16 h-16 flex items-center justify-center rounded-2xl border border-white/10 bg-white/5 hover:bg-white/10 text-slate-400 hover:text-white transition-all shadow-lg min-w-[64px] min-h-[64px]"
@@ -343,23 +350,29 @@ const App: React.FC = () => {
 
       <main className="container mx-auto px-4 py-1 max-w-4xl min-h-[calc(100dvh-160px)]">
         {view === 'quiz' ? (
-          <QuizView
-            level={stats.currentLevel}
-            currentProgress={currentProgress}
-            completedIds={stats.completedQuestionIds}
-            onAttempt={recordAttempt}
-            onComplete={handleQuizComplete}
-            onExit={() => setView('hub')}
-            randomizeTrigger={randomizeTrigger}
-            randomMode={randomMode}
-            randomModeStats={stats.randomModeStats}
-            onSaveToIdLog={saveToIdLog}
-            savedIdLogIds={stats.idLog.map(entry => entry.id)}
-          />
+          <Suspense fallback={<ViewLoading />}>
+            <QuizView
+              level={stats.currentLevel}
+              currentProgress={currentProgress}
+              completedIds={stats.completedQuestionIds}
+              onAttempt={recordAttempt}
+              onComplete={handleQuizComplete}
+              onExit={() => setView('hub')}
+              randomizeTrigger={randomizeTrigger}
+              randomMode={randomMode}
+              randomModeStats={stats.randomModeStats}
+              onSaveToIdLog={saveToIdLog}
+              savedIdLogIds={stats.idLog.map(entry => entry.id)}
+            />
+          </Suspense>
         ) : view === 'log' ? (
-          <HistoryLog history={stats.history} onBack={() => setView('hub')} />
+          <Suspense fallback={<ViewLoading />}>
+            <HistoryLog history={stats.history} onBack={() => setView('hub')} />
+          </Suspense>
         ) : view === 'glossary' ? (
-          <GlossaryView onBack={() => setView('hub')} />
+          <Suspense fallback={<ViewLoading />}>
+            <GlossaryView onBack={() => setView('hub')} />
+          </Suspense>
         ) : showResult ? (
           <div className="max-w-md mx-auto p-10 glass rounded-3xl text-center space-y-6 animate-in zoom-in duration-500 shadow-2xl relative overflow-hidden">
             {showResult.starEarned && (
@@ -446,7 +459,9 @@ const App: React.FC = () => {
       {showOperations && (
         <div className="fixed inset-0 z-[100] bg-slate-950 overflow-y-auto">
           <div className="container mx-auto px-4 py-8 max-w-4xl">
-            <OperationsView onBack={() => setShowOperations(false)} />
+            <Suspense fallback={<ViewLoading />}>
+              <OperationsView onBack={() => setShowOperations(false)} />
+            </Suspense>
           </div>
         </div>
       )}
@@ -523,30 +538,36 @@ const App: React.FC = () => {
 
       {/* ID Search Modal */}
       {showIdSearch && (
-        <IdSearchModal
-          onClose={() => setShowIdSearch(false)}
-          onSaveToLog={saveToIdLog}
-        />
+        <Suspense fallback={<ViewLoading />}>
+          <IdSearchModal
+            onClose={() => setShowIdSearch(false)}
+            onSaveToLog={saveToIdLog}
+          />
+        </Suspense>
       )}
 
       {/* ID Log View */}
       {showIdLog && (
-        <IdLogView
-          entries={stats.idLog}
-          onClose={() => setShowIdLog(false)}
-        />
+        <Suspense fallback={<ViewLoading />}>
+          <IdLogView
+            entries={stats.idLog}
+            onClose={() => setShowIdLog(false)}
+          />
+        </Suspense>
       )}
 
       {/* Level Selector Modal */}
       {showLevelSelector && (
-        <LevelSelectorModal
-          currentLevel={stats.currentLevel}
-          highestUnlockedLevel={stats.highestUnlockedLevel}
-          onSelectLevel={handleLevelChange}
-          onClose={() => setShowLevelSelector(false)}
-          acquiredStars={stats.acquiredStars}
-          randomMode={randomMode}
-        />
+        <Suspense fallback={<ViewLoading />}>
+          <LevelSelectorModal
+            currentLevel={stats.currentLevel}
+            highestUnlockedLevel={stats.highestUnlockedLevel}
+            onSelectLevel={handleLevelChange}
+            onClose={() => setShowLevelSelector(false)}
+            acquiredStars={stats.acquiredStars}
+            randomMode={randomMode}
+          />
+        </Suspense>
       )}
     </div>
   );

@@ -1,6 +1,6 @@
 # EN-FR Parity Report
 
-Generated: 2026-03-01T01:35:23.007Z
+Generated: 2026-03-01T02:01:06.134Z
 
 ## 1) UI translation keys parity (`src/translations.ts`)
 

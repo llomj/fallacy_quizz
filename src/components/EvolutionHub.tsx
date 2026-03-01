@@ -80,7 +80,7 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz }
                   <i className="fas fa-shuffle text-indigo-400"></i> {t('hub.randomModeLabel')}
                 </h3>
                 <p className="text-slate-400 leading-relaxed text-xs">
-                  Questions from all levels. Earn points to evolve through the same 10 personas.
+                  {t('hub.randomModeDescription')}
                 </p>
               </div>
               <div className="space-y-4 pt-6 border-t border-white/5">

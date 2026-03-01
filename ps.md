@@ -89,7 +89,7 @@ Before moving to the next level:
 6. **Settings moved to bottom bar** — removed from nav, fixed bottom bar with gear button
 7. SW cache bumped v4→v5, `CACHE_NAME` v2→v5 — force fresh load
 
-**Current implementation**: Settings button is **only** at the bottom (fixed), nav has no gear. See `App.tsx`: fixed bottom bar, `SettingsMenu` with `anchorBottom`. If user still sees gear at top, they are on a cached build.
+**Current implementation**: On mobile, settings is fixed at the **bottom-right** with a 64px tap target; menu opens near top-right (`anchorBottom`). Top-nav gear is desktop-only (`sm+`). If user still sees old top-only behavior on iPhone, they are on a cached build.
 
 **If still broken**: Reduce nav and Evolution Stage padding to shrink top dark area. See "Reduce top padding" below.
 
@@ -105,6 +105,7 @@ Before moving to the next level:
 - SettingsMenu anchorBottom: `bottom-24` → `bottom-28`
 - Latest deployed fix (commit `dca1615`, repo `python-exercisesV1`): fixed Tailwind arbitrary-value syntax by removing spaces in `pt-[max(...)]` and `pb-[max(...)]` so iPhone safe-area offsets are actually applied.
 - Follow-up UI polish: reduced top-bar padding from `pt-[max(4rem,env(safe-area-inset-top))]` to `pt-[env(safe-area-inset-top)]` to remove extra top spacing while keeping standalone body safe-area padding.
+- Latest UX alignment: moved mobile settings trigger to far right (`justify-end pr-4`) and tightened top menu anchor from `top-[max(5rem,...)]` to `top-[max(4rem,...)]`.
 
 ---
 
