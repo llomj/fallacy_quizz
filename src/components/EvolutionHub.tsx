@@ -9,9 +9,10 @@ import { formatTranslation } from '../translations';
 interface EvolutionHubProps {
   stats: UserStats;
   onStartQuiz: () => void;
+  onOpenSettings?: () => void;
 }
 
-export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz }) => {
+export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, onOpenSettings }) => {
   const { t } = useLanguage();
   const randomMode = stats.randomMode ?? false;
   const rm = stats.randomModeStats ?? { totalAnswered: 0, totalCorrect: 0 };
@@ -187,7 +188,7 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz }
       </div>
 
       <div className="glass rounded-3xl p-6 flex flex-col sm:flex-row items-center justify-between gap-6 border-white/5">
-        <div className="flex items-center gap-4">
+        <div className="flex items-center gap-4 flex-1">
           <div className="w-14 h-14 rounded-2xl bg-slate-800 flex flex-col items-center justify-center border border-white/5">
             <span className="text-xl font-black text-white">{globalPercentage}%</span>
             <span className="text-[7px] font-bold text-slate-500 uppercase tracking-widest">{t('hub.mastery')}</span>
@@ -198,7 +199,16 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz }
           </div>
         </div>
 
-        <div className="flex gap-1.5">
+        <div className="flex items-center gap-4">
+          {onOpenSettings && (
+            <button
+              onClick={onOpenSettings}
+              className="flex items-center gap-2 px-4 py-2 rounded-xl bg-white/5 hover:bg-white/10 text-slate-400 hover:text-white border border-white/10 transition-all text-sm font-medium"
+            >
+              <i className="fas fa-gear"></i> {t('settings.settings')}
+            </button>
+          )}
+          <div className="flex gap-1.5">
           {LEVELS.map(l => (
             <div
               key={l.level}
@@ -208,6 +218,7 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz }
               title={l.persona}
             />
           ))}
+          </div>
         </div>
       </div>
     </div>
