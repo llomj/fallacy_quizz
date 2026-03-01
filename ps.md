@@ -140,9 +140,10 @@ Before moving to the next level:
 ### E. Deploy headers (if using Vercel/Netlify)
 - Set `Cache-Control: no-cache, must-revalidate` for `index.html` on the CDN. Ensures HTML is always revalidated. May still need SW to not cache HTML.
 
-### F. Dual settings entry (fallback — if cache impossible to fix)
-- Add a second settings trigger: e.g. a small gear or "Settings" text somewhere in the main content area (e.g. Evolution Hub, below Evolution Stage) that opens the same SettingsMenu. User could tap that even if bottom bar is broken or they have old cached UI.
-- Redundant but guarantees access.
+### F. Dual settings entry ✅ IMPLEMENTED
+- Nav: gear in nav with `pt-[max(3rem, env(safe-area-inset-top))]` so nav sits below status bar.
+- Hub: "Settings" button in global progress card (EvolutionHub) — always visible, tappable.
+- Bottom bar: gear kept as third entry. Three ways to open settings.
 
 ### G. Version display + "Update" prompt
 - Add app version (e.g. "v1.2") in footer or settings.
