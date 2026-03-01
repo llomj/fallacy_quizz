@@ -104,6 +104,52 @@ Before moving to the next level:
 - Gear `w-14` → `w-16` (64px tap target)
 - SettingsMenu anchorBottom: `bottom-24` → `bottom-28`
 
+---
+
+## ⚠️ Settings bar STILL at top — "looks exactly the same" (CACHED BUILD)
+
+**Root cause**: Current source code has the gear button **only in the bottom fixed bar** (`App.tsx` line ~310). There is no gear in the nav. If user sees gear at TOP, they are running a **cached build** from before the bottom-bar change.
+
+**Why cache wins**:
+- Service worker uses **cache-first** (serve cached, then network). Old `index.html` + old JS bundle are cached.
+- User loads site → SW serves cached HTML → HTML loads cached JS → old JS had gear in nav.
+- New deploy never reaches the user until cache is bypassed.
+
+**Possible solutions** (to try in order):
+
+### A. User-side cache clear (no code change)
+1. **Remove from Home Screen** — delete the PWA from iPhone home screen.
+2. **Open in Chrome (or Safari)** — go to the app URL (e.g. `yoursite.github.io/python-exercisesV1/` or your domain). Chrome works the same: on iOS all browsers use WebKit; cache is per-origin.
+3. **Visit clear-sw.html** — go to `.../clear-sw.html` (same path as app, e.g. `yoursite.github.io/python-exercisesV1/clear-sw.html`). This unregisters the SW.
+4. **Bug**: clear-sw.html redirects to `/` which is wrong for GitHub Pages (app lives at `/python-exercisesV1/`). Fix: redirect to `new URL('.', location.href).href` or `location.pathname.replace(/\/clear-sw\.html.*$/, '/')` so we stay in the app's base path.
+5. **Re-add to Home Screen** — after reload, add to Home Screen again.
+
+### B. Network-first for HTML (code change — recommended) ✅ IMPLEMENTED
+- In `sw.js` fetch handler: for document/navigation requests, use **network-first** (fetch first, fallback to cache).
+- Effect: Every app load tries fresh HTML. New HTML has new script hashes → new JS loads → user gets latest.
+- Bump CACHE_NAME v5→v6, sw.js?v=6.
+
+### C. Bump SW version + fix clear-sw redirect (code change)
+- `CACHE_NAME` v5 → v6, `sw.js?v=5` → `sw.js?v=6`.
+- Problem: User must get fresh `main.tsx` (or bundle) to register the new SW. That bundle is cached. So they need to load a non-cached URL first. `clear-sw.html` is not cached (SW skips it) — so visiting it first is the key.
+- Fix `clear-sw.html` redirect: use correct base path for deployment (e.g. redirect to `/${repo}/` not `/`).
+
+### D. Add cache-busting to index.html (code change)
+- `<script src="/src/main.tsx?t=YYYYMMDD">` or similar. Vite will resolve. But in production, Vite emits hashed filenames; the HTML that references them is what gets cached. So we need the HTML to not be cached — see B.
+
+### E. Deploy headers (if using Vercel/Netlify)
+- Set `Cache-Control: no-cache, must-revalidate` for `index.html` on the CDN. Ensures HTML is always revalidated. May still need SW to not cache HTML.
+
+### F. Dual settings entry (fallback — if cache impossible to fix)
+- Add a second settings trigger: e.g. a small gear or "Settings" text somewhere in the main content area (e.g. Evolution Hub, below Evolution Stage) that opens the same SettingsMenu. User could tap that even if bottom bar is broken or they have old cached UI.
+- Redundant but guarantees access.
+
+### G. Version display + "Update" prompt
+- Add app version (e.g. "v1.2") in footer or settings.
+- Optional: detect stale version (e.g. compare with a `/version.json` or build timestamp) and show "New version available — tap to reload" with a link to `clear-sw.html`.
+
+**Recommended order**: Try A first (manual clear). If user can't or it doesn't work, implement B (network-first for document).
+
 ## Solutions Needed
 - Increase code panel size significantly
 - Match code panel background to dark theme

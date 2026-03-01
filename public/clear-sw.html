@@ -19,23 +19,23 @@
     (function() {
       if (!('serviceWorker' in navigator)) {
         document.getElementById('status').textContent = 'No service worker. Redirecting…';
-        window.location.replace('/');
+        window.location.replace(new URL('.', location.href).href);
         return;
       }
       navigator.serviceWorker.getRegistrations().then(function(regs) {
         if (regs.length === 0) {
           document.getElementById('status').textContent = 'No worker. Redirecting…';
-          window.location.replace('/');
+          window.location.replace(new URL('.', location.href).href);
           return;
         }
         Promise.all(regs.map(function(r) { return r.unregister(); }))
           .then(function() {
             document.getElementById('status').textContent = 'Cache cleared. Loading app…';
-            window.location.replace('/');
+            window.location.replace(new URL('.', location.href).href);
           })
           .catch(function() {
             document.getElementById('status').textContent = 'Redirecting…';
-            window.location.replace('/');
+            window.location.replace(new URL('.', location.href).href);
           });
       });
     })();

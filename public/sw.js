@@ -1,4 +1,4 @@
-const CACHE_NAME = 'python-exercises-learn-offline-v5';
+const CACHE_NAME = 'python-exercises-learn-offline-v6';
 const STATIC_ASSETS = [
   './',
   './index.html',
@@ -33,40 +33,38 @@ self.addEventListener('activate', (event) => {
   return self.clients.claim(); // Take control of all pages
 });
 
-// Fetch: Serve from cache, fallback to network
+// Fetch: network-first for HTML (ensures updates reach users), cache-first for assets
 self.addEventListener('fetch', (event) => {
   if (event.request.method !== 'GET') return;
-  // Never cache clear-sw.html so devs can always load it fresh to unregister and get latest app
   if (event.request.url.includes('clear-sw.html')) {
     event.respondWith(fetch(event.request));
     return;
   }
+
+  const isDoc = event.request.mode === 'navigate' || event.request.destination === 'document';
+  if (isDoc) {
+    event.respondWith(
+      fetch(event.request)
+        .then((response) => {
+          if (response && response.status === 200 && response.type !== 'opaque') {
+            const clone = response.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
+          }
+          return response;
+        })
+        .catch(() => caches.match('./index.html').then((r) => r || caches.match('./')))
+    );
+    return;
+  }
+
   event.respondWith(
     caches.match(event.request).then((cachedResponse) => {
-      if (cachedResponse) {
-        return cachedResponse;
-      }
-      
-      // Try network, cache successful responses
+      if (cachedResponse) return cachedResponse;
       return fetch(event.request).then((response) => {
-        // Don't cache non-successful responses or opaque responses
-        if (!response || response.status !== 200 || response.type === 'opaque') {
-          return response;
-        }
-        
-        // Clone the response for caching
-        const responseToCache = response.clone();
-        
-        caches.open(CACHE_NAME).then((cache) => {
-          cache.put(event.request, responseToCache);
-        });
-        
+        if (!response || response.status !== 200 || response.type === 'opaque') return response;
+        const clone = response.clone();
+        caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
         return response;
-      }).catch(() => {
-        // Network failed, return offline fallback if available
-        if (event.request.destination === 'document') {
-          return caches.match('./index.html');
-        }
       });
     })
   );
