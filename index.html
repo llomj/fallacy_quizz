@@ -39,10 +39,15 @@
             font-family: 'Inter', sans-serif;
             background-color: #0f172a;
             color: #f8fafc;
-            overscroll-behavior-y: contain; /* Prevents pull-to-refresh on mobile */
+            overscroll-behavior-y: contain;
             padding-bottom: env(safe-area-inset-bottom, 0);
         }
-        /* Mobile PWA: nav has extra top padding - see App.tsx pt-16 */
+        /* iOS PWA standalone: env(safe-area-inset-top) often 0 - force padding so nav clears status bar */
+        @media (display-mode: standalone) {
+            body {
+                padding-top: max(3rem, env(safe-area-inset-top, 3rem));
+            }
+        }
         .code-font {
             font-family: 'Fira Code', monospace;
         }
