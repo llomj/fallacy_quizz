@@ -530,11 +530,16 @@ const splitQuestion = (text: string, language: string = 'en') => {
       }
     }
 
+    // For "What does X return?" / "Qu'est-ce que X renvoie ?" — don't split; show full question
+    if (/\s+(return|renvoie)\s*\?\s*$/.test(enhancedText)) {
+      return { prefix: enhancedText, code: '' };
+    }
+
     // For single-line questions, find where code starts
     // First, check if there's a question word pattern (English or French)
     // Use simpler pattern matching to avoid regex issues with special characters
     const questionWords = [
-      'What is', "Qu'est-ce que c'est",
+      'What is', "Qu'est-ce que c'est", "Qu'est-ce que",
       'Result', 'Résultat',
       'Output', 'Sortie',
       'Value', 'Valeur',
@@ -703,7 +708,6 @@ export const QuizView: React.FC<QuizViewProps> = ({
   const [loading, setLoading] = useState(true);
   const [score, setScore] = useState(0);
   const [showDetailedExplanation, setShowDetailedExplanation] = useState(false);
-  const [scoreJustIncreased, setScoreJustIncreased] = useState(false);
   const [justSavedId, setJustSavedId] = useState<number | null>(null);
 
   // We use a ref to capture completedIds at the START of the quiz session.
@@ -761,12 +765,6 @@ export const QuizView: React.FC<QuizViewProps> = ({
     // If completedIds (passed from props) changes, we do NOT re-run this.
   }, [level, randomizeTrigger, randomMode]);
 
-  useEffect(() => {
-    if (!scoreJustIncreased) return;
-    const t = setTimeout(() => setScoreJustIncreased(false), 500);
-    return () => clearTimeout(t);
-  }, [scoreJustIncreased]);
-
   const handleOptionClick = (index: number) => {
     if (isAnswered) return;
 
@@ -779,7 +777,6 @@ export const QuizView: React.FC<QuizViewProps> = ({
     if (isCorrect) {
       sessionCorrectRef.current += 1;
       setScore(s => s + 1);
-      if (randomMode) setScoreJustIncreased(true);
     }
 
     onAttempt({
@@ -894,13 +891,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
             </div>
             <div className="flex gap-4 items-center">
               {liveEvolutionScore !== null && (
-                <span
-                  className={`px-2.5 py-1 rounded-lg font-black text-xs border transition-all duration-300 ${
-                    scoreJustIncreased
-                      ? 'bg-emerald-500/30 text-emerald-400 border-emerald-500/50 scale-110'
-                      : 'bg-indigo-500/20 text-indigo-400 border-indigo-500/30'
-                  }`}
-                >
+                <span className="text-indigo-400">
                   {t('quiz.evolutionPoints')}: {liveEvolutionScore}
                 </span>
               )}

@@ -97,8 +97,13 @@ const splitQuestion = (text: string, language: string = 'en') => {
       }
     }
 
+    // For "What does X return?" / "Qu'est-ce que X renvoie ?" — don't split; show full question
+    if (/\s+(return|renvoie)\s*\?\s*$/.test(enhancedText)) {
+      return { prefix: enhancedText, code: '' };
+    }
+
     const questionWords = [
-      'What is', "Qu'est-ce que c'est",
+      'What is', "Qu'est-ce que c'est", "Qu'est-ce que",
       'Result', 'Résultat',
       'Output', 'Sortie',
       'Value', 'Valeur',
