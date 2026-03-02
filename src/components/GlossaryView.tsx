@@ -31,7 +31,15 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack }) => {
     item.definition.toLowerCase().includes(search.toLowerCase())
   );
 
-  const categories = ["1-2", "3-4", "5-6", "7-8", "9-10"];
+  const levels = Array.from({ length: 10 }, (_, index) => index + 1);
+
+  const getLevelsFromRange = (range: string): number[] => {
+    const parts = range.split('-').map((part) => Number(part.trim()));
+    if (parts.length === 1 && !Number.isNaN(parts[0])) return [parts[0]];
+    if (parts.length !== 2 || Number.isNaN(parts[0]) || Number.isNaN(parts[1])) return [];
+    const [start, end] = parts[0] <= parts[1] ? parts : [parts[1], parts[0]];
+    return Array.from({ length: end - start + 1 }, (_, index) => start + index);
+  };
 
   return (
     <div className="relative min-h-[600px] animate-in slide-in-from-left duration-500 pb-12">
@@ -97,7 +105,7 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack }) => {
 
       <div className="flex items-center justify-between mb-8">
         <h2 className="text-2xl font-black text-white flex items-center gap-3">
-          <i className="fas fa-circle-info text-indigo-400"></i> PYTHON GLOSSARY
+          <i className="fas fa-circle-info text-indigo-400"></i> {t('glossary.title')}
         </h2>
         <button 
           onClick={onBack}
@@ -122,12 +130,15 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack }) => {
 
       {search === '' ? (
         <div className="space-y-12">
-          {categories.map(cat => {
-            const items = GLOSSARY.filter(i => i.levelRange === cat);
+          {levels.map(level => {
+            const items = GLOSSARY.filter((item) => getLevelsFromRange(item.levelRange).includes(level));
+            if (items.length === 0) return null;
             return (
-              <div key={cat} className="space-y-4">
+              <div key={level} className="space-y-4">
                 <div className="flex items-center gap-4">
-                  <h3 className="text-xs font-black text-indigo-400 uppercase tracking-[0.2em]">Levels {cat}</h3>
+                  <h3 className="text-xs font-black text-indigo-400 uppercase tracking-[0.2em]">
+                    {formatTranslation(t('glossary.levelSection'), { level })}
+                  </h3>
                   <div className="h-[1px] flex-1 bg-white/5"></div>
                 </div>
                 <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
@@ -159,7 +170,9 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack }) => {
             >
               <div className="flex justify-between items-start">
                 <h4 className="font-bold text-slate-100 group-hover:text-white">{item.term}</h4>
-                <span className="text-[8px] font-black text-slate-500 uppercase px-2 py-0.5 bg-white/5 rounded">Lvl {item.levelRange}</span>
+                <span className="text-[8px] font-black text-slate-500 uppercase px-2 py-0.5 bg-white/5 rounded">
+                  {formatTranslation(t('glossary.levelBadge'), { range: item.levelRange })}
+                </span>
               </div>
               <p className="text-[11px] text-slate-400 leading-relaxed line-clamp-2">{item.definition}</p>
             </div>

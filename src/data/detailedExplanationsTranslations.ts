@@ -1,3 +1,6 @@
+import { SHORT_EXPLANATIONS_FR } from './shortExplanationsTranslations';
+import { containsEnglishProse, normalizeFrenchProse } from '../utils/frenchText';
+
 /**
  * French translations for detailed explanations (explication du codon / description approfondie).
  * When user selects French, these replace the English detailed explanations.
@@ -36161,7 +36164,7 @@ a              # []
 id(a) == old_id  # True — same object!
 Comparer avec * (pas en place) :
 a = [1, 2, 3]
-b = a * 0      # b = [], a unchanged
+b = a * 0      # b = [], a inchangés
 a              # [1, 2, 3] — still intact
 Exemple : a *= 0 vide la liste en place. a est maintenant [].`,
   1489: `L'opérateur * crée une nouvelle liste. L'original n'est pas modifié.
@@ -36181,7 +36184,7 @@ Comment ça fonctionne :
 Exemple :
 a = [1, 2, 3]
 b = a * 0
-a    # [1, 2, 3] — unchanged
+a    # [1, 2, 3] — inchangés
 b    # [] — new empty list
 Distinction clé :
 • une * 0 → nouvelle liste, une liste inchangée (utilise __mul__)
@@ -36709,11 +36712,11 @@ len() on dictionary:
 • Fonctionne avec n'importe quel dictionnaire
 
 Comment ça fonctionne :
-• len() called with {'a': 1, 'b': 2}
+• len() appelé avec {'a': 1, 'b': 2}
 • Counts key-value pairs in dictionary
 • Finds two pairs: 'a': 1, 'b': 2
-• Returns count: 2
-• Returns integer: 2
+• Retourne count: 2
+• Retourne integer: 2
 
 Exemple :
 len({'a': 1, 'b': 2})  # 2 (two pairs)
@@ -37023,36 +37026,36 @@ Usages courants :
 • Gestion par défaut : removed = items.pop(key, fallback)
 • Suppression sans erreur
 • Pop sûr avec repli`,
-  1521: `Le keys() méthode retourne a view objet that displays all keys in the dictionnaire. {'a': 1, 'b': 2}.keys() retourne a dict_keys(['a', 'b']) objet car keys() creates a view of the dictionnaire's keys. A view objet is a dynamic view of the dictionnaire - it reflects changes made to the dictionnaire. The view is not a liste, but it can be converted to a liste using liste(). Views are memory-efficient and update automatically when the dictionnaire changes.
+  1521: `Le keys() méthode retourne a view objet that displays all keys in the dictionnaire. {'a': 1, 'b': 2}.keys() retourne a dict_keys(['a', 'b']) objet car keys() crée un view of the dictionnaire's keys. A view objet is a dynamic view of the dictionnaire - it reflects changes made to the dictionnaire. The view is not a liste, but it peut être converti to a liste using liste(). Views are memory-efficient and update automatically when the dictionnaire changes.
 
 keys() méthode:
 • {'a': 1, 'b': 2}.keys() = dict_keys(['a', 'b'])
 • keys() retourne dict_keys view objet
-• View reflects dictionnaire keys
-• Not a liste (but can be converted)
-• Updates automatically when dict changes
+• La vue reflète dictionnaire keys
+• Not a liste (but peut être converti)
+• Se met à jour automatiquement when dict changes
 
 Comment ça fonctionne :
 • keys() appelé on {'a': 1, 'b': 2}
 • Creates view objet of keys
 • View contains: 'a', 'b'
-• Returns dict_keys view: dict_keys(['a', 'b'])
+• Retourne dict_keys view: dict_keys(['a', 'b'])
 • View updates if dictionnaire changes
 
 Exemple :
 {'a': 1, 'b': 2}.keys()  # dict_keys(['a', 'b'])
 liste({'a': 1, 'b': 2}.keys()) # ['a', 'b'] (converted to liste)
-for key in {'a': 1, 'b': 2}.keys():  # Iterates: 'a', 'b'
+for key in {'a': 1, 'b': 2}.keys():  # Itère : 'a', 'b'
     print(key)
 
 Usages courants :
-• Getting keys: keys = dict.keys()
-• Iterating keys: for key in dict.keys():
-• Key iteration
-• Dictionary key access
+• Obtenir les clés : keys = dict.keys()
+• Itérer les clés : for key in dict.keys():
+• Itération des clés
+• Accès aux clés du dictionnaire
 
-Exemple : {'a': 1, 'b': 2}.keys() retourne a dict_keys(['a', 'b']) view objet car keys() creates a dynamic view of all keys in the dictionnaire, which can be iterated or converted to a liste.`,
-  1522: `Le liste() fonction can convert a dict_keys view to a liste. liste({'a': 1, 'b': 2}.keys()) retourne ['a', 'b'] car liste() consumes the view objet created by keys() and collects all keys into a new liste. The keys() méthode retourne a view objet, and liste() iterates through that view, collecting all keys into a liste. This is how you get an actual liste of keys from keys().
+Exemple : {'a': 1, 'b': 2}.keys() retourne a dict_keys(['a', 'b']) view objet car keys() crée un dynamic view of all keys in the dictionnaire, which peut être itéré or converted to a liste.`,
+  1522: `Le liste() fonction can convert a dict_keys view to a liste. liste({'a': 1, 'b': 2}.keys()) retourne ['a', 'b'] car liste() consumes the view objet created by keys() and collects all keys into a new liste. The keys() méthode retourne a view objet, and liste() itère sur that view, collecting all keys into a liste. C'est how you get an actual liste of keys from keys().
 
 liste(keys()):
 • liste({'a': 1, 'b': 2}.keys()) = ['a', 'b']
@@ -37063,10 +37066,10 @@ liste(keys()):
 
 Comment ça fonctionne :
 • keys() appelé on {'a': 1, 'b': 2}
-• Returns dict_keys view: ['a', 'b']
-• liste() iterates through view
+• Retourne dict_keys view: ['a', 'b']
+• liste() itère sur view
 • Collects keys: 'a', 'b'
-• Returns new liste: ['a', 'b']
+• Retourne new liste: ['a', 'b']
 
 Exemple :
 liste({'a': 1, 'b': 2}.keys())  # ['a', 'b'] (liste of keys)
@@ -37080,26 +37083,26 @@ Usages courants :
 • Key liste creation
 
 Exemple : liste({'a': 1, 'b': 2}.keys()) retourne ['a', 'b'] car liste() consumes the dict_keys view created by keys() and collects all keys into a new liste.`,
-  1523: `Le valeurs() méthode retourne a view objet that displays all valeurs in the dictionnaire. {'a': 1, 'b': 2}.valeurs() retourne a dict_values([1, 2]) objet car valeurs() creates a view of the dictionnaire's valeurs. A view objet is a dynamic view of the dictionnaire - it reflects changes made to the dictionnaire. The view is not a liste, but it can be converted to a liste using liste(). Views are memory-efficient and update automatically when the dictionnaire changes.
+  1523: `Le valeurs() méthode retourne a view objet that displays all valeurs in the dictionnaire. {'a': 1, 'b': 2}.valeurs() retourne a dict_values([1, 2]) objet car valeurs() crée un view of the dictionnaire's valeurs. A view objet is a dynamic view of the dictionnaire - it reflects changes made to the dictionnaire. The view is not a liste, but it peut être converti to a liste using liste(). Views are memory-efficient and update automatically when the dictionnaire changes.
 
 valeurs() méthode:
 • {'a': 1, 'b': 2}.valeurs() = dict_values([1, 2])
 • valeurs() retourne dict_values view objet
-• View reflects dictionnaire valeurs
-• Not a liste (but can be converted)
-• Updates automatically when dict changes
+• La vue reflète dictionnaire valeurs
+• Not a liste (but peut être converti)
+• Se met à jour automatiquement when dict changes
 
 Comment ça fonctionne :
 • valeurs() appelé on {'a': 1, 'b': 2}
 • Creates view objet of valeurs
 • View contains: 1, 2
-• Returns dict_values view: dict_values([1, 2])
+• Retourne dict_values view: dict_values([1, 2])
 • View updates if dictionnaire changes
 
 Exemple :
 {'a': 1, 'b': 2}.valeurs()  # dict_values([1, 2])
 liste({'a': 1, 'b': 2}.valeurs()) # [1, 2] (converted to liste)
-for valeur in {'a': 1, 'b': 2}.valeurs():  # Iterates: 1, 2
+for valeur in {'a': 1, 'b': 2}.valeurs():  # Itère : 1, 2
     print(valeur)
 
 Usages courants :
@@ -37108,8 +37111,8 @@ Usages courants :
 • Value iteration
 • Dictionary valeur access
 
-Exemple : {'a': 1, 'b': 2}.valeurs() retourne a dict_values([1, 2]) view objet car valeurs() creates a dynamic view of all valeurs in the dictionnaire, which can be iterated or converted to a liste.`,
-  1524: `Le liste() fonction can convert a dict_values view to a liste. liste({'a': 1, 'b': 2}.valeurs()) retourne [1, 2] car liste() consumes the view objet created by valeurs() and collects all valeurs into a new liste. The valeurs() méthode retourne a view objet, and liste() iterates through that view, collecting all valeurs into a liste. This is how you get an actual liste of valeurs from valeurs().
+Exemple : {'a': 1, 'b': 2}.valeurs() retourne a dict_values([1, 2]) view objet car valeurs() crée un dynamic view of all valeurs in the dictionnaire, which peut être itéré or converted to a liste.`,
+  1524: `Le liste() fonction can convert a dict_values view to a liste. liste({'a': 1, 'b': 2}.valeurs()) retourne [1, 2] car liste() consumes the view objet created by valeurs() and collects all valeurs into a new liste. The valeurs() méthode retourne a view objet, and liste() itère sur that view, collecting all valeurs into a liste. C'est how you get an actual liste of valeurs from valeurs().
 
 liste(valeurs()):
 • liste({'a': 1, 'b': 2}.valeurs()) = [1, 2]
@@ -37120,10 +37123,10 @@ liste(valeurs()):
 
 Comment ça fonctionne :
 • valeurs() appelé on {'a': 1, 'b': 2}
-• Returns dict_values view: [1, 2]
-• liste() iterates through view
+• Retourne dict_values view: [1, 2]
+• liste() itère sur view
 • Collects valeurs: 1, 2
-• Returns new liste: [1, 2]
+• Retourne new liste: [1, 2]
 
 Exemple :
 liste({'a': 1, 'b': 2}.valeurs())  # [1, 2] (liste of valeurs)
@@ -37137,26 +37140,26 @@ Usages courants :
 • Value liste creation
 
 Exemple : liste({'a': 1, 'b': 2}.valeurs()) retourne [1, 2] car liste() consumes the dict_values view created by valeurs() and collects all valeurs into a new liste.`,
-  1525: `Le items() méthode retourne a view objet that displays all key-valeur pairs in the dictionnaire as tuples. {'a': 1, 'b': 2}.items() retourne a dict_items([('a', 1), ('b', 2)]) objet car items() creates a view of the dictionnaire's key-valeur pairs, where each pair is represented as a tuple (key, valeur). A view objet is a dynamic view of the dictionnaire - it reflects changes made to the dictionnaire. The view is not a liste, but it can be converted to a liste using liste().
+  1525: `Le items() méthode retourne a view objet that displays all key-valeur pairs in the dictionnaire as tuples. {'a': 1, 'b': 2}.items() retourne a dict_items([('a', 1), ('b', 2)]) objet car items() crée un view of the dictionnaire's key-valeur pairs, where each pair is represented as a tuple (key, valeur). A view objet is a dynamic view of the dictionnaire - it reflects changes made to the dictionnaire. The view is not a liste, but it peut être converti to a liste using liste().
 
 items() méthode:
 • {'a': 1, 'b': 2}.items() = dict_items([('a', 1), ('b', 2)])
 • items() retourne dict_items view objet
 • View contains (key, valeur) tuples
-• Not a liste (but can be converted)
-• Updates automatically when dict changes
+• Not a liste (but peut être converti)
+• Se met à jour automatiquement when dict changes
 
 Comment ça fonctionne :
 • items() appelé on {'a': 1, 'b': 2}
 • Creates view objet of key-valeur pairs
 • View contains: ('a', 1), ('b', 2)
-• Returns dict_items view: dict_items([('a', 1), ('b', 2)])
+• Retourne dict_items view: dict_items([('a', 1), ('b', 2)])
 • View updates if dictionnaire changes
 
 Exemple :
 {'a': 1, 'b': 2}.items()  # dict_items([('a', 1), ('b', 2)])
 liste({'a': 1, 'b': 2}.items()) # [('a', 1), ('b', 2)] (converted to liste)
-for key, valeur in {'a': 1, 'b': 2}.items():  # Iterates: ('a', 1), ('b', 2)
+for key, valeur in {'a': 1, 'b': 2}.items():  # Itère : ('a', 1), ('b', 2)
     print(key, valeur)
 
 Usages courants :
@@ -37165,8 +37168,8 @@ Usages courants :
 • Pair iteration
 • Dictionary pair access
 
-Exemple : {'a': 1, 'b': 2}.items() retourne a dict_items([('a', 1), ('b', 2)]) view objet car items() creates a dynamic view of all key-valeur pairs in the dictionnaire as tuples, which can be iterated or converted to a liste.`,
-  1526: `Le liste() fonction can convert a dict_items view to a liste of tuples. liste({'a': 1, 'b': 2}.items()) retourne [('a', 1), ('b', 2)] car liste() consumes the view objet created by items() and collects all key-valeur pairs as tuples into a new liste. The items() méthode retourne a view objet, and liste() iterates through that view, collecting all pairs as (key, valeur) tuples into a liste. This is how you get an actual liste of key-valeur pairs from items().
+Exemple : {'a': 1, 'b': 2}.items() retourne a dict_items([('a', 1), ('b', 2)]) view objet car items() crée un dynamic view of all key-valeur pairs in the dictionnaire as tuples, which peut être itéré or converted to a liste.`,
+  1526: `Le liste() fonction can convert a dict_items view to a liste of tuples. liste({'a': 1, 'b': 2}.items()) retourne [('a', 1), ('b', 2)] car liste() consumes the view objet created by items() and collects all key-valeur pairs as tuples into a new liste. The items() méthode retourne a view objet, and liste() itère sur that view, collecting all pairs as (key, valeur) tuples into a liste. C'est how you get an actual liste of key-valeur pairs from items().
 
 liste(items()):
 • liste({'a': 1, 'b': 2}.items()) = [('a', 1), ('b', 2)]
@@ -37177,10 +37180,10 @@ liste(items()):
 
 Comment ça fonctionne :
 • items() appelé on {'a': 1, 'b': 2}
-• Returns dict_items view: [('a', 1), ('b', 2)]
-• liste() iterates through view
+• Retourne dict_items view: [('a', 1), ('b', 2)]
+• liste() itère sur view
 • Collects pairs as tuples: ('a', 1), ('b', 2)
-• Returns new liste: [('a', 1), ('b', 2)]
+• Retourne new liste: [('a', 1), ('b', 2)]
 
 Exemple :
 liste({'a': 1, 'b': 2}.items())  # [('a', 1), ('b', 2)] (liste of tuples)
@@ -37251,14 +37254,14 @@ Usages courants :
 • Dictionary membership check
 
 Exemple : 1 in {'a': 1, 'b': 2} retourne False car the in operator checks if 1 exists as a key in the dictionary, but the keys are 'a' and 'b', not 1. The in operator only checks keys, not values.`,
-  1529: `Le in operator avec .valeurs() checks for valeur membership in the dictionnaire. 1 in {'a': 1, 'b': 2}.valeurs() retourne True car .valeurs() retourne a view of all valeurs, and in checks if 1 exists in those valeurs. This is how you check if a valeur (not a key) exists in a dictionnaire - you need to use .valeurs() car in avec a dictionnaire directly only checks keys.
+  1529: `Le in operator avec .valeurs() checks for valeur membership in the dictionnaire. 1 in {'a': 1, 'b': 2}.valeurs() retourne True car .valeurs() retourne a view of all valeurs, and in checks if 1 exists in those valeurs. C'est how you check if a valeur (not a key) exists in a dictionnaire - you need to use .valeurs() car in avec a dictionnaire directly only checks keys.
 
 in avec .valeurs():
 • 1 in {'a': 1, 'b': 2}.valeurs() = True
 • .valeurs() retourne view of all valeurs
 • in checks if valeur exists in valeurs view
 • Searches through valeurs (not keys)
-• Returns True if valeur found
+• Retourne True if valeur found
 
 Comment ça fonctionne :
 • 1 is the valeur to check
@@ -37279,14 +37282,14 @@ Usages courants :
 • Dictionary valeur verification
 
 Exemple : 1 in {'a': 1, 'b': 2}.valeurs() retourne True car .valeurs() retourne a view of all valeurs (1, 2), and the in operator checks if 1 exists in those valeurs, which it does.`,
-  1530: `Le in operator avec .items() checks for key-valeur pair membership in the dictionnaire. ('a', 1) in {'a': 1, 'b': 2}.items() retourne True car .items() retourne a view of all key-valeur pairs as tuples, and in checks if the tuple ('a', 1) exists in those pairs. This is how you check if a specific key-valeur pair exists in a dictionnaire - you need to use .items() and provide the pair as a tuple.
+  1530: `Le in operator avec .items() checks for key-valeur pair membership in the dictionnaire. ('a', 1) in {'a': 1, 'b': 2}.items() retourne True car .items() retourne a view of all key-valeur pairs as tuples, and in checks if the tuple ('a', 1) exists in those pairs. C'est how you check if a specific key-valeur pair exists in a dictionnaire - you need to use .items() and provide the pair as a tuple.
 
 in avec .items():
 • ('a', 1) in {'a': 1, 'b': 2}.items() = True
 • .items() retourne view of all (key, valeur) tuples
 • in checks if tuple exists in items view
 • Searches through pairs (not individual keys or valeurs)
-• Returns True if pair found
+• Retourne True if pair found
 
 Comment ça fonctionne :
 • ('a', 1) is the tuple to check
@@ -37297,8 +37300,8 @@ Comment ça fonctionne :
 
 Exemple :
 ('a', 1) in {'a': 1, 'b': 2}.items()  # True (pair exists)
-('a', 2) in {'a': 1, 'b': 2}.items()  # False (pair doesn't exist)
-('c', 1) in {'a': 1, 'b': 2}.items()  # False (pair doesn't exist)
+('a', 2) in {'a': 1, 'b': 2}.items()  # False (pair n'existe pas)
+('c', 1) in {'a': 1, 'b': 2}.items()  # False (pair n'existe pas)
 
 Usages courants :
 • Checking pair existence: if (key, valeur) in dict.items():
@@ -37367,13 +37370,13 @@ Usages courants :
 • Value updates
 
 Exemple : If d = {'a': 1} and then d['a'] = 2, le dictionnaire d becomes {'a': 2} car assignment with an existing key updates that key's value, replacing 1 with 2.`,
-  1533: `Le update() méthode merges another dictionnaire into the current dictionnaire and retourne None. {'a': 1}.update({'b': 2}) retourne None car update() modifies the dictionnaire in place. After calling update({'b': 2}), the dictionnaire {'a': 1} becomes {'a': 1, 'b': 2} - the new key-valeur pairs from the argument dictionnaire are added to the original dictionnaire. update() doesn't renvoyer the modified dictionnaire - it retourne None.
+  1533: `Le update() méthode merges another dictionnaire into the current dictionnaire and retourne None. {'a': 1}.update({'b': 2}) retourne None car update() modifies the dictionnaire in place. After calling update({'b': 2}), the dictionnaire {'a': 1} becomes {'a': 1, 'b': 2} - the new key-valeur pairs from the argument dictionnaire are added to l'originale dictionnaire. update() ne renvoie pas the modified dictionnaire - il retourne None.
 
 update() méthode:
 • {'a': 1}.update({'b': 2}) = None (retourne None)
 • update() merges another dict into current dict
 • Modifies dictionnaire in place
-• Returns None (doesn't renvoyer new dict)
+• Retourne None (ne renvoie pas new dict)
 • Dictionary changed: {'a': 1} → {'a': 1, 'b': 2}
 
 Comment ça fonctionne :
@@ -37381,7 +37384,7 @@ Comment ça fonctionne :
 • Merges {'b': 2} into {'a': 1}
 • Adds new key 'b' avec valeur 2
 • Modifies original dictionnaire: {'a': 1, 'b': 2}
-• Returns None (no renvoyer valeur)
+• Retourne None (no renvoyer valeur)
 
 Exemple :
 d = {'a': 1}
@@ -37396,7 +37399,7 @@ Usages courants :
 • In-place modification
 
 Exemple : {'a': 1}.update({'b': 2}) retourne None car update() modifies the dictionnaire in place (changing {'a': 1} to {'a': 1, 'b': 2}), and the méthode itself retourne None rather than returning the modified dictionnaire.`,
-  1534: `Le update() méthode merges key-valeur pairs from another dictionnaire into the current dictionnaire. If d = {'a': 1} and then d.update({'b': 2}), the dictionnaire d becomes {'a': 1, 'b': 2} car update() adds the key-valeur pairs from the argument dictionnaire to the original dictionnaire. New keys are added, and if keys already exist, their valeurs are updated. update() modifies the dictionnaire in place.
+  1534: `Le update() méthode merges key-valeur pairs from another dictionnaire into the current dictionnaire. If d = {'a': 1} and then d.update({'b': 2}), the dictionnaire d becomes {'a': 1, 'b': 2} car update() adds the key-valeur pairs from the argument dictionnaire to l'originale dictionnaire. New keys are added, and if keys already exist, their valeurs are updated. update() modifies the dictionnaire in place.
 
 update() - adding pairs:
 • d = {'a': 1}; d.update({'b': 2}); d = {'a': 1, 'b': 2}
@@ -37410,7 +37413,7 @@ Comment ça fonctionne :
 • d.update({'b': 2}) merges {'b': 2} into d
 • Adds new key 'b' avec valeur 2
 • Modifies original dictionnaire: {'a': 1, 'b': 2}
-• Returns None (no renvoyer valeur)
+• Retourne None (no renvoyer valeur)
 
 Exemple :
 d = {'a': 1}
@@ -37425,7 +37428,7 @@ Usages courants :
 • Dictionary combination
 • In-place merging
 
-Exemple : If d = {'a': 1} and then d.update({'b': 2}), the dictionnaire d becomes {'a': 1, 'b': 2} car update() merges the key-valeur pairs from {'b': 2} into the original dictionnaire.`,
+Exemple : If d = {'a': 1} and then d.update({'b': 2}), the dictionnaire d becomes {'a': 1, 'b': 2} car update() merges the key-valeur pairs from {'b': 2} into l'originale dictionnaire.`,
   1535: `Le update() méthode overwrites existing keys avec new valeurs from the argument dictionnaire. If d = {'a': 1} and then d.update({'a': 2}), the dictionnaire d becomes {'a': 2} car update() finds that the key 'a' already exists, and it overwrites the existing valeur (1) avec the new valeur (2) from the argument dictionnaire. update() both adds new keys and updates existing keys.
 
 update() - overwriting:
@@ -37461,14 +37464,14 @@ Exemple : If d = {'a': 1} and then d.update({'a': 2}), the dictionnaire d become
 popitem() méthode:
 • {'a': 1, 'b': 2}.popitem() = ('b', 2) or ('a', 1) (retourne tuple)
 • popitem() removes and retourne one pair
-• Returns (key, valeur) tuple
+• Retourne (key, valeur) tuple
 • Modifies dictionnaire in place
 • In Python 3.7+: removes last inserted pair (LIFO)
 
 Comment ça fonctionne :
 • popitem() appelé on {'a': 1, 'b': 2}
 • Removes one key-valeur pair
-• Returns pair as tuple: (key, valeur)
+• Retourne pair as tuple: (key, valeur)
 • In Python 3.7+: removes last inserted ('b', 2)
 • Dictionary modified: {'a': 1} or {'b': 2}
 
@@ -37486,21 +37489,21 @@ Usages courants :
 • LIFO removal
 
 Exemple : {'a': 1, 'b': 2}.popitem() retourne ('b', 2) or ('a', 1) car popitem() removes one key-valeur pair from the dictionnaire and retourne it as a (key, valeur) tuple. In Python 3.7+, it removes the last inserted pair (LIFO).`,
-  1537: `Le popitem() méthode on a single-item dictionnaire retourne that one key-valeur pair. {'a': 1}.popitem() retourne ('a', 1) car popitem() removes the only key-valeur pair in the dictionnaire and retourne it as a (key, valeur) tuple. After calling popitem(), the dictionnaire becomes empty {}. This is useful for removing the last remaining pair from a dictionnaire.
+  1537: `Le popitem() méthode on a single-item dictionnaire retourne that one key-valeur pair. {'a': 1}.popitem() retourne ('a', 1) car popitem() removes the only key-valeur pair in the dictionnaire and retourne it as a (key, valeur) tuple. After calling popitem(), the dictionnaire becomes empty {}. C'est useful for removing the last remaining pair from a dictionnaire.
 
 popitem() on single-item dict:
 • {'a': 1}.popitem() = ('a', 1) (retourne tuple)
 • popitem() removes only pair
-• Returns (key, valeur) tuple
+• Retourne (key, valeur) tuple
 • Modifies dictionnaire in place
 • Dictionary changed: {'a': 1} → {}
 
 Comment ça fonctionne :
 • popitem() appelé on {'a': 1}
 • Removes the only key-valeur pair: 'a': 1
-• Returns pair as tuple: ('a', 1)
+• Retourne pair as tuple: ('a', 1)
 • Dictionary becomes empty: {}
-• Returns tuple: ('a', 1)
+• Retourne tuple: ('a', 1)
 
 Exemple :
 d = {'a': 1}
@@ -37545,13 +37548,13 @@ Usages courants :
 • Safe popping with validation
 
 Exemple : Appeler popitem() sur un dictionnaire vide lève a KeyError car il n'y a pas de paires clé-valeur to remove from the dictionary, and Python lève this error to indicate that the operation ne peut pas be performed on an empty dictionary.`,
-  1539: `Le clear() méthode removes all key-valeur pairs from a dictionnaire and retourne None. {'a': 1, 'b': 2}.clear() retourne None car clear() modifies the dictionnaire in place, removing all pairs and leaving an empty dictionnaire. After calling clear(), the dictionnaire {'a': 1, 'b': 2} becomes {} - all pairs are removed, but the dictionnaire objet itself still exists. This is different from reassigning to an empty dictionnaire - clear() modifies the existing objet.
+  1539: `Le clear() méthode removes all key-valeur pairs from a dictionnaire and retourne None. {'a': 1, 'b': 2}.clear() retourne None car clear() modifies the dictionnaire in place, removing all pairs and leaving an empty dictionnaire. After calling clear(), the dictionnaire {'a': 1, 'b': 2} becomes {} - all pairs are removed, but the dictionnaire objet itself still exists. C'est different from reassigning to an empty dictionnaire - clear() modifies the existing objet.
 
 clear() méthode:
 • {'a': 1, 'b': 2}.clear() = None (retourne None)
 • clear() removes all key-valeur pairs
 • Modifies dictionnaire in place
-• Returns None (doesn't renvoyer new dict)
+• Retourne None (ne renvoie pas new dict)
 • Dictionary changed: {'a': 1, 'b': 2} → {}
 
 Comment ça fonctionne :
@@ -37559,7 +37562,7 @@ Comment ça fonctionne :
 • Removes all key-valeur pairs
 • Dictionary becomes empty: {}
 • Original dictionnaire objet still exists
-• Returns None (no renvoyer valeur)
+• Retourne None (no renvoyer valeur)
 
 Exemple :
 d = {'a': 1, 'b': 2}
@@ -37574,7 +37577,7 @@ Usages courants :
 • In-place modification
 
 Exemple : {'a': 1, 'b': 2}.clear() retourne None car clear() removes all key-valeur pairs from the dictionnaire (changing {'a': 1, 'b': 2} to {}), and the méthode itself retourne None rather than returning the empty dictionnaire.`,
-  1540: `Le clear() méthode empties a dictionnaire by removing all key-valeur pairs. If d = {'a': 1} and then d.clear(), the dictionnaire d becomes {} car clear() removes all pairs from the dictionnaire. The dictionnaire objet itself still exists, but it contains no pairs. This is different from reassigning d = {} - clear() modifies the existing objet, while reassignment creates a new objet (which matters if other variables reference the same dictionnaire).
+  1540: `Le clear() méthode empties a dictionnaire by removing all key-valeur pairs. If d = {'a': 1} and then d.clear(), the dictionnaire d becomes {} car clear() removes all pairs from the dictionnaire. The dictionnaire objet itself still exists, but it contains no pairs. C'est different from reassigning d = {} - clear() modifies the existing objet, while reassignment crée un new objet (which matters if other variables reference le même dictionnaire).
 
 clear() empties dictionnaire:
 • d = {'a': 1}; d.clear(); d = {}
@@ -37587,8 +37590,8 @@ Comment ça fonctionne :
 • d = {'a': 1} creates dictionnaire
 • d.clear() removes all pairs
 • Dictionary becomes empty: {}
-• Original dictionnaire objet unchanged (just emptied)
-• Returns None (no renvoyer valeur)
+• Original dictionnaire objet inchangés (just emptied)
+• Retourne None (no renvoyer valeur)
 
 Exemple :
 d = {'a': 1}
@@ -38691,7 +38694,7 @@ Usages courants :
 • Tri des clés : keys = sorted(items)
 • Tri de liste de clés
 • Ordre des clés de dictionnaire`,
-  1581: `Le fromkeys() méthode is a classe méthode that creates a dictionnaire from an iterable of keys. {'a': 1}.fromkeys(['a', 'b']) retourne {'a': None, 'b': None} car fromkeys() is a classe méthode that ignores the instance dictionnaire and creates a new dictionnaire avec the given keys. When no valeur is provided, all valeurs default to None. This is useful for initializing dictionnaires avec a set of keys and default valeurs.
+  1581: `Le fromkeys() méthode is a classe méthode qui crée a dictionnaire from an iterable of keys. {'a': 1}.fromkeys(['a', 'b']) retourne {'a': None, 'b': None} car fromkeys() is a classe méthode that ignores the instance dictionnaire and crée un new dictionnaire avec the given keys. When no valeur is provided, all valeurs default to None. C'est useful for initializing dictionnaires avec a set of keys and default valeurs.
 
 fromkeys() méthode:
 • {'a': 1}.fromkeys(['a', 'b']) = {'a': None, 'b': None}
@@ -38705,7 +38708,7 @@ Comment ça fonctionne :
 • Ignores instance dictionnaire {'a': 1}
 • Creates new dictionnaire avec keys: 'a', 'b'
 • Values default to None (not provided)
-• Returns: {'a': None, 'b': None}
+• Retourne : {'a': None, 'b': None}
 
 Exemple :
 {'a': 1}.fromkeys(['a', 'b'])         # {'a': None, 'b': None}
@@ -38718,8 +38721,8 @@ Usages courants :
 • Key initialization
 • Dictionary creation
 
-Exemple : {'a': 1}.fromkeys(['a', 'b']) retourne {'a': None, 'b': None} car fromkeys() is a classe méthode that creates a new dictionnaire avec the given keys, and when no valeur is provided, all valeurs default to None.`,
-  1582: `Le fromkeys() méthode can take a second argument as a default valeur for all keys. dict.fromkeys(['a', 'b'], 0) retourne {'a': 0, 'b': 0} car fromkeys() creates a new dictionnaire avec the given keys, and when a valeur is provided, all keys are set to that valeur. This is useful for initializing dictionnaires avec a set of keys and the same default valeur for all keys.
+Exemple : {'a': 1}.fromkeys(['a', 'b']) retourne {'a': None, 'b': None} car fromkeys() is a classe méthode qui crée a new dictionnaire avec the given keys, and when no valeur is provided, all valeurs default to None.`,
+  1582: `Le fromkeys() méthode can take a second argument as a default valeur for all keys. dict.fromkeys(['a', 'b'], 0) retourne {'a': 0, 'b': 0} car fromkeys() crée un new dictionnaire avec the given keys, and when a valeur is provided, all keys are set to that valeur. C'est useful for initializing dictionnaires avec a set of keys and le même default valeur for all keys.
 
 fromkeys() avec valeur:
 • dict.fromkeys(['a', 'b'], 0) = {'a': 0, 'b': 0}
@@ -38732,7 +38735,7 @@ Comment ça fonctionne :
 • fromkeys(['a', 'b'], 0) appelé on dict classe
 • Creates new dictionnaire avec keys: 'a', 'b'
 • Sets all valeurs to 0 (second argument)
-• Returns: {'a': 0, 'b': 0}
+• Retourne : {'a': 0, 'b': 0}
 
 Exemple :
 dict.fromkeys(['a', 'b'], 0)          # {'a': 0, 'b': 0}
@@ -38745,22 +38748,22 @@ Usages courants :
 • Key initialization avec valeurs
 • Dictionary creation avec defaults
 
-Exemple : dict.fromkeys(['a', 'b'], 0) retourne {'a': 0, 'b': 0} car fromkeys() creates a new dictionnaire avec the given keys, and when a valeur (0) is provided, all keys are set to that valeur.`,
-  1583: `Le fromkeys() méthode is a classe méthode that creates a new dictionnaire, ignoring the instance dictionnaire. {'a': 1, 'b': 2}.fromkeys(['c', 'd']) retourne {'c': None, 'd': None} car fromkeys() is a classe méthode that ignores the instance dictionnaire {'a': 1, 'b': 2} and creates a new dictionnaire avec the given keys ['c', 'd']. The instance dictionnaire is not used or modified - fromkeys() always creates a new dictionnaire.
+Exemple : dict.fromkeys(['a', 'b'], 0) retourne {'a': 0, 'b': 0} car fromkeys() crée un new dictionnaire avec the given keys, and when a valeur (0) is provided, all keys are set to that valeur.`,
+  1583: `Le fromkeys() méthode is a classe méthode qui crée a new dictionnaire, ignoring the instance dictionnaire. {'a': 1, 'b': 2}.fromkeys(['c', 'd']) retourne {'c': None, 'd': None} car fromkeys() is a classe méthode that ignores the instance dictionnaire {'a': 1, 'b': 2} and crée un new dictionnaire avec the given keys ['c', 'd']. The instance dictionnaire is not used or modified - fromkeys() always crée un new dictionnaire.
 
 fromkeys() - classe méthode:
 • {'a': 1, 'b': 2}.fromkeys(['c', 'd']) = {'c': None, 'd': None}
 • fromkeys() is classe méthode (ignores instance)
 • Creates new dictionnaire avec given keys
 • Instance dictionnaire {'a': 1, 'b': 2} not used
-• Returns new dictionnaire
+• Retourne new dictionnaire
 
 Comment ça fonctionne :
 • fromkeys(['c', 'd']) appelé on {'a': 1, 'b': 2}
 • Ignores instance dictionnaire {'a': 1, 'b': 2}
 • Creates new dictionnaire avec keys: 'c', 'd'
 • Values default to None (not provided)
-• Returns: {'c': None, 'd': None}
+• Retourne : {'c': None, 'd': None}
 
 Exemple :
 {'a': 1, 'b': 2}.fromkeys(['c', 'd']) # {'c': None, 'd': None} (new dict)
@@ -38773,14 +38776,14 @@ Usages courants :
 • Class méthode usage
 • Dictionary creation
 
-Exemple : {'a': 1, 'b': 2}.fromkeys(['c', 'd']) retourne {'c': None, 'd': None} car fromkeys() is a classe méthode that ignores the instance dictionnaire and creates a new dictionnaire avec the given keys.`,
-  1584: `Le max() fonction on a dictionnaire retourne the maximum key. max({'a': 1, 'b': 2, 'c': 3}) retourne 'c' car max() iterates over the dictionnaire, which iterates over keys, and retourne the maximum key. Keys are compared using their natural ordering (strings are compared lexicographically, numbers are compared numerically). This is equivalent to max(dict.keys()) - when you call max() on a dictionnaire directly, it finds the maximum key, not the maximum valeur.
+Exemple : {'a': 1, 'b': 2}.fromkeys(['c', 'd']) retourne {'c': None, 'd': None} car fromkeys() is a classe méthode that ignores the instance dictionnaire and crée un new dictionnaire avec the given keys.`,
+  1584: `Le max() fonction on a dictionnaire retourne la clé maximale. max({'a': 1, 'b': 2, 'c': 3}) retourne 'c' car max() itère sur the dictionnaire, qui itère sur les clés, and retourne la clé maximale. Les clés sont comparées using their natural ordering (strings are compared lexicographically, numbers are compared numerically). C'est equivalent to max(dict.keys()) - quand vous appelez max() on a dictionnaire directly, il trouve la clé maximale, not the maximum valeur.
 
 max() on dictionnaire:
 • max({'a': 1, 'b': 2, 'c': 3}) = 'c'
-• max() iterates over dictionnaire (keys)
+• max() itère sur dictionnaire (keys)
 • Compares keys: 'a' < 'b' < 'c'
-• Returns maximum key: 'c'
+• Retourne maximum key: 'c'
 • Not maximum valeur (valeur 3)
 
 Comment ça fonctionne :
@@ -38788,7 +38791,7 @@ Comment ça fonctionne :
 • Iterates over dictionnaire (keys: 'a', 'b', 'c')
 • Compares keys: 'a' < 'b' < 'c' (lexicographic)
 • Finds maximum key: 'c'
-• Returns: 'c'
+• Retourne : 'c'
 
 Exemple :
 max({'a': 1, 'b': 2, 'c': 3})        # 'c' (max key)
@@ -38801,14 +38804,14 @@ Usages courants :
 • Dictionary key ordering
 • Maximum key finding
 
-Exemple : max({'a': 1, 'b': 2, 'c': 3}) retourne 'c' car max() iterates over the dictionnaire, which iterates over keys, and retourne the maximum key 'c' (lexicographically largest).`,
-  1585: `Le min() fonction on a dictionnaire retourne the minimum key. min({'a': 1, 'b': 2, 'c': 3}) retourne 'a' car min() iterates over the dictionnaire, which iterates over keys, and retourne the minimum key. Keys are compared using their natural ordering (strings are compared lexicographically, numbers are compared numerically). This is equivalent to min(dict.keys()) - when you call min() on a dictionnaire directly, it finds the minimum key, not the minimum valeur.
+Exemple : max({'a': 1, 'b': 2, 'c': 3}) retourne 'c' car max() itère sur the dictionnaire, qui itère sur les clés, and retourne la clé maximale 'c' (lexicographically largest).`,
+  1585: `Le min() fonction on a dictionnaire retourne la clé minimale. min({'a': 1, 'b': 2, 'c': 3}) retourne 'a' car min() itère sur the dictionnaire, qui itère sur les clés, and retourne la clé minimale. Les clés sont comparées using their natural ordering (strings are compared lexicographically, numbers are compared numerically). C'est equivalent to min(dict.keys()) - quand vous appelez min() on a dictionnaire directly, il trouve la clé minimale, not the minimum valeur.
 
 min() on dictionnaire:
 • min({'a': 1, 'b': 2, 'c': 3}) = 'a'
-• min() iterates over dictionnaire (keys)
+• min() itère sur dictionnaire (keys)
 • Compares keys: 'a' < 'b' < 'c'
-• Returns minimum key: 'a'
+• Retourne minimum key: 'a'
 • Not minimum valeur (valeur 1)
 
 Comment ça fonctionne :
@@ -38816,7 +38819,7 @@ Comment ça fonctionne :
 • Iterates over dictionnaire (keys: 'a', 'b', 'c')
 • Compares keys: 'a' < 'b' < 'c' (lexicographic)
 • Finds minimum key: 'a'
-• Returns: 'a'
+• Retourne : 'a'
 
 Exemple :
 min({'a': 1, 'b': 2, 'c': 3})        # 'a' (min key)
@@ -38829,21 +38832,21 @@ Usages courants :
 • Dictionary key ordering
 • Minimum key finding
 
-Exemple : min({'a': 1, 'b': 2, 'c': 3}) retourne 'a' car min() iterates over the dictionnaire, which iterates over keys, and retourne the minimum key 'a' (lexicographically smallest).`,
+Exemple : min({'a': 1, 'b': 2, 'c': 3}) retourne 'a' car min() itère sur the dictionnaire, qui itère sur les clés, and retourne la clé minimale 'a' (lexicographically smallest).`,
   1586: `QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS
 max() on .values():
 • max({'a': 1, 'b': 2, 'c': 3}.values()) = 3
 • .values() returns view of values: [1, 2, 3]
 • max() compares values: 1 < 2 < 3
-• Returns maximum value: 3
+• Retourne maximum value: 3
 • Not maximum key (key 'c')
 
 Comment ça fonctionne :
 • {'a': 1, 'b': 2, 'c': 3}.values() returns view: [1, 2, 3]
-• max() called with values view
+• max() appelé avec values view
 • Compares values: 1 < 2 < 3 (numeric)
 • Finds maximum value: 3
-• Returns: 3
+• Retourne : 3
 
 Exemple :
 max({'a': 1, 'b': 2, 'c': 3}.values()) # 3 (max value)
@@ -38856,14 +38859,14 @@ Usages courants :
 • Dictionary value ordering
 • Maximum value finding
 
-Exemple : max({'a': 1, 'b': 2, 'c': 3}.values()) returns 3 because .values() returns a view of all values [1, 2, 3], and max() finds the maximum value, which is 3.`,
-  1587: `Le sum() fonction on .valeurs() adds all valeurs in the dictionnaire. sum({'a': 1, 'b': 2, 'c': 3}.valeurs()) retourne 6 car .valeurs() retourne a view of all valeurs [1, 2, 3], and sum() adds them: 1 + 2 + 3 = 6. This is how you sum all valeurs in a dictionnaire - sum() works avec any iterable of numbers, and .valeurs() provides an iterable of valeurs. If the dictionnaire is empty, sum() retourne 0.
+Exemple : max({'a': 1, 'b': 2, 'c': 3}.values()) returns 3 because .values() retourne un view of all values [1, 2, 3], and max() trouve le maximum value, which is 3.`,
+  1587: `Le sum() fonction on .valeurs() adds all valeurs in the dictionnaire. sum({'a': 1, 'b': 2, 'c': 3}.valeurs()) retourne 6 car .valeurs() retourne a view of all valeurs [1, 2, 3], and sum() adds them: 1 + 2 + 3 = 6. C'est how you sum all valeurs in a dictionnaire - sum() works avec any iterable of numbers, and .valeurs() provides an iterable of valeurs. If the dictionnaire is empty, sum() retourne 0.
 
 sum() on .valeurs():
 • sum({'a': 1, 'b': 2, 'c': 3}.valeurs()) = 6
 • .valeurs() retourne view of valeurs: [1, 2, 3]
 • sum() adds all valeurs: 1 + 2 + 3
-• Returns sum: 6
+• Retourne sum: 6
 • Works avec numeric valeurs
 
 Comment ça fonctionne :
@@ -38871,7 +38874,7 @@ Comment ça fonctionne :
 • sum() appelé avec valeurs view
 • Adds all valeurs: 1 + 2 + 3
 • Computes sum: 6
-• Returns: 6
+• Retourne : 6
 
 Exemple :
 sum({'a': 1, 'b': 2, 'c': 3}.valeurs()) # 6 (1 + 2 + 3)
@@ -38885,7 +38888,7 @@ Usages courants :
 • Numeric valeur operations
 
 Exemple : sum({'a': 1, 'b': 2, 'c': 3}.valeurs()) retourne 6 car .valeurs() retourne a view of all valeurs [1, 2, 3], and sum() adds them together: 1 + 2 + 3 = 6.`,
-  1588: `Le all() fonction on .valeurs() checks if all valeurs are truthy. all({'a': 1, 'b': 0}.valeurs()) retourne False car .valeurs() retourne a view of all valeurs [1, 0], and all() checks if all valeurs are truthy. Since 1 is truthy but 0 is falsy, all() retourne False - it requires all valeurs to be truthy. This is how you check if all valeurs in a dictionnaire are truthy - all() retourne True only if all valeurs are truthy, otherwise it retourne False.
+  1588: `Le all() fonction on .valeurs() checks if all valeurs are truthy. all({'a': 1, 'b': 0}.valeurs()) retourne False car .valeurs() retourne a view of all valeurs [1, 0], and all() checks if all valeurs are truthy. Since 1 is truthy but 0 is falsy, all() retourne False - it requires all valeurs to be truthy. C'est how you check if all valeurs in a dictionnaire are truthy - all() retourne True uniquement si all valeurs are truthy, otherwise il retourne False.
 
 all() on .valeurs():
 • all({'a': 1, 'b': 0}.valeurs()) = False
@@ -38913,7 +38916,7 @@ Usages courants :
 • Truthiness validation
 
 Exemple : all({'a': 1, 'b': 0}.valeurs()) retourne False car .valeurs() retourne a view of all valeurs [1, 0], and all() checks if all valeurs are truthy - since 1 is truthy but 0 is falsy, all() retourne False.`,
-  1589: `Le any() fonction on .valeurs() checks if any valeur is truthy. any({'a': 0, 'b': 0}.valeurs()) retourne False car .valeurs() retourne a view of all valeurs [0, 0], and any() checks if any valeur is truthy. Since both 0 and 0 are falsy, any() retourne False - it requires at least one truthy valeur. This is how you check if any valeur in a dictionnaire is truthy - any() retourne True if at least one valeur is truthy, otherwise it retourne False.
+  1589: `Le any() fonction on .valeurs() checks if any valeur is truthy. any({'a': 0, 'b': 0}.valeurs()) retourne False car .valeurs() retourne a view of all valeurs [0, 0], and any() checks if any valeur is truthy. Since both 0 and 0 are falsy, any() retourne False - it requires at least one truthy valeur. C'est how you check if any valeur in a dictionnaire is truthy - any() retourne True if at least one valeur is truthy, otherwise il retourne False.
 
 any() on .valeurs():
 • any({'a': 0, 'b': 0}.valeurs()) = False
@@ -38941,20 +38944,20 @@ Usages courants :
 • Truthiness detection
 
 Exemple : any({'a': 0, 'b': 0}.valeurs()) retourne False car .valeurs() retourne a view of all valeurs [0, 0], and any() checks if any valeur is truthy - since both 0 and 0 are falsy, any() retourne False.`,
-  1590: `Le or operator retourne the first truthy valeur or the last valeur if all are falsy. {'a': 1, 'b': 2}.get('a') or {'a': 1, 'b': 2}.get('c') retourne 1 car get('a') retourne 1 (truthy), and or retourne the first truthy valeur. Since 1 is truthy, or retourne 1 sans evaluating the second expression. This is a common pattern for providing fallback valeurs - if the first valeur is truthy, use it, otherwise use the second valeur.
+  1590: `Le or operator retourne the first truthy valeur or the last valeur if all are falsy. {'a': 1, 'b': 2}.get('a') or {'a': 1, 'b': 2}.get('c') retourne 1 car get('a') retourne 1 (truthy), and or retourne the first truthy valeur. Since 1 is truthy, or retourne 1 sans evaluating the second expression. C'est a common pattern for providing fallback valeurs - if the first valeur is truthy, use it, otherwise use the second valeur.
 
 or operator avec get():
 • {'a': 1, 'b': 2}.get('a') or {'a': 1, 'b': 2}.get('c') = 1
 • get('a') retourne 1 (truthy)
 • or retourne first truthy valeur
-• Returns 1 (sans evaluating second get())
+• Retourne 1 (sans evaluating second get())
 • Short-circuit evaluation
 
 Comment ça fonctionne :
 • get('a') appelé on {'a': 1, 'b': 2}
-• Returns 1 (key 'a' exists)
+• Retourne 1 (key 'a' exists)
 • or checks if 1 is truthy (it is)
-• Returns 1 (first truthy valeur)
+• Retourne 1 (first truthy valeur)
 • Doesn't evaluate get('c') (short-circuit)
 
 Exemple :
@@ -38968,7 +38971,7 @@ Usages courants :
 • Default valeur patterns
 • Short-circuit evaluation
 
-Exemple : {'a': 1, 'b': 2}.get('a') or {'a': 1, 'b': 2}.get('c') retourne 1 car get('a') retourne 1 (truthy), and or retourne the first truthy valeur, so it retourne 1 sans evaluating the second get().`,
+Exemple : {'a': 1, 'b': 2}.get('a') or {'a': 1, 'b': 2}.get('c') retourne 1 car get('a') retourne 1 (truthy), and or retourne the first truthy valeur, so il retourne 1 sans evaluating the second get().`,
   1591: `Integer keys work in dictionaries. {1: 'a', 2: 'b', 3: 'c'}[1] retourne 'a' car dictionaries can use integers as keys, and accessing [1] looks up la clé 1 in the dictionary, which maps to la valeur 'a'. Dictionary keys peut être any hashable type (immutable types like integers, strings, tuples), not just strings. Cela permet flexible key types for different use cases.
 
 Integer keys in dictionaries:
@@ -39191,20 +39194,20 @@ Usages courants :
 • Hash-based key equality
 
 Exemple : If d = {}, d[1] = 'a', and then d[1.0] = 'b', le dictionnaire d becomes {1: 'b'} car 1 and 1.0 hash to le même value, so they are considered le même key, and the assignment d[1.0] = 'b' overwrites la valeur from d[1] = 'a'.`,
-  1599: `Le pop() méthode retourne the actual valeur if the key exists, even if a default valeur is provided. {'a': 1, 'b': 2}.pop('a', 'default') retourne 1 car pop() finds the key 'a' in the dictionnaire and retourne its actual valeur (1), ignoring the default valeur ('default'). The default valeur is only used when the key doesn't exist - if the key exists, pop() retourne the actual valeur associated avec that key.
+  1599: `Le pop() méthode retourne the actual valeur if the key exists, even if a default valeur is provided. {'a': 1, 'b': 2}.pop('a', 'default') retourne 1 car pop() trouve le key 'a' in the dictionnaire and retourne its actual valeur (1), ignoring the default valeur ('default'). The default valeur is only used when the key n'existe pas - if the key exists, pop() retourne the actual valeur associated avec that key.
 
 pop() avec existing key:
 • {'a': 1, 'b': 2}.pop('a', 'default') = 1
 • pop(key, default) retourne actual valeur if key exists
 • Default valeur ignored when key found
-• Returns valeur from dictionnaire
-• Default only used if key missing
+• Retourne valeur from dictionnaire
+• Default only used if clé absente
 
 Comment ça fonctionne :
 • pop('a', 'default') appelé on {'a': 1, 'b': 2}
 • Searches for key 'a' in dictionnaire
 • Finds mapping: 'a' → 1
-• Returns actual valeur: 1 (ignores default 'default')
+• Retourne actual valeur: 1 (ignores default 'default')
 • Dictionary modified: {'b': 2} (pair removed)
 
 Exemple :
@@ -39218,28 +39221,28 @@ Usages courants :
 • Safe removal avec fallback
 • Default handling
 
-Exemple : {'a': 1, 'b': 2}.pop('a', 'default') retourne 1 car pop() finds the key 'a' in the dictionnaire and retourne its actual valeur (1), ignoring the default valeur ('default'), which is only used when the key doesn't exist.`,
-  1600: `Le pop() méthode retourne the default valeur if the key doesn't exist and a default is provided. {'a': 1, 'b': 2}.pop('c', 'default') retourne 'default' car pop() searches for the key 'c' in the dictionnaire, doesn't find it, and retourne the default valeur ('default') sans raising an error. Unlike pop() sans a default, this version doesn't raise a KeyError - it just retourne the default valeur. The dictionnaire remains unchanged car there was no pair to remove.
+Exemple : {'a': 1, 'b': 2}.pop('a', 'default') retourne 1 car pop() trouve le key 'a' in the dictionnaire and retourne its actual valeur (1), ignoring the default valeur ('default'), which is only used when the key n'existe pas.`,
+  1600: `Le pop() méthode retourne the default valeur if the key n'existe pas and a default is provided. {'a': 1, 'b': 2}.pop('c', 'default') retourne 'default' car pop() searches for the key 'c' in the dictionnaire, doesn't find it, and retourne the default valeur ('default') sans raising an error. Unlike pop() sans a default, this version doesn't raise a KeyError - it just retourne the default valeur. The dictionnaire remains inchangés car there was no pair to remove.
 
 pop() avec missing key:
 • {'a': 1, 'b': 2}.pop('c', 'default') = 'default'
 • pop(key, default) retourne default if key not found
 • No error raised (unlike pop() sans default)
-• Dictionary unchanged (no pair to remove)
-• Returns default valeur
+• Dictionary inchangés (no pair to remove)
+• Retourne default valeur
 
 Comment ça fonctionne :
 • pop('c', 'default') appelé on {'a': 1, 'b': 2}
 • Searches for key 'c' in dictionnaire
-• Finds no match (key doesn't exist)
+• Finds no match (key n'existe pas)
 • Cannot remove non-existent pair
-• Returns default valeur: 'default' (no error)
-• Dictionary unchanged: {'a': 1, 'b': 2}
+• Retourne default valeur: 'default' (no error)
+• Dictionary inchangés: {'a': 1, 'b': 2}
 
 Exemple :
 {'a': 1, 'b': 2}.pop('c', 'default')   # 'default' (not found, retourne default)
 {'a': 1, 'b': 2}.pop('c', 0)          # 0 (not found, retourne default)
-{'a': 1, 'b': 2}                      # {'a': 1, 'b': 2} (unchanged)
+{'a': 1, 'b': 2}                      # {'a': 1, 'b': 2} (inchangés)
 
 Usages courants :
 • Safe removal: valeur = dict.pop(key, default)
@@ -39247,7 +39250,7 @@ Usages courants :
 • Error-free removal
 • Safe pop avec fallback
 
-Exemple : {'a': 1, 'b': 2}.pop('c', 'default') retourne 'default' car pop() searches for the key 'c' in the dictionnaire, doesn't find it, and retourne the default valeur ('default') sans raising an error, leaving the dictionnaire unchanged.`,
+Exemple : {'a': 1, 'b': 2}.pop('c', 'default') retourne 'default' car pop() searches for the key 'c' in the dictionnaire, doesn't find it, and retourne the default valeur ('default') sans raising an error, leaving the dictionnaire inchangés.`,
   1601: `L'accès aux dictionnaires imbriqués utilise des crochets chaînés. Chaque paire de crochets déréférence un niveau supplémentaire de la structure.
 
 Concepts clés :
@@ -39414,13 +39417,13 @@ Usages courants :
 • Inverser les tables de recherche
 • Créer des index inversés
 • Mapping bidirectionnel (stocker les deux directions)`,
-  1609: `Quand inverting a dict whose valeurs are not unique, duplicate keys in the result are overwritten. Since dicts are insertion-ordered (Python 3.7+), the last key-valeur pair processed for a given new key wins.
+  1609: `Quand inverting a dict whose valeurs are not unique, duplicate keys in le résultat are overwritten. Since dicts are insertion-ordered (Python 3.7+), the last key-valeur pair processed for a given new key wins.
 
 Concepts clés :
 • d.items() yields ("a", 1) then ("b", 1)
 • First iteration: new dict gets {1: "a"}
 • Second iteration: key 1 already exists → overwritten avec "b"
-• Result: {1: "b"}
+• Résultat : {1: "b"}
 
 Comment ça fonctionne :
 • Comprehension processes items in insertion order
@@ -39528,7 +39531,7 @@ Usages courants :
 Concepts clés :
 • d.items() → [("b", 2), ("a", 1)]
 • sorted() compares tuples: ("a", 1) < ("b", 2) car "a" < "b"
-• Result: [("a", 1), ("b", 2)]
+• Résultat : [("a", 1), ("b", 2)]
 • dict() preserves this alphabetical key order
 
 Comment ça fonctionne :
@@ -41253,13 +41256,13 @@ Exemple :
 [('l', 2)]
 
 C'est commonly utilisé pour finding the most frequent items in a dataset.`,
-  1705: `Quand most_common() is appelé sans an argument (or avec None), it retourne all elements in the counter, sorted by count from highest to lowest.
+  1705: `Quand most_common() is appelé sans an argument (or avec None), il retourne all elements in the counter, sorted by count from highest to lowest.
 
 Concepts clés :
 • No argument = renvoyer everything
 • Still sorted by count descending
 • Ties broken by insertion order
-• Returns liste of (element, count) tuples
+• Retourne liste of (element, count) tuples
 
 Comment ça fonctionne :
 • Counter("hello").most_common() retourne all 4 unique elements
@@ -41288,12 +41291,12 @@ Exemple :
 [(3, 3)]
 
 Note the confusing-looking [(3, 3)] — les premiers 3 is the element, the second 3 is how many times it appeared.`,
-  1707: `Le elements() méthode retourne an iterator that yields each element repeated by its count. Elements are returned in the order they were first encountered.
+  1707: `Le elements() méthode retourne an iterator qui produit chaque élément repeated by its count. Elements are returned in the order they were first encountered.
 
 Concepts clés :
 • Counter("aab") = Counter({'a': 2, 'b': 1})
 • elements() yields 'a' twice (count 2), then 'b' once (count 1)
-• Returns an iterator, so we wrap in liste() to see the result
+• Retourne an iterator, so we wrap in liste() to see le résultat
 • Order follows insertion order of the Counter
 
 Comment ça fonctionne :
@@ -41308,13 +41311,13 @@ Exemple :
 ['a', 'a', 'a', 'b']
 
 Elements avec zero or negative counts are not included in the output.`,
-  1708: `Le + operator on Counters adds corresponding counts together. Only positive counts are kept in the result.
+  1708: `Le + operator on Counters adds corresponding counts together. Only positive counts are kept in le résultat.
 
 Concepts clés :
 • Counter("abc") = {'a': 1, 'b': 1, 'c': 1}
 • Counter("bcd") = {'b': 1, 'c': 1, 'd': 1}
 • Addition sums counts: a: 0+1=1, b: 1+1=2, c: 1+1=2, d: 1+0=1
-• Result ordered by count descending in repr
+• Résultat ordered by count descending in repr
 
 Comment ça fonctionne :
 • For each key, add counts from both Counters
@@ -41326,26 +41329,26 @@ Exemple :
 Counter({'b': 2, 'c': 2, 'a': 1, 'd': 1})
 
 Counter addition is useful for combining frequency counts from multiple sources.`,
-  1709: `Le - operator subtracts counts and drops results that are zero or negative. This is different from the subtract() méthode which keeps negative counts.
+  1709: `Le - operator subtracts counts and drops results that are zero or negative. C'est different from the subtract() méthode which keeps negative counts.
 
 Concepts clés :
 • Counter("abc") = {'a': 1, 'b': 1, 'c': 1}
 • Counter("bc") = {'b': 1, 'c': 1}
 • Subtraction: a: 1-0=1, b: 1-1=0, c: 1-1=0
-• Zero and negative counts are dropped from the result
+• Zero and negative counts are dropped from le résultat
 
 Comment ça fonctionne :
 • a: 1 (only in first) → stays as 1
 • b: 1-1=0 → dropped
 • c: 1-1=0 → dropped
-• Result: Counter({'a': 1})
+• Résultat : Counter({'a': 1})
 
 Exemple :
 >>> Counter("abc") - Counter("bc")
 Counter({'a': 1})
 
 Important: The - operator drops zero/negative, but subtract() méthode keeps them in-place.`,
-  1710: `Le & operator computes the intersection of two Counters by taking the minimum count for each element. Elements not present in both get count 0 and are excluded.
+  1710: `Le & operator computes the intersection of two Counters by taking the minimum count for chaque élément. Elements not present in both get count 0 and are excluded.
 
 Concepts clés :
 • Counter("abc") = {'a': 1, 'b': 1, 'c': 1}
@@ -41363,7 +41366,7 @@ Exemple :
 >>> Counter("abc") & Counter("bcd")
 Counter({'b': 1, 'c': 1})
 Ce is useful for finding common elements avec their minimum shared frequency.`,
-  1711: `Le | operator computes the union of two Counters by taking the maximum count for each element.
+  1711: `Le | operator computes the union of two Counters by taking the maximum count for chaque élément.
 
 Concepts clés :
 • Counter("aab") = {'a': 2, 'b': 1}
@@ -41375,13 +41378,13 @@ Comment ça fonctionne :
 • 'a': max(2, 0) = 2
 • 'b': max(1, 1) = 1
 • 'c': max(0, 2) = 2
-• Result: Counter({'a': 2, 'c': 2, 'b': 1})
+• Résultat : Counter({'a': 2, 'c': 2, 'b': 1})
 
 Exemple :
 >>> Counter("aab") | Counter("bcc")
 Counter({'a': 2, 'c': 2, 'b': 1})
 
-Union is like a "best of both" — for each element, keep the higher count.`,
+Union is like a "best of both" — for chaque élément, keep the higher count.`,
   1712: `Since Counter is a dict subclass, .values() retourne the counts. Summing them gives the total number of elements counted.
 
 Concepts clés :
@@ -41488,18 +41491,18 @@ Exemple :
 True
 
 Zero-count elements are kept by subtract() but would be excluded by the - operator.`,
-  1717: `Le unary + operator on a Counter retourne a new Counter avec only the positive counts. Zero and negative counts are removed.
+  1717: `Le unary + operator on a Counter retourne a new Counter avec seulement le positive counts. Zero and negative counts are removed.
 
 Concepts clés :
 • c = Counter(a=4, b=2, c=0, d=-2)
-• +c creates a new Counter keeping only positive counts
+• +c crée un new Counter keeping only positive counts
 • a: 4 (positive → kept), b: 2 (positive → kept)
 • c: 0 (zero → removed), d: -2 (negative → removed)
 
 Comment ça fonctionne :
-• Unary + iterates through the Counter
+• Unary + itère sur the Counter
 • Keeps only elements where count > 0
-• Returns a new Counter: Counter({'a': 4, 'b': 2})
+• Retourne a new Counter: Counter({'a': 4, 'b': 2})
 • Original Counter is not modified
 
 Exemple :
@@ -41507,20 +41510,20 @@ Exemple :
 >>> +c
 Counter({'a': 4, 'b': 2})
 Ce is useful for cleaning up a Counter après subtract() operations that may have created zero/negative counts.`,
-  1718: `Le unary - operator negates all counts and retourne a new Counter avec only the positive results (those that were originally negative).
+  1718: `Le unary - operator negates all counts and retourne a new Counter avec seulement le positive results (those that were originally negative).
 
 Concepts clés :
 • c = Counter(a=4, b=2, c=0, d=-2)
 • -c negates each count: a→-4, b→-2, c→0, d→2
 • Then keeps only positive: d→2
-• Result: Counter({'d': 2})
+• Résultat : Counter({'d': 2})
 
 Comment ça fonctionne :
 • a: -4 (negative après negation → removed)
 • b: -2 (negative après negation → removed)
 • c: 0 (zero après negation → removed)
 • d: -(-2) = 2 (positive → kept)
-• Result: Counter({'d': 2})
+• Résultat : Counter({'d': 2})
 
 Exemple :
 >>> c = Counter(a=4, b=2, c=0, d=-2)
@@ -41695,13 +41698,13 @@ This makes defaultdict(int) perfect for counting without initialization.`,
 Concepts clés :
 • defaultdict(liste) uses liste as the default_factory
 • Accessing missing "a" triggers: liste() → []
-• A new empty liste is created and stored at d["a"]
-• Subsequent accesses renvoyer the same liste objet
+• A new empty liste est créé and stored at d["a"]
+• Subsequent accesses renvoyer le même liste objet
 
 Comment ça fonctionne :
 • d["a"] not found → calls liste() → []
 • d["a"] = [] is stored
-• Returns []
+• Retourne []
 
 Exemple :
 >>> d = defaultdict(liste)
@@ -41821,7 +41824,7 @@ Exemple :
 2
 
 This side effect means you should use "key in d" or d.get() if you ne want to créer keys.`,
-  1733: `Le "in" operator checks if a key exists in the defaultdict sans triggering the default factory. This is different from d["x"] which would create the key.
+  1733: `Le "in" operator checks if a key exists in the defaultdict sans triggering the default factory. C'est different from d["x"] which would create the key.
 
 Concepts clés :
 • "x" in d uses __contains__, not __getitem__
@@ -41832,7 +41835,7 @@ Concepts clés :
 Comment ça fonctionne :
 • "x" in d → calls d.__contains__("x")
 • Checks if "x" is a key → No
-• Returns False
+• Retourne False
 • d remains empty — no side effect
 
 Exemple :
@@ -41977,7 +41980,7 @@ Exemple :
 >>> d["y"]
 []
 
-Changing the factory doesn't affect existing keys — only new missing-key accesses use the new factory.`,
+Changing the factory n'affecte pas existing keys — only new missing-key accesses use the new factory.`,
   1740: `dict() crée a regular dictionary from a defaultdict, stripping the default_factory behavior. The resulting dict will raise KeyError pour les clés manquantes.
 
 Concepts clés :
@@ -42147,13 +42150,13 @@ C'est like a stack (LIFO) operation on the ordered dict.`,
 Concepts clés :
 • od has order: a=1, b=2
 • popitem(last=False) removes the first item: ('a', 1)
-• Returns ('a', 1) as a tuple
+• Retourne ('a', 1) as a tuple
 • od now contains only {'b': 2}
 
 Comment ça fonctionne :
 • First item in order is ('a', 1)
 • popitem(last=False) removes it
-• Returns ('a', 1)
+• Retourne ('a', 1)
 • od is now OrderedDict([('b', 2)])
 
 Exemple :
@@ -42163,19 +42166,19 @@ Exemple :
 >>> od
 OrderedDict([('b', 2)])
 
-Regular dict.popitem() does not support the last parameter — it always removes LIFO.`,
+Regular dict.popitem() ne supporte pas the last parameter — it always removes LIFO.`,
   1749: `Dans Python 3.7+, regular dict.popitem() removes and retourne the last inserted key-valeur pair in LIFO (Last In, First Out) order.
 
 Concepts clés :
 • d = {"a": 1, "b": 2, "c": 3} — insertion order: a, b, c
 • popitem() removes the last inserted: ('c', 3)
-• Returns a (key, valeur) tuple
+• Retourne a (key, valeur) tuple
 • d is now {"a": 1, "b": 2}
 
 Comment ça fonctionne :
 • Last inserted key is 'c'
 • popitem() removes ('c', 3)
-• Returns ('c', 3)
+• Retourne ('c', 3)
 • d becomes {"a": 1, "b": 2}
 
 Exemple :
@@ -43413,7 +43416,7 @@ Usages courants :
 • Valider que toutes les clés du dict satisfont une condition
 • Validation de schéma : toutes les clés en minuscules, toutes les valeurs positives, etc.
 • Contrôles de qualité des données sur les dictionnaires`,
-  1801: `Le def keyword defines a fonction in Python. def func(x): renvoyer x * 2 defines a fonction named func that takes one parameter x and retourne x * 2. The def instruction creates a fonction objet and assigns it to the name func. This is fonction definition, not fonction calling - to call the fonction, you would use func(5) which would renvoyer 10. Functions are defined using def, followed by the fonction name, parameters in parentheses, a colon, and the fonction body.
+  1801: `Le def keyword defines a fonction en Python. def func(x): renvoyer x * 2 defines a fonction named func that takes one parameter x and retourne x * 2. The def instruction crée un fonction objet and assigns it to the name func. C'est fonction definition, not fonction calling - to call the fonction, you would use func(5) which would renvoyer 10. Functions are defined using def, followed by the fonction name, parameters in parentheses, a colon, and the fonction body.
 
 def keyword - fonction definition:
 • def func(x): renvoyer x * 2 defines a fonction
@@ -43421,7 +43424,7 @@ def keyword - fonction definition:
 • func is the fonction name
 • (x) is the parameter liste
 • renvoyer x * 2 is the fonction body
-• Creates fonction objet, doesn't execute it
+• Creates fonction objet, ne s'exécute pas it
 
 Comment ça fonctionne :
 • def func(x): creates fonction definition
@@ -43442,14 +43445,14 @@ Usages courants :
 • Function definition
 • Code organization
 
-Exemple : def func(x): renvoyer x * 2 defines a fonction named func that takes parameter x and retourne x * 2. This is fonction definition - the fonction is created but not executed until appelé.`,
-  1802: `Le def keyword avec pass defines an empty fonction. def func(): pass defines a fonction named func avec no parameters and an empty body (pass is a placeholder that does nothing). This creates a valid fonction that retourne None when appelé. pass is used when you need syntactically valid code but don't want to execute anything - it's commonly used for placeholder fonctions, empty classes, or code that will be implemented later.
+Exemple : def func(x): renvoyer x * 2 defines a fonction named func that takes parameter x and retourne x * 2. C'est fonction definition - the fonction est créé but not executed until appelé.`,
+  1802: `Le def keyword avec pass defines an empty fonction. def func(): pass defines a fonction named func avec no parameters and an empty body (pass is a placeholder that ne fait rien). Cela crée un valid fonction that retourne None when appelé. pass est utilisé when you need syntactically valid code but don't want to execute anything - it's commonly utilisé pour placeholder fonctions, empty classes, or code that will be implemented later.
 
 def avec pass - empty fonction:
 • def func(): pass defines empty fonction
 • func is fonction name
 • () means no parameters
-• pass is placeholder (does nothing)
+• pass is placeholder (ne fait rien)
 • Function retourne None when appelé
 
 Comment ça fonctionne :
@@ -43471,7 +43474,7 @@ Usages courants :
 • Syntax requirement: pass needed for empty body
 • Function stubs
 
-Exemple : def func(): pass defines an empty fonction named func avec no parameters. The pass instruction is a placeholder that does nothing, making this a valid fonction that retourne None when appelé.`,
+Exemple : def func(): pass defines an empty fonction named func avec no parameters. The pass instruction is a placeholder that ne fait rien, making this a valid fonction that retourne None when appelé.`,
   1803: `A renvoyer statement without a value retourne None. def func(): renvoyer définit une fonction that explicitly retourne None. Quand vous use renvoyer without a value, Python retourne None. This est équivalent à renvoyer None or having no renvoyer statement at all - all three result in the function returning None. Explicitly using renvoyer without a value can make it clear that the function intentionally retourne None.
 
 renvoyer without value:
@@ -43786,22 +43789,22 @@ Usages courants :
 • Required before default
 
 Exemple : def func(x, y=2): renvoyer x + y définit une fonction with a required parameter x and a default parameter y=2. The required parameter x comes avant le default parameter y, which is correct.`,
-  1814: `Quand calling a fonction avec required and default parameters, you can omit arguments for default parameters. If def func(x, y=2): renvoyer x + y, then func(1) retourne 3 car 1 is passed to the required parameter x, and y uses its default valeur of 2, so the fonction retourne 1 + 2 = 3. You must provide arguments for all required parameters, but you can omit arguments for default parameters.
+  1814: `Quand calling a fonction avec required and default parameters, you can omit arguments for default parameters. If def func(x, y=2): renvoyer x + y, then func(1) retourne 3 car 1 est passé to the required parameter x, and y uses its default valeur of 2, so the fonction retourne 1 + 2 = 3. You must provide arguments for all required parameters, but you can omit arguments for default parameters.
 
 Using default for second parameter:
 • func(1) avec def func(x, y=2): renvoyer x + y retourne 3
-• 1 is passed to required parameter x
+• 1 est passé to required parameter x
 • y uses default valeur 2 (no argument provided)
 • Function retourne x + y = 1 + 2 = 3
-• Default valeur used for y
+• Default valeur utilisé pour y
 
 Comment ça fonctionne :
 • func(1) calls fonction func
 • Argument 1 provided for required parameter x
 • No argument provided for default parameter y
 • y uses default valeur: y = 2
-• Function executes: renvoyer x + y
-• Returns: 1 + 2 = 3
+• La fonction s'exécute : renvoyer x + y
+• Retourne : 1 + 2 = 3
 
 Exemple :
 def func(x, y=2): renvoyer x + y
@@ -43814,7 +43817,7 @@ Usages courants :
 • Default parameter usage
 • Flexible fonction calls
 
-Exemple : If def func(x, y=2): renvoyer x + y, then func(1) retourne 3 car 1 is passed to x and y uses its default valeur of 2, so the fonction retourne 1 + 2 = 3.`,
+Exemple : If def func(x, y=2): renvoyer x + y, then func(1) retourne 3 car 1 est passé to x and y uses its default valeur of 2, so the fonction retourne 1 + 2 = 3.`,
   1815: `Default parameters must come after non-default parameters in the function definition. def func(x=1, y): renvoyer x + y lève a SyntaxError car x a un default value but y doesn't, and default parameters must come after non-default parameters. Python requires this ordering - required parameters (without defaults) must come first, followed by default parameters. Cela empêche ambiguity about which parameters get which arguments.
 
 Default after required:
@@ -43972,8 +43975,8 @@ Comment ça fonctionne :
 • Assigned to first parameter x: x = 10
 • y uses default: y = 2
 • z uses default: z = 3
-• Function executes: renvoyer x, y, z
-• Returns: (10, 2, 3)
+• La fonction s'exécute : renvoyer x, y, z
+• Retourne : (10, 2, 3)
 
 Exemple :
 def func(x=1, y=2, z=3): renvoyer x, y, z
@@ -43988,21 +43991,21 @@ Usages courants :
 • Default parameter behavior
 
 Exemple : If def func(x=1, y=2, z=3): renvoyer x, y, z, then func(10) retourne (10, 2, 3) car 10 is assigned to x (first parameter), and y and z use their default valeurs of 2 and 3.`,
-  1821: `Le *args syntax allows a fonction to accept a variable number of positional arguments. def func(*args): renvoyer args defines a fonction that collects all positional arguments into a tuple named args. The * avant args tells Python to collect all extra positional arguments into a tuple. This allows the fonction to be appelé avec any number of arguments, which are then accessible as a tuple dans the fonction.
+  1821: `Le *args syntax allows a fonction to accept a variable number of positional arguments. def func(*args): renvoyer args defines a fonction that collects all positional arguments into a tuple named args. The * avant args tells Python to collect all extra positional arguments into a tuple. Cela permet the fonction to be appelé avec any number of arguments, which are then accessible as a tuple dans the fonction.
 
 *args parameter:
 • def func(*args): renvoyer args defines fonction avec *args
 • *args collects variable positional arguments
-• Collects all extra positional arguments into tuple
+• Collects all extra positional arguments en tuple
 • Function can accept any number of arguments
 • Arguments accessible as tuple: args
 
 Comment ça fonctionne :
 • def func(*args): creates fonction definition
 • Function name: func
-• *args collects all positional arguments into tuple
+• *args collects all positional arguments en tuple
 • When appelé: func(1, 2, 3), args = (1, 2, 3)
-• Returns tuple of arguments
+• Retourne tuple of arguments
 
 Exemple :
 def func(*args): renvoyer args
@@ -44017,21 +44020,21 @@ Usages courants :
 • Function flexibility
 
 Exemple : def func(*args): renvoyer args defines a fonction that collects all positional arguments into a tuple named args, allowing the fonction to accept any number of arguments.`,
-  1822: `Quand calling a fonction avec *args, all positional arguments are collected into a tuple. If def func(*args): renvoyer args, then func(1, 2, 3) retourne (1, 2, 3) car *args collects all positional arguments (1, 2, 3) into a tuple named args. The fonction can accept any number of arguments, and they are all collected into the args tuple.
+  1822: `Quand calling a fonction avec *args, all positional arguments sont collectés into a tuple. If def func(*args): renvoyer args, then func(1, 2, 3) retourne (1, 2, 3) car *args collects all positional arguments (1, 2, 3) into a tuple named args. The fonction can accept any number of arguments, and they are all collected into the args tuple.
 
 *args collection:
 • func(1, 2, 3) avec def func(*args): renvoyer args retourne (1, 2, 3)
 • Arguments 1, 2, 3 are positional
-• *args collects all positional arguments into tuple
+• *args collects all positional arguments en tuple
 • args = (1, 2, 3) dans fonction
-• Returns tuple: (1, 2, 3)
+• Retourne tuple: (1, 2, 3)
 
 Comment ça fonctionne :
 • func(1, 2, 3) calls fonction func
 • Arguments 1, 2, 3 are positional
 • *args collects all arguments: args = (1, 2, 3)
-• Function executes: renvoyer args
-• Returns: (1, 2, 3)
+• La fonction s'exécute : renvoyer args
+• Retourne : (1, 2, 3)
 
 Exemple :
 def func(*args): renvoyer args
@@ -44046,21 +44049,21 @@ Usages courants :
 • Tuple collection
 
 Exemple : If def func(*args): renvoyer args, then func(1, 2, 3) retourne (1, 2, 3) car *args collects all positional arguments into a tuple named args.`,
-  1823: `Quand calling a fonction avec *args but no arguments, args becomes an empty tuple. If def func(*args): renvoyer args, then func() retourne () car *args collects positional arguments, and when no arguments are provided, it collects into an empty tuple. This is different from an empty liste - *args always creates a tuple, even if it's empty.
+  1823: `Quand calling a fonction avec *args but no arguments, args becomes an empty tuple. If def func(*args): renvoyer args, then func() retourne () car *args collecte les arguments positionnels, and when no arguments are provided, it collects into an empty tuple. C'est different from an empty liste - *args always crée un tuple, even if it's empty.
 
 *args avec no arguments:
 • func() avec def func(*args): renvoyer args retourne ()
 • No arguments provided
 • *args collects into empty tuple
 • args = () dans fonction
-• Returns empty tuple: ()
+• Retourne empty tuple: ()
 
 Comment ça fonctionne :
 • func() calls fonction func
 • No arguments provided
 • *args collects into empty tuple: args = ()
-• Function executes: renvoyer args
-• Returns: () (empty tuple)
+• La fonction s'exécute : renvoyer args
+• Retourne : () (empty tuple)
 
 Exemple :
 def func(*args): renvoyer args
@@ -44074,7 +44077,7 @@ Usages courants :
 • Variable argument handling
 • Tuple collection
 
-Exemple : If def func(*args): renvoyer args, then func() retourne () car *args collects positional arguments into a tuple, and when no arguments are provided, it creates an empty tuple.`,
+Exemple : If def func(*args): renvoyer args, then func() retourne () car *args collecte les arguments positionnels into a tuple, and when no arguments are provided, il crée an empty tuple.`,
   1824: `Required parameters can come before *args in a function definition. def func(x, *args): renvoyer x, args définit une fonction with a required parameter x followed by *args. The required parameter x gets les premiers argument, and *args collects all remaining positional arguments into a tuple. Cela permet functions to have both required parameters and variable positional arguments.
 
 Required parameter before *args:
@@ -44104,22 +44107,22 @@ Usages courants :
 • Required before *args
 
 Exemple : def func(x, *args): renvoyer x, args définit une fonction with a required parameter x that must come before *args, allowing the function to have both required and variable positional arguments.`,
-  1825: `Quand calling a fonction avec a required parameter and *args, the first argument goes to the required parameter and the rest go to *args. If def func(x, *args): renvoyer x, args, then func(1, 2, 3) retourne (1, (2, 3)) car 1 is assigned to x (the required parameter), and 2, 3 are collected into *args as a tuple (2, 3). The fonction retourne a tuple containing x and args.
+  1825: `Quand calling a fonction avec a required parameter and *args, the first argument goes to the required parameter and the rest go to *args. If def func(x, *args): renvoyer x, args, then func(1, 2, 3) retourne (1, (2, 3)) car 1 is assigned to x (the required parameter), and 2, 3 sont collectés into *args as a tuple (2, 3). The fonction retourne a tuple containing x and args.
 
 Argument distribution:
 • func(1, 2, 3) avec def func(x, *args): renvoyer x, args retourne (1, (2, 3))
 • First argument 1 goes to required parameter x
 • Remaining arguments 2, 3 go to *args
 • args = (2, 3) (tuple)
-• Returns tuple: (x, args) = (1, (2, 3))
+• Retourne tuple: (x, args) = (1, (2, 3))
 
 Comment ça fonctionne :
 • func(1, 2, 3) calls fonction func
 • First argument 1 assigned to required parameter x
 • Remaining arguments 2, 3 collected into *args
 • args = (2, 3) (tuple)
-• Function executes: renvoyer x, args
-• Returns: (1, (2, 3))
+• La fonction s'exécute : renvoyer x, args
+• Retourne : (1, (2, 3))
 
 Exemple :
 def func(x, *args): renvoyer x, args
@@ -44133,8 +44136,8 @@ Usages courants :
 • Argument distribution
 • Parameter assignment
 
-Exemple : If def func(x, *args): renvoyer x, args, then func(1, 2, 3) retourne (1, (2, 3)) car 1 is assigned to x and 2, 3 are collected into *args as a tuple.`,
-  1826: `Le **kwargs syntax allows a fonction to accept a variable number of keyword arguments. def func(**kwargs): renvoyer kwargs defines a fonction that collects all keyword arguments into a dictionnaire named kwargs. The ** avant kwargs tells Python to collect all extra keyword arguments into a dictionnaire. This allows the fonction to be appelé avec any number of keyword arguments, which are then accessible as a dictionnaire dans the fonction.
+Exemple : If def func(x, *args): renvoyer x, args, then func(1, 2, 3) retourne (1, (2, 3)) car 1 is assigned to x and 2, 3 sont collectés into *args as a tuple.`,
+  1826: `Le **kwargs syntax allows a fonction to accept a variable number of keyword arguments. def func(**kwargs): renvoyer kwargs defines a fonction that collects all keyword arguments into a dictionnaire named kwargs. The ** avant kwargs tells Python to collect all extra keyword arguments into a dictionnaire. Cela permet the fonction to be appelé avec any number of keyword arguments, which are then accessible as a dictionnaire dans the fonction.
 
 **kwargs parameter:
 • def func(**kwargs): renvoyer kwargs defines fonction avec **kwargs
@@ -44148,7 +44151,7 @@ Comment ça fonctionne :
 • Function name: func
 • **kwargs collects all keyword arguments into dictionnaire
 • When appelé: func(a=1, b=2), kwargs = {'a': 1, 'b': 2}
-• Returns dictionnaire of arguments
+• Retourne dictionnaire of arguments
 
 Exemple :
 def func(**kwargs): renvoyer kwargs
@@ -44163,21 +44166,21 @@ Usages courants :
 • Dictionary collection
 
 Exemple : def func(**kwargs): renvoyer kwargs defines a fonction that collects all keyword arguments into a dictionnaire named kwargs, allowing the fonction to accept any number of keyword arguments.`,
-  1827: `Quand calling a fonction avec **kwargs, all keyword arguments are collected into a dictionnaire. If def func(**kwargs): renvoyer kwargs, then func(a=1, b=2) retourne {'a': 1, 'b': 2} car **kwargs collects all keyword arguments (a=1, b=2) into a dictionnaire named kwargs. The fonction can accept any number of keyword arguments, and they are all collected into the kwargs dictionnaire.
+  1827: `Quand calling a fonction avec **kwargs, all keyword arguments sont collectés into a dictionnaire. If def func(**kwargs): renvoyer kwargs, then func(a=1, b=2) retourne {'a': 1, 'b': 2} car **kwargs collects all keyword arguments (a=1, b=2) into a dictionnaire named kwargs. The fonction can accept any number of keyword arguments, and they are all collected into the kwargs dictionnaire.
 
 **kwargs collection:
 • func(a=1, b=2) avec def func(**kwargs): renvoyer kwargs retourne {'a': 1, 'b': 2}
 • Arguments a=1, b=2 are keyword arguments
 • **kwargs collects all keyword arguments into dictionnaire
 • kwargs = {'a': 1, 'b': 2} dans fonction
-• Returns dictionnaire: {'a': 1, 'b': 2}
+• Retourne dictionnaire: {'a': 1, 'b': 2}
 
 Comment ça fonctionne :
 • func(a=1, b=2) calls fonction func
 • Arguments a=1, b=2 are keyword arguments
 • **kwargs collects all keyword arguments: kwargs = {'a': 1, 'b': 2}
-• Function executes: renvoyer kwargs
-• Returns: {'a': 1, 'b': 2}
+• La fonction s'exécute : renvoyer kwargs
+• Retourne : {'a': 1, 'b': 2}
 
 Exemple :
 def func(**kwargs): renvoyer kwargs
@@ -44192,21 +44195,21 @@ Usages courants :
 • Flexible fonction calls
 
 Exemple : If def func(**kwargs): renvoyer kwargs, then func(a=1, b=2) retourne {'a': 1, 'b': 2} car **kwargs collects all keyword arguments into a dictionnaire named kwargs.`,
-  1828: `Quand calling a fonction avec **kwargs but no keyword arguments, kwargs becomes an empty dictionnaire. If def func(**kwargs): renvoyer kwargs, then func() retourne {} car **kwargs collects keyword arguments, and when no keyword arguments are provided, it collects into an empty dictionnaire. This is different from an empty tuple - **kwargs always creates a dictionnaire, even if it's empty.
+  1828: `Quand calling a fonction avec **kwargs but no keyword arguments, kwargs becomes an empty dictionnaire. If def func(**kwargs): renvoyer kwargs, then func() retourne {} car **kwargs collecte les arguments nommés, and when no keyword arguments are provided, it collects into an empty dictionnaire. C'est different from an empty tuple - **kwargs always crée un dictionnaire, even if it's empty.
 
 **kwargs avec no arguments:
 • func() avec def func(**kwargs): renvoyer kwargs retourne {}
 • No keyword arguments provided
 • **kwargs collects into empty dictionnaire
 • kwargs = {} dans fonction
-• Returns empty dictionnaire: {}
+• Retourne empty dictionnaire: {}
 
 Comment ça fonctionne :
 • func() calls fonction func
 • No keyword arguments provided
 • **kwargs collects into empty dictionnaire: kwargs = {}
-• Function executes: renvoyer kwargs
-• Returns: {} (empty dictionnaire)
+• La fonction s'exécute : renvoyer kwargs
+• Retourne : {} (empty dictionnaire)
 
 Exemple :
 def func(**kwargs): renvoyer kwargs
@@ -44220,7 +44223,7 @@ Usages courants :
 • Variable keyword argument handling
 • Dictionary collection
 
-Exemple : If def func(**kwargs): renvoyer kwargs, then func() retourne {} car **kwargs collects keyword arguments into a dictionnaire, and when no keyword arguments are provided, it creates an empty dictionnaire.`,
+Exemple : If def func(**kwargs): renvoyer kwargs, then func() retourne {} car **kwargs collecte les arguments nommés into a dictionnaire, and when no keyword arguments are provided, il crée an empty dictionnaire.`,
   1829: `Functions can have all parameter types together: required parameters, *args, and **kwargs. def func(x, *args, **kwargs): renvoyer x, args, kwargs définit une fonction with a required parameter x, variable positional arguments *args, and variable keyword arguments **kwargs. The order is important: required parameters must come first, followed by *args, followed by **kwargs. Cela permet maximum flexibility in function calls.
 
 All parameter types:
@@ -44252,22 +44255,22 @@ Usages courants :
 • Function flexibility
 
 Exemple : def func(x, *args, **kwargs): renvoyer x, args, kwargs définit une fonction with all parameter types, allowing maximum flexibility with required, variable positional, and variable keyword arguments.`,
-  1830: `Quand calling a fonction avec all parameter types, arguments are distributed appropriately. If def func(x, *args, **kwargs): renvoyer x, args, kwargs, then func(1, 2, 3, a=4) retourne (1, (2, 3), {'a': 4}) car 1 is assigned to x (the required parameter), 2 and 3 are collected into *args as (2, 3), and a=4 is collected into **kwargs as {'a': 4}. Positional arguments go to required parameters and *args, keyword arguments go to **kwargs.
+  1830: `Quand calling a fonction avec all parameter types, arguments are distributed appropriately. If def func(x, *args, **kwargs): renvoyer x, args, kwargs, then func(1, 2, 3, a=4) retourne (1, (2, 3), {'a': 4}) car 1 is assigned to x (the required parameter), 2 and 3 sont collectés into *args as (2, 3), and a=4 is collected into **kwargs as {'a': 4}. Positional arguments go to required parameters and *args, keyword arguments go to **kwargs.
 
 Argument distribution:
 • func(1, 2, 3, a=4) avec def func(x, *args, **kwargs): renvoyer x, args, kwargs retourne (1, (2, 3), {'a': 4})
 • First argument 1 goes to required parameter x
 • Remaining positional arguments 2, 3 go to *args
 • Keyword argument a=4 goes to **kwargs
-• Returns tuple: (x, args, kwargs) = (1, (2, 3), {'a': 4})
+• Retourne tuple: (x, args, kwargs) = (1, (2, 3), {'a': 4})
 
 Comment ça fonctionne :
 • func(1, 2, 3, a=4) calls fonction func
 • First argument 1 assigned to required parameter x
 • Remaining positional arguments 2, 3 collected into *args: args = (2, 3)
 • Keyword argument a=4 collected into **kwargs: kwargs = {'a': 4}
-• Function executes: renvoyer x, args, kwargs
-• Returns: (1, (2, 3), {'a': 4})
+• La fonction s'exécute : renvoyer x, args, kwargs
+• Retourne : (1, (2, 3), {'a': 4})
 
 Exemple :
 def func(x, *args, **kwargs): renvoyer x, args, kwargs
@@ -44539,7 +44542,7 @@ Usages courants :
 • Lambda with conditions
 
 Exemple : (lambda x: x if x > 0 else 0)(-5) retourne 0 car the condition -5 > 0 is False, so the else branch is taken and 0 est retourné.`,
-  1840: `Le key difference entre def and lambda is that def creates a named fonction while lambda creates an anonymous fonction. def func(x): renvoyer x * 2 creates a fonction named func, while lambda x: x * 2 creates a fonction sans a name. Additionally, def fonctions can contain multiple instructions, while lambda fonctions are limited to a single expression. def is generally preferred for named fonctions, while lambda is useful for short, one-line fonctions used as arguments to other fonctions.
+  1840: `Le key difference entre def and lambda is that def crée un named fonction while lambda creates an anonymous fonction. def func(x): renvoyer x * 2 crée un fonction named func, while lambda x: x * 2 crée un fonction sans a name. Additionally, def fonctions can contain multiple instructions, while lambda fonctions are limited to a single expression. def is generally preferred for named fonctions, while lambda is useful for short, one-line fonctions used as arguments to other fonctions.
 
 def vs lambda:
 • def creates named fonction, lambda creates anonymous fonction
@@ -44566,7 +44569,7 @@ Usages courants :
 • Function definition
 • Lambda fonctions
 
-Exemple : The difference is def creates a named fonction (e.g., def func(x): renvoyer x * 2 creates fonction 'func'), while lambda creates an anonymous fonction (e.g., lambda x: x * 2 creates a fonction sans a name). def fonctions can contain multiple instructions, while lambda fonctions are limited to a single expression.`,
+Exemple : The difference is def crée un named fonction (e.g., def func(x): renvoyer x * 2 creates fonction 'func'), while lambda creates an anonymous fonction (e.g., lambda x: x * 2 crée un fonction sans a name). def fonctions can contain multiple instructions, while lambda fonctions are limited to a single expression.`,
   1841: `Functions renvoyer values using the renvoyer statement. def func(): renvoyer 1 définit une fonction that retourne la valeur 1 quand appelé. The renvoyer statement immediately exits the function and sends back the specified value. Functions can renvoyer any type of value - numbers, strings, lists, dictionaries, objects, etc. If no renvoyer statement is executed, the function retourne None implicitly.
 
 Renvoyer statement:
@@ -48868,7 +48871,7 @@ Exemple :
 0.0
 
 Ce pattern s'appelle un guard ou décorateur de validation — il protège les fonctions des entrées invalides.`,
-  2018: `Le validate_positive decorator raises ValueError for negative inputs. Since -1 < 0, the guard triggers avant the original sqrt fonction ever runs.
+  2018: `Le validate_positive decorator raises ValueError for negative inputs. Since -1 < 0, the guard triggers avant l'originale sqrt fonction ever runs.
 
 Concepts clés :
 • sqrt(-1) calls wrapper w(-1)
@@ -48887,7 +48890,7 @@ Exemple :
 Traceback (most recent call last):
   ...
 ValueError
-Le decorator prevents invalid computation. Without it, x ** 0.5 avec negative x raises ValueError in real math mode anyway, but the decorator provides a cleaner, explicit check.`,
+Le decorator prevents invalid computation. Without it, x ** 0.5 avec negative x raises ValueError in real math mode anyway, but the decorator fournit un cleaner, explicit check.`,
   2019: `Les décorateurs peuvent être appliqués à toute instruction def ou class. Quand appliqué à une classe, le décorateur reçoit l'objet classe et peut le modifier ou le remplacer.
 
 Concepts clés :
@@ -49348,17 +49351,17 @@ Calling <lambda>
 # lambda x: x * 2
 
 Comme les lambdas sont anonymes, f.__name__ serait "<lambda>" sauf si @wraps est utilisé.`,
-  2038: `Le decorator creates a wrapper w and explicitly sets w.__doc__ = "wrapped". Since @dec replaces f avec w, f.__doc__ retourne the wrapper's docstring: "wrapped".
+  2038: `Le decorator crée un wrapper w and explicitly sets w.__doc__ = "wrapped". Since @dec replaces f avec w, f.__doc__ retourne le wrapper's docstring: "wrapped".
 
 Concepts clés :
 • f originally has __doc__ = "original"
-• The wrapper w gets __doc__ = "wrapped" explicitly
+• Le wrapper w gets __doc__ = "wrapped" explicitly
 • @dec replaces f avec w
 • f.__doc__ is now w.__doc__ = "wrapped"
 
 Comment ça fonctionne :
 • dec(f) creates w avec __doc__ = "wrapped"
-• Returns w
+• Retourne w
 • f = dec(f) — f is now w
 • f.__doc__ retourne "wrapped"
 
@@ -49366,7 +49369,7 @@ Exemple :
 >>> f.__doc__
 'wrapped'
 
-Without the explicit w.__doc__ = "wrapped" line, f.__doc__ would be None (wrapper fonctions don't inherit the original's docstring unless @wraps is used). With @functools.wraps(f), __doc__ would be "original".`,
+Without the explicit w.__doc__ = "wrapped" line, f.__doc__ would be None (wrapper fonctions n'hérite pas l'originale's docstring unless @wraps est utilisé). With @functools.wraps(f), __doc__ would be "original".`,
   2039: `La décoration se produit au moment de la définition — quand la ligne @dec est exécutée. Le print("decorating") s'exécute dans dec, qui est appelé dans le processus de décoration.
 
 Concepts clés :
@@ -67440,7 +67443,7 @@ Usages courants :
 • Consistent cleanup behavior
 
 Exemple : finally executes even with exceptions, so try: 1/0; except: pass; finally: x = 1; x retourne 1 car finally always runs, setting x = 1.`,
-  2711: `Le raise instruction explicitly raises an exception in Python. raise ValueError('error') creates a ValueError exception avec the message 'error' and raises it, causing the program to stop normal execution and jump to the nearest exception handler. This is how you intentionally trigger error conditions.
+  2711: `Le raise instruction explicitly raises an exception en Python. raise ValueError('error') crée un ValueError exception avec the message 'error' and raises it, causing the program to stop normal execution and jump to the nearest exception handler. C'est how you intentionally trigger error conditions.
 
 raise instruction syntax:
 • raise ExceptionType(message)
@@ -67815,7 +67818,7 @@ Usages courants :
 • Clean API for resource management
 
 Exemple : Custom context manager class must implement __enter__ and __exit__ methods to fonctionner avec the with statement. The __enter__ method retourne self, which is assigned to ctx.`,
-  2723: `Le valeur returned by __enter__ is assigned to the variable après 'as' in the avec instruction. If __enter__ retourne 1, then x will be assigned the valeur 1 dans the avec block. This allows context managers to provide different objets than themselves for use in the avec block.
+  2723: `Le valeur returned by __enter__ is assigned to the variable après 'as' in the avec instruction. If __enter__ retourne 1, then x will be assigned the valeur 1 dans the avec block. Cela permet context managers to provide different objets than themselves for use in the avec block.
 
 __enter__ renvoyer valeur assignment:
 • avec ContextManager() as variable:
@@ -67961,7 +67964,7 @@ Concepts clés : __exit__ est appelée à la sortie du bloc with, reçoit type, 
 Comment ça fonctionne : with ctx: pass termine, Python appelle ctx.__exit__(None, None, None), __exit__ définit self.closed = True, ctx.closed vaut True.
 
 Usages courants : traçage du cycle de vie, nettoyage garanti, fermeture de ressources.`,
-  2731: `Le import instruction loads a module and makes it available in the current namespace. When you write import module, Python searches for a file named module.py (or a package named module) in the module search path, loads it, and creates a module objet. The module is then accessible via the module name (e.g., module.fonction()). Importing a module executes all top-level code in the module file, but subsequent imports of the same module reuse the cached module objet.
+  2731: `Le import instruction loads a module and makes it available in the current namespace. Quand vous écrivez import module, Python searches for a file named module.py (or a package named module) in the module search path, loads it, and crée un module objet. The module is then accessible via the module name (e.g., module.fonction()). Importing a module executes all top-level code in the module file, but subsequent imports of le même module reuse the cached module objet.
 
 import instruction:
 • import module loads the module
@@ -67990,7 +67993,7 @@ Usages courants :
 • Modules and imports
 
 Exemple : import module loads a module and makes it available in the current namespace, allowing you to access its attributes and fonctions via module.name.`,
-  2732: `Le from...import instruction imports a specific name (fonction, classe, or variable) from a module directly into the current namespace. When you write from module import name, Python imports the module, then copies the specified name into the current namespace, so you can use it directly sans the module prefix. This is more concise than import module; module.name, but can cause namespace pollution if many names are imported.
+  2732: `Le from...import instruction imports a specific name (fonction, classe, or variable) from a module directly into the current namespace. Quand vous write from module import name, Python importe le module, then copies the specified name into the current namespace, so you can use it directly sans the module prefix. C'est more concise than import module; module.name, but can cause namespace pollution if many names are imported.
 
 from...import instruction:
 • from module import name imports specific name
@@ -68018,7 +68021,7 @@ Usages courants :
 • Selective imports: import only what you need
 • Modules and imports
 
-Exemple : from module import name imports a specific name from a module directly into the current namespace, allowing you to use it directly sans the module prefix.`,
+Exemple : from module import name imports a specific name from a module directly into the current namespace, permettant d'utiliser it directly sans the module prefix.`,
   2733: `Le mot-clé as crée an alias for an imported name, permettant d'utiliser un nom différent dans l'espace de noms courant. Quand vous write from module import name as alias, Python imports name from the module but makes it available as alias in the current namespace. C'est useful when l'original name conflicts with an existing name, or when you want a shorter or more descriptive name.
 
 Import with alias:
@@ -68077,17 +68080,17 @@ Usages courants :
 • Modules and imports
 
 Exemple : import module as alias imports a module with an alias, allowing you to access it via alias.name instead of module.name.`,
-  2735: `Le asterisk (*) in from module import * imports all public names (names not starting avec underscore) from the module into the current namespace. This allows you to use all public names directly sans the module prefix. However, this is generally discouraged car it causes namespace pollution, makes it unclear where names come from, and can cause name conflicts. If the module defines __all__, only names in __all__ are imported.
+  2735: `Le asterisk (*) in from module import * importe tous les noms publics (names not starting avec underscore) from the module into the current namespace. Cela permet you to use all public names directly sans the module prefix. However, this is generally discouraged car it causes namespace pollution, makes it unclear where names come from, and can cause name conflicts. If the module defines __all__, only names in __all__ are imported.
 
 Wildcard import:
-• from module import * imports all public names
+• from module import * importe tous les noms publics
 • Imports all names not starting avec _
 • If __all__ defined, imports only names in __all__
 • Names available directly (no module prefix)
 • Causes namespace pollution (discouraged)
 
 Comment ça fonctionne :
-• Python imports all public names from module
+• Python importe tous les noms publics from module
 • Names not starting avec _ are imported
 • If __all__ exists, imports only names in __all__
 • All names copied to current namespace
@@ -68105,7 +68108,7 @@ Usages courants :
 • Namespace pollution: makes code harder to understand
 • Modules and imports
 
-Exemple : from module import * imports all public names from a module, but is generally discouraged due to namespace pollution and unclear name origins.`,
+Exemple : from module import * importe tous les noms publics from a module, but is generally discouraged due to namespace pollution and unclear name origins.`,
   2736: `La variable __name__ contient le nom du module. Quand un fichier Python est exécuté directement (as a script), __name__ est défini à '__main__'. When a file is imported as a module, __name__ est défini à the module name. Cela permet you to check if a script is being run directly or imported, which is useful for running code uniquement quand the script is executed directly (not when imported).
 
 __name__ variable:
@@ -68137,20 +68140,20 @@ Usages courants :
 • Modules and imports
 
 Exemple : __name__ == '__main__' checks if a script is run directly (not imported), allowing conditional execution of code.`,
-  2737: `Le pattern if __name__ == '__main__': is a common Python idiom that allows code to run only when a script is executed directly, not when it's imported as a module. This pattern is typically used to place code that should only run when the script is the main entry point (like main() fonction calls, tests, or script-specific logic) dans the if block.
+  2737: `Le pattern if __name__ == '__main__': is a common Python idiom that allows code to run uniquement quand a script is executed directly, not when it's imported as a module. Ce pattern is typically utilisé pour place code that should only run when the script is the main entry point (like main() fonction calls, tests, or script-specific logic) dans the if block.
 
 __name__ == '__main__' pattern:
 • if __name__ == '__main__': checks if script is main
-• Code in block runs only when script executed directly
-• Code doesn't run when module is imported
+• Code in block runs uniquement quand script executed directly
+• Le code ne s'exécute pas when module is imported
 • Common pattern for script entry points
 • Allows modules to be both importable and executable
 
 Comment ça fonctionne :
 • When script run directly: __name__ = '__main__'
 • When imported: __name__ = 'module_name'
-• if __name__ == '__main__': True only when run directly
-• Code in block executes only when True
+• if __name__ == '__main__': True uniquement quand run directly
+• Code in block executes uniquement quand True
 • Allows conditional execution
 
 Exemple :
@@ -68159,16 +68162,16 @@ def main():
     # Script logic here
 
 if __name__ == '__main__':
-    main()  # Runs only when script is executed directly
+    main()  # Runs uniquement quand script is executed directly
 # Can import this module sans running main()
 
 Usages courants :
 • Script entry points: if __name__ == '__main__': main()
 • Testing: if __name__ == '__main__': unittest.main()
-• Conditional execution: run code only when script is main
+• Conditional execution: run code uniquement quand script is main
 • Modules and imports
 
-Exemple : if __name__ == '__main__': pass is a common pattern that runs code only when a script is executed directly, not when imported as a module.`,
+Exemple : if __name__ == '__main__': pass is a common pattern that runs code uniquement quand a script is executed directly, not when imported as a module.`,
   2738: `sys.path est une liste de chemins de répertoires où Python cherche for modules quand vous les importez. Quand vous écrivez import module, Python searches for the module in chaque directory in sys.path in order until il trouve the module. sys.path is initialized from the current directory, PYTHONPATH environment variable, and standard library paths. You can modifier sys.path to add custom directories to the module search path.
 
 sys.path:
@@ -68295,14 +68298,14 @@ Usages courants :
 • Generators and iterators
 
 Exemple : If def gen(): yield 1; type(gen()), then type(gen()) retourne <class 'generator'> car a function with yield retourne a generator object, not a regular function.`,
-  2742: `Le next() fonction gets the next valeur from a generator. If def gen(): yield 1; next(gen()), then next(gen()) retourne 1 car next() advances the generator to the next yield instruction and retourne the yielded valeur. Each call to next() on a generator consumes one valeur. Note that each gen() call creates a new generator, so this retourne 1 each time, but if you reuse the same generator objet, it will raise StopIteration après yielding all valeurs.
+  2742: `Le next() fonction gets the next valeur from a generator. If def gen(): yield 1; next(gen()), then next(gen()) retourne 1 car next() advances the generator to the next yield instruction and retourne the yielded valeur. Each call to next() on a generator consumes one valeur. Note that each gen() call crée un new generator, so this retourne 1 each time, but if you reuse le même generator objet, it will raise StopIteration après yielding all valeurs.
 
 next() avec generator:
 • next(gen()) retourne 1
 • next() advances generator to next yield
-• Returns yielded valeur (1)
+• Retourne yielded valeur (1)
 • Generator state advances
-• Returns: 1
+• Retourne : 1
 
 Comment ça fonctionne :
 • gen() creates new generator objet
@@ -68310,7 +68313,7 @@ Comment ça fonctionne :
 • Generator executes until yield 1
 • next() retourne yielded valeur: 1
 • Generator pauses at yield
-• Returns: 1
+• Retourne : 1
 
 Exemple :
 def gen():
@@ -68393,7 +68396,7 @@ Usages courants :
 • Generators and iterators
 
 Exemple : If def gen(): yield 1; return; g = gen(); next(g); next(g), then next(g) lève StopIteration car the generator is exhausted - it n'a pas more values to yield after yielding 1.`,
-  2745: `Quand a generator has a renvoyer instruction avec a valeur, that valeur becomes the valeur attribute of the StopIteration exception. If def gen(): yield 1; renvoyer 'done'; g = gen(); next(g); g.send(None), then g.send(None) raises StopIteration avec valeur 'done' car après yielding 1, the generator reaches renvoyer 'done', and the renvoyer valeur becomes the StopIteration exception's valeur attribute. You can access it via except StopIteration as e: e.valeur.
+  2745: `Quand a generator a un renvoyer instruction avec a valeur, that valeur becomes the valeur attribute of the StopIteration exception. If def gen(): yield 1; renvoyer 'done'; g = gen(); next(g); g.send(None), then g.send(None) raises StopIteration avec valeur 'done' car après yielding 1, the generator reaches renvoyer 'done', and the renvoyer valeur becomes the StopIteration exception's valeur attribute. Vous pouvez accéder it via except StopIteration as e: e.valeur.
 
 Return valeur in StopIteration:
 • g.send(None) raises StopIteration avec valeur 'done'
@@ -68428,7 +68431,7 @@ Usages courants :
 • Generators and iterators
 
 Exemple : If def gen(): yield 1; renvoyer 'done'; g = gen(); next(g); g.send(None), then g.send(None) raises StopIteration avec valeur 'done' car the renvoyer valeur becomes the StopIteration exception's valeur attribute.`,
-  2746: `Le send() méthode sends a valeur to a generator, and that valeur becomes the valeur of the yield expression. If def gen(): x = yield 1; yield x; g = gen(); next(g); g.send(2), then g.send(2) retourne 2 car send() sends 2 to the generator, which becomes the valeur of x = yield 1 (x = 2), then the generator yields x (2). The first next(g) is needed to start the generator and reach the first yield avant you can send valeurs. After that, send() can be used to send valeurs into the generator.
+  2746: `Le send() méthode sends a valeur to a generator, and that valeur becomes the valeur of the yield expression. If def gen(): x = yield 1; yield x; g = gen(); next(g); g.send(2), then g.send(2) retourne 2 car send() sends 2 to the generator, which becomes the valeur of x = yield 1 (x = 2), then the generator yields x (2). The first next(g) is needed to start the generator and reach the first yield avant you can send valeurs. After that, send() peut être utilisé to send valeurs into the generator.
 
 send() méthode:
 • g.send(2) retourne 2
@@ -68436,7 +68439,7 @@ send() méthode:
 • Value becomes yield expression valeur
 • x = yield 1 becomes x = 2
 • Generator yields x (2)
-• Returns: 2
+• Retourne : 2
 
 Comment ça fonctionne :
 • g = gen() creates generator
@@ -68445,7 +68448,7 @@ Comment ça fonctionne :
 • g.send(2) sends 2 to generator
 • x = 2 (valeur of yield expression)
 • Generator continues, yields x (2)
-• Returns: 2
+• Retourne : 2
 
 Exemple :
 def gen():
@@ -68492,21 +68495,21 @@ Usages courants :
 • Generators and iterators
 
 Exemple : (x**2 for x in [1, 2, 3]) crée a generator expression, which is a generator object that produces values when iterated over.`,
-  2748: `Le liste() fonction can consume a generator expression, converting all its valeurs into a liste. If liste(x**2 for x in [1, 2, 3]), then liste() retourne [1, 4, 9] car liste() iterates over the generator expression, consuming all valeurs (1**2=1, 2**2=4, 3**2=9) and creating a liste avec those valeurs. This is equivalent to [x**2 for x in [1, 2, 3]], but using a generator expression dans liste() can be more memory-efficient if you need to process valeurs first.
+  2748: `Le liste() fonction can consume a generator expression, converting all its valeurs into a liste. If liste(x**2 for x in [1, 2, 3]), then liste() retourne [1, 4, 9] car liste() itère sur the generator expression, consuming all valeurs (1**2=1, 2**2=4, 3**2=9) and creating a liste avec those valeurs. C'est equivalent to [x**2 for x in [1, 2, 3]], but using a generator expression dans liste() can be more memory-efficient if you need to process valeurs first.
 
 liste() consumes generator:
 • liste(x**2 for x in [1, 2, 3]) retourne [1, 4, 9]
-• liste() iterates over generator expression
+• liste() itère sur generator expression
 • Consumes all valeurs: 1, 4, 9
 • Creates liste avec all valeurs
-• Returns: [1, 4, 9]
+• Retourne : [1, 4, 9]
 
 Comment ça fonctionne :
 • (x**2 for x in [1, 2, 3]) creates generator
-• liste() iterates over generator
+• liste() itère sur generator
 • Generator yields: 1 (1**2), 4 (2**2), 9 (3**2)
 • liste() collects all valeurs: [1, 4, 9]
-• Returns: [1, 4, 9]
+• Retourne : [1, 4, 9]
 
 Exemple :
 liste(x**2 for x in [1, 2, 3])    # [1, 4, 9] (consumes generator)
@@ -68520,22 +68523,22 @@ Usages courants :
 • Generators and iterators
 
 Exemple : If liste(x**2 for x in [1, 2, 3]), then liste() retourne [1, 4, 9] car liste() consumes the generator expression, converting all its valeurs into a liste.`,
-  2749: `Le yield from instruction delegates iteration to another iterable. If def gen(): yield from [1, 2, 3]; liste(gen()), then liste(gen()) retourne [1, 2, 3] car yield from [1, 2, 3] delegates to the liste, yielding each valeur from the liste. This is equivalent to for item in [1, 2, 3]: yield item, but more concise. yield from is useful for delegating to another generator or iterable, allowing composition of generators.
+  2749: `Le yield from instruction delegates iteration to another iterable. If def gen(): yield from [1, 2, 3]; liste(gen()), then liste(gen()) retourne [1, 2, 3] car yield from [1, 2, 3] delegates to the liste, yielding each valeur from the liste. C'est equivalent to for item in [1, 2, 3]: yield item, but more concise. yield from is useful for delegating to another generator or iterable, allowing composition of generators.
 
 yield from instruction:
 • yield from [1, 2, 3] delegates to liste
 • Yields each valeur from liste
 • Equivalent to for item in [1, 2, 3]: yield item
 • liste(gen()) collects all valeurs: [1, 2, 3]
-• Returns: [1, 2, 3]
+• Retourne : [1, 2, 3]
 
 Comment ça fonctionne :
 • gen() creates generator
-• liste() iterates over generator
+• liste() itère sur generator
 • Generator executes: yield from [1, 2, 3]
 • yield from yields each valeur: 1, 2, 3
 • liste() collects: [1, 2, 3]
-• Returns: [1, 2, 3]
+• Retourne : [1, 2, 3]
 
 Exemple :
 def gen():
@@ -75461,16 +75464,33 @@ Usages courants :
 • Utiliser des classes de base pour le comportement partagé`,
 };
 
+const getFrenchDetailedFallback = (questionId: number): string => {
+  const shortExplanation = SHORT_EXPLANATIONS_FR[questionId];
+  if (shortExplanation) {
+    return `Explication en français :\n${shortExplanation}\n\nDescription approfondie complète en cours de normalisation.`;
+  }
+  return "Description approfondie en français en cours de normalisation pour cette question.";
+};
+
 /**
- * Retourne French detailed explanation if available and language is French, else English.
+ * Retourne une description approfondie en français en mode FR.
+ * Si un contenu mixte EN/FR est détecté, un fallback 100% FR est affiché.
  */
 export const getTranslatedDetailedExplanation = (
   questionId: number,
   englishText: string,
   language: string
 ): string => {
-  if (language === 'fr' && DETAILED_EXPLANATIONS_FR[questionId]) {
-    return DETAILED_EXPLANATIONS_FR[questionId];
+  if (language !== 'fr') {
+    return englishText;
   }
-  return englishText;
+
+  const frenchCandidate = DETAILED_EXPLANATIONS_FR[questionId] ?? englishText;
+  const normalized = normalizeFrenchProse(frenchCandidate);
+
+  if (containsEnglishProse(normalized)) {
+    return getFrenchDetailedFallback(questionId);
+  }
+
+  return normalized;
 };

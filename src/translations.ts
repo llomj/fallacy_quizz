@@ -113,8 +113,11 @@ export const translations = {
     
     // Glossary View
     glossary: {
+      title: "PYTHON GLOSSARY",
       searchPlaceholder: "Search glossary...",
       levelConcept: "Level {range} Concept",
+      levelSection: "Level {level}",
+      levelBadge: "Lvl {range}",
       inDepthDescription: "In-Depth Description",
       implementationExample: "Implementation Example",
       noResults: "No terms found matching \"{search}\"",
@@ -351,8 +354,11 @@ export const translations = {
     
     // Glossary View
     glossary: {
+      title: "GLOSSAIRE PYTHON",
       searchPlaceholder: "Rechercher dans le glossaire...",
       levelConcept: "Concept Niveau {range}",
+      levelSection: "Niveau {level}",
+      levelBadge: "Niveau {range}",
       inDepthDescription: "Description Approfondie",
       implementationExample: "Exemple d'Implémentation",
       noResults: "Aucun terme trouvé correspondant à \"{search}\"",
