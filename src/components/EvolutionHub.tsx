@@ -72,7 +72,7 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz }
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <div className="glass rounded-3xl p-8 space-y-6 flex flex-col justify-between">
+        <div className={`glass rounded-3xl p-8 space-y-6 flex flex-col justify-between ${randomMode ? 'border-indigo-500/20 bg-indigo-500/5' : ''}`}>
           {randomMode ? (
             <>
               <div>

@@ -335,45 +335,51 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
 
               <div className="pt-4 border-t border-white/10">
                 <div className="mb-4">
-                  {(() => {
-                    const { prefix, code } = splitQuestion(question.question, language);
-                    if (code) {
-                      return (
-                        <div className="flex flex-col">
-                          {prefix && (
-                            <p className="text-lg font-bold text-white leading-relaxed mb-2">{prefix}</p>
-                          )}
-                          <div className="overflow-x-auto bg-slate-800 rounded-lg">
-                            <SyntaxHighlighter
-                              language="python"
-                              style={oneDark}
-                              customStyle={{
-                                padding: '1rem',
-                                margin: 0,
-                                background: 'transparent',
-                                fontSize: '0.875rem',
-                                lineHeight: '1.75',
-                                fontFamily: "'Fira Code', monospace"
-                              }}
-                              codeTagProps={{
-                                style: {
-                                  fontFamily: "'Fira Code', monospace",
-                                  whiteSpace: 'pre',
-                                  display: 'block'
-                                }
-                              }}
-                              PreTag="div"
-                            >
-                              {formatCodeSnippet(code)}
-                            </SyntaxHighlighter>
+                  <div className="max-h-[70vh] overflow-y-auto overflow-x-hidden bg-slate-800 rounded-lg">
+                    {(() => {
+                      const { prefix, code } = splitQuestion(question.question, language);
+                      if (code) {
+                        return (
+                          <div className="flex flex-col">
+                            {prefix && (
+                              <div className="px-4 pt-4 pb-2 border-b border-slate-700/50">
+                                <p className="text-white text-lg font-medium leading-relaxed">{prefix}</p>
+                              </div>
+                            )}
+                            <div className="overflow-x-auto flex-1">
+                              <SyntaxHighlighter
+                                language="python"
+                                style={oneDark}
+                                customStyle={{
+                                  padding: '1rem',
+                                  margin: 0,
+                                  background: 'transparent',
+                                  fontSize: '0.875rem',
+                                  lineHeight: '1.75',
+                                  fontFamily: "'Fira Code', monospace"
+                                }}
+                                codeTagProps={{
+                                  style: {
+                                    fontFamily: "'Fira Code', monospace",
+                                    whiteSpace: 'pre',
+                                    display: 'block'
+                                  }
+                                }}
+                                PreTag="div"
+                              >
+                                {formatCodeSnippet(code)}
+                              </SyntaxHighlighter>
+                            </div>
                           </div>
-                        </div>
+                        );
+                      }
+                      return (
+                        <h2 className="text-xl md:text-2xl font-bold leading-tight text-white px-4 pt-4">
+                          {prefix}
+                        </h2>
                       );
-                    }
-                    return (
-                      <p className="text-lg font-bold text-white leading-relaxed">{prefix}</p>
-                    );
-                  })()}
+                    })()}
+                  </div>
                 </div>
 
                 <div className="space-y-2 mb-4">
