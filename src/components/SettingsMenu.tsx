@@ -92,8 +92,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
         onClick: () => {
           onToggleRandomMode();
           onClose();
-        },
-        highlight: randomMode
+        }
       });
     }
   }
@@ -117,8 +116,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
         onClick: () => {
           onToggleRandomMode();
           onClose();
-        },
-        highlight: randomMode
+        }
       });
     }
   }
