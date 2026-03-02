@@ -189,7 +189,7 @@ export const translations = {
     // ID Search & Log
     idSearch: {
       searchById: "Search by ID",
-      enterId: "Enter question ID (1-3000)",
+      enterId: "ID (1-3000)",
       search: "Search",
       saveToLog: "Save to Log",
       saved: "Saved!",
@@ -431,7 +431,7 @@ export const translations = {
     // ID Search & Log
     idSearch: {
       searchById: "Rechercher par ID",
-      enterId: "Entrer l'ID de la question (1-3000)",
+      enterId: "ID (1-3000)",
       search: "Rechercher",
       saveToLog: "Enregistrer dans le Journal",
       saved: "Enregistré!",
