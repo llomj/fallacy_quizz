@@ -202,6 +202,64 @@ Before moving to the next level:
 4. **Version check** — Compare deployed version and show "Update" prompt with link to clear-sw.
 5. **Confirm URL** — Ensure clear-sw.html is at `https://llomj.github.io/python-exercises-learn/clear-sw.html`.
 
+---
+
+## 🔴 PHONE APP NOT UPDATING — CACHE TROUBLESHOOTING CHECKLIST
+
+**Symptom**: Changes work in browser on computer but phone app still shows old version (e.g. Q174 still in English when French selected).
+
+### CHECKLIST — Work through in order
+
+#### 1. GitHub / Deployment
+- [ ] **GitHub Actions passed** — Check repo → Actions tab; last deploy succeeded
+- [ ] **Deploy finished** — Wait 2–5 min after push; GitHub Pages can lag
+- [ ] **Correct repo** — App URL: `https://llomj.github.io/python-exercises-learn/` (repo name = python-exercises-learn)
+- [ ] **Base path** — Vite uses `VITE_BASE_REPO` = `github.event.repository.name`; must match repo
+
+#### 2. clear-sw.html URL
+- [ ] **Exact URL** — `https://llomj.github.io/python-exercises-learn/clear-sw.html` (no trailing slash before clear-sw)
+- [ ] **In Safari** — On phone, open Safari (not the PWA), paste URL, go
+- [ ] **See "Cache cleared"** — Page shows "Unregistering…" then "Cache cleared. Loading app…"
+- [ ] **Redirect works** — After clear, redirects to app with `?nocache=timestamp`
+
+#### 3. Service Worker
+- [ ] **SW version bumped** — `sw.js?v=11` in main.tsx; `CACHE_NAME` v11 in sw.js
+- [ ] **clear-sw not cached** — SW fetch handler uses `fetch(request, { cache: 'no-store' })` for clear-sw.html
+- [ ] **Document network-first** — SW fetches HTML with cache-bust `?_v=11` and `cache: 'no-store'`
+
+#### 4. Phone / PWA
+- [ ] **Remove from Home Screen** — Delete PWA icon; re-add after clear-sw
+- [ ] **Safari, not PWA** — Visit clear-sw.html in Safari first; PWA may use frozen shell
+- [ ] **Settings → Refresh** — In app: Settings → "Refresh app (get latest)" goes to clear-sw.html
+- [ ] **iOS WebView** — Standalone PWA can freeze at "Add to Home Screen"; new install = fresh
+
+#### 5. CDN / HTTP cache
+- [ ] **GitHub Pages CDN** — Cannot set Cache-Control; CDN may cache index.html
+- [ ] **Cache-bust in SW** — Document fetch adds `?_v=11` to bypass CDN cache
+- [ ] **index.html meta** — `<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">`
+
+#### 6. Verify you have latest
+- [ ] **Computer browser** — Hard refresh (Cmd+Shift+R) on app URL; confirm changes visible
+- [ ] **Phone after clear-sw** — Close app fully, reopen from Home Screen
+- [ ] **Test Q174** — French mode, ID 174: should show `Qu'est-ce que "   ".strip() renvoie ?`
+
+### FIXED IN CODE (v11)
+- CACHE_NAME v10 → v11
+- sw.js?v=10 → sw.js?v=11
+- Document fetch: `?_v=11` + `cache: 'no-store'`
+- clear-sw.html fetch: `cache: 'no-store'`
+- clear-sw.html shows current URL for user to copy
+
+### USER STEPS (phone)
+1. Open **Safari** on iPhone (not the app)
+2. Go to: `https://llomj.github.io/python-exercises-learn/clear-sw.html`
+3. Wait for "Cache cleared. Loading app…"
+4. Remove app from Home Screen (long-press → Remove)
+5. Tap "Add to Home Screen" in Safari to re-add
+6. Open app — should now have latest
+
+---
+
 ## Solutions Needed
 - Increase code panel size significantly
 - Match code panel background to dark theme

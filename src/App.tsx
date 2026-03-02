@@ -9,6 +9,71 @@ import { formatTranslation } from './translations';
 
 const LOCAL_STORAGE_KEY = 'python_exercises_learn_stats_v3_offline';
 
+const playStarCelebrationSound = () => {
+  if (typeof window === 'undefined') return;
+
+  const AudioContextClass = window.AudioContext || (window as Window & { webkitAudioContext?: typeof AudioContext }).webkitAudioContext;
+  if (!AudioContextClass) return;
+
+  const audioContext = new AudioContextClass();
+  if (audioContext.state === 'suspended') {
+    void audioContext.resume();
+  }
+  const now = audioContext.currentTime;
+  const masterGain = audioContext.createGain();
+
+  masterGain.connect(audioContext.destination);
+  masterGain.gain.setValueAtTime(0.0001, now);
+  masterGain.gain.exponentialRampToValueAtTime(0.08, now + 0.02);
+  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.72);
+
+  const scheduleTone = (
+    frequency: number,
+    startOffset: number,
+    duration: number,
+    type: OscillatorType,
+    volume = 0.12
+  ) => {
+    const osc = audioContext.createOscillator();
+    const gain = audioContext.createGain();
+    const start = now + startOffset;
+    const end = start + duration;
+
+    osc.type = type;
+    osc.frequency.setValueAtTime(frequency, start);
+    gain.gain.setValueAtTime(0.0001, start);
+    gain.gain.exponentialRampToValueAtTime(volume, start + 0.02);
+    gain.gain.exponentialRampToValueAtTime(0.0001, end);
+
+    osc.connect(gain);
+    gain.connect(masterGain);
+    osc.start(start);
+    osc.stop(end + 0.02);
+  };
+
+  const leadNotes = [
+    { freq: 587.33, at: 0.0, len: 0.07 },   // D5
+    { freq: 739.99, at: 0.08, len: 0.07 },  // F#5
+    { freq: 880.0, at: 0.16, len: 0.08 },   // A5
+    { freq: 1108.73, at: 0.25, len: 0.1 },  // C#6
+    { freq: 1318.51, at: 0.37, len: 0.24 }  // E6
+  ];
+
+  leadNotes.forEach((note) => {
+    scheduleTone(note.freq, note.at, note.len, 'square', 0.07);
+    scheduleTone(note.freq * 0.5, note.at, note.len, 'triangle', 0.035);
+    scheduleTone(note.freq * 1.5, note.at + 0.01, note.len * 0.55, 'triangle', 0.015);
+  });
+
+  scheduleTone(146.83, 0.0, 0.18, 'sawtooth', 0.028);
+  scheduleTone(185.0, 0.18, 0.18, 'sawtooth', 0.028);
+  scheduleTone(220.0, 0.36, 0.24, 'sawtooth', 0.028);
+
+  window.setTimeout(() => {
+    void audioContext.close();
+  }, 900);
+};
+
 const INITIAL_STATS: UserStats = {
   currentLevel: 1,
   xp: 0,
@@ -107,6 +172,12 @@ const App: React.FC = () => {
   useEffect(() => {
     localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(stats));
   }, [stats]);
+
+  useEffect(() => {
+    if (showResult?.starEarned) {
+      playStarCelebrationSound();
+    }
+  }, [showResult?.starEarned]);
 
   const currentLevelInfo = LEVELS.find(l => l.level === stats.currentLevel) || LEVELS[0];
   const currentPersona = (stats.randomMode && stats.randomModeStats)
@@ -456,6 +527,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v11</p>
       </footer>
 
       {/* Operations View Modal */}
