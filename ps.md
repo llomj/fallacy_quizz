@@ -223,7 +223,7 @@ Before moving to the next level:
 - [ ] **Redirect works** — After clear, redirects to app with `?nocache=timestamp`
 
 #### 3. Service Worker
-- [ ] **SW version bumped** — `sw.js?v=11` in main.tsx; `CACHE_NAME` v11 in sw.js
+- [ ] **SW version bumped** — `sw.js?v=12` in main.tsx; `CACHE_NAME` v12 in sw.js
 - [ ] **clear-sw not cached** — SW fetch handler uses `fetch(request, { cache: 'no-store' })` for clear-sw.html
 - [ ] **Document network-first** — SW fetches HTML with cache-bust `?_v=11` and `cache: 'no-store'`
 
@@ -257,6 +257,86 @@ Before moving to the next level:
 4. Remove app from Home Screen (long-press → Remove)
 5. Tap "Add to Home Screen" in Safari to re-add
 6. Open app — should now have latest
+
+### ⚠️ USER REPORT: CLEARING BROWSER HISTORY DID NOT FIX IT
+
+**What was tried**: User cleared Chrome browser history on phone. App still shows old version.
+
+**Conclusion**: Clearing browser history alone is **not sufficient**. The problem is likely **upstream** — either:
+1. **GitHub Pages CDN** — serving cached `index.html` / JS bundles before they ever reach the phone
+2. **Service Worker** — still serving old cached content even after history clear (SW cache is separate from browser history)
+3. **PWA shell** — iOS/Android may have frozen the app shell at "Add to Home Screen"
+
+**Hypothesis**: The issue is **GitHub-side** because:
+- The app is hosted on GitHub Pages (`llomj.github.io/python-exercises-learn/`)
+- GitHub Pages uses a CDN that caches aggressively
+- We **cannot control** `Cache-Control` headers on GitHub Pages
+- Even if the user clears phone cache, the **next request** may hit GitHub's CDN edge and get old content
+- Deploy can succeed in Actions but CDN propagation can lag (minutes to hours)
+
+---
+
+## 🔴 GITHUB-SIDE CACHE — LIKELY ROOT CAUSE (Phone Not Updating)
+
+**Symptom**: User cleared Chrome history on phone; app still shows old version. Changes work on computer.
+
+**Hypothesis**: The problem is on the **GitHub side**, not the phone:
+
+### Why GitHub Pages Can Block Updates
+
+| Layer | What Happens | We Control? |
+|-------|--------------|-------------|
+| **GitHub Actions** | Builds and deploys `dist/` | ✅ Yes — check Actions tab |
+| **GitHub Pages CDN** | Caches `index.html`, JS, CSS at edge nodes | ❌ No — cannot set headers |
+| **CDN propagation** | Can take 2–10+ min after deploy | ❌ No |
+| **Browser cache** | User's phone caches responses | Partially — SW, meta tags |
+| **Service Worker** | Our SW caches assets | ✅ Yes — v11, network-first |
+
+**Key insight**: If GitHub's CDN serves **stale** `index.html` to the phone, the phone will load old script URLs → old JS → old app. Clearing browser history does **not** purge GitHub's CDN.
+
+### GITHUB-SIDE CHECKLIST (Work Through in Order)
+
+#### 1. Verify Deployment Actually Finished
+- [ ] Go to repo → **Actions** tab
+- [ ] Last workflow: **pages-build-deployment** — green check?
+- [ ] Wait **5–10 minutes** after push — CDN propagation can lag
+- [ ] Re-run workflow if unsure: Actions → Select run → "Re-run all jobs"
+
+#### 2. Confirm What's Live on GitHub
+- [ ] On **computer**, open: `https://llomj.github.io/python-exercises-learn/`
+- [ ] Hard refresh: **Cmd+Shift+R** (Mac) or **Ctrl+Shift+R** (Win)
+- [ ] Check footer: does it show **SW v11**?
+- [ ] If computer shows old version → deploy didn't work or CDN not updated
+- [ ] If computer shows new version but phone doesn't → phone/CDN edge issue
+
+#### 3. Bypass CDN Cache (User Workaround)
+- [ ] Try loading with cache-bust query:  
+  `https://llomj.github.io/python-exercises-learn/?nocache=1730123456`  
+  (use current Unix timestamp)
+- [ ] Or: `https://llomj.github.io/python-exercises-learn/?v=20250227`
+- [ ] This *may* force CDN to treat it as a new URL (not guaranteed on GitHub Pages)
+
+#### 4. clear-sw.html First, Then App
+- [ ] On phone: open **Safari** (not PWA, not Chrome — Safari uses same WebKit on iOS)
+- [ ] Visit: `https://llomj.github.io/python-exercises-learn/clear-sw.html`
+- [ ] Wait for "Cache cleared. Loading app…"
+- [ ] **Remove PWA from Home Screen** — long-press icon → Remove
+- [ ] **Re-add to Home Screen** from Safari
+- [ ] Open app — should get fresh shell
+
+#### 5. If Still Broken — GitHub Limitation
+- GitHub Pages does **not** allow custom `Cache-Control` headers
+- We already have `<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">` in `index.html` — meta tags only affect browser, not CDN
+- **Possible next steps** (require user approval):
+  - Add `pragma` and `expires` meta tags for older clients
+  - Consider **Netlify** or **Vercel** for deployment — they allow cache header control for `index.html`
+  - Use a **custom domain** with Cloudflare — can purge cache on deploy
+
+### DOCUMENTED FOR NEXT SOLUTION
+
+- Clearing Chrome history on phone: **did not fix**
+- Hypothesis: **GitHub Pages CDN** serving stale content
+- Next: Verify deployment, wait for CDN, try cache-bust URL, or consider alternative host with cache control
 
 ---
 
