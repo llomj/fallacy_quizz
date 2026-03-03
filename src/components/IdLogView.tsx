@@ -5,6 +5,7 @@ import { getTranslatedShortExplanation } from '../data/shortExplanationsTranslat
 import { QUESTIONS_BANK } from '../questionsBank';
 import { translateQuestionText } from '../utils/translateQuestion';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
+import { splitQuestion, hasCodeLikeContent } from '../utils/splitQuestion';
 import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { oneDark } from 'react-syntax-highlighter/dist/esm/styles/prism';
 
@@ -79,87 +80,8 @@ const formatCodeSnippet = (text: string): string => {
   return formattedLines.join('\n');
 };
 
-const splitQuestion = (text: string, language: string = 'en') => {
-  try {
-    const enhancedText = translateQuestionText(text, language);
-
-    if (enhancedText.includes('\n')) {
-      const lines = enhancedText.split('\n');
-      for (let i = 0; i < lines.length; i++) {
-        const line = lines[i];
-        if (/^\s{2,}/.test(line) || /^\s*(def|class|for|while|if|with|import|from)\s+/.test(line)) {
-          return {
-            prefix: lines.slice(0, i).join('\n').trim(),
-            code: lines.slice(i).join('\n')
-          };
-        }
-      }
-    }
-
-    const questionWords = [
-      'What is', "Qu'est-ce que c'est",
-      'Result', 'Résultat',
-      'Output', 'Sortie',
-      'Value', 'Valeur',
-      'What', 'Which', 'Lequel', 'How', 'Comment', 'When', 'Quand', 'Where', 'Où', 'Why', 'Pourquoi',
-      'Can', 'Peut', 'Does', 'Est-ce que', 'Is', 'Est', 'Are', 'Sont', 'Will', 'Va', 'Would', 'Serait', 'Should', 'Devrait'
-    ];
-
-    let questionWordMatch = null;
-    for (const word of questionWords) {
-      const pattern = new RegExp(`^${word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s+`, 'i');
-      const match = enhancedText.match(pattern);
-      if (match) {
-        questionWordMatch = match;
-        break;
-      }
-    }
-
-    if (questionWordMatch && questionWordMatch[0]) {
-      const questionEnd = questionWordMatch[0].length;
-      let remainingText = enhancedText.substring(questionEnd).trim();
-      remainingText = remainingText.replace(/^(of|de|is)\s+/i, '');
-      const hasQuestionMark = remainingText.endsWith('?');
-      if (hasQuestionMark) remainingText = remainingText.slice(0, -1).trim();
-
-      const functionCallPattern = /[a-zA-Z_]\w*\s*\(/;
-      const codeKeywordPattern = /\b(def|class|for|while|if|with|import|from|print)\s+/;
-      const bracketPattern = /[\[\(\{]/;
-
-      if (functionCallPattern.test(remainingText) ||
-        bracketPattern.test(remainingText) ||
-        codeKeywordPattern.test(remainingText)) {
-        return {
-          prefix: enhancedText.substring(0, questionEnd).trim() + (hasQuestionMark ? '?' : ''),
-          code: remainingText
-        };
-      }
-    }
-
-    const codePatterns = [
-      /\b(def|class|for|while|if|with|import|from)\s+/,
-      /print\s*\(/,
-      /[a-zA-Z_]\w*\s*\(/,
-    ];
-
-    for (const pattern of codePatterns) {
-      const match = enhancedText.match(pattern);
-      if (match && match.index !== undefined) {
-        const beforeCode = enhancedText.substring(0, match.index).trim();
-        if (/^(What|Result|Output|Value|Which|How|When|Where|Why|Can|Does|Is|Are|Will|Would|Should)/i.test(beforeCode)) {
-          return {
-            prefix: beforeCode,
-            code: enhancedText.substring(match.index).trim()
-          };
-        }
-      }
-    }
-
-    return { prefix: enhancedText, code: '' };
-  } catch (error) {
-    return { prefix: text, code: '' };
-  }
-};
+const splitQuestionForDisplay = (text: string, lang: string) =>
+  splitQuestion(text, lang, translateQuestionText);
 
 interface IdLogViewProps {
   entries: IdLogEntry[];
@@ -248,7 +170,8 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose }) => {
                 <div className="mb-4">
                   <div className="max-h-[45vh] overflow-y-auto overflow-x-hidden bg-slate-800 rounded-lg">
                     {(() => {
-                      const { prefix, code } = splitQuestion(entry.question, language);
+                      const { prefix, code } = splitQuestionForDisplay(entry.question, language);
+                      const displayText = translateQuestionText(entry.question, language);
                       if (code) {
                         return (
                           <div className="flex flex-col">
@@ -284,10 +207,37 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose }) => {
                           </div>
                         );
                       }
-
+                      if (hasCodeLikeContent(displayText)) {
+                        return (
+                          <div className="overflow-x-auto flex-1">
+                            <SyntaxHighlighter
+                              language="python"
+                              style={oneDark}
+                              customStyle={{
+                                padding: '1rem',
+                                margin: 0,
+                                background: 'transparent',
+                                fontSize: '0.875rem',
+                                lineHeight: '1.75',
+                                fontFamily: "'Fira Code', monospace"
+                              }}
+                              codeTagProps={{
+                                style: {
+                                  fontFamily: "'Fira Code', monospace",
+                                  whiteSpace: 'pre-wrap',
+                                  display: 'block'
+                                }
+                              }}
+                              PreTag="div"
+                            >
+                              {formatCodeSnippet(displayText)}
+                            </SyntaxHighlighter>
+                          </div>
+                        );
+                      }
                       return (
                         <h3 className="text-xl font-bold leading-tight text-white px-4 pt-4 pb-4">
-                          {translateQuestionText(entry.question, language)}
+                          {displayText}
                         </h3>
                       );
                     })()}
