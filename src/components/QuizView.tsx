@@ -864,8 +864,8 @@ export const QuizView: React.FC<QuizViewProps> = ({
         <button onClick={onExit} className="w-10 h-10 flex items-center justify-center rounded-xl bg-slate-800 text-slate-400 hover:text-white transition-colors border border-white/5">
           <i className="fas fa-times"></i>
         </button>
-        <div className="flex-1 min-w-0 px-6 overflow-hidden">
-          <div className="flex justify-between items-center gap-6 text-[10px] font-black tracking-[0.2em] mb-1.5">
+        <div className="flex-1 min-w-0 px-6 overflow-x-auto overflow-y-hidden">
+          <div className="flex justify-between items-center gap-6 text-[10px] font-black tracking-[0.2em] mb-1.5 min-w-max">
             <div className="flex items-center gap-3 shrink-0">
               <span className="text-indigo-400">
                 {currentQuestion.subLevel === 'Beginner' && t('subLevels.beginnerCaps')}
