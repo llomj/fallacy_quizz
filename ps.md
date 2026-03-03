@@ -223,9 +223,9 @@ Before moving to the next level:
 - [ ] **Redirect works** — After clear, redirects to app with `?nocache=timestamp`
 
 #### 3. Service Worker
-- [ ] **SW version bumped** — `sw.js?v=12` in main.tsx; `CACHE_NAME` v12 in sw.js
+- [ ] **SW version bumped** — `sw.js?v=13` in main.tsx; `CACHE_NAME` v13 in sw.js
 - [ ] **clear-sw not cached** — SW fetch handler uses `fetch(request, { cache: 'no-store' })` for clear-sw.html
-- [ ] **Document network-first** — SW fetches HTML with cache-bust `?_v=11` and `cache: 'no-store'`
+- [ ] **Document network-first** — SW fetches HTML with `?_v=Date.now()` (dynamic) and `cache: 'no-store'`
 
 #### 4. Phone / PWA
 - [ ] **Remove from Home Screen** — Delete PWA icon; re-add after clear-sw
@@ -235,7 +235,7 @@ Before moving to the next level:
 
 #### 5. CDN / HTTP cache
 - [ ] **GitHub Pages CDN** — Cannot set Cache-Control; CDN may cache index.html
-- [ ] **Cache-bust in SW** — Document fetch adds `?_v=11` to bypass CDN cache
+- [ ] **Cache-bust in SW** — Document fetch adds `?_v=Date.now()` (unique per load) to bypass CDN cache
 - [ ] **index.html meta** — `<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">`
 
 #### 6. Verify you have latest
@@ -243,20 +243,22 @@ Before moving to the next level:
 - [ ] **Phone after clear-sw** — Close app fully, reopen from Home Screen
 - [ ] **Test Q174** — French mode, ID 174: should show `Qu'est-ce que "   ".strip() renvoie ?`
 
-### FIXED IN CODE (v12)
-- CACHE_NAME v11 → v12
-- sw.js?v=11 → sw.js?v=12
-- Document fetch: `?_v=12` + `cache: 'no-store'`
+### FIXED IN CODE (v13)
+- CACHE_NAME v12 → v13
+- sw.js?v=12 → sw.js?v=13
+- **Document fetch: `?_v=Date.now()`** — Dynamic cache-bust on every load; no manual URL changes. Same URL works for browser + PWA forever.
 - clear-sw.html fetch: `cache: 'no-store'`
 - clear-sw.html shows current URL for user to copy
 
-### USER STEPS (phone)
+### USER STEPS (phone) — ONE-TIME to get new SW
 1. Open **Safari** on iPhone (not the app)
 2. Go to: `https://llomj.github.io/python-exercises-learn/clear-sw.html`
 3. Wait for "Cache cleared. Loading app…"
 4. Remove app from Home Screen (long-press → Remove)
 5. Tap "Add to Home Screen" in Safari to re-add
 6. Open app — should now have latest
+
+**After that**: Same URL `https://llomj.github.io/python-exercises-learn/` (with or without ?nocache=…) works forever. No manual URL changes. Deploys apply to browser + PWA automatically.
 
 ### ⚠️ USER REPORT: CLEARING BROWSER HISTORY DID NOT FIX IT
 
@@ -290,7 +292,7 @@ Before moving to the next level:
 | **GitHub Pages CDN** | Caches `index.html`, JS, CSS at edge nodes | ❌ No — cannot set headers |
 | **CDN propagation** | Can take 2–10+ min after deploy | ❌ No |
 | **Browser cache** | User's phone caches responses | Partially — SW, meta tags |
-| **Service Worker** | Our SW caches assets | ✅ Yes — v12, network-first |
+| **Service Worker** | Our SW caches assets | ✅ Yes — v13, network-first |
 
 **Key insight**: If GitHub's CDN serves **stale** `index.html` to the phone, the phone will load old script URLs → old JS → old app. Clearing browser history does **not** purge GitHub's CDN.
 
@@ -305,7 +307,7 @@ Before moving to the next level:
 #### 2. Confirm What's Live on GitHub
 - [ ] On **computer**, open: `https://llomj.github.io/python-exercises-learn/`
 - [ ] Hard refresh: **Cmd+Shift+R** (Mac) or **Ctrl+Shift+R** (Win)
-- [ ] Check footer: does it show **SW v12**?
+- [ ] Check footer: does it show **SW v13**?
 - [ ] If computer shows old version → deploy didn't work or CDN not updated
 - [ ] If computer shows new version but phone doesn't → phone/CDN edge issue
 
@@ -337,6 +339,82 @@ Before moving to the next level:
 - Clearing Chrome history on phone: **did not fix**
 - Hypothesis: **GitHub Pages CDN** serving stale content
 - Next: Verify deployment, wait for CDN, try cache-bust URL, or consider alternative host with cache control
+
+---
+
+### 🔴 ROOT CAUSE: GITHUB REPO HAS OLD CODE (v11)
+
+**Verified 2025-03-03**:
+- **Live site** `https://llomj.github.io/python-exercises-learn/sw.js` → **v11** (CACHE_NAME v11, `_v=11` static)
+- **GitHub main** `https://raw.githubusercontent.com/llomj/python-exercises-learn/main/public/sw.js` → **v11**
+- **Local repo** → **v13** (CACHE_NAME v13, `Date.now()` dynamic cache-bust)
+
+**Conclusion**: The deployed site serves whatever is on `origin/main`. Local changes (v13, Methods, Date.now()) were **never pushed** to GitHub. Phone/browser get v11 because that's what's deployed.
+
+**Fix**: Commit and push to `origin` (python-exercises-learn) so the deploy workflow runs and updates the live site.
+
+```bash
+git add public/sw.js src/main.tsx src/App.tsx ps.md
+git commit -m "SW v13: Date.now() cache-bust, phone PWA fix"
+git push origin main
+```
+
+Then wait 2–5 min for GitHub Actions deploy. After that, clear-sw + re-add PWA on phone.
+
+---
+
+### ⚠️ USER REPORT: STILL NOT UPDATING AFTER FULL CLEAR-SW FLOW
+
+**What user did** (all steps followed):
+1. Opened Safari on phone (not PWA)
+2. Visited `https://llomj.github.io/python-exercises-learn/clear-sw.html`
+3. Waited for "Cache cleared. Loading app…"
+4. Removed app from Home Screen
+5. Re-added to Home Screen from Safari
+6. Opened app
+
+**Result**: Phone app still shows old version. Methods feature and other updates not visible.
+
+**What we've tried in code**:
+- SW v13, CACHE_NAME bump
+- Document fetch with `?_v=Date.now()` (dynamic cache-bust)
+- clear-sw.html bypasses SW cache
+- Network-first for HTML
+- Manifest start_url reverted to `./`
+
+---
+
+### POSSIBLE SOLUTIONS (to try in order)
+
+#### A. Verify computer vs phone
+- [ ] On **computer**: hard refresh `https://llomj.github.io/python-exercises-learn/` — does footer show SW v13? Does Methods appear in Settings?
+- [ ] If computer shows old → deploy/CDN not updated. Re-run GitHub Actions, wait 10 min.
+- [ ] If computer shows new but phone doesn't → phone-specific (iOS PWA shell, different CDN edge, Safari WebKit quirks).
+
+#### B. iOS PWA shell / WebKit
+- [ ] **iOS may freeze PWA at "Add to Home Screen"** — the shell (HTML/JS) can be snapshotted and reused. Removing + re-adding might not always get a fresh shell.
+- [ ] Try: **Settings → Safari → Clear History and Website Data** on iPhone, then re-do clear-sw flow.
+- [ ] Try: **Restart iPhone** after clear-sw, then add to Home Screen.
+- [ ] Try: Add from **Chrome** on iOS (uses WebKit but different storage) — open app in Chrome, Add to Home Screen from there.
+
+#### C. Different CDN edge for phone
+- [ ] Phone may hit a different CDN edge than computer; that edge may have stale cache.
+- [ ] Wait 24–48 hours after deploy — CDN propagation can be slow.
+- [ ] Try on **Wi‑Fi vs cellular** — different networks may hit different edges.
+
+#### D. Hosting change (requires user approval)
+- [ ] **Netlify** or **Vercel** — allow `Cache-Control: no-cache` for `index.html`; can purge cache on deploy.
+- [ ] **Cloudflare** in front of GitHub Pages — custom domain + cache purge API on deploy.
+- [ ] **GitHub Pages + `nojekyll`** — ensure no Jekyll processing; sometimes helps with caching.
+
+#### E. Version check + in-app "Update" prompt
+- [ ] Add `/version.json` with build timestamp; app fetches it on load.
+- [ ] If deployed version > stored version → show banner: "New version available. Tap to update" → links to clear-sw.html.
+- [ ] User taps once; gets fresh app. Doesn't fix root cause but gives a reliable workaround.
+
+#### F. Skip PWA for critical updates
+- [ ] Document: "For latest features, open in Safari/Chrome directly instead of Home Screen app."
+- [ ] Not ideal for UX but avoids iOS PWA caching issues.
 
 ---
 

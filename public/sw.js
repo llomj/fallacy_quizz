@@ -1,4 +1,4 @@
-const CACHE_NAME = 'python-exercises-learn-offline-v12';
+const CACHE_NAME = 'python-exercises-learn-offline-v13';
 // Don't pre-cache index.html — install-time fetch can get stale HTML; we cache it only after network-first fetch
 const STATIC_ASSETS = ['./manifest.json'];
 
@@ -40,9 +40,9 @@ self.addEventListener('fetch', (event) => {
 
   const isDoc = event.request.mode === 'navigate' || event.request.destination === 'document';
   if (isDoc) {
-    // Cache-bust document requests so phones get latest HTML (and thus latest JS)
+    // Dynamic cache-bust: every load gets fresh HTML (browser + PWA, no manual URL changes)
     const url = new URL(event.request.url);
-    url.searchParams.set('_v', '12');
+    url.searchParams.set('_v', String(Date.now()));
     const bustedRequest = new Request(url, { cache: 'no-store' });
     event.respondWith(
       fetch(bustedRequest)
