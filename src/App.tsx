@@ -524,6 +524,8 @@ const App: React.FC = () => {
           <EvolutionHub
             stats={stats}
             onStartQuiz={handleStartEvolution}
+            onShowGlossary={() => setView('glossary')}
+            onShowMethods={() => setShowMethods(true)}
           />
         )}
       </main>

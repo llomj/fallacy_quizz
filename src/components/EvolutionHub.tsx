@@ -9,9 +9,11 @@ import { formatTranslation } from '../translations';
 interface EvolutionHubProps {
   stats: UserStats;
   onStartQuiz: () => void;
+  onShowGlossary?: () => void;
+  onShowMethods?: () => void;
 }
 
-export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz }) => {
+export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, onShowGlossary, onShowMethods }) => {
   const { t } = useLanguage();
   const randomMode = stats.randomMode ?? false;
   const rm = stats.randomModeStats ?? { totalAnswered: 0, totalCorrect: 0 };
@@ -196,6 +198,27 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz }
             <h4 className="font-bold text-xs text-slate-200">{t('hub.globalProgress')}</h4>
             <p className="text-[10px] text-slate-500">{totalCompleted} / {totalPossible} {t('hub.conceptsText')}</p>
           </div>
+        </div>
+
+        <div className="flex items-center gap-2 flex-wrap">
+          {onShowGlossary && (
+            <button
+              onClick={onShowGlossary}
+              className="flex items-center gap-2 px-3 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 text-slate-300 hover:text-white transition-all text-xs font-bold"
+            >
+              <i className="fas fa-circle-info text-indigo-400"></i>
+              {t('app.glossary')}
+            </button>
+          )}
+          {onShowMethods && (
+            <button
+              onClick={onShowMethods}
+              className="flex items-center gap-2 px-3 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 text-slate-300 hover:text-white transition-all text-xs font-bold"
+            >
+              <i className="fas fa-code text-indigo-400"></i>
+              {t('app.methods')}
+            </button>
+          )}
         </div>
 
         <div className="flex items-center gap-4">
