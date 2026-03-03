@@ -130,6 +130,13 @@ export const GLOSSARY_FR: GlossaryItem[] = [
     example: "class Calculator:\n    def add(self, a, b):\n        return a + b\n    \n    def multiply(self, a, b):\n        return a * b\n\ncalc = Calculator()\nresult = calc.add(5, 3)  # 8"
   },
   {
+    term: "Méthodes intégrées",
+    definition: "Méthodes intégrées aux types Python (str, list, dict, set, etc.) — disponibles sur chaque instance.",
+    levelRange: "1-10",
+    detailedDescription: "Les types Python disposent de méthodes intégrées : appelez-les avec la notation point (obj.méthode()). Chaînes : capitalize(), lower(), upper(), split(), join(), strip(), find(), replace(), etc. Listes : append(), extend(), insert(), remove(), pop(), sort(), reverse(), etc. Dictionnaires : get(), keys(), values(), items(), pop(), update(), etc. Ensembles : add(), remove(), union(), intersection(), difference(), etc. Tuples : count(), index(). Bytes/bytearray : similaires à str plus méthodes mutables. Chaque type expose des méthodes adaptées à sa structure.",
+    example: "# Chaînes\nstr.capitalize()       # Première lettre en majuscule\nstr.lower(), str.upper()\nstr.split(s), str.join(iter)\nstr.strip(), str.find(s), str.replace(a,b)\n\n# Listes\nlist.append(x), list.extend(it)\nlist.insert(i,x), list.remove(x), list.pop(i=-1)\nlist.sort(), list.reverse(), list.copy()\n\n# Dictionnaires\ndict.get(k,default), dict.keys(), dict.values()\ndict.items(), dict.pop(k), dict.update(other)\n\n# Ensembles\nset.add(e), set.remove(e), set.discard(e)\nset.union(*o), set.intersection(*o)\nset.difference(*o)"
+  },
+  {
     term: "Portée",
     definition: "La région d'un programme où une variable est accessible.",
     levelRange: "7",

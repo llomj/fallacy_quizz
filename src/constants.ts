@@ -126,8 +126,17 @@ export const LEVELS: LevelInfo[] = [
   }
 ];
 
+// Glossary item type for app use
+export interface GlossaryItem {
+  term: string;
+  definition: string;
+  levelRange: string;
+  detailedDescription: string;
+  example: string;
+}
+
 // Glossary data for the app
-export const GLOSSARY = [
+export const GLOSSARY: GlossaryItem[] = [
   {
     term: "Variable",
     definition: "A named reference to an object in memory that can store different values.",
@@ -253,6 +262,13 @@ export const GLOSSARY = [
     levelRange: "7",
     detailedDescription: "Methods are functions bound to class instances. The first parameter is conventionally named 'self' and refers to the instance. Methods can access and modify instance attributes. Class methods and static methods provide alternative ways to define functions related to classes. Methods support the same parameter features as regular functions.\n\n1. Simple explanation: A method is just a function that “belongs to” an object.\n2. Intermediate explanation: Methods use self to read and update the object’s data, and you call them with dot syntax like user.log_in().\n3. In-depth explanation: Different method types (instance, class, static) give you flexible ways to attach behavior to a class, and understanding how binding works explains why self is passed automatically when you call instance methods.",
     example: "class Calculator:\n    def add(self, a, b):\n        return a + b\n    \n    def multiply(self, a, b):\n        return a * b\n\ncalc = Calculator()\nresult = calc.add(5, 3)  # 8"
+  },
+  {
+    term: "Built-in Methods",
+    definition: "Methods built into Python types (str, list, dict, set, etc.) — available on every instance.",
+    levelRange: "1-10",
+    detailedDescription: "Python types come with built-in methods: call them with dot notation (obj.method()). Strings: capitalize(), lower(), upper(), split(), join(), strip(), find(), replace(), etc. Lists: append(), extend(), insert(), remove(), pop(), sort(), reverse(), etc. Dicts: get(), keys(), values(), items(), pop(), update(), etc. Sets: add(), remove(), union(), intersection(), difference(), etc. Tuples: count(), index(). Bytes/bytearray: similar to str plus mutable methods. Each type exposes methods suited to its data shape.",
+    example: "# Strings\nstr.capitalize()       # Capitalize first character\nstr.lower(), str.upper()\nstr.split(s), str.join(iter)\nstr.strip(), str.find(s), str.replace(a,b)\n\n# Lists\nlist.append(x), list.extend(it)\nlist.insert(i,x), list.remove(x), list.pop(i=-1)\nlist.sort(), list.reverse(), list.copy()\n\n# Dicts\ndict.get(k,default), dict.keys(), dict.values()\ndict.items(), dict.pop(k), dict.update(other)\n\n# Sets\nset.add(e), set.remove(e), set.discard(e)\nset.union(*o), set.intersection(*o)\nset.difference(*o)"
   },
   {
     term: "Scope",

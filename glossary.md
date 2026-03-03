@@ -124,6 +124,7 @@ Welcome to the definitive guide for your evolution. This glossary covers both th
     1. *Simple explanation*: A method is a function you call on an object with dot syntax.
     2. *Intermediate explanation*: Methods let each type expose behavior that works naturally with its data, like `list.append` or `str.split`.
     3. *In-depth explanation*: Understanding method binding and how descriptors work explains why different kinds of methods (instance, class, static) behave the way they do.
+- **Built-in Methods**: Methods built into Python types (str, list, dict, set, tuple, etc.) — available on every instance. Clean reference: name, type, definition. Strings: capitalize(), lower(), upper(), split(), join(), strip(), find(), replace(). Lists: append(), extend(), insert(), remove(), pop(), sort(), reverse(). Dicts: get(), keys(), values(), items(), pop(), update(). Sets: add(), remove(), union(), intersection(), difference(). Tuples: count(), index().
 
 ## Level 7-8: The Abyss (OOP)
 
