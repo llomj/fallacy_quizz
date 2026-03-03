@@ -12,6 +12,8 @@ export const hasCodeLikeContent = (text: string): boolean => {
     /[\[\(\{]/.test(text) ||                  // Brackets
     /\.[a-zA-Z_]\w*\s*\(/.test(text) ||       // Method calls .name(
     /\b(def|class|for|while|if|with|import|from|print)\s+/.test(text) ||  // Keywords
+    /\b(and|or|not)\b/.test(text) ||          // Boolean operators
+    /[=!<>]=|[<>]/.test(text) ||             // Comparison operators ==, !=, <=, >=, <, >
     /\[\d*:?-?\d*:?-?\d*\]/.test(text) ||     // Indexing/slicing [0], [0:3]
     /[\+\-\*\/\%]/.test(text) ||             // Arithmetic operators
     /\*\*/.test(text) ||                      // Power operator
@@ -83,10 +85,14 @@ export const splitQuestion = (
         const functionCallPattern = /[a-zA-Z_]\w*\s*\(/;
         const codeKeywordPattern = /\b(def|class|for|while|if|with|import|from|print)\s+/;
         const bracketPattern = /[\[\(\{]/;
+        const comparisonPattern = /[=!<>]=|[<>]/;  // ==, !=, <=, >=, <, >
+        const booleanKeywordPattern = /\b(and|or|not)\b/;
 
         if (functionCallPattern.test(remainingText) ||
           bracketPattern.test(remainingText) ||
-          codeKeywordPattern.test(remainingText)) {
+          codeKeywordPattern.test(remainingText) ||
+          comparisonPattern.test(remainingText) ||
+          booleanKeywordPattern.test(remainingText)) {
           return {
             prefix: enhancedText.substring(0, questionEnd).trim() + (hasQuestionMark ? '?' : ''),
             code: remainingText

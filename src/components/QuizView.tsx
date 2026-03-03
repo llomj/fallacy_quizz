@@ -515,6 +515,8 @@ const hasCodeLikeContent = (text: string): boolean => {
     /[\[\(\{]/.test(text) ||                  // Brackets
     /\.[a-zA-Z_]\w*\s*\(/.test(text) ||       // Method calls .name(
     /\b(def|class|for|while|if|with|import|from|print)\s+/.test(text) ||  // Keywords
+    /\b(and|or|not)\b/.test(text) ||          // Boolean operators
+    /[=!<>]=|[<>]/.test(text) ||             // Comparison operators ==, !=, <=, >=, <, >
     /\[\d*:?-?\d*:?-?\d*\]/.test(text) ||     // Indexing/slicing [0], [0:3]
     /[\+\-\*\/\%]/.test(text) ||             // Arithmetic operators
     /\*\*/.test(text) ||                      // Power operator
@@ -598,15 +600,19 @@ const splitQuestion = (text: string, language: string = 'en') => {
       }
 
       // If remaining text has function calls, brackets, or other code patterns, treat as code
-      // This catches cases like "type(None)", "print('hello')", "[1, 2, 3]", "Python"[0], etc.
+      // This catches cases like "type(None)", "print('hello')", "[1, 2, 3]", "Python"[0], "5 == 5 and 5 > 10", etc.
       // IMPORTANT: Use ALL remaining text as code to avoid dropping parts (like "Python" in "Python"[0])
       const functionCallPattern = /[a-zA-Z_]\w*\s*\(/;
       const codeKeywordPattern = /\b(def|class|for|while|if|with|import|from|print)\s+/;
       const bracketPattern = /[\[\(\{]/;
+      const comparisonPattern = /[=!<>]=|[<>]/;  // ==, !=, <=, >=, <, >
+      const booleanKeywordPattern = /\b(and|or|not)\b/;
 
       if (functionCallPattern.test(remainingText) ||
         bracketPattern.test(remainingText) ||
-        codeKeywordPattern.test(remainingText)) {
+        codeKeywordPattern.test(remainingText) ||
+        comparisonPattern.test(remainingText) ||
+        booleanKeywordPattern.test(remainingText)) {
         // Use ALL remaining text as code - don't try to find "where code starts"
         // This ensures we never drop parts like "Python" in "Python"[0]
         return {
