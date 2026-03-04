@@ -60,3 +60,28 @@ The workflow (`.github/workflows/deploy.yml`) must match the **last successful r
 **For agents:** Do not assume "French not in app" means code is wrong; check cache/deploy first. Document in ps.md if we add cache-busting or SW versioning later.
 
 **Checking GitHub in Cursor:** Open the repo in Cursor’s browser (e.g. Simple Browser or browser panel) at `https://github.com/llomj/CLI_exercises`. Sign in to GitHub there to access **Settings → Pages** (Source = GitHub Actions) and **Settings → Actions → General** (workflow permissions). Agents cannot sign in; the user must do this. The README currently links to `python-exercises-learn`; the CLI app URL is `https://llomj.github.io/CLI_exercises/`.
+
+---
+
+## March 4, 2026 — French options incident (browser OK, phone app stale)
+
+### Confirmed findings
+
+1. Local fix commit existed but was initially not on `origin/main` (local `main` was ahead by 1 commit).
+2. After push, GitHub Actions run **#10** (`head_sha` `9be7752`) still failed in **Build** step, so Pages was not updated.
+3. Root build blocker: `src/components/QuizView.tsx` imports `../utils/detailedExplanationLevel`, but `src/utils/detailedExplanationLevel.ts` was missing from tracked files on `main`.
+4. Result: desktop browser may show local/latest build, while phone app (GitHub/PWA) keeps old deployed bundle with English A/B/C/D options.
+
+### Fix procedure (must follow in order)
+
+1. Ensure `src/utils/detailedExplanationLevel.ts` is committed to `main`.
+2. Push to GitHub and confirm Actions run is green for that exact commit.
+3. Open deployed URL exactly: `https://llomj.github.io/CLI_exercises/`.
+4. On phone app, run cache reset URL once: `https://llomj.github.io/CLI_exercises/clear-sw.html`.
+5. Reopen app from Home Screen/GitHub app and switch language to French.
+
+### Validation checklist
+
+- GitHub Actions latest run: `conclusion = success`.
+- Pages deploy points to the commit containing French option fix + missing util file.
+- In quiz view with French selected, A/B/C/D option text appears in French.
