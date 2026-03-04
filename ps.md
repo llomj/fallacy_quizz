@@ -22,16 +22,13 @@ When adding new content, add both languages in the same commit. Never ship Engli
 
 ---
 
-## GitHub Pages deploy (Actions red / failed)
+## GitHub Pages deploy (Actions source)
 
-**This project uses `peaceiris/actions-gh-pages`** (not the official `deploy-pages`/`upload-pages-artifact` flow). The official flow often fails with "No artifacts named 'github-pages' were found" or exit code 1 even with a single job and correct permissions.
+**Keep Source = GitHub Actions:** Repo **Settings → Pages → Build and deployment → Source** = **"GitHub Actions"**.
 
-**Required repo setting:**  
-Repo **Settings → Pages → Build and deployment → Source** must be **"Deploy from a branch"**.  
-Set **Branch** to **gh-pages** and **Folder** to **/ (root)**. Save.
+The workflow (`.github/workflows/deploy.yml`) uses the official flow in a **single job**: checkout → build → **configure-pages@v5** → **upload-pages-artifact@v4** (path: `dist`) → **deploy-pages@v4**. All in one job so the artifact is visible to deploy-pages. Use `cancel-in-progress: false` to avoid cancelling in-progress runs.
 
-The workflow (`.github/workflows/deploy.yml`) builds the app, then pushes the `dist/` output to the `gh-pages` branch. GitHub Pages serves that branch. No "GitHub Actions" source or `configure-pages`/`deploy-pages` is used.
-
-**If the workflow is still red:**  
-- Ensure **Actions** has **Read and write** permissions: Settings → Actions → General → Workflow permissions → "Read and write permissions".  
-- Re-run the workflow from the Actions tab after changing settings.
+**If the workflow is red:**  
+- Confirm Source is "GitHub Actions" (not "Deploy from a branch").  
+- Ensure the workflow uses `actions/configure-pages@v5`, `actions/upload-pages-artifact@v4`, and `actions/deploy-pages@v4` in that order in the same job.  
+- Do not split into two jobs (build + deploy); that often causes "No artifacts named 'github-pages' were found".
