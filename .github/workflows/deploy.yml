@@ -1,5 +1,5 @@
-# Single job: build + upload + deploy in one job so deploy-pages sees the artifact.
-# Split jobs often fail with "No artifacts named 'github-pages' were found".
+# Deploy to GitHub Pages via gh-pages branch (peaceiris action).
+# In repo Settings → Pages set Source to "Deploy from a branch", branch gh-pages, folder / (root).
 name: Deploy to GitHub Pages
 
 on:
@@ -8,20 +8,13 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -39,19 +32,8 @@ jobs:
         env:
           VITE_BASE_REPO: ${{ github.event.repository.name }}
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: 'dist'
-
       - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-
-      - name: Deployment URL
-        run: |
-          echo "Deployed to: https://llomj.github.io/${{ github.event.repository.name }}/"
-          echo "Open this URL on your phone to test the PWA."
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
