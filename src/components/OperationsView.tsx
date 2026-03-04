@@ -4,400 +4,223 @@ import { formatTranslation } from '../translations';
 import { useTranslatedOperations, OperationItem } from '../hooks/useTranslatedData';
 
 const OPERATIONS_DATA: OperationItem[] = [
-  // Arithmetic Operations
   {
-    title: "Arithmetic Operations",
-    category: "Operations",
-    definition: "Basic mathematical operations for performing calculations with numbers.",
+    title: "Shell Arithmetic with $(( ))",
+    category: "Shell Operators",
+    definition: "Use arithmetic expansion to do integer math directly in the shell without calling an external program.",
     examples: [
-      "+ Addition: 5 + 3 = 8",
-      "- Subtraction: 10 - 4 = 6",
-      "* Multiplication: 3 * 4 = 12",
-      "/ Division: 15 / 3 = 5.0 (always returns float)",
-      "// Floor Division: 15 // 4 = 3 (rounds down)",
-      "% Modulo: 15 % 4 = 3 (remainder)",
-      "** Exponentiation: 2 ** 3 = 8"
+      "echo $((2 + 3))        # 5",
+      "echo $((10 - 4))       # 6",
+      "echo $((3 * 4))        # 12",
+      "echo $((15 / 2))       # 7 (integer division)",
+      "echo $((15 % 4))       # 3 (remainder)",
+      "i=0; i=$((i+1))        # increment i by 1"
     ]
   },
   {
-    title: "Order of Operations",
-    category: "Operations",
-    definition: "Python follows PEMDAS: Parentheses, Exponents, Multiplication/Division (left to right), Addition/Subtraction (left to right).",
+    title: "Comparison in Test [ ]",
+    category: "Shell Operators",
+    definition: "Use test brackets with comparison operators like -eq, -ne, -lt, -gt, -le, -ge to compare integers.",
     examples: [
-      "2 + 3 * 4 = 14 (multiplication before addition)",
-      "(2 + 3) * 4 = 20 (parentheses first)",
-      "10 - 3 + 2 = 9 (left to right)",
-      "2 ** 3 * 2 = 16 (exponents before multiplication)"
+      "[ 5 -eq 5 ] && echo \"equal\"",
+      "[ 3 -lt 5 ] && echo \"3 is less\"",
+      "[ 10 -ge 7 ] && echo \"10 >= 7\"",
+      "if [ \"$COUNT\" -ne 0 ]; then echo \"not zero\"; fi",
+      "if [ \"$A\" -gt \"$B\" ]; then echo \"A>B\"; fi"
     ]
   },
   {
-    title: "Integer vs Float Results",
-    category: "Operations",
-    definition: "Division (/) always returns a float, even when dividing integers. Floor division (//) returns an integer when both operands are integers.",
+    title: "String Tests in [ ]",
+    category: "Shell Operators",
+    definition: "Use -z, -n, = and != to check if strings are empty, non-empty, or equal inside test brackets.",
     examples: [
-      "10 / 2 = 5.0 (float result)",
-      "10 // 2 = 5 (integer result)",
-      "10 / 3 = 3.333... (float)",
-      "10 // 3 = 3 (integer, rounded down)",
-      "10.0 // 3 = 3.0 (float result)"
+      "[ -z \"$NAME\" ] && echo \"NAME is empty\"",
+      "[ -n \"$NAME\" ] && echo \"NAME is set\"",
+      "[ \"$USER\" = \"root\" ] && echo \"running as root\"",
+      "[ \"$EXT\" != \"txt\" ] && echo \"not a .txt file\""
     ]
   },
   {
-    title: "Assignment Operators",
-    category: "Operations",
-    definition: "Operators that combine assignment with arithmetic operations.",
+    title: "File Test Operators",
+    category: "Shell Operators",
+    definition: "Use file test flags like -f, -d, -e, -x, -r, -w in [ ] to inspect files and directories.",
     examples: [
-      "= Basic assignment: x = 5",
-      "+= Add and assign: x += 3 (same as x = x + 3)",
-      "-= Subtract and assign: x -= 2 (same as x = x - 2)",
-      "*= Multiply and assign: x *= 4 (same as x = x * 4)",
-      "/= Divide and assign: x /= 2 (same as x = x / 2)",
-      "//= Floor divide and assign: x //= 3",
-      "%= Modulo and assign: x %= 5",
-      "**= Exponentiate and assign: x **= 2"
+      "[ -f config.sh ] && echo \"regular file\"",
+      "[ -d /etc ] && echo \"/etc is a directory\"",
+      "[ -e /usr/bin/ls ] && echo \"ls exists\"",
+      "[ -x script.sh ] && echo \"script is executable\"",
+      "if [ ! -r secret.txt ]; then echo \"no read access\"; fi"
     ]
   },
   {
-    title: "Chained Assignment",
-    category: "Operations",
-    definition: "Assigning the same value to multiple variables in one statement.",
+    title: "Logical Operators && and ||",
+    category: "Shell Operators",
+    definition: "Combine commands with && and || to run the next command only on success or failure of the previous one.",
     examples: [
-      "x = y = z = 10  # All variables equal 10",
-      "a = b = c = []  # All reference the same list object"
+      "make build && echo \"build ok\"",
+      "ping -c1 example.com || echo \"host unreachable\"",
+      "[ -f file ] && rm file || echo \"file missing\"",
+      "mkdir logs && cd logs",
+      "command_that_may_fail || exit 1"
     ]
   },
   {
-    title: "Comparison Operators",
-    category: "Operations",
-    definition: "Operators that compare values and return boolean results.",
+    title: "Exit Status and $?",
+    category: "Shell Operators",
+    definition: "Every command returns an integer exit status; 0 means success and non-zero means failure. The special variable $? holds the last status.",
     examples: [
-      "== Equal to: 5 == 5 → True",
-      "!= Not equal: 5 != 3 → True",
-      "< Less than: 3 < 5 → True",
-      "> Greater than: 5 > 3 → True",
-      "<= Less than or equal: 5 <= 5 → True",
-      ">= Greater than or equal: 5 >= 3 → True",
-      "Chained: 1 < 5 < 10 → True"
+      "ls existing_file",
+      "echo \"$?\"    # prints 0 on success",
+      "ls does_not_exist",
+      "echo \"$?\"    # non‑zero on error",
+      "if ls /root 2>/dev/null; then echo \"ok\"; else echo \"failed\"; fi"
     ]
   },
   {
-    title: "Logical Operators",
-    category: "Operations",
-    definition: "Operators that combine boolean expressions using AND, OR, and NOT logic.",
+    title: "Assigning and Using Variables",
+    category: "Shell Operators",
+    definition: "Assign values without spaces around = and read them later using the $ prefix and quotes.",
     examples: [
-      "and: Returns True if both conditions are True",
-      "  (5 > 3) and (10 < 20) → True",
-      "or: Returns True if at least one condition is True",
-      "  (5 > 10) or (10 < 20) → True",
-      "not: Reverses the boolean value",
-      "  not (5 > 10) → True",
-      "Short-circuit: 'and' and 'or' stop evaluating once result is determined"
+      "NAME=\"Alice\"",
+      "echo \"$NAME\"",
+      "COUNT=3",
+      "echo \"You have $COUNT items\"",
+      "PATH=\"/custom/bin:$PATH\"   # prepend to PATH"
     ]
   },
   {
-    title: "Identity vs Equality",
-    category: "Operations",
-    definition: "is checks if two variables reference the same object, == checks if values are equal.",
+    title: "Test Command and [[ ]]",
+    category: "Shell Operators",
+    definition: "The [ command and the more modern [[ ]] syntax evaluate conditions in if statements and shells like bash or zsh.",
     examples: [
-      "x = [1, 2, 3]",
-      "y = [1, 2, 3]",
-      "x == y → True (values are equal)",
-      "x is y → False (different objects)",
-      "z = x",
-      "x is z → True (same object)"
+      "if [ \"$1\" = \"start\" ]; then echo \"starting\"; fi",
+      "if [[ \"$FILE\" == *.log ]]; then echo \"log file\"; fi",
+      "if [[ -n \"$USER\" && \"$USER\" != \"root\" ]]; then echo \"non‑root\"; fi"
     ]
   },
   {
-    title: "Membership Operations",
-    category: "Operations",
-    definition: "Operators that check if an item exists in a sequence or collection.",
+    title: "Arithmetic in Loops",
+    category: "Shell Operators",
+    definition: "Use arithmetic expansion or let to update counters inside for and while loops.",
     examples: [
-      "in: Returns True if item found",
-      "  'a' in 'apple' → True",
-      "  3 in [1, 2, 3] → True",
-      "  'key' in {'key': 'value'} → True",
-      "not in: Returns True if item not found",
-      "  10 not in [1, 2, 3] → True"
+      "i=0; while [ \"$i\" -lt 5 ]; do echo \"$i\"; i=$((i+1)); done",
+      "for i in 1 2 3; do COUNT=$((COUNT+1)); done",
+      "let \"N=N+2\"   # bash built‑in arithmetic"
     ]
   },
   {
-    title: "Type Operations",
-    category: "Operations",
-    definition: "Functions and operators for checking and converting data types.",
+    title: "Command Grouping and Subshells",
+    category: "Shell Operators",
+    definition: "Use parentheses ( ) for subshells and { } for grouping commands that share redirection.",
     examples: [
-      "type(): Returns the type of an object",
-      "  type(5) → <class 'int'>",
-      "isinstance(): Checks if object is instance of type(s)",
-      "  isinstance(5, int) → True",
-      "  isinstance(5, (int, float)) → True",
-      "Dynamic typing: Variables can change types",
-      "  x = 5  # x is int",
-      "  x = 'hello'  # x is now str"
-    ]
-  },
-  {
-    title: "Bitwise Operators",
-    category: "Operations",
-    definition: "Operators that perform operations on binary representations of integers.",
-    examples: [
-      "& AND: 5 & 3 = 1 (binary: 101 & 011 = 001)",
-      "| OR: 5 | 3 = 7 (binary: 101 | 011 = 111)",
-      "^ XOR: 5 ^ 3 = 6 (binary: 101 ^ 011 = 110)",
-      "~ NOT: ~5 = -6 (inverts all bits)",
-      "<< Left shift: 5 << 1 = 10 (multiply by 2)",
-      ">> Right shift: 5 >> 1 = 2 (divide by 2, floor)"
+      "(cd /tmp && ls)      # cd only inside subshell",
+      "{ echo \"start\"; date; } > run.log",
+      "(echo one; echo two) | sort"
     ]
   }
 ];
 
 const MATH_CONCEPTS_DATA: OperationItem[] = [
   {
-    title: "Basic Integers and Counting",
-    category: "Math Concepts",
-    definition: "Integers are whole numbers without decimal points. Python supports arbitrarily large integers.",
+    title: "Integers and Exit Codes",
+    category: "Shell Math",
+    definition: "Shell arithmetic and exit codes are always integers; 0 usually means success and non-zero means an error or special condition.",
     examples: [
-      "Positive: 1, 2, 3, 100, 1000",
-      "Negative: -1, -5, -100",
-      "Zero: 0 (special behavior in many operations)",
-      "Large: 999999999999999999 (no overflow)"
+      "echo $((1 + 2))        # 3",
+      "false; echo \"$?\"      # 1 (failure)",
+      "true;  echo \"$?\"      # 0 (success)",
+      "if [ \"$?\" -ne 0 ]; then echo \"last command failed\"; fi"
     ]
   },
   {
-    title: "Positive and Negative Integers",
-    category: "Math Concepts",
-    definition: "Integers can be positive, negative, or zero. Operations with negative numbers follow standard mathematical rules.",
+    title: "Zero and Division Errors",
+    category: "Shell Math",
+    definition: "Zero behaves normally in most arithmetic, but division by zero in $(( )) or expr is an error and causes a non-zero exit code.",
     examples: [
-      "Addition: 5 + (-3) = 2",
-      "Subtraction: 5 - (-3) = 8",
-      "Multiplication: 5 * (-3) = -15",
-      "Division: -10 / 2 = -5.0",
-      "Absolute value: abs(-5) = 5"
+      "echo $((5 * 0))        # 0",
+      "echo $((5 + 0))        # 5",
+      "set +e; expr 10 / 0    # prints error, sets non‑zero exit",
+      "if ! expr 10 / 0 >/dev/null 2>&1; then echo \"division by zero\"; fi"
     ]
   },
   {
-    title: "Zero and its Special Behavior",
-    category: "Math Concepts",
-    definition: "Zero has unique properties in mathematical operations that affect Python behavior.",
+    title: "Incrementing Counters in Loops",
+    category: "Shell Math",
+    definition: "Use arithmetic expansion to increment or decrement loop counters in while and for loops.",
     examples: [
-      "Division by zero: 10 / 0 → ZeroDivisionError",
-      "Zero multiplication: 5 * 0 = 0",
-      "Zero addition: 5 + 0 = 5",
-      "Boolean: bool(0) = False (zero is falsy)",
-      "Power: 5 ** 0 = 1 (any number to power of 0 is 1)"
+      "i=0; while [ \"$i\" -lt 3 ]; do echo \"$i\"; i=$((i+1)); done",
+      "for ((i=10; i>0; i--)); do echo \"$i\"; done",
+      "COUNT=0; for f in *.log; do COUNT=$((COUNT+1)); done"
     ]
   },
   {
-    title: "Incrementing and Decrementing Values",
-    category: "Math Concepts",
-    definition: "Common patterns for increasing or decreasing numeric values in loops and conditions.",
+    title: "Brace Expansion Ranges",
+    category: "Shell Math",
+    definition: "Brace expansion {start..end[..step]} generates integer sequences without writing explicit loops.",
     examples: [
-      "Increment: x += 1 or x = x + 1",
-      "Decrement: x -= 1 or x = x - 1",
-      "In loop: for i in range(10): (i increments automatically)",
-      "While loop: while x < 10: x += 1",
-      "Step increment: x += 2 (increase by 2)"
+      "echo {1..5}          # 1 2 3 4 5",
+      "echo {0..10..2}      # 0 2 4 6 8 10",
+      "for i in {3..1}; do echo \"$i\"; done"
     ]
   },
   {
-    title: "Using Integers in Loops and Conditions",
-    category: "Math Concepts",
-    definition: "Integers are commonly used to control loop iterations and as conditions in control flow.",
+    title: "Modulo for Even/Odd and Cycles",
+    category: "Shell Math",
+    definition: "Use the % operator in $(( )) to test even/odd numbers or wrap counters around a fixed range.",
     examples: [
-      "Range: for i in range(5): (0, 1, 2, 3, 4)",
-      "Countdown: for i in range(10, 0, -1):",
-      "Condition: if count > 0:",
-      "Counter: count = 0; count += 1",
-      "Index: items[i] (using integer as index)"
+      "n=4; if [ $((n % 2)) -eq 0 ]; then echo \"even\"; fi",
+      "for i in {0..5}; do echo $((i % 3)); done",
+      "index=$(((index+1) % 10))   # cycle 0–9"
     ]
   },
   {
-    title: "Prime Numbers",
-    category: "Math Concepts",
-    definition: "A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.",
+    title: "Using bc for Decimals",
+    category: "Shell Math",
+    definition: "The bc command provides arbitrary-precision decimal arithmetic when integer-only $(( )) is not enough.",
     examples: [
-      "Primes: 2, 3, 5, 7, 11, 13, 17, 19",
-      "Composite: 4, 6, 8, 9, 10 (have divisors other than 1 and itself)",
-      "Checking: n % i != 0 for all i in range(2, n)",
-      "1 is neither prime nor composite"
+      "echo \"1/3\" | bc           # 0 (integer by default)",
+      "echo \"scale=2; 1/3\" | bc  # 0.33",
+      "echo \"scale=3; 2.5 * 4\" | bc   # 10.000"
     ]
   },
   {
-    title: "Checking if a Number is Prime",
-    category: "Math Concepts",
-    definition: "Algorithm to determine if a number is prime by testing divisibility.",
+    title: "Percentages and Ratios",
+    category: "Shell Math",
+    definition: "Compute simple percentages and ratios in scripts using $(( )) for integers or bc when you need decimals.",
     examples: [
-      "Basic: Check divisibility from 2 to n-1",
-      "Optimized: Check only up to √n",
-      "def is_prime(n):",
-      "    if n < 2: return False",
-      "    for i in range(2, int(n**0.5) + 1):",
-      "        if n % i == 0: return False",
-      "    return True"
+      "USED=30; TOTAL=50; echo $((USED * 100 / TOTAL))\"%\"   # 60%",
+      "echo \"scale=1; 7/20*100\" | bc   # 35.0",
+      "echo \"scale=2; $USED/$TOTAL\" | bc"
     ]
   },
   {
-    title: "Generating Prime Sequences",
-    category: "Math Concepts",
-    definition: "Methods for creating lists or generators of prime numbers.",
+    title: "Random Numbers in Shell",
+    category: "Shell Math",
+    definition: "Many shells expose a pseudo-random integer through $RANDOM or external tools like shuf.",
     examples: [
-      "Sieve of Eratosthenes: Efficient algorithm",
-      "Generator: yield primes one at a time",
-      "List comprehension with prime check",
-      "Range-based: for n in range(2, 100) if is_prime(n)"
+      "echo \"$RANDOM\"           # 0–32767 in bash/zsh",
+      "echo $((RANDOM % 6 + 1))  # dice roll 1–6",
+      "shuf -i 1-10 -n 3         # three unique numbers 1–10"
     ]
   },
   {
-    title: "Factors and Multiples",
-    category: "Math Concepts",
-    definition: "Factors are numbers that divide evenly into another number. Multiples are products of a number.",
+    title: "Simple Aggregations with Awk",
+    category: "Shell Math",
+    definition: "Use awk to sum, average, and count numeric columns from command output or files.",
     examples: [
-      "Factors of 12: [1, 2, 3, 4, 6, 12]",
-      "Finding factors: [i for i in range(1, n+1) if n % i == 0]",
-      "Multiples of 3: 3, 6, 9, 12, 15...",
-      "Common multiples: Numbers divisible by multiple values"
+      "df -h | awk 'NR>1 {used+=$3} END {print used}'",
+      "awk '{sum+=$1} END {print sum}' numbers.txt",
+      "awk '{sum+=$1; n++} END {print sum/n}' numbers.txt"
     ]
   },
   {
-    title: "Greatest Common Divisor (GCD)",
-    category: "Math Concepts",
-    definition: "The largest number that divides evenly into two or more integers.",
+    title: "Bounds and Validation in Scripts",
+    category: "Shell Math",
+    definition: "Combine comparisons and arithmetic to enforce numeric bounds on user input or configuration values.",
     examples: [
-      "GCD of 12 and 18: 6",
-      "Using math.gcd(): import math; math.gcd(12, 18) = 6",
-      "Euclidean algorithm for manual calculation",
-      "Useful for simplifying fractions"
-    ]
-  },
-  {
-    title: "Least Common Multiple (LCM)",
-    category: "Math Concepts",
-    definition: "The smallest number that is a multiple of two or more integers.",
-    examples: [
-      "LCM of 4 and 6: 12",
-      "Using math.lcm(): import math; math.lcm(4, 6) = 12",
-      "Formula: LCM(a, b) = (a * b) / GCD(a, b)",
-      "Useful for finding common denominators"
-    ]
-  },
-  {
-    title: "Fractions and Rational Numbers",
-    category: "Math Concepts",
-    definition: "Numbers expressed as a ratio of two integers (numerator/denominator).",
-    examples: [
-      "Proper fraction: numerator < denominator (1/2)",
-      "Improper fraction: numerator >= denominator (5/3)",
-      "Simplifying: 4/8 = 1/2 (divide by GCD)",
-      "Python: from fractions import Fraction",
-      "Fraction(1, 2) + Fraction(1, 3) = Fraction(5, 6)"
-    ]
-  },
-  {
-    title: "Floating-Point Numbers and Precision",
-    category: "Math Concepts",
-    definition: "Floats represent real numbers but have limited precision due to binary representation.",
-    examples: [
-      "Storage: IEEE 754 double-precision format",
-      "Precision errors: 0.1 + 0.2 != 0.3",
-      "Comparing: Use abs(a - b) < 0.0001 instead of a == b",
-      "Formatting: f'{value:.2f}' for 2 decimal places",
-      "Decimal module: from decimal import Decimal for exact arithmetic"
-    ]
-  },
-  {
-    title: "Powers, Roots, and Exponents",
-    category: "Math Concepts",
-    definition: "Operations involving raising numbers to powers or finding roots.",
-    examples: [
-      "Square: 5 ** 2 = 25 (5 squared)",
-      "Cube: 3 ** 3 = 27 (3 cubed)",
-      "Square root: 25 ** 0.5 = 5.0 or math.sqrt(25) = 5.0",
-      "Nth root: 8 ** (1/3) = 2.0 (cube root)",
-      "Exponent: 2 ** 10 = 1024"
-    ]
-  },
-  {
-    title: "Modular Arithmetic",
-    category: "Math Concepts",
-    definition: "Arithmetic system where numbers wrap around after reaching a certain value (the modulus).",
-    examples: [
-      "Clock arithmetic: 13 % 12 = 1 (1 PM)",
-      "Even/odd: n % 2 == 0 (even), n % 2 == 1 (odd)",
-      "Divisibility: n % 3 == 0 (divisible by 3)",
-      "Wrapping: (x + 1) % 10 (cycles 0-9)",
-      "Circular indexing: items[index % len(items)]"
-    ]
-  },
-  {
-    title: "Sequences and Series",
-    category: "Math Concepts",
-    definition: "Ordered lists of numbers following a pattern or rule.",
-    examples: [
-      "Arithmetic: 2, 5, 8, 11... (add 3 each time)",
-      "  a_n = first + (n-1) * difference",
-      "Geometric: 2, 6, 18, 54... (multiply by 3)",
-      "  a_n = first * (ratio ** (n-1))",
-      "Fibonacci: 0, 1, 1, 2, 3, 5, 8...",
-      "  fib(n) = fib(n-1) + fib(n-2)"
-    ]
-  },
-  {
-    title: "Ratios and Proportions",
-    category: "Math Concepts",
-    definition: "Comparing quantities and scaling values proportionally.",
-    examples: [
-      "Ratio: 3:5 (3 to 5)",
-      "Scaling: value * scale_factor",
-      "Normalization: (x - min) / (max - min) (0 to 1 range)",
-      "Percentage: (part / total) * 100",
-      "Proportion: a/b = c/d"
-    ]
-  },
-  {
-    title: "Random Numbers and Probability",
-    category: "Math Concepts",
-    definition: "Generating unpredictable numbers and modeling chance events.",
-    examples: [
-      "Random integer: import random; random.randint(1, 10)",
-      "Random float: random.random() (0.0 to 1.0)",
-      "Choice: random.choice([1, 2, 3, 4, 5])",
-      "Shuffle: random.shuffle(my_list)",
-      "Seed: random.seed(42) for reproducibility"
-    ]
-  },
-  {
-    title: "Basic Statistics",
-    category: "Math Concepts",
-    definition: "Statistical measures for analyzing numeric data collections.",
-    examples: [
-      "Mean: sum(numbers) / len(numbers) or statistics.mean()",
-      "Median: statistics.median([1, 3, 5, 7, 9]) = 5",
-      "Mode: statistics.mode([1, 2, 2, 3]) = 2",
-      "Range: max(numbers) - min(numbers)",
-      "Variance: statistics.variance(numbers)"
-    ]
-  },
-  {
-    title: "Coordinate Systems and Geometry",
-    category: "Math Concepts",
-    definition: "Representing positions and distances in 2D or 3D space.",
-    examples: [
-      "Cartesian: (x, y) coordinates",
-      "Distance: math.sqrt((x2-x1)**2 + (y2-y1)**2)",
-      "Polar coordinates: (r, θ) - radius and angle",
-      "Basic shapes: circles, rectangles, triangles",
-      "Transformations: translation, rotation, scaling"
-    ]
-  },
-  {
-    title: "Mathematical Constraints and Bounds",
-    category: "Math Concepts",
-    definition: "Limiting values to valid ranges and validating inputs.",
-    examples: [
-      "Minimum: min(a, b, c)",
-      "Maximum: max(a, b, c)",
-      "Clamping: max(min_val, min(value, max_val))",
-      "Validation: if 0 <= value <= 100:",
-      "Bounds checking: if index >= 0 and index < len(list):"
+      "if [ \"$PORT\" -lt 1 ] || [ \"$PORT\" -gt 65535 ]; then echo \"invalid port\"; exit 1; fi",
+      "if [ \"$PERCENT\" -ge 0 ] && [ \"$PERCENT\" -le 100 ]; then echo \"ok\"; fi",
+      "LIMIT=10; [ \"$COUNT\" -gt \"$LIMIT\" ] && COUNT=$LIMIT"
     ]
   }
 ];

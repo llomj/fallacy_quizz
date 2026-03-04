@@ -11,398 +11,222 @@ export interface OperationItem {
 
 export const OPERATIONS_DATA_FR: OperationItem[] = [
   {
-    title: "Opérations arithmétiques",
-    category: "Opérations",
-    definition: "Opérations mathématiques de base pour effectuer des calculs avec des nombres.",
+    title: "Arithmétique Shell avec $(( ))",
+    category: "Opérateurs Shell",
+    definition: "Utiliser l'expansion arithmétique pour faire des calculs entiers directement dans le shell sans programme externe.",
     examples: [
-      "+ Addition : 5 + 3 = 8",
-      "- Soustraction : 10 - 4 = 6",
-      "* Multiplication : 3 * 4 = 12",
-      "/ Division : 15 / 3 = 5.0 (retourne toujours un float)",
-      "// Division entière : 15 // 4 = 3 (arrondit vers le bas)",
-      "% Modulo : 15 % 4 = 3 (reste)",
-      "** Exponentiation : 2 ** 3 = 8"
+      "echo $((2 + 3))        # 5",
+      "echo $((10 - 4))       # 6",
+      "echo $((3 * 4))        # 12",
+      "echo $((15 / 2))       # 7 (division entière)",
+      "echo $((15 % 4))       # 3 (reste)",
+      "i=0; i=$((i+1))        # incrémenter i de 1"
     ]
   },
   {
-    title: "Ordre des opérations",
-    category: "Opérations",
-    definition: "Python suit PEMDAS : Parenthèses, Exposants, Multiplication/Division (de gauche à droite), Addition/Soustraction (de gauche à droite).",
+    title: "Comparaison avec [ ]",
+    category: "Opérateurs Shell",
+    definition: "Utiliser les crochets de test avec les opérateurs -eq, -ne, -lt, -gt, -le, -ge pour comparer des entiers.",
     examples: [
-      "2 + 3 * 4 = 14 (multiplication avant addition)",
-      "(2 + 3) * 4 = 20 (parenthèses d'abord)",
-      "10 - 3 + 2 = 9 (de gauche à droite)",
-      "2 ** 3 * 2 = 16 (exposants avant multiplication)"
+      "[ 5 -eq 5 ] && echo \"égal\"",
+      "[ 3 -lt 5 ] && echo \"3 est plus petit\"",
+      "[ 10 -ge 7 ] && echo \"10 >= 7\"",
+      "if [ \"$COUNT\" -ne 0 ]; then echo \"non nul\"; fi",
+      "if [ \"$A\" -gt \"$B\" ]; then echo \"A>B\"; fi"
     ]
   },
   {
-    title: "Résultats Entier vs Float",
-    category: "Opérations",
-    definition: "La division (/) retourne toujours un float, même lors de la division d'entiers. La division entière (//) retourne un entier lorsque les deux opérandes sont des entiers.",
+    title: "Tests de chaînes dans [ ]",
+    category: "Opérateurs Shell",
+    definition: "Utiliser -z, -n, = et != pour vérifier si des chaînes sont vides, non vides ou égales dans les crochets de test.",
     examples: [
-      "10 / 2 = 5.0 (résultat float)",
-      "10 // 2 = 5 (résultat entier)",
-      "10 / 3 = 3.333... (float)",
-      "10 // 3 = 3 (entier, arrondi vers le bas)",
-      "10.0 // 3 = 3.0 (résultat float)"
+      "[ -z \"$NAME\" ] && echo \"NAME est vide\"",
+      "[ -n \"$NAME\" ] && echo \"NAME est défini\"",
+      "[ \"$USER\" = \"root\" ] && echo \"exécution en root\"",
+      "[ \"$EXT\" != \"txt\" ] && echo \"pas un fichier .txt\""
     ]
   },
   {
-    title: "Opérateurs d'assignation",
-    category: "Opérations",
-    definition: "Opérateurs qui combinent l'assignation avec les opérations arithmétiques.",
+    title: "Tests de fichiers",
+    category: "Opérateurs Shell",
+    definition: "Utiliser les drapeaux -f, -d, -e, -x, -r, -w dans [ ] pour inspecter des fichiers et des répertoires.",
     examples: [
-      "= Assignation de base : x = 5",
-      "+= Ajouter et assigner : x += 3 (identique à x = x + 3)",
-      "-= Soustraire et assigner : x -= 2 (identique à x = x - 2)",
-      "*= Multiplier et assigner : x *= 4 (identique à x = x * 4)",
-      "/= Diviser et assigner : x /= 2 (identique à x = x / 2)",
-      "//= Diviser entièrement et assigner : x //= 3",
-      "%= Modulo et assigner : x %= 5",
-      "**= Exponentier et assigner : x **= 2"
+      "[ -f config.sh ] && echo \"fichier régulier\"",
+      "[ -d /etc ] && echo \"/etc est un dossier\"",
+      "[ -e /usr/bin/ls ] && echo \"ls existe\"",
+      "[ -x script.sh ] && echo \"script exécutable\"",
+      "if [ ! -r secret.txt ]; then echo \"pas de lecture\"; fi"
     ]
   },
   {
-    title: "Assignation en chaîne",
-    category: "Opérations",
-    definition: "Assigner la même valeur à plusieurs variables en une seule instruction.",
+    title: "Opérateurs logiques && et ||",
+    category: "Opérateurs Shell",
+    definition: "Combiner des commandes avec && et || pour exécuter la suivante seulement en cas de succès ou d'échec de la précédente.",
     examples: [
-      "x = y = z = 10  # Toutes les variables égalent 10",
-      "a = b = c = []  # Toutes référencent le même objet liste"
+      "make build && echo \"build ok\"",
+      "ping -c1 example.com || echo \"hôte injoignable\"",
+      "[ -f file ] && rm file || echo \"fichier absent\"",
+      "mkdir logs && cd logs",
+      "command_qui_peut_échouer || exit 1"
     ]
   },
   {
-    title: "Opérateurs de comparaison",
-    category: "Opérations",
-    definition: "Opérateurs qui comparent des valeurs et retournent des résultats booléens.",
+    title: "Code de sortie et $?",
+    category: "Opérateurs Shell",
+    definition: "Chaque commande retourne un entier de sortie ; 0 signifie succès et un non‑zéro indique une erreur. La variable spéciale $? contient le dernier code.",
     examples: [
-      "== Égal à : 5 == 5 → True",
-      "!= Non égal : 5 != 3 → True",
-      "< Inférieur à : 3 < 5 → True",
-      "> Supérieur à : 5 > 3 → True",
-      "<= Inférieur ou égal : 5 <= 5 → True",
-      ">= Supérieur ou égal : 5 >= 3 → True",
-      "En chaîne : 1 < 5 < 10 → True"
+      "ls fichier_existant",
+      "echo \"$?\"    # affiche 0 en cas de succès",
+      "ls inexistant",
+      "echo \"$?\"    # non‑zéro en cas d'erreur",
+      "if ls /root 2>/dev/null; then echo \"ok\"; else echo \"échec\"; fi"
     ]
   },
   {
-    title: "Opérateurs logiques",
-    category: "Opérations",
-    definition: "Opérateurs qui combinent des expressions booléennes en utilisant la logique ET, OU et NON.",
+    title: "Définir et utiliser des variables",
+    category: "Opérateurs Shell",
+    definition: "Assigner des valeurs sans espaces autour de = et les relire plus tard avec le préfixe $ et des guillemets.",
     examples: [
-      "and : Retourne True si les deux conditions sont True",
-      "  (5 > 3) and (10 < 20) → True",
-      "or : Retourne True si au moins une condition est True",
-      "  (5 > 10) or (10 < 20) → True",
-      "not : Inverse la valeur booléenne",
-      "  not (5 > 10) → True",
-      "Court-circuit : 'and' et 'or' s'arrêtent d'évaluer une fois le résultat déterminé"
+      "NAME=\"Alice\"",
+      "echo \"$NAME\"",
+      "COUNT=3",
+      "echo \"Vous avez $COUNT éléments\"",
+      "PATH=\"/custom/bin:$PATH\"   # préfixer PATH"
     ]
   },
   {
-    title: "Identité vs Égalité",
-    category: "Opérations",
-    definition: "is vérifie si deux variables référencent le même objet, == vérifie si les valeurs sont égales.",
+    title: "Commande test et [[ ]]",
+    category: "Opérateurs Shell",
+    definition: "Les crochets [ ] et la syntaxe moderne [[ ]] évaluent des conditions dans les if pour bash ou zsh.",
     examples: [
-      "x = [1, 2, 3]",
-      "y = [1, 2, 3]",
-      "x == y → True (les valeurs sont égales)",
-      "x is y → False (objets différents)",
-      "z = x",
-      "x is z → True (même objet)"
+      "if [ \"$1\" = \"start\" ]; then echo \"démarrage\"; fi",
+      "if [[ \"$FILE\" == *.log ]]; then echo \"fichier log\"; fi",
+      "if [[ -n \"$USER\" && \"$USER\" != \"root\" ]]; then echo \"non‑root\"; fi"
     ]
   },
   {
-    title: "Opérations d'appartenance",
-    category: "Opérations",
-    definition: "Opérateurs qui vérifient si un élément existe dans une séquence ou une collection.",
+    title: "Arithmétique dans les boucles",
+    category: "Opérateurs Shell",
+    definition: "Utiliser l'expansion arithmétique ou let pour mettre à jour des compteurs dans les boucles for et while.",
     examples: [
-      "in : Retourne True si l'élément est trouvé",
-      "  'a' in 'apple' → True",
-      "  3 in [1, 2, 3] → True",
-      "  'key' in {'key': 'value'} → True",
-      "not in : Retourne True si l'élément n'est pas trouvé",
-      "  10 not in [1, 2, 3] → True"
+      "i=0; while [ \"$i\" -lt 3 ]; do echo \"$i\"; i=$((i+1)); done",
+      "for ((i=10; i>0; i--)); do echo \"$i\"; done",
+      "COUNT=0; for f in *.log; do COUNT=$((COUNT+1)); done"
     ]
   },
   {
-    title: "Opérations de type",
-    category: "Opérations",
-    definition: "Fonctions et opérateurs pour vérifier et convertir les types de données.",
+    title: "Regroupement et sous‑shells",
+    category: "Opérateurs Shell",
+    definition: "Utiliser les parenthèses ( ) pour un sous‑shell et { } pour regrouper des commandes qui partagent une redirection.",
     examples: [
-      "type() : Retourne le type d'un objet",
-      "  type(5) → <class 'int'>",
-      "isinstance() : Vérifie si l'objet est une instance de type(s)",
-      "  isinstance(5, int) → True",
-      "  isinstance(5, (int, float)) → True",
-      "Typage dynamique : Les variables peuvent changer de type",
-      "  x = 5  # x est int",
-      "  x = 'hello'  # x est maintenant str"
-    ]
-  },
-  {
-    title: "Opérateurs binaires",
-    category: "Opérations",
-    definition: "Opérateurs qui effectuent des opérations sur les représentations binaires d'entiers.",
-    examples: [
-      "& ET : 5 & 3 = 1 (binaire : 101 & 011 = 001)",
-      "| OU : 5 | 3 = 7 (binaire : 101 | 011 = 111)",
-      "^ OU exclusif : 5 ^ 3 = 6 (binaire : 101 ^ 011 = 110)",
-      "~ NON : ~5 = -6 (inverse tous les bits)",
-      "<< Décalage à gauche : 5 << 1 = 10 (multiplier par 2)",
-      ">> Décalage à droite : 5 >> 1 = 2 (diviser par 2, arrondi)"
+      "(cd /tmp && ls)      # cd seulement dans le sous‑shell",
+      "{ echo \"start\"; date; } > run.log",
+      "(echo one; echo two) | sort"
     ]
   }
 ];
 
 export const MATH_CONCEPTS_DATA_FR: OperationItem[] = [
   {
-    title: "Entiers de base et comptage",
-    category: "Concepts Mathématiques",
-    definition: "Les entiers sont des nombres entiers sans décimales. Python supporte des entiers arbitrairement grands.",
+    title: "Entiers et codes de sortie",
+    category: "Math Shell",
+    definition: "Dans le shell, l'arithmétique et les codes de sortie sont toujours des entiers ; 0 signifie en général succès et un non‑zéro indique une erreur.",
     examples: [
-      "Positifs : 1, 2, 3, 100, 1000",
-      "Négatifs : -1, -5, -100",
-      "Zéro : 0 (comportement spécial dans de nombreuses opérations)",
-      "Grands : 999999999999999999 (pas de débordement)"
+      "echo $((1 + 2))        # 3",
+      "false; echo \"$?\"      # 1 (échec)",
+      "true;  echo \"$?\"      # 0 (succès)",
+      "if [ \"$?\" -ne 0 ]; then echo \"dernière commande en erreur\"; fi"
     ]
   },
   {
-    title: "Entiers positifs et négatifs",
-    category: "Concepts Mathématiques",
-    definition: "Les entiers peuvent être positifs, négatifs ou zéro. Les opérations avec des nombres négatifs suivent les règles mathématiques standard.",
+    title: "Zéro et erreurs de division",
+    category: "Math Shell",
+    definition: "Zéro se comporte normalement dans la plupart des opérations, mais une division par zéro dans $(( )) ou expr provoque une erreur et un code de sortie non‑zéro.",
     examples: [
-      "Addition : 5 + (-3) = 2",
-      "Soustraction : 5 - (-3) = 8",
-      "Multiplication : 5 * (-3) = -15",
-      "Division : -10 / 2 = -5.0",
-      "Valeur absolue : abs(-5) = 5"
+      "echo $((5 * 0))        # 0",
+      "echo $((5 + 0))        # 5",
+      "set +e; expr 10 / 0    # affiche une erreur, code non‑zéro",
+      "if ! expr 10 / 0 >/dev/null 2>&1; then echo \"division par zéro\"; fi"
     ]
   },
   {
-    title: "Zéro et son comportement spécial",
-    category: "Concepts Mathématiques",
-    definition: "Zéro a des propriétés uniques dans les opérations mathématiques qui affectent le comportement de Python.",
+    title: "Compteurs dans les boucles",
+    category: "Math Shell",
+    definition: "Utiliser l'expansion arithmétique pour incrémenter ou décrémenter des compteurs dans les boucles while et for.",
     examples: [
-      "Division par zéro : 10 / 0 → ZeroDivisionError",
-      "Multiplication par zéro : 5 * 0 = 0",
-      "Addition de zéro : 5 + 0 = 5",
-      "Booléen : bool(0) = False (zéro est falsy)",
-      "Puissance : 5 ** 0 = 1 (tout nombre à la puissance 0 vaut 1)"
+      "i=0; while [ \"$i\" -lt 3 ]; do echo \"$i\"; i=$((i+1)); done",
+      "for ((i=10; i>0; i--)); do echo \"$i\"; done",
+      "COUNT=0; for f in *.log; do COUNT=$((COUNT+1)); done"
     ]
   },
   {
-    title: "Incrémentation et décrémentation des valeurs",
-    category: "Concepts Mathématiques",
-    definition: "Modèles communs pour augmenter ou diminuer des valeurs numériques dans les boucles et conditions.",
+    title: "Plages avec expansion d'accolades",
+    category: "Math Shell",
+    definition: "L'expansion d'accolades {début..fin[..pas]} génère des séquences d'entiers sans écrire de boucle explicite.",
     examples: [
-      "Incrément : x += 1 ou x = x + 1",
-      "Décrément : x -= 1 ou x = x - 1",
-      "Dans une boucle : for i in range(10): (i s'incrémente automatiquement)",
-      "Boucle while : while x < 10: x += 1",
-      "Incrément par pas : x += 2 (augmenter de 2)"
+      "echo {1..5}          # 1 2 3 4 5",
+      "echo {0..10..2}      # 0 2 4 6 8 10",
+      "for i in {3..1}; do echo \"$i\"; done"
     ]
   },
   {
-    title: "Utilisation d'entiers dans les boucles et conditions",
-    category: "Concepts Mathématiques",
-    definition: "Les entiers sont couramment utilisés pour contrôler les itérations de boucles et comme conditions dans le flux de contrôle.",
+    title: "Modulo pour pair/impair et cycles",
+    category: "Math Shell",
+    definition: "Utiliser l'opérateur % dans $(( )) pour tester pair/impair ou faire tourner un compteur dans une plage fixe.",
     examples: [
-      "Range : for i in range(5): (0, 1, 2, 3, 4)",
-      "Compte à rebours : for i in range(10, 0, -1):",
-      "Condition : if count > 0:",
-      "Compteur : count = 0; count += 1",
-      "Index : items[i] (utiliser un entier comme index)"
+      "n=4; if [ $((n % 2)) -eq 0 ]; then echo \"pair\"; fi",
+      "for i in {0..5}; do echo $((i % 3)); done",
+      "index=$(((index+1) % 10))   # cycle 0–9"
     ]
   },
   {
-    title: "Nombres premiers",
-    category: "Concepts Mathématiques",
-    definition: "Un nombre premier est un nombre naturel supérieur à 1 qui n'a pas de diviseurs positifs autres que 1 et lui-même.",
+    title: "Utiliser bc pour les décimales",
+    category: "Math Shell",
+    definition: "La commande bc fournit une arithmétique décimale de précision arbitraire quand l'entier‑seul de $(( )) ne suffit pas.",
     examples: [
-      "Premiers : 2, 3, 5, 7, 11, 13, 17, 19",
-      "Composés : 4, 6, 8, 9, 10 (ont des diviseurs autres que 1 et eux-mêmes)",
-      "Vérification : n % i != 0 pour tout i dans range(2, n)",
-      "1 n'est ni premier ni composé"
+      "echo \"1/3\" | bc           # 0 (entier par défaut)",
+      "echo \"scale=2; 1/3\" | bc  # 0.33",
+      "echo \"scale=3; 2.5 * 4\" | bc   # 10.000"
     ]
   },
   {
-    title: "Vérifier si un nombre est premier",
-    category: "Concepts Mathématiques",
-    definition: "Algorithme pour déterminer si un nombre est premier en testant la divisibilité.",
+    title: "Pourcentages et ratios",
+    category: "Math Shell",
+    definition: "Calculer des pourcentages et ratios simples dans les scripts avec $(( )) pour les entiers ou bc pour les décimales.",
     examples: [
-      "Basique : Vérifier la divisibilité de 2 à n-1",
-      "Optimisé : Vérifier uniquement jusqu'à √n",
-      "def is_prime(n):",
-      "    if n < 2: return False",
-      "    for i in range(2, int(n**0.5) + 1):",
-      "        if n % i == 0: return False",
-      "    return True"
+      "USED=30; TOTAL=50; echo $((USED * 100 / TOTAL))\"%\"   # 60%",
+      "echo \"scale=1; 7/20*100\" | bc   # 35.0",
+      "echo \"scale=2; $USED/$TOTAL\" | bc"
     ]
   },
   {
-    title: "Génération de séquences de nombres premiers",
-    category: "Concepts Mathématiques",
-    definition: "Méthodes pour créer des listes ou générateurs de nombres premiers.",
+    title: "Nombres aléatoires dans le shell",
+    category: "Math Shell",
+    definition: "Beaucoup de shells exposent un entier pseudo‑aléatoire via $RANDOM ou des outils externes comme shuf.",
     examples: [
-      "Crible d'Ératosthène : Algorithme efficace",
-      "Générateur : yield primes un à la fois",
-      "Compréhension de liste avec vérification de primalité",
-      "Basé sur range : for n in range(2, 100) if is_prime(n)"
+      "echo \"$RANDOM\"           # 0–32767 dans bash/zsh",
+      "echo $((RANDOM % 6 + 1))  # lancer de dé 1–6",
+      "shuf -i 1-10 -n 3         # trois nombres uniques 1–10"
     ]
   },
   {
-    title: "Facteurs et multiples",
-    category: "Concepts Mathématiques",
-    definition: "Les facteurs sont des nombres qui divisent uniformément un autre nombre. Les multiples sont des produits d'un nombre.",
+    title: "Agrégations simples avec awk",
+    category: "Math Shell",
+    definition: "Utiliser awk pour sommer, moyenner et compter des colonnes numériques issues de fichiers ou de commandes.",
     examples: [
-      "Facteurs de 12 : [1, 2, 3, 4, 6, 12]",
-      "Trouver des facteurs : [i for i in range(1, n+1) if n % i == 0]",
-      "Multiples de 3 : 3, 6, 9, 12, 15...",
-      "Multiples communs : Nombres divisibles par plusieurs valeurs"
+      "df -h | awk 'NR>1 {used+=$3} END {print used}'",
+      "awk '{sum+=$1} END {print sum}' numbers.txt",
+      "awk '{sum+=$1; n++} END {print sum/n}' numbers.txt"
     ]
   },
   {
-    title: "Plus Grand Commun Diviseur (PGCD)",
-    category: "Concepts Mathématiques",
-    definition: "Le plus grand nombre qui divise uniformément deux ou plusieurs entiers.",
+    title: "Bornes et validation dans les scripts",
+    category: "Math Shell",
+    definition: "Combiner comparaisons et arithmétique pour imposer des bornes numériques sur les entrées utilisateur ou la configuration.",
     examples: [
-      "PGCD de 12 et 18 : 6",
-      "Utiliser math.gcd() : import math; math.gcd(12, 18) = 6",
-      "Algorithme d'Euclide pour le calcul manuel",
-      "Utile pour simplifier les fractions"
-    ]
-  },
-  {
-    title: "Plus Petit Commun Multiple (PPCM)",
-    category: "Concepts Mathématiques",
-    definition: "Le plus petit nombre qui est un multiple de deux ou plusieurs entiers.",
-    examples: [
-      "PPCM de 4 et 6 : 12",
-      "Utiliser math.lcm() : import math; math.lcm(4, 6) = 12",
-      "Formule : PPCM(a, b) = (a * b) / PGCD(a, b)",
-      "Utile pour trouver les dénominateurs communs"
-    ]
-  },
-  {
-    title: "Fractions et nombres rationnels",
-    category: "Concepts Mathématiques",
-    definition: "Nombres exprimés comme un rapport de deux entiers (numérateur/dénominateur).",
-    examples: [
-      "Fraction propre : numérateur < dénominateur (1/2)",
-      "Fraction impropre : numérateur >= dénominateur (5/3)",
-      "Simplification : 4/8 = 1/2 (diviser par PGCD)",
-      "Python : from fractions import Fraction",
-      "Fraction(1, 2) + Fraction(1, 3) = Fraction(5, 6)"
-    ]
-  },
-  {
-    title: "Nombres à virgule flottante et précision",
-    category: "Concepts Mathématiques",
-    definition: "Les floats représentent des nombres réels mais ont une précision limitée due à la représentation binaire.",
-    examples: [
-      "Stockage : Format double précision IEEE 754",
-      "Erreurs de précision : 0.1 + 0.2 != 0.3",
-      "Comparaison : Utiliser abs(a - b) < 0.0001 au lieu de a == b",
-      "Formatage : f'{value:.2f}' pour 2 décimales",
-      "Module decimal : from decimal import Decimal pour l'arithmétique exacte"
-    ]
-  },
-  {
-    title: "Puissances, racines et exposants",
-    category: "Concepts Mathématiques",
-    definition: "Opérations impliquant l'élévation de nombres à des puissances ou la recherche de racines.",
-    examples: [
-      "Carré : 5 ** 2 = 25 (5 au carré)",
-      "Cube : 3 ** 3 = 27 (3 au cube)",
-      "Racine carrée : 25 ** 0.5 = 5.0 ou math.sqrt(25) = 5.0",
-      "Racine nième : 8 ** (1/3) = 2.0 (racine cubique)",
-      "Exposant : 2 ** 10 = 1024"
-    ]
-  },
-  {
-    title: "Arithmétique modulaire",
-    category: "Concepts Mathématiques",
-    definition: "Système arithmétique où les nombres reviennent après avoir atteint une certaine valeur (le module).",
-    examples: [
-      "Arithmétique d'horloge : 13 % 12 = 1 (13h)",
-      "Pair/impair : n % 2 == 0 (pair), n % 2 == 1 (impair)",
-      "Divisibilité : n % 3 == 0 (divisible par 3)",
-      "Bouclage : (x + 1) % 10 (cycles 0-9)",
-      "Indexation circulaire : items[index % len(items)]"
-    ]
-  },
-  {
-    title: "Suites et séries",
-    category: "Concepts Mathématiques",
-    definition: "Listes ordonnées de nombres suivant un motif ou une règle.",
-    examples: [
-      "Arithmétique : 2, 5, 8, 11... (ajouter 3 à chaque fois)",
-      "  a_n = premier + (n-1) * différence",
-      "Géométrique : 2, 6, 18, 54... (multiplier par 3)",
-      "  a_n = premier * (ratio ** (n-1))",
-      "Fibonacci : 0, 1, 1, 2, 3, 5, 8...",
-      "  fib(n) = fib(n-1) + fib(n-2)"
-    ]
-  },
-  {
-    title: "Ratios et proportions",
-    category: "Concepts Mathématiques",
-    definition: "Comparer des quantités et mettre à l'échelle des valeurs proportionnellement.",
-    examples: [
-      "Ratio : 3:5 (3 pour 5)",
-      "Mise à l'échelle : value * scale_factor",
-      "Normalisation : (x - min) / (max - min) (plage 0 à 1)",
-      "Pourcentage : (part / total) * 100",
-      "Proportion : a/b = c/d"
-    ]
-  },
-  {
-    title: "Nombres aléatoires et probabilité",
-    category: "Concepts Mathématiques",
-    definition: "Générer des nombres imprévisibles et modéliser des événements aléatoires.",
-    examples: [
-      "Entier aléatoire : import random; random.randint(1, 10)",
-      "Float aléatoire : random.random() (0.0 à 1.0)",
-      "Choix : random.choice([1, 2, 3, 4, 5])",
-      "Mélanger : random.shuffle(my_list)",
-      "Graine : random.seed(42) pour la reproductibilité"
-    ]
-  },
-  {
-    title: "Statistiques de base",
-    category: "Concepts Mathématiques",
-    definition: "Mesures statistiques pour analyser des collections de données numériques.",
-    examples: [
-      "Moyenne : sum(numbers) / len(numbers) ou statistics.mean()",
-      "Médiane : statistics.median([1, 3, 5, 7, 9]) = 5",
-      "Mode : statistics.mode([1, 2, 2, 3]) = 2",
-      "Étendue : max(numbers) - min(numbers)",
-      "Variance : statistics.variance(numbers)"
-    ]
-  },
-  {
-    title: "Systèmes de coordonnées et géométrie",
-    category: "Concepts Mathématiques",
-    definition: "Représenter des positions et des distances dans un espace 2D ou 3D.",
-    examples: [
-      "Cartésien : coordonnées (x, y)",
-      "Distance : math.sqrt((x2-x1)**2 + (y2-y1)**2)",
-      "Coordonnées polaires : (r, θ) - rayon et angle",
-      "Formes de base : cercles, rectangles, triangles",
-      "Transformations : translation, rotation, mise à l'échelle"
-    ]
-  },
-  {
-    title: "Contraintes et limites mathématiques",
-    category: "Concepts Mathématiques",
-    definition: "Limiter les valeurs à des plages valides et valider les entrées.",
-    examples: [
-      "Minimum : min(a, b, c)",
-      "Maximum : max(a, b, c)",
-      "Plage : max(min_val, min(value, max_val))",
-      "Validation : if 0 <= value <= 100:",
-      "Vérification des limites : if index >= 0 and index < len(list):"
+      "if [ \"$PORT\" -lt 1 ] || [ \"$PORT\" -gt 65535 ]; then echo \"port invalide\"; exit 1; fi",
+      "if [ \"$PERCENT\" -ge 0 ] && [ \"$PERCENT\" -le 100 ]; then echo \"ok\"; fi",
+      "LIMIT=10; [ \"$COUNT\" -gt \"$LIMIT\" ] && COUNT=$LIMIT"
     ]
   }
 ];
