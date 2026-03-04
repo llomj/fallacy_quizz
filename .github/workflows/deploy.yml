@@ -1,5 +1,5 @@
-# Official GitHub Actions → Pages (Source: GitHub Actions in repo Settings).
-# Build, upload artifact, deploy in one job. Uses configure-pages@v5, upload-pages-artifact@v4, deploy-pages@v4.
+# Matches last successful run (Run 3, 3e32dcd). Source = GitHub Actions in repo Settings.
+# Do not upgrade to configure-pages@v5 or upload-pages-artifact@v4; they failed in this repo.
 name: Deploy to GitHub Pages
 
 on:
@@ -14,7 +14,7 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   deploy:
@@ -40,13 +40,18 @@ jobs:
           VITE_BASE_REPO: ${{ github.event.repository.name }}
 
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v4
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
           path: 'dist'
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Deployment URL
+        run: |
+          echo "Deployed to: https://llomj.github.io/${{ github.event.repository.name }}/"
+          echo "Open this URL on your phone to test the PWA."
