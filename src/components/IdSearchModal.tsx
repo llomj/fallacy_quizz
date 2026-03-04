@@ -390,7 +390,14 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
                           </select>
                         </label>
                         <p className="text-sm text-slate-400 leading-relaxed whitespace-pre-line">
-                          {getTranslatedDetailedExplanation(question.id, getDetailedExplanationForLevel(question, detailedExplanationLevel) ?? '', language)}
+                          {getTranslatedDetailedExplanation(
+                            question.id,
+                            getDetailedExplanationForLevel(question, detailedExplanationLevel) ?? '',
+                            language,
+                            detailedExplanationLevel,
+                            question.question,
+                            question.options[question.correct_option_index]
+                          )}
                         </p>
                       </div>
                     </details>

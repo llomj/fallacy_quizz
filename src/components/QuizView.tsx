@@ -1183,7 +1183,14 @@ export const QuizView: React.FC<QuizViewProps> = ({
                         </label>
                       </div>
                       <div className="text-slate-200 leading-relaxed text-sm whitespace-pre-wrap">
-                        {getTranslatedDetailedExplanation(currentQuestion.id, getDetailedExplanationForLevel(currentQuestion, detailedExplanationLevel) ?? '', language)}
+                        {getTranslatedDetailedExplanation(
+                          currentQuestion.id,
+                          getDetailedExplanationForLevel(currentQuestion, detailedExplanationLevel) ?? '',
+                          language,
+                          detailedExplanationLevel,
+                          currentQuestion.question,
+                          currentQuestion.options[currentQuestion.correct_option_index]
+                        )}
                       </div>
                     </div>
 

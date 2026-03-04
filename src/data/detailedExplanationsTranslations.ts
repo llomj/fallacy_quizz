@@ -1,5 +1,11 @@
 import { SHORT_EXPLANATIONS_FR } from './shortExplanationsTranslations';
 import { containsEnglishProse, normalizeFrenchProse } from '../utils/frenchText';
+import {
+  buildFoundationFrenchDetailed,
+  extractCommandExample,
+  isFoundationQuestion,
+  type ExplanationDepth,
+} from '../utils/foundationDetailedFormatter';
 
 /**
  * French translations for detailed explanations (explication du codon / description approfondie).
@@ -75390,16 +75396,43 @@ const getFrenchDetailedFallback = (questionId: number): string => {
 export const getTranslatedDetailedExplanation = (
   questionId: number,
   englishText: string,
-  language: string
+  language: string,
+  explanationLevel: ExplanationDepth = 'intermediate',
+  questionText?: string,
+  correctOption?: string
 ): string => {
   if (language !== 'fr') {
     return englishText;
   }
 
-  const frenchCandidate = DETAILED_EXPLANATIONS_FR[questionId] ?? englishText;
+  const mappedFrench = DETAILED_EXPLANATIONS_FR[questionId];
+  const frenchCandidate = mappedFrench ?? englishText;
   const normalized = normalizeFrenchProse(frenchCandidate);
+  const hasEnglishLeak = containsEnglishProse(normalized);
 
-  if (containsEnglishProse(normalized)) {
+  if (isFoundationQuestion(questionId)) {
+    const commandExample = extractCommandExample(
+      questionText,
+      correctOption,
+      englishText,
+      normalized
+    );
+
+    const baseFrench = hasEnglishLeak
+      ? getFrenchDetailedFallback(questionId)
+      : normalized;
+
+    return buildFoundationFrenchDetailed({
+      depth: explanationLevel,
+      baseText: baseFrench,
+      shortText: SHORT_EXPLANATIONS_FR[questionId],
+      commandExample,
+      questionText,
+      correctOption,
+    });
+  }
+
+  if (hasEnglishLeak) {
     return getFrenchDetailedFallback(questionId);
   }
 

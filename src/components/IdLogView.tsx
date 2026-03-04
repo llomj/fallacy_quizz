@@ -325,7 +325,14 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose }) => {
                             </label>
                           </div>
                           <div className="text-slate-200 leading-relaxed text-sm whitespace-pre-wrap">
-                            {getTranslatedDetailedExplanation(entry.id, detailedExplanation, language)}
+                            {getTranslatedDetailedExplanation(
+                              entry.id,
+                              detailedExplanation,
+                              language,
+                              detailedExplanationLevel,
+                              bankQuestion?.question ?? entry.question,
+                              bankQuestion ? bankQuestion.options[bankQuestion.correct_option_index] : entry.correctAnswer
+                            )}
                           </div>
                         </div>
                       </div>

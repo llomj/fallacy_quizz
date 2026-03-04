@@ -85,3 +85,35 @@ The workflow (`.github/workflows/deploy.yml`) must match the **last successful r
 - GitHub Actions latest run: `conclusion = success`.
 - Pages deploy points to the commit containing French option fix + missing util file.
 - In quiz view with French selected, A/B/C/D option text appears in French.
+
+---
+
+## March 4, 2026 — Level 0-4 in-depth explanation overhaul (batch tracker)
+
+### Batch completed (this update)
+
+1. Added a foundation explanation formatter for **Level 0 through Level 4** with enforced depth modes:
+   - Beginner explanation
+   - Intermediate explanation
+   - Expert explanation
+2. Added structured verbose output for these levels with:
+   - clear heading by depth
+   - step-by-step command example flow
+   - retention/checklist blocks for learning
+3. Applied the same rule to **French mode** so depth selection is respected (not a single static detailed block).
+4. Wired the new behavior in all explanation surfaces:
+   - Quiz view
+   - ID search modal
+   - ID log view
+5. Kept layout unchanged; only explanation content pipeline changed.
+
+### What still needs to be done (next batches)
+
+1. Batch QA pass on live content for IDs **1-1500**:
+   - verify command example extraction quality
+   - verify no awkward phrasing for conceptual (non-command) questions
+2. French quality pass:
+   - tune vocabulary for beginner friendliness
+   - reduce any machine-like phrasing in generated expert blocks
+3. Optional content hardening:
+   - add per-topic custom step templates (navigation/files/processes/text tools) for even more precise examples in Level 0-4.
