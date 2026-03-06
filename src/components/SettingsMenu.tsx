@@ -55,6 +55,7 @@ interface SettingsMenuProps {
   onShowLearningLog?: () => void;
   onShowLevelSelector?: () => void;
   onToggleLanguage?: () => void;
+  onPreviewStarSounds?: () => void;
   onResetApp?: () => void;
 }
 
@@ -76,6 +77,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   onShowLearningLog,
   onShowLevelSelector,
   onToggleLanguage,
+  onPreviewStarSounds,
   onResetApp
 }) => {
   const { t, language } = useLanguage();
@@ -234,6 +236,16 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                       label={t('settings.haptic')}
                       icon="fa-hand"
                     />
+                  )}
+                  {onPreviewStarSounds && (
+                    <button
+                      type="button"
+                      onClick={() => { onPreviewStarSounds(); }}
+                      className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+                    >
+                      <i className="fas fa-volume-high text-sm w-5 flex-shrink-0"></i>
+                      <span className="text-sm font-medium">{t('settings.previewStarSounds')}</span>
+                    </button>
                   )}
                 </>
               )}

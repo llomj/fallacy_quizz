@@ -421,6 +421,10 @@ const App: React.FC = () => {
         onShowLearningLog={() => setView('log')}
         onShowLevelSelector={() => setShowLevelSelector(true)}
         onToggleLanguage={toggleLanguage}
+        onPreviewStarSounds={() => {
+          void playStarCelebrationSound();
+          setTimeout(() => void playFiveStarCelebrationSound(), 950);
+        }}
         onResetApp={() => setShowResetModal(true)}
       />
 

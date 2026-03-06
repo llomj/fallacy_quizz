@@ -815,9 +815,6 @@ export const QuizView: React.FC<QuizViewProps> = ({
     const currentQuestion = questions[currentIndex];
     const isCorrect = index === currentQuestion.correct_option_index;
 
-    if (hapticEnabled && typeof navigator !== 'undefined' && navigator.vibrate) {
-      navigator.vibrate(50);
-    }
     if (soundEnabled) {
       if (isCorrect) onPlayCorrectSound?.();
       else onPlayWrongSound?.();
@@ -1053,6 +1050,11 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 key={idx}
                 disabled={isAnswered}
                 onClick={() => handleOptionClick(idx)}
+                onPointerDown={() => {
+                  if (hapticEnabled && !isAnswered && typeof navigator !== 'undefined' && navigator.vibrate) {
+                    navigator.vibrate([80, 40, 80]);
+                  }
+                }}
                 className={`group w-full p-4 md:p-5 rounded-2xl border-2 text-left transition-all duration-300 flex items-center justify-between ${colorClass} ${!isAnswered && 'active:scale-[0.98]'}`}
               >
                 <div className="flex items-center gap-4">
@@ -1142,7 +1144,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                           </select>
                         </label>
                       </div>
-                      <div className="text-yellow-300 leading-relaxed text-sm whitespace-pre-wrap bg-transparent">
+                      <div className="text-white leading-relaxed text-sm whitespace-pre-wrap bg-transparent">
                         {getTranslatedDetailedExplanation(
                           currentQuestion.id,
                           getDetailedExplanationForLevel(currentQuestion, detailedExplanationLevel) ?? '',

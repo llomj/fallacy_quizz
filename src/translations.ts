@@ -180,6 +180,7 @@ export const translations = {
       haptic: "Haptic",
       hapticOn: "Haptic: On",
       hapticOff: "Haptic: Off",
+      previewStarSounds: "Preview star sounds",
     },
     
     // Reset App Modal
@@ -440,6 +441,7 @@ export const translations = {
       haptic: "Vibrations",
       hapticOn: "Vibrations : Activées",
       hapticOff: "Vibrations : Désactivées",
+      previewStarSounds: "Écouter les sons des étoiles",
     },
     
     // Reset App Modal
