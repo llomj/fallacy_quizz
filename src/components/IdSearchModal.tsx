@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Question } from '../types';
-import { getQuestionBank } from '../questionsBank';
+import { getQuestionBank, MAX_QUESTION_ID } from '../questionsBank';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
@@ -139,21 +139,22 @@ const visualizeWhitespace = (text: string): string => {
 interface IdSearchModalProps {
   onClose: () => void;
   onSaveToLog: (entry: { id: number; question: string; correctAnswer: string; explanation: string }) => void;
+  initialId?: number;
 }
 
-export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToLog }) => {
+export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToLog, initialId }) => {
   const { t, language } = useLanguage();
-  const [idInput, setIdInput] = useState('');
+  const [idInput, setIdInput] = useState(initialId ? String(initialId) : '');
   const [question, setQuestion] = useState<Question | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [detailedExplanationLevel, setDetailedExplanationLevel] = useState<DetailedExplanationLevel>('intermediate');
   const displayContent = question ? getQuestionDisplay(language, question.question, question.options) : null;
   const showWhitespaceHints = question ? shouldVisualizeOptionWhitespace(displayContent!.options) : false;
 
-  const handleSearch = () => {
-    const id = parseInt(idInput.trim());
-    if (isNaN(id) || id < 1 || id > 3000) {
-      setError(t('idSearch.invalidId'));
+  const handleSearch = (overrideId?: number) => {
+    const id = overrideId ?? parseInt(idInput.trim(), 10);
+    if (isNaN(id) || id < 1 || id > MAX_QUESTION_ID) {
+      setError(formatTranslation(t('idSearch.invalidId'), { max: MAX_QUESTION_ID }));
       setQuestion(null);
       return;
     }
@@ -196,6 +197,13 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
     }
   };
 
+  useEffect(() => {
+    if (initialId != null && initialId >= 1 && initialId <= MAX_QUESTION_ID) {
+      setIdInput(String(initialId));
+      handleSearch(initialId);
+    }
+  }, [initialId]);
+
   return (
     <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4">
       <div className="glass rounded-3xl p-8 max-w-2xl w-full max-h-[90vh] overflow-y-auto space-y-6 animate-in zoom-in duration-300 shadow-2xl border border-white/10">
@@ -218,10 +226,10 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
               value={idInput}
               onChange={(e) => setIdInput(e.target.value)}
               onKeyPress={handleKeyPress}
-              placeholder={t('idSearch.enterId')}
+              placeholder={formatTranslation(t('idSearch.enterId'), { max: MAX_QUESTION_ID })}
               className="flex-1 px-4 py-3 bg-white/5 border border-white/10 rounded-xl text-white placeholder-slate-500 focus:outline-none focus:border-yellow-400 focus:ring-2 focus:ring-yellow-400/30"
               min="1"
-              max="3000"
+              max={MAX_QUESTION_ID}
             />
             <button
               onClick={handleSearch}

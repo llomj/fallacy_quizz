@@ -86,6 +86,9 @@ export interface UserStats {
   stateVersion?: number; // For migrations (e.g. question ID shift when adding Level 0)
 }
 
+/** Frequency of fallacies in everyday discourse. Used for level-ordering audit (common → early, rare → late). */
+export type FallacyFrequency = 'common' | 'uncommon' | 'rare';
+
 export interface LevelInfo {
   level: number;
   persona: PersonaStage;
@@ -97,4 +100,6 @@ export interface LevelInfo {
   concepts: string[];
   description: string;
   color: string;
+  /** Frequency of fallacies at this level (common=1-2, uncommon=3-6, rare=7-10). For audit and level-assignment consistency. */
+  fallacyFrequency?: FallacyFrequency;
 }

@@ -117,7 +117,7 @@ export const translations = {
     // Glossary View
     glossary: {
       title: "LOGICAL FALLACIES GLOSSARY",
-      searchPlaceholder: "Search fallacies...",
+      searchPlaceholder: "Search fallacies... ({count} fallacies)",
       levelConcept: "Level {range} Concept",
       levelSection: "Level {level}",
       levelBadge: "Lvl {range}",
@@ -127,6 +127,7 @@ export const translations = {
       exampleLevelIntermediate: "Intermediate",
       exampleLevelExpert: "Expert",
       noResults: "No terms found matching \"{search}\"",
+      showingCount: "{count} of {total} fallacies",
     },
     
     // Operations View
@@ -205,7 +206,7 @@ export const translations = {
     // ID Search & Log
     idSearch: {
       searchById: "Search by ID",
-      enterId: "ID (1-3000)",
+      enterId: "ID (1-{max})",
       search: "Search",
       saveToLog: "Save to Log",
       saved: "Saved!",
@@ -215,7 +216,7 @@ export const translations = {
       showDetailedExplanation: "Show Detailed Explanation",
       noSavedQuestions: "No saved questions yet. Search by ID and save questions for reference.",
       idLog: "ID Log",
-      invalidId: "Please enter a valid ID between 1 and 3000",
+      invalidId: "Please enter a valid ID between 1 and {max}",
       questionNotFound: "Question with ID {id} not found",
     },
     
@@ -378,7 +379,7 @@ export const translations = {
     // Glossary View
     glossary: {
       title: "GLOSSAIRE DES SOPHISMES LOGIQUES",
-      searchPlaceholder: "Rechercher un sophisme...",
+      searchPlaceholder: "Rechercher... ({count} sophismes)",
       levelConcept: "Concept Niveau {range}",
       levelSection: "Niveau {level}",
       levelBadge: "Niveau {range}",
@@ -388,6 +389,7 @@ export const translations = {
       exampleLevelIntermediate: "Intermédiaire",
       exampleLevelExpert: "Expert",
       noResults: "Aucun terme trouvé correspondant à \"{search}\"",
+      showingCount: "{count} sur {total} sophismes",
     },
     
     // Operations View
@@ -466,7 +468,7 @@ export const translations = {
     // ID Search & Log
     idSearch: {
       searchById: "Rechercher par ID",
-      enterId: "ID (1-3000)",
+      enterId: "ID (1-{max})",
       search: "Rechercher",
       saveToLog: "Enregistrer dans le Journal",
       saved: "Enregistré!",
@@ -476,7 +478,7 @@ export const translations = {
       showDetailedExplanation: "Afficher l'Explication Détaillée",
       noSavedQuestions: "Aucune question enregistrée pour le moment. Recherchez par ID et enregistrez des questions pour référence.",
       idLog: "Journal ID",
-      invalidId: "Veuillez entrer un ID valide entre 1 et 3000",
+      invalidId: "Veuillez entrer un ID valide entre 1 et {max}",
       questionNotFound: "Question avec l'ID {id} introuvable",
     },
     

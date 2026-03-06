@@ -170,11 +170,16 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack }) => {
         </div>
         <input 
           type="text"
-          placeholder={t('glossary.searchPlaceholder')}
+          placeholder={formatTranslation(t('glossary.searchPlaceholder'), { count: GLOSSARY.length })}
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           className="w-full pl-10 pr-3 py-3 text-sm bg-slate-900 border border-white/5 rounded-2xl text-white placeholder:text-slate-600 focus:outline-none focus:border-yellow-400/60 transition-colors"
         />
+        {search !== '' && (
+          <p className="mt-2 text-xs text-slate-500">
+            {formatTranslation(t('glossary.showingCount'), { count: filteredGlossary.length, total: GLOSSARY.length })}
+          </p>
+        )}
       </div>
 
       {search === '' ? (

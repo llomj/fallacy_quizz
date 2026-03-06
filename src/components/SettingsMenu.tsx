@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
+import { formatTranslation } from '../translations';
+import { MAX_QUESTION_ID } from '../questionsBank';
 
 /** Swipe-style toggle: green when on, gray when off. */
 const ToggleSwitch: React.FC<{
@@ -50,12 +52,11 @@ interface SettingsMenuProps {
   onToggleHaptic?: () => void;
   onShowGlossary?: () => void;
   onShowArgumentation?: () => void;
-  onShowIdSearch?: () => void;
+  onShowIdSearch?: (initialId?: number) => void;
   onShowIdLog?: () => void;
   onShowLearningLog?: () => void;
   onShowLevelSelector?: () => void;
   onToggleLanguage?: () => void;
-  onPreviewStarSounds?: () => void;
   onResetApp?: () => void;
 }
 
@@ -77,15 +78,29 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   onShowLearningLog,
   onShowLevelSelector,
   onToggleLanguage,
-  onPreviewStarSounds,
   onResetApp
 }) => {
   const { t, language } = useLanguage();
   const [rulesSubmenuOpen, setRulesSubmenuOpen] = useState(false);
+  const [rulesSearchId, setRulesSearchId] = useState('');
 
   useEffect(() => {
-    if (!isOpen) setRulesSubmenuOpen(false);
+    if (!isOpen) {
+      setRulesSubmenuOpen(false);
+      setRulesSearchId('');
+    }
   }, [isOpen]);
+
+  const handleRulesSearchById = () => {
+    const id = parseInt(rulesSearchId.trim(), 10);
+    if (!isNaN(id) && id >= 1 && id <= MAX_QUESTION_ID) {
+      onShowIdSearch?.(id);
+      onClose();
+    } else {
+      onShowIdSearch?.();
+      onClose();
+    }
+  };
 
   if (!isOpen) return null;
 
@@ -119,7 +134,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     menuItems.push({
       icon: 'fa-hashtag',
       label: t('settings.searchById'),
-      onClick: () => { onShowIdSearch(); onClose(); }
+      onClick: () => { onShowIdSearch(undefined); onClose(); }
     });
   }
   if (onShowIdLog) {
@@ -184,6 +199,29 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                 <span className="text-sm font-medium">{t('app.glossary')}</span>
               </button>
             )}
+            {onShowIdSearch && (
+              <div className="flex items-center gap-2 px-4 py-3" onClick={(e) => e.stopPropagation()}>
+                <i className="fas fa-magnifying-glass text-sm w-5 flex-shrink-0 text-slate-400"></i>
+                <input
+                  type="number"
+                  value={rulesSearchId}
+                  onChange={(e) => setRulesSearchId(e.target.value)}
+                  onKeyDown={(e) => e.key === 'Enter' && handleRulesSearchById()}
+                  placeholder={formatTranslation(t('idSearch.enterId'), { max: MAX_QUESTION_ID })}
+                  min={1}
+                  max={MAX_QUESTION_ID}
+                  className="flex-1 px-3 py-2 text-sm bg-white/5 border border-white/10 rounded-lg text-white placeholder-slate-500 focus:outline-none focus:border-yellow-400"
+                />
+                <button
+                  type="button"
+                  onClick={handleRulesSearchById}
+                  className="p-2 rounded-lg bg-yellow-400/20 hover:bg-yellow-400/30 text-yellow-300 transition-all"
+                  title={t('idSearch.search')}
+                >
+                  <i className="fas fa-search text-xs"></i>
+                </button>
+              </div>
+            )}
           </div>
         </div>
       </>
@@ -236,16 +274,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                       label={t('settings.haptic')}
                       icon="fa-hand"
                     />
-                  )}
-                  {onPreviewStarSounds && (
-                    <button
-                      type="button"
-                      onClick={() => { onPreviewStarSounds(); }}
-                      className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
-                    >
-                      <i className="fas fa-volume-high text-sm w-5 flex-shrink-0"></i>
-                      <span className="text-sm font-medium">{t('settings.previewStarSounds')}</span>
-                    </button>
                   )}
                 </>
               )}

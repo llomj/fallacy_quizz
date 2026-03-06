@@ -302,11 +302,19 @@ Update this table as translations progress. Add in batches of 50.
 
 ---
 
+## Level 0 (Foundations) and Expansion to 3,000
+
+**Level 0** (March 2026): Added foundations level with Tadpole persona. Topics: argument vs assertion, premises vs conclusions, validity vs soundness, fallacy definition. Initial set: 2 questions (IDs 1001-1002). Target: 100–300 questions for full foundations coverage. Level 0 appears in level selector; users can start with foundations before Level 1.
+
+**Constants** (March 2026): Aligned with live bank — QUESTIONS_PER_LEVEL = 100, TOTAL_QUESTIONS = 1002 (1000 levels 1–10 + 2 level 0). Difficulty ramp: per-level sub-levels (IDs 1–33 Beginner, 34–66 Intermediate, 67–100 Expert). Fallacy frequency tagging: LevelInfo.fallacyFrequency (common/uncommon/rare) for audit.
+
+---
+
 ## Question Expansion Strategy (1000 → 3000)
 
-**Phase 1 (Current)**: Lock in Option A — all 100 questions per level = Beginner. Constants stay 300-per-level.
+**Phase 1 (Current)**: 100 questions per level (levels 1–10), with difficulty ramp (Beginner/Intermediate/Expert by position). Level 0 has 2 questions; expand to 100+ for full foundations.
 
-**Phase 2**: Add 200 unique questions per level, gradually. Questions within each level become progressively harder (Beginner < Intermediate < Expert).
+**Phase 2**: Add 200 unique questions per level (levels 0–10), to reach 300 per level × 11 levels = 3,300 (or 300 × 10 = 3,000 if Level 0 stays optional). Questions within each level follow Beginner < Intermediate < Expert progression.
 
 **Recommended approach — Two possible starting points**:
 

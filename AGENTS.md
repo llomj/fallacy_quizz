@@ -1,10 +1,10 @@
 # Logical Fallacies Learn - AI Agent Operational Rules
 
 ## 1. Genome Checkpoint (STRICT STATE)
-- **Target**: 3000 logical fallacy questions (300 per level × 10 levels, including Level 0).
+- **Target**: 900 logical fallacy questions (current question bank).
 - **Domain**: 100% logical fallacies and argument analysis (formal, informal, syllogistic, probabilistic, rhetorical, etc.). The previous Python/CLI genome is deprecated and treated as legacy content only.
 - **Uniqueness Level**: HIGH VARIANCE MANDATED.
-- **Rule**: All 3000 questions must be unique. Every question must present a distinct argumentative scenario or reasoning pattern. No duplicated stories with only surface changes. Repetitive patterns are considered a failure of educational integrity.
+- **Rule**: All 900 questions must be unique. Every question must present a distinct argumentative scenario or reasoning pattern. No duplicated stories with only surface changes. Repetitive patterns are considered a failure of educational integrity.
 - **No Placeholder Options**: Multiple-choice options must be meaningful answers to the question. Never use "Option A", "Option B", "Option C", "Option D" or similar placeholders. Each option must be a plausible, content-specific answer (e.g. specific fallacy names, \"no fallacy\", or precise diagnoses). Wrong options should be plausible distractors, not generic labels.
 
 ## 2. Consent & Modification Rules
@@ -19,8 +19,8 @@
 - **Pre-Change Check**: Agents must always consult `ps.md` and `planning.md` before making changes.
 - **Debugging Reference**: Agents must always consult `ps.md` for debugging information and urgent issues.
 
-## 4. The 3,000-Question Genome Goal
-- **Completion Task**: Reach exactly 3,000 high-quality logical fallacy questions (300 per level × 10 levels).
+## 4. The 900-Question Genome Goal
+- **Current State**: 900 logical fallacy questions. All 900 must be unique with distinct argumentative scenarios.
 - **Status**: Logical fallacy genome IN PROGRESS. Existing CLI question genome is archived/legacy and must not be used for new gameplay content.
 - **Diversity Rule**: Use at least 10 reasoning templates per stage so students encounter varied argument structures and conceptual challenges (e.g. causal, analogical, statistical, rhetorical).
 

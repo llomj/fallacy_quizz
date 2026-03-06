@@ -2,7 +2,8 @@ import React, { useState } from 'react';
 import { IdLogEntry } from '../types';
 import { useLanguage } from '../contexts/LanguageContext';
 import { getTranslatedShortExplanation } from '../data/shortExplanationsTranslations';
-import { getQuestionBank } from '../questionsBank';
+import { getQuestionBank, MAX_QUESTION_ID } from '../questionsBank';
+import { formatTranslation } from '../translations';
 import { translateQuestionText, getQuestionDisplay } from '../utils/translateQuestion';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
@@ -151,10 +152,10 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose }) => {
             type="number"
             value={idFilter}
             onChange={(e) => setIdFilter(e.target.value)}
-            placeholder={t('idSearch.enterId')}
+            placeholder={formatTranslation(t('idSearch.enterId'), { max: MAX_QUESTION_ID })}
             className="w-full px-4 py-2 bg-white/5 border border-white/10 rounded-xl text-white placeholder-slate-500 focus:outline-none focus:border-yellow-400 focus:ring-2 focus:ring-yellow-400/30 text-sm"
             min={1}
-            max={3000}
+            max={MAX_QUESTION_ID}
           />
         </div>
 

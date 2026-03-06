@@ -1,10 +1,14 @@
 import { PersonaStage, LevelInfo, RandomModeStats } from './types';
 
 export const XP_PER_QUESTION = 10;
-export const QUESTIONS_PER_SUBLEVEL = 30;
+export const QUESTIONS_PER_SUBLEVEL = 33; // ~100/3 for star thresholds
 export const SUBLEVELS_PER_LEVEL = 3;
-export const QUESTIONS_PER_LEVEL = QUESTIONS_PER_SUBLEVEL * SUBLEVELS_PER_LEVEL; // 90
-export const TOTAL_QUESTIONS = 900; // 10 levels × 90 questions
+export const QUESTIONS_PER_LEVEL = 100; // Matches fallaciesData.ts (100 per level × 10 levels)
+export const TOTAL_QUESTIONS = 1002; // 1000 (levels 1-10) + 2 (level 0 foundations)
+
+/** Questions needed to complete a level and unlock the next. Level 0 has fewer questions. */
+export const getQuestionsNeededForLevel = (level: number): number =>
+  level === 0 ? 2 : QUESTIONS_PER_LEVEL;
 
 /** Minimum progress (as fraction of QUESTIONS_PER_LEVEL) before any star is shown. Stars stay blank until ~10–20%. */
 export const STAR_PROGRESS_THRESHOLD = Math.ceil(QUESTIONS_PER_LEVEL * 0.10);
@@ -84,13 +88,24 @@ export const PERSONA_EMOJI: Record<PersonaStage, string> = {
 // Level configurations with personas and concepts (Logical fallacies focus). Level 0 = absolute beginner.
 export const LEVELS: LevelInfo[] = [
   {
+    level: 0,
+    persona: PersonaStage.TADPOLE,
+    conceptsEn: ["Argument", "Premise", "Conclusion", "Valid", "Sound", "Fallacy"],
+    conceptsFr: ["Argument", "Prémisse", "Conclusion", "Valide", "Solide", "Sophisme"],
+    concepts: ["Argument", "Premise", "Conclusion", "Valid", "Sound", "Fallacy"],
+    description: "Foundations of arguments. Learn premises vs conclusions, arguments vs assertions, validity vs soundness, and what a fallacy is.",
+    color: "#94a3b8",
+    fallacyFrequency: "common"
+  },
+  {
     level: 1,
     persona: PersonaStage.PLANKTON,
     conceptsEn: ["Ad Hominem", "Straw Man", "Appeal to Popularity", "Appeal to Authority", "False Dilemma"],
     conceptsFr: ["Ad Hominem", "Homme de paille", "Appel à la popularité", "Appel à l'autorité", "Fausse dichotomie"],
     concepts: ["Ad Hominem", "Straw Man", "Appeal to Popularity", "Appeal to Authority", "False Dilemma"],
     description: "Common everyday fallacies I. Spot very obvious personal attacks, straw men, bad appeals to popularity or authority, and false dilemmas.",
-    color: "#10b981"
+    color: "#10b981",
+    fallacyFrequency: "common"
   },
 
   {
@@ -100,7 +115,8 @@ export const LEVELS: LevelInfo[] = [
     conceptsFr: ["Fausse piste", "Pente glissante", "Généralisation hâtive", "Analogie faible", "Appel à l'émotion"],
     concepts: ["Red Herring", "Slippery Slope", "Hasty Generalization", "Weak Analogy", "Appeal to Emotion"],
     description: "Common everyday fallacies II. Learn to recognize diversions, slippery slopes, hasty generalizations, weak analogies, and emotional manipulation.",
-    color: "#059669"
+    color: "#059669",
+    fallacyFrequency: "common"
   },
   {
     level: 3,
@@ -109,7 +125,8 @@ export const LEVELS: LevelInfo[] = [
     conceptsFr: ["Post hoc", "Cum hoc", "Cause inversée", "Cause simplifiée", "Facteurs confondants"],
     concepts: ["Post Hoc", "Cum Hoc", "Reversed Causality", "Oversimplified Cause", "Confounding Factors"],
     description: "Causal fallacies. Distinguish correlation from causation, reversed causality, oversimplified causes, and ignored confounders.",
-    color: "#ec4899"
+    color: "#ec4899",
+    fallacyFrequency: "uncommon"
   },
   {
     level: 4,
@@ -118,7 +135,8 @@ export const LEVELS: LevelInfo[] = [
     conceptsFr: ["Équivoque", "Amphibologie", "Question piège", "Vagueness", "Déplacer les poteaux"],
     concepts: ["Equivocation", "Amphiboly", "Loaded Question", "Vagueness", "Moving the Goalposts"],
     description: "Ambiguity and language. Spot wordplay, grammatical ambiguity, loaded questions, vagueness, and shifting standards.",
-    color: "#06b6d4"
+    color: "#06b6d4",
+    fallacyFrequency: "uncommon"
   },
   {
     level: 5,
@@ -127,7 +145,8 @@ export const LEVELS: LevelInfo[] = [
     conceptsFr: ["Affirmation du conséquent", "Négation de l'antécédent", "Terme moyen non distribué"],
     concepts: ["Affirming the Consequent", "Denying the Antecedent", "Undistributed Middle"],
     description: "Formal fallacies I. Learn classic invalid argument forms such as affirming the consequent, denying the antecedent, and undistributed middle.",
-    color: "#10b981"
+    color: "#10b981",
+    fallacyFrequency: "uncommon"
   },
   {
     level: 6,
@@ -136,7 +155,8 @@ export const LEVELS: LevelInfo[] = [
     conceptsFr: ["Quantificateurs", "Portée logique", "Schémas valides vs invalides"],
     concepts: ["Quantifiers", "Logical Scope", "Valid vs Invalid Schemas"],
     description: "Formal fallacies II. Work with quantifiers, scope errors, and contrast invalid patterns with strange but valid arguments.",
-    color: "#f59e0b"
+    color: "#f59e0b",
+    fallacyFrequency: "uncommon"
   },
   {
     level: 7,
@@ -145,7 +165,8 @@ export const LEVELS: LevelInfo[] = [
     conceptsFr: ["Fréquence de base", "Sophisme du joueur", "Sophisme du procureur", "Biais de survivance"],
     concepts: ["Base Rate", "Gambler's Fallacy", "Prosecutor's Fallacy", "Survivorship Bias"],
     description: "Probability and evidence. Understand base-rate neglect, gambler’s fallacy, prosecutor’s fallacy, cherry-picking, and survivorship bias.",
-    color: "#3b82f6"
+    color: "#3b82f6",
+    fallacyFrequency: "rare"
   },
   {
     level: 8,
@@ -154,7 +175,8 @@ export const LEVELS: LevelInfo[] = [
     conceptsFr: ["Empoisonnement du puits", "Effet de cadrage", "Motte-et-bailey", "Insinuation"],
     concepts: ["Poisoning the Well", "Framing Effect", "Motte-and-Bailey", "Insinuation"],
     description: "Rhetorical manipulation and framing. Detect framing tricks, poisoning the well, and strategic retreat (motte‑et‑bailey).",
-    color: "#ef4444"
+    color: "#ef4444",
+    fallacyFrequency: "rare"
   },
   {
     level: 9,
@@ -163,7 +185,8 @@ export const LEVELS: LevelInfo[] = [
     conceptsFr: ["Arguments mixtes", "Multi-sophismes", "Dominant vs secondaire"],
     concepts: ["Mixed Arguments", "Multi-Fallacy", "Primary vs Secondary"],
     description: "Mixed and multi-step fallacies. Analyze complex, real-world arguments that combine several fallacies at once.",
-    color: "#059669"
+    color: "#059669",
+    fallacyFrequency: "rare"
   },
   {
     level: 10,
@@ -172,7 +195,8 @@ export const LEVELS: LevelInfo[] = [
     conceptsFr: ["Mauvais usage des étiquettes de sophisme", "Fallacy fallacy", "Raisonnements solides mais impopulaires"],
     concepts: ["Misuse of Fallacy Labels", "Fallacy Fallacy", "Sound but Unpopular Reasoning"],
     description: "Meta-logic and expert reasoning. Learn to spot misuse of fallacy labels, avoid the fallacy fallacy, and distinguish bad reasoning from mere disagreement.",
-    color: "#1f2937"
+    color: "#1f2937",
+    fallacyFrequency: "rare"
   }
 ];
 

@@ -75,17 +75,6 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
                     <i className="fas fa-lock text-slate-500 text-xs"></i>
                   </div>
                 )}
-                {isUnlocked && (
-                  <div className="absolute top-2 right-2 flex gap-0.5">
-                    {[1, 2, 3, 4, 5].map(starNum => (
-                      <i
-                        key={starNum}
-                        className={`fas fa-star text-[10px] ${starNum <= stars ? 'text-amber-400' : 'text-slate-700/50'
-                          }`}
-                      ></i>
-                    ))}
-                  </div>
-                )}
                 <div className="flex flex-col items-center gap-2">
                   <div className={`w-12 h-12 rounded-full flex items-center justify-center text-2xl ${isCurrent
                       ? 'bg-yellow-400'
@@ -96,6 +85,15 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
                     <span className={isCurrent ? 'text-white' : isUnlocked ? 'text-slate-400' : 'text-slate-600'}>
                       {getPersonaEmoji(levelInfo.persona)}
                     </span>
+                  </div>
+                  <div className="flex gap-0.5 justify-center">
+                    {[1, 2, 3, 4, 5].map(starNum => (
+                      <i
+                        key={starNum}
+                        className={`fas fa-star text-[10px] ${starNum <= stars ? 'text-amber-400' : 'text-slate-700/50'
+                          }`}
+                      ></i>
+                    ))}
                   </div>
                   <div className="text-center">
                     <div className={`text-sm font-black ${isCurrent ? 'text-yellow-300' : isUnlocked ? 'text-white' : 'text-slate-500'

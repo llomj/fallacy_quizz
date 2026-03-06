@@ -3,10 +3,10 @@ import { UserStats, PersonaStage, QuestionAttempt } from './types';
 import { EvolutionHub } from './components/EvolutionHub';
 import { SettingsMenu } from './components/SettingsMenu';
 import { IdLogEntry } from './types';
-import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getStarsFromProgress, getRandomModeScore, getPersonaFromRandomScore, PERSONA_EMOJI } from './constants';
+import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getQuestionsNeededForLevel, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getStarsFromProgress, getRandomModeScore, getPersonaFromRandomScore, PERSONA_EMOJI } from './constants';
 import { useLanguage } from './contexts/LanguageContext';
 import { formatTranslation } from './translations';
-import { playStarCelebrationSound, playFiveStarCelebrationSound, playCorrectAnswerSound, playWrongAnswerSound } from './utils/sounds';
+import { playStarCelebrationSound, playFiveStarCelebrationSound, playAllLevelsCelebrationSound, playCorrectAnswerSound, playWrongAnswerSound } from './utils/sounds';
 import { FallingStars } from './components/FallingStars';
 
 const LOCAL_STORAGE_KEY = 'logical_fallacies_learn_stats_v1';
@@ -70,6 +70,7 @@ const App: React.FC = () => {
     score: number;
     total: number;
     starEarned: number | null;
+    allLevelsComplete?: boolean;
     randomMode?: boolean;
     prevScore?: number;
     newScore?: number;
@@ -83,6 +84,7 @@ const App: React.FC = () => {
   const [showFlags, setShowFlags] = useState(false);
   const [showFlow, setShowFlow] = useState(false);
   const [showIdSearch, setShowIdSearch] = useState(false);
+  const [idSearchInitialId, setIdSearchInitialId] = useState<number | null>(null);
   const [showIdLog, setShowIdLog] = useState(false);
   const [showLevelSelector, setShowLevelSelector] = useState(false);
   const [showArgumentation, setShowArgumentation] = useState(false);
@@ -166,13 +168,15 @@ const App: React.FC = () => {
 
   useEffect(() => {
     if (prefs.soundEnabled && showResult?.starEarned) {
-      if (showResult.starEarned === 5) {
+      if (showResult.allLevelsComplete) {
+        void playAllLevelsCelebrationSound();
+      } else if (showResult.starEarned === 5) {
         void playFiveStarCelebrationSound();
       } else {
         void playStarCelebrationSound();
       }
     }
-  }, [showResult?.starEarned, prefs.soundEnabled]);
+  }, [showResult?.starEarned, showResult?.allLevelsComplete, prefs.soundEnabled]);
 
   useEffect(() => {
     localStorage.setItem(PREFS_STORAGE_KEY, JSON.stringify(prefs));
@@ -317,7 +321,8 @@ const App: React.FC = () => {
         };
 
         let newLevel = prev.currentLevel;
-        if (currentLevelProgress < QUESTIONS_PER_LEVEL && newLevelProgress >= QUESTIONS_PER_LEVEL && newLevel < 10) {
+        const needed = getQuestionsNeededForLevel(newLevel);
+        if (currentLevelProgress < needed && newLevelProgress >= needed && newLevel < 10) {
           newLevel += 1;
         }
 
@@ -343,7 +348,11 @@ const App: React.FC = () => {
       const currentStars = stats.acquiredStars?.[stats.currentLevel] || 0;
       const starEarned = newStars > currentStars ? newStars : null;
 
-      setShowResult({ score, total, starEarned });
+      const updatedAcquiredStars = { ...(stats.acquiredStars || {}), [stats.currentLevel]: newStars };
+      const allLevels = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+      const allLevelsComplete = starEarned === 5 && allLevels.every(l => (updatedAcquiredStars[l] ?? 0) === 5);
+
+      setShowResult({ score, total, starEarned, allLevelsComplete: allLevelsComplete || undefined });
     }
 
     setView('hub');
@@ -416,15 +425,11 @@ const App: React.FC = () => {
         onToggleHaptic={() => setPrefs(p => ({ ...p, hapticEnabled: !p.hapticEnabled }))}
         onShowGlossary={() => setView('glossary')}
         onShowArgumentation={() => setShowArgumentation(true)}
-        onShowIdSearch={view === 'hub' ? () => setShowIdSearch(true) : undefined}
+        onShowIdSearch={(initialId?: number) => { setIdSearchInitialId(initialId ?? null); setShowIdSearch(true); }}
         onShowIdLog={() => setShowIdLog(true)}
         onShowLearningLog={() => setView('log')}
         onShowLevelSelector={() => setShowLevelSelector(true)}
         onToggleLanguage={toggleLanguage}
-        onPreviewStarSounds={() => {
-          void playStarCelebrationSound();
-          setTimeout(() => void playFiveStarCelebrationSound(), 950);
-        }}
         onResetApp={() => setShowResetModal(true)}
       />
 
@@ -462,7 +467,14 @@ const App: React.FC = () => {
           <>
             {showResult.starEarned ? (
               <div className="fixed inset-0 z-0 pointer-events-none">
-                <FallingStars variant={showResult.starEarned === 5 ? 'five' : 'single'} className="fixed inset-0" />
+                <FallingStars
+                  variant={
+                    showResult.allLevelsComplete ? 'allLevels'
+                    : showResult.starEarned === 5 ? 'five'
+                    : 'single'
+                  }
+                  className="fixed inset-0"
+                />
               </div>
             ) : null}
             <div className="max-w-md mx-auto p-10 glass rounded-3xl text-center space-y-6 animate-in zoom-in duration-500 shadow-2xl relative overflow-hidden z-10">
@@ -673,8 +685,9 @@ const App: React.FC = () => {
       {showIdSearch && (
         <Suspense fallback={<ViewLoading />}>
           <IdSearchModal
-            onClose={() => setShowIdSearch(false)}
+            onClose={() => { setShowIdSearch(false); setIdSearchInitialId(null); }}
             onSaveToLog={saveToIdLog}
+            initialId={idSearchInitialId ?? undefined}
           />
         </Suspense>
       )}
