@@ -3,7 +3,7 @@ import { UserStats, PersonaStage, QuestionAttempt } from './types';
 import { EvolutionHub } from './components/EvolutionHub';
 import { SettingsMenu } from './components/SettingsMenu';
 import { IdLogEntry } from './types';
-import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getStarsFromAccuracy, getStarsFromProgress, getRandomModeScore, getPersonaFromRandomScore, PERSONA_EMOJI } from './constants';
+import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getStarsFromProgress, getRandomModeScore, getPersonaFromRandomScore, PERSONA_EMOJI } from './constants';
 import { useLanguage } from './contexts/LanguageContext';
 import { formatTranslation } from './translations';
 
@@ -221,6 +221,8 @@ const App: React.FC = () => {
     ? getPersonaFromRandomScore(getRandomModeScore(stats.randomModeStats))
     : currentLevelInfo.persona;
   const currentProgress = stats.levelProgress[stats.currentLevel] || 0;
+  const correctForLevel = stats.correctPerLevel?.[stats.currentLevel] ?? 0;
+  const earnedStarsForLevel = currentProgress < STAR_PROGRESS_THRESHOLD ? 0 : (stats.acquiredStars?.[stats.currentLevel] ?? getStarsFromAccuracy(currentProgress > 0 ? (100 * correctForLevel) / currentProgress : 0));
 
   const handleStartEvolution = () => {
     setView('quiz');
@@ -463,6 +465,7 @@ const App: React.FC = () => {
               level={stats.currentLevel}
               currentProgress={currentProgress}
               completedIds={stats.completedQuestionIds}
+              earnedStarsForLevel={earnedStarsForLevel}
               onAttempt={recordAttempt}
               onComplete={handleQuizComplete}
               onExit={() => setView('hub')}

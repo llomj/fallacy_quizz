@@ -1,6 +1,6 @@
 import React from 'react';
 import { UserStats, PersonaStage } from '../types';
-import { LEVELS, QUESTIONS_PER_LEVEL, TOTAL_QUESTIONS, getStarsFromAccuracy, getRandomModeScore, getPersonaFromRandomScore, getNextRandomModeThreshold } from '../constants';
+import { LEVELS, QUESTIONS_PER_LEVEL, TOTAL_QUESTIONS, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getRandomModeScore, getPersonaFromRandomScore, getNextRandomModeThreshold } from '../constants';
 import { PersonaBadge } from './PersonaBadge';
 import { ProgressBar } from './ProgressBar';
 import { useLanguage } from '../contexts/LanguageContext';
@@ -29,9 +29,9 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz }
     ? Math.round((stats.lastSessionScore / stats.lastSessionTotal) * 100)
     : null;
 
-  // Stars 0–5 from accuracy (acquiredStars), or derive from correctPerLevel/levelProgress. 0 progress = 0 stars.
+  // Stars 0–5 from accuracy; stay blank until progress reaches STAR_PROGRESS_THRESHOLD (~10%).
   const correct = stats.correctPerLevel?.[stats.currentLevel] ?? 0;
-  const earnedStars = progress === 0 ? 0 : (stats.acquiredStars?.[stats.currentLevel] ?? getStarsFromAccuracy((100 * correct) / progress));
+  const earnedStars = progress < STAR_PROGRESS_THRESHOLD ? 0 : (stats.acquiredStars?.[stats.currentLevel] ?? getStarsFromAccuracy((100 * correct) / progress));
 
   const displayPersona = randomMode ? randomPersona : currentLevelInfo.persona;
 

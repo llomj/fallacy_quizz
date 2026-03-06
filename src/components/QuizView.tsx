@@ -710,6 +710,8 @@ interface QuizViewProps {
   level: number;
   currentProgress: number;
   completedIds: number[];
+  /** Earned stars for current level (0 until ~10% progress); used for star display in level mode. */
+  earnedStarsForLevel?: number;
   onAttempt: (attempt: QuestionAttempt) => void;
   onComplete: (score: number) => void;
   onExit: () => void;
@@ -724,6 +726,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
   level,
   currentProgress,
   completedIds,
+  earnedStarsForLevel = 0,
   onAttempt,
   onComplete,
   onExit,
@@ -926,12 +929,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
               </span>
               <div className="flex gap-0.5">
                 {[1, 2, 3, 4, 5].map(starNum => {
-                  let isEarned = false;
-                  // Show tier only: 1 star = beginner, 3 = intermediate, 5 = expert (avoids "2 stars" with 0 progress)
-                  if (currentQuestion.subLevel === 'Beginner') isEarned = starNum <= 1;
-                  if (currentQuestion.subLevel === 'Intermediate') isEarned = starNum <= 3;
-                  if (currentQuestion.subLevel === 'Expert') isEarned = starNum <= 5;
-
+                  const isEarned = !randomMode && starNum <= earnedStarsForLevel;
                   return (
                     <i
                       key={starNum}

@@ -6,6 +6,8 @@ export const SUBLEVELS_PER_LEVEL = 3;
 export const QUESTIONS_PER_LEVEL = QUESTIONS_PER_SUBLEVEL * SUBLEVELS_PER_LEVEL; // 90
 export const TOTAL_QUESTIONS = 900; // 10 levels × 90 questions
 
+/** Minimum progress (as fraction of QUESTIONS_PER_LEVEL) before any star is shown. Stars stay blank until ~10–20%. */
+export const STAR_PROGRESS_THRESHOLD = Math.ceil(QUESTIONS_PER_LEVEL * 0.10);
 
 /** Derive number of stars (0–5) from accuracy for a level. 20%→1, 40%→2, 60%→3, 80%→4, 95%→5. */
 export const getStarsFromAccuracy = (percentCorrect: number): number => {
