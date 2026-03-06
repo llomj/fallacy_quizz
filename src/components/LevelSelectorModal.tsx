@@ -1,5 +1,5 @@
 import React from 'react';
-import { LEVELS, PERSONA_EMOJI } from '../constants';
+import { LEVELS, PERSONA_EMOJI, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy } from '../constants';
 import { PersonaStage } from '../types';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
@@ -9,7 +9,8 @@ interface LevelSelectorModalProps {
   highestUnlockedLevel: number;
   onSelectLevel: (level: number) => void;
   onClose: () => void;
-  acquiredStars?: Record<number, number>;
+  levelProgress?: Record<number, number>;
+  correctPerLevel?: Record<number, number>;
   randomMode?: boolean;
 }
 
@@ -18,10 +19,18 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
   highestUnlockedLevel,
   onSelectLevel,
   onClose,
-  acquiredStars = {},
+  levelProgress = {},
+  correctPerLevel = {},
   randomMode = false
 }) => {
   const { t } = useLanguage();
+
+  const getStarsForLevel = (level: number) => {
+    const progress = levelProgress[level] || 0;
+    const correct = correctPerLevel[level] ?? 0;
+    if (progress < STAR_PROGRESS_THRESHOLD) return 0;
+    return getStarsFromAccuracy(progress > 0 ? (100 * correct) / progress : 0);
+  };
 
   const handleLevelSelect = (level: number) => {
     if (level <= highestUnlockedLevel) {
@@ -53,7 +62,7 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
             const isLocked = levelInfo.level > highestUnlockedLevel;
             const isCurrent = levelInfo.level === currentLevel;
             const isUnlocked = levelInfo.level <= highestUnlockedLevel;
-            const stars = acquiredStars[levelInfo.level] || 0;
+            const stars = getStarsForLevel(levelInfo.level);
 
             return (
               <button

@@ -188,7 +188,9 @@ const App: React.FC = () => {
     : currentLevelInfo.persona;
   const currentProgress = stats.levelProgress[stats.currentLevel] || 0;
   const correctForLevel = stats.correctPerLevel?.[stats.currentLevel] ?? 0;
-  const earnedStarsForLevel = currentProgress < STAR_PROGRESS_THRESHOLD ? 0 : (stats.acquiredStars?.[stats.currentLevel] ?? getStarsFromAccuracy(currentProgress > 0 ? (100 * correctForLevel) / currentProgress : 0));
+  // Always derive from accuracy for display so stale acquiredStars never shows wrong stars
+  const percentCorrect = currentProgress > 0 ? (100 * correctForLevel) / currentProgress : 0;
+  const earnedStarsForLevel = currentProgress < STAR_PROGRESS_THRESHOLD ? 0 : getStarsFromAccuracy(percentCorrect);
 
   const handleStartEvolution = () => {
     setView('quiz');
@@ -710,7 +712,8 @@ const App: React.FC = () => {
             highestUnlockedLevel={stats.highestUnlockedLevel}
             onSelectLevel={handleLevelChange}
             onClose={() => setShowLevelSelector(false)}
-            acquiredStars={stats.acquiredStars}
+            levelProgress={stats.levelProgress}
+            correctPerLevel={stats.correctPerLevel}
             randomMode={randomMode}
           />
         </Suspense>

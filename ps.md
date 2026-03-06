@@ -55,11 +55,11 @@ The workflow (`.github/workflows/deploy.yml`) must match the **last successful r
 
 1. **Hard refresh / clear cache in the app:** Force-reload or clear site data for the app/PWA (e.g. in browser app: clear site data for the Pages URL, or uninstall PWA and re-add).
 2. **Service worker:** If the site uses a service worker, it may cache aggressively. After a new deploy, the SW might still serve old assets until it updates (e.g. close all tabs of the site, reopen, or trigger an update).
-3. **Confirm deployment:** In GitHub repo → Actions, confirm the latest "Deploy to GitHub Pages" run is green and that the commit with French changes is the one that was deployed. Then open the **exact** Pages URL in the app (e.g. `https://llomj.github.io/CLI_exercises/`) and force-refresh.
+3. **Confirm deployment:** In GitHub repo → Actions, confirm the latest "Deploy to GitHub Pages" run is green and that the commit with French changes is the one that was deployed. Then open the **exact** Pages URL in the app (e.g. `https://llomj.github.io/fallacy_quizz/`) and force-refresh.
 
 **For agents:** Do not assume "French not in app" means code is wrong; check cache/deploy first. Document in ps.md if we add cache-busting or SW versioning later.
 
-**Checking GitHub in Cursor:** Open the repo in Cursor’s browser (e.g. Simple Browser or browser panel) at `https://github.com/llomj/CLI_exercises`. Sign in to GitHub there to access **Settings → Pages** (Source = GitHub Actions) and **Settings → Actions → General** (workflow permissions). Agents cannot sign in; the user must do this. The README currently links to `python-exercises-learn`; the CLI app URL is `https://llomj.github.io/CLI_exercises/`.
+**Checking GitHub in Cursor:** Open the repo in Cursor’s browser (e.g. Simple Browser or browser panel) at `https://github.com/llomj/fallacy_quizz`. Sign in to GitHub there to access **Settings → Pages** (Source = GitHub Actions) and **Settings → Actions → General** (workflow permissions). Agents cannot sign in; the user must do this. The app URL is `https://llomj.github.io/fallacy_quizz/`.
 
 ### March 2026 — Desktop browser shows changes, phone app does not
 
@@ -77,8 +77,8 @@ The workflow (`.github/workflows/deploy.yml`) must match the **last successful r
 2. **Confirm GitHub Pages deploy is green**  
    - GitHub → `Actions` → latest Pages workflow must show **conclusion = success** for the commit with your change.
 3. **Reset the PWA cache on the phone ONCE per deploy**  
-   - Open: `https://llomj.github.io/CLI_exercises/clear-sw.html` in the same browser/app the icon uses.  
-   - Fully close the app/tab, then reopen `https://llomj.github.io/CLI_exercises/` from the icon or browser.
+   - Open: `https://llomj.github.io/fallacy_quizz/clear-sw.html` in the same browser/app the icon uses.  
+   - Fully close the app/tab, then reopen `https://llomj.github.io/fallacy_quizz/` from the icon or browser.
 
 **Rule:** If desktop shows the change and code looks correct, assume **deploy/cache** is the problem first, **not** the feature implementation. Do not re‑implement the same feature just because the phone app still serves an old bundle.
 
@@ -97,8 +97,8 @@ The workflow (`.github/workflows/deploy.yml`) must match the **last successful r
 
 1. Ensure `src/utils/detailedExplanationLevel.ts` is committed to `main`.
 2. Push to GitHub and confirm Actions run is green for that exact commit.
-3. Open deployed URL exactly: `https://llomj.github.io/CLI_exercises/`.
-4. On phone app, run cache reset URL once: `https://llomj.github.io/CLI_exercises/clear-sw.html`.
+3. Open deployed URL exactly: `https://llomj.github.io/fallacy_quizz/`.
+4. On phone app, run cache reset URL once: `https://llomj.github.io/fallacy_quizz/clear-sw.html`.
 5. Reopen app from Home Screen/GitHub app and switch language to French.
 
 ### Validation checklist

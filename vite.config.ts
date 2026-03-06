@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig(({ mode }) => {
   // Use base path for GitHub Pages production build, but '/' for local development
-  const repo = process.env.VITE_BASE_REPO || 'CLI_exercises';
+  const repo = process.env.VITE_BASE_REPO || 'fallacy_quizz';
   const base = mode === 'production' ? `/${repo}/` : '/';
   
   return {
