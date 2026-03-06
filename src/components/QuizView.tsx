@@ -1106,18 +1106,19 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 })()}
                 {showDetailedExplanation && hasDetailedExplanation && (
                   <div className="animate-in slide-in-from-top-4 duration-300 pt-4 border-t border-yellow-400/40 space-y-6">
-                    <div className="space-y-3">
+                    <div className="space-y-3 rounded-xl bg-slate-900/90 border border-slate-700/50 p-4">
                       <div className="flex flex-wrap items-center gap-2">
                         <h5 className="text-[10px] font-black text-yellow-300 uppercase tracking-[0.2em] flex items-center gap-2">
                           <i className="fas fa-graduation-cap text-xs"></i>
                           {t('glossary.inDepthDescription')}
                         </h5>
-                        <label className="flex items-center gap-1.5 text-[10px] text-slate-500 ml-auto">
+                        <label className="flex items-center gap-1.5 text-[10px] text-slate-400 ml-auto">
                           <span>{t('idSearch.explanationLevel')}:</span>
                           <select
                             value={detailedExplanationLevel}
                             onChange={(e) => setDetailedExplanationLevel(e.target.value as DetailedExplanationLevel)}
-                            className="bg-slate-800 border border-slate-600 rounded px-2 py-0.5 text-slate-300 text-[10px] focus:outline-none focus:ring-1 focus:ring-yellow-400"
+                            className="bg-slate-800 border border-slate-600 rounded px-2 py-0.5 text-slate-200 text-[10px] focus:outline-none focus:ring-1 focus:ring-yellow-400 appearance-none cursor-pointer [color-scheme:dark]"
+                            style={{ minHeight: '1.5rem' }}
                           >
                             <option value="beginner">{t('subLevels.beginner')}</option>
                             <option value="intermediate">{t('subLevels.intermediate')}</option>
@@ -1125,7 +1126,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                           </select>
                         </label>
                       </div>
-                      <div className="text-yellow-300 leading-relaxed text-sm whitespace-pre-wrap">
+                      <div className="text-yellow-300 leading-relaxed text-sm whitespace-pre-wrap bg-transparent">
                         {getTranslatedDetailedExplanation(
                           currentQuestion.id,
                           getDetailedExplanationForLevel(currentQuestion, detailedExplanationLevel) ?? '',

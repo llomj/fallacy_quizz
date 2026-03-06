@@ -1,3 +1,5 @@
+import { getFallacyOptionFrench } from '../data/fallacyOptionTranslations';
+
 /**
  * Translates question text to French when language is 'fr'.
  * Used by IdSearchModal, QuizView, and IdLogView.
@@ -453,6 +455,10 @@ export const translateQuestionText = (text: string, language: string): string =>
  */
 export const translateOptionText = (text: string, language: string): string => {
   if (language !== 'fr') return text;
+
+  // Logical fallacy quiz options: use French fallacy names so every question's A/B/C/D are in French
+  const fallacyFr = getFallacyOptionFrench(text);
+  if (fallacyFr !== text) return fallacyFr;
 
   const optionTranslations: Array<[RegExp, string]> = [
     [/\bA window where you type text commands for the computer\b/gi, "Une fenêtre où vous tapez des commandes texte pour l'ordinateur"],
