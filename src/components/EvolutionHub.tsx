@@ -29,9 +29,9 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz }
     ? Math.round((stats.lastSessionScore / stats.lastSessionTotal) * 100)
     : null;
 
-  // Stars 0–5 from accuracy (acquiredStars), or derive from correctPerLevel/levelProgress
+  // Stars 0–5 from accuracy (acquiredStars), or derive from correctPerLevel/levelProgress. 0 progress = 0 stars.
   const correct = stats.correctPerLevel?.[stats.currentLevel] ?? 0;
-  const earnedStars = stats.acquiredStars?.[stats.currentLevel] ?? (progress > 0 ? getStarsFromAccuracy((100 * correct) / progress) : 0);
+  const earnedStars = progress === 0 ? 0 : (stats.acquiredStars?.[stats.currentLevel] ?? getStarsFromAccuracy((100 * correct) / progress));
 
   const displayPersona = randomMode ? randomPersona : currentLevelInfo.persona;
 
