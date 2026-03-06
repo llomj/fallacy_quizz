@@ -85,6 +85,14 @@
                 margin: 0 auto;
             }
         }
+        /* Falling stars celebration animation */
+        @keyframes fall-star {
+            0% { transform: translateY(0) rotate(0deg); opacity: 0.9; }
+            100% { transform: translateY(100vh) rotate(360deg); opacity: 0.2; }
+        }
+        .animate-fall-star {
+            animation: fall-star linear infinite;
+        }
     </style>
 <script type="importmap">
 {

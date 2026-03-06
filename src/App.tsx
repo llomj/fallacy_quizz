@@ -6,73 +6,11 @@ import { IdLogEntry } from './types';
 import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getStarsFromProgress, getRandomModeScore, getPersonaFromRandomScore, PERSONA_EMOJI } from './constants';
 import { useLanguage } from './contexts/LanguageContext';
 import { formatTranslation } from './translations';
+import { playStarCelebrationSound, playFiveStarCelebrationSound, playCorrectAnswerSound, playWrongAnswerSound } from './utils/sounds';
+import { FallingStars } from './components/FallingStars';
 
 const LOCAL_STORAGE_KEY = 'logical_fallacies_learn_stats_v1';
-
-const playStarCelebrationSound = async () => {
-  if (typeof window === 'undefined') return;
-
-  const AudioContextClass = window.AudioContext || (window as Window & { webkitAudioContext?: typeof AudioContext }).webkitAudioContext;
-  if (!AudioContextClass) return;
-
-  const audioContext = new AudioContextClass();
-  if (audioContext.state === 'suspended') {
-    await audioContext.resume();
-  }
-  const now = audioContext.currentTime;
-  const masterGain = audioContext.createGain();
-
-  masterGain.connect(audioContext.destination);
-  masterGain.gain.setValueAtTime(0.0001, now);
-  masterGain.gain.exponentialRampToValueAtTime(0.08, now + 0.02);
-  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.72);
-
-  const scheduleTone = (
-    frequency: number,
-    startOffset: number,
-    duration: number,
-    type: OscillatorType,
-    volume = 0.12
-  ) => {
-    const osc = audioContext.createOscillator();
-    const gain = audioContext.createGain();
-    const start = now + startOffset;
-    const end = start + duration;
-
-    osc.type = type;
-    osc.frequency.setValueAtTime(frequency, start);
-    gain.gain.setValueAtTime(0.0001, start);
-    gain.gain.exponentialRampToValueAtTime(volume, start + 0.02);
-    gain.gain.exponentialRampToValueAtTime(0.0001, end);
-
-    osc.connect(gain);
-    gain.connect(masterGain);
-    osc.start(start);
-    osc.stop(end + 0.02);
-  };
-
-  const leadNotes = [
-    { freq: 587.33, at: 0.0, len: 0.07 },   // D5
-    { freq: 739.99, at: 0.08, len: 0.07 },  // F#5
-    { freq: 880.0, at: 0.16, len: 0.08 },   // A5
-    { freq: 1108.73, at: 0.25, len: 0.1 },  // C#6
-    { freq: 1318.51, at: 0.37, len: 0.24 }  // E6
-  ];
-
-  leadNotes.forEach((note) => {
-    scheduleTone(note.freq, note.at, note.len, 'square', 0.07);
-    scheduleTone(note.freq * 0.5, note.at, note.len, 'triangle', 0.035);
-    scheduleTone(note.freq * 1.5, note.at + 0.01, note.len * 0.55, 'triangle', 0.015);
-  });
-
-  scheduleTone(146.83, 0.0, 0.18, 'sawtooth', 0.028);
-  scheduleTone(185.0, 0.18, 0.18, 'sawtooth', 0.028);
-  scheduleTone(220.0, 0.36, 0.24, 'sawtooth', 0.028);
-
-  window.setTimeout(() => {
-    void audioContext.close();
-  }, 900);
-};
+const PREFS_STORAGE_KEY = 'logical_fallacies_learn_prefs_v1';
 
 const INITIAL_STATS: UserStats = {
   currentLevel: 1,
@@ -108,9 +46,25 @@ const ViewLoading: React.FC = () => (
   </div>
 );
 
+const DEFAULT_PREFS = { soundEnabled: true, hapticEnabled: true };
+
 const App: React.FC = () => {
   const { language, setLanguage, t } = useLanguage();
   const [stats, setStats] = useState<UserStats>(INITIAL_STATS);
+  const [prefs, setPrefs] = useState<{ soundEnabled: boolean; hapticEnabled: boolean }>(() => {
+    if (typeof window === 'undefined') return DEFAULT_PREFS;
+    try {
+      const raw = localStorage.getItem(PREFS_STORAGE_KEY);
+      if (raw) {
+        const p = JSON.parse(raw) as { soundEnabled?: boolean; hapticEnabled?: boolean };
+        return {
+          soundEnabled: p.soundEnabled !== false,
+          hapticEnabled: p.hapticEnabled !== false
+        };
+      }
+    } catch (_) {}
+    return DEFAULT_PREFS;
+  });
   const [view, setView] = useState<'hub' | 'quiz' | 'log' | 'glossary'>('hub');
   const [showResult, setShowResult] = useState<{
     score: number;
@@ -211,10 +165,18 @@ const App: React.FC = () => {
   }, [stats]);
 
   useEffect(() => {
-    if (showResult?.starEarned) {
-      void playStarCelebrationSound();
+    if (prefs.soundEnabled && showResult?.starEarned) {
+      if (showResult.starEarned === 5) {
+        void playFiveStarCelebrationSound();
+      } else {
+        void playStarCelebrationSound();
+      }
     }
-  }, [showResult?.starEarned]);
+  }, [showResult?.starEarned, prefs.soundEnabled]);
+
+  useEffect(() => {
+    localStorage.setItem(PREFS_STORAGE_KEY, JSON.stringify(prefs));
+  }, [prefs]);
 
   const currentLevelInfo = LEVELS.find(l => l.level === stats.currentLevel) || LEVELS[0];
   const currentPersona = (stats.randomMode && stats.randomModeStats)
@@ -448,7 +410,11 @@ const App: React.FC = () => {
         anchorBottom
         randomMode={randomMode}
         onToggleRandomMode={view === 'hub' || view === 'quiz' ? handleRandomModeToggle : undefined}
-        onShowGlossary={view === 'hub' ? () => setView('glossary') : undefined}
+        soundEnabled={prefs.soundEnabled}
+        onToggleSound={() => setPrefs(p => ({ ...p, soundEnabled: !p.soundEnabled }))}
+        hapticEnabled={prefs.hapticEnabled}
+        onToggleHaptic={() => setPrefs(p => ({ ...p, hapticEnabled: !p.hapticEnabled }))}
+        onShowGlossary={() => setView('glossary')}
         onShowArgumentation={() => setShowArgumentation(true)}
         onShowIdSearch={view === 'hub' ? () => setShowIdSearch(true) : undefined}
         onShowIdLog={() => setShowIdLog(true)}
@@ -474,6 +440,10 @@ const App: React.FC = () => {
               randomModeStats={stats.randomModeStats}
               onSaveToIdLog={saveToIdLog}
               savedIdLogIds={stats.idLog.map(entry => entry.id)}
+              soundEnabled={prefs.soundEnabled}
+              hapticEnabled={prefs.hapticEnabled}
+              onPlayCorrectSound={playCorrectAnswerSound}
+              onPlayWrongSound={playWrongAnswerSound}
             />
           </Suspense>
         ) : view === 'log' ? (
@@ -485,7 +455,13 @@ const App: React.FC = () => {
             <GlossaryView onBack={() => setView('hub')} />
           </Suspense>
         ) : showResult ? (
-          <div className="max-w-md mx-auto p-10 glass rounded-3xl text-center space-y-6 animate-in zoom-in duration-500 shadow-2xl relative overflow-hidden">
+          <>
+            {showResult.starEarned ? (
+              <div className="fixed inset-0 z-0 pointer-events-none">
+                <FallingStars variant={showResult.starEarned === 5 ? 'five' : 'single'} className="fixed inset-0" />
+              </div>
+            ) : null}
+            <div className="max-w-md mx-auto p-10 glass rounded-3xl text-center space-y-6 animate-in zoom-in duration-500 shadow-2xl relative overflow-hidden z-10">
             {showResult.starEarned && (
               <div className="absolute inset-0 pointer-events-none">
                 <div className="absolute inset-0 bg-amber-500/10 animate-pulse"></div>
@@ -550,6 +526,7 @@ const App: React.FC = () => {
               {showResult.starEarned ? t('subLevels.continueEvolution') : t('result.backToHub')}
             </button>
           </div>
+          </>
         ) : (
           <EvolutionHub
             stats={stats}

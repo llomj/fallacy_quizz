@@ -171,7 +171,15 @@ export const translations = {
       settings: "Settings",
       resetApp: "Reset App",
       refreshApp: "Refresh app (get latest)",
+      back: "Back",
+      rules: "Rules",
       logicalRules: "Logical Rules & Argumentation",
+      sound: "Sound",
+      soundOn: "Sound: On",
+      soundOff: "Sound: Off",
+      haptic: "Haptic",
+      hapticOn: "Haptic: On",
+      hapticOff: "Haptic: Off",
     },
     
     // Reset App Modal
@@ -423,7 +431,15 @@ export const translations = {
       settings: "Paramètres",
       resetApp: "Réinitialiser l'App",
       refreshApp: "Actualiser l'app (dernière version)",
+      back: "Retour",
+      rules: "Règles",
       logicalRules: "Règles logiques & argumentation",
+      sound: "Son",
+      soundOn: "Son : Activé",
+      soundOff: "Son : Désactivé",
+      haptic: "Vibrations",
+      hapticOn: "Vibrations : Activées",
+      hapticOff: "Vibrations : Désactivées",
     },
     
     // Reset App Modal

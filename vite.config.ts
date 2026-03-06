@@ -23,10 +23,10 @@ export default defineConfig(({ mode }) => {
       }
     },
     server: {
-      // Use 5174 so dev is never served by the old SW cache on :3000 — you always see the latest app
       port: 5174,
-      strictPort: true, // fail if 5174 is in use instead of switching to another port
+      strictPort: false, // try next port if 5174 is in use
       open: false,
+      host: true,
       headers: {
         'Cache-Control': 'no-store, no-cache, must-revalidate'
       }

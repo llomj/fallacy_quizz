@@ -1,5 +1,41 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
+
+/** Swipe-style toggle: green when on, gray when off. */
+const ToggleSwitch: React.FC<{
+  checked: boolean;
+  onChange: () => void;
+  label: string;
+  icon: string;
+}> = ({ checked, onChange, label, icon }) => (
+  <button
+    type="button"
+    onClick={onChange}
+    className="w-full flex items-center justify-between gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+  >
+    <div className="flex items-center gap-3">
+      <i className={`fas ${icon} text-sm w-5 flex-shrink-0`}></i>
+      <span className="text-sm font-medium">{label}</span>
+    </div>
+    <div
+      role="switch"
+      aria-checked={checked}
+      className={`relative w-12 h-6 rounded-full shrink-0 transition-colors duration-200 ${
+        checked ? 'bg-green-500' : 'bg-slate-600'
+      }`}
+      onClick={(e) => {
+        e.stopPropagation();
+        onChange();
+      }}
+    >
+      <span
+        className={`absolute top-0.5 left-0.5 w-5 h-5 rounded-full bg-white shadow-md transition-transform duration-200 ${
+          checked ? 'translate-x-6' : 'translate-x-0'
+        }`}
+      />
+    </div>
+  </button>
+);
 
 interface SettingsMenuProps {
   isOpen: boolean;
@@ -8,6 +44,10 @@ interface SettingsMenuProps {
   randomMode?: boolean;
   anchorBottom?: boolean; // When true, menu opens near top-right (mobile-friendly placement)
   onToggleRandomMode?: () => void;
+  soundEnabled?: boolean;
+  onToggleSound?: () => void;
+  hapticEnabled?: boolean;
+  onToggleHaptic?: () => void;
   onShowGlossary?: () => void;
   onShowArgumentation?: () => void;
   onShowIdSearch?: () => void;
@@ -25,6 +65,10 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   randomMode = false,
   anchorBottom = false,
   onToggleRandomMode,
+  soundEnabled = true,
+  onToggleSound,
+  hapticEnabled = true,
+  onToggleHaptic,
   onShowGlossary,
   onShowArgumentation,
   onShowIdSearch,
@@ -35,8 +79,15 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   onResetApp
 }) => {
   const { t, language } = useLanguage();
+  const [rulesSubmenuOpen, setRulesSubmenuOpen] = useState(false);
+
+  useEffect(() => {
+    if (!isOpen) setRulesSubmenuOpen(false);
+  }, [isOpen]);
 
   if (!isOpen) return null;
+
+  const hasRulesContent = Boolean(onShowArgumentation || onShowGlossary);
 
   // Fixed order (see AGENTS.md §11): do not change unless explicitly requested.
   const menuItems: { icon: string; label: string; onClick: () => void; active?: boolean }[] = [];
@@ -53,6 +104,13 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
       icon: 'fa-layer-group',
       label: t('settings.selectLevel'),
       onClick: () => { onShowLevelSelector(); onClose(); }
+    });
+  }
+  if (hasRulesContent) {
+    menuItems.push({
+      icon: 'fa-gavel',
+      label: t('settings.rules'),
+      onClick: () => setRulesSubmenuOpen(prev => !prev)
     });
   }
   if (onShowIdSearch) {
@@ -77,21 +135,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
       active: view === 'log'
     });
   }
-  if (onShowArgumentation) {
-    menuItems.push({
-      icon: 'fa-scale-balanced',
-      label: t('settings.logicalRules'),
-      onClick: () => { onShowArgumentation(); onClose(); }
-    });
-  }
-  if (onShowGlossary) {
-    menuItems.push({
-      icon: 'fa-circle-info',
-      label: t('app.glossary'),
-      onClick: () => { onShowGlossary(); onClose(); },
-      active: view === 'glossary'
-    });
-  }
   if (onToggleLanguage) {
     menuItems.push({
       icon: 'fa-language',
@@ -107,6 +150,44 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     onClick: () => { onClose(); window.location.href = `${basePath}clear-sw.html`; }
   });
 
+  // When Rules submenu is open, show only Back + Logical rules + Glossary (same-size panel, no enlargement)
+  if (rulesSubmenuOpen && hasRulesContent) {
+    return (
+      <>
+        <div className="fixed inset-0 z-40" onClick={onClose} />
+        <div className={`z-50 min-w-[200px] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+          <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-white/5 backdrop-blur-sm">
+            <button
+              onClick={() => setRulesSubmenuOpen(false)}
+              className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+            >
+              <i className="fas fa-arrow-left text-sm w-5 flex-shrink-0"></i>
+              <span className="text-sm font-medium">{t('settings.back')}</span>
+            </button>
+            {onShowArgumentation && (
+              <button
+                onClick={() => { onShowArgumentation(); onClose(); }}
+                className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+              >
+                <i className="fas fa-scale-balanced text-sm w-5 flex-shrink-0"></i>
+                <span className="text-sm font-medium">{t('settings.logicalRules')}</span>
+              </button>
+            )}
+            {onShowGlossary && (
+              <button
+                onClick={() => { onShowGlossary(); onClose(); }}
+                className={`w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left ${view === 'glossary' ? 'bg-yellow-400/15 text-yellow-300' : 'text-slate-300 hover:bg-white/10 hover:text-white'}`}
+              >
+                <i className="fas fa-circle-info text-sm w-5 flex-shrink-0"></i>
+                <span className="text-sm font-medium">{t('app.glossary')}</span>
+              </button>
+            )}
+          </div>
+        </div>
+      </>
+    );
+  }
+
   return (
     <>
       {/* Backdrop */}
@@ -119,20 +200,44 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
       <div className={`z-50 min-w-[200px] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
         <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-white/5 backdrop-blur-sm">
           {menuItems.map((item, index) => (
-            <button
-              key={index}
-              onClick={item.onClick}
-              className={`
-                w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left
-                ${item.active 
-                  ? 'bg-yellow-400/15 text-yellow-300' 
-                  : 'text-slate-300 hover:bg-white/10 hover:text-white'
-                }
-              `}
-            >
-              <i className={`fas ${item.icon} text-sm w-5 flex-shrink-0`}></i>
-              <span className="text-sm font-medium">{item.label}</span>
-            </button>
+            <React.Fragment key={index}>
+              <button
+                onClick={item.onClick}
+                className={`
+                  w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left
+                  ${item.active 
+                    ? 'bg-yellow-400/15 text-yellow-300' 
+                    : 'text-slate-300 hover:bg-white/10 hover:text-white'
+                  }
+                `}
+              >
+                <i className={`fas ${item.icon} text-sm w-5 flex-shrink-0`}></i>
+                <span className="text-sm font-medium">{item.label}</span>
+                {item.label === t('settings.rules') && (
+                  <i className="fas fa-chevron-right text-xs ml-auto"></i>
+                )}
+              </button>
+              {item.icon === 'fa-language' && (
+                <>
+                  {onToggleSound !== undefined && (
+                    <ToggleSwitch
+                      checked={soundEnabled}
+                      onChange={onToggleSound}
+                      label={t('settings.sound')}
+                      icon={soundEnabled ? 'fa-volume-high' : 'fa-volume-xmark'}
+                    />
+                  )}
+                  {onToggleHaptic !== undefined && (
+                    <ToggleSwitch
+                      checked={hapticEnabled}
+                      onChange={onToggleHaptic}
+                      label={t('settings.haptic')}
+                      icon="fa-hand"
+                    />
+                  )}
+                </>
+              )}
+            </React.Fragment>
           ))}
           
           {/* Reset App button - at bottom with warning styling */}
