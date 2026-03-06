@@ -2,8 +2,8 @@ export const translations = {
   en: {
     // Navigation & App
     app: {
-      title: "CLI",
-      subtitle: "EXERCISES",
+      title: "LOGICAL",
+      subtitle: "FALLACIES",
       rank: "Rank",
       glossary: "Glossary",
       methods: "Commands",
@@ -27,8 +27,8 @@ export const translations = {
       globalProgress: "Global Progress",
       mastery: "Mastery",
       mutationsRemaining: "{count} mutations remaining for next evolution.",
-      absorbText: "Absorb 15 new CLI commands to strengthen your terminal skills.",
-      conceptsText: "unique concepts across the ocean.",
+      absorbText: "Analyze 15 new arguments to strengthen your fallacy detection skills.",
+      conceptsText: "unique reasoning patterns across the ocean.",
       // Random mode
       randomModeLabel: "Random Mode",
       totalAnswered: "Total Answered",
@@ -36,8 +36,8 @@ export const translations = {
       accuracy: "Accuracy",
       evolutionScore: "Evolution Score",
       pointsToNext: "{points} points to {persona}",
-      randomModeAbsorbText: "Absorb 15 random questions from all levels to earn evolution points.",
-      randomModeDescription: "Questions from all levels. Earn points to evolve through the same 10 personas.",
+      randomModeAbsorbText: "Analyze 15 random arguments from all levels to earn evolution points.",
+      randomModeDescription: "Arguments from all levels. Earn points to evolve through the same 10 personas.",
     },
     
     // Quiz View
@@ -45,7 +45,7 @@ export const translations = {
       mutationOf: "MUTATION {current} OF {total}",
       evolutionPoints: "Evolution",
       stabilizingGenome: "Stabilizing Genome...",
-      sequencingPatterns: "Sequencing 15 unique logic patterns for Stage {level}.",
+      sequencingPatterns: "Sequencing 15 unique reasoning patterns for Stage {level}.",
       sequenceError: "Sequence Error",
       couldNotRetrieve: "Could not retrieve questions for this level.",
       returnToHub: "Return to Hub",
@@ -116,13 +116,16 @@ export const translations = {
     
     // Glossary View
     glossary: {
-      title: "CLI GLOSSARY",
-      searchPlaceholder: "Search glossary...",
+      title: "LOGICAL FALLACIES GLOSSARY",
+      searchPlaceholder: "Search fallacies...",
       levelConcept: "Level {range} Concept",
       levelSection: "Level {level}",
       levelBadge: "Lvl {range}",
       inDepthDescription: "In-Depth Description",
       implementationExample: "Implementation Example",
+      exampleLevelBeginner: "Beginner",
+      exampleLevelIntermediate: "Intermediate",
+      exampleLevelExpert: "Expert",
       noResults: "No terms found matching \"{search}\"",
     },
     
@@ -168,6 +171,7 @@ export const translations = {
       settings: "Settings",
       resetApp: "Reset App",
       refreshApp: "Refresh app (get latest)",
+      logicalRules: "Logical Rules & Argumentation",
     },
     
     // Reset App Modal
@@ -227,30 +231,31 @@ export const translations = {
       expertProgress: "EXPERT PROGRESS",
       masteryProgress: "MASTERY ACHIEVED",
       youEarnedStar: "You earned the {star} star for this stage.",
+      youEarnedStarsCount: "You earned {count} stars for this level!",
       continueEvolution: "CONTINUE EVOLUTION",
     },
     
-    // Level Descriptions (CLI)
+    // Level Descriptions (Logical fallacies)
     levels: {
-      level0: "Complete beginner. Learn what a terminal is, what a command is, and basic computer terms—no prior knowledge assumed.",
-      level1: "Terminal and shell foundations. Learn what a terminal is, how the shell works, and basic navigation.",
-      level2: "Filesystem and storage. Master paths, permissions, inodes, and symbolic links.",
-      level3: "File and text processing. Learn cat, grep, redirection, and pipes.",
-      level4: "Process management. Master ps, top, kill, cron, and daemons.",
-      level5: "Package management. Learn apt, dnf, brew, and building from source.",
-      level6: "Networking basics. Master IP, ports, DNS, curl, and remote tools.",
-      level7: "Advanced networking. Learn ip, firewalls, and web protocols.",
-      level8: "Security and hardening. Users, PAM, SSH hardening, and encryption.",
-      level9: "Hacking and pentest concepts. Recon, enumeration, and exploit frameworks.",
-      level10: "Containers, Git, boot process, and Unix philosophy.",
+      level0: "Complete beginner in reasoning. Learn what arguments, premises and conclusions are, and the basic ideas of validity and soundness.",
+      level1: "Common everyday fallacies I. Spot obvious ad hominem attacks, straw men, bad appeals to popularity or authority, and false dilemmas.",
+      level2: "Common everyday fallacies II. Recognize red herrings, slippery slopes, hasty generalizations, weak analogies, and emotional manipulation.",
+      level3: "Causal fallacies. Distinguish correlation from causation, reversed causality, oversimplified causes, and ignored confounders.",
+      level4: "Ambiguity and language. Detect equivocation, amphiboly, loaded questions, vagueness, and moving the goalposts.",
+      level5: "Formal fallacies I. Learn classic invalid forms like affirming the consequent, denying the antecedent, and undistributed middle.",
+      level6: "Formal fallacies II. Work with quantifiers, scope errors, and contrast invalid patterns with strange but valid arguments.",
+      level7: "Probability and evidence. Understand base-rate neglect, gambler’s fallacy, prosecutor’s fallacy, cherry-picking, and survivorship bias.",
+      level8: "Rhetorical manipulation. Spot poisoning the well, framing tricks, motte-and-bailey moves, and suggestive innuendo.",
+      level9: "Mixed and multi-step fallacies. Analyze complex arguments that combine several fallacies at once.",
+      level10: "Meta-logic and expert reasoning. Avoid the fallacy fallacy and learn to separate bad reasoning from mere disagreement.",
     },
   },
   
   fr: {
     // Navigation & App
     app: {
-      title: "PYTHON",
-      subtitle: "EXERCICES",
+      title: "SOPHISMES",
+      subtitle: "LOGIQUES",
       rank: "Rang",
       glossary: "Glossaire",
       methods: "Commandes",
@@ -274,8 +279,8 @@ export const translations = {
       globalProgress: "Progression Globale",
       mastery: "Maîtrise",
       mutationsRemaining: "{count} mutations restantes pour la prochaine évolution.",
-      absorbText: "Absorbez 15 nouvelles commandes CLI pour renforcer vos compétences terminal.",
-      conceptsText: "concepts uniques à travers l'océan.",
+      absorbText: "Analysez 15 nouveaux arguments pour renforcer vos compétences en détection de sophismes.",
+      conceptsText: "schémas de raisonnement uniques à travers l'océan.",
       // Random mode
       randomModeLabel: "Mode Aléatoire",
       totalAnswered: "Total Répondu",
@@ -283,8 +288,8 @@ export const translations = {
       accuracy: "Précision",
       evolutionScore: "Score d'Évolution",
       pointsToNext: "{points} points vers {persona}",
-      randomModeAbsorbText: "Absorbez 15 questions aléatoires de tous les niveaux pour gagner des points d'évolution.",
-      randomModeDescription: "Questions de tous les niveaux. Gagnez des points pour évoluer à travers les mêmes 10 personas.",
+      randomModeAbsorbText: "Analysez 15 arguments aléatoires de tous les niveaux pour gagner des points d'évolution.",
+      randomModeDescription: "Arguments de tous les niveaux. Gagnez des points pour évoluer à travers les mêmes 10 personas.",
     },
 
     // Quiz View
@@ -363,13 +368,16 @@ export const translations = {
     
     // Glossary View
     glossary: {
-      title: "GLOSSAIRE CLI",
-      searchPlaceholder: "Rechercher dans le glossaire...",
+      title: "GLOSSAIRE DES SOPHISMES LOGIQUES",
+      searchPlaceholder: "Rechercher un sophisme...",
       levelConcept: "Concept Niveau {range}",
       levelSection: "Niveau {level}",
       levelBadge: "Niveau {range}",
       inDepthDescription: "Description Approfondie",
       implementationExample: "Exemple d'Implémentation",
+      exampleLevelBeginner: "Débutant",
+      exampleLevelIntermediate: "Intermédiaire",
+      exampleLevelExpert: "Expert",
       noResults: "Aucun terme trouvé correspondant à \"{search}\"",
     },
     
@@ -415,6 +423,7 @@ export const translations = {
       settings: "Paramètres",
       resetApp: "Réinitialiser l'App",
       refreshApp: "Actualiser l'app (dernière version)",
+      logicalRules: "Règles logiques & argumentation",
     },
     
     // Reset App Modal
@@ -474,22 +483,23 @@ export const translations = {
       expertProgress: "PROGRESSION EXPERT",
       masteryProgress: "MAÎTRISE ACQUISE",
       youEarnedStar: "Vous avez obtenu l'étoile {star} pour cette étape.",
+      youEarnedStarsCount: "Vous avez obtenu {count} étoiles pour ce niveau !",
       continueEvolution: "CONTINUER L'ÉVOLUTION",
     },
     
-    // Level Descriptions (CLI)
+    // Level Descriptions (Sophismes logiques)
     levels: {
-      level0: "Débutant complet. Apprenez ce qu'est un terminal, une commande et les termes de base—aucune connaissance préalable requise.",
-      level1: "Terminal et bases du shell. Apprenez ce qu'est un terminal, comment le shell fonctionne et la navigation de base.",
-      level2: "Système de fichiers et stockage. Maîtrisez les chemins, permissions, inodes et liens symboliques.",
-      level3: "Traitement de fichiers et texte. Apprenez cat, grep, redirection et pipes.",
-      level4: "Gestion des processus. Maîtrisez ps, top, kill, cron et les daemons.",
-      level5: "Gestion des paquets. Apprenez apt, dnf, brew et la compilation depuis les sources.",
-      level6: "Bases du réseau. Maîtrisez IP, ports, DNS, curl et les outils distants.",
-      level7: "Réseau avancé. Apprenez ip, pare-feu et protocoles web.",
-      level8: "Sécurité et durcissement. Utilisateurs, PAM, durcissement SSH et chiffrement.",
-      level9: "Concepts de hacking et pentest. Recon, énumération et frameworks d'exploitation.",
-      level10: "Conteneurs, Git, processus de démarrage et philosophie Unix.",
+      level0: "Débutant complet en raisonnement. Apprenez ce qu’est un argument, des prémisses, une conclusion, ainsi que les notions de validité et de solidité.",
+      level1: "Sophismes du quotidien I. Repérez les attaques ad hominem, les hommes de paille, les appels à la popularité ou à l’autorité, et les fausses dichotomies.",
+      level2: "Sophismes du quotidien II. Reconnaissez les contre‑feux (red herrings), pentes glissantes, généralisations hâtives, analogies faibles et appels à l’émotion.",
+      level3: "Sophismes causaux. Distinguez corrélation et causalité, causalité inversée, causes simplifiées à l’excès et facteurs confondants ignorés.",
+      level4: "Ambiguïté et langage. Repérez l’équivoque, l’amphibologie, les questions pièges, le flou et le déplacement des poteaux de but.",
+      level5: "Sophismes formels I. Apprenez les schémas invalides classiques comme l’affirmation du conséquent, la négation de l’antécédent et le terme moyen non distribué.",
+      level6: "Sophismes formels II. Travaillez avec les quantificateurs, les erreurs de portée et la différence entre arguments étranges mais valides et vrais sophismes.",
+      level7: "Probabilités et preuves. Comprenez la négligence de la fréquence de base, le sophisme du joueur, le sophisme du procureur, le biais de survivance et le tri sélectif des données.",
+      level8: "Manipulation rhétorique. Repérez l’empoisonnement du puits, les effets de cadrage, le mouvement motte‑et‑bailey et les insinuations suggestives.",
+      level9: "Sophismes mixtes et multi‑étapes. Analysez des arguments complexes qui combinent plusieurs sophismes à la fois.",
+      level10: "Méta‑logique et raisonnement expert. Évitez le « sophisme du sophisme » et apprenez à distinguer mauvais raisonnement et simple désaccord.",
     },
   },
 };

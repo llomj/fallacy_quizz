@@ -1,11 +1,11 @@
-# CLI Exercises Learn - AI Agent Operational Rules
+# Logical Fallacies Learn - AI Agent Operational Rules
 
 ## 1. Genome Checkpoint (STRICT STATE)
-- **Target**: 3000 Questions (300 per level × 10 levels).
-- **Current Progress**: 3000 / 3000 Questions (CLI content; genome fulfilled)
+- **Target**: 3000 logical fallacy questions (300 per level × 10 levels, including Level 0).
+- **Domain**: 100% logical fallacies and argument analysis (formal, informal, syllogistic, probabilistic, rhetorical, etc.). The previous Python/CLI genome is deprecated and treated as legacy content only.
 - **Uniqueness Level**: HIGH VARIANCE MANDATED.
-- **Rule**: All 3000 questions must be unique. Every question must be a unique logical challenge. No repetitive patterns. Repetitive patterns are considered a failure of educational integrity.
-- **No Placeholder Options**: Multiple-choice options must be meaningful answers to the question. Never use "Option A", "Option B", "Option C", "Option D" or similar placeholders. Each option must be a plausible, content-specific answer. Wrong options should be plausible distractors, not generic labels.
+- **Rule**: All 3000 questions must be unique. Every question must present a distinct argumentative scenario or reasoning pattern. No duplicated stories with only surface changes. Repetitive patterns are considered a failure of educational integrity.
+- **No Placeholder Options**: Multiple-choice options must be meaningful answers to the question. Never use "Option A", "Option B", "Option C", "Option D" or similar placeholders. Each option must be a plausible, content-specific answer (e.g. specific fallacy names, \"no fallacy\", or precise diagnoses). Wrong options should be plausible distractors, not generic labels.
 
 ## 2. Consent & Modification Rules
 - **Explicit Consent**: No changes shall be made to the source code without explicit user approval.
@@ -14,15 +14,15 @@
 - **Strict Scope Control**: When the user asks for a specific change, implement only that request. Do not add extra UI elements, display changes, or additional features unless explicitly requested.
 
 ## 3. Glossary & Educational Integrity
-- **Glossary Source of Truth**: The `glossary.md` file is the master reference.
+- **Glossary Source of Truth**: The `glossary.md` file is the master reference for all logical fallacy and argumentation definitions.
 - **Consistency Rule**: All definitions must be consistent with `glossary.md`.
 - **Pre-Change Check**: Agents must always consult `ps.md` and `planning.md` before making changes.
 - **Debugging Reference**: Agents must always consult `ps.md` for debugging information and urgent issues.
 
 ## 4. The 3,000-Question Genome Goal
-- **Completion Task**: Reach exactly 3,000 high-quality CLI/terminal questions (300 per level × 10 levels).
-- **Status**: 3000 ACHIEVED. ALL 10 levels COMPLETE at 300/300 each. Genome checkpoint FULFILLED.
-- **Diversity Rule**: Use at least 10 logic templates per stage to ensure students encounter varied syntax and conceptual challenges.
+- **Completion Task**: Reach exactly 3,000 high-quality logical fallacy questions (300 per level × 10 levels).
+- **Status**: Logical fallacy genome IN PROGRESS. Existing CLI question genome is archived/legacy and must not be used for new gameplay content.
+- **Diversity Rule**: Use at least 10 reasoning templates per stage so students encounter varied argument structures and conceptual challenges (e.g. causal, analogical, statistical, rhetorical).
 
 ## 5. Testing and Deployment Rules
 - **Testing Requirement**: Agents must always run tests before telling the user that the app should deploy successfully.
@@ -34,7 +34,7 @@
 ## 6. Internationalization & French Mode
 - **Goal**: Transform this app into a fully bilingual experience (English and French). This is critical.
 - **Full French Mode**: When the user selects French, **all** visible UI text and explanations must appear in French (navigation, buttons, panels, short explanations, detailed explanations, and advanced panels like Code Versatility).
-- **Structural Parity**: French detailed explanations (explication du codon / description approfondie) must be structurally identical to the English versions: same sections (Key concepts, How it works, Examples, Common uses, Edge cases, etc.), same level of detail, CLI commands unchanged.
+- **Structural Parity**: French detailed explanations (explication du codon / description approfondie) must be structurally identical to the English versions: same sections (Key concepts, How it works, Examples, Common uses, Edge cases, etc.), same level of detail. Concrete argument texts can be localized, but the logical structure and pedagogical depth must match.
 - **Fallback Rule**: Only fall back to English when a French translation truly does not exist yet; once added, the French version must fully mirror the English content in depth and structure.
 
 ## 7. Monetisation Goal
@@ -45,4 +45,12 @@
 
 ## 9. Scope and Restraint
 - **Do not do things the user never asked for.** Implement only what is explicitly requested. Do not add extra features, change unrelated code, or "improve" things without being asked.
-- **Flags/Commands reference:** Keep syntax highlighting aesthetic (bash colors). Avoid half-sections in green—override comment color to neutral so `#` headers and descriptions blend with the rest.
+- **Visual clarity for highlight panels:** Keep syntax highlighting / emphasis aesthetic and readable. Avoid large blocks in a single highlight color—ensure comments, examples, and explanations remain legible and consistent with the app’s dark theme.
+
+## 10. Logical Fallacy Quiz — Question Text and Wrong-Answer Highlight
+- **Question text (logical fallacies):** The question/example text in the quiz card must stay **white** (`text-slate-100`) and **smaller** (`text-base md:text-lg`). Do not change it to yellow or larger; agents must not alter this styling unless the user explicitly asks.
+- **Wrong-answer highlight:** When the user selects the wrong answer, only the **option panel** (the clicked wrong-answer button) must light up with **#FF00FF** (border/glow). The main quiz card border must **not** change to FF00FF; only the wrong-answer choice panel should use that color.
+
+## 11. Settings Menu Order (STRICT)
+- **Do not change the order of settings menu items** unless the user explicitly asks to do so.
+- **Canonical order** (top to bottom): (1) Random mode (switch), (2) Select level, (3) Search by ID, (4) ID Log, (5) Learning log, (6) Logical rules, (7) Glossary, (8) Translation (language toggle), (9) Refresh app, (10) Reset. Items are only shown when their handler is provided; the order of those that appear must follow this list.

@@ -2,9 +2,11 @@ import { SHORT_EXPLANATIONS_FR } from './shortExplanationsTranslations';
 import { containsEnglishProse, normalizeFrenchProse } from '../utils/frenchText';
 import {
   buildFoundationFrenchDetailed,
+  buildFallacyFrenchDetailed,
   extractCommandExample,
   type ExplanationDepth,
 } from '../utils/foundationDetailedFormatter';
+import { getFallacyCodonExplanationFR } from './fallacyCodonExplanations';
 
 /**
  * French translations for detailed explanations (explication du codon / description approfondie).
@@ -75391,6 +75393,8 @@ const getFrenchDetailedFallback = (questionId: number): string => {
 /**
  * Retourne une description approfondie en français en mode FR.
  * Si un contenu mixte EN/FR est détecté, un fallback 100% FR est affiché.
+ * Pour les questions de sophismes (sans commande CLI), utilise le formateur
+ * et le codon de sophisme en français (débutant / intermédiaire / expert).
  */
 export const getTranslatedDetailedExplanation = (
   questionId: number,
@@ -75404,17 +75408,29 @@ export const getTranslatedDetailedExplanation = (
     return englishText;
   }
 
+  const commandExample = extractCommandExample(
+    questionText,
+    correctOption,
+    englishText
+  );
+
+  if (commandExample === undefined && correctOption) {
+    const baseFrench =
+      getFallacyCodonExplanationFR(correctOption, explanationLevel) ??
+      getFrenchDetailedFallback(questionId);
+    return buildFallacyFrenchDetailed({
+      depth: explanationLevel,
+      baseText: baseFrench,
+      shortText: SHORT_EXPLANATIONS_FR[questionId],
+      questionText,
+      correctOption,
+    });
+  }
+
   const mappedFrench = DETAILED_EXPLANATIONS_FR[questionId];
   const frenchCandidate = mappedFrench ?? englishText;
   const normalized = normalizeFrenchProse(frenchCandidate);
   const hasEnglishLeak = containsEnglishProse(normalized);
-
-  const commandExample = extractCommandExample(
-    questionText,
-    correctOption,
-    englishText,
-    normalized
-  );
 
   const baseFrench = hasEnglishLeak
     ? getFrenchDetailedFallback(questionId)

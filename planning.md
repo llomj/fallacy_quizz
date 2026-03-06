@@ -1,50 +1,46 @@
-# CLI Exercises Learn — Development Planning & Roadmap
+# Logical Fallacies Learn — Development Planning & Roadmap
 
 > An iterative planning document for evolving the app. **Platform**: Mobile-first (PWA). Prioritise touch, small screens, on-the-go use. Add ideas, refine them, and track what’s done vs. what’s next.
 
 ---
 
-## CLI Transformation (Current Focus)
+## Logical Fallacies Transformation (Current Focus)
 
-**Goal**: Transform from Python Exercises to **Terminal & CLI Commands Learning App**. Same layout, evolution system, and bilingual (EN/FR) parity. Replace all Python content with CLI/terminal questions.
+**Goal**: Transform the app into a **Logical Fallacies & Argument Analysis Learning App**. Same layout, evolution system, and bilingual (EN/FR) parity. Replace all Python/CLI content with logical fallacy questions and explanations.
 
-### Topic-to-Level Mapping
+### Topic-to-Level Mapping (Fallacies)
 
 | Level | Persona | Domain | Topics (sample) |
 |-------|---------|--------|------------------|
-| 1 | Plankton | Terminal & Shell Foundations | Terminal, shell, bash/zsh, PATH, exit codes, history, globbing, quoting, aliases |
-| 2 | Shrimp | Filesystem & Storage | FHS, paths, inodes, links, permissions, ownership, mount, disk usage |
-| 3 | Crab | File & Text Processing | cat, less, head, tail, wc, sort, uniq, cut, grep, sed, awk, redirection, pipes |
-| 4 | Small Fish | Process Management | ps, top, kill, nice, cron, daemons, systemd, load, memory, swap |
-| 5 | Octopus | Package Management | apt, dnf, brew, snap, flatpak, make, configure |
-| 6 | Seal | Networking Basics | TCP/IP, IP, ports, DNS, ping, curl, wget, ssh, scp, rsync |
-| 7 | Dolphin | Advanced Networking | ip, iptables, nftables, bridges, VLANs, HTTP, REST, load balancing |
-| 8 | Shark | Security & Hardening | Users, PAM, SSH hardening, firewall, SELinux, GPG, encryption |
-| 9 | Whale | Hacking & Pentest Concepts | Recon, enumeration, Metasploit, privilege escalation, XSS, SQLi, Hashcat |
-| 10 | God Whale | Containers, Git, Boot, Kernel, Philosophy | Docker, Kubernetes, Git, boot process, syscalls, Unix philosophy |
+| 0 | Tadpole | Foundations of Arguments | Premises vs conclusions, arguments vs assertions, validity vs soundness (intuitive), fact vs opinion |
+| 1 | Plankton | Everyday Fallacies I | Ad hominem, straw man, appeal to authority (misused), appeal to popularity, false dilemma |
+| 2 | Shrimp | Everyday Fallacies II | Red herring, slippery slope, hasty generalization, weak analogy, appeal to emotion |
+| 3 | Crab | Causal Fallacies | Post hoc, cum hoc, reversed causation, oversimplified cause, neglecting confounders |
+| 4 | Small Fish | Ambiguity & Language | Equivocation, amphiboly, loaded questions, vagueness, moving goalposts |
+| 5 | Octopus | Formal Fallacies I | Simple invalid syllogisms, affirming the consequent, denying the antecedent, undistributed middle (concrete examples) |
+| 6 | Seal | Formal Fallacies II | Abstract syllogisms, quantifier errors, scope fallacies, contrast with valid-but-counterintuitive arguments |
+| 7 | Dolphin | Probability & Evidence | Base-rate neglect, gambler’s fallacy, prosecutor’s fallacy, cherry-picking, survivorship bias |
+| 8 | Shark | Rhetorical Manipulation | Poisoning the well, innuendo, framing effects, motte-and-bailey |
+| 9 | Whale | Mixed & Multi-step Fallacies | Arguments containing multiple fallacies; focus on the dominant fallacy or all-that-apply (if enabled) |
+| 10 | God Whale | Meta-Logic & Expert Reasoning | Misuse of fallacy accusations, subtle misapplications of rules, distinguishing fallacious from merely unpopular reasoning |
 
-### CLI Enhancement Suggestions
+### Authoring Principles by Sub-level
 
-1. **Topic-based navigation**: Optional filter by topic (e.g. "grep", "permissions") within a level.
-2. **Command reference panel**: Replace MethodsView with a searchable CLI command reference (man-style summaries).
-3. **Practical exercises**: Add "fill-in-the-blank" or "order the command" formats for variety.
-4. **Platform notes**: Tag questions as Linux/macOS where behavior differs (e.g. `sed -i`).
-5. **Cheat sheet export**: Allow users to export a personal cheat sheet from completed levels.
-6. **Offline-first**: Ensure glossary and questions load from cache for offline phone use.
-7. **Accessibility**: Screen reader labels, focus management, font-size option.
-8. **Monetization**: Premium tier for advanced topics (Hacking, Containers) or ad-free experience.
+- **Beginner (per level)**: Very explicit, almost textbook-style scenarios (1–2 sentences). Only one obvious fallacy; distractors are clearly wrong once the target fallacy is known.
+- **Intermediate**: More natural language, everyday contexts, fewer explicit cues. Still one main fallacy, but distractors are commonly confused fallacies.
+- **Expert**: Subtle misdirection, longer contexts. Multiple fallacies may be present; questions focus on the dominant one or on recognizing when there is *no* fallacy.
 
-### Implementation Phases
+### Implementation Phases (Fallacy Genome)
 
-1. **Phase 0**: Update ps.md (blank + EN/FR rule), update planning.md — DONE
-2. **Phase 1**: Branding (index.html, package.json, manifest, translations, localStorage key)
-3. **Phase 2**: Replace glossary (glossary.md, GLOSSARY, glossaryTranslations)
-4. **Phase 3**: Update LEVELS in constants.ts with CLI concepts/descriptions
-5. **Phase 4**: Create Level 1 CLI questions (100 Beginner) and wire into questionsBank
-6. **Phase 5**: Change syntax highlighting to bash; adapt MethodsView/FlowView
-7. **Phase 6**: Add French translations for Level 1 (short + detailed)
-8. **Phase 7**: Expand to full 3000 questions across all levels (iterative)
-9. **Phase 8**: Update validation scripts; test PWA on phone
+1. **Phase 0**: Update `AGENTS.md`, `ps.md`, and `planning.md` to reference logical fallacies (this document).
+2. **Phase 1**: Branding and wording (index.html, manifest, `translations.ts`) updated to “logical fallacies / argument analysis”.
+3. **Phase 2**: Replace glossary (`glossary.md`, glossary data/translations) with a Logical Fallacies Glossary (EN/FR).
+4. **Phase 3**: Update `LEVELS` in `constants.ts` with fallacy-based descriptions for Level 0–10.
+5. **Phase 4**: Create initial fallacy question sets for Level 0–1 (at least 100 Beginner questions each) and wire into `questionsBank.ts`.
+6. **Phase 5**: Ensure explanation system (`shortExplanationsTranslations.ts`, `detailedExplanationsTranslations.ts`, `foundationDetailedFormatter.ts`) describes fallacy logic instead of CLI commands.
+7. **Phase 6**: Add French translations for all new fallacy content (questions + explanations) in the same batches as English.
+8. **Phase 7**: Expand toward full 3000 questions across all levels (300 per level, with Beginner/Intermediate/Expert sub-levels).
+9. **Phase 8**: Update validation scripts for fallacy content (uniqueness checks, EN/FR parity), and test PWA on phone.
 
 ---
 

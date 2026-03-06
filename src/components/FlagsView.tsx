@@ -489,7 +489,7 @@ export const FlagsView: React.FC<FlagsViewProps> = ({ onBack }) => {
     <div className="relative min-h-[600px] animate-in slide-in-from-left duration-500 pb-12">
       <div className="flex items-center justify-between mb-8">
         <h2 className="text-2xl font-black text-white flex items-center gap-3">
-          <i className="fas fa-flag text-emerald-400"></i>
+          <i className="fas fa-flag text-yellow-300"></i>
           {language === 'fr' ? 'Référence des options' : 'Flags Reference'}
         </h2>
         <button
@@ -500,7 +500,7 @@ export const FlagsView: React.FC<FlagsViewProps> = ({ onBack }) => {
         </button>
       </div>
 
-      <div className="flags-code-block glass rounded-2xl p-6 border border-emerald-500/20 overflow-x-auto text-slate-300 [&_code]:!text-slate-300">
+      <div className="flags-code-block glass rounded-2xl p-6 border border-yellow-400/40 overflow-x-auto text-slate-300 [&_code]:!text-slate-300">
         <SyntaxHighlighter
           language="bash"
           style={flagsStyle}

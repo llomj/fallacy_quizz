@@ -17,7 +17,7 @@ export const PersonaBadge: React.FC<PersonaBadgeProps> = ({ stage, size = 'md' }
 
   return (
     <div className={`flex flex-col items-center justify-center`}>
-      <div className={`${sizeClasses[size]} rounded-full bg-gradient-to-br from-emerald-500 to-green-600 flex items-center justify-center shadow-lg shadow-emerald-500/20`}>
+      <div className={`${sizeClasses[size]} rounded-full bg-gradient-to-br from-yellow-300 to-amber-500 flex items-center justify-center shadow-lg shadow-amber-400/20`}>
         <span className="text-white">{emoji}</span>
       </div>
     </div>

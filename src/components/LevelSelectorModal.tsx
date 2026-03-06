@@ -38,7 +38,7 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
       <div className="glass rounded-3xl p-8 max-w-2xl w-full max-h-[90vh] overflow-y-auto space-y-6 animate-in zoom-in duration-300 shadow-2xl border border-white/10">
         <div className="flex items-center justify-between">
           <h2 className="text-2xl font-black text-white flex items-center gap-3">
-            <i className="fas fa-layer-group text-emerald-400"></i> {t('levelSelector.selectLevel')}
+            <i className="fas fa-layer-group text-yellow-300"></i> {t('levelSelector.selectLevel')}
           </h2>
           <button
             onClick={onClose}
@@ -63,7 +63,7 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
                 className={`
                   relative p-4 rounded-2xl border-2 transition-all
                   ${isCurrent
-                    ? 'bg-emerald-500/20 border-emerald-400 shadow-lg shadow-emerald-500/20'
+                    ? 'bg-yellow-400/15 border-yellow-400 shadow-lg shadow-yellow-400/30'
                     : isUnlocked
                       ? 'bg-white/5 border-white/10 hover:bg-white/10 hover:border-white/20 cursor-pointer'
                       : 'bg-slate-800/50 border-slate-700/50 opacity-50 cursor-not-allowed'
@@ -77,7 +77,7 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
                 )}
                 {isUnlocked && (
                   <div className="absolute top-2 right-2 flex gap-0.5">
-                    {[1, 2, 3].map(starNum => (
+                    {[1, 2, 3, 4, 5].map(starNum => (
                       <i
                         key={starNum}
                         className={`fas fa-star text-[10px] ${starNum <= stars ? 'text-amber-400' : 'text-slate-700/50'
@@ -88,7 +88,7 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
                 )}
                 <div className="flex flex-col items-center gap-2">
                   <div className={`w-12 h-12 rounded-full flex items-center justify-center text-2xl ${isCurrent
-                      ? 'bg-emerald-500'
+                      ? 'bg-yellow-400'
                       : isUnlocked
                         ? 'bg-slate-700'
                         : 'bg-slate-800'
@@ -98,11 +98,11 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
                     </span>
                   </div>
                   <div className="text-center">
-                    <div className={`text-sm font-black ${isCurrent ? 'text-emerald-400' : isUnlocked ? 'text-white' : 'text-slate-500'
+                    <div className={`text-sm font-black ${isCurrent ? 'text-yellow-300' : isUnlocked ? 'text-white' : 'text-slate-500'
                       }`}>
                       {formatTranslation(t('levelSelector.level'), { level: levelInfo.level })}
                     </div>
-                    <div className={`text-[10px] font-bold uppercase tracking-wider mt-1 ${isCurrent ? 'text-emerald-300' : isUnlocked ? 'text-slate-400' : 'text-slate-600'
+                    <div className={`text-[10px] font-bold uppercase tracking-wider mt-1 ${isCurrent ? 'text-yellow-200' : isUnlocked ? 'text-slate-400' : 'text-slate-600'
                       }`}>
                       {levelInfo.persona}
                     </div>
@@ -115,7 +115,7 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
 
         <div className="pt-4 border-t border-white/10 space-y-2">
           {randomMode && (
-            <p className="text-xs text-emerald-400 text-center font-medium">
+            <p className="text-xs text-yellow-300 text-center font-medium">
               {t('levelSelector.randomModeNote')}
             </p>
           )}

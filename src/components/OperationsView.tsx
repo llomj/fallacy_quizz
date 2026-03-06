@@ -268,7 +268,7 @@ export const OperationsView: React.FC<OperationsViewProps> = ({ onBack }) => {
           ></div>
           
           {/* Content Box */}
-          <div className="glass w-full max-w-2xl my-4 sm:my-8 rounded-3xl p-6 sm:p-10 shadow-2xl relative z-10 border-emerald-500/30 animate-in fade-in zoom-in duration-300">
+          <div className="glass w-full max-w-2xl my-4 sm:my-8 rounded-3xl p-6 sm:p-10 shadow-2xl relative z-10 border-yellow-400/40 animate-in fade-in zoom-in duration-300">
             <button 
               onClick={() => setSelectedItem(null)}
               className="absolute top-4 right-4 sm:top-6 sm:right-6 w-10 h-10 flex items-center justify-center rounded-xl bg-slate-800 text-slate-400 hover:text-white transition-colors border border-white/10"
@@ -278,7 +278,7 @@ export const OperationsView: React.FC<OperationsViewProps> = ({ onBack }) => {
 
             <div className="space-y-6 sm:space-y-8">
               <div className="space-y-3 pt-2">
-                <span className="inline-block text-[10px] font-black text-emerald-400 uppercase tracking-[0.2em] px-3 py-1 bg-emerald-500/10 rounded-full border border-emerald-500/20">
+                <span className="inline-block text-[10px] font-black text-yellow-300 uppercase tracking-[0.2em] px-3 py-1 bg-yellow-400/10 rounded-full border border-yellow-400/40">
                   {selectedItem.category}
                 </span>
                 <h3 className="text-2xl sm:text-3xl font-black text-white">{selectedItem.title}</h3>
@@ -286,7 +286,7 @@ export const OperationsView: React.FC<OperationsViewProps> = ({ onBack }) => {
 
               <div className="space-y-4">
                 <h4 className="text-[11px] font-black text-slate-500 uppercase tracking-widest flex items-center gap-2">
-                  <i className="fas fa-book-open text-emerald-400"></i> {t('operations.definition')}
+                  <i className="fas fa-book-open text-yellow-300"></i> {t('operations.definition')}
                 </h4>
                 <div className="text-slate-300 leading-relaxed font-medium text-sm sm:text-base">
                   {selectedItem.definition}
@@ -295,12 +295,12 @@ export const OperationsView: React.FC<OperationsViewProps> = ({ onBack }) => {
 
               <div className="space-y-4">
                 <h4 className="text-[11px] font-black text-slate-500 uppercase tracking-widest flex items-center gap-2">
-                  <i className="fas fa-code text-emerald-400"></i> {t('operations.examples')}
+                  <i className="fas fa-code text-yellow-300"></i> {t('operations.examples')}
                 </h4>
                 <div className="bg-slate-900 rounded-2xl p-4 sm:p-6 border border-white/5 shadow-inner max-h-[400px] overflow-y-auto">
                   <div className="space-y-2">
                     {selectedItem.examples.map((example, idx) => (
-                      <div key={idx} className="text-xs sm:text-sm text-emerald-300 leading-relaxed font-mono whitespace-pre-wrap break-words">
+                      <div key={idx} className="text-xs sm:text-sm text-yellow-200 leading-relaxed font-mono whitespace-pre-wrap break-words">
                         {example}
                       </div>
                     ))}
@@ -311,7 +311,7 @@ export const OperationsView: React.FC<OperationsViewProps> = ({ onBack }) => {
               <div className="pt-4 pb-2">
                 <button 
                   onClick={() => setSelectedItem(null)}
-                  className="w-full py-4 bg-emerald-500 hover:bg-emerald-600 text-white rounded-2xl font-black transition-all shadow-xl shadow-emerald-500/20 active:scale-95"
+                  className="w-full py-4 bg-yellow-400 hover:bg-yellow-500 text-slate-900 rounded-2xl font-black transition-all shadow-xl shadow-yellow-400/30 active:scale-95"
                 >
                   {t('operations.gotIt')}
                 </button>
@@ -323,7 +323,7 @@ export const OperationsView: React.FC<OperationsViewProps> = ({ onBack }) => {
 
       <div className="flex items-center justify-between mb-8">
         <h2 className="text-2xl font-black text-white flex items-center gap-3">
-          <i className="fas fa-calculator text-emerald-400"></i>           {t('operations.title')}
+          <i className="fas fa-calculator text-yellow-300"></i>           {t('operations.title')}
         </h2>
         <button 
           onClick={onBack}
@@ -343,7 +343,7 @@ export const OperationsView: React.FC<OperationsViewProps> = ({ onBack }) => {
           }}
           className={`flex-1 py-3 px-4 rounded-xl font-bold text-sm transition-all ${
             activeTab === 'operations'
-              ? 'bg-emerald-500 text-white shadow-lg'
+              ? 'bg-yellow-400 text-slate-900 shadow-lg'
               : 'text-slate-400 hover:text-white'
           }`}
         >
@@ -357,7 +357,7 @@ export const OperationsView: React.FC<OperationsViewProps> = ({ onBack }) => {
           }}
           className={`flex-1 py-3 px-4 rounded-xl font-bold text-sm transition-all ${
             activeTab === 'math'
-              ? 'bg-emerald-500 text-white shadow-lg'
+              ? 'bg-yellow-400 text-slate-900 shadow-lg'
               : 'text-slate-400 hover:text-white'
           }`}
         >
@@ -374,7 +374,7 @@ export const OperationsView: React.FC<OperationsViewProps> = ({ onBack }) => {
           placeholder={formatTranslation(t('operations.searchPlaceholder'), { type: activeTab === 'operations' ? t('operations.operations').toLowerCase() : t('operations.mathConcepts').toLowerCase() })}
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-          className="w-full pl-12 pr-4 py-4 bg-slate-900 border border-white/5 rounded-2xl text-white placeholder:text-slate-600 focus:outline-none focus:border-emerald-500/50 transition-colors"
+          className="w-full pl-12 pr-4 py-4 bg-slate-900 border border-white/5 rounded-2xl text-white placeholder:text-slate-600 focus:outline-none focus:border-yellow-400/60 transition-colors"
         />
       </div>
 
@@ -383,14 +383,14 @@ export const OperationsView: React.FC<OperationsViewProps> = ({ onBack }) => {
           <div 
             key={idx}
             onClick={() => setSelectedItem(item)}
-            className="glass p-5 rounded-2xl space-y-2 hover:border-emerald-500/40 hover:bg-slate-800/80 transition-all cursor-pointer group active:scale-[0.98]"
+            className="glass p-5 rounded-2xl space-y-2 hover:border-yellow-400/60 hover:bg-slate-800/80 transition-all cursor-pointer group active:scale-[0.98]"
           >
             <div className="flex justify-between items-start">
               <h4 className="font-bold text-slate-100 group-hover:text-white transition-colors">{item.title}</h4>
-              <i className="fas fa-chevron-right text-[10px] text-slate-600 group-hover:text-emerald-400 group-hover:translate-x-1 transition-all"></i>
+              <i className="fas fa-chevron-right text-[10px] text-slate-600 group-hover:text-yellow-300 group-hover:translate-x-1 transition-all"></i>
             </div>
             <p className="text-[11px] text-slate-400 leading-relaxed line-clamp-2">{item.definition}</p>
-            <span className="inline-block text-[8px] font-black text-emerald-500 uppercase px-2 py-0.5 bg-emerald-500/10 rounded">
+            <span className="inline-block text-[8px] font-black text-yellow-300 uppercase px-2 py-0.5 bg-yellow-400/10 rounded">
               {item.category}
             </span>
           </div>

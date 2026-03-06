@@ -1,12 +1,23 @@
 import { PersonaStage, LevelInfo, RandomModeStats } from './types';
 
 export const XP_PER_QUESTION = 10;
-export const QUESTIONS_PER_SUBLEVEL = 100;
+export const QUESTIONS_PER_SUBLEVEL = 30;
 export const SUBLEVELS_PER_LEVEL = 3;
-export const QUESTIONS_PER_LEVEL = QUESTIONS_PER_SUBLEVEL * SUBLEVELS_PER_LEVEL; // 300
-export const TOTAL_QUESTIONS = 3300; // 11 levels (0–10) × 300 questions
+export const QUESTIONS_PER_LEVEL = QUESTIONS_PER_SUBLEVEL * SUBLEVELS_PER_LEVEL; // 90
+export const TOTAL_QUESTIONS = 900; // 10 levels × 90 questions
 
-/** Derive number of stars (0–3) from progress for a level. Used for migration and display. */
+
+/** Derive number of stars (0–5) from accuracy for a level. 20%→1, 40%→2, 60%→3, 80%→4, 95%→5. */
+export const getStarsFromAccuracy = (percentCorrect: number): number => {
+  if (percentCorrect >= 95) return 5;
+  if (percentCorrect >= 80) return 4;
+  if (percentCorrect >= 60) return 3;
+  if (percentCorrect >= 40) return 2;
+  if (percentCorrect >= 20) return 1;
+  return 0;
+};
+
+/** @deprecated Used only for migration when correctPerLevel is missing. Derives 0–3 stars from progress. */
 export const getStarsFromProgress = (progress: number): number => {
   if (progress >= QUESTIONS_PER_SUBLEVEL * 3) return 3;
   if (progress >= QUESTIONS_PER_SUBLEVEL * 2) return 2;
@@ -68,83 +79,97 @@ export const PERSONA_EMOJI: Record<PersonaStage, string> = {
   [PersonaStage.GOD_WHALE]: "🐳",
 };
 
-// Level configurations with personas and concepts (CLI/terminal focus). Level 0 = absolute beginner.
+// Level configurations with personas and concepts (Logical fallacies focus). Level 0 = absolute beginner.
 export const LEVELS: LevelInfo[] = [
-  {
-    level: 0,
-    persona: PersonaStage.TADPOLE,
-    concepts: ["terminal", "command", "keyboard", "prompt", "folder", "file", "path"],
-    description: "Complete beginner. Learn what a terminal is, what a command is, and basic computer terms—no prior knowledge assumed.",
-    color: "#94a3b8"
-  },
   {
     level: 1,
     persona: PersonaStage.PLANKTON,
-    concepts: ["terminal", "shell", "PATH", "exit codes", "globbing", "aliases"],
-    description: "Terminal and shell foundations. Learn what a terminal is, how the shell works, and basic navigation.",
+    conceptsEn: ["Ad Hominem", "Straw Man", "Appeal to Popularity", "Appeal to Authority", "False Dilemma"],
+    conceptsFr: ["Ad Hominem", "Homme de paille", "Appel à la popularité", "Appel à l'autorité", "Fausse dichotomie"],
+    concepts: ["Ad Hominem", "Straw Man", "Appeal to Popularity", "Appeal to Authority", "False Dilemma"],
+    description: "Common everyday fallacies I. Spot very obvious personal attacks, straw men, bad appeals to popularity or authority, and false dilemmas.",
     color: "#10b981"
   },
+
   {
     level: 2,
     persona: PersonaStage.SHRIMP,
-    concepts: ["filesystem", "paths", "inodes", "permissions", "links"],
-    description: "Filesystem and storage. Master paths, permissions, inodes, and symbolic links.",
+    conceptsEn: ["Red Herring", "Slippery Slope", "Hasty Generalization", "Weak Analogy", "Appeal to Emotion"],
+    conceptsFr: ["Fausse piste", "Pente glissante", "Généralisation hâtive", "Analogie faible", "Appel à l'émotion"],
+    concepts: ["Red Herring", "Slippery Slope", "Hasty Generalization", "Weak Analogy", "Appeal to Emotion"],
+    description: "Common everyday fallacies II. Learn to recognize diversions, slippery slopes, hasty generalizations, weak analogies, and emotional manipulation.",
     color: "#059669"
   },
   {
     level: 3,
     persona: PersonaStage.CRAB,
-    concepts: ["cat", "grep", "sed", "awk", "redirection", "pipes"],
-    description: "File and text processing. Learn cat, grep, redirection, and pipes.",
+    conceptsEn: ["Post Hoc", "Cum Hoc", "Reversed Causality", "Oversimplified Cause", "Confounding Factors"],
+    conceptsFr: ["Post hoc", "Cum hoc", "Cause inversée", "Cause simplifiée", "Facteurs confondants"],
+    concepts: ["Post Hoc", "Cum Hoc", "Reversed Causality", "Oversimplified Cause", "Confounding Factors"],
+    description: "Causal fallacies. Distinguish correlation from causation, reversed causality, oversimplified causes, and ignored confounders.",
     color: "#ec4899"
   },
   {
     level: 4,
     persona: PersonaStage.SMALL_FISH,
-    concepts: ["ps", "top", "kill", "cron", "systemd", "processes"],
-    description: "Process management. Master ps, top, kill, cron, and daemons.",
+    conceptsEn: ["Equivocation", "Amphiboly", "Loaded Question", "Vagueness", "Moving the Goalposts"],
+    conceptsFr: ["Équivoque", "Amphibologie", "Question piège", "Vagueness", "Déplacer les poteaux"],
+    concepts: ["Equivocation", "Amphiboly", "Loaded Question", "Vagueness", "Moving the Goalposts"],
+    description: "Ambiguity and language. Spot wordplay, grammatical ambiguity, loaded questions, vagueness, and shifting standards.",
     color: "#06b6d4"
   },
   {
     level: 5,
     persona: PersonaStage.OCTOPUS,
-    concepts: ["apt", "dnf", "brew", "snap", "flatpak", "make"],
-    description: "Package management. Learn apt, dnf, brew, and building from source.",
+    conceptsEn: ["Affirming the Consequent", "Denying the Antecedent", "Undistributed Middle"],
+    conceptsFr: ["Affirmation du conséquent", "Négation de l'antécédent", "Terme moyen non distribué"],
+    concepts: ["Affirming the Consequent", "Denying the Antecedent", "Undistributed Middle"],
+    description: "Formal fallacies I. Learn classic invalid argument forms such as affirming the consequent, denying the antecedent, and undistributed middle.",
     color: "#10b981"
   },
   {
     level: 6,
     persona: PersonaStage.SEAL,
-    concepts: ["TCP/IP", "DNS", "ping", "curl", "ssh", "scp", "rsync"],
-    description: "Networking basics. Master IP, ports, DNS, curl, and remote tools.",
+    conceptsEn: ["Quantifiers", "Logical Scope", "Valid vs Invalid Schemas"],
+    conceptsFr: ["Quantificateurs", "Portée logique", "Schémas valides vs invalides"],
+    concepts: ["Quantifiers", "Logical Scope", "Valid vs Invalid Schemas"],
+    description: "Formal fallacies II. Work with quantifiers, scope errors, and contrast invalid patterns with strange but valid arguments.",
     color: "#f59e0b"
   },
   {
     level: 7,
     persona: PersonaStage.DOLPHIN,
-    concepts: ["ip", "iptables", "nftables", "HTTP", "REST", "load balancing"],
-    description: "Advanced networking. Learn ip, firewalls, and web protocols.",
+    conceptsEn: ["Base Rate", "Gambler's Fallacy", "Prosecutor's Fallacy", "Survivorship Bias"],
+    conceptsFr: ["Fréquence de base", "Sophisme du joueur", "Sophisme du procureur", "Biais de survivance"],
+    concepts: ["Base Rate", "Gambler's Fallacy", "Prosecutor's Fallacy", "Survivorship Bias"],
+    description: "Probability and evidence. Understand base-rate neglect, gambler’s fallacy, prosecutor’s fallacy, cherry-picking, and survivorship bias.",
     color: "#3b82f6"
   },
   {
     level: 8,
     persona: PersonaStage.SHARK,
-    concepts: ["users", "PAM", "SSH hardening", "firewall", "SELinux", "GPG"],
-    description: "Security and hardening. Master user management, SSH, and encryption.",
+    conceptsEn: ["Poisoning the Well", "Framing Effect", "Motte-and-Bailey", "Insinuation"],
+    conceptsFr: ["Empoisonnement du puits", "Effet de cadrage", "Motte-et-bailey", "Insinuation"],
+    concepts: ["Poisoning the Well", "Framing Effect", "Motte-and-Bailey", "Insinuation"],
+    description: "Rhetorical manipulation and framing. Detect framing tricks, poisoning the well, and strategic retreat (motte‑et‑bailey).",
     color: "#ef4444"
   },
   {
     level: 9,
     persona: PersonaStage.WHALE,
-    concepts: ["recon", "enumeration", "Metasploit", "privilege escalation", "pentest"],
-    description: "Hacking and pentest concepts. Ethical hacking principles and tools.",
+    conceptsEn: ["Mixed Arguments", "Multi-Fallacy", "Primary vs Secondary"],
+    conceptsFr: ["Arguments mixtes", "Multi-sophismes", "Dominant vs secondaire"],
+    concepts: ["Mixed Arguments", "Multi-Fallacy", "Primary vs Secondary"],
+    description: "Mixed and multi-step fallacies. Analyze complex, real-world arguments that combine several fallacies at once.",
     color: "#059669"
   },
   {
     level: 10,
     persona: PersonaStage.GOD_WHALE,
-    concepts: ["Docker", "Kubernetes", "Git", "boot process", "Unix philosophy"],
-    description: "Containers, Git, boot process, and Unix philosophy. Master the full stack.",
+    conceptsEn: ["Misuse of Fallacy Labels", "Fallacy Fallacy", "Sound but Unpopular Reasoning"],
+    conceptsFr: ["Mauvais usage des étiquettes de sophisme", "Fallacy fallacy", "Raisonnements solides mais impopulaires"],
+    concepts: ["Misuse of Fallacy Labels", "Fallacy Fallacy", "Sound but Unpopular Reasoning"],
+    description: "Meta-logic and expert reasoning. Learn to spot misuse of fallacy labels, avoid the fallacy fallacy, and distinguish bad reasoning from mere disagreement.",
     color: "#1f2937"
   }
 ];
@@ -156,9 +181,15 @@ export interface GlossaryItem {
   levelRange: string;
   detailedDescription: string;
   example: string;
+  /** Short, simple implementation example (beginner). */
+  exampleBeginner?: string;
+  /** Medium-detail implementation example (intermediate). */
+  exampleIntermediate?: string;
+  /** Verbose, detailed implementation example (expert). */
+  exampleExpert?: string;
 }
 
-// Glossary data for the app (CLI/terminal terms)
-import { CLI_GLOSSARY } from './data/cliGlossary';
+// Glossary data for the app (Logical fallacies terms)
+import { GLOSSARY as CLI_GLOSSARY } from './data/cliGlossary';
 export const GLOSSARY: GlossaryItem[] = CLI_GLOSSARY;
 

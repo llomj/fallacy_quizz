@@ -495,7 +495,7 @@ export const MethodsView: React.FC<MethodsViewProps> = ({ onBack }) => {
     <div className="relative min-h-[600px] animate-in slide-in-from-left duration-500 pb-12">
       <div className="flex items-center justify-between mb-8">
         <h2 className="text-2xl font-black text-white flex items-center gap-3">
-          <i className="fas fa-code text-emerald-400"></i>
+          <i className="fas fa-code text-yellow-300"></i>
           {language === 'fr' ? 'Référence des commandes' : 'Command Reference'}
         </h2>
         <button

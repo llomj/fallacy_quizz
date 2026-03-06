@@ -74,11 +74,13 @@ export interface UserStats {
   completedQuestionIds: number[];
   highestUnlockedLevel: number;
   levelProgress: Record<number, number>;
+  /** Total correct answers per level (cumulative across all sessions). Used for accuracy-based star rating. */
+  correctPerLevel?: Record<number, number>;
   history: QuestionAttempt[];
   idLog: IdLogEntry[];
   lastSessionScore?: number;
   lastSessionTotal?: number;
-  acquiredStars?: Record<number, number>; // Maps level ID to number of stars (1 = Beginner, 2 = Intermediate, 3 = Expert)
+  acquiredStars?: Record<number, number>; // Maps level ID to stars 0–5 from accuracy (20/40/60/80/95%)
   randomModeStats?: RandomModeStats;
   randomMode?: boolean; // Persisted preference: Level vs Random mode
   stateVersion?: number; // For migrations (e.g. question ID shift when adding Level 0)
@@ -87,6 +89,11 @@ export interface UserStats {
 export interface LevelInfo {
   level: number;
   persona: PersonaStage;
+  /** Concept labels in English (for EN UI). */
+  conceptsEn: string[];
+  /** Concept labels in French (for FR UI). */
+  conceptsFr: string[];
+  /** @deprecated Use conceptsEn/conceptsFr by language. Kept for backward compat; equals conceptsEn. */
   concepts: string[];
   description: string;
   color: string;

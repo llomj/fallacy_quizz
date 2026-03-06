@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Question } from '../types';
-import { QUESTIONS_BANK } from '../questionsBank';
+import { getQuestionBank } from '../questionsBank';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
@@ -8,8 +8,6 @@ import { translateQuestionText, getQuestionDisplay } from '../utils/translateQue
 import { getTranslatedShortExplanation } from '../data/shortExplanationsTranslations';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
 import { splitQuestion, hasCodeLikeContent } from '../utils/splitQuestion';
-import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
-import { oneDark } from 'react-syntax-highlighter/dist/esm/styles/prism';
 
 const formatCodeSnippet = (text: string): string => {
   if (!text) return '';
@@ -160,7 +158,8 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
       return;
     }
 
-    const found = QUESTIONS_BANK.find(q => q.id === id);
+    const questionBank = getQuestionBank(language);
+    const found = questionBank.find(q => q.id === id);
     if (!found) {
       setError(formatTranslation(t('idSearch.questionNotFound'), { id }));
       setQuestion(null);
@@ -173,14 +172,14 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
 
   const handleSave = () => {
     if (!question) return;
-    
+
     onSaveToLog({
       id: question.id,
       question: question.question,
       correctAnswer: question.options[question.correct_option_index],
       explanation: question.explanation
     });
-    
+
     // Show confirmation
     const confirmBtn = document.getElementById('save-confirm');
     if (confirmBtn) {
@@ -202,7 +201,7 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
       <div className="glass rounded-3xl p-8 max-w-2xl w-full max-h-[90vh] overflow-y-auto space-y-6 animate-in zoom-in duration-300 shadow-2xl border border-white/10">
         <div className="flex items-center justify-between">
           <h2 className="text-2xl font-black text-white flex items-center gap-3">
-            <i className="fas fa-hashtag text-emerald-400"></i> {t('idSearch.searchById')}
+            <i className="fas fa-hashtag text-yellow-300"></i> {t('idSearch.searchById')}
           </h2>
           <button
             onClick={onClose}
@@ -220,13 +219,13 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
               onChange={(e) => setIdInput(e.target.value)}
               onKeyPress={handleKeyPress}
               placeholder={t('idSearch.enterId')}
-              className="flex-1 px-4 py-3 bg-white/5 border border-white/10 rounded-xl text-white placeholder-slate-500 focus:outline-none focus:border-emerald-500 focus:ring-2 focus:ring-emerald-500/20"
+              className="flex-1 px-4 py-3 bg-white/5 border border-white/10 rounded-xl text-white placeholder-slate-500 focus:outline-none focus:border-yellow-400 focus:ring-2 focus:ring-yellow-400/30"
               min="1"
               max="3000"
             />
             <button
               onClick={handleSearch}
-              className="px-6 py-3 bg-emerald-500 hover:bg-emerald-600 text-white rounded-xl font-bold transition-all"
+              className="px-6 py-3 bg-yellow-400 hover:bg-yellow-500 text-slate-900 rounded-xl font-bold transition-all"
             >
               <i className="fas fa-search mr-2"></i>{t('idSearch.search')}
             </button>
@@ -242,7 +241,7 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
             <div className="space-y-4 p-6 bg-white/5 rounded-2xl border border-white/10">
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-3">
-                  <span className="px-3 py-1 bg-emerald-500/10 text-emerald-400 rounded-lg text-xs font-bold">
+                  <span className="px-3 py-1 bg-yellow-500/10 text-yellow-300 rounded-lg text-xs font-bold">
                     ID: {question.id}
                   </span>
                   <span className="px-3 py-1 bg-slate-800 text-slate-300 rounded-lg text-xs font-bold">
@@ -252,7 +251,7 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
                 <button
                   id="save-confirm"
                   onClick={handleSave}
-                  className="px-4 py-2 bg-green-500 hover:bg-green-600 text-white rounded-xl text-sm font-bold transition-all flex items-center gap-2"
+                  className="px-4 py-2 bg-yellow-400 hover:bg-yellow-500 text-slate-900 rounded-xl text-sm font-bold transition-all flex items-center gap-2"
                 >
                   <i className="fas fa-bookmark"></i> {t('idSearch.saveToLog')}
                 </button>
@@ -269,66 +268,28 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
                           <div className="flex flex-col">
                             {prefix && (
                               <div className="px-4 pt-4 pb-2 border-b border-slate-700/50">
-                                <p className="text-white text-lg font-medium leading-relaxed">{prefix}</p>
+                                <p className="text-yellow-300 text-lg font-medium leading-relaxed">{prefix}</p>
                               </div>
                             )}
-                            <div className="overflow-x-auto flex-1">
-                              <SyntaxHighlighter
-                                language="bash"
-                                style={oneDark}
-                                customStyle={{
-                                  padding: '1rem',
-                                  margin: 0,
-                                  background: 'transparent',
-                                  fontSize: '0.875rem',
-                                  lineHeight: '1.75',
-                                  fontFamily: "'Fira Code', monospace"
-                                }}
-                                codeTagProps={{
-                                  style: {
-                                    fontFamily: "'Fira Code', monospace",
-                                    whiteSpace: 'pre',
-                                    display: 'block'
-                                  }
-                                }}
-                                PreTag="div"
-                              >
+                            <div className="p-4 overflow-x-hidden flex-1">
+                              <pre className="text-yellow-300 text-sm leading-7 font-['Fira_Code',_monospace] whitespace-pre-wrap">
                                 {formatCodeSnippet(code)}
-                              </SyntaxHighlighter>
+                              </pre>
                             </div>
                           </div>
                         );
                       }
                       if (hasCodeLikeContent(displayText)) {
                         return (
-                          <div className="overflow-x-auto flex-1">
-                            <SyntaxHighlighter
-                              language="bash"
-                              style={oneDark}
-                              customStyle={{
-                                padding: '1rem',
-                                margin: 0,
-                                background: 'transparent',
-                                fontSize: '0.875rem',
-                                lineHeight: '1.75',
-                                fontFamily: "'Fira Code', monospace"
-                              }}
-                              codeTagProps={{
-                                style: {
-                                  fontFamily: "'Fira Code', monospace",
-                                  whiteSpace: 'pre-wrap',
-                                  display: 'block'
-                                }
-                              }}
-                              PreTag="div"
-                            >
+                          <div className="p-4 overflow-x-hidden flex-1">
+                            <pre className="text-yellow-300 text-sm leading-7 font-['Fira_Code',_monospace] whitespace-pre-wrap">
                               {formatCodeSnippet(displayText)}
-                            </SyntaxHighlighter>
+                            </pre>
                           </div>
                         );
                       }
                       return (
-                        <h2 className="text-xl md:text-2xl font-bold leading-tight text-white px-4 pt-4">
+                        <h2 className="text-xl md:text-2xl font-bold leading-tight text-yellow-300 px-4 pt-4">
                           {displayText}
                         </h2>
                       );
@@ -344,15 +305,14 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
                   {displayContent!.options.map((option, idx) => (
                     <div
                       key={idx}
-                      className={`p-3 rounded-lg ${
-                        idx === question.correct_option_index
-                          ? 'bg-emerald-500/10 border border-emerald-500/20 text-emerald-400'
+                      className={`p-3 rounded-lg ${idx === question.correct_option_index
+                          ? 'bg-yellow-500/10 border border-yellow-400/30 text-yellow-300'
                           : 'bg-slate-800/50 border border-white/5 text-slate-300'
-                      }`}
+                        }`}
                     >
                       <div className="flex items-center gap-2">
                         {idx === question.correct_option_index && (
-                          <i className="fas fa-check-circle text-emerald-400"></i>
+                          <i className="fas fa-check-circle text-yellow-300"></i>
                         )}
                         <span className="font-mono text-xs mr-2">{String.fromCharCode(65 + idx)}.</span>
                         <span className={`whitespace-pre-wrap break-words ${showWhitespaceHints ? 'font-mono' : ''}`}>
@@ -371,37 +331,40 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
                   <p className="text-sm text-slate-300 leading-relaxed">
                     {getTranslatedShortExplanation(question.id, question.explanation, language)}
                   </p>
-                  {question.detailedExplanation && (
-                    <details className="mt-3">
-                      <summary className="cursor-pointer text-sm text-emerald-400 hover:text-emerald-300 font-bold">
-                        {t('idSearch.showDetailedExplanation')}
-                      </summary>
-                      <div className="mt-2 space-y-2">
-                        <label className="flex items-center gap-2 text-xs text-slate-500">
-                          <span>{t('idSearch.explanationLevel')}:</span>
-                          <select
-                            value={detailedExplanationLevel}
-                            onChange={(e) => setDetailedExplanationLevel(e.target.value as DetailedExplanationLevel)}
-                            className="bg-slate-800 border border-slate-600 rounded px-2 py-1 text-slate-300 text-xs focus:outline-none focus:ring-1 focus:ring-emerald-500"
-                          >
-                            <option value="beginner">{t('subLevels.beginner')}</option>
-                            <option value="intermediate">{t('subLevels.intermediate')}</option>
-                            <option value="expert">{t('subLevels.expert')}</option>
-                          </select>
-                        </label>
-                        <p className="text-sm text-slate-400 leading-relaxed whitespace-pre-line">
-                          {getTranslatedDetailedExplanation(
-                            question.id,
-                            getDetailedExplanationForLevel(question, detailedExplanationLevel) ?? '',
-                            language,
-                            detailedExplanationLevel,
-                            question.question,
-                            question.options[question.correct_option_index]
-                          )}
-                        </p>
-                      </div>
-                    </details>
-                  )}
+                  {(question.detailedExplanation ||
+                    question.detailedExplanationBeginner ||
+                    question.detailedExplanationIntermediate ||
+                    question.detailedExplanationExpert) && (
+                      <details className="mt-3">
+                        <summary className="cursor-pointer text-sm text-yellow-300 hover:text-yellow-200 font-bold">
+                          {t('idSearch.showDetailedExplanation')}
+                        </summary>
+                        <div className="mt-2 space-y-2">
+                          <label className="flex items-center gap-2 text-xs text-slate-500">
+                            <span>{t('idSearch.explanationLevel')}:</span>
+                            <select
+                              value={detailedExplanationLevel}
+                              onChange={(e) => setDetailedExplanationLevel(e.target.value as DetailedExplanationLevel)}
+                              className="bg-slate-800 border border-slate-600 rounded px-2 py-1 text-slate-300 text-xs focus:outline-none focus:ring-1 focus:ring-yellow-400"
+                            >
+                              <option value="beginner">{t('subLevels.beginner')}</option>
+                              <option value="intermediate">{t('subLevels.intermediate')}</option>
+                              <option value="expert">{t('subLevels.expert')}</option>
+                            </select>
+                          </label>
+                          <p className="text-sm text-slate-400 leading-relaxed whitespace-pre-line">
+                            {getTranslatedDetailedExplanation(
+                              question.id,
+                              getDetailedExplanationForLevel(question, detailedExplanationLevel) ?? '',
+                              language,
+                              detailedExplanationLevel,
+                              question.question,
+                              question.options[question.correct_option_index]
+                            )}
+                          </p>
+                        </div>
+                      </details>
+                    )}
                 </div>
               </div>
             </div>

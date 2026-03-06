@@ -3,11 +3,11 @@ import { UserStats, PersonaStage, QuestionAttempt } from './types';
 import { EvolutionHub } from './components/EvolutionHub';
 import { SettingsMenu } from './components/SettingsMenu';
 import { IdLogEntry } from './types';
-import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getStarsFromProgress, getRandomModeScore, getPersonaFromRandomScore, PERSONA_EMOJI } from './constants';
+import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getStarsFromAccuracy, getStarsFromProgress, getRandomModeScore, getPersonaFromRandomScore, PERSONA_EMOJI } from './constants';
 import { useLanguage } from './contexts/LanguageContext';
 import { formatTranslation } from './translations';
 
-const LOCAL_STORAGE_KEY = 'cli_exercises_learn_stats_v1';
+const LOCAL_STORAGE_KEY = 'logical_fallacies_learn_stats_v1';
 
 const playStarCelebrationSound = async () => {
   if (typeof window === 'undefined') return;
@@ -75,18 +75,20 @@ const playStarCelebrationSound = async () => {
 };
 
 const INITIAL_STATS: UserStats = {
-  currentLevel: 0,
+  currentLevel: 1,
   xp: 0,
   totalAttempts: 0,
   completedQuestionIds: [],
   highestUnlockedLevel: 1,
   levelProgress: {},
+  correctPerLevel: {},
   acquiredStars: {},
   history: [],
   idLog: [],
   randomModeStats: { totalAnswered: 0, totalCorrect: 0 },
   randomMode: false
 };
+
 
 const QuizView = lazy(() => import('./components/QuizView').then((module) => ({ default: module.QuizView })));
 const HistoryLog = lazy(() => import('./components/HistoryLog').then((module) => ({ default: module.HistoryLog })));
@@ -95,6 +97,7 @@ const OperationsView = lazy(() => import('./components/OperationsView').then((mo
 const MethodsView = lazy(() => import('./components/MethodsView').then((module) => ({ default: module.MethodsView })));
 const FlagsView = lazy(() => import('./components/FlagsView').then((module) => ({ default: module.FlagsView })));
 const FlowView = lazy(() => import('./components/FlowView').then((module) => ({ default: module.FlowView })));
+const ArgumentationView = lazy(() => import('./components/ArgumentationView').then((module) => ({ default: module.ArgumentationView })));
 const IdSearchModal = lazy(() => import('./components/IdSearchModal').then((module) => ({ default: module.IdSearchModal })));
 const IdLogView = lazy(() => import('./components/IdLogView').then((module) => ({ default: module.IdLogView })));
 const LevelSelectorModal = lazy(() => import('./components/LevelSelectorModal').then((module) => ({ default: module.LevelSelectorModal })));
@@ -128,6 +131,7 @@ const App: React.FC = () => {
   const [showIdSearch, setShowIdSearch] = useState(false);
   const [showIdLog, setShowIdLog] = useState(false);
   const [showLevelSelector, setShowLevelSelector] = useState(false);
+  const [showArgumentation, setShowArgumentation] = useState(false);
   const [showSettingsMenu, setShowSettingsMenu] = useState(false);
   const [showResetModal, setShowResetModal] = useState(false);
 
@@ -159,18 +163,37 @@ const App: React.FC = () => {
           );
           parsed.stateVersion = 2;
         }
-        // Migration: derive acquiredStars from levelProgress when missing or partial
+        // Migration (stateVersion 3): accuracy-based stars + correctPerLevel
         const levelProgress = parsed.levelProgress || {};
-        const existingStars = parsed.acquiredStars || {};
-        const migratedStars: Record<number, number> = { ...existingStars };
-        for (const level of [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]) {
-          const progress = levelProgress[level] || 0;
-          const derivedStars = getStarsFromProgress(progress);
-          if (derivedStars > (existingStars[level] || 0)) {
-            migratedStars[level] = derivedStars;
+        const history = Array.isArray(parsed.history) ? parsed.history : [];
+        const levels = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+        if (parsed.stateVersion < 3) {
+          const correctPerLevel: Record<number, number> = parsed.correctPerLevel || {};
+          for (const level of levels) {
+            const atLevel = history.filter((a: QuestionAttempt) => a.level === level);
+            const totalInHistory = atLevel.length;
+            const correctInHistory = atLevel.filter((a: QuestionAttempt) => a.isCorrect).length;
+            if (totalInHistory > 0) {
+              correctPerLevel[level] = correctInHistory;
+              const prevProgress = levelProgress[level] || 0;
+              levelProgress[level] = Math.max(prevProgress, totalInHistory);
+            }
           }
+          parsed.correctPerLevel = correctPerLevel;
+          parsed.levelProgress = levelProgress;
+          const migratedStars: Record<number, number> = {};
+          for (const level of levels) {
+            const progress = levelProgress[level] || 0;
+            const correct = parsed.correctPerLevel[level] || 0;
+            if (progress > 0) {
+              migratedStars[level] = getStarsFromAccuracy((100 * correct) / progress);
+            }
+          }
+          parsed.acquiredStars = { ...(parsed.acquiredStars || {}), ...migratedStars };
+          parsed.stateVersion = 3;
+        } else if (!parsed.correctPerLevel) {
+          parsed.correctPerLevel = {};
         }
-        parsed.acquiredStars = migratedStars;
         // Migration: Random mode stats for dual-mode progression
         if (!parsed.randomModeStats) {
           parsed.randomModeStats = { totalAnswered: 0, totalCorrect: 0 };
@@ -304,27 +327,33 @@ const App: React.FC = () => {
         newPersona: getPersonaFromRandomScore(newScore)
       });
     } else {
-      // Level mode: update levelProgress, stars, currentLevel
+      // Level mode: update correctPerLevel, levelProgress (no cap), stars from accuracy, unlock when crossing 90
       setStats(prev => {
         const newXp = prev.xp + xpGained;
         const currentLevelProgress = prev.levelProgress[prev.currentLevel] || 0;
-        const newLevelProgress = Math.min(QUESTIONS_PER_LEVEL, currentLevelProgress + total);
+        const newLevelProgress = currentLevelProgress + total;
+
+        const currentCorrect = prev.correctPerLevel?.[prev.currentLevel] || 0;
+        const newCorrect = currentCorrect + score;
 
         const updatedLevelProgress = {
           ...prev.levelProgress,
           [prev.currentLevel]: newLevelProgress
         };
+        const updatedCorrectPerLevel = {
+          ...(prev.correctPerLevel || {}),
+          [prev.currentLevel]: newCorrect
+        };
 
-        const currentStars = prev.acquiredStars?.[prev.currentLevel] || 0;
-        const newStars = Math.max(currentStars, getStarsFromProgress(newLevelProgress));
-
+        const percentCorrect = newLevelProgress > 0 ? (100 * newCorrect) / newLevelProgress : 0;
+        const newStars = getStarsFromAccuracy(percentCorrect);
         const updatedAcquiredStars = {
           ...(prev.acquiredStars || {}),
-          [prev.currentLevel]: Math.max(currentStars, newStars)
+          [prev.currentLevel]: newStars
         };
 
         let newLevel = prev.currentLevel;
-        if (newLevelProgress >= QUESTIONS_PER_LEVEL && newLevel < 10) {
+        if (currentLevelProgress < QUESTIONS_PER_LEVEL && newLevelProgress >= QUESTIONS_PER_LEVEL && newLevel < 10) {
           newLevel += 1;
         }
 
@@ -334,6 +363,7 @@ const App: React.FC = () => {
           currentLevel: newLevel,
           highestUnlockedLevel: Math.max(prev.highestUnlockedLevel, newLevel),
           levelProgress: updatedLevelProgress,
+          correctPerLevel: updatedCorrectPerLevel,
           acquiredStars: updatedAcquiredStars,
           lastSessionScore: score,
           lastSessionTotal: total
@@ -341,9 +371,12 @@ const App: React.FC = () => {
       });
 
       const currentLevelProgress = stats.levelProgress[stats.currentLevel] || 0;
-      const newLevelProgress = Math.min(QUESTIONS_PER_LEVEL, currentLevelProgress + total);
+      const newLevelProgress = currentLevelProgress + total;
+      const currentCorrect = stats.correctPerLevel?.[stats.currentLevel] || 0;
+      const newCorrect = currentCorrect + score;
+      const percentCorrect = newLevelProgress > 0 ? (100 * newCorrect) / newLevelProgress : 0;
+      const newStars = getStarsFromAccuracy(percentCorrect);
       const currentStars = stats.acquiredStars?.[stats.currentLevel] || 0;
-      const newStars = Math.max(currentStars, getStarsFromProgress(newLevelProgress));
       const starEarned = newStars > currentStars ? newStars : null;
 
       setShowResult({ score, total, starEarned });
@@ -353,21 +386,24 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-200 selection:bg-emerald-500/30 pb-28">
+    <div className="min-h-screen bg-slate-950 text-slate-200 selection:bg-yellow-400/30 pb-28">
       <nav className="pt-[env(safe-area-inset-top)] px-2 pb-1.5 flex items-center justify-between border-b border-white/5 sticky top-0 z-50 glass">
         <div className="flex w-full items-center gap-4">
           <div className="flex items-center gap-2 cursor-pointer" onClick={() => setView('hub')}>
-            <div className="w-8 h-8 rounded-lg bg-emerald-500 flex items-center justify-center shadow-lg shadow-emerald-500/20">
-              <i className="fas fa-terminal text-white text-xs"></i>
+            <div className="w-8 h-8 rounded-lg bg-[#FF00FF] flex items-center justify-center shadow-lg shadow-fuchsia-500/40">
+              <i className="fas fa-brain text-white text-xs"></i>
             </div>
-            <span className="font-bold text-lg tracking-tight hidden sm:inline">{t('app.title')}<span className="text-emerald-400">{t('app.subtitle')}</span></span>
+            <span className="font-bold text-lg tracking-tight hidden sm:inline">
+              {t('app.title')}
+              <span className="text-yellow-300">{t('app.subtitle')}</span>
+            </span>
           </div>
 
           <div className="h-8 w-[1px] bg-white/10 mx-2 hidden sm:block"></div>
 
           <div className="flex items-center gap-2">
             <div className="flex items-center gap-3 bg-white/5 px-3 py-1.5 rounded-2xl border border-white/10">
-              <div className="w-8 h-8 rounded-full bg-gradient-to-br from-emerald-500 to-green-600 flex items-center justify-center text-sm">
+              <div className="w-8 h-8 rounded-full bg-gradient-to-br from-yellow-300 to-[#FF00FF] flex items-center justify-center text-sm">
                 <span className="text-white">{PERSONA_EMOJI[currentPersona] ?? '🐟'}</span>
               </div>
               <div className="flex flex-col">
@@ -377,8 +413,8 @@ const App: React.FC = () => {
             </div>
 
             <div className="flex items-center gap-2">
-              <i className="fas fa-bolt text-amber-400 text-sm"></i>
-              <span className="text-sm font-bold text-emerald-400">{stats.xp.toLocaleString()}</span>
+              <i className="fas fa-bolt text-yellow-300 text-sm"></i>
+              <span className="text-sm font-bold text-[#FF00FF]">{stats.xp.toLocaleString()}</span>
             </div>
           </div>
 
@@ -408,19 +444,16 @@ const App: React.FC = () => {
         onClose={() => setShowSettingsMenu(false)}
         view={view}
         anchorBottom
-          randomMode={randomMode}
-          onToggleRandomMode={view === 'hub' || view === 'quiz' ? handleRandomModeToggle : undefined}
-          onShowGlossary={view === 'hub' ? () => setView('glossary') : undefined}
-          onShowMethods={() => setShowMethods(true)}
-          onShowFlags={() => setShowFlags(true)}
-          onShowFlow={() => setShowFlow(true)}
-          onShowIdSearch={view === 'hub' ? () => setShowIdSearch(true) : undefined}
-          onShowIdLog={() => setShowIdLog(true)}
-          onShowLearningLog={() => setView('log')}
-          onShowOperations={view === 'quiz' ? () => setShowOperations(true) : undefined}
-          onShowLevelSelector={() => setShowLevelSelector(true)}
-          onToggleLanguage={toggleLanguage}
-          onResetApp={() => setShowResetModal(true)}
+        randomMode={randomMode}
+        onToggleRandomMode={view === 'hub' || view === 'quiz' ? handleRandomModeToggle : undefined}
+        onShowGlossary={view === 'hub' ? () => setView('glossary') : undefined}
+        onShowArgumentation={() => setShowArgumentation(true)}
+        onShowIdSearch={view === 'hub' ? () => setShowIdSearch(true) : undefined}
+        onShowIdLog={() => setShowIdLog(true)}
+        onShowLearningLog={() => setView('log')}
+        onShowLevelSelector={() => setShowLevelSelector(true)}
+        onToggleLanguage={toggleLanguage}
+        onResetApp={() => setShowResetModal(true)}
       />
 
       <main className="container mx-auto px-4 py-1 max-w-4xl min-h-[calc(100dvh-160px)]">
@@ -464,7 +497,7 @@ const App: React.FC = () => {
                 </div>
               </div>
             ) : (
-              <div className="w-24 h-24 rounded-full bg-emerald-500/20 text-emerald-500 flex items-center justify-center text-5xl mx-auto shadow-2xl shadow-emerald-500/20 border border-emerald-500/30">
+              <div className="w-24 h-24 rounded-full bg-yellow-400/15 text-yellow-300 flex items-center justify-center text-5xl mx-auto shadow-2xl shadow-yellow-400/20 border border-yellow-400/30">
                 <i className="fas fa-arrow-up-right-dots"></i>
               </div>
             )}
@@ -474,11 +507,7 @@ const App: React.FC = () => {
                 <>
                   <h2 className="text-3xl font-black mb-2 text-amber-400 bg-clip-text">{t('subLevels.subLevelComplete')}</h2>
                   <p className="text-slate-300">
-                    {formatTranslation(t('subLevels.youEarnedStar'), {
-                      star: showResult.starEarned === 1 ? t('subLevels.beginner')
-                        : showResult.starEarned === 2 ? t('subLevels.intermediate')
-                        : t('subLevels.expert')
-                    })}
+                    {formatTranslation(t('subLevels.youEarnedStarsCount'), { count: showResult.starEarned })}
                   </p>
                 </>
               ) : (
@@ -501,7 +530,7 @@ const App: React.FC = () => {
               {showResult.randomMode && showResult.prevScore !== undefined && showResult.newScore !== undefined && showResult.newPersona && (
                 <div className="w-full mt-2 pt-2 border-t border-white/10">
                   <div className="text-xs text-slate-500 uppercase font-bold mb-1 tracking-wider">{t('result.evolutionScore')}</div>
-                  <div className="text-lg font-black text-emerald-400">
+                  <div className="text-lg font-black text-yellow-300">
                     {showResult.prevScore} → {showResult.newScore} <span className="text-slate-400 font-normal">({showResult.newPersona})</span>
                   </div>
                 </div>
@@ -511,8 +540,8 @@ const App: React.FC = () => {
             <button
               onClick={() => setShowResult(null)}
               className={`w-full py-4 rounded-2xl font-bold text-white transition-all transform active:scale-95 shadow-xl relative z-10 ${showResult.starEarned
-                  ? 'bg-amber-500 hover:bg-amber-600 shadow-amber-500/30 text-amber-950 text-lg'
-                  : 'bg-emerald-500 hover:bg-emerald-600 shadow-emerald-500/30'
+                ? 'bg-amber-500 hover:bg-amber-600 shadow-amber-500/30 text-amber-950 text-lg'
+                : 'bg-yellow-400 hover:bg-yellow-500 shadow-yellow-400/30 text-slate-900'
                 }`}
             >
               {showResult.starEarned ? t('subLevels.continueEvolution') : t('result.backToHub')}
@@ -575,6 +604,17 @@ const App: React.FC = () => {
         </div>
       )}
 
+      {/* Logical Rules & Argumentation Modal */}
+      {showArgumentation && (
+        <div className="fixed inset-0 z-[100] bg-slate-950 overflow-y-auto">
+          <div className="container mx-auto px-4 py-8 max-w-4xl">
+            <Suspense fallback={<ViewLoading />}>
+              <ArgumentationView onBack={() => setShowArgumentation(false)} />
+            </Suspense>
+          </div>
+        </div>
+      )}
+
       {/* Reset App Confirmation Modal */}
       {showResetModal && (
         <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-[60] flex items-center justify-center p-4">
@@ -613,7 +653,7 @@ const App: React.FC = () => {
         <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4">
           <div className="glass rounded-3xl p-8 max-w-md w-full space-y-6 animate-in zoom-in duration-300 shadow-2xl border border-white/10">
             <div className="text-center space-y-4">
-              <div className={`w-16 h-16 rounded-full mx-auto flex items-center justify-center text-3xl ${randomMode ? 'bg-emerald-500/20 text-emerald-400' : 'bg-green-500/20 text-green-400'
+              <div className={`w-16 h-16 rounded-full mx-auto flex items-center justify-center text-3xl ${randomMode ? 'bg-amber-400/20 text-amber-300' : 'bg-yellow-400/20 text-yellow-300'
                 }`}>
                 <i className={`fas ${randomMode ? 'fa-layer-group' : 'fa-shuffle'}`}></i>
               </div>
@@ -634,8 +674,8 @@ const App: React.FC = () => {
               <button
                 onClick={randomMode ? confirmLevelMode : confirmRandomMode}
                 className={`flex-1 py-3 rounded-xl font-bold text-white transition-all ${randomMode
-                  ? 'bg-emerald-500 hover:bg-emerald-600 shadow-xl shadow-emerald-500/30'
-                  : 'bg-green-500 hover:bg-green-600 shadow-xl shadow-green-500/30'
+                  ? 'bg-amber-500 hover:bg-amber-600 shadow-xl shadow-amber-500/30'
+                  : 'bg-yellow-500 hover:bg-yellow-600 shadow-xl shadow-yellow-500/30'
                   }`}
               >
                 {randomMode ? t('randomMode.levelMode') : t('randomMode.randomMode')}

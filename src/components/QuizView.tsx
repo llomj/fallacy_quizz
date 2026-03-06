@@ -3,8 +3,6 @@ import { Question, QuestionAttempt } from '../types';
 import { quizService } from '../services/quizService';
 import { ProgressBar } from './ProgressBar';
 import { LEVELS, getRandomModeScore } from '../constants';
-import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
-import { oneDark } from 'react-syntax-highlighter/dist/esm/styles/prism';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
@@ -778,7 +776,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
       try {
         setLoading(true);
         // Fetch questions based on mode: level-specific or random from all levels
-        const data = await quizService.getBatch(level, 15, initialCompletedIds.current, randomMode);
+        const data = await quizService.getBatch(level, 15, initialCompletedIds.current, randomMode, language);
         // Shuffle options for each question so correct answer isn't always first
         const shuffledQuestions = data.map(shuffleOptions);
         setQuestions(shuffledQuestions);
@@ -788,7 +786,6 @@ export const QuizView: React.FC<QuizViewProps> = ({
         setIsAnswered(false);
         setScore(0);
         setShowDetailedExplanation(false);
-        setScoreJustIncreased(false);
         sessionCorrectRef.current = 0;
       } catch (err) {
         console.error("Failed to load genome batch:", err);
@@ -797,9 +794,9 @@ export const QuizView: React.FC<QuizViewProps> = ({
       }
     };
     fetchQuestions();
-    // Dependency on 'level', 'randomizeTrigger', and 'randomMode'. If any changes, we reset.
+    // Dependency on 'level', 'randomizeTrigger', 'randomMode', and 'language'. If any changes, we reset.
     // If completedIds (passed from props) changes, we do NOT re-run this.
-  }, [level, randomizeTrigger, randomMode]);
+  }, [level, randomizeTrigger, randomMode, language]);
 
   const handleOptionClick = (index: number) => {
     if (isAnswered) return;
@@ -854,9 +851,9 @@ export const QuizView: React.FC<QuizViewProps> = ({
     return (
       <div className="flex flex-col items-center justify-center min-h-[400px] space-y-6 text-center">
         <div className="relative">
-          <div className="animate-spin rounded-full h-16 w-16 border-t-2 border-b-2 border-emerald-500"></div>
+          <div className="animate-spin rounded-full h-16 w-16 border-t-2 border-b-2 border-yellow-300"></div>
           <div className="absolute inset-0 flex items-center justify-center">
-            <i className="fas fa-dna text-emerald-400 animate-pulse"></i>
+            <i className="fas fa-dna text-yellow-300 animate-pulse"></i>
           </div>
         </div>
         <div className="space-y-2">
@@ -873,7 +870,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
     <div className="text-center p-12 glass rounded-3xl">
       <p className="text-rose-400 font-bold mb-4">{t('quiz.sequenceError')}</p>
       <p className="text-slate-400 text-sm mb-6">{t('quiz.couldNotRetrieve')}</p>
-      <button onClick={onExit} className="px-6 py-2 bg-emerald-500 rounded-xl font-bold">{t('quiz.returnToHub')}</button>
+      <button onClick={onExit} className="px-6 py-2 bg-yellow-400 text-slate-900 rounded-xl font-bold">{t('quiz.returnToHub')}</button>
     </div>
   );
 
@@ -892,6 +889,13 @@ export const QuizView: React.FC<QuizViewProps> = ({
   );
   const isIdSaved = savedIdLogIds.includes(currentQuestion.id) || justSavedId === currentQuestion.id;
   const showWhitespaceHints = shouldVisualizeOptionWhitespace(displayOptions);
+  const hasDetailedExplanation =
+    !!(
+      currentQuestion.detailedExplanation ||
+      currentQuestion.detailedExplanationBeginner ||
+      currentQuestion.detailedExplanationIntermediate ||
+      currentQuestion.detailedExplanationExpert
+    );
 
   // Live evolution score for Random mode: base stats + session progress
   // Use sessionCorrectRef so it updates immediately (score state may lag)
@@ -900,22 +904,22 @@ export const QuizView: React.FC<QuizViewProps> = ({
   const base = randomModeStats ?? { totalAnswered: 0, totalCorrect: 0 };
   const liveRandomStats = randomMode
     ? {
-        totalAnswered: base.totalAnswered + sessionAnswered,
-        totalCorrect: base.totalCorrect + sessionCorrect
-      }
+      totalAnswered: base.totalAnswered + sessionAnswered,
+      totalCorrect: base.totalCorrect + sessionCorrect
+    }
     : null;
   const liveEvolutionScore = liveRandomStats ? getRandomModeScore(liveRandomStats) : null;
 
   return (
     <div className="max-w-2xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <div className="flex justify-between items-center bg-white/5 p-4 rounded-2xl border border-white/5">
+      <div className="flex justify-between items-center bg-slate-900/40 backdrop-blur-xl p-4 rounded-2xl border border-white/10">
         <button onClick={onExit} className="w-10 h-10 flex items-center justify-center rounded-xl bg-slate-800 text-slate-400 hover:text-white transition-colors border border-white/5">
           <i className="fas fa-times"></i>
         </button>
         <div className="flex-1 min-w-0 px-6 overflow-x-auto overflow-y-hidden">
           <div className="flex justify-between items-center gap-6 text-[10px] font-black tracking-[0.2em] mb-1.5 min-w-max">
             <div className="flex items-center gap-3 shrink-0">
-              <span className="text-emerald-400">
+              <span className="text-yellow-300">
                 {currentQuestion.subLevel === 'Beginner' && t('subLevels.beginnerCaps')}
                 {currentQuestion.subLevel === 'Intermediate' && t('subLevels.intermediateCaps')}
                 {currentQuestion.subLevel === 'Expert' && t('subLevels.expertCaps')}
@@ -939,32 +943,31 @@ export const QuizView: React.FC<QuizViewProps> = ({
             </div>
             <div className="flex gap-4 items-center shrink-0">
               {liveEvolutionScore !== null && (
-                <span className="text-emerald-400">
+                <span className="text-yellow-300">
                   {t('quiz.evolutionPoints')}: {liveEvolutionScore}
                 </span>
               )}
-              <span className="text-emerald-400">
+              <span className="text-yellow-300">
                 {formatTranslation(t('quiz.mutationOf'), { current: currentIndex + 1, total: questions.length })}
               </span>
               <span className="text-slate-400">{Math.round(((currentIndex + 1) / questions.length) * 100)}%</span>
             </div>
           </div>
-          <ProgressBar current={currentIndex + 1} total={questions.length} colorClass="bg-emerald-500" />
+          <ProgressBar current={currentIndex + 1} total={questions.length} colorClass="bg-yellow-400" />
         </div>
       </div>
 
-      <div className="glass rounded-3xl p-6 md:p-10 space-y-8 shadow-2xl relative overflow-hidden">
+      <div className="rounded-3xl p-6 md:p-10 space-y-8 shadow-2xl relative overflow-hidden bg-slate-950/40 backdrop-blur-2xl border border-white/10">
         <div className="absolute top-3 left-3 z-10 flex items-center gap-2">
-          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 text-emerald-400 text-[10px] font-black uppercase tracking-[0.2em] border border-emerald-500/20">
+          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-yellow-400/10 text-yellow-300 text-[10px] font-black uppercase tracking-[0.2em] border border-yellow-400/40">
             {currentQuestion.concept}
           </div>
           <button
             onClick={handleSaveCurrentId}
-            className={`inline-flex items-center gap-2 px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.2em] border transition-colors ${
-              isIdSaved
-                ? 'bg-emerald-500/20 text-emerald-300 border-emerald-500/40'
-                : 'bg-slate-700/50 text-slate-300 border-slate-600/50 hover:bg-slate-700/70'
-            }`}
+            className={`inline-flex items-center gap-2 px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.2em] border transition-colors ${isIdSaved
+              ? 'bg-[#FF00FF]/20 text-[#FF00FF] border-[#FF00FF]/40'
+              : 'bg-slate-700/50 text-slate-300 border-slate-600/50 hover:bg-slate-700/70'
+              }`}
             title={isIdSaved ? t('idSearch.saved') : t('idSearch.saveToLog')}
             type="button"
           >
@@ -974,7 +977,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
         </div>
 
         <div className="space-y-4 pt-8">
-          <div className="max-h-[70vh] overflow-y-auto overflow-x-hidden bg-slate-800 rounded-lg">
+          <div className="max-h-[70vh] overflow-y-auto overflow-x-hidden bg-slate-900/60 rounded-lg border border-white/5">
             {(() => {
               const { prefix, code } = splitQuestion(displayQuestion, language);
               const displayText = displayQuestion;
@@ -985,69 +988,21 @@ export const QuizView: React.FC<QuizViewProps> = ({
                     {/* Question text always grouped at the top */}
                     {prefix && (
                       <div className="px-4 pt-4 pb-2 border-b border-slate-700/50">
-                        <p className="text-white text-lg font-medium leading-relaxed">{prefix}</p>
+                        <p className="text-yellow-300 text-lg font-medium leading-relaxed">{prefix}</p>
                       </div>
                     )}
-                    {/* Code snippet below with proper formatting */}
-                    <div className="overflow-x-auto flex-1">
-                      <SyntaxHighlighter
-                        language="bash"
-                        style={oneDark}
-                        customStyle={{
-                          padding: '1rem',
-                          margin: 0,
-                          background: 'transparent',
-                          fontSize: '0.875rem',
-                          lineHeight: '1.75',
-                          fontFamily: "'Fira Code', monospace"
-                        }}
-                        codeTagProps={{
-                          style: {
-                            fontFamily: "'Fira Code', monospace",
-                            whiteSpace: 'pre',
-                            display: 'block'
-                          }
-                        }}
-                        PreTag="div"
-                      >
+                    {/* Code snippet below with proper monochromatic yellow color */}
+                    <div className="p-4 overflow-x-hidden flex-1">
+                      <pre className="text-yellow-300 text-sm leading-7 font-['Fira_Code',_monospace] whitespace-pre-wrap">
                         {formatCodeSnippet(code)}
-                      </SyntaxHighlighter>
+                      </pre>
                     </div>
                   </div>
                 );
               }
-              // No split, but question has code-like content — use syntax highlighting for entire question
-              if (hasCodeLikeContent(displayText)) {
-                return (
-                  <div className="overflow-x-auto flex-1">
-                    <SyntaxHighlighter
-                      language="bash"
-                      style={oneDark}
-                      customStyle={{
-                        padding: '1rem',
-                        margin: 0,
-                        background: 'transparent',
-                        fontSize: '0.875rem',
-                        lineHeight: '1.75',
-                        fontFamily: "'Fira Code', monospace"
-                      }}
-                      codeTagProps={{
-                        style: {
-                          fontFamily: "'Fira Code', monospace",
-                          whiteSpace: 'pre-wrap',
-                          display: 'block'
-                        }
-                      }}
-                      PreTag="div"
-                    >
-                      {formatCodeSnippet(displayText)}
-                    </SyntaxHighlighter>
-                  </div>
-                );
-              }
-              // No code detected, show as regular question
+              // No code block: always white for logical fallacies and other prose (AGENTS.md §10).
               return (
-                <h2 className="text-xl md:text-2xl font-bold leading-tight text-white px-4 pt-4">
+                <h2 className="text-base md:text-lg font-semibold leading-relaxed text-white px-6 py-5">
                   {displayText}
                 </h2>
               );
@@ -1062,14 +1017,19 @@ export const QuizView: React.FC<QuizViewProps> = ({
             </div>
           )}
           {displayOptions.map((option, idx) => {
-            let colorClass = "bg-slate-800/50 border-white/5 hover:border-emerald-500/50 hover:bg-slate-800";
+            // Base yellow-themed styling for all options
+            let colorClass = "bg-slate-900/35 border-yellow-500/30 text-slate-100 hover:bg-yellow-500/10 hover:border-yellow-400/60";
+
             if (isAnswered) {
               if (idx === currentQuestion.correct_option_index) {
-                colorClass = "bg-emerald-500/20 border-emerald-500 text-emerald-400 shadow-lg shadow-emerald-500/10";
+                // Correct answer: brightest yellow emphasis
+                colorClass = "bg-yellow-400/18 border-yellow-300/90 text-yellow-50 shadow-lg shadow-yellow-400/25";
               } else if (idx === selectedOption) {
-                colorClass = "bg-rose-500/20 border-rose-500 text-rose-400 shadow-lg shadow-rose-500/10";
+                // Selected but incorrect: wrong-answer panel lights up with #FF00FF
+                colorClass = "bg-[#FF00FF]/10 border-2 border-[#FF00FF] text-slate-100 shadow-[0_0_16px_rgba(255,0,255,0.3)]";
               } else {
-                colorClass = "bg-slate-900/40 border-white/5 text-slate-500";
+                // Non-selected options: neutral dark panel
+                colorClass = "bg-slate-950/55 border-slate-800/80 text-slate-400";
               }
             }
 
@@ -1081,9 +1041,12 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 className={`group w-full p-4 md:p-5 rounded-2xl border-2 text-left transition-all duration-300 flex items-center justify-between ${colorClass} ${!isAnswered && 'active:scale-[0.98]'}`}
               >
                 <div className="flex items-center gap-4">
-                  <div className={`w-8 h-8 rounded-lg flex items-center justify-center text-xs font-bold transition-colors ${isAnswered && idx === currentQuestion.correct_option_index ? 'bg-emerald-500 text-white' :
-                    isAnswered && idx === selectedOption ? 'bg-rose-500 text-white' : 'bg-white/5 text-slate-400 group-hover:bg-emerald-500 group-hover:text-white'
-                    }`}>
+                  <div
+                    className={`w-8 h-8 rounded-lg flex items-center justify-center text-xs font-bold transition-colors ${isAnswered && idx === currentQuestion.correct_option_index
+                      ? 'bg-yellow-400 text-slate-900'
+                      : 'bg-slate-800 text-slate-200 group-hover:bg-yellow-400 group-hover:text-slate-900'
+                      }`}
+                  >
                     {String.fromCharCode(65 + idx)}
                   </div>
                   <span className={`font-semibold text-sm md:text-base whitespace-pre-wrap break-words ${showWhitespaceHints ? 'font-mono' : ''}`}>
@@ -1091,10 +1054,10 @@ export const QuizView: React.FC<QuizViewProps> = ({
                   </span>
                 </div>
                 {isAnswered && idx === currentQuestion.correct_option_index && (
-                  <i className="fas fa-check-circle text-emerald-500 animate-in zoom-in duration-300"></i>
+                  <i className="fas fa-check-circle text-yellow-300 animate-in zoom-in duration-300"></i>
                 )}
                 {isAnswered && idx === selectedOption && idx !== currentQuestion.correct_option_index && (
-                  <i className="fas fa-times-circle text-rose-500 animate-in zoom-in duration-300"></i>
+                  <i className="fas fa-times-circle text-yellow-500 animate-in zoom-in duration-300"></i>
                 )}
               </button>
             );
@@ -1103,23 +1066,23 @@ export const QuizView: React.FC<QuizViewProps> = ({
 
         {isAnswered && (
           <div className="animate-in slide-in-from-bottom-4 duration-500 space-y-6 pt-4">
-            <div className="p-6 rounded-2xl bg-emerald-500/10 border border-emerald-500/20">
-              {currentQuestion.detailedExplanation ? (
+            <div className="p-6 rounded-2xl bg-yellow-400/10 border border-yellow-400/40">
+              {hasDetailedExplanation ? (
                 <button
                   onClick={() => setShowDetailedExplanation(!showDetailedExplanation)}
-                  className="w-full flex items-center justify-between gap-2 mb-3 text-emerald-400 hover:text-emerald-300 transition-colors group cursor-pointer"
+                  className="w-full flex items-center justify-between gap-2 mb-3 text-yellow-300 hover:text-yellow-200 transition-colors group cursor-pointer"
                 >
                   <div className="flex items-center gap-2">
                     <i className="fas fa-lightbulb text-sm"></i>
                     <h4 className="font-black text-[10px] uppercase tracking-[0.2em]">{t('idLog.codonExplanation')}</h4>
-                    <span className="text-[9px] text-emerald-500/70 font-normal normal-case">
+                    <span className="text-[9px] text-yellow-300/80 font-normal normal-case">
                       {showDetailedExplanation ? `(${t('quiz.hideExplanation')})` : `(${t('quiz.showExplanation')})`}
                     </span>
                   </div>
                   <i className={`fas fa-chevron-${showDetailedExplanation ? 'up' : 'down'} text-xs transition-transform group-hover:scale-110`}></i>
                 </button>
               ) : (
-                <div className="flex items-center gap-2 mb-3 text-emerald-400">
+                <div className="flex items-center gap-2 mb-3 text-yellow-300">
                   <i className="fas fa-lightbulb text-sm"></i>
                   <h4 className="font-black text-[10px] uppercase tracking-[0.2em]">{t('idLog.codonExplanation')}</h4>
                 </div>
@@ -1131,41 +1094,22 @@ export const QuizView: React.FC<QuizViewProps> = ({
                     ? translateText(shortExp, language)
                     : shortExp;
                   return currentQuestion.explanation.match(/\b(def|print|for|if|while|class|import)\b/) ? (
-                    <div className="overflow-x-auto bg-slate-900 rounded-lg">
-                      <SyntaxHighlighter
-                        language="bash"
-                        style={oneDark}
-                        customStyle={{
-                          padding: '1rem',
-                          margin: 0,
-                          background: 'transparent',
-                          fontSize: '0.875rem',
-                          lineHeight: '1.5',
-                          fontFamily: "'Fira Code', monospace"
-                        }}
-                        codeTagProps={{
-                          style: {
-                            fontFamily: "'Fira Code', monospace",
-                            whiteSpace: 'pre',
-                            display: 'block'
-                          }
-                        }}
-                        PreTag="div"
-                      >
+                    <div className="p-4 overflow-x-hidden bg-slate-900 rounded-lg">
+                      <pre className="text-yellow-300 text-sm leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
                         {formatCodeSnippet(displayShortExp)}
-                      </SyntaxHighlighter>
+                      </pre>
                     </div>
                   ) : (
-                    <p className="text-slate-300 leading-relaxed text-sm font-medium whitespace-pre-wrap">
+                    <p className="text-yellow-300 leading-relaxed text-sm font-medium whitespace-pre-wrap">
                       {displayShortExp}
                     </p>
                   );
                 })()}
-                {showDetailedExplanation && currentQuestion.detailedExplanation && (
-                  <div className="animate-in slide-in-from-top-4 duration-300 pt-4 border-t border-emerald-500/20 space-y-6">
+                {showDetailedExplanation && hasDetailedExplanation && (
+                  <div className="animate-in slide-in-from-top-4 duration-300 pt-4 border-t border-yellow-400/40 space-y-6">
                     <div className="space-y-3">
                       <div className="flex flex-wrap items-center gap-2">
-                        <h5 className="text-[10px] font-black text-emerald-400 uppercase tracking-[0.2em] flex items-center gap-2">
+                        <h5 className="text-[10px] font-black text-yellow-300 uppercase tracking-[0.2em] flex items-center gap-2">
                           <i className="fas fa-graduation-cap text-xs"></i>
                           {t('glossary.inDepthDescription')}
                         </h5>
@@ -1174,7 +1118,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                           <select
                             value={detailedExplanationLevel}
                             onChange={(e) => setDetailedExplanationLevel(e.target.value as DetailedExplanationLevel)}
-                            className="bg-slate-800 border border-slate-600 rounded px-2 py-0.5 text-slate-300 text-[10px] focus:outline-none focus:ring-1 focus:ring-emerald-500"
+                            className="bg-slate-800 border border-slate-600 rounded px-2 py-0.5 text-slate-300 text-[10px] focus:outline-none focus:ring-1 focus:ring-yellow-400"
                           >
                             <option value="beginner">{t('subLevels.beginner')}</option>
                             <option value="intermediate">{t('subLevels.intermediate')}</option>
@@ -1182,7 +1126,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                           </select>
                         </label>
                       </div>
-                      <div className="text-slate-200 leading-relaxed text-sm whitespace-pre-wrap">
+                      <div className="text-yellow-300 leading-relaxed text-sm whitespace-pre-wrap">
                         {getTranslatedDetailedExplanation(
                           currentQuestion.id,
                           getDetailedExplanationForLevel(currentQuestion, detailedExplanationLevel) ?? '',
@@ -1216,7 +1160,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                       const apps = (tRaw(`quiz.codeVersatility.${appsKey}`) as string[] | undefined) || [];
                       const bestPractices = (tRaw(`quiz.codeVersatility.${bestKey}`) as string[] | undefined) || [];
                       return (
-                        <div className="space-y-4 pt-4 border-t border-emerald-500/20">
+                        <div className="space-y-4 pt-4 border-t border-yellow-400/40">
                           <h5 className="text-[10px] font-black text-amber-400 uppercase tracking-[0.2em] flex items-center gap-2">
                             <i className="fas fa-code-branch text-xs"></i>
                             {t('quiz.codeVersatility.title')}
@@ -1227,23 +1171,23 @@ export const QuizView: React.FC<QuizViewProps> = ({
                                 <i className="fas fa-project-diagram text-[10px]"></i>
                                 {t('quiz.codeVersatility.patternVersatility')}
                               </h6>
-                              <p className="text-slate-300 text-xs leading-relaxed">{versatilityText}</p>
+                              <p className="text-yellow-300 text-xs leading-relaxed">{versatilityText}</p>
                             </div>
-                            <div className="bg-slate-900/50 rounded-xl p-4 border border-emerald-500/20">
-                              <h6 className="text-[9px] font-bold text-emerald-300 uppercase tracking-wider mb-2 flex items-center gap-2">
+                            <div className="bg-slate-900/50 rounded-xl p-4 border border-yellow-400/40">
+                              <h6 className="text-[9px] font-bold text-yellow-200 uppercase tracking-wider mb-2 flex items-center gap-2">
                                 <i className="fas fa-globe text-[10px]"></i>
                                 {t('quiz.codeVersatility.realWorldApplications')}
                               </h6>
-                              <ul className="text-slate-300 text-xs leading-relaxed space-y-1.5 list-disc list-inside">
+                              <ul className="text-yellow-300 text-xs leading-relaxed space-y-1.5 list-disc list-inside">
                                 {apps.map((item, i) => <li key={i}>{item}</li>)}
                               </ul>
                             </div>
-                            <div className="bg-slate-900/50 rounded-xl p-4 border border-emerald-500/20">
-                              <h6 className="text-[9px] font-bold text-emerald-300 uppercase tracking-wider mb-2 flex items-center gap-2">
+                            <div className="bg-slate-900/50 rounded-xl p-4 border border-yellow-400/40">
+                              <h6 className="text-[9px] font-bold text-yellow-200 uppercase tracking-wider mb-2 flex items-center gap-2">
                                 <i className="fas fa-check-circle text-[10px]"></i>
                                 {t('quiz.codeVersatility.bestPractices')}
                               </h6>
-                              <ul className="text-slate-300 text-xs leading-relaxed space-y-1.5 list-disc list-inside">
+                              <ul className="text-yellow-300 text-xs leading-relaxed space-y-1.5 list-disc list-inside">
                                 {bestPractices.map((item, i) => <li key={i}>{item}</li>)}
                               </ul>
                             </div>
@@ -1258,7 +1202,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
 
             <button
               onClick={handleNext}
-              className="w-full py-5 bg-emerald-500 hover:bg-emerald-600 rounded-2xl font-black text-lg text-white transition-all transform active:scale-95 shadow-2xl shadow-emerald-500/30 flex items-center justify-center gap-3"
+              className="w-full py-5 bg-yellow-400 hover:bg-yellow-500 rounded-2xl font-black text-lg text-slate-900 transition-all transform active:scale-95 shadow-2xl shadow-yellow-400/30 flex items-center justify-center gap-3"
             >
               {currentIndex === questions.length - 1 ? t('quiz.finishEvolution') : t('hub.continueMutation')}
               <i className="fas fa-arrow-right text-sm"></i>

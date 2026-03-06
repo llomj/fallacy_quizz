@@ -1185,20 +1185,35 @@ export const translateOptionText = (text: string, language: string): string => {
   return result;
 };
 
+/** Strip "Identify the logical fallacy in this example..." / "Identifiez l'erreur logique..." prefix and optional surrounding quotes. */
+const stripFallacyInstructionPrefix = (q: string): string => {
+  const enPrefix = /^Identify the logical fallacy in this example:\s*\n*\s*/i;
+  const frPrefixSophisme = /^Identifiez le sophisme (?:logique )?dans cet exemple\s*:\s*\n*\s*/i;
+  const frPrefixErreur = /^Identifiez l'erreur logique dans cet exemple\s*:\s*\n*\s*/i;
+  let rest = q.replace(enPrefix, '').replace(frPrefixSophisme, '').replace(frPrefixErreur, '').trim();
+  if (rest.length >= 2 && rest.startsWith('"') && rest.endsWith('"')) {
+    rest = rest.slice(1, -1).trim();
+  }
+  return rest || q;
+};
+
 /**
  * Returns question and options in the requested language. When language is 'fr',
  * translates question and each option to French so the entire logic/quiz panel is in French.
+ * For logical fallacy questions, the "Identify the logical fallacy in this example..." prefix
+ * is stripped so only the example argument is shown.
  */
 export const getQuestionDisplay = (
   language: string,
   question: string,
   options: string[]
 ): { question: string; options: string[] } => {
+  const questionOnly = stripFallacyInstructionPrefix(question);
   if (language !== 'fr') {
-    return { question, options };
+    return { question: questionOnly, options };
   }
   return {
-    question: translateQuestionText(question, 'fr'),
+    question: translateQuestionText(questionOnly, 'fr'),
     options: options.map((opt) => translateOptionText(opt, 'fr')),
   };
 };

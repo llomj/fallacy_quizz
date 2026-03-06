@@ -1,5 +1,4 @@
 import React from 'react';
-import { PersonaStage } from '../types';
 import { useLanguage } from '../contexts/LanguageContext';
 
 interface SettingsMenuProps {
@@ -10,13 +9,10 @@ interface SettingsMenuProps {
   anchorBottom?: boolean; // When true, menu opens near top-right (mobile-friendly placement)
   onToggleRandomMode?: () => void;
   onShowGlossary?: () => void;
-  onShowMethods?: () => void;
-  onShowFlags?: () => void;
-  onShowFlow?: () => void;
+  onShowArgumentation?: () => void;
   onShowIdSearch?: () => void;
   onShowIdLog?: () => void;
   onShowLearningLog?: () => void;
-  onShowOperations?: () => void;
   onShowLevelSelector?: () => void;
   onToggleLanguage?: () => void;
   onResetApp?: () => void;
@@ -30,13 +26,10 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   anchorBottom = false,
   onToggleRandomMode,
   onShowGlossary,
-  onShowMethods,
-  onShowFlags,
-  onShowFlow,
+  onShowArgumentation,
   onShowIdSearch,
   onShowIdLog,
   onShowLearningLog,
-  onShowOperations,
   onShowLevelSelector,
   onToggleLanguage,
   onResetApp
@@ -45,241 +38,73 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
 
   if (!isOpen) return null;
 
-  const menuItems = [];
+  // Fixed order (see AGENTS.md §11): do not change unless explicitly requested.
+  const menuItems: { icon: string; label: string; onClick: () => void; active?: boolean }[] = [];
 
-  // Hub view items
-  if (view === 'hub') {
-    if (onShowGlossary) {
-      menuItems.push({
-        icon: 'fa-circle-info',
-        label: t('app.glossary'),
-        onClick: () => {
-          onShowGlossary();
-          onClose();
-        },
-        active: view === 'glossary'
-      });
-    }
-    if (onShowMethods) {
-      menuItems.push({
-        icon: 'fa-code',
-        label: t('app.methods'),
-        onClick: () => {
-          onShowMethods();
-          onClose();
-        }
-      });
-    }
-    if (onShowFlags) {
-      menuItems.push({
-        icon: 'fa-flag',
-        label: t('app.flags'),
-        onClick: () => {
-          onShowFlags();
-          onClose();
-        }
-      });
-    }
-    if (onShowFlow) {
-      menuItems.push({
-        icon: 'fa-diagram-project',
-        label: t('app.flow'),
-        onClick: () => {
-          onShowFlow();
-          onClose();
-        }
-      });
-    }
-    if (onShowIdSearch) {
-      menuItems.push({
-        icon: 'fa-hashtag',
-        label: t('settings.searchById'),
-        onClick: () => {
-          onShowIdSearch();
-          onClose();
-        }
-      });
-    }
-    if (onShowIdLog) {
-      menuItems.push({
-        icon: 'fa-list',
-        label: t('settings.idLog'),
-        onClick: () => {
-          onShowIdLog();
-          onClose();
-        }
-      });
-    }
-    if (onShowLearningLog) {
-      menuItems.push({
-        icon: 'fa-book-open',
-        label: t('app.learningLog'),
-        onClick: () => {
-          onShowLearningLog();
-          onClose();
-        },
-        active: view === 'log'
-      });
-    }
-    if (onToggleRandomMode) {
-      menuItems.push({
-        icon: 'fa-shuffle',
-        label: randomMode ? t('settings.switchToLevelMode') : t('settings.switchToRandomMode'),
-        onClick: () => {
-          onToggleRandomMode();
-          onClose();
-        }
-      });
-    }
-  }
-
-  // Glossary view: show Methods, Flags and Flow (reference views)
-  if (view === 'glossary') {
-    if (onShowMethods) {
-      menuItems.push({
-        icon: 'fa-code',
-        label: t('app.methods'),
-        onClick: () => {
-          onShowMethods();
-          onClose();
-        }
-      });
-    }
-    if (onShowFlags) {
-      menuItems.push({
-        icon: 'fa-flag',
-        label: t('app.flags'),
-        onClick: () => {
-          onShowFlags();
-          onClose();
-        }
-      });
-    }
-    if (onShowFlow) {
-      menuItems.push({
-        icon: 'fa-diagram-project',
-        label: t('app.flow'),
-        onClick: () => {
-          onShowFlow();
-          onClose();
-        }
-      });
-    }
-  }
-
-  // Quiz view items
-  if (view === 'quiz') {
-    if (onShowOperations) {
-      menuItems.push({
-        icon: 'fa-calculator',
-        label: t('app.operations'),
-        onClick: () => {
-          onShowOperations();
-          onClose();
-        }
-      });
-    }
-    if (onToggleRandomMode) {
-      menuItems.push({
-        icon: 'fa-shuffle',
-        label: randomMode ? t('settings.switchToLevelMode') : t('settings.switchToRandomMode'),
-        onClick: () => {
-          onToggleRandomMode();
-          onClose();
-        }
-      });
-    }
-  }
-
-  // Keep ID Log and Learning Log accessible from settings outside hub too
-  if (view !== 'hub') {
-    if (onShowIdLog) {
-      menuItems.push({
-        icon: 'fa-list',
-        label: t('settings.idLog'),
-        onClick: () => {
-          onShowIdLog();
-          onClose();
-        }
-      });
-    }
-    if (onShowLearningLog) {
-      menuItems.push({
-        icon: 'fa-book-open',
-        label: t('app.learningLog'),
-        onClick: () => {
-          onShowLearningLog();
-          onClose();
-        },
-        active: view === 'log'
-      });
-    }
-  }
-
-  // Common items (Methods, Flags and Flow when on quiz/log - always in settings)
-  if ((onShowMethods || onShowFlags || onShowFlow) && (view === 'quiz' || view === 'log')) {
-    if (onShowMethods) {
-      menuItems.push({
-        icon: 'fa-code',
-        label: t('app.methods'),
-        onClick: () => {
-          onShowMethods();
-          onClose();
-        }
-      });
-    }
-    if (onShowFlags) {
-      menuItems.push({
-        icon: 'fa-flag',
-        label: t('app.flags'),
-        onClick: () => {
-          onShowFlags();
-          onClose();
-        }
-      });
-    }
-    if (onShowFlow) {
-      menuItems.push({
-        icon: 'fa-diagram-project',
-        label: t('app.flow'),
-        onClick: () => {
-          onShowFlow();
-          onClose();
-        }
-      });
-    }
+  if (onToggleRandomMode) {
+    menuItems.push({
+      icon: 'fa-shuffle',
+      label: randomMode ? t('settings.switchToLevelMode') : t('settings.switchToRandomMode'),
+      onClick: () => { onToggleRandomMode(); onClose(); }
+    });
   }
   if (onShowLevelSelector) {
     menuItems.push({
       icon: 'fa-layer-group',
       label: t('settings.selectLevel'),
-      onClick: () => {
-        onShowLevelSelector();
-        onClose();
-      }
+      onClick: () => { onShowLevelSelector(); onClose(); }
     });
   }
-
+  if (onShowIdSearch) {
+    menuItems.push({
+      icon: 'fa-hashtag',
+      label: t('settings.searchById'),
+      onClick: () => { onShowIdSearch(); onClose(); }
+    });
+  }
+  if (onShowIdLog) {
+    menuItems.push({
+      icon: 'fa-list',
+      label: t('settings.idLog'),
+      onClick: () => { onShowIdLog(); onClose(); }
+    });
+  }
+  if (onShowLearningLog) {
+    menuItems.push({
+      icon: 'fa-book-open',
+      label: t('app.learningLog'),
+      onClick: () => { onShowLearningLog(); onClose(); },
+      active: view === 'log'
+    });
+  }
+  if (onShowArgumentation) {
+    menuItems.push({
+      icon: 'fa-scale-balanced',
+      label: t('settings.logicalRules'),
+      onClick: () => { onShowArgumentation(); onClose(); }
+    });
+  }
+  if (onShowGlossary) {
+    menuItems.push({
+      icon: 'fa-circle-info',
+      label: t('app.glossary'),
+      onClick: () => { onShowGlossary(); onClose(); },
+      active: view === 'glossary'
+    });
+  }
   if (onToggleLanguage) {
     menuItems.push({
       icon: 'fa-language',
       label: language === 'en' ? 'Français' : 'English',
-      onClick: () => {
-        onToggleLanguage();
-        onClose();
-      }
+      onClick: () => { onToggleLanguage(); onClose(); }
     });
   }
 
-  // Refresh app: clears SW cache and loads latest (for PWA users seeing stale content)
   const basePath = typeof window !== 'undefined' ? (import.meta.env.BASE_URL || '/') : '/';
   menuItems.push({
     icon: 'fa-arrows-rotate',
     label: t('settings.refreshApp'),
-    onClick: () => {
-      onClose();
-      window.location.href = `${basePath}clear-sw.html`;
-    }
+    onClick: () => { onClose(); window.location.href = `${basePath}clear-sw.html`; }
   });
 
   return (
@@ -292,7 +117,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
       
       {/* Menu - near top-right on mobile, below trigger on desktop */}
       <div className={`z-50 min-w-[200px] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
-        <div className="glass rounded-2xl p-2 shadow-2xl border border-white/10 animate-in slide-in-from-top-2 duration-200">
+        <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-white/5 backdrop-blur-sm">
           {menuItems.map((item, index) => (
             <button
               key={index}
@@ -300,7 +125,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               className={`
                 w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left
                 ${item.active 
-                  ? 'bg-emerald-500/20 text-emerald-400' 
+                  ? 'bg-yellow-400/15 text-yellow-300' 
                   : 'text-slate-300 hover:bg-white/10 hover:text-white'
                 }
               `}

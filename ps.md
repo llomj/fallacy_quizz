@@ -1,4 +1,4 @@
-# CLI Exercises Learn — Problem Solving & Debugging Guide
+# Logical Fallacies Learn — Problem Solving & Debugging Guide
 
 ## CRITICAL RULE: Bilingual Parity (EN/FR)
 
@@ -8,15 +8,15 @@
 - All short explanations (e field): EN + FR
 - All detailed explanations (de field): EN + FR
 - Glossary: EN + FR
-- Code snippets: Shell/CLI commands stay the same (universal)
+- Example arguments: Core argumentative structures stay the same across languages; only wording and cultural context should be locally adapted.
 
-When adding new content, add both languages in the same commit. Never ship English-only content.
+When adding new content, add both languages in the same commit. Never ship English-only content. This applies to all logical fallacy questions, short explanations, detailed explanations, and glossary entries.
 
 ---
 
-## Flags Reference (syntax highlighting)
+## Highlighted Panels & Syntax (readability)
 
-**Requirement**: The Flags/Commands reference view must **not** be all green. It must use clear syntax highlighting (e.g. comments grey, flags/options blue, descriptions amber, base text slate/grey) so it is readable and matches AGENTS.md.
+**Requirement**: Any highlighted panels (code-like blocks, example arguments, reference views) must **not** be rendered as a single flat color. Use clear syntax highlighting or emphasis (e.g. comments grey, key terms amber, base text slate/grey) so content is readable and matches AGENTS.md.
 
 **If you see changes locally but not on your phone**: The app on your phone loads the **deployed** version (e.g. from GitHub Pages). Local changes are only on your machine until you **push to GitHub** and the site **re-deploys**. To fix "still all green on phone": (1) Commit the FlagsView changes, (2) Push to GitHub (`git push`), (3) Wait for the deployment (e.g. GitHub Actions or Pages rebuild). Then hard-refresh or re-open the app on your phone so it loads the new bundle.
 
