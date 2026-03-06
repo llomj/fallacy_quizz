@@ -925,11 +925,11 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 {currentQuestion.subLevel === 'Expert' && t('subLevels.expertCaps')}
               </span>
               <div className="flex gap-0.5">
-                {[1, 2, 3].map(starNum => {
+                {[1, 2, 3, 4, 5].map(starNum => {
                   let isEarned = false;
-                  if (currentQuestion.subLevel === 'Beginner') isEarned = starNum <= 1;
-                  if (currentQuestion.subLevel === 'Intermediate') isEarned = starNum <= 2;
-                  if (currentQuestion.subLevel === 'Expert') isEarned = starNum <= 3;
+                  if (currentQuestion.subLevel === 'Beginner') isEarned = starNum <= 2;   // 1–2 stars = beginner
+                  if (currentQuestion.subLevel === 'Intermediate') isEarned = starNum <= 3; // 2–3 stars = intermediate
+                  if (currentQuestion.subLevel === 'Expert') isEarned = starNum <= 5;      // 4–5 stars = expert
 
                   return (
                     <i

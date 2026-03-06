@@ -136,10 +136,10 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz }
               <div className="space-y-4 pt-6 border-t border-white/5">
                 <div className="flex justify-between text-[10px] font-bold text-slate-500 uppercase tracking-widest">
                   <span>
-                    {earnedStars === 0 && t('subLevels.beginnerProgress')}
-                    {earnedStars === 1 && t('subLevels.intermediateProgress')}
-                    {earnedStars === 2 && t('subLevels.expertProgress')}
-                    {earnedStars === 3 && t('subLevels.masteryProgress')}
+                    {(earnedStars === 0 || earnedStars === 1) && t('subLevels.beginnerProgress')}
+                    {(earnedStars === 2 || earnedStars === 3) && t('subLevels.intermediateProgress')}
+                    {earnedStars === 4 && t('subLevels.expertProgress')}
+                    {earnedStars === 5 && t('subLevels.masteryProgress')}
                   </span>
                   <span>{progress} / {QUESTIONS_PER_LEVEL}</span>
                 </div>
