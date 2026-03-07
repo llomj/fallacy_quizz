@@ -30,6 +30,7 @@
 - **Debugging Reference**: Agents must always consult ps.md for debugging information.
 - **Browser Testing**: Agents must always test the app in the browser first to ensure it works and opens correctly before pushing to Git.
 - **User Consent for Commits**: Agents must always ask the user for approval before committing to Git.
+- **Deploy mismatch**: When "local (Cursor) looks correct but deployed site is different", follow the **DIAGNOSTIC CHECKLIST** in ps.md. Do NOT repeat cache-clearing advice. Check Pages Source = GitHub Actions first; check two remotes (push to `fallacy`, not `origin`).
 
 ## 6. Internationalization & French Mode
 - **Goal**: Transform this app into a fully bilingual experience (English and French). This is critical.

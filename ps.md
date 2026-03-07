@@ -16,23 +16,32 @@ git push fallacy main
 
 **Never** use `git push origin main` — that pushes to CLI_exercises, not fallacy_quizz. The deployed app will not update.
 
-### When "local (Cursor) looks correct but deployed site is different"
+### When "local (Cursor) looks correct but deployed site is different" — DIAGNOSTIC CHECKLIST
 
-1. **Verify you pushed to the right remote**
-   - Run: `git push fallacy main`
-   - Do **not** run `git push origin main`
+**Agents: Do NOT repeat cache-clearing advice. Follow this checklist in order. Stop when you find the cause.**
 
-2. **Confirm the commit is on GitHub**
-   - Open https://github.com/llomj/fallacy_quizz/commits/main
-   - Check that the latest commit matches your local (`git log -1 --oneline`)
+| # | Check | Action | Who |
+|---|-------|--------|-----|
+| 1 | Pages Source | Repo **Settings → Pages → Build and deployment**. Source MUST be **"GitHub Actions"**. If it says "Deploy from a branch", the Actions output is IGNORED and the site shows old branch content. | User |
+| 2 | Which branch serves? | If Source = "Deploy from a branch", the built `dist/` must be in that branch. It is NOT in main (.gitignore). Use `deploy-branch.yml` (pushes dist/ to gh-pages). Set branch = gh-pages, folder = / (root). | User |
+| 3 | Push to correct remote | Run `git push fallacy main`. Never `git push origin main` — that pushes to CLI_exercises, not fallacy_quizz. | Agent / User |
+| 4 | Commit on GitHub | https://github.com/llomj/fallacy_quizz/commits/main — latest commit must match `git log -1 --oneline`. | Agent |
+| 5 | Actions green for that commit | https://github.com/llomj/fallacy_quizz/actions — latest "Deploy to GitHub Pages" run must be **green** and for the commit you pushed. | User |
+| 6 | Cursor = localhost or deployed? | Cursor preview: `npm run dev` = localhost (dev build). Deployed = prod build at llomj.github.io. They can differ. To match deployed locally: `npm run build && npm run preview` then open the preview URL. | User |
+| 7 | PWA cache is separate | On iOS: Add-to-home-screen app has SEPARATE storage from Safari. Opening clear-sw.html in Safari does NOT clear the PWA cache. Fix: Delete the home-screen icon, open https://llomj.github.io/fallacy_quizz/ in Safari, add to home screen again. | User |
+| 8 | Alternative deploy: branch | If Actions deploy is misconfigured: add workflow to push `dist/` to `gh-pages` branch, then set Pages Source = "Deploy from branch", branch = gh-pages, path = / (root). See "Branch deploy fallback" below. | Agent |
 
-3. **Confirm Actions deploy succeeded**
-   - Open https://github.com/llomj/fallacy_quizz/actions
-   - Latest "Deploy to GitHub Pages" run must be green for that commit
+### Branch deploy fallback (if Pages Source = "Deploy from a branch")
 
-4. **Bypass cache on the deployed site**
-   - Open https://llomj.github.io/fallacy_quizz/clear-sw.html in the same browser
-   - Hard refresh or reopen https://llomj.github.io/fallacy_quizz/
+The repo has `.github/workflows/deploy-branch.yml` — it pushes built `dist/` to the `gh-pages` branch on each push to main.
+
+**If Pages Source is "Deploy from a branch":**
+1. Set **Branch** = `gh-pages`, **Folder** = `/ (root)`
+2. Push to fallacy: `git push fallacy main`
+3. Wait for "Deploy to gh-pages branch" workflow to complete
+4. Site will serve from gh-pages branch
+
+**If Pages Source is "GitHub Actions":** The main `deploy.yml` workflow deploys. `deploy-branch.yml` also runs but its gh-pages output is not used — no conflict.
 
 ---
 
