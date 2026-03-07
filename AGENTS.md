@@ -32,6 +32,21 @@
 - **User Consent for Commits**: Agents must always ask the user for approval before committing to Git.
 - **Deploy mismatch**: When "local (Cursor) looks correct but deployed site is different", follow the **DIAGNOSTIC CHECKLIST** in ps.md. Do NOT repeat cache-clearing advice. Check Pages Source = GitHub Actions first; check two remotes (push to `fallacy`, not `origin`).
 
+### 5.1 GitHub remote and deploy path (CRITICAL — avoid wrong-repo deploy)
+This repo has **two Git remotes**. The Fallacy Quiz app deploys **only** from the **fallacy_quizz** repo. Pushing to `origin` updates a **different** repo (CLI_exercises) and **does not** update the live app.
+
+| Remote   | URL | Used for |
+|----------|-----|----------|
+| **`fallacy`** | https://github.com/llomj/fallacy_quizz | **This app.** Deploy and all pushes must go here. |
+| `origin` | https://github.com/llomj/CLI_exercises | Different project. Do **not** push here for this app. |
+
+- **Correct push command (always use):** `git push fallacy main`
+- **Wrong (do not use):** `git push origin main` or `git push` if default is origin
+- **Live app URL:** https://llomj.github.io/fallacy_quizz/
+- **Repo in browser:** https://github.com/llomj/fallacy_quizz
+
+Before any commit that should go live, confirm with `git remote -v` that you will push to `fallacy`. After pushing, the live site updates via GitHub Actions (workflow: Deploy to GitHub Pages or branch gh-pages; see ps.md).
+
 ## 6. Internationalization & French Mode
 - **Goal**: Transform this app into a fully bilingual experience (English and French). This is critical.
 - **Full French Mode**: When the user selects French, **all** visible UI text and explanations must appear in French (navigation, buttons, panels, short explanations, detailed explanations, and advanced panels like Code Versatility).
