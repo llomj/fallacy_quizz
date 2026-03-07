@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from 'react';
+
+declare const __BUILD_TIME__: string | undefined;
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 import { MAX_QUESTION_ID } from '../questionsBank';
@@ -280,6 +282,10 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             </React.Fragment>
           ))}
           
+          {/* Build time: confirms which deploy is running (see ps.md) */}
+          <div className="px-4 py-2 text-[10px] text-slate-500 text-center border-t border-white/5">
+            Build: {typeof __BUILD_TIME__ !== 'undefined' ? __BUILD_TIME__ : 'dev'}
+          </div>
           {/* Reset App button - at bottom with warning styling */}
           {onResetApp && (
             <>

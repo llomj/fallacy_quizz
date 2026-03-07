@@ -9,6 +9,9 @@ export default defineConfig(({ mode }) => {
   return {
     plugins: [react()],
     base,
+    define: {
+      __BUILD_TIME__: JSON.stringify(new Date().toISOString().slice(0, 19).replace('T', ' ')),
+    },
     build: {
       rollupOptions: {
         output: {
