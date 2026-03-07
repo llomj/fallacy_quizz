@@ -343,6 +343,9 @@ export const buildFoundationFrenchDetailed = ({
 };
 
 // --- Fallacy codon formatters (in-depth description tied to the fallacy, no CLI) ---
+// Structure: argument first, then explanation. All content is tied to the specific question.
+
+const ARGUMENT_PREVIEW_LENGTH = 400;
 
 export const buildFallacyEnglishDetailed = ({
   depth,
@@ -363,23 +366,24 @@ export const buildFallacyEnglishDetailed = ({
   const answer = compact(correctOption);
   const shortBlock = shouldAppendShort(base, short) ? `\nQuick recap: ${short}` : '';
   const answerHint = answer ? `Correct answer: ${answer}.` : 'Focus on identifying the dominant fallacy or the absence of one.';
-  const contextLine = question ? `In this argument: ${question.slice(0, 200)}${question.length > 200 ? '…' : ''}` : '';
+  const argumentBlock = question
+    ? `The argument:\n"${question.length > ARGUMENT_PREVIEW_LENGTH ? question.slice(0, ARGUMENT_PREVIEW_LENGTH) + '…' : question}"`
+    : '';
+
+  const whyLabel = answer
+    ? `Why the answer is ${answer}:`
+    : 'Why this answer:';
 
   if (depth === 'beginner') {
     return [
       'Beginner explanation:',
       '',
-      'Key idea:',
+      argumentBlock ? [argumentBlock, ''].join('\n') : '',
+      whyLabel,
       base,
       shortBlock,
       '',
-      'Why this answer:',
-      `- ${answerHint}`,
-      contextLine ? `- ${contextLine}` : '',
-      '',
-      'What to remember:',
-      '- A fallacy is a flaw in how the argument supports its conclusion.',
-      '- The correct answer names the main flaw (or "No fallacy" if the reasoning is acceptable).',
+      answerHint,
     ]
       .filter(Boolean)
       .join('\n');
@@ -389,18 +393,14 @@ export const buildFallacyEnglishDetailed = ({
     return [
       'Intermediate explanation:',
       '',
-      'Key concept:',
+      argumentBlock ? [argumentBlock, ''].join('\n') : '',
+      whyLabel,
       base,
       shortBlock,
       '',
-      'How this fallacy works:',
-      '- The premise(s) are used in a way that does not properly support the conclusion.',
-      '- Recognizing the pattern helps you avoid being persuaded by flawed reasoning.',
-      contextLine ? ['', 'In this argument:', contextLine].join('\n') : '',
-      '',
-      'What to remember:',
-      `- ${answerHint}`,
-      '- Apply the principle of charity: interpret the argument in its strongest form before judging.',
+      argumentBlock ? 'In the argument above, the pattern described above applies directly: look for how the premise(s) fail to support the conclusion, or how the speaker diverts, distorts, or misuses evidence.' : '',
+      argumentBlock ? '' : '',
+      answerHint,
     ]
       .filter(Boolean)
       .join('\n');
@@ -409,24 +409,14 @@ export const buildFallacyEnglishDetailed = ({
   return [
     'Expert explanation:',
     '',
-    'Concept and structure:',
+    argumentBlock ? [argumentBlock, ''].join('\n') : '',
+    whyLabel,
     base,
     shortBlock,
     '',
-    'Why it is fallacious:',
-    '- The argument violates a norm of good reasoning (relevance, sufficiency, clarity, or structure).',
-    '- Identifying the fallacy type allows precise criticism and better dialectic.',
-    '- In formal fallacies the logical form is invalid; in informal fallacies the content or use of premises is defective.',
-    contextLine ? ['', 'In this argument:', contextLine].join('\n') : '',
-    '',
-    'Related distinctions:',
-    '- Do not confuse "bad argument" with "fallacious argument"—some weak arguments are not fallacies.',
-    '- The fallacy fallacy: a conclusion is not necessarily false just because the argument for it is fallacious.',
-    '- Edge cases: multiple fallacies may be present; focus on the dominant one or the one the question targets.',
-    '',
-    'What to remember:',
-    `- ${answerHint}`,
-    '- Use the glossary and level material to keep definitions consistent (e.g. with glossary.md).',
+    argumentBlock ? 'In this argument, apply the fallacy structure above: identify the premises, the conclusion, and where the reasoning goes wrong (relevance, sufficiency, clarity, or logical form).' : '',
+    argumentBlock ? '' : '',
+    answerHint,
   ]
     .filter(Boolean)
     .join('\n');
@@ -451,23 +441,24 @@ export const buildFallacyFrenchDetailed = ({
   const answer = compact(correctOption);
   const shortBlock = shouldAppendShort(base, short) ? `\nRappel rapide : ${short}` : '';
   const answerHint = answer ? `Bonne réponse : ${answer}.` : 'Concentrez-vous sur le sophisme dominant ou l\'absence de sophisme.';
-  const contextLine = question ? `Dans cet argument : ${question.slice(0, 200)}${question.length > 200 ? '…' : ''}` : '';
+  const argumentBlock = question
+    ? `L'argument :\n« ${question.length > ARGUMENT_PREVIEW_LENGTH ? question.slice(0, ARGUMENT_PREVIEW_LENGTH) + '…' : question} »`
+    : '';
+
+  const whyLabel = answer
+    ? `Pourquoi la réponse est ${answer} :`
+    : 'Pourquoi cette réponse :';
 
   if (depth === 'beginner') {
     return [
       'Explication débutant :',
       '',
-      'Idée clé :',
+      argumentBlock ? [argumentBlock, ''].join('\n') : '',
+      whyLabel,
       base,
       shortBlock,
       '',
-      'Pourquoi cette réponse :',
-      `- ${answerHint}`,
-      contextLine ? `- ${contextLine}` : '',
-      '',
-      'À retenir :',
-      '- Un sophisme est un défaut dans la façon dont l\'argument soutient sa conclusion.',
-      '- La bonne réponse nomme le défaut principal (ou « Aucun sophisme » si le raisonnement est acceptable).',
+      answerHint,
     ]
       .filter(Boolean)
       .join('\n');
@@ -477,18 +468,14 @@ export const buildFallacyFrenchDetailed = ({
     return [
       'Explication intermédiaire :',
       '',
-      'Concept clé :',
+      argumentBlock ? [argumentBlock, ''].join('\n') : '',
+      whyLabel,
       base,
       shortBlock,
       '',
-      'Comment fonctionne ce sophisme :',
-      '- Les prémisses sont utilisées d\'une manière qui ne soutient pas correctement la conclusion.',
-      '- Reconnaître le schéma aide à ne pas se laisser convaincre par un raisonnement défectueux.',
-      contextLine ? ['', 'Dans cet argument :', contextLine].join('\n') : '',
-      '',
-      'À retenir :',
-      `- ${answerHint}`,
-      '- Appliquez le principe de charité : interprétez l\'argument dans sa forme la plus forte avant de juger.',
+      argumentBlock ? "Dans l'argument ci-dessus, le schéma décrit s'applique directement : repérez comment les prémisses ne soutiennent pas la conclusion, ou comment l'orateur détourne, déforme ou mésuse des preuves." : '',
+      argumentBlock ? '' : '',
+      answerHint,
     ]
       .filter(Boolean)
       .join('\n');
@@ -497,24 +484,14 @@ export const buildFallacyFrenchDetailed = ({
   return [
     'Explication expert :',
     '',
-    'Concept et structure :',
+    argumentBlock ? [argumentBlock, ''].join('\n') : '',
+    whyLabel,
     base,
     shortBlock,
     '',
-    'Pourquoi c\'est fallacieux :',
-    '- L\'argument viole une norme du bon raisonnement (pertinence, suffisance, clarté ou structure).',
-    '- Identifier le type de sophisme permet une critique précise et une meilleure dialectique.',
-    '- Dans les sophismes formels la forme logique est invalide ; dans les informels le contenu ou l\'usage des prémisses est défectueux.',
-    contextLine ? ['', 'Dans cet argument :', contextLine].join('\n') : '',
-    '',
-    'Distinctions connexes :',
-    '- Ne pas confondre « mauvais argument » et « argument fallacieux » — certains arguments faibles ne sont pas des sophismes.',
-    '- Le sophisme du sophisme : une conclusion n\'est pas nécessairement fausse parce que l\'argument qui la soutient est fallacieux.',
-    '- Cas limites : plusieurs sophismes peuvent être présents ; concentrez-vous sur le dominant ou celui visé par la question.',
-    '',
-    'À retenir :',
-    `- ${answerHint}`,
-    '- Utilisez le glossaire et le contenu du niveau pour garder les définitions cohérentes (ex. glossary.md).',
+    argumentBlock ? "Dans cet argument, appliquez la structure du sophisme ci-dessus : identifiez les prémisses, la conclusion, et où le raisonnement se trompe (pertinence, suffisance, clarté ou forme logique)." : '',
+    argumentBlock ? '' : '',
+    answerHint,
   ]
     .filter(Boolean)
     .join('\n');

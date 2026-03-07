@@ -1155,64 +1155,6 @@ export const QuizView: React.FC<QuizViewProps> = ({
                         )}
                       </div>
                     </div>
-
-                    {/* Code Versatility Section - Enhanced for Level 9 */}
-                    {level >= 9 && (() => {
-                      const concept = currentQuestion.concept?.toLowerCase() || '';
-                      const q = currentQuestion.question;
-                      const versatilityKey = (concept.includes('inheritance') || q.includes('super') || q.includes('Parent') || q.includes('Child')) ? 'inheritanceVersatility'
-                        : (concept.includes('polymorphism') || q.includes('isinstance') || q.includes('issubclass')) ? 'polymorphismVersatility'
-                          : (concept.includes('encapsulation') || q.includes('__') || q.includes('private') || q.includes('protected')) ? 'encapsulationVersatility'
-                            : (q.includes('property') || q.includes('@property')) ? 'propertyVersatility'
-                              : (q.includes('abstract') || q.includes('ABC')) ? 'abstractVersatility'
-                                : 'defaultVersatility';
-                      const appsKey = (concept.includes('inheritance') || q.includes('super')) ? 'inheritanceApps'
-                        : concept.includes('polymorphism') ? 'polymorphismApps'
-                          : concept.includes('encapsulation') ? 'encapsulationApps'
-                            : 'defaultApps';
-                      const bestKey = (concept.includes('inheritance') || q.includes('super')) ? 'inheritanceBestPractices'
-                        : concept.includes('polymorphism') ? 'polymorphismBestPractices'
-                          : concept.includes('encapsulation') ? 'encapsulationBestPractices'
-                            : 'defaultBestPractices';
-                      const versatilityText = t(`quiz.codeVersatility.${versatilityKey}`);
-                      const apps = (tRaw(`quiz.codeVersatility.${appsKey}`) as string[] | undefined) || [];
-                      const bestPractices = (tRaw(`quiz.codeVersatility.${bestKey}`) as string[] | undefined) || [];
-                      return (
-                        <div className="space-y-4 pt-4 border-t border-yellow-400/40">
-                          <h5 className="text-[10px] font-black text-amber-400 uppercase tracking-[0.2em] flex items-center gap-2">
-                            <i className="fas fa-code-branch text-xs"></i>
-                            {t('quiz.codeVersatility.title')}
-                          </h5>
-                          <div className="grid gap-4">
-                            <div className="bg-slate-900/50 rounded-xl p-4 border border-amber-500/20">
-                              <h6 className="text-[9px] font-bold text-amber-300 uppercase tracking-wider mb-2 flex items-center gap-2">
-                                <i className="fas fa-project-diagram text-[10px]"></i>
-                                {t('quiz.codeVersatility.patternVersatility')}
-                              </h6>
-                              <p className="text-yellow-300 text-xs leading-relaxed">{versatilityText}</p>
-                            </div>
-                            <div className="bg-slate-900/50 rounded-xl p-4 border border-yellow-400/40">
-                              <h6 className="text-[9px] font-bold text-yellow-200 uppercase tracking-wider mb-2 flex items-center gap-2">
-                                <i className="fas fa-globe text-[10px]"></i>
-                                {t('quiz.codeVersatility.realWorldApplications')}
-                              </h6>
-                              <ul className="text-yellow-300 text-xs leading-relaxed space-y-1.5 list-disc list-inside">
-                                {apps.map((item, i) => <li key={i}>{item}</li>)}
-                              </ul>
-                            </div>
-                            <div className="bg-slate-900/50 rounded-xl p-4 border border-yellow-400/40">
-                              <h6 className="text-[9px] font-bold text-yellow-200 uppercase tracking-wider mb-2 flex items-center gap-2">
-                                <i className="fas fa-check-circle text-[10px]"></i>
-                                {t('quiz.codeVersatility.bestPractices')}
-                              </h6>
-                              <ul className="text-yellow-300 text-xs leading-relaxed space-y-1.5 list-disc list-inside">
-                                {bestPractices.map((item, i) => <li key={i}>{item}</li>)}
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                      );
-                    })()}
                   </div>
                 )}
               </div>

@@ -1,11 +1,6 @@
 import { SHORT_EXPLANATIONS_FR } from './shortExplanationsTranslations';
 import { containsEnglishProse, normalizeFrenchProse } from '../utils/frenchText';
-import {
-  buildFoundationFrenchDetailed,
-  buildFallacyFrenchDetailed,
-  extractCommandExample,
-  type ExplanationDepth,
-} from '../utils/foundationDetailedFormatter';
+import { buildFallacyFrenchDetailed, type ExplanationDepth } from '../utils/foundationDetailedFormatter';
 import { getFallacyCodonExplanationFR } from './fallacyCodonExplanations';
 
 /**
@@ -75382,6 +75377,28 @@ Usages courants :
 • Utiliser des classes de base pour le comportement partagé`,
 };
 
+const CLI_TERMINAL_PATTERNS = [
+  'terminal',
+  'commande',
+  'ligne de commande',
+  ' cli ',
+  ' ls ',
+  ' cd ',
+  ' pwd ',
+  'grep',
+  ' shell ',
+  'command not found',
+  'invite de commandes',
+  'tapez une commande',
+  'exécuter la commande',
+];
+
+const containsCLITerminalContent = (text: string): boolean => {
+  if (!text || !text.trim()) return false;
+  const t = text.toLowerCase();
+  return CLI_TERMINAL_PATTERNS.some((p) => t.includes(p));
+};
+
 const getFrenchDetailedFallback = (questionId: number): string => {
   const shortExplanation = SHORT_EXPLANATIONS_FR[questionId];
   if (shortExplanation) {
@@ -75392,9 +75409,9 @@ const getFrenchDetailedFallback = (questionId: number): string => {
 
 /**
  * Retourne une description approfondie en français en mode FR.
- * Si un contenu mixte EN/FR est détecté, un fallback 100% FR est affiché.
- * Pour les questions de sophismes (sans commande CLI), utilise le formateur
+ * Toutes les questions sont des questions de sophismes ; utilise le formateur
  * et le codon de sophisme en français (débutant / intermédiaire / expert).
+ * Exclut tout contenu CLI/terminal hérité.
  */
 export const getTranslatedDetailedExplanation = (
   questionId: number,
@@ -75408,39 +75425,21 @@ export const getTranslatedDetailedExplanation = (
     return englishText;
   }
 
-  const commandExample = extractCommandExample(
-    questionText,
-    correctOption,
-    englishText
-  );
+  const baseFrench =
+    (correctOption && getFallacyCodonExplanationFR(correctOption, explanationLevel)) ??
+    (() => {
+      const mappedFrench = DETAILED_EXPLANATIONS_FR[questionId];
+      const frenchCandidate = mappedFrench ?? englishText;
+      if (containsCLITerminalContent(frenchCandidate) || containsEnglishProse(normalizeFrenchProse(frenchCandidate))) {
+        return getFrenchDetailedFallback(questionId);
+      }
+      return normalizeFrenchProse(frenchCandidate);
+    })();
 
-  if (commandExample === undefined && correctOption) {
-    const baseFrench =
-      getFallacyCodonExplanationFR(correctOption, explanationLevel) ??
-      getFrenchDetailedFallback(questionId);
-    return buildFallacyFrenchDetailed({
-      depth: explanationLevel,
-      baseText: baseFrench,
-      shortText: SHORT_EXPLANATIONS_FR[questionId],
-      questionText,
-      correctOption,
-    });
-  }
-
-  const mappedFrench = DETAILED_EXPLANATIONS_FR[questionId];
-  const frenchCandidate = mappedFrench ?? englishText;
-  const normalized = normalizeFrenchProse(frenchCandidate);
-  const hasEnglishLeak = containsEnglishProse(normalized);
-
-  const baseFrench = hasEnglishLeak
-    ? getFrenchDetailedFallback(questionId)
-    : normalized;
-
-  return buildFoundationFrenchDetailed({
+  return buildFallacyFrenchDetailed({
     depth: explanationLevel,
     baseText: baseFrench,
     shortText: SHORT_EXPLANATIONS_FR[questionId],
-    commandExample,
     questionText,
     correctOption,
   });
