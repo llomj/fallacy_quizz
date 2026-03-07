@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Loading latest app…</title>
+  <style>
+    body { font-family: system-ui, sans-serif; background: #0f172a; color: #f8fafc; display: flex; align-items: center; justify-content: center; min-height: 100vh; margin: 0; }
+    p { margin: 0.5rem 0; }
+  </style>
+</head>
+<body>
+  <div>
+    <p>Clearing cache and loading latest app…</p>
+    <p id="status">Unregistering service worker…</p>
+    <p style="margin-top:1rem;font-size:0.75rem;color:#94a3b8;"><strong>Phone:</strong> Open Safari (not the app), go to this URL, wait for "Cache cleared", then reopen the app from Home Screen.</p>
+    <p style="margin-top:0.5rem;font-size:0.7rem;color:#64748b;">URL: <code id="url"></code></p>
+  </div>
+  <script>
+    document.getElementById('url').textContent = window.location.href;
+    (function() {
+      if (!('serviceWorker' in navigator)) {
+        document.getElementById('status').textContent = 'No worker. Redirecting…';
+        window.location.replace(new URL('.', location.href).href + '?nocache=' + Date.now());
+        return;
+      }
+      navigator.serviceWorker.getRegistrations().then(function(regs) {
+        if (regs.length === 0) {
+          document.getElementById('status').textContent = 'No worker. Redirecting…';
+          window.location.replace(new URL('.', location.href).href + '?nocache=' + Date.now());
+          return;
+        }
+        Promise.all(regs.map(function(r) { return r.unregister(); }))
+          .then(function() {
+            if ('caches' in window) {
+              return caches.keys().then(function(keys) {
+                return Promise.all(keys.map(function(k) { return caches.delete(k); }));
+              });
+            }
+          })
+          .then(function() {
+            document.getElementById('status').textContent = 'Cache cleared. Loading app…';
+            window.location.replace(new URL('.', location.href).href + '?nocache=' + Date.now());
+          })
+          .catch(function() {
+            document.getElementById('status').textContent = 'Redirecting…';
+            window.location.replace(new URL('.', location.href).href + '?nocache=' + Date.now());
+          });
+      });
+    })();
+  </script>
+</body>
+</html>
