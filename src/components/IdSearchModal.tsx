@@ -152,15 +152,20 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
   const showWhitespaceHints = question ? shouldVisualizeOptionWhitespace(displayContent!.options) : false;
 
   const handleSearch = (overrideId?: number) => {
-    const id = overrideId ?? parseInt(idInput.trim(), 10);
+    const raw = overrideId != null ? String(overrideId) : String(idInput || '').trim().replace(/\D/g, '');
+    const id = raw ? parseInt(raw, 10) : NaN;
     if (isNaN(id) || id < 1 || id > MAX_QUESTION_ID) {
       setError(formatTranslation(t('idSearch.invalidId'), { max: MAX_QUESTION_ID }));
       setQuestion(null);
       return;
     }
 
-    const questionBank = getQuestionBank(language);
-    const found = questionBank.find(q => q.id === id);
+    let bank = getQuestionBank(language);
+    let found = bank.find(q => q.id === id);
+    if (!found) {
+      bank = getQuestionBank(language === 'fr' ? 'en' : 'fr');
+      found = bank.find(q => q.id === id);
+    }
     if (!found) {
       setError(formatTranslation(t('idSearch.questionNotFound'), { id }));
       setQuestion(null);
@@ -169,6 +174,11 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
 
     setError(null);
     setQuestion(found);
+  };
+
+  const handleIdInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const val = e.target.value.replace(/\D/g, '');
+    setIdInput(val);
   };
 
   const handleSave = () => {
@@ -222,18 +232,22 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
         <div className="space-y-4">
           <div className="flex gap-2">
             <input
-              type="number"
+              type="text"
+              inputMode="numeric"
+              pattern="[0-9]*"
               value={idInput}
-              onChange={(e) => setIdInput(e.target.value)}
-              onKeyPress={handleKeyPress}
+              onChange={handleIdInputChange}
+              onKeyDown={(e) => e.key === 'Enter' && handleSearch()}
               placeholder={formatTranslation(t('idSearch.enterId'), { max: MAX_QUESTION_ID })}
               className="flex-1 px-4 py-3 bg-white/5 border border-white/10 rounded-xl text-white placeholder-slate-500 focus:outline-none focus:border-yellow-400 focus:ring-2 focus:ring-yellow-400/30"
-              min="1"
-              max={MAX_QUESTION_ID}
+              minLength={1}
+              maxLength={String(MAX_QUESTION_ID).length}
+              aria-label={t('idSearch.enterId')}
             />
             <button
-              onClick={handleSearch}
-              className="px-6 py-3 bg-yellow-400 hover:bg-yellow-500 text-slate-900 rounded-xl font-bold transition-all"
+              type="button"
+              onClick={() => handleSearch()}
+              className="px-6 py-3 bg-yellow-400 hover:bg-yellow-500 text-slate-900 rounded-xl font-bold transition-all touch-manipulation"
             >
               <i className="fas fa-search mr-2"></i>{t('idSearch.search')}
             </button>
