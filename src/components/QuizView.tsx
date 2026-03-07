@@ -721,6 +721,7 @@ interface QuizViewProps {
   randomMode?: boolean; // Random mode: questions from all levels
   randomModeStats?: { totalAnswered: number; totalCorrect: number }; // Base stats for live score display
   soundEnabled?: boolean;
+  onPlayClickSound?: () => void;
   hapticEnabled?: boolean;
   onPlayCorrectSound?: () => void;
   onPlayWrongSound?: () => void;
@@ -740,6 +741,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
   randomMode = false,
   randomModeStats,
   soundEnabled = true,
+  onPlayClickSound,
   hapticEnabled = true,
   onPlayCorrectSound,
   onPlayWrongSound
@@ -811,6 +813,8 @@ export const QuizView: React.FC<QuizViewProps> = ({
 
   const handleOptionClick = (index: number) => {
     if (isAnswered) return;
+
+    onPlayClickSound?.();
 
     const currentQuestion = questions[currentIndex];
     const isCorrect = index === currentQuestion.correct_option_index;
@@ -886,7 +890,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
     <div className="text-center p-12 glass rounded-3xl">
       <p className="text-rose-400 font-bold mb-4">{t('quiz.sequenceError')}</p>
       <p className="text-slate-400 text-sm mb-6">{t('quiz.couldNotRetrieve')}</p>
-      <button onClick={onExit} className="px-6 py-2 bg-yellow-400 text-slate-900 rounded-xl font-bold">{t('quiz.returnToHub')}</button>
+      <button onClick={() => { onPlayClickSound?.(); onExit(); }} className="px-6 py-2 bg-yellow-400 text-slate-900 rounded-xl font-bold">{t('quiz.returnToHub')}</button>
     </div>
   );
 
@@ -929,7 +933,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
   return (
     <div className="max-w-2xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
       <div className="flex justify-between items-center bg-slate-900/40 backdrop-blur-xl p-4 rounded-2xl border border-white/10">
-        <button onClick={onExit} className="w-10 h-10 flex items-center justify-center rounded-xl bg-slate-800 text-slate-400 hover:text-white transition-colors border border-white/5">
+        <button onClick={() => { onPlayClickSound?.(); onExit(); }} className="w-10 h-10 flex items-center justify-center rounded-xl bg-slate-800 text-slate-400 hover:text-white transition-colors border border-white/5">
           <i className="fas fa-times"></i>
         </button>
         <div className="flex-1 min-w-0 px-6 overflow-x-auto overflow-y-hidden">
@@ -975,7 +979,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
             {currentQuestion.concept}
           </div>
           <button
-            onClick={handleSaveCurrentId}
+            onClick={() => { onPlayClickSound?.(); handleSaveCurrentId(); }}
             className={`inline-flex items-center gap-2 px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.2em] border transition-colors ${isIdSaved
               ? 'bg-[#FF00FF]/20 text-[#FF00FF] border-[#FF00FF]/40'
               : 'bg-slate-700/50 text-slate-300 border-slate-600/50 hover:bg-slate-700/70'
@@ -1086,7 +1090,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
             <div className="p-6 rounded-2xl bg-yellow-400/10 border border-yellow-400/40">
               {hasDetailedExplanation ? (
                 <button
-                  onClick={() => setShowDetailedExplanation(!showDetailedExplanation)}
+                  onClick={() => { onPlayClickSound?.(); setShowDetailedExplanation(!showDetailedExplanation); }}
                   className="w-full flex items-center justify-between gap-2 mb-3 text-yellow-300 hover:text-yellow-200 transition-colors group cursor-pointer"
                 >
                   <div className="flex items-center gap-2">
@@ -1161,7 +1165,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
             </div>
 
             <button
-              onClick={handleNext}
+              onClick={() => { onPlayClickSound?.(); handleNext(); }}
               className="w-full py-5 bg-yellow-400 hover:bg-yellow-500 rounded-2xl font-black text-lg text-slate-900 transition-all transform active:scale-95 shadow-2xl shadow-yellow-400/30 flex items-center justify-center gap-3"
             >
               {currentIndex === questions.length - 1 ? t('quiz.finishEvolution') : t('hub.continueMutation')}

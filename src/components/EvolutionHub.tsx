@@ -9,9 +9,10 @@ import { formatTranslation } from '../translations';
 interface EvolutionHubProps {
   stats: UserStats;
   onStartQuiz: () => void;
+  onPlayClickSound?: () => void;
 }
 
-export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz }) => {
+export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, onPlayClickSound }) => {
   const { t, language } = useLanguage();
   const randomMode = stats.randomMode ?? false;
   const rm = stats.randomModeStats ?? { totalAnswered: 0, totalCorrect: 0 };
@@ -181,7 +182,7 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz }
           </div>
 
           <button
-            onClick={onStartQuiz}
+            onClick={() => { onPlayClickSound?.(); onStartQuiz(); }}
             className="w-full py-4 bg-gradient-to-r from-yellow-300 to-[#FF00FF] hover:from-yellow-200 hover:to-fuchsia-400 text-slate-950 rounded-2xl font-black text-lg transition-all transform hover:scale-[1.02] active:scale-95 shadow-2xl shadow-fuchsia-500/40 flex items-center justify-center gap-3"
           >
             {t('hub.continueMutation')} <i className="fas fa-chevron-right text-sm"></i>

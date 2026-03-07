@@ -6,7 +6,7 @@ import { IdLogEntry } from './types';
 import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getQuestionsNeededForLevel, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getStarsFromProgress, getRandomModeScore, getPersonaFromRandomScore, PERSONA_EMOJI } from './constants';
 import { useLanguage } from './contexts/LanguageContext';
 import { formatTranslation } from './translations';
-import { playStarCelebrationSound, playFiveStarCelebrationSound, playAllLevelsCelebrationSound, playCorrectAnswerSound, playWrongAnswerSound } from './utils/sounds';
+import { playStarCelebrationSound, playFiveStarCelebrationSound, playAllLevelsCelebrationSound, playCorrectAnswerSound, playWrongAnswerSound, playButtonClickSound } from './utils/sounds';
 import { FallingStars } from './components/FallingStars';
 
 const LOCAL_STORAGE_KEY = 'logical_fallacies_learn_stats_v1';
@@ -93,6 +93,10 @@ const App: React.FC = () => {
 
   const toggleLanguage = () => {
     setLanguage(language === 'en' ? 'fr' : 'en');
+  };
+
+  const playClickSound = () => {
+    if (prefs.soundEnabled) playButtonClickSound();
   };
 
   const handleLevelChange = (level: number) => {
@@ -364,7 +368,7 @@ const App: React.FC = () => {
     <div className="min-h-screen bg-slate-950 text-slate-200 selection:bg-yellow-400/30 pb-28">
       <nav className="pt-[env(safe-area-inset-top)] px-2 pb-1.5 flex items-center justify-between border-b border-white/5 sticky top-0 z-50 glass">
         <div className="flex w-full items-center gap-4">
-          <div className="flex items-center gap-2 cursor-pointer" onClick={() => setView('hub')}>
+          <div className="flex items-center gap-2 cursor-pointer" onClick={() => { playClickSound(); setView('hub'); }}>
             <div className="w-8 h-8 rounded-lg bg-[#FF00FF] flex items-center justify-center shadow-lg shadow-fuchsia-500/40">
               <i className="fas fa-brain text-white text-xs"></i>
             </div>
@@ -407,7 +411,7 @@ const App: React.FC = () => {
       {/* Settings at bottom - pb lifts gear above iPhone home-indicator; min 2rem when env is 0 in PWA */}
       <div className="fixed bottom-0 left-0 right-0 z-40 flex justify-center pb-[max(2rem,env(safe-area-inset-bottom))] pt-2 bg-gradient-to-t from-slate-950 to-transparent">
         <button
-          onClick={() => setShowSettingsMenu(!showSettingsMenu)}
+          onClick={() => { playClickSound(); setShowSettingsMenu(!showSettingsMenu); }}
           className="w-16 h-16 flex items-center justify-center rounded-2xl border border-white/10 bg-white/5 hover:bg-white/10 text-slate-400 hover:text-white transition-all shadow-lg min-w-[64px] min-h-[64px]"
           title={t('settings.settings')}
         >
@@ -417,6 +421,7 @@ const App: React.FC = () => {
       <SettingsMenu
         isOpen={showSettingsMenu}
         onClose={() => setShowSettingsMenu(false)}
+        onPlayClickSound={playClickSound}
         view={view}
         anchorBottom
         randomMode={randomMode}
@@ -452,6 +457,7 @@ const App: React.FC = () => {
               onSaveToIdLog={saveToIdLog}
               savedIdLogIds={stats.idLog.map(entry => entry.id)}
               soundEnabled={prefs.soundEnabled}
+              onPlayClickSound={playClickSound}
               hapticEnabled={prefs.hapticEnabled}
               onPlayCorrectSound={playCorrectAnswerSound}
               onPlayWrongSound={playWrongAnswerSound}
@@ -459,7 +465,12 @@ const App: React.FC = () => {
           </Suspense>
         ) : view === 'log' ? (
           <Suspense fallback={<ViewLoading />}>
-            <HistoryLog history={stats.history} onBack={() => setView('hub')} />
+            <HistoryLog
+              history={stats.history}
+              onBack={() => setView('hub')}
+              onSaveToIdLog={saveToIdLog}
+              savedIdLogIds={stats.idLog.map(entry => entry.id)}
+            />
           </Suspense>
         ) : view === 'glossary' ? (
           <Suspense fallback={<ViewLoading />}>
@@ -535,7 +546,7 @@ const App: React.FC = () => {
             </div>
 
             <button
-              onClick={() => setShowResult(null)}
+              onClick={() => { playClickSound(); setShowResult(null); }}
               className={`w-full py-4 rounded-2xl font-bold text-white transition-all transform active:scale-95 shadow-xl relative z-10 ${showResult.starEarned
                 ? 'bg-amber-500 hover:bg-amber-600 shadow-amber-500/30 text-amber-950 text-lg'
                 : 'bg-yellow-400 hover:bg-yellow-500 shadow-yellow-400/30 text-slate-900'
@@ -546,9 +557,10 @@ const App: React.FC = () => {
           </div>
           </>
         ) : (
-          <EvolutionHub
+            <EvolutionHub
             stats={stats}
             onStartQuiz={handleStartEvolution}
+            onPlayClickSound={playClickSound}
           />
         )}
       </main>
@@ -630,13 +642,13 @@ const App: React.FC = () => {
             </div>
             <div className="flex gap-3">
               <button
-                onClick={() => setShowResetModal(false)}
+                onClick={() => { playClickSound(); setShowResetModal(false); }}
                 className="flex-1 py-3 bg-white/5 hover:bg-white/10 rounded-xl font-bold text-white transition-all border border-white/10"
               >
                 {t('resetModal.cancel')}
               </button>
               <button
-                onClick={confirmResetApp}
+                onClick={() => { playClickSound(); confirmResetApp(); }}
                 className="flex-1 py-3 bg-amber-500 hover:bg-amber-600 rounded-xl font-bold text-white transition-all shadow-xl shadow-amber-500/30"
               >
                 {t('resetModal.confirm')}
@@ -664,13 +676,13 @@ const App: React.FC = () => {
             </div>
             <div className="flex gap-3">
               <button
-                onClick={() => setShowRandomModeModal(false)}
+                onClick={() => { playClickSound(); setShowRandomModeModal(false); }}
                 className="flex-1 py-3 bg-white/5 hover:bg-white/10 rounded-xl font-bold text-white transition-all border border-white/10"
               >
                 {t('randomMode.cancel')}
               </button>
               <button
-                onClick={randomMode ? confirmLevelMode : confirmRandomMode}
+                onClick={() => { playClickSound(); (randomMode ? confirmLevelMode : confirmRandomMode)(); }}
                 className={`flex-1 py-3 rounded-xl font-bold text-white transition-all ${randomMode
                   ? 'bg-amber-500 hover:bg-amber-600 shadow-xl shadow-amber-500/30'
                   : 'bg-yellow-500 hover:bg-yellow-600 shadow-xl shadow-yellow-500/30'

@@ -43,6 +43,39 @@ function scheduleTone(
   osc.stop(end + 0.02);
 }
 
+/** Very short click/cut sound for button and panel presses. */
+export function playButtonClickSound(): void {
+  const ctx = getAudioContext();
+  if (!ctx) return;
+
+  const schedule = () => {
+    const now = ctx.currentTime;
+    const masterGain = ctx.createGain();
+    masterGain.connect(ctx.destination);
+    masterGain.gain.setValueAtTime(0.0001, now);
+    masterGain.gain.exponentialRampToValueAtTime(0.38, now + 0.015);
+    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.09);
+
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc.type = 'sine';
+    osc.frequency.setValueAtTime(1000, now);
+    gain.gain.setValueAtTime(0.0001, now);
+    gain.gain.exponentialRampToValueAtTime(0.42, now + 0.01);
+    gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.08);
+    osc.connect(gain);
+    gain.connect(masterGain);
+    osc.start(now);
+    osc.stop(now + 0.09);
+  };
+
+  if (ctx.state === 'suspended') {
+    ctx.resume().then(schedule).catch(() => {});
+  } else {
+    schedule();
+  }
+}
+
 /** Short positive tone for correct answer. */
 export function playCorrectAnswerSound(): void {
   const ctx = getAudioContext();

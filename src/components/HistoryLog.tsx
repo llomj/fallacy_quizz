@@ -11,9 +11,11 @@ const splitQuestionForDisplay = (text: string, lang: string) =>
 interface HistoryLogProps {
   history: QuestionAttempt[];
   onBack: () => void;
+  onSaveToIdLog?: (entry: { id: number; question: string; correctAnswer: string; explanation: string }) => void;
+  savedIdLogIds?: number[];
 }
 
-export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack }) => {
+export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveToIdLog, savedIdLogIds = [] }) => {
   const { t, language } = useLanguage();
   const sortedHistory = [...history].sort((a, b) => b.timestamp - a.timestamp);
 
@@ -51,9 +53,30 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack }) => {
                   }`}>
                   {t('history.level')} {attempt.level} • {attempt.isCorrect ? t('history.correct') : t('history.incorrect')}
                 </span>
-                <span className="text-[10px] text-slate-500 font-mono">
-                  {new Date(attempt.timestamp).toLocaleDateString()}
-                </span>
+                <div className="flex items-center gap-2">
+                  <span className="text-[10px] text-slate-500 font-mono">
+                    {new Date(attempt.timestamp).toLocaleDateString()}
+                  </span>
+                  {onSaveToIdLog && (
+                    <button
+                      type="button"
+                      onClick={() => onSaveToIdLog({
+                        id: attempt.id,
+                        question: attempt.question,
+                        correctAnswer: attempt.correctOption,
+                        explanation: attempt.explanation
+                      })}
+                      className={`p-1.5 rounded-lg transition-colors ${savedIdLogIds.includes(attempt.id)
+                        ? 'bg-[#FF00FF]/20 text-[#FF00FF]'
+                        : 'bg-white/5 text-slate-400 hover:bg-white/10 hover:text-yellow-300'
+                        }`}
+                      title={savedIdLogIds.includes(attempt.id) ? t('idSearch.saved') : t('idSearch.saveToLog')}
+                      aria-label={savedIdLogIds.includes(attempt.id) ? t('idSearch.saved') : t('idSearch.saveToLog')}
+                    >
+                      <i className={`fas ${savedIdLogIds.includes(attempt.id) ? 'fa-check' : 'fa-bookmark'} text-xs`}></i>
+                    </button>
+                  )}
+                </div>
               </div>
 
               <div className="mb-3">
