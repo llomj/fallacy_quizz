@@ -18,6 +18,13 @@ git push fallacy main
 
 ### When "local (Cursor) looks correct but deployed site is different" — DIAGNOSTIC CHECKLIST
 
+**Why there are several deployment runs:**  
+- **Deploy to GitHub Pages** (deploy.yml): runs on every push to main; deploys the built `dist/` as an **artifact**. This is what the live site uses **only when** Pages Source = **GitHub Actions**.  
+- **Deploy to gh-pages branch** (deploy-branch.yml): runs on every push to main; pushes the built `dist/` into the **gh-pages** branch. The live site uses this **only when** Pages Source = **Deploy from a branch** and Branch = gh-pages.  
+- **pages build and deployment**: GitHub’s automatic run when the **gh-pages** branch is updated. It does not deploy the artifact from deploy.yml; it just reflects the branch.  
+
+So the live site content comes from **one** of: (1) the artifact of **Deploy to GitHub Pages**, or (2) the **gh-pages** branch. Pick one in **Settings → Pages → Source** and use the checklist below.
+
 **Agents: Do NOT repeat cache-clearing advice. Follow this checklist in order. Stop when you find the cause.**
 
 | # | Check | Action | Who |
@@ -47,6 +54,35 @@ The repo has `.github/workflows/deploy-branch.yml` — it pushes built `dist/` t
 4. Site will serve from gh-pages branch
 
 **If Pages Source is "GitHub Actions":** The main `deploy.yml` workflow deploys. `deploy-branch.yml` also runs but its gh-pages output is not used — no conflict.
+
+### Deploy attempts that did NOT fix "browser app vs live site" (do not repeat)
+
+- Clearing cache via **clear-sw.html** (tried multiple times).
+- Bumping **service worker** version (v14 → v15 → v16).
+- Pushing to **fallacy main** and confirming **Deploy to GitHub Pages** and **Deploy to gh-pages branch** are both green.
+- Switching **Pages Source** to **"Deploy from a branch"**, branch **gh-pages**, folder **/ (root)**.
+- Running **Deploy to gh-pages branch** manually (Run workflow).
+- Adding **build timestamp** in Settings to verify which deploy is running.
+- Documenting **two remotes** and using **git push fallacy main** only.
+- Re-running **Deploy to GitHub Pages** and waiting for green.
+- Deleting PWA from home screen and re-adding from Safari.
+- Opening the live URL in **incognito/private** window.
+
+All of the above were tried; the user still saw the old or wrong app at https://llomj.github.io/fallacy_quizz/
+
+### More solutions to check (when live site still wrong)
+
+| # | What to try | Details |
+|---|--------------|--------|
+| 14 | **What does Build: show?** | Open https://llomj.github.io/fallacy_quizz/ in a **new private/incognito** window → open **Settings** (gear). At the bottom, note **"Build: …"**. If it shows a **recent date/time** (e.g. today), the server is serving the new build and the issue is device-specific cache. If it shows **"Build: dev"** or an old date or nothing, the server is still serving an old build or the wrong deploy. |
+| 15 | **Only one deploy path** | Avoid confusion: choose **one** source. **(A)** **Settings → Pages → Source** = **GitHub Actions** only. Then only **"Deploy to GitHub Pages"** (deploy.yml) updates the site; ignore "Deploy to gh-pages branch" and "pages build and deployment". **(B)** Or **Source** = **Deploy from a branch**, **Branch** = gh-pages. Then only **"Deploy to gh-pages branch"** updates the site; "Deploy to GitHub Pages" artifact is not used. Stick to one and re-run that workflow, wait 5–10 min, then try the URL in incognito. |
+| 16 | **Unregister service worker for a test** | On desktop: open the live URL → **F12** (DevTools) → **Application** (or **Storage**) → **Service Workers** → **Unregister**. Reload. Do you see the new app? If yes, the SW was serving old cache; consider bumping SW version again or changing SW scope. |
+| 17 | **Different network / device** | Try https://llomj.github.io/fallacy_quizz/ on **another device** or **mobile data** (not Wi‑Fi) in a **private** tab. If it’s correct there, the issue is local cache or network cache. |
+| 18 | **Wait for CDN** | GitHub Pages may cache at the edge. After a green **Deploy to GitHub Pages** or after **Deploy to gh-pages branch** completes, wait **10–30 minutes**, then open the URL in a **new incognito** window. |
+| 19 | **Disable Pages and re-enable** | **Settings → Pages**. If there is an option to **remove** or **disable** the site, do it. Save. Then set **Source** again (GitHub Actions **or** Deploy from branch, gh-pages) and **Save**. Push a small commit and run the chosen workflow. This can force a clean deployment. |
+| 20 | **Extensions and other apps** | Try the URL in a browser with **all extensions disabled** or in a **different browser** you rarely use. Rule out ad-blockers or scripts that alter or cache the page. |
+| 21 | **Confirm exact URL** | You must open **exactly** `https://llomj.github.io/fallacy_quizz/` (trailing slash is fine). Not a different repo path, not a bookmark that points elsewhere. |
+| 22 | **Compare with Cursor** | In Cursor, run **`npm run build && npm run preview`** and open the URL it prints (e.g. http://localhost:4173/...). That is the **production build** from your current code. Compare with the live site. If preview looks like Cursor dev but live does not, the live site is still an old deploy or cache. |
 
 ---
 
