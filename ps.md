@@ -1,5 +1,41 @@
 # Logical Fallacies Learn — Problem Solving & Debugging Guide
 
+## CRITICAL: Two remotes — push to the correct one
+
+This repo has two Git remotes. The deployed app at `https://llomj.github.io/fallacy_quizz/` comes **only** from the `fallacy_quizz` repo.
+
+| Remote   | URL                                      | Deploys to                    |
+|----------|------------------------------------------|-------------------------------|
+| `fallacy`  | https://github.com/llomj/fallacy_quizz   | llomj.github.io/fallacy_quizz |
+| `origin` | https://github.com/llomj/CLI_exercises   | Different repo (not this app) |
+
+**Canonical push command (always use this):**
+```bash
+git push fallacy main
+```
+
+**Never** use `git push origin main` — that pushes to CLI_exercises, not fallacy_quizz. The deployed app will not update.
+
+### When "local (Cursor) looks correct but deployed site is different"
+
+1. **Verify you pushed to the right remote**
+   - Run: `git push fallacy main`
+   - Do **not** run `git push origin main`
+
+2. **Confirm the commit is on GitHub**
+   - Open https://github.com/llomj/fallacy_quizz/commits/main
+   - Check that the latest commit matches your local (`git log -1 --oneline`)
+
+3. **Confirm Actions deploy succeeded**
+   - Open https://github.com/llomj/fallacy_quizz/actions
+   - Latest "Deploy to GitHub Pages" run must be green for that commit
+
+4. **Bypass cache on the deployed site**
+   - Open https://llomj.github.io/fallacy_quizz/clear-sw.html in the same browser
+   - Hard refresh or reopen https://llomj.github.io/fallacy_quizz/
+
+---
+
 ## CRITICAL RULE: Bilingual Parity (EN/FR)
 
 **ABSOLUTE REQUIREMENT**: Whatever exists in English MUST have a French equivalent.
@@ -67,13 +103,13 @@ The workflow (`.github/workflows/deploy.yml`) must match the **last successful r
 
 **Root cause:**  
 - Desktop browser is often running a **local dev build** or the latest deployed Pages build.  
-- The phone app is a **cached PWA from GitHub Pages** and only updates when: (1) a new commit is **pushed** to `origin/main`, (2) the **Pages deploy** run is green, and (3) the PWA cache/service worker is refreshed.
+- The phone app is a **cached PWA from GitHub Pages** and only updates when: (1) a new commit is **pushed** to `fallacy/main`, (2) the **Pages deploy** run is green, and (3) the PWA cache/service worker is refreshed.
 
 **Mandatory checklist before debugging code again:**
 
-1. **Confirm commit is on origin/main**  
-   - `git status` must NOT say “ahead of 'origin/main'”.  
-   - If it does: `git push` first.
+1. **Confirm commit is pushed to fallacy_quizz**  
+   - `git status` must NOT say “ahead of 'fallacy/main'”.  
+   - If ahead: run `git push fallacy main` first.
 2. **Confirm GitHub Pages deploy is green**  
    - GitHub → `Actions` → latest Pages workflow must show **conclusion = success** for the commit with your change.
 3. **Reset the PWA cache on the phone ONCE per deploy**  
@@ -88,7 +124,7 @@ The workflow (`.github/workflows/deploy.yml`) must match the **last successful r
 
 ### Confirmed findings
 
-1. Local fix commit existed but was initially not on `origin/main` (local `main` was ahead by 1 commit).
+1. Local fix commit existed but was initially not on `fallacy/main` (local `main` was ahead by 1 commit).
 2. After push, GitHub Actions run **#10** (`head_sha` `9be7752`) still failed in **Build** step, so Pages was not updated.
 3. Root build blocker: `src/components/QuizView.tsx` imports `../utils/detailedExplanationLevel`, but `src/utils/detailedExplanationLevel.ts` was missing from tracked files on `main`.
 4. Result: desktop browser may show local/latest build, while phone app (GitHub/PWA) keeps old deployed bundle with English A/B/C/D options.
@@ -96,7 +132,7 @@ The workflow (`.github/workflows/deploy.yml`) must match the **last successful r
 ### Fix procedure (must follow in order)
 
 1. Ensure `src/utils/detailedExplanationLevel.ts` is committed to `main`.
-2. Push to GitHub and confirm Actions run is green for that exact commit.
+2. Push to fallacy_quizz: `git push fallacy main`. Confirm Actions run is green for that exact commit.
 3. Open deployed URL exactly: `https://llomj.github.io/fallacy_quizz/`.
 4. On phone app, run cache reset URL once: `https://llomj.github.io/fallacy_quizz/clear-sw.html`.
 5. Reopen app from Home Screen/GitHub app and switch language to French.
