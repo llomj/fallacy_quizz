@@ -6,9 +6,9 @@ export const SUBLEVELS_PER_LEVEL = 3;
 export const QUESTIONS_PER_SUBLEVEL = Math.floor(QUESTIONS_PER_LEVEL / 3); // ~100/3 for star thresholds
 export const TOTAL_QUESTIONS = 900; // 900 (levels 1-9) + 2 (level 0 foundations)
 
-/** Questions needed to complete a level and unlock the next. Level 0 has fewer questions. */
-export const getQuestionsNeededForLevel = (level: number): number =>
-  level === 0 ? 2 : QUESTIONS_PER_LEVEL;
+/** Questions needed to complete a level and unlock the next (including Level 0 foundations). */
+export const getQuestionsNeededForLevel = (_level: number): number =>
+  QUESTIONS_PER_LEVEL;
 
 /** Minimum progress (as fraction of QUESTIONS_PER_LEVEL) before any star is shown. Stars stay blank until ~10–20%. */
 export const STAR_PROGRESS_THRESHOLD = Math.ceil(QUESTIONS_PER_LEVEL * 0.10);

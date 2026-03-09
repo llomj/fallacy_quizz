@@ -1,15 +1,15 @@
 const EN_SUFFIXES = [
-  ' (common in terminal workflows)',
-  ' (used in regular shell sessions)',
-  ' (seen in day-to-day CLI tasks)',
-  ' (frequently used at the command line)',
+  ' (common in everyday arguments)',
+  ' (seen in real discussions)',
+  ' (frequent in everyday reasoning)',
+  ' (typical in debate examples)',
 ];
 
 const FR_SUFFIXES = [
-  ' (courant dans les workflows terminal)',
-  ' (utilise en session shell reguliere)',
-  ' (vu dans les taches CLI du quotidien)',
-  ' (frequent en ligne de commande)',
+  ' (courant dans les arguments du quotidien)',
+  ' (vu dans les discussions reelles)',
+  ' (frequent dans le raisonnement de tous les jours)',
+  ' (typique dans les exemples de debat)',
 ];
 
 const normalizeLength = (value: string): number => value.replace(/\s+/g, ' ').trim().length;
