@@ -1,6 +1,6 @@
 {
   "name": "cli-exercises-learn",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Interactive terminal and CLI commands learning platform with evolutionary progression",
   "type": "module",
   "scripts": {

@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
+import packageJson from './package.json';
 
 export default defineConfig(({ mode }) => {
   // Use base path for GitHub Pages production build, but '/' for local development
@@ -12,19 +13,38 @@ export default defineConfig(({ mode }) => {
       react(),
       VitePWA({
         registerType: 'autoUpdate',
-        manifest: false, // We already have a manifest.json in public folder, but PWA plugin can inject it if needed. Actually it's better to let VitePWA handle it, but for now we can just let it cache everything. Let's configure it properly.
         injectRegister: 'auto',
+        manifest: {
+          name: 'Fallacy Quiz',
+          short_name: 'Fallacy Quiz',
+          description: 'Logical fallacies and argument analysis quiz — learn and practice',
+          theme_color: '#0f172a',
+          background_color: '#0f172a',
+          display: 'standalone',
+          start_url: base,
+          icons: [
+            {
+              src: 'https://cdn-icons-png.flaticon.com/512/5968/5968350.png',
+              sizes: '512x512',
+              type: 'image/png',
+              purpose: 'any maskable'
+            }
+          ]
+        },
         workbox: {
           globPatterns: ['**/*.{js,css,html,ico,png,svg,json}'],
           maximumFileSizeToCacheInBytes: 10 * 1024 * 1024, // 10MB to cover potentially large chunk files
           cleanupOutdatedCaches: true,
-          sourcemap: true
+          sourcemap: true,
+          navigateFallback: `${base}index.html`,
+          navigateFallbackAllowlist: [/^(?!\/__).*/]
         }
       })
     ],
     base,
     define: {
       __BUILD_TIME__: JSON.stringify(new Date().toISOString().slice(0, 19).replace('T', ' ')),
+      __APP_VERSION__: JSON.stringify(packageJson.version),
     },
     build: {
       rollupOptions: {

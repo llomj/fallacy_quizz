@@ -70,3 +70,7 @@ Before any commit that should go live, confirm with `git remote -v` that you wil
 ## 11. Settings Menu Order (STRICT)
 - **Do not change the order of settings menu items** unless the user explicitly asks to do so.
 - **Canonical order** (top to bottom): (1) Random mode (switch), (2) Select level, (3) Search by ID, (4) ID Log, (5) Learning log, (6) Logical rules, (7) Glossary, (8) Translation (language toggle), (9) Refresh app, (10) Reset. Items are only shown when their handler is provided; the order of those that appear must follow this list.
+
+## 12. Offline PWA Requirement (CRITICAL)
+- **Goal**: The application must run fully offline when opened from the phone's home screen or browser.
+- **Rule**: Whenever changes are made to the service worker, caching, or PWA configurations (`vite.config.ts`, `manifest.json`), ensure that the app can function entirely without internet connectivity. `vite-plugin-pwa` is configured to precache all assets, and the manifest should have the correct `start_url` relative to the repository path.

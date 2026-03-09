@@ -111,7 +111,7 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
                     </div>
                     <div className={`text-[10px] font-bold uppercase tracking-wider mt-1 ${isCurrent ? 'text-yellow-200' : isUnlocked ? 'text-slate-400' : 'text-slate-600'
                       }`}>
-                      {levelInfo.persona}
+                      {t(`personas.${getPersonaTranslationKey(levelInfo.persona)}` as any)}
                     </div>
                   </div>
                 </div>

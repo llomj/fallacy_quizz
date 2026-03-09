@@ -38,6 +38,14 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
 
   const displayPersona = randomMode ? randomPersona : currentLevelInfo.persona;
 
+  const getPersonaTranslationKey = (persona: string): string => {
+    if (persona === 'Small Fish') return 'smallFish';
+    if (persona === 'God Whale') return 'godWhale';
+    return persona.toLowerCase();
+  };
+
+  const displayPersonaStr = t(`personas.${getPersonaTranslationKey(displayPersona)}` as any);
+
   const renderStars = () => {
     return (
       <div className="flex gap-2 justify-center mt-3">
@@ -68,7 +76,7 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
           <div className="flex items-center gap-2 justify-center">
             <span className="w-1.5 h-1.5 rounded-full bg-[#FF00FF] animate-pulse"></span>
             <span className="text-slate-400 font-bold text-[10px] tracking-widest uppercase">
-              {displayPersona} {t('hub.class')}
+              {displayPersonaStr} {t('hub.class')}
             </span>
           </div>
           {!randomMode && renderStars()}
@@ -214,7 +222,7 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
                   ? 'bg-[#FF00FF]/70 animate-pulse'
                   : 'bg-slate-800'
               }`}
-              title={l.persona}
+              title={t(`personas.${getPersonaTranslationKey(l.persona)}` as any)}
             />
           ))}
           </div>

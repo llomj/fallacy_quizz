@@ -150,6 +150,7 @@ export const translations = {
     
     // Persona Stages (these might stay as is, but we can translate)
     personas: {
+      tadpole: "Tadpole",
       plankton: "Plankton",
       shrimp: "Shrimp",
       crab: "Crab",
@@ -412,6 +413,7 @@ export const translations = {
     
     // Persona Stages
     personas: {
+      tadpole: "Têtard",
       plankton: "Plancton",
       shrimp: "Crevette",
       crab: "Crabe",
