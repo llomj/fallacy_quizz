@@ -86,6 +86,22 @@ All of the above were tried; the user still saw the old or wrong app at https://
 
 ---
 
+## Level vs Random mode — separate points and stars (do not repeat)
+
+**Problem**: User has e.g. 130 points in Level mode; when they switch to Random mode they still see 130. Level points must not carry over to Random.
+
+**Rule**: Level and Random are **separate systems**. Random has its own points (`randomModeXp`) and star system. When the user chooses Random mode, Random points and stars must show **0** until they earn them in Random. Never display level `xp` (or level stars) when in Random mode.
+
+**Fix (already applied; do not revert or repeat):**
+1. **Nav bar**: The only number shown for "points" (bolt) must be `displayXp`, where `displayXp = randomMode ? Number(stats.randomModeXp ?? 0) : stats.xp`. Never use `stats.xp` when `randomMode` is true.
+2. **Quiz complete**: In Random mode, update only `randomModeXp` and `randomModeStats`; do **not** update `xp`, `levelProgress`, or `acquiredStars`.
+3. **Migration**: On load, if `stateVersion < 4`, set `randomModeXp = 0` and `stateVersion = 4` so existing saves cannot show level points in Random. Ensure `randomModeXp === undefined` → treat as 0.
+4. **INITIAL_STATS**: `randomModeXp: 0` always. New users start with 0 Random points.
+
+If the user reports "level points still show in random mode" again: (1) Confirm nav uses `displayXp` only; (2) Confirm migration stateVersion 4 runs and sets `randomModeXp = 0`; (3) Confirm no other UI displays `stats.xp` when in Random; (4) Do not repeat cache/deploy advice—see deploy checklist above for deploy issues.
+
+---
+
 ## CRITICAL RULE: Bilingual Parity (EN/FR)
 
 **ABSOLUTE REQUIREMENT**: Whatever exists in English MUST have a French equivalent.

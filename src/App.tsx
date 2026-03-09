@@ -92,8 +92,8 @@ const App: React.FC = () => {
   const [showSettingsMenu, setShowSettingsMenu] = useState(false);
   const [showResetModal, setShowResetModal] = useState(false);
 
-  // Level and Random mode have separate point systems; nav must show only the current mode's XP.
-  const displayXp = randomMode ? (stats.randomModeXp ?? 0) : stats.xp;
+  // CRITICAL: Level and Random are separate. In Random mode nav must show ONLY random points (0 until earned). Never show level xp in Random. See ps.md "Level vs Random points".
+  const displayXp = randomMode ? Number(stats.randomModeXp ?? 0) : stats.xp;
 
   const toggleLanguage = () => {
     setLanguage(language === 'en' ? 'fr' : 'en');
@@ -164,7 +164,12 @@ const App: React.FC = () => {
           parsed.randomModeStats = { totalAnswered: 0, totalCorrect: 0 };
         }
         if (parsed.randomMode === undefined) parsed.randomMode = false;
-        // Ensure random mode has its own XP; never carry level xp into random display.
+        // Migration (stateVersion 4): Level and Random have completely separate point/star systems.
+        // Random mode points and stars must start at 0 when user switches to Random; never show level xp in Random.
+        if ((parsed.stateVersion ?? 0) < 4) {
+          parsed.randomModeXp = 0;
+          parsed.stateVersion = 4;
+        }
         if (parsed.randomModeXp === undefined) parsed.randomModeXp = 0;
         setStats(parsed);
       } catch (e) {
