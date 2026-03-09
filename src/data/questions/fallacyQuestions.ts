@@ -1,6 +1,6 @@
 import { Question, PersonaStage, SubLevel } from '../../types';
 
-let nextId = 1;
+let nextId = 1001;
 
 const makeQuestion = (q: Omit<Question, 'id'>): Question => ({
   ...q,

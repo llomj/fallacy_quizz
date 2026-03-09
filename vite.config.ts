@@ -37,7 +37,72 @@ export default defineConfig(({ mode }) => {
           cleanupOutdatedCaches: true,
           sourcemap: true,
           navigateFallback: `${base}index.html`,
-          navigateFallbackAllowlist: [/^(?!\/__).*/]
+          navigateFallbackAllowlist: [/^(?!\/__).*/],
+          runtimeCaching: [
+            {
+              urlPattern: /^https:\/\/cdn\.tailwindcss\.com/i,
+              handler: 'CacheFirst',
+              options: {
+                cacheName: 'tailwindcss-cache',
+                expiration: {
+                  maxEntries: 10,
+                  maxAgeSeconds: 60 * 60 * 24 * 365
+                },
+                cacheableResponse: {
+                  statuses: [0, 200]
+                }
+              }
+            },
+            {
+              urlPattern: /^https:\/\/cdnjs\.cloudflare\.com/i,
+              handler: 'CacheFirst',
+              options: {
+                cacheName: 'cdnjs-cache',
+                expiration: {
+                  maxEntries: 10,
+                  maxAgeSeconds: 60 * 60 * 24 * 365
+                },
+                cacheableResponse: {
+                  statuses: [0, 200]
+                }
+              }
+            },
+            {
+              urlPattern: /^https:\/\/fonts\.googleapis\.com/i,
+              handler: 'StaleWhileRevalidate',
+              options: {
+                cacheName: 'google-fonts-stylesheets',
+              }
+            },
+            {
+              urlPattern: /^https:\/\/fonts\.gstatic\.com/i,
+              handler: 'CacheFirst',
+              options: {
+                cacheName: 'google-fonts-webfonts',
+                expiration: {
+                  maxEntries: 30,
+                  maxAgeSeconds: 60 * 60 * 24 * 365
+                },
+                cacheableResponse: {
+                  statuses: [0, 200]
+                }
+              }
+            },
+            {
+              urlPattern: /^https:\/\/cdn-icons-png\.flaticon\.com/i,
+              handler: 'CacheFirst',
+              options: {
+                cacheName: 'flaticon-cache',
+                expiration: {
+                  maxEntries: 10,
+                  maxAgeSeconds: 60 * 60 * 24 * 365
+                },
+                cacheableResponse: {
+                  statuses: [0, 200]
+                }
+              }
+            }
+          ]
         }
       })
     ],
