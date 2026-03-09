@@ -1,11 +1,12 @@
 import type { Question } from './types';
 import { FALLACY_QUESTIONS_EN, FALLACY_QUESTIONS_FR } from './data/questions/fallaciesData';
+import { LEVEL_0_GEN_EN, LEVEL_0_GEN_FR } from './data/questions/level0Data';
 
 // Logical fallacies question bank.
 // Generated from cyberpunk logic JSON data.
 
-export const QUESTIONS_BANK_EN: Question[] = FALLACY_QUESTIONS_EN;
-export const QUESTIONS_BANK_FR: Question[] = FALLACY_QUESTIONS_FR;
+export const QUESTIONS_BANK_EN: Question[] = [...FALLACY_QUESTIONS_EN, ...LEVEL_0_GEN_EN];
+export const QUESTIONS_BANK_FR: Question[] = [...FALLACY_QUESTIONS_FR, ...LEVEL_0_GEN_FR];
 
 export const QUESTIONS_BANK: Question[] = QUESTIONS_BANK_EN; // Default fallback
 
