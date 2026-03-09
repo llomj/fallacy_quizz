@@ -39,6 +39,23 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
     }
   };
 
+  const getPersonaTranslationKey = (persona: PersonaStage): string => {
+    switch (persona) {
+      case PersonaStage.TADPOLE: return 'tadpole';
+      case PersonaStage.PLANKTON: return 'plankton';
+      case PersonaStage.SHRIMP: return 'shrimp';
+      case PersonaStage.CRAB: return 'crab';
+      case PersonaStage.SMALL_FISH: return 'smallFish';
+      case PersonaStage.OCTOPUS: return 'octopus';
+      case PersonaStage.SEAL: return 'seal';
+      case PersonaStage.DOLPHIN: return 'dolphin';
+      case PersonaStage.SHARK: return 'shark';
+      case PersonaStage.WHALE: return 'whale';
+      case PersonaStage.GOD_WHALE: return 'godWhale';
+      default: return 'tadpole';
+    }
+  };
+
   const getPersonaEmoji = (persona: PersonaStage): string =>
     PERSONA_EMOJI[persona] ?? '🐟';
 
