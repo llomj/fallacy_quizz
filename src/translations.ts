@@ -36,6 +36,7 @@ export const translations = {
       accuracy: "Accuracy",
       evolutionScore: "Evolution Score",
       pointsToNext: "{points} points to {persona}",
+      lastRunStars: "Last run: {count} star(s)",
       randomModeAbsorbText: "Analyze 15 random arguments from all levels to earn evolution points.",
       randomModeDescription: "Arguments from all levels. Earn points to evolve through the same 10 personas.",
     },
@@ -243,6 +244,7 @@ export const translations = {
       masteryProgress: "MASTERY ACHIEVED",
       youEarnedStar: "You earned the {star} star for this stage.",
       youEarnedStarsCount: "You earned {count} stars for this level!",
+      randomModeStarsEarned: "You earned {count} stars this run!",
       continueEvolution: "CONTINUE EVOLUTION",
     },
     
@@ -299,6 +301,7 @@ export const translations = {
       accuracy: "Précision",
       evolutionScore: "Score d'Évolution",
       pointsToNext: "{points} points vers {persona}",
+      lastRunStars: "Dernière run : {count} étoile(s)",
       randomModeAbsorbText: "Analysez 15 arguments aléatoires de tous les niveaux pour gagner des points d'évolution.",
       randomModeDescription: "Arguments de tous les niveaux. Gagnez des points pour évoluer à travers les mêmes 10 personas.",
     },
@@ -506,6 +509,7 @@ export const translations = {
       masteryProgress: "MAÎTRISE ACQUISE",
       youEarnedStar: "Vous avez obtenu l'étoile {star} pour cette étape.",
       youEarnedStarsCount: "Vous avez obtenu {count} étoiles pour ce niveau !",
+      randomModeStarsEarned: "Vous avez obtenu {count} étoile(s) cette run !",
       continueEvolution: "CONTINUER L'ÉVOLUTION",
     },
     

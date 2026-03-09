@@ -1,9 +1,10 @@
 import React, { useMemo } from 'react';
 
-export type FallingStarsVariant = 'single' | 'five' | 'allLevels';
+export type FallingStarsVariant = 'single' | 'five' | 'randomFive' | 'allLevels';
 
 const STAR_COUNT_SINGLE = 36;
 const STAR_COUNT_FIVE = 90;
+const STAR_COUNT_RANDOM_FIVE = 220;
 const STAR_COUNT_ALL_LEVELS = 150;
 
 interface FallingStarsProps {
@@ -13,16 +14,17 @@ interface FallingStarsProps {
 
 export const FallingStars: React.FC<FallingStarsProps> = ({ variant, className = '' }) => {
   const count = variant === 'allLevels' ? STAR_COUNT_ALL_LEVELS
+    : variant === 'randomFive' ? STAR_COUNT_RANDOM_FIVE
     : variant === 'five' ? STAR_COUNT_FIVE
     : STAR_COUNT_SINGLE;
 
   const stars = useMemo(() => {
-    const baseSize = variant === 'allLevels' ? 12 : variant === 'five' ? 10 : 8;
-    const sizeStep = variant === 'allLevels' ? 4 : variant === 'five' ? 3 : 2;
+    const baseSize = variant === 'allLevels' ? 12 : variant === 'randomFive' ? 10 : variant === 'five' ? 10 : 8;
+    const sizeStep = variant === 'allLevels' ? 4 : variant === 'randomFive' ? 3 : variant === 'five' ? 3 : 2;
     return Array.from({ length: count }, (_, i) => ({
       id: i,
       left: `${(i * 13 + 3) % 100}%`,
-      delay: (i * 0.08 + Math.random() * 0.6) % (variant === 'allLevels' ? 5 : 4),
+      delay: (i * 0.08 + Math.random() * 0.6) % (variant === 'randomFive' ? 6 : variant === 'allLevels' ? 5 : 4),
       duration: 2.2 + (i % 4) * 0.6 + Math.random() * 1.4,
       size: baseSize + (i % 6) * sizeStep,
       opacity: 0.55 + (i % 6) * 0.08,

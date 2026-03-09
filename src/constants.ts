@@ -23,6 +23,16 @@ export const getStarsFromAccuracy = (percentCorrect: number): number => {
   return 0;
 };
 
+/** Random mode: stars from session accuracy (harder scale). 10%→1, 20%→2, 40%→3, 70%→4, 95%→5. */
+export const getRandomModeStarsFromAccuracy = (percentCorrect: number): number => {
+  if (percentCorrect >= 95) return 5;
+  if (percentCorrect >= 70) return 4;
+  if (percentCorrect >= 40) return 3;
+  if (percentCorrect >= 20) return 2;
+  if (percentCorrect >= 10) return 1;
+  return 0;
+};
+
 /** @deprecated Used only for migration when correctPerLevel is missing. Derives 0–3 stars from progress. */
 export const getStarsFromProgress = (progress: number): number => {
   if (progress >= QUESTIONS_PER_SUBLEVEL * 3) return 3;

@@ -115,6 +115,16 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
                     <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider mb-1">{t('hub.evolutionScore')}</div>
                     <div className="text-lg font-black text-yellow-300">{randomScore}</div>
                   </div>
+                  {rm.lastSessionStars != null && (
+                    <div className="bg-slate-900/50 rounded-2xl p-3 border border-amber-500/30 col-span-2 flex items-center gap-2">
+                      <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider">{formatTranslation(t('hub.lastRunStars'), { count: rm.lastSessionStars! })}</div>
+                      <div className="flex gap-0.5 ml-1">
+                        {[1, 2, 3, 4, 5].map(starNum => (
+                          <i key={starNum} className={`fas fa-star text-[10px] ${starNum <= rm.lastSessionStars! ? 'text-amber-400' : 'text-slate-700/50'}`} />
+                        ))}
+                      </div>
+                    </div>
+                  )}
                 </div>
                 {nextThreshold && (
                   <>

@@ -3,10 +3,10 @@ import { UserStats, PersonaStage, QuestionAttempt } from './types';
 import { EvolutionHub } from './components/EvolutionHub';
 import { SettingsMenu } from './components/SettingsMenu';
 import { IdLogEntry } from './types';
-import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getQuestionsNeededForLevel, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getStarsFromProgress, getRandomModeScore, getPersonaFromRandomScore, PERSONA_EMOJI } from './constants';
+import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getQuestionsNeededForLevel, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getStarsFromProgress, getRandomModeScore, getRandomModeStarsFromAccuracy, getPersonaFromRandomScore, PERSONA_EMOJI } from './constants';
 import { useLanguage } from './contexts/LanguageContext';
 import { formatTranslation } from './translations';
-import { playStarCelebrationSound, playFiveStarCelebrationSound, playAllLevelsCelebrationSound, playCorrectAnswerSound, playWrongAnswerSound, playButtonClickSound } from './utils/sounds';
+import { playStarCelebrationSound, playFiveStarCelebrationSound, playRandomFiveStarCelebrationSound, playAllLevelsCelebrationSound, playCorrectAnswerSound, playWrongAnswerSound, playButtonClickSound } from './utils/sounds';
 import { FallingStars } from './components/FallingStars';
 
 const LOCAL_STORAGE_KEY = 'logical_fallacies_learn_stats_v1';
@@ -102,7 +102,8 @@ const App: React.FC = () => {
   const handleLevelChange = (level: number) => {
     setStats(prev => ({
       ...prev,
-      currentLevel: level
+      currentLevel: level,
+      randomMode: false
     }));
   };
 
@@ -174,13 +175,15 @@ const App: React.FC = () => {
     if (prefs.soundEnabled && showResult?.starEarned) {
       if (showResult.allLevelsComplete) {
         void playAllLevelsCelebrationSound();
+      } else if (showResult.randomMode && showResult.starEarned === 5) {
+        void playRandomFiveStarCelebrationSound();
       } else if (showResult.starEarned === 5) {
         void playFiveStarCelebrationSound();
       } else {
         void playStarCelebrationSound();
       }
     }
-  }, [showResult?.starEarned, showResult?.allLevelsComplete, prefs.soundEnabled]);
+  }, [showResult?.starEarned, showResult?.allLevelsComplete, showResult?.randomMode, prefs.soundEnabled]);
 
   useEffect(() => {
     localStorage.setItem(PREFS_STORAGE_KEY, JSON.stringify(prefs));
@@ -261,7 +264,10 @@ const App: React.FC = () => {
     const xpGained = score * XP_PER_QUESTION;
 
     if (randomMode) {
-      // Random mode: update randomModeStats only; levelProgress unchanged
+      // Random mode: update randomModeStats only; levelProgress unchanged. Stars 0–5 from session % (separate from level stars).
+      const sessionPercent = total > 0 ? (100 * score) / total : 0;
+      const sessionStars = getRandomModeStarsFromAccuracy(sessionPercent);
+
       setStats(prev => {
         const newXp = prev.xp + xpGained;
         const rm = prev.randomModeStats ?? { totalAnswered: 0, totalCorrect: 0 };
@@ -272,10 +278,9 @@ const App: React.FC = () => {
           totalAnswered: newTotalAnswered,
           totalCorrect: newTotalCorrect,
           lastSessionScore: score,
-          lastSessionTotal: total
+          lastSessionTotal: total,
+          lastSessionStars: sessionStars
         };
-        const prevScore = getRandomModeScore(rm);
-        const newScore = getRandomModeScore(newRm);
         return {
           ...prev,
           xp: newXp,
@@ -294,7 +299,7 @@ const App: React.FC = () => {
       setShowResult({
         score,
         total,
-        starEarned: null,
+        starEarned: sessionStars,
         randomMode: true,
         prevScore,
         newScore,
@@ -483,6 +488,7 @@ const App: React.FC = () => {
                 <FallingStars
                   variant={
                     showResult.allLevelsComplete ? 'allLevels'
+                    : showResult.randomMode && showResult.starEarned === 5 ? 'randomFive'
                     : showResult.starEarned === 5 ? 'five'
                     : 'single'
                   }
@@ -515,7 +521,9 @@ const App: React.FC = () => {
                 <>
                   <h2 className="text-3xl font-black mb-2 text-amber-400 bg-clip-text">{t('subLevels.subLevelComplete')}</h2>
                   <p className="text-slate-300">
-                    {formatTranslation(t('subLevels.youEarnedStarsCount'), { count: showResult.starEarned })}
+                    {showResult.randomMode
+                      ? formatTranslation(t('subLevels.randomModeStarsEarned'), { count: showResult.starEarned })
+                      : formatTranslation(t('subLevels.youEarnedStarsCount'), { count: showResult.starEarned })}
                   </p>
                 </>
               ) : (

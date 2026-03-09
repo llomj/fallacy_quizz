@@ -65,6 +65,8 @@ export interface RandomModeStats {
   totalCorrect: number;
   lastSessionScore?: number;
   lastSessionTotal?: number;
+  /** Stars 0–5 from last Random session (from % correct). Separate from level stars. */
+  lastSessionStars?: number;
 }
 
 export interface UserStats {

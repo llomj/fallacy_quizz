@@ -236,6 +236,78 @@ export async function playFiveStarCelebrationSound(): Promise<void> {
   schedule(523.25, 1.5, 1.5, 'sawtooth', 0.04);
 }
 
+/** Longer, more joyful victory fanfare for Random mode 5 stars (many questions, hard to achieve). */
+export async function playRandomFiveStarCelebrationSound(): Promise<void> {
+  const ctx = getAudioContext();
+  if (!ctx) return;
+
+  if (ctx.state === 'suspended') ctx.resume().catch(() => {});
+
+  const now = ctx.currentTime;
+  const masterGain = ctx.createGain();
+  masterGain.connect(ctx.destination);
+  masterGain.gain.setValueAtTime(0.0001, now);
+  masterGain.gain.exponentialRampToValueAtTime(0.28, now + 0.05);
+  masterGain.gain.setValueAtTime(0.22, now + 2.5);
+  masterGain.gain.setValueAtTime(0.18, now + 5);
+  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 7.5);
+
+  const schedule = (
+    frequency: number,
+    startOffset: number,
+    duration: number,
+    type: OscillatorType,
+    volume = 0.14
+  ) => {
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    const start = now + startOffset;
+    const end = start + duration;
+    osc.type = type;
+    osc.frequency.setValueAtTime(frequency, start);
+    gain.gain.setValueAtTime(0.0001, start);
+    gain.gain.exponentialRampToValueAtTime(volume, start + 0.03);
+    gain.gain.exponentialRampToValueAtTime(0.0001, end);
+    osc.connect(gain);
+    gain.connect(masterGain);
+    osc.start(start);
+    osc.stop(end + 0.02);
+  };
+
+  // Long, joyful game-style melody: multiple peaks, celebratory
+  const melody = [
+    { freq: 523.25, at: 0, len: 0.22 },
+    { freq: 659.25, at: 0.2, len: 0.22 },
+    { freq: 783.99, at: 0.4, len: 0.25 },
+    { freq: 1046.5, at: 0.65, len: 0.35 },
+    { freq: 1318.51, at: 0.95, len: 0.4 },
+    { freq: 1567.98, at: 1.35, len: 0.55 },
+    { freq: 1318.51, at: 1.9, len: 0.3 },
+    { freq: 1046.5, at: 2.2, len: 0.35 },
+    { freq: 1318.51, at: 2.55, len: 0.45 },
+    { freq: 1567.98, at: 3, len: 0.5 },
+    { freq: 2093, at: 3.5, len: 0.6 },
+    { freq: 1567.98, at: 4.1, len: 0.4 },
+    { freq: 1318.51, at: 4.5, len: 0.45 },
+    { freq: 1046.5, at: 4.95, len: 0.5 },
+    { freq: 1318.51, at: 5.45, len: 0.5 },
+    { freq: 1567.98, at: 5.95, len: 0.55 },
+    { freq: 2093, at: 6.5, len: 0.7 },
+    { freq: 1318.51, at: 7.2, len: 0.9 },
+  ];
+  melody.forEach((n) => {
+    schedule(n.freq, n.at, n.len, 'square', 0.13);
+    schedule(n.freq * 0.5, n.at, n.len, 'triangle', 0.07);
+  });
+  schedule(261.63, 0, 3, 'sawtooth', 0.06);
+  schedule(329.63, 0.5, 3, 'sawtooth', 0.05);
+  schedule(392, 1, 3.5, 'sawtooth', 0.05);
+  schedule(523.25, 1.5, 3, 'sawtooth', 0.04);
+  schedule(261.63, 4, 2.5, 'sawtooth', 0.05);
+  schedule(392, 4.5, 3, 'sawtooth', 0.05);
+  schedule(523.25, 5, 2.5, 'sawtooth', 0.05);
+}
+
 /** Extended victory fanfare when user achieves 5 stars on ALL levels. Longer, happier congratulatory music. */
 export async function playAllLevelsCelebrationSound(): Promise<void> {
   const ctx = getAudioContext();
