@@ -72,7 +72,7 @@ export const getNextRandomModeThreshold = (score: number): { minScore: number; p
 
 /** Emoji icons for each persona (level selection, badges). */
 export const PERSONA_EMOJI: Record<PersonaStage, string> = {
-  [PersonaStage.TADPOLE]: "☄️",
+  [PersonaStage.TADPOLE]: "💧",
   [PersonaStage.PLANKTON]: "🦠",
   [PersonaStage.SHRIMP]: "🦐",
   [PersonaStage.CRAB]: "🦀",
