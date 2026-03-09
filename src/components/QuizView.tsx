@@ -997,8 +997,18 @@ export const QuizView: React.FC<QuizViewProps> = ({
             {(() => {
               const { prefix, code } = splitQuestion(displayQuestion, language);
               const displayText = displayQuestion;
-              // If we detected code, show prefix at top and code below with syntax highlighting
-              if (code) {
+              
+              // Only format as code if it explicitly contains recognizable programming keywords or structures
+              // The logic below checks if `code` actually resembles programming rather than natural language
+              const isActuallyCode = code && (
+                /\b(def|class|for|while|if|with|import|from)\s+/.test(code) ||
+                /[a-zA-Z_]\w*\s*\(/.test(code) && !/What is|Result of|Value of|Which/i.test(code) ||
+                /\[\d*:?-?\d*:?-?\d*\]/.test(code) ||
+                /[\+\-\*\/\%]\s*\d/.test(code)
+              );
+
+              // If we detected actual code, show prefix at top and code below with syntax highlighting
+              if (isActuallyCode) {
                 return (
                   <div className="flex flex-col">
                     {/* Question text always grouped at the top */}
@@ -1016,7 +1026,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                   </div>
                 );
               }
-              // No code block: always white for logical fallacies and other prose (AGENTS.md §10).
+              // No actual code block: always white for logical fallacies and other prose (AGENTS.md §10).
               return (
                 <h2 className="text-base md:text-lg font-semibold leading-relaxed text-white px-6 py-5">
                   {displayText}
