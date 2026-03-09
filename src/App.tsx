@@ -15,6 +15,7 @@ const PREFS_STORAGE_KEY = 'logical_fallacies_learn_prefs_v1';
 const INITIAL_STATS: UserStats = {
   currentLevel: 1,
   xp: 0,
+  randomModeXp: 0,
   totalAttempts: 0,
   completedQuestionIds: [],
   highestUnlockedLevel: 1,
@@ -264,12 +265,11 @@ const App: React.FC = () => {
     const xpGained = score * XP_PER_QUESTION;
 
     if (randomMode) {
-      // Random mode: update randomModeStats only; levelProgress unchanged. Stars 0–5 from session % (separate from level stars).
+      // Random mode: own XP only; level xp unchanged. Stars from session % (separate from level stars).
       const sessionPercent = total > 0 ? (100 * score) / total : 0;
       const sessionStars = getRandomModeStarsFromAccuracy(sessionPercent);
 
       setStats(prev => {
-        const newXp = prev.xp + xpGained;
         const rm = prev.randomModeStats ?? { totalAnswered: 0, totalCorrect: 0 };
         const newTotalAnswered = rm.totalAnswered + total;
         const newTotalCorrect = rm.totalCorrect + score;
@@ -283,7 +283,7 @@ const App: React.FC = () => {
         };
         return {
           ...prev,
-          xp: newXp,
+          randomModeXp: (prev.randomModeXp ?? 0) + xpGained,
           randomModeStats: newRm,
           lastSessionScore: score,
           lastSessionTotal: total
@@ -398,7 +398,7 @@ const App: React.FC = () => {
 
             <div className="flex items-center gap-2">
               <i className="fas fa-bolt text-yellow-300 text-sm"></i>
-              <span className="text-sm font-bold text-[#FF00FF]">{stats.xp.toLocaleString()}</span>
+              <span className="text-sm font-bold text-[#FF00FF]">{(randomMode ? (stats.randomModeXp ?? 0) : stats.xp).toLocaleString()}</span>
             </div>
           </div>
 
