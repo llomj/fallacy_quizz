@@ -74,3 +74,7 @@ Before any commit that should go live, confirm with `git remote -v` that you wil
 ## 12. Offline PWA Requirement (CRITICAL)
 - **Goal**: The application must run fully offline when opened from the phone's home screen or browser.
 - **Rule**: Whenever changes are made to the service worker, caching, or PWA configurations (`vite.config.ts`, `manifest.json`), ensure that the app can function entirely without internet connectivity. `vite-plugin-pwa` is configured to precache all assets, and the manifest should have the correct `start_url` relative to the repository path.
+
+## 13. Level Mode vs Random Mode — Separate Point Systems & Start Level (CRITICAL)
+- **Separate points**: Level mode and Random mode each have their own point system. Level mode uses `xp`; Random mode uses `randomModeXp`. Points must never be shared or carried over between modes. When the user is in Random mode, the UI (e.g. nav bar bolt/XP) must show only Random-mode points (starting at 0 when they have not yet earned any in Random). When in Level mode, show only Level-mode `xp`.
+- **Start level**: When a user starts the game (fresh state), the game starts on **level 0**, not level 1. Initial state must use `currentLevel: 0` and `highestUnlockedLevel: 0`. Do not default new users to level 1.

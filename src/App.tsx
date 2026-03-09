@@ -13,12 +13,12 @@ const LOCAL_STORAGE_KEY = 'logical_fallacies_learn_stats_v1';
 const PREFS_STORAGE_KEY = 'logical_fallacies_learn_prefs_v1';
 
 const INITIAL_STATS: UserStats = {
-  currentLevel: 1,
+  currentLevel: 0,
   xp: 0,
   randomModeXp: 0,
   totalAttempts: 0,
   completedQuestionIds: [],
-  highestUnlockedLevel: 1,
+  highestUnlockedLevel: 0,
   levelProgress: {},
   correctPerLevel: {},
   acquiredStars: {},
@@ -92,6 +92,9 @@ const App: React.FC = () => {
   const [showSettingsMenu, setShowSettingsMenu] = useState(false);
   const [showResetModal, setShowResetModal] = useState(false);
 
+  // Level and Random mode have separate point systems; nav must show only the current mode's XP.
+  const displayXp = randomMode ? (stats.randomModeXp ?? 0) : stats.xp;
+
   const toggleLanguage = () => {
     setLanguage(language === 'en' ? 'fr' : 'en');
   };
@@ -161,6 +164,8 @@ const App: React.FC = () => {
           parsed.randomModeStats = { totalAnswered: 0, totalCorrect: 0 };
         }
         if (parsed.randomMode === undefined) parsed.randomMode = false;
+        // Ensure random mode has its own XP; never carry level xp into random display.
+        if (parsed.randomModeXp === undefined) parsed.randomModeXp = 0;
         setStats(parsed);
       } catch (e) {
         console.error("Corrupted state, resetting", e);
@@ -398,7 +403,7 @@ const App: React.FC = () => {
 
             <div className="flex items-center gap-2">
               <i className="fas fa-bolt text-yellow-300 text-sm"></i>
-              <span className="text-sm font-bold text-[#FF00FF]">{(randomMode ? (stats.randomModeXp ?? 0) : stats.xp).toLocaleString()}</span>
+              <span className="text-sm font-bold text-[#FF00FF]">{displayXp.toLocaleString()}</span>
             </div>
           </div>
 
