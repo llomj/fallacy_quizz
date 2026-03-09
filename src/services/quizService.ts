@@ -25,55 +25,33 @@ export class QuizService {
       return [];
     }
 
-    // 2. Normal path: we have at least `count` questions for this mode/level
-    if (levelQuestions.length >= count) {
-      // Exclude already completed questions to prevent repeats across sessions
-      const completedIdsSet = new Set(completedIds);
-      const available = levelQuestions.filter(q => !completedIdsSet.has(q.id));
-
-      let source = [...available];
-
-      // If we don't have enough uncompleted questions to fill the count, supplemental with already completed ones
-      if (source.length < count) {
-        const alreadyCompleted = levelQuestions.filter(q => completedIdsSet.has(q.id));
-        // Shuffle the completed ones and add them to the end of the available ones
-        const shuffledCompleted = [...alreadyCompleted].sort(() => Math.random() - 0.5);
-        source = [...source, ...shuffledCompleted];
-      }
-
-      // Robust shuffle (Fisher-Yates style for better randomness)
-      // We shuffle the whole pool so that alreadyCompleted questions are mixed in
-      for (let i = source.length - 1; i > 0; i--) {
+    const shuffleArray = <T>(array: T[]): T[] => {
+      const arr = [...array];
+      for (let i = arr.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
-        [source[i], source[j]] = [source[j], source[i]];
+        [arr[i], arr[j]] = [arr[j], arr[i]];
       }
+      return arr;
+    };
 
-      // Ensure no duplicate IDs within the batch
-      const selected: Question[] = [];
-      const seenIds = new Set<number>();
+    // Exclude already completed questions to prioritize new ones
+    const completedIdsSet = new Set(completedIds);
+    let available = levelQuestions.filter(q => !completedIdsSet.has(q.id));
+    let completed = levelQuestions.filter(q => completedIdsSet.has(q.id));
 
-      for (const question of source) {
-        if (selected.length >= count) break;
-        if (!seenIds.has(question.id)) {
-          selected.push(question);
-          seenIds.add(question.id);
-        }
-      }
+    available = shuffleArray(available);
+    completed = shuffleArray(completed);
 
-      return selected;
+    let selected = available.slice(0, count);
+
+    // If we need more to reach 'count', and we have completed questions, use them
+    if (selected.length < count && completed.length > 0) {
+      const needed = count - selected.length;
+      selected = [...selected, ...completed.slice(0, needed)];
     }
 
-    // 3. Small-bank path: fewer than `count` questions exist for this level/mode in total.
-    // In this case we *always* return exactly `count` questions, allowing repeats within the batch.
-    const pool = [...levelQuestions];
-    const result: Question[] = [];
-
-    while (result.length < count && pool.length > 0) {
-      const q = pool[Math.floor(Math.random() * pool.length)];
-      result.push(q);
-    }
-
-    return result;
+    // Finally, shuffle the selected batch so new and review questions are mixed
+    return shuffleArray(selected);
   }
 
 }

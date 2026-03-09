@@ -238,7 +238,7 @@ const App: React.FC = () => {
       ...prev,
       totalAttempts: (prev.totalAttempts ?? 0) + 1,
       history: [attempt, ...prev.history].slice(0, 1000),
-      completedQuestionIds: attempt.isCorrect && !prev.completedQuestionIds.includes(attempt.id)
+      completedQuestionIds: !prev.completedQuestionIds.includes(attempt.id)
         ? [...prev.completedQuestionIds, attempt.id]
         : prev.completedQuestionIds
     }));

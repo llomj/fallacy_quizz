@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
+import { VitePWA } from 'vite-plugin-pwa';
 
 export default defineConfig(({ mode }) => {
   // Use base path for GitHub Pages production build, but '/' for local development
@@ -7,7 +8,20 @@ export default defineConfig(({ mode }) => {
   const base = mode === 'production' ? `/${repo}/` : '/';
   
   return {
-    plugins: [react()],
+    plugins: [
+      react(),
+      VitePWA({
+        registerType: 'autoUpdate',
+        manifest: false, // We already have a manifest.json in public folder, but PWA plugin can inject it if needed. Actually it's better to let VitePWA handle it, but for now we can just let it cache everything. Let's configure it properly.
+        injectRegister: 'auto',
+        workbox: {
+          globPatterns: ['**/*.{js,css,html,ico,png,svg,json}'],
+          maximumFileSizeToCacheInBytes: 10 * 1024 * 1024, // 10MB to cover potentially large chunk files
+          cleanupOutdatedCaches: true,
+          sourcemap: true
+        }
+      })
+    ],
     base,
     define: {
       __BUILD_TIME__: JSON.stringify(new Date().toISOString().slice(0, 19).replace('T', ' ')),
