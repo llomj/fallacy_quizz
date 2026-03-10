@@ -724,14 +724,18 @@ const App: React.FC = () => {
         </Suspense>
       )}
 
-      {/* ID Log View */}
+      {/* ID Log View — same window size as Logical Rules */}
       {showIdLog && (
-        <Suspense fallback={<ViewLoading />}>
-          <IdLogView
-            entries={stats.idLog}
-            onClose={() => setShowIdLog(false)}
-          />
-        </Suspense>
+        <div className="fixed inset-0 z-[100] bg-slate-950 overflow-y-auto">
+          <div className="container mx-auto px-4 py-8 max-w-4xl">
+            <Suspense fallback={<ViewLoading />}>
+              <IdLogView
+                entries={stats.idLog}
+                onClose={() => setShowIdLog(false)}
+              />
+            </Suspense>
+          </div>
+        </div>
       )}
 
       {/* Level Selector Modal */}

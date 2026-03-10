@@ -133,9 +133,8 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose }) => {
   };
 
   return (
-    <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4">
-      <div className="glass rounded-3xl p-8 max-w-4xl w-full max-h-[90vh] overflow-y-auto space-y-6 animate-in zoom-in duration-300 shadow-2xl border border-white/10">
-        <div className="flex items-center justify-between">
+    <div className="relative min-h-[600px] animate-in slide-in-from-left duration-500 pb-12 space-y-6">
+      <div className="flex items-center justify-between mb-8">
           <h2 className="text-2xl font-black text-white flex items-center gap-3">
             <i className="fas fa-list text-yellow-300"></i> {t('idSearch.idLog')}
           </h2>
@@ -318,7 +317,6 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose }) => {
             })}
           </div>
         )}
-      </div>
     </div>
   );
 };
