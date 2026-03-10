@@ -16,6 +16,22 @@ git push fallacy main
 
 **Never** use `git push origin main` — that pushes to CLI_exercises, not fallacy_quizz. The deployed app will not update.
 
+---
+
+## Menu and subwindow width (same as menu)
+
+**Rule:** The Settings menu panel and every subwindow opened from it (Rules, Log, ID Log, Learning log, Glossary, Search by ID, Level selector, etc.) must use the **same width** so the UI is consistent.
+
+- **Width:** `MENU_SUBWINDOW_WIDTH_PX` in `src/constants.ts` (currently **480px**). Use Tailwind `max-w-[480px]` for content and `w-[480px] max-w-[calc(100vw-2rem)]` for the menu panel so it doesn’t overflow on small screens.
+- **Where it’s applied:**
+  - **SettingsMenu:** All panel wrappers (main menu, Log submenu, Rules submenu, Settings submenu) use `w-[480px] max-w-[calc(100vw-2rem)]`.
+  - **App.tsx:** All overlay content containers for Logical Rules, Learning log, ID Log, Operations, Methods, Flags, Flow use `max-w-[480px]`.
+  - **IdSearchModal, LevelSelectorModal:** Inner panel uses `max-w-[480px]`.
+  - **Glossary** (when `view === 'glossary'`): Wrapped in `max-w-[480px] mx-auto` in main.
+- When you **refresh the app**, these widths are in effect; if a new modal or menu is added, use the same 480px (or the constant) so it matches.
+
+---
+
 ### When "local (Cursor) looks correct but deployed site is different" — DIAGNOSTIC CHECKLIST
 
 **Why there are several deployment runs:**  

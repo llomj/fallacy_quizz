@@ -1,5 +1,8 @@
 import { PersonaStage, LevelInfo, RandomModeStats } from './types';
 
+/** Width (px) for Settings menu panel and all subwindows (Rules, Log, ID Log, Learning log, etc.). Use Tailwind max-w-[480px] / w-[480px]. See ps.md. */
+export const MENU_SUBWINDOW_WIDTH_PX = 480;
+
 export const XP_PER_QUESTION = 10;
 export const QUESTIONS_PER_LEVEL = 100; // Matches fallaciesData.ts (100 per level × 10 levels)
 export const SUBLEVELS_PER_LEVEL = 3;
