@@ -216,7 +216,7 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
 
   return (
     <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4">
-      <div className="glass rounded-3xl p-8 max-w-[240px] w-full max-h-[90vh] overflow-y-auto space-y-6 animate-in zoom-in duration-300 shadow-2xl border border-white/10">
+      <div className="glass rounded-3xl p-8 w-[calc(100vw-2rem)] max-w-4xl max-h-[90vh] overflow-y-auto space-y-6 animate-in zoom-in duration-300 shadow-2xl border border-white/10">
         <div className="flex items-center justify-between">
           <h2 className="text-2xl font-black text-white flex items-center gap-3">
             <i className="fas fa-hashtag text-yellow-300"></i> {t('idSearch.searchById')}
