@@ -39,6 +39,7 @@ export const translations = {
       lastRunStars: "Last run: {count} star(s)",
       randomModeAbsorbText: "Analyze 15 random arguments from all levels to earn evolution points.",
       randomModeDescription: "Arguments from all levels. Earn points to evolve through the same 10 personas.",
+      conceptClickHint: "Tap to see definition",
     },
     
     // Quiz View
@@ -305,6 +306,7 @@ export const translations = {
       lastRunStars: "Dernière run : {count} étoile(s)",
       randomModeAbsorbText: "Analysez 15 arguments aléatoires de tous les niveaux pour gagner des points d'évolution.",
       randomModeDescription: "Arguments de tous les niveaux. Gagnez des points pour évoluer à travers les mêmes 10 personas.",
+      conceptClickHint: "Appuyez pour voir la définition",
     },
 
     // Quiz View

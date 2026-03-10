@@ -1,9 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { UserStats, PersonaStage } from '../types';
 import { LEVELS, QUESTIONS_PER_LEVEL, TOTAL_QUESTIONS, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getRandomModeScore, getPersonaFromRandomScore, getNextRandomModeThreshold } from '../constants';
 import { PersonaBadge } from './PersonaBadge';
 import { ProgressBar } from './ProgressBar';
+import { ConceptTooltipModal } from './ConceptTooltipModal';
 import { useLanguage } from '../contexts/LanguageContext';
+import { useTranslatedGlossary } from '../hooks/useTranslatedData';
+import { getConceptDefinition } from '../utils/conceptDefinitions';
 import { formatTranslation } from '../translations';
 
 interface EvolutionHubProps {
@@ -14,6 +17,8 @@ interface EvolutionHubProps {
 
 export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, onPlayClickSound }) => {
   const { t, language } = useLanguage();
+  const glossary = useTranslatedGlossary();
+  const [selectedConcept, setSelectedConcept] = useState<{ label: string; definition: string | null } | null>(null);
   const randomMode = stats.randomMode ?? false;
   const rm = stats.randomModeStats ?? { totalAnswered: 0, totalCorrect: 0 };
   const randomScore = getRandomModeScore(rm);
@@ -180,9 +185,21 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
                 </p>
                 <div className="mt-6 flex flex-wrap gap-2">
                   {(language === 'fr' ? currentLevelInfo.conceptsFr : currentLevelInfo.conceptsEn).map(c => (
-                    <span key={c} className="px-3 py-1 rounded-full bg-yellow-400/10 text-yellow-300 text-[9px] font-mono border border-yellow-400/40">
+                    <button
+                      key={c}
+                      type="button"
+                      onClick={() => {
+                        onPlayClickSound?.();
+                        setSelectedConcept({
+                          label: c,
+                          definition: getConceptDefinition(c, language === 'fr' ? 'fr' : 'en', glossary),
+                        });
+                      }}
+                      className="px-3 py-1 rounded-full bg-yellow-400/10 text-yellow-300 text-[9px] font-mono border border-yellow-400/40 hover:bg-yellow-400/20 hover:border-yellow-400/60 transition-colors cursor-pointer text-left"
+                      title={t('hub.conceptClickHint')}
+                    >
                       {c}
-                    </span>
+                    </button>
                   ))}
                 </div>
               </div>
@@ -238,6 +255,14 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
           </div>
         </div>
       </div>
+
+      {selectedConcept && (
+        <ConceptTooltipModal
+          conceptLabel={selectedConcept.label}
+          definition={selectedConcept.definition}
+          onClose={() => setSelectedConcept(null)}
+        />
+      )}
     </div>
   );
 };
