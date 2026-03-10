@@ -47,20 +47,21 @@ const ViewLoading: React.FC = () => (
   </div>
 );
 
-const DEFAULT_PREFS = { soundEnabled: true, hapticEnabled: true };
+const DEFAULT_PREFS = { soundEnabled: true, hapticEnabled: true, lightMode: false };
 
 const App: React.FC = () => {
   const { language, setLanguage, t } = useLanguage();
   const [stats, setStats] = useState<UserStats>(INITIAL_STATS);
-  const [prefs, setPrefs] = useState<{ soundEnabled: boolean; hapticEnabled: boolean }>(() => {
+  const [prefs, setPrefs] = useState<{ soundEnabled: boolean; hapticEnabled: boolean; lightMode: boolean }>(() => {
     if (typeof window === 'undefined') return DEFAULT_PREFS;
     try {
       const raw = localStorage.getItem(PREFS_STORAGE_KEY);
       if (raw) {
-        const p = JSON.parse(raw) as { soundEnabled?: boolean; hapticEnabled?: boolean };
+        const p = JSON.parse(raw) as { soundEnabled?: boolean; hapticEnabled?: boolean; lightMode?: boolean };
         return {
           soundEnabled: p.soundEnabled !== false,
-          hapticEnabled: p.hapticEnabled !== false
+          hapticEnabled: p.hapticEnabled !== false,
+          lightMode: p.lightMode === true
         };
       }
     } catch (_) {}
@@ -383,7 +384,10 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-200 selection:bg-yellow-400/30 pb-28">
+    <div
+      data-theme={prefs.lightMode ? 'light' : 'dark'}
+      className={`min-h-screen selection:bg-yellow-400/30 pb-28 ${prefs.lightMode ? 'bg-slate-100 text-slate-800' : 'bg-slate-950 text-slate-200'}`}
+    >
       <nav className="pt-[env(safe-area-inset-top)] px-2 pb-1.5 flex items-center justify-between border-b border-white/5 sticky top-0 z-50 glass">
         <div className="flex w-full items-center gap-4">
           <div className="flex items-center gap-2 cursor-pointer" onClick={() => { playClickSound(); setView('hub'); }}>
@@ -461,6 +465,8 @@ const App: React.FC = () => {
         onToggleSound={() => setPrefs(p => ({ ...p, soundEnabled: !p.soundEnabled }))}
         hapticEnabled={prefs.hapticEnabled}
         onToggleHaptic={() => setPrefs(p => ({ ...p, hapticEnabled: !p.hapticEnabled }))}
+        lightMode={prefs.lightMode}
+        onToggleLightMode={() => setPrefs(p => ({ ...p, lightMode: !p.lightMode }))}
         onShowGlossary={() => setView('glossary')}
         onShowArgumentation={() => setShowArgumentation(true)}
         onShowIdSearch={(initialId?: number) => { setIdSearchInitialId(initialId ?? null); setShowIdSearch(true); }}

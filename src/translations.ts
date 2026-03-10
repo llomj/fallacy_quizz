@@ -188,6 +188,9 @@ export const translations = {
       haptic: "Haptic",
       hapticOn: "Haptic: On",
       hapticOff: "Haptic: Off",
+      lightMode: "Light mode",
+      lightModeOn: "Light mode: On",
+      lightModeOff: "Light mode: Off",
       previewStarSounds: "Preview star sounds",
     },
     
@@ -479,6 +482,9 @@ export const translations = {
       haptic: "Vibrations",
       hapticOn: "Vibrations : Activées",
       hapticOff: "Vibrations : Désactivées",
+      lightMode: "Mode clair",
+      lightModeOn: "Mode clair : Activé",
+      lightModeOff: "Mode clair : Désactivé",
       previewStarSounds: "Écouter les sons des étoiles",
     },
     

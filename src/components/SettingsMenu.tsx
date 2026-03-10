@@ -54,6 +54,8 @@ interface SettingsMenuProps {
   onToggleSound?: () => void;
   hapticEnabled?: boolean;
   onToggleHaptic?: () => void;
+  lightMode?: boolean;
+  onToggleLightMode?: () => void;
   onShowGlossary?: () => void;
   onShowArgumentation?: () => void;
   onShowIdSearch?: (initialId?: number) => void;
@@ -76,6 +78,8 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   onToggleSound,
   hapticEnabled = true,
   onToggleHaptic,
+  lightMode = false,
+  onToggleLightMode,
   onShowGlossary,
   onShowArgumentation,
   onShowIdSearch,
@@ -169,8 +173,8 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
       onClick: withClickSound(() => { onToggleLanguage(); onClose(); })
     });
   }
-  // Settings (submenu: sound, haptic, refresh app) — under Translation per user request
-  const hasSettingsContent = Boolean(onToggleSound !== undefined || onToggleHaptic !== undefined);
+  // Settings (submenu: sound, haptic, light mode, refresh app) — under Translation per user request
+  const hasSettingsContent = Boolean(onToggleSound !== undefined || onToggleHaptic !== undefined || onToggleLightMode !== undefined);
   if (hasSettingsContent) {
     menuItems.push({
       icon: 'fa-gear',
@@ -272,6 +276,14 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                 onChange={withClickSound(onToggleHaptic)}
                 label={t('settings.haptic')}
                 icon="fa-hand"
+              />
+            )}
+            {onToggleLightMode !== undefined && (
+              <ToggleSwitch
+                checked={lightMode}
+                onChange={withClickSound(onToggleLightMode)}
+                label={t('settings.lightMode')}
+                icon={lightMode ? 'fa-sun' : 'fa-moon'}
               />
             )}
             <button
