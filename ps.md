@@ -20,16 +20,14 @@ git push fallacy main
 
 ## Menu and subwindow width (same as menu)
 
-**Rule:** The **main menu panel** keeps its original width (`min-w-[200px]` only; do not make it larger). Every **subwindow** opened from it (Rules, Log, ID Log, Learning log, Glossary, Search by ID, Level selector, etc.) must use the **same width as the main menu panel** so the UI is consistent.
+**Rule:** The **main menu panel** and every **submenu panel** (Log, Rules, Settings) must be the **same width**. So when you open the gear menu you see the main menu; when you tap Log you see the Log submenu (Search by ID, ID Log, Learning log) — that submenu panel must be the same width as the main menu panel.
 
-- **Menu panel:** Unchanged — `min-w-[200px]` only (no fixed width). Do not add `w-[480px]` or similar to the menu.
-- **Subwindow width:** `MENU_SUBWINDOW_WIDTH_PX` in `src/constants.ts` (currently **240px**). Use Tailwind `max-w-[240px]` for all subwindow content so it matches the menu panel.
+- **Menu panels (main + Log submenu + Rules submenu + Settings submenu):** All use `min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)]` so they are the same width (280px when there’s room). Do not make the main menu one size and the Log submenu another.
+- **Subwindow overlays** (Rules content, ID Log content, Learning log, etc.): Use `MENU_SUBWINDOW_WIDTH_PX` (240px) and `max-w-[240px]` for overlay content; see constants.ts.
 - **Where it’s applied:**
-  - **SettingsMenu:** Panel wrappers stay `min-w-[200px]` only.
-  - **App.tsx:** All overlay content containers for Logical Rules, Learning log, ID Log, Operations, Methods, Flags, Flow use `max-w-[240px]`.
-  - **IdSearchModal, LevelSelectorModal:** Inner panel uses `max-w-[240px]`.
-  - **Glossary** (when `view === 'glossary'`): Wrapped in `max-w-[240px] mx-auto` in main.
-- When you **refresh the app**, the menu is unchanged and subwindows match it; if a new subwindow is added, use the same width (constant) so it matches the menu.
+  - **SettingsMenu:** All four panel wrappers (main menu, Log submenu, Rules submenu, Settings submenu) use `w-[280px]` so the Log submenu is the same width as the main menu.
+  - **App.tsx / IdSearchModal / LevelSelectorModal / Glossary:** Overlay content uses `max-w-[240px]` as needed.
+- When you **refresh the app**, the Log submenu (Search by ID, ID Log, Learning log) is the same width as the main menu.
 
 ---
 
