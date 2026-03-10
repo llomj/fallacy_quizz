@@ -482,7 +482,7 @@ const App: React.FC = () => {
           null
         ) : view === 'glossary' ? (
           <Suspense fallback={<ViewLoading />}>
-            <div className="max-w-[480px] mx-auto">
+            <div className="max-w-[240px] mx-auto">
               <GlossaryView onBack={() => setView('hub')} />
             </div>
           </Suspense>
@@ -586,7 +586,7 @@ const App: React.FC = () => {
       {/* Operations View Modal */}
       {showOperations && (
         <div className="fixed inset-0 z-[100] bg-slate-950 overflow-y-auto">
-          <div className="container mx-auto px-4 py-8 max-w-[480px]">
+          <div className="container mx-auto px-4 py-8 max-w-[240px]">
             <Suspense fallback={<ViewLoading />}>
               <OperationsView onBack={() => setShowOperations(false)} />
             </Suspense>
@@ -597,7 +597,7 @@ const App: React.FC = () => {
       {/* Methods View Modal */}
       {showMethods && (
         <div className="fixed inset-0 z-[100] bg-slate-950 overflow-y-auto">
-          <div className="container mx-auto px-4 py-8 max-w-[480px]">
+          <div className="container mx-auto px-4 py-8 max-w-[240px]">
             <Suspense fallback={<ViewLoading />}>
               <MethodsView onBack={() => setShowMethods(false)} />
             </Suspense>
@@ -608,7 +608,7 @@ const App: React.FC = () => {
       {/* Flags View Modal */}
       {showFlags && (
         <div className="fixed inset-0 z-[100] bg-slate-950 overflow-y-auto">
-          <div className="container mx-auto px-4 py-8 max-w-[480px]">
+          <div className="container mx-auto px-4 py-8 max-w-[240px]">
             <Suspense fallback={<ViewLoading />}>
               <FlagsView onBack={() => setShowFlags(false)} />
             </Suspense>
@@ -619,7 +619,7 @@ const App: React.FC = () => {
       {/* Flow View Modal */}
       {showFlow && (
         <div className="fixed inset-0 z-[100] bg-slate-950 overflow-y-auto">
-          <div className="container mx-auto px-4 py-8 max-w-[480px]">
+          <div className="container mx-auto px-4 py-8 max-w-[240px]">
             <Suspense fallback={<ViewLoading />}>
               <FlowView onBack={() => setShowFlow(false)} />
             </Suspense>
@@ -630,7 +630,7 @@ const App: React.FC = () => {
       {/* Logical Rules & Argumentation Modal */}
       {showArgumentation && (
         <div className="fixed inset-0 z-[100] w-full min-h-screen bg-slate-950 overflow-y-auto">
-          <div className="container mx-auto px-4 py-8 max-w-[480px]">
+          <div className="container mx-auto px-4 py-8 max-w-[240px]">
             <Suspense fallback={<ViewLoading />}>
               <ArgumentationView onBack={() => setShowArgumentation(false)} />
             </Suspense>
@@ -722,7 +722,7 @@ const App: React.FC = () => {
       {/* Learning Log — full-screen overlay, same width as menu (see ps.md) */}
       {view === 'log' && (
         <div className="fixed inset-0 z-[100] w-full min-h-screen bg-slate-950 overflow-y-auto">
-          <div className="container mx-auto px-4 py-8 max-w-[480px]">
+          <div className="container mx-auto px-4 py-8 max-w-[240px]">
             <Suspense fallback={<ViewLoading />}>
               <HistoryLog
                 history={stats.history}
@@ -738,7 +738,7 @@ const App: React.FC = () => {
       {/* ID Log View — full-screen overlay, same width as menu (see ps.md) */}
       {showIdLog && (
         <div className="fixed inset-0 z-[100] w-full min-h-screen bg-slate-950 overflow-y-auto">
-          <div className="container mx-auto px-4 py-8 max-w-[480px]">
+          <div className="container mx-auto px-4 py-8 max-w-[240px]">
             <Suspense fallback={<ViewLoading />}>
               <IdLogView
                 entries={stats.idLog}

@@ -20,15 +20,16 @@ git push fallacy main
 
 ## Menu and subwindow width (same as menu)
 
-**Rule:** The Settings menu panel and every subwindow opened from it (Rules, Log, ID Log, Learning log, Glossary, Search by ID, Level selector, etc.) must use the **same width** so the UI is consistent.
+**Rule:** The **main menu panel** keeps its original width (`min-w-[200px]` only; do not make it larger). Every **subwindow** opened from it (Rules, Log, ID Log, Learning log, Glossary, Search by ID, Level selector, etc.) must use the **same width as the main menu panel** so the UI is consistent.
 
-- **Width:** `MENU_SUBWINDOW_WIDTH_PX` in `src/constants.ts` (currently **480px**). Use Tailwind `max-w-[480px]` for content and `w-[480px] max-w-[calc(100vw-2rem)]` for the menu panel so it doesn’t overflow on small screens.
+- **Menu panel:** Unchanged — `min-w-[200px]` only (no fixed width). Do not add `w-[480px]` or similar to the menu.
+- **Subwindow width:** `MENU_SUBWINDOW_WIDTH_PX` in `src/constants.ts` (currently **240px**). Use Tailwind `max-w-[240px]` for all subwindow content so it matches the menu panel.
 - **Where it’s applied:**
-  - **SettingsMenu:** All panel wrappers (main menu, Log submenu, Rules submenu, Settings submenu) use `w-[480px] max-w-[calc(100vw-2rem)]`.
-  - **App.tsx:** All overlay content containers for Logical Rules, Learning log, ID Log, Operations, Methods, Flags, Flow use `max-w-[480px]`.
-  - **IdSearchModal, LevelSelectorModal:** Inner panel uses `max-w-[480px]`.
-  - **Glossary** (when `view === 'glossary'`): Wrapped in `max-w-[480px] mx-auto` in main.
-- When you **refresh the app**, these widths are in effect; if a new modal or menu is added, use the same 480px (or the constant) so it matches.
+  - **SettingsMenu:** Panel wrappers stay `min-w-[200px]` only.
+  - **App.tsx:** All overlay content containers for Logical Rules, Learning log, ID Log, Operations, Methods, Flags, Flow use `max-w-[240px]`.
+  - **IdSearchModal, LevelSelectorModal:** Inner panel uses `max-w-[240px]`.
+  - **Glossary** (when `view === 'glossary'`): Wrapped in `max-w-[240px] mx-auto` in main.
+- When you **refresh the app**, the menu is unchanged and subwindows match it; if a new subwindow is added, use the same width (constant) so it matches the menu.
 
 ---
 

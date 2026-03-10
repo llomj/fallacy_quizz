@@ -186,7 +186,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return (
       <>
         <div className="fixed inset-0 z-40" onClick={onClose} />
-        <div className={`z-50 min-w-[200px] w-[480px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+        <div className={`z-50 min-w-[200px] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-white/5 backdrop-blur-sm">
             <button
               onClick={withClickSound(() => setLogSubmenuOpen(false))}
@@ -247,7 +247,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return (
       <>
         <div className="fixed inset-0 z-40" onClick={onClose} />
-        <div className={`z-50 min-w-[200px] w-[480px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+        <div className={`z-50 min-w-[200px] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-white/5 backdrop-blur-sm">
             <button
               onClick={withClickSound(() => setSettingsSubmenuOpen(false))}
@@ -290,7 +290,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return (
       <>
         <div className="fixed inset-0 z-40" onClick={onClose} />
-        <div className={`z-50 min-w-[200px] w-[480px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+        <div className={`z-50 min-w-[200px] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-white/5 backdrop-blur-sm">
             <button
               onClick={withClickSound(() => setRulesSubmenuOpen(false))}
@@ -355,7 +355,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
       />
       
       {/* Menu - near top-right on mobile, below trigger on desktop */}
-      <div className={`z-50 min-w-[200px] w-[480px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+      <div className={`z-50 min-w-[200px] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
         <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-white/5 backdrop-blur-sm">
           {menuItems.map((item, index) => (
             <React.Fragment key={index}>
