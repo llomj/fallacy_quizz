@@ -87,19 +87,34 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
 }) => {
   const { t, language } = useLanguage();
   const [rulesSubmenuOpen, setRulesSubmenuOpen] = useState(false);
+  const [logSubmenuOpen, setLogSubmenuOpen] = useState(false);
   const [settingsSubmenuOpen, setSettingsSubmenuOpen] = useState(false);
   const [rulesSearchId, setRulesSearchId] = useState('');
+  const [logSearchId, setLogSearchId] = useState('');
 
   useEffect(() => {
     if (!isOpen) {
       setRulesSubmenuOpen(false);
+      setLogSubmenuOpen(false);
       setSettingsSubmenuOpen(false);
       setRulesSearchId('');
+      setLogSearchId('');
     }
   }, [isOpen]);
 
   const handleRulesSearchById = () => {
     const id = parseInt(rulesSearchId.trim(), 10);
+    if (!isNaN(id) && id >= 1 && id <= MAX_QUESTION_ID) {
+      onShowIdSearch?.(id);
+      onClose();
+    } else {
+      onShowIdSearch?.();
+      onClose();
+    }
+  };
+
+  const handleLogSearchById = () => {
+    const id = parseInt(logSearchId.trim(), 10);
     if (!isNaN(id) && id >= 1 && id <= MAX_QUESTION_ID) {
       onShowIdSearch?.(id);
       onClose();
@@ -138,26 +153,13 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
       onClick: withClickSound(() => setRulesSubmenuOpen(prev => !prev))
     });
   }
-  if (onShowIdSearch) {
+  // Log (submenu: Search by ID, ID Log, Learning log)
+  const hasLogContent = Boolean(onShowIdSearch || onShowIdLog || onShowLearningLog);
+  if (hasLogContent) {
     menuItems.push({
-      icon: 'fa-hashtag',
-      label: t('settings.searchById'),
-      onClick: withClickSound(() => { onShowIdSearch(undefined); onClose(); })
-    });
-  }
-  if (onShowIdLog) {
-    menuItems.push({
-      icon: 'fa-list',
-      label: t('settings.idLog'),
-      onClick: withClickSound(() => { onShowIdLog(); onClose(); })
-    });
-  }
-  if (onShowLearningLog) {
-    menuItems.push({
-      icon: 'fa-book-open',
-      label: t('app.learningLog'),
-      onClick: withClickSound(() => { onShowLearningLog(); onClose(); }),
-      active: view === 'log'
+      icon: 'fa-clipboard-list',
+      label: t('settings.log'),
+      onClick: withClickSound(() => setLogSubmenuOpen(prev => !prev))
     });
   }
   if (onToggleLanguage) {
@@ -178,6 +180,67 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   }
 
   const basePath = typeof window !== 'undefined' ? (import.meta.env.BASE_URL || '/') : '/';
+
+  // When Log submenu is open: Back + Search by ID + ID Log + Learning log
+  if (logSubmenuOpen && hasLogContent) {
+    return (
+      <>
+        <div className="fixed inset-0 z-40" onClick={onClose} />
+        <div className={`z-50 min-w-[200px] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+          <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-white/5 backdrop-blur-sm">
+            <button
+              onClick={withClickSound(() => setLogSubmenuOpen(false))}
+              className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+            >
+              <i className="fas fa-arrow-left text-sm w-5 flex-shrink-0"></i>
+              <span className="text-sm font-medium">{t('settings.back')}</span>
+            </button>
+            {onShowIdSearch && (
+              <div className="flex items-center gap-2 px-4 py-3" onClick={(e) => e.stopPropagation()}>
+                <i className="fas fa-hashtag text-sm w-5 flex-shrink-0 text-slate-400"></i>
+                <input
+                  type="number"
+                  value={logSearchId}
+                  onChange={(e) => setLogSearchId(e.target.value)}
+                  onKeyDown={(e) => e.key === 'Enter' && handleLogSearchById()}
+                  placeholder={formatTranslation(t('idSearch.enterId'), { max: MAX_QUESTION_ID })}
+                  min={1}
+                  max={MAX_QUESTION_ID}
+                  className="flex-1 px-3 py-2 text-sm bg-white/5 border border-white/10 rounded-lg text-white placeholder-slate-500 focus:outline-none focus:border-yellow-400"
+                />
+                <button
+                  type="button"
+                  onClick={withClickSound(handleLogSearchById)}
+                  className="p-2 rounded-lg bg-yellow-400/20 hover:bg-yellow-400/30 text-yellow-300 transition-all"
+                  title={t('idSearch.search')}
+                >
+                  <i className="fas fa-search text-xs"></i>
+                </button>
+              </div>
+            )}
+            {onShowIdLog && (
+              <button
+                onClick={withClickSound(() => { onShowIdLog(); onClose(); })}
+                className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+              >
+                <i className="fas fa-list text-sm w-5 flex-shrink-0"></i>
+                <span className="text-sm font-medium">{t('settings.idLog')}</span>
+              </button>
+            )}
+            {onShowLearningLog && (
+              <button
+                onClick={withClickSound(() => { onShowLearningLog(); onClose(); })}
+                className={`w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left ${view === 'log' ? 'bg-yellow-400/15 text-yellow-300' : 'text-slate-300 hover:bg-white/10 hover:text-white'}`}
+              >
+                <i className="fas fa-book-open text-sm w-5 flex-shrink-0"></i>
+                <span className="text-sm font-medium">{t('app.learningLog')}</span>
+              </button>
+            )}
+          </div>
+        </div>
+      </>
+    );
+  }
 
   // When Settings submenu is open: Back + Sound + Haptic + Refresh app
   if (settingsSubmenuOpen && hasSettingsContent) {
@@ -308,7 +371,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               >
                 <i className={`fas ${item.icon} text-sm w-5 flex-shrink-0`}></i>
                 <span className="text-sm font-medium">{item.label}</span>
-                {(item.label === t('settings.rules') || item.label === t('settings.settings')) && (
+                {(item.label === t('settings.rules') || item.label === t('settings.settings') || item.label === t('settings.log')) && (
                   <i className="fas fa-chevron-right text-xs ml-auto"></i>
                 )}
               </button>
