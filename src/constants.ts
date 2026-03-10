@@ -13,23 +13,23 @@ export const getQuestionsNeededForLevel = (_level: number): number =>
 /** Minimum progress (as fraction of QUESTIONS_PER_LEVEL) before any star is shown. Stars stay blank until ~10–20%. */
 export const STAR_PROGRESS_THRESHOLD = Math.ceil(QUESTIONS_PER_LEVEL * 0.10);
 
-/** Derive number of stars (0–5) from accuracy for a level. 20%→1, 40%→2, 60%→3, 80%→4, 95%→5. */
+/** Derive number of stars (0–5) from accuracy for a level. >10–<20%→1, ≥20–<40%→2, ≥40–<60%→3, ≥60–<80%→4, ≥80–100%→5. */
 export const getStarsFromAccuracy = (percentCorrect: number): number => {
-  if (percentCorrect >= 95) return 5;
-  if (percentCorrect >= 80) return 4;
-  if (percentCorrect >= 60) return 3;
-  if (percentCorrect >= 40) return 2;
-  if (percentCorrect >= 20) return 1;
+  if (percentCorrect >= 80) return 5;
+  if (percentCorrect >= 60) return 4;
+  if (percentCorrect >= 40) return 3;
+  if (percentCorrect >= 20) return 2;
+  if (percentCorrect > 10) return 1;
   return 0;
 };
 
-/** Random mode: stars from session accuracy (harder scale). 10%→1, 20%→2, 40%→3, 70%→4, 95%→5. */
+/** Random mode: same bands as level (per session accuracy). >10–<20%→1, ≥20–<40%→2, ≥40–<60%→3, ≥60–<80%→4, ≥80–100%→5. */
 export const getRandomModeStarsFromAccuracy = (percentCorrect: number): number => {
-  if (percentCorrect >= 95) return 5;
-  if (percentCorrect >= 70) return 4;
+  if (percentCorrect >= 80) return 5;
+  if (percentCorrect >= 60) return 4;
   if (percentCorrect >= 40) return 3;
   if (percentCorrect >= 20) return 2;
-  if (percentCorrect >= 10) return 1;
+  if (percentCorrect > 10) return 1;
   return 0;
 };
 

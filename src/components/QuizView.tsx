@@ -980,14 +980,14 @@ export const QuizView: React.FC<QuizViewProps> = ({
           </div>
           <button
             onClick={() => { onPlayClickSound?.(); handleSaveCurrentId(); }}
-            className={`inline-flex items-center gap-2 px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.2em] border transition-colors ${isIdSaved
+            className={`inline-flex items-center gap-2 px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.2em] border transition-colors min-w-[4.25rem] ${isIdSaved
               ? 'bg-[#FF00FF]/20 text-[#FF00FF] border-[#FF00FF]/40'
               : 'bg-slate-700/50 text-slate-300 border-slate-600/50 hover:bg-slate-700/70'
               }`}
             title={isIdSaved ? t('idSearch.saved') : t('idSearch.saveToLog')}
             type="button"
           >
-            ID: {currentQuestion.id}
+            ID: <span className="font-mono tabular-nums">{currentQuestion.id}</span>
             <i className={`fas ${isIdSaved ? 'fa-check' : 'fa-bookmark'} text-[9px]`}></i>
           </button>
         </div>

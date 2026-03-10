@@ -263,8 +263,8 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
             <div className="space-y-4 p-6 bg-white/5 rounded-2xl border border-white/10">
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-3">
-                  <span className="px-3 py-1 bg-yellow-500/10 text-yellow-300 rounded-lg text-xs font-bold">
-                    ID: {question.id}
+                  <span className="px-3 py-1 bg-yellow-500/10 text-yellow-300 rounded-lg text-xs font-bold min-w-[4.25rem]">
+                    ID: <span className="font-mono tabular-nums">{question.id}</span>
                   </span>
                   <span className="px-3 py-1 bg-slate-800 text-slate-300 rounded-lg text-xs font-bold">
                     {formatTranslation(t('levelSelector.level'), { level: question.level })}

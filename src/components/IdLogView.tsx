@@ -200,8 +200,8 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose }) => {
                 >
                   <div className="flex justify-between items-start mb-3">
                     <div className="flex items-center gap-3">
-                      <span className="px-3 py-1 bg-yellow-400/10 text-yellow-300 rounded-lg text-xs font-bold flex items-center gap-2 group">
-                        ID: {entry.id}
+                      <span className="px-3 py-1 bg-yellow-400/10 text-yellow-300 rounded-lg text-xs font-bold flex items-center gap-2 group min-w-[4.25rem]">
+                        ID: <span className="font-mono tabular-nums">{entry.id}</span>
                         <i className={`fas fa-chevron-${isExpanded ? 'up' : 'down'} text-[8px] transition-transform group-hover:scale-110`}></i>
                       </span>
                     </div>
