@@ -91,6 +91,7 @@ const App: React.FC = () => {
   const [showArgumentation, setShowArgumentation] = useState(false);
   const [showSettingsMenu, setShowSettingsMenu] = useState(false);
   const [showResetModal, setShowResetModal] = useState(false);
+  const [showResetConfirmModal, setShowResetConfirmModal] = useState(false);
 
   // CRITICAL: Level and Random are separate. In Random mode nav must show ONLY random points (0 until earned). Never show level xp in Random. See ps.md "Level vs Random points".
   const displayXp = randomMode ? Number(stats.randomModeXp ?? 0) : stats.xp;
@@ -242,6 +243,7 @@ const App: React.FC = () => {
     setStats(INITIAL_STATS);
     setView('hub');
     setShowResetModal(false);
+    setShowResetConfirmModal(false);
     setShowSettingsMenu(false);
     setShowResult(null);
     setRandomizeTrigger(prev => prev + 1);
@@ -661,10 +663,43 @@ const App: React.FC = () => {
                 {t('resetModal.cancel')}
               </button>
               <button
-                onClick={() => { playClickSound(); confirmResetApp(); }}
+                onClick={() => { playClickSound(); setShowResetModal(false); setShowResetConfirmModal(true); }}
                 className="flex-1 py-3 bg-amber-500 hover:bg-amber-600 rounded-xl font-bold text-white transition-all shadow-xl shadow-amber-500/30"
               >
                 {t('resetModal.confirm')}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Final confirmation: really delete everything? */}
+      {showResetConfirmModal && (
+        <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-[70] flex items-center justify-center p-4">
+          <div className="glass rounded-3xl p-8 max-w-md w-full space-y-6 animate-in zoom-in duration-300 shadow-2xl border border-amber-500/30">
+            <div className="text-center space-y-4">
+              <div className="w-16 h-16 rounded-full mx-auto flex items-center justify-center text-3xl bg-amber-500/20 text-amber-400">
+                <i className="fas fa-triangle-exclamation"></i>
+              </div>
+              <h2 className="text-2xl font-black text-white">
+                {t('resetConfirmModal.title')}
+              </h2>
+              <p className="text-slate-400 leading-relaxed">
+                {t('resetConfirmModal.warning')}
+              </p>
+            </div>
+            <div className="flex gap-3">
+              <button
+                onClick={() => { playClickSound(); setShowResetConfirmModal(false); }}
+                className="flex-1 py-3 bg-white/5 hover:bg-white/10 rounded-xl font-bold text-white transition-all border border-white/10"
+              >
+                {t('resetConfirmModal.cancel')}
+              </button>
+              <button
+                onClick={() => { playClickSound(); confirmResetApp(); }}
+                className="flex-1 py-3 bg-amber-500 hover:bg-amber-600 rounded-xl font-bold text-white transition-all shadow-xl shadow-amber-500/30"
+              >
+                {t('resetConfirmModal.confirm')}
               </button>
             </div>
           </div>

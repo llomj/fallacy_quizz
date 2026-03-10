@@ -195,6 +195,13 @@ export const translations = {
       cancel: "Cancel",
       confirm: "Reset Everything",
     },
+    // Final confirmation before reset (second step)
+    resetConfirmModal: {
+      title: "Really delete everything?",
+      warning: "All your progress, XP, levels, and saved data will be permanently removed. There is no way to recover it.",
+      cancel: "Cancel",
+      confirm: "Yes, delete everything",
+    },
     
     // Level Selector
     levelSelector: {
@@ -461,6 +468,13 @@ export const translations = {
       warning: "Toute votre progression sera effacée (XP, niveaux, questions complétées, journal). Vous repartirez de zéro. Cette action est irréversible.",
       cancel: "Annuler",
       confirm: "Tout Réinitialiser",
+    },
+    // Final confirmation before reset (second step)
+    resetConfirmModal: {
+      title: "Tout supprimer vraiment ?",
+      warning: "Toute votre progression, XP, niveaux et données enregistrées seront définitivement supprimés. Il n'y a aucun moyen de les récupérer.",
+      cancel: "Annuler",
+      confirm: "Oui, tout supprimer",
     },
     
     // Level Selector
