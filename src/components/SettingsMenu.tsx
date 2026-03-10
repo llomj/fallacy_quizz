@@ -87,11 +87,13 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
 }) => {
   const { t, language } = useLanguage();
   const [rulesSubmenuOpen, setRulesSubmenuOpen] = useState(false);
+  const [settingsSubmenuOpen, setSettingsSubmenuOpen] = useState(false);
   const [rulesSearchId, setRulesSearchId] = useState('');
 
   useEffect(() => {
     if (!isOpen) {
       setRulesSubmenuOpen(false);
+      setSettingsSubmenuOpen(false);
       setRulesSearchId('');
     }
   }, [isOpen]);
@@ -165,13 +167,60 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
       onClick: withClickSound(() => { onToggleLanguage(); onClose(); })
     });
   }
+  // Settings (submenu: sound, haptic, refresh app) — under Translation per user request
+  const hasSettingsContent = Boolean(onToggleSound !== undefined || onToggleHaptic !== undefined);
+  if (hasSettingsContent) {
+    menuItems.push({
+      icon: 'fa-gear',
+      label: t('settings.settings'),
+      onClick: withClickSound(() => setSettingsSubmenuOpen(prev => !prev))
+    });
+  }
 
   const basePath = typeof window !== 'undefined' ? (import.meta.env.BASE_URL || '/') : '/';
-  menuItems.push({
-    icon: 'fa-arrows-rotate',
-    label: t('settings.refreshApp'),
-    onClick: withClickSound(() => { onClose(); window.location.href = `${basePath}clear-sw.html`; })
-  });
+
+  // When Settings submenu is open: Back + Sound + Haptic + Refresh app
+  if (settingsSubmenuOpen && hasSettingsContent) {
+    return (
+      <>
+        <div className="fixed inset-0 z-40" onClick={onClose} />
+        <div className={`z-50 min-w-[200px] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+          <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-white/5 backdrop-blur-sm">
+            <button
+              onClick={withClickSound(() => setSettingsSubmenuOpen(false))}
+              className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+            >
+              <i className="fas fa-arrow-left text-sm w-5 flex-shrink-0"></i>
+              <span className="text-sm font-medium">{t('settings.back')}</span>
+            </button>
+            {onToggleSound !== undefined && (
+              <ToggleSwitch
+                checked={soundEnabled}
+                onChange={withClickSound(onToggleSound)}
+                label={t('settings.sound')}
+                icon={soundEnabled ? 'fa-volume-high' : 'fa-volume-xmark'}
+              />
+            )}
+            {onToggleHaptic !== undefined && (
+              <ToggleSwitch
+                checked={hapticEnabled}
+                onChange={withClickSound(onToggleHaptic)}
+                label={t('settings.haptic')}
+                icon="fa-hand"
+              />
+            )}
+            <button
+              onClick={withClickSound(() => { onClose(); window.location.href = `${basePath}clear-sw.html`; })}
+              className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+            >
+              <i className="fas fa-arrows-rotate text-sm w-5 flex-shrink-0"></i>
+              <span className="text-sm font-medium">{t('settings.refreshApp')}</span>
+            </button>
+          </div>
+        </div>
+      </>
+    );
+  }
 
   // When Rules submenu is open, show only Back + Logical rules + Glossary (same-size panel, no enlargement)
   if (rulesSubmenuOpen && hasRulesContent) {
@@ -259,30 +308,10 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               >
                 <i className={`fas ${item.icon} text-sm w-5 flex-shrink-0`}></i>
                 <span className="text-sm font-medium">{item.label}</span>
-                {item.label === t('settings.rules') && (
+                {(item.label === t('settings.rules') || item.label === t('settings.settings')) && (
                   <i className="fas fa-chevron-right text-xs ml-auto"></i>
                 )}
               </button>
-              {item.icon === 'fa-language' && (
-                <>
-                  {onToggleSound !== undefined && (
-                    <ToggleSwitch
-                      checked={soundEnabled}
-                      onChange={withClickSound(onToggleSound)}
-                      label={t('settings.sound')}
-                      icon={soundEnabled ? 'fa-volume-high' : 'fa-volume-xmark'}
-                    />
-                  )}
-                  {onToggleHaptic !== undefined && (
-                    <ToggleSwitch
-                      checked={hapticEnabled}
-                      onChange={withClickSound(onToggleHaptic)}
-                      label={t('settings.haptic')}
-                      icon="fa-hand"
-                    />
-                  )}
-                </>
-              )}
             </React.Fragment>
           ))}
           
