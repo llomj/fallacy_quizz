@@ -148,9 +148,11 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose }) => {
 
         <div className="mt-4 mb-2">
           <input
-            type="number"
+            type="text"
+            inputMode="numeric"
+            pattern="[0-9]*"
             value={idFilter}
-            onChange={(e) => setIdFilter(e.target.value)}
+            onChange={(e) => setIdFilter(e.target.value.replace(/\D/g, ''))}
             placeholder={formatTranslation(t('idSearch.enterId'), { max: MAX_QUESTION_ID })}
             className="w-full px-4 py-2 bg-white/5 border border-white/10 rounded-xl text-white placeholder-slate-500 focus:outline-none focus:border-yellow-400 focus:ring-2 focus:ring-yellow-400/30 text-sm"
             min={1}

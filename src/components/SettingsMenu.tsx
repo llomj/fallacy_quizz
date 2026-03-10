@@ -199,9 +199,11 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               <div className="flex items-center gap-2 px-4 py-3" onClick={(e) => e.stopPropagation()}>
                 <i className="fas fa-hashtag text-sm w-5 flex-shrink-0 text-slate-400"></i>
                 <input
-                  type="number"
+                  type="text"
+                  inputMode="numeric"
+                  pattern="[0-9]*"
                   value={logSearchId}
-                  onChange={(e) => setLogSearchId(e.target.value)}
+                  onChange={(e) => setLogSearchId(e.target.value.replace(/\D/g, ''))}
                   onKeyDown={(e) => e.key === 'Enter' && handleLogSearchById()}
                   placeholder={formatTranslation(t('idSearch.enterId'), { max: MAX_QUESTION_ID })}
                   min={1}
@@ -321,9 +323,11 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               <div className="flex items-center gap-2 px-4 py-3" onClick={(e) => e.stopPropagation()}>
                 <i className="fas fa-magnifying-glass text-sm w-5 flex-shrink-0 text-slate-400"></i>
                 <input
-                  type="number"
+                  type="text"
+                  inputMode="numeric"
+                  pattern="[0-9]*"
                   value={rulesSearchId}
-                  onChange={(e) => setRulesSearchId(e.target.value)}
+                  onChange={(e) => setRulesSearchId(e.target.value.replace(/\D/g, ''))}
                   onKeyDown={(e) => e.key === 'Enter' && handleRulesSearchById()}
                   placeholder={formatTranslation(t('idSearch.enterId'), { max: MAX_QUESTION_ID })}
                   min={1}
