@@ -9880,13 +9880,13 @@ export const FALLACY_QUESTIONS_EN: Question[] = [
     concept: "Rhetorical/Discourse Tactics",
     difficulty: 1,
     subLevel: SubLevel.BEGINNER,
-    question: "Identify the logical fallacy in this example:\n\n\"Pamela is the class secretary. She says that she thinks the class should do more service projects. Mark says he can't believe that Pamela doesn't support the annual school dance.\"",
+    question: "Identify the logical fallacy in this example:\n\n\"The mayor proposed raising park funding by 5%. A critic says the mayor wants to pour unlimited money into every pet project and bankrupt the city.\"",
     options: ["False Equivalence","Straw Man","Confirmation Bias","Loss Aversion"],
     correct_option_index: 1,
     explanation: "Misrepresenting someone's argument to make it easier to attack.",
-    detailedExplanationBeginner: "Argument structure failure.",
-    detailedExplanationIntermediate: "Informal Logic - Argument structure failure.",
-    detailedExplanationExpert: "Rhetorical/Discourse Tactics - Informal Logic - Argument structure failure.",
+    detailedExplanationBeginner: "The critic exaggerates and distorts the mayor's position (5% park funding) into an extreme claim (unlimited spending), then attacks that distorted version.",
+    detailedExplanationIntermediate: "Informal Logic - Straw man: the actual proposal is modest; the attack targets an inflated, easier-to-refute version.",
+    detailedExplanationExpert: "Rhetorical/Discourse Tactics - Straw man: replacing the real thesis with a weaker or extreme caricature, then refuting the caricature instead of the actual argument.",
     questionFormat: "standard"
   },
   {

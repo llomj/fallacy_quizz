@@ -87,10 +87,10 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                     return (
                       <div className="rounded-lg bg-slate-800/50 overflow-hidden">
                         {prefix && (
-                          <p className="text-yellow-300 font-bold px-3 pt-3 pb-1 leading-tight">{prefix}</p>
+                          <p className="text-slate-100 font-semibold text-base px-3 pt-3 pb-1 leading-tight">{prefix}</p>
                         )}
                         <div className="p-4 overflow-x-hidden flex-1">
-                          <pre className="text-yellow-300 text-[0.8rem] leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
+                          <pre className="text-slate-100 text-base leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
                             {code}
                           </pre>
                         </div>
@@ -101,7 +101,7 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                     return (
                       <div className="rounded-lg bg-slate-800/50 overflow-hidden">
                         <div className="p-4 overflow-x-hidden flex-1">
-                          <pre className="text-yellow-300 text-[0.8rem] leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
+                          <pre className="text-slate-100 text-base leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
                             {displayText}
                           </pre>
                         </div>
@@ -109,7 +109,7 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                     );
                   }
                   return (
-                    <p className="text-yellow-300 font-bold leading-tight">
+                    <p className="text-slate-100 font-semibold text-base leading-tight">
                       {displayText}
                     </p>
                   );

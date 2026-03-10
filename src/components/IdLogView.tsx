@@ -221,11 +221,11 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose }) => {
                             <div className="flex flex-col">
                               {prefix && (
                                 <div className="px-4 pt-4 pb-2 border-b border-slate-700/50">
-                                  <p className="text-yellow-300 text-lg font-medium leading-relaxed">{prefix}</p>
+                                  <p className="text-slate-100 text-base md:text-lg font-medium leading-relaxed">{prefix}</p>
                                 </div>
                               )}
                               <div className="p-4 overflow-x-hidden flex-1">
-                                <pre className="text-yellow-300 text-sm leading-7 font-['Fira_Code',_monospace] whitespace-pre-wrap">
+                                <pre className="text-slate-100 text-base md:text-lg font-['Fira_Code',_monospace] whitespace-pre-wrap leading-relaxed">
                                   {formatCodeSnippet(code)}
                                 </pre>
                               </div>
@@ -235,14 +235,14 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose }) => {
                         if (hasCodeLikeContent(displayText)) {
                           return (
                             <div className="p-4 overflow-x-hidden flex-1">
-                              <pre className="text-yellow-300 text-sm leading-7 font-['Fira_Code',_monospace] whitespace-pre-wrap">
+                              <pre className="text-slate-100 text-base md:text-lg font-['Fira_Code',_monospace] whitespace-pre-wrap leading-relaxed">
                                 {formatCodeSnippet(displayText)}
                               </pre>
                             </div>
                           );
                         }
                         return (
-                          <h3 className="text-xl font-bold leading-tight text-yellow-300 px-4 pt-4 pb-4">
+                          <h3 className="text-base md:text-lg font-semibold leading-relaxed text-slate-100 px-4 pt-4 pb-4">
                             {displayText}
                           </h3>
                         );
