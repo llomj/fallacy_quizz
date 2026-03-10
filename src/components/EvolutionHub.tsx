@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { UserStats, PersonaStage } from '../types';
-import { LEVELS, QUESTIONS_PER_LEVEL, TOTAL_QUESTIONS, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getRandomModeScore, getPersonaFromRandomScore, getNextRandomModeThreshold } from '../constants';
+import { LEVELS, QUESTIONS_PER_LEVEL, TOTAL_QUESTIONS, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getPersonaFromRandomStats, getNextRandomModeTier, getPersonaTranslationKey } from '../constants';
 import { PersonaBadge } from './PersonaBadge';
 import { ProgressBar } from './ProgressBar';
 import { ConceptTooltipModal } from './ConceptTooltipModal';
@@ -21,9 +21,9 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
   const [selectedConcept, setSelectedConcept] = useState<{ label: string; definition: string | null } | null>(null);
   const randomMode = stats.randomMode ?? false;
   const rm = stats.randomModeStats ?? { totalAnswered: 0, totalCorrect: 0 };
-  const randomScore = getRandomModeScore(rm);
-  const randomPersona = getPersonaFromRandomScore(randomScore);
-  const nextThreshold = getNextRandomModeThreshold(randomScore);
+  const randomPersona = getPersonaFromRandomStats(rm);
+  const randomPercentCorrect = rm.totalAnswered > 0 ? (100 * rm.totalCorrect) / rm.totalAnswered : 0;
+  const nextThreshold = getNextRandomModeTier(rm.totalCorrect, randomPercentCorrect, rm.totalAnswered);
   const currentLevelInfo = LEVELS.find(l => l.level === stats.currentLevel) || LEVELS[0];
   const progress = stats.levelProgress[stats.currentLevel] || 0;
 
@@ -148,10 +148,6 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
                       {rm.totalAnswered > 0 ? Math.round((rm.totalCorrect / rm.totalAnswered) * 100) : 0}%
                     </div>
                   </div>
-                  <div className="bg-slate-900/50 rounded-2xl p-3 border border-white/5 col-span-2">
-                    <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider mb-1">{t('hub.evolutionScore')}</div>
-                    <div className="text-lg font-black text-yellow-300">{randomScore}</div>
-                  </div>
                   {rm.lastSessionStars != null && (
                     <div className="bg-slate-900/50 rounded-2xl p-3 border border-amber-500/30 col-span-2 flex items-center gap-2">
                       <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider">{formatTranslation(t('hub.lastRunStars'), { count: rm.lastSessionStars! })}</div>
@@ -166,10 +162,10 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
                 {nextThreshold && (
                   <>
                     <div className="flex justify-between text-[10px] font-bold text-slate-500 uppercase tracking-widest">
-                      <span>{formatTranslation(t('hub.pointsToNext'), { points: nextThreshold.minScore - randomScore, persona: nextThreshold.persona })}</span>
-                      <span>{randomScore} / {nextThreshold.minScore}</span>
+                      <span>{formatTranslation(t('hub.correctToNext'), { correct: Math.max(0, nextThreshold.minCorrect - rm.totalCorrect), percent: nextThreshold.minPercent, persona: t(`personas.${getPersonaTranslationKey(nextThreshold.persona)}` as any) })}</span>
+                      <span>{rm.totalCorrect} / {nextThreshold.minCorrect}</span>
                     </div>
-                    <ProgressBar current={randomScore} total={nextThreshold.minScore} colorClass="bg-[#FF00FF]" />
+                    <ProgressBar current={Math.min(rm.totalCorrect, nextThreshold.minCorrect)} total={nextThreshold.minCorrect} colorClass="bg-[#FF00FF]" />
                   </>
                 )}
               </div>

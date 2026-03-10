@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Question, QuestionAttempt } from '../types';
 import { quizService } from '../services/quizService';
 import { ProgressBar } from './ProgressBar';
-import { LEVELS, getRandomModeScore } from '../constants';
+import { LEVELS } from '../constants';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
@@ -928,7 +928,10 @@ export const QuizView: React.FC<QuizViewProps> = ({
       totalCorrect: base.totalCorrect + sessionCorrect
     }
     : null;
-  const liveEvolutionScore = liveRandomStats ? getRandomModeScore(liveRandomStats) : null;
+  const liveRandomCorrect = liveRandomStats ? liveRandomStats.totalCorrect : null;
+  const liveRandomPercent = liveRandomStats && liveRandomStats.totalAnswered > 0
+    ? Math.round((100 * liveRandomStats.totalCorrect) / liveRandomStats.totalAnswered)
+    : null;
 
   return (
     <div className="max-w-2xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
@@ -958,9 +961,9 @@ export const QuizView: React.FC<QuizViewProps> = ({
               </div>
             </div>
             <div className="flex gap-4 items-center shrink-0">
-              {liveEvolutionScore !== null && (
+              {liveRandomCorrect !== null && liveRandomPercent !== null && (
                 <span className="text-yellow-300">
-                  {t('quiz.evolutionPoints')}: {liveEvolutionScore}
+                  {liveRandomCorrect} {t('quiz.correct')} · {liveRandomPercent}%
                 </span>
               )}
               <span className="text-yellow-300">

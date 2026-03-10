@@ -44,43 +44,63 @@ export const getStarsFromProgress = (progress: number): number => {
   return 0;
 };
 
-// Random Mode: score = correct × accuracy (correct/total). Same 10 personas, point-based progression.
-export const RANDOM_MODE_THRESHOLDS: { minScore: number; persona: PersonaStage }[] = [
-  { minScore: 0, persona: PersonaStage.TADPOLE },
-  { minScore: 5, persona: PersonaStage.PLANKTON },
-  { minScore: 15, persona: PersonaStage.SHRIMP },
-  { minScore: 40, persona: PersonaStage.CRAB },
-  { minScore: 80, persona: PersonaStage.SMALL_FISH },
-  { minScore: 150, persona: PersonaStage.OCTOPUS },
-  { minScore: 250, persona: PersonaStage.SEAL },
-  { minScore: 400, persona: PersonaStage.DOLPHIN },
-  { minScore: 600, persona: PersonaStage.SHARK },
-  { minScore: 900, persona: PersonaStage.WHALE },
-  { minScore: 1300, persona: PersonaStage.GOD_WHALE },
+// Random Mode: rank = total correct + minimum accuracy (both metrics). Stars = accuracy (unchanged).
+export const RANDOM_MODE_MIN_ANSWERED = 15;
+
+export const RANDOM_MODE_TIER_THRESHOLDS: { minCorrect: number; minPercent: number; persona: PersonaStage }[] = [
+  { minCorrect: 0, minPercent: 0, persona: PersonaStage.TADPOLE },
+  { minCorrect: 10, minPercent: 10, persona: PersonaStage.PLANKTON },
+  { minCorrect: 25, minPercent: 15, persona: PersonaStage.SHRIMP },
+  { minCorrect: 50, minPercent: 20, persona: PersonaStage.CRAB },
+  { minCorrect: 100, minPercent: 30, persona: PersonaStage.SMALL_FISH },
+  { minCorrect: 175, minPercent: 40, persona: PersonaStage.OCTOPUS },
+  { minCorrect: 275, minPercent: 50, persona: PersonaStage.SEAL },
+  { minCorrect: 400, minPercent: 60, persona: PersonaStage.DOLPHIN },
+  { minCorrect: 550, minPercent: 70, persona: PersonaStage.SHARK },
+  { minCorrect: 750, minPercent: 80, persona: PersonaStage.WHALE },
+  { minCorrect: 900, minPercent: 90, persona: PersonaStage.GOD_WHALE },
 ];
 
-/** Evolution score: correct × (correct / total). Rewards both volume and accuracy. */
-export const getRandomModeScore = (stats: RandomModeStats): number => {
-  if (stats.totalAnswered === 0) return 0;
-  const accuracy = stats.totalCorrect / stats.totalAnswered;
-  return Math.floor(stats.totalCorrect * accuracy);
-};
-
-/** Map cumulative Random-mode score to persona. Same 11 personas as Level mode (0–10). */
-export const getPersonaFromRandomScore = (score: number): PersonaStage => {
+/** Random mode persona from total correct + accuracy. Below MIN_ANSWERED always Tadpole. */
+export const getPersonaFromRandomStats = (stats: RandomModeStats): PersonaStage => {
+  if (stats.totalAnswered < RANDOM_MODE_MIN_ANSWERED) return PersonaStage.TADPOLE;
+  const percentCorrect = stats.totalAnswered > 0 ? (100 * stats.totalCorrect) / stats.totalAnswered : 0;
   let result = PersonaStage.TADPOLE;
-  for (const { minScore, persona } of RANDOM_MODE_THRESHOLDS) {
-    if (score >= minScore) result = persona;
+  for (const { minCorrect, minPercent, persona } of RANDOM_MODE_TIER_THRESHOLDS) {
+    if (stats.totalCorrect >= minCorrect && percentCorrect >= minPercent) result = persona;
   }
   return result;
 };
 
-/** Get next persona threshold for progress display. Returns null if at max (God Whale). */
-export const getNextRandomModeThreshold = (score: number): { minScore: number; persona: PersonaStage } | null => {
-  for (const t of RANDOM_MODE_THRESHOLDS) {
-    if (score < t.minScore) return t;
+/** Next tier for progress display. Returns null if at max (God Whale). */
+export const getNextRandomModeTier = (
+  totalCorrect: number,
+  percentCorrect: number,
+  totalAnswered: number
+): { minCorrect: number; minPercent: number; persona: PersonaStage } | null => {
+  if (totalAnswered < RANDOM_MODE_MIN_ANSWERED) return RANDOM_MODE_TIER_THRESHOLDS[1]; // next is Plankton
+  for (const t of RANDOM_MODE_TIER_THRESHOLDS) {
+    if (totalCorrect < t.minCorrect || percentCorrect < t.minPercent) return t;
   }
   return null;
+};
+
+/** Translation key for persona (nav, modals). */
+export const getPersonaTranslationKey = (stage: PersonaStage): string => {
+  const key: Record<PersonaStage, string> = {
+    [PersonaStage.TADPOLE]: 'tadpole',
+    [PersonaStage.PLANKTON]: 'plankton',
+    [PersonaStage.SHRIMP]: 'shrimp',
+    [PersonaStage.CRAB]: 'crab',
+    [PersonaStage.SMALL_FISH]: 'smallFish',
+    [PersonaStage.OCTOPUS]: 'octopus',
+    [PersonaStage.SEAL]: 'seal',
+    [PersonaStage.DOLPHIN]: 'dolphin',
+    [PersonaStage.SHARK]: 'shark',
+    [PersonaStage.WHALE]: 'whale',
+    [PersonaStage.GOD_WHALE]: 'godWhale',
+  };
+  return key[stage];
 };
 
 /** Emoji icons for each persona (level selection, badges). */

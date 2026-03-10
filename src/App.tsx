@@ -3,7 +3,7 @@ import { UserStats, PersonaStage, QuestionAttempt } from './types';
 import { EvolutionHub } from './components/EvolutionHub';
 import { SettingsMenu } from './components/SettingsMenu';
 import { IdLogEntry } from './types';
-import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getQuestionsNeededForLevel, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getStarsFromProgress, getRandomModeScore, getRandomModeStarsFromAccuracy, getPersonaFromRandomScore, PERSONA_EMOJI } from './constants';
+import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getQuestionsNeededForLevel, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getStarsFromProgress, getRandomModeStarsFromAccuracy, getPersonaFromRandomStats, getPersonaTranslationKey, PERSONA_EMOJI } from './constants';
 import { useLanguage } from './contexts/LanguageContext';
 import { formatTranslation } from './translations';
 import { playStarCelebrationSound, playFiveStarCelebrationSound, playRandomFiveStarCelebrationSound, playAllLevelsCelebrationSound, playCorrectAnswerSound, playWrongAnswerSound, playButtonClickSound } from './utils/sounds';
@@ -73,9 +73,9 @@ const App: React.FC = () => {
     starEarned: number | null;
     allLevelsComplete?: boolean;
     randomMode?: boolean;
-    prevScore?: number;
-    newScore?: number;
     newPersona?: PersonaStage;
+    newTotalCorrect?: number;
+    newPercentCorrect?: number;
   } | null>(null);
   const [randomizeTrigger, setRandomizeTrigger] = useState(0);
   const [showRandomModeModal, setShowRandomModeModal] = useState(false);
@@ -204,7 +204,7 @@ const App: React.FC = () => {
 
   const currentLevelInfo = LEVELS.find(l => l.level === stats.currentLevel) || LEVELS[0];
   const currentPersona = (stats.randomMode && stats.randomModeStats)
-    ? getPersonaFromRandomScore(getRandomModeScore(stats.randomModeStats))
+    ? getPersonaFromRandomStats(stats.randomModeStats)
     : currentLevelInfo.persona;
   const currentProgress = stats.levelProgress[stats.currentLevel] || 0;
   const correctForLevel = stats.correctPerLevel?.[stats.currentLevel] ?? 0;
@@ -304,19 +304,19 @@ const App: React.FC = () => {
       });
 
       const rm = stats.randomModeStats ?? { totalAnswered: 0, totalCorrect: 0 };
-      const prevScore = getRandomModeScore(rm);
       const newTotalAnswered = rm.totalAnswered + total;
       const newTotalCorrect = rm.totalCorrect + score;
-      const newScore = Math.floor(newTotalCorrect * (newTotalCorrect / newTotalAnswered));
+      const newPercentCorrect = newTotalAnswered > 0 ? Math.round((100 * newTotalCorrect) / newTotalAnswered) : 0;
+      const newRm = { totalAnswered: newTotalAnswered, totalCorrect: newTotalCorrect };
 
       setShowResult({
         score,
         total,
         starEarned: sessionStars,
         randomMode: true,
-        prevScore,
-        newScore,
-        newPersona: getPersonaFromRandomScore(newScore)
+        newPersona: getPersonaFromRandomStats(newRm),
+        newTotalCorrect,
+        newPercentCorrect
       });
     } else {
       // Level mode: update correctPerLevel, levelProgress (no cap), stars from accuracy, unlock when crossing 90
@@ -403,9 +403,11 @@ const App: React.FC = () => {
               <div className="w-8 h-8 rounded-full bg-gradient-to-br from-yellow-300 to-[#FF00FF] flex items-center justify-center text-sm">
                 <span className="text-white">{PERSONA_EMOJI[currentPersona] ?? '🐟'}</span>
               </div>
-              <div className="flex flex-col">
+              <div className="flex flex-col min-w-[5rem]">
                 <span className="text-[10px] text-slate-500 font-bold uppercase tracking-widest leading-none">{t('app.rank')}</span>
-                <span className="text-sm font-bold text-slate-200 leading-tight">{currentPersona}</span>
+                <span className="text-sm font-bold text-slate-200 leading-tight whitespace-nowrap" title={currentPersona}>
+                  {t(`personas.${getPersonaTranslationKey(currentPersona)}` as any)}
+                </span>
               </div>
             </div>
 
@@ -562,11 +564,11 @@ const App: React.FC = () => {
                 <div className="text-xs text-slate-500 uppercase font-bold mb-1 tracking-wider">{t('result.successRate')}</div>
                 <div className="text-2xl font-black text-sky-400">{Math.round((showResult.score / showResult.total) * 100)}%</div>
               </div>
-              {showResult.randomMode && showResult.prevScore !== undefined && showResult.newScore !== undefined && showResult.newPersona && (
+              {showResult.randomMode && showResult.newPersona != null && showResult.newTotalCorrect != null && showResult.newPercentCorrect != null && (
                 <div className="w-full mt-2 pt-2 border-t border-white/10">
-                  <div className="text-xs text-slate-500 uppercase font-bold mb-1 tracking-wider">{t('result.evolutionScore')}</div>
+                  <div className="text-xs text-slate-500 uppercase font-bold mb-1 tracking-wider">{t('result.randomEvolution')}</div>
                   <div className="text-lg font-black text-yellow-300">
-                    {showResult.prevScore} → {showResult.newScore} <span className="text-slate-400 font-normal">({showResult.newPersona})</span>
+                    {showResult.newTotalCorrect} {t('result.correct')} · {showResult.newPercentCorrect}% <span className="text-slate-400 font-normal">→ {t(`personas.${getPersonaTranslationKey(showResult.newPersona)}` as any)}</span>
                   </div>
                 </div>
               )}
