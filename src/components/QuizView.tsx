@@ -1000,7 +1000,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
             {(() => {
               const { prefix, code } = splitQuestion(displayQuestion, language);
               const displayText = displayQuestion;
-              
+
               // Only format as code if it explicitly contains recognizable programming keywords or structures
               // The logic below checks if `code` actually resembles programming rather than natural language
               const isActuallyCode = code && (
@@ -1010,28 +1010,30 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 /[\+\-\*\/\%]\s*\d/.test(code)
               );
 
-              // If we detected actual code, show prefix at top and code below (AGENTS.md §10: question text stays white)
+              // If we detected actual code, show prefix at top and code below
               if (isActuallyCode) {
                 return (
                   <div className="flex flex-col">
                     {prefix && (
-                      <div className="px-4 pt-4 pb-2 border-b border-slate-700/50">
-                        <p className="text-slate-100 text-base md:text-lg font-medium leading-relaxed">{prefix}</p>
+                      <div className="px-6 py-5 border-b border-slate-700/50">
+                        <p className="text-yellow-400 text-base md:text-lg font-semibold leading-relaxed">{prefix}</p>
                       </div>
                     )}
-                    <div className="p-4 overflow-x-hidden flex-1">
-                      <pre className="text-slate-100 text-base md:text-lg font-['Fira_Code',_monospace] whitespace-pre-wrap leading-relaxed">
+                    <div className="p-6 overflow-x-hidden flex-1 bg-slate-900/40">
+                      <pre className="text-yellow-300 text-base md:text-lg font-['Fira_Code',_monospace] whitespace-pre-wrap leading-relaxed">
                         {formatCodeSnippet(code)}
                       </pre>
                     </div>
                   </div>
                 );
               }
-              // No actual code block: always white for logical fallacies and other prose (AGENTS.md §10).
+              // No actual code block: use the same container styling and font-semibold for consistency.
               return (
-                <h2 className="text-base md:text-lg font-semibold leading-relaxed text-slate-100 px-6 py-5">
-                  {displayText}
-                </h2>
+                <div className="px-6 py-5">
+                  <h2 className="text-base md:text-lg font-semibold leading-relaxed text-yellow-400">
+                    {displayText}
+                  </h2>
+                </div>
               );
             })()}
           </div>
