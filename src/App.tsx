@@ -92,6 +92,7 @@ const App: React.FC = () => {
   const [showSettingsMenu, setShowSettingsMenu] = useState(false);
   const [showResetModal, setShowResetModal] = useState(false);
   const [showResetConfirmModal, setShowResetConfirmModal] = useState(false);
+  const [showGameRulesModal, setShowGameRulesModal] = useState(false);
 
   // CRITICAL: Level and Random are separate. In Random mode nav must show ONLY random points (0 until earned). Never show level xp in Random. See ps.md "Level vs Random points".
   const displayXp = randomMode ? Number(stats.randomModeXp ?? 0) : stats.xp;
@@ -414,12 +415,23 @@ const App: React.FC = () => {
             </div>
           </div>
 
-          <div
-            className="ml-auto flex items-center gap-2 px-3 py-2 rounded-xl bg-white/5 border border-white/10"
-            title="Answer Count"
-          >
-            <i className="fas fa-hashtag text-slate-400 text-sm"></i>
-            <span className="text-sm font-bold text-slate-200">{(stats.totalAttempts ?? stats.history.length).toLocaleString()}</span>
+          <div className="ml-auto flex items-center gap-2">
+            <button
+              type="button"
+              onClick={() => { playClickSound(); setShowGameRulesModal(true); }}
+              className="flex items-center justify-center w-9 h-9 rounded-xl bg-white/5 border border-white/10 hover:bg-white/10 text-slate-400 hover:text-yellow-300 transition-colors"
+              title={t('gameRules.title')}
+              aria-label={t('gameRules.title')}
+            >
+              <i className="fas fa-circle-info text-sm"></i>
+            </button>
+            <div
+              className="flex items-center gap-2 px-3 py-2 rounded-xl bg-white/5 border border-white/10"
+              title="Answer Count"
+            >
+              <i className="fas fa-hashtag text-slate-400 text-sm"></i>
+              <span className="text-sm font-bold text-slate-200">{(stats.totalAttempts ?? stats.history.length).toLocaleString()}</span>
+            </div>
           </div>
         </div>
 
@@ -702,6 +714,54 @@ const App: React.FC = () => {
                 {t('resetConfirmModal.confirm')}
               </button>
             </div>
+          </div>
+        </div>
+      )}
+
+      {/* Game Rules Modal */}
+      {showGameRulesModal && (
+        <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-[60] flex items-center justify-center p-4" onClick={() => setShowGameRulesModal(false)}>
+          <div className="glass rounded-3xl p-6 max-w-md w-full max-h-[85vh] overflow-y-auto space-y-5 animate-in zoom-in duration-300 shadow-2xl border border-white/10" onClick={(e) => e.stopPropagation()}>
+            <div className="flex items-center justify-between gap-2 border-b border-white/10 pb-3">
+              <div className="flex items-center gap-2">
+                <div className="w-10 h-10 rounded-full flex items-center justify-center bg-yellow-400/20 text-yellow-300">
+                  <i className="fas fa-book-open text-lg"></i>
+                </div>
+                <h2 className="text-xl font-black text-white">{t('gameRules.title')}</h2>
+              </div>
+              <button
+                type="button"
+                onClick={() => { playClickSound(); setShowGameRulesModal(false); }}
+                className="p-2 rounded-lg hover:bg-white/10 text-slate-400 hover:text-white transition-colors"
+                aria-label={t('gameRules.close')}
+              >
+                <i className="fas fa-times"></i>
+              </button>
+            </div>
+            <div className="space-y-4 text-left">
+              <section>
+                <h3 className="text-sm font-bold text-yellow-300 uppercase tracking-wider mb-1">{t('gameRules.levelsTitle')}</h3>
+                <p className="text-slate-300 text-sm leading-relaxed">{t('gameRules.levelsBody')}</p>
+              </section>
+              <section>
+                <h3 className="text-sm font-bold text-yellow-300 uppercase tracking-wider mb-1">{t('gameRules.randomTitle')}</h3>
+                <p className="text-slate-300 text-sm leading-relaxed">{t('gameRules.randomBody')}</p>
+              </section>
+              <section>
+                <h3 className="text-sm font-bold text-yellow-300 uppercase tracking-wider mb-1">{t('gameRules.pointsTitle')}</h3>
+                <p className="text-slate-300 text-sm leading-relaxed">{t('gameRules.pointsBody')}</p>
+              </section>
+              <section>
+                <h3 className="text-sm font-bold text-yellow-300 uppercase tracking-wider mb-1">{t('gameRules.starsTitle')}</h3>
+                <p className="text-slate-300 text-sm leading-relaxed">{t('gameRules.starsBody')}</p>
+              </section>
+            </div>
+            <button
+              onClick={() => { playClickSound(); setShowGameRulesModal(false); }}
+              className="w-full py-3 bg-white/10 hover:bg-white/15 rounded-xl font-bold text-white transition-all border border-white/10"
+            >
+              {t('gameRules.close')}
+            </button>
           </div>
         </div>
       )}

@@ -271,6 +271,20 @@ export const translations = {
       level9: "Mixed and multi-step fallacies. Analyze complex arguments that combine several fallacies at once.",
       level10: "Meta-logic and expert reasoning. Avoid the fallacy fallacy and learn to separate bad reasoning from mere disagreement.",
     },
+
+    // Game Rules (top panel info icon)
+    gameRules: {
+      title: "Game Rules",
+      levelsTitle: "Levels",
+      levelsBody: "You start at Level 0. Complete questions in order to unlock the next level (up to Level 10). Each level focuses on different types of logical fallacies. You can only play questions from your current level or below.",
+      randomTitle: "Random Mode",
+      randomBody: "In Random Mode, questions are drawn from all levels. You earn separate points that do not mix with Level mode. Switch between Level and Random anytime from Settings.",
+      pointsTitle: "Points (XP)",
+      pointsBody: "In Level mode you earn XP per correct answer; the number in the top bar shows your level XP. In Random mode you earn Random-mode points (shown when Random is on). The two point totals are separate and never shared.",
+      starsTitle: "Stars",
+      starsBody: "After each run (15 questions), you get 0–5 stars based on accuracy: higher accuracy means more stars. Stars reflect how well you did in that run and help you track progress.",
+      close: "Close",
+    },
   },
   
   fr: {
@@ -544,6 +558,20 @@ export const translations = {
       level8: "Manipulation rhétorique. Repérez l’empoisonnement du puits, les effets de cadrage, le mouvement motte‑et‑bailey et les insinuations suggestives.",
       level9: "Sophismes mixtes et multi‑étapes. Analysez des arguments complexes qui combinent plusieurs sophismes à la fois.",
       level10: "Méta‑logique et raisonnement expert. Évitez le « sophisme du sophisme » et apprenez à distinguer mauvais raisonnement et simple désaccord.",
+    },
+
+    // Règles du jeu (icône info barre du haut)
+    gameRules: {
+      title: "Règles du jeu",
+      levelsTitle: "Niveaux",
+      levelsBody: "Vous commencez au Niveau 0. Complétez des questions pour débloquer le niveau suivant (jusqu'au Niveau 10). Chaque niveau porte sur différents types de sophismes logiques. Vous ne pouvez jouer qu'aux questions de votre niveau actuel ou inférieur.",
+      randomTitle: "Mode Aléatoire",
+      randomBody: "En Mode Aléatoire, les questions sont tirées de tous les niveaux. Vous gagnez des points séparés qui ne se mélangent pas avec le Mode Niveau. Basculez entre Niveau et Aléatoire à tout moment depuis les Paramètres.",
+      pointsTitle: "Points (XP)",
+      pointsBody: "En Mode Niveau vous gagnez des XP par bonne réponse ; le nombre en haut indique vos XP de niveau. En Mode Aléatoire vous gagnez des points Aléatoire (affichés quand Aléatoire est activé). Les deux totaux sont distincts et ne sont jamais partagés.",
+      starsTitle: "Étoiles",
+      starsBody: "Après chaque run (15 questions), vous obtenez 0 à 5 étoiles selon la précision : plus la précision est élevée, plus vous gagnez d'étoiles. Les étoiles reflètent votre performance sur la run et aident à suivre la progression.",
+      close: "Fermer",
     },
   },
 };
