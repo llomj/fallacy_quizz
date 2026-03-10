@@ -479,14 +479,7 @@ const App: React.FC = () => {
             />
           </Suspense>
         ) : view === 'log' ? (
-          <Suspense fallback={<ViewLoading />}>
-            <HistoryLog
-              history={stats.history}
-              onBack={() => setView('hub')}
-              onSaveToIdLog={saveToIdLog}
-              savedIdLogIds={stats.idLog.map(entry => entry.id)}
-            />
-          </Suspense>
+          null
         ) : view === 'glossary' ? (
           <Suspense fallback={<ViewLoading />}>
             <GlossaryView onBack={() => setView('hub')} />
@@ -634,7 +627,7 @@ const App: React.FC = () => {
 
       {/* Logical Rules & Argumentation Modal */}
       {showArgumentation && (
-        <div className="fixed inset-0 z-[100] bg-slate-950 overflow-y-auto">
+        <div className="fixed inset-0 z-[100] w-full min-h-screen bg-slate-950 overflow-y-auto">
           <div className="container mx-auto px-4 py-8 max-w-4xl">
             <Suspense fallback={<ViewLoading />}>
               <ArgumentationView onBack={() => setShowArgumentation(false)} />
@@ -724,9 +717,25 @@ const App: React.FC = () => {
         </Suspense>
       )}
 
-      {/* ID Log View — same window size as Logical Rules */}
+      {/* Learning Log — full-screen overlay, same size as Logical Rules */}
+      {view === 'log' && (
+        <div className="fixed inset-0 z-[100] w-full min-h-screen bg-slate-950 overflow-y-auto">
+          <div className="container mx-auto px-4 py-8 max-w-4xl">
+            <Suspense fallback={<ViewLoading />}>
+              <HistoryLog
+                history={stats.history}
+                onBack={() => setView('hub')}
+                onSaveToIdLog={saveToIdLog}
+                savedIdLogIds={stats.idLog.map(entry => entry.id)}
+              />
+            </Suspense>
+          </div>
+        </div>
+      )}
+
+      {/* ID Log View — full-screen overlay, same size as Logical Rules */}
       {showIdLog && (
-        <div className="fixed inset-0 z-[100] bg-slate-950 overflow-y-auto">
+        <div className="fixed inset-0 z-[100] w-full min-h-screen bg-slate-950 overflow-y-auto">
           <div className="container mx-auto px-4 py-8 max-w-4xl">
             <Suspense fallback={<ViewLoading />}>
               <IdLogView
