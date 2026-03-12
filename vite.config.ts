@@ -7,6 +7,7 @@ export default defineConfig(({ mode }) => {
   // Use base path for GitHub Pages production build, but '/' for local development
   const repo = process.env.VITE_BASE_REPO || 'fallacy_quizz';
   const base = mode === 'production' ? `/${repo}/` : '/';
+  const startUrl = `${base}index.html`;
   
   return {
     plugins: [
@@ -21,22 +22,46 @@ export default defineConfig(({ mode }) => {
           theme_color: '#0f172a',
           background_color: '#0f172a',
           display: 'standalone',
-          start_url: base,
+          id: base,
+          scope: base,
+          start_url: startUrl,
           icons: [
             {
-              src: 'https://cdn-icons-png.flaticon.com/512/5968/5968350.png',
+              src: 'icons/icon-192.png',
+              sizes: '192x192',
+              type: 'image/png'
+            },
+            {
+              src: 'icons/icon-192-maskable.png',
+              sizes: '192x192',
+              type: 'image/png',
+              purpose: 'maskable'
+            },
+            {
+              src: 'icons/icon-512.png',
+              sizes: '512x512',
+              type: 'image/png'
+            },
+            {
+              src: 'icons/icon-512-maskable.png',
               sizes: '512x512',
               type: 'image/png',
-              purpose: 'any maskable'
+              purpose: 'maskable'
+            },
+            {
+              src: 'icons/icon-180.png',
+              sizes: '180x180',
+              type: 'image/png'
             }
           ]
         },
+        includeAssets: ['icons/*'],
         workbox: {
           globPatterns: ['**/*.{js,css,html,ico,png,svg,json}'],
           maximumFileSizeToCacheInBytes: 10 * 1024 * 1024, // 10MB to cover potentially large chunk files
           cleanupOutdatedCaches: true,
           sourcemap: true,
-          navigateFallback: `${base}index.html`,
+          navigateFallback: startUrl,
           navigateFallbackAllowlist: [/^(?!\/__).*/],
           runtimeCaching: [
             {
