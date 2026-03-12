@@ -33,7 +33,11 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
   };
 
   const handleLevelSelect = (level: number) => {
-    if (level <= highestUnlockedLevel) {
+    const canSelectLevel =
+      level <= highestUnlockedLevel ||
+      (level === 1 && highestUnlockedLevel === 0);
+
+    if (canSelectLevel) {
       onSelectLevel(level);
       onClose();
     }
@@ -76,9 +80,12 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
 
         <div className="grid grid-cols-2 sm:grid-cols-5 gap-3">
           {LEVELS.map((levelInfo) => {
-            const isLocked = levelInfo.level > highestUnlockedLevel;
+            const specialLevelOneUnlocked =
+              levelInfo.level === 1 && highestUnlockedLevel === 0;
+
+            const isLocked = levelInfo.level > highestUnlockedLevel && !specialLevelOneUnlocked;
             const isCurrent = levelInfo.level === currentLevel;
-            const isUnlocked = levelInfo.level <= highestUnlockedLevel;
+            const isUnlocked = !isLocked;
             const stars = getStarsForLevel(levelInfo.level);
 
             return (

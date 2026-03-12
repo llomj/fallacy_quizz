@@ -8,18 +8,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Baking",
+    "question": "Which statement is an argument (claim + reason) about single-use plastics?",
     "options": [
-      "\"I prefer Baking.\"",
-      "\"Baking is definitely better.\"",
-      "\"The oven is too hot, so the cake will burn.\"",
-      "\"Baking exists.\""
+      "\"Single-use plastics are everywhere.\"",
+      "\"We should ban single-use plastics because they clog oceans.\"",
+      "\"I dislike grocery bags.\"",
+      "\"Plastic wrap exists in every store.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The oven is too hot' to support 'the cake will burn'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 1,
+    "explanation": "An argument links a conclusion to a supporting reason.",
+    "detailedExplanationBeginner": "'They clog oceans' is offered as the reason to ban single-use plastics.",
+    "detailedExplanationIntermediate": "Conclusion (ban them) is tied to evidence (they clog oceans).",
+    "detailedExplanationExpert": "Shows a reasoned policy claim: Premise \u2192 Recommendation.",
     "questionFormat": "standard"
   },
   {
@@ -29,18 +29,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Racing",
+    "question": "Which statement is an argument about fixing the late bus problem?",
     "options": [
-      "\"I prefer Racing.\"",
-      "\"Racing is definitely better.\"",
-      "\"You practiced hard, so you will finish faster.\"",
-      "\"Racing exists.\""
+      "\"The bus is late every morning, so the transit app needs real-time updates.\"",
+      "\"Buses should be painted blue.\"",
+      "\"I like taking the bus.\"",
+      "\"The transit app exists.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'You practiced hard' to support 'you will finish faster'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 0,
+    "explanation": "An argument pairs a reason (habitual lateness) with a conclusion (add real-time updates).",
+    "detailedExplanationBeginner": "Because the bus is late daily, the speaker concludes the app must show live times.",
+    "detailedExplanationIntermediate": "Identifies problem (premise) \u2192 proposed fix (conclusion).",
+    "detailedExplanationExpert": "Causal diagnosis supports a policy recommendation.",
     "questionFormat": "standard"
   },
   {
@@ -50,18 +50,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Weather",
+    "question": "Which statement is an argument about the campus Wi-Fi?",
     "options": [
-      "\"I prefer Weather.\"",
-      "\"Weather is definitely better.\"",
-      "\"The clouds are dark, so it is going to rain.\"",
-      "\"Weather exists.\""
+      "\"Campus Wi-Fi keeps dropping, so the university should add more access points.\"",
+      "\"I hate losing Wi-Fi.\"",
+      "\"Wi-Fi exists on campus.\"",
+      "\"Wireless is better than wired.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The clouds are dark' to support 'it is going to rain'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 0,
+    "explanation": "An argument presents evidence (drops) and a conclusion (add access points).",
+    "detailedExplanationBeginner": "Because the connection drops, the speaker concludes more access points are needed.",
+    "detailedExplanationIntermediate": "Premise (instability) supports policy fix (deploy APs).",
+    "detailedExplanationExpert": "Problem-to-remedy reasoning: P (dropouts) \u2192 Q (infrastructure upgrade).",
     "questionFormat": "standard"
   },
   {
@@ -71,18 +71,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Automotive",
+    "question": "Which statement is an argument about the vending machines on campus?",
     "options": [
-      "\"I prefer Automotive.\"",
-      "\"Automotive is definitely better.\"",
-      "\"The battery is empty, so the car won't start.\"",
-      "\"Automotive exists.\""
+      "\"The vending machines are empty, so we should restock them twice a day.\"",
+      "\"I prefer snacks.\"",
+      "\"Vending machines exist.\"",
+      "\"Snacks are better than salads.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The battery is empty' to support 'the car won't start'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 0,
+    "explanation": "Links observation (machines are empty) to a recommended action (restock twice daily).",
+    "detailedExplanationBeginner": "Premise: machines empty. Conclusion: restock more often.",
+    "detailedExplanationIntermediate": "Problem evidence supports operational change.",
+    "detailedExplanationExpert": "Needs-based justification: scarcity \u2192 increase replenishment frequency.",
     "questionFormat": "standard"
   },
   {
@@ -92,18 +92,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Botany",
+    "question": "Which statement is an argument about exam-week library hours?",
     "options": [
-      "\"I prefer Botany.\"",
-      "\"Botany is definitely better.\"",
-      "\"Plants need light, so they should be near the window.\"",
-      "\"Botany exists.\""
+      "\"Finals week packs the library, so hours should extend to midnight.\"",
+      "\"I love libraries.\"",
+      "\"Books exist on every floor.\"",
+      "\"Midnight is a cool time.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Plants need light' to support 'they should be near the window'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 0,
+    "explanation": "Uses a stated reason (crowding) to justify a policy (extend hours).",
+    "detailedExplanationBeginner": "Because finals bring crowds, the speaker concludes the library should stay open later.",
+    "detailedExplanationIntermediate": "Demand evidence \u2192 schedule change.",
+    "detailedExplanationExpert": "Capacity argument: high load \u2192 extend operating window.",
     "questionFormat": "standard"
   },
   {
@@ -113,18 +113,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Library",
+    "question": "Which statement is an argument about safer bike lanes?",
     "options": [
-      "\"I prefer Library.\"",
-      "\"Library is definitely better.\"",
-      "\"Silence is required, so we must speak softly.\"",
-      "\"Library exists.\""
+      "\"The bike lane vanishes at intersections, so riders are forced into traffic; the city should finish the lane.\"",
+      "\"Bikes are fun.\"",
+      "\"Bike lanes are painted.\"",
+      "\"Intersections exist.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Silence is required' to support 'we must speak softly'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 0,
+    "explanation": "Gives a reason (lane ends into traffic) and a conclusion (complete the lane).",
+    "detailedExplanationBeginner": "Because riders get pushed into traffic, the speaker concludes the lane must continue through the intersection.",
+    "detailedExplanationIntermediate": "Safety evidence \u2192 infrastructure fix.",
+    "detailedExplanationExpert": "Causal hazard justification: design gap \u2192 mitigation action.",
     "questionFormat": "standard"
   },
   {
@@ -134,18 +134,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Health",
+    "question": "Which statement is an argument about upgrading streetlights?",
     "options": [
-      "\"I prefer Health.\"",
-      "\"Health is definitely better.\"",
-      "\"Exercise improves health, so we should walk daily.\"",
-      "\"Health exists.\""
+      "\"LED bulbs use less energy, so the city should retrofit the streetlights.\"",
+      "\"Streetlights are tall.\"",
+      "\"I like bright lights.\"",
+      "\"Electricity exists.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Exercise improves health' to support 'we should walk daily'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 0,
+    "explanation": "Reason (LEDs save energy) supports the conclusion (retrofit streetlights).",
+    "detailedExplanationBeginner": "Because LEDs cut energy use, the speaker concludes streetlights should be upgraded.",
+    "detailedExplanationIntermediate": "Efficiency premise \u2192 policy recommendation.",
+    "detailedExplanationExpert": "Cost-saving justification: lower energy intensity \u2192 retrofit decision.",
     "questionFormat": "standard"
   },
   {
@@ -155,18 +155,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Mathematics",
+    "question": "Which statement is an argument about cafeteria food waste?",
     "options": [
-      "\"I prefer Mathematics.\"",
-      "\"Mathematics is definitely better.\"",
-      "\"X equals 5, so X plus 2 equals 7.\"",
-      "\"Mathematics exists.\""
+      "\"Students toss untouched food, so the cafeteria should let people choose smaller portions.\"",
+      "\"Cafeterias exist.\"",
+      "\"I prefer dessert.\"",
+      "\"Food waste is sad.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'X equals 5' to support 'X plus 2 equals 7'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 0,
+    "explanation": "Links evidence (food is thrown away) to a remedy (offer portion choice).",
+    "detailedExplanationBeginner": "Because food is wasted, the conclusion is to allow smaller portions to cut waste.",
+    "detailedExplanationIntermediate": "Problem observation \u2192 practical policy.",
+    "detailedExplanationExpert": "Empirical trigger \u2192 procedural fix: waste \u2192 portion control.",
     "questionFormat": "standard"
   },
   {
@@ -911,18 +911,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Automotive (3)",
+    "question": "Which statement is an argument about securing the community garden tools?",
     "options": [
-      "\"I prefer Automotive (3).\"",
-      "\"Automotive (3) is definitely better.\"",
-      "\"The battery is empty, so the car won't start.\"",
-      "\"Automotive (3) exists.\""
+      "\"We should build a lockable shed because tools keep getting stolen.\"",
+      "\"I love gardening.\"",
+      "\"Community gardens are fun.\"",
+      "\"Tools are shiny.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The battery is empty' to support 'the car won't start'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 0,
+    "explanation": "Reason (thefts) supports conclusion (add a lockable shed).",
+    "detailedExplanationBeginner": "Because tools disappear, the speaker concludes a lockable shed is needed.",
+    "detailedExplanationIntermediate": "Problem evidence \u2192 preventative action.",
+    "detailedExplanationExpert": "Security justification: recurring loss \u2192 containment measure.",
     "questionFormat": "standard"
   },
   {
@@ -932,18 +932,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Botany (3)",
+    "question": "Which statement is an argument about monitoring the night sky before storms?",
     "options": [
-      "\"I prefer Botany (3).\"",
-      "\"Botany (3) is definitely better.\"",
-      "\"Plants need light, so they should be near the window.\"",
-      "\"Botany (3) exists.\""
+      "\"Meteorologists track the night sky so coastal towns can warn fishers early.\"",
+      "\"The sky is beautiful.\"",
+      "\"Stars exist.\"",
+      "\"Telescopes are expensive.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Plants need light' to support 'they should be near the window'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 0,
+    "explanation": "Gives a reason (early warning) linked to an action (track the sky).",
+    "detailedExplanationBeginner": "Because watching the sky helps warn fishers, the statement argues for monitoring it.",
+    "detailedExplanationIntermediate": "Safety benefit \u2192 supports proactive observation.",
+    "detailedExplanationExpert": "Risk mitigation argument: surveillance enables timely alerts.",
     "questionFormat": "standard"
   },
   {
@@ -953,18 +953,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Library (3)",
+    "question": "Which statement is an argument about replacing a school water fountain?",
     "options": [
-      "\"I prefer Library (3).\"",
-      "\"Library (3) is definitely better.\"",
-      "\"Silence is required, so we must speak softly.\"",
-      "\"Library (3) exists.\""
+      "\"Lead was detected in the fountain, so the school should replace it immediately.\"",
+      "\"Water fountains are shiny.\"",
+      "\"I prefer bottled water.\"",
+      "\"The school has hallways.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Silence is required' to support 'we must speak softly'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 0,
+    "explanation": "Links evidence (lead found) to a conclusion (replace the fountain).",
+    "detailedExplanationBeginner": "Because tests show lead, the argument says the fountain must be replaced now.",
+    "detailedExplanationIntermediate": "Health risk (premise) \u2192 corrective action (conclusion).",
+    "detailedExplanationExpert": "Hazard detection \u2192 remediation directive.",
     "questionFormat": "standard"
   },
   {
@@ -974,18 +974,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Health (3)",
+    "question": "Which statement is an argument about shortening counseling waitlists?",
     "options": [
-      "\"I prefer Health (3).\"",
-      "\"Health (3) is definitely better.\"",
-      "\"Exercise improves health, so we should walk daily.\"",
-      "\"Health (3) exists.\""
+      "\"The counseling waitlist is six weeks long, so the university should hire another therapist.\"",
+      "\"Counseling offices have chairs.\"",
+      "\"Therapists studied psychology.\"",
+      "\"I like quiet rooms.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Exercise improves health' to support 'we should walk daily'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 0,
+    "explanation": "Reason (six-week wait) supports conclusion (hire another therapist).",
+    "detailedExplanationBeginner": "Because the wait is long, the statement argues for adding a therapist.",
+    "detailedExplanationIntermediate": "Bottleneck evidence \u2192 capacity increase recommendation.",
+    "detailedExplanationExpert": "Queue-length rationale: excessive delay \u2192 resource expansion.",
     "questionFormat": "standard"
   },
   {
@@ -6311,18 +6311,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Cuisine",
+    "question": "Laquelle de ces affirmations est un argument (conclusion + raison) \u00e0 propos des plastiques \u00e0 usage unique ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Cuisine.\"",
-      "\"Cuisine est d\u00e9finitivement mieux.\"",
-      "\"Le four est trop chaud, donc le g\u00e2teau va br\u00fbler.\"",
-      "\"Cuisine existe.\""
+      "\"Les plastiques \u00e0 usage unique sont partout.\"",
+      "\"Nous devrions les interdire parce qu'ils encombrent les oc\u00e9ans.\"",
+      "\"Je n'aime pas les sacs de courses.\"",
+      "\"Le film plastique existe dans tous les magasins.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Le four est trop chaud' pour soutenir 'le g\u00e2teau va br\u00fbler'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 1,
+    "explanation": "Un argument relie une conclusion \u00e0 une raison qui la soutient.",
+    "detailedExplanationBeginner": "\"Ils encombrent les oc\u00e9ans\" est donn\u00e9 comme raison pour interdire ces plastiques.",
+    "detailedExplanationIntermediate": "Conclusion (les interdire) adoss\u00e9e \u00e0 un fait (ils obstruent les oc\u00e9ans).",
+    "detailedExplanationExpert": "Recommandation appuy\u00e9e sur une pr\u00e9misse environnementale : Pr\u00e9misse \u2192 Politique.",
     "questionFormat": "standard"
   },
   {
@@ -6332,18 +6332,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Course",
+    "question": "Laquelle de ces affirmations est un argument sur le probl\u00e8me du bus en retard ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Course.\"",
-      "\"Course est d\u00e9finitivement mieux.\"",
-      "\"Tu t'es entra\u00een\u00e9 dur, donc tu finiras plus vite.\"",
-      "\"Course existe.\""
+      "\"Le bus est en retard chaque matin, donc l'appli doit afficher les horaires en temps r\u00e9el.\"",
+      "\"Les bus devraient \u00eatre peints en bleu.\"",
+      "\"J'aime prendre le bus.\"",
+      "\"L'application de bus existe.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Tu t'es entra\u00een\u00e9 dur' pour soutenir 'tu finiras plus vite'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 0,
+    "explanation": "Un argument associe une raison (retards quotidiens) \u00e0 une conclusion (ajouter le temps r\u00e9el).",
+    "detailedExplanationBeginner": "Parce que le bus est en retard chaque jour, on conclut que l'appli doit montrer les horaires en direct.",
+    "detailedExplanationIntermediate": "Diagnostic du probl\u00e8me (pr\u00e9misse) \u2192 solution propos\u00e9e (conclusion).",
+    "detailedExplanationExpert": "Lien causal : dysfonctionnement observ\u00e9 \u2192 recommandation de service.",
     "questionFormat": "standard"
   },
   {
@@ -6353,18 +6353,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : M\u00e9t\u00e9o",
+    "question": "Laquelle de ces affirmations est un argument \u00e0 propos du Wi-Fi du campus ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re M\u00e9t\u00e9o.\"",
-      "\"M\u00e9t\u00e9o est d\u00e9finitivement mieux.\"",
-      "\"Les nuages sont sombres, donc il va pleuvoir.\"",
-      "\"M\u00e9t\u00e9o existe.\""
+      "\"Le Wi-Fi du campus coupe sans arr\u00eat, donc l'universit\u00e9 devrait ajouter des points d'acc\u00e8s.\"",
+      "\"Je d\u00e9teste perdre le Wi-Fi.\"",
+      "\"Le Wi-Fi existe sur le campus.\"",
+      "\"Le sans-fil est mieux que le c\u00e2bl\u00e9.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Les nuages sont sombres' pour soutenir 'il va pleuvoir'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 0,
+    "explanation": "L'argument pr\u00e9sente un constat (coupures) et une conclusion (ajouter des points d'acc\u00e8s).",
+    "detailedExplanationBeginner": "Parce que la connexion saute, on conclut qu'il faut plus de bornes.",
+    "detailedExplanationIntermediate": "Pr\u00e9misse (instabilit\u00e9) \u2192 mesure propos\u00e9e (d\u00e9ployer des AP).",
+    "detailedExplanationExpert": "Sch\u00e9ma probl\u00e8me-solution : P (coupures) \u2192 Q (renforcer l'infrastructure).",
     "questionFormat": "standard"
   },
   {
@@ -6374,18 +6374,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Automobile",
+    "question": "Laquelle de ces affirmations est un argument \u00e0 propos des distributeurs sur le campus ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Automobile.\"",
-      "\"Automobile est d\u00e9finitivement mieux.\"",
-      "\"La batterie est vide, donc la voiture ne d\u00e9marrera pas.\"",
-      "\"Automobile existe.\""
+      "\"Les distributeurs sont vides, donc il faut les recharger deux fois par jour.\"",
+      "\"Je pr\u00e9f\u00e8re les snacks.\"",
+      "\"Les distributeurs existent.\"",
+      "\"Les snacks sont meilleurs que les salades.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'La batterie est vide' pour soutenir 'la voiture ne d\u00e9marrera pas'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 0,
+    "explanation": "Relie un constat (distributeurs vides) \u00e0 une action (recharger plus souvent).",
+    "detailedExplanationBeginner": "Pr\u00e9misse : ils sont vides. Conclusion : augmenter la fr\u00e9quence de remplissage.",
+    "detailedExplanationIntermediate": "La preuve du probl\u00e8me soutient le changement op\u00e9rationnel.",
+    "detailedExplanationExpert": "Justification par besoin : raret\u00e9 \u2192 hausse du ravitaillement.",
     "questionFormat": "standard"
   },
   {
@@ -6395,18 +6395,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Botanique",
+    "question": "Laquelle de ces affirmations est un argument sur les horaires de biblioth\u00e8que pendant les partiels ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Botanique.\"",
-      "\"Botanique est d\u00e9finitivement mieux.\"",
-      "\"Les plantes ont besoin de lumi\u00e8re, donc elles devraient \u00eatre pr\u00e8s de la fen\u00eatre.\"",
-      "\"Botanique existe.\""
+      "\"La biblioth\u00e8que est bond\u00e9e pendant les partiels, donc elle devrait fermer \u00e0 minuit.\"",
+      "\"J'adore les biblioth\u00e8ques.\"",
+      "\"Il y a des livres \u00e0 tous les \u00e9tages.\"",
+      "\"Minuit est une heure sympa.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Les plantes ont besoin de lumi\u00e8re' pour soutenir 'elles devraient \u00eatre pr\u00e8s de la fen\u00eatre'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 0,
+    "explanation": "Donne une raison (affluence) pour justifier une politique (fermer plus tard).",
+    "detailedExplanationBeginner": "Parce que les partiels attirent du monde, on conclut qu'il faut prolonger les horaires.",
+    "detailedExplanationIntermediate": "Preuve de la demande \u2192 adaptation des horaires.",
+    "detailedExplanationExpert": "Argument de capacit\u00e9 : charge \u00e9lev\u00e9e \u2192 extension de la plage d'ouverture.",
     "questionFormat": "standard"
   },
   {
@@ -6416,18 +6416,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Biblioth\u00e8que",
+    "question": "Laquelle de ces affirmations est un argument sur la s\u00e9curit\u00e9 des pistes cyclables ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Biblioth\u00e8que.\"",
-      "\"Biblioth\u00e8que est d\u00e9finitivement mieux.\"",
-      "\"Le silence est requis, donc nous devons parler bas.\"",
-      "\"Biblioth\u00e8que existe.\""
+      "\"La piste cyclable dispara\u00eet aux carrefours et pousse les cyclistes dans la circulation; la ville doit la prolonger.\"",
+      "\"Les v\u00e9los, c'est amusant.\"",
+      "\"Les pistes cyclables sont peintes.\"",
+      "\"Il existe des carrefours.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Le silence est requis' pour soutenir 'nous devons parler bas'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 0,
+    "explanation": "Raison (fin de piste dangereuse) + conclusion (terminer la piste aux croisements).",
+    "detailedExplanationBeginner": "Parce que les cyclistes sont rejet\u00e9s dans la circulation, on conclut qu'il faut continuer la piste.",
+    "detailedExplanationIntermediate": "Preuve de risque \u2192 correction d'infrastructure.",
+    "detailedExplanationExpert": "Justification de s\u00e9curit\u00e9 : lacune de conception \u2192 mesure de mitigation.",
     "questionFormat": "standard"
   },
   {
@@ -6437,18 +6437,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Sant\u00e9",
+    "question": "Laquelle de ces affirmations est un argument sur la modernisation des lampadaires ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Sant\u00e9.\"",
-      "\"Sant\u00e9 est d\u00e9finitivement mieux.\"",
-      "\"L'exercice am\u00e9liore la sant\u00e9, donc nous devrions marcher quotidiennement.\"",
-      "\"Sant\u00e9 existe.\""
+      "\"Les LED consomment moins, donc la ville devrait r\u00e9nover les lampadaires.\"",
+      "\"Les lampadaires sont hauts.\"",
+      "\"J'aime la lumi\u00e8re vive.\"",
+      "\"L'\u00e9lectricit\u00e9 existe.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'L'exercice am\u00e9liore la sant\u00e9' pour soutenir 'nous devrions marcher quotidiennement'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 0,
+    "explanation": "Raison (les LED \u00e9conomisent l'\u00e9nergie) \u2192 conclusion (r\u00e9nover les lampadaires).",
+    "detailedExplanationBeginner": "Parce que les LED consomment moins, on conclut qu'il faut les installer sur les lampadaires.",
+    "detailedExplanationIntermediate": "Pr\u00e9misse d'efficacit\u00e9 \u2192 recommandation de politique publique.",
+    "detailedExplanationExpert": "Argument d'\u00e9conomie d'\u00e9nergie : moindre intensit\u00e9 \u2192 choix de r\u00e9trofit.",
     "questionFormat": "standard"
   },
   {
@@ -6458,18 +6458,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Math\u00e9matiques",
+    "question": "Laquelle de ces affirmations est un argument sur le gaspillage \u00e0 la caf\u00e9t\u00e9ria ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Math\u00e9matiques.\"",
-      "\"Math\u00e9matiques est d\u00e9finitivement mieux.\"",
-      "\"X est \u00e9gal \u00e0 5, donc X plus 2 est \u00e9gal \u00e0 7.\"",
-      "\"Math\u00e9matiques existe.\""
+      "\"Les \u00e9tudiants jettent des plateaux intacts, donc la caf\u00e9t\u00e9ria devrait proposer des portions plus petites.\"",
+      "\"Les caf\u00e9t\u00e9rias existent.\"",
+      "\"Je pr\u00e9f\u00e8re le dessert.\"",
+      "\"Le gaspillage, c'est triste.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'X est \u00e9gal \u00e0 5' pour soutenir 'X plus 2 est \u00e9gal \u00e0 7'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 0,
+    "explanation": "Relie un fait (on jette des repas) \u00e0 une solution (choisir des petites portions).",
+    "detailedExplanationBeginner": "Comme de la nourriture est gaspill\u00e9e, la conclusion est d'offrir des portions modulables.",
+    "detailedExplanationIntermediate": "Observation du probl\u00e8me \u2192 mesure concr\u00e8te.",
+    "detailedExplanationExpert": "D\u00e9clencheur empirique \u2192 ajustement op\u00e9rationnel : gaspillage \u2192 choix de portion.",
     "questionFormat": "standard"
   },
   {
@@ -7214,18 +7214,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Automobile (3)",
+    "question": "Laquelle de ces affirmations est un argument sur la s\u00e9curisation des outils du jardin partag\u00e9 ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Automobile (3).\"",
-      "\"Automobile (3) est d\u00e9finitivement mieux.\"",
-      "\"La batterie est vide, donc la voiture ne d\u00e9marrera pas.\"",
-      "\"Automobile (3) existe.\""
+      "\"Il faut construire un abri verrouillable parce que les outils disparaissent.\"",
+      "\"J'adore jardiner.\"",
+      "\"Les jardins partag\u00e9s sont sympas.\"",
+      "\"Les outils sont brillants.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'La batterie est vide' pour soutenir 'la voiture ne d\u00e9marrera pas'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 0,
+    "explanation": "Raison (vols r\u00e9p\u00e9t\u00e9s) + conclusion (abri verrouillable).",
+    "detailedExplanationBeginner": "Parce que des outils sont vol\u00e9s, on conclut qu'il faut un abri ferm\u00e9.",
+    "detailedExplanationIntermediate": "Preuve du probl\u00e8me \u2192 action de pr\u00e9vention.",
+    "detailedExplanationExpert": "Justification de s\u00e9curit\u00e9 : pertes r\u00e9currentes \u2192 mesure de protection.",
     "questionFormat": "standard"
   },
   {
@@ -7235,18 +7235,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Botanique (3)",
+    "question": "Laquelle de ces affirmations est un argument sur la surveillance du ciel nocturne avant les temp\u00eates ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Botanique (3).\"",
-      "\"Botanique (3) est d\u00e9finitivement mieux.\"",
-      "\"Les plantes ont besoin de lumi\u00e8re, donc elles devraient \u00eatre pr\u00e8s de la fen\u00eatre.\"",
-      "\"Botanique (3) existe.\""
+      "\"Les m\u00e9t\u00e9orologues observent le ciel nocturne pour que les ports p\u00e9ch\u00e9s puissent alerter t\u00f4t les marins.\"",
+      "\"Le ciel est magnifique.\"",
+      "\"Les \u00e9toiles existent.\"",
+      "\"Les t\u00e9l\u00e9scopes sont chers.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Les plantes ont besoin de lumi\u00e8re' pour soutenir 'elles devraient \u00eatre pr\u00e8s de la fen\u00eatre'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 0,
+    "explanation": "Expose une raison (alerter t\u00f4t) li\u00e9e \u00e0 une action (surveiller le ciel).",
+    "detailedExplanationBeginner": "Parce que surveiller le ciel aide \u00e0 pr\u00e9venir les marins, la phrase plaide pour l'observation.",
+    "detailedExplanationIntermediate": "B\u00e9n\u00e9fice de s\u00e9curit\u00e9 \u2192 soutient la vigilance.",
+    "detailedExplanationExpert": "Argument de mitigation des risques : observation \u2192 alerte anticip\u00e9e.",
     "questionFormat": "standard"
   },
   {
@@ -7256,18 +7256,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Biblioth\u00e8que (3)",
+    "question": "Laquelle de ces affirmations est un argument sur le remplacement d'une fontaine \u00e0 eau d'\u00e9cole ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Biblioth\u00e8que (3).\"",
-      "\"Biblioth\u00e8que (3) est d\u00e9finitivement mieux.\"",
-      "\"Le silence est requis, donc nous devons parler bas.\"",
-      "\"Biblioth\u00e8que (3) existe.\""
+      "\"Du plomb a \u00e9t\u00e9 d\u00e9tect\u00e9 dans la fontaine, donc l'\u00e9cole doit la remplacer imm\u00e9diatement.\"",
+      "\"Les fontaines brillent.\"",
+      "\"Je pr\u00e9f\u00e8re l'eau en bouteille.\"",
+      "\"L'\u00e9cole a des couloirs.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Le silence est requis' pour soutenir 'nous devons parler bas'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 0,
+    "explanation": "Relie un constat (pr\u00e9sence de plomb) \u00e0 une conclusion (remplacer la fontaine).",
+    "detailedExplanationBeginner": "Comme du plomb est d\u00e9tect\u00e9, l'argument demande de remplacer la fontaine maintenant.",
+    "detailedExplanationIntermediate": "Risque sanitaire (pr\u00e9misse) \u2192 action corrective (conclusion).",
+    "detailedExplanationExpert": "D\u00e9tection d'un danger \u2192 ordre de rem\u00e9diation.",
     "questionFormat": "standard"
   },
   {
@@ -7277,18 +7277,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Sant\u00e9 (3)",
+    "question": "Laquelle de ces affirmations est un argument pour r\u00e9duire la file d'attente en soutien psychologique ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Sant\u00e9 (3).\"",
-      "\"Sant\u00e9 (3) est d\u00e9finitivement mieux.\"",
-      "\"L'exercice am\u00e9liore la sant\u00e9, donc nous devrions marcher quotidiennement.\"",
-      "\"Sant\u00e9 (3) existe.\""
+      "\"L'attente en consultation est de six semaines, donc l'universit\u00e9 devrait embaucher un th\u00e9rapeute suppl\u00e9mentaire.\"",
+      "\"Les bureaux de consultation ont des chaises.\"",
+      "\"Les th\u00e9rapeutes ont \u00e9tudi\u00e9 la psychologie.\"",
+      "\"J'aime les salles calmes.\""
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'L'exercice am\u00e9liore la sant\u00e9' pour soutenir 'nous devrions marcher quotidiennement'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 0,
+    "explanation": "Raison (six semaines d'attente) \u2192 conclusion (embaucher un th\u00e9rapeute de plus).",
+    "detailedExplanationBeginner": "Parce que l'attente est longue, l'argument propose d'ajouter un praticien.",
+    "detailedExplanationIntermediate": "Preuve d'engorgement \u2192 recommandation d'augmenter la capacit\u00e9.",
+    "detailedExplanationExpert": "Justification par la longueur de file : d\u00e9lai excessif \u2192 renfort de ressources.",
     "questionFormat": "standard"
   },
   {
