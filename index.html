@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+      (function() {
+        // Force preview to always load latest: on localhost, unregister service worker
+        // so cached old app (no stars, no random mode) is never served.
+        if (typeof window === 'undefined' || window.location.hostname !== 'localhost') return;
+        if (!('serviceWorker' in navigator)) return;
+        var key = 'cli-exercises-sw-cleared';
+        if (sessionStorage.getItem(key)) return;
+        navigator.serviceWorker.getRegistrations().then(function(regs) {
+          if (regs.length === 0) return;
+          Promise.all(regs.map(function(r) { return r.unregister(); })).then(function() {
+            sessionStorage.setItem(key, '1');
+            window.location.reload();
+          });
+        });
+      })();
+    </script>
+    <meta charset="UTF-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <title>Fallacy Quiz</title>
+    
+    <!-- PWA & iOS Meta Tags -->
+    <meta name="theme-color" content="#0f172a">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Fallacy Quiz">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="./icons/icon-180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0f172a;
+            color: #f8fafc;
+            overscroll-behavior-y: contain;
+        }
+        .code-font {
+            font-family: 'Fira Code', monospace;
+        }
+        .glass {
+            background: rgba(30, 41, 59, 0.7);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        /* Flags/Commands code blocks: never all green; default text slate, selection neutral */
+        .flags-code-block,
+        .flags-code-block pre,
+        .flags-code-block code {
+            color: #cbd5e1 !important; /* slate-300 fallback */
+        }
+        .flags-code-block .token.comment { color: hsl(0, 0%, 50%) !important; }
+        .flags-code-block ::selection {
+            background: rgba(255, 255, 255, 0.2);
+            color: inherit;
+        }
+        .evolution-gradient {
+            background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+        }
+        /* Mobile specific adjustments */
+        @media (max-width: 640px) {
+            .container {
+                padding-left: 1rem;
+                padding-right: 1rem;
+            }
+        }
+        /* Force mobile layout in Cursor preview if viewport is large */
+        @media (min-width: 641px) and (max-width: 800px) {
+            body {
+                max-width: 390px;
+                margin: 0 auto;
+            }
+        }
+        /* Falling stars celebration animation */
+        @keyframes fall-star {
+            0% { transform: translateY(0) rotate(0deg); opacity: 0.9; }
+            100% { transform: translateY(100vh) rotate(360deg); opacity: 0.2; }
+        }
+        .animate-fall-star {
+            animation: fall-star linear infinite;
+        }
+        /* Light mode (Settings → gear → Light mode toggle) */
+        [data-theme="light"] {
+            background-color: #f1f5f9 !important;
+            color: #1e293b;
+        }
+    </style>
+  <script type="module" crossorigin src="/fallacy_quizz/assets/index-DSStPFiX.js"></script>
+  <link rel="modulepreload" crossorigin href="/fallacy_quizz/assets/react-vendor-vrmkM06s.js">
+  <link rel="modulepreload" crossorigin href="/fallacy_quizz/assets/syntax-highlighter-CMWetiVG.js">
+  <link rel="modulepreload" crossorigin href="/fallacy_quizz/assets/questions-data-B_jqngk_.js">
+  <link rel="modulepreload" crossorigin href="/fallacy_quizz/assets/short-explanations-DvdXFxcB.js">
+  <link rel="modulepreload" crossorigin href="/fallacy_quizz/assets/detailed-explanations-x14tshUv.js">
+<link rel="manifest" href="/fallacy_quizz/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/fallacy_quizz/registerSW.js"></script></head>
+<body>
+    <div id="root"></div>
+</body>
+</html>
