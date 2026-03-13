@@ -1,4 +1,4 @@
-import { getFallacyOptionFrench } from '../data/fallacyOptionTranslations';
+import { getFallacyOptionFrench, replaceFallacyNamesInText } from '../data/fallacyOptionTranslations';
 
 /**
  * Translates question text to French when language is 'fr'.
@@ -446,7 +446,7 @@ export const translateQuestionText = (text: string, language: string): string =>
     translated = translated.replace(pattern, replacement);
   }
 
-  return translated;
+  return sanitizeFrenchArtifacts(translated);
 };
 
 /**
@@ -1188,7 +1188,46 @@ export const translateOptionText = (text: string, language: string): string => {
     result = translateQuestionText(result, 'fr');
   }
 
-  return result;
+  return sanitizeFrenchArtifacts(result);
+};
+
+const sanitizeFrenchArtifacts = (text: string): string => {
+  let out = replaceFallacyNamesInText(text);
+
+  const artifactReplacements: Array<[RegExp, string]> = [
+    [/\bis[\-‐‑–—]ought\b/gi, 'est-devoir'],
+    [/\bis\s+un\b/gi, 'est un'],
+    [/\bis\s+une\b/gi, 'est une'],
+    [/\bTHIS CONCEPT\b/g, 'ce concept'],
+    [/\bthis concept\b/gi, 'ce concept'],
+    [/\bThe\s+(un|une)\b/gi, '$1'],
+    [/\bIf-By-?\b/gi, ''],
+    [/\bfallacy\b/gi, 'sophisme'],
+    [/\bbias\b/gi, 'biais'],
+    [/\boverwriting\b/gi, 'écrasement'],
+    [/\boverwrites\b/gi, 'écrase'],
+    [/\boverwrite\b/gi, 'écraser'],
+    [/\bholds\b/gi, 'contient'],
+    [/\bkeep going\b/gi, 'continuez'],
+    [/\bwhere you left off\b/gi, 'là où vous vous êtes arrêté'],
+    [/\bwhere you stopped\b/gi, 'là où vous vous êtes arrêté'],
+    [/\bde où you arrêté\b/gi, 'là où vous vous êtes arrêté'],
+    [/\bnext question\b/gi, 'question suivante'],
+    [/\bsame level\b/gi, 'même niveau'],
+    [/\byou\b/gi, 'vous'],
+    [/\byour\b/gi, 'votre'],
+    [/\bby un raisonnement\b/gi, 'par un raisonnement'],
+    [/\bby une\b/gi, 'par une'],
+    [/\bof un\b/gi, "d'un"],
+    [/\bof une\b/gi, "d'une"],
+    [/\bof the\b/gi, 'du'],
+  ];
+
+  for (const [pattern, replacement] of artifactReplacements) {
+    out = out.replace(pattern, replacement);
+  }
+
+  return out;
 };
 
 /** Strip "Identify the logical fallacy in this example..." / "Identifiez l'erreur logique..." prefix and optional surrounding quotes. */

@@ -247,7 +247,7 @@ const FALLACY_OPTION_FR: Record<string, string> = {
   'Ipse Dixit': 'Ipse dixit',
   'Ipse dixit': 'Ipse dixit',
   'Irrelevant Conclusion': 'Conclusion non pertinente',
-  'Is-Ought Fallacy': 'Sophisme is-ought',
+  'Is-Ought Fallacy': 'Sophisme est-devoir',
   'Joint effect': 'Effet conjoint',
   'Judgmental language': 'Langage de jugement',
   'Just-World Hypothesis': 'Hypothèse du monde juste',
@@ -623,6 +623,27 @@ export function getFallacyOptionFrench(english: string): string {
   const trimmed = english.trim();
   if (FALLACY_OPTION_FR[trimmed]) return FALLACY_OPTION_FR[trimmed];
   let out = trimmed;
+  for (const [re, replacement] of FALLACY_PATTERNS) {
+    out = out.replace(re, replacement);
+  }
+  return out;
+}
+
+const FALLACY_OPTION_KEYS = Object.keys(FALLACY_OPTION_FR).sort((a, b) => b.length - a.length);
+
+const escapeRegExp = (text: string): string => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+/**
+ * Replaces any English fallacy/bias names inside a longer text string.
+ * Useful for French mode when the source text is mixed EN/FR.
+ */
+export function replaceFallacyNamesInText(text: string): string {
+  let out = text;
+  for (const key of FALLACY_OPTION_KEYS) {
+    if (!out.includes(key)) continue;
+    const re = new RegExp(escapeRegExp(key), 'g');
+    out = out.replace(re, FALLACY_OPTION_FR[key]);
+  }
   for (const [re, replacement] of FALLACY_PATTERNS) {
     out = out.replace(re, replacement);
   }
