@@ -209,9 +209,10 @@ const App: React.FC = () => {
     : currentLevelInfo.persona;
   const currentProgress = stats.levelProgress[stats.currentLevel] || 0;
   const correctForLevel = stats.correctPerLevel?.[stats.currentLevel] ?? 0;
-  // Always derive from accuracy for display so stale acquiredStars never shows wrong stars
-  const percentCorrect = currentProgress > 0 ? (100 * correctForLevel) / currentProgress : 0;
-  const earnedStarsForLevel = currentProgress < STAR_PROGRESS_THRESHOLD ? 0 : getStarsFromAccuracy(percentCorrect);
+  // Stars are based on how many of the 100 questions in this level are correct (10/100→1★, 20/100→2★, etc.).
+  const percentCorrect = (100 * correctForLevel) / QUESTIONS_PER_LEVEL;
+  const earnedStarsForLevel =
+    currentProgress < STAR_PROGRESS_THRESHOLD ? 0 : getStarsFromAccuracy(percentCorrect);
 
   const handleStartEvolution = () => {
     setView('quiz');
@@ -279,21 +280,21 @@ const App: React.FC = () => {
     const xpGained = score * XP_PER_QUESTION;
 
     if (randomMode) {
-      // Random mode: own XP only; level xp unchanged. Stars from session % (separate from level stars).
-      const sessionPercent = total > 0 ? (100 * score) / total : 0;
-      const sessionStars = getRandomModeStarsFromAccuracy(sessionPercent);
-
+      // Random mode: own XP only; level xp unchanged.
       setStats(prev => {
         const rm = prev.randomModeStats ?? { totalAnswered: 0, totalCorrect: 0 };
         const newTotalAnswered = rm.totalAnswered + total;
         const newTotalCorrect = rm.totalCorrect + score;
+        const overallPercent =
+          TOTAL_QUESTIONS > 0 ? (100 * newTotalCorrect) / TOTAL_QUESTIONS : 0;
+        const starsForRandomMode = getRandomModeStarsFromAccuracy(overallPercent);
         const newRm = {
           ...rm,
           totalAnswered: newTotalAnswered,
           totalCorrect: newTotalCorrect,
           lastSessionScore: score,
           lastSessionTotal: total,
-          lastSessionStars: sessionStars
+          lastSessionStars: starsForRandomMode
         };
         return {
           ...prev,
@@ -308,19 +309,22 @@ const App: React.FC = () => {
       const newTotalAnswered = rm.totalAnswered + total;
       const newTotalCorrect = rm.totalCorrect + score;
       const newPercentCorrect = newTotalAnswered > 0 ? Math.round((100 * newTotalCorrect) / newTotalAnswered) : 0;
+      const overallPercent =
+        TOTAL_QUESTIONS > 0 ? (100 * newTotalCorrect) / TOTAL_QUESTIONS : 0;
+      const starsForRandomMode = getRandomModeStarsFromAccuracy(overallPercent);
       const newRm = { totalAnswered: newTotalAnswered, totalCorrect: newTotalCorrect };
 
       setShowResult({
         score,
         total,
-        starEarned: sessionStars,
+        starEarned: starsForRandomMode,
         randomMode: true,
         newPersona: getPersonaFromRandomStats(newRm),
         newTotalCorrect,
         newPercentCorrect
       });
     } else {
-      // Level mode: update correctPerLevel, levelProgress (no cap), stars from accuracy, unlock when crossing 90
+      // Level mode: update correctPerLevel, levelProgress (no cap), stars from accuracy against full 100-question level
       setStats(prev => {
         const newXp = prev.xp + xpGained;
         const currentLevelProgress = prev.levelProgress[prev.currentLevel] || 0;
@@ -338,8 +342,8 @@ const App: React.FC = () => {
           [prev.currentLevel]: newCorrect
         };
 
-        const percentCorrect = newLevelProgress > 0 ? (100 * newCorrect) / newLevelProgress : 0;
-        const newStars = getStarsFromAccuracy(percentCorrect);
+        const percentCorrectLevel = (100 * newCorrect) / QUESTIONS_PER_LEVEL;
+        const newStars = getStarsFromAccuracy(percentCorrectLevel);
         const updatedAcquiredStars = {
           ...(prev.acquiredStars || {}),
           [prev.currentLevel]: newStars
@@ -368,8 +372,8 @@ const App: React.FC = () => {
       const newLevelProgress = currentLevelProgress + total;
       const currentCorrect = stats.correctPerLevel?.[stats.currentLevel] || 0;
       const newCorrect = currentCorrect + score;
-      const percentCorrect = newLevelProgress > 0 ? (100 * newCorrect) / newLevelProgress : 0;
-      const newStars = getStarsFromAccuracy(percentCorrect);
+      const percentCorrectLevel = (100 * newCorrect) / QUESTIONS_PER_LEVEL;
+      const newStars = getStarsFromAccuracy(percentCorrectLevel);
       const currentStars = stats.acquiredStars?.[stats.currentLevel] || 0;
       const starEarned = newStars > currentStars ? newStars : null;
 

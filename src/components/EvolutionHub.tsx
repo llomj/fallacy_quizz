@@ -35,10 +35,10 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
     ? Math.round((stats.lastSessionScore / stats.lastSessionTotal) * 100)
     : null;
 
-  // Stars 0–5 from accuracy; stay blank until progress reaches STAR_PROGRESS_THRESHOLD (~10%).
-  // Always derive from accuracy for display (not acquiredStars) so stale migration data never shows wrong stars.
+  // Stars 0–5 from accuracy; stay blank until progress reaches STAR_PROGRESS_THRESHOLD (~10% of the level).
+  // Stars are based on how many of the 100 questions for this level are correct (10/100→1★, 20/100→2★, etc.).
   const correct = stats.correctPerLevel?.[stats.currentLevel] ?? 0;
-  const percentCorrect = progress > 0 ? (100 * correct) / progress : 0;
+  const percentCorrect = (100 * correct) / QUESTIONS_PER_LEVEL;
   const earnedStars = progress < STAR_PROGRESS_THRESHOLD ? 0 : getStarsFromAccuracy(percentCorrect);
 
   const displayPersona = randomMode ? randomPersona : currentLevelInfo.persona;

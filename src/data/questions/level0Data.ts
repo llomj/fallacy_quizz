@@ -806,18 +806,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Zoology (2)",
+    "question": "Which of these is an argument (a claim supported by a reason) about city noise rules?",
     "options": [
-      "\"I prefer Zoology (2).\"",
-      "\"Zoology (2) is definitely better.\"",
-      "\"Dogs are social, so they need company.\"",
-      "\"Zoology (2) exists.\""
+      "\"The city has noise rules.\"",
+      "\"I hate how loud my street is.\"",
+      "\"Because late-night traffic keeps residents awake, the city should add a quiet-hours rule.\"",
+      "\"Noise complaints exist in every district.\""
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Dogs are social' to support 'they need company'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "detailedExplanationBeginner": "Uses 'late-night traffic keeps residents awake' to support 'the city should add a quiet-hours rule'.",
+    "detailedExplanationIntermediate": "Conclusion (add quiet hours) is backed by a reason (lost sleep from traffic).",
+    "detailedExplanationExpert": "Policy argument: problem evidence \u2192 regulatory proposal.",
     "questionFormat": "standard"
   },
   {
@@ -5678,12 +5678,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "In logic, what does it mean to say an argument is SOUND?",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "It is valid and every premise is actually true.",
+      "It is valid, but its premises might be false.",
+      "All its premises are true, but the reasoning can be invalid.",
+      "It simply feels persuasive to most people."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5699,12 +5699,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Pick the best definition of a sound argument.",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "A deductively valid argument whose premises are all true in reality.",
+      "Any valid argument, even if its premises are false.",
+      "Any argument with all true premises, even if the form is invalid.",
+      "Any argument that a skilled speaker can make convincing."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5720,12 +5720,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Which characterization matches what logicians call a 'sound' argument?",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Valid form + factually correct premises.",
+      "Valid form only, regardless of whether the premises are true.",
+      "True premises only, even if the reasoning pattern is bad.",
+      "Any argument that seems convincing in practice."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -7109,18 +7109,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Zoologie (2)",
+    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) \u00e0 propos du bruit en ville ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Zoologie (2).\"",
-      "\"Zoologie (2) est d\u00e9finitivement mieux.\"",
-      "\"Les chiens sont sociaux, donc ils ont besoin de compagnie.\"",
-      "\"Zoologie (2) existe.\""
+      "\"La ville a un r\u00e8glement sur le bruit.\"",
+      "\"Je d\u00e9teste \u00e0 quel point ma rue est bruyante.\"",
+      "\"Parce que la circulation nocturne emp\u00eache les habitants de dormir, la ville devrait instaurer des heures calmes.\"",
+      "\"Il y a des plaintes pour bruit dans tous les quartiers.\""
     ],
     "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Les chiens sont sociaux' pour soutenir 'ils ont besoin de compagnie'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "explanation": "Un argument pr\u00e9sente une pr\u00e9misse pour soutenir une conclusion.",
+    "detailedExplanationBeginner": "Utilise 'la circulation nocturne emp\u00eache les habitants de dormir' pour soutenir 'la ville devrait instaurer des heures calmes'.",
+    "detailedExplanationIntermediate": "Conclusion (instaurer des heures calmes) soutenue par une raison (perte de sommeil \u00e0 cause de la circulation).",
+    "detailedExplanationExpert": "Argument de politique : preuve du probl\u00e8me \u2192 proposition r\u00e9glementaire.",
     "questionFormat": "standard"
   },
   {
@@ -11561,18 +11561,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Choisissez la meilleure d\u00e9finition d'un argument sain.",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Un argument d\u00e9ductivement valide dont toutes les pr\u00e9misses sont vraies en r\u00e9alit\u00e9.",
+      "Tout argument valide, m\u00eame si ses pr\u00e9misses sont fausses.",
+      "Tout argument dont les pr\u00e9misses sont toutes vraies, m\u00eame si la forme est invalide.",
+      "Tout argument qu'un bon orateur peut rendre convaincant."
     ],
     "correct_option_index": 0,
-    "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
-    "detailedExplanationBeginner": "Logique + V\u00e9rit\u00e9.",
-    "detailedExplanationIntermediate": "Deux crit\u00e8res : validit\u00e9 et v\u00e9rit\u00e9 mat\u00e9rielle.",
-    "detailedExplanationExpert": "Valide \u2227 V\u00e9rit\u00e9(P).",
+    "explanation": "Solidit\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9 des pr\u00e9misses.",
+    "detailedExplanationBeginner": "La forme doit \u00eatre valide et les pr\u00e9misses doivent correspondre aux faits.",
+    "detailedExplanationIntermediate": "D\u00e9finit la solidit\u00e9 comme combinaison d'inf\u00e9rence valide et de pr\u00e9misses vraies.",
+    "detailedExplanationExpert": "Valide \u2227 V\u00e9rit\u00e9(P) dans le monde.",
     "questionFormat": "standard"
   },
   {
@@ -11582,17 +11582,17 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "En logique, que signifie dire qu'un argument est SAIN ?",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Il est valide et chacune de ses pr\u00e9misses est effectivement vraie.",
+      "Il est valide, mais ses pr\u00e9misses peuvent \u00eatre fausses.",
+      "Toutes ses pr\u00e9misses sont vraies, mais le raisonnement peut \u00eatre invalide.",
+      "Il semble simplement convaincant pour la plupart des gens."
     ],
     "correct_option_index": 0,
-    "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
-    "detailedExplanationBeginner": "Logique + V\u00e9rit\u00e9.",
-    "detailedExplanationIntermediate": "Deux crit\u00e8res : validit\u00e9 et v\u00e9rit\u00e9 mat\u00e9rielle.",
+    "explanation": "Solidit\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9 des pr\u00e9misses.",
+    "detailedExplanationBeginner": "Logique correcte + pr\u00e9misses vraies.",
+    "detailedExplanationIntermediate": "Deux crit\u00e8res : forme valide et pr\u00e9misses factuellement vraies.",
     "detailedExplanationExpert": "Valide \u2227 V\u00e9rit\u00e9(P).",
     "questionFormat": "standard"
   },
@@ -12023,18 +12023,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Quelle caract\u00e9risation correspond \u00e0 ce que les logiciens appellent un argument \u00ab sain \u00bb ?",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Forme valide + pr\u00e9misses factuellement vraies.",
+      "Forme valide seulement, quelle que soit la v\u00e9rit\u00e9 des pr\u00e9misses.",
+      "Pr\u00e9misses vraies seulement, m\u00eame si le sch\u00e9ma de raisonnement est mauvais.",
+      "Tout argument qui para\u00eet convaincant en pratique."
     ],
     "correct_option_index": 0,
-    "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
-    "detailedExplanationBeginner": "Logique + V\u00e9rit\u00e9.",
-    "detailedExplanationIntermediate": "Deux crit\u00e8res : validit\u00e9 et v\u00e9rit\u00e9 mat\u00e9rielle.",
-    "detailedExplanationExpert": "Valide \u2227 V\u00e9rit\u00e9(P).",
+    "explanation": "La solidit\u00e9 exige \u00e0 la fois une forme valide et des pr\u00e9misses vraies.",
+    "detailedExplanationBeginner": "Pas seulement une bonne forme, mais aussi des pr\u00e9misses correctes.",
+    "detailedExplanationIntermediate": "Combine validit\u00e9 d\u00e9ductive et v\u00e9rit\u00e9 mat\u00e9rielle des pr\u00e9misses.",
+    "detailedExplanationExpert": "Valide \u2227 V\u00e9rit\u00e9(P) comme condition de solidit\u00e9.",
     "questionFormat": "standard"
   },
   {
