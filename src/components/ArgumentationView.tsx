@@ -43,9 +43,17 @@ const Pill: React.FC<{ label: string; color: string }> = ({ label, color }) => (
   </span>
 );
 
-export const ArgumentationView: React.FC<ArgumentationViewProps> = ({ onBack }) => {
+export const ArgumentationView: React.FC<ArgumentationViewProps & { onPlayClickSound?: () => void }> = ({ 
+  onBack, 
+  onPlayClickSound 
+}) => {
   const { language } = useLanguage();
   const isFr = language === 'fr';
+
+  const handleBack = () => {
+    onPlayClickSound?.();
+    onBack();
+  };
 
   return (
     <div className="relative min-h-[600px] animate-in slide-in-from-left duration-500 pb-12">
@@ -55,7 +63,7 @@ export const ArgumentationView: React.FC<ArgumentationViewProps> = ({ onBack }) 
           {isFr ? 'Règles logiques & argumentation' : 'Logical Rules & Argumentation'}
         </h2>
         <button
-          onClick={onBack}
+          onClick={handleBack}
           className="px-4 py-2 bg-white/5 hover:bg-white/10 rounded-xl text-sm font-bold transition-colors"
         >
           {isFr ? 'Retour' : 'Back'}

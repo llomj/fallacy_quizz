@@ -139,10 +139,11 @@ const visualizeWhitespace = (text: string): string => {
 interface IdSearchModalProps {
   onClose: () => void;
   onSaveToLog: (entry: { id: number; question: string; correctAnswer: string; explanation: string }) => void;
+  onPlayClickSound?: () => void;
   initialId?: number;
 }
 
-export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToLog, initialId }) => {
+export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToLog, onPlayClickSound, initialId }) => {
   const { t, language } = useLanguage();
   const [idInput, setIdInput] = useState(initialId ? String(initialId) : '');
   const [question, setQuestion] = useState<Question | null>(null);
@@ -183,6 +184,7 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
 
   const handleSave = () => {
     if (!question) return;
+    onPlayClickSound?.();
 
     onSaveToLog({
       id: question.id,
@@ -222,7 +224,7 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
             <i className="fas fa-hashtag text-yellow-300"></i> {t('idSearch.searchById')}
           </h2>
           <button
-            onClick={onClose}
+            onClick={() => { onPlayClickSound?.(); onClose(); }}
             className="w-8 h-8 flex items-center justify-center rounded-xl bg-white/5 hover:bg-white/10 text-slate-400 hover:text-white transition-all"
           >
             <i className="fas fa-times"></i>
@@ -246,7 +248,7 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
             />
             <button
               type="button"
-              onClick={() => handleSearch()}
+              onClick={() => { onPlayClickSound?.(); handleSearch(); }}
               className="px-6 py-3 bg-yellow-400 hover:bg-yellow-500 text-slate-900 rounded-xl font-bold transition-all touch-manipulation"
             >
               <i className="fas fa-search mr-2"></i>{t('idSearch.search')}

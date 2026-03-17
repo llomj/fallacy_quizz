@@ -75409,31 +75409,36 @@ const getFrenchDetailedFallback = (questionId: number): string => {
 
 /**
  * Retourne une description approfondie en français en mode FR.
- * Toutes les questions sont des questions de sophismes ; utilise le formateur
- * et le codon de sophisme en français (débutant / intermédiaire / expert).
- * Exclut tout contenu CLI/terminal hérité.
+ * Préfère le codon de sophisme (base globale). 
+ * Si le texte fourni est déjà en français (cas des données traduits nativement comme le Niveau 0), 
+ * on l'utilise directement sans passer par la cartographie héritée.
  */
 export const getTranslatedDetailedExplanation = (
   questionId: number,
-  englishText: string,
+  inputText: string, // Might be EN or already FR
   language: string,
   explanationLevel: ExplanationDepth = 'intermediate',
   questionText?: string,
   correctOption?: string
 ): string => {
   if (language !== 'fr') {
-    return englishText;
+    return inputText;
   }
+
+  // If the input text is already in French (e.g. from LEVEL_0_GEN_FR), use it as the base.
+  // We detect this by checking if it contains French-specific characters or by common sense for Level 0.
+  const isAlreadyFrench = !containsEnglishProse(normalizeFrenchProse(inputText)) || (questionId >= 1000 && questionId <= 1600);
 
   const baseFrench =
     (correctOption && getFallacyCodonExplanationFR(correctOption, explanationLevel)) ??
     (() => {
+      if (isAlreadyFrench) return normalizeFrenchProse(inputText);
+      
       const mappedFrench = DETAILED_EXPLANATIONS_FR[questionId];
-      const frenchCandidate = mappedFrench ?? englishText;
-      if (containsCLITerminalContent(frenchCandidate) || containsEnglishProse(normalizeFrenchProse(frenchCandidate))) {
+      if (!mappedFrench || containsCLITerminalContent(mappedFrench)) {
         return getFrenchDetailedFallback(questionId);
       }
-      return normalizeFrenchProse(frenchCandidate);
+      return normalizeFrenchProse(mappedFrench);
     })();
 
   return buildFallacyFrenchDetailed({
@@ -75444,3 +75449,4 @@ export const getTranslatedDetailedExplanation = (
     correctOption,
   });
 };
+

@@ -1,14 +1,14 @@
 import type { Question } from '../types';
 import { buildFallacyEnglishDetailed } from './foundationDetailedFormatter';
-import { getFallacyCodonExplanationEN } from '../data/fallacyCodonExplanations';
+import { getFallacyCodonExplanationEN, isFallacyPlaceholder } from '../data/fallacyCodonExplanations';
 
 export type DetailedExplanationLevel = 'beginner' | 'intermediate' | 'expert';
 
 /**
  * Returns the detailed explanation text for the given level.
  * Falls back to detailedExplanation when level-specific text is missing.
- * Prefers rich codon explanations when the correct option (fallacy name) exists
- * in the codon map; otherwise uses question text if it's not a generic placeholder.
+ * Prefers question-specific text if it's not a placeholder;
+ * otherwise uses rich codon explanations when the correct option (fallacy name) exists.
  */
 export function getDetailedExplanationForLevel(
   q: Question,
@@ -30,17 +30,31 @@ export function getDetailedExplanationForLevel(
 
   const correctOption = q.options[q.correct_option_index];
 
-  // Prefer rich codon explanations whenever we have a matching fallacy entry
-  const codonText = correctOption ? getFallacyCodonExplanationEN(correctOption, level) : undefined;
-  const baseText = codonText ?? baseByLevel;
+  // If we have unique, question-specific text that isn't a generic placeholder, use it first.
+  if (baseByLevel && !isFallacyPlaceholder(baseByLevel)) {
+    return buildFallacyEnglishDetailed({
+      depth: level,
+      baseText: baseByLevel,
+      shortText: q.explanation,
+      questionText: q.question,
+      correctOption,
+    });
+  }
 
-  if (!baseText) return undefined;
+  // Otherwise, fallback to the rich codon definitions if available.
+  const codonText = correctOption
+    ? getFallacyCodonExplanationEN(correctOption, level)
+    : undefined;
+  const finalBase = codonText ?? baseByLevel;
+
+  if (!finalBase) return undefined;
 
   return buildFallacyEnglishDetailed({
     depth: level,
-    baseText,
+    baseText: finalBase,
     shortText: q.explanation,
     questionText: q.question,
     correctOption,
   });
 }
+

@@ -6,9 +6,10 @@ import { useTranslatedGlossary } from '../hooks/useTranslatedData';
 
 interface GlossaryViewProps {
   onBack: () => void;
+  onPlayClickSound?: () => void;
 }
 
-export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack }) => {
+export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickSound }) => {
   const { t } = useLanguage();
   const GLOSSARY = useTranslatedGlossary();
   const [search, setSearch] = useState('');
@@ -86,7 +87,7 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack }) => {
           {/* Content Box */}
           <div className="glass w-full max-w-2xl my-4 sm:my-8 rounded-3xl p-6 sm:p-10 shadow-2xl relative z-10 border-yellow-400/40 animate-in fade-in zoom-in duration-300 overflow-x-hidden min-h-0">
             <button 
-              onClick={() => setSelectedTerm(null)}
+              onClick={() => { onPlayClickSound?.(); setSelectedTerm(null); }}
               className="absolute top-4 right-4 sm:top-6 sm:right-6 w-10 h-10 flex items-center justify-center rounded-xl bg-slate-800 text-slate-400 hover:text-white transition-colors border border-white/10"
             >
               <i className="fas fa-times"></i>
@@ -118,7 +119,7 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack }) => {
                     <button
                       key={tier}
                       type="button"
-                      onClick={() => setExampleTier(tier)}
+                      onClick={() => { onPlayClickSound?.(); setExampleTier(tier); }}
                       className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all border ${
                         exampleTier === tier
                           ? 'bg-yellow-400 text-slate-900 border-yellow-400'
@@ -141,7 +142,7 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack }) => {
               {/* Added more bottom padding/margin to ensure scroll clearance */}
               <div className="pt-4 pb-2">
                 <button 
-                  onClick={() => setSelectedTerm(null)}
+                  onClick={() => { onPlayClickSound?.(); setSelectedTerm(null); }}
                   className="w-full py-4 bg-yellow-400 hover:bg-yellow-500 text-slate-900 rounded-2xl font-black transition-all shadow-xl shadow-yellow-400/30 active:scale-95"
                 >
                   {t('operations.gotIt')}
@@ -157,7 +158,7 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack }) => {
           <i className="fas fa-circle-info text-yellow-300"></i> {t('glossary.title')}
         </h2>
         <button 
-          onClick={onBack}
+          onClick={() => { onPlayClickSound?.(); onBack(); }}
           className="px-3 py-1.5 bg-white/5 hover:bg-white/10 rounded-xl text-xs font-bold transition-colors"
         >
           {t('history.backToHub')}
@@ -228,7 +229,7 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack }) => {
           {filteredGlossary.map(item => (
             <div 
               key={item.term} 
-              onClick={() => setSelectedTerm(item)}
+              onClick={() => { onPlayClickSound?.(); setSelectedTerm(item); }}
               className="glass p-4 rounded-xl space-y-1.5 animate-in fade-in duration-300 hover:border-yellow-400/60 cursor-pointer group active:scale-[0.98]"
             >
               <div className="flex justify-between items-start">

@@ -86,9 +86,10 @@ const splitQuestionForDisplay = (text: string, lang: string) =>
 interface IdLogViewProps {
   entries: IdLogEntry[];
   onClose: () => void;
+  onPlayClickSound?: () => void;
 }
 
-export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose }) => {
+export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayClickSound }) => {
   const { t, language } = useLanguage();
   const [expandedEntries, setExpandedEntries] = useState<Set<string>>(new Set());
   const [idFilter, setIdFilter] = useState('');
@@ -102,6 +103,7 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose }) => {
   })();
 
   const toggleCodonExplanation = (entryKey: string) => {
+    onPlayClickSound?.();
     setExpandedEntries(prev => {
       const newSet = new Set(prev);
       if (newSet.has(entryKey)) {
@@ -139,7 +141,7 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose }) => {
             <i className="fas fa-list text-yellow-300"></i> {t('idSearch.idLog')}
           </h2>
           <button
-            onClick={onClose}
+            onClick={() => { onPlayClickSound?.(); onClose(); }}
             className="w-8 h-8 flex items-center justify-center rounded-xl bg-white/5 hover:bg-white/10 text-slate-400 hover:text-white transition-all"
           >
             <i className="fas fa-times"></i>

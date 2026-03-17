@@ -53,20 +53,17 @@ export function playButtonClickSound(): void {
     const masterGain = ctx.createGain();
     masterGain.connect(ctx.destination);
     masterGain.gain.setValueAtTime(0.0001, now);
-    masterGain.gain.exponentialRampToValueAtTime(0.38, now + 0.015);
-    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.09);
+    masterGain.gain.exponentialRampToValueAtTime(0.35, now + 0.01);
+    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.08);
 
     const osc = ctx.createOscillator();
-    const gain = ctx.createGain();
     osc.type = 'sine';
-    osc.frequency.setValueAtTime(1000, now);
-    gain.gain.setValueAtTime(0.0001, now);
-    gain.gain.exponentialRampToValueAtTime(0.42, now + 0.01);
-    gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.08);
-    osc.connect(gain);
-    gain.connect(masterGain);
+    // Quick pitch blip for a "tighter" feel
+    osc.frequency.setValueAtTime(1200, now);
+    osc.frequency.exponentialRampToValueAtTime(800, now + 0.05);
+    osc.connect(masterGain);
     osc.start(now);
-    osc.stop(now + 0.09);
+    osc.stop(now + 0.08);
   };
 
   if (ctx.state === 'suspended') {
@@ -76,43 +73,47 @@ export function playButtonClickSound(): void {
   }
 }
 
-/** Short positive tone for correct answer. */
+/** Short "cute" positive tone for correct answer. */
 export function playCorrectAnswerSound(): void {
   const ctx = getAudioContext();
   if (!ctx) return;
 
-  // Schedule immediately (same tick as user click) so playback works after resume
   const now = ctx.currentTime;
   const masterGain = ctx.createGain();
   masterGain.connect(ctx.destination);
   masterGain.gain.setValueAtTime(0.0001, now);
-  masterGain.gain.exponentialRampToValueAtTime(0.35, now + 0.02);
-  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.3);
+  masterGain.gain.exponentialRampToValueAtTime(0.3, now + 0.02);
+  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.4);
 
-  scheduleTone(ctx, masterGain, now, 523.25, 0, 0.25, 'sine', 0.35);   // C5
-  scheduleTone(ctx, masterGain, now, 659.25, 0.08, 0.2, 'sine', 0.28);  // E5
-  scheduleTone(ctx, masterGain, now, 783.99, 0.16, 0.14, 'sine', 0.22); // G5
+  // Cute upward "ping": E5 -> G5 -> C6
+  scheduleTone(ctx, masterGain, now, 659.25, 0, 0.12, 'sine', 0.25);   // E5
+  scheduleTone(ctx, masterGain, now, 783.99, 0.04, 0.12, 'sine', 0.22); // G5
+  scheduleTone(ctx, masterGain, now, 1046.5, 0.08, 0.25, 'sine', 0.18); // C6
+  
+  // Adding a tiny high-pitched sparkle
+  scheduleTone(ctx, masterGain, now, 2093.0, 0.1, 0.05, 'triangle', 0.1);
 
   if (ctx.state === 'suspended') {
     ctx.resume().catch(() => {});
   }
 }
 
-/** Short negative tone for wrong answer. */
+/** Short "squashy" negative tone for wrong answer. */
 export function playWrongAnswerSound(): void {
   const ctx = getAudioContext();
   if (!ctx) return;
 
-  // Schedule immediately (same tick as user click) so playback works after resume
   const now = ctx.currentTime;
   const masterGain = ctx.createGain();
   masterGain.connect(ctx.destination);
   masterGain.gain.setValueAtTime(0.0001, now);
-  masterGain.gain.exponentialRampToValueAtTime(0.3, now + 0.02);
-  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.35);
+  masterGain.gain.exponentialRampToValueAtTime(0.25, now + 0.02);
+  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.45);
 
-  scheduleTone(ctx, masterGain, now, 200, 0, 0.3, 'sawtooth', 0.2);
-  scheduleTone(ctx, masterGain, now, 150, 0.1, 0.22, 'square', 0.12);
+  // Dissonant descending "thud"
+  scheduleTone(ctx, masterGain, now, 180, 0, 0.25, 'sawtooth', 0.15);
+  scheduleTone(ctx, masterGain, now, 130, 0.08, 0.3, 'square', 0.1);
+  scheduleTone(ctx, masterGain, now, 90, 0.16, 0.35, 'triangle', 0.2);
 
   if (ctx.state === 'suspended') {
     ctx.resume().catch(() => {});
@@ -124,15 +125,15 @@ export async function playStarCelebrationSound(): Promise<void> {
   const ctx = getAudioContext();
   if (!ctx) return;
 
-  if (ctx.state === 'suspended') ctx.resume().catch(() => {});
+  if (ctx.state === 'suspended') await ctx.resume().catch(() => {});
 
   const now = ctx.currentTime;
   const masterGain = ctx.createGain();
   masterGain.connect(ctx.destination);
   masterGain.gain.setValueAtTime(0.0001, now);
-  masterGain.gain.exponentialRampToValueAtTime(0.22, now + 0.02);
-  masterGain.gain.setValueAtTime(0.18, now + 0.6);
-  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 1.5);
+  masterGain.gain.exponentialRampToValueAtTime(0.25, now + 0.05);
+  masterGain.gain.setValueAtTime(0.2, now + 0.8);
+  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 1.8);
 
   const schedule = (
     frequency: number,
@@ -156,24 +157,25 @@ export async function playStarCelebrationSound(): Promise<void> {
     osc.stop(end + 0.02);
   };
 
-  // Upward arpeggio (Mario coin / level-up style): C5 - E5 - G5 - C6 - E6 - hold
+  // Classic Mario-style arpeggio: C5 E5 G5 C6 E6 G6 (fast)
   const melody = [
-    { freq: 523.25, at: 0, len: 0.14 },    // C5
-    { freq: 659.25, at: 0.12, len: 0.14 }, // E5
-    { freq: 783.99, at: 0.24, len: 0.14 }, // G5
-    { freq: 1046.5, at: 0.36, len: 0.18 }, // C6
-    { freq: 1318.51, at: 0.5, len: 0.35 }, // E6 - peak
-    { freq: 1046.5, at: 0.88, len: 0.2 },  // C6 - descent
-    { freq: 1318.51, at: 1.08, len: 0.35 }, // E6 - final flourish
+    { freq: 523.25, at: 0, len: 0.1 },    // C5
+    { freq: 659.25, at: 0.08, len: 0.1 }, // E5
+    { freq: 783.99, at: 0.16, len: 0.1 }, // G5
+    { freq: 1046.5, at: 0.24, len: 0.12 }, // C6
+    { freq: 1318.51, at: 0.36, len: 0.15 }, // E6
+    { freq: 1567.98, at: 0.52, len: 0.4 }, // G6 long
+    { freq: 1318.51, at: 1.0, len: 0.2 },  // E6 descent
+    { freq: 1567.98, at: 1.25, len: 0.5 }, // G6 final
   ];
   melody.forEach((n) => {
     schedule(n.freq, n.at, n.len, 'square', 0.12);
-    schedule(n.freq * 0.5, n.at, n.len, 'triangle', 0.06);
+    schedule(n.freq * 0.5, n.at, n.len, 'triangle', 0.07);
   });
   // Bass line
-  schedule(261.63, 0, 0.5, 'sawtooth', 0.05);
-  schedule(329.63, 0.4, 0.6, 'sawtooth', 0.04);
-  schedule(392, 0.8, 0.7, 'sawtooth', 0.04);
+  schedule(261.63, 0, 0.4, 'sawtooth', 0.06);
+  schedule(392.00, 0.4, 0.6, 'sawtooth', 0.05);
+  schedule(523.25, 1.0, 0.8, 'sawtooth', 0.04);
 }
 
 /** Full victory fanfare when user completes 5 stars (Mario/Sonic/Alex Kidd style). */

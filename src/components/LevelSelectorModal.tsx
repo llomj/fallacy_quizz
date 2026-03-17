@@ -11,6 +11,7 @@ interface LevelSelectorModalProps {
   onClose: () => void;
   levelProgress?: Record<number, number>;
   correctPerLevel?: Record<number, number>;
+  onPlayClickSound?: () => void;
   randomMode?: boolean;
 }
 
@@ -21,6 +22,7 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
   onClose,
   levelProgress = {},
   correctPerLevel = {},
+  onPlayClickSound,
   randomMode = false
 }) => {
   const { t } = useLanguage();
@@ -39,6 +41,7 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
       (level === 1 && highestUnlockedLevel === 0);
 
     if (canSelectLevel) {
+      onPlayClickSound?.();
       onSelectLevel(level);
       onClose();
     }
@@ -72,7 +75,7 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
             <i className="fas fa-layer-group text-yellow-300"></i> {t('levelSelector.selectLevel')}
           </h2>
           <button
-            onClick={onClose}
+            onClick={() => { onPlayClickSound?.(); onClose(); }}
             className="w-8 h-8 flex items-center justify-center rounded-xl bg-white/5 hover:bg-white/10 text-slate-400 hover:text-white transition-all"
           >
             <i className="fas fa-times"></i>

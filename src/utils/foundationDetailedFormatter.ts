@@ -365,23 +365,29 @@ export const buildFallacyEnglishDetailed = ({
   const question = compact(questionText).replace(/\s+/g, ' ');
   const answer = compact(correctOption);
   const shortBlock = shouldAppendShort(base, short) ? `\nQuick recap: ${short}` : '';
-  const answerHint = answer ? `Correct answer: ${answer}.` : 'Focus on identifying the dominant fallacy or the absence of one.';
-  const argumentBlock = question
-    ? `The argument:\n"${question.length > ARGUMENT_PREVIEW_LENGTH ? question.slice(0, ARGUMENT_PREVIEW_LENGTH) + '…' : question}"`
-    : '';
+  const answerHint = answer
+    ? `Correct answer: ${answer}.`
+    : 'Focus on identifying the dominant fallacy or the absence of one.';
 
-  const whyLabel = answer
-    ? `Why the answer is ${answer}:`
-    : 'Why this answer:';
+  const whyLabel = answer ? `Why the answer is ${answer}:` : 'Why this answer:';
+
+  const breakdownSection = short
+    ? [
+        'Step-by-step breakdown:',
+        `1. Consider the core claim: "${question.length > 100 ? question.slice(0, 100) + '...' : question}"`,
+        `2. Analyze the reasoning provided: ${short}`,
+        `3. Conclusion: This specific pattern matches the characteristics of ${answer || 'the correct option'}.`,
+      ].join('\n')
+    : '';
 
   if (depth === 'beginner') {
     return [
       'Beginner explanation:',
       '',
-      argumentBlock ? [argumentBlock, ''].join('\n') : '',
       whyLabel,
       base,
-      shortBlock,
+      '',
+      breakdownSection,
       '',
       answerHint,
     ]
@@ -393,13 +399,14 @@ export const buildFallacyEnglishDetailed = ({
     return [
       'Intermediate explanation:',
       '',
-      argumentBlock ? [argumentBlock, ''].join('\n') : '',
       whyLabel,
       base,
-      shortBlock,
       '',
-      argumentBlock ? 'In the argument above, the pattern described above applies directly: look for how the premise(s) fail to support the conclusion, or how the speaker diverts, distorts, or misuses evidence.' : '',
-      argumentBlock ? '' : '',
+      breakdownSection,
+      '',
+      'Key takeaway:',
+      'In this argument, the pattern above applies directly: look for how the premise(s) fail to support the conclusion, or how the speaker diverts, distorts, or misuses evidence.',
+      '',
       answerHint,
     ]
       .filter(Boolean)
@@ -409,13 +416,14 @@ export const buildFallacyEnglishDetailed = ({
   return [
     'Expert explanation:',
     '',
-    argumentBlock ? [argumentBlock, ''].join('\n') : '',
     whyLabel,
     base,
-    shortBlock,
     '',
-    argumentBlock ? 'In this argument, apply the fallacy structure above: identify the premises, the conclusion, and where the reasoning goes wrong (relevance, sufficiency, clarity, or logical form).' : '',
-    argumentBlock ? '' : '',
+    breakdownSection,
+    '',
+    'Expert analysis:',
+    'Examine the formal or informal logical structure of the argument. Identify the premises, the conclusion, and evaluate the specific mechanism of the reasoning failure (relevance, sufficiency, or logical form).',
+    '',
     answerHint,
   ]
     .filter(Boolean)
@@ -440,23 +448,31 @@ export const buildFallacyFrenchDetailed = ({
   const question = compact(questionText).replace(/\s+/g, ' ');
   const answer = compact(correctOption);
   const shortBlock = shouldAppendShort(base, short) ? `\nRappel rapide : ${short}` : '';
-  const answerHint = answer ? `Bonne réponse : ${answer}.` : 'Concentrez-vous sur le sophisme dominant ou l\'absence de sophisme.';
-  const argumentBlock = question
-    ? `L'argument :\n« ${question.length > ARGUMENT_PREVIEW_LENGTH ? question.slice(0, ARGUMENT_PREVIEW_LENGTH) + '…' : question} »`
-    : '';
+  const answerHint = answer
+    ? `Bonne réponse : ${answer}.`
+    : "Concentrez-vous sur le sophisme dominant ou l'absence de sophisme.";
 
   const whyLabel = answer
     ? `Pourquoi la réponse est ${answer} :`
     : 'Pourquoi cette réponse :';
 
+  const breakdownSection = short
+    ? [
+        'Analyse étape par étape :',
+        `1. Considérez l'affirmation principale : "${question.length > 100 ? question.slice(0, 100) + '...' : question}"`,
+        `2. Analysez le raisonnement fourni : ${short}`,
+        `3. Conclusion : Ce schéma spécifique correspond aux caractéristiques de ${answer || 'la bonne option'}.`,
+      ].join('\n')
+    : '';
+
   if (depth === 'beginner') {
     return [
       'Explication débutant :',
       '',
-      argumentBlock ? [argumentBlock, ''].join('\n') : '',
       whyLabel,
       base,
-      shortBlock,
+      '',
+      breakdownSection,
       '',
       answerHint,
     ]
@@ -468,13 +484,14 @@ export const buildFallacyFrenchDetailed = ({
     return [
       'Explication intermédiaire :',
       '',
-      argumentBlock ? [argumentBlock, ''].join('\n') : '',
       whyLabel,
       base,
-      shortBlock,
       '',
-      argumentBlock ? "Dans l'argument ci-dessus, le schéma décrit s'applique directement : repérez comment les prémisses ne soutiennent pas la conclusion, ou comment l'orateur détourne, déforme ou mésuse des preuves." : '',
-      argumentBlock ? '' : '',
+      breakdownSection,
+      '',
+      'Point clé :',
+      "Dans cet argument, le schéma décrit s'applique directement : repérez comment les prémisses ne soutiennent pas la conclusion, ou comment l'orateur détourne, déforme ou mésuse des preuves.",
+      '',
       answerHint,
     ]
       .filter(Boolean)
@@ -484,15 +501,17 @@ export const buildFallacyFrenchDetailed = ({
   return [
     'Explication expert :',
     '',
-    argumentBlock ? [argumentBlock, ''].join('\n') : '',
     whyLabel,
     base,
-    shortBlock,
     '',
-    argumentBlock ? "Dans cet argument, appliquez la structure du sophisme ci-dessus : identifiez les prémisses, la conclusion, et où le raisonnement se trompe (pertinence, suffisance, clarté ou forme logique)." : '',
-    argumentBlock ? '' : '',
+    breakdownSection,
+    '',
+    'Analyse technique :',
+    "Examinez la structure logique formelle ou informelle de l'argument. Identifiez les prémisses, la conclusion, et évaluez le mécanisme spécifique de l'échec du raisonnement (pertinence, suffisance ou forme logique).",
+    '',
     answerHint,
   ]
     .filter(Boolean)
     .join('\n');
 };
+

@@ -10,10 +10,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which statement is an argument (claim + reason) about single-use plastics?",
     "options": [
-      "\"Single-use plastics are everywhere.\"",
-      "\"We should ban single-use plastics because they clog oceans.\"",
-      "\"I dislike grocery bags.\"",
-      "\"Plastic wrap exists in every store.\""
+      "Single-use plastics are everywhere.",
+      "We should ban single-use plastics because they clog oceans.",
+      "I dislike grocery bags.",
+      "Plastic wrap exists in every store."
     ],
     "correct_option_index": 1,
     "explanation": "An argument links a conclusion to a supporting reason.",
@@ -31,10 +31,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which statement is an argument about fixing the late bus problem?",
     "options": [
-      "\"The bus is late every morning, so the transit app needs real-time updates.\"",
-      "\"Buses should be painted blue.\"",
-      "\"I like taking the bus.\"",
-      "\"The transit app exists.\""
+      "The bus is late every morning, so the transit app needs real-time updates.",
+      "Buses should be painted blue.",
+      "I like taking the bus.",
+      "The transit app exists."
     ],
     "correct_option_index": 0,
     "explanation": "An argument pairs a reason (habitual lateness) with a conclusion (add real-time updates).",
@@ -52,10 +52,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which statement is an argument about the campus Wi-Fi?",
     "options": [
-      "\"Campus Wi-Fi keeps dropping, so the university should add more access points.\"",
-      "\"I hate losing Wi-Fi.\"",
-      "\"Wi-Fi exists on campus.\"",
-      "\"Wireless is better than wired.\""
+      "Campus Wi-Fi keeps dropping, so the university should add more access points.",
+      "I hate losing Wi-Fi.",
+      "Wi-Fi exists on campus.",
+      "Wireless is better than wired."
     ],
     "correct_option_index": 0,
     "explanation": "An argument presents evidence (drops) and a conclusion (add access points).",
@@ -73,10 +73,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which statement is an argument about the vending machines on campus?",
     "options": [
-      "\"The vending machines are empty, so we should restock them twice a day.\"",
-      "\"I prefer snacks.\"",
-      "\"Vending machines exist.\"",
-      "\"Snacks are better than salads.\""
+      "The vending machines are empty, so we should restock them twice a day.",
+      "I prefer snacks.",
+      "Vending machines exist.",
+      "Snacks are better than salads."
     ],
     "correct_option_index": 0,
     "explanation": "Links observation (machines are empty) to a recommended action (restock twice daily).",
@@ -94,10 +94,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which statement is an argument about exam-week library hours?",
     "options": [
-      "\"Finals week packs the library, so hours should extend to midnight.\"",
-      "\"I love libraries.\"",
-      "\"Books exist on every floor.\"",
-      "\"Midnight is a cool time.\""
+      "Finals week packs the library, so hours should extend to midnight.",
+      "I love libraries.",
+      "Books exist on every floor.",
+      "Midnight is a cool time."
     ],
     "correct_option_index": 0,
     "explanation": "Uses a stated reason (crowding) to justify a policy (extend hours).",
@@ -115,10 +115,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which statement is an argument about safer bike lanes?",
     "options": [
-      "\"The bike lane vanishes at intersections, so riders are forced into traffic; the city should finish the lane.\"",
-      "\"Bikes are fun.\"",
-      "\"Bike lanes are painted.\"",
-      "\"Intersections exist.\""
+      "The bike lane vanishes at intersections, so riders are forced into traffic; the city should finish the lane.",
+      "Bikes are fun.",
+      "Bike lanes are painted.",
+      "Intersections exist."
     ],
     "correct_option_index": 0,
     "explanation": "Gives a reason (lane ends into traffic) and a conclusion (complete the lane).",
@@ -136,10 +136,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which statement is an argument about upgrading streetlights?",
     "options": [
-      "\"LED bulbs use less energy, so the city should retrofit the streetlights.\"",
-      "\"Streetlights are tall.\"",
-      "\"I like bright lights.\"",
-      "\"Electricity exists.\""
+      "LED bulbs use less energy, so the city should retrofit the streetlights.",
+      "Streetlights are tall.",
+      "I like bright lights.",
+      "Electricity exists."
     ],
     "correct_option_index": 0,
     "explanation": "Reason (LEDs save energy) supports the conclusion (retrofit streetlights).",
@@ -157,10 +157,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which statement is an argument about cafeteria food waste?",
     "options": [
-      "\"Students toss untouched food, so the cafeteria should let people choose smaller portions.\"",
-      "\"Cafeterias exist.\"",
-      "\"I prefer dessert.\"",
-      "\"Food waste is sad.\""
+      "Students toss untouched food, so the cafeteria should let people choose smaller portions.",
+      "Cafeterias exist.",
+      "I prefer dessert.",
+      "Food waste is sad."
     ],
     "correct_option_index": 0,
     "explanation": "Links evidence (food is thrown away) to a remedy (offer portion choice).",
@@ -176,18 +176,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Oceanography",
+    "question": "Which statement is an argument about hybrid cars and air quality?",
     "options": [
-      "\"I prefer Oceanography.\"",
-      "\"Oceanography is definitely better.\"",
-      "\"The tide is coming in, so the beach will get smaller.\"",
-      "\"Oceanography exists.\""
+      "Hybrid cars are very quiet.",
+      "Hybrid cars reduce emissions, so they improve local air quality.",
+      "I prefer driving hybrids.",
+      "Hybrid technology exists."
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The tide is coming in' to support 'the beach will get smaller'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 1,
+    "explanation": "An argument offers a premise (emission reduction) to support a conclusion (air quality improvement).",
+    "detailedExplanationBeginner": "The fact that hybrids reduce emissions is used as the reason why they make our air cleaner.",
+    "detailedExplanationIntermediate": "Causal link established: Lower emissions (premise) leads to better air (conclusion).",
+    "detailedExplanationExpert": "Environmental justification: Emission-reduction efficiency is the warrant for the air-quality claim.",
     "questionFormat": "standard"
   },
   {
@@ -197,18 +197,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Astronomy",
+    "question": "Which statement is an argument about remote work and overhead costs?",
     "options": [
-      "\"I prefer Astronomy.\"",
-      "\"Astronomy is definitely better.\"",
-      "\"Light takes time to travel, so we see stars as they were.\"",
-      "\"Astronomy exists.\""
+      "Remote work uses video calls.",
+      "Remote work reduces the need for office space, so it lowers overhead costs.",
+      "I like working from my couch.",
+      "Offices exist in cities."
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Light takes time to travel' to support 'we see stars as they were'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 1,
+    "explanation": "Uses a premise (less office space needed) to justify a financial conclusion (lower costs).",
+    "detailedExplanationBeginner": "Because companies need less space, they save money on rent and utilities.",
+    "detailedExplanationIntermediate": "Economic reasoning: Less real estate demand (data) supports cost reduction (claim).",
+    "detailedExplanationExpert": "Cost-reduction analysis: Reduced infrastructure requirement is the logical ground for the fiscal conclusion.",
     "questionFormat": "standard"
   },
   {
@@ -218,18 +218,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Physics",
+    "question": "Which statement is an argument about organic farming and soil health?",
     "options": [
-      "\"I prefer Physics.\"",
-      "\"Physics is definitely better.\"",
-      "\"Gravity pulls objects down, so the apple will fall.\"",
-      "\"Physics exists.\""
+      "Organic farming avoids synthetic pesticides, so it preserves long-term soil health.",
+      "Organic apples look nice.",
+      "I prefer organic milk.",
+      "Soil exists in many types."
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Gravity pulls objects down' to support 'the apple will fall'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 0,
+    "explanation": "Connects an agricultural method (no synthetic pesticides) to a biological outcome (soil health).",
+    "detailedExplanationBeginner": "By not using harsh chemicals, the farm keeps the soil full of natural life.",
+    "detailedExplanationIntermediate": "Ecological justification: Methodological choice (premise) supports sustainability (conclusion).",
+    "detailedExplanationExpert": "Bio-chemical grounding: Absence of synthetic inputs supports the thesis of soil microbial longevity.",
     "questionFormat": "standard"
   },
   {
@@ -239,18 +239,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Linguistics",
+    "question": "Which statement is an argument about public transport and traffic?",
     "options": [
-      "\"I prefer Linguistics.\"",
-      "\"Linguistics is definitely better.\"",
-      "\"Practice improves fluency, so you should speak daily.\"",
-      "\"Linguistics exists.\""
+      "Public transport carries more people per vehicle, so it reduces traffic congestion.",
+      "Trains are often long.",
+      "I enjoy the subway.",
+      "Traffic exists during rush hour."
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Practice improves fluency' to support 'you should speak daily'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 0,
+    "explanation": "Links vehicle efficiency (more people) to a systemic benefit (less traffic).",
+    "detailedExplanationBeginner": "Because one bus puts fewer cars on the road, traffic moves faster for everyone.",
+    "detailedExplanationIntermediate": "Urban planning logic: Higher passenger density (premise) justifies the congestion-relief claim (conclusion).",
+    "detailedExplanationExpert": "Network capacity optimization: Group transit efficiency warrants the conclusion of reduced vehicle-to-lane ratios.",
     "questionFormat": "standard"
   },
   {
@@ -260,18 +260,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Technology",
+    "question": "Which statement is an argument about solar panels and energy bills?",
     "options": [
-      "\"I prefer Technology.\"",
-      "\"Technology is definitely better.\"",
-      "\"The router is off, so the Wi-Fi won't work.\"",
-      "\"Technology exists.\""
+      "Solar panels are shiny.",
+      "Solar panels generate electricity from sunlight, so they lower monthly energy bills.",
+      "I want solar panels.",
+      "Electricity is important."
     ],
-    "correct_option_index": 2,
-    "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The router is off' to support 'the Wi-Fi won't work'.",
-    "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
-    "detailedExplanationExpert": "P \u2192 Q structure.",
+    "correct_option_index": 1,
+    "explanation": "Uses physical generation (sunlight to power) to support a financial outcome (lower bills).",
+    "detailedExplanationBeginner": "Since you make your own power, you don't have to buy as much from the power company.",
+    "detailedExplanationIntermediate": "Resource-based reasoning: Local generation (data) supports reduced utility expenditure (conclusion).",
+    "detailedExplanationExpert": "Micro-generation analysis: Production offset is the warrant for the cost-reduction conclusion.",
     "questionFormat": "standard"
   },
   {
@@ -283,10 +283,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: History",
     "options": [
-      "\"I prefer History.\"",
-      "\"History is definitely better.\"",
-      "\"Artifacts are fragile, so they need careful handling.\"",
-      "\"History exists.\""
+      "I prefer History.",
+      "History is definitely better.",
+      "Artifacts are fragile, so they need careful handling.",
+      "History exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -304,10 +304,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Art",
     "options": [
-      "\"I prefer Art.\"",
-      "\"Art is definitely better.\"",
-      "\"Red and blue make purple, so mix them for violet.\"",
-      "\"Art exists.\""
+      "I prefer Art.",
+      "Art is definitely better.",
+      "Red and blue make purple, so mix them for violet.",
+      "Art exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -325,10 +325,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Traffic",
     "options": [
-      "\"I prefer Traffic.\"",
-      "\"Traffic is definitely better.\"",
-      "\"The light is red, so drivers must stop.\"",
-      "\"Traffic exists.\""
+      "I prefer Traffic.",
+      "Traffic is definitely better.",
+      "The light is red, so drivers must stop.",
+      "Traffic exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -346,10 +346,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Biology",
     "options": [
-      "\"I prefer Biology.\"",
-      "\"Biology is definitely better.\"",
-      "\"Lack of sleep affects focus, so students should rest.\"",
-      "\"Biology exists.\""
+      "I prefer Biology.",
+      "Biology is definitely better.",
+      "Lack of sleep affects focus, so students should rest.",
+      "Biology exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -367,10 +367,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Economics",
     "options": [
-      "\"I prefer Economics.\"",
-      "\"Economics is definitely better.\"",
-      "\"Supply is low, so prices will rise.\"",
-      "\"Economics exists.\""
+      "I prefer Economics.",
+      "Economics is definitely better.",
+      "Supply is low, so prices will rise.",
+      "Economics exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -388,10 +388,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Zoology",
     "options": [
-      "\"I prefer Zoology.\"",
-      "\"Zoology is definitely better.\"",
-      "\"Dogs are social, so they need company.\"",
-      "\"Zoology exists.\""
+      "I prefer Zoology.",
+      "Zoology is definitely better.",
+      "Dogs are social, so they need company.",
+      "Zoology exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -409,10 +409,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Music",
     "options": [
-      "\"I prefer Music.\"",
-      "\"Music is definitely better.\"",
-      "\"The guitar is out of tune, so it will sound bad.\"",
-      "\"Music exists.\""
+      "I prefer Music.",
+      "Music is definitely better.",
+      "The guitar is out of tune, so it will sound bad.",
+      "Music exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -430,10 +430,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Baking (2)",
     "options": [
-      "\"I prefer Baking (2).\"",
-      "\"Baking (2) is definitely better.\"",
-      "\"The oven is too hot, so the cake will burn.\"",
-      "\"Baking (2) exists.\""
+      "I prefer Baking (2).",
+      "Baking (2) is definitely better.",
+      "The oven is too hot, so the cake will burn.",
+      "Baking (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -451,10 +451,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Racing (2)",
     "options": [
-      "\"I prefer Racing (2).\"",
-      "\"Racing (2) is definitely better.\"",
-      "\"You practiced hard, so you will finish faster.\"",
-      "\"Racing (2) exists.\""
+      "I prefer Racing (2).",
+      "Racing (2) is definitely better.",
+      "You practiced hard, so you will finish faster.",
+      "Racing (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -472,10 +472,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Weather (2)",
     "options": [
-      "\"I prefer Weather (2).\"",
-      "\"Weather (2) is definitely better.\"",
-      "\"The clouds are dark, so it is going to rain.\"",
-      "\"Weather (2) exists.\""
+      "I prefer Weather (2).",
+      "Weather (2) is definitely better.",
+      "The clouds are dark, so it is going to rain.",
+      "Weather (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -493,10 +493,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Automotive (2)",
     "options": [
-      "\"I prefer Automotive (2).\"",
-      "\"Automotive (2) is definitely better.\"",
-      "\"The battery is empty, so the car won't start.\"",
-      "\"Automotive (2) exists.\""
+      "I prefer Automotive (2).",
+      "Automotive (2) is definitely better.",
+      "The battery is empty, so the car won't start.",
+      "Automotive (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -514,10 +514,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Botany (2)",
     "options": [
-      "\"I prefer Botany (2).\"",
-      "\"Botany (2) is definitely better.\"",
-      "\"Plants need light, so they should be near the window.\"",
-      "\"Botany (2) exists.\""
+      "I prefer Botany (2).",
+      "Botany (2) is definitely better.",
+      "Plants need light, so they should be near the window.",
+      "Botany (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -535,10 +535,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Library (2)",
     "options": [
-      "\"I prefer Library (2).\"",
-      "\"Library (2) is definitely better.\"",
-      "\"Silence is required, so we must speak softly.\"",
-      "\"Library (2) exists.\""
+      "I prefer Library (2).",
+      "Library (2) is definitely better.",
+      "Silence is required, so we must speak softly.",
+      "Library (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -556,10 +556,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Health (2)",
     "options": [
-      "\"I prefer Health (2).\"",
-      "\"Health (2) is definitely better.\"",
-      "\"Exercise improves health, so we should walk daily.\"",
-      "\"Health (2) exists.\""
+      "I prefer Health (2).",
+      "Health (2) is definitely better.",
+      "Exercise improves health, so we should walk daily.",
+      "Health (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -577,10 +577,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Mathematics (2)",
     "options": [
-      "\"I prefer Mathematics (2).\"",
-      "\"Mathematics (2) is definitely better.\"",
-      "\"X equals 5, so X plus 2 equals 7.\"",
-      "\"Mathematics (2) exists.\""
+      "I prefer Mathematics (2).",
+      "Mathematics (2) is definitely better.",
+      "X equals 5, so X plus 2 equals 7.",
+      "Mathematics (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -598,10 +598,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Oceanography (2)",
     "options": [
-      "\"I prefer Oceanography (2).\"",
-      "\"Oceanography (2) is definitely better.\"",
-      "\"The tide is coming in, so the beach will get smaller.\"",
-      "\"Oceanography (2) exists.\""
+      "I prefer Oceanography (2).",
+      "Oceanography (2) is definitely better.",
+      "The tide is coming in, so the beach will get smaller.",
+      "Oceanography (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -619,10 +619,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Astronomy (2)",
     "options": [
-      "\"I prefer Astronomy (2).\"",
-      "\"Astronomy (2) is definitely better.\"",
-      "\"Light takes time to travel, so we see stars as they were.\"",
-      "\"Astronomy (2) exists.\""
+      "I prefer Astronomy (2).",
+      "Astronomy (2) is definitely better.",
+      "Light takes time to travel, so we see stars as they were.",
+      "Astronomy (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -640,10 +640,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Physics (2)",
     "options": [
-      "\"I prefer Physics (2).\"",
-      "\"Physics (2) is definitely better.\"",
-      "\"Gravity pulls objects down, so the apple will fall.\"",
-      "\"Physics (2) exists.\""
+      "I prefer Physics (2).",
+      "Physics (2) is definitely better.",
+      "Gravity pulls objects down, so the apple will fall.",
+      "Physics (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -661,10 +661,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Linguistics (2)",
     "options": [
-      "\"I prefer Linguistics (2).\"",
-      "\"Linguistics (2) is definitely better.\"",
-      "\"Practice improves fluency, so you should speak daily.\"",
-      "\"Linguistics (2) exists.\""
+      "I prefer Linguistics (2).",
+      "Linguistics (2) is definitely better.",
+      "Practice improves fluency, so you should speak daily.",
+      "Linguistics (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -682,10 +682,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Technology (2)",
     "options": [
-      "\"I prefer Technology (2).\"",
-      "\"Technology (2) is definitely better.\"",
-      "\"The router is off, so the Wi-Fi won't work.\"",
-      "\"Technology (2) exists.\""
+      "I prefer Technology (2).",
+      "Technology (2) is definitely better.",
+      "The router is off, so the Wi-Fi won't work.",
+      "Technology (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -703,10 +703,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: History (2)",
     "options": [
-      "\"I prefer History (2).\"",
-      "\"History (2) is definitely better.\"",
-      "\"Artifacts are fragile, so they need careful handling.\"",
-      "\"History (2) exists.\""
+      "I prefer History (2).",
+      "History (2) is definitely better.",
+      "Artifacts are fragile, so they need careful handling.",
+      "History (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -724,10 +724,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Art (2)",
     "options": [
-      "\"I prefer Art (2).\"",
-      "\"Art (2) is definitely better.\"",
-      "\"Red and blue make purple, so mix them for violet.\"",
-      "\"Art (2) exists.\""
+      "I prefer Art (2).",
+      "Art (2) is definitely better.",
+      "Red and blue make purple, so mix them for violet.",
+      "Art (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -745,10 +745,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Traffic (2)",
     "options": [
-      "\"I prefer Traffic (2).\"",
-      "\"Traffic (2) is definitely better.\"",
-      "\"The light is red, so drivers must stop.\"",
-      "\"Traffic (2) exists.\""
+      "I prefer Traffic (2).",
+      "Traffic (2) is definitely better.",
+      "The light is red, so drivers must stop.",
+      "Traffic (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -766,10 +766,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Biology (2)",
     "options": [
-      "\"I prefer Biology (2).\"",
-      "\"Biology (2) is definitely better.\"",
-      "\"Lack of sleep affects focus, so students should rest.\"",
-      "\"Biology (2) exists.\""
+      "I prefer Biology (2).",
+      "Biology (2) is definitely better.",
+      "Lack of sleep affects focus, so students should rest.",
+      "Biology (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -787,10 +787,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Economics (2)",
     "options": [
-      "\"I prefer Economics (2).\"",
-      "\"Economics (2) is definitely better.\"",
-      "\"Supply is low, so prices will rise.\"",
-      "\"Economics (2) exists.\""
+      "I prefer Economics (2).",
+      "Economics (2) is definitely better.",
+      "Supply is low, so prices will rise.",
+      "Economics (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -808,10 +808,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason) about city noise rules?",
     "options": [
-      "\"The city has noise rules.\"",
-      "\"I hate how loud my street is.\"",
-      "\"Because late-night traffic keeps residents awake, the city should add a quiet-hours rule.\"",
-      "\"Noise complaints exist in every district.\""
+      "The city has noise rules.",
+      "I hate how loud my street is.",
+      "Because late-night traffic keeps residents awake, the city should add a quiet-hours rule.",
+      "Noise complaints exist in every district."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -829,10 +829,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Music (2)",
     "options": [
-      "\"I prefer Music (2).\"",
-      "\"Music (2) is definitely better.\"",
-      "\"The guitar is out of tune, so it will sound bad.\"",
-      "\"Music (2) exists.\""
+      "I prefer Music (2).",
+      "Music (2) is definitely better.",
+      "The guitar is out of tune, so it will sound bad.",
+      "Music (2) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -850,10 +850,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Baking (3)",
     "options": [
-      "\"I prefer Baking (3).\"",
-      "\"Baking (3) is definitely better.\"",
-      "\"The oven is too hot, so the cake will burn.\"",
-      "\"Baking (3) exists.\""
+      "I prefer Baking (3).",
+      "Baking (3) is definitely better.",
+      "The oven is too hot, so the cake will burn.",
+      "Baking (3) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -871,10 +871,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Racing (3)",
     "options": [
-      "\"I prefer Racing (3).\"",
-      "\"Racing (3) is definitely better.\"",
-      "\"You practiced hard, so you will finish faster.\"",
-      "\"Racing (3) exists.\""
+      "I prefer Racing (3).",
+      "Racing (3) is definitely better.",
+      "You practiced hard, so you will finish faster.",
+      "Racing (3) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -892,10 +892,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Weather (3)",
     "options": [
-      "\"I prefer Weather (3).\"",
-      "\"Weather (3) is definitely better.\"",
-      "\"The clouds are dark, so it is going to rain.\"",
-      "\"Weather (3) exists.\""
+      "I prefer Weather (3).",
+      "Weather (3) is definitely better.",
+      "The clouds are dark, so it is going to rain.",
+      "Weather (3) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -913,10 +913,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which statement is an argument about securing the community garden tools?",
     "options": [
-      "\"We should build a lockable shed because tools keep getting stolen.\"",
-      "\"I love gardening.\"",
-      "\"Community gardens are fun.\"",
-      "\"Tools are shiny.\""
+      "We should build a lockable shed because tools keep getting stolen.",
+      "I love gardening.",
+      "Community gardens are fun.",
+      "Tools are shiny."
     ],
     "correct_option_index": 0,
     "explanation": "Reason (thefts) supports conclusion (add a lockable shed).",
@@ -934,10 +934,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which statement is an argument about monitoring the night sky before storms?",
     "options": [
-      "\"Meteorologists track the night sky so coastal towns can warn fishers early.\"",
-      "\"The sky is beautiful.\"",
-      "\"Stars exist.\"",
-      "\"Telescopes are expensive.\""
+      "Meteorologists track the night sky so coastal towns can warn fishers early.",
+      "The sky is beautiful.",
+      "Stars exist.",
+      "Telescopes are expensive."
     ],
     "correct_option_index": 0,
     "explanation": "Gives a reason (early warning) linked to an action (track the sky).",
@@ -955,10 +955,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which statement is an argument about replacing a school water fountain?",
     "options": [
-      "\"Lead was detected in the fountain, so the school should replace it immediately.\"",
-      "\"Water fountains are shiny.\"",
-      "\"I prefer bottled water.\"",
-      "\"The school has hallways.\""
+      "Lead was detected in the fountain, so the school should replace it immediately.",
+      "Water fountains are shiny.",
+      "I prefer bottled water.",
+      "The school has hallways."
     ],
     "correct_option_index": 0,
     "explanation": "Links evidence (lead found) to a conclusion (replace the fountain).",
@@ -976,10 +976,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which statement is an argument about shortening counseling waitlists?",
     "options": [
-      "\"The counseling waitlist is six weeks long, so the university should hire another therapist.\"",
-      "\"Counseling offices have chairs.\"",
-      "\"Therapists studied psychology.\"",
-      "\"I like quiet rooms.\""
+      "The counseling waitlist is six weeks long, so the university should hire another therapist.",
+      "Counseling offices have chairs.",
+      "Therapists studied psychology.",
+      "I like quiet rooms."
     ],
     "correct_option_index": 0,
     "explanation": "Reason (six-week wait) supports conclusion (hire another therapist).",
@@ -997,10 +997,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Mathematics (3)",
     "options": [
-      "\"I prefer Mathematics (3).\"",
-      "\"Mathematics (3) is definitely better.\"",
-      "\"X equals 5, so X plus 2 equals 7.\"",
-      "\"Mathematics (3) exists.\""
+      "I prefer Mathematics (3).",
+      "Mathematics (3) is definitely better.",
+      "X equals 5, so X plus 2 equals 7.",
+      "Mathematics (3) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -1018,10 +1018,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Oceanography (3)",
     "options": [
-      "\"I prefer Oceanography (3).\"",
-      "\"Oceanography (3) is definitely better.\"",
-      "\"The tide is coming in, so the beach will get smaller.\"",
-      "\"Oceanography (3) exists.\""
+      "I prefer Oceanography (3).",
+      "Oceanography (3) is definitely better.",
+      "The tide is coming in, so the beach will get smaller.",
+      "Oceanography (3) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -1039,10 +1039,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Astronomy (3)",
     "options": [
-      "\"I prefer Astronomy (3).\"",
-      "\"Astronomy (3) is definitely better.\"",
-      "\"Light takes time to travel, so we see stars as they were.\"",
-      "\"Astronomy (3) exists.\""
+      "I prefer Astronomy (3).",
+      "Astronomy (3) is definitely better.",
+      "Light takes time to travel, so we see stars as they were.",
+      "Astronomy (3) exists."
     ],
     "correct_option_index": 2,
     "explanation": "An argument offers a premise to support a conclusion.",
@@ -1058,12 +1058,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Gravity pulls objects down, the apple will fall.\", identify the PREMISE.",
+    "question": "In the argument "Since Gravity pulls objects down, the apple will fall.", identify the PREMISE.",
     "options": [
-      "\"Gravity pulls objects down\"",
-      "\"the apple will fall\"",
-      "\"Since\"",
-      "\"None\""
+      "Gravity pulls objects down",
+      "the apple will fall",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1079,12 +1079,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Practice improves fluency, you should speak daily.\", identify the PREMISE.",
+    "question": "In the argument "Since Practice improves fluency, you should speak daily.", identify the PREMISE.",
     "options": [
-      "\"Practice improves fluency\"",
-      "\"you should speak daily\"",
-      "\"Since\"",
-      "\"None\""
+      "Practice improves fluency",
+      "you should speak daily",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1100,12 +1100,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The router is off, the Wi-Fi won't work.\", identify the PREMISE.",
+    "question": "In the argument "Since The router is off, the Wi-Fi won't work.", identify the PREMISE.",
     "options": [
-      "\"The router is off\"",
-      "\"the Wi-Fi won't work\"",
-      "\"Since\"",
-      "\"None\""
+      "The router is off",
+      "the Wi-Fi won't work",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1121,12 +1121,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Artifacts are fragile, they need careful handling.\", identify the PREMISE.",
+    "question": "In the argument "Since Artifacts are fragile, they need careful handling.", identify the PREMISE.",
     "options": [
-      "\"Artifacts are fragile\"",
-      "\"they need careful handling\"",
-      "\"Since\"",
-      "\"None\""
+      "Artifacts are fragile",
+      "they need careful handling",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1142,12 +1142,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Red and blue make purple, mix them for violet.\", identify the PREMISE.",
+    "question": "In the argument "Since Red and blue make purple, mix them for violet.", identify the PREMISE.",
     "options": [
-      "\"Red and blue make purple\"",
-      "\"mix them for violet\"",
-      "\"Since\"",
-      "\"None\""
+      "Red and blue make purple",
+      "mix them for violet",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1163,12 +1163,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The light is red, drivers must stop.\", identify the PREMISE.",
+    "question": "In the argument "Since The light is red, drivers must stop.", identify the PREMISE.",
     "options": [
-      "\"The light is red\"",
-      "\"drivers must stop\"",
-      "\"Since\"",
-      "\"None\""
+      "The light is red",
+      "drivers must stop",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1184,12 +1184,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Lack of sleep affects focus, students should rest.\", identify the PREMISE.",
+    "question": "In the argument "Since Lack of sleep affects focus, students should rest.", identify the PREMISE.",
     "options": [
-      "\"Lack of sleep affects focus\"",
-      "\"students should rest\"",
-      "\"Since\"",
-      "\"None\""
+      "Lack of sleep affects focus",
+      "students should rest",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1205,12 +1205,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Supply is low, prices will rise.\", identify the PREMISE.",
+    "question": "In the argument "Since Supply is low, prices will rise.", identify the PREMISE.",
     "options": [
-      "\"Supply is low\"",
-      "\"prices will rise\"",
-      "\"Since\"",
-      "\"None\""
+      "Supply is low",
+      "prices will rise",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1226,12 +1226,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Dogs are social, they need company.\", identify the PREMISE.",
+    "question": "In the argument "Since Dogs are social, they need company.", identify the PREMISE.",
     "options": [
-      "\"Dogs are social\"",
-      "\"they need company\"",
-      "\"Since\"",
-      "\"None\""
+      "Dogs are social",
+      "they need company",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1247,12 +1247,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The guitar is out of tune, it will sound bad.\", identify the PREMISE.",
+    "question": "In the argument "Since The guitar is out of tune, it will sound bad.", identify the PREMISE.",
     "options": [
-      "\"The guitar is out of tune\"",
-      "\"it will sound bad\"",
-      "\"Since\"",
-      "\"None\""
+      "The guitar is out of tune",
+      "it will sound bad",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1268,12 +1268,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The oven is too hot, the cake will burn.\", identify the PREMISE.",
+    "question": "In the argument "Since The oven is too hot, the cake will burn.", identify the PREMISE.",
     "options": [
-      "\"The oven is too hot\"",
-      "\"the cake will burn\"",
-      "\"Since\"",
-      "\"None\""
+      "The oven is too hot",
+      "the cake will burn",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1289,12 +1289,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since You practiced hard, you will finish faster.\", identify the PREMISE.",
+    "question": "In the argument "Since You practiced hard, you will finish faster.", identify the PREMISE.",
     "options": [
-      "\"You practiced hard\"",
-      "\"you will finish faster\"",
-      "\"Since\"",
-      "\"None\""
+      "You practiced hard",
+      "you will finish faster",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1310,12 +1310,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The clouds are dark, it is going to rain.\", identify the PREMISE.",
+    "question": "In the argument "Since The clouds are dark, it is going to rain.", identify the PREMISE.",
     "options": [
-      "\"The clouds are dark\"",
-      "\"it is going to rain\"",
-      "\"Since\"",
-      "\"None\""
+      "The clouds are dark",
+      "it is going to rain",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1331,12 +1331,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The battery is empty, the car won't start.\", identify the PREMISE.",
+    "question": "In the argument "Since The battery is empty, the car won't start.", identify the PREMISE.",
     "options": [
-      "\"The battery is empty\"",
-      "\"the car won't start\"",
-      "\"Since\"",
-      "\"None\""
+      "The battery is empty",
+      "the car won't start",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1352,12 +1352,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Plants need light, they should be near the window.\", identify the PREMISE.",
+    "question": "In the argument "Since Plants need light, they should be near the window.", identify the PREMISE.",
     "options": [
-      "\"Plants need light\"",
-      "\"they should be near the window\"",
-      "\"Since\"",
-      "\"None\""
+      "Plants need light",
+      "they should be near the window",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1373,12 +1373,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Silence is required, we must speak softly.\", identify the PREMISE.",
+    "question": "In the argument "Since Silence is required, we must speak softly.", identify the PREMISE.",
     "options": [
-      "\"Silence is required\"",
-      "\"we must speak softly\"",
-      "\"Since\"",
-      "\"None\""
+      "Silence is required",
+      "we must speak softly",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1394,12 +1394,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Exercise improves health, we should walk daily.\", identify the PREMISE.",
+    "question": "In the argument "Since Exercise improves health, we should walk daily.", identify the PREMISE.",
     "options": [
-      "\"Exercise improves health\"",
-      "\"we should walk daily\"",
-      "\"Since\"",
-      "\"None\""
+      "Exercise improves health",
+      "we should walk daily",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1415,12 +1415,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since X equals 5, X plus 2 equals 7.\", identify the PREMISE.",
+    "question": "In the argument "Since X equals 5, X plus 2 equals 7.", identify the PREMISE.",
     "options": [
-      "\"X equals 5\"",
-      "\"X plus 2 equals 7\"",
-      "\"Since\"",
-      "\"None\""
+      "X equals 5",
+      "X plus 2 equals 7",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1436,12 +1436,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The tide is coming in, the beach will get smaller.\", identify the PREMISE.",
+    "question": "In the argument "Since The tide is coming in, the beach will get smaller.", identify the PREMISE.",
     "options": [
-      "\"The tide is coming in\"",
-      "\"the beach will get smaller\"",
-      "\"Since\"",
-      "\"None\""
+      "The tide is coming in",
+      "the beach will get smaller",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1457,12 +1457,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Light takes time to travel, we see stars as they were.\", identify the PREMISE.",
+    "question": "In the argument "Since Light takes time to travel, we see stars as they were.", identify the PREMISE.",
     "options": [
-      "\"Light takes time to travel\"",
-      "\"we see stars as they were\"",
-      "\"Since\"",
-      "\"None\""
+      "Light takes time to travel",
+      "we see stars as they were",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1478,12 +1478,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Gravity pulls objects down, the apple will fall.\", identify the PREMISE.",
+    "question": "In the argument "Since Gravity pulls objects down, the apple will fall.", identify the PREMISE.",
     "options": [
-      "\"Gravity pulls objects down\"",
-      "\"the apple will fall\"",
-      "\"Since\"",
-      "\"None\""
+      "Gravity pulls objects down",
+      "the apple will fall",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1499,12 +1499,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Practice improves fluency, you should speak daily.\", identify the PREMISE.",
+    "question": "In the argument "Since Practice improves fluency, you should speak daily.", identify the PREMISE.",
     "options": [
-      "\"Practice improves fluency\"",
-      "\"you should speak daily\"",
-      "\"Since\"",
-      "\"None\""
+      "Practice improves fluency",
+      "you should speak daily",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1520,12 +1520,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The router is off, the Wi-Fi won't work.\", identify the PREMISE.",
+    "question": "In the argument "Since The router is off, the Wi-Fi won't work.", identify the PREMISE.",
     "options": [
-      "\"The router is off\"",
-      "\"the Wi-Fi won't work\"",
-      "\"Since\"",
-      "\"None\""
+      "The router is off",
+      "the Wi-Fi won't work",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1541,12 +1541,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Artifacts are fragile, they need careful handling.\", identify the PREMISE.",
+    "question": "In the argument "Since Artifacts are fragile, they need careful handling.", identify the PREMISE.",
     "options": [
-      "\"Artifacts are fragile\"",
-      "\"they need careful handling\"",
-      "\"Since\"",
-      "\"None\""
+      "Artifacts are fragile",
+      "they need careful handling",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1562,12 +1562,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Red and blue make purple, mix them for violet.\", identify the PREMISE.",
+    "question": "In the argument "Since Red and blue make purple, mix them for violet.", identify the PREMISE.",
     "options": [
-      "\"Red and blue make purple\"",
-      "\"mix them for violet\"",
-      "\"Since\"",
-      "\"None\""
+      "Red and blue make purple",
+      "mix them for violet",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1583,12 +1583,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The light is red, drivers must stop.\", identify the PREMISE.",
+    "question": "In the argument "Since The light is red, drivers must stop.", identify the PREMISE.",
     "options": [
-      "\"The light is red\"",
-      "\"drivers must stop\"",
-      "\"Since\"",
-      "\"None\""
+      "The light is red",
+      "drivers must stop",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1604,12 +1604,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Lack of sleep affects focus, students should rest.\", identify the PREMISE.",
+    "question": "In the argument "Since Lack of sleep affects focus, students should rest.", identify the PREMISE.",
     "options": [
-      "\"Lack of sleep affects focus\"",
-      "\"students should rest\"",
-      "\"Since\"",
-      "\"None\""
+      "Lack of sleep affects focus",
+      "students should rest",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1625,12 +1625,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Supply is low, prices will rise.\", identify the PREMISE.",
+    "question": "In the argument "Since Supply is low, prices will rise.", identify the PREMISE.",
     "options": [
-      "\"Supply is low\"",
-      "\"prices will rise\"",
-      "\"Since\"",
-      "\"None\""
+      "Supply is low",
+      "prices will rise",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1646,12 +1646,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Dogs are social, they need company.\", identify the PREMISE.",
+    "question": "In the argument "Since Dogs are social, they need company.", identify the PREMISE.",
     "options": [
-      "\"Dogs are social\"",
-      "\"they need company\"",
-      "\"Since\"",
-      "\"None\""
+      "Dogs are social",
+      "they need company",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1667,12 +1667,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The guitar is out of tune, it will sound bad.\", identify the PREMISE.",
+    "question": "In the argument "Since The guitar is out of tune, it will sound bad.", identify the PREMISE.",
     "options": [
-      "\"The guitar is out of tune\"",
-      "\"it will sound bad\"",
-      "\"Since\"",
-      "\"None\""
+      "The guitar is out of tune",
+      "it will sound bad",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1688,12 +1688,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The oven is too hot, the cake will burn.\", identify the PREMISE.",
+    "question": "In the argument "Since The oven is too hot, the cake will burn.", identify the PREMISE.",
     "options": [
-      "\"The oven is too hot\"",
-      "\"the cake will burn\"",
-      "\"Since\"",
-      "\"None\""
+      "The oven is too hot",
+      "the cake will burn",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1709,12 +1709,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since You practiced hard, you will finish faster.\", identify the PREMISE.",
+    "question": "In the argument "Since You practiced hard, you will finish faster.", identify the PREMISE.",
     "options": [
-      "\"You practiced hard\"",
-      "\"you will finish faster\"",
-      "\"Since\"",
-      "\"None\""
+      "You practiced hard",
+      "you will finish faster",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1730,12 +1730,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The clouds are dark, it is going to rain.\", identify the PREMISE.",
+    "question": "In the argument "Since The clouds are dark, it is going to rain.", identify the PREMISE.",
     "options": [
-      "\"The clouds are dark\"",
-      "\"it is going to rain\"",
-      "\"Since\"",
-      "\"None\""
+      "The clouds are dark",
+      "it is going to rain",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1751,12 +1751,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The battery is empty, the car won't start.\", identify the PREMISE.",
+    "question": "In the argument "Since The battery is empty, the car won't start.", identify the PREMISE.",
     "options": [
-      "\"The battery is empty\"",
-      "\"the car won't start\"",
-      "\"Since\"",
-      "\"None\""
+      "The battery is empty",
+      "the car won't start",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1772,12 +1772,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Plants need light, they should be near the window.\", identify the PREMISE.",
+    "question": "In the argument "Since Plants need light, they should be near the window.", identify the PREMISE.",
     "options": [
-      "\"Plants need light\"",
-      "\"they should be near the window\"",
-      "\"Since\"",
-      "\"None\""
+      "Plants need light",
+      "they should be near the window",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1793,12 +1793,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Silence is required, we must speak softly.\", identify the PREMISE.",
+    "question": "In the argument "Since Silence is required, we must speak softly.", identify the PREMISE.",
     "options": [
-      "\"Silence is required\"",
-      "\"we must speak softly\"",
-      "\"Since\"",
-      "\"None\""
+      "Silence is required",
+      "we must speak softly",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1814,12 +1814,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Exercise improves health, we should walk daily.\", identify the PREMISE.",
+    "question": "In the argument "Since Exercise improves health, we should walk daily.", identify the PREMISE.",
     "options": [
-      "\"Exercise improves health\"",
-      "\"we should walk daily\"",
-      "\"Since\"",
-      "\"None\""
+      "Exercise improves health",
+      "we should walk daily",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1835,12 +1835,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since X equals 5, X plus 2 equals 7.\", identify the PREMISE.",
+    "question": "In the argument "Since X equals 5, X plus 2 equals 7.", identify the PREMISE.",
     "options": [
-      "\"X equals 5\"",
-      "\"X plus 2 equals 7\"",
-      "\"Since\"",
-      "\"None\""
+      "X equals 5",
+      "X plus 2 equals 7",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1856,12 +1856,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The tide is coming in, the beach will get smaller.\", identify the PREMISE.",
+    "question": "In the argument "Since The tide is coming in, the beach will get smaller.", identify the PREMISE.",
     "options": [
-      "\"The tide is coming in\"",
-      "\"the beach will get smaller\"",
-      "\"Since\"",
-      "\"None\""
+      "The tide is coming in",
+      "the beach will get smaller",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1877,12 +1877,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Light takes time to travel, we see stars as they were.\", identify the PREMISE.",
+    "question": "In the argument "Since Light takes time to travel, we see stars as they were.", identify the PREMISE.",
     "options": [
-      "\"Light takes time to travel\"",
-      "\"we see stars as they were\"",
-      "\"Since\"",
-      "\"None\""
+      "Light takes time to travel",
+      "we see stars as they were",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1898,12 +1898,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Gravity pulls objects down, the apple will fall.\", identify the PREMISE.",
+    "question": "In the argument "Since Gravity pulls objects down, the apple will fall.", identify the PREMISE.",
     "options": [
-      "\"Gravity pulls objects down\"",
-      "\"the apple will fall\"",
-      "\"Since\"",
-      "\"None\""
+      "Gravity pulls objects down",
+      "the apple will fall",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1919,12 +1919,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Practice improves fluency, you should speak daily.\", identify the PREMISE.",
+    "question": "In the argument "Since Practice improves fluency, you should speak daily.", identify the PREMISE.",
     "options": [
-      "\"Practice improves fluency\"",
-      "\"you should speak daily\"",
-      "\"Since\"",
-      "\"None\""
+      "Practice improves fluency",
+      "you should speak daily",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1940,12 +1940,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The router is off, the Wi-Fi won't work.\", identify the PREMISE.",
+    "question": "In the argument "Since The router is off, the Wi-Fi won't work.", identify the PREMISE.",
     "options": [
-      "\"The router is off\"",
-      "\"the Wi-Fi won't work\"",
-      "\"Since\"",
-      "\"None\""
+      "The router is off",
+      "the Wi-Fi won't work",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1961,12 +1961,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Artifacts are fragile, they need careful handling.\", identify the PREMISE.",
+    "question": "In the argument "Since Artifacts are fragile, they need careful handling.", identify the PREMISE.",
     "options": [
-      "\"Artifacts are fragile\"",
-      "\"they need careful handling\"",
-      "\"Since\"",
-      "\"None\""
+      "Artifacts are fragile",
+      "they need careful handling",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -1982,12 +1982,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Red and blue make purple, mix them for violet.\", identify the PREMISE.",
+    "question": "In the argument "Since Red and blue make purple, mix them for violet.", identify the PREMISE.",
     "options": [
-      "\"Red and blue make purple\"",
-      "\"mix them for violet\"",
-      "\"Since\"",
-      "\"None\""
+      "Red and blue make purple",
+      "mix them for violet",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -2003,12 +2003,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The light is red, drivers must stop.\", identify the PREMISE.",
+    "question": "In the argument "Since The light is red, drivers must stop.", identify the PREMISE.",
     "options": [
-      "\"The light is red\"",
-      "\"drivers must stop\"",
-      "\"Since\"",
-      "\"None\""
+      "The light is red",
+      "drivers must stop",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -2024,12 +2024,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Lack of sleep affects focus, students should rest.\", identify the PREMISE.",
+    "question": "In the argument "Since Lack of sleep affects focus, students should rest.", identify the PREMISE.",
     "options": [
-      "\"Lack of sleep affects focus\"",
-      "\"students should rest\"",
-      "\"Since\"",
-      "\"None\""
+      "Lack of sleep affects focus",
+      "students should rest",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -2045,12 +2045,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Supply is low, prices will rise.\", identify the PREMISE.",
+    "question": "In the argument "Since Supply is low, prices will rise.", identify the PREMISE.",
     "options": [
-      "\"Supply is low\"",
-      "\"prices will rise\"",
-      "\"Since\"",
-      "\"None\""
+      "Supply is low",
+      "prices will rise",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -2066,12 +2066,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since Dogs are social, they need company.\", identify the PREMISE.",
+    "question": "In the argument "Since Dogs are social, they need company.", identify the PREMISE.",
     "options": [
-      "\"Dogs are social\"",
-      "\"they need company\"",
-      "\"Since\"",
-      "\"None\""
+      "Dogs are social",
+      "they need company",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -2087,12 +2087,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument \"Since The guitar is out of tune, it will sound bad.\", identify the PREMISE.",
+    "question": "In the argument "Since The guitar is out of tune, it will sound bad.", identify the PREMISE.",
     "options": [
-      "\"The guitar is out of tune\"",
-      "\"it will sound bad\"",
-      "\"Since\"",
-      "\"None\""
+      "The guitar is out of tune",
+      "it will sound bad",
+      "Since",
+      "None"
     ],
     "correct_option_index": 0,
     "explanation": "The premise is the reason or evidence given.",
@@ -2108,12 +2108,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The oven is too hot, therefore the cake will burn.\", identify the CONCLUSION.",
+    "question": "In the argument "The oven is too hot, therefore the cake will burn.", identify the CONCLUSION.",
     "options": [
-      "\"The oven is too hot\"",
-      "\"the cake will burn\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The oven is too hot",
+      "the cake will burn",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2129,12 +2129,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"You practiced hard, therefore you will finish faster.\", identify the CONCLUSION.",
+    "question": "In the argument "You practiced hard, therefore you will finish faster.", identify the CONCLUSION.",
     "options": [
-      "\"You practiced hard\"",
-      "\"you will finish faster\"",
-      "\"therefore\"",
-      "\"neither\""
+      "You practiced hard",
+      "you will finish faster",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2150,12 +2150,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The clouds are dark, therefore it is going to rain.\", identify the CONCLUSION.",
+    "question": "In the argument "The clouds are dark, therefore it is going to rain.", identify the CONCLUSION.",
     "options": [
-      "\"The clouds are dark\"",
-      "\"it is going to rain\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The clouds are dark",
+      "it is going to rain",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2171,12 +2171,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The battery is empty, therefore the car won't start.\", identify the CONCLUSION.",
+    "question": "In the argument "The battery is empty, therefore the car won't start.", identify the CONCLUSION.",
     "options": [
-      "\"The battery is empty\"",
-      "\"the car won't start\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The battery is empty",
+      "the car won't start",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2192,12 +2192,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Plants need light, therefore they should be near the window.\", identify the CONCLUSION.",
+    "question": "In the argument "Plants need light, therefore they should be near the window.", identify the CONCLUSION.",
     "options": [
-      "\"Plants need light\"",
-      "\"they should be near the window\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Plants need light",
+      "they should be near the window",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2213,12 +2213,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Silence is required, therefore we must speak softly.\", identify the CONCLUSION.",
+    "question": "In the argument "Silence is required, therefore we must speak softly.", identify the CONCLUSION.",
     "options": [
-      "\"Silence is required\"",
-      "\"we must speak softly\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Silence is required",
+      "we must speak softly",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2234,12 +2234,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Exercise improves health, therefore we should walk daily.\", identify the CONCLUSION.",
+    "question": "In the argument "Exercise improves health, therefore we should walk daily.", identify the CONCLUSION.",
     "options": [
-      "\"Exercise improves health\"",
-      "\"we should walk daily\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Exercise improves health",
+      "we should walk daily",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2255,12 +2255,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"X equals 5, therefore X plus 2 equals 7.\", identify the CONCLUSION.",
+    "question": "In the argument "X equals 5, therefore X plus 2 equals 7.", identify the CONCLUSION.",
     "options": [
-      "\"X equals 5\"",
-      "\"X plus 2 equals 7\"",
-      "\"therefore\"",
-      "\"neither\""
+      "X equals 5",
+      "X plus 2 equals 7",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2276,12 +2276,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The tide is coming in, therefore the beach will get smaller.\", identify the CONCLUSION.",
+    "question": "In the argument "The tide is coming in, therefore the beach will get smaller.", identify the CONCLUSION.",
     "options": [
-      "\"The tide is coming in\"",
-      "\"the beach will get smaller\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The tide is coming in",
+      "the beach will get smaller",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2297,12 +2297,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Light takes time to travel, therefore we see stars as they were.\", identify the CONCLUSION.",
+    "question": "In the argument "Light takes time to travel, therefore we see stars as they were.", identify the CONCLUSION.",
     "options": [
-      "\"Light takes time to travel\"",
-      "\"we see stars as they were\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Light takes time to travel",
+      "we see stars as they were",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2318,12 +2318,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Gravity pulls objects down, therefore the apple will fall.\", identify the CONCLUSION.",
+    "question": "In the argument "Gravity pulls objects down, therefore the apple will fall.", identify the CONCLUSION.",
     "options": [
-      "\"Gravity pulls objects down\"",
-      "\"the apple will fall\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Gravity pulls objects down",
+      "the apple will fall",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2339,12 +2339,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Practice improves fluency, therefore you should speak daily.\", identify the CONCLUSION.",
+    "question": "In the argument "Practice improves fluency, therefore you should speak daily.", identify the CONCLUSION.",
     "options": [
-      "\"Practice improves fluency\"",
-      "\"you should speak daily\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Practice improves fluency",
+      "you should speak daily",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2360,12 +2360,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The router is off, therefore the Wi-Fi won't work.\", identify the CONCLUSION.",
+    "question": "In the argument "The router is off, therefore the Wi-Fi won't work.", identify the CONCLUSION.",
     "options": [
-      "\"The router is off\"",
-      "\"the Wi-Fi won't work\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The router is off",
+      "the Wi-Fi won't work",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2381,12 +2381,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Artifacts are fragile, therefore they need careful handling.\", identify the CONCLUSION.",
+    "question": "In the argument "Artifacts are fragile, therefore they need careful handling.", identify the CONCLUSION.",
     "options": [
-      "\"Artifacts are fragile\"",
-      "\"they need careful handling\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Artifacts are fragile",
+      "they need careful handling",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2402,12 +2402,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Red and blue make purple, therefore mix them for violet.\", identify the CONCLUSION.",
+    "question": "In the argument "Red and blue make purple, therefore mix them for violet.", identify the CONCLUSION.",
     "options": [
-      "\"Red and blue make purple\"",
-      "\"mix them for violet\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Red and blue make purple",
+      "mix them for violet",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2423,12 +2423,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The light is red, therefore drivers must stop.\", identify the CONCLUSION.",
+    "question": "In the argument "The light is red, therefore drivers must stop.", identify the CONCLUSION.",
     "options": [
-      "\"The light is red\"",
-      "\"drivers must stop\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The light is red",
+      "drivers must stop",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2444,12 +2444,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Lack of sleep affects focus, therefore students should rest.\", identify the CONCLUSION.",
+    "question": "In the argument "Lack of sleep affects focus, therefore students should rest.", identify the CONCLUSION.",
     "options": [
-      "\"Lack of sleep affects focus\"",
-      "\"students should rest\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Lack of sleep affects focus",
+      "students should rest",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2465,12 +2465,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Supply is low, therefore prices will rise.\", identify the CONCLUSION.",
+    "question": "In the argument "Supply is low, therefore prices will rise.", identify the CONCLUSION.",
     "options": [
-      "\"Supply is low\"",
-      "\"prices will rise\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Supply is low",
+      "prices will rise",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2486,12 +2486,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Dogs are social, therefore they need company.\", identify the CONCLUSION.",
+    "question": "In the argument "Dogs are social, therefore they need company.", identify the CONCLUSION.",
     "options": [
-      "\"Dogs are social\"",
-      "\"they need company\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Dogs are social",
+      "they need company",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2507,12 +2507,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The guitar is out of tune, therefore it will sound bad.\", identify the CONCLUSION.",
+    "question": "In the argument "The guitar is out of tune, therefore it will sound bad.", identify the CONCLUSION.",
     "options": [
-      "\"The guitar is out of tune\"",
-      "\"it will sound bad\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The guitar is out of tune",
+      "it will sound bad",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2528,12 +2528,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The oven is too hot, therefore the cake will burn.\", identify the CONCLUSION.",
+    "question": "In the argument "The oven is too hot, therefore the cake will burn.", identify the CONCLUSION.",
     "options": [
-      "\"The oven is too hot\"",
-      "\"the cake will burn\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The oven is too hot",
+      "the cake will burn",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2549,12 +2549,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"You practiced hard, therefore you will finish faster.\", identify the CONCLUSION.",
+    "question": "In the argument "You practiced hard, therefore you will finish faster.", identify the CONCLUSION.",
     "options": [
-      "\"You practiced hard\"",
-      "\"you will finish faster\"",
-      "\"therefore\"",
-      "\"neither\""
+      "You practiced hard",
+      "you will finish faster",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2570,12 +2570,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The clouds are dark, therefore it is going to rain.\", identify the CONCLUSION.",
+    "question": "In the argument "The clouds are dark, therefore it is going to rain.", identify the CONCLUSION.",
     "options": [
-      "\"The clouds are dark\"",
-      "\"it is going to rain\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The clouds are dark",
+      "it is going to rain",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2591,12 +2591,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The battery is empty, therefore the car won't start.\", identify the CONCLUSION.",
+    "question": "In the argument "The battery is empty, therefore the car won't start.", identify the CONCLUSION.",
     "options": [
-      "\"The battery is empty\"",
-      "\"the car won't start\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The battery is empty",
+      "the car won't start",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2612,12 +2612,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Plants need light, therefore they should be near the window.\", identify the CONCLUSION.",
+    "question": "In the argument "Plants need light, therefore they should be near the window.", identify the CONCLUSION.",
     "options": [
-      "\"Plants need light\"",
-      "\"they should be near the window\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Plants need light",
+      "they should be near the window",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2633,12 +2633,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Silence is required, therefore we must speak softly.\", identify the CONCLUSION.",
+    "question": "In the argument "Silence is required, therefore we must speak softly.", identify the CONCLUSION.",
     "options": [
-      "\"Silence is required\"",
-      "\"we must speak softly\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Silence is required",
+      "we must speak softly",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2654,12 +2654,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Exercise improves health, therefore we should walk daily.\", identify the CONCLUSION.",
+    "question": "In the argument "Exercise improves health, therefore we should walk daily.", identify the CONCLUSION.",
     "options": [
-      "\"Exercise improves health\"",
-      "\"we should walk daily\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Exercise improves health",
+      "we should walk daily",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2675,12 +2675,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"X equals 5, therefore X plus 2 equals 7.\", identify the CONCLUSION.",
+    "question": "In the argument "X equals 5, therefore X plus 2 equals 7.", identify the CONCLUSION.",
     "options": [
-      "\"X equals 5\"",
-      "\"X plus 2 equals 7\"",
-      "\"therefore\"",
-      "\"neither\""
+      "X equals 5",
+      "X plus 2 equals 7",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2696,12 +2696,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The tide is coming in, therefore the beach will get smaller.\", identify the CONCLUSION.",
+    "question": "In the argument "The tide is coming in, therefore the beach will get smaller.", identify the CONCLUSION.",
     "options": [
-      "\"The tide is coming in\"",
-      "\"the beach will get smaller\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The tide is coming in",
+      "the beach will get smaller",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2717,12 +2717,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Light takes time to travel, therefore we see stars as they were.\", identify the CONCLUSION.",
+    "question": "In the argument "Light takes time to travel, therefore we see stars as they were.", identify the CONCLUSION.",
     "options": [
-      "\"Light takes time to travel\"",
-      "\"we see stars as they were\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Light takes time to travel",
+      "we see stars as they were",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2738,12 +2738,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Gravity pulls objects down, therefore the apple will fall.\", identify the CONCLUSION.",
+    "question": "In the argument "Gravity pulls objects down, therefore the apple will fall.", identify the CONCLUSION.",
     "options": [
-      "\"Gravity pulls objects down\"",
-      "\"the apple will fall\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Gravity pulls objects down",
+      "the apple will fall",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2759,12 +2759,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Practice improves fluency, therefore you should speak daily.\", identify the CONCLUSION.",
+    "question": "In the argument "Practice improves fluency, therefore you should speak daily.", identify the CONCLUSION.",
     "options": [
-      "\"Practice improves fluency\"",
-      "\"you should speak daily\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Practice improves fluency",
+      "you should speak daily",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2780,12 +2780,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The router is off, therefore the Wi-Fi won't work.\", identify the CONCLUSION.",
+    "question": "In the argument "The router is off, therefore the Wi-Fi won't work.", identify the CONCLUSION.",
     "options": [
-      "\"The router is off\"",
-      "\"the Wi-Fi won't work\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The router is off",
+      "the Wi-Fi won't work",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2801,12 +2801,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Artifacts are fragile, therefore they need careful handling.\", identify the CONCLUSION.",
+    "question": "In the argument "Artifacts are fragile, therefore they need careful handling.", identify the CONCLUSION.",
     "options": [
-      "\"Artifacts are fragile\"",
-      "\"they need careful handling\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Artifacts are fragile",
+      "they need careful handling",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2822,12 +2822,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Red and blue make purple, therefore mix them for violet.\", identify the CONCLUSION.",
+    "question": "In the argument "Red and blue make purple, therefore mix them for violet.", identify the CONCLUSION.",
     "options": [
-      "\"Red and blue make purple\"",
-      "\"mix them for violet\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Red and blue make purple",
+      "mix them for violet",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2843,12 +2843,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The light is red, therefore drivers must stop.\", identify the CONCLUSION.",
+    "question": "In the argument "The light is red, therefore drivers must stop.", identify the CONCLUSION.",
     "options": [
-      "\"The light is red\"",
-      "\"drivers must stop\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The light is red",
+      "drivers must stop",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2864,12 +2864,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Lack of sleep affects focus, therefore students should rest.\", identify the CONCLUSION.",
+    "question": "In the argument "Lack of sleep affects focus, therefore students should rest.", identify the CONCLUSION.",
     "options": [
-      "\"Lack of sleep affects focus\"",
-      "\"students should rest\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Lack of sleep affects focus",
+      "students should rest",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2885,12 +2885,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Supply is low, therefore prices will rise.\", identify the CONCLUSION.",
+    "question": "In the argument "Supply is low, therefore prices will rise.", identify the CONCLUSION.",
     "options": [
-      "\"Supply is low\"",
-      "\"prices will rise\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Supply is low",
+      "prices will rise",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2906,12 +2906,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Dogs are social, therefore they need company.\", identify the CONCLUSION.",
+    "question": "In the argument "Dogs are social, therefore they need company.", identify the CONCLUSION.",
     "options": [
-      "\"Dogs are social\"",
-      "\"they need company\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Dogs are social",
+      "they need company",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2927,12 +2927,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The guitar is out of tune, therefore it will sound bad.\", identify the CONCLUSION.",
+    "question": "In the argument "The guitar is out of tune, therefore it will sound bad.", identify the CONCLUSION.",
     "options": [
-      "\"The guitar is out of tune\"",
-      "\"it will sound bad\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The guitar is out of tune",
+      "it will sound bad",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2948,12 +2948,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The oven is too hot, therefore the cake will burn.\", identify the CONCLUSION.",
+    "question": "In the argument "The oven is too hot, therefore the cake will burn.", identify the CONCLUSION.",
     "options": [
-      "\"The oven is too hot\"",
-      "\"the cake will burn\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The oven is too hot",
+      "the cake will burn",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2969,12 +2969,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"You practiced hard, therefore you will finish faster.\", identify the CONCLUSION.",
+    "question": "In the argument "You practiced hard, therefore you will finish faster.", identify the CONCLUSION.",
     "options": [
-      "\"You practiced hard\"",
-      "\"you will finish faster\"",
-      "\"therefore\"",
-      "\"neither\""
+      "You practiced hard",
+      "you will finish faster",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -2990,12 +2990,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The clouds are dark, therefore it is going to rain.\", identify the CONCLUSION.",
+    "question": "In the argument "The clouds are dark, therefore it is going to rain.", identify the CONCLUSION.",
     "options": [
-      "\"The clouds are dark\"",
-      "\"it is going to rain\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The clouds are dark",
+      "it is going to rain",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -3011,12 +3011,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The battery is empty, therefore the car won't start.\", identify the CONCLUSION.",
+    "question": "In the argument "The battery is empty, therefore the car won't start.", identify the CONCLUSION.",
     "options": [
-      "\"The battery is empty\"",
-      "\"the car won't start\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The battery is empty",
+      "the car won't start",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -3032,12 +3032,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Plants need light, therefore they should be near the window.\", identify the CONCLUSION.",
+    "question": "In the argument "Plants need light, therefore they should be near the window.", identify the CONCLUSION.",
     "options": [
-      "\"Plants need light\"",
-      "\"they should be near the window\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Plants need light",
+      "they should be near the window",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -3053,12 +3053,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Silence is required, therefore we must speak softly.\", identify the CONCLUSION.",
+    "question": "In the argument "Silence is required, therefore we must speak softly.", identify the CONCLUSION.",
     "options": [
-      "\"Silence is required\"",
-      "\"we must speak softly\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Silence is required",
+      "we must speak softly",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -3074,12 +3074,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Exercise improves health, therefore we should walk daily.\", identify the CONCLUSION.",
+    "question": "In the argument "Exercise improves health, therefore we should walk daily.", identify the CONCLUSION.",
     "options": [
-      "\"Exercise improves health\"",
-      "\"we should walk daily\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Exercise improves health",
+      "we should walk daily",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -3095,12 +3095,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"X equals 5, therefore X plus 2 equals 7.\", identify the CONCLUSION.",
+    "question": "In the argument "X equals 5, therefore X plus 2 equals 7.", identify the CONCLUSION.",
     "options": [
-      "\"X equals 5\"",
-      "\"X plus 2 equals 7\"",
-      "\"therefore\"",
-      "\"neither\""
+      "X equals 5",
+      "X plus 2 equals 7",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -3116,12 +3116,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"The tide is coming in, therefore the beach will get smaller.\", identify the CONCLUSION.",
+    "question": "In the argument "The tide is coming in, therefore the beach will get smaller.", identify the CONCLUSION.",
     "options": [
-      "\"The tide is coming in\"",
-      "\"the beach will get smaller\"",
-      "\"therefore\"",
-      "\"neither\""
+      "The tide is coming in",
+      "the beach will get smaller",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -3137,12 +3137,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument \"Light takes time to travel, therefore we see stars as they were.\", identify the CONCLUSION.",
+    "question": "In the argument "Light takes time to travel, therefore we see stars as they were.", identify the CONCLUSION.",
     "options": [
-      "\"Light takes time to travel\"",
-      "\"we see stars as they were\"",
-      "\"therefore\"",
-      "\"neither\""
+      "Light takes time to travel",
+      "we see stars as they were",
+      "therefore",
+      "neither"
     ],
     "correct_option_index": 1,
     "explanation": "The conclusion is the claim being supported.",
@@ -3160,10 +3160,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
-      "\"DNA stores genetic info.\"",
-      "\"DNA is beautiful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "DNA stores genetic info.",
+      "DNA is beautiful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3181,10 +3181,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
-      "\"Jupiter is the largest planet.\"",
-      "\"Jupiter is scary.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Jupiter is the largest planet.",
+      "Jupiter is scary.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3202,10 +3202,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
-      "\"Gold does not rust.\"",
-      "\"Gold is the best metal.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Gold does not rust.",
+      "Gold is the best metal.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3223,10 +3223,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
-      "\"A dozen is twelve units.\"",
-      "\"Dozen is a lucky number.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "A dozen is twelve units.",
+      "Dozen is a lucky number.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3244,10 +3244,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
-      "\"The Nile is in Africa.\"",
-      "\"The Nile is peaceful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "The Nile is in Africa.",
+      "The Nile is peaceful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3265,10 +3265,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
-      "\"DNA stores genetic info.\"",
-      "\"DNA is beautiful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "DNA stores genetic info.",
+      "DNA is beautiful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3286,10 +3286,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
-      "\"Jupiter is the largest planet.\"",
-      "\"Jupiter is scary.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Jupiter is the largest planet.",
+      "Jupiter is scary.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3307,10 +3307,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
-      "\"Gold does not rust.\"",
-      "\"Gold is the best metal.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Gold does not rust.",
+      "Gold is the best metal.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3328,10 +3328,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
-      "\"A dozen is twelve units.\"",
-      "\"Dozen is a lucky number.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "A dozen is twelve units.",
+      "Dozen is a lucky number.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3349,10 +3349,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
-      "\"The Nile is in Africa.\"",
-      "\"The Nile is peaceful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "The Nile is in Africa.",
+      "The Nile is peaceful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3370,10 +3370,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
-      "\"DNA stores genetic info.\"",
-      "\"DNA is beautiful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "DNA stores genetic info.",
+      "DNA is beautiful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3391,10 +3391,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
-      "\"Jupiter is the largest planet.\"",
-      "\"Jupiter is scary.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Jupiter is the largest planet.",
+      "Jupiter is scary.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3412,10 +3412,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
-      "\"Gold does not rust.\"",
-      "\"Gold is the best metal.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Gold does not rust.",
+      "Gold is the best metal.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3433,10 +3433,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
-      "\"A dozen is twelve units.\"",
-      "\"Dozen is a lucky number.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "A dozen is twelve units.",
+      "Dozen is a lucky number.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3454,10 +3454,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
-      "\"The Nile is in Africa.\"",
-      "\"The Nile is peaceful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "The Nile is in Africa.",
+      "The Nile is peaceful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3475,10 +3475,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
-      "\"DNA stores genetic info.\"",
-      "\"DNA is beautiful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "DNA stores genetic info.",
+      "DNA is beautiful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3496,10 +3496,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
-      "\"Jupiter is the largest planet.\"",
-      "\"Jupiter is scary.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Jupiter is the largest planet.",
+      "Jupiter is scary.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3517,10 +3517,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
-      "\"Gold does not rust.\"",
-      "\"Gold is the best metal.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Gold does not rust.",
+      "Gold is the best metal.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3538,10 +3538,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
-      "\"A dozen is twelve units.\"",
-      "\"Dozen is a lucky number.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "A dozen is twelve units.",
+      "Dozen is a lucky number.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3559,10 +3559,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
-      "\"The Nile is in Africa.\"",
-      "\"The Nile is peaceful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "The Nile is in Africa.",
+      "The Nile is peaceful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3580,10 +3580,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
-      "\"DNA stores genetic info.\"",
-      "\"DNA is beautiful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "DNA stores genetic info.",
+      "DNA is beautiful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3601,10 +3601,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
-      "\"Jupiter is the largest planet.\"",
-      "\"Jupiter is scary.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Jupiter is the largest planet.",
+      "Jupiter is scary.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3622,10 +3622,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
-      "\"Gold does not rust.\"",
-      "\"Gold is the best metal.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Gold does not rust.",
+      "Gold is the best metal.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3643,10 +3643,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
-      "\"A dozen is twelve units.\"",
-      "\"Dozen is a lucky number.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "A dozen is twelve units.",
+      "Dozen is a lucky number.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3664,10 +3664,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
-      "\"The Nile is in Africa.\"",
-      "\"The Nile is peaceful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "The Nile is in Africa.",
+      "The Nile is peaceful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3685,10 +3685,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
-      "\"DNA stores genetic info.\"",
-      "\"DNA is beautiful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "DNA stores genetic info.",
+      "DNA is beautiful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3706,10 +3706,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
-      "\"Jupiter is the largest planet.\"",
-      "\"Jupiter is scary.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Jupiter is the largest planet.",
+      "Jupiter is scary.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3727,10 +3727,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
-      "\"Gold does not rust.\"",
-      "\"Gold is the best metal.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Gold does not rust.",
+      "Gold is the best metal.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3748,10 +3748,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
-      "\"A dozen is twelve units.\"",
-      "\"Dozen is a lucky number.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "A dozen is twelve units.",
+      "Dozen is a lucky number.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3769,10 +3769,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
-      "\"The Nile is in Africa.\"",
-      "\"The Nile is peaceful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "The Nile is in Africa.",
+      "The Nile is peaceful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3790,10 +3790,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
-      "\"DNA stores genetic info.\"",
-      "\"DNA is beautiful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "DNA stores genetic info.",
+      "DNA is beautiful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3811,10 +3811,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
-      "\"Jupiter is the largest planet.\"",
-      "\"Jupiter is scary.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Jupiter is the largest planet.",
+      "Jupiter is scary.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3832,10 +3832,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
-      "\"Gold does not rust.\"",
-      "\"Gold is the best metal.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Gold does not rust.",
+      "Gold is the best metal.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3853,10 +3853,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
-      "\"A dozen is twelve units.\"",
-      "\"Dozen is a lucky number.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "A dozen is twelve units.",
+      "Dozen is a lucky number.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3874,10 +3874,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
-      "\"The Nile is in Africa.\"",
-      "\"The Nile is peaceful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "The Nile is in Africa.",
+      "The Nile is peaceful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3895,10 +3895,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
-      "\"DNA stores genetic info.\"",
-      "\"DNA is beautiful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "DNA stores genetic info.",
+      "DNA is beautiful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3916,10 +3916,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
-      "\"Jupiter is the largest planet.\"",
-      "\"Jupiter is scary.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Jupiter is the largest planet.",
+      "Jupiter is scary.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3937,10 +3937,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
-      "\"Gold does not rust.\"",
-      "\"Gold is the best metal.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Gold does not rust.",
+      "Gold is the best metal.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3958,10 +3958,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
-      "\"A dozen is twelve units.\"",
-      "\"Dozen is a lucky number.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "A dozen is twelve units.",
+      "Dozen is a lucky number.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -3979,10 +3979,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
-      "\"The Nile is in Africa.\"",
-      "\"The Nile is peaceful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "The Nile is in Africa.",
+      "The Nile is peaceful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -4000,10 +4000,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
-      "\"DNA stores genetic info.\"",
-      "\"DNA is beautiful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "DNA stores genetic info.",
+      "DNA is beautiful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -4021,10 +4021,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
-      "\"Jupiter is the largest planet.\"",
-      "\"Jupiter is scary.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Jupiter is the largest planet.",
+      "Jupiter is scary.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -4042,10 +4042,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
-      "\"Gold does not rust.\"",
-      "\"Gold is the best metal.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Gold does not rust.",
+      "Gold is the best metal.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -4063,10 +4063,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
-      "\"A dozen is twelve units.\"",
-      "\"Dozen is a lucky number.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "A dozen is twelve units.",
+      "Dozen is a lucky number.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -4084,10 +4084,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
-      "\"The Nile is in Africa.\"",
-      "\"The Nile is peaceful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "The Nile is in Africa.",
+      "The Nile is peaceful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -4105,10 +4105,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
-      "\"DNA stores genetic info.\"",
-      "\"DNA is beautiful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "DNA stores genetic info.",
+      "DNA is beautiful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -4126,10 +4126,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
-      "\"Jupiter is the largest planet.\"",
-      "\"Jupiter is scary.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Jupiter is the largest planet.",
+      "Jupiter is scary.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -4147,10 +4147,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
-      "\"Gold does not rust.\"",
-      "\"Gold is the best metal.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "Gold does not rust.",
+      "Gold is the best metal.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -4168,10 +4168,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
-      "\"A dozen is twelve units.\"",
-      "\"Dozen is a lucky number.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "A dozen is twelve units.",
+      "Dozen is a lucky number.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -4189,10 +4189,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "subLevel": SubLevel.INTERMEDIATE,
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
-      "\"The Nile is in Africa.\"",
-      "\"The Nile is peaceful.\"",
-      "\"Opinions are facts.\"",
-      "\"Depends.\""
+      "The Nile is in Africa.",
+      "The Nile is peaceful.",
+      "Opinions are facts.",
+      "Depends."
     ],
     "correct_option_index": 0,
     "explanation": "Facts can be verified independently.",
@@ -6313,14 +6313,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces affirmations est un argument (conclusion + raison) \u00e0 propos des plastiques \u00e0 usage unique ?",
     "options": [
-      "\"Les plastiques \u00e0 usage unique sont partout.\"",
-      "\"Nous devrions les interdire parce qu'ils encombrent les oc\u00e9ans.\"",
-      "\"Je n'aime pas les sacs de courses.\"",
-      "\"Le film plastique existe dans tous les magasins.\""
+      "Les plastiques \u00e0 usage unique sont partout.",
+      "Nous devrions les interdire parce qu'ils encombrent les oc\u00e9ans.",
+      "Je n'aime pas les sacs de courses.",
+      "Le film plastique existe dans tous les magasins."
     ],
     "correct_option_index": 1,
     "explanation": "Un argument relie une conclusion \u00e0 une raison qui la soutient.",
-    "detailedExplanationBeginner": "\"Ils encombrent les oc\u00e9ans\" est donn\u00e9 comme raison pour interdire ces plastiques.",
+    "detailedExplanationBeginner": "Ils encombrent les oc\u00e9ans" est donn\u00e9 comme raison pour interdire ces plastiques.",
     "detailedExplanationIntermediate": "Conclusion (les interdire) adoss\u00e9e \u00e0 un fait (ils obstruent les oc\u00e9ans).",
     "detailedExplanationExpert": "Recommandation appuy\u00e9e sur une pr\u00e9misse environnementale : Pr\u00e9misse \u2192 Politique.",
     "questionFormat": "standard"
@@ -6334,10 +6334,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces affirmations est un argument sur le probl\u00e8me du bus en retard ?",
     "options": [
-      "\"Le bus est en retard chaque matin, donc l'appli doit afficher les horaires en temps r\u00e9el.\"",
-      "\"Les bus devraient \u00eatre peints en bleu.\"",
-      "\"J'aime prendre le bus.\"",
-      "\"L'application de bus existe.\""
+      "Le bus est en retard chaque matin, donc l'appli doit afficher les horaires en temps r\u00e9el.",
+      "Les bus devraient \u00eatre peints en bleu.",
+      "J'aime prendre le bus.",
+      "L'application de bus existe."
     ],
     "correct_option_index": 0,
     "explanation": "Un argument associe une raison (retards quotidiens) \u00e0 une conclusion (ajouter le temps r\u00e9el).",
@@ -6355,10 +6355,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces affirmations est un argument \u00e0 propos du Wi-Fi du campus ?",
     "options": [
-      "\"Le Wi-Fi du campus coupe sans arr\u00eat, donc l'universit\u00e9 devrait ajouter des points d'acc\u00e8s.\"",
-      "\"Je d\u00e9teste perdre le Wi-Fi.\"",
-      "\"Le Wi-Fi existe sur le campus.\"",
-      "\"Le sans-fil est mieux que le c\u00e2bl\u00e9.\""
+      "Le Wi-Fi du campus coupe sans arr\u00eat, donc l'universit\u00e9 devrait ajouter des points d'acc\u00e8s.",
+      "Je d\u00e9teste perdre le Wi-Fi.",
+      "Le Wi-Fi existe sur le campus.",
+      "Le sans-fil est mieux que le c\u00e2bl\u00e9."
     ],
     "correct_option_index": 0,
     "explanation": "L'argument pr\u00e9sente un constat (coupures) et une conclusion (ajouter des points d'acc\u00e8s).",
@@ -6376,10 +6376,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces affirmations est un argument \u00e0 propos des distributeurs sur le campus ?",
     "options": [
-      "\"Les distributeurs sont vides, donc il faut les recharger deux fois par jour.\"",
-      "\"Je pr\u00e9f\u00e8re les snacks.\"",
-      "\"Les distributeurs existent.\"",
-      "\"Les snacks sont meilleurs que les salades.\""
+      "Les distributeurs sont vides, donc il faut les recharger deux fois par jour.",
+      "Je pr\u00e9f\u00e8re les snacks.",
+      "Les distributeurs existent.",
+      "Les snacks sont meilleurs que les salades."
     ],
     "correct_option_index": 0,
     "explanation": "Relie un constat (distributeurs vides) \u00e0 une action (recharger plus souvent).",
@@ -6397,10 +6397,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces affirmations est un argument sur les horaires de biblioth\u00e8que pendant les partiels ?",
     "options": [
-      "\"La biblioth\u00e8que est bond\u00e9e pendant les partiels, donc elle devrait fermer \u00e0 minuit.\"",
-      "\"J'adore les biblioth\u00e8ques.\"",
-      "\"Il y a des livres \u00e0 tous les \u00e9tages.\"",
-      "\"Minuit est une heure sympa.\""
+      "La biblioth\u00e8que est bond\u00e9e pendant les partiels, donc elle devrait fermer \u00e0 minuit.",
+      "J'adore les biblioth\u00e8ques.",
+      "Il y a des livres \u00e0 tous les \u00e9tages.",
+      "Minuit est une heure sympa."
     ],
     "correct_option_index": 0,
     "explanation": "Donne une raison (affluence) pour justifier une politique (fermer plus tard).",
@@ -6418,10 +6418,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces affirmations est un argument sur la s\u00e9curit\u00e9 des pistes cyclables ?",
     "options": [
-      "\"La piste cyclable dispara\u00eet aux carrefours et pousse les cyclistes dans la circulation; la ville doit la prolonger.\"",
-      "\"Les v\u00e9los, c'est amusant.\"",
-      "\"Les pistes cyclables sont peintes.\"",
-      "\"Il existe des carrefours.\""
+      "La piste cyclable dispara\u00eet aux carrefours et pousse les cyclistes dans la circulation; la ville doit la prolonger.",
+      "Les v\u00e9los, c'est amusant.",
+      "Les pistes cyclables sont peintes.",
+      "Il existe des carrefours."
     ],
     "correct_option_index": 0,
     "explanation": "Raison (fin de piste dangereuse) + conclusion (terminer la piste aux croisements).",
@@ -6439,10 +6439,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces affirmations est un argument sur la modernisation des lampadaires ?",
     "options": [
-      "\"Les LED consomment moins, donc la ville devrait r\u00e9nover les lampadaires.\"",
-      "\"Les lampadaires sont hauts.\"",
-      "\"J'aime la lumi\u00e8re vive.\"",
-      "\"L'\u00e9lectricit\u00e9 existe.\""
+      "Les LED consomment moins, donc la ville devrait r\u00e9nover les lampadaires.",
+      "Les lampadaires sont hauts.",
+      "J'aime la lumi\u00e8re vive.",
+      "L'\u00e9lectricit\u00e9 existe."
     ],
     "correct_option_index": 0,
     "explanation": "Raison (les LED \u00e9conomisent l'\u00e9nergie) \u2192 conclusion (r\u00e9nover les lampadaires).",
@@ -6460,10 +6460,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces affirmations est un argument sur le gaspillage \u00e0 la caf\u00e9t\u00e9ria ?",
     "options": [
-      "\"Les \u00e9tudiants jettent des plateaux intacts, donc la caf\u00e9t\u00e9ria devrait proposer des portions plus petites.\"",
-      "\"Les caf\u00e9t\u00e9rias existent.\"",
-      "\"Je pr\u00e9f\u00e8re le dessert.\"",
-      "\"Le gaspillage, c'est triste.\""
+      "Les \u00e9tudiants jettent des plateaux intacts, donc la caf\u00e9t\u00e9ria devrait proposer des portions plus petites.",
+      "Les caf\u00e9t\u00e9rias existent.",
+      "Je pr\u00e9f\u00e8re le dessert.",
+      "Le gaspillage, c'est triste."
     ],
     "correct_option_index": 0,
     "explanation": "Relie un fait (on jette des repas) \u00e0 une solution (choisir des petites portions).",
@@ -6479,18 +6479,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Oc\u00e9anographie",
+    "question": "Laquelle de ces affirmations est un argument sur les voitures hybrides et la qualité de l'air ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Oc\u00e9anographie.\"",
-      "\"Oc\u00e9anographie est d\u00e9finitivement mieux.\"",
-      "\"La mar\u00e9e monte, donc la plage va r\u00e9tr\u00e9cir.\"",
-      "\"Oc\u00e9anographie existe.\""
+      "Les voitures hybrides sont très silencieuses.",
+      "Les voitures hybrides réduisent les émissions, donc elles améliorent la qualité de l'air local.",
+      "Je préfère conduire des hybrides.",
+      "La technologie hybride existe."
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'La mar\u00e9e monte' pour soutenir 'la plage va r\u00e9tr\u00e9cir'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 1,
+    "explanation": "Un argument propose une prémisse (réduction des émissions) pour soutenir une conclusion (amélioration de la qualité de l'air).",
+    "detailedExplanationBeginner": "Le fait que les hybrides réduisent les émissions est utilisé comme raison pour expliquer pourquoi elles rendent notre air plus pur.",
+    "detailedExplanationIntermediate": "Lien causal établi : Moins d'émissions (prémisse) mène à un meilleur air (conclusion).",
+    "detailedExplanationExpert": "Justification environnementale : L'efficacité de la réduction des émissions est le fondement de l'affirmation sur la qualité de l'air.",
     "questionFormat": "standard"
   },
   {
@@ -6500,18 +6500,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Astronomie",
+    "question": "Laquelle de ces affirmations est un argument sur le télétravail et les frais généraux ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Astronomie.\"",
-      "\"Astronomie est d\u00e9finitivement mieux.\"",
-      "\"La lumi\u00e8re prend du temps pour voyager, donc nous voyons les \u00e9toiles telles qu'elles \u00e9taient.\"",
-      "\"Astronomie existe.\""
+      "Le télétravail utilise des appels vidéo.",
+      "Le télétravail réduit le besoin de bureaux, donc il diminue les frais généraux.",
+      "J'aime travailler depuis mon canapé.",
+      "Les bureaux existent dans les villes."
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'La lumi\u00e8re prend du temps pour voyager' pour soutenir 'nous voyons les \u00e9toiles telles qu'elles \u00e9taient'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 1,
+    "explanation": "Utilise une prémisse (moins de bureaux nécessaires) pour justifier une conclusion financière (coûts plus bas).",
+    "detailedExplanationBeginner": "Comme les entreprises ont besoin de moins d'espace, elles économisent sur le loyer et les charges.",
+    "detailedExplanationIntermediate": "Raisonnement économique : Une moindre demande immobilière (donnée) soutient la réduction des coûts (thèse).",
+    "detailedExplanationExpert": "Analyse de réduction des coûts : La diminution des besoins en infrastructure est la base logique de la conclusion fiscale.",
     "questionFormat": "standard"
   },
   {
@@ -6521,18 +6521,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Physique",
+    "question": "Laquelle de ces affirmations est un argument sur l'agriculture biologique et la santé des sols ?",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Physique.\"",
-      "\"Physique est d\u00e9finitivement mieux.\"",
-      "\"La gravit\u00e9 tire les objets vers le bas, donc la pomme tombera.\"",
-      "\"Physique existe.\""
+      "L'agriculture bio évite les pesticides de synthèse, donc elle préserve la santé du sol à long terme.",
+      "Les pommes bio sont jolies.",
+      "Je préfère le lait biologique.",
+      "Le sol existe sous plusieurs types."
     ],
-    "correct_option_index": 2,
-    "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'La gravit\u00e9 tire les objets vers le bas' pour soutenir 'la pomme tombera'.",
-    "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
-    "detailedExplanationExpert": "Structure P \u2192 Q.",
+    "correct_option_index": 0,
+    "explanation": "Relie une méthode agricole (pas de pesticides de synthèse) à un résultat biologique (santé du sol).",
+    "detailedExplanationBeginner": "En n'utilisant pas de produits chimiques agressifs, la ferme préserve la vie naturelle du sol.",
+    "detailedExplanationIntermediate": "Justification écologique : Le choix méthodologique (prémisse) soutient la durabilité (conclusion).",
+    "detailedExplanationExpert": "Fondement biochimique : L'absence de produits de synthèse soutient la thèse de la longévité microbienne du sol.",
     "questionFormat": "standard"
   },
   {
@@ -6544,10 +6544,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Linguistique",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Linguistique.\"",
-      "\"Linguistique est d\u00e9finitivement mieux.\"",
-      "\"La pratique am\u00e9liore l'aisance, donc tu devrais parler tous les jours.\"",
-      "\"Linguistique existe.\""
+      "Je pr\u00e9f\u00e8re Linguistique.",
+      "Linguistique est d\u00e9finitivement mieux.",
+      "La pratique am\u00e9liore l'aisance, donc tu devrais parler tous les jours.",
+      "Linguistique existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6565,10 +6565,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Technologie",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Technologie.\"",
-      "\"Technologie est d\u00e9finitivement mieux.\"",
-      "\"Le routeur est \u00e9teint, donc le Wi-Fi ne fonctionnera pas.\"",
-      "\"Technologie existe.\""
+      "Je pr\u00e9f\u00e8re Technologie.",
+      "Technologie est d\u00e9finitivement mieux.",
+      "Le routeur est \u00e9teint, donc le Wi-Fi ne fonctionnera pas.",
+      "Technologie existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6586,10 +6586,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Histoire",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Histoire.\"",
-      "\"Histoire est d\u00e9finitivement mieux.\"",
-      "\"Les art\u00e9facts sont fragiles, donc ils n\u00e9cessitent une manipulation prudente.\"",
-      "\"Histoire existe.\""
+      "Je pr\u00e9f\u00e8re Histoire.",
+      "Histoire est d\u00e9finitivement mieux.",
+      "Les art\u00e9facts sont fragiles, donc ils n\u00e9cessitent une manipulation prudente.",
+      "Histoire existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6607,10 +6607,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Art",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Art.\"",
-      "\"Art est d\u00e9finitivement mieux.\"",
-      "\"Le rouge et le bleu font du violet, donc m\u00e9langez-les pour du violet.\"",
-      "\"Art existe.\""
+      "Je pr\u00e9f\u00e8re Art.",
+      "Art est d\u00e9finitivement mieux.",
+      "Le rouge et le bleu font du violet, donc m\u00e9langez-les pour du violet.",
+      "Art existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6628,10 +6628,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Circulation",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Circulation.\"",
-      "\"Circulation est d\u00e9finitivement mieux.\"",
-      "\"Le feu est rouge, donc les conducteurs doivent s'arr\u00eater.\"",
-      "\"Circulation existe.\""
+      "Je pr\u00e9f\u00e8re Circulation.",
+      "Circulation est d\u00e9finitivement mieux.",
+      "Le feu est rouge, donc les conducteurs doivent s'arr\u00eater.",
+      "Circulation existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6649,10 +6649,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Biologie",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Biologie.\"",
-      "\"Biologie est d\u00e9finitivement mieux.\"",
-      "\"Le manque de sommeil affecte la concentration, donc les \u00e9tudiants doivent se reposer.\"",
-      "\"Biologie existe.\""
+      "Je pr\u00e9f\u00e8re Biologie.",
+      "Biologie est d\u00e9finitivement mieux.",
+      "Le manque de sommeil affecte la concentration, donc les \u00e9tudiants doivent se reposer.",
+      "Biologie existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6670,10 +6670,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : \u00c9conomie",
     "options": [
-      "\"Je pr\u00e9f\u00e8re \u00c9conomie.\"",
-      "\"\u00c9conomie est d\u00e9finitivement mieux.\"",
-      "\"L'offre est faible, donc les prix augmenteront.\"",
-      "\"\u00c9conomie existe.\""
+      "Je pr\u00e9f\u00e8re \u00c9conomie.",
+      "\u00c9conomie est d\u00e9finitivement mieux.",
+      "L'offre est faible, donc les prix augmenteront.",
+      "\u00c9conomie existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6691,10 +6691,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Zoologie",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Zoologie.\"",
-      "\"Zoologie est d\u00e9finitivement mieux.\"",
-      "\"Les chiens sont sociaux, donc ils ont besoin de compagnie.\"",
-      "\"Zoologie existe.\""
+      "Je pr\u00e9f\u00e8re Zoologie.",
+      "Zoologie est d\u00e9finitivement mieux.",
+      "Les chiens sont sociaux, donc ils ont besoin de compagnie.",
+      "Zoologie existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6712,10 +6712,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Musique",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Musique.\"",
-      "\"Musique est d\u00e9finitivement mieux.\"",
-      "\"La guitare n'est pas accord\u00e9e, donc elle sonnera mal.\"",
-      "\"Musique existe.\""
+      "Je pr\u00e9f\u00e8re Musique.",
+      "Musique est d\u00e9finitivement mieux.",
+      "La guitare n'est pas accord\u00e9e, donc elle sonnera mal.",
+      "Musique existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6733,10 +6733,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Cuisine (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Cuisine (2).\"",
-      "\"Cuisine (2) est d\u00e9finitivement mieux.\"",
-      "\"Le four est trop chaud, donc le g\u00e2teau va br\u00fbler.\"",
-      "\"Cuisine (2) existe.\""
+      "Je pr\u00e9f\u00e8re Cuisine (2).",
+      "Cuisine (2) est d\u00e9finitivement mieux.",
+      "Le four est trop chaud, donc le g\u00e2teau va br\u00fbler.",
+      "Cuisine (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6754,10 +6754,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Course (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Course (2).\"",
-      "\"Course (2) est d\u00e9finitivement mieux.\"",
-      "\"Tu t'es entra\u00een\u00e9 dur, donc tu finiras plus vite.\"",
-      "\"Course (2) existe.\""
+      "Je pr\u00e9f\u00e8re Course (2).",
+      "Course (2) est d\u00e9finitivement mieux.",
+      "Tu t'es entra\u00een\u00e9 dur, donc tu finiras plus vite.",
+      "Course (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6775,10 +6775,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : M\u00e9t\u00e9o (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re M\u00e9t\u00e9o (2).\"",
-      "\"M\u00e9t\u00e9o (2) est d\u00e9finitivement mieux.\"",
-      "\"Les nuages sont sombres, donc il va pleuvoir.\"",
-      "\"M\u00e9t\u00e9o (2) existe.\""
+      "Je pr\u00e9f\u00e8re M\u00e9t\u00e9o (2).",
+      "M\u00e9t\u00e9o (2) est d\u00e9finitivement mieux.",
+      "Les nuages sont sombres, donc il va pleuvoir.",
+      "M\u00e9t\u00e9o (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6796,10 +6796,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Automobile (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Automobile (2).\"",
-      "\"Automobile (2) est d\u00e9finitivement mieux.\"",
-      "\"La batterie est vide, donc la voiture ne d\u00e9marrera pas.\"",
-      "\"Automobile (2) existe.\""
+      "Je pr\u00e9f\u00e8re Automobile (2).",
+      "Automobile (2) est d\u00e9finitivement mieux.",
+      "La batterie est vide, donc la voiture ne d\u00e9marrera pas.",
+      "Automobile (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6817,10 +6817,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Botanique (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Botanique (2).\"",
-      "\"Botanique (2) est d\u00e9finitivement mieux.\"",
-      "\"Les plantes ont besoin de lumi\u00e8re, donc elles devraient \u00eatre pr\u00e8s de la fen\u00eatre.\"",
-      "\"Botanique (2) existe.\""
+      "Je pr\u00e9f\u00e8re Botanique (2).",
+      "Botanique (2) est d\u00e9finitivement mieux.",
+      "Les plantes ont besoin de lumi\u00e8re, donc elles devraient \u00eatre pr\u00e8s de la fen\u00eatre.",
+      "Botanique (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6838,10 +6838,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Biblioth\u00e8que (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Biblioth\u00e8que (2).\"",
-      "\"Biblioth\u00e8que (2) est d\u00e9finitivement mieux.\"",
-      "\"Le silence est requis, donc nous devons parler bas.\"",
-      "\"Biblioth\u00e8que (2) existe.\""
+      "Je pr\u00e9f\u00e8re Biblioth\u00e8que (2).",
+      "Biblioth\u00e8que (2) est d\u00e9finitivement mieux.",
+      "Le silence est requis, donc nous devons parler bas.",
+      "Biblioth\u00e8que (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6859,10 +6859,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Sant\u00e9 (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Sant\u00e9 (2).\"",
-      "\"Sant\u00e9 (2) est d\u00e9finitivement mieux.\"",
-      "\"L'exercice am\u00e9liore la sant\u00e9, donc nous devrions marcher quotidiennement.\"",
-      "\"Sant\u00e9 (2) existe.\""
+      "Je pr\u00e9f\u00e8re Sant\u00e9 (2).",
+      "Sant\u00e9 (2) est d\u00e9finitivement mieux.",
+      "L'exercice am\u00e9liore la sant\u00e9, donc nous devrions marcher quotidiennement.",
+      "Sant\u00e9 (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6880,10 +6880,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Math\u00e9matiques (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Math\u00e9matiques (2).\"",
-      "\"Math\u00e9matiques (2) est d\u00e9finitivement mieux.\"",
-      "\"X est \u00e9gal \u00e0 5, donc X plus 2 est \u00e9gal \u00e0 7.\"",
-      "\"Math\u00e9matiques (2) existe.\""
+      "Je pr\u00e9f\u00e8re Math\u00e9matiques (2).",
+      "Math\u00e9matiques (2) est d\u00e9finitivement mieux.",
+      "X est \u00e9gal \u00e0 5, donc X plus 2 est \u00e9gal \u00e0 7.",
+      "Math\u00e9matiques (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6901,10 +6901,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Oc\u00e9anographie (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Oc\u00e9anographie (2).\"",
-      "\"Oc\u00e9anographie (2) est d\u00e9finitivement mieux.\"",
-      "\"La mar\u00e9e monte, donc la plage va r\u00e9tr\u00e9cir.\"",
-      "\"Oc\u00e9anographie (2) existe.\""
+      "Je pr\u00e9f\u00e8re Oc\u00e9anographie (2).",
+      "Oc\u00e9anographie (2) est d\u00e9finitivement mieux.",
+      "La mar\u00e9e monte, donc la plage va r\u00e9tr\u00e9cir.",
+      "Oc\u00e9anographie (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6922,10 +6922,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Astronomie (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Astronomie (2).\"",
-      "\"Astronomie (2) est d\u00e9finitivement mieux.\"",
-      "\"La lumi\u00e8re prend du temps pour voyager, donc nous voyons les \u00e9toiles telles qu'elles \u00e9taient.\"",
-      "\"Astronomie (2) existe.\""
+      "Je pr\u00e9f\u00e8re Astronomie (2).",
+      "Astronomie (2) est d\u00e9finitivement mieux.",
+      "La lumi\u00e8re prend du temps pour voyager, donc nous voyons les \u00e9toiles telles qu'elles \u00e9taient.",
+      "Astronomie (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6943,10 +6943,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Physique (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Physique (2).\"",
-      "\"Physique (2) est d\u00e9finitivement mieux.\"",
-      "\"La gravit\u00e9 tire les objets vers le bas, donc la pomme tombera.\"",
-      "\"Physique (2) existe.\""
+      "Je pr\u00e9f\u00e8re Physique (2).",
+      "Physique (2) est d\u00e9finitivement mieux.",
+      "La gravit\u00e9 tire les objets vers le bas, donc la pomme tombera.",
+      "Physique (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6964,10 +6964,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Linguistique (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Linguistique (2).\"",
-      "\"Linguistique (2) est d\u00e9finitivement mieux.\"",
-      "\"La pratique am\u00e9liore l'aisance, donc tu devrais parler tous les jours.\"",
-      "\"Linguistique (2) existe.\""
+      "Je pr\u00e9f\u00e8re Linguistique (2).",
+      "Linguistique (2) est d\u00e9finitivement mieux.",
+      "La pratique am\u00e9liore l'aisance, donc tu devrais parler tous les jours.",
+      "Linguistique (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -6985,10 +6985,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Technologie (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Technologie (2).\"",
-      "\"Technologie (2) est d\u00e9finitivement mieux.\"",
-      "\"Le routeur est \u00e9teint, donc le Wi-Fi ne fonctionnera pas.\"",
-      "\"Technologie (2) existe.\""
+      "Je pr\u00e9f\u00e8re Technologie (2).",
+      "Technologie (2) est d\u00e9finitivement mieux.",
+      "Le routeur est \u00e9teint, donc le Wi-Fi ne fonctionnera pas.",
+      "Technologie (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -7006,10 +7006,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Histoire (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Histoire (2).\"",
-      "\"Histoire (2) est d\u00e9finitivement mieux.\"",
-      "\"Les art\u00e9facts sont fragiles, donc ils n\u00e9cessitent une manipulation prudente.\"",
-      "\"Histoire (2) existe.\""
+      "Je pr\u00e9f\u00e8re Histoire (2).",
+      "Histoire (2) est d\u00e9finitivement mieux.",
+      "Les art\u00e9facts sont fragiles, donc ils n\u00e9cessitent une manipulation prudente.",
+      "Histoire (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -7027,10 +7027,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Art (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Art (2).\"",
-      "\"Art (2) est d\u00e9finitivement mieux.\"",
-      "\"Le rouge et le bleu font du violet, donc m\u00e9langez-les pour du violet.\"",
-      "\"Art (2) existe.\""
+      "Je pr\u00e9f\u00e8re Art (2).",
+      "Art (2) est d\u00e9finitivement mieux.",
+      "Le rouge et le bleu font du violet, donc m\u00e9langez-les pour du violet.",
+      "Art (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -7048,10 +7048,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Circulation (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Circulation (2).\"",
-      "\"Circulation (2) est d\u00e9finitivement mieux.\"",
-      "\"Le feu est rouge, donc les conducteurs doivent s'arr\u00eater.\"",
-      "\"Circulation (2) existe.\""
+      "Je pr\u00e9f\u00e8re Circulation (2).",
+      "Circulation (2) est d\u00e9finitivement mieux.",
+      "Le feu est rouge, donc les conducteurs doivent s'arr\u00eater.",
+      "Circulation (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -7069,10 +7069,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Biologie (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Biologie (2).\"",
-      "\"Biologie (2) est d\u00e9finitivement mieux.\"",
-      "\"Le manque de sommeil affecte la concentration, donc les \u00e9tudiants doivent se reposer.\"",
-      "\"Biologie (2) existe.\""
+      "Je pr\u00e9f\u00e8re Biologie (2).",
+      "Biologie (2) est d\u00e9finitivement mieux.",
+      "Le manque de sommeil affecte la concentration, donc les \u00e9tudiants doivent se reposer.",
+      "Biologie (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -7090,10 +7090,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : \u00c9conomie (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re \u00c9conomie (2).\"",
-      "\"\u00c9conomie (2) est d\u00e9finitivement mieux.\"",
-      "\"L'offre est faible, donc les prix augmenteront.\"",
-      "\"\u00c9conomie (2) existe.\""
+      "Je pr\u00e9f\u00e8re \u00c9conomie (2).",
+      "\u00c9conomie (2) est d\u00e9finitivement mieux.",
+      "L'offre est faible, donc les prix augmenteront.",
+      "\u00c9conomie (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -7111,10 +7111,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) \u00e0 propos du bruit en ville ?",
     "options": [
-      "\"La ville a un r\u00e8glement sur le bruit.\"",
-      "\"Je d\u00e9teste \u00e0 quel point ma rue est bruyante.\"",
-      "\"Parce que la circulation nocturne emp\u00eache les habitants de dormir, la ville devrait instaurer des heures calmes.\"",
-      "\"Il y a des plaintes pour bruit dans tous les quartiers.\""
+      "La ville a un r\u00e8glement sur le bruit.",
+      "Je d\u00e9teste \u00e0 quel point ma rue est bruyante.",
+      "Parce que la circulation nocturne emp\u00eache les habitants de dormir, la ville devrait instaurer des heures calmes.",
+      "Il y a des plaintes pour bruit dans tous les quartiers."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument pr\u00e9sente une pr\u00e9misse pour soutenir une conclusion.",
@@ -7132,10 +7132,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Musique (2)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Musique (2).\"",
-      "\"Musique (2) est d\u00e9finitivement mieux.\"",
-      "\"La guitare n'est pas accord\u00e9e, donc elle sonnera mal.\"",
-      "\"Musique (2) existe.\""
+      "Je pr\u00e9f\u00e8re Musique (2).",
+      "Musique (2) est d\u00e9finitivement mieux.",
+      "La guitare n'est pas accord\u00e9e, donc elle sonnera mal.",
+      "Musique (2) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -7153,10 +7153,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Cuisine (3)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Cuisine (3).\"",
-      "\"Cuisine (3) est d\u00e9finitivement mieux.\"",
-      "\"Le four est trop chaud, donc le g\u00e2teau va br\u00fbler.\"",
-      "\"Cuisine (3) existe.\""
+      "Je pr\u00e9f\u00e8re Cuisine (3).",
+      "Cuisine (3) est d\u00e9finitivement mieux.",
+      "Le four est trop chaud, donc le g\u00e2teau va br\u00fbler.",
+      "Cuisine (3) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -7174,10 +7174,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Course (3)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Course (3).\"",
-      "\"Course (3) est d\u00e9finitivement mieux.\"",
-      "\"Tu t'es entra\u00een\u00e9 dur, donc tu finiras plus vite.\"",
-      "\"Course (3) existe.\""
+      "Je pr\u00e9f\u00e8re Course (3).",
+      "Course (3) est d\u00e9finitivement mieux.",
+      "Tu t'es entra\u00een\u00e9 dur, donc tu finiras plus vite.",
+      "Course (3) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -7195,10 +7195,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : M\u00e9t\u00e9o (3)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re M\u00e9t\u00e9o (3).\"",
-      "\"M\u00e9t\u00e9o (3) est d\u00e9finitivement mieux.\"",
-      "\"Les nuages sont sombres, donc il va pleuvoir.\"",
-      "\"M\u00e9t\u00e9o (3) existe.\""
+      "Je pr\u00e9f\u00e8re M\u00e9t\u00e9o (3).",
+      "M\u00e9t\u00e9o (3) est d\u00e9finitivement mieux.",
+      "Les nuages sont sombres, donc il va pleuvoir.",
+      "M\u00e9t\u00e9o (3) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -7216,10 +7216,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces affirmations est un argument sur la s\u00e9curisation des outils du jardin partag\u00e9 ?",
     "options": [
-      "\"Il faut construire un abri verrouillable parce que les outils disparaissent.\"",
-      "\"J'adore jardiner.\"",
-      "\"Les jardins partag\u00e9s sont sympas.\"",
-      "\"Les outils sont brillants.\""
+      "Il faut construire un abri verrouillable parce que les outils disparaissent.",
+      "J'adore jardiner.",
+      "Les jardins partag\u00e9s sont sympas.",
+      "Les outils sont brillants."
     ],
     "correct_option_index": 0,
     "explanation": "Raison (vols r\u00e9p\u00e9t\u00e9s) + conclusion (abri verrouillable).",
@@ -7237,10 +7237,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces affirmations est un argument sur la surveillance du ciel nocturne avant les temp\u00eates ?",
     "options": [
-      "\"Les m\u00e9t\u00e9orologues observent le ciel nocturne pour que les ports p\u00e9ch\u00e9s puissent alerter t\u00f4t les marins.\"",
-      "\"Le ciel est magnifique.\"",
-      "\"Les \u00e9toiles existent.\"",
-      "\"Les t\u00e9l\u00e9scopes sont chers.\""
+      "Les m\u00e9t\u00e9orologues observent le ciel nocturne pour que les ports p\u00e9ch\u00e9s puissent alerter t\u00f4t les marins.",
+      "Le ciel est magnifique.",
+      "Les \u00e9toiles existent.",
+      "Les t\u00e9l\u00e9scopes sont chers."
     ],
     "correct_option_index": 0,
     "explanation": "Expose une raison (alerter t\u00f4t) li\u00e9e \u00e0 une action (surveiller le ciel).",
@@ -7258,10 +7258,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces affirmations est un argument sur le remplacement d'une fontaine \u00e0 eau d'\u00e9cole ?",
     "options": [
-      "\"Du plomb a \u00e9t\u00e9 d\u00e9tect\u00e9 dans la fontaine, donc l'\u00e9cole doit la remplacer imm\u00e9diatement.\"",
-      "\"Les fontaines brillent.\"",
-      "\"Je pr\u00e9f\u00e8re l'eau en bouteille.\"",
-      "\"L'\u00e9cole a des couloirs.\""
+      "Du plomb a \u00e9t\u00e9 d\u00e9tect\u00e9 dans la fontaine, donc l'\u00e9cole doit la remplacer imm\u00e9diatement.",
+      "Les fontaines brillent.",
+      "Je pr\u00e9f\u00e8re l'eau en bouteille.",
+      "L'\u00e9cole a des couloirs."
     ],
     "correct_option_index": 0,
     "explanation": "Relie un constat (pr\u00e9sence de plomb) \u00e0 une conclusion (remplacer la fontaine).",
@@ -7279,10 +7279,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces affirmations est un argument pour r\u00e9duire la file d'attente en soutien psychologique ?",
     "options": [
-      "\"L'attente en consultation est de six semaines, donc l'universit\u00e9 devrait embaucher un th\u00e9rapeute suppl\u00e9mentaire.\"",
-      "\"Les bureaux de consultation ont des chaises.\"",
-      "\"Les th\u00e9rapeutes ont \u00e9tudi\u00e9 la psychologie.\"",
-      "\"J'aime les salles calmes.\""
+      "L'attente en consultation est de six semaines, donc l'universit\u00e9 devrait embaucher un th\u00e9rapeute suppl\u00e9mentaire.",
+      "Les bureaux de consultation ont des chaises.",
+      "Les th\u00e9rapeutes ont \u00e9tudi\u00e9 la psychologie.",
+      "J'aime les salles calmes."
     ],
     "correct_option_index": 0,
     "explanation": "Raison (six semaines d'attente) \u2192 conclusion (embaucher un th\u00e9rapeute de plus).",
@@ -7300,10 +7300,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Math\u00e9matiques (3)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Math\u00e9matiques (3).\"",
-      "\"Math\u00e9matiques (3) est d\u00e9finitivement mieux.\"",
-      "\"X est \u00e9gal \u00e0 5, donc X plus 2 est \u00e9gal \u00e0 7.\"",
-      "\"Math\u00e9matiques (3) existe.\""
+      "Je pr\u00e9f\u00e8re Math\u00e9matiques (3).",
+      "Math\u00e9matiques (3) est d\u00e9finitivement mieux.",
+      "X est \u00e9gal \u00e0 5, donc X plus 2 est \u00e9gal \u00e0 7.",
+      "Math\u00e9matiques (3) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -7321,10 +7321,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Oc\u00e9anographie (3)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Oc\u00e9anographie (3).\"",
-      "\"Oc\u00e9anographie (3) est d\u00e9finitivement mieux.\"",
-      "\"La mar\u00e9e monte, donc la plage va r\u00e9tr\u00e9cir.\"",
-      "\"Oc\u00e9anographie (3) existe.\""
+      "Je pr\u00e9f\u00e8re Oc\u00e9anographie (3).",
+      "Oc\u00e9anographie (3) est d\u00e9finitivement mieux.",
+      "La mar\u00e9e monte, donc la plage va r\u00e9tr\u00e9cir.",
+      "Oc\u00e9anographie (3) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
@@ -7342,10 +7342,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": SubLevel.BEGINNER,
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Astronomie (3)",
     "options": [
-      "\"Je pr\u00e9f\u00e8re Astronomie (3).\"",
-      "\"Astronomie (3) est d\u00e9finitivement mieux.\"",
-      "\"La lumi\u00e8re prend du temps pour voyager, donc nous voyons les \u00e9toiles telles qu'elles \u00e9taient.\"",
-      "\"Astronomie (3) existe.\""
+      "Je pr\u00e9f\u00e8re Astronomie (3).",
+      "Astronomie (3) est d\u00e9finitivement mieux.",
+      "La lumi\u00e8re prend du temps pour voyager, donc nous voyons les \u00e9toiles telles qu'elles \u00e9taient.",
+      "Astronomie (3) existe."
     ],
     "correct_option_index": 2,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",

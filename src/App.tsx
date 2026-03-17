@@ -509,7 +509,7 @@ const App: React.FC = () => {
         ) : view === 'glossary' ? (
           <Suspense fallback={<ViewLoading />}>
             <div className="max-w-4xl mx-auto">
-              <GlossaryView onBack={() => setView('hub')} />
+              <GlossaryView onBack={() => setView('hub')} onPlayClickSound={playClickSound} />
             </div>
           </Suspense>
         ) : showResult ? (
@@ -614,7 +614,7 @@ const App: React.FC = () => {
         <div className="fixed inset-0 z-[100] bg-slate-950 overflow-y-auto">
           <div className="container mx-auto px-4 py-8 max-w-4xl">
             <Suspense fallback={<ViewLoading />}>
-              <OperationsView onBack={() => setShowOperations(false)} />
+              <OperationsView onBack={() => setShowOperations(false)} onPlayClickSound={playClickSound} />
             </Suspense>
           </div>
         </div>
@@ -625,7 +625,7 @@ const App: React.FC = () => {
         <div className="fixed inset-0 z-[100] bg-slate-950 overflow-y-auto">
           <div className="container mx-auto px-4 py-8 max-w-4xl">
             <Suspense fallback={<ViewLoading />}>
-              <MethodsView onBack={() => setShowMethods(false)} />
+              <MethodsView onBack={() => setShowMethods(false)} onPlayClickSound={playClickSound} />
             </Suspense>
           </div>
         </div>
@@ -636,7 +636,7 @@ const App: React.FC = () => {
         <div className="fixed inset-0 z-[100] bg-slate-950 overflow-y-auto">
           <div className="container mx-auto px-4 py-8 max-w-4xl">
             <Suspense fallback={<ViewLoading />}>
-              <FlagsView onBack={() => setShowFlags(false)} />
+              <FlagsView onBack={() => setShowFlags(false)} onPlayClickSound={playClickSound} />
             </Suspense>
           </div>
         </div>
@@ -647,7 +647,7 @@ const App: React.FC = () => {
         <div className="fixed inset-0 z-[100] bg-slate-950 overflow-y-auto">
           <div className="container mx-auto px-4 py-8 max-w-4xl">
             <Suspense fallback={<ViewLoading />}>
-              <FlowView onBack={() => setShowFlow(false)} />
+              <FlowView onBack={() => setShowFlow(false)} onPlayClickSound={playClickSound} />
             </Suspense>
           </div>
         </div>
@@ -658,7 +658,7 @@ const App: React.FC = () => {
         <div className="fixed inset-0 z-[100] w-full min-h-screen bg-slate-950 overflow-y-auto">
           <div className="container mx-auto px-4 py-8 max-w-4xl">
             <Suspense fallback={<ViewLoading />}>
-              <ArgumentationView onBack={() => setShowArgumentation(false)} />
+              <ArgumentationView onBack={() => setShowArgumentation(false)} onPlayClickSound={playClickSound} />
             </Suspense>
           </div>
         </div>
@@ -821,6 +821,7 @@ const App: React.FC = () => {
           <IdSearchModal
             onClose={() => { setShowIdSearch(false); setIdSearchInitialId(null); }}
             onSaveToLog={saveToIdLog}
+            onPlayClickSound={playClickSound}
             initialId={idSearchInitialId ?? undefined}
           />
         </Suspense>
@@ -836,6 +837,7 @@ const App: React.FC = () => {
                 onBack={() => setView('hub')}
                 onSaveToIdLog={saveToIdLog}
                 savedIdLogIds={stats.idLog.map(entry => entry.id)}
+                onPlayClickSound={playClickSound}
               />
             </Suspense>
           </div>
@@ -850,6 +852,7 @@ const App: React.FC = () => {
               <IdLogView
                 entries={stats.idLog}
                 onClose={() => setShowIdLog(false)}
+                onPlayClickSound={playClickSound}
               />
             </Suspense>
           </div>
@@ -866,6 +869,7 @@ const App: React.FC = () => {
             onClose={() => setShowLevelSelector(false)}
             levelProgress={stats.levelProgress}
             correctPerLevel={stats.correctPerLevel}
+            onPlayClickSound={playClickSound}
             randomMode={randomMode}
           />
         </Suspense>

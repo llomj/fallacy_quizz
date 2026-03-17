@@ -13,9 +13,10 @@ interface HistoryLogProps {
   onBack: () => void;
   onSaveToIdLog?: (entry: { id: number; question: string; correctAnswer: string; explanation: string }) => void;
   savedIdLogIds?: number[];
+  onPlayClickSound?: () => void;
 }
 
-export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveToIdLog, savedIdLogIds = [] }) => {
+export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveToIdLog, savedIdLogIds = [], onPlayClickSound }) => {
   const { t, language } = useLanguage();
   const sortedHistory = [...history].sort((a, b) => b.timestamp - a.timestamp);
 
@@ -26,7 +27,7 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
           <i className="fas fa-book-open text-yellow-300"></i> {t('history.learningLog')}
         </h2>
         <button
-          onClick={onBack}
+          onClick={() => { onPlayClickSound?.(); onBack(); }}
           className="px-4 py-2 bg-white/5 hover:bg-white/10 rounded-xl text-sm font-bold transition-colors"
         >
           {t('history.backToHub')}
@@ -60,12 +61,15 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                   {onSaveToIdLog && (
                     <button
                       type="button"
-                      onClick={() => onSaveToIdLog({
-                        id: attempt.id,
-                        question: attempt.question,
-                        correctAnswer: attempt.correctOption,
-                        explanation: attempt.explanation
-                      })}
+                      onClick={() => {
+                        onPlayClickSound?.();
+                        onSaveToIdLog({
+                          id: attempt.id,
+                          question: attempt.question,
+                          correctAnswer: attempt.correctOption,
+                          explanation: attempt.explanation
+                        });
+                      }}
                       className={`p-1.5 rounded-lg transition-colors ${savedIdLogIds.includes(attempt.id)
                         ? 'bg-[#FF00FF]/20 text-[#FF00FF]'
                         : 'bg-white/5 text-slate-400 hover:bg-white/10 hover:text-yellow-300'

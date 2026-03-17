@@ -41,6 +41,7 @@ const flagsStyle = {
 
 interface FlagsViewProps {
   onBack: () => void;
+  onPlayClickSound?: () => void;
 }
 
 const FLAGS_EN = `# ----------------- ls -----------------
@@ -481,7 +482,7 @@ daemon-reload    Recharger config
 --all    Toutes branches
 --oneline    Format log court`;
 
-export const FlagsView: React.FC<FlagsViewProps> = ({ onBack }) => {
+export const FlagsView: React.FC<FlagsViewProps> = ({ onBack, onPlayClickSound }) => {
   const { language } = useLanguage();
   const content = language === 'fr' ? FLAGS_FR : FLAGS_EN;
 
@@ -493,7 +494,7 @@ export const FlagsView: React.FC<FlagsViewProps> = ({ onBack }) => {
           {language === 'fr' ? 'Référence des options' : 'Flags Reference'}
         </h2>
         <button
-          onClick={onBack}
+          onClick={() => { onPlayClickSound?.(); onBack(); }}
           className="px-4 py-2 bg-white/5 hover:bg-white/10 rounded-xl text-sm font-bold transition-colors"
         >
           {language === 'fr' ? 'Retour' : 'Back'}

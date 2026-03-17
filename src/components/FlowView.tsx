@@ -4,6 +4,7 @@ import { LEVELS } from '../constants';
 
 interface FlowViewProps {
   onBack: () => void;
+  onPlayClickSound?: () => void;
 }
 
 const Section: React.FC<{
@@ -43,7 +44,7 @@ const Pill: React.FC<{ label: string; color: string }> = ({ label, color }) => (
   </span>
 );
 
-export const FlowView: React.FC<FlowViewProps> = ({ onBack }) => {
+export const FlowView: React.FC<FlowViewProps> = ({ onBack, onPlayClickSound }) => {
   const { language } = useLanguage();
   const isFr = language === 'fr';
 
@@ -55,7 +56,7 @@ export const FlowView: React.FC<FlowViewProps> = ({ onBack }) => {
           {isFr ? 'Flux d’arguments & règles' : 'Argument Flow & Rules'}
         </h2>
         <button
-          onClick={onBack}
+          onClick={() => { onPlayClickSound?.(); onBack(); }}
           className="px-4 py-2 bg-white/5 hover:bg-white/10 rounded-xl text-sm font-bold transition-colors"
         >
           {isFr ? 'Retour' : 'Back'}

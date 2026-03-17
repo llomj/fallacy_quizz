@@ -5,6 +5,7 @@ import { oneDark } from 'react-syntax-highlighter/dist/esm/styles/prism';
 
 interface MethodsViewProps {
   onBack: () => void;
+  onPlayClickSound?: () => void;
 }
 
 const CHEAT_SHEET_EN = `# ----------------- Navigation -----------------
@@ -487,7 +488,7 @@ mktemp                 # Créer fichier temporaire
 time cmd               # Chronométrer exécution
 watch -n 1 cmd         # Exécuter cmd chaque 1 sec`;
 
-export const MethodsView: React.FC<MethodsViewProps> = ({ onBack }) => {
+export const MethodsView: React.FC<MethodsViewProps> = ({ onBack, onPlayClickSound }) => {
   const { language } = useLanguage();
   const content = language === 'fr' ? CHEAT_SHEET_FR : CHEAT_SHEET_EN;
 
@@ -499,7 +500,7 @@ export const MethodsView: React.FC<MethodsViewProps> = ({ onBack }) => {
           {language === 'fr' ? 'Référence des commandes' : 'Command Reference'}
         </h2>
         <button
-          onClick={onBack}
+          onClick={() => { onPlayClickSound?.(); onBack(); }}
           className="px-4 py-2 bg-white/5 hover:bg-white/10 rounded-xl text-sm font-bold transition-colors"
         >
           {language === 'fr' ? 'Retour' : 'Back'}
