@@ -2,9 +2,128 @@
  * Web Audio API sound effects for quiz feedback and star celebrations.
  * All functions are safe to call when AudioContext is unavailable or suspended.
  * Uses a shared AudioContext so it can be resumed once on user gesture and then play reliably.
+ *
+ * Quiz correct/wrong: PRIMARY = HTML5 Audio + in-memory WAV (iOS Safari / PWA often will not play
+ * oscillator-only SFX even after resume(); WAV + Audio.play() from tap is reliable). Web Audio = fallback.
  */
 
 let sharedContext: AudioContext | null = null;
+
+const SAMPLE_RATE_QUIZ = 22050;
+
+function encodeWavMono16(samples: Float32Array, sampleRate: number): ArrayBuffer {
+  const numSamples = samples.length;
+  const dataSize = numSamples * 2;
+  const buffer = new ArrayBuffer(44 + dataSize);
+  const v = new DataView(buffer);
+  const w = (off: number, s: string) => {
+    for (let i = 0; i < s.length; i++) v.setUint8(off + i, s.charCodeAt(i));
+  };
+  w(0, 'RIFF');
+  v.setUint32(4, 36 + dataSize, true);
+  w(8, 'WAVE');
+  w(12, 'fmt ');
+  v.setUint32(16, 16, true);
+  v.setUint16(20, 1, true);
+  v.setUint16(22, 1, true);
+  v.setUint32(24, sampleRate, true);
+  v.setUint32(28, sampleRate * 2, true);
+  v.setUint16(32, 2, true);
+  v.setUint16(34, 16, true);
+  w(36, 'data');
+  v.setUint32(40, dataSize, true);
+  let o = 44;
+  for (let i = 0; i < numSamples; i++) {
+    const x = Math.max(-1, Math.min(1, samples[i]));
+    v.setInt16(o, x < 0 ? x * 0x8000 : x * 0x7fff, true);
+    o += 2;
+  }
+  return buffer;
+}
+
+function buildWrongAnswerSamples(): Float32Array {
+  const sr = SAMPLE_RATE_QUIZ;
+  const dur = 0.48;
+  const n = Math.floor(sr * dur);
+  const samples = new Float32Array(n);
+  const freqs = [420, 310, 240];
+  const segment = dur / 3;
+  let phase = 0;
+  for (let i = 0; i < n; i++) {
+    const t = i / sr;
+    const seg = Math.min(2, Math.floor(t / segment));
+    const f = freqs[seg];
+    phase += (2 * Math.PI * f) / sr;
+    const env = Math.min(1, t * 50) * Math.min(1, (dur - t) * 50);
+    samples[i] = env * 0.48 * Math.sin(phase);
+  }
+  return samples;
+}
+
+function buildCorrectAnswerSamples(): Float32Array {
+  const sr = SAMPLE_RATE_QUIZ;
+  const dur = 0.42;
+  const n = Math.floor(sr * dur);
+  const samples = new Float32Array(n);
+  const freqs = [1046.5, 1318.51, 1567.98, 2093.0];
+  const starts = [0, 0.07, 0.14, 0.24];
+  const lens = [0.06, 0.07, 0.08, 0.12];
+  for (let k = 0; k < freqs.length; k++) {
+    const t0 = starts[k];
+    const L = lens[k];
+    const f = freqs[k];
+    for (let i = 0; i < n; i++) {
+      const t = i / sr;
+      if (t < t0 || t > t0 + L) continue;
+      const local = t - t0;
+      const env = Math.sin((Math.PI * local) / L);
+      samples[i] += 0.28 * env * Math.sin(2 * Math.PI * f * t);
+    }
+  }
+  let max = 0.0001;
+  for (let i = 0; i < n; i++) max = Math.max(max, Math.abs(samples[i]));
+  for (let i = 0; i < n; i++) samples[i] *= 0.48 / max;
+  return samples;
+}
+
+const quizWavCache: { wrong: string | null; correct: string | null } = { wrong: null, correct: null };
+
+function getQuizWavObjectUrl(kind: 'wrong' | 'correct'): string {
+  if (kind === 'wrong') {
+    if (!quizWavCache.wrong) {
+      const buf = encodeWavMono16(buildWrongAnswerSamples(), SAMPLE_RATE_QUIZ);
+      quizWavCache.wrong = URL.createObjectURL(new Blob([buf], { type: 'audio/wav' }));
+    }
+    return quizWavCache.wrong;
+  }
+  if (!quizWavCache.correct) {
+    const buf = encodeWavMono16(buildCorrectAnswerSamples(), SAMPLE_RATE_QUIZ);
+    quizWavCache.correct = URL.createObjectURL(new Blob([buf], { type: 'audio/wav' }));
+  }
+  return quizWavCache.correct;
+}
+
+/** Primary path for quiz taps: decoded WAV via media element (works on iOS when Web Audio does not). */
+function playQuizHtml5(kind: 'wrong' | 'correct', fallback: () => void): void {
+  if (typeof window === 'undefined') {
+    fallback();
+    return;
+  }
+  try {
+    const audio = new Audio(getQuizWavObjectUrl(kind));
+    audio.volume = 1;
+    audio.setAttribute('playsinline', 'true');
+    audio.setAttribute('webkit-playsinline', 'true');
+    const p = audio.play();
+    if (p !== undefined) {
+      void p.catch(() => {
+        fallback();
+      });
+    }
+  } catch {
+    fallback();
+  }
+}
 
 function getAudioContext(): AudioContext | null {
   if (typeof window === 'undefined') return null;
@@ -16,16 +135,11 @@ function getAudioContext(): AudioContext | null {
   return sharedContext;
 }
 
-/** Run after AudioContext is running (mobile starts suspended until a user gesture). */
-function withAudioContext(run: (ctx: AudioContext) => void): void {
+/** Call from option pointerdown so iOS unlocks audio before the click fires wrong/correct SFX. */
+export function primeAudioContext(): void {
   const ctx = getAudioContext();
   if (!ctx) return;
-  const exec = () => run(ctx);
-  if (ctx.state === 'suspended') {
-    void ctx.resume().then(exec).catch(() => {});
-  } else {
-    exec();
-  }
+  void ctx.resume().catch(() => {});
 }
 
 function scheduleTone(
@@ -46,8 +160,9 @@ function scheduleTone(
   osc.type = type;
   osc.frequency.setValueAtTime(frequency, start);
   gain.gain.setValueAtTime(0.0001, start);
-  gain.gain.exponentialRampToValueAtTime(volume, start + 0.02);
-  gain.gain.exponentialRampToValueAtTime(0.0001, end);
+  // Linear ramps: more reliable than exponential on Safari/iOS for short SFX
+  gain.gain.linearRampToValueAtTime(volume, start + 0.018);
+  gain.gain.linearRampToValueAtTime(0.0001, end);
 
   osc.connect(gain);
   gain.connect(masterGain);
@@ -76,47 +191,13 @@ function scheduleFreqRamp(
   osc.frequency.setValueAtTime(freqStart, start);
   osc.frequency.exponentialRampToValueAtTime(safeEnd, end);
   gain.gain.setValueAtTime(0.0001, start);
-  gain.gain.exponentialRampToValueAtTime(volume, start + 0.02);
-  gain.gain.exponentialRampToValueAtTime(0.0001, end);
+  gain.gain.linearRampToValueAtTime(volume, start + 0.02);
+  gain.gain.linearRampToValueAtTime(0.0001, end);
 
   osc.connect(gain);
   gain.connect(masterGain);
   osc.start(start);
   osc.stop(end + 0.02);
-}
-
-/** Short band-limited noise burst — reads as “wrong / error” on small speakers (unlike pure tones). */
-function scheduleNoiseBurst(
-  ctx: AudioContext,
-  masterGain: GainNode,
-  now: number,
-  startOffset: number,
-  duration: number,
-  volume: number
-) {
-  const len = Math.max(1, Math.floor(ctx.sampleRate * duration));
-  const buffer = ctx.createBuffer(1, len, ctx.sampleRate);
-  const data = buffer.getChannelData(0);
-  for (let i = 0; i < len; i++) {
-    data[i] = (Math.random() * 2 - 1) * 0.5;
-  }
-  const src = ctx.createBufferSource();
-  src.buffer = buffer;
-  const filter = ctx.createBiquadFilter();
-  filter.type = 'lowpass';
-  const start = now + startOffset;
-  const end = start + duration;
-  filter.frequency.setValueAtTime(750, start);
-  filter.frequency.exponentialRampToValueAtTime(280, end);
-  const gain = ctx.createGain();
-  gain.gain.setValueAtTime(0.0001, start);
-  gain.gain.exponentialRampToValueAtTime(volume, start + 0.015);
-  gain.gain.exponentialRampToValueAtTime(0.0001, end);
-  src.connect(filter);
-  filter.connect(gain);
-  gain.connect(masterGain);
-  src.start(start);
-  src.stop(end + 0.02);
 }
 
 /** Very short click/cut sound for button and panel presses. */
@@ -149,48 +230,60 @@ export function playButtonClickSound(): void {
   }
 }
 
-/**
- * Correct answer: only high, clean sine “bells” (major arpeggio). No overlap with UI click (removed in QuizView).
- * Mid/high frequencies so phone speakers reproduce clearly.
- */
-export function playCorrectAnswerSound(): void {
-  withAudioContext((ctx) => {
+function playCorrectAnswerSoundWebAudio(): void {
+  const ctx = getAudioContext();
+  if (!ctx) return;
+  const exec = () => {
     const now = ctx.currentTime;
     const masterGain = ctx.createGain();
     masterGain.connect(ctx.destination);
     masterGain.gain.setValueAtTime(0.0001, now);
-    masterGain.gain.exponentialRampToValueAtTime(0.38, now + 0.015);
-    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.42);
+    masterGain.gain.linearRampToValueAtTime(0.42, now + 0.012);
+    masterGain.gain.linearRampToValueAtTime(0.0001, now + 0.45);
 
-    // C6 → E6 → G6 → C7 (pure “success” bells)
     scheduleTone(ctx, masterGain, now, 1046.5, 0, 0.065, 'sine', 0.22);
     scheduleTone(ctx, masterGain, now, 1318.51, 0.07, 0.065, 'sine', 0.22);
     scheduleTone(ctx, masterGain, now, 1567.98, 0.14, 0.07, 'sine', 0.21);
     scheduleTone(ctx, masterGain, now, 2093.0, 0.22, 0.1, 'sine', 0.2);
     scheduleTone(ctx, masterGain, now, 2637.02, 0.32, 0.06, 'sine', 0.12);
-  });
+  };
+  void ctx.resume().then(exec).catch(() => {});
 }
 
-/**
- * Wrong answer: filtered noise + mid-frequency descending tones (not sub-bass — small speakers often drop deep bass).
- * Intentionally unlike any pure “chime” (correct). Mid frequencies so phones can play it.
- */
-export function playWrongAnswerSound(): void {
-  withAudioContext((ctx) => {
+function playWrongAnswerSoundWebAudio(): void {
+  const ctx = getAudioContext();
+  if (!ctx) return;
+
+  const exec = () => {
     const now = ctx.currentTime;
     const masterGain = ctx.createGain();
     masterGain.connect(ctx.destination);
     masterGain.gain.setValueAtTime(0.0001, now);
-    masterGain.gain.exponentialRampToValueAtTime(0.36, now + 0.02);
-    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.55);
+    masterGain.gain.linearRampToValueAtTime(0.55, now + 0.01);
+    masterGain.gain.linearRampToValueAtTime(0.0001, now + 0.58);
 
-    scheduleNoiseBurst(ctx, masterGain, now, 0, 0.1, 0.2);
-    // Two-tone “wrong” (audible 300–450 Hz range)
-    scheduleTone(ctx, masterGain, now, 420, 0.11, 0.09, 'square', 0.12);
-    scheduleTone(ctx, masterGain, now, 300, 0.19, 0.12, 'square', 0.1);
-    scheduleTone(ctx, masterGain, now, 240, 0.3, 0.14, 'triangle', 0.09);
-    scheduleFreqRamp(ctx, masterGain, now, 380, 120, 0.38, 0.18, 'sawtooth', 0.08);
-  });
+    scheduleTone(ctx, masterGain, now, 392.0, 0, 0.11, 'sine', 0.48);
+    scheduleTone(ctx, masterGain, now, 277.18, 0.1, 0.12, 'sine', 0.46);
+    scheduleTone(ctx, masterGain, now, 196.0, 0.22, 0.16, 'sine', 0.44);
+    scheduleFreqRamp(ctx, masterGain, now, 440, 155, 0.36, 0.2, 'sine', 0.38);
+  };
+
+  void ctx.resume().then(exec).catch(() => {});
+}
+
+/**
+ * Correct answer: HTML5 WAV (primary) + Web Audio fallback.
+ */
+export function playCorrectAnswerSound(): void {
+  playQuizHtml5('correct', playCorrectAnswerSoundWebAudio);
+}
+
+/**
+ * Wrong answer: HTML5 WAV (primary) + Web Audio fallback.
+ * Must be audible when the wrong panel turns purple (iOS often fails Web Audio-only).
+ */
+export function playWrongAnswerSound(): void {
+  playQuizHtml5('wrong', playWrongAnswerSoundWebAudio);
 }
 
 /** Mario/Sonic-style congratulatory jingle when user earns 1–4 stars. */

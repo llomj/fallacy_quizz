@@ -18,6 +18,25 @@ git push fallacy main
 
 ---
 
+## MUST FIX: Quiz wrong / correct answer sounds (no audio on tap)
+
+**Symptom:** User taps a wrong answer (purple panel) or correct answer and **hears nothing**, including on iPhone / PWA / “browser app”, even when Settings → Sound is on.
+
+**Root cause:** **Web Audio API alone** (OscillatorNode, etc.) is **not reliable** on iOS Safari and many PWAs: `AudioContext` may stay effectively silent or `resume()` may not make short SFX audible in time, even after `pointerdown` priming.
+
+**Required fix (do not revert without a better alternative):**
+
+1. **Primary path:** `playWrongAnswerSound` / `playCorrectAnswerSound` in `src/utils/sounds.ts` must use **`HTMLAudioElement`** + an **in-memory PCM WAV** (`encodeWavMono16` → `Blob` → `URL.createObjectURL` → `new Audio(url).play()`), called **synchronously from the same tap** as the answer button. Set `playsinline` / `webkit-playsinline` on the element for iOS.
+2. **Fallback:** If `audio.play()` **rejects**, call the **Web Audio** implementation (`playWrongAnswerSoundWebAudio` / `playCorrectAnswerSoundWebAudio`).
+3. **QuizView:** Keep `primeAudioContext()` on option `pointerdown` when sound is enabled (helps Web Audio fallback).
+4. **QuizView:** Do **not** play the generic UI click on the same tap as the answer (it masked feedback).
+
+**Not a fix:** Telling the user to “clear cache” only — if the code path is WebAudio-only, wrong sound will still fail on many phones.
+
+**User checks:** Settings → Sound **on**; device not muted (hardware mute still affects some paths); after deploy, confirm **Build** timestamp in Settings.
+
+---
+
 ## Menu and subwindow width (same as menu)
 
 **Rule:** The **main menu panel** and every **submenu panel** (Log, Rules, Settings) must be the **same width**. So when you open the gear menu you see the main menu; when you tap Log you see the Log submenu (Search by ID, ID Log, Learning log) — that submenu panel must be the same width as the main menu panel.
