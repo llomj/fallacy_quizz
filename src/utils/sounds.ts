@@ -16,6 +16,18 @@ function getAudioContext(): AudioContext | null {
   return sharedContext;
 }
 
+/** Run after AudioContext is running (mobile starts suspended until a user gesture). */
+function withAudioContext(run: (ctx: AudioContext) => void): void {
+  const ctx = getAudioContext();
+  if (!ctx) return;
+  const exec = () => run(ctx);
+  if (ctx.state === 'suspended') {
+    void ctx.resume().then(exec).catch(() => {});
+  } else {
+    exec();
+  }
+}
+
 function scheduleTone(
   audioContext: AudioContext,
   masterGain: GainNode,
@@ -75,49 +87,37 @@ export function playButtonClickSound(): void {
 
 /** Short "cute" positive tone for correct answer. */
 export function playCorrectAnswerSound(): void {
-  const ctx = getAudioContext();
-  if (!ctx) return;
+  withAudioContext((ctx) => {
+    const now = ctx.currentTime;
+    const masterGain = ctx.createGain();
+    masterGain.connect(ctx.destination);
+    masterGain.gain.setValueAtTime(0.0001, now);
+    masterGain.gain.exponentialRampToValueAtTime(0.32, now + 0.02);
+    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.42);
 
-  const now = ctx.currentTime;
-  const masterGain = ctx.createGain();
-  masterGain.connect(ctx.destination);
-  masterGain.gain.setValueAtTime(0.0001, now);
-  masterGain.gain.exponentialRampToValueAtTime(0.3, now + 0.02);
-  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.4);
-
-  // Cute upward "ping": E5 -> G5 -> C6
-  scheduleTone(ctx, masterGain, now, 659.25, 0, 0.12, 'sine', 0.25);   // E5
-  scheduleTone(ctx, masterGain, now, 783.99, 0.04, 0.12, 'sine', 0.22); // G5
-  scheduleTone(ctx, masterGain, now, 1046.5, 0.08, 0.25, 'sine', 0.18); // C6
-  
-  // Adding a tiny high-pitched sparkle
-  scheduleTone(ctx, masterGain, now, 2093.0, 0.1, 0.05, 'triangle', 0.1);
-
-  if (ctx.state === 'suspended') {
-    ctx.resume().catch(() => {});
-  }
+    // Cute upward "ping": E5 -> G5 -> C6
+    scheduleTone(ctx, masterGain, now, 659.25, 0, 0.11, 'sine', 0.22);
+    scheduleTone(ctx, masterGain, now, 783.99, 0.035, 0.1, 'sine', 0.2);
+    scheduleTone(ctx, masterGain, now, 1046.5, 0.07, 0.22, 'sine', 0.17);
+    scheduleTone(ctx, masterGain, now, 2093.0, 0.09, 0.06, 'triangle', 0.09);
+  });
 }
 
-/** Short "squashy" negative tone for wrong answer. */
+/** Short soft "wrong" blip — low, quick, not harsh. */
 export function playWrongAnswerSound(): void {
-  const ctx = getAudioContext();
-  if (!ctx) return;
+  withAudioContext((ctx) => {
+    const now = ctx.currentTime;
+    const masterGain = ctx.createGain();
+    masterGain.connect(ctx.destination);
+    masterGain.gain.setValueAtTime(0.0001, now);
+    masterGain.gain.exponentialRampToValueAtTime(0.22, now + 0.015);
+    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.32);
 
-  const now = ctx.currentTime;
-  const masterGain = ctx.createGain();
-  masterGain.connect(ctx.destination);
-  masterGain.gain.setValueAtTime(0.0001, now);
-  masterGain.gain.exponentialRampToValueAtTime(0.25, now + 0.02);
-  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.45);
-
-  // Dissonant descending "thud"
-  scheduleTone(ctx, masterGain, now, 180, 0, 0.25, 'sawtooth', 0.15);
-  scheduleTone(ctx, masterGain, now, 130, 0.08, 0.3, 'square', 0.1);
-  scheduleTone(ctx, masterGain, now, 90, 0.16, 0.35, 'triangle', 0.2);
-
-  if (ctx.state === 'suspended') {
-    ctx.resume().catch(() => {});
-  }
+    // Quick descending "wah" — short, clear wrong-answer feel
+    scheduleTone(ctx, masterGain, now, 220, 0, 0.07, 'sine', 0.14);
+    scheduleTone(ctx, masterGain, now, 165, 0.06, 0.09, 'sine', 0.12);
+    scheduleTone(ctx, masterGain, now, 110, 0.14, 0.14, 'triangle', 0.1);
+  });
 }
 
 /** Mario/Sonic-style congratulatory jingle when user earns 1–4 stars. */
@@ -133,7 +133,7 @@ export async function playStarCelebrationSound(): Promise<void> {
   masterGain.gain.setValueAtTime(0.0001, now);
   masterGain.gain.exponentialRampToValueAtTime(0.25, now + 0.05);
   masterGain.gain.setValueAtTime(0.2, now + 0.8);
-  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 1.8);
+  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 2.05);
 
   const schedule = (
     frequency: number,
@@ -157,28 +157,30 @@ export async function playStarCelebrationSound(): Promise<void> {
     osc.stop(end + 0.02);
   };
 
-  // Classic Mario-style arpeggio: C5 E5 G5 C6 E6 G6 (fast)
+  // Classic Mario-style arpeggio + short coin sparkle tail
   const melody = [
-    { freq: 523.25, at: 0, len: 0.1 },    // C5
-    { freq: 659.25, at: 0.08, len: 0.1 }, // E5
-    { freq: 783.99, at: 0.16, len: 0.1 }, // G5
-    { freq: 1046.5, at: 0.24, len: 0.12 }, // C6
-    { freq: 1318.51, at: 0.36, len: 0.15 }, // E6
-    { freq: 1567.98, at: 0.52, len: 0.4 }, // G6 long
-    { freq: 1318.51, at: 1.0, len: 0.2 },  // E6 descent
-    { freq: 1567.98, at: 1.25, len: 0.5 }, // G6 final
+    { freq: 523.25, at: 0, len: 0.1 },
+    { freq: 659.25, at: 0.08, len: 0.1 },
+    { freq: 783.99, at: 0.16, len: 0.1 },
+    { freq: 1046.5, at: 0.24, len: 0.12 },
+    { freq: 1318.51, at: 0.36, len: 0.14 },
+    { freq: 1567.98, at: 0.52, len: 0.35 },
+    { freq: 1318.51, at: 0.95, len: 0.12 },
+    { freq: 1567.98, at: 1.12, len: 0.38 },
+    { freq: 2093.0, at: 1.55, len: 0.12 },
+    { freq: 1567.98, at: 1.72, len: 0.32 },
   ];
   melody.forEach((n) => {
     schedule(n.freq, n.at, n.len, 'square', 0.12);
     schedule(n.freq * 0.5, n.at, n.len, 'triangle', 0.07);
   });
   // Bass line
-  schedule(261.63, 0, 0.4, 'sawtooth', 0.06);
-  schedule(392.00, 0.4, 0.6, 'sawtooth', 0.05);
-  schedule(523.25, 1.0, 0.8, 'sawtooth', 0.04);
+  schedule(261.63, 0, 0.45, 'sawtooth', 0.06);
+  schedule(392.0, 0.35, 0.75, 'sawtooth', 0.05);
+  schedule(523.25, 0.85, 0.95, 'sawtooth', 0.04);
 }
 
-/** Full victory fanfare when user completes 5 stars (Mario/Sonic/Alex Kidd style). */
+/** Full victory fanfare when user completes 5 stars on a level (longer than 1–4★ jingle). */
 export async function playFiveStarCelebrationSound(): Promise<void> {
   const ctx = getAudioContext();
   if (!ctx) return;
@@ -190,8 +192,8 @@ export async function playFiveStarCelebrationSound(): Promise<void> {
   masterGain.connect(ctx.destination);
   masterGain.gain.setValueAtTime(0.0001, now);
   masterGain.gain.exponentialRampToValueAtTime(0.25, now + 0.05);
-  masterGain.gain.setValueAtTime(0.2, now + 1);
-  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 3);
+  masterGain.gain.setValueAtTime(0.2, now + 1.2);
+  masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 4.8);
 
   const schedule = (
     frequency: number,
@@ -215,27 +217,33 @@ export async function playFiveStarCelebrationSound(): Promise<void> {
     osc.stop(end + 0.02);
   };
 
-  // Victory melody: ascending triumph, then celebratory descent (Alex Kidd / Sonic level complete style)
+  // Extended level-complete style: two peaks + long cheer (longer than 1–4★ jingle)
   const melody = [
-    { freq: 523.25, at: 0, len: 0.22 },     // C5
-    { freq: 659.25, at: 0.2, len: 0.22 },  // E5
-    { freq: 783.99, at: 0.4, len: 0.22 },  // G5
-    { freq: 1046.5, at: 0.6, len: 0.35 },  // C6
-    { freq: 1318.51, at: 0.9, len: 0.4 },  // E6
-    { freq: 1567.98, at: 1.25, len: 0.5 }, // G6 - climax!
-    { freq: 1318.51, at: 1.75, len: 0.3 }, // E6
-    { freq: 1046.5, at: 2.05, len: 0.35 }, // C6
-    { freq: 1318.51, at: 2.4, len: 0.55 }, // E6 - final cheer
+    { freq: 523.25, at: 0, len: 0.2 },
+    { freq: 659.25, at: 0.18, len: 0.2 },
+    { freq: 783.99, at: 0.36, len: 0.2 },
+    { freq: 1046.5, at: 0.55, len: 0.32 },
+    { freq: 1318.51, at: 0.85, len: 0.36 },
+    { freq: 1567.98, at: 1.18, len: 0.45 },
+    { freq: 1318.51, at: 1.62, len: 0.28 },
+    { freq: 1046.5, at: 1.9, len: 0.32 },
+    { freq: 1318.51, at: 2.22, len: 0.42 },
+    { freq: 1567.98, at: 2.62, len: 0.48 },
+    { freq: 2093.0, at: 3.08, len: 0.55 },
+    { freq: 1567.98, at: 3.62, len: 0.35 },
+    { freq: 1318.51, at: 3.95, len: 0.45 },
+    { freq: 1567.98, at: 4.35, len: 0.65 },
   ];
   melody.forEach((n) => {
     schedule(n.freq, n.at, n.len, 'square', 0.12);
     schedule(n.freq * 0.5, n.at, n.len, 'triangle', 0.07);
   });
-  // Bass / chords
-  schedule(261.63, 0, 1.2, 'sawtooth', 0.06);
-  schedule(329.63, 0.5, 1.2, 'sawtooth', 0.05);
-  schedule(392, 1, 1.5, 'sawtooth', 0.05);
-  schedule(523.25, 1.5, 1.5, 'sawtooth', 0.04);
+  schedule(261.63, 0, 1.8, 'sawtooth', 0.06);
+  schedule(329.63, 0.45, 1.8, 'sawtooth', 0.05);
+  schedule(392, 0.95, 2, 'sawtooth', 0.05);
+  schedule(523.25, 1.45, 2.2, 'sawtooth', 0.04);
+  schedule(261.63, 2.5, 1.8, 'sawtooth', 0.05);
+  schedule(392, 3, 1.6, 'sawtooth', 0.05);
 }
 
 /** Longer, more joyful victory fanfare for Random mode 5 stars (many questions, hard to achieve). */

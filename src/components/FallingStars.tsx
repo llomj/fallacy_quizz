@@ -2,9 +2,11 @@ import React, { useMemo } from 'react';
 
 export type FallingStarsVariant = 'single' | 'five' | 'randomFive' | 'allLevels';
 
-const STAR_COUNT_SINGLE = 36;
-const STAR_COUNT_FIVE = 90;
-const STAR_COUNT_RANDOM_FIVE = 220;
+const STAR_COUNT_SINGLE = 42;
+/** Level mode 5★: many stars for the longer fanfare */
+const STAR_COUNT_FIVE = 160;
+/** Random 5★ (>90%): even denser; matches the extended melody + extra difficulty */
+const STAR_COUNT_RANDOM_FIVE = 420;
 const STAR_COUNT_ALL_LEVELS = 150;
 
 interface FallingStarsProps {
@@ -19,15 +21,22 @@ export const FallingStars: React.FC<FallingStarsProps> = ({ variant, className =
     : STAR_COUNT_SINGLE;
 
   const stars = useMemo(() => {
-    const baseSize = variant === 'allLevels' ? 12 : variant === 'randomFive' ? 10 : variant === 'five' ? 10 : 8;
-    const sizeStep = variant === 'allLevels' ? 4 : variant === 'randomFive' ? 3 : variant === 'five' ? 3 : 2;
+    const baseSize = variant === 'allLevels' ? 12 : variant === 'randomFive' ? 9 : variant === 'five' ? 10 : 8;
+    const sizeStep = variant === 'allLevels' ? 4 : variant === 'randomFive' ? 2 : variant === 'five' ? 3 : 2;
+    // Longer stagger on 5★ / random 5★ so stars keep appearing during the whole jingle
+    const delayMod =
+      variant === 'randomFive' ? 11 : variant === 'five' ? 6 : variant === 'allLevels' ? 5 : 4;
+    const delayScale = variant === 'randomFive' ? 0.045 : variant === 'five' ? 0.055 : 0.08;
+    const durBase = variant === 'randomFive' ? 3.2 : variant === 'five' ? 2.8 : 2.2;
+    const durSpread = variant === 'randomFive' ? 2.2 : variant === 'five' ? 1.8 : 1.4;
+
     return Array.from({ length: count }, (_, i) => ({
       id: i,
-      left: `${(i * 13 + 3) % 100}%`,
-      delay: (i * 0.08 + Math.random() * 0.6) % (variant === 'randomFive' ? 6 : variant === 'allLevels' ? 5 : 4),
-      duration: 2.2 + (i % 4) * 0.6 + Math.random() * 1.4,
+      left: `${(i * 7 + (i * i) % 17) % 100}%`,
+      delay: (i * delayScale + Math.random() * 0.85) % delayMod,
+      duration: durBase + (i % 5) * 0.45 + Math.random() * durSpread,
       size: baseSize + (i % 6) * sizeStep,
-      opacity: 0.55 + (i % 6) * 0.08,
+      opacity: 0.5 + (i % 7) * 0.07,
     }));
   }, [count, variant]);
 
