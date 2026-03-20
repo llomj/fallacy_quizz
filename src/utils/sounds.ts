@@ -55,6 +55,36 @@ function scheduleTone(
   osc.stop(end + 0.02);
 }
 
+function scheduleFreqRamp(
+  audioContext: AudioContext,
+  masterGain: GainNode,
+  now: number,
+  freqStart: number,
+  freqEnd: number,
+  startOffset: number,
+  duration: number,
+  type: OscillatorType,
+  volume = 0.12
+) {
+  const osc = audioContext.createOscillator();
+  const gain = audioContext.createGain();
+  const start = now + startOffset;
+  const end = start + duration;
+  const safeEnd = Math.max(freqEnd, 20);
+
+  osc.type = type;
+  osc.frequency.setValueAtTime(freqStart, start);
+  osc.frequency.exponentialRampToValueAtTime(safeEnd, end);
+  gain.gain.setValueAtTime(0.0001, start);
+  gain.gain.exponentialRampToValueAtTime(volume, start + 0.02);
+  gain.gain.exponentialRampToValueAtTime(0.0001, end);
+
+  osc.connect(gain);
+  gain.connect(masterGain);
+  osc.start(start);
+  osc.stop(end + 0.02);
+}
+
 /** Very short click/cut sound for button and panel presses. */
 export function playButtonClickSound(): void {
   const ctx = getAudioContext();
@@ -85,38 +115,50 @@ export function playButtonClickSound(): void {
   }
 }
 
-/** Short "cute" positive tone for correct answer. */
+/**
+ * Clear “correct / yes” feedback: bright major arpeggio up + tiny sparkle.
+ * Sounds nothing like the wrong-answer buzzer.
+ */
 export function playCorrectAnswerSound(): void {
   withAudioContext((ctx) => {
     const now = ctx.currentTime;
     const masterGain = ctx.createGain();
     masterGain.connect(ctx.destination);
     masterGain.gain.setValueAtTime(0.0001, now);
-    masterGain.gain.exponentialRampToValueAtTime(0.32, now + 0.02);
-    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.42);
+    masterGain.gain.exponentialRampToValueAtTime(0.34, now + 0.02);
+    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.48);
 
-    // Cute upward "ping": E5 -> G5 -> C6
-    scheduleTone(ctx, masterGain, now, 659.25, 0, 0.11, 'sine', 0.22);
-    scheduleTone(ctx, masterGain, now, 783.99, 0.035, 0.1, 'sine', 0.2);
-    scheduleTone(ctx, masterGain, now, 1046.5, 0.07, 0.22, 'sine', 0.17);
-    scheduleTone(ctx, masterGain, now, 2093.0, 0.09, 0.06, 'triangle', 0.09);
+    // C5 → E5 → G5 → C6: classic “you got it” rising chime
+    scheduleTone(ctx, masterGain, now, 523.25, 0, 0.09, 'sine', 0.2);
+    scheduleTone(ctx, masterGain, now, 659.25, 0.07, 0.09, 'sine', 0.19);
+    scheduleTone(ctx, masterGain, now, 783.99, 0.14, 0.1, 'sine', 0.18);
+    scheduleTone(ctx, masterGain, now, 1046.5, 0.22, 0.16, 'triangle', 0.17);
+    scheduleTone(ctx, masterGain, now, 2093.0, 0.3, 0.05, 'sine', 0.08);
+    scheduleTone(ctx, masterGain, now, 2637.0, 0.34, 0.04, 'sine', 0.06);
   });
 }
 
-/** Short soft "wrong" blip — low, quick, not harsh. */
+/**
+ * Clear “wrong / no” feedback: low buzzer + descending “womp” (game-show / quiz wrong).
+ * Deliberately different timbre and contour from the correct chime.
+ */
 export function playWrongAnswerSound(): void {
   withAudioContext((ctx) => {
     const now = ctx.currentTime;
     const masterGain = ctx.createGain();
     masterGain.connect(ctx.destination);
     masterGain.gain.setValueAtTime(0.0001, now);
-    masterGain.gain.exponentialRampToValueAtTime(0.22, now + 0.015);
-    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.32);
+    masterGain.gain.exponentialRampToValueAtTime(0.28, now + 0.02);
+    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.52);
 
-    // Quick descending "wah" — short, clear wrong-answer feel
-    scheduleTone(ctx, masterGain, now, 220, 0, 0.07, 'sine', 0.14);
-    scheduleTone(ctx, masterGain, now, 165, 0.06, 0.09, 'sine', 0.12);
-    scheduleTone(ctx, masterGain, now, 110, 0.14, 0.14, 'triangle', 0.1);
+    // Short harsh buzz (square) — “error”
+    scheduleTone(ctx, masterGain, now, 92, 0, 0.11, 'square', 0.11);
+    scheduleTone(ctx, masterGain, now, 87, 0.02, 0.1, 'square', 0.08);
+    // Descending saw “womp” — unmistakably negative
+    scheduleFreqRamp(ctx, masterGain, now, 240, 65, 0.1, 0.22, 'sawtooth', 0.1);
+    // Flat second “uh-oh” blip
+    scheduleTone(ctx, masterGain, now, 155, 0.28, 0.12, 'triangle', 0.09);
+    scheduleTone(ctx, masterGain, now, 118, 0.36, 0.14, 'triangle', 0.08);
   });
 }
 
