@@ -2,8 +2,10 @@
 
 **Purpose:** Every question should eventually have **unique** in-depth text for **Beginner**, **Intermediate**, and **Expert**, tightly tied to **that** question’s scenario. **English** and **French** must stay in **structural parity** (same sections, same depth; intermediate and expert should be verbose and step-by-step where useful).
 
+**Coverage status (this tracker):** **Complete** for all IDs in scope — Level **0** (1001–1300), Level **1** (1–90), and Levels **2–10** (91–900). Content is largely **generator-backed**; hand-edit individual IDs when a scenario needs richer pedagogy (see Authoring checklist).
+
 **Technical source of truth (Level 0):** `src/data/inDepth/level0StandaloneInDepth.ts`  
-- `LEVEL_0_STANDALONE_EN` / `LEVEL_0_STANDALONE_FR`: `Record<questionId, { beginner, intermediate, expert }>` (partial; fill over time).  
+- `LEVEL_0_STANDALONE_EN` / `LEVEL_0_STANDALONE_FR`: `Record<questionId, { beginner, intermediate, expert }>` — **300 / 300** IDs present (see Level 0 progress below).  
 - When an ID is present, the app shows that string as the **full** in-depth panel (no codon wrapper).  
 - Pipeline: `getDetailedExplanationForLevel` (EN) and `getTranslatedDetailedExplanation` (FR) read these maps first for Level 0 (IDs **1001–1300** in FR lookup).
 
@@ -127,4 +129,9 @@
 - Keep `AGENTS.md` glossary and `glossary.md` consistency for fallacy definitions.  
 - After completing a batch, update the **Range** table and **Last updated** below.
 
-**Last updated:** 2026-03-20
+**Last updated:** 2026-03-21
+
+### Next steps (optional, not blocking)
+
+- **Editorial:** Replace or augment template-heavy entries where pedagogical value would benefit from bespoke copy (same section structure; EN/FR parity).
+- **Bank changes:** After edits to `fallaciesData.ts` or Level 0 question banks, rerun the relevant generator (`generate-level1-standalone.mjs`, `generate-standalone-levels-2-10.mjs`, or Level 0 authoring flow) and `npm run build`.

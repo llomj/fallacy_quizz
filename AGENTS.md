@@ -18,11 +18,12 @@
 - **Glossary Source of Truth**: The `glossary.md` file is the master reference for all logical fallacy and argumentation definitions.
 - **Consistency Rule**: All definitions must be consistent with `glossary.md`.
 - **Pre-Change Check**: Agents must always consult `ps.md` and `planning.md` before making changes.
-- **In-depth authoring progress**: Agents must always consult **`task.md`** at the repo root for unique per-question in-depth explanations (EN/FR parity, beginner/intermediate/expert), which files to edit, and what is already complete.
+- **In-depth authoring progress**: Agents must always consult **`task.md`** at the repo root for unique per-question in-depth explanations (EN/FR parity, beginner/intermediate/expert), which files to edit, and what is already complete. Standalone maps cover Level **0** (IDs 1001–1300), Level **1** (1–90), and Levels **2–10** (91–900); see `task.md` for regeneration scripts when question banks change.
 - **Debugging Reference**: Agents must always consult `ps.md` for debugging information and urgent issues.
 
 ## 4. The 900-Question Genome Goal
 - **Current State**: 900 logical fallacy questions. All 900 must be unique with distinct argumentative scenarios.
+- **In-depth UI (beginner / intermediate / expert)**: EN+FR standalone panels for fallacy IDs **1–900** are wired via `level1StandaloneInDepth.ts` and `level2to10StandaloneInDepth.ts`; Level **0** uses `level0StandaloneInDepth.ts` (1001–1300). **Authoring tracker:** `task.md`.
 - **Status**: Logical fallacy genome IN PROGRESS. Existing CLI question genome is archived/legacy and must not be used for new gameplay content.
 - **Diversity Rule**: Use at least 10 reasoning templates per stage so students encounter varied argument structures and conceptual challenges (e.g. causal, analogical, statistical, rhetorical).
 

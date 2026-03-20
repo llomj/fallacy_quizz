@@ -42,6 +42,8 @@
 8. **Phase 7**: Expand toward full 3000 questions across all levels (300 per level, with Beginner/Intermediate/Expert sub-levels).
 9. **Phase 8**: Update validation scripts for fallacy content (uniqueness checks, EN/FR parity), and test PWA on phone.
 
+**Standalone in-depth panels (EN/FR, beginner / intermediate / expert):** Tracked in **`task.md`**. Level 0 (1001–1300) and fallacy game IDs **1–900** use sidecar maps (`level0StandaloneInDepth.ts`, `level1StandaloneInDepth.ts`, `level2to10StandaloneInDepth.ts`); regenerate via scripts listed in `task.md` when question banks change.
+
 ---
 
 ## March 1, 2026 — Stability-First Execution Plan
