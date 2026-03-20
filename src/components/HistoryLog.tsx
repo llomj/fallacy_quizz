@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { QuestionAttempt } from '../types';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
-import { splitQuestion, hasCodeLikeContent } from '../utils/splitQuestion';
 import { translateQuestionText, getQuestionDisplay } from '../utils/translateQuestion';
 import { getTranslatedShortExplanation } from '../data/shortExplanationsTranslations';
 import { getQuestionBank } from '../questionsBank';
@@ -80,9 +79,6 @@ const formatCodeSnippet = (text: string): string => {
   return formattedLines.join('\n');
 };
 
-const splitQuestionForDisplay = (text: string, lang: string) =>
-  splitQuestion(text, lang, translateQuestionText);
-
 interface HistoryLogProps {
   history: QuestionAttempt[];
   onBack: () => void;
@@ -158,6 +154,8 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
             const translated = bankQuestion
               ? getQuestionDisplay(language, attempt.question, bankQuestion.options)
               : null;
+            const displayQuestionText =
+              translated?.question ?? translateQuestionText(attempt.question, language);
             const displayCorrectAnswer =
               bankQuestion && translated?.options.length
                 ? translated.options[bankQuestion.options.indexOf(attempt.correctOption)] ?? attempt.correctOption
@@ -230,40 +228,11 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
 
                 <div className="mb-3">
                   <div className="max-h-[45vh] overflow-y-auto overflow-x-hidden bg-slate-800 rounded-lg">
-                    {(() => {
-                      const { prefix, code } = splitQuestionForDisplay(attempt.question, language);
-                      const displayText = translateQuestionText(attempt.question, language);
-                      if (code) {
-                        return (
-                          <div className="flex flex-col">
-                            {prefix && (
-                              <div className="px-4 pt-4 pb-2 border-b border-slate-700/50">
-                                <p className="text-slate-100 text-base md:text-lg font-medium leading-relaxed">{prefix}</p>
-                              </div>
-                            )}
-                            <div className="p-4 overflow-x-hidden flex-1">
-                              <pre className="text-slate-100 text-base md:text-lg font-['Fira_Code',_monospace] whitespace-pre-wrap leading-relaxed">
-                                {formatCodeSnippet(code)}
-                              </pre>
-                            </div>
-                          </div>
-                        );
-                      }
-                      if (hasCodeLikeContent(displayText)) {
-                        return (
-                          <div className="p-4 overflow-x-hidden flex-1">
-                            <pre className="text-slate-100 text-base md:text-lg font-['Fira_Code',_monospace] whitespace-pre-wrap leading-relaxed">
-                              {formatCodeSnippet(displayText)}
-                            </pre>
-                          </div>
-                        );
-                      }
-                      return (
-                        <h3 className="text-base md:text-lg font-semibold leading-relaxed text-slate-100 px-4 pt-4 pb-4">
-                          {displayText}
-                        </h3>
-                      );
-                    })()}
+                    <div className="px-6 py-5">
+                      <h3 className="text-base md:text-lg font-semibold leading-relaxed text-yellow-400 whitespace-pre-wrap break-words">
+                        {displayQuestionText}
+                      </h3>
+                    </div>
                   </div>
                 </div>
 

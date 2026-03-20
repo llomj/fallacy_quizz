@@ -129,6 +129,10 @@ If the user reports "level points still show in random mode" again: (1) Confirm 
 
 When adding new content, add both languages in the same commit. Never ship English-only content. This applies to all logical fallacy questions, short explanations, detailed explanations, and glossary entries.
 
+### Legacy French maps vs fallacy question IDs
+
+`SHORT_EXPLANATIONS_FR` and `DETAILED_EXPLANATIONS_FR` were keyed by numeric ID for an older CLI course. The **same IDs** are reused for logical-fallacy questions (`questionsBank.ts`: roughly **1–900** + **1001–1300**). Helpers in `shortExplanationsTranslations.ts` and `detailedExplanationsTranslations.ts` **must prefer the question bank text** for those ID ranges so French mode does not show pacman/Docker/etc. instead of fallacy content. Shared guard: `isLogicalFallaciesAppQuestionId` (exported from `shortExplanationsTranslations.ts`).
+
 ---
 
 ## Highlighted Panels & Syntax (readability)

@@ -1,0 +1,70 @@
+# Fallacy Quiz — In-depth explanations (authoring tracker)
+
+**Purpose:** Every question should eventually have **unique** in-depth text for **Beginner**, **Intermediate**, and **Expert**, tightly tied to **that** question’s scenario. **English** and **French** must stay in **structural parity** (same sections, same depth; intermediate and expert should be verbose and step-by-step where useful).
+
+**Technical source of truth (Level 0):** `src/data/inDepth/level0StandaloneInDepth.ts`  
+- `LEVEL_0_STANDALONE_EN` / `LEVEL_0_STANDALONE_FR`: `Record<questionId, { beginner, intermediate, expert }>` (partial; fill over time).  
+- When an ID is present, the app shows that string as the **full** in-depth panel (no codon wrapper).  
+- Pipeline: `getDetailedExplanationForLevel` (EN) and `getTranslatedDetailedExplanation` (FR) read these maps first for Level 0.
+
+**Future levels (1–10):** Add parallel modules (e.g. `level1StandaloneInDepth.ts`) and the same lookup pattern, or extend types — **do not** duplicate giant blobs inside `fallaciesData.ts` without a plan; prefer sidecar maps keyed by ID.
+
+---
+
+## Scope
+
+| Level | Question IDs (approx.) | Count | Status |
+|-------|------------------------|-------|--------|
+| 0 | 1001–1300 | 300 | **Standalone text complete** for all IDs present in bank (see below) |
+| 1 | TBD from `fallaciesData` / level files | 100 | Not started |
+| … | … | … | … |
+
+---
+
+## Level 0 progress (300 IDs)
+
+**Rule:** Mark an ID **done** only when **both** `LEVEL_0_STANDALONE_EN` and `LEVEL_0_STANDALONE_FR` contain `beginner`, `intermediate`, and `expert` for that ID.
+
+| Range | IDs complete | Notes |
+|-------|----------------|-------|
+| 1001–1010 | **10 / 10** | First batch: argument-vs-assertion / foundations; EN+FR parity |
+| 1011–1020 | **10 / 10** | Organic/transport/solar + “Scene:” items; FR bank differs for **1012–1013** (Linguistique / Technologie vs EN public transport / solar)—standalone text follows each bank |
+| 1021–1030 | **10 / 10** | Bake-off, sprint, hike, car, plants, library, walking, algebra, tide, planetarium — EN/FR alignés sur cette plage |
+| 1031–1040 | **10 / 10** | Apple/gravity, language practice, router, museum, paint, red light, study breaks, resale tickets, quiet-hours policy, jazz tuning — EN/FR alignés |
+| 1041–1050 | **10 / 10** | Cupcakes, relay, squall picnic, tool shed, night-sky alerts, lead fountain, counseling wait, even-k² proof, tide transect, starlight lookback |
+| 1051–1060 | **10 / 10** | Premise-identification drills (Since / Comme …) — gravity through guitar tuning |
+| 1061–1070 | **10 / 10** | Premise-identification — oven/cake through light travel / stars as past |
+| 1071–1080 | **10 / 10** | Premise-identification (repeat cycle vs 1051–1060) — fresh framing per ID |
+| 1081–1090 | **10 / 10** | Premise-identification (third pass vs 1061–1070) — distinct sub-framing per ID |
+| 1091–1100 | **10 / 10** | Premise-identification (fourth pass vs 1051–1060) — distinct sub-framing per ID |
+| 1101–1110 | **10 / 10** | Conclusion-identification (therefore / par conséquent) — oven through starlight lookback |
+| 1111–1120 | **10 / 10** | Conclusion-identification (2nd cycle vs 1051–1060 themes) — distinct framing per ID |
+| 1121–1130 | **10 / 10** | Conclusion-identification (3rd cycle vs 1061–1070 / 1101–1110 themes) — distinct framing per ID |
+| 1131–1200 | **70 / 70** | Conclusion-identification (1131–1150); fact-vs-opinion (1151–1200) — EN+FR parity |
+| 1201–1300 | **100 / 100** | Validity-definition (1201–1250); soundness-definition (1251–1300) — EN+FR parity; IDs **1272–1273** added (software audit + “true premises ⇒ sound?” mistake) |
+
+**Completed IDs (Level 0):** **1001–1300** (**300 / 300**)
+
+**Last updated:** 2026-03-20
+
+**Note:** For the same numeric ID, `LEVEL_0_GEN_EN` and `LEVEL_0_GEN_FR` sometimes use **different scenarios** (e.g. ID 1012). French in-depth entries must match the **French** question text, not a literal translation of the English item.
+
+---
+
+## Authoring checklist (each ID)
+
+1. Read the **exact** question and options in `LEVEL_0_GEN_EN` and `LEVEL_0_GEN_FR` (same ID).
+2. Write **beginner**: plain language, walk through distractors vs correct option using **this** scenario.
+3. Write **intermediate**: longer, step-by-step, explicit mapping (premise/conclusion or problem/fix where relevant).
+4. Write **expert**: formal vocabulary, reconstruction, distractor analysis, optional pedagogical caveats.
+5. Translate to French with **matching** sections and depth (not a summary).
+6. Add entries to both `LEVEL_0_STANDALONE_EN` and `LEVEL_0_STANDALONE_FR` for the same ID.
+7. Run `npm run build` before committing.
+
+---
+
+## Agents
+
+- **Always read this file** before adding or editing in-depth content.  
+- Keep `AGENTS.md` glossary and `glossary.md` consistency for fallacy definitions.  
+- After completing a batch, update the **Range** table and **Last updated** above.

@@ -5,4 +5,4 @@ description: This is a new rule
 
 # Overview
 
-Insert overview text here. The agent will only see this should they choose to apply the rule.
+For this repo: always read **`AGENTS.md`** and **`task.md`** (repo root) before authoring or changing question content, especially unique in-depth explanations (EN/FR, beginner/intermediate/expert). See `task.md` for progress and file locations. **Reply to the user in English** unless they explicitly ask for another language for that message (`AGENTS.md` §2).

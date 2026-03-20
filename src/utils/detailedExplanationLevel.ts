@@ -1,6 +1,7 @@
 import type { Question } from '../types';
 import { buildFallacyEnglishDetailed } from './foundationDetailedFormatter';
 import { getFallacyCodonExplanationEN, isFallacyPlaceholder } from '../data/fallacyCodonExplanations';
+import { LEVEL_0_STANDALONE_EN } from '../data/inDepth/level0StandaloneInDepth';
 
 export type DetailedExplanationLevel = 'beginner' | 'intermediate' | 'expert';
 
@@ -9,11 +10,18 @@ export type DetailedExplanationLevel = 'beginner' | 'intermediate' | 'expert';
  * Falls back to detailedExplanation when level-specific text is missing.
  * Prefers question-specific text if it's not a placeholder;
  * otherwise uses rich codon explanations when the correct option (fallacy name) exists.
+ *
+ * Level 0: full standalone in-depth copy from `level0StandaloneInDepth.ts` when present for this ID (English).
  */
 export function getDetailedExplanationForLevel(
   q: Question,
   level: DetailedExplanationLevel
 ): string | undefined {
+  if (q.level === 0) {
+    const standalone = LEVEL_0_STANDALONE_EN[q.id]?.[level];
+    if (standalone) return standalone;
+  }
+
   const fallback = q.detailedExplanation;
   const baseByLevel = (() => {
     switch (level) {

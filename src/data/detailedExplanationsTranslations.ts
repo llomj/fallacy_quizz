@@ -1,7 +1,8 @@
-import { SHORT_EXPLANATIONS_FR } from './shortExplanationsTranslations';
+import { SHORT_EXPLANATIONS_FR, isLogicalFallaciesAppQuestionId } from './shortExplanationsTranslations';
 import { containsEnglishProse, normalizeFrenchProse } from '../utils/frenchText';
 import { buildFallacyFrenchDetailed, type ExplanationDepth } from '../utils/foundationDetailedFormatter';
 import { getFallacyCodonExplanationFR } from './fallacyCodonExplanations';
+import { LEVEL_0_STANDALONE_FR } from './inDepth/level0StandaloneInDepth';
 
 /**
  * French translations for detailed explanations (explication du codon / description approfondie).
@@ -75400,6 +75401,9 @@ const containsCLITerminalContent = (text: string): boolean => {
 };
 
 const getFrenchDetailedFallback = (questionId: number): string => {
+  if (isLogicalFallaciesAppQuestionId(questionId)) {
+    return "Analysez prémisses, conclusion et options : le libellé correct résume le geste logique principal dans l’énoncé.";
+  }
   const shortExplanation = SHORT_EXPLANATIONS_FR[questionId];
   if (shortExplanation) {
     return `Explication en français :\n${shortExplanation}\n\nDescription approfondie complète en cours de normalisation.`;
@@ -75426,6 +75430,12 @@ export const getTranslatedDetailedExplanation = (
     return inputText;
   }
 
+  // Level 0: French standalone in-depth (full panel, parity with English) — see task.md / level0StandaloneInDepth.ts
+  const frStandalone = LEVEL_0_STANDALONE_FR[questionId]?.[explanationLevel];
+  if (frStandalone) {
+    return frStandalone;
+  }
+
   // If the input text is already in French (e.g. from LEVEL_0_GEN_FR), use it as the base.
   // We detect this by checking if it contains French-specific characters or by common sense for Level 0.
   const isAlreadyFrench = !containsEnglishProse(normalizeFrenchProse(inputText)) || (questionId >= 1000 && questionId <= 1600);
@@ -75436,6 +75446,11 @@ export const getTranslatedDetailedExplanation = (
 
   const baseFrench = (() => {
     if (isAlreadyFrench) return normalizeFrenchProse(inputText);
+    // Fallacy app: never use legacy `DETAILED_EXPLANATIONS_FR` (CLI course) — prefer codon FR, then EN in-depth text.
+    if (isLogicalFallaciesAppQuestionId(questionId)) {
+      if (codonFr) return codonFr;
+      return normalizeFrenchProse(inputText);
+    }
     if (mappedFrench && !containsCLITerminalContent(mappedFrench)) {
       return normalizeFrenchProse(mappedFrench);
     }
@@ -75443,10 +75458,14 @@ export const getTranslatedDetailedExplanation = (
     return getFrenchDetailedFallback(questionId);
   })();
 
+  const shortForPanel = isLogicalFallaciesAppQuestionId(questionId)
+    ? undefined
+    : SHORT_EXPLANATIONS_FR[questionId];
+
   return buildFallacyFrenchDetailed({
     depth: explanationLevel,
     baseText: baseFrench,
-    shortText: SHORT_EXPLANATIONS_FR[questionId],
+    shortText: shortForPanel,
     questionText,
     correctOption,
   });

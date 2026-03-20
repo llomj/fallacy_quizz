@@ -12,11 +12,13 @@
 - **Layout Preservation**: Do not deviate from the existing visual identity.
 - **Incremental Updates**: Keep updates as minimal as possible while satisfying requirements.
 - **Strict Scope Control**: When the user asks for a specific change, implement only that request. Do not add extra UI elements, display changes, or additional features unless explicitly requested.
+- **Agent replies in English**: AI agents working on this project must **reply to the user in English** in chat, summaries, and task wrap-ups, unless the user explicitly asks for another language for that message. (The app itself remains bilingual per §6; French question content and UI strings are unchanged—this rule applies to **agent–user communication** only.)
 
 ## 3. Glossary & Educational Integrity
 - **Glossary Source of Truth**: The `glossary.md` file is the master reference for all logical fallacy and argumentation definitions.
 - **Consistency Rule**: All definitions must be consistent with `glossary.md`.
 - **Pre-Change Check**: Agents must always consult `ps.md` and `planning.md` before making changes.
+- **In-depth authoring progress**: Agents must always consult **`task.md`** at the repo root for unique per-question in-depth explanations (EN/FR parity, beginner/intermediate/expert), which files to edit, and what is already complete.
 - **Debugging Reference**: Agents must always consult `ps.md` for debugging information and urgent issues.
 
 ## 4. The 900-Question Genome Goal

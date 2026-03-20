@@ -5693,6 +5693,48 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "questionFormat": "standard"
   },
   {
+    "id": 1272,
+    "level": 0,
+    "persona_stage": PersonaStage.TADPOLE,
+    "concept": "soundness-definition",
+    "difficulty": 1,
+    "subLevel": SubLevel.EXPERT,
+    "question": "Software audit: the protocol is implemented correctly and the logged inputs match the real traffic. That parallels:",
+    "options": [
+      "Sound reasoning.",
+      "Validity without true inputs.",
+      "Persuasion without evidence.",
+      "Invalid form with accurate logs."
+    ],
+    "correct_option_index": 0,
+    "explanation": "Soundness = Validity + Truth.",
+    "detailedExplanationBeginner": "Logic + Truth.",
+    "detailedExplanationIntermediate": "Two criteria: validity and material truth.",
+    "detailedExplanationExpert": "Valid \u2227 Truth(P).",
+    "questionFormat": "standard"
+  },
+  {
+    "id": 1273,
+    "level": 0,
+    "persona_stage": PersonaStage.TADPOLE,
+    "concept": "soundness-definition",
+    "difficulty": 1,
+    "subLevel": SubLevel.EXPERT,
+    "question": "A student says: \"The premises are all true, so the argument is sound.\" This can still fail if:",
+    "options": [
+      "The inference pattern is invalid.",
+      "The conclusion is unpopular.",
+      "The premises are too short.",
+      "The speech uses jargon."
+    ],
+    "correct_option_index": 0,
+    "explanation": "Soundness = Validity + Truth.",
+    "detailedExplanationBeginner": "Logic + Truth.",
+    "detailedExplanationIntermediate": "Two criteria: validity and material truth.",
+    "detailedExplanationExpert": "Valid \u2227 Truth(P).",
+    "questionFormat": "standard"
+  },
+  {
     "id": 1274,
     "level": 0,
     "persona_stage": PersonaStage.TADPOLE,
@@ -11945,6 +11987,48 @@ export const LEVEL_0_GEN_FR: Question[] = [
       "Juste valide.",
       "Juste vrai.",
       "Convaincant."
+    ],
+    "correct_option_index": 0,
+    "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
+    "detailedExplanationBeginner": "Logique + V\u00e9rit\u00e9.",
+    "detailedExplanationIntermediate": "Deux crit\u00e8res : validit\u00e9 et v\u00e9rit\u00e9 mat\u00e9rielle.",
+    "detailedExplanationExpert": "Valide \u2227 V\u00e9rit\u00e9(P).",
+    "questionFormat": "standard"
+  },
+  {
+    "id": 1272,
+    "level": 0,
+    "persona_stage": PersonaStage.TADPOLE,
+    "concept": "soundness-definition",
+    "difficulty": 1,
+    "subLevel": SubLevel.EXPERT,
+    "question": "Audit logiciel : le protocole est correctement impl\u00e9ment\u00e9 et les journaux refl\u00e8tent le trafic r\u00e9el. Cela correspond \u00e0 :",
+    "options": [
+      "Un raisonnement sain.",
+      "La validit\u00e9 sans v\u00e9rit\u00e9 des entr\u00e9es.",
+      "La persuasion sans preuve.",
+      "Un sch\u00e9ma invalide avec des journaux exacts."
+    ],
+    "correct_option_index": 0,
+    "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
+    "detailedExplanationBeginner": "Logique + V\u00e9rit\u00e9.",
+    "detailedExplanationIntermediate": "Deux crit\u00e8res : validit\u00e9 et v\u00e9rit\u00e9 mat\u00e9rielle.",
+    "detailedExplanationExpert": "Valide \u2227 V\u00e9rit\u00e9(P).",
+    "questionFormat": "standard"
+  },
+  {
+    "id": 1273,
+    "level": 0,
+    "persona_stage": PersonaStage.TADPOLE,
+    "concept": "soundness-definition",
+    "difficulty": 1,
+    "subLevel": SubLevel.EXPERT,
+    "question": "Un \u00e9tudiant dit : \u00ab Toutes les pr\u00e9misses sont vraies, donc l'argument est sain. \u00bb Cela peut encore \u00e9chouer si :",
+    "options": [
+      "Le sch\u00e9ma d'inf\u00e9rence est invalide.",
+      "La conclusion est impopulaire.",
+      "Les pr\u00e9misses sont trop courtes.",
+      "Le discours utilise du jargon."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",

@@ -3008,9 +3008,23 @@ export const SHORT_EXPLANATIONS_FR: Record<number, string> = {
 };
 
 /**
+ * Logical Fallacies app question ID ranges (see `questionsBank.ts`: fallaciesData + level0Data).
+ * `SHORT_EXPLANATIONS_FR` was authored for a legacy CLI course and reuses the same numeric IDs — those
+ * strings must not override the question bank’s short explanation in French.
+ */
+/** Exported for `detailedExplanationsTranslations.ts` (same ID-range rule). */
+export function isLogicalFallaciesAppQuestionId(questionId: number): boolean {
+  return (
+    (questionId >= 1 && questionId <= 900) ||
+    (questionId >= 1001 && questionId <= 1300)
+  );
+}
+
+/**
  * Returns the short explanation in the correct language.
- * When language is French and a translation exists, returns the French version.
- * Otherwise returns the English (original) text.
+ * When language is French and a legacy translation exists, returns it only for non-fallacy IDs
+ * (the fallacy app always uses the text from the question object in the active language bank).
+ * Otherwise returns `englishText` (typically the explanation field on the current question).
  */
 export const getTranslatedShortExplanation = (
   questionId: number,
@@ -3018,6 +3032,9 @@ export const getTranslatedShortExplanation = (
   language: string
 ): string => {
   if (language === 'fr' && SHORT_EXPLANATIONS_FR[questionId]) {
+    if (isLogicalFallaciesAppQuestionId(questionId)) {
+      return englishText;
+    }
     return SHORT_EXPLANATIONS_FR[questionId];
   }
   return englishText;
