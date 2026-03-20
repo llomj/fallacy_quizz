@@ -3,6 +3,7 @@ import { containsEnglishProse, normalizeFrenchProse } from '../utils/frenchText'
 import { buildFallacyFrenchDetailed, type ExplanationDepth } from '../utils/foundationDetailedFormatter';
 import { getFallacyCodonExplanationFR } from './fallacyCodonExplanations';
 import { LEVEL_0_STANDALONE_FR } from './inDepth/level0StandaloneInDepth';
+import { LEVEL_1_STANDALONE_FR } from './inDepth/level1StandaloneInDepth';
 
 /**
  * French translations for detailed explanations (explication du codon / description approfondie).
@@ -75432,10 +75433,14 @@ export const getTranslatedDetailedExplanation = (
     return inputText;
   }
 
-  // Level 0: French standalone in-depth (full panel, parity with English) — see task.md / level0StandaloneInDepth.ts
-  const frStandalone = LEVEL_0_STANDALONE_FR[questionId]?.[explanationLevel];
-  if (frStandalone) {
-    return frStandalone;
+  // Standalone French in-depth (full panel): Level 0 IDs 1001–1300, Level 1 IDs 1–90 — see task.md
+  if (questionId >= 1001 && questionId <= 1300) {
+    const frL0 = LEVEL_0_STANDALONE_FR[questionId]?.[explanationLevel];
+    if (frL0) return frL0;
+  }
+  if (questionId >= 1 && questionId <= 90) {
+    const frL1 = LEVEL_1_STANDALONE_FR[questionId]?.[explanationLevel];
+    if (frL1) return frL1;
   }
 
   // If the input text is already in French (e.g. from LEVEL_0_GEN_FR), use it as the base.

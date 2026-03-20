@@ -5,9 +5,13 @@
 **Technical source of truth (Level 0):** `src/data/inDepth/level0StandaloneInDepth.ts`  
 - `LEVEL_0_STANDALONE_EN` / `LEVEL_0_STANDALONE_FR`: `Record<questionId, { beginner, intermediate, expert }>` (partial; fill over time).  
 - When an ID is present, the app shows that string as the **full** in-depth panel (no codon wrapper).  
-- Pipeline: `getDetailedExplanationForLevel` (EN) and `getTranslatedDetailedExplanation` (FR) read these maps first for Level 0.
+- Pipeline: `getDetailedExplanationForLevel` (EN) and `getTranslatedDetailedExplanation` (FR) read these maps first for Level 0 (IDs **1001–1300** in FR lookup).
 
-**Future levels (1–10):** Add parallel modules (e.g. `level1StandaloneInDepth.ts`) and the same lookup pattern, or extend types — **do not** duplicate giant blobs inside `fallaciesData.ts` without a plan; prefer sidecar maps keyed by ID.
+**Level 1:** `src/data/inDepth/level1StandaloneInDepth.ts`  
+- `LEVEL_1_STANDALONE_EN` / `LEVEL_1_STANDALONE_FR` for **IDs 1–90** (`fallaciesData.ts`, `level: 1`).  
+- Wired in the same pipeline; FR lookup uses ID range **1–90** before codon/legacy fallbacks.
+
+**Future levels (2–10):** Add `level2StandaloneInDepth.ts` … `level10StandaloneInDepth.ts` (or a merged module) using the same pattern — **do not** duplicate giant blobs inside `fallaciesData.ts` without a plan; prefer sidecar maps keyed by ID.
 
 ---
 
@@ -16,7 +20,7 @@
 | Level | Question IDs (approx.) | Count | Status |
 |-------|------------------------|-------|--------|
 | 0 | 1001–1300 | 300 | **Standalone text complete** for all IDs present in bank (see below) |
-| 1 | TBD from `fallaciesData` / level files | 100 | Not started |
+| 1 | 1–90 (`level: 1` in `fallaciesData`) | 90 | **In progress** — maps exist; **0 / 90** IDs authored (see below) |
 | … | … | … | … |
 
 ---
@@ -45,9 +49,19 @@
 
 **Completed IDs (Level 0):** **1001–1300** (**300 / 300**)
 
-**Last updated:** 2026-03-20
-
 **Note:** For the same numeric ID, `LEVEL_0_GEN_EN` and `LEVEL_0_GEN_FR` sometimes use **different scenarios** (e.g. ID 1012). French in-depth entries must match the **French** question text, not a literal translation of the English item.
+
+---
+
+## Level 1 progress (90 IDs: 1–90)
+
+**Rule:** Mark an ID **done** only when **both** `LEVEL_1_STANDALONE_EN` and `LEVEL_1_STANDALONE_FR` contain `beginner`, `intermediate`, and `expert` for that ID.
+
+**Source of truth:** `LEVEL_1_GEN_EN` / `LEVEL_1_GEN_FR` are **not** separate files — questions live in **`fallaciesData.ts`** (`FALLACY_QUESTIONS_EN` / `FALLACY_QUESTIONS_FR`), IDs **1–90**, `level: 1`.
+
+| Range | IDs complete | Notes |
+|-------|----------------|-------|
+| 1–90 | **0 / 90** | Infrastructure ready (`level1StandaloneInDepth.ts`); authoring not started |
 
 ---
 
@@ -61,10 +75,14 @@
 6. Add entries to both `LEVEL_0_STANDALONE_EN` and `LEVEL_0_STANDALONE_FR` for the same ID.
 7. Run `npm run build` before committing.
 
+**Level 1:** Same checklist, but use `LEVEL_1_STANDALONE_EN` / `LEVEL_1_STANDALONE_FR` and the **Level 1** question rows in `fallaciesData.ts` (IDs **1–90**).
+
 ---
 
 ## Agents
 
 - **Always read this file** before adding or editing in-depth content.  
 - Keep `AGENTS.md` glossary and `glossary.md` consistency for fallacy definitions.  
-- After completing a batch, update the **Range** table and **Last updated** above.
+- After completing a batch, update the **Range** table and **Last updated** below.
+
+**Last updated:** 2026-03-20
