@@ -997,7 +997,8 @@ export const QuizView: React.FC<QuizViewProps> = ({
                           language,
                           detailedExplanationLevel,
                           currentQuestion.question,
-                          currentQuestion.options[currentQuestion.correct_option_index]
+                          currentQuestion.options[currentQuestion.correct_option_index],
+                          currentQuestion.explanation
                         )}
                       </div>
                     </div>

@@ -75424,7 +75424,9 @@ export const getTranslatedDetailedExplanation = (
   language: string,
   explanationLevel: ExplanationDepth = 'intermediate',
   questionText?: string,
-  correctOption?: string
+  correctOption?: string,
+  /** Pass `question.explanation` from the active language bank so French panels get a real short hook when legacy ID maps are skipped. */
+  shortExplanationFromBank?: string
 ): string => {
   if (language !== 'fr') {
     return inputText;
@@ -75458,9 +75460,12 @@ export const getTranslatedDetailedExplanation = (
     return getFrenchDetailedFallback(questionId);
   })();
 
-  const shortForPanel = isLogicalFallaciesAppQuestionId(questionId)
-    ? undefined
-    : SHORT_EXPLANATIONS_FR[questionId];
+  const shortForPanel = (() => {
+    if (isLogicalFallaciesAppQuestionId(questionId)) {
+      return shortExplanationFromBank?.trim() || undefined;
+    }
+    return SHORT_EXPLANATIONS_FR[questionId];
+  })();
 
   return buildFallacyFrenchDetailed({
     depth: explanationLevel,

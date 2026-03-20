@@ -279,7 +279,8 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
                               language,
                               detailedExplanationLevel,
                               question.question,
-                              question.options[question.correct_option_index]
+                              question.options[question.correct_option_index],
+                              question.explanation
                             )}
                           </p>
                         </div>

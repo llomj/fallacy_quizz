@@ -303,7 +303,8 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                               language,
                               detailedExplanationLevel,
                               bankQuestion?.question ?? attempt.question,
-                              bankQuestion ? bankQuestion.options[bankQuestion.correct_option_index] : attempt.correctOption
+                              bankQuestion ? bankQuestion.options[bankQuestion.correct_option_index] : attempt.correctOption,
+                              bankQuestion?.explanation
                             )}
                           </div>
                         </div>

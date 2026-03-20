@@ -275,7 +275,8 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
                                 language,
                                 detailedExplanationLevel,
                                 bankQuestion?.question ?? entry.question,
-                                bankQuestion ? bankQuestion.options[bankQuestion.correct_option_index] : entry.correctAnswer
+                                bankQuestion ? bankQuestion.options[bankQuestion.correct_option_index] : entry.correctAnswer,
+                                bankQuestion?.explanation
                               )}
                             </div>
                           </div>
