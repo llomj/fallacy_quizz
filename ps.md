@@ -18,6 +18,26 @@ git push fallacy main
 
 ---
 
+## URGENT: Question stems must not leak the correct answer
+
+**Rule:** The **quoted scenario / question text** must **never** repeat distinctive wording from the **correct multiple-choice option** (or otherwise telegraph the fallacy name). Label-style stems like `"Incredulity rejection."`, `"Anchoring on initial data."`, or `"Framing risks as losses or gains."` are **invalid** — they make the quiz trivial.
+
+**Also forbidden:** Duplicate answer choices in the same question (e.g. the same option string twice).
+
+**Authoring:** Write a **concrete vignette** (who said what, what happened) so the learner must **infer** the fallacy from the reasoning, not from vocabulary copied from the glossary.
+
+**Verification:** From repo root:
+
+```bash
+npm run audit-answer-leaks
+```
+
+This lists EN questions where long tokens from the keyed answer appear in the stem (review for false positives vs real leaks). Fix obvious leaks before shipping content changes.
+
+**Data:** `src/data/questions/fallaciesData.ts` (EN `FALLACY_QUESTIONS_EN`; FR `FALLACY_QUESTIONS_FR`).
+
+---
+
 ## MUST FIX: Quiz wrong / correct answer sounds (no audio on tap)
 
 **Symptom:** User taps a wrong answer (purple panel) or correct answer and **hears nothing**, including on iPhone / PWA / “browser app”, even when Settings → Sound is on.
