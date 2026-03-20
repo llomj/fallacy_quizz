@@ -12,7 +12,8 @@ import {
   mapSelectedIndexAfterRemap,
   asUiLang
 } from '../utils/remapQuestionLanguage';
-import { getTranslatedShortExplanation, SHORT_EXPLANATIONS_FR } from '../data/shortExplanationsTranslations';
+import { getTranslatedShortExplanation, SHORT_EXPLANATIONS_FR, isLogicalFallaciesAppQuestionId } from '../data/shortExplanationsTranslations';
+import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
 import { balanceDisplayedOptionLengths } from '../utils/optionLengthBalancer';
 import { primeAudioContext } from '../utils/sounds';
@@ -637,6 +638,9 @@ export const QuizView: React.FC<QuizViewProps> = ({
   const selectedOptionRef = useRef(selectedOption);
   selectedOptionRef.current = selectedOption;
 
+  const questionsRef = useRef(questions);
+  questionsRef.current = questions;
+
   // Helper function to shuffle array and track original index of correct answer
   const shuffleOptions = (question: Question): Question => {
     const options = [...question.options];
@@ -698,33 +702,42 @@ export const QuizView: React.FC<QuizViewProps> = ({
     // If completedIds (passed from props) changes, we do NOT re-run this.
   }, [level, randomizeTrigger, randomMode]);
 
+  // Only [language]: pin active question by id so we never advance/skip after remap; avoid
+  // re-running when questions.length changes (e.g. initial load) which could desync index.
   useLayoutEffect(() => {
     if (batchLanguageRef.current === language) return;
 
     const fromLang = asUiLang(batchLanguageRef.current);
     const toLang = asUiLang(language);
 
-    if (questions.length === 0) {
+    if (questionsRef.current.length === 0) {
       batchLanguageRef.current = language;
       setBatchLanguage(language);
       return;
     }
 
     setQuestions((prev) => {
+      if (prev.length === 0) return prev;
       const idx = currentIndexRef.current;
+      const pinnedId = prev[idx]?.id;
       const next = prev.map((q) => remapQuestionToLanguage(q, fromLang, toLang));
+      const newIdx = pinnedId != null ? next.findIndex((q) => q.id === pinnedId) : idx;
+      const safeIdx = newIdx >= 0 ? newIdx : idx;
+
       const oldQ = prev[idx];
-      const newQ = next[idx];
+      const newQ = next[safeIdx];
       const sel = selectedOptionRef.current;
-      if (sel !== null && oldQ && newQ) {
-        const newSel = mapSelectedIndexAfterRemap(oldQ, newQ, sel, fromLang, toLang);
-        queueMicrotask(() => setSelectedOption(newSel));
-      }
+      queueMicrotask(() => {
+        setCurrentIndex(safeIdx);
+        if (sel !== null && oldQ && newQ) {
+          setSelectedOption(mapSelectedIndexAfterRemap(oldQ, newQ, sel, fromLang, toLang));
+        }
+      });
       return next;
     });
     batchLanguageRef.current = language;
     setBatchLanguage(language);
-  }, [language, questions.length]);
+  }, [language]);
 
   const handleOptionClick = (index: number) => {
     if (isAnswered) return;
@@ -1017,15 +1030,16 @@ export const QuizView: React.FC<QuizViewProps> = ({
                   const displayShortExp = (language === 'fr' && !SHORT_EXPLANATIONS_FR[currentQuestion.id])
                     ? translateText(shortExp, language)
                     : shortExp;
-                  return currentQuestion.explanation.match(/\b(def|print|for|if|while|class|import)\b/) ? (
+                  return !isLogicalFallaciesAppQuestionId(currentQuestion.id) &&
+                    currentQuestion.explanation.match(/\b(def|print|for|if|while|class|import)\b/) ? (
                     <div className="p-4 overflow-x-hidden bg-slate-900 rounded-lg">
                       <pre className="text-yellow-400 text-sm leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
-                        {formatCodeSnippet(displayShortExp)}
+                        {formatCodeSnippet(normalizeExplanationWhitespace(displayShortExp))}
                       </pre>
                     </div>
                   ) : (
                     <p className="text-yellow-400 leading-relaxed text-sm font-medium whitespace-pre-wrap">
-                      {displayShortExp}
+                      {normalizeExplanationWhitespace(displayShortExp)}
                     </p>
                   );
                 })()}
@@ -1052,14 +1066,16 @@ export const QuizView: React.FC<QuizViewProps> = ({
                         </label>
                       </div>
                       <div className="text-yellow-400 leading-relaxed text-sm whitespace-pre-wrap bg-transparent">
-                        {getTranslatedDetailedExplanation(
-                          currentQuestion.id,
-                          getDetailedExplanationForLevel(currentQuestion, detailedExplanationLevel) ?? '',
-                          language,
-                          detailedExplanationLevel,
-                          currentQuestion.question,
-                          currentQuestion.options[currentQuestion.correct_option_index],
-                          currentQuestion.explanation
+                        {normalizeExplanationWhitespace(
+                          getTranslatedDetailedExplanation(
+                            currentQuestion.id,
+                            getDetailedExplanationForLevel(currentQuestion, detailedExplanationLevel) ?? '',
+                            language,
+                            detailedExplanationLevel,
+                            currentQuestion.question,
+                            currentQuestion.options[currentQuestion.correct_option_index],
+                            currentQuestion.explanation
+                          )
                         )}
                       </div>
                     </div>
