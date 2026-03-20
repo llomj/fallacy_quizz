@@ -659,9 +659,12 @@ export const QuizView: React.FC<QuizViewProps> = ({
       }
     };
     fetchQuestions();
-    // Dependency on 'level', 'randomizeTrigger', 'randomMode', and 'language'. If any changes, we reset.
+    // Depends on level / randomizeTrigger / randomMode only — not `language`.
+    // Same question batch stays loaded; UI language comes from context at render time
+    // (getQuestionDisplay, getTranslatedDetailedExplanation) so in-depth and the card
+    // switch to French/English immediately without refetching or resetting progress.
     // If completedIds (passed from props) changes, we do NOT re-run this.
-  }, [level, randomizeTrigger, randomMode, language]);
+  }, [level, randomizeTrigger, randomMode]);
 
   const handleOptionClick = (index: number) => {
     if (isAnswered) return;
