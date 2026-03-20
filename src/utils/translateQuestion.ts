@@ -1231,7 +1231,7 @@ const sanitizeFrenchArtifacts = (text: string): string => {
 };
 
 /** Strip "Identify the logical fallacy in this example..." / "Identifiez l'erreur logique..." prefix and optional surrounding quotes. */
-const stripFallacyInstructionPrefix = (q: string): string => {
+export const stripFallacyInstructionPrefix = (q: string): string => {
   const enPrefix = /^Identify the logical fallacy in this example:\s*\n*\s*/i;
   const frPrefixSophisme = /^Identifiez le sophisme (?:logique )?dans cet exemple\s*:\s*\n*\s*/i;
   const frPrefixErreur = /^Identifiez l'erreur logique dans cet exemple\s*:\s*\n*\s*/i;
@@ -1248,6 +1248,18 @@ const stripFallacyInstructionPrefix = (q: string): string => {
  * For logical fallacy questions, the "Identify the logical fallacy in this example..." prefix
  * is stripped so only the example argument is shown.
  */
+/**
+ * When the loaded question bank already matches the UI language (native EN or FR),
+ * use this — no EN→FR translation pass (avoids mangling French bank text).
+ */
+export const getQuestionDisplayNativeBank = (
+  question: string,
+  options: string[]
+): { question: string; options: string[] } => {
+  const questionOnly = stripFallacyInstructionPrefix(question);
+  return { question: questionOnly, options };
+};
+
 export const getQuestionDisplay = (
   language: string,
   question: string,

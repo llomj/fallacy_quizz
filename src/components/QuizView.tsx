@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useLayoutEffect, useRef } from 'react';
 import { Question, QuestionAttempt } from '../types';
 import { quizService } from '../services/quizService';
 import { ProgressBar } from './ProgressBar';
@@ -6,7 +6,12 @@ import { LEVELS } from '../constants';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
-import { translateQuestionText, getQuestionDisplay } from '../utils/translateQuestion';
+import { translateQuestionText, getQuestionDisplay, getQuestionDisplayNativeBank } from '../utils/translateQuestion';
+import {
+  remapQuestionToLanguage,
+  mapSelectedIndexAfterRemap,
+  asUiLang
+} from '../utils/remapQuestionLanguage';
 import { getTranslatedShortExplanation, SHORT_EXPLANATIONS_FR } from '../data/shortExplanationsTranslations';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
 import { balanceDisplayedOptionLengths } from '../utils/optionLengthBalancer';
@@ -562,6 +567,8 @@ interface QuizViewProps {
   level: number;
   currentProgress: number;
   completedIds: number[];
+  /** Question IDs excluded after enough correct answers at that question's level (see quizRepeatLimits). */
+  exhaustedIdsFromRepeatCorrect?: number[];
   /** Earned stars for current level (0 until ~10% progress); used for star display in level mode. */
   earnedStarsForLevel?: number;
   onAttempt: (attempt: QuestionAttempt) => void;
@@ -583,6 +590,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
   level,
   currentProgress,
   completedIds,
+  exhaustedIdsFromRepeatCorrect = [],
   earnedStarsForLevel = 0,
   onAttempt,
   onComplete,
@@ -609,11 +617,24 @@ export const QuizView: React.FC<QuizViewProps> = ({
   const [detailedExplanationLevel, setDetailedExplanationLevel] = useState<DetailedExplanationLevel>('intermediate');
   const [justSavedId, setJustSavedId] = useState<number | null>(null);
 
-  // We use a ref to capture completedIds at the START of the quiz session.
-  // This prevents the quiz from re-fetching if completedIds updates mid-quiz.
+  // Snapshot at the start of each fetch (level / randomize / mode change). Mid-quiz prop updates do not re-run the effect.
   const initialCompletedIds = useRef(completedIds);
+  const initialExhaustedIds = useRef(exhaustedIdsFromRepeatCorrect);
   // Ref for session correct count - updated synchronously so live score displays immediately
   const sessionCorrectRef = useRef(0);
+
+  /** Always read latest language in async fetch (bank selection). */
+  const languageRef = useRef(language);
+  languageRef.current = language;
+
+  /** Question bank locale for the current batch (EN vs FR). Kept in sync with loaded/remapped questions. */
+  const batchLanguageRef = useRef(language);
+  const [batchLanguage, setBatchLanguage] = useState(language);
+
+  const currentIndexRef = useRef(currentIndex);
+  currentIndexRef.current = currentIndex;
+  const selectedOptionRef = useRef(selectedOption);
+  selectedOptionRef.current = selectedOption;
 
   // Helper function to shuffle array and track original index of correct answer
   const shuffleOptions = (question: Question): Question => {
@@ -640,11 +661,23 @@ export const QuizView: React.FC<QuizViewProps> = ({
     const fetchQuestions = async () => {
       try {
         setLoading(true);
+        initialCompletedIds.current = completedIds;
+        initialExhaustedIds.current = exhaustedIdsFromRepeatCorrect;
         // Fetch questions based on mode: level-specific or random from all levels
-        const data = await quizService.getBatch(level, 15, initialCompletedIds.current, randomMode, language);
+        const lang = languageRef.current;
+        const data = await quizService.getBatch(
+          level,
+          15,
+          initialCompletedIds.current,
+          randomMode,
+          lang,
+          initialExhaustedIds.current
+        );
         // Shuffle options for each question so correct answer isn't always first
         const shuffledQuestions = data.map(shuffleOptions);
         setQuestions(shuffledQuestions);
+        batchLanguageRef.current = lang;
+        setBatchLanguage(lang);
         // Reset quiz state when questions are re-randomized
         setCurrentIndex(0);
         setSelectedOption(null);
@@ -659,12 +692,38 @@ export const QuizView: React.FC<QuizViewProps> = ({
       }
     };
     fetchQuestions();
-    // Depends on level / randomizeTrigger / randomMode only — not `language`.
-    // Same question batch stays loaded; UI language comes from context at render time
-    // (getQuestionDisplay, getTranslatedDetailedExplanation) so in-depth and the card
-    // switch to French/English immediately without refetching or resetting progress.
+    // Level / randomize / mode: new batch from the bank matching languageRef at fetch time.
+    // Mid-session language changes are handled in useLayoutEffect (remap same IDs, keep progress).
     // If completedIds (passed from props) changes, we do NOT re-run this.
   }, [level, randomizeTrigger, randomMode]);
+
+  useLayoutEffect(() => {
+    if (batchLanguageRef.current === language) return;
+
+    const fromLang = asUiLang(batchLanguageRef.current);
+    const toLang = asUiLang(language);
+
+    if (questions.length === 0) {
+      batchLanguageRef.current = language;
+      setBatchLanguage(language);
+      return;
+    }
+
+    setQuestions((prev) => {
+      const idx = currentIndexRef.current;
+      const next = prev.map((q) => remapQuestionToLanguage(q, fromLang, toLang));
+      const oldQ = prev[idx];
+      const newQ = next[idx];
+      const sel = selectedOptionRef.current;
+      if (sel !== null && oldQ && newQ) {
+        const newSel = mapSelectedIndexAfterRemap(oldQ, newQ, sel, fromLang, toLang);
+        queueMicrotask(() => setSelectedOption(newSel));
+      }
+      return next;
+    });
+    batchLanguageRef.current = language;
+    setBatchLanguage(language);
+  }, [language, questions.length]);
 
   const handleOptionClick = (index: number) => {
     if (isAnswered) return;
@@ -694,7 +753,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
       correctOption: currentQuestion.options[currentQuestion.correct_option_index],
       isCorrect,
       explanation: currentQuestion.explanation,
-      level: level,
+      level: currentQuestion.level,
       timestamp: Date.now()
     });
   };
@@ -750,11 +809,10 @@ export const QuizView: React.FC<QuizViewProps> = ({
   );
 
   const currentQuestion = questions[currentIndex];
-  const { question: displayQuestion, options: translatedOptions } = getQuestionDisplay(
-    language,
-    currentQuestion.question,
-    currentQuestion.options
-  );
+  const bankMatchesUi = batchLanguage === language;
+  const { question: displayQuestion, options: translatedOptions } = bankMatchesUi
+    ? getQuestionDisplayNativeBank(currentQuestion.question, currentQuestion.options)
+    : getQuestionDisplay(language, currentQuestion.question, currentQuestion.options);
   const displayOptions = balanceDisplayedOptionLengths(
     translatedOptions,
     currentQuestion.correct_option_index,
