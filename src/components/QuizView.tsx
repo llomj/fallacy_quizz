@@ -15,6 +15,7 @@ import {
 import { getTranslatedShortExplanation, SHORT_EXPLANATIONS_FR } from '../data/shortExplanationsTranslations';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
 import { balanceDisplayedOptionLengths } from '../utils/optionLengthBalancer';
+import { primeAudioContext } from '../utils/sounds';
 
 // Function to format code snippets with proper Python indentation
 // Ensures newline after : and 4-space indentation for the next line
@@ -948,6 +949,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 disabled={isAnswered}
                 onClick={() => handleOptionClick(idx)}
                 onPointerDown={() => {
+                  if (!isAnswered && soundEnabled) primeAudioContext();
                   if (hapticEnabled && !isAnswered && typeof navigator !== 'undefined' && navigator.vibrate) {
                     navigator.vibrate([80, 40, 80]);
                   }
