@@ -12,14 +12,19 @@ export class QuizService {
     count: number = 15,
     completedIds: number[] = [],
     randomMode: boolean = false,
-    language: string = 'en'
+    language: string = 'en',
+    /** Question IDs no longer eligible after enough correct answers at that question's level. */
+    exhaustedIds: number[] = []
   ): Promise<Question[]> {
     const questionBank = language === 'fr' ? QUESTIONS_BANK_FR : QUESTIONS_BANK_EN;
 
-    // 1. Filter by requested level OR all levels if random mode
-    const levelQuestions = randomMode
+    const exhaustedSet = new Set(exhaustedIds);
+
+    // 1. Filter by requested level OR all levels if random mode; drop questions exhausted by repeat corrects
+    const levelQuestions = (randomMode
       ? questionBank // Get questions from all levels in random mode
-      : questionBank.filter(q => q.level === level);
+      : questionBank.filter(q => q.level === level)
+    ).filter(q => !exhaustedSet.has(q.id));
 
     if (levelQuestions.length === 0) {
       return [];

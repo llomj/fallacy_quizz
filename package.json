@@ -10,6 +10,7 @@
     "export-questions": "tsx scripts/export_questions.ts",
     "validate-questions": "tsx scripts/export_questions.ts && python3 scripts/validate_cli_questions.py",
     "report-duplicates": "tsx scripts/report-duplicate-questions.ts",
+    "audit-answer-leaks": "tsx scripts/audit-answer-leaks.ts",
     "generate:standalone:level1": "node scripts/generate-level1-standalone.mjs",
     "generate:standalone:levels2-10": "node scripts/generate-standalone-levels-2-10.mjs"
   },

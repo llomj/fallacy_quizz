@@ -1,4 +1,4 @@
-import React, { useState, useEffect, lazy, Suspense } from 'react';
+import React, { useState, useEffect, useMemo, lazy, Suspense } from 'react';
 import { UserStats, PersonaStage, QuestionAttempt } from './types';
 import { EvolutionHub } from './components/EvolutionHub';
 import { SettingsMenu } from './components/SettingsMenu';
@@ -7,6 +7,7 @@ import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getQuestionsNeededForLeve
 import { useLanguage } from './contexts/LanguageContext';
 import { formatTranslation } from './translations';
 import { playStarCelebrationSound, playFiveStarCelebrationSound, playRandomFiveStarCelebrationSound, playAllLevelsCelebrationSound, playCorrectAnswerSound, playWrongAnswerSound, playButtonClickSound } from './utils/sounds';
+import { getIdsExhaustedByCorrectRepeats } from './utils/quizRepeatLimits';
 import { FallingStars } from './components/FallingStars';
 
 const LOCAL_STORAGE_KEY = 'logical_fallacies_learn_stats_v1';
@@ -81,6 +82,10 @@ const App: React.FC = () => {
   const [randomizeTrigger, setRandomizeTrigger] = useState(0);
   const [showRandomModeModal, setShowRandomModeModal] = useState(false);
   const randomMode = stats.randomMode ?? false;
+  const exhaustedIdsFromRepeatCorrect = useMemo(
+    () => getIdsExhaustedByCorrectRepeats(stats.history ?? []),
+    [stats.history]
+  );
   const [showOperations, setShowOperations] = useState(false);
   const [showMethods, setShowMethods] = useState(false);
   const [showFlags, setShowFlags] = useState(false);
@@ -488,6 +493,7 @@ const App: React.FC = () => {
               level={stats.currentLevel}
               currentProgress={currentProgress}
               completedIds={stats.completedQuestionIds}
+              exhaustedIdsFromRepeatCorrect={exhaustedIdsFromRepeatCorrect}
               earnedStarsForLevel={earnedStarsForLevel}
               onAttempt={recordAttempt}
               onComplete={handleQuizComplete}
