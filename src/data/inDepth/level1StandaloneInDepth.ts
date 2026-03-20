@@ -39,7 +39,9 @@ The passage shows **Ad Hominem** in action: attacking the person making the argu
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a health or habits story. The slip is the same: attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 2:** Picture school grades or test scores. People often reason as if attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 3:** In a news headline or social post, watch for this pattern: Attacking the person making the argument rather than addressing the argument itself.
 
 **In one sentence**  
@@ -56,9 +58,13 @@ Here, **Ad Hominem** is the right name because attacking the person making the a
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a health or habits story. The slip is the same: attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 2:** Picture school grades or test scores. People often reason as if attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 3:** In a news headline or social post, watch for this pattern: Attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 4:** Another everyday spot: a health or habits story. Attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** Attacking the person making the argument rather than addressing the argument itself.
 
 **Rules and checks (useful habits)**  
@@ -96,7 +102,9 @@ The passage shows **Ad Hominem** in action: attacking the person making the argu
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture sports or business results. People often reason as if attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 2:** In a family argument, watch for this pattern: Attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 3:** Another everyday spot: a policy or workplace discussion. Attacking the person making the argument rather than addressing the argument itself.
 
 **In one sentence**  
@@ -113,9 +121,13 @@ Here, **Ad Hominem** is the right name because attacking the person making the a
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture sports or business results. People often reason as if attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 2:** In a family argument, watch for this pattern: Attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 3:** Another everyday spot: a policy or workplace discussion. Attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 4:** **Setting:** sports or business results. **What goes wrong:** Attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 5:** Imagine a family argument. The slip is the same: attacking the person making the argument rather than addressing the argument itself.
 
 **Rules and checks (useful habits)**  
@@ -153,7 +165,9 @@ The passage shows **Ad Hominem** in action: attacking the person making the argu
 
 **More examples (same fallacy only)**  
 - **Example 1:** In school grades or test scores, watch for this pattern: Attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 2:** Another everyday spot: a news headline or social post. Attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Attacking the person making the argument rather than addressing the argument itself.
 
 **In one sentence**  
@@ -170,9 +184,13 @@ Here, **Ad Hominem** is the right name because attacking the person making the a
 
 **More examples (same fallacy only)**  
 - **Example 1:** In school grades or test scores, watch for this pattern: Attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 2:** Another everyday spot: a news headline or social post. Attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 4:** Imagine school grades or test scores. The slip is the same: attacking the person making the argument rather than addressing the argument itself.
+
 - **Example 5:** Picture a news headline or social post. People often reason as if attacking the person making the argument rather than addressing the argument itself.
 
 **Rules and checks (useful habits)**  
@@ -210,7 +228,9 @@ The passage shows **Appeal to Authority** in action: using an authority figure's
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a family argument. Using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 3:** Imagine sports or business results. The slip is the same: using an authority figure's opinion as evidence when they are not an expert on the topic.
 
 **In one sentence**  
@@ -227,9 +247,13 @@ Here, **Appeal to Authority** is the right name because using an authority figur
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a family argument. Using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 3:** Imagine sports or business results. The slip is the same: using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 4:** Picture a family argument. People often reason as if using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 5:** In a policy or workplace discussion, watch for this pattern: Using an authority figure's opinion as evidence when they are not an expert on the topic.
 
 **Rules and checks (useful habits)**  
@@ -267,7 +291,9 @@ The passage shows **Appeal to Authority** in action: using an authority figure's
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 2:** Imagine a health or habits story. The slip is the same: using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 3:** Picture school grades or test scores. People often reason as if using an authority figure's opinion as evidence when they are not an expert on the topic.
 
 **In one sentence**  
@@ -284,9 +310,13 @@ Here, **Appeal to Authority** is the right name because using an authority figur
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 2:** Imagine a health or habits story. The slip is the same: using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 3:** Picture school grades or test scores. People often reason as if using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 4:** In a news headline or social post, watch for this pattern: Using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 5:** Another everyday spot: a health or habits story. Using an authority figure's opinion as evidence when they are not an expert on the topic.
 
 **Rules and checks (useful habits)**  
@@ -324,7 +354,9 @@ The passage shows **Appeal to Authority** in action: using an authority figure's
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a policy or workplace discussion. The slip is the same: using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 2:** Picture sports or business results. People often reason as if using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 3:** In a family argument, watch for this pattern: Using an authority figure's opinion as evidence when they are not an expert on the topic.
 
 **In one sentence**  
@@ -341,9 +373,13 @@ Here, **Appeal to Authority** is the right name because using an authority figur
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a policy or workplace discussion. The slip is the same: using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 2:** Picture sports or business results. People often reason as if using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 3:** In a family argument, watch for this pattern: Using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 4:** Another everyday spot: a policy or workplace discussion. Using an authority figure's opinion as evidence when they are not an expert on the topic.
+
 - **Example 5:** **Setting:** sports or business results. **What goes wrong:** Using an authority figure's opinion as evidence when they are not an expert on the topic.
 
 **Rules and checks (useful habits)**  
@@ -381,7 +417,9 @@ The passage shows **Appeal to Tradition** in action: arguing that something is b
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a health or habits story. People often reason as if arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 2:** In school grades or test scores, watch for this pattern: Arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 3:** Another everyday spot: a news headline or social post. Arguing that something is better or correct simply because it is older or traditional.
 
 **In one sentence**  
@@ -398,9 +436,13 @@ Here, **Appeal to Tradition** is the right name because arguing that something i
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a health or habits story. People often reason as if arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 2:** In school grades or test scores, watch for this pattern: Arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 3:** Another everyday spot: a news headline or social post. Arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 4:** **Setting:** a health or habits story. **What goes wrong:** Arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 5:** Imagine school grades or test scores. The slip is the same: arguing that something is better or correct simply because it is older or traditional.
 
 **Rules and checks (useful habits)**  
@@ -438,7 +480,9 @@ The passage shows **Appeal to Tradition** in action: arguing that something is b
 
 **More examples (same fallacy only)**  
 - **Example 1:** In sports or business results, watch for this pattern: Arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 2:** Another everyday spot: a family argument. Arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Arguing that something is better or correct simply because it is older or traditional.
 
 **In one sentence**  
@@ -455,9 +499,13 @@ Here, **Appeal to Tradition** is the right name because arguing that something i
 
 **More examples (same fallacy only)**  
 - **Example 1:** In sports or business results, watch for this pattern: Arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 2:** Another everyday spot: a family argument. Arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 4:** Imagine sports or business results. The slip is the same: arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 5:** Picture a family argument. People often reason as if arguing that something is better or correct simply because it is older or traditional.
 
 **Rules and checks (useful habits)**  
@@ -495,7 +543,9 @@ The passage shows **Appeal to Tradition** in action: arguing that something is b
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: school grades or test scores. Arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 3:** Imagine a health or habits story. The slip is the same: arguing that something is better or correct simply because it is older or traditional.
 
 **In one sentence**  
@@ -512,9 +562,13 @@ Here, **Appeal to Tradition** is the right name because arguing that something i
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: school grades or test scores. Arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 3:** Imagine a health or habits story. The slip is the same: arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 4:** Picture school grades or test scores. People often reason as if arguing that something is better or correct simply because it is older or traditional.
+
 - **Example 5:** In a news headline or social post, watch for this pattern: Arguing that something is better or correct simply because it is older or traditional.
 
 **Rules and checks (useful habits)**  
@@ -552,7 +606,9 @@ The passage shows **Appeal to Novelty** in action: claiming that something is su
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a family argument. **What goes wrong:** Claiming that something is superior or true simply because it is new or modern.
+
 - **Example 2:** Imagine a policy or workplace discussion. The slip is the same: claiming that something is superior or true simply because it is new or modern.
+
 - **Example 3:** Picture sports or business results. People often reason as if claiming that something is superior or true simply because it is new or modern.
 
 **In one sentence**  
@@ -569,9 +625,13 @@ Here, **Appeal to Novelty** is the right name because claiming that something is
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a family argument. **What goes wrong:** Claiming that something is superior or true simply because it is new or modern.
+
 - **Example 2:** Imagine a policy or workplace discussion. The slip is the same: claiming that something is superior or true simply because it is new or modern.
+
 - **Example 3:** Picture sports or business results. People often reason as if claiming that something is superior or true simply because it is new or modern.
+
 - **Example 4:** In a family argument, watch for this pattern: Claiming that something is superior or true simply because it is new or modern.
+
 - **Example 5:** Another everyday spot: a policy or workplace discussion. Claiming that something is superior or true simply because it is new or modern.
 
 **Rules and checks (useful habits)**  
@@ -609,7 +669,9 @@ The passage shows **Appeal to Novelty** in action: claiming that something is su
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a news headline or social post. The slip is the same: claiming that something is superior or true simply because it is new or modern.
+
 - **Example 2:** Picture a health or habits story. People often reason as if claiming that something is superior or true simply because it is new or modern.
+
 - **Example 3:** In school grades or test scores, watch for this pattern: Claiming that something is superior or true simply because it is new or modern.
 
 **In one sentence**  
@@ -626,9 +688,13 @@ Here, **Appeal to Novelty** is the right name because claiming that something is
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a news headline or social post. The slip is the same: claiming that something is superior or true simply because it is new or modern.
+
 - **Example 2:** Picture a health or habits story. People often reason as if claiming that something is superior or true simply because it is new or modern.
+
 - **Example 3:** In school grades or test scores, watch for this pattern: Claiming that something is superior or true simply because it is new or modern.
+
 - **Example 4:** Another everyday spot: a news headline or social post. Claiming that something is superior or true simply because it is new or modern.
+
 - **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Claiming that something is superior or true simply because it is new or modern.
 
 **Rules and checks (useful habits)**  
@@ -666,7 +732,9 @@ The passage shows **Appeal to Novelty** in action: claiming that something is su
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a policy or workplace discussion. People often reason as if claiming that something is superior or true simply because it is new or modern.
+
 - **Example 2:** In sports or business results, watch for this pattern: Claiming that something is superior or true simply because it is new or modern.
+
 - **Example 3:** Another everyday spot: a family argument. Claiming that something is superior or true simply because it is new or modern.
 
 **In one sentence**  
@@ -683,9 +751,13 @@ Here, **Appeal to Novelty** is the right name because claiming that something is
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a policy or workplace discussion. People often reason as if claiming that something is superior or true simply because it is new or modern.
+
 - **Example 2:** In sports or business results, watch for this pattern: Claiming that something is superior or true simply because it is new or modern.
+
 - **Example 3:** Another everyday spot: a family argument. Claiming that something is superior or true simply because it is new or modern.
+
 - **Example 4:** **Setting:** a policy or workplace discussion. **What goes wrong:** Claiming that something is superior or true simply because it is new or modern.
+
 - **Example 5:** Imagine sports or business results. The slip is the same: claiming that something is superior or true simply because it is new or modern.
 
 **Rules and checks (useful habits)**  
@@ -723,7 +795,9 @@ The passage shows **Appeal to Popularity** in action: arguing that a proposition
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a health or habits story, watch for this pattern: Arguing that a proposition is true because many or most people believe it.
+
 - **Example 2:** Another everyday spot: school grades or test scores. Arguing that a proposition is true because many or most people believe it.
+
 - **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Arguing that a proposition is true because many or most people believe it.
 
 **In one sentence**  
@@ -740,9 +814,13 @@ Here, **Appeal to Popularity** is the right name because arguing that a proposit
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a health or habits story, watch for this pattern: Arguing that a proposition is true because many or most people believe it.
+
 - **Example 2:** Another everyday spot: school grades or test scores. Arguing that a proposition is true because many or most people believe it.
+
 - **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Arguing that a proposition is true because many or most people believe it.
+
 - **Example 4:** Imagine a health or habits story. The slip is the same: arguing that a proposition is true because many or most people believe it.
+
 - **Example 5:** Picture school grades or test scores. People often reason as if arguing that a proposition is true because many or most people believe it.
 
 **Rules and checks (useful habits)**  
@@ -780,7 +858,9 @@ The passage shows **Appeal to Popularity** in action: arguing that a proposition
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: sports or business results. Arguing that a proposition is true because many or most people believe it.
+
 - **Example 2:** **Setting:** a family argument. **What goes wrong:** Arguing that a proposition is true because many or most people believe it.
+
 - **Example 3:** Imagine a policy or workplace discussion. The slip is the same: arguing that a proposition is true because many or most people believe it.
 
 **In one sentence**  
@@ -797,9 +877,13 @@ Here, **Appeal to Popularity** is the right name because arguing that a proposit
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: sports or business results. Arguing that a proposition is true because many or most people believe it.
+
 - **Example 2:** **Setting:** a family argument. **What goes wrong:** Arguing that a proposition is true because many or most people believe it.
+
 - **Example 3:** Imagine a policy or workplace discussion. The slip is the same: arguing that a proposition is true because many or most people believe it.
+
 - **Example 4:** Picture sports or business results. People often reason as if arguing that a proposition is true because many or most people believe it.
+
 - **Example 5:** In a family argument, watch for this pattern: Arguing that a proposition is true because many or most people believe it.
 
 **Rules and checks (useful habits)**  
@@ -837,7 +921,9 @@ The passage shows **Appeal to Popularity** in action: arguing that a proposition
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Arguing that a proposition is true because many or most people believe it.
+
 - **Example 2:** Imagine a news headline or social post. The slip is the same: arguing that a proposition is true because many or most people believe it.
+
 - **Example 3:** Picture a health or habits story. People often reason as if arguing that a proposition is true because many or most people believe it.
 
 **In one sentence**  
@@ -854,9 +940,13 @@ Here, **Appeal to Popularity** is the right name because arguing that a proposit
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Arguing that a proposition is true because many or most people believe it.
+
 - **Example 2:** Imagine a news headline or social post. The slip is the same: arguing that a proposition is true because many or most people believe it.
+
 - **Example 3:** Picture a health or habits story. People often reason as if arguing that a proposition is true because many or most people believe it.
+
 - **Example 4:** In school grades or test scores, watch for this pattern: Arguing that a proposition is true because many or most people believe it.
+
 - **Example 5:** Another everyday spot: a news headline or social post. Arguing that a proposition is true because many or most people believe it.
 
 **Rules and checks (useful habits)**  
@@ -894,7 +984,9 @@ The passage shows **Appeal to Emotion** in action: manipulating an emotional res
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a family argument. The slip is the same: manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 2:** Picture a policy or workplace discussion. People often reason as if manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 3:** In sports or business results, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
 
 **In one sentence**  
@@ -911,9 +1003,13 @@ Here, **Appeal to Emotion** is the right name because manipulating an emotional 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a family argument. The slip is the same: manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 2:** Picture a policy or workplace discussion. People often reason as if manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 3:** In sports or business results, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 4:** Another everyday spot: a family argument. Manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Manipulating an emotional response in place of a valid or compelling argument.
 
 **Rules and checks (useful habits)**  
@@ -951,7 +1047,9 @@ The passage shows **Appeal to Emotion** in action: manipulating an emotional res
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a news headline or social post. People often reason as if manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 2:** In a health or habits story, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 3:** Another everyday spot: school grades or test scores. Manipulating an emotional response in place of a valid or compelling argument.
 
 **In one sentence**  
@@ -968,9 +1066,13 @@ Here, **Appeal to Emotion** is the right name because manipulating an emotional 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a news headline or social post. People often reason as if manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 2:** In a health or habits story, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 3:** Another everyday spot: school grades or test scores. Manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 4:** **Setting:** a news headline or social post. **What goes wrong:** Manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 5:** Imagine a health or habits story. The slip is the same: manipulating an emotional response in place of a valid or compelling argument.
 
 **Rules and checks (useful habits)**  
@@ -1008,7 +1110,9 @@ The passage shows **Appeal to Emotion** in action: manipulating an emotional res
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a policy or workplace discussion, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 2:** Another everyday spot: sports or business results. Manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 3:** **Setting:** a family argument. **What goes wrong:** Manipulating an emotional response in place of a valid or compelling argument.
 
 **In one sentence**  
@@ -1025,9 +1129,13 @@ Here, **Appeal to Emotion** is the right name because manipulating an emotional 
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a policy or workplace discussion, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 2:** Another everyday spot: sports or business results. Manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 3:** **Setting:** a family argument. **What goes wrong:** Manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 4:** Imagine a policy or workplace discussion. The slip is the same: manipulating an emotional response in place of a valid or compelling argument.
+
 - **Example 5:** Picture sports or business results. People often reason as if manipulating an emotional response in place of a valid or compelling argument.
 
 **Rules and checks (useful habits)**  
@@ -1065,7 +1173,9 @@ The passage shows **Appeal to Fear** in action: using scare tactics to influence
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a health or habits story. Using scare tactics to influence the audience's decision-making.
+
 - **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Using scare tactics to influence the audience's decision-making.
+
 - **Example 3:** Imagine a news headline or social post. The slip is the same: using scare tactics to influence the audience's decision-making.
 
 **In one sentence**  
@@ -1082,9 +1192,13 @@ Here, **Appeal to Fear** is the right name because using scare tactics to influe
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a health or habits story. Using scare tactics to influence the audience's decision-making.
+
 - **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Using scare tactics to influence the audience's decision-making.
+
 - **Example 3:** Imagine a news headline or social post. The slip is the same: using scare tactics to influence the audience's decision-making.
+
 - **Example 4:** Picture a health or habits story. People often reason as if using scare tactics to influence the audience's decision-making.
+
 - **Example 5:** In school grades or test scores, watch for this pattern: Using scare tactics to influence the audience's decision-making.
 
 **Rules and checks (useful habits)**  
@@ -1122,7 +1236,9 @@ The passage shows **Appeal to Fear** in action: using scare tactics to influence
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** sports or business results. **What goes wrong:** Using scare tactics to influence the audience's decision-making.
+
 - **Example 2:** Imagine a family argument. The slip is the same: using scare tactics to influence the audience's decision-making.
+
 - **Example 3:** Picture a policy or workplace discussion. People often reason as if using scare tactics to influence the audience's decision-making.
 
 **In one sentence**  
@@ -1139,9 +1255,13 @@ Here, **Appeal to Fear** is the right name because using scare tactics to influe
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** sports or business results. **What goes wrong:** Using scare tactics to influence the audience's decision-making.
+
 - **Example 2:** Imagine a family argument. The slip is the same: using scare tactics to influence the audience's decision-making.
+
 - **Example 3:** Picture a policy or workplace discussion. People often reason as if using scare tactics to influence the audience's decision-making.
+
 - **Example 4:** In sports or business results, watch for this pattern: Using scare tactics to influence the audience's decision-making.
+
 - **Example 5:** Another everyday spot: a family argument. Using scare tactics to influence the audience's decision-making.
 
 **Rules and checks (useful habits)**  
@@ -1179,7 +1299,9 @@ The passage shows **Appeal to Fear** in action: using scare tactics to influence
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine school grades or test scores. The slip is the same: using scare tactics to influence the audience's decision-making.
+
 - **Example 2:** Picture a news headline or social post. People often reason as if using scare tactics to influence the audience's decision-making.
+
 - **Example 3:** In a health or habits story, watch for this pattern: Using scare tactics to influence the audience's decision-making.
 
 **In one sentence**  
@@ -1196,9 +1318,13 @@ Here, **Appeal to Fear** is the right name because using scare tactics to influe
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine school grades or test scores. The slip is the same: using scare tactics to influence the audience's decision-making.
+
 - **Example 2:** Picture a news headline or social post. People often reason as if using scare tactics to influence the audience's decision-making.
+
 - **Example 3:** In a health or habits story, watch for this pattern: Using scare tactics to influence the audience's decision-making.
+
 - **Example 4:** Another everyday spot: school grades or test scores. Using scare tactics to influence the audience's decision-making.
+
 - **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** Using scare tactics to influence the audience's decision-making.
 
 **Rules and checks (useful habits)**  
@@ -1236,7 +1362,9 @@ The passage shows **Appeal to Ignorance** in action: arguing that a claim is tru
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a family argument. People often reason as if arguing that a claim is true simply because it has not been proven false.
+
 - **Example 2:** In a policy or workplace discussion, watch for this pattern: Arguing that a claim is true simply because it has not been proven false.
+
 - **Example 3:** Another everyday spot: sports or business results. Arguing that a claim is true simply because it has not been proven false.
 
 **In one sentence**  
@@ -1253,9 +1381,13 @@ Here, **Appeal to Ignorance** is the right name because arguing that a claim is 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a family argument. People often reason as if arguing that a claim is true simply because it has not been proven false.
+
 - **Example 2:** In a policy or workplace discussion, watch for this pattern: Arguing that a claim is true simply because it has not been proven false.
+
 - **Example 3:** Another everyday spot: sports or business results. Arguing that a claim is true simply because it has not been proven false.
+
 - **Example 4:** **Setting:** a family argument. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
+
 - **Example 5:** Imagine a policy or workplace discussion. The slip is the same: arguing that a claim is true simply because it has not been proven false.
 
 **Rules and checks (useful habits)**  
@@ -1293,7 +1425,9 @@ The passage shows **Appeal to Ignorance** in action: arguing that a claim is tru
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a news headline or social post, watch for this pattern: Arguing that a claim is true simply because it has not been proven false.
+
 - **Example 2:** Another everyday spot: a health or habits story. Arguing that a claim is true simply because it has not been proven false.
+
 - **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
 
 **In one sentence**  
@@ -1310,9 +1444,13 @@ Here, **Appeal to Ignorance** is the right name because arguing that a claim is 
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a news headline or social post, watch for this pattern: Arguing that a claim is true simply because it has not been proven false.
+
 - **Example 2:** Another everyday spot: a health or habits story. Arguing that a claim is true simply because it has not been proven false.
+
 - **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
+
 - **Example 4:** Imagine a news headline or social post. The slip is the same: arguing that a claim is true simply because it has not been proven false.
+
 - **Example 5:** Picture a health or habits story. People often reason as if arguing that a claim is true simply because it has not been proven false.
 
 **Rules and checks (useful habits)**  
@@ -1350,7 +1488,9 @@ The passage shows **Appeal to Ignorance** in action: arguing that a claim is tru
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a policy or workplace discussion. Arguing that a claim is true simply because it has not been proven false.
+
 - **Example 2:** **Setting:** sports or business results. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
+
 - **Example 3:** Imagine a family argument. The slip is the same: arguing that a claim is true simply because it has not been proven false.
 
 **In one sentence**  
@@ -1367,9 +1507,13 @@ Here, **Appeal to Ignorance** is the right name because arguing that a claim is 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a policy or workplace discussion. Arguing that a claim is true simply because it has not been proven false.
+
 - **Example 2:** **Setting:** sports or business results. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
+
 - **Example 3:** Imagine a family argument. The slip is the same: arguing that a claim is true simply because it has not been proven false.
+
 - **Example 4:** Picture a policy or workplace discussion. People often reason as if arguing that a claim is true simply because it has not been proven false.
+
 - **Example 5:** In sports or business results, watch for this pattern: Arguing that a claim is true simply because it has not been proven false.
 
 **Rules and checks (useful habits)**  
@@ -1407,7 +1551,9 @@ The passage shows **Appeal to Incredulity** in action: asserting that a proposit
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 2:** Imagine school grades or test scores. The slip is the same: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 3:** Picture a news headline or social post. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
 
 **In one sentence**  
@@ -1424,9 +1570,13 @@ Here, **Appeal to Incredulity** is the right name because asserting that a propo
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 2:** Imagine school grades or test scores. The slip is the same: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 3:** Picture a news headline or social post. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 4:** In a health or habits story, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 5:** Another everyday spot: school grades or test scores. Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
 
 **Rules and checks (useful habits)**  
@@ -1464,7 +1614,9 @@ The passage shows **Appeal to Incredulity** in action: asserting that a proposit
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine sports or business results. The slip is the same: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 2:** Picture a family argument. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 3:** In a policy or workplace discussion, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
 
 **In one sentence**  
@@ -1481,9 +1633,13 @@ Here, **Appeal to Incredulity** is the right name because asserting that a propo
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine sports or business results. The slip is the same: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 2:** Picture a family argument. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 3:** In a policy or workplace discussion, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 4:** Another everyday spot: sports or business results. Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 5:** **Setting:** a family argument. **What goes wrong:** Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
 
 **Rules and checks (useful habits)**  
@@ -1521,7 +1677,9 @@ The passage shows **Appeal to Incredulity** in action: asserting that a proposit
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture school grades or test scores. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 2:** In a news headline or social post, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 3:** Another everyday spot: a health or habits story. Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
 
 **In one sentence**  
@@ -1538,9 +1696,13 @@ Here, **Appeal to Incredulity** is the right name because asserting that a propo
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture school grades or test scores. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 2:** In a news headline or social post, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 3:** Another everyday spot: a health or habits story. Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 4:** **Setting:** school grades or test scores. **What goes wrong:** Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+
 - **Example 5:** Imagine a news headline or social post. The slip is the same: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
 
 **Rules and checks (useful habits)**  
@@ -1578,7 +1740,9 @@ The passage shows **Anecdotal Fallacy** in action: using a personal experience o
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a family argument, watch for this pattern: Using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 2:** Another everyday spot: a policy or workplace discussion. Using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 3:** **Setting:** sports or business results. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
 
 **In one sentence**  
@@ -1595,9 +1759,13 @@ Here, **Anecdotal Fallacy** is the right name because using a personal experienc
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a family argument, watch for this pattern: Using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 2:** Another everyday spot: a policy or workplace discussion. Using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 3:** **Setting:** sports or business results. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 4:** Imagine a family argument. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 5:** Picture a policy or workplace discussion. People often reason as if using a personal experience or an isolated example instead of effective evidence.
 
 **Rules and checks (useful habits)**  
@@ -1635,7 +1803,9 @@ The passage shows **Anecdotal Fallacy** in action: using a personal experience o
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a news headline or social post. Using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 3:** Imagine school grades or test scores. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
 
 **In one sentence**  
@@ -1652,9 +1822,13 @@ Here, **Anecdotal Fallacy** is the right name because using a personal experienc
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a news headline or social post. Using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 3:** Imagine school grades or test scores. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 4:** Picture a news headline or social post. People often reason as if using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 5:** In a health or habits story, watch for this pattern: Using a personal experience or an isolated example instead of effective evidence.
 
 **Rules and checks (useful habits)**  
@@ -1692,7 +1866,9 @@ The passage shows **Anecdotal Fallacy** in action: using a personal experience o
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 2:** Imagine sports or business results. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 3:** Picture a family argument. People often reason as if using a personal experience or an isolated example instead of effective evidence.
 
 **In one sentence**  
@@ -1709,9 +1885,13 @@ Here, **Anecdotal Fallacy** is the right name because using a personal experienc
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 2:** Imagine sports or business results. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 3:** Picture a family argument. People often reason as if using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 4:** In a policy or workplace discussion, watch for this pattern: Using a personal experience or an isolated example instead of effective evidence.
+
 - **Example 5:** Another everyday spot: sports or business results. Using a personal experience or an isolated example instead of effective evidence.
 
 **Rules and checks (useful habits)**  
@@ -1749,7 +1929,9 @@ The passage shows **Availability Heuristic** in action: overestimating the impor
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a health or habits story. The slip is the same: overestimating the importance of information that is available (easy to remember).
+
 - **Example 2:** Picture school grades or test scores. People often reason as if overestimating the importance of information that is available (easy to remember).
+
 - **Example 3:** In a news headline or social post, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
 
 **In one sentence**  
@@ -1766,9 +1948,13 @@ Here, **Availability Heuristic** is the right name because overestimating the im
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a health or habits story. The slip is the same: overestimating the importance of information that is available (easy to remember).
+
 - **Example 2:** Picture school grades or test scores. People often reason as if overestimating the importance of information that is available (easy to remember).
+
 - **Example 3:** In a news headline or social post, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
+
 - **Example 4:** Another everyday spot: a health or habits story. Overestimating the importance of information that is available (easy to remember).
+
 - **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** Overestimating the importance of information that is available (easy to remember).
 
 **Rules and checks (useful habits)**  
@@ -1806,7 +1992,9 @@ The passage shows **Availability Heuristic** in action: overestimating the impor
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture sports or business results. People often reason as if overestimating the importance of information that is available (easy to remember).
+
 - **Example 2:** In a family argument, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
+
 - **Example 3:** Another everyday spot: a policy or workplace discussion. Overestimating the importance of information that is available (easy to remember).
 
 **In one sentence**  
@@ -1823,9 +2011,13 @@ Here, **Availability Heuristic** is the right name because overestimating the im
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture sports or business results. People often reason as if overestimating the importance of information that is available (easy to remember).
+
 - **Example 2:** In a family argument, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
+
 - **Example 3:** Another everyday spot: a policy or workplace discussion. Overestimating the importance of information that is available (easy to remember).
+
 - **Example 4:** **Setting:** sports or business results. **What goes wrong:** Overestimating the importance of information that is available (easy to remember).
+
 - **Example 5:** Imagine a family argument. The slip is the same: overestimating the importance of information that is available (easy to remember).
 
 **Rules and checks (useful habits)**  
@@ -1863,7 +2055,9 @@ The passage shows **Availability Heuristic** in action: overestimating the impor
 
 **More examples (same fallacy only)**  
 - **Example 1:** In school grades or test scores, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
+
 - **Example 2:** Another everyday spot: a news headline or social post. Overestimating the importance of information that is available (easy to remember).
+
 - **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Overestimating the importance of information that is available (easy to remember).
 
 **In one sentence**  
@@ -1880,9 +2074,13 @@ Here, **Availability Heuristic** is the right name because overestimating the im
 
 **More examples (same fallacy only)**  
 - **Example 1:** In school grades or test scores, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
+
 - **Example 2:** Another everyday spot: a news headline or social post. Overestimating the importance of information that is available (easy to remember).
+
 - **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Overestimating the importance of information that is available (easy to remember).
+
 - **Example 4:** Imagine school grades or test scores. The slip is the same: overestimating the importance of information that is available (easy to remember).
+
 - **Example 5:** Picture a news headline or social post. People often reason as if overestimating the importance of information that is available (easy to remember).
 
 **Rules and checks (useful habits)**  
@@ -1920,7 +2118,9 @@ The passage shows **Base Rate Fallacy** in action: ignoring statistical informat
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a family argument. Ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 3:** Imagine sports or business results. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
 
 **In one sentence**  
@@ -1937,9 +2137,13 @@ Here, **Base Rate Fallacy** is the right name because ignoring statistical infor
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a family argument. Ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 3:** Imagine sports or business results. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 4:** Picture a family argument. People often reason as if ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 5:** In a policy or workplace discussion, watch for this pattern: Ignoring statistical information in favor of specific, vivid cases.
 
 **Rules and checks (useful habits)**  
@@ -1977,7 +2181,9 @@ The passage shows **Base Rate Fallacy** in action: ignoring statistical informat
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 2:** Imagine a health or habits story. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 3:** Picture school grades or test scores. People often reason as if ignoring statistical information in favor of specific, vivid cases.
 
 **In one sentence**  
@@ -1994,9 +2200,13 @@ Here, **Base Rate Fallacy** is the right name because ignoring statistical infor
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 2:** Imagine a health or habits story. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 3:** Picture school grades or test scores. People often reason as if ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 4:** In a news headline or social post, watch for this pattern: Ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 5:** Another everyday spot: a health or habits story. Ignoring statistical information in favor of specific, vivid cases.
 
 **Rules and checks (useful habits)**  
@@ -2034,7 +2244,9 @@ The passage shows **Base Rate Fallacy** in action: ignoring statistical informat
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a policy or workplace discussion. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 2:** Picture sports or business results. People often reason as if ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 3:** In a family argument, watch for this pattern: Ignoring statistical information in favor of specific, vivid cases.
 
 **In one sentence**  
@@ -2051,9 +2263,13 @@ Here, **Base Rate Fallacy** is the right name because ignoring statistical infor
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a policy or workplace discussion. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 2:** Picture sports or business results. People often reason as if ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 3:** In a family argument, watch for this pattern: Ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 4:** Another everyday spot: a policy or workplace discussion. Ignoring statistical information in favor of specific, vivid cases.
+
 - **Example 5:** **Setting:** sports or business results. **What goes wrong:** Ignoring statistical information in favor of specific, vivid cases.
 
 **Rules and checks (useful habits)**  
@@ -2091,7 +2307,9 @@ The passage shows **Begging the Question** in action: a circular argument in whi
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a health or habits story. People often reason as if a circular argument in which the conclusion is included in the premise.
+
 - **Example 2:** In school grades or test scores, watch for this pattern: A circular argument in which the conclusion is included in the premise.
+
 - **Example 3:** Another everyday spot: a news headline or social post. A circular argument in which the conclusion is included in the premise.
 
 **In one sentence**  
@@ -2108,9 +2326,13 @@ Here, **Begging the Question** is the right name because a circular argument in 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a health or habits story. People often reason as if a circular argument in which the conclusion is included in the premise.
+
 - **Example 2:** In school grades or test scores, watch for this pattern: A circular argument in which the conclusion is included in the premise.
+
 - **Example 3:** Another everyday spot: a news headline or social post. A circular argument in which the conclusion is included in the premise.
+
 - **Example 4:** **Setting:** a health or habits story. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
+
 - **Example 5:** Imagine school grades or test scores. The slip is the same: a circular argument in which the conclusion is included in the premise.
 
 **Rules and checks (useful habits)**  
@@ -2148,7 +2370,9 @@ The passage shows **Begging the Question** in action: a circular argument in whi
 
 **More examples (same fallacy only)**  
 - **Example 1:** In sports or business results, watch for this pattern: A circular argument in which the conclusion is included in the premise.
+
 - **Example 2:** Another everyday spot: a family argument. A circular argument in which the conclusion is included in the premise.
+
 - **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
 
 **In one sentence**  
@@ -2165,9 +2389,13 @@ Here, **Begging the Question** is the right name because a circular argument in 
 
 **More examples (same fallacy only)**  
 - **Example 1:** In sports or business results, watch for this pattern: A circular argument in which the conclusion is included in the premise.
+
 - **Example 2:** Another everyday spot: a family argument. A circular argument in which the conclusion is included in the premise.
+
 - **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
+
 - **Example 4:** Imagine sports or business results. The slip is the same: a circular argument in which the conclusion is included in the premise.
+
 - **Example 5:** Picture a family argument. People often reason as if a circular argument in which the conclusion is included in the premise.
 
 **Rules and checks (useful habits)**  
@@ -2205,7 +2433,9 @@ The passage shows **Begging the Question** in action: a circular argument in whi
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: school grades or test scores. A circular argument in which the conclusion is included in the premise.
+
 - **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
+
 - **Example 3:** Imagine a health or habits story. The slip is the same: a circular argument in which the conclusion is included in the premise.
 
 **In one sentence**  
@@ -2222,9 +2452,13 @@ Here, **Begging the Question** is the right name because a circular argument in 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: school grades or test scores. A circular argument in which the conclusion is included in the premise.
+
 - **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
+
 - **Example 3:** Imagine a health or habits story. The slip is the same: a circular argument in which the conclusion is included in the premise.
+
 - **Example 4:** Picture school grades or test scores. People often reason as if a circular argument in which the conclusion is included in the premise.
+
 - **Example 5:** In a news headline or social post, watch for this pattern: A circular argument in which the conclusion is included in the premise.
 
 **Rules and checks (useful habits)**  
@@ -2262,7 +2496,9 @@ The passage shows **Biased Sample** in action: drawing a conclusion about a popu
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a family argument. **What goes wrong:** Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 2:** Imagine a policy or workplace discussion. The slip is the same: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 3:** Picture sports or business results. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
 
 **In one sentence**  
@@ -2279,9 +2515,13 @@ Here, **Biased Sample** is the right name because drawing a conclusion about a p
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a family argument. **What goes wrong:** Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 2:** Imagine a policy or workplace discussion. The slip is the same: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 3:** Picture sports or business results. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 4:** In a family argument, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 5:** Another everyday spot: a policy or workplace discussion. Drawing a conclusion about a population based on a sample that is biased or prejudiced.
 
 **Rules and checks (useful habits)**  
@@ -2319,7 +2559,9 @@ The passage shows **Biased Sample** in action: drawing a conclusion about a popu
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a news headline or social post. The slip is the same: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 2:** Picture a health or habits story. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 3:** In school grades or test scores, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
 
 **In one sentence**  
@@ -2336,9 +2578,13 @@ Here, **Biased Sample** is the right name because drawing a conclusion about a p
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a news headline or social post. The slip is the same: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 2:** Picture a health or habits story. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 3:** In school grades or test scores, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 4:** Another everyday spot: a news headline or social post. Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Drawing a conclusion about a population based on a sample that is biased or prejudiced.
 
 **Rules and checks (useful habits)**  
@@ -2376,7 +2622,9 @@ The passage shows **Biased Sample** in action: drawing a conclusion about a popu
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a policy or workplace discussion. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 2:** In sports or business results, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 3:** Another everyday spot: a family argument. Drawing a conclusion about a population based on a sample that is biased or prejudiced.
 
 **In one sentence**  
@@ -2393,9 +2641,13 @@ Here, **Biased Sample** is the right name because drawing a conclusion about a p
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a policy or workplace discussion. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 2:** In sports or business results, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 3:** Another everyday spot: a family argument. Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 4:** **Setting:** a policy or workplace discussion. **What goes wrong:** Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+
 - **Example 5:** Imagine sports or business results. The slip is the same: drawing a conclusion about a population based on a sample that is biased or prejudiced.
 
 **Rules and checks (useful habits)**  
@@ -2433,7 +2685,9 @@ The passage shows **Cherry Picking** in action: selecting only the data that sup
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a health or habits story, watch for this pattern: Selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 2:** Another everyday spot: school grades or test scores. Selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
 
 **In one sentence**  
@@ -2450,9 +2704,13 @@ Here, **Cherry Picking** is the right name because selecting only the data that 
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a health or habits story, watch for this pattern: Selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 2:** Another everyday spot: school grades or test scores. Selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 4:** Imagine a health or habits story. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 5:** Picture school grades or test scores. People often reason as if selecting only the data that supports your argument while ignoring the rest.
 
 **Rules and checks (useful habits)**  
@@ -2490,7 +2748,9 @@ The passage shows **Cherry Picking** in action: selecting only the data that sup
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: sports or business results. Selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 2:** **Setting:** a family argument. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 3:** Imagine a policy or workplace discussion. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
 
 **In one sentence**  
@@ -2507,9 +2767,13 @@ Here, **Cherry Picking** is the right name because selecting only the data that 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: sports or business results. Selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 2:** **Setting:** a family argument. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 3:** Imagine a policy or workplace discussion. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 4:** Picture sports or business results. People often reason as if selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 5:** In a family argument, watch for this pattern: Selecting only the data that supports your argument while ignoring the rest.
 
 **Rules and checks (useful habits)**  
@@ -2547,7 +2811,9 @@ The passage shows **Cherry Picking** in action: selecting only the data that sup
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 2:** Imagine a news headline or social post. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 3:** Picture a health or habits story. People often reason as if selecting only the data that supports your argument while ignoring the rest.
 
 **In one sentence**  
@@ -2564,9 +2830,13 @@ Here, **Cherry Picking** is the right name because selecting only the data that 
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 2:** Imagine a news headline or social post. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 3:** Picture a health or habits story. People often reason as if selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 4:** In school grades or test scores, watch for this pattern: Selecting only the data that supports your argument while ignoring the rest.
+
 - **Example 5:** Another everyday spot: a news headline or social post. Selecting only the data that supports your argument while ignoring the rest.
 
 **Rules and checks (useful habits)**  
@@ -2604,7 +2874,9 @@ The passage shows **Circular Reasoning** in action: reasoning where the end of a
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a family argument. The slip is the same: reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 2:** Picture a policy or workplace discussion. People often reason as if reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 3:** In sports or business results, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
 
 **In one sentence**  
@@ -2621,9 +2893,13 @@ Here, **Circular Reasoning** is the right name because reasoning where the end o
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a family argument. The slip is the same: reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 2:** Picture a policy or workplace discussion. People often reason as if reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 3:** In sports or business results, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 4:** Another everyday spot: a family argument. Reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Reasoning where the end of an argument comes back to the beginning without proving anything.
 
 **Rules and checks (useful habits)**  
@@ -2661,7 +2937,9 @@ The passage shows **Circular Reasoning** in action: reasoning where the end of a
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a news headline or social post. People often reason as if reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 2:** In a health or habits story, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 3:** Another everyday spot: school grades or test scores. Reasoning where the end of an argument comes back to the beginning without proving anything.
 
 **In one sentence**  
@@ -2678,9 +2956,13 @@ Here, **Circular Reasoning** is the right name because reasoning where the end o
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a news headline or social post. People often reason as if reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 2:** In a health or habits story, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 3:** Another everyday spot: school grades or test scores. Reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 4:** **Setting:** a news headline or social post. **What goes wrong:** Reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 5:** Imagine a health or habits story. The slip is the same: reasoning where the end of an argument comes back to the beginning without proving anything.
 
 **Rules and checks (useful habits)**  
@@ -2718,7 +3000,9 @@ The passage shows **Circular Reasoning** in action: reasoning where the end of a
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a policy or workplace discussion, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 2:** Another everyday spot: sports or business results. Reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 3:** **Setting:** a family argument. **What goes wrong:** Reasoning where the end of an argument comes back to the beginning without proving anything.
 
 **In one sentence**  
@@ -2735,9 +3019,13 @@ Here, **Circular Reasoning** is the right name because reasoning where the end o
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a policy or workplace discussion, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 2:** Another everyday spot: sports or business results. Reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 3:** **Setting:** a family argument. **What goes wrong:** Reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 4:** Imagine a policy or workplace discussion. The slip is the same: reasoning where the end of an argument comes back to the beginning without proving anything.
+
 - **Example 5:** Picture sports or business results. People often reason as if reasoning where the end of an argument comes back to the beginning without proving anything.
 
 **Rules and checks (useful habits)**  
@@ -2775,7 +3063,9 @@ The passage shows **Complex Question** in action: a question that has a presuppo
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a health or habits story. A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 3:** Imagine a news headline or social post. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
 
 **In one sentence**  
@@ -2792,9 +3082,13 @@ Here, **Complex Question** is the right name because a question that has a presu
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a health or habits story. A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 3:** Imagine a news headline or social post. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 4:** Picture a health or habits story. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 5:** In school grades or test scores, watch for this pattern: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
 
 **Rules and checks (useful habits)**  
@@ -2832,7 +3126,9 @@ The passage shows **Complex Question** in action: a question that has a presuppo
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** sports or business results. **What goes wrong:** A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 2:** Imagine a family argument. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 3:** Picture a policy or workplace discussion. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
 
 **In one sentence**  
@@ -2849,9 +3145,13 @@ Here, **Complex Question** is the right name because a question that has a presu
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** sports or business results. **What goes wrong:** A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 2:** Imagine a family argument. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 3:** Picture a policy or workplace discussion. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 4:** In sports or business results, watch for this pattern: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 5:** Another everyday spot: a family argument. A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
 
 **Rules and checks (useful habits)**  
@@ -2889,7 +3189,9 @@ The passage shows **Complex Question** in action: a question that has a presuppo
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine school grades or test scores. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 2:** Picture a news headline or social post. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 3:** In a health or habits story, watch for this pattern: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
 
 **In one sentence**  
@@ -2906,9 +3208,13 @@ Here, **Complex Question** is the right name because a question that has a presu
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine school grades or test scores. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 2:** Picture a news headline or social post. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 3:** In a health or habits story, watch for this pattern: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 4:** Another everyday spot: school grades or test scores. A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+
 - **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
 
 **Rules and checks (useful habits)**  
@@ -2946,7 +3252,9 @@ The passage shows **Composition Fallacy** in action: assuming that what is true 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a family argument. People often reason as if assuming that what is true for a part is also true for the whole.
+
 - **Example 2:** In a policy or workplace discussion, watch for this pattern: Assuming that what is true for a part is also true for the whole.
+
 - **Example 3:** Another everyday spot: sports or business results. Assuming that what is true for a part is also true for the whole.
 
 **In one sentence**  
@@ -2963,9 +3271,13 @@ Here, **Composition Fallacy** is the right name because assuming that what is tr
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a family argument. People often reason as if assuming that what is true for a part is also true for the whole.
+
 - **Example 2:** In a policy or workplace discussion, watch for this pattern: Assuming that what is true for a part is also true for the whole.
+
 - **Example 3:** Another everyday spot: sports or business results. Assuming that what is true for a part is also true for the whole.
+
 - **Example 4:** **Setting:** a family argument. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
+
 - **Example 5:** Imagine a policy or workplace discussion. The slip is the same: assuming that what is true for a part is also true for the whole.
 
 **Rules and checks (useful habits)**  
@@ -3003,7 +3315,9 @@ The passage shows **Composition Fallacy** in action: assuming that what is true 
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a news headline or social post, watch for this pattern: Assuming that what is true for a part is also true for the whole.
+
 - **Example 2:** Another everyday spot: a health or habits story. Assuming that what is true for a part is also true for the whole.
+
 - **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
 
 **In one sentence**  
@@ -3020,9 +3334,13 @@ Here, **Composition Fallacy** is the right name because assuming that what is tr
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a news headline or social post, watch for this pattern: Assuming that what is true for a part is also true for the whole.
+
 - **Example 2:** Another everyday spot: a health or habits story. Assuming that what is true for a part is also true for the whole.
+
 - **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
+
 - **Example 4:** Imagine a news headline or social post. The slip is the same: assuming that what is true for a part is also true for the whole.
+
 - **Example 5:** Picture a health or habits story. People often reason as if assuming that what is true for a part is also true for the whole.
 
 **Rules and checks (useful habits)**  
@@ -3060,7 +3378,9 @@ The passage shows **Composition Fallacy** in action: assuming that what is true 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a policy or workplace discussion. Assuming that what is true for a part is also true for the whole.
+
 - **Example 2:** **Setting:** sports or business results. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
+
 - **Example 3:** Imagine a family argument. The slip is the same: assuming that what is true for a part is also true for the whole.
 
 **In one sentence**  
@@ -3077,9 +3397,13 @@ Here, **Composition Fallacy** is the right name because assuming that what is tr
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a policy or workplace discussion. Assuming that what is true for a part is also true for the whole.
+
 - **Example 2:** **Setting:** sports or business results. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
+
 - **Example 3:** Imagine a family argument. The slip is the same: assuming that what is true for a part is also true for the whole.
+
 - **Example 4:** Picture a policy or workplace discussion. People often reason as if assuming that what is true for a part is also true for the whole.
+
 - **Example 5:** In sports or business results, watch for this pattern: Assuming that what is true for a part is also true for the whole.
 
 **Rules and checks (useful habits)**  
@@ -3117,7 +3441,9 @@ The passage shows **Division Fallacy** in action: assuming that what is true for
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 2:** Imagine school grades or test scores. The slip is the same: assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 3:** Picture a news headline or social post. People often reason as if assuming that what is true for the whole is also true for each of its parts.
 
 **In one sentence**  
@@ -3134,9 +3460,13 @@ Here, **Division Fallacy** is the right name because assuming that what is true 
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 2:** Imagine school grades or test scores. The slip is the same: assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 3:** Picture a news headline or social post. People often reason as if assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 4:** In a health or habits story, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 5:** Another everyday spot: school grades or test scores. Assuming that what is true for the whole is also true for each of its parts.
 
 **Rules and checks (useful habits)**  
@@ -3174,7 +3504,9 @@ The passage shows **Division Fallacy** in action: assuming that what is true for
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine sports or business results. The slip is the same: assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 2:** Picture a family argument. People often reason as if assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 3:** In a policy or workplace discussion, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
 
 **In one sentence**  
@@ -3191,9 +3523,13 @@ Here, **Division Fallacy** is the right name because assuming that what is true 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine sports or business results. The slip is the same: assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 2:** Picture a family argument. People often reason as if assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 3:** In a policy or workplace discussion, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 4:** Another everyday spot: sports or business results. Assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 5:** **Setting:** a family argument. **What goes wrong:** Assuming that what is true for the whole is also true for each of its parts.
 
 **Rules and checks (useful habits)**  
@@ -3231,7 +3567,9 @@ The passage shows **Division Fallacy** in action: assuming that what is true for
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture school grades or test scores. People often reason as if assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 2:** In a news headline or social post, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 3:** Another everyday spot: a health or habits story. Assuming that what is true for the whole is also true for each of its parts.
 
 **In one sentence**  
@@ -3248,9 +3586,13 @@ Here, **Division Fallacy** is the right name because assuming that what is true 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture school grades or test scores. People often reason as if assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 2:** In a news headline or social post, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 3:** Another everyday spot: a health or habits story. Assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 4:** **Setting:** school grades or test scores. **What goes wrong:** Assuming that what is true for the whole is also true for each of its parts.
+
 - **Example 5:** Imagine a news headline or social post. The slip is the same: assuming that what is true for the whole is also true for each of its parts.
 
 **Rules and checks (useful habits)**  
@@ -3288,7 +3630,9 @@ The passage shows **Confirmation Bias** in action: the tendency to interpret new
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a family argument, watch for this pattern: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 2:** Another everyday spot: a policy or workplace discussion. The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 3:** **Setting:** sports or business results. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
 
 **In one sentence**  
@@ -3305,9 +3649,13 @@ Here, **Confirmation Bias** is the right name because the tendency to interpret 
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a family argument, watch for this pattern: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 2:** Another everyday spot: a policy or workplace discussion. The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 3:** **Setting:** sports or business results. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 4:** Imagine a family argument. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 5:** Picture a policy or workplace discussion. People often reason as if the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
 
 **Rules and checks (useful habits)**  
@@ -3345,7 +3693,9 @@ The passage shows **Confirmation Bias** in action: the tendency to interpret new
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a news headline or social post. The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 2:** **Setting:** a health or habits story. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 3:** Imagine school grades or test scores. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
 
 **In one sentence**  
@@ -3362,9 +3712,13 @@ Here, **Confirmation Bias** is the right name because the tendency to interpret 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a news headline or social post. The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 2:** **Setting:** a health or habits story. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 3:** Imagine school grades or test scores. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 4:** Picture a news headline or social post. People often reason as if the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 5:** In a health or habits story, watch for this pattern: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
 
 **Rules and checks (useful habits)**  
@@ -3402,7 +3756,9 @@ The passage shows **Confirmation Bias** in action: the tendency to interpret new
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 2:** Imagine sports or business results. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 3:** Picture a family argument. People often reason as if the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
 
 **In one sentence**  
@@ -3419,9 +3775,13 @@ Here, **Confirmation Bias** is the right name because the tendency to interpret 
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 2:** Imagine sports or business results. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 3:** Picture a family argument. People often reason as if the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 4:** In a policy or workplace discussion, watch for this pattern: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+
 - **Example 5:** Another everyday spot: sports or business results. The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
 
 **Rules and checks (useful habits)**  
@@ -3459,7 +3819,9 @@ The passage shows **Continuum Fallacy** in action: the fallacy of assuming that 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a health or habits story. The slip is the same: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 2:** Picture school grades or test scores. People often reason as if the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 3:** In a news headline or social post, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
 
 **In one sentence**  
@@ -3476,9 +3838,13 @@ Here, **Continuum Fallacy** is the right name because the fallacy of assuming th
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a health or habits story. The slip is the same: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 2:** Picture school grades or test scores. People often reason as if the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 3:** In a news headline or social post, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 4:** Another everyday spot: a health or habits story. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
 
 **Rules and checks (useful habits)**  
@@ -3516,7 +3882,9 @@ The passage shows **Continuum Fallacy** in action: the fallacy of assuming that 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture sports or business results. People often reason as if the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 2:** In a family argument, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 3:** Another everyday spot: a policy or workplace discussion. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
 
 **In one sentence**  
@@ -3533,9 +3901,13 @@ Here, **Continuum Fallacy** is the right name because the fallacy of assuming th
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture sports or business results. People often reason as if the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 2:** In a family argument, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 3:** Another everyday spot: a policy or workplace discussion. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 4:** **Setting:** sports or business results. **What goes wrong:** The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 5:** Imagine a family argument. The slip is the same: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
 
 **Rules and checks (useful habits)**  
@@ -3573,7 +3945,9 @@ The passage shows **Continuum Fallacy** in action: the fallacy of assuming that 
 
 **More examples (same fallacy only)**  
 - **Example 1:** In school grades or test scores, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 2:** Another everyday spot: a news headline or social post. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 3:** **Setting:** a health or habits story. **What goes wrong:** The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
 
 **In one sentence**  
@@ -3590,9 +3964,13 @@ Here, **Continuum Fallacy** is the right name because the fallacy of assuming th
 
 **More examples (same fallacy only)**  
 - **Example 1:** In school grades or test scores, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 2:** Another everyday spot: a news headline or social post. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 3:** **Setting:** a health or habits story. **What goes wrong:** The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 4:** Imagine school grades or test scores. The slip is the same: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+
 - **Example 5:** Picture a news headline or social post. People often reason as if the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
 
 **Rules and checks (useful habits)**  
@@ -3630,7 +4008,9 @@ The passage shows **Correlation Equals Causation** in action: assuming that beca
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a family argument. Assuming that because two things are correlated, one must have caused the other.
+
 - **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Assuming that because two things are correlated, one must have caused the other.
+
 - **Example 3:** Imagine sports or business results. The slip is the same: assuming that because two things are correlated, one must have caused the other.
 
 **In one sentence**  
@@ -3647,9 +4027,13 @@ Here, **Correlation Equals Causation** is the right name because assuming that b
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a family argument. Assuming that because two things are correlated, one must have caused the other.
+
 - **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Assuming that because two things are correlated, one must have caused the other.
+
 - **Example 3:** Imagine sports or business results. The slip is the same: assuming that because two things are correlated, one must have caused the other.
+
 - **Example 4:** Picture a family argument. People often reason as if assuming that because two things are correlated, one must have caused the other.
+
 - **Example 5:** In a policy or workplace discussion, watch for this pattern: Assuming that because two things are correlated, one must have caused the other.
 
 **Rules and checks (useful habits)**  
@@ -3687,7 +4071,9 @@ The passage shows **Correlation Equals Causation** in action: assuming that beca
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Assuming that because two things are correlated, one must have caused the other.
+
 - **Example 2:** Imagine a health or habits story. The slip is the same: assuming that because two things are correlated, one must have caused the other.
+
 - **Example 3:** Picture school grades or test scores. People often reason as if assuming that because two things are correlated, one must have caused the other.
 
 **In one sentence**  
@@ -3704,9 +4090,13 @@ Here, **Correlation Equals Causation** is the right name because assuming that b
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Assuming that because two things are correlated, one must have caused the other.
+
 - **Example 2:** Imagine a health or habits story. The slip is the same: assuming that because two things are correlated, one must have caused the other.
+
 - **Example 3:** Picture school grades or test scores. People often reason as if assuming that because two things are correlated, one must have caused the other.
+
 - **Example 4:** In a news headline or social post, watch for this pattern: Assuming that because two things are correlated, one must have caused the other.
+
 - **Example 5:** Another everyday spot: a health or habits story. Assuming that because two things are correlated, one must have caused the other.
 
 **Rules and checks (useful habits)**  
@@ -3744,7 +4134,9 @@ The passage shows **Correlation Equals Causation** in action: assuming that beca
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a policy or workplace discussion. The slip is the same: assuming that because two things are correlated, one must have caused the other.
+
 - **Example 2:** Picture sports or business results. People often reason as if assuming that because two things are correlated, one must have caused the other.
+
 - **Example 3:** In a family argument, watch for this pattern: Assuming that because two things are correlated, one must have caused the other.
 
 **In one sentence**  
@@ -3761,9 +4153,13 @@ Here, **Correlation Equals Causation** is the right name because assuming that b
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a policy or workplace discussion. The slip is the same: assuming that because two things are correlated, one must have caused the other.
+
 - **Example 2:** Picture sports or business results. People often reason as if assuming that because two things are correlated, one must have caused the other.
+
 - **Example 3:** In a family argument, watch for this pattern: Assuming that because two things are correlated, one must have caused the other.
+
 - **Example 4:** Another everyday spot: a policy or workplace discussion. Assuming that because two things are correlated, one must have caused the other.
+
 - **Example 5:** **Setting:** sports or business results. **What goes wrong:** Assuming that because two things are correlated, one must have caused the other.
 
 **Rules and checks (useful habits)**  
@@ -3801,7 +4197,9 @@ The passage shows **False Analogy** in action: comparing two things that are not
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a health or habits story. People often reason as if comparing two things that are not comparable in relevant respects.
+
 - **Example 2:** In school grades or test scores, watch for this pattern: Comparing two things that are not comparable in relevant respects.
+
 - **Example 3:** Another everyday spot: a news headline or social post. Comparing two things that are not comparable in relevant respects.
 
 **In one sentence**  
@@ -3818,9 +4216,13 @@ Here, **False Analogy** is the right name because comparing two things that are 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a health or habits story. People often reason as if comparing two things that are not comparable in relevant respects.
+
 - **Example 2:** In school grades or test scores, watch for this pattern: Comparing two things that are not comparable in relevant respects.
+
 - **Example 3:** Another everyday spot: a news headline or social post. Comparing two things that are not comparable in relevant respects.
+
 - **Example 4:** **Setting:** a health or habits story. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
+
 - **Example 5:** Imagine school grades or test scores. The slip is the same: comparing two things that are not comparable in relevant respects.
 
 **Rules and checks (useful habits)**  
@@ -3858,7 +4260,9 @@ The passage shows **False Analogy** in action: comparing two things that are not
 
 **More examples (same fallacy only)**  
 - **Example 1:** In sports or business results, watch for this pattern: Comparing two things that are not comparable in relevant respects.
+
 - **Example 2:** Another everyday spot: a family argument. Comparing two things that are not comparable in relevant respects.
+
 - **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
 
 **In one sentence**  
@@ -3875,9 +4279,13 @@ Here, **False Analogy** is the right name because comparing two things that are 
 
 **More examples (same fallacy only)**  
 - **Example 1:** In sports or business results, watch for this pattern: Comparing two things that are not comparable in relevant respects.
+
 - **Example 2:** Another everyday spot: a family argument. Comparing two things that are not comparable in relevant respects.
+
 - **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
+
 - **Example 4:** Imagine sports or business results. The slip is the same: comparing two things that are not comparable in relevant respects.
+
 - **Example 5:** Picture a family argument. People often reason as if comparing two things that are not comparable in relevant respects.
 
 **Rules and checks (useful habits)**  
@@ -3915,7 +4323,9 @@ The passage shows **False Analogy** in action: comparing two things that are not
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: school grades or test scores. Comparing two things that are not comparable in relevant respects.
+
 - **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
+
 - **Example 3:** Imagine a health or habits story. The slip is the same: comparing two things that are not comparable in relevant respects.
 
 **In one sentence**  
@@ -3932,9 +4342,13 @@ Here, **False Analogy** is the right name because comparing two things that are 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: school grades or test scores. Comparing two things that are not comparable in relevant respects.
+
 - **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
+
 - **Example 3:** Imagine a health or habits story. The slip is the same: comparing two things that are not comparable in relevant respects.
+
 - **Example 4:** Picture school grades or test scores. People often reason as if comparing two things that are not comparable in relevant respects.
+
 - **Example 5:** In a news headline or social post, watch for this pattern: Comparing two things that are not comparable in relevant respects.
 
 **Rules and checks (useful habits)**  
@@ -3972,7 +4386,9 @@ The passage shows **False Attribution** in action: appealing to an irrelevant, u
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a family argument. **What goes wrong:** Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 2:** Imagine a policy or workplace discussion. The slip is the same: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 3:** Picture sports or business results. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
 
 **In one sentence**  
@@ -3989,9 +4405,13 @@ Here, **False Attribution** is the right name because appealing to an irrelevant
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a family argument. **What goes wrong:** Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 2:** Imagine a policy or workplace discussion. The slip is the same: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 3:** Picture sports or business results. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 4:** In a family argument, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 5:** Another everyday spot: a policy or workplace discussion. Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
 
 **Rules and checks (useful habits)**  
@@ -4029,7 +4449,9 @@ The passage shows **False Attribution** in action: appealing to an irrelevant, u
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a news headline or social post. The slip is the same: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 2:** Picture a health or habits story. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 3:** In school grades or test scores, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
 
 **In one sentence**  
@@ -4046,9 +4468,13 @@ Here, **False Attribution** is the right name because appealing to an irrelevant
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a news headline or social post. The slip is the same: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 2:** Picture a health or habits story. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 3:** In school grades or test scores, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 4:** Another everyday spot: a news headline or social post. Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
 
 **Rules and checks (useful habits)**  
@@ -4086,7 +4512,9 @@ The passage shows **False Attribution** in action: appealing to an irrelevant, u
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a policy or workplace discussion. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 2:** In sports or business results, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 3:** Another everyday spot: a family argument. Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
 
 **In one sentence**  
@@ -4103,9 +4531,13 @@ Here, **False Attribution** is the right name because appealing to an irrelevant
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a policy or workplace discussion. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 2:** In sports or business results, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 3:** Another everyday spot: a family argument. Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 4:** **Setting:** a policy or workplace discussion. **What goes wrong:** Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+
 - **Example 5:** Imagine sports or business results. The slip is the same: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
 
 **Rules and checks (useful habits)**  
@@ -4143,7 +4575,9 @@ The passage shows **False Balance** in action: presenting two opposing views as 
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a health or habits story, watch for this pattern: Presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 2:** Another everyday spot: school grades or test scores. Presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
 
 **In one sentence**  
@@ -4160,9 +4594,13 @@ Here, **False Balance** is the right name because presenting two opposing views 
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a health or habits story, watch for this pattern: Presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 2:** Another everyday spot: school grades or test scores. Presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 4:** Imagine a health or habits story. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 5:** Picture school grades or test scores. People often reason as if presenting two opposing views as being more balanced than the evidence supports.
 
 **Rules and checks (useful habits)**  
@@ -4200,7 +4638,9 @@ The passage shows **False Balance** in action: presenting two opposing views as 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: sports or business results. Presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 2:** **Setting:** a family argument. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 3:** Imagine a policy or workplace discussion. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
 
 **In one sentence**  
@@ -4217,9 +4657,13 @@ Here, **False Balance** is the right name because presenting two opposing views 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: sports or business results. Presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 2:** **Setting:** a family argument. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 3:** Imagine a policy or workplace discussion. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 4:** Picture sports or business results. People often reason as if presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 5:** In a family argument, watch for this pattern: Presenting two opposing views as being more balanced than the evidence supports.
 
 **Rules and checks (useful habits)**  
@@ -4257,7 +4701,9 @@ The passage shows **False Balance** in action: presenting two opposing views as 
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 2:** Imagine a news headline or social post. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 3:** Picture a health or habits story. People often reason as if presenting two opposing views as being more balanced than the evidence supports.
 
 **In one sentence**  
@@ -4274,9 +4720,13 @@ Here, **False Balance** is the right name because presenting two opposing views 
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 2:** Imagine a news headline or social post. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 3:** Picture a health or habits story. People often reason as if presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 4:** In school grades or test scores, watch for this pattern: Presenting two opposing views as being more balanced than the evidence supports.
+
 - **Example 5:** Another everyday spot: a news headline or social post. Presenting two opposing views as being more balanced than the evidence supports.
 
 **Rules and checks (useful habits)**  
@@ -4314,7 +4764,9 @@ The passage shows **False Dichotomy** in action: presenting two alternative stat
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a family argument. The slip is the same: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 2:** Picture a policy or workplace discussion. People often reason as if presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 3:** In sports or business results, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
 
 **In one sentence**  
@@ -4331,9 +4783,13 @@ Here, **False Dichotomy** is the right name because presenting two alternative s
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine a family argument. The slip is the same: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 2:** Picture a policy or workplace discussion. People often reason as if presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 3:** In sports or business results, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 4:** Another everyday spot: a family argument. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
 
 **Rules and checks (useful habits)**  
@@ -4371,7 +4827,9 @@ The passage shows **False Dichotomy** in action: presenting two alternative stat
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a news headline or social post. People often reason as if presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 2:** In a health or habits story, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 3:** Another everyday spot: school grades or test scores. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
 
 **In one sentence**  
@@ -4388,9 +4846,13 @@ Here, **False Dichotomy** is the right name because presenting two alternative s
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a news headline or social post. People often reason as if presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 2:** In a health or habits story, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 3:** Another everyday spot: school grades or test scores. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 4:** **Setting:** a news headline or social post. **What goes wrong:** Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 5:** Imagine a health or habits story. The slip is the same: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
 
 **Rules and checks (useful habits)**  
@@ -4428,7 +4890,9 @@ The passage shows **False Dichotomy** in action: presenting two alternative stat
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a policy or workplace discussion, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 2:** Another everyday spot: sports or business results. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 3:** **Setting:** a family argument. **What goes wrong:** Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
 
 **In one sentence**  
@@ -4445,9 +4909,13 @@ Here, **False Dichotomy** is the right name because presenting two alternative s
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a policy or workplace discussion, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 2:** Another everyday spot: sports or business results. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 3:** **Setting:** a family argument. **What goes wrong:** Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 4:** Imagine a policy or workplace discussion. The slip is the same: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+
 - **Example 5:** Picture sports or business results. People often reason as if presenting two alternative states as the only possibilities, when in fact more possibilities exist.
 
 **Rules and checks (useful habits)**  
@@ -4485,7 +4953,9 @@ The passage shows **False Equivalence** in action: describing two distinct and o
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a health or habits story. Describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 3:** Imagine a news headline or social post. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
 
 **In one sentence**  
@@ -4502,9 +4972,13 @@ Here, **False Equivalence** is the right name because describing two distinct an
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a health or habits story. Describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 3:** Imagine a news headline or social post. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 4:** Picture a health or habits story. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 5:** In school grades or test scores, watch for this pattern: Describing two distinct and opposing arguments as logically equivalent when they are not.
 
 **Rules and checks (useful habits)**  
@@ -4542,7 +5016,9 @@ The passage shows **False Equivalence** in action: describing two distinct and o
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** sports or business results. **What goes wrong:** Describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 2:** Imagine a family argument. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 3:** Picture a policy or workplace discussion. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
 
 **In one sentence**  
@@ -4559,9 +5035,13 @@ Here, **False Equivalence** is the right name because describing two distinct an
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** sports or business results. **What goes wrong:** Describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 2:** Imagine a family argument. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 3:** Picture a policy or workplace discussion. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 4:** In sports or business results, watch for this pattern: Describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 5:** Another everyday spot: a family argument. Describing two distinct and opposing arguments as logically equivalent when they are not.
 
 **Rules and checks (useful habits)**  
@@ -4599,7 +5079,9 @@ The passage shows **False Equivalence** in action: describing two distinct and o
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine school grades or test scores. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 2:** Picture a news headline or social post. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 3:** In a health or habits story, watch for this pattern: Describing two distinct and opposing arguments as logically equivalent when they are not.
 
 **In one sentence**  
@@ -4616,9 +5098,13 @@ Here, **False Equivalence** is the right name because describing two distinct an
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine school grades or test scores. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 2:** Picture a news headline or social post. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 3:** In a health or habits story, watch for this pattern: Describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 4:** Another everyday spot: school grades or test scores. Describing two distinct and opposing arguments as logically equivalent when they are not.
+
 - **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** Describing two distinct and opposing arguments as logically equivalent when they are not.
 
 **Rules and checks (useful habits)**  
@@ -4656,7 +5142,9 @@ The passage shows **Fallacy Fallacy** in action: presuming that because a claim 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a family argument. People often reason as if presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 2:** In a policy or workplace discussion, watch for this pattern: Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 3:** Another everyday spot: sports or business results. Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
 
 **In one sentence**  
@@ -4673,9 +5161,13 @@ Here, **Fallacy Fallacy** is the right name because presuming that because a cla
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture a family argument. People often reason as if presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 2:** In a policy or workplace discussion, watch for this pattern: Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 3:** Another everyday spot: sports or business results. Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 4:** **Setting:** a family argument. **What goes wrong:** Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 5:** Imagine a policy or workplace discussion. The slip is the same: presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
 
 **Rules and checks (useful habits)**  
@@ -4713,7 +5205,9 @@ The passage shows **Fallacy Fallacy** in action: presuming that because a claim 
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a news headline or social post, watch for this pattern: Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 2:** Another everyday spot: a health or habits story. Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
 
 **In one sentence**  
@@ -4730,9 +5224,13 @@ Here, **Fallacy Fallacy** is the right name because presuming that because a cla
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a news headline or social post, watch for this pattern: Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 2:** Another everyday spot: a health or habits story. Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 4:** Imagine a news headline or social post. The slip is the same: presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 5:** Picture a health or habits story. People often reason as if presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
 
 **Rules and checks (useful habits)**  
@@ -4770,7 +5268,9 @@ The passage shows **Fallacy Fallacy** in action: presuming that because a claim 
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a policy or workplace discussion. Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 2:** **Setting:** sports or business results. **What goes wrong:** Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 3:** Imagine a family argument. The slip is the same: presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
 
 **In one sentence**  
@@ -4787,9 +5287,13 @@ Here, **Fallacy Fallacy** is the right name because presuming that because a cla
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a policy or workplace discussion. Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 2:** **Setting:** sports or business results. **What goes wrong:** Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 3:** Imagine a family argument. The slip is the same: presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 4:** Picture a policy or workplace discussion. People often reason as if presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+
 - **Example 5:** In sports or business results, watch for this pattern: Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
 
 **Rules and checks (useful habits)**  
@@ -4827,7 +5331,9 @@ The passage shows **Faulty Generalization** in action: drawing a conclusion from
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Drawing a conclusion from weak or insufficient evidence.
+
 - **Example 2:** Imagine school grades or test scores. The slip is the same: drawing a conclusion from weak or insufficient evidence.
+
 - **Example 3:** Picture a news headline or social post. People often reason as if drawing a conclusion from weak or insufficient evidence.
 
 **In one sentence**  
@@ -4844,9 +5350,13 @@ Here, **Faulty Generalization** is the right name because drawing a conclusion f
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Drawing a conclusion from weak or insufficient evidence.
+
 - **Example 2:** Imagine school grades or test scores. The slip is the same: drawing a conclusion from weak or insufficient evidence.
+
 - **Example 3:** Picture a news headline or social post. People often reason as if drawing a conclusion from weak or insufficient evidence.
+
 - **Example 4:** In a health or habits story, watch for this pattern: Drawing a conclusion from weak or insufficient evidence.
+
 - **Example 5:** Another everyday spot: school grades or test scores. Drawing a conclusion from weak or insufficient evidence.
 
 **Rules and checks (useful habits)**  
@@ -4884,7 +5394,9 @@ The passage shows **Faulty Generalization** in action: drawing a conclusion from
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine sports or business results. The slip is the same: drawing a conclusion from weak or insufficient evidence.
+
 - **Example 2:** Picture a family argument. People often reason as if drawing a conclusion from weak or insufficient evidence.
+
 - **Example 3:** In a policy or workplace discussion, watch for this pattern: Drawing a conclusion from weak or insufficient evidence.
 
 **In one sentence**  
@@ -4901,9 +5413,13 @@ Here, **Faulty Generalization** is the right name because drawing a conclusion f
 
 **More examples (same fallacy only)**  
 - **Example 1:** Imagine sports or business results. The slip is the same: drawing a conclusion from weak or insufficient evidence.
+
 - **Example 2:** Picture a family argument. People often reason as if drawing a conclusion from weak or insufficient evidence.
+
 - **Example 3:** In a policy or workplace discussion, watch for this pattern: Drawing a conclusion from weak or insufficient evidence.
+
 - **Example 4:** Another everyday spot: sports or business results. Drawing a conclusion from weak or insufficient evidence.
+
 - **Example 5:** **Setting:** a family argument. **What goes wrong:** Drawing a conclusion from weak or insufficient evidence.
 
 **Rules and checks (useful habits)**  
@@ -4941,7 +5457,9 @@ The passage shows **Faulty Generalization** in action: drawing a conclusion from
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture school grades or test scores. People often reason as if drawing a conclusion from weak or insufficient evidence.
+
 - **Example 2:** In a news headline or social post, watch for this pattern: Drawing a conclusion from weak or insufficient evidence.
+
 - **Example 3:** Another everyday spot: a health or habits story. Drawing a conclusion from weak or insufficient evidence.
 
 **In one sentence**  
@@ -4958,9 +5476,13 @@ Here, **Faulty Generalization** is the right name because drawing a conclusion f
 
 **More examples (same fallacy only)**  
 - **Example 1:** Picture school grades or test scores. People often reason as if drawing a conclusion from weak or insufficient evidence.
+
 - **Example 2:** In a news headline or social post, watch for this pattern: Drawing a conclusion from weak or insufficient evidence.
+
 - **Example 3:** Another everyday spot: a health or habits story. Drawing a conclusion from weak or insufficient evidence.
+
 - **Example 4:** **Setting:** school grades or test scores. **What goes wrong:** Drawing a conclusion from weak or insufficient evidence.
+
 - **Example 5:** Imagine a news headline or social post. The slip is the same: drawing a conclusion from weak or insufficient evidence.
 
 **Rules and checks (useful habits)**  
@@ -4998,7 +5520,9 @@ The passage shows **Genetic Fallacy** in action: judging something distinct from
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a family argument, watch for this pattern: Judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 2:** Another everyday spot: a policy or workplace discussion. Judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 3:** **Setting:** sports or business results. **What goes wrong:** Judging something distinct from its origin based on the history or origin of the thing.
 
 **In one sentence**  
@@ -5015,9 +5539,13 @@ Here, **Genetic Fallacy** is the right name because judging something distinct f
 
 **More examples (same fallacy only)**  
 - **Example 1:** In a family argument, watch for this pattern: Judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 2:** Another everyday spot: a policy or workplace discussion. Judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 3:** **Setting:** sports or business results. **What goes wrong:** Judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 4:** Imagine a family argument. The slip is the same: judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 5:** Picture a policy or workplace discussion. People often reason as if judging something distinct from its origin based on the history or origin of the thing.
 
 **Rules and checks (useful habits)**  
@@ -5055,7 +5583,9 @@ The passage shows **Genetic Fallacy** in action: judging something distinct from
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a news headline or social post. Judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 3:** Imagine school grades or test scores. The slip is the same: judging something distinct from its origin based on the history or origin of the thing.
 
 **In one sentence**  
@@ -5072,9 +5602,13 @@ Here, **Genetic Fallacy** is the right name because judging something distinct f
 
 **More examples (same fallacy only)**  
 - **Example 1:** Another everyday spot: a news headline or social post. Judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 3:** Imagine school grades or test scores. The slip is the same: judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 4:** Picture a news headline or social post. People often reason as if judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 5:** In a health or habits story, watch for this pattern: Judging something distinct from its origin based on the history or origin of the thing.
 
 **Rules and checks (useful habits)**  
@@ -5112,7 +5646,9 @@ The passage shows **Genetic Fallacy** in action: judging something distinct from
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 2:** Imagine sports or business results. The slip is the same: judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 3:** Picture a family argument. People often reason as if judging something distinct from its origin based on the history or origin of the thing.
 
 **In one sentence**  
@@ -5129,9 +5665,13 @@ Here, **Genetic Fallacy** is the right name because judging something distinct f
 
 **More examples (same fallacy only)**  
 - **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 2:** Imagine sports or business results. The slip is the same: judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 3:** Picture a family argument. People often reason as if judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 4:** In a policy or workplace discussion, watch for this pattern: Judging something distinct from its origin based on the history or origin of the thing.
+
 - **Example 5:** Another everyday spot: sports or business results. Judging something distinct from its origin based on the history or origin of the thing.
 
 **Rules and checks (useful habits)**  
@@ -5173,7 +5713,9 @@ Le passage montre **Ad Hominem** : attaquer le caractère ou les traits personne
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
 
 **En une phrase**  
@@ -5190,9 +5732,13 @@ Ici, **Ad Hominem** convient parce que attaquer le caractère ou les traits pers
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 4 :** Autre situation courante : un récit sur la santé ou les habitudes. Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 5 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
 
 **Règles et repères**  
@@ -5230,7 +5776,9 @@ Le passage montre **Ad Hominem** : attaquer le caractère ou les traits personne
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
 
 **En une phrase**  
@@ -5247,9 +5795,13 @@ Ici, **Ad Hominem** convient parce que attaquer le caractère ou les traits pers
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 4 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 5 :** Imaginez une discussion en famille. C’est la même erreur : attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
 
 **Règles et repères**  
@@ -5287,7 +5839,9 @@ Le passage montre **Ad Hominem** : attaquer le caractère ou les traits personne
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
 
 **En une phrase**  
@@ -5304,9 +5858,13 @@ Ici, **Ad Hominem** convient parce que attaquer le caractère ou les traits pers
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 4 :** Imaginez des notes ou examens. C’est la même erreur : attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+
 - **Exemple 5 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
 
 **Règles et repères**  
@@ -5344,7 +5902,9 @@ Le passage montre **Abusive Ad Hominem** : insulter directement l'adversaire pou
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : une discussion en famille. Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
 
 **En une phrase**  
@@ -5361,9 +5921,13 @@ Ici, **Abusive Ad Hominem** convient parce que insulter directement l'adversaire
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : une discussion en famille. Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 4 :** Pensez à une discussion en famille. Souvent, on raisonne comme si insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 5 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
 
 **Règles et repères**  
@@ -5401,7 +5965,9 @@ Le passage montre **Abusive Ad Hominem** : insulter directement l'adversaire pou
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
 
 **En une phrase**  
@@ -5418,9 +5984,13 @@ Ici, **Abusive Ad Hominem** convient parce que insulter directement l'adversaire
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 4 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 5 :** Autre situation courante : un récit sur la santé ou les habitudes. Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
 
 **Règles et repères**  
@@ -5458,7 +6028,9 @@ Le passage montre **Abusive Ad Hominem** : insulter directement l'adversaire pou
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
 
 **En une phrase**  
@@ -5475,9 +6047,13 @@ Ici, **Abusive Ad Hominem** convient parce que insulter directement l'adversaire
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 4 :** Autre situation courante : un débat sur une politique ou au travail. Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+
 - **Exemple 5 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
 
 **Règles et repères**  
@@ -5515,7 +6091,9 @@ Le passage montre **Circumstantial Ad Hominem** : une erreur logique ou un biais
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
 
 **En une phrase**  
@@ -5532,9 +6110,13 @@ Ici, **Circumstantial Ad Hominem** convient parce que une erreur logique ou un b
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 4 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 5 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
 
 **Règles et repères**  
@@ -5572,7 +6154,9 @@ Le passage montre **Circumstantial Ad Hominem** : une erreur logique ou un biais
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
 
 **En une phrase**  
@@ -5589,9 +6173,13 @@ Ici, **Circumstantial Ad Hominem** convient parce que une erreur logique ou un b
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 4 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 5 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
 
 **Règles et repères**  
@@ -5629,7 +6217,9 @@ Le passage montre **Circumstantial Ad Hominem** : une erreur logique ou un biais
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
 
 **En une phrase**  
@@ -5646,9 +6236,13 @@ Ici, **Circumstantial Ad Hominem** convient parce que une erreur logique ou un b
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 4 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+
 - **Exemple 5 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
 
 **Règles et repères**  
@@ -5686,7 +6280,9 @@ Le passage montre **Tu Quoque** : éviter la critique en la renvoyant à l'accus
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
 
 **En une phrase**  
@@ -5703,9 +6299,13 @@ Ici, **Tu Quoque** convient parce que éviter la critique en la renvoyant à l'a
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 4 :** Dans une discussion en famille, repérez ce schéma : Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 5 :** Autre situation courante : un débat sur une politique ou au travail. Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
 
 **Règles et repères**  
@@ -5743,7 +6343,9 @@ Le passage montre **Tu Quoque** : éviter la critique en la renvoyant à l'accus
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
 
 **En une phrase**  
@@ -5760,9 +6362,13 @@ Ici, **Tu Quoque** convient parce que éviter la critique en la renvoyant à l'a
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 4 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 5 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
 
 **Règles et repères**  
@@ -5800,7 +6406,9 @@ Le passage montre **Tu Quoque** : éviter la critique en la renvoyant à l'accus
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 3 :** Autre situation courante : une discussion en famille. Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
 
 **En une phrase**  
@@ -5817,9 +6425,13 @@ Ici, **Tu Quoque** convient parce que éviter la critique en la renvoyant à l'a
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 3 :** Autre situation courante : une discussion en famille. Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 4 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+
 - **Exemple 5 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
 
 **Règles et repères**  
@@ -5857,7 +6469,9 @@ Le passage montre **Appeal to Authority** : affirmer qu'une chose est vraie uniq
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 2 :** Autre situation courante : des notes ou examens. Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
 
 **En une phrase**  
@@ -5874,9 +6488,13 @@ Ici, **Appeal to Authority** convient parce que affirmer qu'une chose est vraie 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 2 :** Autre situation courante : des notes ou examens. Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 4 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 5 :** Pensez à des notes ou examens. Souvent, on raisonne comme si affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
 
 **Règles et repères**  
@@ -5914,7 +6532,9 @@ Le passage montre **Appeal to Authority** : affirmer qu'une chose est vraie uniq
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
 
 **En une phrase**  
@@ -5931,9 +6551,13 @@ Ici, **Appeal to Authority** convient parce que affirmer qu'une chose est vraie 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 4 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 5 :** Dans une discussion en famille, repérez ce schéma : Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
 
 **Règles et repères**  
@@ -5971,7 +6595,9 @@ Le passage montre **Appeal to Authority** : affirmer qu'une chose est vraie uniq
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
 
 **En une phrase**  
@@ -5988,9 +6614,13 @@ Ici, **Appeal to Authority** convient parce que affirmer qu'une chose est vraie 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 4 :** Dans des notes ou examens, repérez ce schéma : Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+
 - **Exemple 5 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
 
 **Règles et repères**  
@@ -6028,7 +6658,9 @@ Le passage montre **Appeal to False Authority** : soutenir qu'une proposition es
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6045,9 +6677,13 @@ Ici, **Appeal to False Authority** convient parce que soutenir qu'une propositio
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6085,7 +6721,9 @@ Le passage montre **Appeal to False Authority** : soutenir qu'une proposition es
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6102,9 +6740,13 @@ Ici, **Appeal to False Authority** convient parce que soutenir qu'une propositio
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6142,7 +6784,9 @@ Le passage montre **Appeal to False Authority** : soutenir qu'une proposition es
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6159,9 +6803,13 @@ Ici, **Appeal to False Authority** convient parce que soutenir qu'une propositio
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6199,7 +6847,9 @@ Le passage montre **Appeal to Anonymous Authority** : soutenir qu'une propositio
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6216,9 +6866,13 @@ Ici, **Appeal to Anonymous Authority** convient parce que soutenir qu'une propos
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6256,7 +6910,9 @@ Le passage montre **Appeal to Anonymous Authority** : soutenir qu'une propositio
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6273,9 +6929,13 @@ Ici, **Appeal to Anonymous Authority** convient parce que soutenir qu'une propos
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6313,7 +6973,9 @@ Le passage montre **Appeal to Anonymous Authority** : soutenir qu'une propositio
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6330,9 +6992,13 @@ Ici, **Appeal to Anonymous Authority** convient parce que soutenir qu'une propos
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6370,7 +7036,9 @@ Le passage montre **Appeal to Tradition** : soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6387,9 +7055,13 @@ Ici, **Appeal to Tradition** convient parce que soutenir qu'une proposition est 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6427,7 +7099,9 @@ Le passage montre **Appeal to Tradition** : soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6444,9 +7118,13 @@ Ici, **Appeal to Tradition** convient parce que soutenir qu'une proposition est 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6484,7 +7162,9 @@ Le passage montre **Appeal to Tradition** : soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6501,9 +7181,13 @@ Ici, **Appeal to Tradition** convient parce que soutenir qu'une proposition est 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6541,7 +7225,9 @@ Le passage montre **Appeal to Novelty** : soutenir qu'une proposition est vraie 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6558,9 +7244,13 @@ Ici, **Appeal to Novelty** convient parce que soutenir qu'une proposition est vr
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6598,7 +7288,9 @@ Le passage montre **Appeal to Novelty** : soutenir qu'une proposition est vraie 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6615,9 +7307,13 @@ Ici, **Appeal to Novelty** convient parce que soutenir qu'une proposition est vr
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6655,7 +7351,9 @@ Le passage montre **Appeal to Novelty** : soutenir qu'une proposition est vraie 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6672,9 +7370,13 @@ Ici, **Appeal to Novelty** convient parce que soutenir qu'une proposition est vr
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6712,7 +7414,9 @@ Le passage montre **Appeal to Popularity** : soutenir qu'une proposition est vra
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6729,9 +7433,13 @@ Ici, **Appeal to Popularity** convient parce que soutenir qu'une proposition est
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6769,7 +7477,9 @@ Le passage montre **Appeal to Popularity** : soutenir qu'une proposition est vra
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6786,9 +7496,13 @@ Ici, **Appeal to Popularity** convient parce que soutenir qu'une proposition est
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6826,7 +7540,9 @@ Le passage montre **Appeal to Popularity** : soutenir qu'une proposition est vra
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6843,9 +7559,13 @@ Ici, **Appeal to Popularity** convient parce que soutenir qu'une proposition est
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6883,7 +7603,9 @@ Le passage montre **Appeal to the Majority** : soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6900,9 +7622,13 @@ Ici, **Appeal to the Majority** convient parce que soutenir qu'une proposition e
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6940,7 +7666,9 @@ Le passage montre **Appeal to the Majority** : soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -6957,9 +7685,13 @@ Ici, **Appeal to the Majority** convient parce que soutenir qu'une proposition e
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -6997,7 +7729,9 @@ Le passage montre **Appeal to the Majority** : soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -7014,9 +7748,13 @@ Ici, **Appeal to the Majority** convient parce que soutenir qu'une proposition e
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -7054,7 +7792,9 @@ Le passage montre **Bandwagon Fallacy** : une erreur logique spécifique où le 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
 
 **En une phrase**  
@@ -7071,9 +7811,13 @@ Ici, **Bandwagon Fallacy** convient parce que une erreur logique spécifique où
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 4 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 5 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
 
 **Règles et repères**  
@@ -7111,7 +7855,9 @@ Le passage montre **Bandwagon Fallacy** : une erreur logique spécifique où le 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
 
 **En une phrase**  
@@ -7128,9 +7874,13 @@ Ici, **Bandwagon Fallacy** convient parce que une erreur logique spécifique où
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 4 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 5 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
 
 **Règles et repères**  
@@ -7168,7 +7918,9 @@ Le passage montre **Bandwagon Fallacy** : une erreur logique spécifique où le 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
 
 **En une phrase**  
@@ -7185,9 +7937,13 @@ Ici, **Bandwagon Fallacy** convient parce que une erreur logique spécifique où
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 4 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+
 - **Exemple 5 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
 
 **Règles et repères**  
@@ -7225,7 +7981,9 @@ Le passage montre **Appeal to Emotion** : tenter de manipuler une réponse émot
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
 
 **En une phrase**  
@@ -7242,9 +8000,13 @@ Ici, **Appeal to Emotion** convient parce que tenter de manipuler une réponse �
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 4 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 5 :** Imaginez des notes ou examens. C’est la même erreur : tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
 
 **Règles et repères**  
@@ -7282,7 +8044,9 @@ Le passage montre **Appeal to Emotion** : tenter de manipuler une réponse émot
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 2 :** Autre situation courante : une discussion en famille. Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
 
 **En une phrase**  
@@ -7299,9 +8063,13 @@ Ici, **Appeal to Emotion** convient parce que tenter de manipuler une réponse �
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 2 :** Autre situation courante : une discussion en famille. Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 4 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 5 :** Pensez à une discussion en famille. Souvent, on raisonne comme si tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
 
 **Règles et repères**  
@@ -7339,7 +8107,9 @@ Le passage montre **Appeal to Emotion** : tenter de manipuler une réponse émot
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : des notes ou examens. Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
 
 **En une phrase**  
@@ -7356,9 +8126,13 @@ Ici, **Appeal to Emotion** convient parce que tenter de manipuler une réponse �
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : des notes ou examens. Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 4 :** Pensez à des notes ou examens. Souvent, on raisonne comme si tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+
 - **Exemple 5 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
 
 **Règles et repères**  
@@ -7396,7 +8170,9 @@ Le passage montre **Appeal to Fear** : soutenir qu'une proposition est vraie ou 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -7413,9 +8189,13 @@ Ici, **Appeal to Fear** convient parce que soutenir qu'une proposition est vraie
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -7453,7 +8233,9 @@ Le passage montre **Appeal to Fear** : soutenir qu'une proposition est vraie ou 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -7470,9 +8252,13 @@ Ici, **Appeal to Fear** convient parce que soutenir qu'une proposition est vraie
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -7510,7 +8296,9 @@ Le passage montre **Appeal to Fear** : soutenir qu'une proposition est vraie ou 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -7527,9 +8315,13 @@ Ici, **Appeal to Fear** convient parce que soutenir qu'une proposition est vraie
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -7567,7 +8359,9 @@ Le passage montre **Appeal to Pity** : soutenir qu'une proposition est vraie ou 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -7584,9 +8378,13 @@ Ici, **Appeal to Pity** convient parce que soutenir qu'une proposition est vraie
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -7624,7 +8422,9 @@ Le passage montre **Appeal to Pity** : soutenir qu'une proposition est vraie ou 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -7641,9 +8441,13 @@ Ici, **Appeal to Pity** convient parce que soutenir qu'une proposition est vraie
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -7681,7 +8485,9 @@ Le passage montre **Appeal to Pity** : soutenir qu'une proposition est vraie ou 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -7698,9 +8504,13 @@ Ici, **Appeal to Pity** convient parce que soutenir qu'une proposition est vraie
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -7738,7 +8548,9 @@ Le passage montre **Appeal to Flattery** : soutenir qu'une proposition est vraie
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -7755,9 +8567,13 @@ Ici, **Appeal to Flattery** convient parce que soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -7795,7 +8611,9 @@ Le passage montre **Appeal to Flattery** : soutenir qu'une proposition est vraie
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -7812,9 +8630,13 @@ Ici, **Appeal to Flattery** convient parce que soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -7852,7 +8674,9 @@ Le passage montre **Appeal to Flattery** : soutenir qu'une proposition est vraie
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -7869,9 +8693,13 @@ Ici, **Appeal to Flattery** convient parce que soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -7909,7 +8737,9 @@ Le passage montre **Appeal to Ridicule** : soutenir qu'une proposition est vraie
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -7926,9 +8756,13 @@ Ici, **Appeal to Ridicule** convient parce que soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -7966,7 +8800,9 @@ Le passage montre **Appeal to Ridicule** : soutenir qu'une proposition est vraie
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -7983,9 +8819,13 @@ Ici, **Appeal to Ridicule** convient parce que soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8023,7 +8863,9 @@ Le passage montre **Appeal to Ridicule** : soutenir qu'une proposition est vraie
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -8040,9 +8882,13 @@ Ici, **Appeal to Ridicule** convient parce que soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8080,7 +8926,9 @@ Le passage montre **Appeal to Spite** : soutenir qu'une proposition est vraie ou
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -8097,9 +8945,13 @@ Ici, **Appeal to Spite** convient parce que soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8137,7 +8989,9 @@ Le passage montre **Appeal to Spite** : soutenir qu'une proposition est vraie ou
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -8154,9 +9008,13 @@ Ici, **Appeal to Spite** convient parce que soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8194,7 +9052,9 @@ Le passage montre **Appeal to Spite** : soutenir qu'une proposition est vraie ou
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -8211,9 +9071,13 @@ Ici, **Appeal to Spite** convient parce que soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8251,7 +9115,9 @@ Le passage montre **Appeal to Consequences** : soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -8268,9 +9134,13 @@ Ici, **Appeal to Consequences** convient parce que soutenir qu'une proposition e
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8308,7 +9178,9 @@ Le passage montre **Appeal to Consequences** : soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -8325,9 +9197,13 @@ Ici, **Appeal to Consequences** convient parce que soutenir qu'une proposition e
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8365,7 +9241,9 @@ Le passage montre **Appeal to Consequences** : soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -8382,9 +9260,13 @@ Ici, **Appeal to Consequences** convient parce que soutenir qu'une proposition e
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8422,7 +9304,9 @@ Le passage montre **Appeal to Nature** : soutenir que parce que quelque chose es
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
 
 **En une phrase**  
@@ -8439,9 +9323,13 @@ Ici, **Appeal to Nature** convient parce que soutenir que parce que quelque chos
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 4 :** Imaginez une discussion en famille. C’est la même erreur : soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 5 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
 
 **Règles et repères**  
@@ -8479,7 +9367,9 @@ Le passage montre **Appeal to Nature** : soutenir que parce que quelque chose es
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
 
 **En une phrase**  
@@ -8496,9 +9386,13 @@ Ici, **Appeal to Nature** convient parce que soutenir que parce que quelque chos
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 4 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 5 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
 
 **Règles et repères**  
@@ -8536,7 +9430,9 @@ Le passage montre **Appeal to Nature** : soutenir que parce que quelque chose es
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
 
 **En une phrase**  
@@ -8553,9 +9449,13 @@ Ici, **Appeal to Nature** convient parce que soutenir que parce que quelque chos
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 4 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+
 - **Exemple 5 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
 
 **Règles et repères**  
@@ -8593,7 +9493,9 @@ Le passage montre **Appeal to Ignorance** : soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -8610,9 +9512,13 @@ Ici, **Appeal to Ignorance** convient parce que soutenir qu'une proposition est 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8650,7 +9556,9 @@ Le passage montre **Appeal to Ignorance** : soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -8667,9 +9575,13 @@ Ici, **Appeal to Ignorance** convient parce que soutenir qu'une proposition est 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8707,7 +9619,9 @@ Le passage montre **Appeal to Ignorance** : soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -8724,9 +9638,13 @@ Ici, **Appeal to Ignorance** convient parce que soutenir qu'une proposition est 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8764,7 +9682,9 @@ Le passage montre **Appeal to Incredulity** : soutenir qu'une proposition est vr
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -8781,9 +9701,13 @@ Ici, **Appeal to Incredulity** convient parce que soutenir qu'une proposition es
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8821,7 +9745,9 @@ Le passage montre **Appeal to Incredulity** : soutenir qu'une proposition est vr
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -8838,9 +9764,13 @@ Ici, **Appeal to Incredulity** convient parce que soutenir qu'une proposition es
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8878,7 +9808,9 @@ Le passage montre **Appeal to Incredulity** : soutenir qu'une proposition est vr
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -8895,9 +9827,13 @@ Ici, **Appeal to Incredulity** convient parce que soutenir qu'une proposition es
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur incredulity, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8935,7 +9871,9 @@ Le passage montre **Appeal to Probability** : soutenir qu'une proposition est vr
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -8952,9 +9890,13 @@ Ici, **Appeal to Probability** convient parce que soutenir qu'une proposition es
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -8992,7 +9934,9 @@ Le passage montre **Appeal to Probability** : soutenir qu'une proposition est vr
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9009,9 +9953,13 @@ Ici, **Appeal to Probability** convient parce que soutenir qu'une proposition es
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9049,7 +9997,9 @@ Le passage montre **Appeal to Probability** : soutenir qu'une proposition est vr
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9066,9 +10016,13 @@ Ici, **Appeal to Probability** convient parce que soutenir qu'une proposition es
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur probability, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9106,7 +10060,9 @@ Le passage montre **Appeal to Common Sense** : soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9123,9 +10079,13 @@ Ici, **Appeal to Common Sense** convient parce que soutenir qu'une proposition e
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9163,7 +10123,9 @@ Le passage montre **Appeal to Common Sense** : soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9180,9 +10142,13 @@ Ici, **Appeal to Common Sense** convient parce que soutenir qu'une proposition e
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9220,7 +10186,9 @@ Le passage montre **Appeal to Common Sense** : soutenir qu'une proposition est v
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9237,9 +10205,13 @@ Ici, **Appeal to Common Sense** convient parce que soutenir qu'une proposition e
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur common sense, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9277,7 +10249,9 @@ Le passage montre **Appeal to Intuition** : soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9294,9 +10268,13 @@ Ici, **Appeal to Intuition** convient parce que soutenir qu'une proposition est 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9334,7 +10312,9 @@ Le passage montre **Appeal to Intuition** : soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9351,9 +10331,13 @@ Ici, **Appeal to Intuition** convient parce que soutenir qu'une proposition est 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9391,7 +10375,9 @@ Le passage montre **Appeal to Intuition** : soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9408,9 +10394,13 @@ Ici, **Appeal to Intuition** convient parce que soutenir qu'une proposition est 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur intuition, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9448,7 +10438,9 @@ Le passage montre **Appeal to Personal Experience** : soutenir qu'une propositio
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9465,9 +10457,13 @@ Ici, **Appeal to Personal Experience** convient parce que soutenir qu'une propos
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9505,7 +10501,9 @@ Le passage montre **Appeal to Personal Experience** : soutenir qu'une propositio
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9522,9 +10520,13 @@ Ici, **Appeal to Personal Experience** convient parce que soutenir qu'une propos
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9562,7 +10564,9 @@ Le passage montre **Appeal to Personal Experience** : soutenir qu'une propositio
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9579,9 +10583,13 @@ Ici, **Appeal to Personal Experience** convient parce que soutenir qu'une propos
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur personal experience, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9619,7 +10627,9 @@ Le passage montre **Appeal to Belief** : soutenir qu'une proposition est vraie o
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9636,9 +10646,13 @@ Ici, **Appeal to Belief** convient parce que soutenir qu'une proposition est vra
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9676,7 +10690,9 @@ Le passage montre **Appeal to Belief** : soutenir qu'une proposition est vraie o
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9693,9 +10709,13 @@ Ici, **Appeal to Belief** convient parce que soutenir qu'une proposition est vra
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9733,7 +10753,9 @@ Le passage montre **Appeal to Belief** : soutenir qu'une proposition est vraie o
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9750,9 +10772,13 @@ Ici, **Appeal to Belief** convient parce que soutenir qu'une proposition est vra
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9790,7 +10816,9 @@ Le passage montre **Appeal to Faith** : soutenir qu'une proposition est vraie ou
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9807,9 +10835,13 @@ Ici, **Appeal to Faith** convient parce que soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9847,7 +10879,9 @@ Le passage montre **Appeal to Faith** : soutenir qu'une proposition est vraie ou
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9864,9 +10898,13 @@ Ici, **Appeal to Faith** convient parce que soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9904,7 +10942,9 @@ Le passage montre **Appeal to Faith** : soutenir qu'une proposition est vraie ou
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9921,9 +10961,13 @@ Ici, **Appeal to Faith** convient parce que soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -9961,7 +11005,9 @@ Le passage montre **Appeal to Motive** : soutenir qu'une proposition est vraie o
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -9978,9 +11024,13 @@ Ici, **Appeal to Motive** convient parce que soutenir qu'une proposition est vra
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -10018,7 +11068,9 @@ Le passage montre **Appeal to Motive** : soutenir qu'une proposition est vraie o
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -10035,9 +11087,13 @@ Ici, **Appeal to Motive** convient parce que soutenir qu'une proposition est vra
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -10075,7 +11131,9 @@ Le passage montre **Appeal to Motive** : soutenir qu'une proposition est vraie o
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -10092,9 +11150,13 @@ Ici, **Appeal to Motive** convient parce que soutenir qu'une proposition est vra
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -10132,7 +11194,9 @@ Le passage montre **Appeal to Hypocrisy** : soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -10149,9 +11213,13 @@ Ici, **Appeal to Hypocrisy** convient parce que soutenir qu'une proposition est 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -10189,7 +11257,9 @@ Le passage montre **Appeal to Hypocrisy** : soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -10206,9 +11276,13 @@ Ici, **Appeal to Hypocrisy** convient parce que soutenir qu'une proposition est 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
 
 **Règles et repères**  
@@ -10246,7 +11320,9 @@ Le passage montre **Appeal to Hypocrisy** : soutenir qu'une proposition est vrai
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
 
 **En une phrase**  
@@ -10263,9 +11339,13 @@ Ici, **Appeal to Hypocrisy** convient parce que soutenir qu'une proposition est 
 
 **Autres exemples (même erreur seulement)**  
 - **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 4 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+
 - **Exemple 5 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
 
 **Règles et repères**  

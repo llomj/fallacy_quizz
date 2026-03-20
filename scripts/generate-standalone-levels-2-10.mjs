@@ -193,7 +193,7 @@ ${expl}
 The passage shows **${name}** in action: ${mechClause(expl)}.
 
 **More examples (same fallacy only)**  
-${ex.slice(0, 3).join('\n')}
+${ex.slice(0, 3).join('\n\n')}
 
 **In one sentence**  
 ${name} is the label for reasoning that fits: ${expl}`;
@@ -209,7 +209,7 @@ ${expl}
 Here, **${name}** is the right name because ${mechClause(expl)}.
 
 **More examples (same fallacy only)**  
-${ex.join('\n')}
+${ex.join('\n\n')}
 
 **Rules and checks (useful habits)**  
 - **Anchor:** Start from the bank definition—**${name}** means ${expl}
@@ -256,7 +256,7 @@ ${expl}
 Le passage montre **${name}** : ${mechClause(expl)}.
 
 **Autres exemples (même erreur seulement)**  
-${ex.slice(0, 3).join('\n')}
+${ex.slice(0, 3).join('\n\n')}
 
 **En une phrase**  
 **${name}**, c’est quand le raisonnement correspond à : ${expl}`;
@@ -272,7 +272,7 @@ ${expl}
 Ici, **${name}** convient parce que ${mechClause(expl)}.
 
 **Autres exemples (même erreur seulement)**  
-${ex.join('\n')}
+${ex.join('\n\n')}
 
 **Règles et repères**  
 - **Ancrage :** repartir de la définition—**${name}**, c’est ${expl}
