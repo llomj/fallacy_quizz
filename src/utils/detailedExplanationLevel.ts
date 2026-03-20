@@ -3,6 +3,7 @@ import { buildFallacyEnglishDetailed } from './foundationDetailedFormatter';
 import { getFallacyCodonExplanationEN, isFallacyPlaceholder } from '../data/fallacyCodonExplanations';
 import { LEVEL_0_STANDALONE_EN } from '../data/inDepth/level0StandaloneInDepth';
 import { LEVEL_1_STANDALONE_EN } from '../data/inDepth/level1StandaloneInDepth';
+import { LEVELS_2_TO_10_STANDALONE_EN } from '../data/inDepth/level2to10StandaloneInDepth';
 
 export type DetailedExplanationLevel = 'beginner' | 'intermediate' | 'expert';
 
@@ -14,6 +15,7 @@ export type DetailedExplanationLevel = 'beginner' | 'intermediate' | 'expert';
  *
  * Level 0: full standalone in-depth copy from `level0StandaloneInDepth.ts` when present for this ID (English).
  * Level 1: same pattern via `level1StandaloneInDepth.ts` (IDs 1–90).
+ * Levels 2–10: same pattern via `level2to10StandaloneInDepth.ts` (IDs 91–900).
  */
 export function getDetailedExplanationForLevel(
   q: Question,
@@ -25,6 +27,10 @@ export function getDetailedExplanationForLevel(
   }
   if (q.level === 1) {
     const standalone = LEVEL_1_STANDALONE_EN[q.id]?.[level];
+    if (standalone) return standalone;
+  }
+  if (q.level >= 2 && q.level <= 10) {
+    const standalone = LEVELS_2_TO_10_STANDALONE_EN[q.id]?.[level];
     if (standalone) return standalone;
   }
 

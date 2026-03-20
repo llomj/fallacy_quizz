@@ -9,7 +9,9 @@
     "preview": "vite preview",
     "export-questions": "tsx scripts/export_questions.ts",
     "validate-questions": "tsx scripts/export_questions.ts && python3 scripts/validate_cli_questions.py",
-    "report-duplicates": "tsx scripts/report-duplicate-questions.ts"
+    "report-duplicates": "tsx scripts/report-duplicate-questions.ts",
+    "generate:standalone:level1": "node scripts/generate-level1-standalone.mjs",
+    "generate:standalone:levels2-10": "node scripts/generate-standalone-levels-2-10.mjs"
   },
   "dependencies": {
     "@google/generative-ai": "^0.21.0",

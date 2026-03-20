@@ -4,6 +4,7 @@ import { buildFallacyFrenchDetailed, type ExplanationDepth } from '../utils/foun
 import { getFallacyCodonExplanationFR } from './fallacyCodonExplanations';
 import { LEVEL_0_STANDALONE_FR } from './inDepth/level0StandaloneInDepth';
 import { LEVEL_1_STANDALONE_FR } from './inDepth/level1StandaloneInDepth';
+import { LEVELS_2_TO_10_STANDALONE_FR } from './inDepth/level2to10StandaloneInDepth';
 
 /**
  * French translations for detailed explanations (explication du codon / description approfondie).
@@ -75433,7 +75434,7 @@ export const getTranslatedDetailedExplanation = (
     return inputText;
   }
 
-  // Standalone French in-depth (full panel): Level 0 IDs 1001–1300, Level 1 IDs 1–90 — see task.md
+  // Standalone French in-depth (full panel): Level 0 IDs 1001–1300; Level 1 IDs 1–90; Levels 2–10 IDs 91–900 — see task.md
   if (questionId >= 1001 && questionId <= 1300) {
     const frL0 = LEVEL_0_STANDALONE_FR[questionId]?.[explanationLevel];
     if (frL0) return frL0;
@@ -75441,6 +75442,10 @@ export const getTranslatedDetailedExplanation = (
   if (questionId >= 1 && questionId <= 90) {
     const frL1 = LEVEL_1_STANDALONE_FR[questionId]?.[explanationLevel];
     if (frL1) return frL1;
+  }
+  if (questionId >= 91 && questionId <= 900) {
+    const frL2_10 = LEVELS_2_TO_10_STANDALONE_FR[questionId]?.[explanationLevel];
+    if (frL2_10) return frL2_10;
   }
 
   // If the input text is already in French (e.g. from LEVEL_0_GEN_FR), use it as the base.
