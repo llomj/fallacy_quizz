@@ -50,6 +50,30 @@ git push fallacy main
 
 ---
 
+## Random mode stats: Total / Incorrect / Correct
+
+**Code:** `src/components/RandomModeStatRow.tsx` — Incorrect = `totalAnswered - totalCorrect` (not stored separately).
+
+**Hub layout (critical):** The stat row sits **directly under** `hub.randomModeDescription` in the **right** (fuchsia) “Random Mode” card — same card as the title + “Questions from all levels…”. Users scan that block as one unit; if tiles lived only in the **left** “Next Mutation” card, the **Incorrect** column looked missing relative to the Random Mode copy.
+
+**Styling:** Three identical slate tiles (**`RandomModeStatRow`**); numbers: Total **white**, Incorrect **`#FF00FF`**, Correct **green** (`text-green-400`).
+
+**Quiz:** `variant="quiz"` — row under the mutation line, above the question progress bar.
+
+**Still wrong on device?**
+
+| Check | Action |
+|-------|--------|
+| **Build / remote** | § “deployed site is different” table — `git push fallacy main`, Actions green, correct Pages source. |
+| **PWA / home-screen** | Old bundle may lack `RandomModeStatRow`; reinstall PWA or use Safari once (see table #7). |
+| **`stats.randomMode`** | Row only renders in Random mode. |
+
+**Past mistakes (don’t re-introduce):** Only flex + left-column placement; JSX that failed `vite build`; clipping in quiz header only.
+
+**Verification (prod build):** `npm run build && npm run preview` → open `/fallacy_quizz/` → Settings → confirm Random mode → page search (**Cmd+F**) for `Incorrect` — one hit under the Random Mode description; three matching panels, magenta digit for Incorrect, green for Correct.
+
+---
+
 ### When "local (Cursor) looks correct but deployed site is different" — DIAGNOSTIC CHECKLIST
 
 **Why there are several deployment runs:**  

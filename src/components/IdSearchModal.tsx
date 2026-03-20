@@ -7,6 +7,7 @@ import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTr
 import { translateQuestionText, getQuestionDisplay } from '../utils/translateQuestion';
 import { getTranslatedShortExplanation } from '../data/shortExplanationsTranslations';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
+import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
 
 const shouldVisualizeOptionWhitespace = (options: string[]): boolean => {
   const normalized = new Map<string, Set<string>>();
@@ -272,15 +273,17 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
                               <option value="expert">{t('subLevels.expert')}</option>
                             </select>
                           </label>
-                          <p className="text-sm text-slate-300 leading-relaxed whitespace-pre-line bg-transparent">
-                            {getTranslatedDetailedExplanation(
-                              question.id,
-                              getDetailedExplanationForLevel(question, detailedExplanationLevel) ?? '',
-                              language,
-                              detailedExplanationLevel,
-                              question.question,
-                              question.options[question.correct_option_index],
-                              question.explanation
+                          <p className="text-sm text-slate-300 leading-relaxed whitespace-pre-wrap bg-transparent">
+                            {normalizeExplanationWhitespace(
+                              getTranslatedDetailedExplanation(
+                                question.id,
+                                getDetailedExplanationForLevel(question, detailedExplanationLevel) ?? '',
+                                language,
+                                detailedExplanationLevel,
+                                question.question,
+                                question.options[question.correct_option_index],
+                                question.explanation
+                              )
                             )}
                           </p>
                         </div>

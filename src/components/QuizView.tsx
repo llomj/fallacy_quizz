@@ -5,6 +5,7 @@ import { ProgressBar } from './ProgressBar';
 import { LEVELS } from '../constants';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
+import { RandomModeStatRow } from './RandomModeStatRow';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
 import { translateQuestionText, getQuestionDisplay, getQuestionDisplayNativeBank } from '../utils/translateQuestion';
 import {
@@ -867,9 +868,9 @@ export const QuizView: React.FC<QuizViewProps> = ({
         <button onClick={() => { onPlayClickSound?.(); onExit(); }} className="w-10 h-10 flex items-center justify-center rounded-xl bg-slate-800 text-slate-400 hover:text-white transition-colors border border-white/5">
           <i className="fas fa-times"></i>
         </button>
-        <div className="flex-1 min-w-0 px-6 overflow-x-auto overflow-y-hidden">
-          <div className="flex justify-between items-center gap-6 text-[10px] font-black tracking-[0.2em] mb-1.5 min-w-max">
-            <div className="flex items-center gap-3 shrink-0">
+        <div className="flex-1 min-w-0 px-4 sm:px-6 overflow-x-auto">
+          <div className="flex justify-between items-center gap-4 sm:gap-6 text-[10px] font-black tracking-[0.2em] mb-2 min-w-0">
+            <div className="flex min-w-0 items-center gap-3 shrink-0">
               <span className="text-yellow-400">
                 {currentQuestion.subLevel === 'Beginner' && t('subLevels.beginnerCaps')}
                 {currentQuestion.subLevel === 'Intermediate' && t('subLevels.intermediateCaps')}
@@ -888,10 +889,15 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 })}
               </div>
             </div>
-            <div className="flex gap-4 items-center shrink-0">
-              {liveRandomCorrect !== null && liveRandomPercent !== null && (
+            <div className="flex flex-wrap items-center justify-end gap-x-4 gap-y-1 shrink-0">
+              {liveRandomCorrect !== null && liveRandomPercent !== null && !randomMode && (
                 <span className="text-yellow-400">
                   {liveRandomCorrect} {t('quiz.correct')} · {liveRandomPercent}%
+                </span>
+              )}
+              {randomMode && liveRandomStats != null && (
+                <span className="text-[#FF00FF] text-[10px] font-black tracking-[0.15em]">
+                  {liveRandomPercent != null ? `${liveRandomPercent}%` : '0%'} {t('hub.accuracy')}
                 </span>
               )}
               <span className="text-yellow-400">
@@ -900,6 +906,14 @@ export const QuizView: React.FC<QuizViewProps> = ({
               <span className="text-slate-400">{Math.round(((currentIndex + 1) / questions.length) * 100)}%</span>
             </div>
           </div>
+          {randomMode && liveRandomStats != null && (
+            <RandomModeStatRow
+              variant="quiz"
+              totalAnswered={liveRandomStats.totalAnswered}
+              totalCorrect={liveRandomStats.totalCorrect}
+              t={t}
+            />
+          )}
           <ProgressBar current={currentIndex + 1} total={questions.length} colorClass="bg-yellow-400" />
         </div>
       </div>

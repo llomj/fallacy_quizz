@@ -8,6 +8,7 @@ import { useLanguage } from '../contexts/LanguageContext';
 import { useTranslatedGlossary } from '../hooks/useTranslatedData';
 import { getConceptDefinition } from '../utils/conceptDefinitions';
 import { formatTranslation } from '../translations';
+import { RandomModeStatRow } from './RandomModeStatRow';
 
 interface EvolutionHubProps {
   stats: UserStats;
@@ -131,34 +132,28 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
                 <p className="text-slate-400 leading-relaxed text-xs">
                   {t('hub.randomModeDescription')}
                 </p>
+                {/* Stats belong here so “Random Mode” + description + tiles read as one block (see ps.md). */}
+                <div className="mt-5">
+                  <RandomModeStatRow variant="hub" totalAnswered={rm.totalAnswered} totalCorrect={rm.totalCorrect} t={t} />
+                </div>
               </div>
               <div className="space-y-4 pt-6 border-t border-white/5">
-                <div className="grid grid-cols-2 gap-3">
-                  <div className="bg-slate-900/50 rounded-2xl p-3 border border-white/5">
-                    <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider mb-1">{t('hub.totalAnswered')}</div>
-                    <div className="text-lg font-black text-white">{rm.totalAnswered}</div>
+                <div className="bg-slate-900/50 rounded-2xl p-3 border border-white/5">
+                  <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider mb-1">{t('hub.accuracy')}</div>
+                  <div className="text-lg font-black text-[#FF00FF]">
+                    {rm.totalAnswered > 0 ? Math.round((rm.totalCorrect / rm.totalAnswered) * 100) : 0}%
                   </div>
-                  <div className="bg-slate-900/50 rounded-2xl p-3 border border-white/5">
-                    <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider mb-1">{t('hub.correct')}</div>
-                    <div className="text-lg font-black text-yellow-300">{rm.totalCorrect}</div>
-                  </div>
-                  <div className="bg-slate-900/50 rounded-2xl p-3 border border-white/5 col-span-2">
-                    <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider mb-1">{t('hub.accuracy')}</div>
-                    <div className="text-lg font-black text-[#FF00FF]">
-                      {rm.totalAnswered > 0 ? Math.round((rm.totalCorrect / rm.totalAnswered) * 100) : 0}%
-                    </div>
-                  </div>
-                  {rm.lastSessionStars != null && (
-                    <div className="bg-slate-900/50 rounded-2xl p-3 border border-amber-500/30 col-span-2 flex items-center gap-2">
-                      <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider">{formatTranslation(t('hub.lastRunStars'), { count: rm.lastSessionStars! })}</div>
-                      <div className="flex gap-0.5 ml-1">
-                        {[1, 2, 3, 4, 5].map(starNum => (
-                          <i key={starNum} className={`fas fa-star text-[10px] ${starNum <= rm.lastSessionStars! ? 'text-amber-400' : 'text-slate-700/50'}`} />
-                        ))}
-                      </div>
-                    </div>
-                  )}
                 </div>
+                {rm.lastSessionStars != null && (
+                  <div className="bg-slate-900/50 rounded-2xl p-3 border border-amber-500/30 flex items-center gap-2">
+                    <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider">{formatTranslation(t('hub.lastRunStars'), { count: rm.lastSessionStars! })}</div>
+                    <div className="flex gap-0.5 ml-1">
+                      {[1, 2, 3, 4, 5].map(starNum => (
+                        <i key={starNum} className={`fas fa-star text-[10px] ${starNum <= rm.lastSessionStars! ? 'text-amber-400' : 'text-slate-700/50'}`} />
+                      ))}
+                    </div>
+                  </div>
+                )}
                 {nextThreshold && (
                   <>
                     <div className="flex justify-between text-[10px] font-bold text-slate-500 uppercase tracking-widest">

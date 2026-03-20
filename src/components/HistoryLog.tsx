@@ -3,7 +3,8 @@ import { QuestionAttempt } from '../types';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 import { translateQuestionText, getQuestionDisplay } from '../utils/translateQuestion';
-import { getTranslatedShortExplanation } from '../data/shortExplanationsTranslations';
+import { getTranslatedShortExplanation, isLogicalFallaciesAppQuestionId } from '../data/shortExplanationsTranslations';
+import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
 import { getQuestionBank } from '../questionsBank';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
@@ -167,7 +168,9 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                 : attempt.selectedOption;
             const shortExplanation = getTranslatedShortExplanation(attempt.id, attempt.explanation, language);
             const detailedExplanation = getQuestionDetailedExplanation(attempt.id);
-            const shortExplanationLooksLikeCode = /\b(def|print|for|if|while|class|import|from)\b/.test(shortExplanation);
+            const shortExplanationLooksLikeCode =
+              !isLogicalFallaciesAppQuestionId(attempt.id) &&
+              /\b(def|print|for|if|while|class|import|from)\b/.test(shortExplanation);
 
             return (
               <div
@@ -260,12 +263,12 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                       {shortExplanationLooksLikeCode ? (
                         <div className="p-4 overflow-x-hidden bg-slate-900 rounded-lg">
                           <pre className="text-yellow-300 text-sm leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
-                            {formatCodeSnippet(shortExplanation)}
+                            {formatCodeSnippet(normalizeExplanationWhitespace(shortExplanation))}
                           </pre>
                         </div>
                       ) : (
                         <p className="text-[11px] text-slate-300 leading-relaxed italic whitespace-pre-wrap">
-                          {shortExplanation}
+                          {normalizeExplanationWhitespace(shortExplanation)}
                         </p>
                       )}
                     </div>
@@ -297,14 +300,16 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                             </label>
                           </div>
                           <div className="text-slate-200 leading-relaxed text-sm whitespace-pre-wrap bg-transparent">
-                            {getTranslatedDetailedExplanation(
-                              attempt.id,
-                              detailedExplanation,
-                              language,
-                              detailedExplanationLevel,
-                              bankQuestion?.question ?? attempt.question,
-                              bankQuestion ? bankQuestion.options[bankQuestion.correct_option_index] : attempt.correctOption,
-                              bankQuestion?.explanation
+                            {normalizeExplanationWhitespace(
+                              getTranslatedDetailedExplanation(
+                                attempt.id,
+                                detailedExplanation,
+                                language,
+                                detailedExplanationLevel,
+                                bankQuestion?.question ?? attempt.question,
+                                bankQuestion ? bankQuestion.options[bankQuestion.correct_option_index] : attempt.correctOption,
+                                bankQuestion?.explanation
+                              )
                             )}
                           </div>
                         </div>

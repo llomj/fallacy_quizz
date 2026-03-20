@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import { IdLogEntry } from '../types';
 import { useLanguage } from '../contexts/LanguageContext';
-import { getTranslatedShortExplanation } from '../data/shortExplanationsTranslations';
+import { getTranslatedShortExplanation, isLogicalFallaciesAppQuestionId } from '../data/shortExplanationsTranslations';
+import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
 import { getQuestionBank, MAX_QUESTION_ID } from '../questionsBank';
 import { formatTranslation } from '../translations';
 import { translateQuestionText, getQuestionDisplay } from '../utils/translateQuestion';
@@ -181,7 +182,9 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
                   : entry.correctAnswer;
               const shortExplanation = getTranslatedShortExplanation(entry.id, entry.explanation, language);
               const detailedExplanation = getQuestionDetailedExplanation(entry.id);
-              const shortExplanationLooksLikeCode = /\b(def|print|for|if|while|class|import|from)\b/.test(shortExplanation);
+              const shortExplanationLooksLikeCode =
+                !isLogicalFallaciesAppQuestionId(entry.id) &&
+                /\b(def|print|for|if|while|class|import|from)\b/.test(shortExplanation);
               return (
                 <div
                   key={entryKey}
@@ -236,12 +239,12 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
                         {shortExplanationLooksLikeCode ? (
                           <div className="p-4 overflow-x-hidden bg-slate-900 rounded-lg">
                             <pre className="text-yellow-300 text-sm leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
-                              {formatCodeSnippet(shortExplanation)}
+                              {formatCodeSnippet(normalizeExplanationWhitespace(shortExplanation))}
                             </pre>
                           </div>
                         ) : (
                           <p className="text-[11px] text-slate-300 leading-relaxed italic whitespace-pre-wrap">
-                            {shortExplanation}
+                            {normalizeExplanationWhitespace(shortExplanation)}
                           </p>
                         )}
                       </div>
@@ -269,14 +272,16 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
                               </label>
                             </div>
                             <div className="text-slate-200 leading-relaxed text-sm whitespace-pre-wrap bg-transparent">
-                              {getTranslatedDetailedExplanation(
-                                entry.id,
-                                detailedExplanation,
-                                language,
-                                detailedExplanationLevel,
-                                bankQuestion?.question ?? entry.question,
-                                bankQuestion ? bankQuestion.options[bankQuestion.correct_option_index] : entry.correctAnswer,
-                                bankQuestion?.explanation
+                              {normalizeExplanationWhitespace(
+                                getTranslatedDetailedExplanation(
+                                  entry.id,
+                                  detailedExplanation,
+                                  language,
+                                  detailedExplanationLevel,
+                                  bankQuestion?.question ?? entry.question,
+                                  bankQuestion ? bankQuestion.options[bankQuestion.correct_option_index] : entry.correctAnswer,
+                                  bankQuestion?.explanation
+                                )
                               )}
                             </div>
                           </div>
