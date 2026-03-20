@@ -85,6 +85,40 @@ function scheduleFreqRamp(
   osc.stop(end + 0.02);
 }
 
+/** Short band-limited noise burst — reads as “wrong / error” on small speakers (unlike pure tones). */
+function scheduleNoiseBurst(
+  ctx: AudioContext,
+  masterGain: GainNode,
+  now: number,
+  startOffset: number,
+  duration: number,
+  volume: number
+) {
+  const len = Math.max(1, Math.floor(ctx.sampleRate * duration));
+  const buffer = ctx.createBuffer(1, len, ctx.sampleRate);
+  const data = buffer.getChannelData(0);
+  for (let i = 0; i < len; i++) {
+    data[i] = (Math.random() * 2 - 1) * 0.5;
+  }
+  const src = ctx.createBufferSource();
+  src.buffer = buffer;
+  const filter = ctx.createBiquadFilter();
+  filter.type = 'lowpass';
+  const start = now + startOffset;
+  const end = start + duration;
+  filter.frequency.setValueAtTime(750, start);
+  filter.frequency.exponentialRampToValueAtTime(280, end);
+  const gain = ctx.createGain();
+  gain.gain.setValueAtTime(0.0001, start);
+  gain.gain.exponentialRampToValueAtTime(volume, start + 0.015);
+  gain.gain.exponentialRampToValueAtTime(0.0001, end);
+  src.connect(filter);
+  filter.connect(gain);
+  gain.connect(masterGain);
+  src.start(start);
+  src.stop(end + 0.02);
+}
+
 /** Very short click/cut sound for button and panel presses. */
 export function playButtonClickSound(): void {
   const ctx = getAudioContext();
@@ -116,8 +150,8 @@ export function playButtonClickSound(): void {
 }
 
 /**
- * Clear “correct / yes” feedback: bright major arpeggio up + tiny sparkle.
- * Sounds nothing like the wrong-answer buzzer.
+ * Correct answer: only high, clean sine “bells” (major arpeggio). No overlap with UI click (removed in QuizView).
+ * Mid/high frequencies so phone speakers reproduce clearly.
  */
 export function playCorrectAnswerSound(): void {
   withAudioContext((ctx) => {
@@ -125,22 +159,21 @@ export function playCorrectAnswerSound(): void {
     const masterGain = ctx.createGain();
     masterGain.connect(ctx.destination);
     masterGain.gain.setValueAtTime(0.0001, now);
-    masterGain.gain.exponentialRampToValueAtTime(0.34, now + 0.02);
-    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.48);
+    masterGain.gain.exponentialRampToValueAtTime(0.38, now + 0.015);
+    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.42);
 
-    // C5 → E5 → G5 → C6: classic “you got it” rising chime
-    scheduleTone(ctx, masterGain, now, 523.25, 0, 0.09, 'sine', 0.2);
-    scheduleTone(ctx, masterGain, now, 659.25, 0.07, 0.09, 'sine', 0.19);
-    scheduleTone(ctx, masterGain, now, 783.99, 0.14, 0.1, 'sine', 0.18);
-    scheduleTone(ctx, masterGain, now, 1046.5, 0.22, 0.16, 'triangle', 0.17);
-    scheduleTone(ctx, masterGain, now, 2093.0, 0.3, 0.05, 'sine', 0.08);
-    scheduleTone(ctx, masterGain, now, 2637.0, 0.34, 0.04, 'sine', 0.06);
+    // C6 → E6 → G6 → C7 (pure “success” bells)
+    scheduleTone(ctx, masterGain, now, 1046.5, 0, 0.065, 'sine', 0.22);
+    scheduleTone(ctx, masterGain, now, 1318.51, 0.07, 0.065, 'sine', 0.22);
+    scheduleTone(ctx, masterGain, now, 1567.98, 0.14, 0.07, 'sine', 0.21);
+    scheduleTone(ctx, masterGain, now, 2093.0, 0.22, 0.1, 'sine', 0.2);
+    scheduleTone(ctx, masterGain, now, 2637.02, 0.32, 0.06, 'sine', 0.12);
   });
 }
 
 /**
- * Clear “wrong / no” feedback: low buzzer + descending “womp” (game-show / quiz wrong).
- * Deliberately different timbre and contour from the correct chime.
+ * Wrong answer: filtered noise + mid-frequency descending tones (not sub-bass — small speakers often drop deep bass).
+ * Intentionally unlike any pure “chime” (correct). Mid frequencies so phones can play it.
  */
 export function playWrongAnswerSound(): void {
   withAudioContext((ctx) => {
@@ -148,17 +181,15 @@ export function playWrongAnswerSound(): void {
     const masterGain = ctx.createGain();
     masterGain.connect(ctx.destination);
     masterGain.gain.setValueAtTime(0.0001, now);
-    masterGain.gain.exponentialRampToValueAtTime(0.28, now + 0.02);
-    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.52);
+    masterGain.gain.exponentialRampToValueAtTime(0.36, now + 0.02);
+    masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.55);
 
-    // Short harsh buzz (square) — “error”
-    scheduleTone(ctx, masterGain, now, 92, 0, 0.11, 'square', 0.11);
-    scheduleTone(ctx, masterGain, now, 87, 0.02, 0.1, 'square', 0.08);
-    // Descending saw “womp” — unmistakably negative
-    scheduleFreqRamp(ctx, masterGain, now, 240, 65, 0.1, 0.22, 'sawtooth', 0.1);
-    // Flat second “uh-oh” blip
-    scheduleTone(ctx, masterGain, now, 155, 0.28, 0.12, 'triangle', 0.09);
-    scheduleTone(ctx, masterGain, now, 118, 0.36, 0.14, 'triangle', 0.08);
+    scheduleNoiseBurst(ctx, masterGain, now, 0, 0.1, 0.2);
+    // Two-tone “wrong” (audible 300–450 Hz range)
+    scheduleTone(ctx, masterGain, now, 420, 0.11, 0.09, 'square', 0.12);
+    scheduleTone(ctx, masterGain, now, 300, 0.19, 0.12, 'square', 0.1);
+    scheduleTone(ctx, masterGain, now, 240, 0.3, 0.14, 'triangle', 0.09);
+    scheduleFreqRamp(ctx, masterGain, now, 380, 120, 0.38, 0.18, 'sawtooth', 0.08);
   });
 }
 

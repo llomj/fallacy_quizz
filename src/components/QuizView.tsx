@@ -728,14 +728,15 @@ export const QuizView: React.FC<QuizViewProps> = ({
   const handleOptionClick = (index: number) => {
     if (isAnswered) return;
 
-    onPlayClickSound?.();
-
     const currentQuestion = questions[currentIndex];
     const isCorrect = index === currentQuestion.correct_option_index;
 
+    // No UI click here — it masked the correct/wrong feedback (same short blip every time).
     if (soundEnabled) {
       if (isCorrect) onPlayCorrectSound?.();
       else onPlayWrongSound?.();
+    } else {
+      onPlayClickSound?.();
     }
 
     setSelectedOption(index);
