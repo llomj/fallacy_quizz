@@ -343,9 +343,105 @@ export const buildFoundationFrenchDetailed = ({
 };
 
 // --- Fallacy codon formatters (in-depth description tied to the fallacy, no CLI) ---
-// Structure: argument first, then explanation. All content is tied to the specific question.
+// Structure: scenario first, then concept, then level-specific ties to this question.
 
-const ARGUMENT_PREVIEW_LENGTH = 400;
+const ARGUMENT_PREVIEW_MAX = 520;
+
+const previewArgument = (text: string): string => {
+  const t = text.replace(/\s+/g, ' ').trim();
+  if (!t) return '';
+  if (t.length <= ARGUMENT_PREVIEW_MAX) return t;
+  return `${t.slice(0, ARGUMENT_PREVIEW_MAX - 1)}…`;
+};
+
+const buildScenarioBlockEN = (question: string): string => {
+  const prev = previewArgument(question);
+  if (!prev) return '';
+  return `This question’s scenario:\n"${prev}"`;
+};
+
+const buildBreakdownForDepthEN = (
+  depth: ExplanationDepth,
+  question: string,
+  short: string,
+  answer: string
+): string => {
+  const prev = previewArgument(question);
+  const a = answer || 'the correct option';
+  if (depth === 'beginner') {
+    return [
+      'Step-by-step for this scenario:',
+      prev ? `1. Read the passage above: "${prev}"` : '1. Read the full question text carefully.',
+      short
+        ? `2. Use the short explanation as your guide: ${short}`
+        : '2. Ask what reasons are given and whether they really support the conclusion.',
+      `3. Match that to the label ${a}—you are judging this passage, not memorizing a definition in the abstract.`,
+    ].join('\n');
+  }
+  if (depth === 'intermediate') {
+    return [
+      'How this maps onto this question:',
+      prev ? `• Scenario: "${prev}"` : '• Scenario: use the full wording of the question.',
+      short ? `• What stands out in the reasoning: ${short}` : '• Trace premises, assumptions, and conclusion.',
+      `• Why ${a}: the label fits the main argumentative move in this text.`,
+    ].join('\n');
+  }
+  return [
+    'Expert structural read (this question):',
+    prev ? `• Argument text (excerpt): "${prev}"` : '• Anchor everything in the exact wording of the question.',
+    short
+      ? `• Reasoning diagnosis from the short explanation: ${short}`
+      : '• Separate explicit premises, hidden assumptions, and the stated conclusion.',
+    `• Verdict ${a}: use it when the failure mode described in the general account is the one actually performed here.`,
+  ].join('\n');
+};
+
+const buildDepthSpecificTailEN = (
+  depth: ExplanationDepth,
+  question: string,
+  short: string,
+  answer: string
+): string => {
+  const prev = previewArgument(question);
+  const a = answer || 'the correct option';
+  if (depth === 'intermediate') {
+    if (short && prev) {
+      return [
+        'Intermediate focus (this prompt):',
+        `The short explanation points to what matters here: ${short}. In "${prev.slice(0, 200)}${prev.length > 200 ? '…' : ''}", that is the pressure point for choosing ${a}.`,
+      ].join('\n');
+    }
+    if (short) {
+      return [
+        'Intermediate focus (this prompt):',
+        `The short explanation isolates the issue: ${short}. That is why ${a} is the best match for this question—not a generic checklist item.`,
+      ].join('\n');
+    }
+    return [
+      'Intermediate focus (this prompt):',
+      `Judge the actual lines of reasoning in the question. ${a} wins when that label best captures the dominant flaw or the absence of a flaw in this passage.`,
+    ].join('\n');
+  }
+  if (depth === 'expert') {
+    if (short && prev) {
+      return [
+        'Expert synthesis (this question):',
+        `In this passage, the argumentative work is localized: "${prev.slice(0, 240)}${prev.length > 240 ? '…' : ''}". The diagnosis "${short}" ties the formal pattern to these moves. ${a} is appropriate when that mechanism—not a nearby rhetorical blemish—is what undermines the argument.`,
+      ].join('\n');
+    }
+    if (short) {
+      return [
+        'Expert synthesis (this question):',
+        `${short} Connect that diagnosis to the options: ${a} is justified when this mechanism is the central logical liability (or when no fallacy applies, if that is the option).`,
+      ].join('\n');
+    }
+    return [
+      'Expert synthesis (this question):',
+      `Evaluate logical form, relevance, and sufficiency in the actual text. ${a} reflects the structure of this argument, not a textbook caricature.`,
+    ].join('\n');
+  }
+  return '';
+};
 
 export const buildFallacyEnglishDetailed = ({
   depth,
@@ -371,21 +467,19 @@ export const buildFallacyEnglishDetailed = ({
 
   const whyLabel = answer ? `Why the answer is ${answer}:` : 'Why this answer:';
 
-  const breakdownSection = short
-    ? [
-        'Step-by-step breakdown:',
-        `1. Consider the core claim: "${question.length > 100 ? question.slice(0, 100) + '...' : question}"`,
-        `2. Analyze the reasoning provided: ${short}`,
-        `3. Conclusion: This specific pattern matches the characteristics of ${answer || 'the correct option'}.`,
-      ].join('\n')
-    : '';
+  const scenarioBlock = buildScenarioBlockEN(question);
+  const breakdownSection = buildBreakdownForDepthEN(depth, question, short, answer);
+  const depthTail = depth !== 'beginner' ? buildDepthSpecificTailEN(depth, question, short, answer) : '';
 
   if (depth === 'beginner') {
     return [
       'Beginner explanation:',
       '',
+      scenarioBlock,
+      '',
       whyLabel,
       base,
+      shortBlock,
       '',
       breakdownSection,
       '',
@@ -399,13 +493,15 @@ export const buildFallacyEnglishDetailed = ({
     return [
       'Intermediate explanation:',
       '',
+      scenarioBlock,
+      '',
       whyLabel,
       base,
+      shortBlock,
       '',
       breakdownSection,
       '',
-      'Key takeaway:',
-      'In this argument, the pattern above applies directly: look for how the premise(s) fail to support the conclusion, or how the speaker diverts, distorts, or misuses evidence.',
+      depthTail,
       '',
       answerHint,
     ]
@@ -416,18 +512,109 @@ export const buildFallacyEnglishDetailed = ({
   return [
     'Expert explanation:',
     '',
+    scenarioBlock,
+    '',
     whyLabel,
     base,
+    shortBlock,
     '',
     breakdownSection,
     '',
-    'Expert analysis:',
-    'Examine the formal or informal logical structure of the argument. Identify the premises, the conclusion, and evaluate the specific mechanism of the reasoning failure (relevance, sufficiency, or logical form).',
+    depthTail,
     '',
     answerHint,
   ]
     .filter(Boolean)
     .join('\n');
+};
+
+const buildScenarioBlockFR = (question: string): string => {
+  const prev = previewArgument(question);
+  if (!prev) return '';
+  return `Scénario de cette question :\n« ${prev} »`;
+};
+
+const buildBreakdownForDepthFR = (
+  depth: ExplanationDepth,
+  question: string,
+  short: string,
+  answer: string
+): string => {
+  const prev = previewArgument(question);
+  const a = answer || 'la bonne option';
+  if (depth === 'beginner') {
+    return [
+      'Étapes pour ce scénario précis :',
+      prev ? `1. Lisez le passage : « ${prev} »` : '1. Lisez attentivement l’énoncé complet.',
+      short
+        ? `2. Servez-vous de l’explication courte comme fil : ${short}`
+        : '2. Demandez quelles raisons sont données et si elles soutiennent vraiment la conclusion.',
+      `3. Reliez cela au libellé ${a} : vous jugez ce texte, pas une définition abstraite.`,
+    ].join('\n');
+  }
+  if (depth === 'intermediate') {
+    return [
+      'Lien avec cette question :',
+      prev ? `• Scénario : « ${prev} »` : '• Scénario : reprenez la formulation exacte de la question.',
+      short ? `• Ce qui saute aux yeux dans le raisonnement : ${short}` : '• Suivez prémisses, hypothèses et conclusion.',
+      `• Pourquoi ${a} : le libellé correspond au geste argumentatif principal dans ce texte.`,
+    ].join('\n');
+  }
+  return [
+    'Lecture experte (cette question) :',
+    prev ? `• Texte (extrait) : « ${prev} »` : '• Ancrez-vous dans le libellé exact de la question.',
+    short
+      ? `• Diagnostic issu de l’explication courte : ${short}`
+      : '• Séparez prémisses explicites, présupposés et conclusion affichée.',
+    `• Verdict ${a} : retenez-le lorsque le mode d’échec décrit dans l’exposé général est bien celui qui se produit ici.`,
+  ].join('\n');
+};
+
+const buildDepthSpecificTailFR = (
+  depth: ExplanationDepth,
+  question: string,
+  short: string,
+  answer: string
+): string => {
+  const prev = previewArgument(question);
+  const a = answer || 'la bonne option';
+  if (depth === 'intermediate') {
+    if (short && prev) {
+      return [
+        'Focus intermédiaire (cet énoncé) :',
+        `L’explication courte indique l’essentiel : ${short}. Dans « ${prev.slice(0, 200)}${prev.length > 200 ? '…' : ''} », c’est le point sensible pour choisir ${a}.`,
+      ].join('\n');
+    }
+    if (short) {
+      return [
+        'Focus intermédiaire (cet énoncé) :',
+        `L’explication courte isole le problème : ${short}. Voilà pourquoi ${a} est le meilleur choix pour cette question, pas une case à cocher générique.`,
+      ].join('\n');
+    }
+    return [
+      'Focus intermédiaire (cet énoncé) :',
+      `Jugez les raisons telles qu’elles figurent dans la question. ${a} l’emporte lorsque ce libellé décrit le défaut dominant (ou l’absence de sophisme) dans ce passage.`,
+    ].join('\n');
+  }
+  if (depth === 'expert') {
+    if (short && prev) {
+      return [
+        'Synthèse experte (cette question) :',
+        `Ici, l’argumentation se joue dans ce passage : « ${prev.slice(0, 240)}${prev.length > 240 ? '…' : ''} ». Le diagnostic « ${short} » rattache le schéma formel à ces gestes. ${a} convient lorsque ce mécanisme — pas un simple défaut de style — fragilise l’argument.`,
+      ].join('\n');
+    }
+    if (short) {
+      return [
+        'Synthèse experte (cette question) :',
+        `${short} Reliez ce diagnostic aux options : ${a} se justifie lorsque ce mécanisme est la faiblesse logique centrale (ou lorsqu’aucun sophisme ne s’applique, si c’est l’option).`,
+      ].join('\n');
+    }
+    return [
+      'Synthèse experte (cette question) :',
+      `Évaluez la forme logique, la pertinence et la suffisance dans le texte réel. ${a} reflète la structure de cet argument, pas une caricature de manuel.`,
+    ].join('\n');
+  }
+  return '';
 };
 
 export const buildFallacyFrenchDetailed = ({
@@ -456,21 +643,19 @@ export const buildFallacyFrenchDetailed = ({
     ? `Pourquoi la réponse est ${answer} :`
     : 'Pourquoi cette réponse :';
 
-  const breakdownSection = short
-    ? [
-        'Analyse étape par étape :',
-        `1. Considérez l'affirmation principale : "${question.length > 100 ? question.slice(0, 100) + '...' : question}"`,
-        `2. Analysez le raisonnement fourni : ${short}`,
-        `3. Conclusion : Ce schéma spécifique correspond aux caractéristiques de ${answer || 'la bonne option'}.`,
-      ].join('\n')
-    : '';
+  const scenarioBlock = buildScenarioBlockFR(question);
+  const breakdownSection = buildBreakdownForDepthFR(depth, question, short, answer);
+  const depthTail = depth !== 'beginner' ? buildDepthSpecificTailFR(depth, question, short, answer) : '';
 
   if (depth === 'beginner') {
     return [
       'Explication débutant :',
       '',
+      scenarioBlock,
+      '',
       whyLabel,
       base,
+      shortBlock,
       '',
       breakdownSection,
       '',
@@ -484,13 +669,15 @@ export const buildFallacyFrenchDetailed = ({
     return [
       'Explication intermédiaire :',
       '',
+      scenarioBlock,
+      '',
       whyLabel,
       base,
+      shortBlock,
       '',
       breakdownSection,
       '',
-      'Point clé :',
-      "Dans cet argument, le schéma décrit s'applique directement : repérez comment les prémisses ne soutiennent pas la conclusion, ou comment l'orateur détourne, déforme ou mésuse des preuves.",
+      depthTail,
       '',
       answerHint,
     ]
@@ -501,13 +688,15 @@ export const buildFallacyFrenchDetailed = ({
   return [
     'Explication expert :',
     '',
+    scenarioBlock,
+    '',
     whyLabel,
     base,
+    shortBlock,
     '',
     breakdownSection,
     '',
-    'Analyse technique :',
-    "Examinez la structure logique formelle ou informelle de l'argument. Identifiez les prémisses, la conclusion, et évaluez le mécanisme spécifique de l'échec du raisonnement (pertinence, suffisance ou forme logique).",
+    depthTail,
     '',
     answerHint,
   ]

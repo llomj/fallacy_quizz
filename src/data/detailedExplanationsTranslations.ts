@@ -75409,9 +75409,10 @@ const getFrenchDetailedFallback = (questionId: number): string => {
 
 /**
  * Retourne une description approfondie en français en mode FR.
- * Préfère le codon de sophisme (base globale). 
- * Si le texte fourni est déjà en français (cas des données traduits nativement comme le Niveau 0), 
- * on l'utilise directement sans passer par la cartographie héritée.
+ * Priorité de la base : texte déjà FR si détecté, puis traduction mappée par ID (DETAILED_EXPLANATIONS_FR),
+ * puis codon FR par niveau (équivalent à la repli EN quand l’explication détaillée est un placeholder),
+ * puis repli court.
+ * Le formatage final (scénario, niveau débutant/intermédiaire/expert) est assuré par buildFallacyFrenchDetailed — parité avec l’anglais.
  */
 export const getTranslatedDetailedExplanation = (
   questionId: number,
@@ -75429,17 +75430,18 @@ export const getTranslatedDetailedExplanation = (
   // We detect this by checking if it contains French-specific characters or by common sense for Level 0.
   const isAlreadyFrench = !containsEnglishProse(normalizeFrenchProse(inputText)) || (questionId >= 1000 && questionId <= 1600);
 
-  const baseFrench =
-    (correctOption && getFallacyCodonExplanationFR(correctOption, explanationLevel)) ??
-    (() => {
-      if (isAlreadyFrench) return normalizeFrenchProse(inputText);
-      
-      const mappedFrench = DETAILED_EXPLANATIONS_FR[questionId];
-      if (!mappedFrench || containsCLITerminalContent(mappedFrench)) {
-        return getFrenchDetailedFallback(questionId);
-      }
+  const mappedFrench = DETAILED_EXPLANATIONS_FR[questionId];
+  const codonFr =
+    correctOption && getFallacyCodonExplanationFR(correctOption, explanationLevel);
+
+  const baseFrench = (() => {
+    if (isAlreadyFrench) return normalizeFrenchProse(inputText);
+    if (mappedFrench && !containsCLITerminalContent(mappedFrench)) {
       return normalizeFrenchProse(mappedFrench);
-    })();
+    }
+    if (codonFr) return codonFr;
+    return getFrenchDetailedFallback(questionId);
+  })();
 
   return buildFallacyFrenchDetailed({
     depth: explanationLevel,

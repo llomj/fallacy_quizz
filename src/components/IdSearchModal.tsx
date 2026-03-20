@@ -284,40 +284,11 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
               <div className="pt-4 border-t border-white/10">
                 <div className="mb-4">
                   <div className="max-h-[70vh] overflow-y-auto overflow-x-hidden bg-slate-800 rounded-lg">
-                    {(() => {
-                      const { prefix, code } = splitQuestionForDisplay(displayContent!.question, language);
-                      const displayText = displayContent!.question;
-                      if (code) {
-                        return (
-                          <div className="flex flex-col">
-                            {prefix && (
-                              <div className="px-4 pt-4 pb-2 border-b border-slate-700/50">
-                                <p className="text-slate-100 text-base md:text-lg font-medium leading-relaxed">{prefix}</p>
-                              </div>
-                            )}
-                            <div className="p-4 overflow-x-hidden flex-1">
-                              <pre className="text-slate-100 text-base md:text-lg font-['Fira_Code',_monospace] whitespace-pre-wrap leading-relaxed">
-                                {formatCodeSnippet(code)}
-                              </pre>
-                            </div>
-                          </div>
-                        );
-                      }
-                      if (hasCodeLikeContent(displayText)) {
-                        return (
-                          <div className="p-4 overflow-x-hidden flex-1">
-                            <pre className="text-slate-100 text-base md:text-lg font-['Fira_Code',_monospace] whitespace-pre-wrap leading-relaxed">
-                              {formatCodeSnippet(displayText)}
-                            </pre>
-                          </div>
-                        );
-                      }
-                      return (
-                        <h2 className="text-base md:text-lg font-semibold leading-relaxed text-slate-100 px-4 pt-4">
-                          {displayText}
-                        </h2>
-                      );
-                    })()}
+                    <div className="px-6 py-5">
+                      <h2 className="text-base md:text-lg font-semibold leading-relaxed text-yellow-400 whitespace-pre-wrap break-words">
+                        {displayContent!.question}
+                      </h2>
+                    </div>
                   </div>
                 </div>
 

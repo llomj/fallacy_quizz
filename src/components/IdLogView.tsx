@@ -7,7 +7,6 @@ import { formatTranslation } from '../translations';
 import { translateQuestionText, getQuestionDisplay } from '../utils/translateQuestion';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
-import { splitQuestion, hasCodeLikeContent } from '../utils/splitQuestion';
 
 const formatCodeSnippet = (text: string): string => {
   if (!text) return '';

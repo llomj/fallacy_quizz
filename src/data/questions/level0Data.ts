@@ -428,16 +428,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Baking (2)",
+    "question": "At a community bake-off, which statement is an argument (a claim backed by a reason)?",
     "options": [
-      "I prefer Baking (2).",
-      "Baking (2) is definitely better.",
-      "The oven is too hot, so the cake will burn.",
-      "Baking (2) exists."
+      "Cupcakes are trendy this year.",
+      "The oven is too hot, so the sponge will dry out.",
+      "This kitchen smells like vanilla.",
+      "Butter is on sale at the store."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The oven is too hot' to support 'the cake will burn'.",
+    "detailedExplanationBeginner": "Uses 'The oven is too hot' to support 'the sponge will dry out'.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -449,16 +449,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Racing (2)",
+    "question": "Before a sprint heat, which line is an argument\u2014not merely a preference?",
     "options": [
-      "I prefer Racing (2).",
-      "Racing (2) is definitely better.",
-      "You practiced hard, so you will finish faster.",
-      "Racing (2) exists."
+      "You trained all month, so you should beat your previous heat time.",
+      "I love the sound of the starting gun.",
+      "Tracks are usually oval.",
+      "Spikes come in many colors."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 0,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'You practiced hard' to support 'you will finish faster'.",
+    "detailedExplanationBeginner": "Uses training effort as a reason to expect a faster finish.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -470,16 +470,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Weather (2)",
+    "question": "Forecasting a hike, which statement is an argument?",
     "options": [
-      "I prefer Weather (2).",
-      "Weather (2) is definitely better.",
-      "The clouds are dark, so it is going to rain.",
-      "Weather (2) exists."
+      "The barometer is falling fast, so expect rain before noon.",
+      "I enjoy cloudy skies.",
+      "Forecasts exist on apps.",
+      "Rain is wet."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 0,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The clouds are dark' to support 'it is going to rain'.",
+    "detailedExplanationBeginner": "Uses a dropping barometer as a reason to expect rain.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -491,16 +491,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Automotive (2)",
+    "question": "Roadside with a car that will not crank, which line is an argument?",
     "options": [
-      "I prefer Automotive (2).",
-      "Automotive (2) is definitely better.",
-      "The battery is empty, so the car won't start.",
-      "Automotive (2) exists."
+      "Jump starters are heavy.",
+      "The battery reads zero volts, so the starter motor will not turn.",
+      "Cars have four wheels.",
+      "I dislike waiting for a tow."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The battery is empty' to support 'the car won't start'.",
+    "detailedExplanationBeginner": "Uses a dead battery as a reason the car will not start.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -512,16 +512,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Botany (2)",
+    "question": "On a dim office desk, which statement is an argument about the plants?",
     "options": [
-      "I prefer Botany (2).",
-      "Botany (2) is definitely better.",
-      "Plants need light, so they should be near the window.",
-      "Botany (2) exists."
+      "Succulents never need water.",
+      "These leaves are etiolated, so move the pot closer to the window.",
+      "Soil is brown.",
+      "Windows are made of glass."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Plants need light' to support 'they should be near the window'.",
+    "detailedExplanationBeginner": "Uses pale stretched growth as a reason to move the plant toward light.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -533,16 +533,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Library (2)",
+    "question": "In a reading room with a strict noise policy, which line is an argument?",
     "options": [
-      "I prefer Library (2).",
-      "Library (2) is definitely better.",
-      "Silence is required, so we must speak softly.",
-      "Library (2) exists."
+      "Whispering is fashionable.",
+      "Quiet is required for concentration, so speak softly at the tables.",
+      "Libraries have shelves.",
+      "Books have spines."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Silence is required' to support 'we must speak softly'.",
+    "detailedExplanationBeginner": "Uses the need for concentration as a reason to speak softly.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -554,16 +554,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Health (2)",
+    "question": "When a friend skips walks for weeks, which line is an argument for daily walking?",
     "options": [
-      "I prefer Health (2).",
-      "Health (2) is definitely better.",
-      "Exercise improves health, so we should walk daily.",
-      "Health (2) exists."
+      "Walking is boring.",
+      "Regular movement supports cardiovascular health, so schedule a daily walk.",
+      "Sneakers exist.",
+      "Sidewalks are concrete."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Exercise improves health' to support 'we should walk daily'.",
+    "detailedExplanationBeginner": "Uses health benefit as a reason to schedule daily walks.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -575,16 +575,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Mathematics (2)",
+    "question": "On an algebra quiz, which line is an argument (not just a calculation claim)?",
     "options": [
-      "I prefer Mathematics (2).",
-      "Mathematics (2) is definitely better.",
-      "X equals 5, so X plus 2 equals 7.",
-      "Mathematics (2) exists."
+      "Let x be a number.",
+      "If x equals 5, then x plus 2 must equal 7.",
+      "Seven is a prime number.",
+      "Equations use letters."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'X equals 5' to support 'X plus 2 equals 7'.",
+    "detailedExplanationBeginner": "Uses x = 5 as a reason that x + 2 equals 7.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -596,16 +596,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Oceanography (2)",
+    "question": "Lifeguards flag a rising tide at the public beach. Which line is an argument?",
     "options": [
-      "I prefer Oceanography (2).",
-      "Oceanography (2) is definitely better.",
-      "The tide is coming in, so the beach will get smaller.",
-      "Oceanography (2) exists."
+      "Sand is fun to dig.",
+      "Water is advancing up the beach, so the dry area will shrink.",
+      "Seagulls are loud.",
+      "The ocean is salty."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The tide is coming in' to support 'the beach will get smaller'.",
+    "detailedExplanationBeginner": "Uses advancing water as a reason the dry sand shrinks.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -617,16 +617,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Astronomy (2)",
+    "question": "At a planetarium talk, which line is an argument?",
     "options": [
-      "I prefer Astronomy (2).",
-      "Astronomy (2) is definitely better.",
-      "Light takes time to travel, so we see stars as they were.",
-      "Astronomy (2) exists."
+      "Stars are pretty dots.",
+      "Light travels at finite speed, so we observe distant stars as they were long ago.",
+      "Telescopes use mirrors.",
+      "Night happens after day."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Light takes time to travel' to support 'we see stars as they were'.",
+    "detailedExplanationBeginner": "Uses finite light speed as a reason we see the past state of stars.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -638,16 +638,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Physics (2)",
+    "question": "Dropping an apple from a balcony for a demo, which line is an argument?",
     "options": [
-      "I prefer Physics (2).",
-      "Physics (2) is definitely better.",
-      "Gravity pulls objects down, so the apple will fall.",
-      "Physics (2) exists."
+      "Apples can be red or green.",
+      "Earth pulls masses toward its center, so the apple accelerates downward.",
+      "Balconies have railings.",
+      "Gravity was named by Newton."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Gravity pulls objects down' to support 'the apple will fall'.",
+    "detailedExplanationBeginner": "Uses gravitational pull as a reason the apple falls.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -659,16 +659,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Linguistics (2)",
+    "question": "Choosing a language-practice plan, which line is an argument?",
     "options": [
-      "I prefer Linguistics (2).",
-      "Linguistics (2) is definitely better.",
-      "Practice improves fluency, so you should speak daily.",
-      "Linguistics (2) exists."
+      "Accents are interesting.",
+      "Fluency tracks with deliberate practice, so brief daily speaking beats monthly cramming.",
+      "Dictionaries are thick.",
+      "Languages have grammar."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Practice improves fluency' to support 'you should speak daily'.",
+    "detailedExplanationBeginner": "Uses the link between practice and fluency to recommend daily speaking.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -680,16 +680,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Technology (2)",
+    "question": "Home office Wi-Fi fails during a video call. Which line is an argument?",
     "options": [
-      "I prefer Technology (2).",
-      "Technology (2) is definitely better.",
-      "The router is off, so the Wi-Fi won't work.",
-      "Technology (2) exists."
+      "Calls should always use video.",
+      "The router shows offline, so this machine will not reach the internet.",
+      "Ethernet cables are blue sometimes.",
+      "Modems have lights."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The router is off' to support 'the Wi-Fi won't work'.",
+    "detailedExplanationBeginner": "Uses the router being offline as a reason there is no internet access.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -701,16 +701,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: History (2)",
+    "question": "Handling fragile museum pieces, which line is an argument?",
     "options": [
-      "I prefer History (2).",
-      "History (2) is definitely better.",
-      "Artifacts are fragile, so they need careful handling.",
-      "History (2) exists."
+      "Artifacts are old.",
+      "These materials crack under sudden force, so support them from below when moving.",
+      "Museums charge admission.",
+      "Display cases are glass."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Artifacts are fragile' to support 'they need careful handling'.",
+    "detailedExplanationBeginner": "Uses fragility under force as a reason to support objects from below.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -722,16 +722,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Art (2)",
+    "question": "Mixing paint for a mural, which line is an argument?",
     "options": [
-      "I prefer Art (2).",
-      "Art (2) is definitely better.",
-      "Red and blue make purple, so mix them for violet.",
-      "Art (2) exists."
+      "Purple is trendy this season.",
+      "Red pigment plus blue pigment yields purple here, so those two tubes will produce that swatch.",
+      "Brushes wear out.",
+      "Canvas has texture."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Red and blue make purple' to support 'mix them for violet'.",
+    "detailedExplanationBeginner": "Uses color-mixing fact as a reason those two tubes produce the swatch.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -743,16 +743,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Traffic (2)",
+    "question": "Approaching a red traffic light as a new driver, which line is an argument?",
     "options": [
-      "I prefer Traffic (2).",
-      "Traffic (2) is definitely better.",
-      "The light is red, so drivers must stop.",
-      "Traffic (2) exists."
+      "Red lights are bright.",
+      "This signal is red, so traffic facing it must stop before the limit line.",
+      "Intersections have corners.",
+      "Cars have brakes."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The light is red' to support 'drivers must stop'.",
+    "detailedExplanationBeginner": "Uses the red signal as a reason vehicles must stop.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -764,16 +764,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Biology (2)",
+    "question": "Explaining why a study group takes breaks, which line is an argument?",
     "options": [
-      "I prefer Biology (2).",
-      "Biology (2) is definitely better.",
-      "Lack of sleep affects focus, so students should rest.",
-      "Biology (2) exists."
+      "Sleep debt impairs attention, so short rests will help the session stay sharp.",
+      "Libraries have chairs.",
+      "Coffee smells strong.",
+      "Exams happen in spring."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 0,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Lack of sleep affects focus' to support 'students should rest'.",
+    "detailedExplanationBeginner": "Uses sleep's effect on attention as a reason to take breaks.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -785,16 +785,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Economics (2)",
+    "question": "Discussing a sold-out concert, which line is an argument about ticket prices?",
     "options": [
-      "I prefer Economics (2).",
-      "Economics (2) is definitely better.",
-      "Supply is low, so prices will rise.",
-      "Economics (2) exists."
+      "Merch tables sell T-shirts.",
+      "Few seats remain, so resale listings will ask more than face value.",
+      "Concerts use speakers.",
+      "Fans like music."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Supply is low' to support 'prices will rise'.",
+    "detailedExplanationBeginner": "Uses scarcity as a reason resale prices rise.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -827,16 +827,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Music (2)",
+    "question": "Tuning a school jazz band before rehearsal, which line is an argument?",
     "options": [
-      "I prefer Music (2).",
-      "Music (2) is definitely better.",
-      "The guitar is out of tune, so it will sound bad.",
-      "Music (2) exists."
+      "Jazz began in the United States.",
+      "The lead guitar is a quarter-step flat, so that chord will sound sour until it is fixed.",
+      "Music uses notes.",
+      "Rehearsal rooms have chairs."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The guitar is out of tune' to support 'it will sound bad'.",
+    "detailedExplanationBeginner": "Uses an out-of-tune string as a reason the chord will sound wrong.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -848,16 +848,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Baking (3)",
+    "question": "Re-checking cupcakes pulled early from the oven, which line is an argument?",
     "options": [
-      "I prefer Baking (3).",
-      "Baking (3) is definitely better.",
-      "The oven is too hot, so the cake will burn.",
-      "Baking (3) exists."
+      "The crumb still looks wet, so give them five more minutes or they will collapse.",
+      "Frosting is sweet.",
+      "Cupcake papers are pleated.",
+      "Bakeries open early."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 0,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The oven is too hot' to support 'the cake will burn'.",
+    "detailedExplanationBeginner": "Uses a wet crumb as a reason to bake longer.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -869,16 +869,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Racing (3)",
+    "question": "Comparing two relay teams' training logs, which line is an argument?",
     "options": [
-      "I prefer Racing (3).",
-      "Racing (3) is definitely better.",
-      "You practiced hard, so you will finish faster.",
-      "Racing (3) exists."
+      "Their split times improved all spring, so they are likely to beat last year's record.",
+      "Relays use batons.",
+      "Tracks have lanes.",
+      "Running is aerobic."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 0,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'You practiced hard' to support 'you will finish faster'.",
+    "detailedExplanationBeginner": "Uses improved splits as a reason to expect a record.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -890,16 +890,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Weather (3)",
+    "question": "Planning a picnic from a morning forecast, which line is an argument?",
     "options": [
-      "I prefer Weather (3).",
-      "Weather (3) is definitely better.",
-      "The clouds are dark, so it is going to rain.",
-      "Weather (3) exists."
+      "Picnic baskets are wicker.",
+      "Radar shows a squall line approaching, so pack the rain fly for the pavilion.",
+      "Grass is green.",
+      "Ants live outdoors."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The clouds are dark' to support 'it is going to rain'.",
+    "detailedExplanationBeginner": "Uses an approaching storm line as a reason to pack shelter.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -995,16 +995,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Mathematics (3)",
+    "question": "Peer-reviewing a friend's homework proof, which line is an argument?",
     "options": [
-      "I prefer Mathematics (3).",
-      "Mathematics (3) is definitely better.",
-      "X equals 5, so X plus 2 equals 7.",
-      "Mathematics (3) exists."
+      "Proofs use logic.",
+      "If k is even, then k squared is even\u2014because k equals 2m for some integer m.",
+      "Even numbers are integers.",
+      "Homework is printed."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'X equals 5' to support 'X plus 2 equals 7'.",
+    "detailedExplanationBeginner": "Uses k = 2m as a reason k squared is even when k is even.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -1016,16 +1016,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Oceanography (3)",
+    "question": "Reading a tide table before a shoreline survey, which line is an argument?",
     "options": [
-      "I prefer Oceanography (3).",
-      "Oceanography (3) is definitely better.",
-      "The tide is coming in, so the beach will get smaller.",
-      "Oceanography (3) exists."
+      "Low tide exposes more tide pools, so schedule the transect for that window.",
+      "Tide books are printed.",
+      "Sand is granular.",
+      "Waves make noise."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 0,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'The tide is coming in' to support 'the beach will get smaller'.",
+    "detailedExplanationBeginner": "Uses low tide exposing pools as a reason to schedule then.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -1037,16 +1037,16 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Which of these is an argument (a claim supported by a reason)? Scene: Astronomy (3)",
+    "question": "Explaining starlight to a tour group, which line is an argument?",
     "options": [
-      "I prefer Astronomy (3).",
-      "Astronomy (3) is definitely better.",
-      "Light takes time to travel, so we see stars as they were.",
-      "Astronomy (3) exists."
+      "Telescopes are expensive.",
+      "Starlight began its journey years ago, so we see the star as it was in the past.",
+      "Constellations have names.",
+      "Night skies can be cloudy."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "An argument offers a premise to support a conclusion.",
-    "detailedExplanationBeginner": "Uses 'Light takes time to travel' to support 'we see stars as they were'.",
+    "detailedExplanationBeginner": "Uses travel time of light as a reason we see the star's past state.",
     "detailedExplanationIntermediate": "Argumentation = claim + evidence.",
     "detailedExplanationExpert": "P \u2192 Q structure.",
     "questionFormat": "standard"
@@ -1058,7 +1058,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Gravity pulls objects down, the apple will fall.", identify the PREMISE.",
+    "question": "In the argument \"Since Gravity pulls objects down, the apple will fall.\", identify the PREMISE.",
     "options": [
       "Gravity pulls objects down",
       "the apple will fall",
@@ -1079,7 +1079,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Practice improves fluency, you should speak daily.", identify the PREMISE.",
+    "question": "In the argument \"Since Practice improves fluency, you should speak daily.\", identify the PREMISE.",
     "options": [
       "Practice improves fluency",
       "you should speak daily",
@@ -1100,7 +1100,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The router is off, the Wi-Fi won't work.", identify the PREMISE.",
+    "question": "In the argument \"Since The router is off, the Wi-Fi won't work.\", identify the PREMISE.",
     "options": [
       "The router is off",
       "the Wi-Fi won't work",
@@ -1121,7 +1121,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Artifacts are fragile, they need careful handling.", identify the PREMISE.",
+    "question": "In the argument \"Since Artifacts are fragile, they need careful handling.\", identify the PREMISE.",
     "options": [
       "Artifacts are fragile",
       "they need careful handling",
@@ -1142,7 +1142,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Red and blue make purple, mix them for violet.", identify the PREMISE.",
+    "question": "In the argument \"Since Red and blue make purple, mix them for violet.\", identify the PREMISE.",
     "options": [
       "Red and blue make purple",
       "mix them for violet",
@@ -1163,7 +1163,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The light is red, drivers must stop.", identify the PREMISE.",
+    "question": "In the argument \"Since The light is red, drivers must stop.\", identify the PREMISE.",
     "options": [
       "The light is red",
       "drivers must stop",
@@ -1184,7 +1184,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Lack of sleep affects focus, students should rest.", identify the PREMISE.",
+    "question": "In the argument \"Since Lack of sleep affects focus, students should rest.\", identify the PREMISE.",
     "options": [
       "Lack of sleep affects focus",
       "students should rest",
@@ -1205,7 +1205,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Supply is low, prices will rise.", identify the PREMISE.",
+    "question": "In the argument \"Since Supply is low, prices will rise.\", identify the PREMISE.",
     "options": [
       "Supply is low",
       "prices will rise",
@@ -1226,7 +1226,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Dogs are social, they need company.", identify the PREMISE.",
+    "question": "In the argument \"Since Dogs are social, they need company.\", identify the PREMISE.",
     "options": [
       "Dogs are social",
       "they need company",
@@ -1247,7 +1247,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The guitar is out of tune, it will sound bad.", identify the PREMISE.",
+    "question": "In the argument \"Since The guitar is out of tune, it will sound bad.\", identify the PREMISE.",
     "options": [
       "The guitar is out of tune",
       "it will sound bad",
@@ -1268,7 +1268,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The oven is too hot, the cake will burn.", identify the PREMISE.",
+    "question": "In the argument \"Since The oven is too hot, the cake will burn.\", identify the PREMISE.",
     "options": [
       "The oven is too hot",
       "the cake will burn",
@@ -1289,7 +1289,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since You practiced hard, you will finish faster.", identify the PREMISE.",
+    "question": "In the argument \"Since You practiced hard, you will finish faster.\", identify the PREMISE.",
     "options": [
       "You practiced hard",
       "you will finish faster",
@@ -1310,7 +1310,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The clouds are dark, it is going to rain.", identify the PREMISE.",
+    "question": "In the argument \"Since The clouds are dark, it is going to rain.\", identify the PREMISE.",
     "options": [
       "The clouds are dark",
       "it is going to rain",
@@ -1331,7 +1331,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The battery is empty, the car won't start.", identify the PREMISE.",
+    "question": "In the argument \"Since The battery is empty, the car won't start.\", identify the PREMISE.",
     "options": [
       "The battery is empty",
       "the car won't start",
@@ -1352,7 +1352,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Plants need light, they should be near the window.", identify the PREMISE.",
+    "question": "In the argument \"Since Plants need light, they should be near the window.\", identify the PREMISE.",
     "options": [
       "Plants need light",
       "they should be near the window",
@@ -1373,7 +1373,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Silence is required, we must speak softly.", identify the PREMISE.",
+    "question": "In the argument \"Since Silence is required, we must speak softly.\", identify the PREMISE.",
     "options": [
       "Silence is required",
       "we must speak softly",
@@ -1394,7 +1394,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Exercise improves health, we should walk daily.", identify the PREMISE.",
+    "question": "In the argument \"Since Exercise improves health, we should walk daily.\", identify the PREMISE.",
     "options": [
       "Exercise improves health",
       "we should walk daily",
@@ -1415,7 +1415,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since X equals 5, X plus 2 equals 7.", identify the PREMISE.",
+    "question": "In the argument \"Since X equals 5, X plus 2 equals 7.\", identify the PREMISE.",
     "options": [
       "X equals 5",
       "X plus 2 equals 7",
@@ -1436,7 +1436,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The tide is coming in, the beach will get smaller.", identify the PREMISE.",
+    "question": "In the argument \"Since The tide is coming in, the beach will get smaller.\", identify the PREMISE.",
     "options": [
       "The tide is coming in",
       "the beach will get smaller",
@@ -1457,7 +1457,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Light takes time to travel, we see stars as they were.", identify the PREMISE.",
+    "question": "In the argument \"Since Light takes time to travel, we see stars as they were.\", identify the PREMISE.",
     "options": [
       "Light takes time to travel",
       "we see stars as they were",
@@ -1478,7 +1478,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Gravity pulls objects down, the apple will fall.", identify the PREMISE.",
+    "question": "In the argument \"Since Gravity pulls objects down, the apple will fall.\", identify the PREMISE.",
     "options": [
       "Gravity pulls objects down",
       "the apple will fall",
@@ -1499,7 +1499,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Practice improves fluency, you should speak daily.", identify the PREMISE.",
+    "question": "In the argument \"Since Practice improves fluency, you should speak daily.\", identify the PREMISE.",
     "options": [
       "Practice improves fluency",
       "you should speak daily",
@@ -1520,7 +1520,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The router is off, the Wi-Fi won't work.", identify the PREMISE.",
+    "question": "In the argument \"Since The router is off, the Wi-Fi won't work.\", identify the PREMISE.",
     "options": [
       "The router is off",
       "the Wi-Fi won't work",
@@ -1541,7 +1541,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Artifacts are fragile, they need careful handling.", identify the PREMISE.",
+    "question": "In the argument \"Since Artifacts are fragile, they need careful handling.\", identify the PREMISE.",
     "options": [
       "Artifacts are fragile",
       "they need careful handling",
@@ -1562,7 +1562,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Red and blue make purple, mix them for violet.", identify the PREMISE.",
+    "question": "In the argument \"Since Red and blue make purple, mix them for violet.\", identify the PREMISE.",
     "options": [
       "Red and blue make purple",
       "mix them for violet",
@@ -1583,7 +1583,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The light is red, drivers must stop.", identify the PREMISE.",
+    "question": "In the argument \"Since The light is red, drivers must stop.\", identify the PREMISE.",
     "options": [
       "The light is red",
       "drivers must stop",
@@ -1604,7 +1604,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Lack of sleep affects focus, students should rest.", identify the PREMISE.",
+    "question": "In the argument \"Since Lack of sleep affects focus, students should rest.\", identify the PREMISE.",
     "options": [
       "Lack of sleep affects focus",
       "students should rest",
@@ -1625,7 +1625,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Supply is low, prices will rise.", identify the PREMISE.",
+    "question": "In the argument \"Since Supply is low, prices will rise.\", identify the PREMISE.",
     "options": [
       "Supply is low",
       "prices will rise",
@@ -1646,7 +1646,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Dogs are social, they need company.", identify the PREMISE.",
+    "question": "In the argument \"Since Dogs are social, they need company.\", identify the PREMISE.",
     "options": [
       "Dogs are social",
       "they need company",
@@ -1667,7 +1667,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The guitar is out of tune, it will sound bad.", identify the PREMISE.",
+    "question": "In the argument \"Since The guitar is out of tune, it will sound bad.\", identify the PREMISE.",
     "options": [
       "The guitar is out of tune",
       "it will sound bad",
@@ -1688,7 +1688,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The oven is too hot, the cake will burn.", identify the PREMISE.",
+    "question": "In the argument \"Since The oven is too hot, the cake will burn.\", identify the PREMISE.",
     "options": [
       "The oven is too hot",
       "the cake will burn",
@@ -1709,7 +1709,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since You practiced hard, you will finish faster.", identify the PREMISE.",
+    "question": "In the argument \"Since You practiced hard, you will finish faster.\", identify the PREMISE.",
     "options": [
       "You practiced hard",
       "you will finish faster",
@@ -1730,7 +1730,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The clouds are dark, it is going to rain.", identify the PREMISE.",
+    "question": "In the argument \"Since The clouds are dark, it is going to rain.\", identify the PREMISE.",
     "options": [
       "The clouds are dark",
       "it is going to rain",
@@ -1751,7 +1751,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The battery is empty, the car won't start.", identify the PREMISE.",
+    "question": "In the argument \"Since The battery is empty, the car won't start.\", identify the PREMISE.",
     "options": [
       "The battery is empty",
       "the car won't start",
@@ -1772,7 +1772,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Plants need light, they should be near the window.", identify the PREMISE.",
+    "question": "In the argument \"Since Plants need light, they should be near the window.\", identify the PREMISE.",
     "options": [
       "Plants need light",
       "they should be near the window",
@@ -1793,7 +1793,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Silence is required, we must speak softly.", identify the PREMISE.",
+    "question": "In the argument \"Since Silence is required, we must speak softly.\", identify the PREMISE.",
     "options": [
       "Silence is required",
       "we must speak softly",
@@ -1814,7 +1814,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Exercise improves health, we should walk daily.", identify the PREMISE.",
+    "question": "In the argument \"Since Exercise improves health, we should walk daily.\", identify the PREMISE.",
     "options": [
       "Exercise improves health",
       "we should walk daily",
@@ -1835,7 +1835,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since X equals 5, X plus 2 equals 7.", identify the PREMISE.",
+    "question": "In the argument \"Since X equals 5, X plus 2 equals 7.\", identify the PREMISE.",
     "options": [
       "X equals 5",
       "X plus 2 equals 7",
@@ -1856,7 +1856,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The tide is coming in, the beach will get smaller.", identify the PREMISE.",
+    "question": "In the argument \"Since The tide is coming in, the beach will get smaller.\", identify the PREMISE.",
     "options": [
       "The tide is coming in",
       "the beach will get smaller",
@@ -1877,7 +1877,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Light takes time to travel, we see stars as they were.", identify the PREMISE.",
+    "question": "In the argument \"Since Light takes time to travel, we see stars as they were.\", identify the PREMISE.",
     "options": [
       "Light takes time to travel",
       "we see stars as they were",
@@ -1898,7 +1898,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Gravity pulls objects down, the apple will fall.", identify the PREMISE.",
+    "question": "In the argument \"Since Gravity pulls objects down, the apple will fall.\", identify the PREMISE.",
     "options": [
       "Gravity pulls objects down",
       "the apple will fall",
@@ -1919,7 +1919,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Practice improves fluency, you should speak daily.", identify the PREMISE.",
+    "question": "In the argument \"Since Practice improves fluency, you should speak daily.\", identify the PREMISE.",
     "options": [
       "Practice improves fluency",
       "you should speak daily",
@@ -1940,7 +1940,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The router is off, the Wi-Fi won't work.", identify the PREMISE.",
+    "question": "In the argument \"Since The router is off, the Wi-Fi won't work.\", identify the PREMISE.",
     "options": [
       "The router is off",
       "the Wi-Fi won't work",
@@ -1961,7 +1961,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Artifacts are fragile, they need careful handling.", identify the PREMISE.",
+    "question": "In the argument \"Since Artifacts are fragile, they need careful handling.\", identify the PREMISE.",
     "options": [
       "Artifacts are fragile",
       "they need careful handling",
@@ -1982,7 +1982,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Red and blue make purple, mix them for violet.", identify the PREMISE.",
+    "question": "In the argument \"Since Red and blue make purple, mix them for violet.\", identify the PREMISE.",
     "options": [
       "Red and blue make purple",
       "mix them for violet",
@@ -2003,7 +2003,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The light is red, drivers must stop.", identify the PREMISE.",
+    "question": "In the argument \"Since The light is red, drivers must stop.\", identify the PREMISE.",
     "options": [
       "The light is red",
       "drivers must stop",
@@ -2024,7 +2024,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Lack of sleep affects focus, students should rest.", identify the PREMISE.",
+    "question": "In the argument \"Since Lack of sleep affects focus, students should rest.\", identify the PREMISE.",
     "options": [
       "Lack of sleep affects focus",
       "students should rest",
@@ -2045,7 +2045,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Supply is low, prices will rise.", identify the PREMISE.",
+    "question": "In the argument \"Since Supply is low, prices will rise.\", identify the PREMISE.",
     "options": [
       "Supply is low",
       "prices will rise",
@@ -2066,7 +2066,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since Dogs are social, they need company.", identify the PREMISE.",
+    "question": "In the argument \"Since Dogs are social, they need company.\", identify the PREMISE.",
     "options": [
       "Dogs are social",
       "they need company",
@@ -2087,7 +2087,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "premise-identification",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "In the argument "Since The guitar is out of tune, it will sound bad.", identify the PREMISE.",
+    "question": "In the argument \"Since The guitar is out of tune, it will sound bad.\", identify the PREMISE.",
     "options": [
       "The guitar is out of tune",
       "it will sound bad",
@@ -2108,7 +2108,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The oven is too hot, therefore the cake will burn.", identify the CONCLUSION.",
+    "question": "In the argument \"The oven is too hot, therefore the cake will burn.\", identify the CONCLUSION.",
     "options": [
       "The oven is too hot",
       "the cake will burn",
@@ -2129,7 +2129,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "You practiced hard, therefore you will finish faster.", identify the CONCLUSION.",
+    "question": "In the argument \"You practiced hard, therefore you will finish faster.\", identify the CONCLUSION.",
     "options": [
       "You practiced hard",
       "you will finish faster",
@@ -2150,7 +2150,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The clouds are dark, therefore it is going to rain.", identify the CONCLUSION.",
+    "question": "In the argument \"The clouds are dark, therefore it is going to rain.\", identify the CONCLUSION.",
     "options": [
       "The clouds are dark",
       "it is going to rain",
@@ -2171,7 +2171,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The battery is empty, therefore the car won't start.", identify the CONCLUSION.",
+    "question": "In the argument \"The battery is empty, therefore the car won't start.\", identify the CONCLUSION.",
     "options": [
       "The battery is empty",
       "the car won't start",
@@ -2192,7 +2192,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Plants need light, therefore they should be near the window.", identify the CONCLUSION.",
+    "question": "In the argument \"Plants need light, therefore they should be near the window.\", identify the CONCLUSION.",
     "options": [
       "Plants need light",
       "they should be near the window",
@@ -2213,7 +2213,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Silence is required, therefore we must speak softly.", identify the CONCLUSION.",
+    "question": "In the argument \"Silence is required, therefore we must speak softly.\", identify the CONCLUSION.",
     "options": [
       "Silence is required",
       "we must speak softly",
@@ -2234,7 +2234,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Exercise improves health, therefore we should walk daily.", identify the CONCLUSION.",
+    "question": "In the argument \"Exercise improves health, therefore we should walk daily.\", identify the CONCLUSION.",
     "options": [
       "Exercise improves health",
       "we should walk daily",
@@ -2255,7 +2255,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "X equals 5, therefore X plus 2 equals 7.", identify the CONCLUSION.",
+    "question": "In the argument \"X equals 5, therefore X plus 2 equals 7.\", identify the CONCLUSION.",
     "options": [
       "X equals 5",
       "X plus 2 equals 7",
@@ -2276,7 +2276,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The tide is coming in, therefore the beach will get smaller.", identify the CONCLUSION.",
+    "question": "In the argument \"The tide is coming in, therefore the beach will get smaller.\", identify the CONCLUSION.",
     "options": [
       "The tide is coming in",
       "the beach will get smaller",
@@ -2297,7 +2297,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Light takes time to travel, therefore we see stars as they were.", identify the CONCLUSION.",
+    "question": "In the argument \"Light takes time to travel, therefore we see stars as they were.\", identify the CONCLUSION.",
     "options": [
       "Light takes time to travel",
       "we see stars as they were",
@@ -2318,7 +2318,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Gravity pulls objects down, therefore the apple will fall.", identify the CONCLUSION.",
+    "question": "In the argument \"Gravity pulls objects down, therefore the apple will fall.\", identify the CONCLUSION.",
     "options": [
       "Gravity pulls objects down",
       "the apple will fall",
@@ -2339,7 +2339,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Practice improves fluency, therefore you should speak daily.", identify the CONCLUSION.",
+    "question": "In the argument \"Practice improves fluency, therefore you should speak daily.\", identify the CONCLUSION.",
     "options": [
       "Practice improves fluency",
       "you should speak daily",
@@ -2360,7 +2360,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The router is off, therefore the Wi-Fi won't work.", identify the CONCLUSION.",
+    "question": "In the argument \"The router is off, therefore the Wi-Fi won't work.\", identify the CONCLUSION.",
     "options": [
       "The router is off",
       "the Wi-Fi won't work",
@@ -2381,7 +2381,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Artifacts are fragile, therefore they need careful handling.", identify the CONCLUSION.",
+    "question": "In the argument \"Artifacts are fragile, therefore they need careful handling.\", identify the CONCLUSION.",
     "options": [
       "Artifacts are fragile",
       "they need careful handling",
@@ -2402,7 +2402,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Red and blue make purple, therefore mix them for violet.", identify the CONCLUSION.",
+    "question": "In the argument \"Red and blue make purple, therefore mix them for violet.\", identify the CONCLUSION.",
     "options": [
       "Red and blue make purple",
       "mix them for violet",
@@ -2423,7 +2423,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The light is red, therefore drivers must stop.", identify the CONCLUSION.",
+    "question": "In the argument \"The light is red, therefore drivers must stop.\", identify the CONCLUSION.",
     "options": [
       "The light is red",
       "drivers must stop",
@@ -2444,7 +2444,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Lack of sleep affects focus, therefore students should rest.", identify the CONCLUSION.",
+    "question": "In the argument \"Lack of sleep affects focus, therefore students should rest.\", identify the CONCLUSION.",
     "options": [
       "Lack of sleep affects focus",
       "students should rest",
@@ -2465,7 +2465,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Supply is low, therefore prices will rise.", identify the CONCLUSION.",
+    "question": "In the argument \"Supply is low, therefore prices will rise.\", identify the CONCLUSION.",
     "options": [
       "Supply is low",
       "prices will rise",
@@ -2486,7 +2486,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Dogs are social, therefore they need company.", identify the CONCLUSION.",
+    "question": "In the argument \"Dogs are social, therefore they need company.\", identify the CONCLUSION.",
     "options": [
       "Dogs are social",
       "they need company",
@@ -2507,7 +2507,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The guitar is out of tune, therefore it will sound bad.", identify the CONCLUSION.",
+    "question": "In the argument \"The guitar is out of tune, therefore it will sound bad.\", identify the CONCLUSION.",
     "options": [
       "The guitar is out of tune",
       "it will sound bad",
@@ -2528,7 +2528,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The oven is too hot, therefore the cake will burn.", identify the CONCLUSION.",
+    "question": "In the argument \"The oven is too hot, therefore the cake will burn.\", identify the CONCLUSION.",
     "options": [
       "The oven is too hot",
       "the cake will burn",
@@ -2549,7 +2549,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "You practiced hard, therefore you will finish faster.", identify the CONCLUSION.",
+    "question": "In the argument \"You practiced hard, therefore you will finish faster.\", identify the CONCLUSION.",
     "options": [
       "You practiced hard",
       "you will finish faster",
@@ -2570,7 +2570,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The clouds are dark, therefore it is going to rain.", identify the CONCLUSION.",
+    "question": "In the argument \"The clouds are dark, therefore it is going to rain.\", identify the CONCLUSION.",
     "options": [
       "The clouds are dark",
       "it is going to rain",
@@ -2591,7 +2591,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The battery is empty, therefore the car won't start.", identify the CONCLUSION.",
+    "question": "In the argument \"The battery is empty, therefore the car won't start.\", identify the CONCLUSION.",
     "options": [
       "The battery is empty",
       "the car won't start",
@@ -2612,7 +2612,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Plants need light, therefore they should be near the window.", identify the CONCLUSION.",
+    "question": "In the argument \"Plants need light, therefore they should be near the window.\", identify the CONCLUSION.",
     "options": [
       "Plants need light",
       "they should be near the window",
@@ -2633,7 +2633,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Silence is required, therefore we must speak softly.", identify the CONCLUSION.",
+    "question": "In the argument \"Silence is required, therefore we must speak softly.\", identify the CONCLUSION.",
     "options": [
       "Silence is required",
       "we must speak softly",
@@ -2654,7 +2654,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Exercise improves health, therefore we should walk daily.", identify the CONCLUSION.",
+    "question": "In the argument \"Exercise improves health, therefore we should walk daily.\", identify the CONCLUSION.",
     "options": [
       "Exercise improves health",
       "we should walk daily",
@@ -2675,7 +2675,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "X equals 5, therefore X plus 2 equals 7.", identify the CONCLUSION.",
+    "question": "In the argument \"X equals 5, therefore X plus 2 equals 7.\", identify the CONCLUSION.",
     "options": [
       "X equals 5",
       "X plus 2 equals 7",
@@ -2696,7 +2696,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The tide is coming in, therefore the beach will get smaller.", identify the CONCLUSION.",
+    "question": "In the argument \"The tide is coming in, therefore the beach will get smaller.\", identify the CONCLUSION.",
     "options": [
       "The tide is coming in",
       "the beach will get smaller",
@@ -2717,7 +2717,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Light takes time to travel, therefore we see stars as they were.", identify the CONCLUSION.",
+    "question": "In the argument \"Light takes time to travel, therefore we see stars as they were.\", identify the CONCLUSION.",
     "options": [
       "Light takes time to travel",
       "we see stars as they were",
@@ -2738,7 +2738,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Gravity pulls objects down, therefore the apple will fall.", identify the CONCLUSION.",
+    "question": "In the argument \"Gravity pulls objects down, therefore the apple will fall.\", identify the CONCLUSION.",
     "options": [
       "Gravity pulls objects down",
       "the apple will fall",
@@ -2759,7 +2759,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Practice improves fluency, therefore you should speak daily.", identify the CONCLUSION.",
+    "question": "In the argument \"Practice improves fluency, therefore you should speak daily.\", identify the CONCLUSION.",
     "options": [
       "Practice improves fluency",
       "you should speak daily",
@@ -2780,7 +2780,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The router is off, therefore the Wi-Fi won't work.", identify the CONCLUSION.",
+    "question": "In the argument \"The router is off, therefore the Wi-Fi won't work.\", identify the CONCLUSION.",
     "options": [
       "The router is off",
       "the Wi-Fi won't work",
@@ -2801,7 +2801,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Artifacts are fragile, therefore they need careful handling.", identify the CONCLUSION.",
+    "question": "In the argument \"Artifacts are fragile, therefore they need careful handling.\", identify the CONCLUSION.",
     "options": [
       "Artifacts are fragile",
       "they need careful handling",
@@ -2822,7 +2822,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Red and blue make purple, therefore mix them for violet.", identify the CONCLUSION.",
+    "question": "In the argument \"Red and blue make purple, therefore mix them for violet.\", identify the CONCLUSION.",
     "options": [
       "Red and blue make purple",
       "mix them for violet",
@@ -2843,7 +2843,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The light is red, therefore drivers must stop.", identify the CONCLUSION.",
+    "question": "In the argument \"The light is red, therefore drivers must stop.\", identify the CONCLUSION.",
     "options": [
       "The light is red",
       "drivers must stop",
@@ -2864,7 +2864,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Lack of sleep affects focus, therefore students should rest.", identify the CONCLUSION.",
+    "question": "In the argument \"Lack of sleep affects focus, therefore students should rest.\", identify the CONCLUSION.",
     "options": [
       "Lack of sleep affects focus",
       "students should rest",
@@ -2885,7 +2885,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Supply is low, therefore prices will rise.", identify the CONCLUSION.",
+    "question": "In the argument \"Supply is low, therefore prices will rise.\", identify the CONCLUSION.",
     "options": [
       "Supply is low",
       "prices will rise",
@@ -2906,7 +2906,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Dogs are social, therefore they need company.", identify the CONCLUSION.",
+    "question": "In the argument \"Dogs are social, therefore they need company.\", identify the CONCLUSION.",
     "options": [
       "Dogs are social",
       "they need company",
@@ -2927,7 +2927,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The guitar is out of tune, therefore it will sound bad.", identify the CONCLUSION.",
+    "question": "In the argument \"The guitar is out of tune, therefore it will sound bad.\", identify the CONCLUSION.",
     "options": [
       "The guitar is out of tune",
       "it will sound bad",
@@ -2948,7 +2948,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The oven is too hot, therefore the cake will burn.", identify the CONCLUSION.",
+    "question": "In the argument \"The oven is too hot, therefore the cake will burn.\", identify the CONCLUSION.",
     "options": [
       "The oven is too hot",
       "the cake will burn",
@@ -2969,7 +2969,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "You practiced hard, therefore you will finish faster.", identify the CONCLUSION.",
+    "question": "In the argument \"You practiced hard, therefore you will finish faster.\", identify the CONCLUSION.",
     "options": [
       "You practiced hard",
       "you will finish faster",
@@ -2990,7 +2990,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The clouds are dark, therefore it is going to rain.", identify the CONCLUSION.",
+    "question": "In the argument \"The clouds are dark, therefore it is going to rain.\", identify the CONCLUSION.",
     "options": [
       "The clouds are dark",
       "it is going to rain",
@@ -3011,7 +3011,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The battery is empty, therefore the car won't start.", identify the CONCLUSION.",
+    "question": "In the argument \"The battery is empty, therefore the car won't start.\", identify the CONCLUSION.",
     "options": [
       "The battery is empty",
       "the car won't start",
@@ -3032,7 +3032,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Plants need light, therefore they should be near the window.", identify the CONCLUSION.",
+    "question": "In the argument \"Plants need light, therefore they should be near the window.\", identify the CONCLUSION.",
     "options": [
       "Plants need light",
       "they should be near the window",
@@ -3053,7 +3053,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Silence is required, therefore we must speak softly.", identify the CONCLUSION.",
+    "question": "In the argument \"Silence is required, therefore we must speak softly.\", identify the CONCLUSION.",
     "options": [
       "Silence is required",
       "we must speak softly",
@@ -3074,7 +3074,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Exercise improves health, therefore we should walk daily.", identify the CONCLUSION.",
+    "question": "In the argument \"Exercise improves health, therefore we should walk daily.\", identify the CONCLUSION.",
     "options": [
       "Exercise improves health",
       "we should walk daily",
@@ -3095,7 +3095,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "X equals 5, therefore X plus 2 equals 7.", identify the CONCLUSION.",
+    "question": "In the argument \"X equals 5, therefore X plus 2 equals 7.\", identify the CONCLUSION.",
     "options": [
       "X equals 5",
       "X plus 2 equals 7",
@@ -3116,7 +3116,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "The tide is coming in, therefore the beach will get smaller.", identify the CONCLUSION.",
+    "question": "In the argument \"The tide is coming in, therefore the beach will get smaller.\", identify the CONCLUSION.",
     "options": [
       "The tide is coming in",
       "the beach will get smaller",
@@ -3137,7 +3137,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "conclusion-identification",
     "difficulty": 1,
     "subLevel": SubLevel.INTERMEDIATE,
-    "question": "In the argument "Light takes time to travel, therefore we see stars as they were.", identify the CONCLUSION.",
+    "question": "In the argument \"Light takes time to travel, therefore we see stars as they were.\", identify the CONCLUSION.",
     "options": [
       "Light takes time to travel",
       "we see stars as they were",
@@ -4208,12 +4208,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "In deductive logic, an argument is valid when:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "If every premise were true, the conclusion could not be false.",
+      "Most experts find the argument persuasive.",
+      "Every premise is actually true in the real world.",
+      "The conclusion is probably true anyway."
     ],
     "correct_option_index": 0,
     "explanation": "Validity = structural integrity.",
@@ -4229,14 +4229,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Which option best matches the standard definition of deductive validity?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The reasoning stirs strong emotions.",
+      "The inference form is truth-preserving: true premises cannot yield a false conclusion.",
+      "The argument is popular on social media.",
+      "The premises are widely believed to be true."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4250,14 +4250,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Your instructor says: \"Treat the premises as true in a thought experiment\u2014the conclusion still cannot be false.\" That describes:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The speaker cites many sources.",
+      "The speaker cares deeply about the topic.",
+      "The logical structure guarantees the conclusion whenever the premises hold.",
+      "Each premise has been empirically verified."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4271,14 +4271,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Validity is a structural property. It means:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "Most experts find the argument persuasive.",
+      "The conclusion feels satisfying to accept.",
+      "Every premise is actually true in the real world.",
+      "Assuming the premises in a model, the conclusion must come out true."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4292,12 +4292,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Which statement captures what logicians mean by a valid argument?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The argument's pattern makes it impossible for all premises to be true while the conclusion is false.",
+      "The argument is popular on social media.",
+      "The premises are widely believed to be true.",
+      "The reasoning stirs strong emotions."
     ],
     "correct_option_index": 0,
     "explanation": "Validity = structural integrity.",
@@ -4313,14 +4313,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "A valid deductive argument is one in which:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "Each premise has been empirically verified.",
+      "If every premise were true, the conclusion could not be false.",
+      "The speaker cites many sources.",
+      "The speaker cares deeply about the topic."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4334,14 +4334,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "If someone asks only about validity (not soundness), they are asking whether:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "Most experts find the argument persuasive.",
+      "The conclusion feels satisfying to accept.",
+      "The inference form is truth-preserving: true premises cannot yield a false conclusion.",
+      "Every premise is actually true in the real world."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4355,14 +4355,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "The \"validity\" of an argument concerns:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The argument is popular on social media.",
+      "The conclusion is likely true given background knowledge.",
+      "The premises are widely believed to be true.",
+      "The logical structure guarantees the conclusion whenever the premises hold."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4376,12 +4376,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Which characterization fits validity (as opposed to soundness)?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "Assuming the premises in a model, the conclusion must come out true.",
+      "The speaker cites many sources.",
+      "The speaker cares deeply about the topic.",
+      "Each premise has been empirically verified."
     ],
     "correct_option_index": 0,
     "explanation": "Validity = structural integrity.",
@@ -4397,14 +4397,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "In a proof system, a rule preserves truth. Likewise, an argument is valid when:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "Most experts find the argument persuasive.",
+      "The argument's pattern makes it impossible for all premises to be true while the conclusion is false.",
+      "Every premise is actually true in the real world.",
+      "The conclusion feels satisfying to accept."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4418,14 +4418,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "You cannot have true premises and a false conclusion in a valid argument. Equivalently, validity means:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The premises are widely believed to be true.",
+      "The argument is popular on social media.",
+      "If every premise were true, the conclusion could not be false.",
+      "The reasoning stirs strong emotions."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4439,14 +4439,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Which option states the truth-preserving condition for validity?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The speaker cares deeply about the topic.",
+      "The speaker cites many sources.",
+      "Each premise has been empirically verified.",
+      "The inference form is truth-preserving: true premises cannot yield a false conclusion."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4460,12 +4460,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Validity answers which question?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The logical structure guarantees the conclusion whenever the premises hold.",
+      "Every premise is actually true in the real world.",
+      "Most experts find the argument persuasive.",
+      "The conclusion feels satisfying to accept."
     ],
     "correct_option_index": 0,
     "explanation": "Validity = structural integrity.",
@@ -4481,14 +4481,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "A student confuses validity with \"having true premises.\" What is validity actually about?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The argument is popular on social media.",
+      "Assuming the premises in a model, the conclusion must come out true.",
+      "The reasoning stirs strong emotions.",
+      "The premises are widely believed to be true."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4502,14 +4502,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Pick the option that describes formal validity in deductive logic:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "Each premise has been empirically verified.",
+      "The speaker cites many sources.",
+      "The argument's pattern makes it impossible for all premises to be true while the conclusion is false.",
+      "The conclusion is probably true anyway."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4523,14 +4523,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "When philosophers say an argument is valid, they mean:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "Every premise is actually true in the real world.",
+      "The conclusion feels satisfying to accept.",
+      "Most experts find the argument persuasive.",
+      "If every premise were true, the conclusion could not be false."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4544,12 +4544,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "The textbook: the conclusion follows necessarily from the premises. That is equivalent to:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The inference form is truth-preserving: true premises cannot yield a false conclusion.",
+      "The argument is popular on social media.",
+      "The reasoning stirs strong emotions.",
+      "The premises are widely believed to be true."
     ],
     "correct_option_index": 0,
     "explanation": "Validity = structural integrity.",
@@ -4565,14 +4565,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Which option is about logical consequence\u2014not popularity or emotion?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The speaker cares deeply about the topic.",
+      "The logical structure guarantees the conclusion whenever the premises hold.",
+      "Each premise has been empirically verified.",
+      "The speaker cites many sources."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4586,14 +4586,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "If you know an argument is valid, you know that:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The conclusion feels satisfying to accept.",
+      "Most experts find the argument persuasive.",
+      "Assuming the premises in a model, the conclusion must come out true.",
+      "Every premise is actually true in the real world."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4607,14 +4607,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Validity is about the link between premises and conclusion, namely:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The reasoning stirs strong emotions.",
+      "The argument is popular on social media.",
+      "The premises are widely believed to be true.",
+      "The argument's pattern makes it impossible for all premises to be true while the conclusion is false."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4628,12 +4628,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Necessarily: if the premises hold, the conclusion holds. That matches:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "If every premise were true, the conclusion could not be false.",
+      "Each premise has been empirically verified.",
+      "The speaker cares deeply about the topic.",
+      "The speaker cites many sources."
     ],
     "correct_option_index": 0,
     "explanation": "Validity = structural integrity.",
@@ -4649,14 +4649,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "A counterexample to validity would be all premises true and conclusion false. So validity means:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The conclusion is likely true given background knowledge.",
+      "The inference form is truth-preserving: true premises cannot yield a false conclusion.",
+      "Most experts find the argument persuasive.",
+      "Every premise is actually true in the real world."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4670,14 +4670,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Which option correctly contrasts validity with \"the premises are true\"?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The argument is popular on social media.",
+      "The premises are widely believed to be true.",
+      "The logical structure guarantees the conclusion whenever the premises hold.",
+      "The reasoning stirs strong emotions."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4691,14 +4691,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "The pattern of the argument works. That means:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The speaker cares deeply about the topic.",
+      "Each premise has been empirically verified.",
+      "The speaker cites many sources.",
+      "Assuming the premises in a model, the conclusion must come out true."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4712,12 +4712,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Choose the best paraphrase of: \"No interpretation makes all premises true and the conclusion false.\"",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The argument's pattern makes it impossible for all premises to be true while the conclusion is false.",
+      "Every premise is actually true in the real world.",
+      "Most experts find the argument persuasive.",
+      "The conclusion feels satisfying to accept."
     ],
     "correct_option_index": 0,
     "explanation": "Validity = structural integrity.",
@@ -4733,14 +4733,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "For deductive validity, which condition must hold?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The premises are widely believed to be true.",
+      "If every premise were true, the conclusion could not be false.",
+      "The argument is popular on social media.",
+      "The reasoning stirs strong emotions."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4754,14 +4754,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Which statement would a logic exam mark as the definition of validity?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The speaker cites many sources.",
+      "Each premise has been empirically verified.",
+      "The inference form is truth-preserving: true premises cannot yield a false conclusion.",
+      "The speaker cares deeply about the topic."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4775,14 +4775,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Validity is structural. Which option reflects that?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "Most experts find the argument persuasive.",
+      "Every premise is actually true in the real world.",
+      "The conclusion feels satisfying to accept.",
+      "The logical structure guarantees the conclusion whenever the premises hold."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4796,12 +4796,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "If the premises were true in some scenario, validity requires that:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "Assuming the premises in a model, the conclusion must come out true.",
+      "The argument is popular on social media.",
+      "The conclusion is probably true anyway.",
+      "The premises are widely believed to be true."
     ],
     "correct_option_index": 0,
     "explanation": "Validity = structural integrity.",
@@ -4817,14 +4817,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "You are checking only the inference, not factual accuracy. You are checking:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The speaker cares deeply about the topic.",
+      "The argument's pattern makes it impossible for all premises to be true while the conclusion is false.",
+      "Each premise has been empirically verified.",
+      "The speaker cites many sources."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4838,14 +4838,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Which option mistakes a soundness condition for the definition of validity?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "If every premise were true, the conclusion could not be false.",
+      "Every premise is actually true in the real world.",
+      "Most experts find the argument persuasive.",
+      "The conclusion feels satisfying to accept."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4859,14 +4859,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "The conclusion follows from the premises. In formal logic, that means:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The premises are widely believed to be true.",
+      "The reasoning stirs strong emotions.",
+      "The argument is popular on social media.",
+      "The inference form is truth-preserving: true premises cannot yield a false conclusion."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4880,12 +4880,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Pick the option that matches: logical consequence from premises to conclusion.",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The logical structure guarantees the conclusion whenever the premises hold.",
+      "Each premise has been empirically verified.",
+      "The speaker cares deeply about the topic.",
+      "The speaker cites many sources."
     ],
     "correct_option_index": 0,
     "explanation": "Validity = structural integrity.",
@@ -4901,14 +4901,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "A valid argument can have false premises. Validity still means:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The conclusion feels satisfying to accept.",
+      "Assuming the premises in a model, the conclusion must come out true.",
+      "Most experts find the argument persuasive.",
+      "Every premise is actually true in the real world."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4922,14 +4922,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Soundness adds true premises; validity alone means:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The reasoning stirs strong emotions.",
+      "The premises are widely believed to be true.",
+      "The argument's pattern makes it impossible for all premises to be true while the conclusion is false.",
+      "The argument is popular on social media."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4943,14 +4943,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Which is the standard textbook gloss for deductive validity?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "Each premise has been empirically verified.",
+      "The speaker cites many sources.",
+      "The conclusion is likely true given background knowledge.",
+      "If every premise were true, the conclusion could not be false."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -4964,12 +4964,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "\"If all premises are true, the conclusion must be true\" is one phrasing. Another equivalent is:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The inference form is truth-preserving: true premises cannot yield a false conclusion.",
+      "Most experts find the argument persuasive.",
+      "Every premise is actually true in the real world.",
+      "The conclusion feels satisfying to accept."
     ],
     "correct_option_index": 0,
     "explanation": "Validity = structural integrity.",
@@ -4985,14 +4985,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Necessity of the conclusion given the premises means:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The argument is popular on social media.",
+      "The logical structure guarantees the conclusion whenever the premises hold.",
+      "The premises are widely believed to be true.",
+      "The reasoning stirs strong emotions."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -5006,14 +5006,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Select the definition of validity without claiming the premises are actually true:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The speaker cites many sources.",
+      "Each premise has been empirically verified.",
+      "Assuming the premises in a model, the conclusion must come out true.",
+      "The speaker cares deeply about the topic."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -5027,14 +5027,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Truth of premises is a separate issue. Validity is the claim that:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The conclusion feels satisfying to accept.",
+      "Most experts find the argument persuasive.",
+      "Every premise is actually true in the real world.",
+      "The argument's pattern makes it impossible for all premises to be true while the conclusion is false."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -5048,12 +5048,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "In a valid argument, which situation is ruled out?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "If every premise were true, the conclusion could not be false.",
+      "The premises are widely believed to be true.",
+      "The reasoning stirs strong emotions.",
+      "The argument is popular on social media."
     ],
     "correct_option_index": 0,
     "explanation": "Validity = structural integrity.",
@@ -5069,14 +5069,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "The form is such that truth flows to the conclusion. That is:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The speaker cites many sources.",
+      "The inference form is truth-preserving: true premises cannot yield a false conclusion.",
+      "Each premise has been empirically verified.",
+      "The speaker cares deeply about the topic."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -5090,14 +5090,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Which option would a TA accept as the definition of validity on a first quiz?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "Every premise is actually true in the real world.",
+      "Most experts find the argument persuasive.",
+      "The logical structure guarantees the conclusion whenever the premises hold.",
+      "The conclusion is probably true anyway."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -5111,14 +5111,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "The premises jointly imply the conclusion. So validity means:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The argument is popular on social media.",
+      "The reasoning stirs strong emotions.",
+      "The premises are widely believed to be true.",
+      "Assuming the premises in a model, the conclusion must come out true."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -5132,12 +5132,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "If you grant the premises for the sake of argument, validity forces you to grant:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The argument's pattern makes it impossible for all premises to be true while the conclusion is false.",
+      "The speaker cares deeply about the topic.",
+      "The speaker cites many sources.",
+      "Each premise has been empirically verified."
     ],
     "correct_option_index": 0,
     "explanation": "Validity = structural integrity.",
@@ -5153,14 +5153,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "The conclusion is a logical consequence of the premises. So validity means:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "Every premise is actually true in the real world.",
+      "If every premise were true, the conclusion could not be false.",
+      "The conclusion feels satisfying to accept.",
+      "Most experts find the argument persuasive."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -5174,14 +5174,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Choose the definition that matches the usual turnstile (\u22a8) in introductory logic:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The argument is popular on social media.",
+      "The reasoning stirs strong emotions.",
+      "The inference form is truth-preserving: true premises cannot yield a false conclusion.",
+      "The premises are widely believed to be true."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -5195,14 +5195,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "A valid argument never permits: all premises true and conclusion false. Hence:",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "Each premise has been empirically verified.",
+      "The speaker cites many sources.",
+      "The speaker cares deeply about the topic.",
+      "The logical structure guarantees the conclusion whenever the premises hold."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -5216,12 +5216,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Which option is synonymous with \"the conclusion follows necessarily from the premises\"?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "Assuming the premises in a model, the conclusion must come out true.",
+      "The conclusion feels satisfying to accept.",
+      "Most experts find the argument persuasive.",
+      "Every premise is actually true in the real world."
     ],
     "correct_option_index": 0,
     "explanation": "Validity = structural integrity.",
@@ -5237,14 +5237,14 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logic: 'VALIDITY' means...",
+    "question": "Which option best states that the argument has no counterexample with true premises and a false conclusion?",
     "options": [
-      "IF premises are true, conclusion MUST be true.",
-      "The premises ARE true.",
-      "The argument is popular.",
-      "The logic is emotional."
+      "The premises are widely believed to be true.",
+      "The argument's pattern makes it impossible for all premises to be true while the conclusion is false.",
+      "The conclusion is likely true given background knowledge.",
+      "The argument is popular on social media."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validity = structural integrity.",
     "detailedExplanationBeginner": "Structure works.",
     "detailedExplanationIntermediate": "Impossible to have T premises and F conclusion.",
@@ -5258,12 +5258,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "A climate memo says the inference is airtight and every factual claim checks out. In logic, that describes:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "A sound argument (valid reasoning with true premises).",
+      "A valid argument whose premises might still be false.",
+      "A persuasive speech that moved the audience.",
+      "An argument with true premises but invalid form."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5279,12 +5279,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "You are grading: the form is valid, but one premise is false. The argument is:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Not sound (soundness needs validity plus true premises).",
+      "Sound, because validity is enough.",
+      "Sound, because one false premise does not matter.",
+      "Sound if the conclusion is true."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5300,12 +5300,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Which package matches what logicians call a sound argument?",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Deductive validity plus all premises actually true.",
+      "Validity alone, even with false premises.",
+      "True premises alone, even if the pattern is invalid.",
+      "Whatever wins a debate round."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5321,12 +5321,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Soundness is the combination of:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Valid structure and true premises.",
+      "True premises only.",
+      "Valid structure only.",
+      "Emotional resonance and rhetorical skill."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5342,12 +5342,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "If an argument is sound, what follows about its conclusion?",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "The conclusion must be true (given soundness implies valid inference from true premises).",
+      "The conclusion is probably true.",
+      "The conclusion is false.",
+      "Nothing\u2014the conclusion is irrelevant."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5363,12 +5363,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Pick the best gloss: soundness =",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Truth-preserving form plus true inputs.",
+      "Truth-preserving form only.",
+      "True inputs only.",
+      "Audience approval."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5384,12 +5384,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "A proof is valid, but a premise cites a retracted study. Then the argument is:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Not sound, because a premise is not actually true.",
+      "Sound, because the form still works.",
+      "Sound, because studies change all the time.",
+      "Sound if people still believe the premise."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5405,12 +5405,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Which statement is NOT enough for soundness?",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "The argument is rhetorically powerful.",
+      "The argument is valid and every premise is true.",
+      "The premises are true and the form is valid.",
+      "It is deductively valid with no false premises."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5426,12 +5426,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "In a courtroom analogy: the legal rule is applied correctly, and every entered fact is verified. Logically, that mirrors:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Soundness (correct rule plus true factual premises).",
+      "Validity only.",
+      "A strong vibe from the jury.",
+      "True premises with a fallacious rule."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5447,12 +5447,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Sound arguments guarantee their conclusions because:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Validity transmits truth from true premises, and soundness supplies true premises.",
+      "They are usually short.",
+      "They use big words.",
+      "They avoid emotions."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5468,12 +5468,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Which option confuses validity with soundness?",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Calling an argument \"sound\" just because it is valid.",
+      "Saying soundness needs both validity and true premises.",
+      "Checking whether the premises are actually true.",
+      "Checking whether the conclusion follows necessarily."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5489,12 +5489,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "A researcher says: \"Our model is sound.\" In logic class, the charitable reading is:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "The reasoning pattern is valid and the assumptions are true.",
+      "The model is long.",
+      "The model is popular.",
+      "The model is valid but uses false assumptions."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5510,12 +5510,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "To show an argument is NOT sound, you can:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Show a false premise or show invalid reasoning.",
+      "Show the conclusion is surprising.",
+      "Show people dislike the conclusion.",
+      "Show the argument is valid."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5531,12 +5531,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Soundness is a stricter standard than validity because it also demands:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "That the premises are actually true.",
+      "That the conclusion be surprising.",
+      "That the argument be short.",
+      "That everyone agrees."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5552,12 +5552,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Which scenario describes a valid but unsound argument?",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Modus ponens form, but a premise about the crime is false.",
+      "Modus ponens with true premises.",
+      "A true conclusion drawn at random.",
+      "A false conclusion from a typo."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5573,12 +5573,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "If you have established soundness, you have established:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Both validity and truth of premises.",
+      "Validity only.",
+      "Truth of premises only.",
+      "Statistical significance."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5594,12 +5594,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "A sound argument cannot have:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "A false premise (by definition of soundness).",
+      "A valid form.",
+      "A true conclusion.",
+      "Multiple premises."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5615,12 +5615,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Philosophy quiz: \"Sound\" arguments are the gold standard because they combine:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Good structure with factual accuracy of premises.",
+      "Rhetoric with charisma.",
+      "Length with footnotes.",
+      "Probability with luck."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5636,12 +5636,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Choose the option that completes: Sound = valid + ___",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "True premises.",
+      "Popular premises.",
+      "Emotional premises.",
+      "Long premises."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5657,12 +5657,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Which is the odd one out for soundness?",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "The argument went viral online.",
+      "Every premise is true.",
+      "The argument is deductively valid.",
+      "The premises jointly entail the conclusion."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5693,60 +5693,18 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "questionFormat": "standard"
   },
   {
-    "id": 1272,
-    "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
-    "concept": "soundness-definition",
-    "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
-    "question": "Pick the best definition of a sound argument.",
-    "options": [
-      "A deductively valid argument whose premises are all true in reality.",
-      "Any valid argument, even if its premises are false.",
-      "Any argument with all true premises, even if the form is invalid.",
-      "Any argument that a skilled speaker can make convincing."
-    ],
-    "correct_option_index": 0,
-    "explanation": "Soundness = Validity + Truth.",
-    "detailedExplanationBeginner": "Logic + Truth.",
-    "detailedExplanationIntermediate": "Two criteria: validity and material truth.",
-    "detailedExplanationExpert": "Valid \u2227 Truth(P).",
-    "questionFormat": "standard"
-  },
-  {
-    "id": 1273,
-    "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
-    "concept": "soundness-definition",
-    "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
-    "question": "Which characterization matches what logicians call a 'sound' argument?",
-    "options": [
-      "Valid form + factually correct premises.",
-      "Valid form only, regardless of whether the premises are true.",
-      "True premises only, even if the reasoning pattern is bad.",
-      "Any argument that seems convincing in practice."
-    ],
-    "correct_option_index": 0,
-    "explanation": "Soundness = Validity + Truth.",
-    "detailedExplanationBeginner": "Logic + Truth.",
-    "detailedExplanationIntermediate": "Two criteria: validity and material truth.",
-    "detailedExplanationExpert": "Valid \u2227 Truth(P).",
-    "questionFormat": "standard"
-  },
-  {
     "id": 1274,
     "level": 0,
     "persona_stage": PersonaStage.TADPOLE,
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Medical triage note: the treatment rule is applied correctly and the patient facts are accurate. That mirrors:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Sound reasoning.",
+      "Validity without truth.",
+      "Purely emotional appeal.",
+      "Invalid pattern with true facts."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5762,12 +5720,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Soundness excludes which possibility?",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Valid reasoning from false premises treated as if they settle the case.",
+      "Valid reasoning from true premises.",
+      "True premises with valid form.",
+      "A true conclusion following validly."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5783,12 +5741,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "An argument can be valid yet unsound. The extra ingredient soundness adds is:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Actual truth of the premises.",
+      "A louder voice.",
+      "More examples.",
+      "A clever title."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5804,12 +5762,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "In one line: soundness means you have the right form and:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "The right facts in the premises.",
+      "The right audience.",
+      "The right font.",
+      "The right intuition."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5825,12 +5783,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Why care about soundness, not just validity?",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Validity alone can still rely on false premises.",
+      "Soundness ignores truth.",
+      "Validity is easier, so it is enough.",
+      "Soundness is only about style."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5846,12 +5804,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "A podcast says an argument is \"sound.\" Careful listeners should hear:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Valid structure with true premises.",
+      "Just confidence.",
+      "Just emotion.",
+      "Just popularity."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5867,12 +5825,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Match concepts: \"All premises true\" + \"valid form\" =",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Sound argument.",
+      "Invalid argument.",
+      "Inductive strength only.",
+      "Opinion."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5888,12 +5846,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Which undermines soundness instantly?",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Any false premise in the support set.",
+      "A long conclusion.",
+      "A boring tone.",
+      "A technical vocabulary."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5909,12 +5867,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Soundness is about:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Getting both the logic and the facts right.",
+      "Getting the vibe right.",
+      "Getting applause.",
+      "Getting a short word count."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5930,12 +5888,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "A student says: \"It is valid, therefore it is sound.\" The mistake is:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Validity does not guarantee true premises.",
+      "Validity is impossible.",
+      "Soundness ignores premises.",
+      "Truth does not matter."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5951,12 +5909,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Complete the slogan: No false premises + valid pattern \u21d2",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Sound argument (and a true conclusion, given validity).",
+      "Invalid argument.",
+      "Pure opinion.",
+      "Rhetorical trick."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5972,12 +5930,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Engineering report: calculations follow the right theorem, but a measured value was mistyped. The proof is:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Valid but not sound.",
+      "Sound.",
+      "Neither valid nor sound.",
+      "Sound if the typo is small."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -5993,12 +5951,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Soundness is stricter than validity the same way a healthy meal is stricter than:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "A recipe that looks good on paper but uses spoiled ingredients.",
+      "A recipe with fresh ingredients only.",
+      "A popular restaurant.",
+      "A fast restaurant."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6014,12 +5972,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Pick the best description of an unsound yet valid argument:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "True logical form with at least one false premise.",
+      "False conclusion necessarily.",
+      "No premises.",
+      "No conclusion."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6035,12 +5993,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "When philosophers praise an argument as sound, they are not merely saying:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "It is persuasive or widely believed.",
+      "It has true premises and valid form.",
+      "It is deductively valid.",
+      "It leads to a true conclusion."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6056,12 +6014,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "A sound argument's premises are:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Actually true, not just assumed for an exercise.",
+      "Assumed true for contradiction.",
+      "False but plausible.",
+      "True in fiction only."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6077,12 +6035,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Validity is the lock; soundness also checks:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Whether the keys (premises) are real.",
+      "Whether the lock is shiny.",
+      "Whether people like the lock.",
+      "Whether the lock has a brand name."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6098,12 +6056,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "If you refute a premise, you show the argument is:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Not sound (and maybe still valid).",
+      "Sound.",
+      "Invalid automatically.",
+      "Emotionally empty."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6119,12 +6077,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Soundness \u2261",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Valid \u2227 true premises.",
+      "Valid only.",
+      "True premises only.",
+      "Convincing only."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6140,12 +6098,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "A deductively sound argument with a controversial conclusion still requires:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "That the premises be true and the form valid\u2014controversy alone is not enough.",
+      "That everyone agree.",
+      "That no one ask questions.",
+      "That the conclusion be popular."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6161,12 +6119,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Which pair is sufficient for soundness?",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Valid argument + all premises true.",
+      "Valid argument + popular premises.",
+      "True premises + fallacious pattern.",
+      "Emotion + statistics."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6182,12 +6140,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Unlike mere validity, soundness anchors the argument in:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "The real truth of its premises.",
+      "The real length of its premises.",
+      "The real fame of its author.",
+      "The real mood of the room."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6203,12 +6161,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "A critic says: \"Your logic is fine; your facts are not.\" They attack:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Soundness (truth of premises), while granting validity.",
+      "Validity only.",
+      "The font choice.",
+      "The conclusion tone."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6224,12 +6182,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "In short: soundness asks both \"Does it follow?\" and:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "\"Are the starting claims actually true?\"",
+      "\"Is it short?\"",
+      "\"Is it loud?\"",
+      "\"Is it new?\""
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6245,12 +6203,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Which is a recipe for soundness?",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Check validity first, then verify each premise in the world.",
+      "Check vibes first.",
+      "Check popularity first.",
+      "Check length first."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6266,12 +6224,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "If premises are true and the argument is valid, the argument is:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "Sound.",
+      "Invalid.",
+      "Purely emotional.",
+      "Purely rhetorical."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6287,12 +6245,12 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "A 'SOUND' argument is:",
+    "question": "Soundness closes the gap between \"good form\" and:",
     "options": [
-      "Valid + True premises.",
-      "Just valid.",
-      "Just true.",
-      "Convincing."
+      "\"True content\" in the premises.",
+      "\"Good marketing\".",
+      "\"Good luck\".",
+      "\"Good taste\"."
     ],
     "correct_option_index": 0,
     "explanation": "Soundness = Validity + Truth.",
@@ -6300,7 +6258,7 @@ export const LEVEL_0_GEN_EN: Question[] = [
     "detailedExplanationIntermediate": "Two criteria: validity and material truth.",
     "detailedExplanationExpert": "Valid \u2227 Truth(P).",
     "questionFormat": "standard"
-  }
+  },
 ];
 
 export const LEVEL_0_GEN_FR: Question[] = [
@@ -6320,7 +6278,7 @@ export const LEVEL_0_GEN_FR: Question[] = [
     ],
     "correct_option_index": 1,
     "explanation": "Un argument relie une conclusion \u00e0 une raison qui la soutient.",
-    "detailedExplanationBeginner": "Ils encombrent les oc\u00e9ans" est donn\u00e9 comme raison pour interdire ces plastiques.",
+    "detailedExplanationBeginner": "Ils encombrent les oc\u00e9ans\" est donn\u00e9 comme raison pour interdire ces plastiques.",
     "detailedExplanationIntermediate": "Conclusion (les interdire) adoss\u00e9e \u00e0 un fait (ils obstruent les oc\u00e9ans).",
     "detailedExplanationExpert": "Recommandation appuy\u00e9e sur une pr\u00e9misse environnementale : Pr\u00e9misse \u2192 Politique.",
     "questionFormat": "standard"
@@ -6731,16 +6689,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Cuisine (2)",
+    "question": "Lors d'un concours de p\u00e2tisserie communautaire, quelle phrase est un argument (une affirmation appuy\u00e9e sur une raison) ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Cuisine (2).",
-      "Cuisine (2) est d\u00e9finitivement mieux.",
-      "Le four est trop chaud, donc le g\u00e2teau va br\u00fbler.",
-      "Cuisine (2) existe."
+      "Les cupcakes sont \u00e0 la mode cette ann\u00e9e.",
+      "Le four est trop chaud, donc le g\u00e9noise va s'ass\u00e9cher.",
+      "Cette cuisine sent la vanille.",
+      "Le beurre est en promotion au magasin."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Le four est trop chaud' pour soutenir 'le g\u00e2teau va br\u00fbler'.",
+    "detailedExplanationBeginner": "Utilise \u00ab Le four est trop chaud \u00bb pour soutenir \u00ab le g\u00e9noise va s'ass\u00e9cher \u00bb.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -6752,16 +6710,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Course (2)",
+    "question": "Avant une manche de sprint, quelle phrase est un argument \u2014 pas seulement une pr\u00e9f\u00e9rence ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Course (2).",
-      "Course (2) est d\u00e9finitivement mieux.",
-      "Tu t'es entra\u00een\u00e9 dur, donc tu finiras plus vite.",
-      "Course (2) existe."
+      "Tu t'es entra\u00een\u00e9 tout le mois, donc tu devrais battre ton temps de la manche pr\u00e9c\u00e9dente.",
+      "J'adore le bruit du pistolet de d\u00e9part.",
+      "Les pistes sont en g\u00e9n\u00e9ral ovales.",
+      "Les pointes existent en plusieurs couleurs."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 0,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Tu t'es entra\u00een\u00e9 dur' pour soutenir 'tu finiras plus vite'.",
+    "detailedExplanationBeginner": "Utilise l'entra\u00eenement comme raison d'attendre un meilleur temps.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -6773,16 +6731,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : M\u00e9t\u00e9o (2)",
+    "question": "Pour pr\u00e9voir une randonn\u00e9e, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re M\u00e9t\u00e9o (2).",
-      "M\u00e9t\u00e9o (2) est d\u00e9finitivement mieux.",
-      "Les nuages sont sombres, donc il va pleuvoir.",
-      "M\u00e9t\u00e9o (2) existe."
+      "Le barom\u00e8tre chute vite, donc attendez-vous \u00e0 de la pluie avant midi.",
+      "J'aime le ciel nuageux.",
+      "Les pr\u00e9visions existent sur les applis.",
+      "La pluie est mouill\u00e9e."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 0,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Les nuages sont sombres' pour soutenir 'il va pleuvoir'.",
+    "detailedExplanationBeginner": "Utilise la chute du barom\u00e8tre comme raison d'attendre de la pluie.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -6794,16 +6752,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Automobile (2)",
+    "question": "Au bord d'une voiture qui ne d\u00e9marre pas, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Automobile (2).",
-      "Automobile (2) est d\u00e9finitivement mieux.",
-      "La batterie est vide, donc la voiture ne d\u00e9marrera pas.",
-      "Automobile (2) existe."
+      "Les boosters sont lourds.",
+      "La batterie affiche z\u00e9ro volt, donc le d\u00e9marreur ne tournera pas.",
+      "Les voitures ont quatre roues.",
+      "Je n'aime pas attendre la d\u00e9panneuse."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'La batterie est vide' pour soutenir 'la voiture ne d\u00e9marrera pas'.",
+    "detailedExplanationBeginner": "Utilise une batterie morte comme raison pour laquelle la voiture ne d\u00e9marre pas.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -6815,16 +6773,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Botanique (2)",
+    "question": "Sur un bureau peu lumineux, quelle phrase est un argument sur les plantes ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Botanique (2).",
-      "Botanique (2) est d\u00e9finitivement mieux.",
-      "Les plantes ont besoin de lumi\u00e8re, donc elles devraient \u00eatre pr\u00e8s de la fen\u00eatre.",
-      "Botanique (2) existe."
+      "Les succulentes n'ont jamais besoin d'eau.",
+      "Ces feuilles sont \u00e9tiol\u00e9es, donc rapprochez le pot de la fen\u00eatre.",
+      "La terre est brune.",
+      "Les fen\u00eatres sont en verre."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Les plantes ont besoin de lumi\u00e8re' pour soutenir 'elles devraient \u00eatre pr\u00e8s de la fen\u00eatre'.",
+    "detailedExplanationBeginner": "Utilise une croissance p\u00e2le \u00e9tir\u00e9e comme raison de rapprocher la plante de la lumi\u00e8re.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -6836,16 +6794,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Biblioth\u00e8que (2)",
+    "question": "Dans une salle de lecture au r\u00e8glement strict, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Biblioth\u00e8que (2).",
-      "Biblioth\u00e8que (2) est d\u00e9finitivement mieux.",
-      "Le silence est requis, donc nous devons parler bas.",
-      "Biblioth\u00e8que (2) existe."
+      "Chuchoter est \u00e0 la mode.",
+      "Le silence est n\u00e9cessaire pour se concentrer, donc parlez bas aux tables.",
+      "Les biblioth\u00e8ques ont des rayonnages.",
+      "Les livres ont des tranches."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Le silence est requis' pour soutenir 'nous devons parler bas'.",
+    "detailedExplanationBeginner": "Utilise le besoin de concentration comme raison de parler bas.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -6857,16 +6815,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Sant\u00e9 (2)",
+    "question": "Quand un ami n'a pas march\u00e9 depuis des semaines, quelle phrase plaide pour une marche quotidienne ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Sant\u00e9 (2).",
-      "Sant\u00e9 (2) est d\u00e9finitivement mieux.",
-      "L'exercice am\u00e9liore la sant\u00e9, donc nous devrions marcher quotidiennement.",
-      "Sant\u00e9 (2) existe."
+      "La marche est ennuyeuse.",
+      "Un mouvement r\u00e9gulier soutient la sant\u00e9 cardiovasculaire, donc planifiez une marche quotidienne.",
+      "Les baskets existent.",
+      "Les trottoirs sont en b\u00e9ton."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'L'exercice am\u00e9liore la sant\u00e9' pour soutenir 'nous devrions marcher quotidiennement'.",
+    "detailedExplanationBeginner": "Utilise le b\u00e9n\u00e9fice pour la sant\u00e9 comme raison de marcher chaque jour.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -6878,16 +6836,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Math\u00e9matiques (2)",
+    "question": "Sur une interrogation d'alg\u00e8bre, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Math\u00e9matiques (2).",
-      "Math\u00e9matiques (2) est d\u00e9finitivement mieux.",
-      "X est \u00e9gal \u00e0 5, donc X plus 2 est \u00e9gal \u00e0 7.",
-      "Math\u00e9matiques (2) existe."
+      "Soit x un nombre.",
+      "Si x vaut 5, alors x plus 2 doit valoir 7.",
+      "Sept est un nombre premier.",
+      "Les \u00e9quations utilisent des lettres."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'X est \u00e9gal \u00e0 5' pour soutenir 'X plus 2 est \u00e9gal \u00e0 7'.",
+    "detailedExplanationBeginner": "Utilise x = 5 comme raison pour laquelle x + 2 vaut 7.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -6899,16 +6857,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Oc\u00e9anographie (2)",
+    "question": "Les ma\u00eetres-nageurs signalent une mar\u00e9e montante. Quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Oc\u00e9anographie (2).",
-      "Oc\u00e9anographie (2) est d\u00e9finitivement mieux.",
-      "La mar\u00e9e monte, donc la plage va r\u00e9tr\u00e9cir.",
-      "Oc\u00e9anographie (2) existe."
+      "Le sable est amusant \u00e0 creuser.",
+      "L'eau monte sur la plage, donc la zone s\u00e8che va r\u00e9tr\u00e9cir.",
+      "Les go\u00e9lands sont bruyants.",
+      "L'oc\u00e9an est sal\u00e9."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'La mar\u00e9e monte' pour soutenir 'la plage va r\u00e9tr\u00e9cir'.",
+    "detailedExplanationBeginner": "Utilise l'eau qui avance comme raison pour laquelle le sable sec diminue.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -6920,16 +6878,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Astronomie (2)",
+    "question": "Au plan\u00e9tarium, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Astronomie (2).",
-      "Astronomie (2) est d\u00e9finitivement mieux.",
-      "La lumi\u00e8re prend du temps pour voyager, donc nous voyons les \u00e9toiles telles qu'elles \u00e9taient.",
-      "Astronomie (2) existe."
+      "Les \u00e9toiles sont de jolis points.",
+      "La lumi\u00e8re a une vitesse finie, donc nous voyons les \u00e9toiles lointaines telles qu'elles \u00e9taient autrefois.",
+      "Les t\u00e9lescopes utilisent des miroirs.",
+      "La nuit suit le jour."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'La lumi\u00e8re prend du temps pour voyager' pour soutenir 'nous voyons les \u00e9toiles telles qu'elles \u00e9taient'.",
+    "detailedExplanationBeginner": "Utilise la vitesse finie de la lumi\u00e8re comme raison pour laquelle nous voyons le pass\u00e9.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -6941,16 +6899,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Physique (2)",
+    "question": "En faisant tomber une pomme pour une d\u00e9mo, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Physique (2).",
-      "Physique (2) est d\u00e9finitivement mieux.",
-      "La gravit\u00e9 tire les objets vers le bas, donc la pomme tombera.",
-      "Physique (2) existe."
+      "Les pommes peuvent \u00eatre rouges ou vertes.",
+      "La Terre attire les masses vers son centre, donc la pomme acc\u00e9l\u00e8re vers le bas.",
+      "Les balcons ont des garde-corps.",
+      "La gravit\u00e9 porte le nom de Newton."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'La gravit\u00e9 tire les objets vers le bas' pour soutenir 'la pomme tombera'.",
+    "detailedExplanationBeginner": "Utilise l'attraction gravitationnelle comme raison pour laquelle la pomme tombe.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -6962,16 +6920,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Linguistique (2)",
+    "question": "Pour un plan de pratique linguistique, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Linguistique (2).",
-      "Linguistique (2) est d\u00e9finitivement mieux.",
-      "La pratique am\u00e9liore l'aisance, donc tu devrais parler tous les jours.",
-      "Linguistique (2) existe."
+      "Les accents sont int\u00e9ressants.",
+      "L'aisance suit une pratique r\u00e9fl\u00e9chie, donc parler un peu chaque jour vaut mieux qu'un bachotage mensuel.",
+      "Les dictionnaires sont \u00e9pais.",
+      "Les langues ont une grammaire."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'La pratique am\u00e9liore l'aisance' pour soutenir 'tu devrais parler tous les jours'.",
+    "detailedExplanationBeginner": "Utilise le lien pratique/aisance pour recommander de parler chaque jour.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -6983,16 +6941,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Technologie (2)",
+    "question": "Le Wi-Fi du bureau coupe pendant un appel vid\u00e9o. Quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Technologie (2).",
-      "Technologie (2) est d\u00e9finitivement mieux.",
-      "Le routeur est \u00e9teint, donc le Wi-Fi ne fonctionnera pas.",
-      "Technologie (2) existe."
+      "Les appels devraient toujours \u00eatre en vid\u00e9o.",
+      "Le routeur est hors ligne, donc cet ordinateur n'atteindra pas Internet.",
+      "Les c\u00e2bles Ethernet sont parfois bleus.",
+      "Les modems ont des voyants."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Le routeur est \u00e9teint' pour soutenir 'le Wi-Fi ne fonctionnera pas'.",
+    "detailedExplanationBeginner": "Utilise le routeur hors ligne comme raison de l'absence d'Internet.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -7004,16 +6962,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Histoire (2)",
+    "question": "Pour manipuler des pi\u00e8ces fragiles de mus\u00e9e, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Histoire (2).",
-      "Histoire (2) est d\u00e9finitivement mieux.",
-      "Les art\u00e9facts sont fragiles, donc ils n\u00e9cessitent une manipulation prudente.",
-      "Histoire (2) existe."
+      "Les art\u00e9facts sont vieux.",
+      "Ces mat\u00e9riaux se fissurent sous un choc brutal, donc soutenez-les par le dessous en les d\u00e9pla\u00e7ant.",
+      "Les mus\u00e9es sont payants.",
+      "Les vitrines sont en verre."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Les art\u00e9facts sont fragiles' pour soutenir 'ils n\u00e9cessitent une manipulation prudente'.",
+    "detailedExplanationBeginner": "Utilise la fragilit\u00e9 au choc comme raison de soulever par le dessous.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -7025,16 +6983,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Art (2)",
+    "question": "En m\u00e9langeant de la peinture pour une fresque, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Art (2).",
-      "Art (2) est d\u00e9finitivement mieux.",
-      "Le rouge et le bleu font du violet, donc m\u00e9langez-les pour du violet.",
-      "Art (2) existe."
+      "Le violet est \u00e0 la mode cette saison.",
+      "Le pigment rouge plus le pigment bleu donne ce violet-l\u00e0, donc ces deux tubes produiront cette nuance.",
+      "Les pinceaux s'usent.",
+      "La toile a du grain."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Le rouge et le bleu font du violet' pour soutenir 'm\u00e9langez-les pour du violet'.",
+    "detailedExplanationBeginner": "Utilise le fait du m\u00e9lange des couleurs comme raison pour laquelle ces deux tubes donnent la nuance.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -7046,16 +7004,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Circulation (2)",
+    "question": "Face \u00e0 un feu rouge en tant que jeune conducteur, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Circulation (2).",
-      "Circulation (2) est d\u00e9finitivement mieux.",
-      "Le feu est rouge, donc les conducteurs doivent s'arr\u00eater.",
-      "Circulation (2) existe."
+      "Les feux rouges sont brillants.",
+      "Ce feu est rouge, donc la file qui le regarde doit s'arr\u00eater avant la ligne d'arr\u00eat.",
+      "Les carrefours ont des coins.",
+      "Les voitures ont des freins."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Le feu est rouge' pour soutenir 'les conducteurs doivent s'arr\u00eater'.",
+    "detailedExplanationBeginner": "Utilise le feu rouge comme raison de s'arr\u00eater.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -7067,16 +7025,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Biologie (2)",
+    "question": "Pour expliquer les pauses d'un groupe d'\u00e9tude, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Biologie (2).",
-      "Biologie (2) est d\u00e9finitivement mieux.",
-      "Le manque de sommeil affecte la concentration, donc les \u00e9tudiants doivent se reposer.",
-      "Biologie (2) existe."
+      "La dette de sommeil nuit \u00e0 l'attention, donc de courtes pauses aideront \u00e0 rester concentr\u00e9.",
+      "Les biblioth\u00e8ques ont des chaises.",
+      "Le caf\u00e9 sent fort.",
+      "Les examens ont lieu au printemps."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 0,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Le manque de sommeil affecte la concentration' pour soutenir 'les \u00e9tudiants doivent se reposer'.",
+    "detailedExplanationBeginner": "Utilise l'effet du sommeil sur l'attention comme raison de faire des pauses.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -7088,16 +7046,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : \u00c9conomie (2)",
+    "question": "Pour un concert complet, quelle phrase est un argument sur le prix des billets ?",
     "options": [
-      "Je pr\u00e9f\u00e8re \u00c9conomie (2).",
-      "\u00c9conomie (2) est d\u00e9finitivement mieux.",
-      "L'offre est faible, donc les prix augmenteront.",
-      "\u00c9conomie (2) existe."
+      "Les stands vendent des T-shirts.",
+      "Il reste peu de places, donc la revente demandera plus que le prix d'origine.",
+      "Les concerts utilisent des enceintes.",
+      "Les fans aiment la musique."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'L'offre est faible' pour soutenir 'les prix augmenteront'.",
+    "detailedExplanationBeginner": "Utilise la raret\u00e9 comme raison d'une hausse des prix.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -7130,16 +7088,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Musique (2)",
+    "question": "Avant r\u00e9p\u00e9tition avec un big band scolaire, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Musique (2).",
-      "Musique (2) est d\u00e9finitivement mieux.",
-      "La guitare n'est pas accord\u00e9e, donc elle sonnera mal.",
-      "Musique (2) existe."
+      "Le jazz est n\u00e9 aux \u00c9tats-Unis.",
+      "La guitare solo est un quart de ton bas, donc l'accord sonnera faux tant qu'on ne l'accorde pas.",
+      "La musique utilise des notes.",
+      "Les salles de r\u00e9p\u00e9tition ont des chaises."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'La guitare n'est pas accord\u00e9e' pour soutenir 'elle sonnera mal'.",
+    "detailedExplanationBeginner": "Utilise une corde d\u00e9saccord\u00e9e comme raison pour laquelle l'accord sonne faux.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -7151,16 +7109,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Cuisine (3)",
+    "question": "En retirant des cupcakes du four trop t\u00f4t, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Cuisine (3).",
-      "Cuisine (3) est d\u00e9finitivement mieux.",
-      "Le four est trop chaud, donc le g\u00e2teau va br\u00fbler.",
-      "Cuisine (3) existe."
+      "La mie para\u00eet encore humide, donc donnez cinq minutes de plus sinon ils vont s'affaisser.",
+      "Le gla\u00e7age est sucr\u00e9.",
+      "Les caissettes sont pliss\u00e9es.",
+      "Les boulangeries ouvrent t\u00f4t."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 0,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Le four est trop chaud' pour soutenir 'le g\u00e2teau va br\u00fbler'.",
+    "detailedExplanationBeginner": "Utilise une mie humide comme raison de prolonger la cuisson.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -7172,16 +7130,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Course (3)",
+    "question": "En comparant deux relais \u00e0 l'entra\u00eenement, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Course (3).",
-      "Course (3) est d\u00e9finitivement mieux.",
-      "Tu t'es entra\u00een\u00e9 dur, donc tu finiras plus vite.",
-      "Course (3) existe."
+      "Leurs chronos se sont am\u00e9lior\u00e9s tout le printemps, donc ils devraient battre le record de l'an dernier.",
+      "Les relais utilisent des t\u00e9moins.",
+      "Les pistes ont des couloirs.",
+      "La course est a\u00e9robie."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 0,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Tu t'es entra\u00een\u00e9 dur' pour soutenir 'tu finiras plus vite'.",
+    "detailedExplanationBeginner": "Utilise des chronos en hausse comme raison d'attendre un record.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -7193,16 +7151,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : M\u00e9t\u00e9o (3)",
+    "question": "Pour un pique-nique selon la m\u00e9t\u00e9o du matin, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re M\u00e9t\u00e9o (3).",
-      "M\u00e9t\u00e9o (3) est d\u00e9finitivement mieux.",
-      "Les nuages sont sombres, donc il va pleuvoir.",
-      "M\u00e9t\u00e9o (3) existe."
+      "Les paniers sont en osier.",
+      "Le radar montre une ligne d'orages qui approche, donc emportez le b\u00e2che pour le kiosque.",
+      "L'herbe est verte.",
+      "Les fourmis vivent dehors."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'Les nuages sont sombres' pour soutenir 'il va pleuvoir'.",
+    "detailedExplanationBeginner": "Utilise une ligne d'orages comme raison d'emporter un abri.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -7298,16 +7256,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Math\u00e9matiques (3)",
+    "question": "En relisant le devoir d'un camarade, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Math\u00e9matiques (3).",
-      "Math\u00e9matiques (3) est d\u00e9finitivement mieux.",
-      "X est \u00e9gal \u00e0 5, donc X plus 2 est \u00e9gal \u00e0 7.",
-      "Math\u00e9matiques (3) existe."
+      "Les preuves utilisent la logique.",
+      "Si k est pair, alors k au carr\u00e9 est pair \u2014 car k \u00e9gale 2m pour un entier m.",
+      "Les nombres pairs sont entiers.",
+      "Les devoirs sont imprim\u00e9s."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'X est \u00e9gal \u00e0 5' pour soutenir 'X plus 2 est \u00e9gal \u00e0 7'.",
+    "detailedExplanationBeginner": "Utilise k = 2m comme raison pour laquelle k au carr\u00e9 est pair.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -7319,16 +7277,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Oc\u00e9anographie (3)",
+    "question": "Avec un calendrier des mar\u00e9es avant un relev\u00e9 du littoral, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Oc\u00e9anographie (3).",
-      "Oc\u00e9anographie (3) est d\u00e9finitivement mieux.",
-      "La mar\u00e9e monte, donc la plage va r\u00e9tr\u00e9cir.",
-      "Oc\u00e9anographie (3) existe."
+      "La basse mer d\u00e9couvre plus de flaques, donc planifiez le transect sur ce cr\u00e9neau.",
+      "Les livres de mar\u00e9es sont imprim\u00e9s.",
+      "Le sable est granuleux.",
+      "Les vagues font du bruit."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 0,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'La mar\u00e9e monte' pour soutenir 'la plage va r\u00e9tr\u00e9cir'.",
+    "detailedExplanationBeginner": "Utilise la basse mer comme raison de planifier le relev\u00e9 alors.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -7340,16 +7298,16 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "argument-vs-assertion",
     "difficulty": 1,
     "subLevel": SubLevel.BEGINNER,
-    "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Astronomie (3)",
+    "question": "Pour expliquer la lumi\u00e8re des \u00e9toiles \u00e0 un groupe, quelle phrase est un argument ?",
     "options": [
-      "Je pr\u00e9f\u00e8re Astronomie (3).",
-      "Astronomie (3) est d\u00e9finitivement mieux.",
-      "La lumi\u00e8re prend du temps pour voyager, donc nous voyons les \u00e9toiles telles qu'elles \u00e9taient.",
-      "Astronomie (3) existe."
+      "Les t\u00e9lescopes sont chers.",
+      "La lumi\u00e8re \u00e9toil\u00e9e a voyag\u00e9 des ann\u00e9es, donc nous voyons l'\u00e9toile telle qu'elle \u00e9tait dans le pass\u00e9.",
+      "Les constellations ont des noms.",
+      "Le ciel nocturne peut \u00eatre nuageux."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
-    "detailedExplanationBeginner": "Utilise 'La lumi\u00e8re prend du temps pour voyager' pour soutenir 'nous voyons les \u00e9toiles telles qu'elles \u00e9taient'.",
+    "detailedExplanationBeginner": "Utilise le temps de trajet de la lumi\u00e8re comme raison pour laquelle nous voyons le pass\u00e9.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
     "detailedExplanationExpert": "Structure P \u2192 Q.",
     "questionFormat": "standard"
@@ -10511,12 +10469,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "En logique d\u00e9ductive, un argument est valide lorsque :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Si toutes les pr\u00e9misses \u00e9taient vraies, la conclusion ne pourrait pas \u00eatre fausse.",
+      "La conclusion est probablement vraie quand m\u00eame.",
+      "La plupart des experts trouvent l'argument convaincant.",
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el."
     ],
     "correct_option_index": 0,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
@@ -10532,14 +10490,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Quelle option correspond le mieux \u00e0 la d\u00e9finition standard de la validit\u00e9 d\u00e9ductive ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "La forme d'inf\u00e9rence pr\u00e9serve la v\u00e9rit\u00e9 : des pr\u00e9misses vraies ne peuvent pas donner une conclusion fausse.",
+      "Le raisonnement suscite de fortes \u00e9motions.",
+      "Les pr\u00e9misses sont largement crues vraies."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10553,14 +10511,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Votre professeur dit : \u00ab Supposez les pr\u00e9misses vraies dans une exp\u00e9rience de pens\u00e9e \u2014 la conclusion ne peut pas rester fausse. \u00bb Cela d\u00e9crit :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
+      "L'orateur cite de nombreuses sources.",
+      "La structure logique garantit la conclusion d\u00e8s que les pr\u00e9misses tiennent.",
+      "L'orateur tient profond\u00e9ment au sujet."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10574,14 +10532,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "La validit\u00e9 est une propri\u00e9t\u00e9 structurelle. Elle signifie :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
+      "La plupart des experts trouvent l'argument convaincant.",
+      "La conclusion est agr\u00e9able \u00e0 accepter.",
+      "En supposant les pr\u00e9misses dans un mod\u00e8le, la conclusion doit ressortir vraie."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10595,12 +10553,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Quelle formulation capture ce que les logiciens entendent par argument valide ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Le sch\u00e9ma de l'argument rend impossible des pr\u00e9misses toutes vraies avec une conclusion fausse.",
+      "Les pr\u00e9misses sont largement crues vraies.",
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "Le raisonnement suscite de fortes \u00e9motions."
     ],
     "correct_option_index": 0,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
@@ -10616,14 +10574,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Un argument d\u00e9ductif valide est un argument dans lequel :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "L'orateur tient profond\u00e9ment au sujet.",
+      "Si toutes les pr\u00e9misses \u00e9taient vraies, la conclusion ne pourrait pas \u00eatre fausse.",
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
+      "L'orateur cite de nombreuses sources."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10637,14 +10595,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Si l'on ne demande que la validit\u00e9 (pas la correction), on demande si :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "La conclusion est agr\u00e9able \u00e0 accepter.",
+      "La plupart des experts trouvent l'argument convaincant.",
+      "La forme d'inf\u00e9rence pr\u00e9serve la v\u00e9rit\u00e9 : des pr\u00e9misses vraies ne peuvent pas donner une conclusion fausse.",
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10658,14 +10616,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "La \u00ab validit\u00e9 \u00bb d'un argument concerne :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "La conclusion est vraisemblablement vraie au vu du contexte.",
+      "Les pr\u00e9misses sont largement crues vraies.",
+      "La structure logique garantit la conclusion d\u00e8s que les pr\u00e9misses tiennent."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10679,12 +10637,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Quelle caract\u00e9risation correspond \u00e0 la validit\u00e9 (par opposition \u00e0 la correction) ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "En supposant les pr\u00e9misses dans un mod\u00e8le, la conclusion doit ressortir vraie.",
+      "L'orateur cite de nombreuses sources.",
+      "L'orateur tient profond\u00e9ment au sujet.",
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement."
     ],
     "correct_option_index": 0,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
@@ -10700,14 +10658,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Dans un syst\u00e8me de preuve, une r\u00e8gle pr\u00e9serve la v\u00e9rit\u00e9. De m\u00eame, un argument est valide lorsque :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "La plupart des experts trouvent l'argument convaincant.",
+      "Le sch\u00e9ma de l'argument rend impossible des pr\u00e9misses toutes vraies avec une conclusion fausse.",
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
+      "La conclusion est agr\u00e9able \u00e0 accepter."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10721,14 +10679,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "On ne peut pas avoir des pr\u00e9misses vraies et une conclusion fausse dans un argument valide. \u00c9quivalemment, la validit\u00e9 signifie :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Les pr\u00e9misses sont largement crues vraies.",
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "Si toutes les pr\u00e9misses \u00e9taient vraies, la conclusion ne pourrait pas \u00eatre fausse.",
+      "Le raisonnement suscite de fortes \u00e9motions."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10742,14 +10700,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Quelle option exprime la condition de pr\u00e9servation de la v\u00e9rit\u00e9 pour la validit\u00e9 ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "L'orateur cite de nombreuses sources.",
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
+      "L'orateur tient profond\u00e9ment au sujet.",
+      "La forme d'inf\u00e9rence pr\u00e9serve la v\u00e9rit\u00e9 : des pr\u00e9misses vraies ne peuvent pas donner une conclusion fausse."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10763,12 +10721,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "La validit\u00e9 r\u00e9pond \u00e0 quelle question ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "La structure logique garantit la conclusion d\u00e8s que les pr\u00e9misses tiennent.",
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
+      "La conclusion est agr\u00e9able \u00e0 accepter.",
+      "La plupart des experts trouvent l'argument convaincant."
     ],
     "correct_option_index": 0,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
@@ -10784,14 +10742,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Un \u00e9tudiant confond validit\u00e9 et \u00ab pr\u00e9misses vraies \u00bb. De quoi parle donc la validit\u00e9 ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Les pr\u00e9misses sont largement crues vraies.",
+      "En supposant les pr\u00e9misses dans un mod\u00e8le, la conclusion doit ressortir vraie.",
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "Le raisonnement suscite de fortes \u00e9motions."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10805,14 +10763,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Choisissez l'option qui d\u00e9crit la validit\u00e9 formelle en logique d\u00e9ductive :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
+      "L'orateur cite de nombreuses sources.",
+      "Le sch\u00e9ma de l'argument rend impossible des pr\u00e9misses toutes vraies avec une conclusion fausse.",
+      "La conclusion est probablement vraie quand m\u00eame."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10826,14 +10784,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Lorsque les philosophes disent qu'un argument est valide, ils veulent dire :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "La plupart des experts trouvent l'argument convaincant.",
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
+      "La conclusion est agr\u00e9able \u00e0 accepter.",
+      "Si toutes les pr\u00e9misses \u00e9taient vraies, la conclusion ne pourrait pas \u00eatre fausse."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10847,12 +10805,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Le manuel : la conclusion d\u00e9coule n\u00e9cessairement des pr\u00e9misses. Cela \u00e9quivaut \u00e0 :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "La forme d'inf\u00e9rence pr\u00e9serve la v\u00e9rit\u00e9 : des pr\u00e9misses vraies ne peuvent pas donner une conclusion fausse.",
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "Les pr\u00e9misses sont largement crues vraies.",
+      "Le raisonnement suscite de fortes \u00e9motions."
     ],
     "correct_option_index": 0,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
@@ -10868,14 +10826,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Quelle option parle de cons\u00e9quence logique \u2014 pas de popularit\u00e9 ni d'\u00e9motion ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
+      "La structure logique garantit la conclusion d\u00e8s que les pr\u00e9misses tiennent.",
+      "L'orateur cite de nombreuses sources.",
+      "L'orateur tient profond\u00e9ment au sujet."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10889,14 +10847,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Si vous savez qu'un argument est valide, vous savez que :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
+      "La plupart des experts trouvent l'argument convaincant.",
+      "En supposant les pr\u00e9misses dans un mod\u00e8le, la conclusion doit ressortir vraie.",
+      "La conclusion est agr\u00e9able \u00e0 accepter."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10910,14 +10868,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "La validit\u00e9 porte sur le lien entre pr\u00e9misses et conclusion, \u00e0 savoir :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Le raisonnement suscite de fortes \u00e9motions.",
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "Les pr\u00e9misses sont largement crues vraies.",
+      "Le sch\u00e9ma de l'argument rend impossible des pr\u00e9misses toutes vraies avec une conclusion fausse."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10931,12 +10889,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "N\u00e9cessairement : si les pr\u00e9misses tiennent, la conclusion tient. Cela correspond \u00e0 :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Si toutes les pr\u00e9misses \u00e9taient vraies, la conclusion ne pourrait pas \u00eatre fausse.",
+      "L'orateur tient profond\u00e9ment au sujet.",
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
+      "L'orateur cite de nombreuses sources."
     ],
     "correct_option_index": 0,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
@@ -10952,14 +10910,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Un contre-exemple \u00e0 la validit\u00e9 serait : pr\u00e9misses toutes vraies, conclusion fausse. Donc la validit\u00e9 signifie :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "La conclusion est vraisemblablement vraie au vu du contexte.",
+      "La forme d'inf\u00e9rence pr\u00e9serve la v\u00e9rit\u00e9 : des pr\u00e9misses vraies ne peuvent pas donner une conclusion fausse.",
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
+      "La plupart des experts trouvent l'argument convaincant."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10973,14 +10931,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Quelle option distingue correctement la validit\u00e9 de \u00ab les pr\u00e9misses sont vraies \u00bb ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Les pr\u00e9misses sont largement crues vraies.",
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "La structure logique garantit la conclusion d\u00e8s que les pr\u00e9misses tiennent.",
+      "Le raisonnement suscite de fortes \u00e9motions."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -10994,14 +10952,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Le sch\u00e9ma de l'argument fonctionne. Cela signifie :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "L'orateur cite de nombreuses sources.",
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
+      "L'orateur tient profond\u00e9ment au sujet.",
+      "En supposant les pr\u00e9misses dans un mod\u00e8le, la conclusion doit ressortir vraie."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11015,12 +10973,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Choisissez la meilleure paraphrase de : \u00ab Aucune interpr\u00e9tation ne rend toutes les pr\u00e9misses vraies et la conclusion fausse. \u00bb",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Le sch\u00e9ma de l'argument rend impossible des pr\u00e9misses toutes vraies avec une conclusion fausse.",
+      "La plupart des experts trouvent l'argument convaincant.",
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
+      "La conclusion est agr\u00e9able \u00e0 accepter."
     ],
     "correct_option_index": 0,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
@@ -11036,14 +10994,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Pour la validit\u00e9 d\u00e9ductive, quelle condition doit \u00eatre satisfaite ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Les pr\u00e9misses sont largement crues vraies.",
+      "Si toutes les pr\u00e9misses \u00e9taient vraies, la conclusion ne pourrait pas \u00eatre fausse.",
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "Le raisonnement suscite de fortes \u00e9motions."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11057,14 +11015,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Quelle phrase un examen de logique accepterait-il comme d\u00e9finition de la validit\u00e9 ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "L'orateur cite de nombreuses sources.",
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
+      "La forme d'inf\u00e9rence pr\u00e9serve la v\u00e9rit\u00e9 : des pr\u00e9misses vraies ne peuvent pas donner une conclusion fausse.",
+      "L'orateur tient profond\u00e9ment au sujet."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11078,14 +11036,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "La validit\u00e9 est structurelle. Quelle option le refl\u00e8te ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "La conclusion est agr\u00e9able \u00e0 accepter.",
+      "La plupart des experts trouvent l'argument convaincant.",
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
+      "La structure logique garantit la conclusion d\u00e8s que les pr\u00e9misses tiennent."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11099,12 +11057,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Si les pr\u00e9misses \u00e9taient vraies dans un sc\u00e9nario, la validit\u00e9 exige que :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "En supposant les pr\u00e9misses dans un mod\u00e8le, la conclusion doit ressortir vraie.",
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "La conclusion est probablement vraie quand m\u00eame.",
+      "Les pr\u00e9misses sont largement crues vraies."
     ],
     "correct_option_index": 0,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
@@ -11120,14 +11078,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Vous v\u00e9rifiez seulement l'inf\u00e9rence, pas le fait empirique. Vous v\u00e9rifiez :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
+      "Le sch\u00e9ma de l'argument rend impossible des pr\u00e9misses toutes vraies avec une conclusion fausse.",
+      "L'orateur cite de nombreuses sources.",
+      "L'orateur tient profond\u00e9ment au sujet."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11141,14 +11099,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Quelle option confond une condition de correction avec la d\u00e9finition de la validit\u00e9 ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Si toutes les pr\u00e9misses \u00e9taient vraies, la conclusion ne pourrait pas \u00eatre fausse.",
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
+      "La plupart des experts trouvent l'argument convaincant.",
+      "La conclusion est agr\u00e9able \u00e0 accepter."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11162,14 +11120,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "La conclusion d\u00e9coule des pr\u00e9misses. En logique formelle, cela signifie :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Le raisonnement suscite de fortes \u00e9motions.",
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "Les pr\u00e9misses sont largement crues vraies.",
+      "La forme d'inf\u00e9rence pr\u00e9serve la v\u00e9rit\u00e9 : des pr\u00e9misses vraies ne peuvent pas donner une conclusion fausse."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11183,12 +11141,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Choisissez l'option qui correspond \u00e0 la cons\u00e9quence logique des pr\u00e9misses \u00e0 la conclusion.",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "La structure logique garantit la conclusion d\u00e8s que les pr\u00e9misses tiennent.",
+      "L'orateur tient profond\u00e9ment au sujet.",
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
+      "L'orateur cite de nombreuses sources."
     ],
     "correct_option_index": 0,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
@@ -11204,14 +11162,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Un argument valide peut avoir des pr\u00e9misses fausses. La validit\u00e9 signifie malgr\u00e9 tout :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "La plupart des experts trouvent l'argument convaincant.",
+      "En supposant les pr\u00e9misses dans un mod\u00e8le, la conclusion doit ressortir vraie.",
+      "La conclusion est agr\u00e9able \u00e0 accepter.",
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11225,14 +11183,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "La correction ajoute des pr\u00e9misses vraies ; la seule validit\u00e9 signifie :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "Les pr\u00e9misses sont largement crues vraies.",
+      "Le sch\u00e9ma de l'argument rend impossible des pr\u00e9misses toutes vraies avec une conclusion fausse.",
+      "Le raisonnement suscite de fortes \u00e9motions."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11246,14 +11204,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Quelle est la formulation type des manuels pour la validit\u00e9 d\u00e9ductive ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "La conclusion est vraisemblablement vraie au vu du contexte.",
+      "L'orateur cite de nombreuses sources.",
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
+      "Si toutes les pr\u00e9misses \u00e9taient vraies, la conclusion ne pourrait pas \u00eatre fausse."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11267,12 +11225,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "\u00ab Si toutes les pr\u00e9misses sont vraies, la conclusion doit \u00eatre vraie \u00bb est une formulation. Une autre \u00e9quivalente est :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "La forme d'inf\u00e9rence pr\u00e9serve la v\u00e9rit\u00e9 : des pr\u00e9misses vraies ne peuvent pas donner une conclusion fausse.",
+      "La plupart des experts trouvent l'argument convaincant.",
+      "La conclusion est agr\u00e9able \u00e0 accepter.",
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el."
     ],
     "correct_option_index": 0,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
@@ -11288,14 +11246,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "La n\u00e9cessit\u00e9 de la conclusion \u00e9tant donn\u00e9es les pr\u00e9misses signifie :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Le raisonnement suscite de fortes \u00e9motions.",
+      "La structure logique garantit la conclusion d\u00e8s que les pr\u00e9misses tiennent.",
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "Les pr\u00e9misses sont largement crues vraies."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11309,14 +11267,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Choisissez la d\u00e9finition de la validit\u00e9 sans affirmer que les pr\u00e9misses sont vraies dans le monde r\u00e9el :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "L'orateur cite de nombreuses sources.",
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
+      "En supposant les pr\u00e9misses dans un mod\u00e8le, la conclusion doit ressortir vraie.",
+      "L'orateur tient profond\u00e9ment au sujet."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11330,14 +11288,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "La v\u00e9rit\u00e9 des pr\u00e9misses est une autre question. La validit\u00e9 affirme que :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
+      "La conclusion est agr\u00e9able \u00e0 accepter.",
+      "La plupart des experts trouvent l'argument convaincant.",
+      "Le sch\u00e9ma de l'argument rend impossible des pr\u00e9misses toutes vraies avec une conclusion fausse."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11351,12 +11309,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Dans un argument valide, quelle situation est exclue ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Si toutes les pr\u00e9misses \u00e9taient vraies, la conclusion ne pourrait pas \u00eatre fausse.",
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "Le raisonnement suscite de fortes \u00e9motions.",
+      "Les pr\u00e9misses sont largement crues vraies."
     ],
     "correct_option_index": 0,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
@@ -11372,14 +11330,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "La forme est telle que la v\u00e9rit\u00e9 se transmet jusqu'\u00e0 la conclusion. C'est :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
+      "La forme d'inf\u00e9rence pr\u00e9serve la v\u00e9rit\u00e9 : des pr\u00e9misses vraies ne peuvent pas donner une conclusion fausse.",
+      "L'orateur cite de nombreuses sources.",
+      "L'orateur tient profond\u00e9ment au sujet."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11393,14 +11351,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Quelle option un assistant accepterait-il comme d\u00e9finition de la validit\u00e9 au premier quiz ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
+      "La conclusion est probablement vraie quand m\u00eame.",
+      "La structure logique garantit la conclusion d\u00e8s que les pr\u00e9misses tiennent.",
+      "La plupart des experts trouvent l'argument convaincant."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11414,14 +11372,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Les pr\u00e9misses impliquent ensemble la conclusion. Donc la validit\u00e9 signifie :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Les pr\u00e9misses sont largement crues vraies.",
+      "Le raisonnement suscite de fortes \u00e9motions.",
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "En supposant les pr\u00e9misses dans un mod\u00e8le, la conclusion doit ressortir vraie."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11435,12 +11393,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Si vous accordez les pr\u00e9misses pour la discussion, la validit\u00e9 vous oblige \u00e0 accorder :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Le sch\u00e9ma de l'argument rend impossible des pr\u00e9misses toutes vraies avec une conclusion fausse.",
+      "L'orateur cite de nombreuses sources.",
+      "L'orateur tient profond\u00e9ment au sujet.",
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement."
     ],
     "correct_option_index": 0,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
@@ -11456,14 +11414,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "La conclusion est une cons\u00e9quence logique des pr\u00e9misses. Donc la validit\u00e9 signifie :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "La plupart des experts trouvent l'argument convaincant.",
+      "Si toutes les pr\u00e9misses \u00e9taient vraies, la conclusion ne pourrait pas \u00eatre fausse.",
+      "La conclusion est agr\u00e9able \u00e0 accepter.",
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11477,14 +11435,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Choisissez la d\u00e9finition qui correspond au symbole (\u22a8) des cours introductifs :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "Le raisonnement suscite de fortes \u00e9motions.",
+      "Les pr\u00e9misses sont largement crues vraies.",
+      "La forme d'inf\u00e9rence pr\u00e9serve la v\u00e9rit\u00e9 : des pr\u00e9misses vraies ne peuvent pas donner une conclusion fausse.",
+      "L'argument est populaire sur les r\u00e9seaux sociaux."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 2,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11498,14 +11456,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Un argument valide n'autorise jamais : pr\u00e9misses toutes vraies et conclusion fausse. Donc :",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "L'orateur cite de nombreuses sources.",
+      "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
+      "L'orateur tient profond\u00e9ment au sujet.",
+      "La structure logique garantit la conclusion d\u00e8s que les pr\u00e9misses tiennent."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 3,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11519,12 +11477,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Quelle option est synonyme de \u00ab la conclusion d\u00e9coule n\u00e9cessairement des pr\u00e9misses \u00bb ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "En supposant les pr\u00e9misses dans un mod\u00e8le, la conclusion doit ressortir vraie.",
+      "La plupart des experts trouvent l'argument convaincant.",
+      "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
+      "La conclusion est agr\u00e9able \u00e0 accepter."
     ],
     "correct_option_index": 0,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
@@ -11540,14 +11498,14 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "validity-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Logique : la \u00ab VALIDIT\u00c9 \u00bb signifie...",
+    "question": "Quelle option exprime le mieux l'absence de contre-exemple \u00e0 pr\u00e9misses vraies et conclusion fausse ?",
     "options": [
-      "SI les pr\u00e9misses sont vraies, la conclusion DOIT l'\u00eatre.",
-      "Les pr\u00e9misses SONT vraies.",
-      "L'argument est populaire.",
-      "La logique est \u00e9motionnelle."
+      "L'argument est populaire sur les r\u00e9seaux sociaux.",
+      "Le sch\u00e9ma de l'argument rend impossible des pr\u00e9misses toutes vraies avec une conclusion fausse.",
+      "La conclusion est vraisemblablement vraie au vu du contexte.",
+      "Les pr\u00e9misses sont largement crues vraies."
     ],
-    "correct_option_index": 0,
+    "correct_option_index": 1,
     "explanation": "Validit\u00e9 = int\u00e9grit\u00e9 structurelle.",
     "detailedExplanationBeginner": "La structure fonctionne.",
     "detailedExplanationIntermediate": "Impossible d'avoir des pr\u00e9misses V et une conclusion F.",
@@ -11561,18 +11519,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Choisissez la meilleure d\u00e9finition d'un argument sain.",
+    "question": "Une note climatique dit que l'inf\u00e9rence est irr\u00e9prochable et que chaque fait est v\u00e9rifi\u00e9. En logique, cela d\u00e9crit :",
     "options": [
-      "Un argument d\u00e9ductivement valide dont toutes les pr\u00e9misses sont vraies en r\u00e9alit\u00e9.",
-      "Tout argument valide, m\u00eame si ses pr\u00e9misses sont fausses.",
-      "Tout argument dont les pr\u00e9misses sont toutes vraies, m\u00eame si la forme est invalide.",
-      "Tout argument qu'un bon orateur peut rendre convaincant."
+      "Un argument sain (raisonnement valide avec pr\u00e9misses vraies).",
+      "Un argument valide dont les pr\u00e9misses peuvent \u00eatre fausses.",
+      "Un discours persuasif qui a \u00e9mu l'auditoire.",
+      "Un argument \u00e0 pr\u00e9misses vraies mais \u00e0 forme invalide."
     ],
     "correct_option_index": 0,
-    "explanation": "Solidit\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9 des pr\u00e9misses.",
-    "detailedExplanationBeginner": "La forme doit \u00eatre valide et les pr\u00e9misses doivent correspondre aux faits.",
-    "detailedExplanationIntermediate": "D\u00e9finit la solidit\u00e9 comme combinaison d'inf\u00e9rence valide et de pr\u00e9misses vraies.",
-    "detailedExplanationExpert": "Valide \u2227 V\u00e9rit\u00e9(P) dans le monde.",
+    "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
+    "detailedExplanationBeginner": "Logique + V\u00e9rit\u00e9.",
+    "detailedExplanationIntermediate": "Deux crit\u00e8res : validit\u00e9 et v\u00e9rit\u00e9 mat\u00e9rielle.",
+    "detailedExplanationExpert": "Valide \u2227 V\u00e9rit\u00e9(P).",
     "questionFormat": "standard"
   },
   {
@@ -11582,17 +11540,17 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "En logique, que signifie dire qu'un argument est SAIN ?",
+    "question": "Vous corrigez : la forme est valide, mais une pr\u00e9misse est fausse. L'argument est :",
     "options": [
-      "Il est valide et chacune de ses pr\u00e9misses est effectivement vraie.",
-      "Il est valide, mais ses pr\u00e9misses peuvent \u00eatre fausses.",
-      "Toutes ses pr\u00e9misses sont vraies, mais le raisonnement peut \u00eatre invalide.",
-      "Il semble simplement convaincant pour la plupart des gens."
+      "Non sain (la correction exige validit\u00e9 et pr\u00e9misses vraies).",
+      "Sain, car la validit\u00e9 suffit.",
+      "Sain, car une pr\u00e9misse fausse n'a pas d'importance.",
+      "Sain si la conclusion est vraie."
     ],
     "correct_option_index": 0,
-    "explanation": "Solidit\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9 des pr\u00e9misses.",
-    "detailedExplanationBeginner": "Logique correcte + pr\u00e9misses vraies.",
-    "detailedExplanationIntermediate": "Deux crit\u00e8res : forme valide et pr\u00e9misses factuellement vraies.",
+    "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
+    "detailedExplanationBeginner": "Logique + V\u00e9rit\u00e9.",
+    "detailedExplanationIntermediate": "Deux crit\u00e8res : validit\u00e9 et v\u00e9rit\u00e9 mat\u00e9rielle.",
     "detailedExplanationExpert": "Valide \u2227 V\u00e9rit\u00e9(P).",
     "questionFormat": "standard"
   },
@@ -11603,12 +11561,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Quel ensemble correspond \u00e0 ce que les logiciens appellent un argument sain ?",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Validit\u00e9 d\u00e9ductive plus pr\u00e9misses toutes vraies dans le monde r\u00e9el.",
+      "Validit\u00e9 seule, m\u00eame avec des pr\u00e9misses fausses.",
+      "Pr\u00e9misses vraies seules, m\u00eame si le sch\u00e9ma est invalide.",
+      "Ce qui gagne un d\u00e9bat."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11624,12 +11582,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "La correction (soundness) combine :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Une forme valide et des pr\u00e9misses vraies.",
+      "Des pr\u00e9misses vraies seulement.",
+      "Une forme valide seulement.",
+      "Une r\u00e9sonance \u00e9motionnelle et de la rh\u00e9torique."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11645,12 +11603,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Si un argument est sain, qu'en est-il de la conclusion ?",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "La conclusion doit \u00eatre vraie (un argument sain inf\u00e8re valablement depuis des pr\u00e9misses vraies).",
+      "La conclusion est probablement vraie.",
+      "La conclusion est fausse.",
+      "Rien \u2014 la conclusion est sans importance."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11666,12 +11624,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Choisissez la meilleure \u00e9quivalence : correction =",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Forme pr\u00e9servant la v\u00e9rit\u00e9 plus entr\u00e9es vraies.",
+      "Forme pr\u00e9servant la v\u00e9rit\u00e9 seulement.",
+      "Entr\u00e9es vraies seulement.",
+      "L'approbation du public."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11687,12 +11645,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Une preuve est valide, mais une pr\u00e9misse cite une \u00e9tude r\u00e9tract\u00e9e. Alors l'argument est :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Non sain, car une pr\u00e9misse n'est pas vraie en fait.",
+      "Sain, car la forme fonctionne encore.",
+      "Sain, car les \u00e9tudes changent souvent.",
+      "Sain si les gens croient encore la pr\u00e9misse."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11708,12 +11666,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Quelle affirmation ne suffit pas pour la correction ?",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "L'argument est puissant sur le plan rh\u00e9torique.",
+      "L'argument est valide et chaque pr\u00e9misse est vraie.",
+      "Les pr\u00e9misses sont vraies et la forme est valide.",
+      "Il est d\u00e9ductivement valide sans pr\u00e9misse fausse."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11729,12 +11687,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Au tribunal : la r\u00e8gle est appliqu\u00e9e correctement et chaque fait est v\u00e9rifi\u00e9. Cela illustre :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "La correction (r\u00e8gle correcte plus faits vrais).",
+      "La validit\u00e9 seulement.",
+      "Une forte impression du jury.",
+      "Des pr\u00e9misses vraies avec une r\u00e8gle fallacieuse."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11750,12 +11708,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Les arguments sains garantissent leur conclusion parce que :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "La validit\u00e9 transmet la v\u00e9rit\u00e9 depuis des pr\u00e9misses vraies, et la correction fournit des pr\u00e9misses vraies.",
+      "Ils sont en g\u00e9n\u00e9ral courts.",
+      "Ils utilisent des mots compliqu\u00e9s.",
+      "Ils \u00e9vitent les \u00e9motions."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11771,12 +11729,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Quelle option confond validit\u00e9 et correction ?",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Dire qu'un argument est \u00ab sain \u00bb seulement parce qu'il est valide.",
+      "Dire que la correction exige validit\u00e9 et pr\u00e9misses vraies.",
+      "V\u00e9rifier si les pr\u00e9misses sont vraies dans le monde r\u00e9el.",
+      "V\u00e9rifier si la conclusion d\u00e9coule n\u00e9cessairement."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11792,12 +11750,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Un chercheur dit : \u00ab Notre mod\u00e8le est sain. \u00bb En cours de logique, la lecture la plus charitable est :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Le sch\u00e9ma de raisonnement est valide et les hypoth\u00e8ses sont vraies.",
+      "Le mod\u00e8le est long.",
+      "Le mod\u00e8le est populaire.",
+      "Le mod\u00e8le est valide mais utilise des hypoth\u00e8ses fausses."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11813,12 +11771,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Pour montrer qu'un argument n'est PAS sain, vous pouvez :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Montrer une pr\u00e9misse fausse ou un raisonnement invalide.",
+      "Montrer que la conclusion surprend.",
+      "Montrer que les gens n'aiment pas la conclusion.",
+      "Montrer que l'argument est valide."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11834,12 +11792,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "La correction est plus exigeante que la validit\u00e9 car elle exige aussi :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Que les pr\u00e9misses soient vraies dans le monde r\u00e9el.",
+      "Que la conclusion surprenne.",
+      "Que l'argument soit court.",
+      "Que tout le monde soit d'accord."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11855,12 +11813,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Quel cas d\u00e9crit un argument valide mais non sain ?",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Un modus ponens, mais une pr\u00e9misse sur le crime est fausse.",
+      "Un modus ponens avec pr\u00e9misses vraies.",
+      "Une conclusion vraie tir\u00e9e au hasard.",
+      "Une conclusion fausse \u00e0 cause d'une faute de frappe."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11876,12 +11834,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Si vous avez \u00e9tabli la correction, vous avez \u00e9tabli :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "\u00c0 la fois la validit\u00e9 et la v\u00e9rit\u00e9 des pr\u00e9misses.",
+      "La validit\u00e9 seulement.",
+      "La v\u00e9rit\u00e9 des pr\u00e9misses seulement.",
+      "Une signification statistique."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11897,12 +11855,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Un argument sain ne peut pas avoir :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Une pr\u00e9misse fausse (par d\u00e9finition de la correction).",
+      "Une forme valide.",
+      "Une conclusion vraie.",
+      "Plusieurs pr\u00e9misses."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11918,12 +11876,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Quiz de philo : les arguments \u00ab sains \u00bb sont l'\u00e9talon car ils combinent :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Une bonne structure avec l'exactitude factuelle des pr\u00e9misses.",
+      "La rh\u00e9torique et le charisme.",
+      "La longueur et les notes de bas de page.",
+      "La probabilit\u00e9 et la chance."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11939,12 +11897,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Compl\u00e9tez : Sain = valide + ___",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Pr\u00e9misses vraies.",
+      "Pr\u00e9misses populaires.",
+      "Pr\u00e9misses \u00e9motionnelles.",
+      "Pr\u00e9misses longues."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11960,12 +11918,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Laquelle est l'intruse pour la notion de correction ?",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "L'argument a fait le buzz en ligne.",
+      "Chaque pr\u00e9misse est vraie.",
+      "L'argument est d\u00e9ductivement valide.",
+      "Les pr\u00e9misses impliquent ensemble la conclusion."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -11996,60 +11954,18 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "questionFormat": "standard"
   },
   {
-    "id": 1272,
-    "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
-    "concept": "soundness-definition",
-    "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
-    "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
-    ],
-    "correct_option_index": 0,
-    "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
-    "detailedExplanationBeginner": "Logique + V\u00e9rit\u00e9.",
-    "detailedExplanationIntermediate": "Deux crit\u00e8res : validit\u00e9 et v\u00e9rit\u00e9 mat\u00e9rielle.",
-    "detailedExplanationExpert": "Valide \u2227 V\u00e9rit\u00e9(P).",
-    "questionFormat": "standard"
-  },
-  {
-    "id": 1273,
-    "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
-    "concept": "soundness-definition",
-    "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
-    "question": "Quelle caract\u00e9risation correspond \u00e0 ce que les logiciens appellent un argument \u00ab sain \u00bb ?",
-    "options": [
-      "Forme valide + pr\u00e9misses factuellement vraies.",
-      "Forme valide seulement, quelle que soit la v\u00e9rit\u00e9 des pr\u00e9misses.",
-      "Pr\u00e9misses vraies seulement, m\u00eame si le sch\u00e9ma de raisonnement est mauvais.",
-      "Tout argument qui para\u00eet convaincant en pratique."
-    ],
-    "correct_option_index": 0,
-    "explanation": "La solidit\u00e9 exige \u00e0 la fois une forme valide et des pr\u00e9misses vraies.",
-    "detailedExplanationBeginner": "Pas seulement une bonne forme, mais aussi des pr\u00e9misses correctes.",
-    "detailedExplanationIntermediate": "Combine validit\u00e9 d\u00e9ductive et v\u00e9rit\u00e9 mat\u00e9rielle des pr\u00e9misses.",
-    "detailedExplanationExpert": "Valide \u2227 V\u00e9rit\u00e9(P) comme condition de solidit\u00e9.",
-    "questionFormat": "standard"
-  },
-  {
     "id": 1274,
     "level": 0,
     "persona_stage": PersonaStage.TADPOLE,
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Note de tri : la r\u00e8gle th\u00e9rapeutique est appliqu\u00e9e correctement et les faits sont exacts. Cela illustre :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Un raisonnement sain.",
+      "La validit\u00e9 sans v\u00e9rit\u00e9.",
+      "Un pur appel \u00e9motionnel.",
+      "Un sch\u00e9ma invalide avec des faits vrais."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12065,12 +11981,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "La correction exclut quelle possibilit\u00e9 ?",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Un raisonnement valide \u00e0 partir de fausses pr\u00e9misses pr\u00e9sent\u00e9 comme d\u00e9cisif.",
+      "Un raisonnement valide \u00e0 partir de pr\u00e9misses vraies.",
+      "Des pr\u00e9misses vraies avec une forme valide.",
+      "Une conclusion vraie par inf\u00e9rence valide."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12086,12 +12002,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Un argument peut \u00eatre valide mais non sain. Ce que la correction ajoute :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "La v\u00e9rit\u00e9 r\u00e9elle des pr\u00e9misses.",
+      "Une voix plus forte.",
+      "Plus d'exemples.",
+      "Un titre astucieux."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12107,12 +12023,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "En une ligne : la correction exige la bonne forme et :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Les bons faits dans les pr\u00e9misses.",
+      "Le bon public.",
+      "La bonne police de caract\u00e8res.",
+      "La bonne intuition."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12128,12 +12044,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Pourquoi se soucier de la correction, pas seulement de la validit\u00e9 ?",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "La validit\u00e9 seule peut reposer sur de fausses pr\u00e9misses.",
+      "La correction ignore la v\u00e9rit\u00e9.",
+      "La validit\u00e9 est plus facile, donc elle suffit.",
+      "La correction n'est qu'une question de style."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12149,12 +12065,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Un podcast dit qu'un argument est \u00ab sain \u00bb. Les auditeurs attentifs entendent :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Une structure valide avec des pr\u00e9misses vraies.",
+      "Seulement de l'assurance.",
+      "Seulement de l'\u00e9motion.",
+      "Seulement de la popularit\u00e9."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12170,12 +12086,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Associez : \u00ab toutes les pr\u00e9misses vraies \u00bb + \u00ab forme valide \u00bb =",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Argument sain.",
+      "Argument invalide.",
+      "Seulement la force inductive.",
+      "Une opinion."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12191,12 +12107,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Qu'est-ce qui ruine la correction imm\u00e9diatement ?",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Toute pr\u00e9misse fausse dans l'ensemble de soutien.",
+      "Une conclusion longue.",
+      "Un ton ennuyeux.",
+      "Un vocabulaire technique."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12212,12 +12128,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "La correction concerne :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "La justesse de la logique et des faits.",
+      "La bonne ambiance.",
+      "Les applaudissements.",
+      "Un texte court."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12233,12 +12149,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Un \u00e9tudiant dit : \u00ab C'est valide, donc c'est sain. \u00bb L'erreur :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "La validit\u00e9 ne garantit pas des pr\u00e9misses vraies.",
+      "La validit\u00e9 est impossible.",
+      "La correction ignore les pr\u00e9misses.",
+      "La v\u00e9rit\u00e9 n'a pas d'importance."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12254,12 +12170,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Compl\u00e9tez : pas de pr\u00e9misse fausse + sch\u00e9ma valide \u21d2",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Argument sain (et conclusion vraie, la validit\u00e9 donn\u00e9e).",
+      "Argument invalide.",
+      "Une opinion pure.",
+      "Un tour rh\u00e9torique."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12275,12 +12191,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Rapport d'ing\u00e9nierie : les calculs suivent le bon th\u00e9or\u00e8me, mais une valeur mesur\u00e9e est mal saisie. La preuve est :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Valide mais non saine.",
+      "Saine.",
+      "Ni valide ni saine.",
+      "Saine si la faute est petite."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12296,12 +12212,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "La correction est plus stricte que la validit\u00e9 comme un repas sain est plus strict qu'",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Une recette jolie sur le papier mais avec des ingr\u00e9dients avari\u00e9s.",
+      "Une recette avec seulement des ingr\u00e9dients frais.",
+      "Un restaurant populaire.",
+      "Un restaurant rapide."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12317,12 +12233,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Le meilleur portrait d'un argument valide mais non sain :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Une forme logique correcte avec au moins une pr\u00e9misse fausse.",
+      "Une conclusion n\u00e9cessairement fausse.",
+      "Pas de pr\u00e9misses.",
+      "Pas de conclusion."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12338,12 +12254,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Quand les philosophes disent qu'un argument est sain, ils ne veulent pas dire seulement :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Qu'il est persuasif ou largement cru.",
+      "Qu'il a des pr\u00e9misses vraies et une forme valide.",
+      "Qu'il est d\u00e9ductivement valide.",
+      "Qu'il m\u00e8ne \u00e0 une conclusion vraie."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12359,12 +12275,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Les pr\u00e9misses d'un argument sain sont :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Vraies dans le monde r\u00e9el, pas seulement suppos\u00e9es pour un exercice.",
+      "Suppos\u00e9es vraies pour une contradiction.",
+      "Fausses mais plausibles.",
+      "Vraies seulement dans la fiction."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12380,12 +12296,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "La validit\u00e9 est la serrure ; la correction v\u00e9rifie aussi :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Si les cl\u00e9s (pr\u00e9misses) sont r\u00e9elles.",
+      "Si la serrure brille.",
+      "Si les gens aiment la serrure.",
+      "Si la serrure a une marque."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12401,12 +12317,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Si vous r\u00e9futez une pr\u00e9misse, vous montrez que l'argument est :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Non sain (peut-\u00eatre encore valide).",
+      "Sain.",
+      "Invalide automatiquement.",
+      "Vide sur le plan \u00e9motionnel."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12422,12 +12338,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Correction \u2261",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Valide \u2227 pr\u00e9misses vraies.",
+      "Valide seulement.",
+      "Pr\u00e9misses vraies seulement.",
+      "Convaincant seulement."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12443,12 +12359,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Un argument sain \u00e0 conclusion controvers\u00e9e exige encore :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Des pr\u00e9misses vraies et une forme valide \u2014 la controverse ne suffit pas.",
+      "Que tout le monde soit d'accord.",
+      "Que personne ne pose de questions.",
+      "Que la conclusion soit populaire."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12464,12 +12380,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Quel couple suffit pour la correction ?",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Argument valide + toutes les pr\u00e9misses vraies.",
+      "Argument valide + pr\u00e9misses populaires.",
+      "Pr\u00e9misses vraies + sch\u00e9ma fallacieux.",
+      "\u00c9motion + statistiques."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12485,12 +12401,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Contrairement \u00e0 la seule validit\u00e9, la correction ancre l'argument dans :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "La v\u00e9rit\u00e9 r\u00e9elle de ses pr\u00e9misses.",
+      "La longueur r\u00e9elle de ses pr\u00e9misses.",
+      "La c\u00e9l\u00e9brit\u00e9 r\u00e9elle de son auteur.",
+      "L'humeur r\u00e9elle de la salle."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12506,12 +12422,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Un critique dit : \u00ab Votre logique est bonne ; vos faits ne le sont pas. \u00bb Il attaque :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "La correction (v\u00e9rit\u00e9 des pr\u00e9misses), tout en accordant la validit\u00e9.",
+      "La validit\u00e9 seulement.",
+      "Le choix de police.",
+      "Le ton de la conclusion."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12527,12 +12443,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "En bref : la correction demande \u00ab est-ce que \u00e7a suit ? \u00bb et :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "\u00ab Les points de d\u00e9part sont-ils vrais ? \u00bb",
+      "\u00ab Est-ce court ? \u00bb",
+      "\u00ab Est-ce fort ? \u00bb",
+      "\u00ab Est-ce nouveau ? \u00bb"
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12548,12 +12464,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Quelle recette m\u00e8ne \u00e0 la correction ?",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "V\u00e9rifier d'abord la validit\u00e9, puis chaque pr\u00e9misse dans le monde.",
+      "D'abord l'ambiance.",
+      "D'abord la popularit\u00e9.",
+      "D'abord la longueur."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12569,12 +12485,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "Si les pr\u00e9misses sont vraies et l'argument valide, l'argument est :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "Sain.",
+      "Invalide.",
+      "Purement \u00e9motionnel.",
+      "Purement rh\u00e9torique."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12590,12 +12506,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "concept": "soundness-definition",
     "difficulty": 1,
     "subLevel": SubLevel.EXPERT,
-    "question": "Un argument \u00ab SAIN \u00bb est :",
+    "question": "La correction comble l'\u00e9cart entre \u00ab bonne forme \u00bb et :",
     "options": [
-      "Valide + Pr\u00e9misses vraies.",
-      "Juste valide.",
-      "Juste vrai.",
-      "Convaincant."
+      "\u00ab contenu vrai \u00bb dans les pr\u00e9misses.",
+      "\u00ab bon marketing \u00bb.",
+      "\u00ab bonne chance \u00bb.",
+      "\u00ab bon go\u00fbt \u00bb."
     ],
     "correct_option_index": 0,
     "explanation": "Sant\u00e9 = Validit\u00e9 + V\u00e9rit\u00e9.",
@@ -12603,5 +12519,5 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "detailedExplanationIntermediate": "Deux crit\u00e8res : validit\u00e9 et v\u00e9rit\u00e9 mat\u00e9rielle.",
     "detailedExplanationExpert": "Valide \u2227 V\u00e9rit\u00e9(P).",
     "questionFormat": "standard"
-  }
+  },
 ];
