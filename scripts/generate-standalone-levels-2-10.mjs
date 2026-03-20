@@ -94,160 +94,194 @@ function extractScenario(q) {
   return t.length > 0 ? t : q.replace(/^[^\n]+\n\n/, '').trim();
 }
 
-const LETTERS = ['A', 'B', 'C', 'D'];
-
 function tsEscape(s) {
   return String(s).replace(/\\/g, '\\\\').replace(/`/g, '\\`').replace(/\$\{/g, '\\${');
 }
 
-const wrongIntroEn = [
-  (w, c) =>
-    `**${w}** — a different error family than what this passage foregrounds; the bank’s gloss for **${c}** is the better match.`,
-  (w, c) =>
-    `**${w}** — tempting if you focus on tone, but the **dominant** flaw here tracks **${c}** instead.`,
-  (w, c) =>
-    `**${w}** — does not capture the main argumentative move the question targets (choose **${c}**).`,
-];
+/** Layperson in-depth: only the named fallacy—no multiple-choice comparison. */
+function mechClause(expl) {
+  const t = expl.trim();
+  if (!t) return 'the reasoning slips in the way described above';
+  const lower = t.charAt(0).toLowerCase() + t.slice(1);
+  return lower.endsWith('.') ? lower.slice(0, -1) : lower;
+}
 
-const wrongIntroFr = [
-  (w, c) =>
-    `**${w}** — autre famille d’erreurs que le geste mis en avant ici ; la banque pointe plutôt **${c}**.`,
-  (w, c) =>
-    `**${w}** — peut séduire si on regarde le ton, mais le défaut **central** suit plutôt **${c}**.`,
-  (w, c) =>
-    `**${w}** — ne capte pas le geste argumentatif principal visé par l’énoncé (**${c}**).`,
-];
+function examplesEn(id, name, expl) {
+  const m = mechClause(expl);
+  const cap = m.charAt(0).toUpperCase() + m.slice(1);
+  const settings = [
+    'a policy or workplace discussion',
+    'a health or habits story',
+    'sports or business results',
+    'school grades or test scores',
+    'a family argument',
+    'a news headline or social post',
+  ];
+  const openers = [
+    (s) => `**Setting:** ${s}. **What goes wrong:** ${cap}.`,
+    (s) => `Imagine ${s}. The slip is the same: ${m}.`,
+    (s) => `Picture ${s}. People often reason as if ${m}.`,
+    (s) => `In ${s}, watch for this pattern: ${cap}.`,
+    (s) => `Another everyday spot: ${s}. ${cap}.`,
+  ];
+  const lines = [];
+  for (let k = 0; k < 5; k++) {
+    const s = settings[(id + k * 2) % settings.length];
+    const fn = openers[(id + k) % openers.length];
+    lines.push(`- **Example ${k + 1}:** ${fn(s)}`);
+  }
+  return lines;
+}
+
+function examplesFr(id, name, expl) {
+  const m = mechClause(expl);
+  const cap = m.charAt(0).toUpperCase() + m.slice(1);
+  const settings = [
+    'un débat sur une politique ou au travail',
+    'un récit sur la santé ou les habitudes',
+    'des résultats sportifs ou d’entreprise',
+    'des notes ou examens',
+    'une discussion en famille',
+    'un titre de presse ou un fil sur les réseaux',
+  ];
+  const openers = [
+    (s) => `**Contexte :** ${s}. **Ce qui cloche :** ${cap}.`,
+    (s) => `Imaginez ${s}. C’est la même erreur : ${m}.`,
+    (s) => `Pensez à ${s}. Souvent, on raisonne comme si ${m}.`,
+    (s) => `Dans ${s}, repérez ce schéma : ${cap}.`,
+    (s) => `Autre situation courante : ${s}. ${cap}.`,
+  ];
+  const lines = [];
+  for (let k = 0; k < 5; k++) {
+    const s = settings[(id + k * 2) % settings.length];
+    const fn = openers[(id + k) % openers.length];
+    lines.push(`- **Exemple ${k + 1} :** ${fn(s)}`);
+  }
+  return lines;
+}
 
 function buildEn(id, q) {
   const scenario = extractScenario(q.question);
-  const correctOpt = q.options[q.correct];
+  const name = q.options[q.correct];
   const expl = q.explanation;
-  const lines = q.options.map((opt, i) => {
-    const L = LETTERS[i];
-    if (i === q.correct) {
-      return `• (${L}) **${opt}** — **Correct:** matches the bank’s short diagnosis: ${expl}`;
-    }
-    const fn = wrongIntroEn[(id + i) % wrongIntroEn.length];
-    return `• (${L}) ${fn(opt, correctOpt)}`;
-  });
+  const ex = examplesEn(id, name, expl);
 
-  const beginner = `In-depth (Beginner) — identify the fallacy (ID ${id})
+  const capExplain = expl.trim().endsWith('.') ? expl.trim() : `${expl.trim()}.`;
 
-What this question asks
-Pick the **fallacy label** that best matches the **dominant flawed pattern** in the passage.
+  const beginner = `## ${name} — in-depth (Beginner)
 
-Passage (this card)
-« ${scenario} »
-
-Correct answer (index **${q.correct}**)
-**"${correctOpt}"**
-
-Bank short explanation
+**What this is, in plain English**  
 ${expl}
 
-Walk the options
-${lines.join('\n')}`;
+**The example you’re looking at**  
+« ${scenario} »  
 
-  const intermediate = `In-depth (Intermediate) — identify the fallacy
+**Why this is ${name}**  
+${capExplain} That is what this label is pointing to in the passage above.
 
-Goal
-Map the excerpt to **one** named pattern—the one the question writers treat as **primary**.
+**Takeaway**  
+${expl}`;
 
-Steps
-1. **Strip** setup (“Identify…”) and read the quoted scenario as an argument move.
-2. Ask what is being used as a **reason** (or dodge): character attack, tradition, popularity, authority, presupposition in a question, etc.
-3. Match that move to **${correctOpt}** using the bank gloss: ${expl}
-4. Treat other labels as **near misses** unless the text clearly instantiates them.
+  const intermediate = `## ${name} — in-depth (Intermediate)
 
-This excerpt
-« ${scenario.slice(0, 600)}${scenario.length > 600 ? '…' : ''} »
+**What this is, in plain English**  
+${expl}
 
-Takeaway
-On this card, **${correctOpt}** is the tightest label among the four.`;
+**This example**  
+« ${scenario} »  
 
-  const expert = `In-depth (Expert) — identify the fallacy
+The passage shows **${name}** in action: ${mechClause(expl)}.
 
-Logical target
-**${correctOpt}** — ${expl}
+**More examples (same fallacy only)**  
+${ex.slice(0, 3).join('\n')}
 
-Passage focus
-« ${scenario.slice(0, 500)}${scenario.length > 500 ? '…' : ''} »
+**In one sentence**  
+${name} is the label for reasoning that fits: ${expl}`;
 
-Distractor logic
-Wrong answers name **adjacent** fallacies or cognitive shortcuts; the exam asks which label **best** describes the mechanism on display, not every possible weakness in the text.
+  const expert = `## ${name} — in-depth (Expert)
 
-Concept tag (bank)
-${q.concept}
+**Definition**  
+${expl}
 
-Pedagogical note
-When multiple flaws could be narrated, choose the option that matches the **bank explanation** and the **center of gravity** of the passage. ID ${id} — variance seed ${id % 7}.`;
+**Applied to this passage**  
+« ${scenario.slice(0, 700)}${scenario.length > 700 ? '…' : ''} »  
+
+Here, **${name}** is the right name because ${mechClause(expl)}.
+
+**More examples (same fallacy only)**  
+${ex.join('\n')}
+
+**Rules and checks (useful habits)**  
+- **Anchor:** Start from the bank definition—**${name}** means ${expl}
+- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
+- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
+- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
+
+**Topic (bank)**  
+${q.concept}`;
 
   return { beginner, intermediate, expert };
 }
 
 function buildFr(id, q) {
   const scenario = extractScenario(q.question);
-  const correctOpt = q.options[q.correct];
+  const name = q.options[q.correct];
   const expl = q.explanation;
-  const lines = q.options.map((opt, i) => {
-    const L = LETTERS[i];
-    if (i === q.correct) {
-      return `• (${L}) **${opt}** — **Correct :** correspond à la formulation courte de la banque : ${expl}`;
-    }
-    const fn = wrongIntroFr[(id + i) % wrongIntroFr.length];
-    return `• (${L}) ${fn(opt, correctOpt)}`;
-  });
+  const ex = examplesFr(id, name, expl);
 
-  const beginner = `Approfondi (Débutant) — repérer la fallacie (ID ${id})
+  const capExplainFr = expl.trim().endsWith('.') ? expl.trim() : `${expl.trim()}.`;
 
-Ce que demande la question
-Choisir **l’étiquette** qui correspond le mieux au **geste argumentatif principal** dans le passage.
+  const beginner = `## ${name} — approfondi (Débutant)
 
-Passage (cette carte)
-« ${scenario} »
-
-Bonne réponse (index **${q.correct}**)
-**« ${correctOpt} »**
-
-Formulation courte (banque)
+**En termes simples**  
 ${expl}
 
-Options
-${lines.join('\n')}`;
+**L’exemple affiché**  
+« ${scenario} »  
 
-  const intermediate = `Approfondi (Intermédiaire) — repérer la fallacie
+**Pourquoi c’est bien ${name}**  
+${capExplainFr} C’est ce que ce libellé vise dans le passage ci-dessus.
 
-Objectif
-Relier l’extrait à **un** schéma nommé — celui que les auteurs traitent comme **dominant**.
+**À retenir**  
+${expl}`;
 
-Étapes
-1. Lire le scénario cité comme un **mouvement** argumentatif.
-2. Demander ce qui sert de **raison** (ou d’esquive) : personne, tradition, majorité, autorité, présupposé dans une question, etc.
-3. Rapprocher ce geste de **${correctOpt}** avec la glose banque : ${expl}
-4. Traiter les autres étiquettes comme **proches** seulement si le texte les instancie clairement.
+  const intermediate = `## ${name} — approfondi (Intermédiaire)
 
-Extrait
-« ${scenario.slice(0, 600)}${scenario.length > 600 ? '…' : ''} »
+**En termes simples**  
+${expl}
 
-Synthèse
-Ici, **${correctOpt}** est l’étiquette la plus serrée parmi les quatre.`;
+**Cet exemple**  
+« ${scenario} »  
 
-  const expert = `Approfondi (Expert) — repérer la fallacie
+Le passage montre **${name}** : ${mechClause(expl)}.
 
-Cible logique
-**${correctOpt}** — ${expl}
+**Autres exemples (même erreur seulement)**  
+${ex.slice(0, 3).join('\n')}
 
-Focus du passage
-« ${scenario.slice(0, 500)}${scenario.length > 500 ? '…' : ''} »
+**En une phrase**  
+**${name}**, c’est quand le raisonnement correspond à : ${expl}`;
 
-Logique des distracteurs
-Les mauvaises réponses nomment des **voisins** (biais, autres sophismes) ; la question demande le libellé qui décrit le **mécanisme** mis en avant, pas toute faiblesse imaginable.
+  const expert = `## ${name} — approfondi (Expert)
 
-Étiquette concept (banque)
-${q.concept}
+**Définition**  
+${expl}
 
-Note pédagogique
-Si plusieurs analyses sont possibles, retenez celle qui **maximise** l’alignement avec la **formulation courte** de la banque et le **centre de gravité** du texte. ID ${id}.`;
+**Appliqué à ce passage**  
+« ${scenario.slice(0, 700)}${scenario.length > 700 ? '…' : ''} »  
+
+Ici, **${name}** convient parce que ${mechClause(expl)}.
+
+**Autres exemples (même erreur seulement)**  
+${ex.join('\n')}
+
+**Règles et repères**  
+- **Ancrage :** repartir de la définition—**${name}**, c’est ${expl}
+- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
+- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
+- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
+
+**Thème (banque)**  
+${q.concept}`;
 
   return { beginner, intermediate, expert };
 }
@@ -282,6 +316,8 @@ const header = `/**
  *
  * Progress: see \`/task.md\` at repo root.
  * Generated by scripts/generate-standalone-levels-2-10.mjs — regenerate if bank text changes.
+ * Pedagogy: layperson text focused on the named fallacy only (no walkthrough of wrong answer choices);
+ * Intermediate/Expert add more examples of the same fallacy plus rules at Expert.
  */
 
 import type { StandaloneInDepthLevels } from './level0StandaloneInDepth';
