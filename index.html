@@ -31,67 +31,6 @@
 
     <link rel="apple-touch-icon" sizes="180x180" href="./icons/icon-180.png">
     <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png">
-
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap');
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #0f172a;
-            color: #f8fafc;
-            overscroll-behavior-y: contain;
-        }
-        .code-font {
-            font-family: 'Fira Code', monospace;
-        }
-        .glass {
-            background: rgba(30, 41, 59, 0.7);
-            backdrop-filter: blur(12px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-        }
-        /* Flags/Commands code blocks: never all green; default text slate, selection neutral */
-        .flags-code-block,
-        .flags-code-block pre,
-        .flags-code-block code {
-            color: #cbd5e1 !important; /* slate-300 fallback */
-        }
-        .flags-code-block .token.comment { color: hsl(0, 0%, 50%) !important; }
-        .flags-code-block ::selection {
-            background: rgba(255, 255, 255, 0.2);
-            color: inherit;
-        }
-        .evolution-gradient {
-            background: linear-gradient(135deg, #10b981 0%, #059669 100%);
-        }
-        /* Mobile specific adjustments */
-        @media (max-width: 640px) {
-            .container {
-                padding-left: 1rem;
-                padding-right: 1rem;
-            }
-        }
-        /* Force mobile layout in Cursor preview if viewport is large */
-        @media (min-width: 641px) and (max-width: 800px) {
-            body {
-                max-width: 390px;
-                margin: 0 auto;
-            }
-        }
-        /* Falling stars celebration animation */
-        @keyframes fall-star {
-            0% { transform: translateY(0) rotate(0deg); opacity: 0.9; }
-            100% { transform: translateY(100vh) rotate(360deg); opacity: 0.2; }
-        }
-        .animate-fall-star {
-            animation: fall-star linear infinite;
-        }
-        /* Light mode (Settings → gear → Light mode toggle) */
-        [data-theme="light"] {
-            background-color: #f1f5f9 !important;
-            color: #1e293b;
-        }
-    </style>
 </head>
 <body>
     <div id="root"></div>

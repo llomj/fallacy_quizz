@@ -57,77 +57,14 @@ export default defineConfig(({ mode }) => {
         },
         includeAssets: ['icons/*'],
         workbox: {
-          globPatterns: ['**/*.{js,css,html,ico,png,svg,json}'],
+          globPatterns: ['**/*.{js,css,html,ico,png,svg,json,woff2,woff}'],
           maximumFileSizeToCacheInBytes: 15 * 1024 * 1024, // detailed-explanations chunk can exceed 10MB (standalone in-depth maps)
           cleanupOutdatedCaches: true,
           sourcemap: true,
           navigateFallback: startUrl,
           navigateFallbackAllowlist: [/^(?!\/__).*/],
-          runtimeCaching: [
-            {
-              urlPattern: /^https:\/\/cdn\.tailwindcss\.com/i,
-              handler: 'CacheFirst',
-              options: {
-                cacheName: 'tailwindcss-cache',
-                expiration: {
-                  maxEntries: 10,
-                  maxAgeSeconds: 60 * 60 * 24 * 365
-                },
-                cacheableResponse: {
-                  statuses: [0, 200]
-                }
-              }
-            },
-            {
-              urlPattern: /^https:\/\/cdnjs\.cloudflare\.com/i,
-              handler: 'CacheFirst',
-              options: {
-                cacheName: 'cdnjs-cache',
-                expiration: {
-                  maxEntries: 10,
-                  maxAgeSeconds: 60 * 60 * 24 * 365
-                },
-                cacheableResponse: {
-                  statuses: [0, 200]
-                }
-              }
-            },
-            {
-              urlPattern: /^https:\/\/fonts\.googleapis\.com/i,
-              handler: 'StaleWhileRevalidate',
-              options: {
-                cacheName: 'google-fonts-stylesheets',
-              }
-            },
-            {
-              urlPattern: /^https:\/\/fonts\.gstatic\.com/i,
-              handler: 'CacheFirst',
-              options: {
-                cacheName: 'google-fonts-webfonts',
-                expiration: {
-                  maxEntries: 30,
-                  maxAgeSeconds: 60 * 60 * 24 * 365
-                },
-                cacheableResponse: {
-                  statuses: [0, 200]
-                }
-              }
-            },
-            {
-              urlPattern: /^https:\/\/cdn-icons-png\.flaticon\.com/i,
-              handler: 'CacheFirst',
-              options: {
-                cacheName: 'flaticon-cache',
-                expiration: {
-                  maxEntries: 10,
-                  maxAgeSeconds: 60 * 60 * 24 * 365
-                },
-                cacheableResponse: {
-                  statuses: [0, 200]
-                }
-              }
-            }
-          ]
+          // All UI assets (CSS, fonts, icons) are bundled — precache only; no CDN runtime deps.
+          runtimeCaching: []
         }
       })
     ],

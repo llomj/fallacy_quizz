@@ -1,0 +1,85 @@
+@import '@fontsource/inter/300.css';
+@import '@fontsource/inter/400.css';
+@import '@fontsource/inter/500.css';
+@import '@fontsource/inter/600.css';
+@import '@fontsource/inter/700.css';
+@import '@fontsource/fira-code/400.css';
+@import '@fontsource/fira-code/500.css';
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #0f172a;
+  color: #f8fafc;
+  overscroll-behavior-y: contain;
+}
+
+.code-font {
+  font-family: 'Fira Code', monospace;
+}
+
+.glass {
+  background: rgba(30, 41, 59, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Flags/Commands code blocks: never all green; default text slate, selection neutral */
+.flags-code-block,
+.flags-code-block pre,
+.flags-code-block code {
+  color: #cbd5e1 !important; /* slate-300 fallback */
+}
+
+.flags-code-block .token.comment {
+  color: hsl(0, 0%, 50%) !important;
+}
+
+.flags-code-block ::selection {
+  background: rgba(255, 255, 255, 0.2);
+  color: inherit;
+}
+
+.evolution-gradient {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+}
+
+@media (max-width: 640px) {
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+/* Force mobile layout in Cursor preview if viewport is large */
+@media (min-width: 641px) and (max-width: 800px) {
+  body {
+    max-width: 390px;
+    margin: 0 auto;
+  }
+}
+
+@keyframes fall-star {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 0.9;
+  }
+  100% {
+    transform: translateY(100vh) rotate(360deg);
+    opacity: 0.2;
+  }
+}
+
+.animate-fall-star {
+  animation: fall-star linear infinite;
+}
+
+/* Light mode (Settings → gear → Light mode toggle) */
+[data-theme='light'] {
+  background-color: #f1f5f9 !important;
+  color: #1e293b;
+}
