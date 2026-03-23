@@ -834,9 +834,10 @@ export const QuizView: React.FC<QuizViewProps> = ({
   const { question: displayQuestion, options: optionsAfterDisplay } = bankMatchesUi
     ? getQuestionDisplayNativeBank(currentQuestion.question, currentQuestion.options)
     : getQuestionDisplay(language, currentQuestion.question, currentQuestion.options);
-  // Native bank path skips translateOptionText; FR bank rows often still use English fallacy names.
+  // French mode: always map labels through fallacyOptionTranslations (idempotent if already FR).
+  // getQuestionDisplay already translates once for the non-native path; a second pass is safe.
   const translatedOptions =
-    language === 'fr' && bankMatchesUi
+    language === 'fr'
       ? optionsAfterDisplay.map((opt) => translateOptionText(opt, 'fr'))
       : optionsAfterDisplay;
   const displayOptions = balanceDisplayedOptionLengths(
