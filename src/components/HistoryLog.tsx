@@ -2,7 +2,8 @@ import React, { useState } from 'react';
 import { QuestionAttempt } from '../types';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
-import { translateQuestionText, getQuestionDisplay } from '../utils/translateQuestion';
+import { translateQuestionText, translateOptionText, getQuestionDisplay } from '../utils/translateQuestion';
+import { displayStoredQuizOptionLabel } from '../utils/quizStoredOptionDisplay';
 import { getTranslatedShortExplanation, isLogicalFallaciesAppQuestionId } from '../data/shortExplanationsTranslations';
 import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
 import { getQuestionBank } from '../questionsBank';
@@ -159,13 +160,28 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
               translated?.question ?? translateQuestionText(attempt.question, language);
             const displayCorrectAnswer =
               bankQuestion && translated?.options.length
-                ? translated.options[bankQuestion.options.indexOf(attempt.correctOption)] ?? attempt.correctOption
-                : attempt.correctOption;
-            const selectedIdx = bankQuestion ? bankQuestion.options.indexOf(attempt.selectedOption) : -1;
+                ? displayStoredQuizOptionLabel(
+                    language,
+                    attempt.id,
+                    attempt.correctOption,
+                    translated.options,
+                    bankQuestion
+                  )
+                : language === 'fr'
+                  ? translateOptionText(attempt.correctOption, 'fr')
+                  : attempt.correctOption;
             const displaySelectedOption =
-              selectedIdx >= 0 && translated?.options.length
-                ? translated.options[selectedIdx] ?? attempt.selectedOption
-                : attempt.selectedOption;
+              bankQuestion && translated?.options.length
+                ? displayStoredQuizOptionLabel(
+                    language,
+                    attempt.id,
+                    attempt.selectedOption,
+                    translated.options,
+                    bankQuestion
+                  )
+                : language === 'fr'
+                  ? translateOptionText(attempt.selectedOption, 'fr')
+                  : attempt.selectedOption;
             const shortExplanation = getTranslatedShortExplanation(attempt.id, attempt.explanation, language);
             const detailedExplanation = getQuestionDetailedExplanation(attempt.id);
             const shortExplanationLooksLikeCode =

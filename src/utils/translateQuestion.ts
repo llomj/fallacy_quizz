@@ -1242,24 +1242,33 @@ export const stripFallacyInstructionPrefix = (q: string): string => {
   return rest || q;
 };
 
-/**
- * Returns question and options in the requested language. When language is 'fr',
- * translates question and each option to French so the entire logic/quiz panel is in French.
- * For logical fallacy questions, the "Identify the logical fallacy in this example..." prefix
- * is stripped so only the example argument is shown.
- */
+/** Two FR passes on MC options: map EN fallacy names; second pass is idempotent for already-FR strings. */
+function finalizeMcOptionsForFrench(options: string[]): string[] {
+  const once = options.map((opt) => translateOptionText(opt, 'fr'));
+  return once.map((opt) => translateOptionText(opt, 'fr'));
+}
+
 /**
  * When the loaded question bank already matches the UI language (native EN or FR),
- * use this — no EN→FR translation pass (avoids mangling French bank text).
+ * strip the instruction prefix; in French mode still map option labels through fallacy FR lexicon.
  */
 export const getQuestionDisplayNativeBank = (
   question: string,
-  options: string[]
+  options: string[],
+  language: string
 ): { question: string; options: string[] } => {
   const questionOnly = stripFallacyInstructionPrefix(question);
-  return { question: questionOnly, options };
+  if (language !== 'fr') {
+    return { question: questionOnly, options };
+  }
+  return { question: questionOnly, options: finalizeMcOptionsForFrench(options) };
 };
 
+/**
+ * Returns question and options in the requested language. When language is 'fr',
+ * translates question and each option to French so the entire logic/quiz panel is in French.
+ * For logical fallacy questions, the instruction prefix is stripped so only the example argument is shown.
+ */
 export const getQuestionDisplay = (
   language: string,
   question: string,
@@ -1271,6 +1280,6 @@ export const getQuestionDisplay = (
   }
   return {
     question: translateQuestionText(questionOnly, 'fr'),
-    options: options.map((opt) => translateOptionText(opt, 'fr')),
+    options: finalizeMcOptionsForFrench(options)
   };
 };

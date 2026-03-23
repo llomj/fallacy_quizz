@@ -7,12 +7,7 @@ import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 import { RandomModeStatRow } from './RandomModeStatRow';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
-import {
-  translateQuestionText,
-  translateOptionText,
-  getQuestionDisplay,
-  getQuestionDisplayNativeBank
-} from '../utils/translateQuestion';
+import { translateQuestionText, getQuestionDisplay, getQuestionDisplayNativeBank } from '../utils/translateQuestion';
 import {
   remapQuestionToLanguage,
   mapSelectedIndexAfterRemap,
@@ -831,15 +826,9 @@ export const QuizView: React.FC<QuizViewProps> = ({
 
   const currentQuestion = questions[currentIndex];
   const bankMatchesUi = batchLanguage === language;
-  const { question: displayQuestion, options: optionsAfterDisplay } = bankMatchesUi
-    ? getQuestionDisplayNativeBank(currentQuestion.question, currentQuestion.options)
+  const { question: displayQuestion, options: translatedOptions } = bankMatchesUi
+    ? getQuestionDisplayNativeBank(currentQuestion.question, currentQuestion.options, language)
     : getQuestionDisplay(language, currentQuestion.question, currentQuestion.options);
-  // French mode: always map labels through fallacyOptionTranslations (idempotent if already FR).
-  // getQuestionDisplay already translates once for the non-native path; a second pass is safe.
-  const translatedOptions =
-    language === 'fr'
-      ? optionsAfterDisplay.map((opt) => translateOptionText(opt, 'fr'))
-      : optionsAfterDisplay;
   const displayOptions = balanceDisplayedOptionLengths(
     translatedOptions,
     currentQuestion.correct_option_index,

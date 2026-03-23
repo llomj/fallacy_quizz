@@ -5,7 +5,8 @@ import { getTranslatedShortExplanation, isLogicalFallaciesAppQuestionId } from '
 import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
 import { getQuestionBank, MAX_QUESTION_ID } from '../questionsBank';
 import { formatTranslation } from '../translations';
-import { translateQuestionText, getQuestionDisplay } from '../utils/translateQuestion';
+import { translateQuestionText, translateOptionText, getQuestionDisplay } from '../utils/translateQuestion';
+import { displayStoredQuizOptionLabel } from '../utils/quizStoredOptionDisplay';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
 
@@ -178,8 +179,16 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
               const displayQuestion = translated.question;
               const displayCorrectAnswer =
                 bankQuestion && translated.options.length
-                  ? translated.options[bankQuestion.options.indexOf(entry.correctAnswer)] ?? entry.correctAnswer
-                  : entry.correctAnswer;
+                  ? displayStoredQuizOptionLabel(
+                      language,
+                      entry.id,
+                      entry.correctAnswer,
+                      translated.options,
+                      bankQuestion
+                    )
+                  : language === 'fr'
+                    ? translateOptionText(entry.correctAnswer, 'fr')
+                    : entry.correctAnswer;
               const shortExplanation = getTranslatedShortExplanation(entry.id, entry.explanation, language);
               const detailedExplanation = getQuestionDetailedExplanation(entry.id);
               const shortExplanationLooksLikeCode =

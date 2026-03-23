@@ -615,6 +615,12 @@ const FALLACY_PATTERNS: Array<[RegExp, string]> = [
   [/\bProsecutor's\b/gi, 'Du procureur'],
 ];
 
+const FALLACY_OPTION_KEYS_SORTED = Object.keys(FALLACY_OPTION_FR).sort((a, b) => b.length - a.length);
+
+function normalizeOptionLookupKey(s: string): string {
+  return s.trim().replace(/\s+/g, ' ').normalize('NFKC');
+}
+
 /**
  * Returns the French label for a logical fallacy / bias option.
  * Uses exact map first, then pattern-based fallbacks so every option gets a French version.
@@ -622,6 +628,12 @@ const FALLACY_PATTERNS: Array<[RegExp, string]> = [
 export function getFallacyOptionFrench(english: string): string {
   const trimmed = english.trim();
   if (FALLACY_OPTION_FR[trimmed]) return FALLACY_OPTION_FR[trimmed];
+  const norm = normalizeOptionLookupKey(trimmed);
+  if (FALLACY_OPTION_FR[norm]) return FALLACY_OPTION_FR[norm];
+  const lower = trimmed.toLowerCase();
+  for (const key of FALLACY_OPTION_KEYS_SORTED) {
+    if (key.toLowerCase() === lower) return FALLACY_OPTION_FR[key];
+  }
   let out = trimmed;
   for (const [re, replacement] of FALLACY_PATTERNS) {
     out = out.replace(re, replacement);
@@ -629,7 +641,7 @@ export function getFallacyOptionFrench(english: string): string {
   return out;
 }
 
-const FALLACY_OPTION_KEYS = Object.keys(FALLACY_OPTION_FR).sort((a, b) => b.length - a.length);
+const FALLACY_OPTION_KEYS = FALLACY_OPTION_KEYS_SORTED;
 
 const escapeRegExp = (text: string): string => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
