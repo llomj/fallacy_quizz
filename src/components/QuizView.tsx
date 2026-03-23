@@ -7,7 +7,12 @@ import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 import { RandomModeStatRow } from './RandomModeStatRow';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
-import { translateQuestionText, getQuestionDisplay, getQuestionDisplayNativeBank } from '../utils/translateQuestion';
+import {
+  translateQuestionText,
+  translateOptionText,
+  getQuestionDisplay,
+  getQuestionDisplayNativeBank
+} from '../utils/translateQuestion';
 import {
   remapQuestionToLanguage,
   mapSelectedIndexAfterRemap,
@@ -826,9 +831,14 @@ export const QuizView: React.FC<QuizViewProps> = ({
 
   const currentQuestion = questions[currentIndex];
   const bankMatchesUi = batchLanguage === language;
-  const { question: displayQuestion, options: translatedOptions } = bankMatchesUi
+  const { question: displayQuestion, options: optionsAfterDisplay } = bankMatchesUi
     ? getQuestionDisplayNativeBank(currentQuestion.question, currentQuestion.options)
     : getQuestionDisplay(language, currentQuestion.question, currentQuestion.options);
+  // Native bank path skips translateOptionText; FR bank rows often still use English fallacy names.
+  const translatedOptions =
+    language === 'fr' && bankMatchesUi
+      ? optionsAfterDisplay.map((opt) => translateOptionText(opt, 'fr'))
+      : optionsAfterDisplay;
   const displayOptions = balanceDisplayedOptionLengths(
     translatedOptions,
     currentQuestion.correct_option_index,
