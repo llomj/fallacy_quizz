@@ -19,633 +19,413 @@ export type StandaloneInDepthLevels = {
 /** English — completed IDs tracked in task.md */
 export const LEVEL_0_STANDALONE_EN: Partial<Record<number, StandaloneInDepthLevels>> = {
   1001: {
-    beginner: `In-depth (Beginner) — single-use plastics
+    beginner: `**Single-use plastics**
 
-What this question asks
-You must pick the one statement that is an argument: a main claim plus a reason meant to support it.
+You are looking for one line that gives both a **takeaway** (“we should…”) and a **why** that could convince someone—not just a fact or a mood.
 
-Walk through the options in this scenario
-1. "Single-use plastics are everywhere." — This only describes a situation. It does not say what we should do or why.
-2. "We should ban single-use plastics because they clog oceans." — This gives a recommendation (ban them) and a reason (they harm oceans). That is an argument.
-3. "I dislike grocery bags." — This is a personal feeling, not a reasoned case for a policy.
-4. "Plastic wrap exists in every store." — Again, just a fact, not a supported ought-claim.
+On this card, only one option does that. Saying plastics are “everywhere” or that wrap “exists in every store” just paints the background; it does not argue for any action. Saying you dislike bags is honest, but it is a reaction, not a public reason tied to harm. The line that bans plastics **because** they clog oceans is the only one that uses a consequence as support for a policy. That is what we count as an argument here: a claim you could agree or disagree with, plus something offered in its favor.`,
+    intermediate: `**Single-use plastics**
 
-Why the correct line is the argument
-Only option 2 connects a conclusion (ban) to evidence (ocean harm). That is exactly what “argument” means in logic class: claim + support.`,
-    intermediate: `In-depth (Intermediate) — single-use plastics
+Same skill, wider picture: an argument links a **premise** to a **conclusion** someone might dispute.
 
-Goal
-Recognize the difference between (a) describing the world, (b) stating preferences, and (c) offering a conclusion backed by a premise.
+**On this question**, the ban line does that openly: harm to oceans → reason to ban. The other lines stop at description (“everywhere,” “exists”) or taste (“I dislike…”) without connecting to a “should.”
 
-Step-by-step on this exact prompt
-Step 1 — List what each sentence is doing.
-• Options 1 and 4 report ubiquity or existence. They do not move from facts to a “should.”
-• Option 3 reports an attitude (“I dislike…”). Attitudes can motivate people, but this sentence does not offer a public reason like environmental damage.
-• Option 2 explicitly uses “because”: the ocean-clogging effect is offered as the justification for banning.
+**Different example (not on the card):** “Hospital waste spiked last quarter, so the clinic should separate sharps before pickup.” You might debate whether that fix is enough, but the sentence is still an argument: problem + proposed response. Compare that to “Hospital waste is high”—useful data, but not yet an argument until someone says what ought to change.
 
-Step 2 — Name the parts of the argument in option 2.
-• Conclusion / claim to defend: we ought to ban single-use plastics.
-• Premise / reason: they clog oceans (negative consequence tied to those plastics).
+**Takeaway:** Description and preference are not “bad”; they just are not, by themselves, the kind of structured support this lesson is naming.`,
+    expert: `**Single-use plastics**
 
-Step 3 — Check fit with the question wording.
-The question said “about single-use plastics.” Option 2 is the only line that both takes a stand on policy and ties it to plastics’ effects.
+**Not to be confused with:** Every argument uses factual claims, but a string of facts is not automatically an argument. “Single-use plastics are everywhere” can *feed* an argument once someone adds a norm (“…therefore we should limit them”); alone it is usually classified as **assertion** or **reporting**, not yet a **normative argument**.
 
-Takeaway
-An argument can be weak or strong; here you only judge whether the structure is “claim + supporting reason,” not whether the ban is politically realistic.`,
-    expert: `In-depth (Expert) — single-use plastics
+**Structure (keyed option):** Conclusion = prohibition (or strong policy) on single-use plastics; premise = identifiable harm (ocean pollution). The word “because” marks that the harm is offered as a **reason for** the policy, not as mere background.
 
-Logical target
-Distinguish assertions (declarative sentences) and avowals (reports of mental states) from arguments: sets of propositions where at least one proposition is offered as a reason for another.
-
-Formal sketch (option 2)
-• Let B = “We should ban single-use plastics.”
-• Let O = “They clog oceans” (or: single-use plastics contribute to harmful ocean pollution).
-The surface form is: B, because O. The “because” signals that O is advanced as a non-rhetorical consideration in favor of B.
-
-Why the distractors fail the argument test
-• Existential generalizations (“are everywhere,” “exists”) do not by themselves specify a normative transition; they lack an inferential link to a policy without additional premises (which these options do not supply).
-• Pure preference (“I dislike…”) may explain behavior but does not structure a policy argument unless linked to a harm or principle; the option does not do that work.
-
-Pedagogical note
-Validity and soundness come later; at Level 0 the skill is segmentation: identifying which utterance performs the speech-act of giving reasons for a contested claim. Option 2 is the unique candidate.`,
+**Why the distractors fail:** Ubiquity and existence claims lack a **normative transition**; the dislike option lacks a **public reason** (harm, fairness, law) connecting attitude to policy. Option 2 is the only token that performs the speech-act “here is why we should do this.”`,
   },
 
   1002: {
-    beginner: `In-depth (Beginner) — late bus and the transit app
+    beginner: `**Late bus, transit app**
 
-What this question asks
-Which line gives a reason connected to a fix? That is an argument linking evidence to a recommendation.
+Think of an argument here as: **something going wrong** + **something that should change** because of it.
 
-Walk through the options
-1. "The bus is late every morning, so the transit app needs real-time updates." — The lateness is the problem; updating the app is the proposed solution. Argument.
-2. "Buses should be painted blue." — A suggestion with no reason about lateness or information.
-3. "I like taking the bus." — Preference only.
-4. "The transit app exists." — A fact, not an argument for changing it.
+The morning bus being late every day is the problem; asking the app for **real-time** updates is the proposed fix. That “so” is doing real work: it says better information is the response to unreliable schedules. Painting buses blue, liking transit, or noting that an app exists do not connect the pain point (lateness) to a remedy. Only the first line builds that bridge.`,
+    intermediate: `**Late bus, transit app**
 
-Why option 1 is correct
-It uses a pattern: recurring failure (late bus) supports a concrete remedy (real-time data in the app).`,
-    intermediate: `In-depth (Intermediate) — late bus and the transit app
+**This card** pairs a recurring service failure with a concrete product change (live data). That is a textbook “problem → intervention” shape.
 
-Analysis task
-Separate complaints, bare facts, and reasoned recommendations about the same topic (the bus being late).
+**Different example:** “Wait times in triage doubled this month, so the clinic should add a second nurse at intake.” Same pattern: observed strain → organizational response. You could argue about cost or staffing, but the sentence is still an argument. By contrast, “The clinic has an app for check-in” is just infrastructure trivia until someone says what should change **because** of wait times.
 
-Step-by-step
-Step 1 — Identify the scenario: unreliable morning service and an app that may not show live delays.
-Step 2 — For each option, ask: does it offer a premise about the problem and a conclusion about what to do?
-• Option 1: Premise = daily lateness; conclusion = the app should show real-time updates. The “so” marks the inferential move.
-• Option 2: Color of paint is unrelated to the stated problem; no supporting chain.
-• Option 3: Liking the bus does not address lateness or app behavior.
-• Option 4: Existence of an app is not an argument for upgrading it.
+**Takeaway:** Existence claims and tastes do not argue for a feature; linking a **pattern of failure** to a **targeted change** does.`,
+    expert: `**Late bus, transit app**
 
-Step 3 — Map the argument in option 1 in one line
-Chronic mismatch between schedule and reality → informational fix (live updates) to reduce uncertainty for riders.
+**Not to be confused with:** A **description of a problem** (“the bus is always late”) can be the *start* of an argument, but it is not yet a full argument until a **prescription** is defended. Option 1 supplies both: lateness as premise, real-time updates as conclusion.
 
-Takeaway
-Policy-relevant arguments often pair an observed dysfunction with a targeted intervention; option 1 does exactly that.`,
-    expert: `In-depth (Expert) — late bus and the transit app
+**Reconstruction:** Premise = repeated latency relative to published schedule; conclusion = the app ought to expose real-time information. The warrant is implicit: riders cannot plan around stale data when reality diverges from the timetable.
 
-Conceptual framing
-The question tests recognition of practical reasoning: from a recurring negative experience to a proposed change in an information system.
-
-Argument reconstruction (option 1)
-• Phenomenon: the bus is late every morning (empirical claim about reliability).
-• Prescription: the transit app should provide real-time updates (normative claim about product/service design).
-The connector “so” indicates that the phenomenon is taken as a reason for the prescription—i.e., better information is posited as responsive to the reliability gap.
-
-Distractor analysis
-• Without premises linking aesthetics or existence to punctuality, options 2 and 4 cannot be arguments for fixing lateness.
-• Option 3 is non-cognitive for the public problem: taste does not bear on whether the app’s feature set should change.
-
-Optional critical edge (beyond the MC key)
-A full evaluation would ask whether real-time updates alone solve “late every morning” (operations vs. information). The question only asks which text is an argument, not whether the argument is strong.`,
+**Distractors:** Aesthetic policy (paint) and app **existence** lack inferential linkage to punctuality; enjoyment of riding is **orthogonal** to information design. Strength of the policy case is not graded—only whether the utterance is structured as **reason-giving**.`,
   },
 
   1003: {
-    beginner: `In-depth (Beginner) — campus Wi-Fi
+    beginner: `**Campus Wi-Fi**
 
-What you are looking for
-One sentence that says what is wrong (evidence) and what should be done (conclusion).
+You want the line where **something is broken on this network** and **someone with power should act** because of it.
 
-The options in plain terms
-• "Campus Wi-Fi keeps dropping…" + "…university should add more access points." — Problem + fix = argument.
-• "I hate losing Wi-Fi." — Feeling only.
-• "Wi-Fi exists on campus." — Not an argument for more hardware.
-• "Wireless is better than wired." — A general comparison, not tied to this campus’s drops.
+Dropping connections is the failure; adding access points is the proposed fix. “I hate losing Wi-Fi” vents frustration but does not argue. “Wi-Fi exists” is true and boring. “Wireless is better than wired” is a general slogan—it never mentions your campus’s dropouts. Only the option that moves from **unstable service here** to **more hardware** counts as the kind of argument this level is teaching.`,
+    intermediate: `**Campus Wi-Fi**
 
-Correct choice
-The first option: it links unstable connection to a specific infrastructure response.`,
-    intermediate: `In-depth (Intermediate) — campus Wi-Fi
+**This question** is about tying a **local fault** (drops) to an **institutional remedy** (more APs).
 
-Procedure
-1. Underline the claimed problem in each option.
-2. See if there is a “therefore” style move to an action.
+**Different example:** “The lecture-hall projector keeps overheating, so AV services should replace the lamp before finals week.” Same move: symptom → responsible party → action. Compare to “I hate blurry slides”—a feeling, not an argument for maintenance.
 
-Applying that to this question
-Only the correct option states an ongoing failure mode (connection drops) and ties it to an organizational duty (the university should deploy more access points). That is textbook “problem → remedy” argumentation.
+**Takeaway:** Generic tech opinions do not target the diagnosed problem; the keyed option does.`,
+    expert: `**Campus Wi-Fi**
 
-Step-by-step contrast
-• Hate (option 2): affective state; no institutional proposal.
-• Existence (option 3): ontology; no ought.
-• Generic comparison (option 4): no reference to dropout symptoms on campus.
+**Not to be confused with:** A **generic technology preference** (wireless vs. wired) is not an argument **about this campus’s Wi-Fi** unless it cites the actual failure mode. The keyed option anchors the remedy in **observed dropout**, not in brand loyalty or medium.
 
-Takeaway
-For “which is an argument about X,” the winning line usually names X’s defect and a proportional response.`,
-    expert: `In-depth (Expert) — campus Wi-Fi
+**Structure:** Service-quality premise (intermittent connectivity) → normative conclusion directed at the university (add capacity/coverage via access points). Distractors supply **affect**, **bare existence**, or **abstract comparison** without the premise–conclusion link.
 
-Logical structure
-Let D = “Campus Wi-Fi keeps dropping” (service-quality claim).
-Let A = “The university should add more access points” (action claim).
-The correct option has the form: D; therefore A (or D as support for A).
-
-Burden of the distractors
-They omit either the diagnostic premise specific to this network’s instability or the normative conclusion directed at the institution.
-
-Expert-level caveat (not required to pick the answer)
-Adding APs is one possible remedy; others might include backhaul upgrades or spectrum policy. The question does not require comparing remedies—only recognizing which option constitutes an argument.`,
+**Note:** In real IT, root cause might be backhaul or configuration; the quiz only asks which line **is** an argument, not whether adding APs is the best engineering fix.`,
   },
 
   1004: {
-    beginner: `In-depth (Beginner) — vending machines
+    beginner: `**Vending machines**
 
-Find the line with a reason + a should
-• Empty machines → restock twice daily: that is an argument (shortage as reason for a schedule).
-• "I prefer snacks." — Not about restocking.
-• "Vending machines exist." — Not an argument.
-• "Snacks are better than salads." — Opinion, unrelated to empty machines.
+Empty shelves are the signal; **restocking twice a day** is the response the sentence defends. That is an argument: the emptiness is doing the work of justifying a schedule change.
 
-Correct option
-The one that uses emptiness as the reason to change how often someone refills the machines.`,
-    intermediate: `In-depth (Intermediate) — vending machines
+Preferring snacks, insisting snacks beat salads, or saying machines exist does not explain **why** refill frequency should change. Only the line that starts from **running out** and lands on **how often to restock** matches what the question is asking.`,
+    intermediate: `**Vending machines**
 
-Steps
-1. Situation described: machines run out of stock.
-2. Proposed action: restock twice a day instead of less often.
-3. Implicit link: current restock frequency is insufficient given observed emptiness.
+**Here**, observation (stockouts) supports an operational rule (restock cadence).
 
-Only the correct answer makes that link explicit enough to count as an argument in this quiz’s sense.
+**Different example:** “The printer tray is empty every Monday, so facilities should refill toner on Friday afternoons.” Same structure: recurring empty state → change the maintenance schedule. “I love printing in color” does not argue for toner logistics.
 
-Contrast
-Preferences and bare existence claims do not move from observation to operational policy.`,
-    expert: `In-depth (Expert) — vending machines
+**Takeaway:** Taste and ontology do not operationalize a fix; linking **observed shortage** to **process** does.`,
+    expert: `**Vending machines**
 
-Reconstruction
-Premise: the machines are empty (implies unmet demand or insufficient replenishment).
-Conclusion: adopt a twice-daily restocking policy.
-This is operational reasoning: a state variable (stock level) triggers a process change.
+**Not to be confused with:** Expressing **preference** among foods or acknowledging that machines **exist** does not yet argue for **inventory policy**. The keyed option is **operations-style** reasoning: a stockout pattern warrants a replenishment rule.
 
-Why other options fail
-They do not instantiate the premise–conclusion support relation required to answer “which is an argument about the vending machines on campus.”`,
+**Reconstruction:** Premise = machines are empty (proxy for demand exceeding supply or insufficient service); conclusion = increase restock frequency to twice daily. Other options lack the **support relation** between campus vending conditions and a **prescriptive** schedule.`,
   },
 
   1005: {
-    beginner: `In-depth (Beginner) — exam-week library hours
+    beginner: `**Library hours during finals**
 
-What counts as an argument here
-A reason related to library use during finals, plus a policy about hours.
+The line that wins ties **exam-week crowding** to **longer hours**. Packed stacks during finals are offered as the reason the building should stay open until midnight—that is a policy argument anchored in real demand.
 
-The winning sentence
-"Finals week packs the library, so hours should extend to midnight."
-Crowding during finals supports longer opening hours.
+Loving libraries, praising books, or thinking midnight sounds fun does not give a **finals-specific** reason to extend hours. Only the option that moves from **pressure during exams** to **extend service** fits.`,
+    intermediate: `**Library hours during finals**
 
-Why not the others
-Loving libraries, books on floors, or “midnight is cool” do not give a finals-related reason for extending hours.`,
-    intermediate: `In-depth (Intermediate) — exam-week library hours
+**This card** uses **surge demand** to justify **longer access**.
 
-Step-by-step
-Step 1 — Topic filter: the question asks about exam-week library hours. The answer must speak to demand pressure during that period.
-Step 2 — The correct option cites high occupancy (“packs the library”) as the driver for extended hours.
-Step 3 — Map: high demand during a defined window → extend service window.
+**Different example:** “Storm warnings are up, so the shelter should stay open past the usual closing.” Same pattern: exceptional need in a defined period → temporary extension of service. Compare to “I like community centers”—warmth without a capacity argument.
 
-Distractors skip the inferential bridge from observed crowding to a schedule change.`,
-    expert: `In-depth (Expert) — exam-week library hours
+**Takeaway:** Affective or generic remarks do not license a schedule change; **observed overload during finals** does in the keyed line.`,
+    expert: `**Library hours during finals**
 
-Analysis
-The argument pairs a time-indexed stress on facilities (finals week) with a normative claim about operating hours. Alternatives either ignore exam week or supply no policy consequence.
+**Not to be confused with:** **Sentimental attachment** to libraries or **aesthetic** praise of books is not a **service-capacity** argument. The keyed option is a **peak-load** pattern: time-bounded stress on the facility → adjust hours.
 
-This is a capacity-and-access pattern common in service arguments.`,
+**Structure:** Premise = unusually high occupancy during finals; conclusion = extend closing to midnight (or equivalent). Distractors omit either the **exam-week** pressure or any **actionable** policy move.`,
   },
 
   1006: {
-    beginner: `In-depth (Beginner) — bike lanes at intersections
+    beginner: `**Bike lanes at intersections**
 
-Look for danger + what the city should do
-The correct line says the lane disappears at intersections, riders get pushed into traffic, and the city should finish the lane.
+The argument you want names a **danger** (the lane vanishes, riders get squeezed into traffic) and a **city-level fix** (finish the lane through the intersection).
 
-Other options: fun, paint, or “intersections exist” — none give that safety + infrastructure argument.`,
-    intermediate: `In-depth (Intermediate) — bike lanes at intersections
+Saying bikes are fun, that paint exists, or that intersections exist does not explain **why** the street layout should change. Only the line that connects **broken continuity** to **infrastructure completion** answers the prompt.`,
+    intermediate: `**Bike lanes at intersections**
 
-Structured read
-1. Hazard: lane ends → conflict with motor traffic.
-2. Remedy: complete the lane through the intersection (continuous protected or marked path).
+**Here**, a **design gap** (lane ends) is the premise; **completing the facility** is the conclusion.
 
-Step-by-step elimination
-• “Bikes are fun” — no hazard.
-• “Bike lanes are painted” — descriptive only.
-• “Intersections exist” — trivially true; no policy.
+**Different example:** “The sidewalk ends at the ditch, so pedestrians step into the road— the county should add a bridge link.” Same harm-reduction shape, different mode. “I enjoy walking” does not argue for capital construction.
 
-Takeaway
-Arguments about safety infrastructure cite a failure mode and a design fix.`,
-    expert: `In-depth (Expert) — bike lanes at intersections
+**Takeaway:** Pure enthusiasm or bare facts about paint do not constitute a **safety argument**; hazard + institutional remedy does.`,
+    expert: `**Bike lanes at intersections**
 
-Expert reconstruction
-Premise set: geometric discontinuity of infrastructure forces merging behavior; merging increases risk.
-Conclusion: municipal obligation to complete the facility.
+**Not to be confused with:** **Recreational** enthusiasm for cycling or noting that lanes are **painted** does not establish **risk at discontinuities**. The keyed option is **infrastructure ethics**: foreseeable merge conflict → duty to close the gap.
 
-This is a standard harm-reduction argument in transport ethics, independent of whether you agree with the engineering details in real life.`,
+**Reconstruction:** Premise = geometric discontinuity exposes riders to mixed traffic; conclusion = municipal responsibility to extend/protect the lane through the intersection. Expert discussion might compare protected intersections vs. paint—**outside** the scope of “which line is an argument.”`,
   },
 
   1007: {
-    beginner: `In-depth (Beginner) — LED streetlights
+    beginner: `**LED streetlights**
 
-Argument = energy fact + policy
-"LED bulbs use less energy, so the city should retrofit the streetlights" links efficiency to action.
+The good line says LEDs **use less energy**, and **therefore** the city should retrofit streetlights. That is a public decision backed by an efficiency claim.
 
-Tall poles, liking bright lights, or “electricity exists” are not that argument.`,
-    intermediate: `In-depth (Intermediate) — LED streetlights
+Tall poles, personal taste about brightness, or the fact that electricity exists do not argue for a **retrofit program**. Only the option that chains **lower draw** to **municipal action** qualifies.`,
+    intermediate: `**LED streetlights**
 
-Walkthrough
-Step 1 — Identify the energy premise: LEDs reduce consumption relative to incumbent technology.
-Step 2 — Identify the conclusion: municipal retrofit program.
-Step 3 — Confirm the connector “so” signals support.
+**This item** uses **energy performance** to justify **capital spending** on fixtures.
 
-Other options lack either the efficiency premise or the retrofit conclusion.`,
-    expert: `In-depth (Expert) — LED streetlights
+**Different example:** “New insulation cuts heating loss, so the school district should prioritize window upgrades in the oldest buildings.” Same pattern: measured gain → policy. “I like cozy classrooms” is not an energy argument.
 
-Logical pattern
-Technological attribute (lower energy intensity) → justified as a reason for capital expenditure (retrofit). Externalities like light pollution are not in the text; the question only asks which line is an argument.`,
+**Takeaway:** Aesthetic or existential remarks do not substitute for **efficiency → retrofit** reasoning.`,
+    expert: `**LED streetlights**
+
+**Not to be confused with:** **Liking** bright light or noting that **electricity** is a thing does not make an **energy-efficiency case** for procurement. The keyed option ties **lower consumption** to a **normative** retrofit.
+
+**Pattern:** Attribute of the technology (reduced energy use) offered as a reason for a **public works** decision. Light-pollution or payback-period debates are **not** required to recognize the line as an argument.`,
   },
 
   1008: {
-    beginner: `In-depth (Beginner) — cafeteria food waste
+    beginner: `**Cafeteria food waste**
 
-The correct line
-Students throw away untouched food → cafeteria should offer smaller portions. Waste is the reason; portion choice is the fix.
+The answer ties **plates of untouched food hitting the trash** to **smaller portions** as the fix. Waste is the evidence; changing how much people can take is the proposed solution.
 
-Other lines: existence, dessert preference, or “waste is sad” without a remedy — not the structured argument.`,
-    intermediate: `In-depth (Intermediate) — cafeteria food waste
+Wanting dessert, moping that waste is sad, or stating that cafeterias exist does not spell out **what should change** and **why**. The keyed line does.`,
+    intermediate: `**Cafeteria food waste**
 
-Steps
-1. Empirical claim: untouched food is discarded (waste).
-2. Procedural response: allow smaller portions so students take only what they will eat.
+**On this card**, a **waste stream** supports a **menu/portions** intervention.
 
-This matches “problem observation → cafeteria policy.”
+**Different example:** “Conference attendees leave half-filled water bottles in every row, so organizers should offer refill stations instead of pre-pouring jugs.” Same structure: observed discard → operational change. “Plastic makes me sad” is not yet an argument for logistics.
 
-Contrast: “Food waste is sad” might motivate action but does not specify the portion-size mechanism the correct option provides.`,
-    expert: `In-depth (Expert) — cafeteria food waste
+**Takeaway:** Moral discomfort without a **mechanism** is weaker pedagogy here than **problem → specific lever** (portion size).`,
+    expert: `**Cafeteria food waste**
 
-Expert note
-The argument is a design-level response to a waste stream. Competing options do not articulate premise–conclusion support about portion sizing; they stop at mood or existence claims.`,
+**Not to be confused with:** **Moral disapproval** of waste is not the same as an argument that specifies a **policy instrument**. The keyed option advances **portion sizing** as the response to **untouched food**—a design-level claim.
+
+**Distractors:** Stop at **preference**, **pathos** without remedy, or **existence**—none instantiate premise–conclusion support for **portion policy**.`,
   },
 
   1009: {
-    beginner: `In-depth (Beginner) — hybrids and air quality
+    beginner: `**Hybrids and air quality**
 
-Find the causal argument
-The correct option: hybrids reduce emissions, therefore local air quality improves.
+You need the line that connects **fewer emissions** to **cleaner local air**. That is a simple causal story: what comes out of the tailpipe affects what people breathe nearby.
 
-"Very quiet" and "I prefer driving" are not air-quality arguments. "Technology exists" is not a reasoned link.`,
-    intermediate: `In-depth (Intermediate) — hybrids and air quality
+Quiet engines, personal love of driving, or “technology exists” skip the **pollution → air** link. Only the option that moves from **reduced emissions** to **air-quality improvement** matches the question.`,
+    intermediate: `**Hybrids and air quality**
 
-Step-by-step
-1. Premise: lower tailpipe emissions (relative to conventional vehicles in the intended comparison).
-2. Conclusion: improvement in local air quality.
-3. The question is specifically about air quality; only the keyed option connects emissions to air.
+**This stem** asks for a **mechanism** (emissions) tied to an **ambient outcome** (air).
 
-Takeaway
-Causal arguments name a mechanism (fewer pollutants released) and an environmental outcome.`,
-    expert: `In-depth (Expert) — hybrids and air quality
+**Different example:** “Scrubbers cut sulfur from the stack, so nearby asthma admissions should fall.” Different domain, same logic: source reduction → breathable air. “I like factories” does not argue air chemistry.
 
-Structure
-Emissions reduction → fewer airborne pollutants in the locality → better air quality (ceteris paribus). The distractors omit the emissions–air-quality bridge required by the prompt.`,
+**Takeaway:** Acoustic or preference remarks are **orthogonal** to the emissions–air bridge the lesson targets.`,
+    expert: `**Hybrids and air quality**
+
+**Not to be confused with:** **Quiet operation** is not the same as **lower pollutant output**; the keyed line targets **emissions** as the driver of **local air quality**. 
+
+**Structure:** Premise = hybrids reduce relevant emissions (vs. the implicit comparison class); conclusion = local air quality improves, **ceteris paribus**. Expert caveats (meteorology, fleet mix) are **outside** the identification task.`,
   },
 
   1010: {
-    beginner: `In-depth (Beginner) — remote work and overhead
+    beginner: `**Remote work and overhead**
 
-The argument to pick
-Remote work reduces the need for office space, so it lowers overhead costs. Less square footage → less rent/utilities.
+The line to choose says **less need for office square footage**, **so** **overhead** (rent, utilities, and similar fixed costs) should drop. That is a dollars-and-cents story: fewer desks leased → fewer recurring bills.
 
-Video calls alone, couch preference, or “offices exist” do not make that economic case.`,
-    intermediate: `In-depth (Intermediate) — remote work and overhead
+Video tools alone, loving your couch, or noting that offices exist do not build the **space → cost** inference. Only the option that ties **distributed work** to **lower fixed spend** is on brief.`,
+    intermediate: `**Remote work and overhead**
 
-Procedure
-1. Economic premise: less demand for physical office capacity.
-2. Financial conclusion: lower fixed costs (overhead).
-3. Match to the question’s “overhead costs” theme.
+**Here**, **real-estate demand** is the premise; **overhead** is the conclusion.
 
-Step-by-step vs. distractors
-• Video calls: technology mention without the real-estate premise.
-• Couch preference: irrelevant to cost structure.
-• Offices exist: no comparative cost claim.
+**Different example:** “The warehouse lease is half empty, so the firm should sublet and cut facility spend.” Same asset-light logic. “I like Zoom backgrounds” does not argue the balance sheet.
 
-Takeaway
-This is a classic “asset-light” reasoning pattern in business arguments.`,
-    expert: `In-depth (Expert) — remote work and overhead
+**Takeaway:** Technology mentions or comfort preferences do not substitute for **leased footprint → overhead** reasoning.`,
+    expert: `**Remote work and overhead**
 
-Expert reconstruction
-Premise: distributed work reduces required leasable area.
-Conclusion: aggregate overhead falls (holding other variables fixed).
-The keyed option is the only one that makes the real-estate–cost inference explicit enough for this assessment.`,
+**Not to be confused with:** **Collaboration tech** can enable remote work, but it is not automatically an **overhead** argument until tied to **space and recurring cost**. The keyed option makes the **lease/utilities** link explicit.
+
+**Reconstruction:** Premise = remote work reduces required office capacity; conclusion = overhead costs fall (other things equal). Distractors lack the **commercial real-estate → fixed cost** bridge.`,
   },
 
   1011: {
-    beginner: `In-depth (Beginner) — organic farming and soil health
+    beginner: `**Organic farming and soil health**
 
-What to pick
-The line that gives a **reason** (what organic farming does or avoids) for a **conclusion** about soil.
+The prompt wants one line that ties **what organic farming avoids or does** to **what happens to the soil over time**. The keyed sentence does that: skipping synthetic pesticides is offered as the reason long-term soil health is preserved.
 
-Walk the options
-• "Organic farming avoids synthetic pesticides, so it preserves long-term soil health." — Links method (no synthetic pesticides) to outcome (soil health). **Argument.**
-• "Organic apples look nice." — Appearance only; no soil reasoning.
-• "I prefer organic milk." — Preference.
-• "Soil exists in many types." — Geography fact; no organic-practice link.
+Pretty apples, a milk preference, or noting that “soil comes in types” never connects farming practice to soil condition. Only the organic-practice → soil-outcome line is doing argumentative work on this card.`,
+    intermediate: `**Organic farming and soil health**
 
-Why this is the answer
-Only the first option uses a premise about farming practice to support a claim about long-term soil condition.`,
-    intermediate: `In-depth (Intermediate) — organic farming and soil health
+**On this item**, the “so” links **method** (no synthetic pesticides) to **outcome** (soil stays healthy in the long run).
 
-Step-by-step
-1. Restate the question: you need an **argument about organic farming and soil health**—not just "organic" in passing.
-2. Identify premise and conclusion in the keyed option:
-   - Premise: avoiding synthetic pesticides (a defining feature of organic farming in this item).
-   - Conclusion: this preserves long-term soil health.
-3. Check the connector "so": it signals that the first clause is offered as support for the second.
-4. Eliminate distractors:
-   - Nice-looking apples: no causal link to soil biology.
-   - Milk preference: irrelevant to soil.
-   - Types of soil: does not argue that organic methods help soil.
+**Different example:** “Cover crops hold moisture in the field, so this farm should plant rye before corn.” Another practice → soil outcome story—here you could debate agronomy, but the **shape** is still premise + supported claim. “I like walking in cornfields” does not argue soil policy.
 
-Takeaway
-Ecological arguments often pair a **practice** with a **stated environmental effect**; that is the pattern here.`,
-    expert: `In-depth (Expert) — organic farming and soil health
+**Takeaway:** Looks and tastes are not soil arguments until they cite a **mechanism** tied to the ground.`,
+    expert: `**Organic farming and soil health**
 
-Logical reconstruction
-Let M = organic farming avoids synthetic pesticides (methodological claim).
-Let S = organic farming preserves long-term soil health (outcome claim).
-The keyed option asserts M as support for S. The exam does not require empirical proof here—only recognition of argumentative structure.
+**Not to be confused with:** Liking **organic branding** or admiring **apples** is not an argument about **soil**; the keyed option explicitly connects **agronomic practice** to **soil health**.
 
-Distractor analysis
-Options that report taste, aesthetics, or bare existence do not instantiate the premise–conclusion relation "practice → soil outcome."
+**Structure:** M = organic methods avoid synthetic pesticides; S = those methods help preserve long-term soil health. The exercise does not grade agronomic truth—only whether M is offered as support for S.
 
-Pedagogical caveat
-In real agronomy, soil health depends on many factors; this question isolates **argument structure**, not the truth of the empirical generalization.`,
+**Distractors:** Aesthetic, dietary preference, and generic geography lack the **practice → soil effect** relation.`,
   },
 
   1012: {
-    beginner: `In-depth (Beginner) — public transport and traffic
+    beginner: `**Public transport and traffic**
 
-Find one causal/policy line
-The correct answer: public transport carries more people per vehicle, **so** it reduces traffic congestion.
+You need a line that actually **argues** that transit helps traffic—not just that trains are long or that rush hour is busy.
 
-Why the others fail
-• "Trains are often long." — Description, no link to congestion.
-• "I enjoy the subway." — Preference.
-• "Traffic exists during rush hour." — Fact about traffic, not an argument that transit reduces it.`,
-    intermediate: `In-depth (Intermediate) — public transport and traffic
+The correct option says moving more people **per vehicle** **so** congestion eases: fewer cars per person on the road is the implicit story. Liking the subway or observing that traffic exists does not **defend** a transit benefit; “trains are long” is description without a traffic claim.`,
+    intermediate: `**Public transport and traffic**
 
-Procedure
-1. The question asks for an **argument about public transport and traffic**—you need both concepts connected by reasoning.
-2. Map the keyed option:
-   - Premise: higher occupancy per vehicle (more people moved per bus/train vs. many single-occupancy cars).
-   - Conclusion: less congestion (fewer vehicles per person on the road network).
-3. The word "so" marks the inferential step from efficiency to congestion relief.
-4. Contrast with distractors: none of them build a bridge from transit mode to traffic reduction.
+**Here**, **occupancy efficiency** is the premise; **less congestion** is the conclusion.
 
-Takeaway
-This is **systems-level reasoning**: vehicle throughput and lane use, not personal enjoyment of transit.`,
-    expert: `In-depth (Expert) — public transport and traffic
+**Different example:** “The ferry carries forty cars per trip, so shifting riders onto it should free lane space on the bridge.” Different mode, same systems logic: bundle demand → fewer vehicles fighting for asphalt. “I love ferries” is not that argument.
 
-Expert analysis
-The argument’s implicit comparison class is typically “public transit vs. driving alone”: group transport can satisfy travel demand with fewer vehicles, which may reduce congestion **ceteris paribus**. The keyed option compresses that into one sentence.
+**Takeaway:** Personal enjoyment and bare traffic facts do not substitute for **transit attribute → road crowding** reasoning.`,
+    expert: `**Public transport and traffic**
 
-Why this is not merely correlation
-The structure is explicitly argumentative (premise offered for a conclusion), not a statistical report.
+**Not to be confused with:** Noting that **traffic exists** or that **trains are long** does not establish **transit reduces congestion**. The keyed line makes a **comparative systems** claim (people per vehicle → fewer vehicles per capita on the network), *ceteris paribus*.
 
-Limitation (outside the quiz key)
-Congestion also depends on land use, pricing, and scheduling; the item only tests identification of an argument, not transport economics completeness.`,
+**Limits:** Land use, pricing, and induced demand matter in real policy; the quiz only asks which utterance **is** an argument, not whether the argument wins an economics seminar.`,
   },
 
   1013: {
-    beginner: `In-depth (Beginner) — solar panels and energy bills
+    beginner: `**Solar panels and energy bills**
 
-Note the correct option index
-The argument is the **second** option: solar panels generate electricity from sunlight, **so** they lower monthly energy bills.
+The answer is the **second** option (index 1): panels **make power from sunlight**, **so** your **bills** should drop—generation on your roof means buying less from the grid.
 
-Why not the others
-• "Solar panels are shiny." — Irrelevant to bills.
-• "I want solar panels." — Desire, not a bill argument.
-• "Electricity is important." — Too vague; no generation-or-cost link.`,
-    intermediate: `In-depth (Intermediate) — solar panels and energy bills
+Shiny panels, vague desire, or “electricity is important” never connect **production** to **money**. Only that line does.`,
+    intermediate: `**Solar panels and energy bills**
 
-Step-by-step
-1. Read each option against the prompt: **solar panels and energy bills**.
-2. The keyed option has two parts:
-   - Physical mechanism: generate electricity from sunlight (on-site production).
-   - Economic consequence: lower monthly bills (less energy purchased from the grid, in the intended story).
-3. "So" connects mechanism to money saved.
-4. Shiny panels / wanting panels / "electricity is important" do not spell out production → cost.
+**This stem** requires a path from **physics** (sunlight → electricity) to **household cost** (lower monthly bills).
 
-Takeaway
-**Bill** arguments need a path from generation or efficiency to expenditure; only one option does that.`,
-    expert: `In-depth (Expert) — solar panels and energy bills
+**Different example:** “This factory’s heat-recovery unit captures steam, so its fuel line item should shrink.” Same genre: on-site resource → spending—without repeating solar. “I want a fancy boiler” is not a bill argument.
 
-Reconstruction
-Premise: photovoltaic generation from sunlight.
-Conclusion: reduced monthly energy bills.
-The warrant is implicit: self-generation offsets retail purchases (ignoring upfront capital cost for this Level 0 skill).
+**Takeaway:** Sparkle and wishlists do not argue **generation → expenditure**; the keyed option does.`,
+    expert: `**Solar panels and energy bills**
 
-Distractor taxonomy
-Aesthetic, volitional, and generic importance claims lack the production–expenditure bridge.`,
+**Not to be confused with:** Wanting panels or calling electricity “important” is not a **bill mechanism**; the keyed line ties **on-site generation** to **reduced purchases** from the utility (capital cost ignored at this level).
+
+**Distractor taxonomy:** Aesthetic, volitional, and generic importance claims skip the **production–expenditure** bridge.`,
   },
 
   1014: {
-    beginner: `In-depth (Beginner) — Scene: History
+    beginner: `**Scene: History**
 
-What “argument” means here
-A **claim supported by a reason**—not a favorite subject or empty praise.
+The word “History” in the scene label is **scenery**. The real argument is the line about **artifacts**: they are **fragile**, **so** they need **careful handling**—a material fact offered as the reason for a handling rule.
 
-Options
-• "I prefer History." — Preference.
-• "History is definitely better." — Assertion without reasons.
-• "Artifacts are fragile, so they need careful handling." — **Premise + conclusion** (fragility → careful handling).
-• "History exists." — Bare existence.
+“I prefer History,” bare boosterism, or “History exists” never give a **because** for how to treat objects. The fragility line does.`,
+    intermediate: `**Scene: History**
 
-Correct choice
-The third option: fragility supports the handling prescription.`,
-    intermediate: `In-depth (Intermediate) — Scene: History
+**On this card**, **vulnerability** supports a **care norm**.
 
-Method
-1. Ignore the word "History" in the scene label for picking favorites—it is there to set a museum/archive vibe, not to justify picking "I prefer."
-2. For each line, ask: is one part given as a **reason** for another?
-3. Only "Artifacts are fragile, so they need careful handling" does this: the first clause supports the normative second clause (how we ought to treat artifacts).
+**Different example:** “Glass negatives warp in dry air, so storage should stay at stable humidity.” Same museum logic, different risk—**not** repeating fragile artifacts from the stem. “I love archives” is not a preservation argument.
 
-Step-by-step elimination
-• Preferences and "X is better" without criteria are not structured arguments in this exercise.
-• "History exists" is not an argument for careful handling.
+**Takeaway:** Scene labels set mood; the skill is spotting **premise → prescription** in the actual sentence.`,
+    expert: `**Scene: History**
 
-Takeaway
-The **scene** is flavor; the logic task is always premise–conclusion structure.`,
-    expert: `In-depth (Expert) — Scene: History
+**Not to be confused with:** **Preference** for a subject or **existence** claims do not argue **handling protocols**; the keyed option uses **fragility** as the warrant for **care norms**.
 
-Formal read
-Let F = artifacts are fragile.
-Let H = they need careful handling.
-The keyed option presents F as support for H (often implicitly: fragility raises risk of damage, hence care norms).
-
-Contrast with non-arguments
-Pure preference and unqualified comparative praise lack a supporting premise explicitly tied to the conclusion.`,
+**Formal sketch:** F = artifacts are fragile; H = they require careful handling. Distractors lack explicit **support** from a premise tied to the conclusion.`,
   },
 
   1015: {
-    beginner: `In-depth (Beginner) — Scene: Art
+    beginner: `**Scene: Art**
 
-Pick the real argument
-• "Red and blue make purple, so mix them for violet." — Color-mixing fact → instruction; **argument** linking reason to action/result.
-• "I prefer Art." / "Art is definitely better." — Not premise–conclusion support.
-• "Art exists." — Not an argument.`,
-    intermediate: `In-depth (Intermediate) — Scene: Art
+The line that counts gives a **color fact**, then a **mixing instruction**: red and blue make purple, **so** mix them to get that hue. One part is offered as the reason for the other.
 
-Steps
-1. The scene label "Art" is thematic; the logical work is in the third option.
-2. Premise: red + blue yields purple (color theory claim in the text).
-3. Conclusion: mix them for violet (the option ties mixing to achieving a hue—in context, the inferential move is "given this fact, do this to get that").
-4. Distractors are preference, bare comparison, or existence without reasoning chain.
+Preferring Art, declaring Art “better” without criteria, or saying Art exists does not structure **reason → action or result** the way the color-mix line does.`,
+    intermediate: `**Scene: Art**
 
-Takeaway
-Even a short craft tip can be an **argument** if one statement is offered as a reason for another.`,
-    expert: `In-depth (Expert) — Scene: Art
+**Here**, a **palette rule** backs a **procedure**.
 
-Expert note
-The item tests whether you see **inferential structure** in a concrete sentence. The comparative and existential distractors are deliberately flat so that only one line performs the speech-act "because P, therefore Q / do Q."
+**Different example:** “Two parts resin to one part hardener sets hard, so measure in that ratio before pouring.” Workshop chemistry instead of paint—**not** the red/blue mix from the question. “I love workshops” is not the argument.
 
-Boundary
-In real pedagogy, "violet" vs "purple" nuance is not examined here—only argumentative form.`,
+**Takeaway:** Even a one-line studio tip can be an argument when **because**-style support is present.`,
+    expert: `**Scene: Art**
+
+**Not to be confused with:** **Taste** for a subject or **existence** statements do not perform inferential work; the keyed line is a compact **means–end** link (mixing facts → instruction).
+
+**Boundary:** Violet vs. purple nuance is **not** tested—only that **one clause supports another** in the speech-act sense.`,
   },
 
   1016: {
-    beginner: `In-depth (Beginner) — Scene: Traffic
+    beginner: `**Scene: Traffic**
 
-The argument about stopping
-"The light is red, so drivers must stop." — Traffic rule reasoning: signal state → obligation.
+The real argument is **regulatory**: the light is **red**, **so** drivers **must stop**—the signal’s state is the reason for the obligation.
 
-Not arguments here
-• Preference for "Traffic" as a topic.
-• "Traffic is definitely better."
-• "Traffic exists."`,
-    intermediate: `In-depth (Intermediate) — Scene: Traffic
+Topic preference, empty “Traffic is better,” or “Traffic exists” do not move from **fact about the light** to **what drivers must do**.`,
+    intermediate: `**Scene: Traffic**
 
-Analysis
-1. Premise: the light is red (traffic control state).
-2. Conclusion: drivers must stop (normative driving requirement).
-3. The item uses a familiar **regulative** argument: physical fact about the signal under standard rules supports the action.
+**This item** bridges **is** (red light) to **ought** (stop), leaning on the **rules of the road** everyone is meant to share.
 
-Elimination
-Preferences and existence claims do not encode rule-based oughts.
+**Different example:** “The runway lights are red in this sector, so the plane must hold short.” Aviation instead of cars—**not** repeating the driving stem. “I love airports” is not a safety argument.
 
-Takeaway
-Arguments appear in **norms and safety**, not only in debates or essays.`,
-    expert: `In-depth (Expert) — Scene: Traffic
+**Takeaway:** Normative arguments show up wherever **signals + rules** meet; not only in essays.`,
+    expert: `**Scene: Traffic**
 
-Reconstruction
-This is a textbook bridge from **is** (light state) to **ought** (required stopping) under implicit legal/regulatory background assumptions. The quiz treats the keyed sentence as having argumentative structure: the red light is cited as the reason for the stopping requirement.
+**Not to be confused with:** **Liking** “Traffic” as a theme does not create a **stop obligation**; the keyed sentence cites **signal state** as the reason for **required behavior** under implicit law/custom.
 
-Distractors lack any premise–conclusion support relation.`,
+**Distractors:** No premise–conclusion link from **light** to **duty to stop**.`,
   },
 
   1017: {
-    beginner: `In-depth (Beginner) — Scene: Biology
+    beginner: `**Scene: Biology**
 
-Sleep and students
-"Lack of sleep affects focus, so students should rest." — Harm to cognitive function → prescriptive conclusion about rest.
+The keyed line says **lost sleep hurts focus**, **so** **students should rest**—linking a **psychological/performance hit** to a **behavior change**.
 
-Not arguments
-• Subject preference, "Biology is better," "Biology exists."`,
-    intermediate: `In-depth (Intermediate) — Scene: Biology
+Subject preference, “Biology is better,” and “Biology exists” are **noise** next to that structure.`,
+    intermediate: `**Scene: Biology**
 
-Step-by-step
-1. Premise: sleep deprivation impacts focus (performance claim).
-2. Conclusion: students should rest (behavioral recommendation).
-3. The "so" signals that the first claim supports the second (well-being / performance reasoning).
+**Here**, **sleep debt** is the premise; **rest** is the prescription.
 
-Why distractors fail
-They do not connect a biological/psychological effect to a **should** about behavior.`,
-    expert: `In-depth (Expert) — Scene: Biology
+**Different example:** “Dehydration blunts reaction time, so crews on long shifts should rotate water breaks.” Occupational health, not the classroom—**not** repeating sleep/focus from the card. “I love biology class” is not prudential reasoning.
 
-Expert framing
-The structure is a **prudential** argument: if lack of sleep undermines focus, then (ceteris paribus) rest is advised. The item does not require citing studies—only recognizing premise-supported prescription.
+**Takeaway:** **Prudential** arguments pair a **harm or risk** with a **recommended habit**; that is what to recognize.`,
+    expert: `**Scene: Biology**
 
-Contrast with pure preference or existence statements.`,
+**Not to be confused with:** **Enjoyment** of the subject is not a **health-and-performance** argument; the keyed option ties **sleep loss → impaired focus** to a **rest** conclusion.
+
+**Framing:** Ceteris paribus prudential inference—no meta-analysis required, only **premise-supported ought**.`,
   },
 
   1018: {
-    beginner: `In-depth (Beginner) — Scene: Economics
+    beginner: `**Scene: Economics**
 
-Supply and prices
-"Supply is low, so prices will rise." — Classic micro story: scarcity pressure → price movement.
+“Supply is low, **so** prices will rise” is a compact **scarcity → price pressure** story: the premise names an economic condition; the conclusion is a directional forecast.
 
-Other options: preference, "Economics is better," "Economics exists" — no supply–price link.`,
-    intermediate: `In-depth (Intermediate) — Scene: Economics
+Liking Economics or noting that Economics “exists” does not argue **supply relative to demand**; “Economics is better” adds no mechanism.`,
+    intermediate: `**Scene: Economics**
 
-Walkthrough
-1. Premise: low supply (relative to demand, implicitly).
-2. Conclusion: prices will rise.
-3. This is argumentative **forecasting** with an economic mechanism named in the premise.
+**On this card**, **tight supply** supports expecting **higher prices** (demand held in the background).
 
-Takeaway
-You are not asked to evaluate whether the forecast is true in every market—only to see that this line gives a **reason** for the price claim.`,
-    expert: `In-depth (Expert) — Scene: Economics
+**Different example:** “Warehouse slots are gone for the month, so spot shipping rates should spike.” Logistics flavor, not the exact supply line on the quiz—**not** recycling “supply is low.” “I love trucks” is not microeconomics.
 
-Logical structure
-A partial equilibrium–style link: supply restriction → upward pressure on price. Distractors omit any economic mechanism connecting scarcity to price.
+**Takeaway:** You are not grading whether the forecast always comes true—only that this line **gives a reason** for the price claim.`,
+    expert: `**Scene: Economics**
 
-Pedagogical boundary
-Real markets add elasticity, expectations, and policy; Level 0 only tests argument shape.`,
+**Not to be confused with:** **Brand preference** for the subject vs. an **economic mechanism**; only the keyed line connects **scarcity on the supply side** to **upward price movement**.
+
+**Boundary:** Elasticity, expectations, and policy—**outside** the Level 0 identification task.`,
   },
 
   1019: {
-    beginner: `In-depth (Beginner) — Scene: Zoology
+    beginner: `**Scene: Zoology**
 
-Dogs and company
-"Dogs are social, so they need company." — Trait → welfare implication.
+“Dogs are social, **so** they need company” uses a **species-typical trait** to defend a **care conclusion**—social needs → don’t isolate them recklessly.
 
-Not arguments: preference for Zoology, "Zoology is better," "Zoology exists."`,
-    intermediate: `In-depth (Intermediate) — Scene: Zoology
+Preferring Zoology or asserting Zoology’s existence does not argue **animal welfare**; “Zoology is better” is empty cheerleading.`,
+    intermediate: `**Scene: Zoology**
 
-Steps
-1. Premise: dogs are social animals (behavioral/biological claim).
-2. Conclusion: they need company (care implication).
-3. The "so" marks support from species-typical behavior to a prescription about keeping company.
+**Here**, **ethology** (social behavior) backs a **husbandry** implication.
 
-Takeaway
-**Ethological** premises can support **care** conclusions; that is still "argument" in our sense.`,
-    expert: `In-depth (Expert) — Scene: Zoology
+**Different example:** “Parrots bond strongly with handlers, so solo birds need daily interaction.” Another species, same **trait → care** pattern—**not** dogs again. “I love parrots” is not the welfare argument.
 
-Expert read
-The argument moves from a general species characteristic to a welfare-oriented ought. Strength depends on context (pet vs. wild dogs), but the quiz only asks for argumentative structure, not veterinary completeness.`,
+**Takeaway:** Biology-flavored **oughts** still need **premise → conclusion** structure.`,
+    expert: `**Scene: Zoology**
+
+**Not to be confused with:** **Affection** for the course title is not **species-appropriate care** reasoning; the keyed line moves from **social nature of dogs** to **need for company**.
+
+**Caveat:** Real welfare is context-rich (working dogs, street dogs); the quiz asks only for **argument shape**, not a full ethics review.`,
   },
 
   1020: {
-    beginner: `In-depth (Beginner) — Scene: Music
+    beginner: `**Scene: Music**
 
-Out of tune → bad sound
-"The guitar is out of tune, so it will sound bad." — Physical state of the instrument → predicted auditory result.
+The guitar is **out of tune**, **so** it will **sound bad**—state of the instrument → expected auditory result. That is a straight **diagnostic → prediction** link.
 
-Other lines: preference, "Music is better," "Music exists."`,
-    intermediate: `In-depth (Intermediate) — Scene: Music
+Preferring Music or saying Music exists does not tie **tuning** to **sound quality**; “Music is better” adds no mechanism.`,
+    intermediate: `**Scene: Music**
 
-Procedure
-1. Premise: guitar is out of tune (setup/state).
-2. Conclusion: it will sound bad (performance quality).
-3. Causal–predictive reasoning about musical performance.
+**This line** chains **setup state** (tuning) to **performance quality** (how it will sound).
 
-Distractors do not link instrument state to sound quality.
+**Different example:** “The reed is cracked, so the clarinet will squeak on the entrance.” Different instrument, same **hardware state → sonic outcome** logic—**not** the guitar stem. “I love concerts” is not instrument reasoning.
 
-Takeaway
-Arguments show up in **craft and performance**, not only in op-eds.`,
-    expert: `In-depth (Expert) — Scene: Music
+**Takeaway:** Craft and performance are full of **small causal arguments**; recognize them even outside op-eds.`,
+    expert: `**Scene: Music**
 
-Reconstruction
-The keyed option is a simple **instrumental** inference: tuning state is offered as the reason for the aesthetic/auditory evaluation. Distractors lack premise–conclusion structure.`,
+**Not to be confused with:** **Enjoyment** of the subject is not an **acoustic** argument; the keyed option cites **detuned strings** as the reason for a **negative sound** judgment.
+
+**Reconstruction:** Instrument state → expected auditory quality. Distractors lack **premise–conclusion** structure entirely.`,
   },
 
   1021: {
@@ -9682,533 +9462,419 @@ Soundness closes the gap between "good form" and:
 /** French — même contenu pédagogique que LEVEL_0_STANDALONE_EN (parité) */
 export const LEVEL_0_STANDALONE_FR: Partial<Record<number, StandaloneInDepthLevels>> = {
   1001: {
-    beginner: `Approfondi (Débutant) — plastiques à usage unique
+    beginner: `**Plastiques à usage unique**
 
-Ce que demande la question
-Repérer l’énoncé qui est un argument : une thèse principale et une raison présentée pour la soutenir.
+Il faut repérer une phrase qui donne à la fois une **orientation** (« nous devrions… ») et un **pourquoi** susceptible de convaincre — pas seulement un fait ou une humeur.
 
-Passer les options en revue
-1. « Les plastiques à usage unique sont partout. » — Simple constat, sans « il faut » ni pourquoi agir.
-2. « Nous devrions les interdire parce qu’ils encombrent les océans. » — Recommandation (interdire) + raison (océans). C’est un argument.
-3. « Je n’aime pas les sacs de courses. » — Préférence personnelle.
-4. « Le film plastique existe dans tous les magasins. » — Fait, pas une prise de position argumentée.
+Ici, dire que ces plastiques sont « partout » ou que le film « existe » peint le décor sans défendre d’action. Dire qu’on n’aime pas les sacs exprime un ressenti, pas une raison publique liée à un dommage. Seule la ligne qui interdit **parce que** les océans sont encombrés relie une conséquence nuisible à une mesure : c’est bien le type d’énoncé « thèse + raison » que visent les consignes de ce niveau.`,
+    intermediate: `**Plastiques à usage unique**
 
-Pourquoi c’est la bonne réponse
-Seule l’option 2 relie une conclusion à un préjudice (océans) comme justification.`,
-    intermediate: `Approfondi (Intermédiaire) — plastiques à usage unique
+Même compétence, autre angle : un argument relie une **prémisse** à une **conclusion** qu’on peut débattre.
 
-Objectif
-Distinguer description du monde, préférence, et conclusion appuyée sur une prémisse.
+**Sur cette question**, la ligne d’interdiction le fait clairement : tort aux océans → raison d’interdire. Les autres s’arrêtent à la description (« partout », « existe ») ou au goût (« je n’aime pas ») sans lien avec un « il faut ».
 
-Étapes sur cet énoncé
-Étape 1 — Que fait chaque phrase ?
-• 1 et 4 : existence / ubiquité, sans passage aux normes.
-• 3 : sentiment (« je n’aime pas ») sans raison publique du type dommage environnemental.
-• 2 : « parce que » relie interdiction à l’impact océanique.
+**Autre exemple (hors carte) :** « Les déchets hospitaliers ont bondi ce trimestre, donc le service doit séparer les aiguilles avant la collecte. » On peut discuter du budget, mais la phrase reste un argument : problème + mesure. À côté, « Les déchets sont nombreux » reste une donnée tant qu’aucune conséquence pratique n’est défendue.
 
-Étape 2 — Nommer les rôles dans l’option 2
-• Conclusion : interdire ces plastiques.
-• Prémisse : ils encombrent / polluent les océans.
+**En résumé :** constats et préférences ne sont pas « faux » ; ils ne remplissent tout simplement pas le rôle d’**appui structuré** attendu ici.`,
+    expert: `**Plastiques à usage unique**
 
-Étape 3 — Lien avec la consigne
-La question porte sur les plastiques à usage unique ; seule l’option 2 combine prise de position et raison liée au sujet.
+**À ne pas confondre :** un argument mobilise souvent des faits, mais une suite de faits n’est pas encore un argument. « Les plastiques à usage unique sont partout » peut **nourrir** un raisonnement une fois qu’on ajoute une norme (« …donc il faut les limiter ») ; seule, c’est plutôt un **constat** ou un **rapport**, pas encore un **argument normatif**.
 
-Synthèse
-Un argument peut être critiqué ; ici on ne juge que la présence d’une structure « thèse + raison ».`,
-    expert: `Approfondi (Expert) — plastiques à usage unique
+**Structure (option attendue) :** conclusion = interdiction (ou politique forte) ; prémisse = tort identifiable (pollution océanique). « Parce que » signale que le préjudice est avancé comme **raison de** la mesure.
 
-Cible logique
-Un argument est un ensemble de propositions où au moins l’une est offerte comme raison pour une autre.
-
-Esquisse (option 2)
-• B : « Nous devrions interdire… »
-• O : « Ils encombrent les océans. »
-« Parce que » marque que O est présenté comme appui pour B.
-
-Pourquoi les distracteurs ne sont pas des arguments au sens du cours
-• Les généralités sur l’existence ne fournissent pas, telles quelles, une transition normative.
-• La seule préférence ne structure pas une politique sans lien à un principe ou un dommage ; l’option 3 ne fait pas ce travail.
-
-Note pédagogique
-Validité et solidité viendront plus tard ; ici il s’agit de segmenter l’énoncé qui donne des raisons pour une thèse contestable.`,
+**Distracteurs :** l’ubiquité et l’existence ne contiennent pas de passage **normatif** ; la préférence ne lie pas l’attitude à un **principe ou un dommage public**. Seule la bonne option accomplit le geste « voici pourquoi il faudrait agir ainsi ».`,
   },
 
   1002: {
-    beginner: `Approfondi (Débutant) — bus en retard et appli
+    beginner: `**Bus en retard et appli**
 
-Repérer une raison reliée à une solution
-• « Le bus est en retard chaque matin, donc l’appli doit afficher les horaires en temps réel. » — Problème récurrent + correctif : argument.
-• Peindre les bus en bleu : sans lien avec les retards.
-• « J’aime prendre le bus » : préférence.
-• « L’application existe » : fait, pas un argument pour la modifier.
+Pensez à un argument comme : **quelque chose ne va pas** + **ce qu’il faudrait changer** à cause de cela.
 
-Pourquoi l’option 1
-Elle enchaîne dysfonctionnement (retards) et mesure (temps réel).`,
-    intermediate: `Approfondi (Intermédiaire) — bus en retard et appli
+Le retard du bus chaque matin est le problème ; proposer des **horaires en temps réel** dans l’appli est la solution défendue. Le « donc » fait le lien : mieux informer répond à l’imprévisibilité. Peindre les bus, aimer le trajet ou constater que l’appli existe ne relie pas le dysfonctionnement (retards) à un remède ciblé.`,
+    intermediate: `**Bus en retard et appli**
 
-Méthode
-1. Scénario : fiabilité du matin et information voyageur.
-2. Pour chaque option : y a-t-il prémisses sur le problème et conclusion sur l’action ?
+**Sur cette carte**, une **panne de service** justifie un changement de **produit** (données en direct).
 
-Application
-• Option 1 : prémisses = retards quotidiens ; conclusion = temps réel dans l’appli. Le « donc » marque l’inférence.
-• Les autres : pas de chaîne problème → remède liée aux retards.
+**Autre exemple :** « Les files d’attente aux urgences ont doublé, donc l’hôpital devrait ouvrir un second guichet d’accueil. » Même schéma : tension observée → mesure organisationnelle. « J’aime les hôpitaux » ne suffit pas.
 
-Schéma en une ligne
-Décalage chronique horaire ↔ information dynamique pour réduire l’incertitude.
+**En résumé :** goûts et faits d’existence n’argumentent pas une fonctionnalité ; le lien **échec répété → intervention** si.`,
+    expert: `**Bus en retard et appli**
 
-Synthèse
-C’est un cas typique « constat d’usage → intervention ciblée ».`,
-    expert: `Approfondi (Expert) — bus en retard et appli
+**À ne pas confondre :** décrire le problème (« le bus est toujours en retard ») peut **amorcer** un argument, mais ce n’est pas encore un argument complet sans **prescription**. L’option attendue donne les deux : retard comme prémisse, temps réel comme conclusion.
 
-Cadrage
-Raisonnement pratique : expérience négative récurrente → changement du système d’information.
+**Reconstruction :** prémisse = décalage récurrent par rapport à l’horaire affiché ; conclusion = l’appli doit exposer l’information en temps réel. Le **garant implicite** : sans données à jour, les voyageurs ne peuvent pas s’adapter.
 
-Reconstruction (option 1)
-• Phénomène : retards matinaux.
-• Prescription : l’appli doit fournir des mises à jour en temps réel.
-Le « donc » indique que le phénomène est pris comme raison de la prescription.
-
-Distracteurs
-Sans pont vers la ponctualité, esthétique ou existence d’appli ne constituent pas un argument pour cette mesure.
-
-Note critique (hors QCM)
-La force réelle de l’argument dépendrait d’analyses d’exploitation ; la question porte seulement sur la présence d’un argument.`,
+**Distracteurs :** la peinture et l’**existence** de l’appli manquent de lien inférentiel avec la ponctualité ; le plaisir de rouler est **hors sujet** pour la conception de l’appli. On n’évalue pas la force du cas — seulement s’il s’agit d’un raisonnement **à raisons**.`,
   },
 
   1003: {
-    beginner: `Approfondi (Débutant) — Wi-Fi du campus
+    beginner: `**Wi-Fi du campus**
 
-Repérer problème + mesure
-• « Le Wi-Fi coupe… donc l’université devrait ajouter des points d’accès » : argument.
-• « Je déteste perdre le Wi-Fi » : émotion.
-• « Le Wi-Fi existe » : fait.
-• « Le sans-fil est mieux que le câblé » : généralité sans lien avec les coupures ici.
+Cherchez la phrase où **le réseau déraille sur place** et où **l’établissement devrait agir** pour ça.
 
-Bonne réponse
-La première : instabilité → réponse infrastructurelle.`,
-    intermediate: `Approfondi (Intermédiaire) — Wi-Fi du campus
+Les coupures sont le défaut ; ajouter des points d’accès est le correctif défendu. « Je déteste perdre le Wi-Fi » exprime la frustration sans politique. « Le Wi-Fi existe » est vrai et vide. « Le sans-fil est mieux que le câblé » est une opinion générale — elle ne parle pas des **coupures ici**. Seule la ligne qui va de **instabilité** à **plus de matériel** répond à la consigne.`,
+    intermediate: `**Wi-Fi du campus**
 
-Étapes
-1. Sous-ligner le défaut : coupures.
-2. Voir si une action institutionnelle suit.
+**Cette question** attache un **défaut local** (coupures) à un **remède institutionnel** (points d’accès).
 
-Seule la bonne option lie coupures et déploiement de points d’accès.
+**Autre exemple :** « Le vidéoprojecteur surchauffe en salle, donc le service audiovisuel doit changer la lampe avant les partiels. » Symptôme → responsable → action. « J’aime les cours » ne tient pas lieu d’argument de maintenance.
 
-Contraste
-Haine du réseau, existence, ou comparaison générique ne font pas le lien diagnostic → remède pour ce campus.`,
-    expert: `Approfondi (Expert) — Wi-Fi du campus
+**En résumé :** préférences ou généralités ne ciblent pas le diagnostic ; la bonne option oui.`,
+    expert: `**Wi-Fi du campus**
 
-Structure
-D = coupures récurrentes ; A = ajouter des AP. La bonne option présente D comme appui pour A.
+**À ne pas confondre :** une **préférence de principe** pour le sans-fil ne vaut pas argument **sur ce Wi-Fi** tant qu’on ne nomme pas la **panne** (coupures). L’option attendue ancre la mesure dans un **dysfonctionnement observé**.
 
-Les distracteurs omettent soit le diagnostic spécifique, soit la conclusion normative adressée à l’institution.`,
+**Structure :** prémisse = qualité de service insuffisante (coupures) ; conclusion = l’université devrait augmenter la couverture/capacité (points d’accès). Les distracteurs offrent **affect**, **existence** ou **comparaison abstraite** sans lien **prémisse–conclusion**.
+
+**Note :** en réalité, la cause peut être ailleurs (fibre, configuration) ; le QCM demande seulement quel énoncé **est** un argument, pas si les AP suffisent.`,
   },
 
   1004: {
-    beginner: `Approfondi (Débutant) — distributeurs
+    beginner: `**Distributeurs**
 
-Ligne avec raison + « il faut »
-Distributeurs vides → recharger deux fois par jour : argument (manque → fréquence).
+Les machines **vides** sont le signal ; **réapprovisionner deux fois par jour** est la règle défendue. Le manque justifie la fréquence.
 
-« Je préfère les snacks », « les distributeurs existent », « les snacks mieux que les salades » : pas la chaîne vide → réapprovisionnement.`,
-    intermediate: `Approfondi (Intermédiaire) — distributeurs
+Préférer les snacks, comparer snacks et salades ou dire que les distributeurs « existent » n’explique pas **pourquoi** changer le rythme de réassort. Seule la phrase qui part du **constat de rupture** pour finir sur **à quelle cadence réagir** convient.`,
+    intermediate: `**Distributeurs**
 
-Étapes
-1. Constat : machines vides.
-2. Action : recharger deux fois par jour.
-3. Lien implicite : la fréquence actuelle est insuffisante.
+**Ici**, un **manque récurrent** soutient une **règle opérationnelle** (cadence de réassort).
 
-Seule la bonne réponse explicite assez ce passage observation → politique opérationnelle.`,
-    expert: `Approfondi (Expert) — distributeurs
+**Autre exemple :** « Le bac à toner est vide chaque lundi, donc la logistique doit livrer le vendredi. » Même logique : rupture → planning. « J’adore imprimer » ne parle pas de toner.
 
-Reconstruction
-Prémisse : stocks nuls (demande non satisfaite ou réassort insuffisant). Conclusion : doubler la fréquence de réassort.
+**En résumé :** goût et existence ne « pilotent » pas la logistique ; le lien **rupture → fréquence** si.`,
+    expert: `**Distributeurs**
 
-Les autres options n’instancient pas le soutien prémisses → conclusion demandé par la question.`,
+**À ne pas confondre :** préférence alimentaire ou constat d’**existence** ne constitue pas encore une **politique de réassort**. L’option attendue est du **raisonnement d’exploitation** : signal de rupture → ajuster la cadence.
+
+**Reconstruction :** prémisse = machines vides (demande non couverte ou service insuffisant) ; conclusion = réassort deux fois par jour. Les autres options manquent la relation de **soutien** exigée par la question.`,
   },
 
   1005: {
-    beginner: `Approfondi (Débutant) — bibliothèque pendant les examens
+    beginner: `**Bibliothèque pendant les examens**
 
-Argument = raison liée aux heures d’ouverture
-« La semaine des examens remplit la bibliothèque, donc les horaires devraient aller jusqu’à minuit. »
+La bonne phrase relie **l’affluence des examens** à des **horaires prolongés** jusqu’à minuit. La foule pendant la session est la raison ; ouvrir plus tard est la mesure.
 
-Les autres : amour des bibliothèques, livres, « minuit est cool » : pas la chaîne affluence → prolongation.`,
-    intermediate: `Approfondi (Intermédiaire) — bibliothèque pendant les examens
+Aimer les bibliothèques, vanter les livres ou trouver minuit « cool » ne donne pas une raison **liée aux examens** pour étendre les heures.`,
+    intermediate: `**Bibliothèque pendant les examens**
 
-Étapes
-1. Filtre : examens + heures.
-2. Bonne option : forte affluence pendant une période définie → prolonger les heures.
-3. Schéma : tension de capacité → extension de service.
+**Sur cette carte**, une **pointe de fréquentation** justifie un **élargissement temporel** du service.
 
-Les distracteurs n’établissent pas le pont vers une décision d’horaires.`,
-    expert: `Approfondi (Expert) — bibliothèque pendant les examens
+**Autre exemple :** « L’alerte tempête est levée, donc le gymnase doit rester ouvert comme dortoir improvisé. » Besoin exceptionnel → fenêtre de service. « J’aime le sport » ne remplace pas l’argument de capacité.
 
-Analyse
-L’argument couple une contrainte temporelle (examens) à une prescription sur les horaires. Les autres options ignorent la fenêtre des examens ou n’offrent pas de conséquence politique.
+**En résumé :** émotion ou généralités ne remplacent pas le lien **pression pendant les examens → horaires**.`,
+    expert: `**Bibliothèque pendant les examens**
 
-Pattern classique capacité / accès.`,
+**À ne pas confondre :** **attachement affectif** aux bibliothèques ou compliments sur les livres ne constituent pas un argument de **saturation des places** pendant les examens. L’option attendue suit un schéma **pic de charge** : période définie → ajuster les heures.
+
+**Structure :** prémisse = affluence forte pendant la session d’examens ; conclusion = prolonger la fermeture (minuit). Les distracteurs omettent la **fenêtre des examens** ou toute **décision** d’horaires.`,
   },
 
   1006: {
-    beginner: `Approfondi (Débutant) — pistes cyclables aux intersections
+    beginner: `**Pistes cyclables aux intersections**
 
-Danger + ce que la ville doit faire
-La bonne phrase : la piste disparaît, les cyclistes se retrouvent dans la circulation ; la ville doit terminer la piste.
+Il faut nommer un **danger** (la piste s’arrête, les cyclistes se retrouvent dans la circulation) et ce que **la ville devrait faire** (terminer la piste).
 
-Les autres : plaisir, peinture, « les intersections existent » : pas l’argument sécurité + aménagement.`,
-    intermediate: `Approfondi (Intermédiaire) — pistes cyclables aux intersections
+Aimer le vélo, parler de peinture ou dire que les intersections « existent » ne dit pas **pourquoi** l’aménagement devrait changer. Seule la ligne qui relie **rupture de continuité** à **achèvement de l’infrastructure** répond à la consigne.`,
+    intermediate: `**Pistes cyclables aux intersections**
 
-Lecture structurée
-1. Risque : discontinuité de la piste → conflit avec le trafic motorisé.
-2. Remède : continuité de l’aménagement à travers l’intersection.
+**Ici**, un **trou dans l’aménagement** sert de prémisse ; **compléter la piste** est la conclusion.
 
-Élimination
-• Plaisir : pas de risque identifié.
-• Peinture seule : description.
-• « Intersections existent » : trivial.
+**Autre exemple :** « Le trottoir s’arrête au fossé, donc les piétons marchent sur la route — le conseil doit ajouter un passage sécurisé. » Autre mode, même forme : risque → responsabilité publique. « J’aime marcher » ne suffit pas.
 
-Synthèse
-Les arguments sur la sécurité citent un mode de défaillance et une correction de conception.`,
-    expert: `Approfondi (Expert) — pistes cyclables aux intersections
+**En résumé :** enthousiasme ou faits vagues ne font pas l’argument **sécurité + travaux** ; l’option attendue oui.`,
+    expert: `**Pistes cyclables aux intersections**
 
-Reconstruction
-Discontinuité géométrique → comportement de fusion → risque accru → devoir de compléter l’infrastructure.
+**À ne pas confondre :** le **plaisir** de rouler ou le fait que des bandes soient **peintes** ne constitue pas un argument sur **le conflit à l’intersection**. L’option attendue est un raisonnement **sécurité / aménagement** : discontinuité prévisible → devoir de corriger.
 
-Argument type réduction des dommages, indépendamment du détail technique réel hors exercice.`,
+**Reconstruction :** prémisse = la piste cesse à l’intersection et crée un conflit avec le trafic motorisé ; conclusion = la ville doit assurer la continuité de la piste. Les débats d’ingénierie (piste protégée, carrefour néerlandais, etc.) dépassent la tâche « quel énoncé est un argument ».`,
   },
 
   1007: {
-    beginner: `Approfondi (Débutant) — lampadaires LED
+    beginner: `**Lampadaires LED**
 
-Argument = fait énergétique + politique
-« Les ampoules LED consomment moins… donc la ville devrait rétrofitter » : efficacité → action.
+La bonne phrase dit que les LED **consomment moins**, **donc** la ville devrait **rétrofitter** l’éclairage public. C’est une décision municipale appuyée sur un gain d’efficacité.
 
-Poteaux, goût pour la lumière, « l’électricité existe » : pas cet argument.`,
-    intermediate: `Approfondi (Intermédiaire) — lampadaires LED
+Parler de poteaux, du goût pour la lumière ou du fait que « l’électricité existe » ne défend pas un **programme de remplacement**. Seule la chaîne **gain énergétique → action** convient.`,
+    intermediate: `**Lampadaires LED**
 
-Marche à suivre
-1. Prémisse : moindre consommation énergétique.
-2. Conclusion : programme de rétrofit municipal.
-3. « donc » marque le soutien.
+**Cet item** mobilise la **performance énergétique** pour justifier un **investissement** dans les luminaires.
 
-Les autres options n’ont pas à la fois la prémisse d’efficacité et la conclusion de rétrofit.`,
-    expert: `Approfondi (Expert) — lampadaires LED
+**Autre exemple :** « Les nouvelles fenêtres réduisent les déperditions, donc le lycée devrait prioriser leur remplacement dans l’aile nord. » Même logique : bénéfice mesuré → politique. « J’aime la lumière du soir » ne tient pas lieu d’argument budgétaire.
 
-Schéma
-Attribut technologique (moindre intensité énergétique) → raison pour investissement public (rétrofit). Les externalités (pollution lumineuse) ne sont pas dans le texte ; la question porte sur quel énoncé est un argument.`,
+**En résumé :** préférences ou existence ne remplacent pas **efficacité → rétrofit**.`,
+    expert: `**Lampadaires LED**
+
+**À ne pas confondre :** aimer une **luminosité** ou rappeler qu’il y a de l’**électricité** ne constitue pas un cas **d’économie d’énergie** pour les marchés publics. L’option attendue lie **moindre consommation** à une **norme** de rétrofit.
+
+**Schéma :** attribut technologique (LED plus efficaces) → raison d’engager un programme de remplacement. Pollution lumineuse ou retour sur investissement : hors du simple repérage d’argument.`,
   },
 
   1008: {
-    beginner: `Approfondi (Débutant) — gaspillage à la cafétéria
+    beginner: `**Gaspillage à la cafétéria**
 
-Bonne ligne
-Les étudiants jettent de la nourriture intacte → la cafétéria devrait proposer des portions plus petites.
+La réponse attendue relie **des assiettes entières à la poubelle** à des **portions plus petites** à proposer. Le gaspillage motive la mesure ; changer la taille des portions est le levier défendu.
 
-Les autres : existence, dessert, « c’est triste » sans mécanisme de portions : pas la structure complète.`,
-    intermediate: `Approfondi (Intermédiaire) — gaspillage à la cafétéria
+Préférer le dessert, dire que la cafétéria « existe » ou que le gaspillage est « triste » sans dire **quoi changer** ne construit pas cet enchaînement.`,
+    intermediate: `**Gaspillage à la cafétéria**
 
-Étapes
-1. Constat : nourriture non mangée jetée.
-2. Réponse : portions modulables pour réduire ce qui est pris sans être mangé.
+**Sur cette carte**, un **flux de déchets** justifie une **mesure de conception** (portions).
 
-« C’est triste » peut motiver mais ne spécifie pas le levier des portions comme l’option correcte.`,
-    expert: `Approfondi (Expert) — gaspillage à la cafétéria
+**Autre exemple :** « Chaque rangée laisse des bouteilles à moitié pleines, donc l’organisateur devrait proposer des fontaines au lieu de remplir les carafes à l’avance. » Problème → instrument. « Le plastique me déprime » sans mesure ne suffit pas.
 
-Note experte
-L’argument est une réponse de conception à un flux de déchets. Les distracteurs s’arrêtent à l’humeur ou à l’existence sans enchaînement vers la taille des portions.`,
+**En résumé :** la seule indignation ne remplace pas **problème → levier concret** ; la bonne option oui.`,
+    expert: `**Gaspillage à la cafétéria**
+
+**À ne pas confondre :** **désapprouver** le gaspillage n’est pas encore un argument qui **nomme un instrument** (taille des portions). L’option attendue avance **portions modulables** comme réponse à **nourriture intacte jetée**.
+
+**Distracteurs :** préférence, pathos sans remède, existence — aucun n’instancie le soutien **prémisse–conclusion** pour une **politique de portions**.`,
   },
 
   1009: {
-    beginner: `Approfondi (Débutant) — hybrides et qualité de l’air
+    beginner: `**Hybrides et qualité de l’air**
 
-Argument causal à trouver
-Les hybrides réduisent les émissions, donc la qualité de l’air locale s’améliore.
+Il faut la phrase qui relie **moins d’émissions** à **un air local plus sain**. C’est une petite chaîne causale : ce qui sort du pot d’échappement affecte ce qu’on respire à proximité.
 
-« Très silencieux », préférence, « la technologie existe » : pas le lien émissions / air.`,
-    intermediate: `Approfondi (Intermédiaire) — hybrides et qualité de l’air
+« Très silencieux », préférence personnelle ou « la technologie existe » évitent le lien **pollution → air**. Seule l’option qui va des **émissions réduites** à **l’amélioration de la qualité de l’air** convient.`,
+    intermediate: `**Hybrides et qualité de l’air**
 
-Étapes
-1. Prémisse : moins d’émissions (comparaison implicite avec véhicules classiques).
-2. Conclusion : meilleure qualité de l’air local.
-3. Seule l’option attendue relie les deux pour cette consigne.
+**Cette consigne** demande un **mécanisme** (émissions) lié à un **effet ambiant** (air).
 
-Synthèse
-Les arguments causaux nomment un mécanisme et un effet environnemental.`,
-    expert: `Approfondi (Expert) — hybrides et qualité de l’air
+**Autre exemple :** « Les filtres à la cheminée réduisent le soufre, donc les admissions aux urgences pour crises d’asthme devraient diminuer à proximité. » Autre secteur, même schéma : réduction à la source → air respirable. « J’aime les usines » ne fait pas la chimie.
 
-Structure
-Réduction des émissions → moins de polluants dans l’air local → meilleure qualité (ceteris paribus). Les distracteurs omettent le pont émissions–air exigé par l’énoncé.`,
+**En résumé :** bruit ou goût ne remplacent pas le pont **émissions–qualité de l’air**.`,
+    expert: `**Hybrides et qualité de l’air**
+
+**À ne pas confondre :** le **silence** du moteur ne vaut pas **réduction des polluants** ; l’option attendue parle d’**émissions** comme **cause** de la **qualité de l’air**.
+
+**Structure :** prémisse = les hybrides émettent moins (classe de comparaison implicite) ; conclusion = l’air local s’améliore, *ceteris paribus*. Météo et parc automobile : au-delà de l’exercice.`,
   },
 
   1010: {
-    beginner: `Approfondi (Débutant) — télétravail et frais généraux
+    beginner: `**Télétravail et frais généraux**
 
-Ligne à choisir
-Le télétravail réduit le besoin de surface de bureaux, donc il abaisse les frais généraux. Moins de m² → moins de loyer / charges.
+La phrase à retenir dit qu’avec **moins de besoin de bureaux**, le **télétravail** devrait **faire baisser les frais généraux** (loyer, charges, coûts fixes proches). Moins de m² loués → moins de factures récurrentes.
 
-Visioconférence seule, canapé, « les bureaux existent » : pas ce raisonnement économique.`,
-    intermediate: `Approfondi (Intermédiaire) — télétravail et frais généraux
+La visio seule, le confort du canapé ou le fait que « les bureaux existent » ne construisent pas l’inférence **surface → dépenses fixes**.`,
+    intermediate: `**Télétravail et frais généraux**
 
-Procédure
-1. Prémisse économique : moindre besoin d’espace physique.
-2. Conclusion financière : frais généraux plus bas.
-3. Alignement avec le thème « overhead » du texte.
+**Ici**, la **demande d’espace** est la prémisse ; les **frais généraux** sont la conclusion.
 
-Les distracteurs n’établissent pas le lien immobilier / coût.
+**Autre exemple :** « L’entrepôt est à moitié vide, donc l’entreprise devrait sous-louer et réduire les coûts d’installation. » Même logique « alléger l’actif ». « J’aime les arrière-plans Zoom » ne tient pas la comptabilité.
 
-Synthèse
-Schéma classique « moins d’actifs physiques → coûts fixes réduits ».`,
-    expert: `Approfondi (Expert) — télétravail et frais généraux
+**En résumé :** outils ou préférences ne remplacent pas **empreinte immobilière → coûts fixes**.`,
+    expert: `**Télétravail et frais généraux**
 
-Reconstruction experte
-Travail distribué → moindre surface louable requise → baisse des coûts fixes (autres choses égales). Seule l’option attendue explicite assez l’inférence immobilière–coût pour cet item.`,
+**À ne pas confondre :** les **outils de collaboration** peuvent rendre le télétravail possible, mais ce ne sont pas en soi un argument **frais généraux** tant qu’on ne lie pas **m²** et **dépenses récurrentes**. L’option attendue explicite le **loyer / charges**.
+
+**Reconstruction :** prémisse = le télétravail réduit le besoin de capacité bureaux ; conclusion = baisse des frais généraux, autres choses égales. Les distracteurs manquent le pont **immobilier commercial → coûts fixes**.`,
   },
 
   1011: {
-    beginner: `Approfondi (Débutant) — agriculture biologique et santé des sols
+    beginner: `**Agriculture biologique et santé des sols**
 
-Repérer l’argument
-Il faut une raison liée aux pratiques bio et une conclusion sur le sol à long terme.
+La consigne demande une phrase qui relie **ce que l’agriculture bio évite ou fait** à **ce qui advient au sol dans la longue durée**. La bonne option le fait : éviter les pesticides de synthèse est présenté comme la raison pour laquelle le sol reste sain.
 
-Options
-• « L’agriculture bio évite les pesticides de synthèse, donc elle préserve la santé du sol à long terme. » — Méthode → effet sur le sol : **argument**.
-• Pommes jolies, préférence pour le lait, « le sol existe sous plusieurs types » : pas cette chaîne.
+Belles pommes, préférence pour le lait ou le fait que « le sol existe sous plusieurs types » ne font jamais le lien **pratique agricole → effet sur le sol**.`,
+    intermediate: `**Agriculture biologique et santé des sols**
 
-Bonne réponse
-La première option.`,
-    intermediate: `Approfondi (Intermédiaire) — agriculture biologique et santé des sols
+**Sur cet item**, le « donc » relie **méthode** (sans pesticides de synthèse) à **résultat** (santé du sol préservée).
 
-Étapes
-1. Relire la consigne : argument sur **l’agriculture biologique et la santé des sols**.
-2. Dans la bonne option : prémisse = éviter les pesticides de synthèse ; conclusion = préserver la santé du sol à long terme.
-3. « Donc » marque l’appui de la prémisse à la conclusion.
-4. Les distracteurs : apparence, goût, typologie des sols sans lien causal avec la pratique bio.
+**Autre exemple :** « Les cultures de couverture retiennent l’humidité, donc cette exploitation devrait ensemencer du seigle avant le maïs. » Autre pratique → autre effet sur le sol — sans répéter la phrase du QCM. « J’aime me promener dans les champs » ne tient pas lieu de politique agricole.
 
-Synthèse
-On attend un enchaînement pratique agricole → conséquence pour le sol.`,
-    expert: `Approfondi (Expert) — agriculture biologique et santé des sols
+**En résumé :** apparence et goûts ne sont des arguments **sur le sol** que s’ils citent un **mécanisme**.`,
+    expert: `**Agriculture biologique et santé des sols**
 
-Lecture logique
-Soit M = évitement des pesticides de synthèse ; soit S = préservation de la santé du sol. L’option attendue présente M comme soutien à S. La question porte sur la **forme** argumentative, pas sur la validation agronomique complète.
+**À ne pas confondre :** apprécier le **label bio** ou les **pommes** n’est pas un argument sur la **santé des sols** ; l’option attendue lie explicitement **pratique agronomique** et **état du sol**.
 
-Distracteurs
-Ils n’instancient pas la relation prémisse–conclusion « pratique → effet sur le sol ».`,
+**Structure :** M = évitement des pesticides de synthèse ; S = préservation de la santé du sol à long terme. On ne note pas la vérité agronomique — seulement si M soutient S.
+
+**Distracteurs :** esthétique, préférence alimentaire et géographie générale sans lien **pratique → effet sur le sol**.`,
   },
 
   1012: {
-    beginner: `Approfondi (Débutant) — scène Linguistique (banque FR)
+    beginner: `**Scène : Linguistique (banque FR)**
 
-Attention : en français, l’ID 1012 n’est pas le même scénario que l’anglais (transports).
+En français, l’ID **1012** ne reprend **pas** le scénario anglais (transports) : suivez le texte **français** de la banque.
 
-Bonne ligne
-« La pratique améliore l’aisance, donc tu devrais parler tous les jours. » — La pratique améliore l’aisance (prémisse) ; donc parler chaque jour (conclusion prescriptive).
+La ligne attendue dit que la **pratique améliore l’aisance**, **donc** tu **devrais parler tous les jours** : mécanisme d’apprentissage → habitude recommandée.
 
-Pas des arguments
-« Je préfère Linguistique », « Linguistique est définitivement mieux », « Linguistique existe » — préférence, jugement sans raison, ou existence.`,
-    intermediate: `Approfondi (Intermédiaire) — scène Linguistique
+« Je préfère Linguistique », « Linguistique est définitivement mieux » et « Linguistique existe » ne donnent aucune **raison** pour une conduite de parole.`,
+    intermediate: `**Scène : Linguistique**
 
-Méthode
-1. Ignorer la préférence de matière : ce n’est pas un argument au sens du cours.
-2. Repérer « donc » : il introduit la conclusion recommandée (parler chaque jour).
-3. La première partie donne le mécanisme pédagogique (la pratique → plus d’aisance) comme raison de l’habitude proposée.
+**Ici**, l’**effet de la pratique sur l’aisance** sert de prémisse ; la **fréquence de parole** est la conclusion prescriptive.
 
-Élimination systématique
-Seule l’option indexée comme correcte relie une prémisse (effet de la pratique) à une injonction (fréquence de parole).`,
-    expert: `Approfondi (Expert) — scène Linguistique
+**Autre exemple (hors carte) :** « Répéter les gammes affine l’oreille, donc le musicien débutant devrait en jouer un peu chaque jour. » Autre domaine — **pas** la phrase « parler tous les jours » du QCM. « J’aime la musique » ne remplace pas l’argument.
 
-Reconstruction
-Prémisse : la pratique améliore l’aisance (compétence / fluidité). Conclusion : tu devrais parler tous les jours (conduite à adopter). Structure prudential / pédagogique : moyen–fin.
+**En résumé :** le mot « Linguistique » sur la carte est du décor ; le travail logique est dans la phrase à **prémisse + donc + conduite**.`,
+    expert: `**Scène : Linguistique**
 
-Note
-La parité avec l’anglais est **pédagogique** (même profondeur) ; le **contenu** suit le libellé français de la banque FR.`,
+**À ne pas confondre :** **préférence** pour la matière ou **existence** du mot « Linguistique » ne constituent pas un argument **pédagogique** ; la bonne option enchaîne **pratique → aisance** et **prescription** (parler chaque jour).
+
+**Parité avec l’anglais :** même **profondeur** (argument avec support), **contenu** calqué sur la banque FR pour cet ID — ne pas importer le texte sur les transports.
+
+**Structure :** moyen (pratique régulière) présenté comme raison d’adopter une **habitude** ciblée.`,
   },
 
   1013: {
-    beginner: `Approfondi (Débutant) — scène Technologie (banque FR)
+    beginner: `**Scène : Technologie (banque FR)**
 
-Bonne phrase
-« Le routeur est éteint, donc le Wi-Fi ne fonctionnera pas. » — État du matériel → conséquence sur le service sans fil.
+L’ID **1013** en français n’est **pas** le panneau solaire de l’anglais : ici la bonne phrase est « **Le routeur est éteint, donc le Wi-Fi ne fonctionnera pas** » — **état du matériel** → **prédiction sur le service** sans fil.
 
-Les autres
-Préférence pour Technologie, « Technologie est mieux », « Technologie existe » : pas la chaîne panne / absence de Wi-Fi.`,
-    intermediate: `Approfondi (Intermédiaire) — scène Technologie
+Préférence pour Technologie, jugement vide ou « Technologie existe » ne font pas le diagnostic **routeur → Wi-Fi**.`,
+    intermediate: `**Scène : Technologie**
 
-Étapes
-1. Prémisse : le routeur est éteint (pas d’émission / pas de routage actif du réseau local tel qu’attendu).
-2. Conclusion : le Wi-Fi ne fonctionnera pas (pas de connectivité sans fil utile).
-3. « Donc » lie diagnostic matériel à prédiction de fonctionnement.
+**Sur cette carte**, un **état du routeur** (éteint) soutient l’idée que le **Wi-Fi** ne sera pas utilisable comme d’habitude.
 
-Synthèse
-Argument **technique** : état du dispositif → conséquence sur le service.
+**Autre exemple (hors carte) :** « Le disjoncteur du tableau est tombé, donc les prises de cette pièce ne seront pas sous tension. » Même logique **coupure source → service absent** — sans répéter le routeur. « J’aime l’électricité » ne dépanne pas.
 
-Distracteurs
-Aucun ne reproduit prémisse → conclusion sur le Wi-Fi.`,
-    expert: `Approfondi (Expert) — scène Technologie
+**En résumé :** distracteurs FR sans chaîne **diagnostic matériel → conséquence réseau**.`,
+    expert: `**Scène : Technologie**
 
-Lecture experte
-L’argument suppose un arrière-plan de dépendance fonctionnelle (routeur allumé nécessaire au Wi-Fi domestique usuel). Ce n’est pas une preuve de laboratoire ; l’exercice porte sur la **structure** « parce que l’état du routeur est P, le Wi-Fi ne marchera pas ».
+**À ne pas confondre :** **goût** pour la matière ou **existence** du thème ne remplace pas un argument **technique** ; l’option attendue suppose un **arrière-plan** domestique usuel (routeur nécessaire au Wi-Fi local).
 
-Limite
-D’autres pannes pourraient exister ; l’item ne demande pas une liste exhaustive des causes.`,
+**Limite :** d’autres pannes sont possibles dans la vie réelle ; l’exercice ne demande qu’une **structure** « P, donc Q » sur le service sans fil.
+
+**Parité :** ne pas aligner le texte sur l’item anglais **solaire** — respecter la banque FR pour 1013.`,
   },
 
   1014: {
-    beginner: `Approfondi (Débutant) — scène Histoire
+    beginner: `**Scène : Histoire**
 
-Argument à choisir
-« Les artéfacts sont fragiles, donc ils nécessitent une manipulation prudente. » — Fragilité → consigne de soin.
+Le mot « Histoire » habille la carte ; l’argument est : les **artéfacts sont fragiles**, **donc** il faut une **manipulation prudente** — un fait matériel offert comme raison d’une norme de soin.
 
-Pas des arguments
-Préférence, « Histoire est mieux », « Histoire existe ».`,
-    intermediate: `Approfondi (Intermédiaire) — scène Histoire
+Préférence, jugement sans critères ou « Histoire existe » ne donnent pas de **parce que** pour la manutention.`,
+    intermediate: `**Scène : Histoire**
 
-Démarche
-1. Repérer une prémisse factuelle ou matérielle (fragilité).
-2. Voir la conclusion normative (manipulation prudente).
-3. « Donc » marque le soutien.
+**Ici**, la **vulnérabilité** des objets soutient une **consigne** de manipulation.
 
-Les distracteurs ne lient pas une propriété des objets à une norme de manipulation.`,
-    expert: `Approfondi (Expert) — scène Histoire
+**Autre exemple :** « Les négatifs sur verre gondent si l’air est trop sec, donc l’hygrométrie du réservoir doit rester stable. » Autre risque muséal — **sans** répéter « artéfacts fragiles » du QCM. « J’adore les archives » ne suffit pas.
 
-Analyse
-Structure P → Q avec Q prescriptif : la fragilité est avancée comme raison du traitement prudent. Même logique que la version anglaise, avec le vocabulaire de la banque FR.`,
+**En résumé :** décor scénique ≠ travail sur la **prémisse → prescription**.`,
+    expert: `**Scène : Histoire**
+
+**À ne pas confondre :** **préférence** pour la matière ou **existence** d’« Histoire » ne défend pas un **protocole** ; la bonne option utilise la **fragilité** comme garant d’une **norme de soin**.
+
+**Esquisse :** F = fragilité ; H = manipulation prudente requise. Les distracteurs manquent de **soutien** explicite.`,
   },
 
   1015: {
-    beginner: `Approfondi (Débutant) — scène Art
+    beginner: `**Scène : Art**
 
-Bonne option
-« Le rouge et le bleu font du violet, donc mélangez-les pour du violet. » — Fait sur les couleurs → consigne de mélange.
+La phrase retenue donne un **fait sur les couleurs**, puis une **consigne de mélange** : rouge et bleu font du violet, **donc** mélangez pour obtenir cette teinte.
 
-Autres lignes
-Préférence, jugement sans preuve, existence d’Art.`,
-    intermediate: `Approfondi (Intermédiaire) — scène Art
+Préférer Art, dire qu’Art est « mieux » sans preuve ou qu’« Art existe » ne structure pas **raison → action** comme la ligne sur les pigments.`,
+    intermediate: `**Scène : Art**
 
-Étapes
-1. Prémisse : le mélange rouge + bleu donne du violet.
-2. Conclusion : mélanger pour obtenir du violet (instruction dérivée).
-3. Éliminer préférence et phrases vides de raisonnement.
+**Sur cet item**, une **règle de palette** soutient une **procédure**.
 
-Parité pédagogique
-Même schéma que l’item anglais « red and blue… », adapté au français.`,
-    expert: `Approfondi (Expert) — scène Art
+**Autre exemple :** « Deux volumes de résine pour un durcisseur, donc doser ainsi avant coulée. » Atelier, pas peinture murale — **pas** le rouge/bleu du QCM. « J’adore le bricolage » n’est pas l’argument.
 
-Note
-L’item teste la reconnaissance d’un lien inférentiel court dans un conseil de pratique ; les distracteurs sont volontairement non argumentatifs.`,
+**En résumé :** un conseil d’atelier peut être un **vrai** argument si une clause soutient l’autre.`,
+    expert: `**Scène : Art**
+
+**À ne pas confondre :** **goût** pour la matière ou **existence** d’« Art » ne font pas de travail inférentiel ; la bonne option est un lien **moyen–fin** (fait de mélange → consigne).
+
+**Frontière :** nuances violet/mauve — hors périmètre ; seule la **structure** compte.`,
   },
 
   1016: {
-    beginner: `Approfondi (Débutant) — scène Circulation
+    beginner: `**Scène : Circulation**
 
-Feu rouge
-« Le feu est rouge, donc les conducteurs doivent s’arrêter. » — État du feu → obligation de s’arrêter.
+L’argument est **réglementaire** : le feu est **rouge**, **donc** les conducteurs **doivent s’arrêter** — l’état du signal est la raison de l’obligation.
 
-Autres
-Préférence, « Circulation est mieux », « Circulation existe ».`,
-    intermediate: `Approfondi (Intermédiaire) — scène Circulation
+Préférence, « Circulation est mieux » ou « Circulation existe » ne vont pas du **fait sur le feu** au **devoir d’arrêt**.`,
+    intermediate: `**Scène : Circulation**
 
-Analyse
-Argument **réglementaire** implicite : l’état du feu est la raison invoquée pour l’obligation de stopper. Même structure que la version anglaise « The light is red… ».
+**Cet item** relie **est** (feu rouge) à **devoir** (s’arrêter), sur fond de **code de la route** partagé.
 
-Élimination
-Les distracteurs ne contiennent pas prémisse + conclusion liées au code de la route.`,
-    expert: `Approfondi (Expert) — scène Circulation
+**Autre exemple :** « Les feux de piste sont rouges sur ce secteur, donc l’avion doit s’arrêter avant la ligne d’attente. » Aviation, pas auto — **sans** recopier la phrase du feu routier. « J’aime les aéroports » ne remplace pas la sécurité.
 
-Lecture
-Passage de l’énoncé descriptif (feu rouge) à la norme de conduite ; le fond juridique est sous-entendu, comme dans l’anglais.`,
+**En résumé :** les normes de circulation sont pleines d’arguments **signal + règle**.`,
+    expert: `**Scène : Circulation**
+
+**À ne pas confondre :** **aimer** le thème « Circulation » ne crée pas d’**obligation** d’arrêt ; la bonne phrase cite l’**état du feu** comme raison du **comportement exigé**.
+
+**Distracteurs :** aucun lien **prémisse (feu) → conclusion (arrêt)**.`,
   },
 
   1017: {
-    beginner: `Approfondi (Débutant) — scène Biologie
+    beginner: `**Scène : Biologie**
 
-Sommeil et concentration
-« Le manque de sommeil affecte la concentration, donc les étudiants doivent se reposer. » — Effet cognitif → prescription de repos.
+La bonne phrase dit que le **manque de sommeil nuit à la concentration**, **donc** les **étudiants doivent se reposer** — préjudice cognitif → conduite recommandée.
 
-Distracteurs
-Préférence, « Biologie est mieux », « Biologie existe ».`,
-    intermediate: `Approfondi (Intermédiaire) — scène Biologie
+Préférence pour la matière, « Biologie est mieux » ou « Biologie existe » ne construisent pas ce lien.`,
+    intermediate: `**Scène : Biologie**
 
-Étapes
-1. Prémisse : manque de sommeil nuit à la concentration.
-2. Conclusion : les étudiants doivent se reposer.
-3. Lien prudential : protéger la performance par le repos.
+**Ici**, une **dette de sommeil** sert de prémisse ; le **repos** est la prescription.
 
-Même profondeur que l’anglais, libellé FR.`,
-    expert: `Approfondi (Expert) — scène Biologie
+**Autre exemple :** « La déshydratation ralentit les réflexes, donc les équipes sur de longues gardes doivent alterner les pauses hydratation. » Santé au travail, pas la salle de classe — **sans** répéter sommeil/concentration du QCM. « J’adore le cours » ne suffit pas.
 
-Reconstruction
-Argument de bien-être / performance : état physiologique → conduite recommandée. Pas d’exigence de méta-analyse ici.`,
+**En résumé :** arguments **prudentiels** : risque ou tort → habitude recommandée.`,
+    expert: `**Scène : Biologie**
+
+**À ne pas confondre :** le **plaisir** pour la matière n’est pas un argument **performance / santé** ; l’option attendue relie **manque de sommeil → concentration** et **repos**.
+
+**Cadrage :** inférence prudente *ceteris paribus* — pas de méta-analyse exigée.`,
   },
 
   1018: {
-    beginner: `Approfondi (Débutant) — scène Économie
+    beginner: `**Scène : Économie**
 
-Offre et prix
-« L’offre est faible, donc les prix augmenteront. » — Rareté relative → pression sur les prix.
+« L’offre est faible, **donc** les prix augmenteront » est une mini-histoire **rareté → pression sur les prix** : la prémisse nomme une condition économique ; la conclusion est une prévision directionnelle.
 
-Autres options
-Préférence, « Économie est mieux », « Économie existe ».`,
-    intermediate: `Approfondi (Intermédiaire) — scène Économie
+Aimer Économie ou dire qu’« Économie existe » n’argumente pas le **marché** ; « Économie est mieux » n’ajoute aucun mécanisme.`,
+    intermediate: `**Scène : Économie**
 
-Marche à suivre
-1. Prémisse : offre faible (par rapport à la demande, implicitement).
-2. Conclusion : hausse des prix attendue.
-3. « Donc » introduit la prévision argumentée.
+**Sur cette carte**, une **offre serrée** soutient d’**anticiper des prix plus hauts** (la demande reste en arrière-plan).
 
-Alignement
-Même logique pédagogique que la phrase anglaise sur l’offre et les prix.`,
-    expert: `Approfondi (Expert) — scène Économie
+**Autre exemple :** « Plus de places en entrepôt ce mois-ci, donc les tarifs spot d’expédition devraient flamber. » Logistique — **sans** recopier « offre faible » à l’identique. « J’aime les camions » n’est pas de la microéconomie.
 
-Note
-Modèle partiel d’équilibre ; l’exercice ne demande pas de discuter élasticité ou anticipations.`,
+**En résumé :** on ne juge pas si la prévision se réalise toujours — seulement si la phrase **donne une raison** pour le prix.`,
+    expert: `**Scène : Économie**
+
+**À ne pas confondre :** **préférence** pour le cours vs **mécanisme économique** ; seule la bonne option relie **rareté côté offre** à **pression haussière sur le prix**.
+
+**Limite :** élasticité, anticipations, politique publique — hors exercice de repérage d’argument.`,
   },
 
   1019: {
-    beginner: `Approfondi (Débutant) — scène Zoologie
+    beginner: `**Scène : Zoologie**
 
-Chiens et compagnie
-« Les chiens sont sociaux, donc ils ont besoin de compagnie. » — Trait comportemental → besoin de compagnie.
+« Les chiens sont sociaux, **donc** ils ont besoin de compagnie » part d’un **trait d’espèce** pour conclure à un **besoin de soins** (ne pas les isoler sans raison).
 
-Distracteurs
-Préférence, « Zoologie est mieux », « Zoologie existe ».`,
-    intermediate: `Approfondi (Intermédiaire) — scène Zoologie
+Préférer Zoologie ou affirmer qu’« Zoologie existe » n’argumente pas le **bien-être animal** ; « Zoologie est mieux » est un slogan vide.`,
+    intermediate: `**Scène : Zoologie**
 
-Étapes
-1. Prémisse : sociabilité des chiens.
-2. Conclusion : besoin de compagnie (implication pour les soins).
-3. Structure analogue à l’anglais « Dogs are social… ».
+**Ici**, l’**éthologie** (sociabilité) soutient une **implication pour les soins**.
 
-Synthèse
-Argument éthologique → prescription de soin.`,
-    expert: `Approfondi (Expert) — scène Zoologie
+**Autre exemple :** « Les perroquets s’attachent fortement aux soigneurs, donc un oiseau seul a besoin d’interaction quotidienne. » Autre espèce — **pas** les chiens du QCM. « J’aime les perroquets » n’est pas l’argument de bien-être.
 
-Lecture experte
-Généralisation sur l’espèce ; la force réelle dépend du contexte (animal de compagnie vs. autre), mais la question porte sur la forme argumentative.`,
+**En résumé :** les « il faut » biologiques exigent quand même **prémisse → conclusion**.`,
+    expert: `**Scène : Zoologie**
+
+**À ne pas confondre :** **affection** pour le titre du cours ≠ raisonnement sur **soins adaptés à l’espèce** ; la bonne option va de la **nature sociale du chien** au **besoin de compagnie**.
+
+**Réserve :** le contexte réel (chiens de travail, errance…) est riche ; le QCM ne demande que la **forme** de l’argument.`,
   },
 
   1020: {
-    beginner: `Approfondi (Débutant) — scène Musique
+    beginner: `**Scène : Musique**
 
-Guitare désaccordée
-« La guitare n’est pas accordée, donc elle sonnera mal. » — État de l’instrument → qualité sonore attendue.
+« La guitare n’est pas accordée, **donc** elle sonnera mal » enchaîne **état de l’instrument** et **résultat sonore attendu** — diagnostic simple → prédiction.
 
-Autres
-Préférence, « Musique est mieux », « Musique existe ».`,
-    intermediate: `Approfondi (Intermédiaire) — scène Musique
+Préférer Musique ou dire qu’« Musique existe » ne relie pas **accord** et **qualité de son** ; « Musique est mieux » n’ajoute aucun mécanisme.`,
+    intermediate: `**Scène : Musique**
 
-Procédure
-1. Prémisse : guitare non accordée.
-2. Conclusion : son défavorable / « mal ».
-3. Inférence causale simple sur la performance musicale.
+**Cette ligne** relie **réglage** (accord) à **qualité perçue** du son.
 
-Parité
-Même schéma que « The guitar is out of tune… » en anglais.`,
-    expert: `Approfondi (Expert) — scène Musique
+**Autre exemple :** « L’anche est fendue, donc la clarinette va grincer à l’attaque. » Autre instrument — **pas** la guitare du QCM. « J’aime les concerts » ne remplace pas l’analyse du matériel.
 
-Note
-Argument instrumental minimal : état → évaluation esthétique attendue ; distracteurs sans structure argumentative.`,
+**En résumé :** l’artisanat et la scène regorgent de petits **arguments causaux**.`,
+    expert: `**Scène : Musique**
+
+**À ne pas confondre :** **plaisir** pour la matière n’est pas un argument **acoustique** ; la bonne option cite le **désaccordage** comme raison d’un jugement **négatif** sur le son.
+
+**Reconstruction :** état de l’instrument → qualité sonore attendue. Distracteurs sans structure **prémisse–conclusion**.`,
   },
 
   1021: {

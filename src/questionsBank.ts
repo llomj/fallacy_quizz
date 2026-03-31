@@ -2,11 +2,13 @@ import type { Question } from './types';
 import { FALLACY_QUESTIONS_EN, FALLACY_QUESTIONS_FR } from './data/questions/fallaciesData';
 import { LEVEL_0_GEN_EN, LEVEL_0_GEN_FR } from './data/questions/level0Data';
 
-// Logical fallacies question bank.
-// Generated from cyberpunk logic JSON data.
+// Level 0 owns IDs 1001–1300. Filter out any overlapping legacy entries from
+// fallaciesData so every question ID resolves to exactly one canonical record.
+const FALLACY_GAME_IDS_ONLY_EN = FALLACY_QUESTIONS_EN.filter((q) => q.id < 1000);
+const FALLACY_GAME_IDS_ONLY_FR = FALLACY_QUESTIONS_FR.filter((q) => q.id < 1000);
 
-export const QUESTIONS_BANK_EN: Question[] = [...FALLACY_QUESTIONS_EN, ...LEVEL_0_GEN_EN];
-export const QUESTIONS_BANK_FR: Question[] = [...FALLACY_QUESTIONS_FR, ...LEVEL_0_GEN_FR];
+export const QUESTIONS_BANK_EN: Question[] = [...FALLACY_GAME_IDS_ONLY_EN, ...LEVEL_0_GEN_EN];
+export const QUESTIONS_BANK_FR: Question[] = [...FALLACY_GAME_IDS_ONLY_FR, ...LEVEL_0_GEN_FR];
 
 export const QUESTIONS_BANK: Question[] = QUESTIONS_BANK_EN; // Default fallback
 

@@ -57,7 +57,8 @@ Before any commit that should go live, confirm with `git remote -v` that you wil
 - **Fallback Rule**: Only fall back to English when a French translation truly does not exist yet; once added, the French version must fully mirror the English content in depth and structure.
 
 ## 7. Monetisation Goal
-- **Goal**: Monetise this app later. Quality must be top-notch.
+- **Goal**: Monetise this app later (including distribution on **App Store** and **Google Play**). Quality must be top-notch.
+- **Store readiness**: For store release, the app must be **easy to understand** for a general audience. This is a **learning and education** product: explanations must be **clear**, human, and trustworthy—not generic or robotic.
 
 ## 8. Verify Code Instruction
 - When the user types "verify code", the agent's role is to verify and debug any problems, issues, conflicts, or potential bugs in the codebase.
@@ -82,3 +83,23 @@ Before any commit that should go live, confirm with `git remote -v` that you wil
 - **Default mode on app open**: When the user opens the app, the default must be **Level mode**, not Random mode. The Random mode switch must be off by default so that new and returning users start in Level mode unless they explicitly enable Random mode.
 - **Separate points**: Level mode and Random mode each have their own point system. Level mode uses `xp`; Random mode uses `randomModeXp`. Points must never be shared or carried over between modes. When the user is in Random mode, the UI (e.g. nav bar bolt/XP) must show only Random-mode points (starting at 0 when they have not yet earned any in Random). When in Level mode, show only Level-mode `xp`.
 - **Start level**: When a user starts the game (fresh state), the game starts on **level 0**, not level 1. Initial state must use `currentLevel: 0` and `highestUnlockedLevel: 0`. Do not default new users to level 1.
+
+## 14. Codon / in-depth explanations — quality overhaul (TRACKED TASK)
+
+**Status:** In progress. **Work order:** Start at **Level 0** (question IDs **1001–1300**, `level0StandaloneInDepth.ts`), then Level **1** (1–90), then Levels **2–10** (91–900). Do not skip ahead; advance only when the current band meets the quality bar below. Detailed authoring progress and file references: **`task.md`** (EN/FR parity required per §6).
+
+**Problem to fix:** Codon explanations (beginner / intermediate / expert panels) must not read as **generic, robotic, or lifeless**. They must help users **detect logical fallacies in real arguments**—this is core pedagogy for a learning tool.
+
+**Per-question specificity:** Each explanation should **tie to the actual question/scenario** where it adds value—especially at **beginner** level—so the learner sees *why* this stem illustrates the fallacy, not a boilerplate definition dump.
+
+**By depth (English + French, structurally aligned per §6):**
+
+| Depth | Purpose |
+|-------|---------|
+| **Beginner** | Short, plain-language explanation **grounded in the question**—simple and specific enough that a new learner connects stem → fallacy. |
+| **Intermediate** | Somewhat more verbose; use **additional examples** (they may differ from the question) that **clearly illustrate** the same fallacy pattern in varied contexts. |
+| **Expert** | Deeper analysis: nuance, edge cases, and **distinct expert content**—**do not repeat** the same illustrative examples used at intermediate (or duplicate the stem). Add **distinctions** where useful: e.g. “not to be confused with…”, “similar to… but differs because…”, related fallacies. |
+
+**Commercial / education alignment:** Store-bound apps (§7) compete on clarity and trust. Explanations are a primary product surface: they must read as **human, precise, and educational**, suitable for users who may have no prior logic training.
+
+**Agent checklist when authoring or reviewing in-depth content:** glossary-consistent (§3); no placeholder tone; beginner tied to the question; intermediate adds varied examples; expert adds depth without recycling examples; Level 0 → Level 1 → higher levels in order; update **`task.md`** as sections complete.

@@ -47,8 +47,8 @@
 
 | Range | IDs complete | Notes |
 |-------|----------------|-------|
-| 1001–1010 | **10 / 10** | First batch: argument-vs-assertion / foundations; EN+FR parity |
-| 1011–1020 | **10 / 10** | Organic/transport/solar + “Scene:” items; FR bank differs for **1012–1013** (Linguistique / Technologie vs EN public transport / solar)—standalone text follows each bank |
+| 1001–1010 | **10 / 10** | First batch: argument-vs-assertion / foundations; EN+FR parity — **Mar 2026:** codon quality pass (warmer, scenario-led beginner; intermediate adds off-card examples; expert adds distinctions; see §14 AGENTS.md) |
+| 1011–1020 | **10 / 10** | Organic/transport/solar + “Scene:” items; FR bank differs for **1012–1013** (Linguistique / Technologie vs EN public transport / solar)—standalone text follows each bank — **Mar 2026:** codon quality pass (§14 AGENTS.md) |
 | 1021–1030 | **10 / 10** | Bake-off, sprint, hike, car, plants, library, walking, algebra, tide, planetarium — EN/FR alignés sur cette plage |
 | 1031–1040 | **10 / 10** | Apple/gravity, language practice, router, museum, paint, red light, study breaks, resale tickets, quiet-hours policy, jazz tuning — EN/FR alignés |
 | 1041–1050 | **10 / 10** | Cupcakes, relay, squall picnic, tool shed, night-sky alerts, lead fountain, counseling wait, even-k² proof, tide transect, starlight lookback |
