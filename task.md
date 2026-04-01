@@ -1,8 +1,10 @@
 # Fallacy Quiz — In-depth explanations (authoring tracker)
 
-**Purpose:** Every question should eventually have **unique** in-depth text for **Beginner**, **Intermediate**, and **Expert**, tightly tied to **that** question’s scenario. **English** and **French** must stay in **structural parity** (same sections, same depth; intermediate and expert should be verbose and step-by-step where useful).
+**Purpose:** Every question should eventually have **unique** in-depth text for **Beginner**, **Intermediate**, and **Expert**, tightly tied to **that** question’s scenario. **English** and **French** must stay in **structural parity** (same sections, same depth; intermediate and expert should be verbose and step-by-step where useful). Numbered steps: use `1. ` (space after the period) and a **blank line between steps** for readability (§14 AGENTS.md).
 
 **Coverage status (this tracker):** **Complete** for all IDs in scope — Level **0** (1001–1300), Level **1** (1–90), and Levels **2–10** (91–900). Fallacy IDs **1–900** use the **layperson / fallacy-only** template (see Authoring checklist). Level **0** items teach argument basics (e.g. premise/conclusion) and may still **walk through answer choices** where that is the skill being tested; a future pass could align tone with the fallacy style if desired.
+
+**Codon quality pass (§14 AGENTS.md, Mar 2026):** Level 0 has **30** batches × 10 IDs (not 100 batches). **Plain, step-by-step style** (no label soup): rewrites must cover **both** English and French for the **same IDs** in one pass—`LEVEL_0_STANDALONE_EN` **and** `LEVEL_0_STANDALONE_FR` in `level0StandaloneInDepth.ts` (see §6 / §14 AGENTS.md). French follows `LEVEL_0_GEN_FR` when EN/FR scenarios differ. Track EN and FR progress separately in this file until each band matches.
 
 **Technical source of truth (Level 0):** `src/data/inDepth/level0StandaloneInDepth.ts`  
 - `LEVEL_0_STANDALONE_EN` / `LEVEL_0_STANDALONE_FR`: `Record<questionId, { beginner, intermediate, expert }>` — **300 / 300** IDs present (see Level 0 progress below).  
@@ -49,7 +51,7 @@
 |-------|----------------|-------|
 | 1001–1010 | **10 / 10** | First batch: argument-vs-assertion / foundations; EN+FR parity — **Mar 2026:** codon quality pass (warmer, scenario-led beginner; intermediate adds off-card examples; expert adds distinctions; see §14 AGENTS.md) |
 | 1011–1020 | **10 / 10** | Organic/transport/solar + “Scene:” items; FR bank differs for **1012–1013** (Linguistique / Technologie vs EN public transport / solar)—standalone text follows each bank — **Mar 2026:** codon quality pass (§14 AGENTS.md) |
-| 1021–1030 | **10 / 10** | Bake-off, sprint, hike, car, plants, library, walking, algebra, tide, planetarium — EN/FR alignés sur cette plage |
+| 1021–1030 | **10 / 10** | Bake-off, sprint, hike, car, plants, library, walking, algebra, tide, planetarium — EN/FR alignés sur cette plage — **Mar 2026:** codon quality pass (§14 AGENTS.md) |
 | 1031–1040 | **10 / 10** | Apple/gravity, language practice, router, museum, paint, red light, study breaks, resale tickets, quiet-hours policy, jazz tuning — EN/FR alignés |
 | 1041–1050 | **10 / 10** | Cupcakes, relay, squall picnic, tool shed, night-sky alerts, lead fountain, counseling wait, even-k² proof, tide transect, starlight lookback |
 | 1051–1060 | **10 / 10** | Premise-identification drills (Since / Comme …) — gravity through guitar tuning |
@@ -102,6 +104,8 @@
 | 10 | 811–900 | 90 | **90 / 90** |
 
 **Module:** `level2to10StandaloneInDepth.ts` — regenerate: `node scripts/generate-standalone-levels-2-10.mjs`
+
+**Apr 2026 style pass:** Level **10** IDs **811–820** were rewritten in the plain numbered lesson format (EN + FR) to match the easier-to-scan style used in Level 0.
 
 **Completed IDs (Levels 2–10):** **91–900** (**810 / 810**)
 

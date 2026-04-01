@@ -6,6 +6,7 @@ import { translateQuestionText, translateOptionText, getQuestionDisplay } from '
 import { displayStoredQuizOptionLabel } from '../utils/quizStoredOptionDisplay';
 import { getTranslatedShortExplanation, isLogicalFallaciesAppQuestionId } from '../data/shortExplanationsTranslations';
 import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
+import { ExplanationWithStepNumbers } from './ExplanationWithStepNumbers';
 import { getQuestionBank } from '../questionsBank';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
@@ -315,8 +316,11 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                               </select>
                             </label>
                           </div>
-                          <div className="text-slate-200 leading-relaxed text-sm whitespace-pre-wrap bg-transparent">
-                            {normalizeExplanationWhitespace(
+                          <ExplanationWithStepNumbers
+                            className="text-sm bg-transparent"
+                            bodyClassName="text-slate-200"
+                            stepClassName="text-yellow-300 font-semibold"
+                            text={normalizeExplanationWhitespace(
                               getTranslatedDetailedExplanation(
                                 attempt.id,
                                 detailedExplanation,
@@ -327,7 +331,7 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                                 bankQuestion?.explanation
                               )
                             )}
-                          </div>
+                          />
                         </div>
                       </div>
                     )}

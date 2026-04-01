@@ -19,3638 +19,3096 @@ export type StandaloneInDepthLevels = {
 /** English — completed IDs tracked in task.md */
 export const LEVEL_0_STANDALONE_EN: Partial<Record<number, StandaloneInDepthLevels>> = {
   1001: {
-    beginner: `**Single-use plastics**
+    beginner: `Single-use plastics
 
-You are looking for one line that gives both a **takeaway** (“we should…”) and a **why** that could convince someone—not just a fact or a mood.
+1. Look for one option that says what we should do and gives a reason someone could debate—not only a fact or a mood.
 
-On this card, only one option does that. Saying plastics are “everywhere” or that wrap “exists in every store” just paints the background; it does not argue for any action. Saying you dislike bags is honest, but it is a reaction, not a public reason tied to harm. The line that bans plastics **because** they clog oceans is the only one that uses a consequence as support for a policy. That is what we count as an argument here: a claim you could agree or disagree with, plus something offered in its favor.`,
-    intermediate: `**Single-use plastics**
+2. “Plastics are everywhere” or “wrap exists in stores” describes the situation; it does not argue for action.
 
-Same skill, wider picture: an argument links a **premise** to a **conclusion** someone might dispute.
+3. Disliking bags is a personal reaction, not a harm-based reason for policy.
 
-**On this question**, the ban line does that openly: harm to oceans → reason to ban. The other lines stop at description (“everywhere,” “exists”) or taste (“I dislike…”) without connecting to a “should.”
+4. The line that bans plastics because they harm oceans gives a consequence as support for a policy. That is an argument here: a “should” plus something offered in its favor.`,
+    intermediate: `Single-use plastics
 
-**Different example (not on the card):** “Hospital waste spiked last quarter, so the clinic should separate sharps before pickup.” You might debate whether that fix is enough, but the sentence is still an argument: problem + proposed response. Compare that to “Hospital waste is high”—useful data, but not yet an argument until someone says what ought to change.
+1. An argument links a premise to a conclusion that someone could dispute.
 
-**Takeaway:** Description and preference are not “bad”; they just are not, by themselves, the kind of structured support this lesson is naming.`,
-    expert: `**Single-use plastics**
+2. On this question, the ban line does that: ocean harm supports a ban. Other options stop at description or taste without a “should.”
 
-**Not to be confused with:** Every argument uses factual claims, but a string of facts is not automatically an argument. “Single-use plastics are everywhere” can *feed* an argument once someone adds a norm (“…therefore we should limit them”); alone it is usually classified as **assertion** or **reporting**, not yet a **normative argument**.
+3. Example: “Hospital waste spiked last quarter, so the clinic should separate sharps before pickup.” You could debate the fix, but it is still problem plus response. “Hospital waste is high” is data only until someone says what ought to change.
 
-**Structure (keyed option):** Conclusion = prohibition (or strong policy) on single-use plastics; premise = identifiable harm (ocean pollution). The word “because” marks that the harm is offered as a **reason for** the policy, not as mere background.
+Description and preference are fine; alone they are not the structured support this lesson names.`,
+    expert: `Single-use plastics
 
-**Why the distractors fail:** Ubiquity and existence claims lack a **normative transition**; the dislike option lacks a **public reason** (harm, fairness, law) connecting attitude to policy. Option 2 is the only token that performs the speech-act “here is why we should do this.”`,
+Facts can support arguments, but a list of facts is not automatically an argument. “Plastics are everywhere” can feed an argument if someone adds what we ought to do; alone it is usually reporting, not a normative argument.
+
+In the correct option, the conclusion is a strong policy on single-use plastics; the premise is harm (e.g. ocean pollution). “Because” signals that harm is a reason for the policy, not mere background.
+
+Distractors skip the step from facts to policy (ubiquity, existence) or use only private dislike without a public reason. The keyed option is the one that actually gives reasons for a policy.`,
   },
 
   1002: {
-    beginner: `**Late bus, transit app**
+    beginner: `Late bus, transit app
 
-Think of an argument here as: **something going wrong** + **something that should change** because of it.
+1. An argument here has something going wrong and something that should change because of it.
 
-The morning bus being late every day is the problem; asking the app for **real-time** updates is the proposed fix. That “so” is doing real work: it says better information is the response to unreliable schedules. Painting buses blue, liking transit, or noting that an app exists do not connect the pain point (lateness) to a remedy. Only the first line builds that bridge.`,
-    intermediate: `**Late bus, transit app**
+2. The bus being late every day is the problem; real-time updates in the app are the proposed fix. The “so” ties better information to unreliable schedules.
 
-**This card** pairs a recurring service failure with a concrete product change (live data). That is a textbook “problem → intervention” shape.
+3. Painting buses, liking transit, or saying an app exists does not link lateness to a remedy. Only the line that connects the failure to a concrete change counts.`,
+    intermediate: `Late bus, transit app
 
-**Different example:** “Wait times in triage doubled this month, so the clinic should add a second nurse at intake.” Same pattern: observed strain → organizational response. You could argue about cost or staffing, but the sentence is still an argument. By contrast, “The clinic has an app for check-in” is just infrastructure trivia until someone says what should change **because** of wait times.
+1. This card pairs a repeated service failure with a concrete change (live data): problem, then intervention.
 
-**Takeaway:** Existence claims and tastes do not argue for a feature; linking a **pattern of failure** to a **targeted change** does.`,
-    expert: `**Late bus, transit app**
+2. Example: “Wait times in triage doubled, so the clinic should add a nurse at intake.” Same shape; you could debate cost, but it is still an argument. “The clinic has a check-in app” is trivia until someone says what should change because of wait times.
 
-**Not to be confused with:** A **description of a problem** (“the bus is always late”) can be the *start* of an argument, but it is not yet a full argument until a **prescription** is defended. Option 1 supplies both: lateness as premise, real-time updates as conclusion.
+Linking a pattern of failure to a targeted change is what the lesson wants; bare existence or taste is not enough.`,
+    expert: `Late bus, transit app
 
-**Reconstruction:** Premise = repeated latency relative to published schedule; conclusion = the app ought to expose real-time information. The warrant is implicit: riders cannot plan around stale data when reality diverges from the timetable.
+Saying “the bus is always late” can start an argument, but you need a prescription defended. The keyed option gives both: lateness supports offering real-time information.
 
-**Distractors:** Aesthetic policy (paint) and app **existence** lack inferential linkage to punctuality; enjoyment of riding is **orthogonal** to information design. Strength of the policy case is not graded—only whether the utterance is structured as **reason-giving**.`,
+Premise: schedules are unreliable in practice. Conclusion: the app should show real-time data so riders are not stuck with stale timetables.
+
+Distractors (paint, app exists, loving transit) do not connect to punctuality. The quiz only asks whether the line is structured as reason-giving, not whether the policy is the best one.`,
   },
 
   1003: {
-    beginner: `**Campus Wi-Fi**
+    beginner: `Campus Wi-Fi
 
-You want the line where **something is broken on this network** and **someone with power should act** because of it.
+1. Find the line where something is wrong on this network and someone with authority should act.
 
-Dropping connections is the failure; adding access points is the proposed fix. “I hate losing Wi-Fi” vents frustration but does not argue. “Wi-Fi exists” is true and boring. “Wireless is better than wired” is a general slogan—it never mentions your campus’s dropouts. Only the option that moves from **unstable service here** to **more hardware** counts as the kind of argument this level is teaching.`,
-    intermediate: `**Campus Wi-Fi**
+2. Dropped connections are the failure; adding access points is the fix. “I hate losing Wi-Fi” vents emotion without arguing. “Wi-Fi exists” is not a fix. “Wireless beats wired” ignores this campus’s dropouts.
 
-**This question** is about tying a **local fault** (drops) to an **institutional remedy** (more APs).
+3. Only the option that goes from bad service here to more hardware matches the lesson.`,
+    intermediate: `Campus Wi-Fi
 
-**Different example:** “The lecture-hall projector keeps overheating, so AV services should replace the lamp before finals week.” Same move: symptom → responsible party → action. Compare to “I hate blurry slides”—a feeling, not an argument for maintenance.
+1. Tie a local fault (drops) to an institutional remedy (more access points).
 
-**Takeaway:** Generic tech opinions do not target the diagnosed problem; the keyed option does.`,
-    expert: `**Campus Wi-Fi**
+2. Example: “The projector overheats every lecture, so AV should replace the lamp before finals.” Symptom, then responsible action. “I hate blurry slides” is not a maintenance argument.
 
-**Not to be confused with:** A **generic technology preference** (wireless vs. wired) is not an argument **about this campus’s Wi-Fi** unless it cites the actual failure mode. The keyed option anchors the remedy in **observed dropout**, not in brand loyalty or medium.
+Generic tech slogans do not speak to the actual problem; the keyed option does.`,
+    expert: `Campus Wi-Fi
 
-**Structure:** Service-quality premise (intermittent connectivity) → normative conclusion directed at the university (add capacity/coverage via access points). Distractors supply **affect**, **bare existence**, or **abstract comparison** without the premise–conclusion link.
+Preferring wireless in general is not an argument about this campus unless it cites the real failure (here: connections dropping). The keyed option grounds the fix in observed dropout.
 
-**Note:** In real IT, root cause might be backhaul or configuration; the quiz only asks which line **is** an argument, not whether adding APs is the best engineering fix.`,
+Premise: service is unstable. Conclusion: the university should add capacity (e.g. more APs). Distractors offer feeling, bare existence, or abstract comparison without that link.
+
+In real life the fix might be backhaul or config; the question only asks which line is an argument, not the best engineering answer.`,
   },
 
   1004: {
-    beginner: `**Vending machines**
+    beginner: `Vending machines
 
-Empty shelves are the signal; **restocking twice a day** is the response the sentence defends. That is an argument: the emptiness is doing the work of justifying a schedule change.
+1. Empty shelves signal a problem; restocking twice a day is what the sentence defends as the response.
 
-Preferring snacks, insisting snacks beat salads, or saying machines exist does not explain **why** refill frequency should change. Only the line that starts from **running out** and lands on **how often to restock** matches what the question is asking.`,
-    intermediate: `**Vending machines**
+2. Preferring snacks, ranking snacks over salads, or saying machines exist does not explain why refill frequency should change.
 
-**Here**, observation (stockouts) supports an operational rule (restock cadence).
+3. Pick the line that starts from running out and ends on how often to restock.`,
+    intermediate: `Vending machines
 
-**Different example:** “The printer tray is empty every Monday, so facilities should refill toner on Friday afternoons.” Same structure: recurring empty state → change the maintenance schedule. “I love printing in color” does not argue for toner logistics.
+1. Stockouts support a rule about how often to restock.
 
-**Takeaway:** Taste and ontology do not operationalize a fix; linking **observed shortage** to **process** does.`,
-    expert: `**Vending machines**
+2. Example: “The printer is empty every Monday, so refill toner on Friday afternoons.” Recurring empty state, then a schedule change. “I love color printing” does not argue logistics.
 
-**Not to be confused with:** Expressing **preference** among foods or acknowledging that machines **exist** does not yet argue for **inventory policy**. The keyed option is **operations-style** reasoning: a stockout pattern warrants a replenishment rule.
+Taste or “machines exist” does not replace linking shortage to a process fix.`,
+    expert: `Vending machines
 
-**Reconstruction:** Premise = machines are empty (proxy for demand exceeding supply or insufficient service); conclusion = increase restock frequency to twice daily. Other options lack the **support relation** between campus vending conditions and a **prescriptive** schedule.`,
+Liking certain snacks or noting that vending machines exist does not argue inventory policy by itself. The keyed line is operational: a pattern of emptiness supports a replenishment rule.
+
+Premise: machines run empty. Conclusion: restock more often (e.g. twice daily). Other options skip the link between campus vending conditions and a prescriptive schedule.`,
   },
 
   1005: {
-    beginner: `**Library hours during finals**
+    beginner: `Library hours during finals
 
-The line that wins ties **exam-week crowding** to **longer hours**. Packed stacks during finals are offered as the reason the building should stay open until midnight—that is a policy argument anchored in real demand.
+1. The strong line ties exam-week crowding to longer hours: busy stacks during finals support staying open until midnight.
 
-Loving libraries, praising books, or thinking midnight sounds fun does not give a **finals-specific** reason to extend hours. Only the option that moves from **pressure during exams** to **extend service** fits.`,
-    intermediate: `**Library hours during finals**
+2. Loving libraries, praising books, or liking midnight in general does not give a finals-specific reason to extend hours.
 
-**This card** uses **surge demand** to justify **longer access**.
+3. Choose the option that moves from pressure during exams to extending service.`,
+    intermediate: `Library hours during finals
 
-**Different example:** “Storm warnings are up, so the shelter should stay open past the usual closing.” Same pattern: exceptional need in a defined period → temporary extension of service. Compare to “I like community centers”—warmth without a capacity argument.
+1. Surge demand during a fixed period supports temporary longer access.
 
-**Takeaway:** Affective or generic remarks do not license a schedule change; **observed overload during finals** does in the keyed line.`,
-    expert: `**Library hours during finals**
+2. Example: “Storm warnings are up, so the shelter stays open past normal closing.” Same pattern. “I like community centers” is not a capacity argument.
 
-**Not to be confused with:** **Sentimental attachment** to libraries or **aesthetic** praise of books is not a **service-capacity** argument. The keyed option is a **peak-load** pattern: time-bounded stress on the facility → adjust hours.
+Warm feelings do not replace observed overload as a reason to change hours.`,
+    expert: `Library hours during finals
 
-**Structure:** Premise = unusually high occupancy during finals; conclusion = extend closing to midnight (or equivalent). Distractors omit either the **exam-week** pressure or any **actionable** policy move.`,
+Sentiment about libraries or books is not the same as an argument about service capacity. The keyed option uses peak load: unusual pressure during finals, then longer hours.
+
+Premise: unusually heavy use during exams. Conclusion: extend closing (e.g. to midnight). Distractors lack exam-specific pressure or a clear policy move.`,
   },
 
   1006: {
-    beginner: `**Bike lanes at intersections**
+    beginner: `Bike lanes at intersections
 
-The argument you want names a **danger** (the lane vanishes, riders get squeezed into traffic) and a **city-level fix** (finish the lane through the intersection).
+1. The argument names a danger (the lane disappears and riders merge into traffic) and a city-level fix (complete the lane through the intersection).
 
-Saying bikes are fun, that paint exists, or that intersections exist does not explain **why** the street layout should change. Only the line that connects **broken continuity** to **infrastructure completion** answers the prompt.`,
-    intermediate: `**Bike lanes at intersections**
+2. Fun bikes, paint on the ground, or “intersections exist” do not explain why layout should change.
 
-**Here**, a **design gap** (lane ends) is the premise; **completing the facility** is the conclusion.
+3. Pick the line that connects broken continuity to finishing the facility.`,
+    intermediate: `Bike lanes at intersections
 
-**Different example:** “The sidewalk ends at the ditch, so pedestrians step into the road— the county should add a bridge link.” Same harm-reduction shape, different mode. “I enjoy walking” does not argue for capital construction.
+1. A design gap (lane ends) is the premise; completing the facility is the conclusion.
 
-**Takeaway:** Pure enthusiasm or bare facts about paint do not constitute a **safety argument**; hazard + institutional remedy does.`,
-    expert: `**Bike lanes at intersections**
+2. Example: “The sidewalk ends at the ditch, so the county should add a bridge link.” Same harm-reduction shape. “I enjoy walking” does not argue for construction.
 
-**Not to be confused with:** **Recreational** enthusiasm for cycling or noting that lanes are **painted** does not establish **risk at discontinuities**. The keyed option is **infrastructure ethics**: foreseeable merge conflict → duty to close the gap.
+Enthusiasm or bare facts about paint are not a safety argument until hazard plus remedy appear.`,
+    expert: `Bike lanes at intersections
 
-**Reconstruction:** Premise = geometric discontinuity exposes riders to mixed traffic; conclusion = municipal responsibility to extend/protect the lane through the intersection. Expert discussion might compare protected intersections vs. paint—**outside** the scope of “which line is an argument.”`,
+Liking cycling or noting painted lanes does not establish risk where the lane stops. The keyed line treats a foreseeable merge conflict as a reason to extend or protect the lane through the intersection.
+
+Premise: riders are exposed where the lane ends. Conclusion: the city should complete the facility. Finer design debates (protected intersection vs. paint) are not what this identification question tests.`,
   },
 
   1007: {
-    beginner: `**LED streetlights**
+    beginner: `LED streetlights
 
-The good line says LEDs **use less energy**, and **therefore** the city should retrofit streetlights. That is a public decision backed by an efficiency claim.
+1. The strong line says LEDs use less energy, so the city should retrofit streetlights: a public decision backed by efficiency.
 
-Tall poles, personal taste about brightness, or the fact that electricity exists do not argue for a **retrofit program**. Only the option that chains **lower draw** to **municipal action** qualifies.`,
-    intermediate: `**LED streetlights**
+2. Tall poles, personal brightness taste, or “electricity exists” do not argue for a retrofit program.
 
-**This item** uses **energy performance** to justify **capital spending** on fixtures.
+3. Choose the option that chains lower energy use to municipal action.`,
+    intermediate: `LED streetlights
 
-**Different example:** “New insulation cuts heating loss, so the school district should prioritize window upgrades in the oldest buildings.” Same pattern: measured gain → policy. “I like cozy classrooms” is not an energy argument.
+1. Energy performance supports spending on new fixtures.
 
-**Takeaway:** Aesthetic or existential remarks do not substitute for **efficiency → retrofit** reasoning.`,
-    expert: `**LED streetlights**
+2. Example: “Insulation cuts heat loss, so the district should upgrade windows in the oldest buildings.” Measured gain, then policy. “I like cozy rooms” is not an energy case.
 
-**Not to be confused with:** **Liking** bright light or noting that **electricity** is a thing does not make an **energy-efficiency case** for procurement. The keyed option ties **lower consumption** to a **normative** retrofit.
+Aesthetics or noting that power exists does not replace efficiency-to-retrofit reasoning.`,
+    expert: `LED streetlights
 
-**Pattern:** Attribute of the technology (reduced energy use) offered as a reason for a **public works** decision. Light-pollution or payback-period debates are **not** required to recognize the line as an argument.`,
+Preferring bright light or saying electricity matters does not make an efficiency case for buying fixtures. The keyed line ties lower consumption to a normative retrofit.
+
+The technology attribute (less energy) is offered as a reason for a public works decision. Light pollution or payback debates are not required to see the line as an argument.`,
   },
 
   1008: {
-    beginner: `**Cafeteria food waste**
+    beginner: `Cafeteria food waste
 
-The answer ties **plates of untouched food hitting the trash** to **smaller portions** as the fix. Waste is the evidence; changing how much people can take is the proposed solution.
+1. The answer ties untouched food on plates to smaller portions: waste is the evidence; portion size is the proposed fix.
 
-Wanting dessert, moping that waste is sad, or stating that cafeterias exist does not spell out **what should change** and **why**. The keyed line does.`,
-    intermediate: `**Cafeteria food waste**
+2. Wanting dessert, feeling sad about waste, or saying cafeterias exist does not say what should change and why.
 
-**On this card**, a **waste stream** supports a **menu/portions** intervention.
+3. The keyed line does both.`,
+    intermediate: `Cafeteria food waste
 
-**Different example:** “Conference attendees leave half-filled water bottles in every row, so organizers should offer refill stations instead of pre-pouring jugs.” Same structure: observed discard → operational change. “Plastic makes me sad” is not yet an argument for logistics.
+1. A waste pattern supports changing portions or menu design.
 
-**Takeaway:** Moral discomfort without a **mechanism** is weaker pedagogy here than **problem → specific lever** (portion size).`,
-    expert: `**Cafeteria food waste**
+2. Example: “Attendees leave half-full bottles in every row, so offer refill stations instead of pre-poured jugs.” Observed discard, then an operational change. “Waste makes me sad” is not logistics by itself.
 
-**Not to be confused with:** **Moral disapproval** of waste is not the same as an argument that specifies a **policy instrument**. The keyed option advances **portion sizing** as the response to **untouched food**—a design-level claim.
+Moral discomfort helps motivation; the lesson still wants problem linked to a specific lever (here, portion size).`,
+    expert: `Cafeteria food waste
 
-**Distractors:** Stop at **preference**, **pathos** without remedy, or **existence**—none instantiate premise–conclusion support for **portion policy**.`,
+Disapproving of waste is not the same as naming an instrument. The keyed line ties untouched food to portion sizing as a design response.
+
+Distractors stop at preference, emotion without remedy, or existence; none support portion policy the way the correct option does.`,
   },
 
   1009: {
-    beginner: `**Hybrids and air quality**
+    beginner: `Hybrids and air quality
 
-You need the line that connects **fewer emissions** to **cleaner local air**. That is a simple causal story: what comes out of the tailpipe affects what people breathe nearby.
+1. Find the line that connects lower emissions to cleaner local air: tailpipe output affects what people breathe nearby.
 
-Quiet engines, personal love of driving, or “technology exists” skip the **pollution → air** link. Only the option that moves from **reduced emissions** to **air-quality improvement** matches the question.`,
-    intermediate: `**Hybrids and air quality**
+2. Quiet engines, loving to drive, or “technology exists” skip the pollution-to-air link.
 
-**This stem** asks for a **mechanism** (emissions) tied to an **ambient outcome** (air).
+3. Only the option that moves from reduced emissions to air-quality improvement fits.`,
+    intermediate: `Hybrids and air quality
 
-**Different example:** “Scrubbers cut sulfur from the stack, so nearby asthma admissions should fall.” Different domain, same logic: source reduction → breathable air. “I like factories” does not argue air chemistry.
+1. You need a mechanism (emissions) and an outcome (air people breathe).
 
-**Takeaway:** Acoustic or preference remarks are **orthogonal** to the emissions–air bridge the lesson targets.`,
-    expert: `**Hybrids and air quality**
+2. Example: “Scrubbers cut sulfur, so asthma admissions near the plant should fall.” Source reduction, then breathable air. “I like factories” is not an air-chemistry argument.
 
-**Not to be confused with:** **Quiet operation** is not the same as **lower pollutant output**; the keyed line targets **emissions** as the driver of **local air quality**. 
+Sound or personal taste does not replace the emissions-to-air bridge.`,
+    expert: `Hybrids and air quality
 
-**Structure:** Premise = hybrids reduce relevant emissions (vs. the implicit comparison class); conclusion = local air quality improves, **ceteris paribus**. Expert caveats (meteorology, fleet mix) are **outside** the identification task.`,
+Quiet operation is not the same as lower pollution. The keyed line uses emissions to support better local air quality.
+
+Premise: hybrids cut relevant emissions (versus an implied comparison). Conclusion: local air improves, other things equal. Weather and fleet mix are outside this identification exercise.`,
   },
 
   1010: {
-    beginner: `**Remote work and overhead**
+    beginner: `Remote work and overhead
 
-The line to choose says **less need for office square footage**, **so** **overhead** (rent, utilities, and similar fixed costs) should drop. That is a dollars-and-cents story: fewer desks leased → fewer recurring bills.
+1. The correct line says less office space is needed, so overhead (rent, utilities, similar fixed costs) should fall: fewer desks leased, lower recurring bills.
 
-Video tools alone, loving your couch, or noting that offices exist do not build the **space → cost** inference. Only the option that ties **distributed work** to **lower fixed spend** is on brief.`,
-    intermediate: `**Remote work and overhead**
+2. Video tools alone, loving working from home, or “offices exist” do not build the space-to-cost link.
 
-**Here**, **real-estate demand** is the premise; **overhead** is the conclusion.
+3. Pick the option that ties distributed work to lower fixed spend.`,
+    intermediate: `Remote work and overhead
 
-**Different example:** “The warehouse lease is half empty, so the firm should sublet and cut facility spend.” Same asset-light logic. “I like Zoom backgrounds” does not argue the balance sheet.
+1. Reduced real-estate need supports lower overhead.
 
-**Takeaway:** Technology mentions or comfort preferences do not substitute for **leased footprint → overhead** reasoning.`,
-    expert: `**Remote work and overhead**
+2. Example: “The warehouse lease is half empty, so sublet and cut facility spend.” Same asset-light logic. “I like Zoom backgrounds” does not touch the balance sheet.
 
-**Not to be confused with:** **Collaboration tech** can enable remote work, but it is not automatically an **overhead** argument until tied to **space and recurring cost**. The keyed option makes the **lease/utilities** link explicit.
+Tech mentions or comfort do not replace leased footprint to overhead reasoning.`,
+    expert: `Remote work and overhead
 
-**Reconstruction:** Premise = remote work reduces required office capacity; conclusion = overhead costs fall (other things equal). Distractors lack the **commercial real-estate → fixed cost** bridge.`,
+Collaboration tools can enable remote work, but overhead reasoning needs space and recurring cost. The keyed line makes lease and utilities explicit.
+
+Premise: remote work cuts required office capacity. Conclusion: overhead falls, other things equal. Distractors skip the real-estate-to-fixed-cost bridge.`,
   },
 
   1011: {
-    beginner: `**Organic farming and soil health**
+    beginner: `Organic farming and soil health
 
-The prompt wants one line that ties **what organic farming avoids or does** to **what happens to the soil over time**. The keyed sentence does that: skipping synthetic pesticides is offered as the reason long-term soil health is preserved.
+1. The prompt wants one line that ties what organic farming avoids or does to what happens to the soil over time. The keyed sentence says avoiding synthetic pesticides is the reason long-term soil health is preserved.
 
-Pretty apples, a milk preference, or noting that “soil comes in types” never connects farming practice to soil condition. Only the organic-practice → soil-outcome line is doing argumentative work on this card.`,
-    intermediate: `**Organic farming and soil health**
+2. Pretty apples, a milk preference, or noting that soil comes in types never connects farming practice to soil condition.
 
-**On this item**, the “so” links **method** (no synthetic pesticides) to **outcome** (soil stays healthy in the long run).
+3. Only the line that moves from organic practice to a soil outcome fits.`,
+    intermediate: `Organic farming and soil health
 
-**Different example:** “Cover crops hold moisture in the field, so this farm should plant rye before corn.” Another practice → soil outcome story—here you could debate agronomy, but the **shape** is still premise + supported claim. “I like walking in cornfields” does not argue soil policy.
+1. On this item, “so” links method (no synthetic pesticides) to outcome (soil stays healthy in the long run).
 
-**Takeaway:** Looks and tastes are not soil arguments until they cite a **mechanism** tied to the ground.`,
-    expert: `**Organic farming and soil health**
+2. Example: “Cover crops hold moisture in the field, so this farm should plant rye before corn.” Another practice-to-soil story; you could debate agronomy, but the shape is still premise plus supported claim. “I like walking in cornfields” does not argue soil policy.
 
-**Not to be confused with:** Liking **organic branding** or admiring **apples** is not an argument about **soil**; the keyed option explicitly connects **agronomic practice** to **soil health**.
+Looks and tastes are not soil arguments until they cite a mechanism tied to the ground.`,
+    expert: `Organic farming and soil health
 
-**Structure:** M = organic methods avoid synthetic pesticides; S = those methods help preserve long-term soil health. The exercise does not grade agronomic truth—only whether M is offered as support for S.
+Liking organic branding or admiring apples is not an argument about soil. The keyed option connects agronomic practice to soil health.
 
-**Distractors:** Aesthetic, dietary preference, and generic geography lack the **practice → soil effect** relation.`,
+M = organic methods avoid synthetic pesticides; S = those methods help preserve long-term soil health. The exercise does not grade agronomic truth—only whether M is offered as support for S.
+
+Distractors: aesthetic, dietary preference, and generic geography lack the practice-to-soil-effect relation.`,
   },
 
   1012: {
-    beginner: `**Public transport and traffic**
+    beginner: `Public transport and traffic
 
-You need a line that actually **argues** that transit helps traffic—not just that trains are long or that rush hour is busy.
+1. You need a line that argues transit helps traffic—not only that trains are long or that rush hour is busy.
 
-The correct option says moving more people **per vehicle** **so** congestion eases: fewer cars per person on the road is the implicit story. Liking the subway or observing that traffic exists does not **defend** a transit benefit; “trains are long” is description without a traffic claim.`,
-    intermediate: `**Public transport and traffic**
+2. The correct option says moving more people per vehicle so congestion eases: fewer cars per person on the road is the implicit story.
 
-**Here**, **occupancy efficiency** is the premise; **less congestion** is the conclusion.
+3. Liking the subway or observing that traffic exists does not defend a transit benefit; “trains are long” is description without a traffic claim.`,
+    intermediate: `Public transport and traffic
 
-**Different example:** “The ferry carries forty cars per trip, so shifting riders onto it should free lane space on the bridge.” Different mode, same systems logic: bundle demand → fewer vehicles fighting for asphalt. “I love ferries” is not that argument.
+1. Occupancy efficiency is the premise; less congestion is the conclusion.
 
-**Takeaway:** Personal enjoyment and bare traffic facts do not substitute for **transit attribute → road crowding** reasoning.`,
-    expert: `**Public transport and traffic**
+2. Example: “The ferry carries forty cars per trip, so shifting riders onto it should free lane space on the bridge.” Different mode, same systems logic: bundle demand, fewer vehicles fighting for asphalt. “I love ferries” is not that argument.
 
-**Not to be confused with:** Noting that **traffic exists** or that **trains are long** does not establish **transit reduces congestion**. The keyed line makes a **comparative systems** claim (people per vehicle → fewer vehicles per capita on the network), *ceteris paribus*.
+Personal enjoyment and bare traffic facts do not substitute for transit attribute to road crowding reasoning.`,
+    expert: `Public transport and traffic
 
-**Limits:** Land use, pricing, and induced demand matter in real policy; the quiz only asks which utterance **is** an argument, not whether the argument wins an economics seminar.`,
+Noting that traffic exists or that trains are long does not establish that transit reduces congestion. The keyed line makes a comparative systems claim (people per vehicle, fewer vehicles per capita on the network), other things equal.
+
+Land use, pricing, and induced demand matter in real policy; the quiz only asks which utterance is an argument, not whether it wins an economics seminar.`,
   },
 
   1013: {
-    beginner: `**Solar panels and energy bills**
+    beginner: `Solar panels and energy bills
 
-The answer is the **second** option (index 1): panels **make power from sunlight**, **so** your **bills** should drop—generation on your roof means buying less from the grid.
+1. The answer is the option that says panels make power from sunlight, so your bills should drop—generation on your roof means buying less from the grid.
 
-Shiny panels, vague desire, or “electricity is important” never connect **production** to **money**. Only that line does.`,
-    intermediate: `**Solar panels and energy bills**
+2. Shiny panels, vague desire, or “electricity is important” never connect production to money.
 
-**This stem** requires a path from **physics** (sunlight → electricity) to **household cost** (lower monthly bills).
+3. Only that line does.`,
+    intermediate: `Solar panels and energy bills
 
-**Different example:** “This factory’s heat-recovery unit captures steam, so its fuel line item should shrink.” Same genre: on-site resource → spending—without repeating solar. “I want a fancy boiler” is not a bill argument.
+1. This stem needs a path from physics (sunlight to electricity) to household cost (lower monthly bills).
 
-**Takeaway:** Sparkle and wishlists do not argue **generation → expenditure**; the keyed option does.`,
-    expert: `**Solar panels and energy bills**
+2. Example: “This factory’s heat-recovery unit captures steam, so its fuel line item should shrink.” Same genre: on-site resource to spending, without repeating solar. “I want a fancy boiler” is not a bill argument.
 
-**Not to be confused with:** Wanting panels or calling electricity “important” is not a **bill mechanism**; the keyed line ties **on-site generation** to **reduced purchases** from the utility (capital cost ignored at this level).
+Sparkle and wishlists do not argue generation to expenditure; the keyed option does.`,
+    expert: `Solar panels and energy bills
 
-**Distractor taxonomy:** Aesthetic, volitional, and generic importance claims skip the **production–expenditure** bridge.`,
+Wanting panels or calling electricity important is not a bill mechanism by itself. The keyed line ties on-site generation to reduced purchases from the utility (capital cost ignored at this level).
+
+Distractor taxonomy: aesthetic, volitional, and generic importance claims skip the production–expenditure bridge.`,
   },
 
   1014: {
-    beginner: `**Scene: History**
+    beginner: `Scene: History
 
-The word “History” in the scene label is **scenery**. The real argument is the line about **artifacts**: they are **fragile**, **so** they need **careful handling**—a material fact offered as the reason for a handling rule.
+1. The word History in the scene label is scenery. The real argument is the line about artifacts: they are fragile, so they need careful handling—a material fact as the reason for a handling rule.
 
-“I prefer History,” bare boosterism, or “History exists” never give a **because** for how to treat objects. The fragility line does.`,
-    intermediate: `**Scene: History**
+2. Preferring History, bare boosterism, or History exists never give a because for how to treat objects.
 
-**On this card**, **vulnerability** supports a **care norm**.
+3. The fragility line does.`,
+    intermediate: `Scene: History
 
-**Different example:** “Glass negatives warp in dry air, so storage should stay at stable humidity.” Same museum logic, different risk—**not** repeating fragile artifacts from the stem. “I love archives” is not a preservation argument.
+1. On this card, vulnerability supports a care norm.
 
-**Takeaway:** Scene labels set mood; the skill is spotting **premise → prescription** in the actual sentence.`,
-    expert: `**Scene: History**
+2. Example: “Glass negatives warp in dry air, so storage should stay at stable humidity.” Same museum logic, different risk—not repeating fragile artifacts from the stem. “I love archives” is not a preservation argument.
 
-**Not to be confused with:** **Preference** for a subject or **existence** claims do not argue **handling protocols**; the keyed option uses **fragility** as the warrant for **care norms**.
+Scene labels set mood; the skill is spotting premise to prescription in the actual sentence.`,
+    expert: `Scene: History
 
-**Formal sketch:** F = artifacts are fragile; H = they require careful handling. Distractors lack explicit **support** from a premise tied to the conclusion.`,
+Preference for a subject or existence claims do not argue handling protocols. The keyed option uses fragility as the warrant for care norms.
+
+F = artifacts are fragile; H = they require careful handling. Distractors lack explicit support from a premise tied to the conclusion.`,
   },
 
   1015: {
-    beginner: `**Scene: Art**
+    beginner: `Scene: Art
 
-The line that counts gives a **color fact**, then a **mixing instruction**: red and blue make purple, **so** mix them to get that hue. One part is offered as the reason for the other.
+1. The line that counts gives a color fact, then a mixing instruction: red and blue make purple, so mix them to get that hue. One part is offered as the reason for the other.
 
-Preferring Art, declaring Art “better” without criteria, or saying Art exists does not structure **reason → action or result** the way the color-mix line does.`,
-    intermediate: `**Scene: Art**
+2. Preferring Art, declaring Art better without criteria, or saying Art exists does not structure reason to action or result the way the color-mix line does.`,
+    intermediate: `Scene: Art
 
-**Here**, a **palette rule** backs a **procedure**.
+1. Here a palette rule backs a procedure.
 
-**Different example:** “Two parts resin to one part hardener sets hard, so measure in that ratio before pouring.” Workshop chemistry instead of paint—**not** the red/blue mix from the question. “I love workshops” is not the argument.
+2. Example: “Two parts resin to one part hardener sets hard, so measure in that ratio before pouring.” Workshop chemistry instead of paint—not the red/blue mix from the question. “I love workshops” is not the argument.
 
-**Takeaway:** Even a one-line studio tip can be an argument when **because**-style support is present.`,
-    expert: `**Scene: Art**
+Even a one-line studio tip can be an argument when because-style support is present.`,
+    expert: `Scene: Art
 
-**Not to be confused with:** **Taste** for a subject or **existence** statements do not perform inferential work; the keyed line is a compact **means–end** link (mixing facts → instruction).
+Taste for a subject or existence statements do not do inferential work. The keyed line is a compact means–end link (mixing facts to instruction).
 
-**Boundary:** Violet vs. purple nuance is **not** tested—only that **one clause supports another** in the speech-act sense.`,
+Violet vs. purple nuance is not tested—only that one clause supports another in the speech-act sense.`,
   },
 
   1016: {
-    beginner: `**Scene: Traffic**
+    beginner: `Scene: Traffic
 
-The real argument is **regulatory**: the light is **red**, **so** drivers **must stop**—the signal’s state is the reason for the obligation.
+1. The real argument is regulatory: the light is red, so drivers must stop—the signal’s state is the reason for the obligation.
 
-Topic preference, empty “Traffic is better,” or “Traffic exists” do not move from **fact about the light** to **what drivers must do**.`,
-    intermediate: `**Scene: Traffic**
+2. Topic preference, empty “Traffic is better,” or Traffic exists do not move from fact about the light to what drivers must do.`,
+    intermediate: `Scene: Traffic
 
-**This item** bridges **is** (red light) to **ought** (stop), leaning on the **rules of the road** everyone is meant to share.
+1. This item bridges is (red light) to ought (stop), leaning on the rules of the road everyone is meant to share.
 
-**Different example:** “The runway lights are red in this sector, so the plane must hold short.” Aviation instead of cars—**not** repeating the driving stem. “I love airports” is not a safety argument.
+2. Example: “The runway lights are red in this sector, so the plane must hold short.” Aviation instead of cars—not repeating the driving stem. “I love airports” is not a safety argument.
 
-**Takeaway:** Normative arguments show up wherever **signals + rules** meet; not only in essays.`,
-    expert: `**Scene: Traffic**
+Normative arguments show up wherever signals and rules meet; not only in essays.`,
+    expert: `Scene: Traffic
 
-**Not to be confused with:** **Liking** “Traffic” as a theme does not create a **stop obligation**; the keyed sentence cites **signal state** as the reason for **required behavior** under implicit law/custom.
+Liking Traffic as a theme does not create a stop obligation. The keyed sentence cites signal state as the reason for required behavior under implicit law or custom.
 
-**Distractors:** No premise–conclusion link from **light** to **duty to stop**.`,
+Distractors offer no premise–conclusion link from light to duty to stop.`,
   },
 
   1017: {
-    beginner: `**Scene: Biology**
+    beginner: `Scene: Biology
 
-The keyed line says **lost sleep hurts focus**, **so** **students should rest**—linking a **psychological/performance hit** to a **behavior change**.
+1. The keyed line says lost sleep hurts focus, so students should rest—linking a performance hit to a behavior change.
 
-Subject preference, “Biology is better,” and “Biology exists” are **noise** next to that structure.`,
-    intermediate: `**Scene: Biology**
+2. Subject preference, Biology is better, and Biology exists are noise next to that structure.`,
+    intermediate: `Scene: Biology
 
-**Here**, **sleep debt** is the premise; **rest** is the prescription.
+1. Here sleep debt is the premise; rest is the prescription.
 
-**Different example:** “Dehydration blunts reaction time, so crews on long shifts should rotate water breaks.” Occupational health, not the classroom—**not** repeating sleep/focus from the card. “I love biology class” is not prudential reasoning.
+2. Example: “Dehydration blunts reaction time, so crews on long shifts should rotate water breaks.” Occupational health, not the classroom—not repeating sleep/focus from the card. “I love biology class” is not prudential reasoning.
 
-**Takeaway:** **Prudential** arguments pair a **harm or risk** with a **recommended habit**; that is what to recognize.`,
-    expert: `**Scene: Biology**
+Prudential arguments pair a harm or risk with a recommended habit; that is what to recognize.`,
+    expert: `Scene: Biology
 
-**Not to be confused with:** **Enjoyment** of the subject is not a **health-and-performance** argument; the keyed option ties **sleep loss → impaired focus** to a **rest** conclusion.
+Enjoyment of the subject is not a health-and-performance argument. The keyed option ties sleep loss to impaired focus and a rest conclusion.
 
-**Framing:** Ceteris paribus prudential inference—no meta-analysis required, only **premise-supported ought**.`,
+Ceteris paribus prudential inference—no meta-analysis required, only premise-supported ought.`,
   },
 
   1018: {
-    beginner: `**Scene: Economics**
+    beginner: `Scene: Economics
 
-“Supply is low, **so** prices will rise” is a compact **scarcity → price pressure** story: the premise names an economic condition; the conclusion is a directional forecast.
+1. Supply is low, so prices will rise is a compact scarcity-to-price-pressure story: the premise names an economic condition; the conclusion is a directional forecast.
 
-Liking Economics or noting that Economics “exists” does not argue **supply relative to demand**; “Economics is better” adds no mechanism.`,
-    intermediate: `**Scene: Economics**
+2. Liking Economics or noting that Economics exists does not argue supply relative to demand; Economics is better adds no mechanism.`,
+    intermediate: `Scene: Economics
 
-**On this card**, **tight supply** supports expecting **higher prices** (demand held in the background).
+1. On this card, tight supply supports expecting higher prices (demand held in the background).
 
-**Different example:** “Warehouse slots are gone for the month, so spot shipping rates should spike.” Logistics flavor, not the exact supply line on the quiz—**not** recycling “supply is low.” “I love trucks” is not microeconomics.
+2. Example: “Warehouse slots are gone for the month, so spot shipping rates should spike.” Logistics flavor, not the exact supply line on the quiz—not recycling “supply is low.” “I love trucks” is not microeconomics.
 
-**Takeaway:** You are not grading whether the forecast always comes true—only that this line **gives a reason** for the price claim.`,
-    expert: `**Scene: Economics**
+You are not grading whether the forecast always comes true—only that this line gives a reason for the price claim.`,
+    expert: `Scene: Economics
 
-**Not to be confused with:** **Brand preference** for the subject vs. an **economic mechanism**; only the keyed line connects **scarcity on the supply side** to **upward price movement**.
+Brand preference for the subject is not the same as an economic mechanism. Only the keyed line connects scarcity on the supply side to upward price movement.
 
-**Boundary:** Elasticity, expectations, and policy—**outside** the Level 0 identification task.`,
+Elasticity, expectations, and policy sit outside the Level 0 identification task.`,
   },
 
   1019: {
-    beginner: `**Scene: Zoology**
+    beginner: `Scene: Zoology
 
-“Dogs are social, **so** they need company” uses a **species-typical trait** to defend a **care conclusion**—social needs → don’t isolate them recklessly.
+1. Dogs are social, so they need company uses a species-typical trait to defend a care conclusion—social needs to not isolate them recklessly.
 
-Preferring Zoology or asserting Zoology’s existence does not argue **animal welfare**; “Zoology is better” is empty cheerleading.`,
-    intermediate: `**Scene: Zoology**
+2. Preferring Zoology or asserting Zoology’s existence does not argue animal welfare; Zoology is better is empty cheerleading.`,
+    intermediate: `Scene: Zoology
 
-**Here**, **ethology** (social behavior) backs a **husbandry** implication.
+1. Here ethology (social behavior) backs a husbandry implication.
 
-**Different example:** “Parrots bond strongly with handlers, so solo birds need daily interaction.” Another species, same **trait → care** pattern—**not** dogs again. “I love parrots” is not the welfare argument.
+2. Example: “Parrots bond strongly with handlers, so solo birds need daily interaction.” Another species, same trait-to-care pattern—not dogs again. “I love parrots” is not the welfare argument.
 
-**Takeaway:** Biology-flavored **oughts** still need **premise → conclusion** structure.`,
-    expert: `**Scene: Zoology**
+Biology-flavored oughts still need premise-to-conclusion structure.`,
+    expert: `Scene: Zoology
 
-**Not to be confused with:** **Affection** for the course title is not **species-appropriate care** reasoning; the keyed line moves from **social nature of dogs** to **need for company**.
+Affection for the course title is not species-appropriate care reasoning. The keyed line moves from social nature of dogs to need for company.
 
-**Caveat:** Real welfare is context-rich (working dogs, street dogs); the quiz asks only for **argument shape**, not a full ethics review.`,
+Real welfare is context-rich (working dogs, street dogs); the quiz asks only for argument shape, not a full ethics review.`,
   },
 
   1020: {
-    beginner: `**Scene: Music**
+    beginner: `Scene: Music
 
-The guitar is **out of tune**, **so** it will **sound bad**—state of the instrument → expected auditory result. That is a straight **diagnostic → prediction** link.
+1. The guitar is out of tune, so it will sound bad—state of the instrument to expected auditory result. That is a straight diagnostic-to-prediction link.
 
-Preferring Music or saying Music exists does not tie **tuning** to **sound quality**; “Music is better” adds no mechanism.`,
-    intermediate: `**Scene: Music**
+2. Preferring Music or saying Music exists does not tie tuning to sound quality; Music is better adds no mechanism.`,
+    intermediate: `Scene: Music
 
-**This line** chains **setup state** (tuning) to **performance quality** (how it will sound).
+1. This line chains setup state (tuning) to performance quality (how it will sound).
 
-**Different example:** “The reed is cracked, so the clarinet will squeak on the entrance.” Different instrument, same **hardware state → sonic outcome** logic—**not** the guitar stem. “I love concerts” is not instrument reasoning.
+2. Example: “The reed is cracked, so the clarinet will squeak on the entrance.” Different instrument, same hardware state to sonic outcome logic—not the guitar stem. “I love concerts” is not instrument reasoning.
 
-**Takeaway:** Craft and performance are full of **small causal arguments**; recognize them even outside op-eds.`,
-    expert: `**Scene: Music**
+Craft and performance are full of small causal arguments; recognize them even outside op-eds.`,
+    expert: `Scene: Music
 
-**Not to be confused with:** **Enjoyment** of the subject is not an **acoustic** argument; the keyed option cites **detuned strings** as the reason for a **negative sound** judgment.
+Enjoyment of the subject is not an acoustic argument. The keyed option cites detuned strings as the reason for a negative sound judgment.
 
-**Reconstruction:** Instrument state → expected auditory quality. Distractors lack **premise–conclusion** structure entirely.`,
+Reconstruction: instrument state to expected auditory quality. Distractors lack premise–conclusion structure entirely.`,
   },
 
   1021: {
-    beginner: `In-depth (Beginner) — community bake-off
+    beginner: `Community bake-off
 
-What counts as an argument
-A **claim backed by a reason**—here, baking conditions linked to an outcome.
+1. You need chatter that is actually an argument: one part offered to back another. Cupcake trends, vanilla smell, and butter on sale are scene noise—they do not link oven state to how the bake will turn out.
 
-The options
-• "Cupcakes are trendy this year." — Fashion comment, not a heat→texture chain.
-• "The oven is too hot, so the sponge will dry out." — **Premise** (excessive heat) supports **conclusion** (dried sponge). Argument.
-• "This kitchen smells like vanilla." — Sensory note.
-• "Butter is on sale at the store." — Shopping fact, unrelated to the oven.
+2. The keyed option says the oven is too hot, so the sponge will dry out. Heat is the reason; a dried cake is the predicted failure.`,
+    intermediate: `Community bake-off
 
-Correct line
-The second option: causal baking reasoning in one sentence.`,
-    intermediate: `In-depth (Intermediate) — community bake-off
+1. On this card, too much heat is the premise; a dried sponge is the forecast.
 
-Step-by-step
-1. Read the prompt: at a bake-off, which line is an argument—not just chatter?
-2. Decompose the keyed sentence:
-   - Observation about equipment state: oven temperature too high for the bake.
-   - Predicted baking failure mode: sponge cake dries out.
-3. "So" signals that the heat claim is the **reason** for the drying prediction.
-4. Trendiness, smell, and butter price do not connect appliance state to product quality.
+2. Example: “The syrup hit 310°F, so the caramel will set hard once it cools.” Candy-making instead of génoise—not repeating oven/sponge. “I love caramel” is not a process argument.
 
-Takeaway
-Cooking items often encode **if cause-like condition, then outcome**—that is argumentative structure even when informal.`,
-    expert: `In-depth (Expert) — community bake-off
+Recipes are full of condition-to-outcome moves; spotting that structure is the skill, not winning Bake Off.`,
+    expert: `Community bake-off
 
-Logical reconstruction
-Let H = the oven is too hot (relative to what the sponge needs). Let D = the sponge will dry out. The text offers H as support for D. Empirical adequacy is not graded; **argument identification** is.
+Trend or aroma does not predict texture; only the keyed line ties equipment state to baking result.
 
-Distractor taxonomy
-Non-inferential remarks (trends, aromas, unrelated sale) lack the premise–conclusion relation.`,
+H = oven hotter than this sponge tolerates; D = sponge will dry out. Truth of H is not graded—only that H is offered as support for D.
+
+Distractors lack the premise–conclusion support relation entirely.`,
   },
 
   1022: {
-    beginner: `In-depth (Beginner) — sprint heat
+    beginner: `Sprint heat
 
-Argument vs. preference
-The question asks for a line that gives a **reason** for an expectation—not just what you enjoy.
+1. The question wants a reason to expect a result, not a love letter to the track. The keyed line says you trained all month, so you should beat your previous heat time—effort is offered as the ground for a performance expectation.
 
-Keyed option
-"You trained all month, so you should beat your previous heat time." — Past training effort → performance expectation.
+2. Aesthetic opinions about the gun, the oval, or spike colors never connect your preparation to your clock.`,
+    intermediate: `Sprint heat
 
-Why others fail
-Love of the starting gun, track shape, spike colors: none tie **your training** to **your time**.`,
-    intermediate: `In-depth (Intermediate) — sprint heat
+1. Sustained training is the premise; beating your earlier heat time is the prescriptive expectation.
 
-Analysis
-1. Premise: month-long training (evidence of preparation).
-2. Conclusion: you should beat your previous heat time (normative expectation about performance).
-3. The inferential link is athletic: training is offered as a ground for expecting improvement vs. a past self benchmark.
+2. Example: “You’ve drilled serves all week, so you should land more first serves today than last match.” Tennis, not the sprint—not recycling monthly training. “I love Wimbledon” is not performance reasoning.
 
-Step-by-step elimination
-• Starting-gun aesthetics: affect, not performance reasoning.
-• Oval tracks / spike colors: background facts without a bridge to **your** result.
+Athletics is still premise to ought or expectation when the premise is about you and the outcome.`,
+    expert: `Sprint heat
 
-Takeaway
-Sports contexts still use premise→conclusion; the premise must be about preparation or conditions relevant to the outcome.`,
-    expert: `In-depth (Expert) — sprint heat
+Enjoyment of equipment or venue is not evidence about your fitness or prep. The keyed line uses training as warrant for expecting a better time versus your past self.
 
-Expert note
-The argument is **prudential forecasting**: training as warrant for expecting a better time. Real races add injury, tactics, and variance; the quiz isolates argumentative **form**.`,
+Injury, tactics, and luck exist in real life; the quiz only tests argument form, not betting odds.`,
   },
 
   1023: {
-    beginner: `In-depth (Beginner) — hiking forecast
+    beginner: `Hiking forecast
 
-Pick the weather argument
-"The barometer is falling fast, so expect rain before noon." — Instrument trend → precipitation forecast.
+1. The weather argument is the line where the barometer is falling fast, so expect rain before noon—a sign (pressure crashing) supports a timed precipitation call.
 
-Not arguments
-Liking clouds, "forecasts exist on apps," "rain is wet" (the last is a truism without inferential work in this list).`,
-    intermediate: `In-depth (Intermediate) — hiking forecast
+2. Liking clouds, noting that apps exist, or saying rain is wet does not argue from this instrument reading to this forecast window.`,
+    intermediate: `Hiking forecast
 
-Procedure
-1. Premise: rapid drop in barometric pressure (standard heuristic for approaching weather systems in many regions).
-2. Conclusion: rain likely before noon (time-bounded prediction).
-3. "So" marks meteorological reasoning—not proof, but **argumentative** support.
+1. This stem uses a pressure trend as premise and a before-noon rain expectation as conclusion.
 
-Contrast
-Preferences and generic facts do not move from a **specific observation** to a **timed forecast**.
+2. Example: “The river gauge jumped overnight, so the low trail will be underwater by afternoon.” Hydrology instead of barometers—not the same sign as on the card. “I love rivers” is not safety reasoning.
 
-Takeaway
-Everyday prediction often uses **sign → event** patterns; that is still argument structure.`,
-    expert: `In-depth (Expert) — hiking forecast
+Folk heuristics can still be structured arguments (sign to event), even when meteorologists would add caveats.`,
+    expert: `Hiking forecast
 
-Reconstruction
-Empirical indicator (pressure tendency) offered as support for a precipitation claim. The item does not require meteorology exam depth—only recognition that one clause supports another.
+Generic weather trivia does not move from this falling pressure to this timed rain claim; the keyed option does.
 
-Caveat
-Barometer rules are region- and context-sensitive; irrelevant for the key.`,
+Barometer rules vary by region and season—outside the identification task.
+
+Structure: empirical indicator to precipitation prediction within a stated window.`,
   },
 
   1024: {
-    beginner: `In-depth (Beginner) — car will not crank
+    beginner: `Car will not crank
 
-Diagnostic argument
-"The battery reads zero volts, so the starter motor will not turn." — Electrical state → mechanical consequence for starting.
+1. The diagnostic line ties zero volts at the battery to the starter not turning—no usable electrical push, so the cranking motor should not fire in the simplified story the lesson uses.
 
-Why not the others
-Jump starters being heavy, four wheels, disliking the tow truck: no voltage→starter chain.`,
-    intermediate: `In-depth (Intermediate) — car will not crank
+2. Jump-starter weight, wheel count, or annoyance at the tow truck do not build voltage to starter behavior.`,
+    intermediate: `Car will not crank
 
-Step-by-step
-1. Symptom context: engine will not crank (from the prompt).
-2. Keyed premise: battery at 0 V (no usable electrical potential for the intended circuit).
-3. Conclusion: starter will not turn (the motor that cranks the engine needs sufficient electrical power in the standard story).
-4. This is **mechanistic** argumentation: state of the power source → expected behavior of the load.
+1. On this item, dead battery is the premise; no starter spin is the predicted consequence (toy model of the circuit).
 
-Takeaway
-Technical domains use the same logic-surface as everyday policy talk: premise supporting a prediction or diagnosis.`,
-    expert: `In-depth (Expert) — roadside diagnosis
+2. Example: “The GFCI tripped, so the pump won’t run until someone resets it.” Home electrics, not the car—not repeating 0 V. “I hate basements” is not a diagnosis.
 
-Expert framing
-The argument compresses automotive electrics: insufficient battery voltage → starter cannot operate as needed. Real garages check grounds, relays, and more; Level 0 only tests **support structure**.
+Mechanistic arguments are everywhere—in the garage as much as in op-eds.`,
+    expert: `Car will not crank
 
-Distractors lack electrical premise linked to starter behavior.`,
+Weight of tools or number of wheels does not state electrical sufficiency for the starter. The keyed line compresses power source state to load behavior.
+
+Real diagnosis adds grounds, relays, and more; Level 0 only asks for support structure.`,
   },
 
   1025: {
-    beginner: `In-depth (Beginner) — dim office desk plants
+    beginner: `Dim office desk plants
 
-Plant care argument
-"These leaves are etiolated, so move the pot closer to the window." — Symptom (stretching/paling from low light) → action.
+1. Etiolated leaves (stretched, pale from chasing light) are the symptom; move the pot toward the window is the fix the sentence defends.
 
-Watch out
-"Succulents never need water" is false as universal advice; "soil is brown" and "windows are glass" are not care arguments.`,
-    intermediate: `In-depth (Intermediate) — dim office desk plants
+2. “Succulents never need water” is bad universal advice; brown soil and “windows are glass” are non-arguments—they do not move from light starvation to what to do.`,
+    intermediate: `Dim office desk plants
 
-Analysis
-1. **Etiolation** in the text: plants stretching toward light, often paler—used here as evidence of insufficient light on the desk.
-2. Conclusion: relocate the pot toward the window (intervention).
-3. The "so" connects symptom to horticultural remedy.
+1. Here etiolation is the diagnostic premise; relocating toward light is the intervention.
 
-Elimination path
-• Never need water: exaggeration, not symptom→fix.
-• Brown soil / glass windows: irrelevant to the etiolation diagnosis.
+2. Example: “The seedlings are leggy under only overhead LEDs, so lower the lights or raise the trays.” Indoor growing, not your office pot—not repeating etiolation wording. “I love LEDs” is not plant care.
 
-Takeaway
-Practical arguments often move from **observed problem sign** to **recommended intervention**.`,
-    expert: `In-depth (Expert) — office plants
+Sign to remedy is the same argumentative skeleton as many policy fixes, just with chlorophyll.`,
+    expert: `Dim office desk plants
 
-Logical read
-Diagnostic premise (light-starved growth pattern) supports prescriptive conclusion (move toward light). The quiz does not require botany credentials—only argumentative linkage.`,
+Universal watering slogans or irrelevant soil and window facts do not argue light deficiency to placement change; the keyed option does.
+
+Botany nuance is not scored—only premise-supported prescription.`,
   },
 
   1026: {
-    beginner: `In-depth (Beginner) — reading room noise policy
+    beginner: `Reading room noise policy
 
-Quiet as a reason
-"Quiet is required for concentration, so speak softly at the tables." — Normative goal (concentration) → behavioral rule (soft speech).
+1. The argument ties quiet for concentration to speak softly at the tables—the purpose of the room is the reason for a volume rule.
 
-Not arguments
-Whispering being fashionable, shelves, book spines—no concentration→volume link.`,
-    intermediate: `In-depth (Intermediate) — reading room noise policy
+2. Whether whispering is trendy, or facts about shelves and spines, does not argue why voices should stay low here.`,
+    intermediate: `Reading room noise policy
 
-Step-by-step
-1. Premise: quiet is necessary for concentration (a value/fact hybrid about the function of the space).
-2. Conclusion: people should speak softly at the tables (noise level prescription).
-3. Pattern: **purpose of the space** justifies **conduct norms**.
+1. Here concentration as the room’s job is the premise; soft speech is the behavioral conclusion.
 
-Contrast
-Fashion and furniture facts do not ground library behavior rules in this exercise.
+2. Example: “Sterile fields require aseptic technique, so scrub before entering the suite.” Hospital norms instead of a library—not repeating quiet/concentration. “I love hospitals” is not infection control.
 
-Takeaway
-Institutional rules are often argued from **mission** (here, concentration) to **practice** (soft speech).`,
-    expert: `In-depth (Expert) — reading room
+Mission to conduct is a classic regulative pattern—in libraries as in labs.`,
+    expert: `Reading room noise policy
 
-Reconstruction
-A **regulative** argument: cognitive goal (concentration) warrants low vocal volume. Similar in spirit to traffic-light rules but in a library normative context.`,
+Fashion or furniture trivia does not ground noise norms. The keyed line moves from cognitive goal (focus) to how loud people may be.
+
+Same broad idea as traffic lights—fact or goal under rules to ought—but in a study-space context.`,
   },
 
   1027: {
-    beginner: `In-depth (Beginner) — friend skips walks
+    beginner: `Friend skips walks
 
-Health-based prescription
-"Regular movement supports cardiovascular health, so schedule a daily walk." — Benefit premise → planning conclusion.
+1. The line that matters says regular movement helps cardiovascular health, so schedule a daily walk—a benefit claim backs a concrete habit.
 
-Other lines
-"Boring," sneakers existing, concrete sidewalks: not the health→daily walk argument.`,
-    intermediate: `In-depth (Intermediate) — friend skips walks
+2. Calling walks boring, noting sneakers exist, or praising concrete does not argue health to walking plan.`,
+    intermediate: `Friend skips walks
 
-Procedure
-1. Target: a line that **argues for daily walking** when someone has been inactive (prompt).
-2. Keyed structure:
-   - General premise: regular movement benefits cardiovascular health.
-   - Prescriptive conclusion: put a daily walk on the schedule.
-3. "So" connects evidence-type claim to a concrete habit recommendation.
+1. On this card, a general health premise supports a daily walk prescription for someone who has been inactive (per the prompt).
 
-Takeaway
-**Health promotion** arguments pair mechanism/benefit claims with behavioral oughts.`,
-    expert: `In-depth (Expert) — sedentary friend
+2. Example: “Fiber helps digestion, so add one vegetable serving at lunch.” Nutrition, not walking—not repeating cardio. “I hate vegetables” is not a care plan.
 
-Expert note
-Strength of epidemiological claims is not assessed; the task is recognizing premise-supported prescription. Pure boredom or infrastructure existence does not argue for the habit.`,
+Health promotion lives at the intersection of evidence-type premises and behavioral oughts.`,
+    expert: `Friend skips walks
+
+Boredom or infrastructure does not argue cardiovascular benefit to walking habit; the keyed line does.
+
+Epidemiological strength is not graded—only support structure for the recommendation.`,
   },
 
   1028: {
-    beginner: `In-depth (Beginner) — algebra quiz
+    beginner: `Algebra quiz
 
-Argument, not mere setup
-"If x equals 5, then x plus 2 must equal 7." — Assumption about x → derived numerical claim.
+1. If x equals 5, then x plus 2 must equal 7 is a mini-proof: an assumption about x is offered as sufficient for a numerical follow-on.
 
-Why not the others
-"Let x be a number" sets context without inferential punch; primality of 7 and "equations use letters" are not the conditional chain asked for.`,
-    intermediate: `In-depth (Intermediate) — algebra quiz
+2. “Let x be a number” only sets the stage; primality of 7 and “equations use letters” are math flavor without the if-then punch this item rewards.`,
+    intermediate: `Algebra quiz
 
-Step-by-step
-1. Antecedent: x = 5 (assumed for the inference in this item).
-2. Consequent: x + 2 must equal 7 (follows by arithmetic in standard arithmetic).
-3. The question highlights **argument** because one claim is offered as sufficient for another—a toy model of **derivation**.
+1. This line is a toy derivation: antecedent x = 5 to consequent x + 2 = 7 in ordinary arithmetic.
 
-Contrast
-Bare stipulation ("let x…") and isolated facts do not exhibit support in the same way.
+2. Example: “If the polygon has six equal sides, then each interior angle must be 120° in the Euclidean story we’re using.” Geometry, not x + 2—not the same numbers. “I love hexagons” is not a proof.
 
-Takeaway
-Mathematical reasoning is argument-like: premises → conclusions, even in tiny steps.`,
-    expert: `In-depth (Expert) — algebra item
+Formal subjects still use premises to conclusions—sometimes in one line.`,
+    expert: `Algebra quiz
 
-Logical form
-A conditional: if P (x=5), then Q (x+2=7), with Q presented as **forced** by P within the intended arithmetic. This illustrates **inferential support** in a formal domain.`,
+Stipulating a variable or citing isolated facts is not the same as showing one claim forces another. The keyed option presents Q as necessary given P in the intended arithmetic.
+
+Form: conditional support—inferential structure in a formal domain.`,
   },
 
   1029: {
-    beginner: `In-depth (Beginner) — rising tide at the beach
+    beginner: `Rising tide at the beach
 
-Coastal argument
-"Water is advancing up the beach, so the dry area will shrink." — Observable motion → spatial consequence.
+1. Water advancing up the beach is the observation; the dry area will shrink is the spatial consequence. That is a simple process to less safe or dry space for lifeguard thinking.
 
-Not arguments
-Fun sand, loud gulls, salty ocean—no tide→dry-zone reasoning.`,
-    intermediate: `In-depth (Intermediate) — lifeguards / tide
+2. Fun sand, loud gulls, and salty ocean do not link flood motion to room on dry sand.`,
+    intermediate: `Rising tide at the beach
 
-Analysis
-1. Premise: water advancing up the beach (flooding the shoreline).
-2. Conclusion: the dry sand area will get smaller (less room above the wet line).
-3. Physical **geometry + hydrology** in one inferential step—good for safety awareness.
+1. Here incoming water is the premise; smaller dry zone is the prediction.
 
-Takeaway
-Risk contexts often use **observed process → forecast about space/time** as argument structure.`,
-    expert: `In-depth (Expert) — beach tide
+2. Example: “The reservoir is releasing more water, so the wading beach downstream will narrow this afternoon.” River management—not the tide line on this card. “I love dams” is not hydrology.
 
-Reconstruction
-Monotonic advance of water inland reduces the extent of dry beach **ceteris paribus** (ignoring berm dynamics). The item tests whether students see premise→prediction, not full coastal engineering.`,
+Safety talk often uses observed process to forecast about space or time—same skeleton as many policy arguments.`,
+    expert: `Rising tide at the beach
+
+Beach atmosphere does not argue shoreline geometry. The keyed line ties advancing water to shrinking dry area, other things equal.
+
+Berm dynamics and waves sit beyond the Level 0 key; only premise to prediction is tested.`,
   },
 
   1030: {
-    beginner: `In-depth (Beginner) — planetarium talk
+    beginner: `Planetarium talk
 
-Light-speed argument
-"Light travels at finite speed, so we observe distant stars as they were long ago." — Physical fact → observational consequence.
+1. Finite light speed is the physical premise; we see distant stars as they were long ago is the lookback conclusion—how we observe follows from how fast signals travel.
 
-Other options
-Pretty stars, mirrors in telescopes, day/night sequence—no finite c → lookback time link.`,
-    intermediate: `In-depth (Intermediate) — planetarium
+2. Pretty stars, telescope mirrors, and day/night chatter do not connect finite c to historical starlight.`,
+    intermediate: `Planetarium talk
 
-Step-by-step
-1. Premise: light has a finite speed (not infinite).
-2. Conclusion: we see distant objects as they were in the past (light-travel time delay).
-3. This is the standard **lookback time** story in popular astronomy.
+1. This stem is the classic lookback time move: propagation delay to we see the past of far sources.
 
-Elimination
-Telescope design and celestial aesthetics do not perform the same inferential work.
+2. Example: “Sound is slow in air, so you hear the thunder after you see the flash.” Acoustics instead of c—not repeating astronomy. “I love storms” is not signal speed.
 
-Takeaway
-Science explanations are full of **mechanism → phenomenon** arguments; this is a flagship example.`,
-    expert: `In-depth (Expert) — lookback time
+Mechanism to observation pattern; structure matters more than cosmology finals.`,
+    expert: `Planetarium talk
 
-Expert framing
-The argument links a finiteness premise to an **epistemic/observational** conclusion about historical states of sources. Relativistic nuances and expansion are not required at Level 0; structure is.`,
+Telescope engineering or aesthetics does not argue finite c to delayed images; the keyed line does.
+
+Finiteness of c supports an epistemic conclusion about historical states of sources; relativity and expansion are optional extras at this level.`,
   },
 
   1031: {
-    beginner: `In-depth (Beginner) — apple demo from a balcony
+    beginner: `Apple demo from a balcony
 
-Gravity as the reason
-"Earth pulls masses toward its center, so the apple accelerates downward." — Physical law–style premise → motion conclusion.
+1. Earth pulls masses toward its center, so the apple accelerates downward—a physics-style premise tied to motion when you let go.
 
-Not arguments
-Apple colors, railings, Newton’s name as history—none give **why** the apple accelerates downward in this demo.`,
-    intermediate: `In-depth (Intermediate) — apple demo
+2. Apple color, balcony railings, or name-dropping Newton as trivia do not argue why this apple heads down.`,
+    intermediate: `Apple demo
 
-Step-by-step
-1. Context: demonstration drop from a balcony (prompt).
-2. Keyed premise: Earth attracts masses toward its center (gravitational pull toward Earth).
-3. Conclusion: the apple accelerates downward (toward Earth) when released.
-4. "So" connects explanatory physics to expected kinematic behavior.
+1. On this card, gravity toward Earth is the premise; downward acceleration is the prediction for the dropped apple.
 
-Elimination
-• Color facts and balcony architecture do not argue for acceleration.
-• Naming Newton does not, by itself, infer the apple’s motion.
+2. Example: “The magnet pulls the ball bearing, so it speeds up along the track.” Magnetism lab, not the balcony—not repeating gravity/apple. “I love demos” is not kinematics.
 
-Takeaway
-Science demos often use **mechanism → prediction** argument shape.`,
-    expert: `In-depth (Expert) — falling apple
+Mechanism to motion is the demo’s argumentative skeleton (air resistance set aside).`,
+    expert: `Apple demo
 
-Reconstruction
-A quasi-nomological explanation: universal gravitation (stated minimally) warrants the downward acceleration claim for the released object near Earth’s surface, ignoring air resistance for the exercise.
+Description of the setup (colors, guardrails) does not substitute for a force-to-acceleration link; the keyed line supplies that link.
 
-Pedagogical boundary
-The item tests argumentative **linkage**, not full Newtonian derivations.`,
+Full Newtonian derivation is not required—only recognition that the first clause supports the second.`,
   },
 
   1032: {
-    beginner: `In-depth (Beginner) — language-practice plan
+    beginner: `Language-practice plan
 
-Fluency argument
-"Fluency tracks with deliberate practice, so brief daily speaking beats monthly cramming." — Empirical-style premise → study-habit conclusion.
+1. Fluency tracks with deliberate practice, so brief daily speaking beats monthly cramming—a learning-style premise backs a schedule choice.
 
-Other lines
-Interesting accents, thick dictionaries, languages having grammar—no practice-schedule reasoning.`,
-    intermediate: `In-depth (Intermediate) — language practice
+2. Accents, dictionaries, or “languages have grammar” do not compare daily versus crammed practice.`,
+    intermediate: `Language practice
 
-Analysis
-1. Premise: fluency covaries with deliberate practice (skill-acquisition claim).
-2. Conclusion: short daily speaking is better than rare monthly cram sessions (scheduling prescription).
-3. The argument compares **two regimes** using the practice–fluency link as the warrant.
+1. Practice quality and frequency are the premise; distributed speaking wins over massed cramming as the conclusion.
 
-Step-by-step
-Ask: which option gives a **because** story about *how to practice*? Only the keyed line does.
+2. Example: “Retention beats when you review flashcards over weeks, so five minutes a day beats one four-hour night.” Memory science flavor—not the speaking line on the card. “I love flashcards” is not the argument.
 
-Takeaway
-Pedagogy arguments pair learning science claims with **concrete routines**.`,
-    expert: `In-depth (Expert) — spaced vs massed practice
+Pedagogy items pair a learning claim with a concrete routine—same pattern as sports or health advice.`,
+    expert: `Language practice
 
-Expert note
-The structure mirrors educational psychology themes (distributed practice). The quiz does not require citing studies—only recognizing premise-supported advice.`,
+Gear or grammar trivia does not argue spacing of practice; the keyed line does, echoing distributed versus massed practice themes without requiring citations.
+
+Empirical strength of the premise is not graded—only support structure.`,
   },
 
   1033: {
-    beginner: `In-depth (Beginner) — Wi-Fi fails on a video call
+    beginner: `Wi-Fi fails on a video call
 
-Network diagnosis
-"The router shows offline, so this machine will not reach the internet." — Device state → connectivity outcome.
+1. The router shows offline, so this machine will not reach the internet—gateway state to expected connectivity in the usual home story.
 
-Why not the others
-Video-call ideology, cable color trivia, modem lights—no router-offline→no internet chain.`,
-    intermediate: `In-depth (Intermediate) — home office Wi-Fi
+2. Video-chat slogans, cable colors, or modem LEDs do not build router to path to the net.`,
+    intermediate: `Home office Wi-Fi
 
-Procedure
-1. Symptom frame: call drops / Wi-Fi failure during video (prompt).
-2. Premise: router status is offline (no upstream path in the standard home setup story).
-3. Conclusion: this computer will not reach the internet through that router.
-4. This is **diagnostic** argumentation: status of a component → expected service failure.
+1. This stem frames a call failing; the argument ties offline router to no internet through that box.
 
-Takeaway
-IT troubleshooting is full of short premise→conclusion arguments.`,
-    expert: `In-depth (Expert) — router offline
+2. Example: “The campus VPN tunnel is down, so this laptop won’t reach the lab server.” Enterprise network—not your living-room router. “I hate IT” is not TCP/IP.
 
-Logical read
-The warrant assumes typical home topology: if the router is offline, end devices lose the usual route to the internet. Alternate paths (phone hotspot) are outside the text.`,
+Troubleshooting is diagnostic argument: component status to service prediction.`,
+    expert: `Router offline
+
+Aesthetic complaints about video calls do not state topology; the keyed line assumes a typical home path (devices to router to ISP). Hotspots and tethering sit outside the text.`,
   },
 
   1034: {
-    beginner: `In-depth (Beginner) — fragile museum pieces
+    beginner: `Fragile museum pieces
 
-Handling norm
-"These materials crack under sudden force, so support them from below when moving." — Material vulnerability → handling rule.
+1. These materials crack under sudden force, so support them from below when moving—impact risk to handling rule.
 
-Distractors
-Old artifacts, admission fees, glass cases—no crack-under-force→support strategy.`,
-    intermediate: `In-depth (Intermediate) — museum handling
+2. Age of artifacts, ticket prices, or display cases do not argue shock to support strategy.`,
+    intermediate: `Museum handling
 
-Steps
-1. Premise: sudden force can crack these materials (fragility under impact).
-2. Conclusion: support from below while moving (procedural precaution).
-3. The "so" connects risk of mechanical failure to a **conservation practice**.
+1. On this item, brittle response to impact is the premise; underhand support is the prescribed move.
 
-Takeaway
-Conservation arguments move from **damage mechanism** to **handling protocol**.`,
-    expert: `In-depth (Expert) — museum movement
+2. Example: “Thin glass bows under its own weight if held only at the edges, so carry the sheet vertically with two aides.” Glazing shop—not museum crates. “I love glass” is not statics.
 
-Reconstruction
-Implicit warrant: supporting from below reduces harmful stress modes compared with gripping fragile spans. The item does not teach conservation certification—only argument structure.`,
+Conservation is damage mechanism to protocol.`,
+    expert: `Museum handling
+
+Provenance or ticket economics do not ground manipulation norms; the keyed line uses mechanical vulnerability as the warrant.
+
+Supporting from below reduces bending moments that cause cracking—details beyond the key.`,
   },
 
   1035: {
-    beginner: `In-depth (Beginner) — mixing paint for a mural
+    beginner: `Mixing paint for a mural
 
-Color-mix prediction
-"Red pigment plus blue pigment yields purple here, so those two tubes will produce that swatch." — Mixing fact → outcome for this pair of tubes.
+1. Red plus blue yields this purple here, so those two tubes will match that swatch—composition fact to prediction for this pair.
 
-Not arguments
-Trendiness, brush wear, canvas texture—no pigment→swatch inference.`,
-    intermediate: `In-depth (Intermediate) — mural paint
+2. Violet fashion, worn brushes, or canvas weave do not argue pigments to color chip.`,
+    intermediate: `Mural paint
 
-Analysis
-1. Premise: in this paint system, red + blue yields the mural’s purple.
-2. Conclusion: these two tubes will produce **that** color swatch (the intended sample).
-3. Connector "so" ties compositional chemistry/finet arts fact to a practical prediction.
+1. Here a palette rule backs a swatch prediction for two tubes.
 
-Takeaway
-Studio craft still uses **if composition, then observable result** reasoning.`,
-    expert: `In-depth (Expert) — pigment mixing
+2. Example: “This glaze recipe fires to celadon in our kiln, so these two buckets will match the sample tile.” Ceramics—not red/blue mural paint. “I love kilns” is not color proof.
 
-Expert caveat
-Real pigments are not ideal subtractive primaries; the question treats the premise as authoritative for the item’s world.`,
+Studio reasoning: given authoritative mix facts in the item’s world, then outcome.`,
+    expert: `Pigment mixing
+
+Real-world pigments are messy subtractive systems; the question authorizes the premise—your job is support structure, not paint chemistry certification.`,
   },
 
   1036: {
-    beginner: `In-depth (Beginner) — red light as a new driver
+    beginner: `Red light (new driver)
 
-Traffic rule argument
-"This signal is red, so traffic facing it must stop before the limit line." — Signal state → legal/standard obligation.
+1. This signal is red, so traffic facing it must stop before the limit line—signal state to stop obligation under normal rules.
 
-Other options
-Brightness, intersection corners, brakes—no red→stop inference.`,
-    intermediate: `In-depth (Intermediate) — red traffic light
+2. Brightness, corner geometry, or brake brands do not argue red to stop at the line.`,
+    intermediate: `Red traffic light
 
-Step-by-step
-1. Premise: this signal is red (for your approach).
-2. Conclusion: traffic facing it must stop before the stop line / limit line.
-3. Background: traffic law and convention supply the warrant (implicit).
+1. This line is regulative: red for your approach means must stop before the limit line.
 
-Takeaway
-**Regulative** arguments abound in driving: state of the control → required action.`,
-    expert: `In-depth (Expert) — stop line
+2. Example: “The runway hold-short lights are red, so the aircraft must not cross the marking.” Aviation—not the driving stem. “I love planes” is not ATL.
 
-Reconstruction
-Is (signal color for approach) to ought (required stopping point) under implicit legal rules—same family as earlier library/traffic items, with driving-specific content.`,
+Same is-or-ought family as other traffic items, with stop-line specificity.`,
+    expert: `Stop line
+
+Visual detail (glare, intersection art) does not create a duty to stop; the keyed sentence cites aspect facing you as the reason for where to stop.
+
+Implicit traffic law or custom supplies the warrant.`,
   },
 
   1037: {
-    beginner: `In-depth (Beginner) — why the study group takes breaks
+    beginner: `Study-group breaks
 
-Sleep and attention (first option)
-"Sleep debt impairs attention, so short rests will help the session stay sharp." — Cognitive harm → break policy.
+1. The correct line is usually the first option (index 0): sleep debt impairs attention, so short rests help the session stay sharp—fatigue to break design.
 
-Note
-Correct option index is **0** (first line), not the second.`,
-    intermediate: `In-depth (Intermediate) — study breaks
+2. Chairs, coffee, or “exam season exists” do not argue attention loss to breaks.`,
+    intermediate: `Study breaks
 
-Procedure
-1. Premise: sleep debt hurts attention (performance claim).
-2. Conclusion: short breaks will help maintain sharpness in the session (intervention claim).
-3. "So" links fatigue mechanism to a **session design** choice.
+1. On this card, sleep-related attention loss is the premise; short rests defend session quality.
 
-Elimination
-Chairs, coffee smell, exam season—irrelevant to break justification.
+2. Example: “Screen glare strains eyes after two hours, so the coding team should use the 20-20-20 rule.” Ergonomics—not sleep debt. “I love monitors” is not cognition.
 
-Takeaway
-**Study hygiene** arguments cite cognitive limits to defend breaks.`,
-    expert: `In-depth (Expert) — sleep debt
+Study hygiene: cognitive limit to intervention (breaks).`,
+    expert: `Sleep debt
 
-Expert read
-A prudential argument: mitigate attentional impairment from fatigue with micro-rest. Empirical strength is not scored—structure is.`,
+Ambient details do not support micro-rest; the keyed line ties sleep debt to attention and then to breaks.
+
+Prudential argument—empirical effect sizes are not scored.`,
   },
 
   1038: {
-    beginner: `In-depth (Beginner) — sold-out concert, ticket prices
+    beginner: `Sold-out concert, resale prices
 
-Resale economics
-"Few seats remain, so resale listings will ask more than face value." — Scarcity → price premium on secondary market.
+1. Few seats remain, so resale listings will ask more than face value—scarcity to secondary-market price story.
 
-Not about prices
-Merch tables, speakers, fans liking music—no scarcity→resale-price claim.`,
-    intermediate: `In-depth (Intermediate) — concert tickets
+2. Merch, speakers, or fandom do not argue remaining supply to resale premium.`,
+    intermediate: `Concert tickets
 
-Analysis
-1. Premise: very few seats left (high scarcity / excess demand signal).
-2. Conclusion: resale prices will exceed face value (secondary-market prediction).
-3. Classic **supply–demand story** in informal argument form.
+1. Here near sellout is the premise; above-face resale is the forecast.
 
-Takeaway
-Economics-style forecasting appears as premise→price prediction.`,
-    expert: `In-depth (Expert) — resale premium
+2. Example: “Only three crates of the vintage are left, so auction bids should clear the list price.” Wine, not concerts—not repeating seats. “I love wine” is not supply and demand.
 
-Caveat
-Many jurisdictions regulate scalping; the item is about **argument identification**, not policy approval.`,
+Informal supply-and-demand arguments appear everywhere—not only in textbooks.`,
+    expert: `Resale premium
+
+Merch hype does not state seat scarcity to resale markup; the keyed line does.
+
+Scalping law varies by jurisdiction—the quiz asks argument shape, not legality.`,
   },
 
   1039: {
-    beginner: `In-depth (Beginner) — city noise rules
+    beginner: `City noise rules
 
-Policy argument (third option)
-"Because late-night traffic keeps residents awake, the city should add a quiet-hours rule." — Harm (lost sleep) → regulatory proposal.
+1. The policy argument is typically the third option (index 2): late-night traffic keeps residents awake, so the city should add a quiet-hours rule—harm to ordinance.
 
-Scan the distractors
-• "The city has noise rules." — Reports existence, no new policy argument.
-• "I hate how loud my street is." — Complaint without structured remedy.
-• "Noise complaints exist in every district." — General fact, not a targeted ought.
+2. “The city has noise rules” only reports existence. Raw annoyance or “complaints exist everywhere” does not structure sleep loss to new rule like the keyed line.`,
+    intermediate: `Quiet hours
 
-Correct index
-**2** (third answer choice).`,
-    intermediate: `In-depth (Intermediate) — quiet hours
+1. This item pairs sleep disruption (evidence of harm) with a municipal quiet-hours proposal.
 
-Step-by-step
-1. Identify the **because** clause: late-night traffic keeps residents awake (sleep disruption as civic harm).
-2. Identify the **should**: add a quiet-hours rule (new norm or ordinance).
-3. Map: problem affecting residents → municipal policy response.
+2. Example: “Industrial fumes reach elementary classrooms, so the council should tighten stack-height rules.” Zoning—not noise. “I hate politics” is not welfare economics.
 
-Takeaway
-Urban policy items often follow **problem evidence → regulatory conclusion**.`,
-    expert: `In-depth (Expert) — noise ordinance argument
+Urban policy often runs resident harm to regulation.`,
+    expert: `Noise ordinance
 
-Reconstruction
-A policy argument: empirical/normative premise about resident welfare + institutional capacity to regulate noise windows. Evaluation of legal feasibility is out of scope for the key.`,
+Existence of old rules or generic complaint counts do not argue a new targeted norm; the keyed line uses because-style harm to warrant the should.
+
+Third option in many banks—always match your on-screen order.`,
   },
 
   1040: {
-    beginner: `In-depth (Beginner) — school jazz band tuning
+    beginner: `School jazz band tuning
 
-Intonation argument
-"The lead guitar is a quarter-step flat, so that chord will sound sour until it is fixed." — Tuning defect → auditory evaluation + fix imperative.
+1. The lead guitar is a quarter-step flat, so that chord sounds sour until it is fixed—intonation fault to sonic judgment and need to correct.
 
-Other lines
-Jazz history, "music uses notes," rehearsal chairs—no intonation→sour chord chain.`,
-    intermediate: `In-depth (Intermediate) — jazz rehearsal
+2. Jazz history, “notes exist,” or chair count do not link tuning to sound quality.`,
+    intermediate: `Jazz rehearsal
 
-Procedure
-1. Premise: lead guitar is a quarter-step flat (specific intonation error).
-2. Conclusion: the chord will sound sour **until** corrected (conditional sonic prediction).
-3. Implicit warrant: ensemble harmony requires matching pitch centers.
+1. On this stem, a specific intonation error is the premise; sour chord until fixed is the conditional prediction.
 
-Takeaway
-Music rehearsal uses **fault diagnosis → sonic consequence** arguments constantly.`,
-    expert: `In-depth (Expert) — quarter-step flat
+2. Example: “The oboe’s vent key is sticky, so the entrance will crack until repair.” Woodwinds—not guitar. “I love jazz” is not acoustics.
 
-Expert note
-A quarter-tone mismatch is musically meaningful; the item uses it to make the flaw vivid. The quiz tests logical support, not ear training.`,
+Rehearsal rooms are full of fault-to-consequence arguments.`,
+    expert: `Quarter-step flat
+
+Historical or furniture trivia does not diagnose pitch; the keyed line does.
+
+Ear-training and temperament sit beyond the logic-only key.`,
   },
 
   1041: {
-    beginner: `In-depth (Beginner) — cupcakes pulled early
+    beginner: `Cupcakes pulled early
 
-First option (index **0**)
-"The crumb still looks wet, so give them five more minutes or they will collapse." — Underbaked sign → bake longer or structural failure.
+1. Usually the first option (index 0): the crumb still looks wet, so give five more minutes or they will collapse—underbaked cue to time fix and bad outcome if you ignore.
 
-Other lines
-Sweet frosting, pleated papers, bakery hours—no crumb→collapse reasoning.`,
-    intermediate: `In-depth (Intermediate) — underbaked cupcakes
+2. Frosting sweetness, paper pleats, or bakery hours do not argue crumb moisture to structure.`,
+    intermediate: `Underbaked cupcakes
 
-Step-by-step
-1. Premise: the crumb still looks wet (insufficient set / moisture not driven off).
-2. Conclusion: add five more minutes **or** the cupcakes will collapse (conditional prediction + instruction).
-3. "So" bundles **diagnosis** with **remedy** and **bad outcome** if ignored.
+1. Here wet crumb signals insufficient set; the line bundles extra bake time with collapse risk if you stop now.
 
-Takeaway
-Baking arguments often pair **visual state of the crumb** with **time adjustment**.`,
-    expert: `In-depth (Expert) — structural collapse risk
+2. Example: “The center of the quiche still jiggles like liquid, so leave it in or it will weep when cut.” Savory—not cupcakes. “I love eggs” is not pastry science.
 
-Reconstruction
-A practical conditional: if baking stops now (wet crumb), then collapse is likely unless additional heat-time fixes the set. The item tests argumentative packaging, not pastry certification.`,
+Visual bake state to conditional disaster is classic kitchen argument.`,
+    expert: `Structural collapse risk
+
+Decor or shop hours do not diagnose crumb set; the keyed line ties moisture in the crumb to structural failure unless time is added.
+
+Pastry exam not required—only premise–conclusion packaging.`,
   },
 
   1042: {
-    beginner: `In-depth (Beginner) — relay training logs
+    beginner: `Relay training logs
 
-First option (index **0**)
-"Their split times improved all spring, so they are likely to beat last year's record." — Trend in splits → forecast vs. past benchmark.
+1. Typically first option (index 0): split times improved all spring, so they are likely to beat last year’s record—trend to forecast versus benchmark.
 
-Not arguments
-Batons, lanes, aerobic running—no training-trend→record claim.`,
-    intermediate: `In-depth (Intermediate) — relay teams
+2. Batons, lane paint, or “running is healthy” do not argue training curve to record odds.`,
+    intermediate: `Relay teams
 
-Analysis
-1. Premise: split times improved throughout spring (trajectory of performance).
-2. Conclusion: likely to beat last year's record (probabilistic athletic prediction).
-3. "So" marks inductive sports reasoning—strength not guaranteed, but **support** is explicit.
+1. On this card, spring improvement in splits is the premise; beating last year’s record is the probabilistic conclusion.
 
-Takeaway
-**Trend-as-evidence** arguments are common in athletics.`,
-    expert: `In-depth (Expert) — performance forecasting
+2. Example: “Quarterly sales rose each month, so we should clear the annual target.” Business trend—not track splits. “I love sales” is not stats.
 
-Caveat
-Injury, competition conditions, and small-sample noise matter in real life; the quiz only asks for premise→conclusion structure.`,
+Trend-as-evidence is explicit support even when certainty is not.`,
+    expert: `Performance forecasting
+
+Equipment trivia does not state trajectory of performance; the keyed line does.
+
+Injury and weather exist in real sport—outside the identification task.`,
   },
 
   1043: {
-    beginner: `In-depth (Beginner) — picnic forecast
+    beginner: `Picnic forecast
 
-Second option (index **1**)
-"Radar shows a squall line approaching, so pack the rain fly for the pavilion." — Weather feature → shelter gear.
+1. Often the second option (index 1): radar shows a squall line approaching, so pack the rain fly—storm signal to shelter gear.
 
-Other options
-Wicker baskets, green grass, ants—no storm→rain-fly reasoning.`,
-    intermediate: `In-depth (Intermediate) — picnic planning
+2. Baskets, grass, ants—no radar feature to storm prep.`,
+    intermediate: `Picnic planning
 
-Procedure
-1. Premise: radar indicates an approaching squall line (organized convection hazard).
-2. Conclusion: bring the pavilion rain fly (protective equipment).
-3. Practical **risk-management** argument: meteorological signal → packing decision.
+1. Here organized convection on radar is the premise; bring the fly is the risk-management conclusion.
 
-Takeaway
-Outdoor planning items link **observation of threatening weather** to **preparedness**.`,
-    expert: `In-depth (Expert) — squall line
+2. Example: “The avalanche forecast is high, so carry probes and avoid lee bowls.” Mountains—not squall lines. “I love snow” is not safety.
 
-Expert note
-"Squall line" names a specific radar pattern; the keyed sentence uses it as warrant for shelter prep.`,
+Outdoor events chain observation to preparedness.`,
+    expert: `Squall line
+
+Picnic aesthetics do not argue severe weather; the keyed line uses squall line as warrant for cover.
+
+Radar literacy details sit beyond the key.`,
   },
 
   1044: {
-    beginner: `In-depth (Beginner) — securing community-garden tools
+    beginner: `Community-garden tools
 
-Policy line (index **0**)
-"We should build a lockable shed because tools keep getting stolen." — Recurring theft → secure storage.
+1. Typically first option (index 0): tools keep getting stolen, so we should build a lockable shed—ongoing loss to secure storage.
 
-Scan distractors
-Love of gardening, "gardens are fun," shiny tools—no theft→shed argument.`,
-    intermediate: `In-depth (Intermediate) — tool security
+2. Garden love, “gardens are fun,” or shiny metal do not argue theft to lockable shed.`,
+    intermediate: `Tool security
 
-Step-by-step
-1. Problem evidence: tools keep disappearing (ongoing theft).
-2. Proposed action: build a **lockable** shed (security upgrade).
-3. "Because" makes theft the explicit warrant for the capital/maintenance proposal.
+1. This item uses repeat theft as the premise; a lockable shed is the capital response.
 
-Takeaway
-**Crime / loss** premises often support **physical security** conclusions.`,
-    expert: `In-depth (Expert) — community garden security
+2. Example: “Bike racks are being cut at night, so the campus should install cages with card access.” Transit—not garden tools. “I love bikes” is not security.
 
-Reconstruction
-A straightforward means–ends argument: reduce theft risk by controlling access to tools. Cost-benefit and governance are outside the key.`,
+Crime or loss to physical control is a standard policy shape.`,
+    expert: `Community garden security
+
+Hobby enthusiasm does not create a security argument; the keyed line ties theft pattern to access-controlled storage.
+
+Budget and governance sit outside the key.`,
   },
 
   1045: {
-    beginner: `In-depth (Beginner) — monitoring night sky before storms
+    beginner: `Night-sky monitoring before storms
 
-First option (index **0**)
-"Meteorologists track the night sky so coastal towns can warn fishers early." — Monitoring activity → early-warning capacity for a vulnerable group.
+1. Usually first option (index 0): meteorologists track the night sky, so coastal towns can warn fishers early—monitoring to early warning for a vulnerable group.
 
-Other lines
-Beauty of sky, stars existing, telescope cost—no monitoring→early-warning chain.`,
-    intermediate: `In-depth (Intermediate) — storm preparedness
+2. Sky beauty, “stars exist,” or telescope cost do not argue watching to alerts. (French banks may say ports or marins—same logic.)`,
+    intermediate: `Storm preparedness
 
-Analysis
-1. Activity: meteorologists track the night sky (observation/monitoring practice).
-2. Beneficiary outcome: coastal towns can **warn fishers early** (risk reduction).
-3. Implicit warrant: night-sky cues feed forecasts that protect marine workers.
+1. Here observation practice supports timely warnings to fishers or coastal workers.
 
-Note
-French bank uses fishing ports / marins—same argumentative skeleton.`,
-    expert: `In-depth (Expert) — early warning
+2. Example: “Seismometers picked up P-waves, so the train network can halt before the heavy shake.” Earthquake—not weather. “I love trains” is not risk.
 
-Reconstruction
-Instrumental argument: surveillance enables timely alerts; distractors lack the monitoring→alert pathway.`,
+Surveillance to protective action is instrumental argument.`,
+    expert: `Early warning
+
+Astronomy tourism does not state forecast pipeline; the keyed line links monitoring to early alerts.
+
+French wording may differ; structure matches.`,
   },
 
   1046: {
-    beginner: `In-depth (Beginner) — school water fountain
+    beginner: `School water fountain
 
-Lead contamination (index **0**)
-"Lead was detected in the fountain, so the school should replace it immediately." — Hazard found → urgent replacement.
+1. Typically first option (index 0): lead was detected, so replace the fountain immediately—contaminant found to urgent remediation.
 
-Not arguments
-Shininess, bottled-water preference, hallways—no lead→replace chain.`,
-    intermediate: `In-depth (Intermediate) — drinking water safety
+2. Shiny metal, bottled-water taste, or hall layout do not argue lead to replace now.`,
+    intermediate: `Drinking water safety
 
-Steps
-1. Premise: lead detected in the fountain (potable-water contamination).
-2. Conclusion: replace the fountain **immediately** (urgency operator).
-3. Public-health style argument: toxic exposure risk → hardware swap.
+1. On this stem, lead in the fountain is the premise; immediate replacement is the urgent conclusion.
 
-Takeaway
-**Detection → remediation** is a core policy pattern.`,
-    expert: `In-depth (Expert) — lead in plumbing
+2. Example: “Mold spores exceeded the limit in the HVAC sample, so the district should swap the filters this week.” Indoor air—not lead. “I love HVAC” is not public health.
 
-Expert note
-Action thresholds and funding are real-world complications; Level 0 isolates **support structure** for immediate replacement.`,
+Detection to remediation shows up in schools and cities alike.`,
+    expert: `Lead in plumbing
+
+Aesthetic or bottled-water preference does not state toxic exposure to hardware removal; the keyed line does.
+
+Real thresholds and budgets sit outside Level 0 scoring.`,
   },
 
   1047: {
-    beginner: `In-depth (Beginner) — counseling waitlists
+    beginner: `Counseling waitlists
 
-Capacity argument (index **0**)
-"The counseling waitlist is six weeks long, so the university should hire another therapist." — Queue length → staffing fix.
+1. Usually first option (index 0): waitlist is six weeks, so hire another therapist—queue to capacity fix.
 
-Distractors
-Chairs, therapists' education, liking quiet rooms—no waitlist→hire reasoning.`,
-    intermediate: `In-depth (Intermediate) — mental health access
+2. Chair style, degrees on the wall, or “quiet rooms are nice” do not argue delay to staffing.`,
+    intermediate: `Mental health access
 
-Procedure
-1. Premise: six-week wait (service delay / access bottleneck).
-2. Conclusion: hire an additional therapist (capacity expansion).
-3. "So" connects queue evidence to human-resources prescription.
+1. Here long wait is the premise; add therapist is the HR conclusion.
 
-Takeaway
-**Service-system** arguments map delays to **resource** recommendations.`,
-    expert: `In-depth (Expert) — wait time
+2. Example: “The ER average wait hit nine hours, so the hospital should open a fast-track bay.” Medicine—not counseling. “I love ERs” is not ops.
 
-Reconstruction
-Queue-length rationale for hiring: standard operations-research story at introductory level.`,
+Service bottlenecks to resource adds is classic ops reasoning.`,
+    expert: `Wait time
+
+Facility aesthetics do not argue access delay; the keyed line ties queue length to hiring.
+
+Form: queue evidence to staffing prescription.`,
   },
 
   1048: {
-    beginner: `In-depth (Beginner) — homework proof review
+    beginner: `Homework proof review
 
-Second option (index **1**)
-"If k is even, then k squared is even—because k equals 2m for some integer m." — Definition of evenness supports the square being even.
+1. Often the second option (index 1): if k is even, k² is even—because k = 2m for some integer m—definition of even supports the claim about k².
 
-Not the proof task
-"Proofs use logic" (generic), "even numbers are integers," "homework is printed."`,
-    intermediate: `In-depth (Intermediate) — number theory sketch
+2. Generic “proofs use logic” or “even numbers are integers” does not supply this because-clause.`,
+    intermediate: `Number theory sketch
 
-Walkthrough
-1. Claim: if k is even, k² is even.
-2. Support: k = 2m for some integer m (standard characterization of even integers).
-3. The "because" clause supplies the **reason** connecting parity of k to parity of k² (students may finish the algebra elsewhere).
+1. This line offers explicit support: even means k = 2m, which is the standard hook for showing k² inherits evenness (algebra finished elsewhere).
 
-Takeaway
-Math proofs are **arguments**: conclusions backed by definitions and lemmas.`,
-    expert: `In-depth (Expert) — even square
+2. Example: “n is divisible by 3 because n = 3q for integer q—same definitional style.” Divisibility—not k². “I love 3” is not mathematics.
 
-Logical form
-An argument from definitional instantiation: even → ∃m(k=2m) → (with routine steps) k² is even. The item rewards recognizing explicit **because** support.`,
+Proofs are arguments: claims plus because-clauses.`,
+    expert: `Even square
+
+Meta remarks about logic do not instantiate parity reasoning; the keyed line uses ∃m(k=2m) as visible support.
+
+Form: definition-led argument—students may complete the algebra in scratch work.`,
   },
 
   1049: {
-    beginner: `In-depth (Beginner) — tide table and shoreline survey
+    beginner: `Tide table and shoreline survey
 
-First option (index **0**)
-"Low tide exposes more tide pools, so schedule the transect for that window." — Ecological access → timing of field work.
+1. Typically first option (index 0): low tide exposes more tide pools, so schedule the transect for that window—access to timing of field work.
 
-Other lines
-Printed tide books, granular sand, noisy waves—no tide-window→transect scheduling.`,
-    intermediate: `In-depth (Intermediate) — field scheduling
+2. Tide books, sand grain, wave noise do not argue low tide to when to sample. (French: basse mer / flaques—same idea.)`,
+    intermediate: `Field scheduling
 
-Analysis
-1. Premise: low tide exposes more tide pools (greater accessible habitat for sampling).
-2. Conclusion: run the transect in that tidal window (optimize data collection).
-3. Field-science reasoning: natural state → experimental/survey timing.
+1. Here more exposed pools at low tide is the premise; run the transect then optimizes data collection.
 
-French note
-FR uses **basse mer** / **flaques**—same logic as EN tide pools.`,
-    expert: `In-depth (Expert) — tidal window
+2. Example: “The canopy opens after dawn, so measure photosynthesis mid-morning.” Ecology—not tides. “I love leaves” is not sampling design.
 
-Reconstruction
-Operational argument linking exposure extent to **when** to sample; safety (rising tide) could be added in real protocols but is not required here.`,
+Natural state to when to measure is operational argument.`,
+    expert: `Tidal window
+
+Gear catalogs do not state tidal exposure; the keyed line ties low tide to survey timing.
+
+Rising tide risks are an optional real-world add-on; not required for the key.`,
   },
 
   1050: {
-    beginner: `In-depth (Beginner) — explaining starlight to a tour
+    beginner: `Explaining starlight (tour)
 
-Second option (index **1**)
-"Starlight began its journey years ago, so we see the star as it was in the past." — Light travel time → historical appearance.
+1. Often the second option (index 1): starlight began its journey years ago, so we see the star as it was in the past—travel time to historical appearance.
 
-Not arguments
-Telescope expense, constellation names, cloudy nights—no travel-time→past-state inference.`,
-    intermediate: `In-depth (Intermediate) — lookback (tour script)
+2. Telescope price, constellation names, or clouds do not argue light-time to lookback.`,
+    intermediate: `Lookback (tour script)
 
-Step-by-step
-1. Premise: starlight has been traveling for years (non-zero light travel time).
-2. Conclusion: we observe the star as it was in the past (not instantaneously as it is "now").
-3. Same conceptual family as the planetarium item on finite *c*, packaged for a walking tour.
+1. This stem packages finite travel time as the premise; past state of the star is the observational conclusion—kin to the planetarium item, but walking-tour wording.
 
-Takeaway
-Astronomy education repeatedly uses **travel delay** arguments.`,
-    expert: `In-depth (Expert) — light-time
+2. Example: “The echo returns seconds later, so we hear the canyon as it sounded after the delay.” Sound—not starlight. “I love echoes” is not relativity.
 
-Expert framing
-Connects emission-time vs. reception-time; relativistic and cosmological corrections omitted at Level 0.`,
+Astronomy teaching repeats delay to not-simultaneous arguments.`,
+    expert: `Light-time
+
+Gear or constellation lore does not state emission versus reception time; the keyed line does.
+
+Relativity and cosmology are omitted at Level 0; structure only.`,
   },
 
   1051: {
-    beginner: `In-depth (Beginner) — identify the premise (gravity / apple)
+    beginner: `Identify the premise — gravity / apple
 
-What the question wants
-In "Since Gravity pulls objects down, the apple will fall," pick the **premise**: the reason offered, not the prediction.
+1. The stem looks like: Since [first idea], [second idea]. The premise is the reason you treat as true—not the prediction you infer.
 
-Correct choice (index **0**)
-**"Gravity pulls objects down"** — this is what "Since" introduces.
+2. Here, “Gravity pulls objects down” is what Since introduces: that is the premise. “The apple will fall” is the conclusion. The word Since is only a cue, not a content premise.`,
+    intermediate: `Premise vs. conclusion (gravity)
 
-Not the premise
-• "The apple will fall" — that is the **conclusion** (what follows from the reason).
-• "Since" — a cue word, not a content premise.
-• "None" — incorrect; there is a premise.`,
-    intermediate: `In-depth (Intermediate) — premise vs. conclusion
+1. On this card, split: Since P, Q. P = gravitational pull downward; Q = this apple falls.
 
-Step-by-step
-1. Copy the argument: Since [first clause], [second clause].
-2. Label roles:
-   - Premise / evidence: gravity pulls objects down (general physical claim used as a reason).
-   - Conclusion: the apple will fall (specific outcome in the demo).
-3. The exam uses **Since** as a marker that the **first** content clause is the premise being assumed or cited.
+2. Example: “Since the bridge is rated for ten tons, the van should be fine.” Premise = load rating; conclusion = safety judgment—not “the van should be fine” as premise.
 
-Takeaway
-Premises answer "what are we treating as given or as our reason?"—here, gravitational pull.`,
-    expert: `In-depth (Expert) — antecedent content
+Ask what is offered as the reason—that is usually P, not Q.`,
+    expert: `Premise identification
 
-In a loose "since P, Q" layout, P is the **antecedent** in the sense of "what comes first as support." The apple-fall claim is the **consequent** outcome in the narrative. The distractor "the apple will fall" is the target of the inference, not the supporting proposition.`,
+The apple-fall line is what you infer; it is not the supporting proposition. In “since P, Q,” P is the antecedent content offered as support; Q is the target of the inference.
+
+Exam skill: pick the content after Since (before the comma), not the outcome clause.`,
   },
 
   1052: {
-    beginner: `In-depth (Beginner) — practice / speak daily
+    beginner: `Practice / speak daily — premise
 
-Premise
-**"Practice improves fluency"** — the claim about learning that backs the advice.
+1. “Practice improves fluency” is the learning claim used as reason. “You should speak daily” is the advice—the conclusion—that rests on that claim.
 
-Conclusion (not what you select)
-"You should speak daily" — the prescription follows **from** the premise about practice.`,
-    intermediate: `In-depth (Intermediate) — language-learning argument
+2. When the question asks for the premise, choose the supporting statement, not the should.`,
+    intermediate: `Language-learning — premise slot
 
-Procedure
-1. Split the sentence after the comma: clause A (after Since), clause B.
-2. Clause A states a **relationship** between practice and fluency—your **reason**.
-3. Clause B states what you **should do**—the **conclusion** supported by that reason.
+1. Here, practice to fluency is P; speak daily is Q (prescription).
 
-Takeaway
-Policy advice ("you should…") is usually the conclusion; empirical claims about practice are often premises.`,
-    expert: `In-depth (Expert) — prudential structure
+2. Example: “Since sleep consolidates memory, you should avoid all-nighters before exams.” Premise = memory consolidation—not “avoid all-nighters.”
 
-The premise is the generalization about practice and fluency; the conclusion is a **prudential ought** about daily speaking. Identifying the premise means identifying the **supporting proposition**, not the imperative.`,
+Imperatives (“you should…”) are usually conclusions in this drill.`,
+    expert: `Prudential structure
+
+The imperative is the prudential conclusion; the empirical or general claim about practice is the premise. Selecting the should confuses support with supported.`,
   },
 
   1053: {
-    beginner: `In-depth (Beginner) — router / Wi-Fi
+    beginner: `Router / Wi-Fi — premise
 
-Premise
-**"The router is off"** — the factual state of the network.
+1. “The router is off” is the fact about the network—the premise. “The Wi‑Fi won’t work” is the prediction—the conclusion.
 
-Conclusion
-"The Wi-Fi won't work" — the expected failure follows from that state.`,
-    intermediate: `In-depth (Intermediate) — diagnostic split
+2. Since introduces the diagnostic bit, not the failure forecast.`,
+    intermediate: `Diagnostic split
 
-Steps
-1. "Since" introduces the **diagnostic premise**: router off.
-2. The second clause is the **predicted consequence** about Wi-Fi—conclusion in the quiz's labeling.
-3. Do not confuse the cue word "Since" with a substantive premise.
+1. This item: router off = P; Wi‑Fi won’t work = Q.
 
-Takeaway
-In tech troubleshooting, **device state** premises support **service** conclusions.`,
-    expert: `In-depth (Expert) — causal background
+2. Example: “Since the tank is empty, the mower won’t start.” Premise = empty tank—not “won’t start.”
 
-The premise is the **obtained** fact about power/state; the conclusion is the **functional** claim about connectivity. This mirrors standard "if hardware condition, then service outcome" reasoning.`,
+Troubleshooting lines: hardware state to service outcome; state is usually P.`,
+    expert: `Causal background
+
+The functional claim (no Wi‑Fi) is the inferred conclusion; the power or state claim is the premise. Since is not a premise—it only marks where P starts.`,
   },
 
   1054: {
-    beginner: `In-depth (Beginner) — fragile artifacts
+    beginner: `Fragile artifacts — premise
 
-Premise
-**"Artifacts are fragile"** — material vulnerability.
+1. “Artifacts are fragile” is the descriptive premise (risk). “They need careful handling” is the prescriptive conclusion (what to do).
 
-Conclusion
-"They need careful handling" — handling norms are supported by fragility.`,
-    intermediate: `In-depth (Intermediate) — conservation
+2. If the task is “which is the premise?”, pick fragility, not the handling rule.`,
+    intermediate: `Conservation — descriptive to prescriptive
 
-Analysis
-1. First clause: fragile → establishes **risk**.
-2. Second clause: careful handling → **normative response** to that risk.
-3. The premise is the **descriptive** claim about fragility; the conclusion is the **prescriptive** claim about handling.
+1. Here: fragile = P; careful handling = Q.
 
-Takeaway
-**Descriptive → prescriptive** moves make the first clause the premise in this format.`,
-    expert: `In-depth (Expert) — support relation
+2. Example: “Since ice is slippery, walkers should use traction aids.” Premise = slipperiness—not “use traction aids.”
 
-Fragility is offered as the **reason** for the care requirement. Selecting "they need careful handling" mistakes the **supported claim** for the **supporting premise**.`,
+Is-claims often sit in P; ought-claims sit in Q.`,
+    expert: `Support relation
+
+“Need careful handling” is what gets supported; fragility is what does the supporting. Picking the norm when asked for premise reverses the roles.`,
   },
 
   1055: {
-    beginner: `In-depth (Beginner) — mixing colors
+    beginner: `Mixing colors — premise
 
-Premise
-**"Red and blue make purple"** — the color-mixing fact.
+1. “Red and blue make purple” is the compositional fact—the premise. “Mix them for violet” is the instruction—the conclusion about what to do.
 
-Conclusion
-"Mix them for violet" — the instruction follows from the mixing fact.`,
-    intermediate: `In-depth (Intermediate) — craft instruction
+2. The reason you mix is because of how the colors combine—not because mixing is fun.`,
+    intermediate: `Craft instruction
 
-Step-by-step
-1. The premise states **how pigments combine** to get purple.
-2. The conclusion tells you **what to do** to obtain violet.
-3. "Since" signals that the first clause is the **reason** for the mixing instruction.
+1. On this stem, pigment behavior = P; mixing instruction = Q.
 
-Takeaway
-How-to steps often premise **facts about materials** and conclude **actions**.`,
-    expert: `In-depth (Expert) — instrumental reasoning
+2. Example: “Since yeast ferments sugar, let the dough rise in a warm spot.” Premise = fermentation fact—not “let the dough rise” as premise.
 
-The premise is the **compositional** claim; the conclusion is an **imperative** about mixing. Mixing instructions are not premises when the task is "what is the reason given?"`,
+How-to lines: material truth in P, action in Q.`,
+    expert: `Instrumental reasoning
+
+The imperative (“mix…”) is the conclusion; the compositional claim is the premise. Do not label the order to act as the reason when asked for premise.`,
   },
 
   1056: {
-    beginner: `In-depth (Beginner) — red light / stop
+    beginner: `Red light / stop — premise
 
-Premise
-**"The light is red"** — the signal state.
+1. “The light is red” is the observable premise (what is true about the signal). “Drivers must stop” is the normative conclusion (what follows under the rules).
 
-Conclusion
-"Drivers must stop" — the **rule-governed** requirement.
+2. The premise slot holds facts about the world; must stop is the inferred duty, not the supporting reason.`,
+    intermediate: `Traffic rule
 
-Not the premise
-Stopping is what you **infer** or **must do** given the red light.`,
-    intermediate: `In-depth (Intermediate) — traffic rule
+1. Here: red light = P; must stop = Q (under law or custom).
 
-Procedure
-1. Identify the **observation** of the signal: red light.
-2. Identify the **normative** follow: must stop.
-3. In this template, the observation is the **premise**; the obligation is the **conclusion** backed by law/convention.
+2. Example: “Since the exit is blocked, traffic must divert.” Premise = blocked exit—not “must divert” alone.
 
-Takeaway
-Regulative arguments separate **state of the world** (premise) from **required action** (conclusion).`,
-    expert: `In-depth (Expert) — fact vs. norm
+Is (signal state) versus ought (required action)—P is usually the is.`,
+    expert: `Fact vs. norm
 
-The premise is the **descriptive** traffic signal; the conclusion is the **deontic** claim about stopping. Confusing them is a common beginner error.`,
+The deontic claim (must stop) is the conclusion; the descriptive signal state is the premise. Swapping them is a frequent beginner slip.`,
   },
 
   1057: {
-    beginner: `In-depth (Beginner) — sleep and focus
+    beginner: `Sleep and focus — premise
 
-Premise
-**"Lack of sleep affects focus"** — cognitive effect claim.
+1. “Lack of sleep affects focus” is the effect claim—the premise. “Students should rest” is the recommended fix—the conclusion.
 
-Conclusion
-"Students should rest" — the recommended response.`,
-    intermediate: `In-depth (Intermediate) — welfare advice
+2. You are asked which clause is the reason given, not which line sounds nicer.`,
+    intermediate: `Welfare advice
 
-Steps
-1. First clause: sleep deprivation → attention deficit (empirical/psychological premise).
-2. Second clause: rest (behavioral conclusion).
-3. The premise is the **harm** claim; the conclusion is the **remedy** claim.
+1. On this stem: sleep loss hurts focus = P; rest = Q.
 
-Takeaway
-Prudential arguments: **problem premise** + **rest prescription** conclusion.`,
-    expert: `In-depth (Expert) — means–ends
+2. Example: “Since dehydration dulls reaction time, pilots should pre-hydrate.” Premise = dehydration effect—not “should pre-hydrate” as premise.
 
-The premise is the **mechanism** linking sleep loss to performance; the conclusion is the **ought** about resting. The premise is not the imperative itself.`,
+Harm mechanism to remedy; harm is P.`,
+    expert: `Means–ends
+
+The rest imperative is the conclusion; the sleep or focus link is the supporting premise. The premise is not itself the imperative.`,
   },
 
   1058: {
-    beginner: `In-depth (Beginner) — supply and prices
+    beginner: `Supply and prices — premise
 
-Premise
-**"Supply is low"** — market condition.
+1. “Supply is low” is the market condition—the premise. “Prices will rise” is the forecast—the conclusion.
 
-Conclusion
-"Prices will rise" — forecast **from** scarcity.`,
-    intermediate: `In-depth (Intermediate) — economics sketch
+2. You do not list rising prices as the reason prices rise—that would confuse prediction with support.`,
+    intermediate: `Economics sketch
 
-Analysis
-1. Premise: low supply (relative to demand, implicitly).
-2. Conclusion: upward price pressure.
-3. "Since" marks the **economic condition** as the reason for the **price** claim.
+1. Here: low supply = P; prices rise = Q.
 
-Takeaway
-In "since P, Q" economics one-liners, the **state variable** (supply) is typically the premise.`,
-    expert: `In-depth (Expert) — comparative statics
+2. Example: “Since inventories are thin, spot prices should spike.” Premise = thin inventories—not “spike” as premise.
 
-The premise is the **exogenous** condition description; the conclusion is the **endogenous** variable movement (price). The price forecast is not a premise for itself.`,
+State variables (supply) sit in P; endogenous moves (price) sit in Q.`,
+    expert: `Comparative statics
+
+The price movement is what you infer; scarcity condition is what you assert as reason. Do not treat Q as P.`,
   },
 
   1059: {
-    beginner: `In-depth (Beginner) — dogs / company
+    beginner: `Dogs / company — premise
 
-Premise
-**"Dogs are social"** — behavioral trait.
+1. “Dogs are social” is the trait claim—the premise. “They need company” is the care implication—the conclusion.
 
-Conclusion
-"They need company" — care implication.`,
-    intermediate: `In-depth (Intermediate) — ethology to care
+2. The need is what you derive from sociability—not what you cite as the raw reason.`,
+    intermediate: `Ethology to care
 
-Step-by-step
-1. Trait premise: species-typical sociability.
-2. Care conclusion: need for companionship.
-3. The premise is the **general fact** about dogs; the conclusion is the **welfare** implication.
+1. Here: social species = P; need company = Q.
 
-Takeaway
-**Trait → obligation** structures place the trait in the premise slot.`,
-    expert: `In-depth (Expert) — generalization
+2. Example: “Since corvids cache food, they need cognitive enrichment in captivity.” Premise = caching behavior—not “need enrichment” as premise.
 
-The premise is a **general** characteristic; the conclusion is a **practical** prescription. The need for company is not the premise—it is what the arguer infers from sociability.`,
+General trait to welfare ought; trait is P.`,
+    expert: `Generalization
+
+The welfare prescription is supported by the trait claim; trait is premise, need is conclusion in this labeling.`,
   },
 
   1060: {
-    beginner: `In-depth (Beginner) — guitar out of tune
+    beginner: `Guitar out of tune — premise
 
-Premise
-**"The guitar is out of tune"** — instrument state.
+1. “The guitar is out of tune” is the setup fact—the premise. “It will sound bad” is the sonic judgment—the conclusion.
 
-Conclusion
-"It will sound bad" — sonic evaluation **from** that state.`,
-    intermediate: `In-depth (Intermediate) — performance quality
+2. Bad sound is what you predict from the tuning state—not the reason the prediction is made.`,
+    intermediate: `Performance quality
 
-Procedure
-1. State premise: tuning defect.
-2. Conclusion: bad sound.
-3. **Since** introduces the **diagnostic** premise; the aesthetic prediction is the **conclusion**.
+1. Here: out of tune = P; sounds bad = Q.
 
-Takeaway
-Music QA uses **fault** as premise and **sound quality** as conclusion.`,
-    expert: `In-depth (Expert) — conditional evaluation
+2. Example: “Since the reed is chipped, the opening will be sharp and unstable.” Premise = chip—not “unstable” as premise.
 
-The premise is the **physical setup** claim; the conclusion is the **auditory** evaluation. The evaluation is supported by the setup, not identical to it.`,
+Fault to aesthetic or sonic outcome; fault is P.`,
+    expert: `Conditional evaluation
+
+The auditory evaluation is the conclusion; the physical state is the premise. They are related but not the same speech act when labeling premise.`,
   },
 
   1061: {
-    beginner: `In-depth (Beginner) — oven / cake
+    beginner: `Oven / cake — premise
 
-Premise
-**"The oven is too hot"** — the thermal condition cited as the reason.
+1. “The oven is too hot” is the equipment premise—the condition cited as reason. “The cake will burn” is the outcome conclusion—what follows from that heat.
 
-Conclusion
-"The cake will burn" — the **predicted** baking outcome.`,
-    intermediate: `In-depth (Intermediate) — baking control
+2. Do not pick the word Since as the premise—it only signals where P begins.`,
+    intermediate: `Baking control
 
-Steps
-1. "Since" introduces the **equipment state** (temperature too high).
-2. The second clause is the **forecast** about the cake—what follows from that state.
-3. Do not pick "Since" as the content premise.
+1. Here: too hot = P; will burn = Q.
 
-Takeaway
-In kitchen one-liners, **oven state** premises support **doneness / burn** conclusions.`,
-    expert: `In-depth (Expert) — causal foregrounding
+2. Example: “Since the pan is still cold, the butter won’t brown yet.” Premise = cold pan—not “won’t brown.”
 
-The premise is the **controllable** condition (heat); the conclusion is the **downstream** event (burning). The burn claim is what the arguer infers, not what they offer as given.`,
+Oven or pan state to baking result; state is P.`,
+    expert: `Causal foregrounding
+
+Burn is predicted from heat; heat level is what is given as support. Q is not P.`,
   },
 
   1062: {
-    beginner: `In-depth (Beginner) — practice / finish faster
+    beginner: `Practice / finish faster — premise
 
-Premise
-**"You practiced hard"** — the effort fact used as support.
+1. “You practiced hard” is the effort premise. “You will finish faster” is the performance conclusion.
 
-Conclusion
-"You will finish faster" — the **performance** prediction.`,
-    intermediate: `In-depth (Intermediate) — training payoff
+2. The speed claim is what you expect from the practice story—not the reason offered for the expectation.`,
+    intermediate: `Training payoff
 
-Analysis
-1. First clause: past/ongoing effort—**evidence** style premise.
-2. Second clause: future speed—**outcome** claim.
-3. Same "Since P, Q" template as other skill items: support → expectation.
+1. Here: practiced hard = P; finish faster = Q.
 
-Takeaway
-**Effort premises** back **speed / quality** conclusions in training talk.`,
-    expert: `In-depth (Expert) — performance inference
+2. Example: “Since you drilled scales daily, your sight-reading should ease up.” Premise = drilling—not “sight-reading eases” as premise.
 
-The premise is the **antecedent** about practice; "finish faster" is the **consequent** performance claim. Confusing them reverses support and target.`,
+Training facts to performance; facts = P.`,
+    expert: `Performance inference
+
+Faster finish is the consequent claim; practice is the antecedent support. Reversing them mislabels premise.`,
   },
 
   1063: {
-    beginner: `In-depth (Beginner) — dark clouds / rain
+    beginner: `Dark clouds / rain — premise
 
-Premise
-**"The clouds are dark"** — the observable weather cue.
+1. “The clouds are dark” is the visible premise (sign). “It is going to rain” is the forecast conclusion.
 
-Conclusion
-"It is going to rain" — the **forecast** built on that cue.`,
-    intermediate: `In-depth (Intermediate) — sky reading
+2. Rain is what you infer—not what you list as the given reason in P.`,
+    intermediate: `Sky reading
 
-Procedure
-1. Visual premise: cloud appearance.
-2. Meteorological conclusion: precipitation expectation.
-3. "Since" marks the **observation** as the reason, not the prediction.
+1. Here: dark clouds = P; going to rain = Q.
 
-Takeaway
-Weather chatter often premises **signs** and concludes **events**.`,
-    expert: `In-depth (Expert) — inductive shortcut
+2. Example: “Since the wind shifted onshore, fog should roll in.” Premise = wind shift—not “fog rolls in” as premise.
 
-At Level 0, treat the **sign** as the premise and the **forecast** as the conclusion—even though real forecasting is more complex.`,
+Sign to event; sign is P (Level 0 simplification).`,
+    expert: `Inductive shortcut
+
+Real forecasting is messy; for this drill, observation = premise, prediction = conclusion.`,
   },
 
   1064: {
-    beginner: `In-depth (Beginner) — dead battery / no start
+    beginner: `Dead battery / no start — premise
 
-Premise
-**"The battery is empty"** — the electrical state.
+1. “The battery is empty” is the electrical premise. “The car won’t start” is the functional conclusion.
 
-Conclusion
-"The car won't start" — the **functional** failure.`,
-    intermediate: `In-depth (Intermediate) — automotive diagnosis
+2. No-start is the symptom you infer from stored energy state—not the supporting fact.`,
+    intermediate: `Automotive diagnosis
 
-Steps
-1. State-of-charge premise: empty battery.
-2. Start failure conclusion: no crank / no ignition chain.
-3. Parallel to router/Wi-Fi items: **power/storage** premise → **service** conclusion.
+1. Here: empty battery = P; won’t start = Q (same family as router offline items).
 
-Takeaway
-Roadside reasoning: **energy source** first, **engine behavior** second.`,
-    expert: `In-depth (Expert) — mechanism background
+2. Example: “Since the fuel gauge reads empty, the engine won’t fire.” Premise = empty tank—not “won’t fire.”
 
-The premise is the **stored energy** claim; starting difficulty is the **inferred** symptom. The symptom is not the premise.`,
+Energy or storage first, behavior second.`,
+    expert: `Mechanism background
+
+Starting failure is Q; battery state is P. The symptom is not the premise.`,
   },
 
   1065: {
-    beginner: `In-depth (Beginner) — plants / window
+    beginner: `Plants / window — premise
 
-Premise
-**"Plants need light"** — biological need as the reason.
+1. “Plants need light” is the biological premise. “They should be near the window” is the placement conclusion.
 
-Conclusion
-"They should be near the window" — **placement** advice.`,
-    intermediate: `In-depth (Intermediate) — indoor growing
+2. Need light is the reason; window is the fix you derive.`,
+    intermediate: `Indoor growing
 
-Analysis
-1. Need premise: light requirement.
-2. Prescriptive conclusion: location near glass.
-3. **Descriptive need** → **horticultural ought** matches the Level 0 pattern.
+1. Here: need light = P; near window = Q.
 
-Takeaway
-Care instructions premise **facts about the organism** and conclude **what to do**.`,
-    expert: `In-depth (Expert) — welfare placement
+2. Example: “Since succulents rot in wet soil, use gritty mix in the pot.” Premise = rot risk—not “use gritty mix” as premise.
 
-The premise is the **general** phototropic need; window placement is the **recommended** response—not the supporting fact.`,
+Organism need to care action; need is P.`,
+    expert: `Welfare placement
+
+Window advice is supported by phototropism; need is premise, placement is conclusion.`,
   },
 
   1066: {
-    beginner: `In-depth (Beginner) — silence / speak softly
+    beginner: `Silence / speak softly — premise
 
-Premise
-**"Silence is required"** — the situational rule or norm.
+1. “Silence is required” is the context rule—the premise. “We must speak softly” is the conduct conclusion.
 
-Conclusion
-"We must speak softly" — the **conduct** that follows.`,
-    intermediate: `In-depth (Intermediate) — venue norms
+2. Soft speech is what follows from the quiet requirement—not the reason itself.`,
+    intermediate: `Venue norms
 
-Procedure
-1. Regulatory / contextual premise: quiet requirement.
-2. Behavioral conclusion: lowered voice.
-3. Do not treat the imperative as the premise when the task is "what is the reason given?"
+1. Here: silence required = P; speak softly = Q.
 
-Takeaway
-**Rule or setting** premises support **manners** conclusions.`,
-    expert: `In-depth (Expert) — deontic layering
+2. Example: “Since the court is in session, phones must be off.” Premise = session status—not “phones off” as premise.
 
-The premise states **what the context demands** (silence); the conclusion is the **derived** behavior (soft speech).`,
+Setting or rule to manners; rule is P.`,
+    expert: `Deontic layering
+
+The derived imperative (soft speech) is Q; the ambient requirement (silence) is P.`,
   },
 
   1067: {
-    beginner: `In-depth (Beginner) — exercise / walk daily
+    beginner: `Exercise / walk daily — premise
 
-Premise
-**"Exercise improves health"** — the general benefit claim.
+1. “Exercise improves health” is the general benefit premise. “We should walk daily” is the specific prescription conclusion.
 
-Conclusion
-"We should walk daily" — the **lifestyle** prescription.`,
-    intermediate: `In-depth (Intermediate) — public-health style
+2. The walk is the plan you infer—not the raw supporting proposition.`,
+    intermediate: `Public-health style
 
-Steps
-1. Benefit premise: exercise → health (broad).
-2. Action conclusion: daily walking (specific).
-3. Same structure as other "general fact → ought" items.
+1. Here: exercise helps health = P; walk daily = Q.
 
-Takeaway
-**Evidence about benefits** is typically the premise; **should** is the conclusion.`,
-    expert: `In-depth (Expert) — bridging general to specific
+2. Example: “Since fiber aids digestion, add vegetables at lunch.” Premise = fiber benefit—not “add vegetables” as premise.
 
-The premise is the **wide** proposition; the walk prescription is the **narrow** recommendation. The recommendation is supported—not identical to the premise.`,
+Broad evidence to narrow ought; broad = P.`,
+    expert: `Bridging general to specific
+
+The specific habit is supported by the general claim; do not treat the habit as premise.`,
   },
 
   1068: {
-    beginner: `In-depth (Beginner) — X = 5 / X + 2 = 7
+    beginner: `X = 5 / X + 2 = 7 — premise
 
-Premise
-**"X equals 5"** — the assigned value (what you start from).
+1. “X equals 5” is the given—the premise you start from. “X plus 2 equals 7” is the derived line—the conclusion of the step.
 
-Conclusion
-"X plus 2 equals 7" — the **derived** equality.`,
-    intermediate: `In-depth (Intermediate) — arithmetic step
+2. In proof-style wording, givens sit in P; computed lines sit in Q.`,
+    intermediate: `Arithmetic step
 
-Analysis
-1. Substitution premise: numerical value of X.
-2. Conclusion: result of the operation (here, add 2).
-3. In proof-style English, the **given** is premise-like; the **computed** line is conclusion-like.
+1. Here: X = 5 = P; X + 2 = 7 = Q (under ordinary arithmetic).
 
-Takeaway
-Algebra drills: **givens** in the premise slot, **consequents** in the conclusion slot.`,
-    expert: `In-depth (Expert) — proof scaffolding
+2. Example: “Since n = 10, n/2 must be 5.” Premise = n = 10—not “n/2 is 5” as premise.
 
-The premise is the **assumption** X = 5; X + 2 = 7 is what **follows** under standard arithmetic. Do not label the conclusion as the premise.`,
+Assumption to consequent; assumption is P.`,
+    expert: `Proof scaffolding
+
+The result of the operation is Q; the assignment X = 5 is P. Do not label Q as premise.`,
   },
 
   1069: {
-    beginner: `In-depth (Beginner) — tide / beach
+    beginner: `Tide / beach — premise
 
-Premise
-**"The tide is coming in"** — the coastal process.
+1. “The tide is coming in” is the process premise. “The beach will get smaller” is the spatial conclusion (less dry sand).
 
-Conclusion
-"The beach will get smaller" — the **shore** change.`,
-    intermediate: `In-depth (Intermediate) — littoral dynamics
+2. Shrinking beach is predicted from rising water—not offered as the reason for the water.`,
+    intermediate: `Littoral dynamics
 
-Procedure
-1. Hydrodynamic premise: rising tide / flood phase.
-2. Spatial conclusion: less dry sand visible—**beach** shrinks for the visitor.
-3. Matches field-trip talk: **process** premise, **observable** outcome.
+1. Here: tide coming in = P; beach smaller = Q.
 
-Takeaway
-Coastal forecasts premise **tidal state** and conclude **usable beach width**.`,
-    expert: `In-depth (Expert) — spatial consequence
+2. Example: “Since the snowpack is melting fast, the trail will be muddy.” Premise = melt—not “muddy” as premise.
 
-The premise is the **forcing** (incoming water); beach shrinkage is the **experienced** effect. The effect is the conclusion.`,
+Forcing to experienced layout; forcing = P.`,
+    expert: `Spatial consequence
+
+Beach shrinkage is Q; tidal phase is P. The effect is not the premise.`,
   },
 
   1070: {
-    beginner: `In-depth (Beginner) — light travel / stars in the past
+    beginner: `Light travel / stars in the past — premise
 
-Premise
-**"Light takes time to travel"** — finite speed / delay.
+1. “Light takes time to travel” is the physical premise (finite speed or delay). “We see stars as they were” is the lookback conclusion.
 
-Conclusion
-"We see stars as they were" — **lookback** claim.`,
-    intermediate: `In-depth (Intermediate) — astronomy education
+2. Past appearance follows from travel time—it is not the supporting fact in P.`,
+    intermediate: `Astronomy education
 
-Steps
-1. Physical premise: non-instantaneous light propagation.
-2. Observational conclusion: historical appearance of sources.
-3. Same conceptual family as starlight / planetarium items; packaged as a short "Since" line.
+1. Here: light takes time = P; see stars as they were = Q (same family as planetarium and tour items).
 
-Takeaway
-**Travel time** premises support **past-state** viewing conclusions.`,
-    expert: `In-depth (Expert) — emission vs. reception
+2. Example: “Since sound crosses the stadium slowly, claps arrive out of sync.” Premise = slow sound—not “out of sync” as premise.
 
-The premise is about **propagation**; the conclusion is about **what we see when**. Relativistic detail omitted at Level 0.`,
+Propagation premise to observation conclusion.`,
+    expert: `Emission vs. reception
+
+Lookback is Q; finite speed or delay is P. Relativistic nuance is optional at Level 0.`,
   },
 
   1071: {
-    beginner: `In-depth (Beginner) — gravity demo (second pass)
+    beginner: `Gravity demo — second pass (premise)
 
-Task reminder
-The bank text matches the earlier gravity/apple item, but the ID is new—roles are unchanged: **support** vs **outcome**.
+1. New ID, same roles as the earlier gravity and apple line: “Gravity pulls objects down” = P (the reason you treat as given). “The apple will fall” = Q (the outcome you infer).
 
-Premise
-**"Gravity pulls objects down"** — the physical generalization cited before the comma.
+2. The vignette may be worded slightly differently—premise vs conclusion does not move.`,
+    intermediate: `Gravity — second pass
 
-Conclusion
-"The apple will fall" — the **particular** prediction in the vignette.`,
-    intermediate: `In-depth (Intermediate) — force → motion talk
+1. P = universal pull story; Q = this apple’s fall.
 
-Walkthrough
-1. Treat the first clause as the **shared background** about weight-like pulls.
-2. Treat the second clause as the **episode** about one apple.
-3. "Since" only **flags** where the premise starts; it is not the premise text.
+2. Example: “Since acids donate protons, this strip will turn red.” P = acid behavior—not “strip turns red.”
 
-Angle
-Same template as other **general law → instance** items—first slot = premise.`,
-    expert: `In-depth (Expert) — instance vs. law
+Law-like first clause to instance second clause; first = premise when asked.`,
+    expert: `Instance vs. law
 
-Even when the scenario feels like a physics demo, the quiz labels the **law-like** clause as premise and the **token prediction** as conclusion. The prediction is not offered as the reason.`,
+The fall is what you derive; gravity is what you cite. Same labeling as IDs 1051 and 1061—only the surface story rotates.`,
   },
 
   1072: {
-    beginner: `In-depth (Beginner) — fluency advice (second pass)
+    beginner: `Fluency advice — second pass (premise)
 
-Premise
-**"Practice improves fluency"** — the learning claim that does the justifying.
+1. “Practice improves fluency” = P. “You should speak daily” = Q (schedule ought).
 
-Conclusion
-"You should speak daily" — the **frequency** prescription.`,
-    intermediate: `In-depth (Intermediate) — habit layer
+2. Repetition in the bank drills the same P/Q split with a fresh stem—your job is still to tag support vs prescription.`,
+    intermediate: `Fluency — second pass
 
-Steps
-1. Map clause 1 → **mechanism** (practice → fluency).
-2. Map clause 2 → **schedule** (daily speech).
-3. The mechanism statement is the **because**-side; the schedule is the **therefore**-side for this quiz.
+1. Mechanism (practice to skill) supports cadence (daily).
 
-Takeaway
-Oughts about routine sit in the **conclusion** slot in this format.`,
-    expert: `In-depth (Expert) — policy stack
+2. Example: “Since spaced repetition beats cramming, you should review weekly.” P = spacing effect—not “review weekly.”
 
-The premise is an **is** about skill acquisition; the conclusion is an **ought** about behavior. Do not treat the ought as the supporting proposition.`,
+Is about learning to ought about habit; is = P.`,
+    expert: `Policy stack
+
+The daily imperative is Q; the practice–fluency link is P—parallel to 1052 and 1062.`,
   },
 
   1073: {
-    beginner: `In-depth (Beginner) — home network (second pass)
+    beginner: `Home network — second pass (premise)
 
-Premise
-**"The router is off"** — the **power/path** fact.
+1. “The router is off” = P (device state). “The Wi‑Fi won’t work” = Q (service prediction).
 
-Conclusion
-"The Wi-Fi won't work" — the **LAN radio** outcome.`,
-    intermediate: `In-depth (Intermediate) — stack intuition
+2. Second pass = same box-to-air logic as 1053 and 1063 with new wrapping.`,
+    intermediate: `Router — second pass
 
-Analysis
-1. Bottom of the stack here: router powered.
-2. Upper symptom: wireless service absent.
-3. For premise ID, the **hardware fact** is premise; the **service symptom** is conclusion.
+1. P = CPE down; Q = WLAN unusable.
 
-Takeaway
-Diagnostics often read **cause state** → **service state**—first is premise in this lesson.`,
-    expert: `In-depth (Expert) — layered faulting
+2. Example: “Since the DNS resolver is unreachable, name lookup will fail.” P = resolver—not “lookup fails.”
 
-The premise is the **localized** fault (router off); Wi-Fi failure is the **user-visible** layer. The visible layer is what you infer, not what you premise.`,
+Upstream fault = premise; symptom = conclusion.`,
+    expert: `Layered faulting
+
+Wi‑Fi failure is inferred; router off is posited as support—same direction as earlier router items.`,
   },
 
   1074: {
-    beginner: `In-depth (Beginner) — handling policy (second pass)
+    beginner: `Handling policy — second pass (premise)
 
-Premise
-**"Artifacts are fragile"** — risk **classification**.
+1. Fragility = P. Careful handling = Q.
 
-Conclusion
-"They need careful handling" — **procedure** implied by that risk.`,
-    intermediate: `In-depth (Intermediate) — risk → protocol
+2. Another pass over risk to protocol—the roles stay: descriptive risk first, prescriptive care second.`,
+    intermediate: `Artifacts — second pass
 
-Procedure
-1. Register fragility as a **hazard** premise.
-2. Derive handling rules as **controls**—conclusion side.
-3. "Since" ties hazard to control in one breath.
+1. P = material hazard; Q = handling norm.
 
-Takeaway
-Museum-style lines: **material fact** first, **care norm** second.`,
-    expert: `In-depth (Expert) — normative target
+2. Example: “Since nitrile degrades in ketones, use a different glove for that solvent.” P = degradation—not “switch gloves” as premise.
 
-The care requirement is the **policy conclusion** justified by fragility. Fragility is not inferred from the policy; it is **given** as support.`,
+Hazard register to control; hazard = P.`,
+    expert: `Normative target
+
+Care rules are justified by fragility; fragility is not inferred from the rules—same as 1054 and 1064.`,
   },
 
   1075: {
-    beginner: `In-depth (Beginner) — paint mixing (second pass)
+    beginner: `Paint mixing — second pass (premise)
 
-Premise
-**"Red and blue make purple"** — the **recipe fact**.
+1. “Red and blue make purple” = P (recipe). “Mix them for violet” = Q (instruction).
 
-Conclusion
-"Mix them for violet" — the **operator instruction**.`,
-    intermediate: `In-depth (Intermediate) — recipe vs. step
+2. You are still picking premise: the recipe, not the order to mix.`,
+    intermediate: `Palette — second pass
 
-Steps
-1. Clause 1: what the pigments **do together** (compositional premise).
-2. Clause 2: what **you** should do (imperative conclusion).
-3. Do not select the imperative when asked for the **reason** slot.
+1. Composition = P; imperative = Q.
 
-Takeaway
-Craft one-liners: **composition** premises, **action** conclusions.`,
-    expert: `In-depth (Expert) — means selection
+2. Example: “Since epoxy sets in ten minutes, work in small batches.” P = cure time—not “small batches” as premise.
 
-The mixing command is chosen **because** of the color fact; the fact is the premise, the command is the **instrumental** conclusion.`,
+Fact about materials to command; fact = P.`,
+    expert: `Means selection
+
+The mix command is Q; the color chemistry claim is P—aligned with 1055 and 1065.`,
   },
 
   1076: {
-    beginner: `In-depth (Beginner) — intersection control (second pass)
+    beginner: `Intersection — second pass (premise)
 
-Premise
-**"The light is red"** — **signal** reading.
+1. Red light = P (observation). Must stop = Q (duty).
 
-Conclusion
-"Drivers must stop" — **compliance** requirement.`,
-    intermediate: `In-depth (Intermediate) — control system view
+2. Same signal-to-obligation split as other traffic cards—second pass only changes scenery.`,
+    intermediate: `Traffic — second pass
 
-Analysis
-1. Sensor-like input: color state of the lamp.
-2. Rule output: mandatory stop for road users.
-3. Premise = **state**; conclusion = **obligation** under the code.
+1. P = aspect; Q = compliance.
 
-Takeaway
-Traffic items split **what you see** from **what you must do**.`,
-    expert: `In-depth (Expert) — deontic consequence
+2. Example: “Since the runway guard shows red, hold short of the marking.” P = guard state—not “hold short” as premise.
 
-Stopping is the **deontic** conclusion; redness is the **empirical** premise. Swapping them misreads the support direction.`,
+See vs must; see = P.`,
+    expert: `Deontic consequence
+
+Stop is Q; red is P—do not reverse empirical vs deontic.`,
   },
 
   1077: {
-    beginner: `In-depth (Beginner) — attention budget (second pass)
+    beginner: `Attention budget — second pass (premise)
 
-Premise
-**"Lack of sleep affects focus"** — **performance** pathology.
+1. Sleep hurts focus = P. Students should rest = Q.
 
-Conclusion
-"Students should rest" — **recovery** prescription.`,
-    intermediate: `In-depth (Intermediate) — harm → remedy
+2. Harm to remedy again—premise is the deficit claim, not the rest advice.`,
+    intermediate: `Sleep — second pass
 
-Walkthrough
-1. Harm premise: sleep loss hurts attention.
-2. Remedy conclusion: rest as response.
-3. Same **problem / fix** shape as other welfare snippets.
+1. P = cognitive harm; Q = recovery ought.
 
-Takeaway
-The **should-rest** line is the advice, not the evidence.`,
-    expert: `In-depth (Expert) — advisory closure
+2. Example: “Since dehydration blunts focus, athletes should pre-hydrate.” P = dehydration effect—not “pre-hydrate” as premise.
 
-Rest is the **closing** recommendation; sleep-focus impairment is the **opening** evidential claim. Premise = opening.`,
+Problem evidence to fix; evidence = P.`,
+    expert: `Advisory closure
+
+Rest is downstream; the sleep and focus link is P—same stack as 1057 and 1067.`,
   },
 
   1078: {
-    beginner: `In-depth (Beginner) — scarcity pricing (second pass)
+    beginner: `Scarcity pricing — second pass (premise)
 
-Premise
-**"Supply is low"** — **market tightness**.
+1. Low supply = P. Prices will rise = Q.
 
-Conclusion
-"Prices will rise" — **price** response.`,
-    intermediate: `In-depth (Intermediate) — condition → forecast
+2. The price move is what you infer—not what you list as the given reason.`,
+    intermediate: `Economics — second pass
 
-Steps
-1. Economic state premise: scarce supply (ceteris paribus, informal).
-2. Price-move conclusion: upward pressure.
-3. "Since" anchors the **condition** as the reason for the **forecast**.
+1. P = tight market; Q = price forecast.
 
-Takeaway
-The forecast is what you argue **from** the condition—not the premise itself.`,
-    expert: `In-depth (Expert) — exogenous tag
+2. Example: “Since dock space is scarce, freight surcharges will spike.” P = scarcity—not “surcharges” as premise.
 
-Treat supply as **exogenous** in this toy model; price movement is the **endogenous** claim. The latter belongs in the conclusion column.`,
+Condition first, price second; condition = P.`,
+    expert: `Exogenous tag
+
+Price is endogenous in the toy story; supply is the stated premise—as in 1058 and 1068.`,
   },
 
   1079: {
-    beginner: `In-depth (Beginner) — companion animals (second pass)
+    beginner: `Companion animals — second pass (premise)
 
-Premise
-**"Dogs are social"** — **species-typical** trait.
+1. Dogs are social = P. Need company = Q.
 
-Conclusion
-"They need company" — **welfare** upshot.`,
-    intermediate: `In-depth (Intermediate) — trait → need
+2. Trait grounds welfare conclusion—trait stays in the premise slot.`,
+    intermediate: `Dogs — second pass
 
-Analysis
-1. Ethology-style premise: sociability.
-2. Care conclusion: companionship requirement.
-3. The need statement is **inferred** from the trait for this exercise.
+1. P = ethology; Q = care implication.
 
-Takeaway
-**Trait** premises; **care** conclusions—do not flip.`,
-    expert: `In-depth (Expert) — inference target
+2. Example: “Since corvids cache food, they need cognitive enrichment in captivity.” P = caching—not “enrichment” as premise.
 
-Company is the **target** of the inference; sociability is the **ground**. Ground = premise in the quiz sense.`,
+Trait to need; trait = P.`,
+    expert: `Inference target
+
+Company need is inferred; sociability is P—mirror 1059 and 1069.`,
   },
 
   1080: {
-    beginner: `In-depth (Beginner) — intonation check (second pass)
+    beginner: `Intonation — second pass (premise)
 
-Premise
-**"The guitar is out of tune"** — **setup** fault.
+1. Out of tune = P. Will sound bad = Q.
 
-Conclusion
-"It will sound bad" — **sonic** judgment.`,
-    intermediate: `In-depth (Intermediate) — setup → timbre
+2. Setup fault supports sonic judgment—fault is not the judgment.`,
+    intermediate: `Guitar — second pass
 
-Procedure
-1. Mechanical premise: tuning error.
-2. Aesthetic conclusion: poor sound quality.
-3. "Since" introduces the **fault**; the **evaluation** is downstream.
+1. P = tuning; Q = timbre verdict.
 
-Takeaway
-Instrument QA: **fault description** = premise; **quality verdict** = conclusion.`,
-    expert: `In-depth (Expert) — evaluation dependency
+2. Example: “Since the head is dented, the drum will ring oddly.” P = dent—not “ring oddly” as premise.
 
-Bad sound is **conditionally** expected **given** bad tuning; the tuning claim is the **independent** premise in the pair.`,
+Mechanics to aesthetics; mechanics = P.`,
+    expert: `Evaluation dependency
+
+Bad sound is conditional on tuning; the tuning claim is P—same as 1060.`,
   },
 
   1081: {
-    beginner: `In-depth (Beginner) — oven setpoint (third pass)
+    beginner: `Oven setpoint — third pass (premise)
 
-Note
-Same sentence as other oven/cake IDs—premise/conclusion roles stay fixed.
+1. Same oven and cake line as earlier IDs—roles fixed: “The oven is too hot” = P. “The cake will burn” = Q.
 
-Premise
-**"The oven is too hot"** — **thermal** setting or cavity condition cited as the reason.
+2. Third pass = new ID, identical P/Q map.`,
+    intermediate: `Baking — third pass
 
-Conclusion
-"The cake will burn" — **baking** outcome expected from that heat.`,
-    intermediate: `In-depth (Intermediate) — overshoot intuition
+1. P = thermal overshoot; Q = burn risk.
 
-Walkthrough
-1. Premise slot: temperature **too high** for the recipe moment.
-2. Conclusion slot: **overcooking** framed as burning.
-3. "Since" ties **equipment state** to **food fate**—first clause = support.
+2. Example: “Since the pan is on high, the sauce will scorch.” P = heat setting—not “scorch” as premise.
 
-Takeaway
-Kitchen warnings premise **heat control facts** and conclude **doneness hazards**.`,
-    expert: `In-depth (Expert) — control variable
+Equipment state to food fate; state = P.`,
+    expert: `Control variable
 
-Heat is treated as the **controlled** or observed input; the burn forecast is the **dependent** narrative outcome—not the premise.`,
+Burn is dependent on heat in the story; too hot is the cited premise—same as other oven cards.`,
   },
 
   1082: {
-    beginner: `In-depth (Beginner) — training load (third pass)
+    beginner: `Training load — third pass (premise)
 
-Premise
-**"You practiced hard"** — **training load** or effort invested.
+1. “You practiced hard” = P (past effort). “You will finish faster” = Q (projected pace).
 
-Conclusion
-"You will finish faster" — **throughput** or completion-time expectation.`,
-    intermediate: `In-depth (Intermediate) — effort → pace
+2. Third pass repeats effort to forecast with fresh stem.`,
+    intermediate: `Practice — third pass
 
-Steps
-1. Evidence-style premise: sustained practice effort.
-2. Performance conclusion: improved speed (toy causal link).
-3. Do not label the speed claim as the premise—it is what the arguer **projects**.
+1. P = training load; Q = completion speed claim.
 
-Takeaway
-**Past effort** premises; **future pace** conclusions in this template.`,
-    expert: `In-depth (Expert) — projection anchor
+2. Example: “Since you drilled scales daily, this étude will take fewer run-throughs.” P = drill—not “fewer run-throughs” as premise.
 
-The premise **anchors** the story in what already happened; the faster finish is the **forward-looking** claim supported by that anchor.`,
+Anchor in what happened; projection = Q.`,
+    expert: `Projection anchor
+
+Faster finish is forward-looking; the practice line is P.`,
   },
 
   1083: {
-    beginner: `In-depth (Beginner) — sky cue (third pass)
+    beginner: `Sky cue — third pass (premise)
 
-Premise
-**"The clouds are dark"** — **visual** cue about the sky.
+1. Dark clouds = P. Going to rain = Q.
 
-Conclusion
-"It is going to rain" — **precipitation** expectation.`,
-    intermediate: `In-depth (Intermediate) — nowcast heuristic
+2. Level-0 rule: sign to event; sign = premise.`,
+    intermediate: `Weather — third pass
 
-Analysis
-1. Observation premise: cloud appearance.
-2. Forecast conclusion: rain soon (folk heuristic).
-3. At Level 0, accept **sign → event** labeling without meteorology depth.
+1. P = appearance; Q = precipitation call.
 
-Takeaway
-The **look of the sky** is premise; the **weather call** is conclusion.`,
-    expert: `In-depth (Expert) — heuristic boundary
+2. Example: “Since the barometer is falling fast, squalls are likely.” P = pressure trend—not “squalls” as premise.
 
-Real forecasting is complex; for this item, the **observed sign** is strictly the premise and the **called event** is the conclusion.`,
+Observation first, forecast second.`,
+    expert: `Heuristic boundary
+
+Real meteorology is richer; here, clouds = P, rain = Q only.`,
   },
 
   1084: {
-    beginner: `In-depth (Beginner) — starter chain (third pass)
+    beginner: `Starter chain — third pass (premise)
 
-Premise
-**"The battery is empty"** — **stored energy** state.
+1. Battery empty = P. Won’t start = Q (symptom).
 
-Conclusion
-"The car won't start" — **cranking / ignition** failure.`,
-    intermediate: `In-depth (Intermediate) — electromechanical sketch
+2. Cause state vs failure—state is premise when asked.`,
+    intermediate: `Automotive — third pass
 
-Procedure
-1. Electrical premise: no usable charge.
-2. Mechanical conclusion: starter/ignition chain cannot complete as needed.
-3. Same **source fault → symptom** pattern as other power items.
+1. P = stored energy; Q = cranking outcome.
 
-Takeaway
-**Battery state** = premise; **start failure** = conclusion.`,
-    expert: `In-depth (Expert) — symptom vs. cause statement
+2. Example: “Since the fuse is blown, the pump won’t run.” P = fuse—not “pump won’t run” as premise.
 
-"No start" is the **symptom-inference**; "empty battery" is the **posited cause** offered as premise.`,
+Source fault to symptom; fault = P.`,
+    expert: `Symptom vs. cause
+
+No start is inferred; empty battery is posited as support.`,
   },
 
   1085: {
-    beginner: `In-depth (Beginner) — photon budget (third pass)
+    beginner: `Photon budget — third pass (premise)
 
-Premise
-**"Plants need light"** — **autotroph** requirement.
+1. Plants need light = P. Near the window = Q (placement ought).
 
-Conclusion
-"They should be near the window" — **placement** to meet that need.`,
-    intermediate: `In-depth (Intermediate) — indoor placement
+2. Biological need supports spatial fix—need is P.`,
+    intermediate: `Indoor plants — third pass
 
-Steps
-1. Biological premise: light dependence.
-2. Architectural conclusion: window proximity as solution.
-3. The **need** is the reason; the **spot** is the advised response.
+1. P = autotroph requirement; Q = architecture advice.
 
-Takeaway
-**Need** premises; **placement oughts** conclusions.`,
-    expert: `In-depth (Expert) — means to an end
+2. Example: “Since seedlings need warmth, use a heat mat under the tray.” P = warmth need—not “heat mat” as premise.
 
-Window placement is the **means** justified by the light need; the need itself is the **supporting** proposition.`,
+Need to means; need = P.`,
+    expert: `Means to an end
+
+Window is justified by light need; light need is P.`,
   },
 
   1086: {
-    beginner: `In-depth (Beginner) — quiet venue (third pass)
+    beginner: `Quiet venue — third pass (premise)
 
-Premise
-**"Silence is required"** — **contextual** rule.
+1. Silence required = P (rule). Speak softly = Q (conduct).
 
-Conclusion
-"We must speak softly" — **volume** adjustment.`,
-    intermediate: `In-depth (Intermediate) — noise norms
+2. Regulative context first; manners second—rule = P.`,
+    intermediate: `Noise norms — third pass
 
-Analysis
-1. Rule premise: quiet mandate (library, ceremony, etc.).
-2. Conduct conclusion: lowered voices.
-3. The **rule** is what you cite; the **behavior** is what you derive.
+1. P = mandate; Q = volume adjustment.
 
-Takeaway
-**Regulative context** first; **manners** second.`,
-    expert: `In-depth (Expert) — compliance mapping
+2. Example: “Since this ward is silent after nine, keep voices down in the corridor.” P = quiet hours—not “voices down” as premise.
 
-Soft speech is the **mapped** behavior to the silence requirement; the requirement is the **explicit** premise text.`,
+Rule to compliance; rule = P.`,
+    expert: `Compliance mapping
+
+Soft speech is mapped to the rule; the silence rule text is P.`,
   },
 
   1087: {
-    beginner: `In-depth (Beginner) — daily walk (third pass)
+    beginner: `Daily walk — third pass (premise)
 
-Premise
-**"Exercise improves health"** — **benefit** generalization.
+1. Exercise improves health = P. Walk daily = Q (specific habit).
 
-Conclusion
-"We should walk daily" — **concrete** exercise habit.`,
-    intermediate: `In-depth (Intermediate) — bridge to a habit
+2. Abstract benefit supports concrete regimen—abstract = P.`,
+    intermediate: `Regimen — third pass
 
-Walkthrough
-1. Broad premise: exercise–health link.
-2. Narrow conclusion: walking frequency.
-3. The general link is the **reason** offered; the walk plan is the **application**.
+1. P = benefit generalization; Q = instantiated habit.
 
-Takeaway
-**General benefit** premises; **specific regimen** conclusions.`,
-    expert: `In-depth (Expert) — instantiation
+2. Example: “Since strength training preserves bone density, you should lift twice a week.” P = density link—not “lift twice” as premise.
 
-Daily walking **instantiates** the exercise idea; the improvement claim is the **abstract** premise being invoked.`,
+General link to application; link = P.`,
+    expert: `Instantiation
+
+Daily walk instantiates the exercise idea; the health link is P.`,
   },
 
   1088: {
-    beginner: `In-depth (Beginner) — substitution line (third pass)
+    beginner: `Substitution line — third pass (premise)
 
-Premise
-**"X equals 5"** — **assignment** or given value.
+1. X = 5 = P (given). X + 2 = 7 = Q (derived).
 
-Conclusion
-"X plus 2 equals 7" — **derived** equation after arithmetic.`,
-    intermediate: `In-depth (Intermediate) — one-step algebra
+2. Givens premise; derived line conclusion—in formal drills.`,
+    intermediate: `Algebra — third pass
 
-Steps
-1. Premise fixes X.
-2. Conclusion applies +2 in the same formal language.
-3. **Givens** occupy the premise role; **derived lines** occupy the conclusion role here.
+1. P = assignment; Q = one-step consequence.
 
-Takeaway
-Do not treat the computed equality as the supporting premise.`,
-    expert: `In-depth (Expert) — derivability
+2. Example: “Since n = 12, n − 4 = 8.” P = n = 12—not “8” as premise.
 
-The second equality is **derivable** from the first under standard rules; derivability makes the first the **premise-like** member of the pair.`,
+Do not call the computed equality P.`,
+    expert: `Derivability
+
+Second equality is derivable; first line is premise-like in this pair.`,
   },
 
   1089: {
-    beginner: `In-depth (Beginner) — flood tide (third pass)
+    beginner: `Flood tide — third pass (premise)
 
-Premise
-**"The tide is coming in"** — **rising water** phase.
+1. Tide coming in = P. Beach smaller = Q (usable sand).
 
-Conclusion
-"The beach will get smaller" — **dry sand** footprint shrinks.`,
-    intermediate: `In-depth (Intermediate) — intertidal width
+2. Forcing vs layout—forcing = P.`,
+    intermediate: `Intertidal — third pass
 
-Procedure
-1. Hydrodynamic premise: flood tide advances.
-2. Spatial conclusion: less room on the dry beach for a blanket or transect.
-3. **Process** premise; **visitor-visible** shoreline change as conclusion.
+1. P = hydrodynamic phase; Q = dry-sand footprint.
 
-Takeaway
-Tidal **forcing** vs. beach **usable area**—first is premise.`,
-    expert: `In-depth (Expert) — experienced geometry
+2. Example: “Since the river is rising, the towpath will flood.” P = stage—not “towpath floods” as premise.
 
-Shrinkage is the **experienced** layout effect; incoming tide is the **posited** driver—driver = premise in this drill.`,
+Process premise; visitor-visible change = Q.`,
+    expert: `Experienced geometry
+
+Shrinkage is experienced; incoming tide is posited P.`,
   },
 
   1090: {
-    beginner: `In-depth (Beginner) — lookback label (third pass)
+    beginner: `Lookback — third pass (premise)
 
-Premise
-**"Light takes time to travel"** — **finite speed** / delay claim.
+1. Light takes time = P (finite speed). See stars as they were = Q (lookback).
 
-Conclusion
-"We see stars as they were" — **historical** appearance.`,
-    intermediate: `In-depth (Intermediate) — astronomy gloss
+2. Delay supports historical viewing—physics claim = P.`,
+    intermediate: `Starlight — third pass
 
-Analysis
-1. Physics premise: propagation takes time.
-2. Observation conclusion: lookback / past-state viewing (popular wording).
-3. Same conceptual line as other starlight items—**delay** supports **past** framing.
+1. P = propagation delay; Q = what the image “shows.”
 
-Takeaway
-**Propagation** premise; **seeing-then** conclusion.`,
-    expert: `In-depth (Expert) — signal path
+2. Example: “Since sound is slow, you hear the thunder after the flash.” P = finite sound speed—not “thunder after” as premise.
 
-The premise is about the **signal path timing**; the conclusion is about **what the image represents**. Do not swap.`,
+Signal-path claim to interpretation; path = P.`,
+    expert: `Signal path
+
+Premise = timing of light; conclusion = what we see—do not swap.`,
   },
 
   1091: {
-    beginner: `In-depth (Beginner) — weight and drop (fourth pass)
+    beginner: `Weight and drop — fourth pass (premise)
 
-Repeat template
-This bank line repeats the gravity/apple pattern—**support** is still the first content clause.
+1. Fourth pass on gravity and apple: “Gravity pulls objects down” = P. Apple will fall = Q.
 
-Premise
-**"Gravity pulls objects down"** — **directional** pull claim (global).
+2. Same template as 1071 and first-pass gravity items—first content clause = support.`,
+    intermediate: `Gravity — fourth pass
 
-Conclusion
-"The apple will fall" — **token** motion claim in the example.`,
-    intermediate: `In-depth (Intermediate) — from field to fruit
+1. P = field story; Q = token fall.
 
-Walkthrough
-1. Universal-style premise: objects tend downward in ordinary Earth-side talk.
-2. Instance conclusion: this apple’s fall.
-3. "Since" signals that the **pull story** is the premise, not the apple line.
+2. Example (same map): “Since masses attract, this brick will drop when released.” P = attraction—not “brick drops” as premise.
 
-Takeaway
-**Law-like** first clause; **case** second clause—first is premise here.`,
-    expert: `In-depth (Expert) — support direction
+Law-like first; case second; first = P.`,
+    expert: `Support direction
 
-The fall prediction is what you **take away** from the premise about gravity; it is not the premise you cite as your reason.`,
+Fall is takeaway; gravity line is P—aligned with 1071.`,
   },
 
   1092: {
-    beginner: `In-depth (Beginner) — daily speaking (fourth pass)
+    beginner: `Daily speaking — fourth pass (premise)
 
-Premise
-**"Practice improves fluency"** — link between **repetition** and **skill**.
+1. Practice to fluency = P. Speak daily = Q.
 
-Conclusion
-"You should speak daily" — **cadence** recommendation.`,
-    intermediate: `In-depth (Intermediate) — schedule from mechanism
+2. Fourth pass = same mechanism and schedule split as 1072 (fluency line).`,
+    intermediate: `Fluency — fourth pass
 
-Steps
-1. Mechanism premise: practice → fluency.
-2. Policy conclusion: speak every day.
-3. The **mechanism** backs the **schedule**; do not confuse the schedule with the premise.
+1. P = mechanism; Q = cadence prescription.
 
-Takeaway
-**Why practice matters** = premise; **how often** = conclusion.`,
-    expert: `In-depth (Expert) — policy consequent
+2. Example: “Since retrieval practice beats rereading, quiz yourself every chapter.” P = retrieval effect—not “quiz yourself” as premise.
 
-Daily speaking is the **consequent** prescription; the practice–fluency claim is the **antecedent** support in this quiz labeling.`,
+Why practice matters = P; how often = Q.`,
+    expert: `Policy consequent
+
+Daily speaking = consequent; practice–fluency = antecedent P.`,
   },
 
   1093: {
-    beginner: `In-depth (Beginner) — AP off (fourth pass)
+    beginner: `AP off — fourth pass (premise)
 
-Premise
-**"The router is off"** — **CPE** power state.
+1. Router off = P. Wi‑Fi won’t work = Q.
 
-Conclusion
-"The Wi-Fi won't work" — **WLAN** service expectation.`,
-    intermediate: `In-depth (Intermediate) — box-then-air
+2. Fourth pass on box to air—power state = P.`,
+    intermediate: `Router — fourth pass
 
-Analysis
-1. Premise: edge device not running.
-2. Conclusion: wireless segment unusable.
-3. Same labeling as other router items: **box fact** premise; **service** conclusion.
+1. P = CPE; Q = WLAN expectation.
 
-Takeaway
-Power/state of the router is **not** the Wi-Fi conclusion.`,
-    expert: `In-depth (Expert) — dependency direction
+2. Example: “Since the upstream modem is offline, the LAN won’t reach the internet.” P = modem—not “no internet” as premise.
 
-The service claim is **downstream** of the router state; the router state is the **upstream** premise.`,
+Edge state premise; service = Q.`,
+    expert: `Dependency direction
+
+Service is downstream; router state is upstream P.`,
   },
 
   1094: {
-    beginner: `In-depth (Beginner) — conservation risk (fourth pass)
+    beginner: `Conservation risk — fourth pass (premise)
 
-Premise
-**"Artifacts are fragile"** — **material risk** statement.
+1. Fragile = P. Careful handling = Q.
 
-Conclusion
-"They need careful handling" — **handling** standard.`,
-    intermediate: `In-depth (Intermediate) — risk register
+2. Fourth pass on risk to protocol—hazard register first.`,
+    intermediate: `Artifacts — fourth pass
 
-Procedure
-1. Register fragility as a **hazard** premise.
-2. Map to handling care as a **control**—conclusion.
-3. **Descriptive** first; **prescriptive** second.
+1. P = material risk; Q = handling control.
 
-Takeaway
-Fragility is the **reason**; careful handling is the **required response** (conclusion).`,
-    expert: `In-depth (Expert) — obligation not premise
+2. Example: “Since nitrated film is unstable, store it in cold vented cans.” P = instability—not “vented cans” as premise.
 
-The obligation to handle carefully is **supported by** fragility; fragility is not inferred from the obligation.`,
+Descriptive first; prescriptive second; descriptive = P.`,
+    expert: `Obligation not premise
+
+Handling supported by fragility; fragility not inferred from obligation.`,
   },
 
   1095: {
-    beginner: `In-depth (Beginner) — palette fact (fourth pass)
+    beginner: `Palette fact — fourth pass (premise)
 
-Premise
-**"Red and blue make purple"** — **pigment** mixing claim.
+1. Red + blue to purple = P. Mix for violet = Q (imperative).
 
-Conclusion
-"Mix them for violet" — **instruction** to combine paints.`,
-    intermediate: `In-depth (Intermediate) — recipe vs. gesture
+2. Recipe premises; gesture conclusions.`,
+    intermediate: `Pigment — fourth pass
 
-Steps
-1. Compositional premise: color outcome.
-2. Imperative conclusion: mixing action.
-3. Ask: "What is offered as **reason**?"—the composition fact, not the command.
+1. P = composition; Q = command.
 
-Takeaway
-**Composition** premises; **imperative** conclusions in craft one-liners.`,
-    expert: `In-depth (Expert) — imperative as target
+2. Example: “Since linseed oil oxidizes slowly, thin paint in small cups.” P = oxidation—not “small cups” as premise.
 
-The imperative is the **action target** justified by the mixing fact; the fact is the **supporting** proposition.`,
+What colors do = P; what you do = Q.`,
+    expert: `Imperative as target
+
+Mix is target justified by fact; fact = P.`,
   },
 
   1096: {
-    beginner: `In-depth (Beginner) — STOP mapping (fourth pass)
+    beginner: `STOP mapping — fourth pass (premise)
 
-Premise
-**"The light is red"** — **signal aspect** claim.
+1. Red light = P. Must stop = Q.
 
-Conclusion
-"Drivers must stop" — **compliance** requirement.`,
-    intermediate: `In-depth (Intermediate) — phase indication
+2. Fourth pass on signal to duty—aspect = P.`,
+    intermediate: `Traffic — fourth pass
 
-Analysis
-1. Phase premise: red aspect.
-2. Rule conclusion: stop obligation.
-3. **Observation** vs. **norm**: first is premise, second is conclusion in this drill.
+1. P = phase; Q = obligation.
 
-Takeaway
-Redness is **not** the obligation—it **grounds** the obligation.`,
-    expert: `In-depth (Expert) — normative consequent
+2. Example: “Since the barrier is down, do not enter the crossing.” P = barrier—not “do not enter” as premise.
 
-Stopping is the **normative consequent**; the red light is the **empirical antecedent** in the pair.`,
+Observation = P; norm = Q.`,
+    expert: `Normative consequent
+
+Stop = normative consequent; red = empirical antecedent P.`,
   },
 
   1097: {
-    beginner: `In-depth (Beginner) — sleep debt (fourth pass)
+    beginner: `Sleep debt — fourth pass (premise)
 
-Premise
-**"Lack of sleep affects focus"** — **cognitive** deficit claim.
+1. Sleep hurts focus = P. Should rest = Q.
 
-Conclusion
-"Students should rest" — **recovery** advice.`,
-    intermediate: `In-depth (Intermediate) — deficit → remedy
+2. Fourth pass on deficit to remedy—harm = P.`,
+    intermediate: `Cognitive — fourth pass
 
-Walkthrough
-1. Harm premise: sleep loss hurts attention.
-2. Remedy conclusion: rest.
-3. **Problem** slot vs. **fix** slot—premise vs. conclusion.
+1. P = deficit claim; Q = recovery advice.
 
-Takeaway
-The harm claim is the **evidence**; the rest advice is the **recommended response**.`,
-    expert: `In-depth (Expert) — advisory structure
+2. Example: “Since noise fragments attention, students should use earplugs for exams.” P = fragmentation—not “earplugs” as premise.
 
-The rest imperative is **downstream** of the focus deficit claim; the deficit claim is the **stated** premise.`,
+Problem evidence = P; fix = Q.`,
+    expert: `Advisory structure
+
+Rest is downstream; focus deficit is stated P.`,
   },
 
   1098: {
-    beginner: `In-depth (Beginner) — scarcity bid (fourth pass)
+    beginner: `Scarcity bid — fourth pass (premise)
 
-Premise
-**"Supply is low"** — **tightness** in the market.
+1. Supply low = P. Prices rise = Q.
 
-Conclusion
-"Prices will rise" — **price** movement.`,
-    intermediate: `In-depth (Intermediate) — clearing intuition
+2. Condition explicit as premise; price = forecast Q.`,
+    intermediate: `Market — fourth pass
 
-Steps
-1. Condition premise: scarcity of supply.
-2. Forecast conclusion: higher prices (simple story).
-3. The **condition** is the premise; the **price** claim is the conclusion argued from it.
+1. P = tightness; Q = price move.
 
-Takeaway
-**State** of supply first; **movement** of prices second.`,
-    expert: `In-depth (Expert) — conditional forecast
+2. Example: “Since berth queues grew, demurrage fees will climb.” P = queue—not “demurrage” as premise.
 
-The price forecast is **conditional on** the supply condition; the condition is the **explicit** premise text.`,
+State first; price second; state = P.`,
+    expert: `Conditional forecast
+
+Price conditional on supply; supply text = P.`,
   },
 
   1099: {
-    beginner: `In-depth (Beginner) — social species (fourth pass)
+    beginner: `Social species — fourth pass (premise)
 
-Premise
-**"Dogs are social"** — **behavioral** generalization.
+1. Dogs social = P. Need company = Q.
 
-Conclusion
-"They need company" — **welfare** claim.`,
-    intermediate: `In-depth (Intermediate) — trait → care
+2. Fourth pass on trait to care—keep slots straight.`,
+    intermediate: `Welfare — fourth pass
 
-Analysis
-1. Trait premise: sociability.
-2. Care conclusion: companionship need.
-3. The premise is the **general** fact; the conclusion is the **practical** upshot.
+1. P = trait; Q = practical upshot.
 
-Takeaway
-**Trait** premises; **need** conclusions—keep the slots straight.`,
-    expert: `In-depth (Expert) — inferred need
+2. Example: “Since parrots bond strongly, they need daily interaction.” P = bonding—not “daily interaction” as premise.
 
-The need for company is **inferred**; sociability is the **ground** for the inference—ground = premise.`,
+General fact = P; need = Q.`,
+    expert: `Inferred need
+
+Company need inferred; sociability = ground P.`,
   },
 
   1100: {
-    beginner: `In-depth (Beginner) — pitch fault (fourth pass)
+    beginner: `Pitch fault — fourth pass (premise)
 
-Premise
-**"The guitar is out of tune"** — **tuning** defect.
+1. Out of tune = P. Will sound bad = Q.
 
-Conclusion
-"It will sound bad" — **sonic** assessment.`,
-    intermediate: `In-depth (Intermediate) — setup → judgment
+2. Fourth pass on setup to judgment—fault = P.`,
+    intermediate: `Guitar — fourth pass
 
-Procedure
-1. Setup premise: tuning wrong.
-2. Judgment conclusion: bad sound.
-3. **Since** introduces the **fault**; the **aesthetic** evaluation follows.
+1. P = tuning defect; Q = timbre verdict.
 
-Takeaway
-**Fault** description = premise; **quality** verdict = conclusion.`,
-    expert: `In-depth (Expert) — conditional aesthetics
+2. Example: “Since the reed is chipped, the clarinet will honk.” P = chip—not “honk” as premise.
 
-Bad sound is judged **given** bad tuning; the tuning statement is the **independent** premise in the labeled pair.`,
+Fault = P; quality verdict = Q.`,
+    expert: `Conditional aesthetics
+
+Bad sound given tuning; tuning = independent P in the pair.`,
   },
 
   1101: {
-    beginner: `In-depth (Beginner) — identify the conclusion (oven / cake)
+    beginner: `**Oven / cake — identify the conclusion**
 
-What changed
-Earlier items asked for the **premise** after "Since…"; here the task is the **conclusion** in a **"P, therefore Q"** line.
+Task flips from **premise** picks: here you want **Q** in **“P, therefore Q.”**
 
-Correct choice (index **1**)
-**"the cake will burn"** — this is what **therefore** introduces as the **supported** claim.
+**Correct (index 1):** **“the cake will burn”** — what **therefore** **establishes**.
 
-Not the conclusion
-• "The oven is too hot" — that is the **premise** (reason).
-• "therefore" — a **cue word**, not a content claim.
-• "neither" — incorrect; there is a conclusion.`,
-    intermediate: `In-depth (Intermediate) — therefore-slot
+**Not the conclusion:** **“The oven is too hot”** = **P** (reason). **“therefore”** = cue word. **“neither”** = wrong when a conclusion exists.`,
+    intermediate: `**Therefore-slot**
 
-Procedure
-1. Split on **therefore**: [clause before], [clause after].
-2. The **after** clause is the **conclusion** in this course’s labeling—the claim the arguer is driving at.
-3. The **before** clause states the **reason** (premise).
+1. Split on **therefore**: **[before]**, **[after]**.
+2. **After** = **conclusion** (inferential target). **Before** = **premise**.
 
-Takeaway
-**Therefore** marks the **inferential target**; pick that content, not the supporting fact.`,
-    expert: `In-depth (Expert) — consequent role
+**Different example:** “The ice is thin, **therefore** crossing is unsafe.” **Conclusion** = unsafe crossing—not “ice is thin.”
 
-In this template, the **consequent** is the cake outcome; the oven heat is the **antecedent** support. Conclusion = consequent content.`,
+**Takeaway:** **Therefore** marks **what follows**; pick that **content**, not the **support**.`,
+    expert: `**Consequent role**
+
+**Not to be confused with:** **Cake outcome** = **consequent**; **oven heat** = **antecedent** **support**—same labeling as premise drills, **polarity** of the question only changes.`,
   },
 
   1102: {
-    beginner: `In-depth (Beginner) — performance prediction
+    beginner: `**Performance prediction — conclusion**
 
-Conclusion (index **1**)
-**"you will finish faster"** — the **outcome** you are meant to select.
+**Correct (index 1):** **“you will finish faster”** — **Q** (projected pace).
 
-Premise (distractor)
-"You practiced hard" — evidence, not the conclusion.`,
-    intermediate: `In-depth (Intermediate) — forecast vs. evidence
+**P (distractor):** **“You practiced hard”** — evidence, **not** what you **conclude**.`,
+    intermediate: `**Evidence vs. forecast**
 
-Steps
-1. Evidence clause: practice effort (premise).
-2. Forecast clause: completion speed (conclusion).
-3. **Therefore** points to the **forecast** as what follows from the evidence.
+1. **P** = past effort. **Q** = completion speed.
+2. **Therefore** points to **Q**.
 
-Takeaway
-When asked for the **conclusion**, choose the **downstream** claim after **therefore**.`,
-    expert: `In-depth (Expert) — supported prediction
+**Different example:** “She logged many reps, **therefore** her time trial will improve.” **Conclusion** = improvement—not “many reps.”
 
-The speed claim is what the argument **concludes** from the practice fact; it is not the supporting premise.`,
+**Takeaway:** Asked for **conclusion** → take the clause **after** **therefore**.`,
+    expert: `**Supported prediction**
+
+**Not to be confused with:** **Speed** is what the line **establishes**; **practice** is what it **rests on**.`,
   },
 
   1103: {
-    beginner: `In-depth (Beginner) — weather call
+    beginner: `**Weather call — conclusion**
 
-Correct (index **1**)
-**"it is going to rain"** — the **meteorological** conclusion.
+**Correct (index 1):** **“it is going to rain”** — **Q** (forecast).
 
-Premise
-"The clouds are dark" — **observation** used as support.`,
-    intermediate: `In-depth (Intermediate) — sign → event
+**P:** **“The clouds are dark”** — sign, **not** the **conclusion**.`,
+    intermediate: `**Sign → event (conclusion side)**
 
-Analysis
-1. Sign premise: cloud appearance.
-2. Event conclusion: impending rain.
-3. **Therefore** introduces the **prediction**, not the observation.
+1. **P** = appearance. **Q** = precipitation call.
+2. **Therefore** → **prediction**.
 
-Takeaway
-**Forecasts** occupy the conclusion slot in "therefore" drills.`,
-    expert: `In-depth (Expert) — inferential target
+**Different example:** “Barometer falling fast, **therefore** squalls likely.” **Conclusion** = squalls—not the barometer reading.
 
-Rain is the **inferred** claim; dark clouds are the **basis**. The inference is the conclusion.`,
+**Takeaway:** In **therefore** drills, **forecasts** = **conclusion** slot.`,
+    expert: `**Inferential target**
+
+**Not to be confused with:** **Rain** is **inferred**; **clouds** are **basis**—**basis** = **premise** when the other polarity is asked.`,
   },
 
   1104: {
-    beginner: `In-depth (Beginner) — no-start symptom
+    beginner: `**No-start — conclusion**
 
-Conclusion (index **1**)
-**"the car won't start"** — the **functional** failure.
+**Correct (index 1):** **“the car won't start”** — **Q** (symptom / failure mode).
 
-Premise
-"The battery is empty" — **diagnostic** state.`,
-    intermediate: `In-depth (Intermediate) — symptom conclusion
+**P:** **“The battery is empty”** — **state** you **reason from**.`,
+    intermediate: `**Symptom as conclusion**
 
-Procedure
-1. State premise: battery charge absent.
-2. Conclusion: starting failure.
-3. **Therefore** leads to the **symptom/service** claim—pick that for "conclusion."
+1. **P** = stored energy absent. **Q** = cranking outcome.
+2. Pick **Q** for **conclusion**.
 
-Takeaway
-In roadside logic, the **breakdown behavior** is often the stated conclusion.`,
-    expert: `In-depth (Expert) — downstream failure
+**Different example:** “The fuse is blown, **therefore** the pump won’t run.” **Conclusion** = won’t run—not “fuse blown.”
 
-The no-start claim is **downstream** of the battery state; downstream = conclusion here.`,
+**Takeaway:** **Downstream** **failure** claim = **conclusion** here.`,
+    expert: `**Downstream failure**
+
+**Not to be confused with:** **No-start** is **downstream** of **battery**; **downstream** = **Q** when identifying **conclusion**.`,
   },
 
   1105: {
-    beginner: `In-depth (Beginner) — where to put plants
+    beginner: `**Plant placement — conclusion**
 
-Correct (index **1**)
-**"they should be near the window"** — the **placement** recommendation.
+**Correct (index 1):** **“they should be near the window”** — **Q** (**placement ought**).
 
-Premise
-"Plants need light" — **need** as reason.`,
-    intermediate: `In-depth (Intermediate) — ought from need
+**P:** **“Plants need light”** — **need** as **support**.`,
+    intermediate: `**Ought from need**
 
-Steps
-1. Need premise: phototropism / light requirement (informal).
-2. Conclusion: positional advice.
-3. **Therefore** flags the **prescriptive** follow—the **should** near the window.
+1. **P** = biological need. **Q** = spatial advice.
+2. **Therefore** → **should** / placement.
 
-Takeaway
-**Should**-claims after **therefore** are typically the **conclusion**.`,
-    expert: `In-depth (Expert) — normative consequent
+**Different example:** “Seedlings need warmth, **therefore** use a heat mat.” **Conclusion** = use a heat mat—not “need warmth” alone as the **conclusion** choice when both appear.
 
-The window advice is the **normative** conclusion; the light need is the **descriptive** support.`,
+**Takeaway:** **Prescriptive** clause after **therefore** = **conclusion**.`,
+    expert: `**Normative consequent**
+
+**Not to be confused with:** **Window** advice is **normative** **Q**; **light need** is **descriptive** **P**.`,
   },
 
   1106: {
-    beginner: `In-depth (Beginner) — quiet conduct
+    beginner: `**Quiet conduct — conclusion**
 
-Conclusion (index **1**)
-**"we must speak softly"** — **behavioral** requirement.
+**Correct (index 1):** **“we must speak softly”** — **Q** (conduct).
 
-Premise
-"Silence is required" — **context/rule**.`,
-    intermediate: `In-depth (Intermediate) — rule → conduct
+**P:** **“Silence is required”** — **rule** context.`,
+    intermediate: `**Rule → compliance**
 
-Analysis
-1. Premise: quiet mandate.
-2. Conclusion: lowered voices.
-3. Select the **conduct** clause as the conclusion, not the rule statement.
+1. **P** = mandate. **Q** = volume / behavior.
+2. Select **conduct** as **conclusion**, not the **rule** text.
 
-Takeaway
-**Compliance** claims after **therefore** = conclusion in this format.`,
-    expert: `In-depth (Expert) — deontic conclusion
+**Different example:** “Quiet hours after nine, **therefore** keep voices down.” **Conclusion** = keep voices down—not “quiet hours” as the **conclusion** option when both are listed.
 
-Speaking softly is the **deontic** conclusion derived from the silence requirement.`,
+**Takeaway:** **Compliance** after **therefore** = **conclusion**.`,
+    expert: `**Deontic conclusion**
+
+**Not to be confused with:** **Soft speech** = **deontic** **Q**; **silence rule** = **P**.`,
   },
 
   1107: {
-    beginner: `In-depth (Beginner) — walk plan
+    beginner: `**Walk plan — conclusion**
 
-Correct (index **1**)
-**"we should walk daily"** — the **habit** conclusion.
+**Correct (index 1):** **“we should walk daily”** — **Q** (habit).
 
-Premise
-"Exercise improves health" — **benefit** generalization.`,
-    intermediate: `In-depth (Intermediate) — general → specific ought
+**P:** **“Exercise improves health”** — **general** benefit.`,
+    intermediate: `**General → specific ought**
 
-Walkthrough
-1. Broad premise: exercise benefits health.
-2. Narrow conclusion: daily walking prescription.
-3. **Therefore** introduces the **specific** recommendation.
+1. **P** = benefit link. **Q** = instantiated regimen.
+2. **Therefore** → **specific** **should**.
 
-Takeaway
-The **action plan** is the conclusion; the **benefit** claim is the premise.`,
-    expert: `In-depth (Expert) — instantiated prescription
+**Different example:** “Strength training preserves bone density, **therefore** lift twice a week.” **Conclusion** = lift twice—not “preserves density” as the **conclusion** pick.
 
-Daily walking **instantiates** the exercise advice; that instantiation is what the argument **concludes**.`,
+**Takeaway:** **Action plan** = **conclusion**; **abstract benefit** = **premise**.`,
+    expert: `**Instantiated prescription**
+
+**Not to be confused with:** **Daily walk** is what the line **closes** with; **health benefit** is what it **opens** from.`,
   },
 
   1108: {
-    beginner: `In-depth (Beginner) — derived equation
+    beginner: `**Derived equation — conclusion**
 
-Conclusion (index **1**)
-**"X plus 2 equals 7"** — the **computed** line.
+**Correct (index 1):** **“X plus 2 equals 7”** (or equivalent) — **Q** (**derived** line).
 
-Premise
-"X equals 5" — the **given**.`,
-    intermediate: `In-depth (Intermediate) — proof step
+**P:** **“X equals 5”** — **given**.`,
+    intermediate: `**Algebra step**
 
-Steps
-1. Given premise: value of X.
-2. Conclusion: result after +2.
-3. For "conclusion," pick the **derived** equality—the one **after** **therefore**.
+1. **P** = assignment / given. **Q** = computed equality.
+2. **Therefore** → **result** of the step.
 
-Takeaway
-**Givens** premise; **derived lines** conclude in algebra drills.`,
-    expert: `In-depth (Expert) — derivational target
+**Different example:** “n = 12, **therefore** n − 4 = 8.” **Conclusion** = 8 line—not “n = 12.”
 
-The second equality is the **derivational** target; it is what the argument **concludes** from X = 5.`,
+**Takeaway:** **Givens** = **P**; **derived** = **conclusion** when asked.`,
+    expert: `**Derivational target**
+
+**Not to be confused with:** Second equality is what the step **establishes**; **X = 5** is what it **starts** from.`,
   },
 
   1109: {
-    beginner: `In-depth (Beginner) — shoreline change
+    beginner: `**Shoreline — conclusion**
 
-Correct (index **1**)
-**"the beach will get smaller"** — **spatial** outcome.
+**Correct (index 1):** **“the beach will get smaller”** — **Q** (**layout** outcome).
 
-Premise
-"The tide is coming in" — **process** premise.`,
-    intermediate: `In-depth (Intermediate) — forcing → layout
+**P:** **“The tide is coming in”** — **forcing**.`,
+    intermediate: `**Forcing → layout**
 
-Procedure
-1. Premise: rising tide (forcing).
-2. Conclusion: less dry beach width.
-3. **Therefore** marks the **experienced** layout change as the conclusion.
+1. **P** = tide phase. **Q** = dry-sand footprint.
+2. **Therefore** → **experienced** geometry.
 
-Takeaway
-**Observable** beach shrinkage = conclusion; tide state = premise.`,
-    expert: `In-depth (Expert) — experienced effect
+**Different example:** “The river is rising, **therefore** the towpath will flood.” **Conclusion** = towpath floods—not “river rising” as the **conclusion** choice.
 
-The shrinkage claim is the **effect** positioned as the argument’s **conclusion**; tide is the **cause** premise.`,
+**Takeaway:** **Shrinkage** / layout = **conclusion**; **process** = **premise**.`,
+    expert: `**Experienced effect**
+
+**Not to be confused with:** **Shrinkage** is **argued as** **consequent**; **incoming tide** is **antecedent** **support**.`,
   },
 
   1110: {
-    beginner: `In-depth (Beginner) — lookback viewing
+    beginner: `**Lookback — conclusion**
 
-Conclusion (index **1**)
-**"we see stars as they were"** — **observational** claim about the past image.
+**Correct (index 1):** **“we see stars as they were”** — **Q** (**what the image shows**).
 
-Premise
-"Light takes time to travel" — **physics** premise.`,
-    intermediate: `In-depth (Intermediate) — from delay to appearance
+**P:** **“Light takes time to travel”** — **propagation** **fact**.`,
+    intermediate: `**Delay → appearance**
 
-Analysis
-1. Premise: finite light travel time.
-2. Conclusion: historical appearance of stars (popular phrasing).
-3. **Therefore** introduces the **seeing** claim—select that for **conclusion**.
+1. **P** = finite speed / delay. **Q** = lookback / past-state viewing.
+2. **Therefore** → **seeing** claim.
 
-Takeaway
-**What we see** (after **therefore**) = conclusion; **propagation** fact = premise.`,
-    expert: `In-depth (Expert) — phenomenological consequent
+**Different example:** “Sound is slow, **therefore** thunder follows the flash.” **Conclusion** = thunder follows—not “sound is slow” as the **conclusion** when both are separate options.
 
-The viewing conclusion is the **phenomenological** consequent; travel time is the **physical** antecedent support.`,
+**Takeaway:** **Phenomenology** after **therefore** = **conclusion**; **physics** of **signal** = **premise**.`,
+    expert: `**Phenomenological consequent**
+
+**Not to be confused with:** **Viewing** claim = **Q**; **travel time** = **P**—do **not** swap when the prompt asks for **conclusion**.`,
   },
 
   1111: {
-    beginner: `In-depth (Beginner) — apple drop (second conclusion pass)
+    beginner: `**Gravity / apple — conclusion (second pass)**
 
-Repeat bank
-Same gravity/apple wording as other IDs—here you still select the **conclusion**, not the premise.
+Same bank line as other gravity items—task is still **conclusion**: **Q** after **therefore**.
 
-Correct (index **1**)
-**"the apple will fall"** — the **motion** claim after **therefore**.
+**Correct (index 1):** **“the apple will fall”** — **token** motion claim.
 
-Premise (distractor)
-"Gravity pulls objects down" — support, not the target claim.`,
-    intermediate: `In-depth (Intermediate) — instance outcome
+**P (distractor):** **“Gravity pulls objects down”** — **support**, not what you **conclude**.`,
+    intermediate: `**Instance outcome**
 
-Walkthrough
-1. Premise: generic downward pull.
-2. Conclusion: specific apple motion.
-3. **Therefore** flags the **instance-level** prediction as what the argument **establishes**.
+1. **P** = universal pull. **Q** = this apple’s fall.
+2. **Therefore** → **instance-level** prediction.
 
-Takeaway
-Pick the **token outcome** after **therefore** for "conclusion."`,
-    expert: `In-depth (Expert) — token consequent
+**Different example:** “Masses attract, **therefore** this brick drops when released.” **Conclusion** = drops—not “masses attract.”
 
-The fall of the apple is the **token** consequent; universal gravity language is the **supporting** antecedent.`,
+**Takeaway:** Pick the **specific outcome** after **therefore** for **conclusion**.`,
+    expert: `**Token consequent**
+
+**Not to be confused with:** **Fall** = **token** **Q**; **gravity** wording = **P**—same map as premise IDs **1071** / **1091**, **polarity** flipped.`,
   },
 
   1112: {
-    beginner: `In-depth (Beginner) — daily speaking (second pass)
+    beginner: `**Daily speaking — conclusion (second pass)**
 
-Conclusion (index **1**)
-**"you should speak daily"** — the **policy** line.
+**Correct (index 1):** **“you should speak daily”** — **Q** (schedule **ought**).
 
-Premise
-"Practice improves fluency" — **learning** claim.`,
-    intermediate: `In-depth (Intermediate) — prudential target
+**P:** **“Practice improves fluency”** — mechanism, **not** the **conclusion**.`,
+    intermediate: `**Prudential target**
 
-Steps
-1. Mechanism premise: practice → fluency.
-2. Conclusion: daily speaking prescription.
-3. The **ought** about schedule is the **conclusion** in this labeling.
+1. **P** = practice → fluency. **Q** = daily cadence.
+2. The **should** about **when** = **conclusion**.
 
-Takeaway
-**Imperatives / should** after **therefore** are typically conclusions here.`,
-    expert: `In-depth (Expert) — schedule consequent
+**Different example:** “Retrieval beats rereading, **therefore** quiz yourself each chapter.” **Conclusion** = quiz yourself—not “retrieval beats rereading” as the **conclusion** pick.
 
-Daily speaking is the **prudential** consequent supported by the practice–fluency premise.`,
+**Takeaway:** **Policy** after **therefore** = **conclusion**; **mechanism** = **premise**.`,
+    expert: `**Schedule consequent**
+
+**Not to be confused with:** **Daily speaking** = **prudential** **Q**; **practice–fluency** = **P**.`,
   },
 
   1113: {
-    beginner: `In-depth (Beginner) — WLAN down (second pass)
+    beginner: `**WLAN — conclusion (second pass)**
 
-Correct (index **1**)
-**"the Wi-Fi won't work"** — **service** failure.
+**Correct (index 1):** **“the Wi-Fi won't work”** — **Q** (**service** layer).
 
-Premise
-"The router is off" — **hardware** state.`,
-    intermediate: `In-depth (Intermediate) — service-layer claim
+**P:** **“The router is off”** — **edge** state.`,
+    intermediate: `**Service-layer claim**
 
-Analysis
-1. Premise: router power/path.
-2. Conclusion: wireless usability.
-3. **Therefore** introduces the **user-visible** failure—pick that as **conclusion**.
+1. **P** = CPE down. **Q** = WLAN unusable.
+2. **Therefore** → **user-visible** failure.
 
-Takeaway
-Symptom/service statements after **therefore** = conclusion in this drill.`,
-    expert: `In-depth (Expert) — downstream service
+**Different example:** “Modem offline, **therefore** no LAN internet.” **Conclusion** = no internet—not “modem offline.”
 
-Wi-Fi failure is **downstream** of router state; downstream = conclusion slot.`,
+**Takeaway:** **Symptom / service** after **therefore** = **conclusion**.`,
+    expert: `**Downstream service**
+
+**Not to be confused with:** **Wi‑Fi failure** = **downstream** **Q**; **router** state = **P**.`,
   },
 
   1114: {
-    beginner: `In-depth (Beginner) — handling norm (second pass)
+    beginner: `**Handling norm — conclusion (second pass)**
 
-Conclusion (index **1**)
-**"they need careful handling"** — **care** requirement.
+**Correct (index 1):** **“they need careful handling”** — **Q** (**control**).
 
-Premise
-"Artifacts are fragile" — **risk** description.`,
-    intermediate: `In-depth (Intermediate) — prescriptive follow
+**P:** **“Artifacts are fragile”** — **risk** fact.`,
+    intermediate: `**Descriptive → prescriptive**
 
-Procedure
-1. Descriptive premise: fragility.
-2. Prescriptive conclusion: careful handling.
-3. Select the **norm** clause as **conclusion**.
+1. **P** = fragility. **Q** = care norm.
+2. Select the **norm** as **conclusion**.
 
-Takeaway
-**Need / must / should** handling claims often conclude **descriptive → prescriptive** moves.`,
-    expert: `In-depth (Expert) — control consequent
+**Different example:** “Nitrated film is unstable, **therefore** store it in vented cold cans.” **Conclusion** = storage protocol—not “unstable” as the **conclusion** option when both appear.
 
-Careful handling is the **control** consequent justified by fragility.`,
+**Takeaway:** **Need / must / should** handling = **conclusion** after **therefore**.`,
+    expert: `**Control consequent**
+
+**Not to be confused with:** **Careful handling** = **control** **Q**; **fragility** = **P**.`,
   },
 
   1115: {
-    beginner: `In-depth (Beginner) — mix command (second pass)
+    beginner: `**Mix command — conclusion (second pass)**
 
-Correct (index **1**)
-**"mix them for violet"** — **imperative** conclusion.
+**Correct (index 1):** **“mix them for violet”** — **Q** (**imperative**).
 
-Premise
-"Red and blue make purple" — **compositional** fact.`,
-    intermediate: `In-depth (Intermediate) — imperative consequent
+**P:** **“Red and blue make purple”** — **recipe** fact.`,
+    intermediate: `**Imperative consequent**
 
-Steps
-1. Fact premise: mixing outcome.
-2. Conclusion: mixing instruction.
-3. **Therefore** points to the **command**—the **conclusion** to select.
+1. **P** = composition. **Q** = command.
+2. **Therefore** → **what to do**.
 
-Takeaway
-The **order to mix** is what the argument ** concludes**; the color fact is premise.`,
-    expert: `In-depth (Expert) — instrumental consequent
+**Different example:** “Linseed oil oxidizes slowly, **therefore** thin paint in small cups.” **Conclusion** = small cups—not “oxidizes slowly” as the **conclusion** pick.
 
-The mixing imperative is the **instrumental** consequent of the compositional premise.`,
+**Takeaway:** **Order to mix** = what the line **establishes**; **color fact** = **premise**.`,
+    expert: `**Instrumental consequent**
+
+**Not to be confused with:** **Mix** imperative = **instrumental** **Q**; **pigment** fact = **P**.`,
   },
 
   1116: {
-    beginner: `In-depth (Beginner) — must stop (second pass)
+    beginner: `**Must stop — conclusion (second pass)**
 
-Conclusion (index **1**)
-**"drivers must stop"** — **traffic** obligation.
+**Correct (index 1):** **“drivers must stop”** — **Q** (**deontic**).
 
-Premise
-"The light is red" — **signal** state.`,
-    intermediate: `In-depth (Intermediate) — deontic after descriptive
+**P:** **“The light is red”** — **signal**.`,
+    intermediate: `**Deontic after descriptive**
 
-Analysis
-1. Empirical premise: red aspect.
-2. Deontic conclusion: stop requirement.
-3. **Therefore** introduces the **rule-for-drivers** claim—your **conclusion** choice.
+1. **P** = red aspect. **Q** = stop obligation.
+2. **Therefore** → **rule for drivers**.
 
-Takeaway
-**Must stop** is the conclusion; redness is the **basis**.`,
-    expert: `In-depth (Expert) — regulatory consequent
+**Different example:** “Barrier down, **therefore** don’t enter the crossing.” **Conclusion** = don’t enter—not “barrier down.”
 
-Stopping is the **regulatory** consequent; signal color is the **factual** antecedent.`,
+**Takeaway:** **Must stop** = **conclusion**; **red** = **basis** (**premise**).`,
+    expert: `**Regulatory consequent**
+
+**Not to be confused with:** **Stopping** = **regulatory** **Q**; **signal** = **factual** **P**.`,
   },
 
   1117: {
-    beginner: `In-depth (Beginner) — rest advice (second pass)
+    beginner: `**Rest advice — conclusion (second pass)**
 
-Correct (index **1**)
-**"students should rest"** — **remedy** conclusion.
+**Correct (index 1):** **“students should rest”** — **Q** (**remedy**).
 
-Premise
-"Lack of sleep affects focus" — **harm** claim.`,
-    intermediate: `In-depth (Intermediate) — remedy slot
+**P:** **“Lack of sleep affects focus”** — **harm** claim.`,
+    intermediate: `**Remedy slot**
 
-Walkthrough
-1. Problem premise: sleep loss hurts focus.
-2. Conclusion: rest prescription.
-3. **Therefore** leads to the **recommended response**—conclusion.
+1. **P** = cognitive deficit. **Q** = rest prescription.
+2. **Therefore** → **recommended response**.
 
-Takeaway
-**Should rest** is the **closing advice**; the deficit claim is premise.`,
-    expert: `In-depth (Expert) — advisory consequent
+**Different example:** “Noise fragments attention, **therefore** use earplugs for exams.” **Conclusion** = earplugs—not “noise fragments” as the **conclusion** pick.
 
-Rest is the **advisory** consequent supported by the cognitive-harm premise.`,
+**Takeaway:** **Closing advice** = **conclusion**; **problem** claim = **premise**.`,
+    expert: `**Advisory consequent**
+
+**Not to be confused with:** **Rest** = **advisory** **Q**; **sleep/focus** harm = **P**.`,
   },
 
   1118: {
-    beginner: `In-depth (Beginner) — price move (second pass)
+    beginner: `**Price move — conclusion (second pass)**
 
-Conclusion (index **1**)
-**"prices will rise"** — **forecast** conclusion.
+**Correct (index 1):** **“prices will rise”** — **Q** (**forecast**).
 
-Premise
-"Supply is low" — **market** condition.`,
-    intermediate: `In-depth (Intermediate) — forecast consequent
+**P:** **“Supply is low”** — **market** condition.`,
+    intermediate: `**Forecast consequent**
 
-Steps
-1. Condition premise: scarcity.
-2. Conclusion: upward price pressure.
-3. Pick the **price** clause as **conclusion**; supply is premise.
+1. **P** = scarcity. **Q** = price pressure.
+2. Pick **price** clause as **conclusion**.
 
-Takeaway
-**Movement** claims about price conclude **state** premises in this template.`,
-    expert: `In-depth (Expert) — price consequent
+**Different example:** “Berth queues grew, **therefore** demurrage will spike.” **Conclusion** = demurrage spike—not “queues grew.”
 
-The price forecast is the **economic** consequent; supply tightness is the **antecedent** condition.`,
+**Takeaway:** **Price movement** = **conclusion**; **supply state** = **premise**.`,
+    expert: `**Price consequent**
+
+**Not to be confused with:** **Price forecast** = **economic** **Q**; **supply tightness** = **antecedent** **P**.`,
   },
 
   1119: {
-    beginner: `In-depth (Beginner) — need company (second pass)
+    beginner: `**Need company — conclusion (second pass)**
 
-Correct (index **1**)
-**"they need company"** — **welfare** conclusion.
+**Correct (index 1):** **“they need company”** — **Q** (**welfare**).
 
-Premise
-"Dogs are social" — **trait** claim.`,
-    intermediate: `In-depth (Intermediate) — welfare inference
+**P:** **“Dogs are social”** — **trait**.`,
+    intermediate: `**Welfare inference**
 
-Analysis
-1. Trait premise: sociability.
-2. Conclusion: companionship need.
-3. **Therefore** introduces the **need** statement—select it as **conclusion**.
+1. **P** = sociability. **Q** = companionship need.
+2. **Therefore** → **need** statement.
 
-Takeaway
-The **need** is inferred; the trait is the **reason** given (premise).`,
-    expert: `In-depth (Expert) — welfare consequent
+**Different example:** “Parrots bond strongly, **therefore** they need daily interaction.” **Conclusion** = need interaction—not “bond strongly” as the **conclusion** option when both are listed.
 
-Company need is the **welfare** consequent grounded in the sociability premise.`,
+**Takeaway:** **Inferred need** = **conclusion**; **trait** = **premise**.`,
+    expert: `**Welfare consequent**
+
+**Not to be confused with:** **Company need** = **welfare** **Q**; **social trait** = **P**.`,
   },
 
   1120: {
-    beginner: `In-depth (Beginner) — bad sound (second pass)
+    beginner: `**Bad sound — conclusion (second pass)**
 
-Conclusion (index **1**)
-**"it will sound bad"** — **sonic** judgment.
+**Correct (index 1):** **“it will sound bad”** — **Q** (**sonic** verdict).
 
-Premise
-"The guitar is out of tune" — **setup** fault.`,
-    intermediate: `In-depth (Intermediate) — aesthetic prediction
+**P:** **“The guitar is out of tune”** — **setup** fault.`,
+    intermediate: `**Aesthetic prediction**
 
-Procedure
-1. Fault premise: tuning error.
-2. Conclusion: poor sound prediction.
-3. **Therefore** marks the **auditory evaluation** as the **conclusion**.
+1. **P** = tuning defect. **Q** = timbre judgment.
+2. **Therefore** → **auditory evaluation**.
 
-Takeaway
-**Quality** verdict after **therefore** = conclusion; **fault** before = premise.`,
-    expert: `In-depth (Expert) — aesthetic consequent
+**Different example:** “The reed is chipped, **therefore** the clarinet will honk.” **Conclusion** = will honk—not “reed chipped.”
 
-Bad sound is the **aesthetic** consequent; tuning defect is the **diagnostic** antecedent.`,
+**Takeaway:** **Quality** verdict after **therefore** = **conclusion**; **fault** = **premise**.`,
+    expert: `**Aesthetic consequent**
+
+**Not to be confused with:** **Bad sound** = **aesthetic** **Q**; **tuning** = **diagnostic** **P**.`,
   },
 
   1121: {
-    beginner: `In-depth (Beginner) — burn outcome (third pass)
+    beginner: `**Burn outcome — conclusion (third pass)**
 
-Cycle note
-Same oven/cake line as earlier conclusion IDs—roles are unchanged: pick what follows **therefore**.
+Same **oven / cake** line as **1101** / earlier conclusion IDs—pick **Q** after **therefore**.
 
-Conclusion (index **1**)
-**"the cake will burn"** — **baking** harm predicted.
+**Correct (index 1):** **“the cake will burn”** — **downstream** food fate.
 
-Premise
-"The oven is too hot" — **thermal** reason.`,
-    intermediate: `In-depth (Intermediate) — overcooking claim
+**P:** **“The oven is too hot”** — **thermal** reason (**not** the **conclusion**).`,
+    intermediate: `**Overcooking claim**
 
-Steps
-1. Premise: heat too high for the moment/recipe (informal).
-2. Conclusion: scorch/burn outcome.
-3. **Therefore** introduces the **downstream food fate**—your **conclusion** selection.
+1. **P** = heat overshoot. **Q** = burn / scorch.
+2. **Therefore** → **damage** to the bake.
 
-Takeaway
-**Damage to the cake** is the argued **consequent**; oven state is **antecedent**.`,
-    expert: `In-depth (Expert) — culinary consequent
+**Different example:** “The pan is on high, **therefore** the sauce will scorch.” **Conclusion** = scorch—not “pan on high.”
 
-Burning is the **culinary** consequent; overheating is the **operational** antecedent.`,
+**Takeaway:** **Culinary harm** = **conclusion**; **equipment state** = **premise**.`,
+    expert: `**Culinary consequent**
+
+**Not to be confused with:** **Burn** = **culinary** **Q**; **too hot** = **operational** **P**—third pass, same map as **1101**.`,
   },
 
   1122: {
-    beginner: `In-depth (Beginner) — speed claim (third pass)
+    beginner: `**Speed claim — conclusion (third pass)**
 
-Correct (index **1**)
-**"you will finish faster"** — **pace** conclusion.
+**Correct (index 1):** **“you will finish faster”** — **Q** (**pace**).
 
-Premise
-"You practiced hard" — **effort** premise.`,
-    intermediate: `In-depth (Intermediate) — performance consequent
+**P:** **“You practiced hard”** — **effort** anchor.`,
+    intermediate: `**Performance consequent**
 
-Analysis
-1. Evidence premise: training load.
-2. Performance conclusion: improved completion time.
-3. **Therefore** marks the **speed** claim as what the argument **establishes**.
+1. **P** = training load. **Q** = completion speed.
+2. **Therefore** → **what improves**.
 
-Takeaway
-Select the **performance** clause after **therefore** for "conclusion."`,
-    expert: `In-depth (Expert) — timing consequent
+**Different example:** “She logged many reps, **therefore** her time trial will improve.” **Conclusion** = improve—not “many reps.”
 
-Faster completion is the **timing** consequent supported by the practice premise.`,
+**Takeaway:** Pick **performance** after **therefore** for **conclusion**.`,
+    expert: `**Timing consequent**
+
+**Not to be confused with:** **Faster finish** = **timing** **Q**; **practice** = **P**.`,
   },
 
   1123: {
-    beginner: `In-depth (Beginner) — rain now (third pass)
+    beginner: `**Rain now — conclusion (third pass)**
 
-Conclusion (index **1**)
-**"it is going to rain"** — **precipitation** conclusion.
+**Correct (index 1):** **“it is going to rain”** — **Q** (**forecast**).
 
-Premise
-"The clouds are dark" — **visual** cue.`,
-    intermediate: `In-depth (Intermediate) — forecast slot
+**P:** **“The clouds are dark”** — **sign**.`,
+    intermediate: `**Forecast slot**
 
-Procedure
-1. Observation premise: cloud appearance.
-2. Conclusion: imminent rain (short heuristic).
-3. **Therefore** points to the **forecast**—not the observation.
+1. **P** = sky look. **Q** = precipitation call.
+2. **Therefore** → **heuristic** forecast, not the **observation**.
 
-Takeaway
-**Weather call** = conclusion; **sky look** = premise.`,
-    expert: `In-depth (Expert) — meteorological consequent
+**Different example:** “Barometer falling, **therefore** squalls likely.” **Conclusion** = squalls—not “barometer.”
 
-Rain is the **meteorological** consequent in this compressed argument; cloud darkness is the **antecedent** sign.`,
+**Takeaway:** **Weather call** = **conclusion**; **cue** = **premise**.`,
+    expert: `**Meteorological consequent**
+
+**Not to be confused with:** **Rain** = **consequent**; **clouds** = **antecedent** **sign** (**P**).`,
   },
 
   1124: {
-    beginner: `In-depth (Beginner) — crank failure (third pass)
+    beginner: `**Crank failure — conclusion (third pass)**
 
-Correct (index **1**)
-**"the car won't start"** — **start** failure.
+**Correct (index 1):** **“the car won't start”** — **Q** (**no-start**).
 
-Premise
-"The battery is empty" — **charge** state.`,
-    intermediate: `In-depth (Intermediate) — electromechanical consequent
+**P:** **“The battery is empty”** — **charge** state.`,
+    intermediate: `**Electromechanical consequent**
 
-Steps
-1. Premise: no usable battery charge.
-2. Conclusion: failed start sequence.
-3. Pick the **no-start** line as **conclusion**; battery emptiness is premise.
+1. **P** = no usable charge. **Q** = starter outcome.
+2. Select **symptom** line as **conclusion**.
 
-Takeaway
-**Symptom** after **therefore** = conclusion in this roadside pattern.`,
-    expert: `In-depth (Expert) — starter consequent
+**Different example:** “Fuse blown, **therefore** pump won’t run.” **Conclusion** = won’t run—not “fuse blown.”
 
-No-start is the **starter-chain** consequent; empty battery is the **power** antecedent.`,
+**Takeaway:** **No-start** after **therefore** = **conclusion** in roadside pattern.`,
+    expert: `**Starter consequent**
+
+**Not to be confused with:** **No-start** = **starter-chain** **Q**; **empty battery** = **power** **P**.`,
   },
 
   1125: {
-    beginner: `In-depth (Beginner) — window placement (third pass)
+    beginner: `**Window placement — conclusion (third pass)**
 
-Conclusion (index **1**)
-**"they should be near the window"** — **placement** advice.
+**Correct (index 1):** **“they should be near the window”** — **Q** (**layout**).
 
-Premise
-"Plants need light" — **need** claim.`,
-    intermediate: `In-depth (Intermediate) — horticultural consequent
+**P:** **“Plants need light”** — **need**.`,
+    intermediate: `**Horticultural consequent**
 
-Analysis
-1. Need premise: light dependence.
-2. Conclusion: put plants by glass.
-3. **Therefore** introduces the **positional** recommendation—**conclusion**.
+1. **P** = light dependence. **Q** = by-the-glass placement.
+2. **Therefore** → **where** to put them.
 
-Takeaway
-**Where to put** the plants is what the argument ** concludes**; the need is premise.`,
-    expert: `In-depth (Expert) — layout consequent
+**Different example:** “Seedlings need warmth, **therefore** use a heat mat.” **Conclusion** = heat mat—not “need warmth” as the **conclusion** pick.
 
-Window proximity is the **layout** consequent justified by photon access needs.`,
+**Takeaway:** **Where** = **conclusion**; **need** = **premise**.`,
+    expert: `**Layout consequent**
+
+**Not to be confused with:** **Window** spot = **layout** **Q**; **photon need** = **P**.`,
   },
 
   1126: {
-    beginner: `In-depth (Beginner) — soft speech (third pass)
+    beginner: `**Soft speech — conclusion (third pass)**
 
-Correct (index **1**)
-**"we must speak softly"** — **volume** rule.
+**Correct (index 1):** **“we must speak softly”** — **Q** (**conduct**).
 
-Premise
-"Silence is required" — **venue** rule/context.`,
-    intermediate: `In-depth (Intermediate) — compliance consequent
+**P:** **“Silence is required”** — **venue** rule.`,
+    intermediate: `**Compliance consequent**
 
-Procedure
-1. Premise: quiet mandate.
-2. Conclusion: lowered voice requirement.
-3. **Therefore** flags the **conduct** clause as the **conclusion**.
+1. **P** = quiet mandate. **Q** = volume compliance.
+2. **Therefore** → **how** to speak.
 
-Takeaway
-**How to speak** concludes **what the setting demands** (premise).`,
-    expert: `In-depth (Expert) — acoustic compliance
+**Different example:** “Quiet hours after nine, **therefore** keep voices down.” **Conclusion** = voices down—not “quiet hours.”
 
-Soft speech is the **acoustic compliance** consequent; silence requirement is the **antecedent** norm.`,
+**Takeaway:** **How to speak** = **conclusion**; **setting rule** = **premise**.`,
+    expert: `**Acoustic compliance**
+
+**Not to be confused with:** **Soft speech** = **compliance** **Q**; **silence rule** = **antecedent** **P**.`,
   },
 
   1127: {
-    beginner: `In-depth (Beginner) — daily walk (third pass)
+    beginner: `**Daily walk — conclusion (third pass)**
 
-Conclusion (index **1**)
-**"we should walk daily"** — **habit** conclusion.
+**Correct (index 1):** **“we should walk daily”** — **Q** (**habit**).
 
-Premise
-"Exercise improves health" — **benefit** premise.`,
-    intermediate: `In-depth (Intermediate) — regimen consequent
+**P:** **“Exercise improves health”** — **general** benefit.`,
+    intermediate: `**Regimen consequent**
 
-Walkthrough
-1. Broad premise: exercise benefits health.
-2. Narrow conclusion: daily walking prescription.
-3. **Therefore** introduces the **specific** regimen—select it.
+1. **P** = benefit link. **Q** = concrete walk plan.
+2. **Therefore** → **specific** regimen.
 
-Takeaway
-The **concrete plan** is the conclusion; the **general benefit** is premise.`,
-    expert: `In-depth (Expert) — behavioral instantiation
+**Different example:** “Strength preserves bone density, **therefore** lift twice weekly.” **Conclusion** = lift—not “preserves density” as the **conclusion** option.
 
-Daily walking is the **behavioral** consequent instantiated from the health-benefit premise.`,
+**Takeaway:** **Concrete plan** = **conclusion**; **abstract benefit** = **premise**.`,
+    expert: `**Behavioral instantiation**
+
+**Not to be confused with:** **Daily walk** = **behavioral** **Q**; **health benefit** premise = **P**.`,
   },
 
   1128: {
-    beginner: `In-depth (Beginner) — second equality (third pass)
+    beginner: `**Second equality — conclusion (third pass)**
 
-Correct (index **1**)
-**"X plus 2 equals 7"** — **derived** line.
+**Correct (index 1):** **“X plus 2 equals 7”** (or equivalent) — **Q** (**derived**).
 
-Premise
-"X equals 5" — **given**.`,
-    intermediate: `In-depth (Intermediate) — derivational consequent
+**P:** **“X equals 5”** — **given**.`,
+    intermediate: `**Derivational consequent**
 
-Steps
-1. Premise fixes X.
-2. Conclusion applies +2.
-3. **Therefore** precedes the **computed** equality—**conclusion** in this drill.
+1. **P** fixes **X**. **Q** = one-step **+2**.
+2. **Therefore** → **computed** line.
 
-Takeaway
-**Derived** equations conclude **given** equations here.`,
-    expert: `In-depth (Expert) — algebraic consequent
+**Different example:** “n = 12, **therefore** n − 4 = 8.” **Conclusion** = second equality—not “n = 12.”
 
-The **second** equality is the **algebraic** consequent of the substitution premise.`,
+**Takeaway:** **Derived** row = **conclusion**; **given** = **premise**.`,
+    expert: `**Algebraic consequent**
+
+**Not to be confused with:** **Second** equality = **algebraic** **Q**; **substitution** premise = **P**.`,
   },
 
   1129: {
-    beginner: `In-depth (Beginner) — beach width (third pass)
+    beginner: `**Beach width — conclusion (third pass)**
 
-Conclusion (index **1**)
-**"the beach will get smaller"** — **shore** outcome.
+**Correct (index 1):** **“the beach will get smaller”** — **Q** (**shore** layout).
 
-Premise
-"The tide is coming in" — **tidal** process.`,
-    intermediate: `In-depth (Intermediate) — spatial consequent
+**P:** **“The tide is coming in”** — **forcing**.`,
+    intermediate: `**Spatial consequent**
 
-Procedure
-1. Premise: flood tide / rising water.
-2. Conclusion: less dry sand for visitors.
-3. **Therefore** introduces the **layout** change—**conclusion**.
+1. **P** = rising water. **Q** = less dry sand.
+2. **Therefore** → **usable** beach **geometry**.
 
-Takeaway
-**Usable beach** shrinkage is the **spatial** consequent; tide state is premise.`,
-    expert: `In-depth (Expert) — littoral consequent
+**Different example:** “River rising, **therefore** towpath floods.” **Conclusion** = floods—not “river rising.”
 
-Beach shrinkage is the **littoral** consequent; incoming tide is the **hydrodynamic** antecedent.`,
+**Takeaway:** **Shrinkage** = **conclusion**; **tide** = **premise**.`,
+    expert: `**Littoral consequent**
+
+**Not to be confused with:** **Beach shrinkage** = **littoral** **Q**; **incoming tide** = **hydrodynamic** **P**.`,
   },
 
   1130: {
-    beginner: `In-depth (Beginner) — past image (third pass)
+    beginner: `**Past image — conclusion (third pass)**
 
-Correct (index **1**)
-**"we see stars as they were"** — **seeing** claim.
+**Correct (index 1):** **“we see stars as they were”** — **Q** (**seeing** / lookback).
 
-Premise
-"Light takes time to travel" — **propagation** premise.`,
-    intermediate: `In-depth (Intermediate) — appearance consequent
+**P:** **“Light takes time to travel”** — **propagation**.`,
+    intermediate: `**Appearance consequent**
 
-Analysis
-1. Physics premise: propagation delay.
-2. Conclusion: historical appearance of sources.
-3. **Therefore** introduces the **viewing** thesis—pick as **conclusion**.
+1. **P** = finite speed / delay. **Q** = past-state **viewing**.
+2. **Therefore** → **what the image** “**shows**.”
 
-Takeaway
-**What we see** follows **therefore**; **speed of light** story is premise.`,
-    expert: `In-depth (Expert) — observational consequent
+**Different example:** “Sound is slow, **therefore** thunder follows the flash.” **Conclusion** = thunder follows—not “sound is slow.”
 
-The past-state **seeing** claim is the **observational** consequent; finite *c* is the **physical** antecedent (Level 0 gloss).`,
+**Takeaway:** **Viewing** thesis after **therefore** = **conclusion**; **physics** of **signal** = **premise**.`,
+    expert: `**Observational consequent**
+
+**Not to be confused with:** **Past-state seeing** = **observational** **Q**; finite-*c* **delay** story = **physical** **P** (Level 0 gloss).`,
   },
 
   1131: {
-    beginner: `In-depth (Beginner) — fall prediction (fourth conclusion pass)
+    beginner: `**Fall prediction — conclusion (fourth pass)**
 
-Bank repeat
-Same **Gravity… therefore apple…** line as other IDs—pick the **conclusion** (index **1**).
+Same **gravity → apple** bank line—pick **conclusion** (**Q**), index **1**.
 
-Conclusion
-**"the apple will fall"** — **kinematic** claim.
+**Correct:** **“the apple will fall”** — **kinematic** **Q**.
 
-Premise
-"Gravity pulls objects down" — **support**.`,
-    intermediate: `In-depth (Intermediate) — consequent after therefore
+**P:** **“Gravity pulls objects down”** — **support**, not the **target**.`,
+    intermediate: `**Consequent after therefore**
 
-Procedure
-1. Split at **therefore**: support | outcome.
-2. Outcome = **conclusion** for this lesson.
-3. Do not select the cue word or the first clause when asked for **conclusion**.
+1. Split on **therefore**: **support** | **outcome**.
+2. **Outcome** = **conclusion**; ignore **cue words** as content answers.
 
-Takeaway
-**Therefore** → **what follows** = conclusion.`,
-    expert: `In-depth (Expert) — motion consequent
+**Different example:** “Masses attract, **therefore** this brick drops.” **Conclusion** = drops—not “masses attract.”
 
-The apple’s fall is the **motion** consequent; gravitational pull language is the **antecedent** support.`,
+**Takeaway:** **Therefore** → **what follows** = **conclusion**.`,
+    expert: `**Motion consequent**
+
+**Not to be confused with:** **Fall** = **motion** **Q**; **gravity** wording = **P**—fourth pass, same map as **1111** / **1091**.`,
   },
 
   1132: {
-    beginner: `In-depth (Beginner) — speak daily (fourth pass)
+    beginner: `**Speak daily — conclusion (fourth pass)**
 
-Correct (index **1**)
-**"you should speak daily"** — **cadence** conclusion.
+**Correct (index 1):** **“you should speak daily”** — **Q** (**cadence**).
 
-Premise
-"Practice improves fluency" — **mechanism** premise.`,
-    intermediate: `In-depth (Intermediate) — prudential conclusion
+**P:** **“Practice improves fluency”** — **mechanism**.`,
+    intermediate: `**Prudential conclusion**
 
-Steps
-1. Premise: practice helps fluency.
-2. Conclusion: daily speaking prescription.
-3. **Therefore** introduces the **ought** about frequency.
+1. **P** = practice → fluency. **Q** = daily **ought**.
+2. **Therefore** → **frequency** policy.
 
-Takeaway
-**Policy** after **therefore** = conclusion.`,
-    expert: `In-depth (Expert) — schedule consequent
+**Different example:** “Retrieval beats rereading, **therefore** quiz each chapter.” **Conclusion** = quiz—not “retrieval beats rereading.”
 
-Daily speaking is the **schedule** consequent grounded in the practice premise.`,
+**Takeaway:** **Policy** after **therefore** = **conclusion**.`,
+    expert: `**Schedule consequent**
+
+**Not to be confused with:** **Daily speaking** = **schedule** **Q**; **practice premise** = **P**.`,
   },
 
   1133: {
-    beginner: `In-depth (Beginner) — Wi-Fi outage (fourth pass)
+    beginner: `**Wi‑Fi outage — conclusion (fourth pass)**
 
-Conclusion (index **1**)
-**"the Wi-Fi won't work"** — **service** claim.
+**Correct (index 1):** **“the Wi-Fi won't work”** — **Q** (**service**).
 
-Premise
-"The router is off" — **power** state.`,
-    intermediate: `In-depth (Intermediate) — service conclusion
+**P:** **“The router is off”** — **power** / edge state.`,
+    intermediate: `**Service conclusion**
 
-Analysis
-1. Box premise: router off.
-2. Conclusion: WLAN failure.
-3. Select the **Wi-Fi** line as **conclusion**.
+1. **P** = router down. **Q** = WLAN unusable.
+2. Select **Wi‑Fi** line as **conclusion**.
 
-Takeaway
-**Symptom/service** downstream = conclusion.`,
-    expert: `In-depth (Expert) — connectivity consequent
+**Different example:** “Modem offline, **therefore** no LAN internet.” **Conclusion** = no internet—not “modem offline.”
 
-Wireless failure is the **connectivity** consequent; router power is the **antecedent** fact.`,
+**Takeaway:** **Symptom / service** **downstream** = **conclusion**.`,
+    expert: `**Connectivity consequent**
+
+**Not to be confused with:** **Wireless failure** = **connectivity** **Q**; **router power** = **P**.`,
   },
 
   1134: {
-    beginner: `In-depth (Beginner) — careful handling (fourth pass)
+    beginner: `**Careful handling — conclusion (fourth pass)**
 
-Correct (index **1**)
-**"they need careful handling"** — **care** norm.
+**Correct (index 1):** **“they need careful handling”** — **Q** (**care** norm).
 
-Premise
-"Artifacts are fragile" — **risk** premise.`,
-    intermediate: `In-depth (Intermediate) — prescriptive conclusion
+**P:** **“Artifacts are fragile”** — **risk**.`,
+    intermediate: `**Prescriptive conclusion**
 
-Procedure
-1. Fragility premise.
-2. Handling requirement conclusion.
-3. **Therefore** marks the **norm** as what is argued **for**.
+1. **P** = fragility. **Q** = handling norm.
+2. **Therefore** → what is **argued for** (prescriptive).
 
-Takeaway
-**Prescriptive** follow = conclusion.`,
-    expert: `In-depth (Expert) — conservation consequent
+**Different example:** “Nitrated film is unstable, **therefore** store in vented cold cans.” **Conclusion** = storage protocol—not “unstable” as the **conclusion** pick.
 
-Care rules are the **conservation** consequent justified by fragility.`,
+**Takeaway:** **Prescriptive** follow = **conclusion**.`,
+    expert: `**Conservation consequent**
+
+**Not to be confused with:** **Care rules** = **conservation** **Q**; **fragility** = **P**.`,
   },
 
   1135: {
-    beginner: `In-depth (Beginner) — mix for violet (fourth pass)
+    beginner: `**Mix for violet — conclusion (fourth pass)**
 
-Conclusion (index **1**)
-**"mix them for violet"** — **imperative**.
+**Correct (index 1):** **“mix them for violet”** — **Q** (**imperative**).
 
-Premise
-"Red and blue make purple" — **composition** fact.`,
-    intermediate: `In-depth (Intermediate) — craft conclusion
+**P:** **“Red and blue make purple”** — **composition**.`,
+    intermediate: `**Craft conclusion**
 
-Steps
-1. Compositional premise.
-2. Imperative conclusion.
-3. **Therefore** → pick the **command** as conclusion.
+1. **P** = color outcome. **Q** = command.
+2. **Therefore** → **instruction**.
 
-Takeaway
-**Instruction** after **therefore** = conclusion.`,
-    expert: `In-depth (Expert) — instrumental consequent
+**Different example:** “Linseed oxidizes slowly, **therefore** thin paint in small cups.” **Conclusion** = small cups—not “oxidizes slowly.”
 
-The mixing command is the **instrumental** consequent of the color-mix premise.`,
+**Takeaway:** **Instruction** after **therefore** = **conclusion**.`,
+    expert: `**Instrumental consequent**
+
+**Not to be confused with:** **Mix** command = **instrumental** **Q**; **color-mix** fact = **P**.`,
   },
 
   1136: {
-    beginner: `In-depth (Beginner) — must stop (fourth pass)
+    beginner: `**Must stop — conclusion (fourth pass)**
 
-Correct (index **1**)
-**"drivers must stop"** — **traffic** obligation.
+**Correct (index 1):** **“drivers must stop”** — **Q** (**traffic** duty).
 
-Premise
-"The light is red" — **signal** premise.`,
-    intermediate: `In-depth (Intermediate) — deontic conclusion
+**P:** **“The light is red”** — **signal**.`,
+    intermediate: `**Deontic conclusion**
 
-Analysis
-1. Observation: red light.
-2. Obligation: stop.
-3. **Therefore** introduces the **drivers’ duty**—conclusion.
+1. **P** = red aspect. **Q** = stop obligation.
+2. **Therefore** → **drivers’ duty**.
 
-Takeaway
-**Must**-claims about drivers conclude **signal** premises.`,
-    expert: `In-depth (Expert) — compliance consequent
+**Different example:** “Barrier down, **therefore** don’t enter crossing.” **Conclusion** = don’t enter—not “barrier down.”
 
-Stopping is the **compliance** consequent; red aspect is the **antecedent** observation.`,
+**Takeaway:** **Must**-claims about drivers = **conclusion**; **signal** = **premise**.`,
+    expert: `**Compliance consequent**
+
+**Not to be confused with:** **Stopping** = **compliance** **Q**; **red** aspect = **antecedent** **P**.`,
   },
 
   1137: {
-    beginner: `In-depth (Beginner) — students rest (fourth pass)
+    beginner: `**Students rest — conclusion (fourth pass)**
 
-Conclusion (index **1**)
-**"students should rest"** — **remedy**.
+**Correct (index 1):** **“students should rest”** — **Q** (**remedy**).
 
-Premise
-"Lack of sleep affects focus" — **harm** premise.`,
-    intermediate: `In-depth (Intermediate) — advisory conclusion
+**P:** **“Lack of sleep affects focus”** — **harm**.`,
+    intermediate: `**Advisory conclusion**
 
-Walkthrough
-1. Harm premise: sleep loss hurts focus.
-2. Conclusion: rest advice.
-3. **Therefore** → **should rest** is the **conclusion**.
+1. **P** = focus deficit. **Q** = rest advice.
+2. **Therefore** → **should rest**.
 
-Takeaway
-**Recommended response** = conclusion.`,
-    expert: `In-depth (Expert) — recovery consequent
+**Different example:** “Noise fragments attention, **therefore** use earplugs for exams.” **Conclusion** = earplugs—not “noise fragments.”
 
-Rest is the **recovery** consequent supported by the focus-deficit premise.`,
+**Takeaway:** **Recommended response** = **conclusion**.`,
+    expert: `**Recovery consequent**
+
+**Not to be confused with:** **Rest** = **recovery** **Q**; **harm** premise = **P**.`,
   },
 
   1138: {
-    beginner: `In-depth (Beginner) — prices rise (fourth pass)
+    beginner: `**Prices rise — conclusion (fourth pass)**
 
-Correct (index **1**)
-**"prices will rise"** — **price** forecast.
+**Correct (index 1):** **“prices will rise”** — **Q** (**forecast**).
 
-Premise
-"Supply is low" — **scarcity** premise.`,
-    intermediate: `In-depth (Intermediate) — market conclusion
+**P:** **“Supply is low”** — **scarcity**.`,
+    intermediate: `**Market conclusion**
 
-Steps
-1. Supply premise.
-2. Price conclusion.
-3. **Therefore** introduces the **forecast**—select it.
+1. **P** = tight supply. **Q** = price move.
+2. **Therefore** → **forecast**.
 
-Takeaway
-**Price movement** = conclusion in this toy model.`,
-    expert: `In-depth (Expert) — price consequent
+**Different example:** “Berth queues grew, **therefore** demurrage spikes.” **Conclusion** = demurrage—not “queues grew.”
 
-Rising prices are the **price** consequent; low supply is the **antecedent** condition.`,
+**Takeaway:** **Price movement** = **conclusion** in this toy model.`,
+    expert: `**Price consequent**
+
+**Not to be confused with:** **Rising prices** = **price** **Q**; **low supply** = **antecedent** **P**.`,
   },
 
   1139: {
-    beginner: `In-depth (Beginner) — need company (fourth pass)
+    beginner: `**Need company — conclusion (fourth pass)**
 
-Conclusion (index **1**)
-**"they need company"** — **welfare** claim.
+**Correct (index 1):** **“they need company”** — **Q** (**welfare**).
 
-Premise
-"Dogs are social" — **trait** premise.`,
-    intermediate: `In-depth (Intermediate) — inferred need
+**P:** **“Dogs are social”** — **trait**.`,
+    intermediate: `**Inferred need**
 
-Analysis
-1. Trait premise: sociability.
-2. Conclusion: companionship need.
-3. **Therefore** → pick the **need** statement.
+1. **P** = sociability. **Q** = companionship need.
+2. **Therefore** → **need** line.
 
-Takeaway
-**Need** line = conclusion; **trait** = premise.`,
-    expert: `In-depth (Expert) — welfare consequent
+**Different example:** “Parrots bond strongly, **therefore** they need daily interaction.” **Conclusion** = need interaction—not “bond strongly” as the **conclusion** pick.
 
-Company need is the **welfare** consequent inferred from sociability.`,
+**Takeaway:** **Need** = **conclusion**; **trait** = **premise**.`,
+    expert: `**Welfare consequent**
+
+**Not to be confused with:** **Company need** = **welfare** **Q**; **sociability** = **P**.`,
   },
 
   1140: {
-    beginner: `In-depth (Beginner) — sound bad (fourth pass)
+    beginner: `**Sound bad — conclusion (fourth pass)**
 
-Correct (index **1**)
-**"it will sound bad"** — **sonic** prediction.
+**Correct (index 1):** **“it will sound bad”** — **Q** (**sonic** prediction).
 
-Premise
-"The guitar is out of tune" — **setup** fault.`,
-    intermediate: `In-depth (Intermediate) — aesthetic conclusion
+**P:** **“The guitar is out of tune”** — **setup** fault.`,
+    intermediate: `**Aesthetic conclusion**
 
-Procedure
-1. Tuning premise.
-2. Sound-quality conclusion.
-3. **Therefore** marks the **auditory** evaluation as **conclusion**.
+1. **P** = tuning. **Q** = timbre verdict.
+2. **Therefore** → **auditory** evaluation.
 
-Takeaway
-**Bad sound** is the **consequent**; tuning fault is **antecedent**.`,
-    expert: `In-depth (Expert) — timbre consequent
+**Different example:** “Reed chipped, **therefore** clarinet will honk.” **Conclusion** = honk—not “reed chipped.”
 
-Poor sound is the **timbre** consequent; detuning is the **setup** antecedent.`,
+**Takeaway:** **Bad sound** = **consequent**; **tuning fault** = **antecedent**.`,
+    expert: `**Timbre consequent**
+
+**Not to be confused with:** **Poor sound** = **timbre** **Q**; **detuning** = **setup** **P**.`,
   },
 
   1141: {
-    beginner: `In-depth (Beginner) — cake burns (fifth conclusion pass)
+    beginner: `**Cake burns — conclusion (fifth pass)**
 
-Conclusion (index **1**)
-**"the cake will burn"** — **baking** harm.
+Fifth pass on **oven / cake**—pick **Q** after **therefore** (index **1**).
 
-Premise
-"The oven is too hot" — **heat** premise.`,
-    intermediate: `In-depth (Intermediate) — thermal consequent
+**Correct:** **“the cake will burn”** — **baking** **Q**.
 
-Steps
-1. Heat premise.
-2. Burn conclusion.
-3. **Therefore** → **burn** is what the arguer ** concludes**.
+**P:** **“The oven is too hot”** — **heat** (not the **conclusion**).`,
+    intermediate: `**Thermal consequent**
 
-Takeaway
-**Food fate** after **therefore** = conclusion.`,
-    expert: `In-depth (Expert) — overcook consequent
+1. **P** = excessive heat. **Q** = burn / scorch.
+2. **Therefore** → **food fate**.
 
-Burning is the **overcook** consequent; excessive heat is the **antecedent** condition.`,
+**Different example:** “Pan on high, **therefore** sauce scorches.” **Conclusion** = scorches—not “pan on high.”
+
+**Takeaway:** **Food fate** after **therefore** = **conclusion**.`,
+    expert: `**Overcook consequent**
+
+**Not to be confused with:** **Burn** = **overcook** **Q**; **heat** = **antecedent** **P**—fifth pass, same map as **1121** / **1101**.`,
   },
 
   1142: {
-    beginner: `In-depth (Beginner) — finish faster (fifth pass)
+    beginner: `**Finish faster — conclusion (fifth pass)**
 
-Correct (index **1**)
-**"you will finish faster"** — **pace** outcome.
+**Correct (index 1):** **“you will finish faster”** — **Q** (**pace**).
 
-Premise
-"You practiced hard" — **effort** premise.`,
-    intermediate: `In-depth (Intermediate) — throughput conclusion
+**P:** **“You practiced hard”** — **effort**.`,
+    intermediate: `**Throughput conclusion**
 
-Analysis
-1. Effort premise.
-2. Speed conclusion.
-3. Select the **faster** claim as **conclusion**.
+1. **P** = training load. **Q** = speed gain.
+2. Select **faster** claim as **conclusion**.
 
-Takeaway
-**Performance** prediction = conclusion.`,
-    expert: `In-depth (Expert) — SLA-style consequent
+**Different example:** “Many reps logged, **therefore** time trial improves.” **Conclusion** = improves—not “many reps.”
 
-Faster completion is the **throughput** consequent of the practice premise.`,
+**Takeaway:** **Performance** prediction = **conclusion**.`,
+    expert: `**SLA-style consequent**
+
+**Not to be confused with:** **Faster completion** = **throughput** **Q**; **practice** premise = **P**.`,
   },
 
   1143: {
-    beginner: `In-depth (Beginner) — going to rain (fifth pass)
+    beginner: `**Going to rain — conclusion (fifth pass)**
 
-Conclusion (index **1**)
-**"it is going to rain"** — **weather** call.
+**Correct (index 1):** **“it is going to rain”** — **Q** (**weather**).
 
-Premise
-"The clouds are dark" — **sky** observation.`,
-    intermediate: `In-depth (Intermediate) — forecast conclusion
+**P:** **“The clouds are dark”** — **sky** sign.`,
+    intermediate: `**Forecast conclusion**
 
-Procedure
-1. Sign premise: clouds.
-2. Event conclusion: rain.
-3. **Therefore** introduces the **forecast**—pick it.
+1. **P** = clouds. **Q** = rain call.
+2. **Therefore** → **forecast**.
 
-Takeaway
-**Rain claim** = conclusion.`,
-    expert: `In-depth (Expert) — precipitation consequent
+**Different example:** “Barometer falling, **therefore** squalls likely.” **Conclusion** = squalls—not “barometer.”
 
-Rain is the **precipitation** consequent; cloud appearance is the **antecedent** sign.`,
+**Takeaway:** **Rain claim** = **conclusion**.`,
+    expert: `**Precipitation consequent**
+
+**Not to be confused with:** **Rain** = **precipitation** **Q**; **cloud** appearance = **antecedent** **sign** (**P**).`,
   },
 
   1144: {
-    beginner: `In-depth (Beginner) — won’t start (fifth pass)
+    beginner: `**Won’t start — conclusion (fifth pass)**
 
-Correct (index **1**)
-**"the car won't start"** — **failure** mode.
+**Correct (index 1):** **“the car won't start”** — **Q** (**failure**).
 
-Premise
-"The battery is empty" — **charge** premise.`,
-    intermediate: `In-depth (Intermediate) — no-crank conclusion
+**P:** **“The battery is empty”** — **charge**.`,
+    intermediate: `**No-crank conclusion**
 
-Steps
-1. Battery premise.
-2. Start failure conclusion.
-3. **Therefore** → **no start** is **conclusion**.
+1. **P** = battery state. **Q** = no-start.
+2. **Therefore** → **functional** outcome.
 
-Takeaway
-**Functional** failure = conclusion.`,
-    expert: `In-depth (Expert) — ignition consequent
+**Different example:** “Fuse blown, **therefore** pump won’t run.” **Conclusion** = won’t run—not “fuse blown.”
 
-No-start is the **ignition** consequent; empty battery is the **electrical** antecedent.`,
+**Takeaway:** **Functional** failure = **conclusion**.`,
+    expert: `**Ignition consequent**
+
+**Not to be confused with:** **No-start** = **ignition** **Q**; **empty battery** = **electrical** **P**.`,
   },
 
   1145: {
-    beginner: `In-depth (Beginner) — near the window (fifth pass)
+    beginner: `**Near the window — conclusion (fifth pass)**
 
-Conclusion (index **1**)
-**"they should be near the window"** — **placement**.
+**Correct (index 1):** **“they should be near the window”** — **Q** (**placement**).
 
-Premise
-"Plants need light" — **need** premise.`,
-    intermediate: `In-depth (Intermediate) — placement conclusion
+**P:** **“Plants need light”** — **need**.`,
+    intermediate: `**Placement conclusion**
 
-Analysis
-1. Need premise: light.
-2. Conclusion: window proximity.
-3. **Therefore** introduces the **where**—conclusion.
+1. **P** = light need. **Q** = by glass.
+2. **Therefore** → **where**.
 
-Takeaway
-**Placement ought** = conclusion.`,
-    expert: `In-depth (Expert) — photon-access consequent
+**Different example:** “Seedlings need warmth, **therefore** use a heat mat.” **Conclusion** = heat mat—not “need warmth” as the **conclusion** pick.
 
-Window placement is the **photon-access** consequent of the light-need premise.`,
+**Takeaway:** **Placement ought** = **conclusion**.`,
+    expert: `**Photon-access consequent**
+
+**Not to be confused with:** **Window** spot = **photon-access** **Q**; **light need** = **P**.`,
   },
 
   1146: {
-    beginner: `In-depth (Beginner) — speak softly (fifth pass)
+    beginner: `**Speak softly — conclusion (fifth pass)**
 
-Correct (index **1**)
-**"we must speak softly"** — **conduct**.
+**Correct (index 1):** **“we must speak softly”** — **Q** (**conduct**).
 
-Premise
-"Silence is required" — **rule** premise.`,
-    intermediate: `In-depth (Intermediate) — conduct conclusion
+**P:** **“Silence is required”** — **rule**.`,
+    intermediate: `**Conduct conclusion**
 
-Procedure
-1. Quiet rule premise.
-2. Soft-speech conclusion.
-3. Pick **must speak softly** as **conclusion**.
+1. **P** = quiet mandate. **Q** = soft speech.
+2. Pick **must speak softly** as **conclusion**.
 
-Takeaway
-**Compliance behavior** = conclusion.`,
-    expert: `In-depth (Expert) — etiquette consequent
+**Different example:** “Quiet hours after nine, **therefore** keep voices down.” **Conclusion** = voices down—not “quiet hours.”
 
-Soft speech is the **etiquette** consequent of the silence requirement.`,
+**Takeaway:** **Compliance behavior** = **conclusion**.`,
+    expert: `**Etiquette consequent**
+
+**Not to be confused with:** **Soft speech** = **etiquette** **Q**; **silence requirement** = **P**.`,
   },
 
   1147: {
-    beginner: `In-depth (Beginner) — walk daily (fifth pass)
+    beginner: `**Walk daily — conclusion (fifth pass)**
 
-Conclusion (index **1**)
-**"we should walk daily"** — **habit** prescription.
+**Correct (index 1):** **“we should walk daily”** — **Q** (**habit**).
 
-Premise
-"Exercise improves health" — **benefit** premise.`,
-    intermediate: `In-depth (Intermediate) — regimen conclusion
+**P:** **“Exercise improves health”** — **benefit**.`,
+    intermediate: `**Regimen conclusion**
 
-Walkthrough
-1. Benefit premise.
-2. Walking regimen conclusion.
-3. **Therefore** → **should walk** = **conclusion**.
+1. **P** = exercise–health link. **Q** = daily walk.
+2. **Therefore** → **should walk**.
 
-Takeaway
-**Concrete habit** = conclusion.`,
-    expert: `In-depth (Expert) — dose consequent
+**Different example:** “Strength preserves bone density, **therefore** lift twice weekly.” **Conclusion** = lift—not “preserves density” as the **conclusion** option.
 
-Daily walking is the **dose** consequent supported by the exercise–health premise.`,
+**Takeaway:** **Concrete habit** = **conclusion**.`,
+    expert: `**Dose consequent**
+
+**Not to be confused with:** **Daily walking** = **dose** **Q**; **exercise–health** premise = **P**.`,
   },
 
   1148: {
-    beginner: `In-depth (Beginner) — X plus 2 equals 7 (fifth pass)
+    beginner: `**X plus 2 equals 7 — conclusion (fifth pass)**
 
-Correct (index **1**)
-**"X plus 2 equals 7"** — **derived** equality.
+**Correct (index 1):** **“X plus 2 equals 7”** (or equivalent) — **Q** (**derived**).
 
-Premise
-"X equals 5" — **given**.`,
-    intermediate: `In-depth (Intermediate) — algebra conclusion
+**P:** **“X equals 5”** — **given**.`,
+    intermediate: `**Algebra conclusion**
 
-Steps
-1. Given: X = 5.
-2. Conclusion: X + 2 = 7.
-3. **Therefore** precedes the **derived** line—**conclusion**.
+1. **P** = X = 5. **Q** = X + 2 = 7.
+2. **Therefore** precedes **derived** line.
 
-Takeaway
-**Computed** line = conclusion.`,
-    expert: `In-depth (Expert) — equality consequent
+**Different example:** “n = 12, **therefore** n − 4 = 8.” **Conclusion** = second equality—not “n = 12.”
 
-The second equality is the **equality** consequent of the substitution premise.`,
+**Takeaway:** **Computed** line = **conclusion**.`,
+    expert: `**Equality consequent**
+
+**Not to be confused with:** **Second** equality = **equality** **Q**; **substitution** premise = **P**.`,
   },
 
   1149: {
-    beginner: `In-depth (Beginner) — beach smaller (fifth pass)
+    beginner: `**Beach smaller — conclusion (fifth pass)**
 
-Conclusion (index **1**)
-**"the beach will get smaller"** — **shore** change.
+**Correct (index 1):** **“the beach will get smaller”** — **Q** (**shore**).
 
-Premise
-"The tide is coming in" — **tide** premise.`,
-    intermediate: `In-depth (Intermediate) — shoreline conclusion
+**P:** **“The tide is coming in”** — **tide**.`,
+    intermediate: `**Shoreline conclusion**
 
-Procedure
-1. Tide premise.
-2. Beach-width conclusion.
-3. **Therefore** marks **shrinkage** as **conclusion**.
+1. **P** = flood / rising water. **Q** = less dry sand.
+2. **Therefore** → **shrinkage**.
 
-Takeaway
-**Spatial** effect = conclusion.`,
-    expert: `In-depth (Expert) — footprint consequent
+**Different example:** “River rising, **therefore** towpath floods.” **Conclusion** = floods—not “river rising.”
 
-Dry-sand loss is the **footprint** consequent; flood tide is the **forcing** antecedent.`,
+**Takeaway:** **Spatial** effect = **conclusion**.`,
+    expert: `**Footprint consequent**
+
+**Not to be confused with:** **Dry-sand loss** = **footprint** **Q**; **flood tide** = **forcing** **P**.`,
   },
 
   1150: {
-    beginner: `In-depth (Beginner) — stars as they were (fifth pass)
+    beginner: `**Stars as they were — conclusion (fifth pass)**
 
-Correct (index **1**)
-**"we see stars as they were"** — **seeing** claim.
+**Correct (index 1):** **“we see stars as they were”** — **Q** (**seeing**).
 
-Premise
-"Light takes time to travel" — **delay** premise.`,
-    intermediate: `In-depth (Intermediate) — lookback conclusion
+**P:** **“Light takes time to travel”** — **delay**.`,
+    intermediate: `**Lookback conclusion**
 
-Analysis
-1. Propagation premise.
-2. Historical-appearance conclusion.
-3. **Therefore** → **seeing** thesis = **conclusion**.
+1. **P** = propagation delay. **Q** = historical appearance.
+2. **Therefore** → **seeing** thesis.
 
-Takeaway
-**Observation** about the sky = conclusion; **physics** = premise.`,
-    expert: `In-depth (Expert) — phenomenology consequent
+**Different example:** “Sound is slow, **therefore** thunder follows the flash.” **Conclusion** = thunder follows—not “sound is slow.”
 
-Past-state appearance is the **phenomenology** consequent; light-travel time is the **physical** antecedent.`,
+**Takeaway:** **Sky observation** claim after **therefore** = **conclusion**; **physics** = **premise**.`,
+    expert: `**Phenomenology consequent**
+
+**Not to be confused with:** **Past-state appearance** = **phenomenology** **Q**; **light-travel time** = **physical** **P**.`,
   },
   1151: {
-    beginner: `In-depth (Beginner) — fact vs opinion (Bio / DNA, cycle 1)
+    beginner: `**Fact vs opinion — DNA (cycle 1)**
 
-Correct (index **0**)
-**"DNA stores genetic info."** — checkable **descriptive** claim.
+**Correct (index 0):** **“DNA stores genetic info.”** — **checkable** biology (information storage).
 
-Not the fact here
-• "DNA is beautiful." — **evaluative** or preference-laden.
-• "Opinions are facts." — **false** / category mistake.
-• "Depends." — **non-answer**, not a factual statement.`,
-    intermediate: `In-depth (Intermediate) — objective vs subjective
+**Not the fact:** **“DNA is beautiful.”** — aesthetic **evaluation**. **“Opinions are facts.”** — category mistake. **“Depends.”** — not a factual answer.`,
+    intermediate: `**Objective vs subjective**
 
-Steps
-1. Ask: could this be settled **without** personal taste?
-2. The **first** option states something **verifiable** (in the usual scientific sense).
-3. The **second** option uses **value** or **emotion** language, not the same logical status.
+1. Could this be settled **without** your **taste** or **feelings**?
+2. **Index 0** = **verifiable** claim (here: what DNA **does**).
+3. **Index 1** = **value** / **emotion** / **preference**.
 
-Takeaway
-Facts are **independently checkable**; opinions express **evaluation** or **preference**.`,
-    expert: `In-depth (Expert) — bio (cycle 1)
+**Different example:** “Hemoglobin carries oxygen” vs “Blood is gross”—first is **fact-style** for this lesson’s split.
 
-Cycle 1: the **storage** claim is empirical biology; **beauty** is aesthetic and not a checkable property of DNA in this sense.`,
+**Takeaway:** Facts are **independently checkable**; opinions carry **evaluation** or **preference**.`,
+    expert: `**Bio — cycle 1**
+
+**Not to be confused with:** **Storage of genetic information** is **empirical** here; **beauty** is **not** a lab readout of DNA.`,
   },
 
   1152: {
-    beginner: `In-depth (Beginner) — fact vs opinion (Space / Jupiter, cycle 1)
+    beginner: `**Fact vs opinion — Jupiter (cycle 1)**
 
-Correct (index **0**)
-**"Jupiter is the largest planet."** — checkable **descriptive** claim.
+**Correct (index 0):** **“Jupiter is the largest planet.”** — **checkable** astronomy (size ordering).
 
-Not the fact here
-• "Jupiter is scary." — **evaluative** or preference-laden.
-• "Opinions are facts." — **false** / category mistake.
-• "Depends." — **non-answer**, not a factual statement.`,
-    intermediate: `In-depth (Intermediate) — objective vs subjective
+**Not the fact:** **“Jupiter is scary.”** — emotional **reaction**. **“Opinions are facts.”** — category mistake. **“Depends.”** — not a factual answer.`,
+    intermediate: `**Objective vs subjective**
 
-Steps
-1. Ask: could this be settled **without** personal taste?
-2. The **first** option states something **verifiable** (in the usual scientific sense).
-3. The **second** option uses **value** or **emotion** language, not the same logical status.
+1. **Without** **fear** or **mood**, which line states how things **are** in the solar system?
+2. **Index 0** = **verifiable** (here: comparative **size**).
+3. **Index 1** = **evaluative** wording.
 
-Takeaway
-Facts are **independently checkable**; opinions express **evaluation** or **preference**.`,
-    expert: `In-depth (Expert) — space (cycle 1)
+**Different example:** “Saturn has rings” vs “Saturn looks judgmental”—first tracks **fact-style** labeling in this bank.
 
-Cycle 1: **size ranking among planets** is an astronomical fact claim (Level 0 gloss); **scary** is emotional.`,
+**Takeaway:** **Independent** check vs **personal** reaction.`,
+    expert: `**Space — cycle 1**
+
+**Not to be confused with:** **Largest planet** is a **Level 0** astronomy **fact** claim; **scary** is **not** an observation in the same sense.`,
   },
 
   1153: {
-    beginner: `In-depth (Beginner) — fact vs opinion (Chem / gold, cycle 1)
+    beginner: `**Fact vs opinion — gold (cycle 1)**
 
-Correct (index **0**)
-**"Gold does not rust."** — checkable **descriptive** claim.
+**Correct (index 0):** **“Gold does not rust.”** — **checkable** chemistry (corrosion).
 
-Not the fact here
-• "Gold is the best metal." — **evaluative** or preference-laden.
-• "Opinions are facts." — **false** / category mistake.
-• "Depends." — **non-answer**, not a factual statement.`,
-    intermediate: `In-depth (Intermediate) — objective vs subjective
+**Not the fact:** **“Gold is the best metal.”** — **ranking** by preference. **“Opinions are facts.”** — category mistake. **“Depends.”** — not a factual answer.`,
+    intermediate: `**Objective vs subjective**
 
-Steps
-1. Ask: could this be settled **without** personal taste?
-2. The **first** option states something **verifiable** (in the usual scientific sense).
-3. The **second** option uses **value** or **emotion** language, not the same logical status.
+1. Which line is about **behavior** of the metal **in the world**?
+2. **Index 0** = **descriptive** / **testable** (oxidation).
+3. **Index 1** = **“best”** = comparative **value**.
 
-Takeaway
-Facts are **independently checkable**; opinions express **evaluation** or **preference**.`,
-    expert: `In-depth (Expert) — chem (cycle 1)
+**Different example:** “Aluminum forms a passive oxide layer” vs “Aluminum is the most honest metal”—first fits **fact** slot here.
 
-Cycle 1: **corrosion behavior** is a chemistry fact claim; **best** is comparative preference.`,
+**Takeaway:** **Material facts** vs **taste** or **superlatives**.`,
+    expert: `**Chem — cycle 1**
+
+**Not to be confused with:** **Rust resistance** is a **chemistry** claim here; **best metal** is **preference** dressed as ranking.`,
   },
 
   1154: {
-    beginner: `In-depth (Beginner) — fact vs opinion (Math / dozen, cycle 1)
+    beginner: `**Fact vs opinion — dozen (cycle 1)**
 
-Correct (index **0**)
-**"A dozen is twelve units."** — checkable **definition** claim.
+**Correct (index 0):** **“A dozen is twelve units.”** — **definition** / convention (counting).
 
-Not the fact here
-• "Dozen is a lucky number." — **evaluative** or preference-laden.
-• "Opinions are facts." — **false** / category mistake.
-• "Depends." — **non-answer**, not a factual statement.`,
-    intermediate: `In-depth (Intermediate) — objective vs subjective
+**Not the fact:** **“Dozen is a lucky number.”** — **superstition** / attitude. **“Opinions are facts.”** — category mistake. **“Depends.”** — not a factual answer.`,
+    intermediate: `**Objective vs subjective**
 
-Steps
-1. Ask: could this be settled **without** personal taste?
-2. The **first** option states something **verifiable** (by definition/convention here).
-3. The **second** option uses **value** or **emotion** language, not the same logical status.
+1. One line fixes **meaning** (how people **use** “dozen”); the other adds **luck**—a **stance**, not a definition.
+2. **Index 0** = **stipulative** / **conventional** **fact** for this drill.
+3. **Index 1** = **evaluative** color.
 
-Takeaway
-Facts are **independently checkable**; opinions express **evaluation** or **preference**.`,
-    expert: `In-depth (Expert) — math (cycle 1)
+**Different example:** “A century is one hundred years” vs “100 is a powerful number”—first is **definition-style** here.
 
-Cycle 1: **definition** of dozen is stipulative/conventional and treated here as the **factual** option; **lucky** is superstitious evaluation.`,
+**Takeaway:** **Definitions** and **conventions** can be **facts** in this course; **lucky** is **not**.`,
+    expert: `**Math — cycle 1**
+
+**Not to be confused with:** **Twelve units** is the **conventional** **fact** option; **luck** is **not** checkable the same way.`,
   },
 
   1155: {
-    beginner: `In-depth (Beginner) — fact vs opinion (Geo / Nile, cycle 1)
+    beginner: `**Fact vs opinion — Nile (cycle 1)**
 
-Correct (index **0**)
-**"The Nile is in Africa."** — checkable **descriptive** claim.
+**Correct (index 0):** **“The Nile is in Africa.”** — **checkable** geography (location).
 
-Not the fact here
-• "The Nile is peaceful." — **evaluative** or preference-laden.
-• "Opinions are facts." — **false** / category mistake.
-• "Depends." — **non-answer**, not a factual statement.`,
-    intermediate: `In-depth (Intermediate) — objective vs subjective
+**Not the fact:** **“The Nile is peaceful.”** — **mood** about a river. **“Opinions are facts.”** — category mistake. **“Depends.”** — not a factual answer.`,
+    intermediate: `**Objective vs subjective**
 
-Steps
-1. Ask: could this be settled **without** personal taste?
-2. The **first** option states something **verifiable** (in the usual scientific sense).
-3. The **second** option uses **value** or **emotion** language, not the same logical status.
+1. **Where** is the river vs **how it feels** to **you**—different jobs.
+2. **Index 0** = **map** / **continent** (verifiable).
+3. **Index 1** = **atmosphere** judgment.
 
-Takeaway
-Facts are **independently checkable**; opinions express **evaluation** or **preference**.`,
-    expert: `In-depth (Expert) — geo (cycle 1)
+**Different example:** “The Amazon is mostly in Brazil” vs “The Amazon feels ancient”—first is **location fact-style** here.
 
-Cycle 1: **continent location** is geographic; **peaceful** is a mood judgment about a river.`,
+**Takeaway:** **Place** claims vs **aesthetic** or **emotional** gloss.`,
+    expert: `**Geo — cycle 1**
+
+**Not to be confused with:** **Continent** placement is **geographic** **fact** here; **peaceful** is a **subjective** label.`,
   },
 
   1156: {
-    beginner: `In-depth (Beginner) — fact vs opinion (Bio / DNA, cycle 2)
+    beginner: `**Fact vs opinion — DNA (cycle 2)**
 
-Correct (index **0**)
-**"DNA stores genetic info."** — checkable **descriptive** claim.
+New ID, **same pairing** as **1151**: pick the **checkable** line (**index 0**).
 
-Not the fact here
-• "DNA is beautiful." — **evaluative** or preference-laden.
-• "Opinions are facts." — **false** / category mistake.
-• "Depends." — **non-answer**, not a factual statement.`,
-    intermediate: `In-depth (Intermediate) — objective vs subjective
+**Correct (index 0):** **“DNA stores genetic info.”**
 
-Steps
-1. Ask: could this be settled **without** personal taste?
-2. The **first** option states something **verifiable** (in the usual scientific sense).
-3. The **second** option uses **value** or **emotion** language, not the same logical status.
+**Not the fact:** **“DNA is beautiful.”** — **evaluation**. Meta-options unchanged.`,
+    intermediate: `**Objective vs subjective (second pass)**
 
-Takeaway
-Facts are **independently checkable**; opinions express **evaluation** or **preference**.`,
-    expert: `In-depth (Expert) — bio (cycle 2)
+Same **logic** as **1151**: **storage** = **fact** slot; **beauty** = **opinion** slot.
 
-Cycle 2: the **storage** claim is empirical biology; **beauty** is aesthetic and not a checkable property of DNA in this sense.`,
+**Different example:** “Ribosomes synthesize proteins” vs “Ribosomes feel busy”—first = **fact-style** contrast.
+
+**Takeaway:** Repeating the bank **sharpens** the **checkability** test, not new chemistry.`,
+    expert: `**Bio — cycle 2**
+
+**Not to be confused with:** Identical **roles** to **1151**; only the **question ID** rotates for practice.`,
   },
 
   1157: {
-    beginner: `In-depth (Beginner) — fact vs opinion (Space / Jupiter, cycle 2)
+    beginner: `**Fact vs opinion — Jupiter (cycle 2)**
 
-Correct (index **0**)
-**"Jupiter is the largest planet."** — checkable **descriptive** claim.
+**Correct (index 0):** **“Jupiter is the largest planet.”**
 
-Not the fact here
-• "Jupiter is scary." — **evaluative** or preference-laden.
-• "Opinions are facts." — **false** / category mistake.
-• "Depends." — **non-answer**, not a factual statement.`,
-    intermediate: `In-depth (Intermediate) — objective vs subjective
+Same **Jupiter / scary** pair as **1152**—**size** = **fact**, **scary** = **opinion**.`,
+    intermediate: `**Second pass**
 
-Steps
-1. Ask: could this be settled **without** personal taste?
-2. The **first** option states something **verifiable** (in the usual scientific sense).
-3. The **second** option uses **value** or **emotion** language, not the same logical status.
+**Index 0** = comparative **size** (astronomy). **Index 1** = **fear** word.
 
-Takeaway
-Facts are **independently checkable**; opinions express **evaluation** or **preference**.`,
-    expert: `In-depth (Expert) — space (cycle 2)
+**Different example:** “Mercury is the smallest planet” vs “Mercury gives bad vibes”—same **fact vs mood** split.
 
-Cycle 2: **size ranking among planets** is an astronomical fact claim (Level 0 gloss); **scary** is emotional.`,
+**Takeaway:** **Observation-shaped** vs **reaction-shaped** wording.`,
+    expert: `**Space — cycle 2**
+
+**Not to be confused with:** Same map as **1152**; **largest** is still the **factual** choice.`,
   },
 
   1158: {
-    beginner: `In-depth (Beginner) — fact vs opinion (Chem / gold, cycle 2)
+    beginner: `**Fact vs opinion — gold (cycle 2)**
 
-Correct (index **0**)
-**"Gold does not rust."** — checkable **descriptive** claim.
+**Correct (index 0):** **“Gold does not rust.”**
 
-Not the fact here
-• "Gold is the best metal." — **evaluative** or preference-laden.
-• "Opinions are facts." — **false** / category mistake.
-• "Depends." — **non-answer**, not a factual statement.`,
-    intermediate: `In-depth (Intermediate) — objective vs subjective
+Pairing repeats **1153**: **corrosion** vs **best metal**.`,
+    intermediate: `**Second pass**
 
-Steps
-1. Ask: could this be settled **without** personal taste?
-2. The **first** option states something **verifiable** (in the usual scientific sense).
-3. The **second** option uses **value** or **emotion** language, not the same logical status.
+**Rust** behavior = **material** **fact**. **Best** = **preference** in **disguise**.
 
-Takeaway
-Facts are **independently checkable**; opinions express **evaluation** or **preference**.`,
-    expert: `In-depth (Expert) — chem (cycle 2)
+**Different example:** “Copper turns green as it corrodes” vs “Copper is the noblest metal”—first is **descriptive** here.
 
-Cycle 2: **corrosion behavior** is a chemistry fact claim; **best** is comparative preference.`,
+**Takeaway:** **Testable** property vs **ranking** by taste.`,
+    expert: `**Chem — cycle 2**
+
+**Not to be confused with:** Same contrast as **1153**; **does not rust** stays in the **fact** column.`,
   },
 
   1159: {
-    beginner: `In-depth (Beginner) — fact vs opinion (Math / dozen, cycle 2)
+    beginner: `**Fact vs opinion — dozen (cycle 2)**
 
-Correct (index **0**)
-**"A dozen is twelve units."** — checkable **definition** claim.
+**Correct (index 0):** **“A dozen is twelve units.”**
 
-Not the fact here
-• "Dozen is a lucky number." — **evaluative** or preference-laden.
-• "Opinions are facts." — **false** / category mistake.
-• "Depends." — **non-answer**, not a factual statement.`,
-    intermediate: `In-depth (Intermediate) — objective vs subjective
+Repeats **1154**: **definition** vs **lucky**.`,
+    intermediate: `**Second pass**
 
-Steps
-1. Ask: could this be settled **without** personal taste?
-2. The **first** option states something **verifiable** (by definition/convention here).
-3. The **second** option uses **value** or **emotion** language, not the same logical status.
+**Twelve** = **conventional** **meaning**. **Lucky** = **attitude** toward a **symbol**.
 
-Takeaway
-Facts are **independently checkable**; opinions express **evaluation** or **preference**.`,
-    expert: `In-depth (Expert) — math (cycle 2)
+**Different example:** “A gross is 144” vs “144 is spiritually complete”—first is **convention fact-style** here.
 
-Cycle 2: **definition** of dozen is stipulative/conventional and treated here as the **factual** option; **lucky** is superstitious evaluation.`,
+**Takeaway:** **Stipulation** vs **superstition** or **flair**.`,
+    expert: `**Math — cycle 2**
+
+**Not to be confused with:** Same as **1154**; **dozen = twelve** remains the **factual** option.`,
   },
 
   1160: {
-    beginner: `In-depth (Beginner) — fact vs opinion (Geo / Nile, cycle 2)
+    beginner: `**Fact vs opinion — Nile (cycle 2)**
 
-Correct (index **0**)
-**"The Nile is in Africa."** — checkable **descriptive** claim.
+**Correct (index 0):** **“The Nile is in Africa.”**
 
-Not the fact here
-• "The Nile is peaceful." — **evaluative** or preference-laden.
-• "Opinions are facts." — **false** / category mistake.
-• "Depends." — **non-answer**, not a factual statement.`,
-    intermediate: `In-depth (Intermediate) — objective vs subjective
+Repeats **1155**: **continent** vs **peaceful**.`,
+    intermediate: `**Second pass**
 
-Steps
-1. Ask: could this be settled **without** personal taste?
-2. The **first** option states something **verifiable** (in the usual scientific sense).
-3. The **second** option uses **value** or **emotion** language, not the same logical status.
+**Africa** = **where** on Earth. **Peaceful** = **how it strikes you**.
 
-Takeaway
-Facts are **independently checkable**; opinions express **evaluation** or **preference**.`,
-    expert: `In-depth (Expert) — geo (cycle 2)
+**Different example:** “The Pacific is ocean water” vs “The Pacific is calming”—**location/type** vs **mood**.
 
-Cycle 2: **continent location** is geographic; **peaceful** is a mood judgment about a river.`,
+**Takeaway:** **Atlas** facts vs **aesthetic** blurbs.`,
+    expert: `**Geo — cycle 2**
+
+**Not to be confused with:** Same as **1155**; **in Africa** is the **checkable** geographic line.`,
   },
 
   1161: {
@@ -9462,2225 +8920,1947 @@ Soundness closes the gap between "good form" and:
 /** French — même contenu pédagogique que LEVEL_0_STANDALONE_EN (parité) */
 export const LEVEL_0_STANDALONE_FR: Partial<Record<number, StandaloneInDepthLevels>> = {
   1001: {
-    beginner: `**Plastiques à usage unique**
+    beginner: `Plastiques à usage unique
 
-Il faut repérer une phrase qui donne à la fois une **orientation** (« nous devrions… ») et un **pourquoi** susceptible de convaincre — pas seulement un fait ou une humeur.
+1. Cherchez une option qui dit ce qu’il faut faire et pourquoi, de façon qu’on puisse en débattre — pas seulement un fait ou une humeur.
 
-Ici, dire que ces plastiques sont « partout » ou que le film « existe » peint le décor sans défendre d’action. Dire qu’on n’aime pas les sacs exprime un ressenti, pas une raison publique liée à un dommage. Seule la ligne qui interdit **parce que** les océans sont encombrés relie une conséquence nuisible à une mesure : c’est bien le type d’énoncé « thèse + raison » que visent les consignes de ce niveau.`,
-    intermediate: `**Plastiques à usage unique**
+2. « Les plastiques sont partout » ou « l’emballage existe en magasin » décrit la situation ; ça ne défend aucune action.
 
-Même compétence, autre angle : un argument relie une **prémisse** à une **conclusion** qu’on peut débattre.
+3. Dire qu’on n’aime pas les sacs, c’est une réaction personnelle, pas une raison liée à un préjudice public.
 
-**Sur cette question**, la ligne d’interdiction le fait clairement : tort aux océans → raison d’interdire. Les autres s’arrêtent à la description (« partout », « existe ») ou au goût (« je n’aime pas ») sans lien avec un « il faut ».
+4. La phrase qui interdit les plastiques parce qu’ils encombrent les océans donne une conséquence comme appui à une politique. C’est ce qu’on compte comme argument ici : un « il faut » plus quelque chose offert en sa faveur.`,
+    intermediate: `Plastiques à usage unique
 
-**Autre exemple (hors carte) :** « Les déchets hospitaliers ont bondi ce trimestre, donc le service doit séparer les aiguilles avant la collecte. » On peut discuter du budget, mais la phrase reste un argument : problème + mesure. À côté, « Les déchets sont nombreux » reste une donnée tant qu’aucune conséquence pratique n’est défendue.
+1. Un argument relie une prémisse à une conclusion qu’on peut contester.
 
-**En résumé :** constats et préférences ne sont pas « faux » ; ils ne remplissent tout simplement pas le rôle d’**appui structuré** attendu ici.`,
-    expert: `**Plastiques à usage unique**
+2. Sur cette question, la ligne d’interdiction le fait : le tort fait aux océans soutient l’interdiction. Les autres s’arrêtent à la description ou au goût sans « il faut ».
 
-**À ne pas confondre :** un argument mobilise souvent des faits, mais une suite de faits n’est pas encore un argument. « Les plastiques à usage unique sont partout » peut **nourrir** un raisonnement une fois qu’on ajoute une norme (« …donc il faut les limiter ») ; seule, c’est plutôt un **constat** ou un **rapport**, pas encore un **argument normatif**.
+3. Exemple : « Les déchets hospitaliers ont bondi ce trimestre, donc le service doit séparer les aiguilles avant la collecte. » On peut discuter du remède, mais c’est encore problème plus réponse. « Les déchets sont nombreux » n’est que des données tant que personne ne dit ce qui devrait changer.
 
-**Structure (option attendue) :** conclusion = interdiction (ou politique forte) ; prémisse = tort identifiable (pollution océanique). « Parce que » signale que le préjudice est avancé comme **raison de** la mesure.
+La description et la préférence vont bien ; seules, ce n’est pas l’appui structuré que cette leçon nomme.`,
+    expert: `Plastiques à usage unique
 
-**Distracteurs :** l’ubiquité et l’existence ne contiennent pas de passage **normatif** ; la préférence ne lie pas l’attitude à un **principe ou un dommage public**. Seule la bonne option accomplit le geste « voici pourquoi il faudrait agir ainsi ».`,
+Les faits peuvent nourrir un argument, mais une liste de faits n’est pas automatiquement un argument. « Les plastiques sont partout » peut servir d’argument si quelqu’un ajoute ce qu’il faut faire ; seule, c’est en général du constat, pas un argument normatif.
+
+Dans la bonne option, la conclusion est une politique forte sur les plastiques à usage unique ; la prémisse est un tort (par ex. pollution des océans). « Parce que » indique que le tort est une raison pour la politique, pas un simple décor.
+
+Les distracteurs sautent l’étape des faits vers la politique (ubiquité, existence) ou n’offrent qu’un désagrément privé sans raison publique. La bonne option est celle qui donne vraiment des raisons pour une politique.`,
   },
 
   1002: {
-    beginner: `**Bus en retard et appli**
+    beginner: `Bus en retard et appli
 
-Pensez à un argument comme : **quelque chose ne va pas** + **ce qu’il faudrait changer** à cause de cela.
+1. Un argument ici, c’est quelque chose qui ne va pas et quelque chose qui devrait changer à cause de cela.
 
-Le retard du bus chaque matin est le problème ; proposer des **horaires en temps réel** dans l’appli est la solution défendue. Le « donc » fait le lien : mieux informer répond à l’imprévisibilité. Peindre les bus, aimer le trajet ou constater que l’appli existe ne relie pas le dysfonctionnement (retards) à un remède ciblé.`,
-    intermediate: `**Bus en retard et appli**
+2. Le bus en retard chaque matin est le problème ; des horaires en temps réel dans l’appli sont le correctif proposé. Le « donc » lie une meilleure information à des horaires peu fiables.
 
-**Sur cette carte**, une **panne de service** justifie un changement de **produit** (données en direct).
+3. Peindre les bus, aimer le trajet ou dire que l’appli existe ne relie pas les retards à un remède. Seule la ligne qui relie la panne à un changement concret compte.`,
+    intermediate: `Bus en retard et appli
 
-**Autre exemple :** « Les files d’attente aux urgences ont doublé, donc l’hôpital devrait ouvrir un second guichet d’accueil. » Même schéma : tension observée → mesure organisationnelle. « J’aime les hôpitaux » ne suffit pas.
+1. Cette carte associe une panne de service répétée à un changement concret (données en direct) : problème, puis intervention.
 
-**En résumé :** goûts et faits d’existence n’argumentent pas une fonctionnalité ; le lien **échec répété → intervention** si.`,
-    expert: `**Bus en retard et appli**
+2. Exemple : « Les files aux urgences ont doublé, donc l’hôpital devrait ouvrir un second guichet d’accueil. » Même forme ; on peut discuter du coût, mais c’est encore un argument. « La clinique a une appli d’enregistrement » reste anecdotique tant que personne ne dit ce qui doit changer à cause des temps d’attente.
 
-**À ne pas confondre :** décrire le problème (« le bus est toujours en retard ») peut **amorcer** un argument, mais ce n’est pas encore un argument complet sans **prescription**. L’option attendue donne les deux : retard comme prémisse, temps réel comme conclusion.
+Relier une série d’échecs à un changement ciblé est ce que la leçon demande ; l’existence ou le goût ne suffit pas.`,
+    expert: `Bus en retard et appli
 
-**Reconstruction :** prémisse = décalage récurrent par rapport à l’horaire affiché ; conclusion = l’appli doit exposer l’information en temps réel. Le **garant implicite** : sans données à jour, les voyageurs ne peuvent pas s’adapter.
+Dire « le bus est toujours en retard » peut amorcer un argument, mais il faut une prescription défendue. La bonne option donne les deux : le retard soutient l’offre d’informations en temps réel.
 
-**Distracteurs :** la peinture et l’**existence** de l’appli manquent de lien inférentiel avec la ponctualité ; le plaisir de rouler est **hors sujet** pour la conception de l’appli. On n’évalue pas la force du cas — seulement s’il s’agit d’un raisonnement **à raisons**.`,
+Prémisse : les horaires sont peu fiables en pratique. Conclusion : l’appli doit afficher des données en temps réel pour que les voyageurs ne restent pas bloqués sur des horaires périmés.
+
+Les distracteurs (peinture, appli qui existe, plaisir de rouler) ne se rattachent pas à la ponctualité. Le quiz demande seulement si la phrase est structurée comme un raisonnement à raisons, pas si la politique est la meilleure.`,
   },
 
   1003: {
-    beginner: `**Wi-Fi du campus**
+    beginner: `Wi-Fi du campus
 
-Cherchez la phrase où **le réseau déraille sur place** et où **l’établissement devrait agir** pour ça.
+1. Trouvez la ligne où quelque chose ne va pas sur ce réseau et où quelqu’un avec autorité devrait agir.
 
-Les coupures sont le défaut ; ajouter des points d’accès est le correctif défendu. « Je déteste perdre le Wi-Fi » exprime la frustration sans politique. « Le Wi-Fi existe » est vrai et vide. « Le sans-fil est mieux que le câblé » est une opinion générale — elle ne parle pas des **coupures ici**. Seule la ligne qui va de **instabilité** à **plus de matériel** répond à la consigne.`,
-    intermediate: `**Wi-Fi du campus**
+2. Les coupures sont le défaut ; ajouter des points d’accès est le correctif. « Je déteste perdre le Wi-Fi » exprime de l’émotion sans argument. « Le Wi-Fi existe » n’est pas un correctif. « Le sans-fil bat le câblé » ignore les coupures sur ce campus.
 
-**Cette question** attache un **défaut local** (coupures) à un **remède institutionnel** (points d’accès).
+3. Seule l’option qui va d’un mauvais service ici à plus de matériel correspond à la leçon.`,
+    intermediate: `Wi-Fi du campus
 
-**Autre exemple :** « Le vidéoprojecteur surchauffe en salle, donc le service audiovisuel doit changer la lampe avant les partiels. » Symptôme → responsable → action. « J’aime les cours » ne tient pas lieu d’argument de maintenance.
+1. Reliez un défaut local (coupures) à un remède institutionnel (plus de points d’accès).
 
-**En résumé :** préférences ou généralités ne ciblent pas le diagnostic ; la bonne option oui.`,
-    expert: `**Wi-Fi du campus**
+2. Exemple : « Le vidéoprojecteur surchauffe à chaque cours, donc le service audiovisuel doit changer la lampe avant les partiels. » Symptôme, puis action responsable. « Je déteste les diapos floues » n’est pas un argument de maintenance.
 
-**À ne pas confondre :** une **préférence de principe** pour le sans-fil ne vaut pas argument **sur ce Wi-Fi** tant qu’on ne nomme pas la **panne** (coupures). L’option attendue ancre la mesure dans un **dysfonctionnement observé**.
+Les slogans techniques généraux ne parlent pas du problème réel ; la bonne option oui.`,
+    expert: `Wi-Fi du campus
 
-**Structure :** prémisse = qualité de service insuffisante (coupures) ; conclusion = l’université devrait augmenter la couverture/capacité (points d’accès). Les distracteurs offrent **affect**, **existence** ou **comparaison abstraite** sans lien **prémisse–conclusion**.
+Préférer le sans-fil en général n’est pas un argument sur ce campus tant qu’on ne cite pas la vraie panne (ici : coupures). La bonne option ancre le correctif dans des coupures observées.
 
-**Note :** en réalité, la cause peut être ailleurs (fibre, configuration) ; le QCM demande seulement quel énoncé **est** un argument, pas si les AP suffisent.`,
+Prémisse : le service est instable. Conclusion : l’université devrait ajouter de la capacité (par ex. plus de points d’accès). Les distracteurs offrent de l’affect, l’existence ou une comparaison abstraite sans ce lien.
+
+En réalité la cause peut être ailleurs (fibre, configuration) ; la question demande seulement quelle ligne est un argument, pas la meilleure réponse d’ingénieur.`,
   },
 
   1004: {
-    beginner: `**Distributeurs**
+    beginner: `Distributeurs
 
-Les machines **vides** sont le signal ; **réapprovisionner deux fois par jour** est la règle défendue. Le manque justifie la fréquence.
+1. Les rayons vides signalent un problème ; réapprovisionner deux fois par jour est ce que la phrase défend comme réponse.
 
-Préférer les snacks, comparer snacks et salades ou dire que les distributeurs « existent » n’explique pas **pourquoi** changer le rythme de réassort. Seule la phrase qui part du **constat de rupture** pour finir sur **à quelle cadence réagir** convient.`,
-    intermediate: `**Distributeurs**
+2. Préférer les snacks, les classer par rapport aux salades ou dire que les distributeurs existent n’explique pas pourquoi la fréquence de réassort devrait changer.
 
-**Ici**, un **manque récurrent** soutient une **règle opérationnelle** (cadence de réassort).
+3. Choisissez la ligne qui part d’une rupture de stock et finit sur la fréquence de réassort.`,
+    intermediate: `Distributeurs
 
-**Autre exemple :** « Le bac à toner est vide chaque lundi, donc la logistique doit livrer le vendredi. » Même logique : rupture → planning. « J’adore imprimer » ne parle pas de toner.
+1. Des ruptures récurrentes soutiennent une règle sur la fréquence de réassort.
 
-**En résumé :** goût et existence ne « pilotent » pas la logistique ; le lien **rupture → fréquence** si.`,
-    expert: `**Distributeurs**
+2. Exemple : « Le bac à toner est vide chaque lundi, donc la logistique doit livrer le vendredi après-midi. » État vide qui se répète, puis changement de planning. « J’adore imprimer en couleur » ne fait pas la logistique.
 
-**À ne pas confondre :** préférence alimentaire ou constat d’**existence** ne constitue pas encore une **politique de réassort**. L’option attendue est du **raisonnement d’exploitation** : signal de rupture → ajuster la cadence.
+Le goût ou « les machines existent » ne remplace pas le lien entre pénurie et correctif de processus.`,
+    expert: `Distributeurs
 
-**Reconstruction :** prémisse = machines vides (demande non couverte ou service insuffisant) ; conclusion = réassort deux fois par jour. Les autres options manquent la relation de **soutien** exigée par la question.`,
+Aimer certains snacks ou noter que des distributeurs existent ne constitue pas à lui seul une politique de stock. La bonne ligne est opérationnelle : une série de vide soutient une règle de réassort.
+
+Prémisse : les machines sont vides. Conclusion : réassortir plus souvent (par ex. deux fois par jour). Les autres options sautent le lien entre les conditions sur le campus et un planning prescriptif.`,
   },
 
   1005: {
-    beginner: `**Bibliothèque pendant les examens**
+    beginner: `Bibliothèque pendant les examens
 
-La bonne phrase relie **l’affluence des examens** à des **horaires prolongés** jusqu’à minuit. La foule pendant la session est la raison ; ouvrir plus tard est la mesure.
+1. La ligne solide relie l’affluence pendant les examens à des horaires plus longs : des rayons pleins pendant les examens soutiennent une fermeture repoussée à minuit.
 
-Aimer les bibliothèques, vanter les livres ou trouver minuit « cool » ne donne pas une raison **liée aux examens** pour étendre les heures.`,
-    intermediate: `**Bibliothèque pendant les examens**
+2. Aimer les bibliothèques, vanter les livres ou aimer minuit en général ne donne pas une raison propre aux examens pour prolonger les heures.
 
-**Sur cette carte**, une **pointe de fréquentation** justifie un **élargissement temporel** du service.
+3. Choisissez l’option qui va de la pression pendant les examens à l’extension du service.`,
+    intermediate: `Bibliothèque pendant les examens
 
-**Autre exemple :** « L’alerte tempête est levée, donc le gymnase doit rester ouvert comme dortoir improvisé. » Besoin exceptionnel → fenêtre de service. « J’aime le sport » ne remplace pas l’argument de capacité.
+1. Une pointe de demande sur une période définie soutient un accès plus long temporairement.
 
-**En résumé :** émotion ou généralités ne remplacent pas le lien **pression pendant les examens → horaires**.`,
-    expert: `**Bibliothèque pendant les examens**
+2. Exemple : « Les alertes météo sont levées, donc le gymnase reste ouvert au-delà de l’heure habituelle. » Même schéma. « J’aime les centres communautaires » n’est pas un argument de capacité.
 
-**À ne pas confondre :** **attachement affectif** aux bibliothèques ou compliments sur les livres ne constituent pas un argument de **saturation des places** pendant les examens. L’option attendue suit un schéma **pic de charge** : période définie → ajuster les heures.
+Les sentiments chaleureux ne remplacent pas une surcharge observée comme raison de changer les heures.`,
+    expert: `Bibliothèque pendant les examens
 
-**Structure :** prémisse = affluence forte pendant la session d’examens ; conclusion = prolonger la fermeture (minuit). Les distracteurs omettent la **fenêtre des examens** ou toute **décision** d’horaires.`,
+L’attachement aux bibliothèques ou aux livres n’est pas le même qu’un argument sur la capacité d’accueil. La bonne option utilise un pic de charge : pression inhabituelle pendant les examens, puis horaires plus longs.
+
+Prémisse : fréquentation très forte pendant les examens. Conclusion : repousser la fermeture (par ex. à minuit). Les distracteurs manquent soit de la fenêtre « examens », soit d’une décision claire sur les horaires.`,
   },
 
   1006: {
-    beginner: `**Pistes cyclables aux intersections**
+    beginner: `Pistes cyclables aux intersections
 
-Il faut nommer un **danger** (la piste s’arrête, les cyclistes se retrouvent dans la circulation) et ce que **la ville devrait faire** (terminer la piste).
+1. L’argument nomme un danger (la piste disparaît et les cyclistes fusionnent avec la circulation) et un correctif au niveau de la ville (achever la piste dans l’intersection).
 
-Aimer le vélo, parler de peinture ou dire que les intersections « existent » ne dit pas **pourquoi** l’aménagement devrait changer. Seule la ligne qui relie **rupture de continuité** à **achèvement de l’infrastructure** répond à la consigne.`,
-    intermediate: `**Pistes cyclables aux intersections**
+2. Le vélo pour le plaisir, la peinture au sol ou « les intersections existent » n’explique pas pourquoi l’aménagement devrait changer.
 
-**Ici**, un **trou dans l’aménagement** sert de prémisse ; **compléter la piste** est la conclusion.
+3. Choisissez la ligne qui relie une continuité rompue à l’achèvement de l’infrastructure.`,
+    intermediate: `Pistes cyclables aux intersections
 
-**Autre exemple :** « Le trottoir s’arrête au fossé, donc les piétons marchent sur la route — le conseil doit ajouter un passage sécurisé. » Autre mode, même forme : risque → responsabilité publique. « J’aime marcher » ne suffit pas.
+1. Une interruption d’aménagement (fin de piste) est la prémisse ; achever l’équipement est la conclusion.
 
-**En résumé :** enthousiasme ou faits vagues ne font pas l’argument **sécurité + travaux** ; l’option attendue oui.`,
-    expert: `**Pistes cyclables aux intersections**
+2. Exemple : « Le trottoir s’arrête au fossé, donc le conseil doit ajouter un passage sécurisé. » Même idée de réduction du risque. « J’aime marcher » ne fait pas un dossier de travaux.
 
-**À ne pas confondre :** le **plaisir** de rouler ou le fait que des bandes soient **peintes** ne constitue pas un argument sur **le conflit à l’intersection**. L’option attendue est un raisonnement **sécurité / aménagement** : discontinuité prévisible → devoir de corriger.
+L’enthousiasme ou des faits vagues sur la peinture ne font pas un argument sécurité tant que risque et remède n’apparaissent pas.`,
+    expert: `Pistes cyclables aux intersections
 
-**Reconstruction :** prémisse = la piste cesse à l’intersection et crée un conflit avec le trafic motorisé ; conclusion = la ville doit assurer la continuité de la piste. Les débats d’ingénierie (piste protégée, carrefour néerlandais, etc.) dépassent la tâche « quel énoncé est un argument ».`,
+Aimer le vélo ou noter des bandes peintes n’établit pas le risque là où la piste s’arrête. La bonne ligne traite un conflit de fusion prévisible comme raison d’étendre ou de protéger la piste dans l’intersection.
+
+Prémisse : les cyclistes sont exposés là où la piste finit. Conclusion : la ville devrait achever l’équipement. Les débats d’ingénierie (carrefour protégé, etc.) ne sont pas ce que teste cette question d’identification.`,
   },
 
   1007: {
-    beginner: `**Lampadaires LED**
+    beginner: `Lampadaires LED
 
-La bonne phrase dit que les LED **consomment moins**, **donc** la ville devrait **rétrofitter** l’éclairage public. C’est une décision municipale appuyée sur un gain d’efficacité.
+1. La ligne solide dit que les LED consomment moins d’énergie, donc la ville devrait rétrofitter l’éclairage public : une décision municipale appuyée sur l’efficacité.
 
-Parler de poteaux, du goût pour la lumière ou du fait que « l’électricité existe » ne défend pas un **programme de remplacement**. Seule la chaîne **gain énergétique → action** convient.`,
-    intermediate: `**Lampadaires LED**
+2. Les poteaux hauts, le goût pour la luminosité ou « l’électricité existe » ne défendent pas un programme de remplacement.
 
-**Cet item** mobilise la **performance énergétique** pour justifier un **investissement** dans les luminaires.
+3. Choisissez l’option qui enchaîne moindre consommation à une action municipale.`,
+    intermediate: `Lampadaires LED
 
-**Autre exemple :** « Les nouvelles fenêtres réduisent les déperditions, donc le lycée devrait prioriser leur remplacement dans l’aile nord. » Même logique : bénéfice mesuré → politique. « J’aime la lumière du soir » ne tient pas lieu d’argument budgétaire.
+1. La performance énergétique soutient un investissement dans de nouveaux luminaires.
 
-**En résumé :** préférences ou existence ne remplacent pas **efficacité → rétrofit**.`,
-    expert: `**Lampadaires LED**
+2. Exemple : « L’isolation réduit les déperditions, donc le district devrait remplacer les fenêtres dans les bâtiments les plus anciens. » Gain mesuré, puis politique. « J’aime les pièces douillettes » ne fait pas un cas énergie.
 
-**À ne pas confondre :** aimer une **luminosité** ou rappeler qu’il y a de l’**électricité** ne constitue pas un cas **d’économie d’énergie** pour les marchés publics. L’option attendue lie **moindre consommation** à une **norme** de rétrofit.
+L’esthétique ou le fait que le courant existe ne remplace pas le raisonnement efficacité vers rétrofit.`,
+    expert: `Lampadaires LED
 
-**Schéma :** attribut technologique (LED plus efficaces) → raison d’engager un programme de remplacement. Pollution lumineuse ou retour sur investissement : hors du simple repérage d’argument.`,
+Préférer une lumière vive ou dire que l’électricité compte ne suffit pas pour justifier des achats au nom de l’efficacité. La bonne ligne lie une consommation moindre à un rétrofit prescriptif.
+
+L’attribut technologique (moins d’énergie) est offert comme raison pour des travaux publics. Pollution lumineuse ou retour sur investissement ne sont pas requis pour voir la phrase comme un argument.`,
   },
 
   1008: {
-    beginner: `**Gaspillage à la cafétéria**
+    beginner: `Gaspillage à la cafétéria
 
-La réponse attendue relie **des assiettes entières à la poubelle** à des **portions plus petites** à proposer. Le gaspillage motive la mesure ; changer la taille des portions est le levier défendu.
+1. La bonne réponse relie de la nourriture intacte jetée à des portions plus petites : le gaspillage est la preuve ; la taille des portions est le levier proposé.
 
-Préférer le dessert, dire que la cafétéria « existe » ou que le gaspillage est « triste » sans dire **quoi changer** ne construit pas cet enchaînement.`,
-    intermediate: `**Gaspillage à la cafétéria**
+2. Vouloir du dessert, être triste du gaspillage ou dire que la cafétéria existe ne dit pas quoi changer ni pourquoi.
 
-**Sur cette carte**, un **flux de déchets** justifie une **mesure de conception** (portions).
+3. La bonne ligne fait les deux.`,
+    intermediate: `Gaspillage à la cafétéria
 
-**Autre exemple :** « Chaque rangée laisse des bouteilles à moitié pleines, donc l’organisateur devrait proposer des fontaines au lieu de remplir les carafes à l’avance. » Problème → instrument. « Le plastique me déprime » sans mesure ne suffit pas.
+1. Un motif de gaspillage soutient de changer les portions ou la carte.
 
-**En résumé :** la seule indignation ne remplace pas **problème → levier concret** ; la bonne option oui.`,
-    expert: `**Gaspillage à la cafétéria**
+2. Exemple : « Chaque rangée laisse des bouteilles à moitié pleines, donc proposer des fontaines au lieu de remplir les carafes à l’avance. » Déchet observé, puis changement opérationnel. « Le gaspillage me déprime » ne suffit pas pour la logistique.
 
-**À ne pas confondre :** **désapprouver** le gaspillage n’est pas encore un argument qui **nomme un instrument** (taille des portions). L’option attendue avance **portions modulables** comme réponse à **nourriture intacte jetée**.
+L’indignation aide la motivation ; la leçon veut encore un problème lié à un levier concret (ici, la portion).`,
+    expert: `Gaspillage à la cafétéria
 
-**Distracteurs :** préférence, pathos sans remède, existence — aucun n’instancie le soutien **prémisse–conclusion** pour une **politique de portions**.`,
+Désapprouver le gaspillage n’est pas la même chose que de nommer un instrument. La bonne ligne relie de la nourriture non touchée à des portions adaptées comme réponse de conception.
+
+Les distracteurs s’arrêtent au goût, à l’émotion sans remède ou à l’existence ; aucun ne soutient une politique de portions comme la bonne option.`,
   },
 
   1009: {
-    beginner: `**Hybrides et qualité de l’air**
+    beginner: `Hybrides et qualité de l’air
 
-Il faut la phrase qui relie **moins d’émissions** à **un air local plus sain**. C’est une petite chaîne causale : ce qui sort du pot d’échappement affecte ce qu’on respire à proximité.
+1. Trouvez la ligne qui relie moins d’émissions à un air local plus sain : ce qui sort du pot affecte ce qu’on respire à proximité.
 
-« Très silencieux », préférence personnelle ou « la technologie existe » évitent le lien **pollution → air**. Seule l’option qui va des **émissions réduites** à **l’amélioration de la qualité de l’air** convient.`,
-    intermediate: `**Hybrides et qualité de l’air**
+2. Moteur silencieux, passion pour la conduite ou « la technologie existe » évitent le lien pollution vers air.
 
-**Cette consigne** demande un **mécanisme** (émissions) lié à un **effet ambiant** (air).
+3. Seule l’option qui va des émissions réduites à une meilleure qualité de l’air convient.`,
+    intermediate: `Hybrides et qualité de l’air
 
-**Autre exemple :** « Les filtres à la cheminée réduisent le soufre, donc les admissions aux urgences pour crises d’asthme devraient diminuer à proximité. » Autre secteur, même schéma : réduction à la source → air respirable. « J’aime les usines » ne fait pas la chimie.
+1. Il vous faut un mécanisme (émissions) et un effet (l’air que l’on respire).
 
-**En résumé :** bruit ou goût ne remplacent pas le pont **émissions–qualité de l’air**.`,
-    expert: `**Hybrides et qualité de l’air**
+2. Exemple : « Les filtres réduisent le soufre, donc les admissions pour asthme près de l’usine devraient baisser. » Réduction à la source, puis air respirable. « J’aime les usines » ne fait pas la chimie.
 
-**À ne pas confondre :** le **silence** du moteur ne vaut pas **réduction des polluants** ; l’option attendue parle d’**émissions** comme **cause** de la **qualité de l’air**.
+Le bruit ou le goût personnel ne remplace pas le pont émissions–air.`,
+    expert: `Hybrides et qualité de l’air
 
-**Structure :** prémisse = les hybrides émettent moins (classe de comparaison implicite) ; conclusion = l’air local s’améliore, *ceteris paribus*. Météo et parc automobile : au-delà de l’exercice.`,
+Un moteur silencieux n’est pas la même chose qu’une baisse de pollution. La bonne ligne utilise les émissions pour soutenir une meilleure qualité de l’air locale.
+
+Prémisse : les hybrides émettent moins (comparaison implicite). Conclusion : l’air local s’améliore, autres choses égales. Météo et parc automobile dépassent cet exercice d’identification.`,
   },
 
   1010: {
-    beginner: `**Télétravail et frais généraux**
+    beginner: `Télétravail et frais généraux
 
-La phrase à retenir dit qu’avec **moins de besoin de bureaux**, le **télétravail** devrait **faire baisser les frais généraux** (loyer, charges, coûts fixes proches). Moins de m² loués → moins de factures récurrentes.
+1. La bonne ligne dit qu’il faut moins de surface de bureaux, donc les frais généraux (loyer, charges, coûts fixes proches) devraient baisser : moins de bureaux loués, moins de factures récurrentes.
 
-La visio seule, le confort du canapé ou le fait que « les bureaux existent » ne construisent pas l’inférence **surface → dépenses fixes**.`,
-    intermediate: `**Télétravail et frais généraux**
+2. La visioconférence seule, le confort du télétravail ou « les bureaux existent » ne construisent pas le lien surface vers coût.
 
-**Ici**, la **demande d’espace** est la prémisse ; les **frais généraux** sont la conclusion.
+3. Choisissez l’option qui relie le travail distribué à une baisse des dépenses fixes.`,
+    intermediate: `Télétravail et frais généraux
 
-**Autre exemple :** « L’entrepôt est à moitié vide, donc l’entreprise devrait sous-louer et réduire les coûts d’installation. » Même logique « alléger l’actif ». « J’aime les arrière-plans Zoom » ne tient pas la comptabilité.
+1. Un besoin immobilier réduit soutient des frais généraux plus bas.
 
-**En résumé :** outils ou préférences ne remplacent pas **empreinte immobilière → coûts fixes**.`,
-    expert: `**Télétravail et frais généraux**
+2. Exemple : « L’entrepôt est à moitié vide, donc sous-louer et réduire les coûts d’installation. » Même logique d’allègement d’actif. « J’aime les arrière-plans Zoom » ne tient pas la comptabilité.
 
-**À ne pas confondre :** les **outils de collaboration** peuvent rendre le télétravail possible, mais ce ne sont pas en soi un argument **frais généraux** tant qu’on ne lie pas **m²** et **dépenses récurrentes**. L’option attendue explicite le **loyer / charges**.
+Les outils ou le confort ne remplacent pas le raisonnement empreinte immobilière vers frais généraux.`,
+    expert: `Télétravail et frais généraux
 
-**Reconstruction :** prémisse = le télétravail réduit le besoin de capacité bureaux ; conclusion = baisse des frais généraux, autres choses égales. Les distracteurs manquent le pont **immobilier commercial → coûts fixes**.`,
+Les outils de collaboration peuvent rendre le télétravail possible, mais un argument sur les frais généraux doit lier surface et coûts récurrents. La bonne ligne explicite loyer et charges.
+
+Prémisse : le télétravail réduit le besoin de capacité bureaux. Conclusion : les frais généraux baissent, autres choses égales. Les distracteurs sautent le pont immobilier vers coûts fixes.`,
   },
 
   1011: {
-    beginner: `**Agriculture biologique et santé des sols**
+    beginner: `Agriculture biologique et santé des sols
 
-La consigne demande une phrase qui relie **ce que l’agriculture bio évite ou fait** à **ce qui advient au sol dans la longue durée**. La bonne option le fait : éviter les pesticides de synthèse est présenté comme la raison pour laquelle le sol reste sain.
+1. La consigne demande une phrase qui relie ce que l’agriculture bio évite ou fait à ce qui advient au sol dans la longue durée. La bonne option présente l’évitement des pesticides de synthèse comme raison pour laquelle le sol reste sain.
 
-Belles pommes, préférence pour le lait ou le fait que « le sol existe sous plusieurs types » ne font jamais le lien **pratique agricole → effet sur le sol**.`,
-    intermediate: `**Agriculture biologique et santé des sols**
+2. Belles pommes, préférence pour le lait ou le fait que le sol existe sous plusieurs types ne font jamais le lien pratique agricole vers effet sur le sol.
 
-**Sur cet item**, le « donc » relie **méthode** (sans pesticides de synthèse) à **résultat** (santé du sol préservée).
+3. Seule la ligne pratique vers sol convient.`,
+    intermediate: `Agriculture biologique et santé des sols
 
-**Autre exemple :** « Les cultures de couverture retiennent l’humidité, donc cette exploitation devrait ensemencer du seigle avant le maïs. » Autre pratique → autre effet sur le sol — sans répéter la phrase du QCM. « J’aime me promener dans les champs » ne tient pas lieu de politique agricole.
+1. Le « donc » relie méthode (sans pesticides de synthèse) à résultat (santé du sol préservée).
 
-**En résumé :** apparence et goûts ne sont des arguments **sur le sol** que s’ils citent un **mécanisme**.`,
-    expert: `**Agriculture biologique et santé des sols**
+2. Exemple : « Les cultures de couverture retiennent l’humidité, donc cette exploitation devrait ensemencer du seigle avant le maïs. » Autre pratique vers autre effet sur le sol. « J’aime me promener dans les champs » ne tient pas lieu de politique agricole.
 
-**À ne pas confondre :** apprécier le **label bio** ou les **pommes** n’est pas un argument sur la **santé des sols** ; l’option attendue lie explicitement **pratique agronomique** et **état du sol**.
+L’apparence et les goûts ne sont des arguments sur le sol que s’ils citent un mécanisme lié au terrain.`,
+    expert: `Agriculture biologique et santé des sols
 
-**Structure :** M = évitement des pesticides de synthèse ; S = préservation de la santé du sol à long terme. On ne note pas la vérité agronomique — seulement si M soutient S.
+Apprécier le label bio ou les pommes n’est pas un argument sur la santé des sols. La bonne option lie pratique agronomique et état du sol.
 
-**Distracteurs :** esthétique, préférence alimentaire et géographie générale sans lien **pratique → effet sur le sol**.`,
+M = évitement des pesticides de synthèse ; S = préservation de la santé du sol à long terme. On ne note pas la vérité agronomique — seulement si M soutient S.
+
+Distracteurs : esthétique, préférence alimentaire et géographie générale sans lien pratique vers effet sur le sol.`,
   },
 
   1012: {
-    beginner: `**Scène : Linguistique (banque FR)**
+    beginner: `Scène : Linguistique (banque FR)
 
-En français, l’ID **1012** ne reprend **pas** le scénario anglais (transports) : suivez le texte **français** de la banque.
+1. En français, l’ID 1012 ne reprend pas le scénario anglais (transports) : suivez le texte français de la banque.
 
-La ligne attendue dit que la **pratique améliore l’aisance**, **donc** tu **devrais parler tous les jours** : mécanisme d’apprentissage → habitude recommandée.
+2. La ligne attendue dit que la pratique améliore l’aisance, donc tu devrais parler tous les jours : mécanisme d’apprentissage vers habitude recommandée.
 
-« Je préfère Linguistique », « Linguistique est définitivement mieux » et « Linguistique existe » ne donnent aucune **raison** pour une conduite de parole.`,
-    intermediate: `**Scène : Linguistique**
+3. « Je préfère Linguistique », « Linguistique est définitivement mieux » et « Linguistique existe » ne donnent aucune raison pour une conduite de parole.`,
+    intermediate: `Scène : Linguistique
 
-**Ici**, l’**effet de la pratique sur l’aisance** sert de prémisse ; la **fréquence de parole** est la conclusion prescriptive.
+1. L’effet de la pratique sur l’aisance sert de prémisse ; la fréquence de parole est la conclusion prescriptive.
 
-**Autre exemple (hors carte) :** « Répéter les gammes affine l’oreille, donc le musicien débutant devrait en jouer un peu chaque jour. » Autre domaine — **pas** la phrase « parler tous les jours » du QCM. « J’aime la musique » ne remplace pas l’argument.
+2. Exemple (hors carte) : « Répéter les gammes affine l’oreille, donc le musicien débutant devrait en jouer un peu chaque jour. » Autre domaine — pas la phrase « parler tous les jours » du QCM. « J’aime la musique » ne remplace pas l’argument.
 
-**En résumé :** le mot « Linguistique » sur la carte est du décor ; le travail logique est dans la phrase à **prémisse + donc + conduite**.`,
-    expert: `**Scène : Linguistique**
+Le mot « Linguistique » sur la carte est du décor ; le travail logique est dans la phrase à prémisse, donc, conduite.`,
+    expert: `Scène : Linguistique
 
-**À ne pas confondre :** **préférence** pour la matière ou **existence** du mot « Linguistique » ne constituent pas un argument **pédagogique** ; la bonne option enchaîne **pratique → aisance** et **prescription** (parler chaque jour).
+Préférence pour la matière ou existence du mot « Linguistique » ne constituent pas un argument pédagogique. La bonne option enchaîne pratique vers aisance et prescription (parler chaque jour).
 
-**Parité avec l’anglais :** même **profondeur** (argument avec support), **contenu** calqué sur la banque FR pour cet ID — ne pas importer le texte sur les transports.
+Même profondeur que l’anglais (argument avec support), contenu calqué sur la banque FR pour cet ID — ne pas importer le texte sur les transports.
 
-**Structure :** moyen (pratique régulière) présenté comme raison d’adopter une **habitude** ciblée.`,
+Structure : moyen (pratique régulière) présenté comme raison d’adopter une habitude ciblée.`,
   },
 
   1013: {
-    beginner: `**Scène : Technologie (banque FR)**
+    beginner: `Scène : Technologie (banque FR)
 
-L’ID **1013** en français n’est **pas** le panneau solaire de l’anglais : ici la bonne phrase est « **Le routeur est éteint, donc le Wi-Fi ne fonctionnera pas** » — **état du matériel** → **prédiction sur le service** sans fil.
+1. L’ID 1013 en français n’est pas le panneau solaire de l’anglais : la bonne phrase est « Le routeur est éteint, donc le Wi-Fi ne fonctionnera pas » — état du matériel vers prédiction sur le service sans fil.
 
-Préférence pour Technologie, jugement vide ou « Technologie existe » ne font pas le diagnostic **routeur → Wi-Fi**.`,
-    intermediate: `**Scène : Technologie**
+2. Préférence pour Technologie, jugement vide ou « Technologie existe » ne font pas le diagnostic routeur vers Wi-Fi.`,
+    intermediate: `Scène : Technologie
 
-**Sur cette carte**, un **état du routeur** (éteint) soutient l’idée que le **Wi-Fi** ne sera pas utilisable comme d’habitude.
+1. Un état du routeur (éteint) soutient l’idée que le Wi-Fi ne sera pas utilisable comme d’habitude.
 
-**Autre exemple (hors carte) :** « Le disjoncteur du tableau est tombé, donc les prises de cette pièce ne seront pas sous tension. » Même logique **coupure source → service absent** — sans répéter le routeur. « J’aime l’électricité » ne dépanne pas.
+2. Exemple (hors carte) : « Le disjoncteur du tableau est tombé, donc les prises de cette pièce ne seront pas sous tension. » Même logique coupure source vers service absent — sans répéter le routeur. « J’aime l’électricité » ne dépanne pas.
 
-**En résumé :** distracteurs FR sans chaîne **diagnostic matériel → conséquence réseau**.`,
-    expert: `**Scène : Technologie**
+Les distracteurs FR sans chaîne diagnostic matériel vers conséquence réseau.`,
+    expert: `Scène : Technologie
 
-**À ne pas confondre :** **goût** pour la matière ou **existence** du thème ne remplace pas un argument **technique** ; l’option attendue suppose un **arrière-plan** domestique usuel (routeur nécessaire au Wi-Fi local).
+Goût pour la matière ou existence du thème ne remplace pas un argument technique. La bonne option suppose un arrière-plan domestique usuel (routeur nécessaire au Wi-Fi local).
 
-**Limite :** d’autres pannes sont possibles dans la vie réelle ; l’exercice ne demande qu’une **structure** « P, donc Q » sur le service sans fil.
+D’autres pannes sont possibles dans la vie réelle ; l’exercice ne demande qu’une structure « P, donc Q » sur le service sans fil.
 
-**Parité :** ne pas aligner le texte sur l’item anglais **solaire** — respecter la banque FR pour 1013.`,
+Ne pas aligner le texte sur l’item anglais solaire — respecter la banque FR pour 1013.`,
   },
 
   1014: {
-    beginner: `**Scène : Histoire**
+    beginner: `Scène : Histoire
 
-Le mot « Histoire » habille la carte ; l’argument est : les **artéfacts sont fragiles**, **donc** il faut une **manipulation prudente** — un fait matériel offert comme raison d’une norme de soin.
+1. Le mot « Histoire » habille la carte ; l’argument est : les artéfacts sont fragiles, donc il faut une manipulation prudente — un fait matériel offert comme raison d’une norme de soin.
 
-Préférence, jugement sans critères ou « Histoire existe » ne donnent pas de **parce que** pour la manutention.`,
-    intermediate: `**Scène : Histoire**
+2. Préférence, jugement sans critères ou « Histoire existe » ne donnent pas de parce que pour la manutention.`,
+    intermediate: `Scène : Histoire
 
-**Ici**, la **vulnérabilité** des objets soutient une **consigne** de manipulation.
+1. La vulnérabilité des objets soutient une consigne de manipulation.
 
-**Autre exemple :** « Les négatifs sur verre gondent si l’air est trop sec, donc l’hygrométrie du réservoir doit rester stable. » Autre risque muséal — **sans** répéter « artéfacts fragiles » du QCM. « J’adore les archives » ne suffit pas.
+2. Exemple : « Les négatifs sur verre gondent si l’air est trop sec, donc l’hygrométrie du réservoir doit rester stable. » Autre risque muséal — sans répéter « artéfacts fragiles » du QCM. « J’adore les archives » ne suffit pas.
 
-**En résumé :** décor scénique ≠ travail sur la **prémisse → prescription**.`,
-    expert: `**Scène : Histoire**
+Décor scénique n’est pas le travail sur prémisse vers prescription.`,
+    expert: `Scène : Histoire
 
-**À ne pas confondre :** **préférence** pour la matière ou **existence** d’« Histoire » ne défend pas un **protocole** ; la bonne option utilise la **fragilité** comme garant d’une **norme de soin**.
+Préférence pour la matière ou existence d’« Histoire » ne défend pas un protocole ; la bonne option utilise la fragilité comme garant d’une norme de soin.
 
-**Esquisse :** F = fragilité ; H = manipulation prudente requise. Les distracteurs manquent de **soutien** explicite.`,
+F = fragilité ; H = manipulation prudente requise. Les distracteurs manquent de soutien explicite.`,
   },
 
   1015: {
-    beginner: `**Scène : Art**
+    beginner: `Scène : Art
 
-La phrase retenue donne un **fait sur les couleurs**, puis une **consigne de mélange** : rouge et bleu font du violet, **donc** mélangez pour obtenir cette teinte.
+1. La phrase retenue donne un fait sur les couleurs, puis une consigne de mélange : rouge et bleu font du violet, donc mélangez pour obtenir cette teinte.
 
-Préférer Art, dire qu’Art est « mieux » sans preuve ou qu’« Art existe » ne structure pas **raison → action** comme la ligne sur les pigments.`,
-    intermediate: `**Scène : Art**
+2. Préférer Art, dire qu’Art est « mieux » sans preuve ou qu’« Art existe » ne structure pas raison vers action comme la ligne sur les pigments.`,
+    intermediate: `Scène : Art
 
-**Sur cet item**, une **règle de palette** soutient une **procédure**.
+1. Une règle de palette soutient une procédure.
 
-**Autre exemple :** « Deux volumes de résine pour un durcisseur, donc doser ainsi avant coulée. » Atelier, pas peinture murale — **pas** le rouge/bleu du QCM. « J’adore le bricolage » n’est pas l’argument.
+2. Exemple : « Deux volumes de résine pour un durcisseur, donc doser ainsi avant coulée. » Atelier, pas peinture murale — pas le rouge/bleu du QCM. « J’adore le bricolage » n’est pas l’argument.
 
-**En résumé :** un conseil d’atelier peut être un **vrai** argument si une clause soutient l’autre.`,
-    expert: `**Scène : Art**
+Un conseil d’atelier peut être un vrai argument si une clause soutient l’autre.`,
+    expert: `Scène : Art
 
-**À ne pas confondre :** **goût** pour la matière ou **existence** d’« Art » ne font pas de travail inférentiel ; la bonne option est un lien **moyen–fin** (fait de mélange → consigne).
+Goût pour la matière ou existence d’« Art » ne font pas de travail inférentiel ; la bonne option est un lien moyen–fin (fait de mélange vers consigne).
 
-**Frontière :** nuances violet/mauve — hors périmètre ; seule la **structure** compte.`,
+Nuances violet/mauve — hors périmètre ; seule la structure compte.`,
   },
 
   1016: {
-    beginner: `**Scène : Circulation**
+    beginner: `Scène : Circulation
 
-L’argument est **réglementaire** : le feu est **rouge**, **donc** les conducteurs **doivent s’arrêter** — l’état du signal est la raison de l’obligation.
+1. L’argument est réglementaire : le feu est rouge, donc les conducteurs doivent s’arrêter — l’état du signal est la raison de l’obligation.
 
-Préférence, « Circulation est mieux » ou « Circulation existe » ne vont pas du **fait sur le feu** au **devoir d’arrêt**.`,
-    intermediate: `**Scène : Circulation**
+2. Préférence, « Circulation est mieux » ou « Circulation existe » ne vont pas du fait sur le feu au devoir d’arrêt.`,
+    intermediate: `Scène : Circulation
 
-**Cet item** relie **est** (feu rouge) à **devoir** (s’arrêter), sur fond de **code de la route** partagé.
+1. Cet item relie est (feu rouge) à devoir (s’arrêter), sur fond de code de la route partagé.
 
-**Autre exemple :** « Les feux de piste sont rouges sur ce secteur, donc l’avion doit s’arrêter avant la ligne d’attente. » Aviation, pas auto — **sans** recopier la phrase du feu routier. « J’aime les aéroports » ne remplace pas la sécurité.
+2. Exemple : « Les feux de piste sont rouges sur ce secteur, donc l’avion doit s’arrêter avant la ligne d’attente. » Aviation, pas auto — sans recopier la phrase du feu routier. « J’aime les aéroports » ne remplace pas la sécurité.
 
-**En résumé :** les normes de circulation sont pleines d’arguments **signal + règle**.`,
-    expert: `**Scène : Circulation**
+Les normes de circulation sont pleines d’arguments signal plus règle.`,
+    expert: `Scène : Circulation
 
-**À ne pas confondre :** **aimer** le thème « Circulation » ne crée pas d’**obligation** d’arrêt ; la bonne phrase cite l’**état du feu** comme raison du **comportement exigé**.
+Aimer le thème « Circulation » ne crée pas d’obligation d’arrêt ; la bonne phrase cite l’état du feu comme raison du comportement exigé.
 
-**Distracteurs :** aucun lien **prémisse (feu) → conclusion (arrêt)**.`,
+Distracteurs : aucun lien prémisse (feu) vers conclusion (arrêt).`,
   },
 
   1017: {
-    beginner: `**Scène : Biologie**
+    beginner: `Scène : Biologie
 
-La bonne phrase dit que le **manque de sommeil nuit à la concentration**, **donc** les **étudiants doivent se reposer** — préjudice cognitif → conduite recommandée.
+1. La bonne phrase dit que le manque de sommeil nuit à la concentration, donc les étudiants doivent se reposer — préjudice cognitif vers conduite recommandée.
 
-Préférence pour la matière, « Biologie est mieux » ou « Biologie existe » ne construisent pas ce lien.`,
-    intermediate: `**Scène : Biologie**
+2. Préférence pour la matière, « Biologie est mieux » ou « Biologie existe » ne construisent pas ce lien.`,
+    intermediate: `Scène : Biologie
 
-**Ici**, une **dette de sommeil** sert de prémisse ; le **repos** est la prescription.
+1. Une dette de sommeil sert de prémisse ; le repos est la prescription.
 
-**Autre exemple :** « La déshydratation ralentit les réflexes, donc les équipes sur de longues gardes doivent alterner les pauses hydratation. » Santé au travail, pas la salle de classe — **sans** répéter sommeil/concentration du QCM. « J’adore le cours » ne suffit pas.
+2. Exemple : « La déshydratation ralentit les réflexes, donc les équipes sur de longues gardes doivent alterner les pauses hydratation. » Santé au travail, pas la salle de classe — sans répéter sommeil/concentration du QCM. « J’adore le cours » ne suffit pas.
 
-**En résumé :** arguments **prudentiels** : risque ou tort → habitude recommandée.`,
-    expert: `**Scène : Biologie**
+Arguments prudentiels : risque ou tort vers habitude recommandée.`,
+    expert: `Scène : Biologie
 
-**À ne pas confondre :** le **plaisir** pour la matière n’est pas un argument **performance / santé** ; l’option attendue relie **manque de sommeil → concentration** et **repos**.
+Le plaisir pour la matière n’est pas un argument performance ou santé ; l’option attendue relie manque de sommeil vers concentration et repos.
 
-**Cadrage :** inférence prudente *ceteris paribus* — pas de méta-analyse exigée.`,
+Cadrage : inférence prudente, autres choses égales — pas de méta-analyse exigée.`,
   },
 
   1018: {
-    beginner: `**Scène : Économie**
+    beginner: `Scène : Économie
 
-« L’offre est faible, **donc** les prix augmenteront » est une mini-histoire **rareté → pression sur les prix** : la prémisse nomme une condition économique ; la conclusion est une prévision directionnelle.
+1. « L’offre est faible, donc les prix augmenteront » est une mini-histoire rareté vers pression sur les prix : la prémisse nomme une condition économique ; la conclusion est une prévision directionnelle.
 
-Aimer Économie ou dire qu’« Économie existe » n’argumente pas le **marché** ; « Économie est mieux » n’ajoute aucun mécanisme.`,
-    intermediate: `**Scène : Économie**
+2. Aimer Économie ou dire qu’« Économie existe » n’argumente pas le marché ; « Économie est mieux » n’ajoute aucun mécanisme.`,
+    intermediate: `Scène : Économie
 
-**Sur cette carte**, une **offre serrée** soutient d’**anticiper des prix plus hauts** (la demande reste en arrière-plan).
+1. Une offre serrée soutient d’anticiper des prix plus hauts (la demande reste en arrière-plan).
 
-**Autre exemple :** « Plus de places en entrepôt ce mois-ci, donc les tarifs spot d’expédition devraient flamber. » Logistique — **sans** recopier « offre faible » à l’identique. « J’aime les camions » n’est pas de la microéconomie.
+2. Exemple : « Plus de places en entrepôt ce mois-ci, donc les tarifs spot d’expédition devraient flamber. » Logistique — sans recopier « offre faible » à l’identique. « J’aime les camions » n’est pas de la microéconomie.
 
-**En résumé :** on ne juge pas si la prévision se réalise toujours — seulement si la phrase **donne une raison** pour le prix.`,
-    expert: `**Scène : Économie**
+On ne juge pas si la prévision se réalise toujours — seulement si la phrase donne une raison pour le prix.`,
+    expert: `Scène : Économie
 
-**À ne pas confondre :** **préférence** pour le cours vs **mécanisme économique** ; seule la bonne option relie **rareté côté offre** à **pression haussière sur le prix**.
+Préférence pour le cours n’est pas un mécanisme économique ; seule la bonne option relie rareté côté offre à pression haussière sur le prix.
 
-**Limite :** élasticité, anticipations, politique publique — hors exercice de repérage d’argument.`,
+Élasticité, anticipations, politique publique — hors exercice de repérage d’argument.`,
   },
 
   1019: {
-    beginner: `**Scène : Zoologie**
+    beginner: `Scène : Zoologie
 
-« Les chiens sont sociaux, **donc** ils ont besoin de compagnie » part d’un **trait d’espèce** pour conclure à un **besoin de soins** (ne pas les isoler sans raison).
+1. « Les chiens sont sociaux, donc ils ont besoin de compagnie » part d’un trait d’espèce pour conclure à un besoin de soins (ne pas les isoler sans raison).
 
-Préférer Zoologie ou affirmer qu’« Zoologie existe » n’argumente pas le **bien-être animal** ; « Zoologie est mieux » est un slogan vide.`,
-    intermediate: `**Scène : Zoologie**
+2. Préférer Zoologie ou affirmer qu’« Zoologie existe » n’argumente pas le bien-être animal ; « Zoologie est mieux » est un slogan vide.`,
+    intermediate: `Scène : Zoologie
 
-**Ici**, l’**éthologie** (sociabilité) soutient une **implication pour les soins**.
+1. L’éthologie (sociabilité) soutient une implication pour les soins.
 
-**Autre exemple :** « Les perroquets s’attachent fortement aux soigneurs, donc un oiseau seul a besoin d’interaction quotidienne. » Autre espèce — **pas** les chiens du QCM. « J’aime les perroquets » n’est pas l’argument de bien-être.
+2. Exemple : « Les perroquets s’attachent fortement aux soigneurs, donc un oiseau seul a besoin d’interaction quotidienne. » Autre espèce — pas les chiens du QCM. « J’aime les perroquets » n’est pas l’argument de bien-être.
 
-**En résumé :** les « il faut » biologiques exigent quand même **prémisse → conclusion**.`,
-    expert: `**Scène : Zoologie**
+Les « il faut » biologiques exigent quand même prémisse vers conclusion.`,
+    expert: `Scène : Zoologie
 
-**À ne pas confondre :** **affection** pour le titre du cours ≠ raisonnement sur **soins adaptés à l’espèce** ; la bonne option va de la **nature sociale du chien** au **besoin de compagnie**.
+Affection pour le titre du cours n’est pas un raisonnement sur soins adaptés à l’espèce ; la bonne option va de la nature sociale du chien au besoin de compagnie.
 
-**Réserve :** le contexte réel (chiens de travail, errance…) est riche ; le QCM ne demande que la **forme** de l’argument.`,
+Le contexte réel (chiens de travail, errance…) est riche ; le QCM ne demande que la forme de l’argument.`,
   },
 
   1020: {
-    beginner: `**Scène : Musique**
+    beginner: `Scène : Musique
 
-« La guitare n’est pas accordée, **donc** elle sonnera mal » enchaîne **état de l’instrument** et **résultat sonore attendu** — diagnostic simple → prédiction.
+1. « La guitare n’est pas accordée, donc elle sonnera mal » enchaîne état de l’instrument et résultat sonore attendu — diagnostic simple vers prédiction.
 
-Préférer Musique ou dire qu’« Musique existe » ne relie pas **accord** et **qualité de son** ; « Musique est mieux » n’ajoute aucun mécanisme.`,
-    intermediate: `**Scène : Musique**
+2. Préférer Musique ou dire qu’« Musique existe » ne relie pas accord et qualité de son ; « Musique est mieux » n’ajoute aucun mécanisme.`,
+    intermediate: `Scène : Musique
 
-**Cette ligne** relie **réglage** (accord) à **qualité perçue** du son.
+1. Cette ligne relie réglage (accord) à qualité perçue du son.
 
-**Autre exemple :** « L’anche est fendue, donc la clarinette va grincer à l’attaque. » Autre instrument — **pas** la guitare du QCM. « J’aime les concerts » ne remplace pas l’analyse du matériel.
+2. Exemple : « L’anche est fendue, donc la clarinette va grincer à l’attaque. » Autre instrument — pas la guitare du QCM. « J’aime les concerts » ne remplace pas l’analyse du matériel.
 
-**En résumé :** l’artisanat et la scène regorgent de petits **arguments causaux**.`,
-    expert: `**Scène : Musique**
+L’artisanat et la scène regorgent de petits arguments causaux.`,
+    expert: `Scène : Musique
 
-**À ne pas confondre :** **plaisir** pour la matière n’est pas un argument **acoustique** ; la bonne option cite le **désaccordage** comme raison d’un jugement **négatif** sur le son.
+Plaisir pour la matière n’est pas un argument acoustique ; la bonne option cite le désaccordage comme raison d’un jugement négatif sur le son.
 
-**Reconstruction :** état de l’instrument → qualité sonore attendue. Distracteurs sans structure **prémisse–conclusion**.`,
+Reconstruction : état de l’instrument vers qualité sonore attendue. Distracteurs sans structure prémisse–conclusion.`,
   },
 
   1021: {
-    beginner: `Approfondi (Débutant) — concours de pâtisserie
+    beginner: `Concours de pâtisserie (FR)
 
-Repérer l’argument
-« Le four est trop chaud, donc le gâteau (génoise) va s’assécher. » — État du four → conséquence sur la pâte.
+1. La banque FR parle de génoise : le four est trop chaud, donc le gâteau va s’assécher — chaleur excessive comme raison d’un résultat de cuisson défavorable.
 
-Pas des arguments
-Mode des cupcakes, odeur de vanille, promo sur le beurre : pas de chaîne chaleur → assèchement.`,
-    intermediate: `Approfondi (Intermédiaire) — concours de pâtisserie
+2. Mode des cupcakes, vanille dans l’air ou promo sur le beurre ne relient pas l’état du four à ce qui arrive à la pâte.`,
+    intermediate: `Concours de pâtisserie
 
-Étapes
-1. Prémisse : surchauffe du four (pour la cuisson envisagée).
-2. Conclusion : la génoise risque de s’assécher.
-3. « Donc » lie diagnostic matériel à résultat de cuisson.
+1. Sur cette carte, surchauffe est la prémisse ; assèchement de la génoise est la conséquence attendue.
 
-Alignement
-Même logique que l’anglais « oven too hot → sponge dries out » ; ici « génoise » dans la banque FR.
+2. Exemple : « Le sirop a trop cuit, donc le caramel sera amer. » Sucre plutôt que four — sans répéter génoise/four. « J’adore le sucre » ne remplace pas la physique de la cuisson.
 
-Synthèse
-En cuisine, on trouve souvent « condition → effet » : c’est bien une structure argumentative.`,
-    expert: `Approfondi (Expert) — concours de pâtisserie
+Condition matérielle vers effet sur le produit — même squelette qu’en anglais, avec le vocabulaire FR du libellé.`,
+    expert: `Concours de pâtisserie
 
-Reconstruction
-Soit T = four trop chaud ; soit S = assèchement de la génoise. L’option attendue offre T comme raison de S. On ne juge pas la recette réelle, seulement le lien prémisses → conclusion.`,
+Tendance culinaire ou odeur ne prédisent pas la texture ; seule la bonne option lie température de cuisson à sécheresse de la génoise.
+
+T = four trop chaud pour cette cuisson ; S = génoise qui s’assèche. On ne juge pas le concours réel — seulement le soutien prémisse–conclusion.`,
   },
 
   1022: {
-    beginner: `Approfondi (Débutant) — manche de sprint
+    beginner: `Manche de sprint (FR)
 
-Argument, pas préférence
-« Tu t'es entraîné tout le mois, donc tu devrais battre ton temps de la manche précédente. » — Entraînement → attente de performance.
+1. « Tu t’es entraîné tout le mois, donc tu devrais battre ton temps de la manche précédente » — l’entraînement est offert comme raison d’attendre une meilleure performance qu’avant.
 
-Autres
-Coup de cœur pour le pistolet, forme des pistes, couleurs de pointes : pas la chaîne entraînement / chrono.`,
-    intermediate: `Approfondi (Intermédiaire) — manche de sprint
+2. Le pistolet de départ, la forme de la piste ou la couleur des pointes ne font pas le lien préparation vers chrono.`,
+    intermediate: `Manche de sprint
 
-Méthode
-1. Prémisse : entraînement soutenu sur un mois.
-2. Conclusion : tu devrais améliorer ton temps par rapport à la manche d’avant.
-3. Schéma prudential : préparation comme garant (imparfait) d’une meilleure performance relative.
+1. Ici un mois d’entraînement soutient une attente sur ton temps par rapport à la manche d’avant.
 
-Élimination
-Les distracteurs ne relient pas l’effort d’entraînement à une prédiction sur **ton** résultat.`,
-    expert: `Approfondi (Expert) — sprint
+2. Exemple : « Tu as nagé cinq fois par semaine, donc tu devrais tenir le crawl plus longtemps qu’au test d’avril. » Natation, pas athlétisme — sans répéter le sprint. « J’aime la piscine » n’est pas une prédiction.
 
-Note experte
-Prédiction de performance ; la vie réelle ajoute fatigue et hasard. L’exercice porte sur la **forme** « prémisse sur la préparation → attente sur le temps ».`,
+Prudence sportive : prémisse sur l’effort vers attente sur le résultat.`,
+    expert: `Manche de sprint
+
+Esthétique du matériel ou de la piste n’est pas une preuve sur ta forme ; l’option attendue utilise l’entraînement comme garant imparfait d’un meilleur temps.
+
+Fatigue et hasard existent ; le QCM ne demande que la forme argumentative.`,
   },
 
   1023: {
-    beginner: `Approfondi (Débutant) — randonnée / météo
+    beginner: `Randonnée / météo (FR)
 
-Phrase à retenir
-« Le baromètre chute vite, donc attendez-vous à de la pluie avant midi. » — Tendance barométrique → pluie dans une fenêtre horaire.
+1. « Le baromètre chute vite, donc attendez-vous à de la pluie avant midi » — signe (pression qui s’effondre) vers prévision dans une fenêtre horaire.
 
-Pas des arguments
-Préférence pour les nuages, applis météo, « la pluie est mouillée » sans inférence utile ici.`,
-    intermediate: `Approfondi (Intermédiaire) — randonnée
+2. Nuages aimés, applis météo ou « la pluie est mouillée » ne font pas le pont indicateur vers pluie dans ce créneau.`,
+    intermediate: `Randonnée / météo
 
-Étapes
-1. Prémisse : chute rapide du baromètre (souvent liée à l’approche d’un système).
-2. Conclusion : pluie probable avant midi.
-3. « Donc » marque une inférence empirique (heuristique populaire).
+1. Cet item enchaîne tendance barométrique et pluie avant midi.
 
-Synthèse
-Même structure que l’anglais ; la validité météo locale n’est pas notée.`,
-    expert: `Approfondi (Expert) — baromètre
+2. Exemple : « La jauge du fleuve a monté d’un mètre, donc le sentier bas sera inondé vers 15 h. » Crue plutôt que baromètre — pas le même signe que sur la carte. « J’aime l’eau » ne sauve pas la rando.
 
-Lecture
-Indicateur pression → prévision pluvie ; les distracteurs n’instancient pas ce lien causal heuristique.`,
+Heuristiques météo = arguments signe vers événement ; la justesse locale n’est pas notée.`,
+    expert: `Randonnée / météo
+
+Opinion sur le ciel ou vérités banales ne remplacent pas chute rapide de pression comme raison d’attendre la pluie avant midi.
+
+Structure : indicateur vers prévision pluvieuse bornée dans le temps.`,
   },
 
   1024: {
-    beginner: `Approfondi (Débutant) — voiture qui ne démarre pas
+    beginner: `Voiture qui ne démarre pas (FR)
 
-Diagnostic
-« La batterie affiche zéro volt, donc le démarreur ne tournera pas. » — Absence de tension utile → pas de cranking attendu.
+1. « La batterie affiche zéro volt, donc le démarreur ne tournera pas » — pas de tension utile, donc pas de cranking attendu dans le modèle simplifié.
 
-Autres
-Poids des boosters, quatre roues, attente de la dépanneuse : pas le lien batterie → démarreur.`,
-    intermediate: `Approfondi (Intermédiaire) — voiture
+2. Poids des boosters, quatre roues ou attente de la dépanneuse ne construisent pas batterie vers démarreur.`,
+    intermediate: `Voiture qui ne démarre pas
 
-Marche à suivre
-1. Prémisse : batterie à 0 V.
-2. Conclusion : le démarreur ne tournera pas (dans le modèle électrique simplifié).
-3. Raisonnement mécaniste analogue à l’anglais.
+1. Sur cette carte, 0 V est la prémisse ; démarreur immobile est la conclusion électrique (scénario pédagogique).
 
-Note
-Un garage vérifie aussi câbles et relais ; ici : structure argumentative seulement.`,
-    expert: `Approfondi (Expert) — batterie à plat
+2. Exemple : « Le disjoncteur a sauté, donc la pompe ne partira pas tant qu’on n’a pas réarmé. » Maison, pas auto — sans répéter batterie. « Je déteste le sous-sol » ne diagnostique rien.
 
-Reconstruction experte
-État de la source électrique comme soutien pour une prédiction sur le moteur de démarrage ; distracteurs sans pont technique pertinent.`,
+Raisonnement mécaniste : état de la source vers comportement de la charge.`,
+    expert: `Voiture qui ne démarre pas
+
+Poids d’accessoires ou nombre de roues ne disent rien sur la tension disponible pour le démarreur ; la bonne phrase lie potentiel nul à absence de rotation utile.
+
+Câbles, relais, etc. — hors exercice ; seule la structure d’appui compte.`,
   },
 
   1025: {
-    beginner: `Approfondi (Débutant) — bureau peu lumineux / plantes
+    beginner: `Bureau peu lumineux / plantes (FR)
 
-Soin des plantes
-« Ces feuilles sont étiolées, donc rapprochez le pot de la fenêtre. » — Symptôme de manque de lumière → remède de placement.
+1. « Ces feuilles sont étiolées, donc rapprochez le pot de la fenêtre » — symptôme de manque de lumière vers remède de placement.
 
-Distracteurs
-« Jamais besoin d’eau » (faux en général), terre brune, fenêtres en verre : pas l’argument étiolation → lumière.`,
-    intermediate: `Approfondi (Intermédiaire) — plantes de bureau
+2. « Jamais besoin d’eau » est une généralisation dangereuse ; terre brune et « fenêtres en verre » ne font pas étiolation vers lumière.`,
+    intermediate: `Plantes de bureau
 
-Étapes
-1. Constat : étiolation (allongement / pâlissement lié au faible éclairement).
-2. Action : rapprocher le pot de la fenêtre.
-3. « Donc » relie signe à intervention — comme en anglais.
+1. Ici étiolation est le diagnostic ; rapprocher du jour est l’intervention.
 
-Synthèse
-Pattern diagnostic → consigne de culture.`,
-    expert: `Approfondi (Expert) — étiolation
+2. Exemple : « Les semis sont filandreux sous ce seul néon, donc baissez les lampes ou remontez les plateaux. » Semis, pas ton pot de bureau — sans répéter étiolation mot pour mot. « J’adore le LED » ne remplace pas la photobiologie.
 
-Note
-Même schéma logique que la version anglaise ; pas d’exigence de précision horticole avancée.`,
+Signe végétal vers consigne de culture — comme en anglais, avec le libellé FR.`,
+    expert: `Plantes de bureau
+
+Slogans sur l’arrosage ou faits sans lien ne défendent pas manque de lumière vers placement ; l’option attendue oui.
+
+Pas d’examen de licence horticole — seulement prémisse–prescription.`,
   },
 
   1026: {
-    beginner: `Approfondi (Débutant) — salle de lecture
+    beginner: `Salle de lecture (FR)
 
-Règle argumentée
-« Le silence est nécessaire pour se concentrer, donc parlez bas aux tables. » — But (concentration) → conduite (volume de voix).
+1. « Le silence est nécessaire pour se concentrer, donc parlez bas aux tables » — fonction de l’espace (concentration) vers règle de volume.
 
-Autres
-Mode du chuchotement, rayonnages, tranches : pas concentration → discrétion.`,
-    intermediate: `Approfondi (Intermédiaire) — salle de lecture
+2. Mode du chuchotement, rayonnages ou tranches de livres ne fondent pas mission de la salle vers discrétion.`,
+    intermediate: `Salle de lecture
 
-Analyse
-1. Prémisse : le silence favorise la concentration dans ce lieu.
-2. Conclusion : parler bas aux tables.
-3. Argument **réglementaire** fondé sur la fonction de l’espace.
+1. Cet item relie finalité cognitive (se concentrer) à norme de comportement (parler bas).
 
-Parité
-Équivalent français de l’item anglais sur la politique de bruit en bibliothèque.`,
-    expert: `Approfondi (Expert) — silence
+2. Exemple : « Les blocs opératoires exigent l’asepsie, donc lavez-vous les mains au protocole avant d’entrer. » Hôpital, pas bibliothèque — sans répéter silence/concentration. « J’aime les blouses » n’est pas l’hygiène.
 
-Reconstruction
-Finalité cognitive → norme de comportement ; distracteurs sans ce lien mission → pratique.`,
+Mission vers conduite — équivalent pédagogique de l’anglais sur la politique de bruit.`,
+    expert: `Salle de lecture
+
+Mode ou mobilier ne justifient pas le volume ; la bonne phrase va de besoin de concentration à parler bas.
+
+Proche des feux tricolores — but ou règle sous cadre partagé vers devoir — ici en lieu d’étude.`,
   },
 
   1027: {
-    beginner: `Approfondi (Débutant) — ami sédentaire
+    beginner: `Ami sédentaire (FR)
 
-Marche quotidienne
-« Un mouvement régulier soutient la santé cardiovasculaire, donc planifiez une marche quotidienne. » — Bienfait → habitude.
+1. « Un mouvement régulier soutient la santé cardiovasculaire, donc planifiez une marche quotidienne » — bienfait attendu vers habitude concrète.
 
-Pas des arguments
-Ennui de la marche, baskets, béton : pas santé → marche planifiée.`,
-    intermediate: `Approfondi (Intermédiaire) — marche quotidienne
+2. Ennui de la marche, baskets ou béton ne font pas santé vers marche planifiée.`,
+    intermediate: `Marche quotidienne
 
-Procédure
-1. Prémisse générale : mouvement régulier et santé cardiovasculaire.
-2. Conclusion : instaurer une marche quotidienne (prescription prudente).
-3. « Donc » relie mécanisme/bénéfice attendu à conduite.
+1. Sur cette carte une prémisse sur le mouvement et le cœur soutient la prescription d’une marche chaque jour pour quelqu’un de sédentaire (selon l’énoncé).
 
-Synthèse
-Même profondeur que l’anglais « cardiovascular health → schedule daily walk ».`,
-    expert: `Approfondi (Expert) — promotion de la marche
+2. Exemple : « Les fibres aident le transit, donc ajoutez une portion de légume à midi. » Alimentation, pas cardio — sans répéter la marche. « Je déteste les légumes » ne soigne pas.
 
-Note experte
-On n’évalue pas méta-analyses ; seulement la présence d’un soutien présumé pour une recommandation comportementale.`,
+Promotion de santé : mécanisme ou bénéfice vers comportement.`,
+    expert: `Marche quotidienne
+
+Humeur ou existence d’équipement n’argumente pas bénéfice cardiovasculaire vers habitude de marche ; l’option attendue oui.
+
+Pas de méta-analyse ; seulement la forme soutien présumé vers recommandation.`,
   },
 
   1028: {
-    beginner: `Approfondi (Débutant) — interrogation d’algèbre
+    beginner: `Interrogation d’algèbre (FR)
 
-Argument mathématique
-« Si x vaut 5, alors x plus 2 doit valoir 7. » — Condition sur x → conséquence arithmétique.
+1. « Si x vaut 5, alors x plus 2 doit valoir 7 » — hypothèse sur x vers conséquence arithmétique en une micro-dérivation.
 
-Autres
-« Soit x un nombre », primalité de 7, lettres dans les équations : pas la chaîne conditionnelle demandée.`,
-    intermediate: `Approfondi (Intermédiaire) — algèbre
+2. « Soit x un nombre », la primalité de 7 ou « les équations ont des lettres » ne réalisent pas cette chaîne conditionnelle.`,
+    intermediate: `Algèbre
 
-Étapes
-1. Antécédent : x = 5.
-2. Conséquent : x + 2 = 7 (dans l’arithmétique usuelle).
-3. Structure de **dérivation** minimale, comme en anglais.
+1. Cette ligne est une dérivation minimale : x = 5 implique x + 2 = 7 en arithmétique usuelle.
 
-Synthèse
-Le raisonnement mathématique est argumentatif : hypothèses → conclusion.`,
-    expert: `Approfondi (Expert) — conditionnel arithmétique
+2. Exemple : « Si le polygone a six côtés égaux, alors chaque angle interne vaut 120° dans le cadre euclidien visé. » Géométrie — pas x + 2. « J’aime les hexagones » ne prouve rien.
 
-Lecture
-Si P alors Q, avec Q présenté comme nécessaire sous P ; les distracteurs ne réalisent pas ce schéma inférentiel.`,
+Les maths restent hypothèses vers conclusion même en une phrase.`,
+    expert: `Algèbre
+
+Poser x ou citer des faits isolés n’est pas montrer qu’une proposition force une autre ; la bonne option présente Q comme nécessaire sous P dans l’arithmétique prévue.
+
+Forme : conditionnel — soutien inférentiel en domaine formel.`,
   },
 
   1029: {
-    beginner: `Approfondi (Débutant) — marée montante
+    beginner: `Marée montante (FR)
 
-Eau qui monte
-« L'eau monte sur la plage, donc la zone sèche va rétrécir. » — Avancée de l’eau → moins de sable sec.
+1. « L’eau monte sur la plage, donc la zone sèche va rétrécir » — mouvement de l’eau vers moins d’espace sec utilisable.
 
-Autres
-Sable amusant, goélands, océan salé : pas marée → espace sec.`,
-    intermediate: `Approfondi (Intermédiaire) — plage / maîtres-nageurs
+2. Sable amusant, goélands ou océan salé ne font pas avancée de l’eau vers réduction du sec.`,
+    intermediate: `Marée montante
 
-Étapes
-1. Prémisse : l’eau gagne du terrain sur le sable.
-2. Conclusion : la zone restée sèche se réduit.
-3. Inférence géométrique simple — alignée sur l’anglais.
+1. Ici eau qui gagne du terrain est la prémisse ; rétrécissement du sec est la prédiction spatiale.
 
-Synthèse
-Contexte sécurité : observation → conséquence sur l’espace utilisable.`,
-    expert: `Approfondi (Expert) — marée
+2. Exemple : « Le barrage relâche plus d’eau, donc la plage en aval rétrécit cet après-midi. » Rivière — pas la ligne de marée du QCM. « J’aime les barrages » n’est pas la géométrie du risque.
 
-Note
-Même reconstruction experte que la version anglaise : avancée monotrope de l’eau et réduction du secteur sec, sans modèle côtier complet.`,
+Sécurité côtière : processus observé vers espace utilisable — aligné sur l’anglais.`,
+    expert: `Marée montante
+
+Ambiance de plage n’est pas un argument sur géométrie du rivage ; la bonne phrase relie montée d’eau à réduction de la zone sèche, autres choses égales.
+
+Modèles côtiers complets — hors item ; seulement prémisse vers prédiction.`,
   },
 
   1030: {
-    beginner: `Approfondi (Débutant) — planétarium
+    beginner: `Planétarium (FR)
 
-Vitesse de la lumière
-« La lumière a une vitesse finie, donc nous voyons les étoiles lointaines telles qu'elles étaient autrefois. » — Fait physique → conséquence observationnelle.
+1. « La lumière a une vitesse finie, donc nous voyons les étoiles lointaines telles qu’elles étaient autrefois » — finitude de c vers retard des images, donc passé des sources.
 
-Distracteurs
-Étoiles jolies, miroirs de télescopes, nuit après le jour : pas finitude de c → « pass » des sources.`,
-    intermediate: `Approfondi (Intermédiaire) — planétarium
+2. Étoiles jolies, miroirs de télescopes ou nuit après le jour ne font pas c fini vers regard vers le passé.`,
+    intermediate: `Planétarium
 
-Marche à suivre
-1. Prémisse : vitesse finie de la lumière.
-2. Conclusion : nous observons l’état passé des objets lointains (délai de propagation).
-3. Exemple canonique d’argument « mécanisme → phénomène » en vulgarisation astronomique.
+1. Cet item est le classique temps de regard : vitesse finie vers nous observons l’état passé des objets lointains.
 
-Parité
-Même profondeur que l’item anglais sur la lookback time.`,
-    expert: `Approfondi (Expert) — temps de regard
+2. Exemple : « Le son est lent dans l’air, donc tu entends le tonnerre après l’éclair. » Acoustique — pas la vitesse de la lumière cosmique. « J’aime les orages » n’est pas l’optique.
 
-Reconstruction
-Finitude de c comme soutien pour une thèse sur le **caractère historique** de nos images ; relativité et expansion hors périmètre Level 0 pour la correction de l’item.`,
+Mécanisme vers conséquence observationnelle — même profondeur que l’anglais.`,
+    expert: `Planétarium
+
+Esthétique ou optique instrumentale ne remplacent pas finitude de c comme raison de voir le passé des sources lointaines.
+
+Relativité, expansion — hors correction de base au niveau 0 ; seule la structure mécanisme vers thèse sur nos images historiques.`,
   },
 
   1031: {
-    beginner: `Approfondi (Débutant) — pomme en démo
+    beginner: `Démo pomme (balcon)
 
-Gravité
-« La Terre attire les masses vers son centre, donc la pomme accélère vers le bas. » — Principe physique → mouvement attendu.
+1. « La Terre attire les masses vers son centre, donc la pomme accélère vers le bas. » — principe physique vers mouvement attendu.
 
-Pas des arguments
-Couleurs de pommes, garde-corps, étymologie de Newton : pas la chaîne attraction → chute.`,
-    intermediate: `Approfondi (Intermédiaire) — chute libre (démo)
+2. Couleurs de pommes, garde-corps, étymologie de Newton : pas la chaîne attraction vers chute.`,
+    intermediate: `Démo pomme
 
-Étapes
 1. Prémisse : attraction terrestre vers le centre (gravité).
+
 2. Conclusion : la pomme accélère vers le bas une fois lâchée.
+
 3. « Donc » relie explication à prédiction cinématique.
 
-Synthèse
 Même logique que l’anglais ; vocabulaire adapté à la banque FR.`,
-    expert: `Approfondi (Expert) — gravitation (démo)
+    expert: `Démo pomme
 
-Note
-L’item porte sur la structure « mécanisme → comportement » ; pas de calcul d’intensité de champ requis.`,
+L’item porte sur la structure mécanisme vers comportement ; pas de calcul d’intensité de champ requis.`,
   },
 
   1032: {
-    beginner: `Approfondi (Débutant) — plan de pratique linguistique
+    beginner: `Plan de pratique linguistique
 
-Aisance et régularité
-« L'aisance suit une pratique réfléchie, donc parler un peu chaque jour vaut mieux qu'un bachotage mensuel. » — Lien pratique/aisance → choix d’emploi du temps.
+1. « L’aisance suit une pratique réfléchie, donc parler un peu chaque jour vaut mieux qu’un bachotage mensuel. » — lien pratique et aisance vers choix d’emploi du temps.
 
-Autres
-Accents intéressants, dictionnaires, grammaire en général : pas l’argument sur la répartition dans le temps.`,
-    intermediate: `Approfondi (Intermédiaire) — pratique espacée
+2. Accents, dictionnaires, grammaire en général : pas l’argument sur la répartition dans le temps.`,
+    intermediate: `Pratique espacée
 
-Analyse
-1. Prémisse : l’aisance dépend d’une pratique réfléchie (régularité + qualité).
+1. Prémisse : l’aisance dépend d’une pratique réfléchie (régularité et qualité).
+
 2. Conclusion : mieux vaut parler un peu chaque jour que de tout compresser en un mois.
+
 3. Comparaison de deux régimes d’entraînement appuyée sur la prémisse.
 
-Alignement
-Équivalent pédagogique de l’item anglais sur daily speaking vs cramming.`,
-    expert: `Approfondi (Expert) — pédagogie des langues
+Équivalent pédagogique de l’item anglais sur daily speaking versus cramming.`,
+    expert: `Pédagogie des langues
 
-Reconstruction
-Argument de type « science de l’apprentissage » simplifié : prémisse sur la courbe d’aisance → recommandation de calendrier.`,
+Argument de type science de l’apprentissage simplifié : prémisse sur la courbe d’aisance vers recommandation de calendrier.`,
   },
 
   1033: {
-    beginner: `Approfondi (Débutant) — Wi-Fi qui coupe
+    beginner: `Wi-Fi qui coupe
 
-Routeur hors ligne
-« Le routeur est hors ligne, donc cet ordinateur n'atteindra pas Internet. » — État du routeur → absence de connectivité attendue.
+1. « Le routeur est hors ligne, donc cet ordinateur n’atteindra pas Internet. » — état du routeur vers absence de connectivité attendue.
 
-Distracteurs
-Obligation de vidéo, couleur de câbles, voyants : pas diagnostic réseau.`,
-    intermediate: `Approfondi (Intermédiaire) — bureau / appel vidéo
+2. Obligation de vidéo, couleur de câbles, voyants : pas diagnostic réseau.`,
+    intermediate: `Bureau / appel vidéo
 
-Marche à suivre
 1. Prémisse : routeur hors ligne (pas de passerelle active).
+
 2. Conclusion : la machine ne joindra pas Internet par ce chemin.
-3. Schéma identique à l’anglais « router offline ».
 
-Synthèse
-Argument de dépannage : composant → service.`,
-    expert: `Approfondi (Expert) — topologie domestique
+3. Schéma identique à l’anglais router offline.
 
-Note
+Argument de dépannage : composant vers service.`,
+    expert: `Topologie domestique
+
 Chemins alternatifs (partage de connexion) hors texte ; l’exercice reste structurel.`,
   },
 
   1034: {
-    beginner: `Approfondi (Débutant) — pièces de musée fragiles
+    beginner: `Pièces de musée fragiles
 
-Manipulation
-« Ces matériaux se fissurent sous un choc brutal, donc soutenez-les par le dessous en les déplaçant. » — Risque mécanique → consigne.
+1. « Ces matériaux se fissurent sous un choc brutal, donc soutenez-les par le dessous en les déplaçant. » — risque mécanique vers consigne.
 
-Autres
-Âge des artefacts, prix d’entrée, vitrines : pas choc → soutien par le dessous.`,
-    intermediate: `Approfondi (Intermédiaire) — conservation
+2. Âge des artefacts, prix d’entrée, vitrines : pas choc vers soutien par le dessous.`,
+    intermediate: `Conservation
 
-Étapes
-1. Prémisse : choc brutal → fissuration possible.
-2. Conclusion : soulever / porter en soutenant par dessous.
+1. Prémisse : choc brutal vers fissuration possible.
+
+2. Conclusion : soulever ou porter en soutenant par dessous.
+
 3. « Donc » relie mécanique des matériaux à protocole de manutention.
 
-Parité
 Même profondeur que l’anglais sur les pièces fragiles.`,
-    expert: `Approfondi (Expert) — manutention
+    expert: `Manutention
 
-Lecture experte
 Garant implicite : le soutien par le dessous réduit les contraintes qui mènent à la fissuration ; pas de cours de muséographie complet requis.`,
   },
 
   1035: {
-    beginner: `Approfondi (Débutant) — mélange pour fresque
+    beginner: `Mélange pour fresque
 
-Nuances
-« Le pigment rouge plus le pigment bleu donne ce violet-là, donc ces deux tubes produiront cette nuance. » — Règle de mélange → résultat sur l’échantillon.
+1. « Le pigment rouge plus le pigment bleu donne ce violet-là, donc ces deux tubes produiront cette nuance. » — règle de mélange vers résultat sur l’échantillon.
 
-Pas des arguments
-Mode du violet, usure des pinceaux, grain de toile.`,
-    intermediate: `Approfondi (Intermédiaire) — peinture murale
+2. Mode du violet, usure des pinceaux, grain de toile : pas pigments vers nuance.`,
+    intermediate: `Peinture murale
 
-Analyse
 1. Prémisse : composition des pigments pour ce violet précis.
+
 2. Conclusion : ces deux tubes suffisent pour obtenir la nuance cible.
-3. Structure « composition → swatch » comme en anglais.
 
-Synthèse
-Raisonnement d’atelier : fait de palette → prédiction de rendu.`,
-    expert: `Approfondi (Expert) — pigments
+3. Structure composition vers échantillon, comme en anglais.
 
-Note
+Raisonnement d’atelier : fait de palette vers prédiction de rendu.`,
+    expert: `Pigments
+
 Les vrais pigments dévient des primaires idéales ; l’énoncé fixe le monde de l’item.`,
   },
 
   1036: {
-    beginner: `Approfondi (Débutant) — feu rouge (jeune conducteur)
+    beginner: `Feu rouge (jeune conducteur)
 
-Obligation d’arrêt
-« Ce feu est rouge, donc la file qui le regarde doit s'arrêter avant la ligne d'arrêt. » — État du feu → règle de circulation.
+1. « Ce feu est rouge, donc la file qui le regarde doit s’arrêter avant la ligne d’arrêt. » — état du feu vers règle de circulation.
 
-Distracteurs
-Luminosité, coins de carrefour, freins : pas feu rouge → arrêt à la ligne.`,
-    intermediate: `Approfondi (Intermédiaire) — code de la route
+2. Luminosité, coins de carrefour, freins : pas feu rouge vers arrêt à la ligne.`,
+    intermediate: `Code de la route
 
-Étapes
 1. Prémisse : ce feu est rouge pour ta voie.
+
 2. Conclusion : arrêt obligatoire avant la ligne d’arrêt.
+
 3. Fond réglementaire implicite — aligné sur l’item anglais.
 
-Synthèse
-Argument **normatif** : signal → devoir.`,
-    expert: `Approfondi (Expert) — ligne d’arrêt
+Argument normatif : signal vers devoir.`,
+    expert: `Ligne d’arrêt
 
-Reconstruction
-Même famille logique que les autres items « feu rouge » ; libellé « file qui le regarde » = file de circulation concernée par ce feu.`,
+Même famille logique que les autres items feu rouge ; « file qui le regarde » = file de circulation concernée par ce feu.`,
   },
 
   1037: {
-    beginner: `Approfondi (Débutant) — pauses du groupe d’étude
+    beginner: `Pauses du groupe d’étude
 
-Bonne réponse : première option
-« La dette de sommeil nuit à l'attention, donc de courtes pauses aideront à rester concentré. » — Sommeil / attention → pauses.
+1. Bonne réponse : première option (index 0 en banque FR, comme en anglais) : « La dette de sommeil nuit à l’attention, donc de courtes pauses aideront à rester concentré. » — sommeil et attention vers pauses.
 
-Index
-**0** en banque FR (comme en anglais).`,
-    intermediate: `Approfondi (Intermédiaire) — pauses d’étude
+2. Chaises, café, calendrier des examens : hors sujet.`,
+    intermediate: `Pauses d’étude
 
-Procédure
-1. Prémisse : dette de sommeil → baisse d’attention.
+1. Prémisse : dette de sommeil vers baisse d’attention.
+
 2. Conclusion : des pauses courtes maintiennent la qualité de la séance.
+
 3. « Donc » relie fatigue cognitive à design de session.
 
-Élimination
-Chaises, café, calendrier des examens : hors sujet.
+Même schéma que l’anglais sleep debt vers breaks.`,
+    expert: `Dette de sommeil
 
-Parité
-Même schéma que l’anglais « sleep debt → breaks ».`,
-    expert: `Approfondi (Expert) — dette de sommeil
-
-Note
-Argument prudential ; pas d’exigence de données sur les micro-pauses.`,
+Argument prudentiel ; pas d’exigence de données sur les micro-pauses.`,
   },
 
   1038: {
-    beginner: `Approfondi (Débutant) — concert complet / billets
+    beginner: `Concert complet / billets
 
-Revente
-« Il reste peu de places, donc la revente demandera plus que le prix d'origine. » — Rareté → prime sur le marché secondaire.
+1. « Il reste peu de places, donc la revente demandera plus que le prix d’origine. » — rareté vers prime sur le marché secondaire.
 
-Autres
-T-shirts, enceintes, goût des fans : pas rareté → prix de revente.`,
-    intermediate: `Approfondi (Intermédiaire) — billetterie
+2. T-shirts, enceintes, goût des fans : pas rareté vers prix de revente.`,
+    intermediate: `Billetterie
 
-Analyse
 1. Prémisse : très peu de places disponibles (offre résiduelle faible).
+
 2. Conclusion : prix de revente au-dessus du prix nominal.
+
 3. Logique d’offre et de demande informalisée — comme l’anglais.
 
-Synthèse
 Prédiction économique argumentée.`,
-    expert: `Approfondi (Expert) — prix de revente
+    expert: `Prix de revente
 
-Note
 Réglementation du marché secondaire hors périmètre ; l’item est structurel.`,
   },
 
   1039: {
-    beginner: `Approfondi (Débutant) — bruit en ville
+    beginner: `Bruit en ville
 
-Troisième option (index **2**)
-« Parce que la circulation nocturne empêche les habitants de dormir, la ville devrait instaurer des heures calmes. » — Perte de sommeil → règlement sur les heures calmes.
+1. Troisième option (index 2) : « Parce que la circulation nocturne empêche les habitants de dormir, la ville devrait instaurer des heures calmes. » — perte de sommeil vers règlement sur les heures calmes.
 
-Autres
-Règlement existant (seul fait), haine du bruit (sans politique), plaintes générales (sans « il faut »).`,
-    intermediate: `Approfondi (Intermédiaire) — heures calmes
+2. Règlement existant seul, haine du bruit sans politique, plaintes générales sans « il faut » : pas le même argument.`,
+    intermediate: `Heures calmes
 
-Étapes
-1. Sous-clause « parce que » : nuisance nocturne → sommeil des habitants.
+1. Sous-clause « parce que » : nuisance nocturne vers sommeil des habitants.
+
 2. Conclusion : instaurer des heures calmes (mesure municipale).
-3. Cartographie problème urbain → réponse institutionnelle.
 
-Alignement
-Même structure que l’anglais sur quiet-hours policy.`,
-    expert: `Approfondi (Expert) — politique urbaine du bruit
+3. Problème urbain vers réponse institutionnelle.
 
-Reconstruction
-Argument de politique publique : préjudice sur le sommeil comme justification d’une norme temporelle ; évaluation juridique hors scope.`,
+Même structure que l’anglais sur la politique d’heures calmes.`,
+    expert: `Politique urbaine du bruit
+
+Préjudice sur le sommeil comme justification d’une norme temporelle ; évaluation juridique hors portée.`,
   },
 
   1040: {
-    beginner: `Approfondi (Débutant) — big band scolaire
+    beginner: `Big band scolaire
 
-Accordage
-« La guitare solo est un quart de ton bas, donc l'accord sonnera faux tant qu'on ne l'accorde pas. » — Défaut d’accord → son discordant jusqu’à correction.
+1. « La guitare solo est un quart de ton bas, donc l’accord sonnera faux tant qu’on ne l’accorde pas. » — défaut d’accord vers son discordant jusqu’à correction.
 
-Autres
-Origine du jazz, notes, chaises : pas intonation → qualité de l’accord.`,
-    intermediate: `Approfondi (Intermédiaire) — répétition jazz
+2. Origine du jazz, notes, chaises : pas intonation vers qualité de l’accord.`,
+    intermediate: `Répétition jazz
 
-Analyse
 1. Prémisse : guitare solo un quart de ton bas (erreur d’intonation).
-2. Conclusion : l’accord restera faux tant que ce n’est pas corrigé.
-3. Même logique que l’anglais « lead guitar… quarter-step flat ».
 
-Note
+2. Conclusion : l’accord restera faux tant que ce n’est pas corrigé.
+
+3. Même logique que l’anglais lead guitar, quarter-step flat.
+
 En FR la consigne dit « big band » ; l’argument porte sur la guitare solo et l’accord, comme dans la banque anglaise.
 
-Synthèse
-Diagnostic musical → conséquence sonore + nécessité de correction.`,
-    expert: `Approfondi (Expert) — quart de ton
+Diagnostic musical vers conséquence sonore et nécessité de correction.`,
+    expert: `Quart de ton
 
-Reconstruction experte
 L’écart d’intonation rend l’accord perçu comme faux dans un contexte harmonique typique ; l’item ne teste pas l’oreille absolue.`,
   },
 
   1041: {
-    beginner: `Approfondi (Débutant) — cupcakes sortis trop tôt
+    beginner: `Cupcakes sortis trop tôt
 
-Première option (index **0**)
-« La mie paraît encore humide, donc donnez cinq minutes de plus sinon ils vont s'affaisser. » — Cuisson insuffisante → prolonger ou effondrement.
+1. Première option (index 0) : « La mie paraît encore humide, donc donnez cinq minutes de plus sinon ils vont s’affaisser. » — cuisson insuffisante vers prolonger ou effondrement.
 
-Autres
-Glaçage sucré, caissettes, horaires des boulangeries : pas mie humide → affaissement.`,
-    intermediate: `Approfondi (Intermédiaire) — cuisson des cupcakes
+2. Glaçage sucré, caissettes, horaires des boulangeries : pas mie humide vers affaissement.`,
+    intermediate: `Cuisson des cupcakes
 
-Étapes
 1. Prémisse : mie encore humide (structure pas assez prise).
+
 2. Conclusion : ajouter du temps de cuisson sous peine d’affaissement.
+
 3. « Donc » lie diagnostic visuel à décision et risque.
 
-Parité
-Même schéma que l’anglais sur wet crumb / collapse.`,
-    expert: `Approfondi (Expert) — affaissement
+Même schéma que l’anglais sur wet crumb et collapse.`,
+    expert: `Affaissement
 
-Note
 Conditionnel pratique ; pas d’examen de pâtisserie avancé.`,
   },
 
   1042: {
-    beginner: `Approfondi (Débutant) — relais à l’entraînement
+    beginner: `Relais à l’entraînement
 
-Première option
-« Leurs chronos se sont améliorés tout le printemps, donc ils devraient battre le record de l'an dernier. » — Progression → prédiction sur le record.
+1. Première option : « Leurs chronos se sont améliorés tout le printemps, donc ils devraient battre le record de l’an dernier. » — progression vers prédiction sur le record.
 
-Autres
-Témoins, couloirs, course aérobie : pas tendance → record.`,
-    intermediate: `Approfondi (Intermédiaire) — chronos
+2. Témoins, couloirs, course aérobie : pas tendance vers record.`,
+    intermediate: `Chronos
 
-Analyse
 1. Prémisse : amélioration des chronos sur la saison.
+
 2. Conclusion : devraient battre le record de l’an dernier (prévision).
+
 3. Raisonnement inductif sportif — comme l’anglais.
 
-Synthèse
 Tendance comme preuve pour une attente de performance.`,
-    expert: `Approfondi (Expert) — record
+    expert: `Record
 
-Caveat
-Même que l’EN : hasard et conditions de course non évalués ; structure seulement.`,
+Même que l’anglais : hasard et conditions de course non évalués ; structure seulement.`,
   },
 
   1043: {
-    beginner: `Approfondi (Débutant) — pique-nique / météo
+    beginner: `Pique-nique / météo
 
-Deuxième option (index **1**)
-« Le radar montre une ligne d'orages qui approche, donc emportez la bâche pour le kiosque. » — Orages → abri.
+1. Deuxième option (index 1) : « Le radar montre une ligne d’orages qui approche, donc emportez la bâche pour le kiosque. » — orages vers abri.
 
-Autres
-Paniers en osier, herbe, fourmis.`,
-    intermediate: `Approfondi (Intermédiaire) — ligne d’orages
+2. Paniers en osier, herbe, fourmis : pas radar vers préparation.`,
+    intermediate: `Ligne d’orages
 
-Procédure
 1. Prémisse : ligne d’orages approchant (signal radar).
+
 2. Conclusion : emporter la bâche pour le kiosque (abri).
-3. Planification de plein air : risque → matériel — aligné sur l’anglais « rain fly ».
 
-Synthèse
-Argument de préparation météo.`,
-    expert: `Approfondi (Expert) — orages
+3. Planification de plein air : risque vers matériel — aligné sur l’anglais rain fly.
 
-Note
-« Bâche » / kiosque = équivalent local du rain fly / pavilion dans l’EN.`,
+Bâche et kiosque = équivalent local du rain fly ou pavilion en anglais.`,
+    expert: `Orages
+
+Argument de préparation météo ; détail radar hors clé.`,
   },
 
   1044: {
-    beginner: `Approfondi (Débutant) — outils du jardin partagé
+    beginner: `Outils du jardin partagé
 
-Première option (index **0**)
-« Il faut construire un abri verrouillable parce que les outils disparaissent. » — Vols récurrents → abri fermé.
+1. Première option (index 0) : « Il faut construire un abri verrouillable parce que les outils disparaissent. » — vols récurrents vers abri fermé.
 
-Autres
-Adoration du jardinage, jardins sympas, outils brillants.`,
-    intermediate: `Approfondi (Intermédiaire) — sécurisation
+2. Adoration du jardinage, jardins sympas, outils brillants : pas vols vers abri.`,
+    intermediate: `Sécurisation
 
-Étapes
 1. Raison (parce que) : disparition des outils.
+
 2. Conclusion : construire un abri verrouillable.
-3. Ordre des clauses diffère de l’anglais (« we should… because ») mais la structure logique est identique.
 
-Synthèse
-Perte répétée → mesure d’accès contrôlé.`,
-    expert: `Approfondi (Expert) — abri verrouillable
+3. L’ordre des clauses diffère de l’anglais (we should… because) mais la structure logique est identique.
 
-Reconstruction
+Perte répétée vers mesure d’accès contrôlé.`,
+    expert: `Abri verrouillable
+
 Argument moyens–fin : réduire les vols par stockage sécurisé.`,
   },
 
   1045: {
-    beginner: `Approfondi (Débutant) — ciel nocturne avant tempêtes
+    beginner: `Ciel nocturne avant tempêtes
 
-Première option
-« Les météorologues observent le ciel nocturne pour que les ports pêchés puissent alerter tôt les marins. » — Surveillance → alerte précoce (contexte maritime FR).
+1. Première option : « Les météorologues observent le ciel nocturne pour que les ports pêchés puissent alerter tôt les marins. » — surveillance vers alerte précoce (contexte maritime FR).
 
-Autres
-Ciel magnifique, étoiles, prix des télescopes.`,
-    intermediate: `Approfondi (Intermédiaire) — veille météo
+2. Ciel magnifique, étoiles, prix des télescopes : pas observation vers alerte.`,
+    intermediate: `Veille météo
 
-Analyse
 1. Activité : observation du ciel de nuit par les météorologues.
+
 2. But : permettre aux ports de pêche d’alerter tôt les marins.
-3. Même squelette argumentatif que l’anglais « coastal towns / fishers » avec libellé FR.
 
-Synthèse
-Surveillance → réduction du risque pour usagers exposés.`,
-    expert: `Approfondi (Expert) — alerte aux marins
+3. Même squelette argumentatif que l’anglais coastal towns et fishers avec libellé FR.
 
-Note
-Le vocabulaire diffère de l’EN mais la prémisse–conclusion (observation → alerte) est la même.`,
+Surveillance vers réduction du risque pour usagers exposés.`,
+    expert: `Alerte aux marins
+
+Le vocabulaire diffère de l’anglais mais la prémisse–conclusion observation vers alerte est la même.`,
   },
 
   1046: {
-    beginner: `Approfondi (Débutant) — fontaine à l’école
+    beginner: `Fontaine à l’école
 
-Plomb détecté
-« Du plomb a été détecté dans la fontaine, donc l'école doit la remplacer immédiatement. » — Danger → remplacement urgent.
+1. « Du plomb a été détecté dans la fontaine, donc l’école doit la remplacer immédiatement. » — danger vers remplacement urgent.
 
-Distracteurs
-Brillance, eau en bouteille, couloirs.`,
-    intermediate: `Approfondi (Intermédiaire) — eau potable
+2. Brillance, eau en bouteille, couloirs : pas plomb vers remplacement.`,
+    intermediate: `Eau potable
 
-Marche à suivre
 1. Prémisse : présence de plomb.
+
 2. Conclusion : remplacement immédiat.
-3. Schéma santé publique : détection → remédiation — comme l’anglais.
 
-Synthèse
-Contamination → action corrective pressante.`,
-    expert: `Approfondi (Expert) — plomb
+3. Schéma santé publique : détection vers remédiation — comme l’anglais.
 
-Reconstruction
+Contamination vers action corrective pressante.`,
+    expert: `Plomb
+
 Même logique d’urgence que la version anglaise.`,
   },
 
   1047: {
-    beginner: `Approfondi (Débutant) — file d’attente en soutien psy
+    beginner: `File d’attente en soutien psy
 
-Six semaines
-« L'attente en consultation est de six semaines, donc l'université devrait embaucher un thérapeute supplémentaire. » — Délai → renfort d’effectif.
+1. « L’attente en consultation est de six semaines, donc l’université devrait embaucher un thérapeute supplémentaire. » — délai vers renfort d’effectif.
 
-Autres
-Chaises, formation des thérapeutes, salles calmes.`,
-    intermediate: `Approfondi (Intermédiaire) — accès aux soins
+2. Chaises, formation des thérapeutes, salles calmes : pas délai vers embauche.`,
+    intermediate: `Accès aux soins
 
-Étapes
 1. Prémisse : file de six semaines.
+
 2. Conclusion : embaucher un thérapeute de plus.
+
 3. « Donc » relie engorgement à capacité — aligné sur l’anglais.
 
-Synthèse
 File d’attente comme justification de ressources humaines.`,
-    expert: `Approfondi (Expert) — liste d’attente
+    expert: `Liste d’attente
 
-Note
 Modèle simplifié ; pas d’analyse RH complète requise.`,
   },
 
   1048: {
-    beginner: `Approfondi (Débutant) — relecture de devoir
+    beginner: `Relecture de devoir
 
-Deuxième option (index **1**)
-« Si k est pair, alors k au carré est pair — car k égale 2m pour un entier m. » — Définition du pair → support pour k² pair.
+1. Deuxième option (index 1) : « Si k est pair, alors k au carré est pair — car k égale 2m pour un entier m. » — définition du pair vers support pour k² pair.
 
-Autres
-Preuves et logique (générique), pairs entiers, devoirs imprimés.`,
-    intermediate: `Approfondi (Intermédiaire) — parité
+2. Preuves et logique générique, pairs entiers isolés : pas cette chaîne avec « car ».`,
+    intermediate: `Parité
 
-Analyse
-1. Conclusion annoncée : k pair ⇒ k² pair.
+1. Conclusion annoncée : k pair implique k² pair.
+
 2. Appui : existence de m entier tel que k = 2m.
+
 3. Structure de preuve mathématique avec « car » explicite.
 
-Parité
 Même profondeur que l’anglais sur k = 2m.`,
-    expert: `Approfondi (Expert) — entiers pairs
+    expert: `Entiers pairs
 
-Reconstruction
 Argument définitionnel : la clause « car » fournit le pivot vers la suite du raisonnement (non développée dans l’item).`,
   },
 
   1049: {
-    beginner: `Approfondi (Débutant) — calendrier des marées
+    beginner: `Calendrier des marées
 
-Première option (index **0**)
-« La basse mer découvre plus de flaques, donc planifiez le transect sur ce créneau. » — Fenêtre de basse mer → timing du relevé.
+1. Première option (index 0) : « La basse mer découvre plus de flaques, donc planifiez le transect sur ce créneau. » — fenêtre de basse mer vers timing du relevé.
 
-Autres
-Livres imprimés, sable, vagues.`,
-    intermediate: `Approfondi (Intermédiaire) — littoral
+2. Livres imprimés, sable, vagues : pas basse mer vers transect.`,
+    intermediate: `Littoral
 
-Procédure
 1. Prémisse : basse mer expose plus de flaques (zone accessible).
+
 2. Conclusion : placer le transect sur ce créneau.
-3. Équivalent français de « low tide exposes tide pools » dans l’EN.
 
-Synthèse
-Nature du terrain observable → planification de terrain.`,
-    expert: `Approfondi (Expert) — transect
+3. Équivalent français de low tide exposes tide pools en anglais.
 
-Note
+Nature du terrain observable vers planification de terrain.`,
+    expert: `Transect
+
 Sécurité marée montante possible en pratique ; hors exigence de l’item.`,
   },
 
   1050: {
-    beginner: `Approfondi (Débutant) — lumière des étoiles (groupe)
+    beginner: `Lumière des étoiles (visite)
 
-Deuxième option (index **1**)
-« La lumière étoilée a voyagé des années, donc nous voyons l'étoile telle qu'elle était dans le passé. » — Délai de propagation → passé observé.
+1. Deuxième option (index 1) : « La lumière étoilée a voyagé des années, donc nous voyons l’étoile telle qu’elle était dans le passé. » — délai de propagation vers passé observé.
 
-Distracteurs
-Prix des télescopes, noms de constellations, nuages.`,
-    intermediate: `Approfondi (Intermédiaire) — temps de trajet
+2. Prix des télescopes, noms de constellations, nuages : pas temps de trajet vers lookback.`,
+    intermediate: `Temps de trajet lumineux
 
-Marche à suivre
 1. Prémisse : trajet lumineux long (années).
-2. Conclusion : image « historique » de l’étoile.
-3. Même idée que l’anglais « starlight began its journey… »
 
-Parité
+2. Conclusion : image historique de l’étoile.
+
+3. Même idée que l’anglais starlight began its journey.
+
 Lookback time vulgarisé pour visiteurs.`,
-    expert: `Approfondi (Expert) — passé lumineux
+    expert: `Passé lumineux
 
-Reconstruction
-Écart émission / réception ; cosmologie fine hors niveau 0.`,
+Écart émission et réception ; cosmologie fine hors niveau 0.`,
   },
 
   1051: {
-    beginner: `Approfondi (Débutant) — repérer la prémisse (gravité / pomme)
+    beginner: `Repérer la prémisse — gravité / pomme
 
-Consigne
-Dans « Comme La gravité tire les objets vers le bas, la pomme tombera », choisir la **prémisse** : la raison, pas la prédiction.
+1. L’énoncé ressemble à : Comme [première idée], [deuxième idée]. La prémisse est la raison que l’on tient pour vraie — pas la prédiction que l’on infère.
 
-Bonne réponse (index **0**)
-**« La gravité tire les objets vers le bas »** — introduit par « Comme ».
+2. Ici, « La gravité tire les objets vers le bas » est ce que Comme introduit : c’est la prémisse. « La pomme tombera » est la conclusion. Le mot Comme n’est qu’un signal, pas une prémisse de contenu.`,
+    intermediate: `Prémisse vs conclusion (gravité)
 
-Pas la prémisse
-• « la pomme tombera » — **conclusion**.
-• « Comme » — marqueur, pas un contenu.
-• « Aucune » — faux.`,
-    intermediate: `Approfondi (Intermédiaire) — prémisse vs conclusion
+1. Sur cette carte : P = attraction gravitationnelle vers le bas ; Q = cette pomme tombe.
 
-Étapes
-1. Structure : Comme [première proposition], [deuxième proposition].
-2. Première proposition : fait physique invoqué comme raison.
-3. Deuxième proposition : ce qui s’ensuit pour la pomme — conclusion.
+2. Exemple : « Comme le pont est homologué pour dix tonnes, le camion devrait passer. » Prémisse = charge admissible ; conclusion = jugement de sécurité — pas « le camion devrait passer » comme prémisse.
 
-Synthèse
-La prémisse répond à « qu’est-ce qu’on donne comme appui ? »`,
-    expert: `Approfondi (Expert) — antécédent
+Demandez ce qui est offert comme raison — c’est en général P, pas Q.`,
+    expert: `Identification de la prémisse
 
-Lecture
-Dans ce schéma « Comme P, Q », P est le contenu d’appui (prémisse), Q la conséquence affichée. Ne pas confondre avec le marqueur « Comme » seul.`,
+La chute de la pomme est ce que l’on infère ; ce n’est pas la proposition d’appui. Dans « puisque P, Q », P est le contenu antécédent offert comme appui ; Q est la cible de l’inférence.
+
+En examen : choisir le contenu après Comme (avant la virgule), pas la clause de résultat.`,
   },
 
   1052: {
-    beginner: `Approfondi (Débutant) — pratique / parler chaque jour
+    beginner: `Pratique / parler chaque jour — prémisse
 
-Prémisse
-**« La pratique améliore l'aisance »** — lien apprentissage / compétence.
+1. « La pratique améliore l’aisance » est l’affirmation sur l’apprentissage invoquée comme raison. « Tu devrais parler tous les jours » est le conseil — la conclusion — qui repose sur cette affirmation.
 
-Conclusion
-« tu devrais parler tous les jours » — prescription dérivée.`,
-    intermediate: `Approfondi (Intermédiaire)
+2. Quand la question demande la prémisse, choisir l’énoncé d’appui, pas le devoir.`,
+    intermediate: `Apprentissage des langues — fente prémisse
 
-Analyse
-1. Première partie : généralisation sur la pratique et l’aisance.
-2. Deuxième partie : injonction de fréquence.
-3. « Comme » introduit la prémisse ; l’impératif est la conclusion soutenue.
+1. Ici : pratique vers aisance = P ; parler chaque jour = Q (prescription).
 
-Parité
-Même logique que l’anglais Practice improves fluency / speak daily.`,
-    expert: `Approfondi (Expert)
+2. Exemple : « Comme le sommeil consolide la mémoire, tu devrais éviter les nuits blanches avant les examens. » Prémisse = consolidation de la mémoire — pas « éviter les nuits blanches ».
 
-La prémisse est la proposition **descriptive** sur l’apprentissage ; la conclusion est l’**impératif** prudential.`,
+Les impératifs (« tu devrais… ») sont en général des conclusions dans cet exercice.`,
+    expert: `Structure prudentialiste
+
+L’impératif est la conclusion prudentialiste ; l’affirmation empirique ou générale sur la pratique est la prémisse. Choisir le devoir confond appui et appuyé.`,
   },
 
   1053: {
-    beginner: `Approfondi (Débutant) — routeur / Wi-Fi
+    beginner: `Routeur / Wi‑Fi — prémisse
 
-Prémisse
-**« Le routeur est éteint »** — état du matériel.
+1. « Le routeur est éteint » est le fait sur le réseau — la prémisse. « Le Wi‑Fi ne fonctionnera pas » est la prédiction — la conclusion.
 
-Conclusion
-« le Wi-Fi ne fonctionnera pas » — conséquence attendue.`,
-    intermediate: `Approfondi (Intermédiaire) — diagnostic
+2. Comme introduit le diagnostic, pas le pronostic de panne.`,
+    intermediate: `Partage diagnostic
 
-Étapes
-1. « Comme » introduit l’état du routeur.
-2. La seconde clause est la prédiction de panne de service.
-3. Ne pas choisir le marqueur « Comme » comme prémisse de contenu.
+1. Sur cet item : routeur éteint = P ; Wi‑Fi ne fonctionnera pas = Q.
 
-Synthèse
-Prémisse = fait sur l’équipement ; conclusion = résultat sur le Wi-Fi.`,
-    expert: `Approfondi (Expert)
+2. Exemple : « Comme le réservoir est vide, la tondeuse ne démarrera pas. » Prémisse = réservoir vide — pas « ne démarrera pas ».
 
-Même schéma causal/diagnostique que la version anglaise.`,
+Lignes de dépannage : état matériel vers issue de service ; l’état est en général P.`,
+    expert: `Arrière-plan causal
+
+L’affirmation fonctionnelle (pas de Wi‑Fi) est la conclusion inférée ; l’alimentation ou l’état est la prémisse. Comme n’est pas une prémisse — il marque seulement où commence P.`,
   },
 
   1054: {
-    beginner: `Approfondi (Débutant) — artéfacts fragiles
+    beginner: `Objets fragiles — prémisse
 
-Prémisse
-**« Les artéfacts sont fragiles »** — vulnérabilité.
+1. « Les artéfacts sont fragiles » est la prémisse descriptive (risque). « Ils nécessitent une manipulation prudente » est la conclusion prescriptive (que faire).
 
-Conclusion
-« ils nécessitent une manipulation prudente » — norme de soin.`,
-    intermediate: `Approfondi (Intermédiaire)
+2. Si la tâche est « quelle est la prémisse ? », choisir la fragilité, pas la règle de manipulation.`,
+    intermediate: `Conservation — du descriptif au prescriptif
 
-Du descriptif au prescriptif
-1. Fragilité = prémisse.
-2. Manipulation prudente = conclusion.
+1. Ici : fragile = P ; manipulation prudente = Q.
 
-Parité
-Aligné sur « Artifacts are fragile » en anglais.`,
-    expert: `Approfondi (Expert)
+2. Exemple : « Comme la glace est glissante, les piétons devraient utiliser des crampons. » Prémisse = glissance — pas « utiliser des crampons ».
 
-La prémisse est la proposition **descriptive** ; la conclusion est l’**obligation** de prudence.`,
+Les énoncés « est » vont souvent en P ; les « il faut » en Q.`,
+    expert: `Rapport d’appui
+
+« Nécessitent une manipulation prudente » est ce qui est soutenu ; la fragilité est ce qui soutient. Choisir la norme quand on demande la prémisse inverse les rôles.`,
   },
 
   1055: {
-    beginner: `Approfondi (Débutant) — rouge et bleu / violet
+    beginner: `Mélange de couleurs — prémisse
 
-Prémisse
-**« Le rouge et le bleu font du violet »** — fait de mélange.
+1. « Le rouge et le bleu font du violet » est le fait compositionnel — la prémisse. « Mélangez-les pour du violet » est la consigne — la conclusion sur l’action.
 
-Conclusion
-« mélangez-les pour du violet » — consigne.`,
-    intermediate: `Approfondi (Intermédiaire) — peinture
+2. La raison de mélanger est la façon dont les couleurs se combinent — pas parce que mélanger est amusant.`,
+    intermediate: `Consigne artisanale
 
-Étapes
-1. Comme [fait sur les pigments], [instruction].
-2. Le fait de composition est la prémisse ; l’impératif de mélange est la conclusion.
+1. Sur cet énoncé : comportement des pigments = P ; consigne de mélange = Q.
 
-Synthèse
-Même profondeur que l’item anglais sur red + blue.`,
-    expert: `Approfondi (Expert)
+2. Exemple : « Comme la levure fermente le sucre, laissez lever la pâte au chaud. » Prémisse = fait de fermentation — pas « laissez lever » comme prémisse.
 
-La prémisse est la proposition **compositorielle** ; la conclusion est l’**action** recommandée.`,
+Lignes « comment faire » : vérité sur les matériaux en P, action en Q.`,
+    expert: `Raisonnement instrumental
+
+L’impératif (« mélangez… ») est la conclusion ; l’affirmation compositionnelle est la prémisse. Ne pas étiqueter l’ordre d’agir comme la raison quand on demande la prémisse.`,
   },
 
   1056: {
-    beginner: `Approfondi (Débutant) — feu rouge
+    beginner: `Feu rouge / arrêt — prémisse
 
-Prémisse
-**« Le feu est rouge »** — état du signal.
+1. « Le feu est rouge » est la prémisse observable (vérité sur le signal). « Les conducteurs doivent s’arrêter » est la conclusion normative (ce qui s’ensuit selon les règles).
 
-Conclusion
-« les conducteurs doivent s'arrêter » — obligation.`,
-    intermediate: `Approfondi (Intermédiaire) — code de la route
+2. La fente prémisse porte sur les faits du monde ; « doit s’arrêter » est le devoir inféré, pas la raison d’appui.`,
+    intermediate: `Règle de circulation
 
-Analyse
-1. Observation du feu = prémisse.
-2. Devoir d’arrêt = conclusion (fond réglementaire implicite).
+1. Ici : feu rouge = P ; doit s’arrêter = Q (selon loi ou usage).
 
-Parité
-Équivalent de « The light is red / drivers must stop » en anglais.`,
-    expert: `Approfondi (Expert)
+2. Exemple : « Comme la sortie est bloquée, la circulation doit être déviée. » Prémisse = sortie bloquée — pas « doit être déviée » seule.
 
-Ne pas prendre la norme d’arrêt pour la prémisse : c’est la **conséquence** du signal dans l’argument.`,
+« Est » (état du signal) contre « il faut » (action requise) — P est en général le « est ».`,
+    expert: `Fait vs norme
+
+L’énoncé déontique (doit s’arrêter) est la conclusion ; l’état descriptif du signal est la prémisse. Les permuter est une erreur fréquente au début.`,
   },
 
   1057: {
-    beginner: `Approfondi (Débutant) — sommeil / concentration
+    beginner: `Sommeil et concentration — prémisse
 
-Prémisse
-**« Le manque de sommeil affecte la concentration »** — effet cognitif.
+1. « Le manque de sommeil affecte la concentration » est l’affirmation d’effet — la prémisse. « Les étudiants doivent se reposer » est le correctif recommandé — la conclusion.
 
-Conclusion
-« les étudiants doivent se reposer » — prescription.`,
-    intermediate: `Approfondi (Intermédiaire)
+2. On vous demande quelle clause est la raison donnée, pas quelle ligne sonne le mieux.`,
+    intermediate: `Conseil de bien-être
 
-Schéma
-1. Nuisance (manque de sommeil) → prémisse.
-2. Remède (se reposer) → conclusion.
+1. Sur cet énoncé : manque de sommeil nuit à la concentration = P ; se reposer = Q.
 
-Même structure que l’anglais lack of sleep / rest.`,
-    expert: `Approfondi (Expert)
+2. Exemple : « Comme la déshydratation ralentit les réactions, les pilotes devraient s’hydrater avant le vol. » Prémisse = effet de la déshydratation — pas « devraient s’hydrater » comme prémisse.
 
-La prémisse est le **problème** ; la conclusion est l’**action** recommandée.`,
+Mécanisme de tort vers remède ; le tort est P.`,
+    expert: `Moyens et fins
+
+L’impératif de repos est la conclusion ; le lien sommeil ou concentration est la prémisse d’appui. La prémisse n’est pas elle-même l’impératif.`,
   },
 
   1058: {
-    beginner: `Approfondi (Débutant) — offre / prix
+    beginner: `Offre et prix — prémisse
 
-Prémisse
-**« L'offre est faible »** — condition de marché.
+1. « L’offre est faible » est la condition de marché — la prémisse. « Les prix augmenteront » est la prévision — la conclusion.
 
-Conclusion
-« les prix augmenteront » — prévision.`,
-    intermediate: `Approfondi (Intermédiaire) — économie
+2. On ne cite pas la hausse des prix comme raison de la hausse — cela confondrait prédiction et appui.`,
+    intermediate: `Esquisse économique
 
-Étapes
-1. « Comme » introduit l’état d’offre.
-2. La hausse des prix est la conclusion argumentée.
+1. Ici : offre faible = P ; hausse des prix = Q.
 
-Synthèse
-Parité avec « Supply is low / prices will rise ».`,
-    expert: `Approfondi (Expert)
+2. Exemple : « Comme les stocks sont bas, les prix au comptant devraient grimper. » Prémisse = stocks bas — pas « grimper » comme prémisse.
 
-La prémisse décrit la **contrainte** ; la conclusion est le **mouvement de prix** attendu.`,
+Les variables d’état (offre) vont en P ; les mouvements endogènes (prix) en Q.`,
+    expert: `Statique comparative
+
+Le mouvement de prix est ce que l’on infère ; la rareté est ce que l’on affirme comme raison. Ne pas traiter Q comme P.`,
   },
 
   1059: {
-    beginner: `Approfondi (Débutant) — chiens sociaux
+    beginner: `Chiens / compagnie — prémisse
 
-Prémisse
-**« Les chiens sont sociaux »** — trait.
+1. « Les chiens sont sociaux » est l’affirmation sur le trait — la prémisse. « Ils ont besoin de compagnie » est l’implication pour les soins — la conclusion.
 
-Conclusion
-« ils ont besoin de compagnie » — implication de soins.`,
-    intermediate: `Approfondi (Intermédiaire) — éthologie
+2. Le besoin est ce que l’on déduit de la sociabilité — pas ce que l’on cite comme raison brute.`,
+    intermediate: `Éthologie vers soins
 
-Analyse
-1. Trait d’espèce = prémisse.
-2. Besoin de compagnie = conclusion prudente.
+1. Ici : espèce sociale = P ; besoin de compagnie = Q.
 
-Alignement
-Anglais « Dogs are social / need company ».`,
-    expert: `Approfondi (Expert)
+2. Exemple : « Comme les corvidés mettent des réserves, ils ont besoin d’enrichissement cognitif en captivité. » Prémisse = mise en cache — pas « besoin d’enrichissement » comme prémisse.
 
-Le besoin de compagnie est la **thèse soutenue**, pas la prémisse ; la sociabilité est la **raison** invoquée.`,
+Trait général vers devoir de bien-être ; le trait est P.`,
+    expert: `Généralisation
+
+La prescription de bien-être est soutenue par l’affirmation sur le trait ; le trait est prémisse, le besoin est conclusion dans cette étiquette.`,
   },
 
   1060: {
-    beginner: `Approfondi (Débutant) — guitare désaccordée
+    beginner: `Guitare désaccordée — prémisse
 
-Prémisse
-**« La guitare n'est pas accordée »** — état.
+1. « La guitare n’est pas accordée » est le fait de réglage — la prémisse. « Elle sonnera mal » est le jugement sonore — la conclusion.
 
-Conclusion
-« elle sonnera mal » — jugement sonore.`,
-    intermediate: `Approfondi (Intermédiaire) — musique
+2. Le mauvais son est ce que l’on prédit à partir de l’accord — pas la raison pour laquelle on fait la prédiction.`,
+    intermediate: `Qualité de jeu
 
-Procédure
-1. Défaut d’accord = prémisse.
-2. Mauvais son = conclusion.
+1. Ici : pas accordée = P ; sonnera mal = Q.
 
-Parité
-Même logique que « The guitar is out of tune / sound bad » en anglais.`,
-    expert: `Approfondi (Expert) — diagnostic instrumental
+2. Exemple : « Comme l’anche est ébréchée, l’embouchure sera instable. » Prémisse = ébréchure — pas « instable » comme prémisse.
 
-La prémisse est l’**état mécanique** ; la conclusion est l’**évaluation** du rendu sonore.`,
+Défaut vers issue esthétique ou sonore ; le défaut est P.`,
+    expert: `Évaluation conditionnelle
+
+L’évaluation auditive est la conclusion ; l’état physique est la prémisse. Elles sont liées mais ne sont pas le même acte de parole quand on étiquette la prémisse.`,
   },
 
   1061: {
-    beginner: `Approfondi (Débutant) — four / gâteau
+    beginner: `Four / gâteau — prémisse
 
-Prémisse
-**« Le four est trop chaud »** — état thermique invoqué comme raison.
+1. « Le four est trop chaud » est la prémisse sur l’équipement — la condition invoquée comme raison. « Le gâteau va brûler » est la conclusion — ce qui s’ensuit de cette chaleur.
 
-Conclusion
-« le gâteau va brûler » — **prévision** de cuisson.`,
-    intermediate: `Approfondi (Intermédiaire) — contrôle de cuisson
+2. Ne choisis pas le mot Comme comme prémisse — il signale seulement où commence P.`,
+    intermediate: `Contrôle de cuisson
 
-Étapes
-1. « Comme » introduit l’**état du four** (trop chaud).
-2. La seconde proposition est la **conséquence** sur le gâteau.
-3. Ne pas prendre « Comme » pour une prémisse de contenu.
+1. Ici : trop chaud = P ; va brûler = Q.
 
-Synthèse
-Parité avec « The oven is too hot / cake will burn » en anglais.`,
-    expert: `Approfondi (Expert) — causalité cuisine
+2. Exemple : « Comme la poêle est encore froide, le beurre ne caramélisera pas encore. » Prémisse = poêle froide — pas « ne caramélisera pas ».
 
-La prémisse est la **condition** réglable ; la conclusion est l’**événement** (brûler) inféré.`,
+État du four ou de la poêle vers résultat de cuisson ; l’état est P.`,
+    expert: `Mise en avant causale
+
+Le brûlage est prédit à partir de la chaleur ; le niveau de chaleur est ce qui est donné comme appui. Q n’est pas P.`,
   },
 
   1062: {
-    beginner: `Approfondi (Débutant) — entraînement / vitesse
+    beginner: `Entraînement / vitesse — prémisse
 
-Prémisse
-**« Tu t'es entraîné dur »** — fait d’effort comme appui.
+1. « Tu t’es entraîné dur » est la prémisse d’effort. « Tu finiras plus vite » est la conclusion de performance.
 
-Conclusion
-« tu finiras plus vite » — **prédiction** de performance.`,
-    intermediate: `Approfondi (Intermédiaire) — rendement
+2. L’affirmation sur la vitesse est ce que tu attends du récit d’entraînement — pas la raison offerte pour cette attente.`,
+    intermediate: `Rendement de l’entraînement
 
-Analyse
-1. Première partie : effort passé ou soutenu — prémisse « preuve ».
-2. Seconde partie : rapidité future — thèse sur l’issue.
-3. Même squelette « Comme P, Q » que les autres items sur la compétence.
+1. Ici : entraîné dur = P ; finir plus vite = Q.
 
-Parité
-Aligné sur « You practiced hard / finish faster ».`,
-    expert: `Approfondi (Expert)
+2. Exemple : « Comme tu as répété les gammes chaque jour, ta lecture à vue devrait s’assouplir. » Prémisse = répétition — pas « lecture assouplie » comme prémisse.
 
-La prémisse porte sur la **pratique** ; « finir plus vite » est la **conséquence** annoncée sur la performance.`,
+Faits d’entraînement vers performance ; les faits sont P.`,
+    expert: `Inférence de performance
+
+« Plus vite » est la conséquence annoncée ; la pratique est l’appui antécédent. Les inverser fausse l’étiquette prémisse.`,
   },
 
   1063: {
-    beginner: `Approfondi (Débutant) — nuages / pluie
+    beginner: `Nuages / pluie — prémisse
 
-Prémisse
-**« Les nuages sont sombres »** — indice visuel.
+1. « Les nuages sont sombres » est la prémisse visible (signe). « Il va pleuvoir » est la conclusion (prévision).
 
-Conclusion
-« il va pleuvoir » — **prévision** météo.`,
-    intermediate: `Approfondi (Intermédiaire) — lecture du ciel
+2. La pluie est ce que tu infères — pas ce que tu listes comme raison donnée dans P.`,
+    intermediate: `Lecture du ciel
 
-Procédure
-1. Prémisse d’observation : aspect des nuages.
-2. Conclusion : précipitations attendues.
-3. « Comme » marque l’**observation**, pas la prédiction.
+1. Ici : nuages sombres = P ; va pleuvoir = Q.
 
-Synthèse
-Signe météo → événement (niveau 0, schéma simplifié).`,
-    expert: `Approfondi (Expert) — raccourci
+2. Exemple : « Comme le vent a tourné vers la côte, le brouillard devrait arriver. » Prémisse = vent — pas « brouillard » comme prémisse.
 
-La prémisse est le **signe** ; la conclusion est la **prévision** — même logique que la version anglaise.`,
+Signe vers événement ; le signe est P (simplification niveau 0).`,
+    expert: `Raccourci inductif
+
+La météo réelle est plus riche ; dans cet exercice, observation = prémisse, prédiction = conclusion.`,
   },
 
   1064: {
-    beginner: `Approfondi (Débutant) — batterie / démarrage
+    beginner: `Batterie / démarrage — prémisse
 
-Prémisse
-**« La batterie est vide »** — état électrique.
+1. « La batterie est vide » est la prémisse électrique. « La voiture ne démarrera pas » est la conclusion fonctionnelle.
 
-Conclusion
-« la voiture ne démarrera pas » — **défaillance** fonctionnelle.`,
-    intermediate: `Approfondi (Intermédiaire) — diagnostic auto
+2. Le non-démarrage est le symptôme que tu infères à partir de l’état de charge — pas le fait d’appui.`,
+    intermediate: `Diagnostic automobile
 
-Étapes
-1. Prémisse : charge nulle / batterie à plat.
-2. Conclusion : absence de démarrage.
-3. Parallèle routeur / Wi-Fi : état **source d’énergie** → **service**.
+1. Ici : batterie vide = P ; ne démarrera pas = Q (même famille que routeur éteint).
 
-Parité
-« The battery is empty / car won't start ».`,
-    expert: `Approfondi (Expert)
+2. Exemple : « Comme la jauge d’essence est à zéro, le moteur ne tournera pas. » Prémisse = réservoir vide — pas « ne tournera pas ».
 
-La prémisse est le **stockage** ; le non-démarrage est le **symptôme** inféré, pas la raison donnée.`,
+Énergie ou stockage d’abord, comportement ensuite.`,
+    expert: `Arrière-plan mécanique
+
+L’échec au démarrage est Q ; l’état de batterie est P. Le symptôme n’est pas la prémisse.`,
   },
 
   1065: {
-    beginner: `Approfondi (Débutant) — plantes / fenêtre
+    beginner: `Plantes / fenêtre — prémisse
 
-Prémisse
-**« Les plantes ont besoin de lumière »** — besoin biologique.
+1. « Les plantes ont besoin de lumière » est la prémisse biologique. « Elles devraient être près de la fenêtre » est la conclusion de placement.
 
-Conclusion
-« elles devraient être près de la fenêtre » — **placement** recommandé.`,
-    intermediate: `Approfondi (Intermédiaire) — culture intérieure
+2. Le besoin de lumière est la raison ; la fenêtre est la réponse que tu déduis.`,
+    intermediate: `Culture intérieure
 
-Analyse
-1. Besoin (lumière) = prémisse descriptive.
-2. Proximité vitrée = conclusion prescriptive.
-3. Schéma besoin → conduite, comme l’anglais.
+1. Ici : besoin de lumière = P ; près de la fenêtre = Q.
 
-Synthèse
-Le fait sur l’organisme est la prémisse ; l’« il faut » est la conclusion.`,
-    expert: `Approfondi (Expert) — placement
+2. Exemple : « Comme les succulentes pourrissent en terre trop humide, utilise un mélange drainant en pot. » Prémisse = risque de pourriture — pas « utilise un mélange » comme prémisse.
 
-Le besoin de lumière est la **raison** ; la fenêtre est la **réponse** proposée — pas l’inverse.`,
+Besoin de l’organisme vers action de soin ; le besoin est P.`,
+    expert: `Placement pour le bien-être
+
+Le conseil « fenêtre » est soutenu par la phototropie ; le besoin est prémisse, le placement est conclusion.`,
   },
 
   1066: {
-    beginner: `Approfondi (Débutant) — silence / parler bas
+    beginner: `Silence / parler bas — prémisse
 
-Prémisse
-**« Le silence est requis »** — norme ou contexte.
+1. « Le silence est requis » est la règle de contexte — la prémisse. « Nous devons parler bas » est la conclusion de conduite.
 
-Conclusion
-« nous devons parler bas » — **conduite** dérivée.`,
-    intermediate: `Approfondi (Intermédiaire) — lieux calmes
+2. Parler bas est ce qui suit l’exigence de calme — pas la raison elle-même.`,
+    intermediate: `Normes de lieu
 
-Marche à suivre
-1. Prémisse : exigence de silence.
-2. Conclusion : volume de voix réduit.
-3. Ne pas prendre l’impératif de comportement pour la prémisse quand la consigne est « raison donnée ».
+1. Ici : silence requis = P ; parler bas = Q.
 
-Parité
-« Silence is required / speak softly » en anglais.`,
-    expert: `Approfondi (Expert) — normes
+2. Exemple : « Comme l’audience est en cours, les téléphones doivent être éteints. » Prémisse = session en cours — pas « téléphones éteints » comme prémisse.
 
-La prémisse est ce que **le lieu ou la règle impose** ; parler bas est la **conséquence** comportementale.`,
+Cadre ou règle vers manières ; la règle est P.`,
+    expert: `Empilement déontique
+
+L’impératif dérivé (parler bas) est Q ; l’exigence ambiante (silence) est P.`,
   },
 
   1067: {
-    beginner: `Approfondi (Débutant) — exercice / marche
+    beginner: `Exercice / marche — prémisse
 
-Prémisse
-**« L'exercice améliore la santé »** — bénéfice général.
+1. « L’exercice améliore la santé » est la prémisse de bénéfice général. « Nous devrions marcher quotidiennement » est la conclusion prescriptive spécifique.
 
-Conclusion
-« nous devrions marcher quotidiennement » — **prescription** de style de vie.`,
-    intermediate: `Approfondi (Intermédiaire) — santé publique (vulgarisation)
+2. La marche est le plan que tu infères — pas la proposition d’appui brute.`,
+    intermediate: `Style santé publique
 
-Étapes
-1. Prémisse large : lien exercice–santé.
-2. Conclusion spécifique : marche quotidienne.
-3. Même pont général → « il faut » que dans l’anglais.
+1. Ici : exercice améliore la santé = P ; marcher quotidiennement = Q.
 
-Synthèse
-Le fait sur les bienfaits est la prémisse ; le « devrions » est la conclusion.`,
-    expert: `Approfondi (Expert)
+2. Exemple : « Comme les fibres aident la digestion, ajoute des légumes à midi. » Prémisse = bienfait des fibres — pas « ajoute des légumes » comme prémisse.
 
-La prémisse est **générale** ; la marche est la **recommandation** dérivée — pas la prémisse.`,
+Évidence large vers devoir étroit ; le large est P.`,
+    expert: `Du général au particulier
+
+L’habitude concrète est soutenue par l’affirmation générale ; ne traite pas l’habitude comme prémisse.`,
   },
 
   1068: {
-    beginner: `Approfondi (Débutant) — X = 5 / X + 2 = 7
+    beginner: `X = 5 / X + 2 = 7 — prémisse
 
-Prémisse
-**« X est égal à 5 »** — valeur donnée (point de départ).
+1. « X est égal à 5 » est le donné — la prémisse de départ. « X plus 2 est égal à 7 » est la ligne dérivée — la conclusion de l’étape.
 
-Conclusion
-« X plus 2 est égal à 7 » — **égalité** dérivée.`,
-    intermediate: `Approfondi (Intermédiaire) — calcul
+2. En style « preuve », les donnés vont en P ; les lignes calculées en Q.`,
+    intermediate: `Étape arithmétique
 
-Analyse
-1. Prémisse : substitution numérique de X.
-2. Conclusion : résultat après opération (+2).
-3. En style « preuve », le **donné** joue le rôle de prémisse ; la ligne calculée, celui de conclusion.
+1. Ici : X = 5 = P ; X + 2 = 7 = Q (arithmétique ordinaire).
 
-Parité
-« X equals 5 / X plus 2 equals 7 ».`,
-    expert: `Approfondi (Expert) — raisonnement arithmétique
+2. Exemple : « Comme n = 10, n/2 doit valoir 5. » Prémisse = n = 10 — pas « n/2 = 5 » comme prémisse.
 
-X = 5 est l’**hypothèse** ; X + 2 = 7 est ce qui **s’ensuit** — ne pas inverser les rôles.`,
+Hypothèse vers conséquent ; l’hypothèse est P.`,
+    expert: `Échafaudage de preuve
+
+Le résultat de l’opération est Q ; l’affectation X = 5 est P. N’étiquette pas Q comme prémisse.`,
   },
 
   1069: {
-    beginner: `Approfondi (Débutant) — marée / plage
+    beginner: `Marée / plage — prémisse
 
-Prémisse
-**« La marée monte »** — processus côtier.
+1. « La marée monte » est la prémisse de processus. « La plage va rétrécir » est la conclusion spatiale (moins de sable sec).
 
-Conclusion
-« la plage va rétrécir » — **changement** d’espace sec.`,
-    intermediate: `Approfondi (Intermédiaire) — littoral
+2. Le rétrécissement est prédit à partir de l’eau qui monte — pas offert comme raison de l’eau.`,
+    intermediate: `Dynamique du littoral
 
-Procédure
-1. Prémisse : phase de marée montante.
-2. Conclusion : moins de sable sec visible — plage « plus petite » pour le promeneur.
-3. Même logique que l’anglais « tide coming in / beach smaller ».
+1. Ici : marée monte = P ; plage plus petite = Q.
 
-Synthèse
-État de marée → conséquence spatiale.`,
-    expert: `Approfondi (Expert)
+2. Exemple : « Comme la neige fond vite en montagne, le sentier sera boueux. » Prémisse = fonte — pas « boueux » comme prémisse.
 
-La prémisse est le **forçage** (eau qui monte) ; le rétrécissement est l’**effet** perçu.`,
+Forçage vers aménagement vécu ; le forçage est P.`,
+    expert: `Conséquence spatiale
+
+Le rétrécissement est Q ; la phase de marée est P. L’effet n’est pas la prémisse.`,
   },
 
   1070: {
-    beginner: `Approfondi (Débutant) — lumière / étoiles passées
+    beginner: `Lumière / étoiles passées — prémisse
 
-Prémisse
-**« La lumière prend du temps pour voyager »** — délai de propagation.
+1. « La lumière prend du temps pour voyager » est la prémisse physique (vitesse finie ou délai). « Nous voyons les étoiles telles qu’elles étaient » est la conclusion de regard vers le passé.
 
-Conclusion
-« nous voyons les étoiles telles qu'elles étaient » — **regard** vers le passé.`,
-    intermediate: `Approfondi (Intermédiaire) — vulgarisation astronomique
+2. L’apparence passée suit du temps de trajet — ce n’est pas le fait d’appui dans P.`,
+    intermediate: `Vulgarisation astronomique
 
-Étapes
-1. Prémisse physique : vitesse finie de la lumière.
-2. Conclusion observationnelle : image « historique » des sources.
-3. Famille conceptuelle proche des items sur la lumière stellaire ; formulation courte « Comme … ».
+1. Ici : lumière met du temps = P ; voir les étoiles comme elles étaient = Q (même famille que planétarium et visite).
 
-Parité
-« Light takes time to travel / stars as they were » en anglais.`,
-    expert: `Approfondi (Expert) — émission / réception
+2. Exemple : « Comme le son traverse le stade lentement, les applaudissements arrivent décalés. » Prémisse = son lent — pas « décalés » comme prémisse.
 
-La prémisse concerne la **propagation** ; la conclusion concerne ce que **nous voyons** — détails relativistes hors niveau 0.`,
+Prémisse de propagation vers conclusion d’observation.`,
+    expert: `Émission vs réception
+
+Le regard vers le passé est Q ; la vitesse finie ou le délai est P. La nuance relativiste est optionnelle au niveau 0.`,
   },
 
   1071: {
-    beginner: `Approfondi (Débutant) — démo gravité (2e passage)
+    beginner: `Démo gravité — deuxième passage (prémisse)
 
-Rappel
-Le texte du banc reprend le couple gravité / pomme ; les **rôles** restent : appui vs issue.
+1. Nouvel ID, mêmes rôles que la ligne gravité / pomme : « La gravité tire les objets vers le bas » = P (la raison que tu traites comme donnée). « La pomme tombera » = Q (l’issue que tu infères).
 
-Prémisse
-**« La gravité tire les objets vers le bas »** — généralisation physique avant la virgule.
+2. La vignette peut être formulée un peu différemment — prémisse vs conclusion ne bouge pas.`,
+    intermediate: `Gravité — deuxième passage
 
-Conclusion
-« la pomme tombera » — prédiction **particulière** dans la vignette.`,
-    intermediate: `Approfondi (Intermédiaire) — loi → cas
+1. P = récit de pesanteur universelle ; Q = chute de cette pomme.
 
-Déroulé
-1. Première proposition : fond commun sur la pesanteur.
-2. Seconde proposition : épisode sur une pomme.
-3. « Comme » **signale** le début de la prémisse ; ce n’est pas le texte de la prémisse.
+2. Exemple : « Comme les acides cèdent des protons, ce papier rougira. » P = comportement acide — pas « papier rougit ».
 
-Angle
-Même gabarit **général → instance** : la première fente = prémisse.`,
-    expert: `Approfondi (Expert) — instance vs loi
+Clause de type loi d’abord, cas ensuite ; la première = prémisse quand on demande.`,
+    expert: `Cas vs loi
 
-Même dans une démo « physique », le banc étiquette la clause **loi-like** comme prémisse et la **prédiction sur le cas** comme conclusion.`,
+La chute est ce que tu déduis ; la gravité est ce que tu cites. Même étiquetage que les ID 1051 et 1061 — seule la vignette de surface tourne.`,
   },
 
   1072: {
-    beginner: `Approfondi (Débutant) — aisance / parole quotidienne (2e passage)
+    beginner: `Aisance / parole quotidienne — deuxième passage (prémisse)
 
-Prémisse
-**« La pratique améliore l'aisance »** — mécanisme d’apprentissage invoqué comme raison.
+1. « La pratique améliore l’aisance » = P. « Tu devrais parler tous les jours » = Q (devoir de rythme).
 
-Conclusion
-« tu devrais parler tous les jours » — prescription de **rythme**.`,
-    intermediate: `Approfondi (Intermédiaire) — couche habitude
+2. La répétition dans le banc reprend le même découpage P/Q avec une tige nouvelle — tu dois toujours étiqueter appui vs prescription.`,
+    intermediate: `Pratique — deuxième passage
 
-Étapes
-1. Proposition 1 → mécanisme (pratique → aisance).
-2. Proposition 2 → calendrier (parler chaque jour).
-3. Le « parce que » implicite porte sur le mécanisme ; le **devoir** de fréquence est la **conséquence** pour l’exercice.
+1. Mécanisme (pratique vers compétence) soutient le calendrier (quotidien).
 
-Synthèse
-Les injonctions de routine sont en **conclusion** dans ce format.`,
-    expert: `Approfondi (Expert) — pile normative
+2. Exemple : « Comme l’espacement des révisions bat le bachotage, tu devrais réviser chaque semaine. » P = effet d’espacement — pas « réviser chaque semaine ».
 
-La prémisse est un **constat** sur l’acquisition ; la conclusion est un **devoir** de conduite — ne pas inverser.`,
+Affirmation descriptive sur l’apprentissage vers devoir d’habitude ; le « est » est P.`,
+    expert: `Pile normative
+
+L’impératif quotidien est Q ; le lien pratique–aisance est P — parallèle à 1052 et 1062.`,
   },
 
   1073: {
-    beginner: `Approfondi (Débutant) — réseau domestique (2e passage)
+    beginner: `Réseau domestique — deuxième passage (prémisse)
 
-Prémisse
-**« Le routeur est éteint »** — fait d’**alimentation / chemin**.
+1. « Le routeur est éteint » = P (état du matériel). « Le Wi‑Fi ne fonctionnera pas » = Q (prédiction de service).
 
-Conclusion
-« le Wi-Fi ne fonctionnera pas » — symptôme **radio**.`,
-    intermediate: `Approfondi (Intermédiaire) — pile technique
+2. Deuxième passage = même logique boîtier vers air que 1053 et 1063 avec un habillage neuf.`,
+    intermediate: `Routeur — deuxième passage
 
-Analyse
-1. Base : routeur sous tension ou non.
-2. Symptôme : absence de service sans fil.
-3. Pour l’identification de prémisse, l’**état matériel** est la prémisse ; le **service** est la conclusion.
+1. P = CPE coupé ; Q = WLAN inutilisable.
 
-Parité
-« The router is off / Wi-Fi won't work » — aligné sur l’anglais.`,
-    expert: `Approfondi (Expert) — faute localisée
+2. Exemple : « Comme le résolveur DNS est injoignable, la résolution de noms échouera. » P = résolveur — pas « échec ».
 
-La prémisse est la **cause matérielle** ; la panne Wi-Fi est la **couche visible** inférée.`,
+Faute amont = prémisse ; symptôme = conclusion.`,
+    expert: `Fautes en couches
+
+La panne Wi‑Fi est inférée ; le routeur éteint est posé comme appui — même sens que les autres items routeur.`,
   },
 
   1074: {
-    beginner: `Approfondi (Débutant) — manipulation prudente (2e passage)
+    beginner: `Manipulation prudente — deuxième passage (prémisse)
 
-Prémisse
-**« Les artéfacts sont fragiles »** — **risque** matériel.
+1. Fragilité = P. Manipulation prudente = Q.
 
-Conclusion
-« ils nécessitent une manipulation prudente » — **protocole** dérivé.`,
-    intermediate: `Approfondi (Intermédiaire) — risque → contrôle
+2. Autre passage sur risque vers protocole — les rôles restent : risque descriptif d’abord, soin prescriptif ensuite.`,
+    intermediate: `Objets — deuxième passage
 
-Marche à suivre
-1. Enregistrer la fragilité comme prémisse de **danger**.
-2. Dériver les normes de soin comme **conclusion** de politique.
-3. « Comme » lie danger à contrôle en une phrase.
+1. P = danger matériel ; Q = norme de manipulation.
 
-Synthèse
-Fait **descriptif** d’abord, norme **prescriptive** ensuite.`,
-    expert: `Approfondi (Expert) — cible normative
+2. Exemple : « Comme le nitrile se dégrade dans les cétones, change de gant pour ce solvant. » P = dégradation — pas « changer de gant » comme prémisse.
 
-La prudence requise est la **conclusion politique** ; la fragilité est le **fait donné** comme appui.`,
+Registre de danger vers contrôle ; le danger est P.`,
+    expert: `Cible normative
+
+Les règles de soin sont justifiées par la fragilité ; on n’infère pas la fragilité à partir des règles — comme 1054 et 1064.`,
   },
 
   1075: {
-    beginner: `Approfondi (Débutant) — mélange de couleurs (2e passage)
+    beginner: `Mélange de couleurs — deuxième passage (prémisse)
 
-Prémisse
-**« Le rouge et le bleu font du violet »** — **fait** de composition.
+1. « Le rouge et le bleu font du violet » = P (recette). « Mélangez-les pour du violet » = Q (consigne).
 
-Conclusion
-« mélangez-les pour du violet » — **consigne** d’action.`,
-    intermediate: `Approfondi (Intermédiaire) — recette vs geste
+2. Tu choisis encore la prémisse : la recette, pas l’ordre de mélanger.`,
+    intermediate: `Palette — deuxième passage
 
-Étapes
-1. Première partie : ce que font les pigments **ensemble**.
-2. Seconde partie : ce que **vous** devez faire (impératif).
-3. Ne pas choisir l’impératif quand on demande la **raison** textuelle.
+1. Composition = P ; impératif = Q.
 
-Parité
-Même structure que « Red and blue make purple / mix them ».`,
-    expert: `Approfondi (Expert) — choix des moyens
+2. Exemple : « Comme la résine durcit en dix minutes, travaille par petites lots. » P = temps de prise — pas « petits lots » comme prémisse.
 
-La consigne de mélange est **justifiée par** le fait couleur ; le fait est la prémisse, la consigne est la **conclusion instrumentale**.`,
+Fait sur les matériaux vers ordre ; le fait est P.`,
+    expert: `Choix des moyens
+
+La consigne de mélange est Q ; l’affirmation sur les couleurs est P — aligné sur 1055 et 1065.`,
   },
 
   1076: {
-    beginner: `Approfondi (Débutant) — carrefour (2e passage)
+    beginner: `Carrefour — deuxième passage (prémisse)
 
-Prémisse
-**« Le feu est rouge »** — **lecture** du signal.
+1. Feu rouge = P (observation). Doit s’arrêter = Q (devoir).
 
-Conclusion
-« les conducteurs doivent s'arrêter » — **obligation** de conformité.`,
-    intermediate: `Approfondi (Intermédiaire) — système de contrôle
+2. Même découpage signal vers obligation que les autres cartes circulation — le deuxième passage ne change que le décor.`,
+    intermediate: `Circulation — deuxième passage
 
-Analyse
-1. Entrée « capteur » : état colorimétrique du feu.
-2. Sortie « règle » : arrêt obligatoire.
-3. Prémisse = **état** ; conclusion = **norme** de circulation.
+1. P = aspect ; Q = conformité.
 
-Synthèse
-On sépare **ce qu’on voit** de **ce qu’il faut faire**.`,
-    expert: `Approfondi (Expert) — conséquence déontique
+2. Exemple : « Comme la barrière piste affiche rouge, reste court du repère. » P = état de la barrière — pas « reste court » comme prémisse.
 
-L’arrêt est la **conséquence déontique** ; le rouge est la **prémisse empirique** — ne pas intervertir.`,
+Voir vs devoir ; voir = P.`,
+    expert: `Conséquence déontique
+
+L’arrêt est Q ; le rouge est P — ne pas inverser empirique et déontique.`,
   },
 
   1077: {
-    beginner: `Approfondi (Débutant) — concentration / repos (2e passage)
+    beginner: `Concentration / repos — deuxième passage (prémisse)
 
-Prémisse
-**« Le manque de sommeil affecte la concentration »** — **atteinte** aux capacités.
+1. Manque de sommeil nuit à la concentration = P. Les étudiants doivent se reposer = Q.
 
-Conclusion
-« les étudiants doivent se reposer » — **prescription** de récupération.`,
-    intermediate: `Approfondi (Intermédiaire) — préjudice → remède
+2. Tort vers remède encore — la prémisse est le constat de déficit, pas le conseil de repos.`,
+    intermediate: `Sommeil — deuxième passage
 
-Déroulé
-1. Prémisse de tort : privation → attention affaiblie.
-2. Conclusion de remède : se reposer.
-3. Même schéma **problème / solution** que les autres conseils de bien-être.
+1. P = tort cognitif ; Q = devoir de récupération.
 
-Parité
-« Lack of sleep affects focus / students should rest ».`,
-    expert: `Approfondi (Expert) — clôture conseil
+2. Exemple : « Comme la déshydratation ralentit les réactions, les athlètes devraient s’hydrater avant l’effort. » P = effet de la déshydratation — pas « s’hydrater » comme prémisse.
 
-Le repos est la **recommandation finale** ; l’effet sur la concentration est l’**ouverture évidentielle**. La prémisse = ouverture.`,
+Preuve de problème vers correctif ; la preuve est P.`,
+    expert: `Clôture du conseil
+
+Le repos est en aval ; le lien sommeil / concentration est P — même pile que 1057 et 1067.`,
   },
 
   1078: {
-    beginner: `Approfondi (Débutant) — offre / prix (2e passage)
+    beginner: `Offre / prix — deuxième passage (prémisse)
 
-Prémisse
-**« L'offre est faible »** — **tension** sur le marché.
+1. Offre faible = P. Les prix augmenteront = Q.
 
-Conclusion
-« les prix augmenteront » — **prévision** de prix.`,
-    intermediate: `Approfondi (Intermédiaire) — condition → prévision
+2. Le mouvement de prix est ce que tu infères — pas ce que tu listes comme raison donnée.`,
+    intermediate: `Économie — deuxième passage
 
-Étapes
-1. État économique : offre restreinte (schéma simplifié).
-2. Mouvement de prix annoncé : hausse.
-3. « Comme » ancre la **condition** comme raison de la **prévision**.
+1. P = marché tendu ; Q = prévision de prix.
 
-Synthèse
-La prévision est ce qu’on argue **à partir** de la condition — pas la prémisse elle-même.`,
-    expert: `Approfondi (Expert) — exogène / endogène
+2. Exemple : « Comme les postes à quai sont rares, les surcharges fret vont exploser. » P = rareté — pas « surcharges » comme prémisse.
 
-L’offre joue le rôle **exogène** dans ce modèle jouet ; le prix est la variable **endogène** annoncée en conclusion.`,
+Condition d’abord, prix ensuite ; la condition est P.`,
+    expert: `Étiquette exogène
+
+Le prix est endogène dans le récit jouet ; l’offre est la prémisse énoncée — comme 1058 et 1068.`,
   },
 
   1079: {
-    beginner: `Approfondi (Débutant) — chiens / compagnie (2e passage)
+    beginner: `Chiens / compagnie — deuxième passage (prémisse)
 
-Prémisse
-**« Les chiens sont sociaux »** — trait **d’espèce**.
+1. Chiens sociaux = P. Besoin de compagnie = Q.
 
-Conclusion
-« ils ont besoin de compagnie » — **besoin** de soins.`,
-    intermediate: `Approfondi (Intermédiaire) — trait → besoin
+2. Le trait fonde la conclusion de bien-être — le trait reste dans la fente prémisse.`,
+    intermediate: `Chiens — deuxième passage
 
-Analyse
-1. Prémisse éthologique : sociabilité.
-2. Conclusion de bien-être : besoin de compagnie.
-3. Le besoin est **inféré** du trait pour cet exercice.
+1. P = éthologie ; Q = implication pour les soins.
 
-Parité
-« Dogs are social / need company » en anglais.`,
-    expert: `Approfondi (Expert) — cible d’inférence
+2. Exemple : « Comme les corvidés mettent des réserves, ils ont besoin d’enrichissement en captivité. » P = mise en cache — pas « enrichissement » comme prémisse.
 
-La compagnie est la **thèse inférée** ; la sociabilité est le **fondement** — fondement = prémisse au sens du quiz.`,
+Trait vers besoin ; le trait est P.`,
+    expert: `Cible d’inférence
+
+Le besoin de compagnie est inféré ; la sociabilité est P — miroir de 1059 et 1069.`,
   },
 
   1080: {
-    beginner: `Approfondi (Débutant) — accord / son (2e passage)
+    beginner: `Accord / son — deuxième passage (prémisse)
 
-Prémisse
-**« La guitare n'est pas accordée »** — **défaut** de réglage.
+1. Pas accordée = P. Sonnera mal = Q.
 
-Conclusion
-« elle sonnera mal » — **jugement** sonore.`,
-    intermediate: `Approfondi (Intermédiaire) — réglage → timbre
+2. Le défaut de réglage soutient le jugement sonore — le défaut n’est pas le jugement.`,
+    intermediate: `Guitare — deuxième passage
 
-Procédure
-1. Prémisse mécanique : désaccord.
-2. Conclusion esthétique : mauvais rendu.
-3. « Comme » introduit le **défaut** ; l’**évaluation** est en aval.
+1. P = accord ; Q = verdict sur le timbre.
 
-Synthèse
-Défaut **descriptif** = prémisse ; verdict **qualitatif** = conclusion.`,
-    expert: `Approfondi (Expert) — dépendance d’évaluation
+2. Exemple : « Comme la peau de fût est bosselée, la caisse résonnera bizarrement. » P = bosse — pas « résonnera bizarrement » comme prémisse.
 
-Le mauvais son est **attendu sous** le mauvais accord ; l’accord est la prémisse **indépendante** de la paire.`,
+Mécanique vers esthétique ; la mécanique est P.`,
+    expert: `Dépendance d’évaluation
+
+Le mauvais son est conditionné par l’accord ; l’affirmation sur l’accord est P — comme 1060.`,
   },
 
   1081: {
-    beginner: `Approfondi (Débutant) — consigne thermique (3e passage)
+    beginner: `Consigne thermique — troisième passage (prémisse)
 
-Note
-Même phrase que d’autres ID four / gâteau — les rôles prémisse / conclusion restent fixes.
+1. Même ligne four / gâteau que pour d’autres ID — rôles fixes : « Le four est trop chaud » = P. « Le gâteau va brûler » = Q.
 
-Prémisse
-**« Le four est trop chaud »** — **état** thermique invoqué comme raison.
+2. Troisième passage = nouvel ID, carte P/Q identique.`,
+    intermediate: `Cuisson — troisième passage
 
-Conclusion
-« le gâteau va brûler » — **issue** de cuisson attendue.`,
-    intermediate: `Approfondi (Intermédiaire) — surchauffe
+1. P = surchauffe thermique ; Q = risque de brûlage.
 
-Déroulé
-1. Fente prémisse : température **trop élevée** pour l’instant de la recette.
-2. Fente conclusion : **surcuisson** présentée comme brûlage.
-3. « Comme » lie **état du four** à **destin du gâteau** — première proposition = appui.
+2. Exemple : « Comme la poêle est à feu vif, la sauce va accrocher. » P = réglage de chaleur — pas « accrocher » comme prémisse.
 
-Synthèse
-Avertissements cuisine : faits de **réglage thermique** → risques de **cuisson**.`,
-    expert: `Approfondi (Expert) — variable de contrôle
+État de l’équipement vers destin du plat ; l’état est P.`,
+    expert: `Variable de contrôle
 
-La chaleur est l’**entrée** observée ou réglée ; la prédiction de brûlage est l’**issue** narrative — pas la prémisse.`,
+Le brûlage dépend de la chaleur dans le récit ; trop chaud est la prémisse citée — comme les autres cartes four.`,
   },
 
   1082: {
-    beginner: `Approfondi (Débutant) — charge d’entraînement (3e passage)
+    beginner: `Charge d’entraînement — troisième passage (prémisse)
 
-Prémisse
-**« Tu t'es entraîné dur »** — **charge** ou effort investi.
+1. « Tu t’es entraîné dur » = P (effort passé). « Tu finiras plus vite » = Q (allure projetée).
 
-Conclusion
-« tu finiras plus vite » — attente de **rythme** ou de temps de réalisation.`,
-    intermediate: `Approfondi (Intermédiaire) — effort → allure
+2. Le troisième passage répète effort vers prévision avec une tige neuve.`,
+    intermediate: `Entraînement — troisième passage
 
-Étapes
-1. Prémisse « preuve » : effort d’entraînement.
-2. Conclusion : rapidité future (lien causal jouet).
-3. Ne pas étiqueter l’allure comme prémisse : c’est ce que l’arguer **projette**.
+1. P = charge d’entraînement ; Q = affirmation sur la vitesse d’achèvement.
 
-Parité
-« You practiced hard / finish faster ».`,
-    expert: `Approfondi (Expert) — ancrage prospectif
+2. Exemple : « Comme tu as répété les gammes chaque jour, cette étude prendra moins de passages. » P = répétition — pas « moins de passages » comme prémisse.
 
-La prémisse **ancre** dans le passé ; la finition plus rapide est la **projection** soutenue par cet ancrage.`,
+Ancre dans ce qui s’est passé ; la projection = Q.`,
+    expert: `Ancrage prospectif
+
+« Plus vite » regarde vers l’avant ; la ligne sur la pratique est P.`,
   },
 
   1083: {
-    beginner: `Approfondi (Débutant) — indice céleste (3e passage)
+    beginner: `Indice céleste — troisième passage (prémisse)
 
-Prémisse
-**« Les nuages sont sombres »** — **indice** visuel.
+1. Nuages sombres = P. Il va pleuvoir = Q.
 
-Conclusion
-« il va pleuvoir » — attente de **précipitations**.`,
-    intermediate: `Approfondi (Intermédiaire) — heuristique « maintenant »
+2. Règle niveau 0 : signe vers événement ; le signe = prémisse.`,
+    intermediate: `Météo — troisième passage
 
-Analyse
-1. Prémisse d’observation : aspect des nuages.
-2. Conclusion de prévision : pluie imminente (heuristique populaire).
-3. Niveau 0 : étiqueter **signe → événement** sans météo complète.
+1. P = aspect ; Q = appel pluie.
 
-Synthèse
-L’**aspect du ciel** est la prémisse ; l’**appel météo** est la conclusion.`,
-    expert: `Approfondi (Expert) — limite d’heuristique
+2. Exemple : « Comme le baromètre chute vite, des grains sont probables. » P = tendance de pression — pas « grains » comme prémisse.
 
-La prévision réelle est complexe ; ici l’**observation** est strictement la prémisse et l’**événement annoncé** la conclusion.`,
+Observation d’abord, prévision ensuite.`,
+    expert: `Limite d’heuristique
+
+La météo réelle est plus riche ; ici nuages = P, pluie = Q seulement.`,
   },
 
   1084: {
-    beginner: `Approfondi (Débutant) — chaîne de démarrage (3e passage)
+    beginner: `Chaîne de démarrage — troisième passage (prémisse)
 
-Prémisse
-**« La batterie est vide »** — état de **charge stockée**.
+1. Batterie vide = P. Ne démarrera pas = Q (symptôme).
 
-Conclusion
-« la voiture ne démarrera pas » — **défaillance** de démarrage / allumage.`,
-    intermediate: `Approfondi (Intermédiaire) — électromécanique (schéma)
+2. État cause vs défaillance — l’état est prémisse quand on demande.`,
+    intermediate: `Automobile — troisième passage
 
-Procédure
-1. Prémisse électrique : charge inutilisable.
-2. Conclusion mécanique : chaîne démarreur / allumage incomplète.
-3. Même schéma **faute source → symptôme** que les autres items d’alimentation.
+1. P = énergie stockée ; Q = issue au démarreur.
 
-Parité
-« The battery is empty / car won't start ».`,
-    expert: `Approfondi (Expert) — symptôme vs cause énoncée
+2. Exemple : « Comme le fusible est grillé, la pompe ne tournera pas. » P = fusible — pas « ne tournera pas » comme prémisse.
 
-« Ne démarre pas » est le **symptôme inféré** ; « batterie vide » est la **cause posée** comme prémisse.`,
+Faute source vers symptôme ; la faute est P.`,
+    expert: `Symptôme vs cause
+
+Le non-démarrage est inféré ; batterie vide est posée comme appui.`,
   },
 
   1085: {
-    beginner: `Approfondi (Débutant) — budget lumineux (3e passage)
+    beginner: `Budget lumineux — troisième passage (prémisse)
 
-Prémisse
-**« Les plantes ont besoin de lumière »** — besoin **biologique**.
+1. Les plantes ont besoin de lumière = P. Près de la fenêtre = Q (placement devoir).
 
-Conclusion
-« elles devraient être près de la fenêtre » — **placement** pour satisfaire ce besoin.`,
-    intermediate: `Approfondi (Intermédiaire) — intérieur
+2. Le besoin biologique soutient le placement — le besoin est P.`,
+    intermediate: `Plantes d’intérieur — troisième passage
 
-Étapes
-1. Prémisse : dépendance à la lumière.
-2. Conclusion : proximité de la baie vitrée comme solution.
-3. Le **besoin** est la raison ; l’**emplacement** est la réponse conseillée.
+1. P = besoin autotrophe ; Q = conseil d’aménagement.
 
-Synthèse
-Prémisse de **besoin** ; conclusion de **placement**.`,
-    expert: `Approfondi (Expert) — moyen / fin
+2. Exemple : « Comme les semis ont besoin de chaleur, mets une plaque chauffante sous le bac. » P = besoin de chaleur — pas « plaque chauffante » comme prémisse.
 
-La fenêtre est le **moyen** justifié par le besoin lumineux ; le besoin est la proposition **d’appui**.`,
+Besoin vers moyen ; le besoin est P.`,
+    expert: `Moyen et fin
+
+La fenêtre est justifiée par le besoin de lumière ; le besoin de lumière est P.`,
   },
 
   1086: {
-    beginner: `Approfondi (Débutant) — lieu calme (3e passage)
+    beginner: `Lieu calme — troisième passage (prémisse)
 
-Prémisse
-**« Le silence est requis »** — **règle** contextuelle.
+1. Silence requis = P (règle). Parler bas = Q (conduite).
 
-Conclusion
-« nous devons parler bas » — **ajustement** de volume.`,
-    intermediate: `Approfondi (Intermédiaire) — normes de bruit
+2. Contexte régulateur d’abord ; manières ensuite — la règle = P.`,
+    intermediate: `Normes de bruit — troisième passage
 
-Analyse
-1. Prémisse réglementaire : exigence de silence.
-2. Conclusion de conduite : voix basses.
-3. La **règle** est ce qu’on cite ; le **comportement** est ce qu’on déduit.
+1. P = mandat ; Q = ajustement de volume.
 
-Parité
-« Silence is required / speak softly ».`,
-    expert: `Approfondi (Expert) — mise en conformité
+2. Exemple : « Comme ce service est silencieux après neuf heures, baisse le ton dans le couloir. » P = plage de silence — pas « baisse le ton » comme prémisse.
 
-Parler bas est le **comportement mappé** sur l’exigence de silence ; l’exigence est le texte de **prémisse explicite**.`,
+Règle vers conformité ; la règle est P.`,
+    expert: `Mise en correspondance
+
+Parler bas est mappé sur la règle ; le texte sur le silence est P.`,
   },
 
   1087: {
-    beginner: `Approfondi (Débutant) — marche quotidienne (3e passage)
+    beginner: `Marche quotidienne — troisième passage (prémisse)
 
-Prémisse
-**« L'exercice améliore la santé »** — **généralisation** sur les bienfaits.
+1. L’exercice améliore la santé = P. Marcher quotidiennement = Q (habitude précise).
 
-Conclusion
-« nous devrions marcher quotidiennement » — **habitude** d’exercice concrète.`,
-    intermediate: `Approfondi (Intermédiaire) — pont vers l’habitude
+2. Le bénéfice abstrait soutient le régime concret — l’abstrait = P.`,
+    intermediate: `Régime — troisième passage
 
-Déroulé
-1. Prémisse large : lien exercice–santé.
-2. Conclusion étroite : fréquence de marche.
-3. Le lien général est la **raison** ; le plan de marche est l’**application**.
+1. P = généralisation sur les bienfaits ; Q = habitude instanciée.
 
-Synthèse
-**Bénéfice général** = prémisse ; **régime spécifique** = conclusion.`,
-    expert: `Approfondi (Expert) — instanciation
+2. Exemple : « Comme la musculation préserve la densité osseuse, tu devrais soulever deux fois par semaine. » P = lien densité — pas « deux fois par semaine » comme prémisse.
 
-La marche quotidienne **instancie** l’idée d’exercice ; la thèse sur l’amélioration de la santé est la prémisse **abstraite** invoquée.`,
+Lien général vers application ; le lien est P.`,
+    expert: `Instanciation
+
+La marche quotidienne instancie l’idée d’exercice ; le lien santé est P.`,
   },
 
   1088: {
-    beginner: `Approfondi (Débutant) — ligne de substitution (3e passage)
+    beginner: `Ligne de substitution — troisième passage (prémisse)
 
-Prémisse
-**« X est égal à 5 »** — **affectation** ou donnée.
+1. X = 5 = P (donné). X + 2 = 7 = Q (dérivé).
 
-Conclusion
-« X plus 2 est égal à 7 » — égalité **dérivée** après calcul.`,
-    intermediate: `Approfondi (Intermédiaire) — algèbre en une étape
+2. Les donnés prémissent ; la ligne dérivée conclut — dans les drills formels.`,
+    intermediate: `Algèbre — troisième passage
 
-Étapes
-1. La prémisse fixe X.
-2. La conclusion applique +2 dans le même langage formel.
-3. Les **données** jouent le rôle de prémisse ; la ligne **dérivée**, celui de conclusion.
+1. P = affectation ; Q = conséquence en une étape.
 
-Parité
-« X equals 5 / X plus 2 equals 7 ».`,
-    expert: `Approfondi (Expert) — dérivabilité
+2. Exemple : « Comme n = 12, n − 4 = 8. » P = n = 12 — pas « 8 » comme prémisse.
 
-La seconde égalité se **déduit** de la première par les règles usuelles ; la déductibilité fait de la première le membre **prémisse-like**.`,
+N’appelle pas l’égalité calculée P.`,
+    expert: `Dérivabilité
+
+La seconde égalité est dérivable ; la première ligne est de type prémisse dans cette paire.`,
   },
 
   1089: {
-    beginner: `Approfondi (Débutant) — marée de flot (3e passage)
+    beginner: `Marée de flot — troisième passage (prémisse)
 
-Prémisse
-**« La marée monte »** — phase d’**eau montante**.
+1. Marée monte = P. Plage plus petite = Q (sable sec).
 
-Conclusion
-« la plage va rétrécir » — empreinte de **sable sec** réduite.`,
-    intermediate: `Approfondi (Intermédiaire) — largeur intertidale
+2. Forçage vs disposition — le forçage = P.`,
+    intermediate: `Intertidal — troisième passage
 
-Procédure
-1. Prémisse hydrodynamique : marée montante.
-2. Conclusion spatiale : moins de place sur le sable sec pour le promeneur.
-3. Prémisse de **processus** ; conclusion de **changement** visible du rivage.
+1. P = phase hydrodynamique ; Q = empreinte de sable sec.
 
-Synthèse
-**Forçage** de marée vs **aire utilisable** — le premier est la prémisse.`,
-    expert: `Approfondi (Expert) — géométrie vécue
+2. Exemple : « Comme la rivière monte, le chemin de halage va être inondé. » P = niveau — pas « inondé » comme prémisse.
 
-Le rétrécissement est l’**effet de layout** ; la marée montante est le **moteur** posé — moteur = prémisse dans cet exercice.`,
+Prémisse de processus ; changement visible pour le promeneur = Q.`,
+    expert: `Géométrie vécue
+
+Le rétrécissement est vécu ; la marée montante est posée P.`,
   },
 
   1090: {
-    beginner: `Approfondi (Débutant) — étiquette lookback (3e passage)
+    beginner: `Lookback — troisième passage (prémisse)
 
-Prémisse
-**« La lumière prend du temps pour voyager »** — délai / **vitesse finie**.
+1. La lumière met du temps = P (vitesse finie). Voir les étoiles comme elles étaient = Q (regard passé).
 
-Conclusion
-« nous voyons les étoiles telles qu'elles étaient » — image **historique**.`,
-    intermediate: `Approfondi (Intermédiaire) — vulgarisation astro
+2. Le délai soutient la vision historique — l’affirmation physique = P.`,
+    intermediate: `Lumière stellaire — troisième passage
 
-Analyse
-1. Prémisse physique : propagation non instantanée.
-2. Conclusion observationnelle : vision « passée » des sources (formulation courante).
-3. Même ligne conceptuelle que les autres items sur la lumière stellaire.
+1. P = délai de propagation ; Q = ce que « montre » l’image.
 
-Parité
-« Light takes time to travel / stars as they were ».`,
-    expert: `Approfondi (Expert) — trajet du signal
+2. Exemple : « Comme le son est lent, tu entends le tonnerre après l’éclair. » P = vitesse finie du son — pas « tonnerre après » comme prémisse.
 
-La prémisse porte sur le **temps de trajet** ; la conclusion sur ce que **représente** l’image — ne pas intervertir.`,
+Affirmation sur le trajet du signal vers interprétation ; le trajet = P.`,
+    expert: `Trajet du signal
+
+Prémisse = timing de la lumière ; conclusion = ce que nous voyons — ne pas permuter.`,
   },
 
   1091: {
-    beginner: `Approfondi (Débutant) — poids et chute (4e passage)
+    beginner: `Poids et chute — quatrième passage (prémisse)
 
-Modèle répété
-Le texte du banc reprend gravité / pomme — la **prémisse** reste la première proposition de contenu.
+1. Quatrième passage sur gravité / pomme : « La gravité tire les objets vers le bas » = P. La pomme tombera = Q.
 
-Prémisse
-**« La gravité tire les objets vers le bas »** — affirmation de **tirage** (générique).
+2. Même gabarit que 1071 et les gravité premier passage — première clause de contenu = appui.`,
+    intermediate: `Gravité — quatrième passage
 
-Conclusion
-« la pomme tombera » — mouvement sur **un cas**.`,
-    intermediate: `Approfondi (Intermédiaire) — du champ à la pomme
+1. P = récit de champ ; Q = chute du cas.
 
-Déroulé
-1. Prémisse de type « loi » : tendance vers le bas.
-2. Conclusion d’instance : chute de cette pomme.
-3. « Comme » indique que l’**histoire de la gravité** est la prémisse, pas la ligne sur la pomme.
+2. Exemple (même carte) : « Comme les masses s’attirent, cette brique tombera si on la lâche. » P = attraction — pas « brique tombe » comme prémisse.
 
-Synthèse
-Première proposition **loi-like** ; seconde **cas** — ici la première est prémisse.`,
-    expert: `Approfondi (Expert) — sens de l’appui
+Loi-like d’abord ; cas ensuite ; la première = P.`,
+    expert: `Sens de l’appui
 
-La chute de la pomme est ce qu’on **retire** de la prémisse sur la gravité ; ce n’est pas la prémisse qu’on cite comme raison.`,
+La chute est la conclusion ; la ligne gravité est P — alignée sur 1071.`,
   },
 
   1092: {
-    beginner: `Approfondi (Débutant) — parole quotidienne (4e passage)
+    beginner: `Parole quotidienne — quatrième passage (prémisse)
 
-Prémisse
-**« La pratique améliore l'aisance »** — lien **répétition** / **compétence**.
+1. Pratique vers aisance = P. Parler chaque jour = Q.
 
-Conclusion
-« tu devrais parler tous les jours » — recommandation de **rythme**.`,
-    intermediate: `Approfondi (Intermédiaire) — calendrier depuis le mécanisme
+2. Quatrième passage = même découpage mécanisme / calendrier que 1072.`,
+    intermediate: `Aisance — quatrième passage
 
-Étapes
-1. Prémisse de mécanisme : pratique → aisance.
-2. Conclusion de politique : parler chaque jour.
-3. Le **mécanisme** soutient le **calendrier** ; ne pas prendre le calendrier pour la prémisse.
+1. P = mécanisme ; Q = prescription de rythme.
 
-Synthèse
-**Pourquoi la pratique compte** = prémisse ; **à quelle fréquence** = conclusion.`,
-    expert: `Approfondi (Expert) — conséquent normatif
+2. Exemple : « Comme la récupération active bat la relecture, fais-toi un quiz à chaque chapitre. » P = effet de récupération — pas « quiz » comme prémisse.
 
-La parole quotidienne est la **prescription conséquente** ; la liaison pratique–aisance est l’**antécédent** d’appui.`,
+Pourquoi la pratique compte = P ; à quelle fréquence = Q.`,
+    expert: `Conséquent normatif
+
+Parler chaque jour = conséquent ; pratique–aisance = antécédent P.`,
   },
 
   1093: {
-    beginner: `Approfondi (Débutant) — routeur éteint (4e passage)
+    beginner: `Routeur éteint — quatrième passage (prémisse)
 
-Prémisse
-**« Le routeur est éteint »** — état **matériel** du boîtier.
+1. Routeur éteint = P. Wi‑Fi ne fonctionnera pas = Q.
 
-Conclusion
-« le Wi-Fi ne fonctionnera pas » — attente sur le **service** sans fil.`,
-    intermediate: `Approfondi (Intermédiaire) — boîtier puis air
+2. Quatrième passage sur boîtier vers air — l’état d’alimentation = P.`,
+    intermediate: `Routeur — quatrième passage
 
-Analyse
-1. Prémisse : équipement bord non alimenté.
-2. Conclusion : segment radio inutilisable.
-3. Même étiquetage que les autres items routeur : **fait sur la boîte** = prémisse ; **service** = conclusion.
+1. P = CPE ; Q = attente WLAN.
 
-Parité
-« The router is off / Wi-Fi won't work ».`,
-    expert: `Approfondi (Expert) — sens de dépendance
+2. Exemple : « Comme le modem amont est hors ligne, le LAN n’atteindra pas Internet. » P = modem — pas « pas d’Internet » comme prémisse.
 
-La panne de service est **en aval** de l’état du routeur ; l’état du routeur est la **prémisse amont**.`,
+État en bordure en prémisse ; service = Q.`,
+    expert: `Sens de dépendance
+
+Le service est en aval ; l’état du routeur est P amont.`,
   },
 
   1094: {
-    beginner: `Approfondi (Débutant) — risque conservation (4e passage)
+    beginner: `Risque conservation — quatrième passage (prémisse)
 
-Prémisse
-**« Les artéfacts sont fragiles »** — **risque** matériel.
+1. Fragile = P. Manipulation prudente = Q.
 
-Conclusion
-« ils nécessitent une manipulation prudente » — **norme** de manipulation.`,
-    intermediate: `Approfondi (Intermédiaire) — registre de risques
+2. Quatrième passage sur risque vers protocole — registre de danger d’abord.`,
+    intermediate: `Objets — quatrième passage
 
-Procédure
-1. Enregistrer la fragilité comme prémisse de **danger**.
-2. Dériver la prudence comme **contrôle** — conclusion.
-3. **Descriptif** d’abord ; **prescriptif** ensuite.
+1. P = risque matériel ; Q = contrôle de manipulation.
 
-Synthèse
-La fragilité est la **raison** ; la prudence est la **réponse** exigée (conclusion).`,
-    expert: `Approfondi (Expert) — obligation non prémisse
+2. Exemple : « Comme la pellicule nitrée est instable, stocke-la dans des boîtes froides ventilées. » P = instabilité — pas « boîtes ventilées » comme prémisse.
 
-La manipulation prudente est **soutenue par** la fragilité ; on n’infère pas la fragilité à partir de l’obligation.`,
+Descriptif d’abord ; prescriptif ensuite ; le descriptif = P.`,
+    expert: `Obligation non prémisse
+
+La manipulation prudente est soutenue par la fragilité ; on n’infère pas la fragilité à partir de l’obligation.`,
   },
 
   1095: {
-    beginner: `Approfondi (Débutant) — fait palette (4e passage)
+    beginner: `Fait palette — quatrième passage (prémisse)
 
-Prémisse
-**« Le rouge et le bleu font du violet »** — fait de **mélange** des pigments.
+1. Rouge + bleu vers violet = P. Mélanger pour du violet = Q (impératif).
 
-Conclusion
-« mélangez-les pour du violet » — **consigne** de peintre.`,
-    intermediate: `Approfondi (Intermédiaire) — recette vs geste
+2. Recettes en prémisse ; gestes en conclusion.`,
+    intermediate: `Pigment — quatrième passage
 
-Étapes
-1. Prémisse compositionnelle : résultat couleur.
-2. Conclusion impérative : action de mélange.
-3. Question : « qu’est-ce qui est donné comme **raison** ? » — le fait de composition, pas l’ordre.
+1. P = composition ; Q = ordre.
 
-Parité
-« Red and blue make purple / mix them ».`,
-    expert: `Approfondi (Expert) — cible impérative
+2. Exemple : « Comme l’huile de lin oxyde lentement, étale la peinture dans de petits pots. » P = oxydation — pas « petits pots » comme prémisse.
 
-L’impératif est la **cible d’action** justifiée par le fait couleur ; le fait est la proposition **d’appui**.`,
+Ce que font les couleurs = P ; ce que tu fais = Q.`,
+    expert: `Impératif comme cible
+
+Mélanger est la cible justifiée par le fait ; le fait = P.`,
   },
 
   1096: {
-    beginner: `Approfondi (Débutant) — correspondance STOP (4e passage)
+    beginner: `Correspondance STOP — quatrième passage (prémisse)
 
-Prémisse
-**« Le feu est rouge »** — **aspect** du signal.
+1. Feu rouge = P. Doit s’arrêter = Q.
 
-Conclusion
-« les conducteurs doivent s'arrêter » — **obligation** de conformité.`,
-    intermediate: `Approfondi (Intermédiaire) — phase du feu
+2. Quatrième passage sur signal vers devoir — l’aspect = P.`,
+    intermediate: `Circulation — quatrième passage
 
-Analyse
-1. Prémisse de phase : rouge allumé.
-2. Conclusion de règle : arrêt obligatoire.
-3. **Observation** vs **norme** : ici première = prémisse, seconde = conclusion.
+1. P = phase ; Q = obligation.
 
-Synthèse
-Le rouge **fonde** l’obligation ; ce n’est pas l’obligation elle-même.`,
-    expert: `Approfondi (Expert) — conséquent déontique
+2. Exemple : « Comme la barrière est baissée, n’entre pas sur le passage à niveau. » P = barrière — pas « n’entre pas » comme prémisse.
 
-L’arrêt est le **conséquent déontique** ; le feu rouge est l’**antécédent empirique** de la paire.`,
+Observation = P ; norme = Q.`,
+    expert: `Conséquent déontique
+
+Arrêt = conséquent déontique ; rouge = antécédent empirique P.`,
   },
 
   1097: {
-    beginner: `Approfondi (Débutant) — dette de sommeil (4e passage)
+    beginner: `Dette de sommeil — quatrième passage (prémisse)
 
-Prémisse
-**« Le manque de sommeil affecte la concentration »** — **atteinte** cognitive.
+1. Manque de sommeil nuit à la concentration = P. Doivent se reposer = Q.
 
-Conclusion
-« les étudiants doivent se reposer » — conseil de **récupération**.`,
-    intermediate: `Approfondi (Intermédiaire) — déficit → remède
+2. Quatrième passage sur déficit vers remède — le tort = P.`,
+    intermediate: `Cognition — quatrième passage
 
-Déroulé
-1. Prémisse de tort : privation de sommeil.
-2. Conclusion de remède : se reposer.
-3. Fente **problème** vs fente **remède** — prémisse vs conclusion.
+1. P = constat de déficit ; Q = conseil de récupération.
 
-Parité
-« Lack of sleep affects focus / students should rest ».`,
-    expert: `Approfondi (Expert) — structure de conseil
+2. Exemple : « Comme le bruit fragmente l’attention, les élèves devraient mettre des bouchons aux examens. » P = fragmentation — pas « bouchons » comme prémisse.
 
-Le repos est **en aval** du constat sur la concentration ; le constat est la **prémisse énoncée**.`,
+Preuve de problème = P ; correctif = Q.`,
+    expert: `Structure du conseil
+
+Le repos est en aval ; le déficit de concentration est P énoncé.`,
   },
 
   1098: {
-    beginner: `Approfondi (Débutant) — tension d’offre (4e passage)
+    beginner: `Tension d’offre — quatrième passage (prémisse)
 
-Prémisse
-**« L'offre est faible »** — **tension** sur le marché.
+1. Offre faible = P. Prix augmenteront = Q.
 
-Conclusion
-« les prix augmenteront » — mouvement des **prix**.`,
-    intermediate: `Approfondi (Intermédiaire) — intuition de prix
+2. Condition explicite en prémisse ; prix = prévision Q.`,
+    intermediate: `Marché — quatrième passage
 
-Étapes
-1. Prémisse de condition : rareté d’offre.
-2. Conclusion de prévision : hausse des prix (récit court).
-3. La **condition** est la prémisse ; la **prévision de prix** est la conclusion.
+1. P = tension ; Q = mouvement de prix.
 
-Synthèse
-**État** de l’offre d’abord ; **mouvement** des prix ensuite.`,
-    expert: `Approfondi (Expert) — prévision conditionnelle
+2. Exemple : « Comme les files d’attente aux postes à quai ont grossi, les frais de séjour vont grimper. » P = file — pas « séjour » comme prémisse.
 
-La hausse est **conditionnée** par l’offre ; l’offre est le texte de **prémisse explicite**.`,
+État d’abord ; prix ensuite ; l’état = P.`,
+    expert: `Prévision conditionnelle
+
+Hausse conditionnée à l’offre ; le texte sur l’offre = P.`,
   },
 
   1099: {
-    beginner: `Approfondi (Débutant) — espèce sociale (4e passage)
+    beginner: `Espèce sociale — quatrième passage (prémisse)
 
-Prémisse
-**« Les chiens sont sociaux »** — **généralisation** comportementale.
+1. Chiens sociaux = P. Besoin de compagnie = Q.
 
-Conclusion
-« ils ont besoin de compagnie » — thèse de **bien-être**.`,
-    intermediate: `Approfondi (Intermédiaire) — trait → soins
+2. Quatrième passage sur trait vers soins — garde les fentes droites.`,
+    intermediate: `Bien-être — quatrième passage
 
-Analyse
-1. Prémisse de trait : sociabilité.
-2. Conclusion de soin : besoin de compagnie.
-3. Le **fait général** est la prémisse ; la **conséquence pratique** est la conclusion.
+1. P = trait ; Q = implication pratique.
 
-Synthèse
-**Trait** = prémisse ; **besoin** = conclusion — ne pas permuter.`,
-    expert: `Approfondi (Expert) — besoin inféré
+2. Exemple : « Comme les perroquets s’attachent fort, ils ont besoin d’interaction quotidienne. » P = attachement — pas « interaction » comme prémisse.
 
-Le besoin de compagnie est **inféré** ; la sociabilité est le **fondement** — fondement = prémisse.`,
+Fait général = P ; besoin = Q.`,
+    expert: `Besoin inféré
+
+Besoin de compagnie inféré ; sociabilité = fondement P.`,
   },
 
   1100: {
-    beginner: `Approfondi (Débutant) — défaut de hauteur (4e passage)
+    beginner: `Défaut de hauteur — quatrième passage (prémisse)
 
-Prémisse
-**« La guitare n'est pas accordée »** — **défaut** d’accord.
+1. Pas accordée = P. Sonnera mal = Q.
 
-Conclusion
-« elle sonnera mal » — **jugement** sonore.`,
-    intermediate: `Approfondi (Intermédiaire) — réglage → appréciation
+2. Quatrième passage sur réglage vers jugement — le défaut = P.`,
+    intermediate: `Guitare — quatrième passage
 
-Procédure
-1. Prémisse de réglage : accord faux.
-2. Conclusion : mauvais son.
-3. « Comme » introduit le **défaut** ; l’**évaluation** est en aval.
+1. P = défaut d’accord ; Q = verdict sur le timbre.
 
-Parité
-« The guitar is out of tune / sound bad ».`,
-    expert: `Approfondi (Expert) — esthétique conditionnelle
+2. Exemple : « Comme l’anche est fêlée, la clarinette va nasiller. » P = fêlure — pas « nasiller » comme prémisse.
 
-Le mauvais son est jugé **sous** le mauvais accord ; l’énoncé d’accord est la prémisse **indépendante** de la paire.`,
+Défaut = P ; verdict de qualité = Q.`,
+    expert: `Esthétique conditionnelle
+
+Mauvais son donné l’accord ; l’accord est P indépendant dans la paire.`,
   },
 
   1101: {

@@ -3,6 +3,7 @@ import { IdLogEntry } from '../types';
 import { useLanguage } from '../contexts/LanguageContext';
 import { getTranslatedShortExplanation, isLogicalFallaciesAppQuestionId } from '../data/shortExplanationsTranslations';
 import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
+import { ExplanationWithStepNumbers } from './ExplanationWithStepNumbers';
 import { getQuestionBank, MAX_QUESTION_ID } from '../questionsBank';
 import { formatTranslation } from '../translations';
 import { translateQuestionText, translateOptionText, getQuestionDisplay } from '../utils/translateQuestion';
@@ -280,8 +281,11 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
                                 </select>
                               </label>
                             </div>
-                            <div className="text-slate-200 leading-relaxed text-sm whitespace-pre-wrap bg-transparent">
-                              {normalizeExplanationWhitespace(
+                            <ExplanationWithStepNumbers
+                              className="text-sm bg-transparent"
+                              bodyClassName="text-slate-200"
+                              stepClassName="text-yellow-300 font-semibold"
+                              text={normalizeExplanationWhitespace(
                                 getTranslatedDetailedExplanation(
                                   entry.id,
                                   detailedExplanation,
@@ -292,7 +296,7 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
                                   bankQuestion?.explanation
                                 )
                               )}
-                            </div>
+                            />
                           </div>
                         </div>
                       )}

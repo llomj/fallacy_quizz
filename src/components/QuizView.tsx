@@ -15,6 +15,7 @@ import {
 } from '../utils/remapQuestionLanguage';
 import { getTranslatedShortExplanation, SHORT_EXPLANATIONS_FR, isLogicalFallaciesAppQuestionId } from '../data/shortExplanationsTranslations';
 import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
+import { ExplanationWithStepNumbers } from './ExplanationWithStepNumbers';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
 import { balanceDisplayedOptionLengths } from '../utils/optionLengthBalancer';
 import { primeAudioContext } from '../utils/sounds';
@@ -1079,8 +1080,11 @@ export const QuizView: React.FC<QuizViewProps> = ({
                           </select>
                         </label>
                       </div>
-                      <div className="text-yellow-400 leading-relaxed text-sm whitespace-pre-wrap bg-transparent">
-                        {normalizeExplanationWhitespace(
+                      <ExplanationWithStepNumbers
+                        className="text-sm bg-transparent"
+                        bodyClassName="text-slate-200"
+                        stepClassName="text-yellow-400 font-semibold"
+                        text={normalizeExplanationWhitespace(
                           getTranslatedDetailedExplanation(
                             currentQuestion.id,
                             getDetailedExplanationForLevel(currentQuestion, detailedExplanationLevel) ?? '',
@@ -1091,7 +1095,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                             currentQuestion.explanation
                           )
                         )}
-                      </div>
+                      />
                     </div>
                   </div>
                 )}

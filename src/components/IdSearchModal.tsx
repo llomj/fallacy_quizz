@@ -8,6 +8,7 @@ import { translateQuestionText, getQuestionDisplay } from '../utils/translateQue
 import { getTranslatedShortExplanation } from '../data/shortExplanationsTranslations';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
 import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
+import { ExplanationWithStepNumbers } from './ExplanationWithStepNumbers';
 
 const shouldVisualizeOptionWhitespace = (options: string[]): boolean => {
   const normalized = new Map<string, Set<string>>();
@@ -273,8 +274,11 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
                               <option value="expert">{t('subLevels.expert')}</option>
                             </select>
                           </label>
-                          <p className="text-sm text-slate-300 leading-relaxed whitespace-pre-wrap bg-transparent">
-                            {normalizeExplanationWhitespace(
+                          <ExplanationWithStepNumbers
+                            className="text-sm bg-transparent"
+                            bodyClassName="text-slate-300"
+                            stepClassName="text-yellow-300 font-semibold"
+                            text={normalizeExplanationWhitespace(
                               getTranslatedDetailedExplanation(
                                 question.id,
                                 getDetailedExplanationForLevel(question, detailedExplanationLevel) ?? '',
@@ -285,7 +289,7 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
                                 question.explanation
                               )
                             )}
-                          </p>
+                          />
                         </div>
                       </details>
                     )}
