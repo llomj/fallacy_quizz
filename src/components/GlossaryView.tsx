@@ -29,6 +29,7 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
     };
   }, [selectedTerm]);
 
+
   const getExampleForTier = (item: GlossaryItem): string => {
     switch (exampleTier) {
       case 'beginner':
@@ -42,14 +43,16 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
     }
   };
 
-  const filteredGlossary = GLOSSARY
-    .filter(item => 
-      item.term.toLowerCase().includes(search.toLowerCase()) ||
-      item.definition.toLowerCase().includes(search.toLowerCase())
-    )
-    .sort((a, b) => a.term.localeCompare(b.term));
+  const filteredGlossary = React.useMemo(() => {
+    return GLOSSARY
+      .filter(item => 
+        item.term.toLowerCase().includes(search.toLowerCase()) ||
+        item.definition.toLowerCase().includes(search.toLowerCase())
+      )
+      .sort((a, b) => a.term.localeCompare(b.term));
+  }, [GLOSSARY, search]);
 
-  const levels = Array.from({ length: 10 }, (_, index) => index + 1);
+  const levels = Array.from({ length: 11 }, (_, i) => i); // 0 to 10
 
   const getLevelsFromRange = (range: string): number[] => {
     const parts = range.split('-').map((part) => Number(part.trim()));
@@ -58,6 +61,16 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
     const [start, end] = parts[0] <= parts[1] ? parts : [parts[1], parts[0]];
     return Array.from({ length: end - start + 1 }, (_, index) => start + index);
   };
+
+  const itemsByLevel = React.useMemo(() => {
+    const map: Record<number, GlossaryItem[]> = {};
+    for (const level of levels) {
+      map[level] = GLOSSARY
+        .filter((item) => getLevelsFromRange(item.levelRange).includes(level))
+        .sort((a, b) => a.term.localeCompare(b.term));
+    }
+    return map;
+  }, [GLOSSARY, levels]);
 
   /** Split text by newline or literal \n (from data) and render as paragraphs. */
   const renderAsParagraphs = (text: string, className: string) => {
@@ -186,9 +199,7 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
       {search === '' ? (
         <div className="space-y-12">
           {levels.map(level => {
-            const items = GLOSSARY
-              .filter((item) => getLevelsFromRange(item.levelRange).includes(level))
-              .sort((a, b) => a.term.localeCompare(b.term));
+            const items = itemsByLevel[level] || [];
             if (items.length === 0) return null;
             return (
               <div key={level} className="space-y-4">
