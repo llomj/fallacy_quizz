@@ -80,6 +80,8 @@ Before any commit that should go live, confirm with `git remote -v` that you wil
 ## 12. Offline PWA Requirement (CRITICAL)
 - **Goal**: The application must run fully offline when opened from the phone's home screen or browser.
 - **Rule**: Whenever changes are made to the service worker, caching, or PWA configurations (`vite.config.ts`, `manifest.json`), ensure that the app can function entirely without internet connectivity. `vite-plugin-pwa` is configured to precache all assets, and the manifest should have the correct `start_url` relative to the repository path.
+- **GlossaryView must NEVER be lazy-loaded**: `GlossaryView` is imported **eagerly** (static import) in `App.tsx`. Do NOT convert it to a `lazy()` import. Lazy-loaded chunks get new content-hash filenames on every build; the service worker on the user's device will serve the old cached chunk URL which returns 404, causing Glossary to silently fail. The eager import bundles GlossaryView into the main chunk, which is always freshly fetched.
+- **SW version string**: The footer in `App.tsx` contains `SW vN`. **Bump N by 1 every time you push a fix** that users need to pick up immediately. This tells the service worker there's a new version and forces a cache refresh on all devices. Keep it in sync with commits.
 
 ## 13. Level Mode vs Random Mode — Separate Point Systems & Start Level (CRITICAL)
 - **Default mode on app open**: When the user opens the app, the default must be **Level mode**, not Random mode. The Random mode switch must be off by default so that new and returning users start in Level mode unless they explicitly enable Random mode.
