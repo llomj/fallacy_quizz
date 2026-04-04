@@ -732,7 +732,16 @@ export const QuizView: React.FC<QuizViewProps> = ({
       queueMicrotask(() => {
         setCurrentIndex(safeIdx);
         if (sel !== null && oldQ && newQ) {
-          setSelectedOption(mapSelectedIndexAfterRemap(oldQ, newQ, sel, fromLang, toLang));
+          const newSel = mapSelectedIndexAfterRemap(oldQ, newQ, sel, fromLang, toLang);
+          if (newSel === null) {
+            // Independent question banks (e.g. Levels 1–10): the question changed entirely.
+            // Reset answered state so the user can answer the new language question.
+            setSelectedOption(null);
+            setIsAnswered(false);
+            setShowDetailedExplanation(false);
+          } else {
+            setSelectedOption(newSel);
+          }
         }
       });
       return next;

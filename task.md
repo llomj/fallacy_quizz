@@ -105,7 +105,7 @@
 
 **Module:** `level2to10StandaloneInDepth.ts` — regenerate: `node scripts/generate-standalone-levels-2-10.mjs`
 
-**Apr 2026 style pass:** Level **10** IDs **811–820** were rewritten in the plain numbered lesson format (EN + FR) to match the easier-to-scan style used in Level 0.
+**Apr 2026 style pass:** Level **10** IDs **811–827** were rewritten in the plain numbered lesson format (EN + FR) to match the easier-to-scan style used in Level 0.
 
 **Completed IDs (Levels 2–10):** **91–900** (**810 / 810**)
 
