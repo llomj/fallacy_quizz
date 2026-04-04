@@ -300,8 +300,20 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             <button
               onClick={withClickSound(() => { 
                 onClose(); 
-                // Force reload bypassing cache
-                window.location.href = window.location.href + '?v=' + Date.now();
+                // Unregister service worker to clear PWA cache, then reload
+                if ('serviceWorker' in navigator) {
+                  navigator.serviceWorker.getRegistration().then(registration => {
+                    if (registration) {
+                      registration.unregister().then(() => {
+                        window.location.reload();
+                      });
+                    } else {
+                      window.location.reload();
+                    }
+                  }).catch(() => window.location.reload());
+                } else {
+                  window.location.reload();
+                }
               })}
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
             >
