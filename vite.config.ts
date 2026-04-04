@@ -22,7 +22,7 @@ export default defineConfig(({ mode }) => {
           theme_color: '#0f172a',
           background_color: '#0f172a',
           display: 'standalone',
-          id: base,
+          id: base + 'v2',
           scope: base,
           start_url: startUrl,
           icons: [
