@@ -476,7 +476,7 @@ const App: React.FC = () => {
         onToggleHaptic={() => setPrefs(p => ({ ...p, hapticEnabled: !p.hapticEnabled }))}
         lightMode={prefs.lightMode}
         onToggleLightMode={() => setPrefs(p => ({ ...p, lightMode: !p.lightMode }))}
-        onShowGlossary={() => setView('glossary')}
+        onShowGlossary={() => { console.log('[App] Setting view to glossary'); setView('glossary'); }}
         onShowArgumentation={() => setShowArgumentation(true)}
         onShowIdSearch={(initialId?: number) => { setIdSearchInitialId(initialId ?? null); setShowIdSearch(true); }}
         onShowIdLog={() => setShowIdLog(true)}
