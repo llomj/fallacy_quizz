@@ -58,13 +58,14 @@ export default defineConfig(({ mode }) => {
         includeAssets: ['icons/*'],
         workbox: {
           globPatterns: ['**/*.{js,css,html,ico,png,svg,json,woff2,woff}'],
-          maximumFileSizeToCacheInBytes: 15 * 1024 * 1024, // detailed-explanations chunk can exceed 10MB (standalone in-depth maps)
+          maximumFileSizeToCacheInBytes: 15 * 1024 * 1024,
           cleanupOutdatedCaches: true,
           sourcemap: true,
           navigateFallback: startUrl,
           navigateFallbackAllowlist: [/^(?!\/__).*/],
-          // All UI assets (CSS, fonts, icons) are bundled — precache only; no CDN runtime deps.
-          runtimeCaching: []
+          runtimeCaching: [],
+          skipWaiting: true,
+          clientsClaim: true,
         }
       })
     ],

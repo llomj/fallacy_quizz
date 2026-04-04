@@ -298,7 +298,11 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               />
             )}
             <button
-              onClick={withClickSound(() => { onClose(); window.location.href = `${basePath}clear-sw.html`; })}
+              onClick={withClickSound(() => { 
+                onClose(); 
+                // Force reload bypassing cache
+                window.location.href = window.location.href + '?v=' + Date.now();
+              })}
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
             >
               <i className="fas fa-arrows-rotate text-sm w-5 flex-shrink-0"></i>
