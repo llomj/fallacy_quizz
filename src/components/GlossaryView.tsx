@@ -235,9 +235,11 @@ const GLOSSARY_TERMS_FR: GlossaryTerm[] = [
 interface GlossaryViewProps {
   onBack: () => void;
   onPlayClickSound?: () => void;
+  onSaveToFallacyLog?: (entry: { term: string; definition: string; levelRange: string }) => void;
+  savedFallacyTerms?: string[];
 }
 
-export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickSound }) => {
+export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickSound, onSaveToFallacyLog, savedFallacyTerms = [] }) => {
   const { t, language } = useLanguage();
   const [search, setSearch] = useState('');
   const [selectedTerm, setSelectedTerm] = useState<GlossaryTerm | null>(null);
@@ -373,20 +375,40 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
                 <div className="h-[1px] flex-1 bg-white/5"></div>
               </div>
               <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-                {items.map(item => (
-                  <div 
-                    key={item.term} 
-                    onClick={() => { onPlayClickSound?.(); setSelectedTerm(item); }}
-                    className="glass p-4 rounded-xl space-y-1.5 hover:border-yellow-400/60 hover:bg-slate-800/80 transition-all cursor-pointer group active:scale-[0.98]"
-                  >
-                    <h4 className="text-sm font-bold text-yellow-300 group-hover:text-yellow-200 transition-colors">
-                      {item.term}
-                    </h4>
-                    <p className="text-[10px] leading-relaxed line-clamp-2" style={{ color: '#FF00FF' }}>
-                      {item.definition}
-                    </p>
-                  </div>
-                ))}
+                {items.map(item => {
+                  const isSaved = savedFallacyTerms.includes(item.term);
+                  return (
+                    <div 
+                      key={item.term} 
+                      onClick={() => { onPlayClickSound?.(); setSelectedTerm(item); }}
+                      className="glass p-4 rounded-xl space-y-1.5 hover:border-yellow-400/60 hover:bg-slate-800/80 transition-all cursor-pointer group active:scale-[0.98] relative"
+                    >
+                      <button
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          onPlayClickSound?.();
+                          if (!isSaved && onSaveToFallacyLog) {
+                            onSaveToFallacyLog({ term: item.term, definition: item.definition, levelRange: item.levelRange });
+                          }
+                        }}
+                        className={`absolute top-2 right-2 w-6 h-6 rounded-full flex items-center justify-center transition-all ${
+                          isSaved 
+                            ? 'bg-yellow-400 text-slate-900' 
+                            : 'bg-slate-800 text-slate-500 hover:text-yellow-300 border border-white/10'
+                        }`}
+                        title={isSaved ? 'Saved to fallacy log' : 'Save to fallacy log'}
+                      >
+                        <i className={`fas fa-${isSaved ? 'bookmark' : ' bookmark'}`}></i>
+                      </button>
+                      <h4 className="text-sm font-bold text-yellow-300 group-hover:text-yellow-200 transition-colors pr-8">
+                        {item.term}
+                      </h4>
+                      <p className="text-[10px] leading-relaxed line-clamp-2" style={{ color: '#FF00FF' }}>
+                        {item.definition}
+                      </p>
+                    </div>
+                  );
+                })}
               </div>
             </div>
           );

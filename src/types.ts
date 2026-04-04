@@ -60,6 +60,13 @@ export interface IdLogEntry {
   timestamp: number;
 }
 
+export interface FallacyLogEntry {
+  term: string;
+  definition: string;
+  levelRange: string;
+  timestamp: number;
+}
+
 export interface RandomModeStats {
   totalAnswered: number;
   totalCorrect: number;
@@ -83,6 +90,8 @@ export interface UserStats {
   correctPerLevel?: Record<number, number>;
   history: QuestionAttempt[];
   idLog: IdLogEntry[];
+  /** Saved fallacies from glossary */
+  fallacyLog: FallacyLogEntry[];
   lastSessionScore?: number;
   lastSessionTotal?: number;
   acquiredStars?: Record<number, number>; // Maps level ID to stars 0–5 from accuracy (20/40/60/80/95%)

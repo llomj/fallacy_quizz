@@ -1,9 +1,9 @@
 import React, { useState, useEffect, useMemo, lazy, Suspense } from 'react';
-import { UserStats, PersonaStage, QuestionAttempt } from './types';
+import { UserStats, PersonaStage, QuestionAttempt, FallacyLogEntry } from './types';
 import { EvolutionHub } from './components/EvolutionHub';
 import { SettingsMenu } from './components/SettingsMenu';
 import { IdLogEntry } from './types';
-import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getQuestionsNeededForLevel, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getStarsFromProgress, getRandomModeStarsFromAccuracy, getPersonaFromRandomStats, getPersonaTranslationKey, PERSONA_EMOJI } from './constants';
+import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, TOTAL_QUESTIONS, getQuestionsNeededForLevel, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getStarsFromProgress, getRandomModeStarsFromAccuracy, getPersonaFromRandomStats, getPersonaTranslationKey, PERSONA_EMOJI } from './constants';
 import { useLanguage } from './contexts/LanguageContext';
 import { formatTranslation } from './translations';
 import { playStarCelebrationSound, playFiveStarCelebrationSound, playRandomFiveStarCelebrationSound, playAllLevelsCelebrationSound, playCorrectAnswerSound, playWrongAnswerSound, playButtonClickSound } from './utils/sounds';
@@ -25,6 +25,7 @@ const INITIAL_STATS: UserStats = {
   acquiredStars: {},
   history: [],
   idLog: [],
+  fallacyLog: [],
   randomModeStats: { totalAnswered: 0, totalCorrect: 0 },
   randomMode: false
 };
@@ -33,6 +34,7 @@ const INITIAL_STATS: UserStats = {
 const QuizView = lazy(() => import('./components/QuizView').then((module) => ({ default: module.QuizView })));
 const HistoryLog = lazy(() => import('./components/HistoryLog').then((module) => ({ default: module.HistoryLog })));
 import { GlossaryView } from './components/GlossaryView';
+import { FallacyLogView } from './components/FallacyLogView';
 const OperationsView = lazy(() => import('./components/OperationsView').then((module) => ({ default: module.OperationsView })));
 const MethodsView = lazy(() => import('./components/MethodsView').then((module) => ({ default: module.MethodsView })));
 const FlagsView = lazy(() => import('./components/FlagsView').then((module) => ({ default: module.FlagsView })));
@@ -93,6 +95,7 @@ const App: React.FC = () => {
   const [showIdSearch, setShowIdSearch] = useState(false);
   const [idSearchInitialId, setIdSearchInitialId] = useState<number | null>(null);
   const [showIdLog, setShowIdLog] = useState(false);
+  const [showFallacyLog, setShowFallacyLog] = useState(false);
   const [showLevelSelector, setShowLevelSelector] = useState(false);
   const [showArgumentation, setShowArgumentation] = useState(false);
   const [showSettingsMenu, setShowSettingsMenu] = useState(false);
@@ -179,6 +182,8 @@ const App: React.FC = () => {
           parsed.stateVersion = 4;
         }
         if (parsed.randomModeXp === undefined) parsed.randomModeXp = 0;
+        // Migration: add fallacyLog if missing
+        if (!parsed.fallacyLog) parsed.fallacyLog = [];
         setStats(parsed);
       } catch (e) {
         console.error("Corrupted state, resetting", e);
@@ -277,6 +282,18 @@ const App: React.FC = () => {
     setStats(prev => ({
       ...prev,
       idLog: [idLogEntry, ...prev.idLog.filter(e => e.id !== entry.id)].slice(0, 1000)
+    }));
+  };
+
+  const saveToFallacyLog = (entry: { term: string; definition: string; levelRange: string }) => {
+    const fallacyEntry: FallacyLogEntry = {
+      ...entry,
+      timestamp: Date.now()
+    };
+
+    setStats(prev => ({
+      ...prev,
+      fallacyLog: [fallacyEntry, ...prev.fallacyLog.filter(e => e.term !== entry.term)].slice(0, 500)
     }));
   };
 
@@ -481,6 +498,7 @@ const App: React.FC = () => {
         onShowIdSearch={(initialId?: number) => { setIdSearchInitialId(initialId ?? null); setShowIdSearch(true); }}
         onShowIdLog={() => setShowIdLog(true)}
         onShowLearningLog={() => setView('log')}
+        onShowFallacyLog={() => setShowFallacyLog(true)}
         onShowLevelSelector={() => setShowLevelSelector(true)}
         onToggleLanguage={toggleLanguage}
         onResetApp={() => setShowResetModal(true)}
@@ -514,7 +532,12 @@ const App: React.FC = () => {
           null
         ) : view === 'glossary' ? (
           <div className="max-w-4xl mx-auto">
-            <GlossaryView onBack={() => setView('hub')} onPlayClickSound={playClickSound} />
+            <GlossaryView 
+              onBack={() => setView('hub')} 
+              onPlayClickSound={playClickSound}
+              onSaveToFallacyLog={saveToFallacyLog}
+              savedFallacyTerms={stats.fallacyLog.map(e => e.term)}
+            />
           </div>
         ) : showResult ? (
           <>
@@ -610,7 +633,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v19</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v20</p>
       </footer>
 
       {/* Operations View Modal */}
@@ -877,6 +900,25 @@ const App: React.FC = () => {
             randomMode={randomMode}
           />
         </Suspense>
+      )}
+
+      {/* Fallacy Log View */}
+      {showFallacyLog && (
+        <div className="fixed inset-0 z-[100] w-full min-h-screen bg-slate-950 overflow-y-auto">
+          <div className="container mx-auto px-4 py-8 max-w-4xl">
+            <FallacyLogView
+              entries={stats.fallacyLog}
+              onClose={() => setShowFallacyLog(false)}
+              onPlayClickSound={playClickSound}
+              onRemoveEntry={(term) => {
+                setStats(prev => ({
+                  ...prev,
+                  fallacyLog: prev.fallacyLog.filter(e => e.term !== term)
+                }));
+              }}
+            />
+          </div>
+        </div>
       )}
     </div>
   );

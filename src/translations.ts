@@ -10,6 +10,7 @@ export const translations = {
       flags: "Flags",
       flow: "Flow",
       learningLog: "Learning Log",
+      fallacyLog: "Fallacy Log",
       operations: "Operations & Math",
     },
     
@@ -305,6 +306,7 @@ export const translations = {
       flags: "Options",
       flow: "Flux",
       learningLog: "Journal d'apprentissage",
+      fallacyLog: "Journal des Sophismes",
       operations: "Opérations et Mathématiques",
     },
     

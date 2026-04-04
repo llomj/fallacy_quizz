@@ -61,6 +61,7 @@ interface SettingsMenuProps {
   onShowIdSearch?: (initialId?: number) => void;
   onShowIdLog?: () => void;
   onShowLearningLog?: () => void;
+  onShowFallacyLog?: () => void;
   onShowLevelSelector?: () => void;
   onToggleLanguage?: () => void;
   onResetApp?: () => void;
@@ -85,6 +86,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   onShowIdSearch,
   onShowIdLog,
   onShowLearningLog,
+  onShowFallacyLog,
   onShowLevelSelector,
   onToggleLanguage,
   onResetApp
@@ -240,6 +242,15 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               >
                 <i className="fas fa-book-open text-sm w-5 flex-shrink-0"></i>
                 <span className="text-sm font-medium">{t('app.learningLog')}</span>
+              </button>
+            )}
+            {onShowFallacyLog && (
+              <button
+                onClick={withClickSound(() => { onShowFallacyLog(); onClose(); })}
+                className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+              >
+                <i className="fas fa-bookmark text-sm w-5 flex-shrink-0"></i>
+                <span className="text-sm font-medium">{t('app.fallacyLog') || 'Fallacy Log'}</span>
               </button>
             )}
           </div>
