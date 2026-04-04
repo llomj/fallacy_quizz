@@ -388,6 +388,7 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
                           e.stopPropagation();
                           onPlayClickSound?.();
                           if (!isSaved && onSaveToFallacyLog) {
+                            console.log('[GlossaryView] Saving fallacy:', { term: item.term, definition: item.definition, levelRange: item.levelRange });
                             onSaveToFallacyLog({ term: item.term, definition: item.definition, levelRange: item.levelRange });
                           }
                         }}

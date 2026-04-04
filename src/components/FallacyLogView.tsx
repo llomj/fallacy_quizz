@@ -25,13 +25,17 @@ export const FallacyLogView: React.FC<FallacyLogViewProps> = ({
   const glossaryMap = useMemo(() => {
     const map = new Map<string, typeof targetGlossary[0]>();
     for (const item of targetGlossary) {
-      map.set(item.term.toLowerCase(), item);
+      map.set(item.term.toLowerCase().trim(), item);
     }
+    console.log('[FallacyLogView] language:', language, 'glossary size:', targetGlossary.length, 'sample keys:', Array.from(map.keys()).slice(0, 3));
     return map;
-  }, [targetGlossary]);
+  }, [targetGlossary, language]);
 
   const getDisplayEntry = (entry: FallacyLogEntry) => {
-    const translated = glossaryMap.get(entry.term.toLowerCase());
+    const key = entry.term.toLowerCase().trim();
+    console.log('[FallacyLogView] Looking up:', key, 'in map of size', glossaryMap.size);
+    const translated = glossaryMap.get(key);
+    console.log('[FallacyLogView] Found:', translated ? translated.term : 'NOT FOUND');
     if (translated) {
       return {
         term: translated.term,
