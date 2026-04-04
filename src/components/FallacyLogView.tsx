@@ -4,6 +4,33 @@ import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 import { GLOSSARY_TERMS_EN, GLOSSARY_TERMS_FR } from './GlossaryView';
 
+const EN_TO_FR_MAP: Record<string, string> = {
+  'Ad Hominem': 'Attaque personnelle',
+  'Appeal to Authority': 'Appel à l\'autorité',
+  'Appeal to Tradition': 'Appel à la tradition',
+  'Appeal to Novelty': 'Appel à la nouveauté',
+  'Appeal to Popularity': 'Appel à la popularité',
+  'Appeal to Emotion': 'Appel à l\'émotion',
+  'Appeal to Fear': 'Appel à la peur',
+  'Appeal to Ignorance': 'Appel à l\'ignorance',
+  'Appeal to Incredulity': 'Appel à l\'incrédulité',
+  'Anecdotal Fallacy': 'Sophisme anecdotique',
+  'Begging the Question': 'Pétition de principe',
+  'False Dilemma': 'Dilemme trompeur',
+  'Straw Man': 'Homme de paille',
+  'Slippery Slope': 'Pente glissante',
+  'Circular Reasoning': 'Raisonnement circulaire',
+  'Post Hoc': 'Post Hoc',
+  'Confirmation Bias': 'Biais de confirmation',
+  'Bandwagon Fallacy': 'Appel à la foule',
+  'Sunk Cost Fallacy': 'Sophisme des coûts irrécupérables',
+  'False Cause': 'Fausse cause',
+};
+
+const FR_TO_EN_MAP: Record<string, string> = Object.fromEntries(
+  Object.entries(EN_TO_FR_MAP).map(([en, fr]) => [fr, en])
+);
+
 interface FallacyLogViewProps {
   entries: FallacyLogEntry[];
   onClose: () => void;
@@ -20,42 +47,41 @@ export const FallacyLogView: React.FC<FallacyLogViewProps> = ({
   const { t, language } = useLanguage();
   const [search, setSearch] = useState('');
 
-  const targetGlossary = language === 'fr' ? GLOSSARY_TERMS_FR : GLOSSARY_TERMS_EN;
-  
   const glossaryMap = useMemo(() => {
-    const map = new Map<string, typeof targetGlossary[0]>();
-    for (const item of targetGlossary) {
+    const target = language === 'fr' ? GLOSSARY_TERMS_FR : GLOSSARY_TERMS_EN;
+    const map = new Map<string, typeof target[0]>();
+    for (const item of target) {
       map.set(item.term.toLowerCase().trim(), item);
     }
-    console.log('[FallacyLogView] language:', language, 'glossary size:', targetGlossary.length, 'sample keys:', Array.from(map.keys()).slice(0, 3));
     return map;
-  }, [targetGlossary, language]);
+  }, [language]);
 
-  const getDisplayEntry = (entry: FallacyLogEntry) => {
-    const key = entry.term.toLowerCase().trim();
-    console.log('[FallacyLogView] Looking up:', key, 'in map of size', glossaryMap.size);
-    const translated = glossaryMap.get(key);
-    console.log('[FallacyLogView] Found:', translated ? translated.term : 'NOT FOUND');
-    if (translated) {
-      return {
-        term: translated.term,
-        definition: translated.definition,
-        levelRange: translated.levelRange,
-        timestamp: entry.timestamp
-      };
+  const getDisplayEntry = (entry: FallacyLogEntry): FallacyLogEntry & { displayTerm: string } => {
+    if (language === 'fr') {
+      const englishTerm = FR_TO_EN_MAP[entry.term] || entry.term;
+      const translated = glossaryMap.get(englishTerm.toLowerCase().trim());
+      if (translated) {
+        return {
+          term: entry.term,
+          definition: translated.definition,
+          levelRange: translated.levelRange,
+          timestamp: entry.timestamp,
+          displayTerm: translated.term
+        };
+      }
     }
-    return entry;
+    return { ...entry, displayTerm: entry.term };
   };
 
   const displayEntries = useMemo(() => {
     return entries
       .map(getDisplayEntry)
       .filter(entry => 
-        entry.term.toLowerCase().includes(search.toLowerCase()) ||
+        (entry.displayTerm || entry.term).toLowerCase().includes(search.toLowerCase()) ||
         entry.definition.toLowerCase().includes(search.toLowerCase())
       )
       .sort((a, b) => b.timestamp - a.timestamp);
-  }, [entries, search, glossaryMap]);
+  }, [entries, search, glossaryMap, language]);
 
   const formatDate = (timestamp: number) => {
     return new Date(timestamp).toLocaleDateString();
@@ -99,7 +125,7 @@ export const FallacyLogView: React.FC<FallacyLogViewProps> = ({
             >
               <div className="flex justify-between items-start">
                 <h4 className="text-sm font-bold text-yellow-300">
-                  {entry.term}
+                  {entry.displayTerm || entry.term}
                 </h4>
                 {onRemoveEntry && (
                   <button
