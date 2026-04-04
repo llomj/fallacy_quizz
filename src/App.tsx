@@ -610,7 +610,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v18</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v19</p>
       </footer>
 
       {/* Operations View Modal */}
