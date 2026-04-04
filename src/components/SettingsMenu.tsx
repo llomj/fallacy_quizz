@@ -300,19 +300,9 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             <button
               onClick={withClickSound(() => { 
                 onClose(); 
-                // Clear all caches and unregister service worker
-                const clearCache = async () => {
-                  if ('caches' in window) {
-                    const cacheNames = await caches.keys();
-                    await Promise.all(cacheNames.map(cacheName => caches.delete(cacheName)));
-                  }
-                  if ('serviceWorker' in navigator) {
-                    const reg = await navigator.serviceWorker.getRegistration();
-                    if (reg) await reg.unregister();
-                  }
-                  window.location.reload();
-                };
-                clearCache();
+                // Store refresh flag in localStorage
+                localStorage.setItem('needsRefresh', 'true');
+                window.location.reload();
               })}
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
             >

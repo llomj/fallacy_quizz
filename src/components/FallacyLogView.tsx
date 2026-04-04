@@ -44,6 +44,9 @@ export const FallacyLogView: React.FC<FallacyLogViewProps> = ({
 }) => {
   const { t, language } = useLanguage();
   const [search, setSearch] = useState('');
+  
+  // DEBUG: Show language status
+  console.log('[FallacyLogView] language:', language, 'entries:', entries.length);
 
   const glossaryMap = useMemo(() => {
     const target = language === 'fr' ? GLOSSARY_TERMS_FR : GLOSSARY_TERMS_EN;
