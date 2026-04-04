@@ -2,7 +2,7 @@ import React, { useState, useMemo } from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 
-interface GlossaryTerm {
+export interface GlossaryTerm {
   term: string;
   definition: string;
   levelRange: string;
@@ -13,7 +13,7 @@ interface GlossaryTerm {
   exampleExpert?: string;
 }
 
-const GLOSSARY_TERMS_EN: GlossaryTerm[] = [
+export const GLOSSARY_TERMS_EN: GlossaryTerm[] = [
   { term: 'Ad Hominem', definition: 'Attacking the person making the argument rather than addressing the argument itself.', levelRange: '1-10', detailedDescription: 'Category: Logical Fallacies - Relevance failure in premise.' },
   { term: 'Appeal to Authority', definition: 'Using an authority figure\'s opinion as evidence when they are not an expert on the topic.', levelRange: '1-10', detailedDescription: 'Category: Logical Fallacies - Relevance failure in premise.' },
   { term: 'Appeal to Tradition', definition: 'Arguing that something is better or correct simply because it is older or traditional.', levelRange: '1-10', detailedDescription: 'Category: Social & Institutional Behaviors - Relevance failure in premise.' },
@@ -151,7 +151,7 @@ const GLOSSARY_TERMS_EN: GlossaryTerm[] = [
   { term: 'Wrong Direction', definition: 'Reversing the direction of causation.', levelRange: '5-10', detailedDescription: 'Category: Logical Fallacies - Causation error.' },
 ];
 
-const GLOSSARY_TERMS_FR: GlossaryTerm[] = [
+export const GLOSSARY_TERMS_FR: GlossaryTerm[] = [
   { term: 'Ad Hominem', definition: 'Attaquer la personne qui présente l\'argument plutôt que de répondre à l\'argument lui-même.', levelRange: '1-10', detailedDescription: 'Catégorie: Sophismes logiques - Échec de pertinence dans la prémisse.' },
   { term: 'Appel à l\'autorité', definition: 'Utiliser l\'opinion d\'une autorité comme preuve sans justification appropriée.', levelRange: '1-10', detailedDescription: 'Catégorie: Sophismes logiques - Échec de pertinence dans la prémisse.' },
   { term: 'Appel à la tradition', definition: 'Affirmer que quelque chose est meilleur ou correct simplement parce qu\'il est plus ancien ou traditionnel.', levelRange: '1-10', detailedDescription: 'Catégorie: Comportements sociaux et institutionnels - Échec de pertinence.' },

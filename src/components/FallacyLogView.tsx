@@ -2,57 +2,7 @@ import React, { useMemo, useState } from 'react';
 import { FallacyLogEntry } from '../types';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
-
-const GLOSSARY_TERMS_EN: Array<{term: string; definition: string; levelRange: string}> = [
-  { term: 'Ad Hominem', definition: 'Attacking the person making the argument rather than addressing the argument itself.', levelRange: '1-10' },
-  { term: 'Appeal to Authority', definition: 'Using an authority figure\'s opinion as evidence when they are not an expert on the topic.', levelRange: '1-10' },
-  { term: 'Appeal to Tradition', definition: 'Arguing that something is better or correct simply because it is older or traditional.', levelRange: '1-10' },
-  { term: 'Appeal to Novelty', definition: 'Claiming that something is superior or true simply because it is new or modern.', levelRange: '1-10' },
-  { term: 'Appeal to Popularity', definition: 'Arguing that a proposition is true because many or most people believe it.', levelRange: '1-10' },
-  { term: 'Appeal to Emotion', definition: 'Manipulating an emotional response in place of a valid or compelling argument.', levelRange: '1-10' },
-  { term: 'Appeal to Fear', definition: 'Using scare tactics to influence the audience\'s decision-making.', levelRange: '1-10' },
-  { term: 'Appeal to Ignorance', definition: 'Arguing that a claim is true simply because it has not been proven false.', levelRange: '1-10' },
-  { term: 'Appeal to Incredulity', definition: 'Asserting that a proposition must be false because it contradicts one\'s personal expectations or is difficult to imagine.', levelRange: '1-10' },
-  { term: 'Anecdotal Fallacy', definition: 'Using a personal experience or an isolated example instead of effective evidence.', levelRange: '1-10' },
-  { term: 'Begging the Question', definition: 'Using a conclusion as a premise of the same argument.', levelRange: '1-10' },
-  { term: 'False Dilemma', definition: 'Presenting only two options when more exist.', levelRange: '1-10' },
-  { term: 'Straw Man', definition: 'Misrepresenting someone\'s argument to make it easier to attack.', levelRange: '1-10' },
-  { term: 'Slippery Slope', definition: 'Claiming that one event will lead to extreme consequences without evidence.', levelRange: '1-10' },
-  { term: 'Circular Reasoning', definition: 'Using a conclusion as a premise of the same argument.', levelRange: '3-10' },
-  { term: 'Post Hoc', definition: 'Assuming that because one event followed another, the first caused the second.', levelRange: '1-10' },
-  { term: 'Confirmation Bias', definition: 'Seeking information that confirms existing beliefs.', levelRange: '2-10' },
-  { term: 'Bandwagon Fallacy', definition: 'Assuming something is true because many people believe it.', levelRange: '2-10' },
-  { term: 'Sunk Cost Fallacy', definition: 'Continuing an action because of previously invested resources.', levelRange: '1-10' },
-  { term: 'False Cause', definition: 'Presuming that a real or perceived relationship between things means one is the cause of the other.', levelRange: '1-10' },
-];
-
-const GLOSSARY_TERMS_FR: Array<{term: string; definition: string; levelRange: string}> = [
-  { term: 'Ad Hominem', definition: 'Attaquer la personne qui présente l\'argument plutôt que de répondre à l\'argument lui-même.', levelRange: '1-10' },
-  { term: 'Appel à l\'autorité', definition: 'Utiliser l\'opinion d\'une autorité comme preuve sans justification appropriée.', levelRange: '1-10' },
-  { term: 'Appel à la tradition', definition: 'Affirmer que quelque chose est meilleur ou correct simplement parce qu\'il est plus ancien ou traditionnel.', levelRange: '1-10' },
-  { term: 'Appel à la nouveauté', definition: 'Affirmer que quelque chose est supérieur ou vrai simplement parce qu\'il est nouveau ou moderne.', levelRange: '1-10' },
-  { term: 'Appel à la popularité', definition: 'Affirmer qu\'une proposition est vraie parce que beaucoup de gens y croient.', levelRange: '1-10' },
-  { term: 'Appel à l\'émotion', definition: 'Manipuler une réponse émotionnelle au lieu d\'un argument valide.', levelRange: '1-10' },
-  { term: 'Appel à la peur', definition: 'Utiliser des tactiques de peur pour influencer la prise de décision.', levelRange: '1-10' },
-  { term: 'Appel à l\'ignorance', definition: 'Affirmer qu\'une réclamation est vraie simplement parce qu\'elle n\'a pas été prouvée fausse.', levelRange: '1-10' },
-  { term: 'Appel à l\'incrédulité', definition: 'Affirmer qu\'une proposition doit être fausse parce qu\'elle contredit les attentes personnelles.', levelRange: '1-10' },
-  { term: 'Sophisme anecdotique', definition: 'Utiliser une expérience personnelle au lieu de preuves efficaces.', levelRange: '1-10' },
-  { term: 'Pétition de principe', definition: 'Utiliser une conclusion comme prémisse du même argument.', levelRange: '1-10' },
-  { term: 'Faux dilemme', definition: 'Présenter seulement deux options quand il en existe davantage.', levelRange: '1-10' },
-  { term: 'Homme de paille', definition: 'Déformer l\'argument de quelqu\'un pour le rendre plus facile à attaquer.', levelRange: '1-10' },
-  { term: 'Pente glissante', definition: 'Affirmer qu\'un événement mènera à des conséquences extrêmes sans preuve.', levelRange: '1-10' },
-  { term: 'Raisonnement circulaire', definition: 'Utiliser une conclusion comme prémisse du même argument.', levelRange: '3-10' },
-  { term: 'Post Hoc', definition: 'Supposer que parce qu\'un événement en a suivi un autre, le premier a causé le second.', levelRange: '1-10' },
-  { term: 'Biais de confirmation', definition: 'Rechercher des informations qui confirment les croyances existantes.', levelRange: '2-10' },
-  { term: 'Appel à la foule', definition: 'Supposer qu\'une chose est vraie parce que beaucoup de gens le croient.', levelRange: '2-10' },
-  { term: 'Sophisme des coûts irrécupérables', definition: 'Continuer une action en raison des ressources déjà investies.', levelRange: '1-10' },
-  { term: 'Fausse cause', definition: 'Présumer qu\'une relation réelle ou perçue entre les choses signifie que l\'une est la cause de l\'autre.', levelRange: '1-10' },
-];
-
-const getFallbackTranslation = (term: string, targetLang: 'en' | 'fr'): { term: string; definition: string; levelRange: string } | undefined => {
-  const targetGlossary = targetLang === 'fr' ? GLOSSARY_TERMS_FR : GLOSSARY_TERMS_EN;
-  return targetGlossary.find(t => t.term.toLowerCase() === term.toLowerCase());
-};
+import { GLOSSARY_TERMS_EN, GLOSSARY_TERMS_FR } from './GlossaryView';
 
 interface FallacyLogViewProps {
   entries: FallacyLogEntry[];
@@ -70,8 +20,8 @@ export const FallacyLogView: React.FC<FallacyLogViewProps> = ({
   const { t, language } = useLanguage();
   const [search, setSearch] = useState('');
 
-  const targetLang = language === 'fr' ? 'fr' : 'en';
-  const targetGlossary = targetLang === 'fr' ? GLOSSARY_TERMS_FR : GLOSSARY_TERMS_EN;
+  const targetGlossary = language === 'fr' ? GLOSSARY_TERMS_FR : GLOSSARY_TERMS_EN;
+  
   const glossaryMap = useMemo(() => {
     const map = new Map<string, typeof targetGlossary[0]>();
     for (const item of targetGlossary) {
