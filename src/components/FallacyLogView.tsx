@@ -58,8 +58,8 @@ export const FallacyLogView: React.FC<FallacyLogViewProps> = ({
 
   const getDisplayEntry = (entry: FallacyLogEntry): FallacyLogEntry & { displayTerm: string } => {
     if (language === 'fr') {
-      const englishTerm = FR_TO_EN_MAP[entry.term] || entry.term;
-      const translated = glossaryMap.get(englishTerm.toLowerCase().trim());
+      const frenchTerm = EN_TO_FR_MAP[entry.term] || entry.term;
+      const translated = glossaryMap.get(frenchTerm.toLowerCase().trim());
       if (translated) {
         return {
           term: entry.term,
