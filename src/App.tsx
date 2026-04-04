@@ -32,7 +32,7 @@ const INITIAL_STATS: UserStats = {
 
 const QuizView = lazy(() => import('./components/QuizView').then((module) => ({ default: module.QuizView })));
 const HistoryLog = lazy(() => import('./components/HistoryLog').then((module) => ({ default: module.HistoryLog })));
-const GlossaryView = lazy(() => import('./components/GlossaryView').then((module) => ({ default: module.GlossaryView })));
+import { GlossaryView } from './components/GlossaryView';
 const OperationsView = lazy(() => import('./components/OperationsView').then((module) => ({ default: module.OperationsView })));
 const MethodsView = lazy(() => import('./components/MethodsView').then((module) => ({ default: module.MethodsView })));
 const FlagsView = lazy(() => import('./components/FlagsView').then((module) => ({ default: module.FlagsView })));
@@ -513,11 +513,9 @@ const App: React.FC = () => {
         ) : view === 'log' ? (
           null
         ) : view === 'glossary' ? (
-          <Suspense fallback={<ViewLoading />}>
-            <div className="max-w-4xl mx-auto">
-              <GlossaryView onBack={() => setView('hub')} onPlayClickSound={playClickSound} />
-            </div>
-          </Suspense>
+          <div className="max-w-4xl mx-auto">
+            <GlossaryView onBack={() => setView('hub')} onPlayClickSound={playClickSound} />
+          </div>
         ) : showResult ? (
           <>
             {showResult.starEarned ? (
@@ -612,7 +610,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v14</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v15</p>
       </footer>
 
       {/* Operations View Modal */}
