@@ -476,7 +476,7 @@ const App: React.FC = () => {
         onToggleHaptic={() => setPrefs(p => ({ ...p, hapticEnabled: !p.hapticEnabled }))}
         lightMode={prefs.lightMode}
         onToggleLightMode={() => setPrefs(p => ({ ...p, lightMode: !p.lightMode }))}
-        onShowGlossary={() => { console.log('[App] Setting view to glossary'); setView('glossary'); }}
+        onShowGlossary={() => setView('glossary')}
         onShowArgumentation={() => setShowArgumentation(true)}
         onShowIdSearch={(initialId?: number) => { setIdSearchInitialId(initialId ?? null); setShowIdSearch(true); }}
         onShowIdLog={() => setShowIdLog(true)}
@@ -513,9 +513,13 @@ const App: React.FC = () => {
         ) : view === 'log' ? (
           null
         ) : view === 'glossary' ? (
-          <div className="max-w-4xl mx-auto">
-            <GlossaryView onBack={() => setView('hub')} onPlayClickSound={playClickSound} />
-          </div>
+          view === 'glossary' && GlossaryView ? (
+            <div className="max-w-4xl mx-auto">
+              <GlossaryView onBack={() => setView('hub')} onPlayClickSound={playClickSound} />
+            </div>
+          ) : (
+            <div className="text-center text-slate-500 py-10">Loading glossary...</div>
+          )
         ) : showResult ? (
           <>
             {showResult.starEarned ? (
@@ -610,7 +614,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v16</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v17</p>
       </footer>
 
       {/* Operations View Modal */}

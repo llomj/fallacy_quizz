@@ -10,7 +10,6 @@ interface GlossaryViewProps {
 }
 
 export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickSound }) => {
-  console.log('[GlossaryView] Rendering, view = glossary');
   const { t } = useLanguage();
   const GLOSSARY = useTranslatedGlossary();
   const [search, setSearch] = useState('');
