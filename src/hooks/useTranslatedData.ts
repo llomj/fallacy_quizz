@@ -11,14 +11,25 @@ export const useTranslatedGlossary = (): GlossaryItem[] => {
   const { language } = useLanguage();
   
   return React.useMemo(() => {
+    const sourceArray = language === 'fr' ? GLOSSARY_FR : GLOSSARY;
+    
+    // Deduplicate by term to prevent React key collisions and performance loops
+    const uniqueMap = new Map<string, GlossaryItem>();
+    for (const item of sourceArray) {
+      if (!uniqueMap.has(item.term)) {
+        uniqueMap.set(item.term, item);
+      }
+    }
+    const uniqueItems = Array.from(uniqueMap.values());
+
     if (language === 'fr') {
-      return GLOSSARY_FR.map((item) => ({
+      return uniqueItems.map((item) => ({
         ...item,
         definition: normalizeFrenchProse(item.definition),
         detailedDescription: normalizeFrenchProse(item.detailedDescription),
       }));
     }
-    return GLOSSARY;
+    return uniqueItems;
   }, [language]);
 };
 

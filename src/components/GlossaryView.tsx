@@ -52,7 +52,8 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
       .sort((a, b) => a.term.localeCompare(b.term));
   }, [GLOSSARY, search]);
 
-  const levels = Array.from({ length: 11 }, (_, i) => i); // 0 to 10
+  // Memoize levels to prevent breaking useMemo dependencies
+  const levels = React.useMemo(() => Array.from({ length: 11 }, (_, i) => i), []);
 
   const getLevelsFromRange = (range: string): number[] => {
     const parts = range.split('-').map((part) => Number(part.trim()));
