@@ -27,9 +27,7 @@ const EN_TO_FR_MAP: Record<string, string> = {
   'False Cause': 'Fausse cause',
 };
 
-const FR_TO_EN_MAP: Record<string, string> = Object.fromEntries(
-  Object.entries(EN_TO_FR_MAP).map(([en, fr]) => [fr, en])
-);
+const FRENCH_TERMS = new Set(Object.values(EN_TO_FR_MAP));
 
 interface FallacyLogViewProps {
   entries: FallacyLogEntry[];
@@ -58,14 +56,13 @@ export const FallacyLogView: React.FC<FallacyLogViewProps> = ({
 
   const getDisplayEntry = (entry: FallacyLogEntry): FallacyLogEntry & { displayTerm: string } => {
     if (language === 'fr') {
+      // If term is already French, keep it as-is
+      if (FRENCH_TERMS.has(entry.term)) {
+        return { ...entry, displayTerm: entry.term };
+      }
+      // Translate English to French
       const frenchTerm = EN_TO_FR_MAP[entry.term] || entry.term;
-      return {
-        term: entry.term,
-        definition: entry.definition,
-        levelRange: entry.levelRange,
-        timestamp: entry.timestamp,
-        displayTerm: frenchTerm
-      };
+      return { ...entry, displayTerm: frenchTerm };
     }
     return { ...entry, displayTerm: entry.term };
   };
@@ -78,7 +75,7 @@ export const FallacyLogView: React.FC<FallacyLogViewProps> = ({
         entry.definition.toLowerCase().includes(search.toLowerCase())
       )
       .sort((a, b) => b.timestamp - a.timestamp);
-  }, [entries, search, glossaryMap, language]);
+  }, [entries, search, language]);
 
   const formatDate = (timestamp: number) => {
     return new Date(timestamp).toLocaleDateString();
