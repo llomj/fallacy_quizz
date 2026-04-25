@@ -1,13 +1,20 @@
 # Fallacy Quiz — In-depth explanations (authoring tracker)
 
-**Purpose:** Every question should eventually have **unique** in-depth text for **Beginner**, **Intermediate**, and **Expert**, tightly tied to **that** question’s scenario. **English** and **French** must stay in **structural parity** (same sections, same depth; intermediate and expert should be verbose and step-by-step where useful). Numbered steps: use `1. ` (space after the period) and a **blank line between steps** for readability (§14 AGENTS.md).
+**Purpose:** Every question must have **unique** in-depth text for both **Beginner** and **Detail** tiers, tightly tied to **that** question's scenario. **English** and **French** must be done in the **same pass**. The old three-tier system (beginner / intermediate / expert) is **abolished** — the UI now shows **Beginner** (one-liner) and **Detail** (full structured breakdown) only. See §14 AGENTS.md for the mandatory format (Weber-Fechner style with syntax-highlighted section headers).
 
-**Coverage status (this tracker):** **Complete** for all IDs in scope — Level **0** (1001–1300), Level **1** (1–90), and Levels **2–10** (91–900). Fallacy IDs **1–900** use the **layperson / fallacy-only** template (see Authoring checklist). Level **0** items teach argument basics (e.g. premise/conclusion) and may still **walk through answer choices** where that is the skill being tested; a future pass could align tone with the fallacy style if desired.
+> **This is the last major content task for the app. It must be completed.**
 
-**Codon quality pass (§14 AGENTS.md, Mar 2026):** Level 0 has **30** batches × 10 IDs (not 100 batches). **Plain, step-by-step style** (no label soup): rewrites must cover **both** English and French for the **same IDs** in one pass—`LEVEL_0_STANDALONE_EN` **and** `LEVEL_0_STANDALONE_FR` in `level0StandaloneInDepth.ts` (see §6 / §14 AGENTS.md). French follows `LEVEL_0_GEN_FR` when EN/FR scenarios differ. Track EN and FR progress separately in this file until each band matches.
+**Work order:** Level **1** (IDs 1–90) → Levels **2–10** (IDs 91–900) → Level **0** (IDs 1001–1300). Batches of **20** IDs. EN + FR in the **same pass** — a batch is not done until both languages are written.
+
+**Codon quality pass — NEW FORMAT (§14 AGENTS.md, Apr 2026):**
+- **Beginner** = one-liner sentence (the "One-line version" from the Detail panel).
+- **Detail** = full Weber-Fechner-style structured breakdown with syntax-highlighted section headers.
+- 20 questions per batch. Do not jump ahead.
+- EN + FR in the same pass — French must use the same structure and natural French (not word-for-word translation when scenarios differ).
+
 
 **Technical source of truth (Level 0):** `src/data/inDepth/level0StandaloneInDepth.ts`  
-- `LEVEL_0_STANDALONE_EN` / `LEVEL_0_STANDALONE_FR`: `Record<questionId, { beginner, intermediate, expert }>` — **300 / 300** IDs present (see Level 0 progress below).  
+- `LEVEL_0_STANDALONE_EN` / `LEVEL_0_STANDALONE_FR`: `Record<questionId, { beginner, detail }>` — **300 / 300** IDs present (see Level 0 progress below). **NEW FORMAT in progress** — all IDs need rewriting to Beginner (one-liner) + Detail (Weber-Fechner style).  
 - When an ID is present, the app shows that string as the **full** in-depth panel (no codon wrapper).  
 - Pipeline: `getDetailedExplanationForLevel` (EN) and `getTranslatedDetailedExplanation` (FR) read these maps first for Level 0 (IDs **1001–1300** in FR lookup).
 
@@ -45,7 +52,7 @@
 
 ## Level 0 progress (300 IDs)
 
-**Rule:** Mark an ID **done** only when **both** `LEVEL_0_STANDALONE_EN` and `LEVEL_0_STANDALONE_FR` contain `beginner`, `intermediate`, and `expert` for that ID.
+**Rule:** Mark an ID **done** only when **both** `LEVEL_0_STANDALONE_EN` and `LEVEL_0_STANDALONE_FR` contain `beginner` (one-liner) and `detail` (full Weber-Fechner-style breakdown) for that ID — in the new two-tier format.
 
 | Range | IDs complete | Notes |
 |-------|----------------|-------|
@@ -73,21 +80,25 @@
 
 ## Level 1 progress (90 IDs: 1–90)
 
-**Rule:** Mark an ID **done** only when **both** `LEVEL_1_STANDALONE_EN` and `LEVEL_1_STANDALONE_FR` contain `beginner`, `intermediate`, and `expert` for that ID.
+**Rule:** Mark an ID **done** only when **both** `LEVEL_1_STANDALONE_EN` and `LEVEL_1_STANDALONE_FR` contain `beginner` (one-liner) and `detail` (full Weber-Fechner-style breakdown) for that ID — new two-tier format.
 
 **Source of truth:** Questions live in **`fallaciesData.ts`** (`FALLACY_QUESTIONS_EN` / `FALLACY_QUESTIONS_FR`), IDs **1–90**, `level: 1`.
 
 | Range | IDs complete | Notes |
 |-------|----------------|-------|
-| 1–90 | **90 / 90** | `level1StandaloneInDepth.ts` — EN+FR; regenerate via `scripts/generate-level1-standalone.mjs` if `fallaciesData` changes |
+| 1–20 | **20 / 20** | NEW FORMAT ✅ EN: Ad Hominem (1–3), Appeal to Authority (4–6), Appeal to Tradition (7–9), Appeal to Novelty (10–12), Appeal to Popularity (13–15), Appeal to Emotion (16–18), Appeal to Fear (19–20). FR: Ad Hominem (1–3), Ad Hominem Abusif (4–6), Ad Hominem Circonstanciel (7–9), Tu Quoque (10–12), Appel à l'Autorité (13–15), Appel à la Fausse Autorité (16–18), Appel à l'Autorité Anonyme (19–20). |
+| 21–40 | **20 / 20** | NEW FORMAT ✅ EN: Appeal to Fear (21), Appeal to Ignorance (22–24), Appeal to Incredulity (25–27), Anecdotal Fallacy (28–30), Availability Heuristic (31–33), Base Rate Fallacy (34–36), Begging the Question (37–39), Biased Sample (40). FR: Appel Autorité Anonyme (21), Appel à la Tradition (22–24), Appel à la Nouveauté (25–27), Appel à la Popularité (28–30), Appel à la Majorité (31–33), Effet de Mode/Bandwagon (34–36), Appel à l'Émotion (37–39), Appel à la Peur (40). |
+| 41–60 | **20 / 20** | NEW FORMAT ✅ EN+FR complete. |
+| 61–80 | **0 / 20** | NEW FORMAT — to do (Batch 4) |
+| 81–90 | **0 / 10** | NEW FORMAT — to do (Batch 5, 10 IDs) |
 
-**Completed IDs (Level 1):** **1–90** (**90 / 90**)
+**Completed IDs (Level 1) — NEW FORMAT:** **20 / 90** (Batch 1–2 done; Batch 3 complete here)
 
 ---
 
 ## Levels 2–10 progress (810 IDs: 91–900)
 
-**Rule:** Same as Level 1 — each ID needs **both** EN and FR standalone maps with all three depths.
+**Rule:** Same as Level 1 — each ID needs **both** EN and FR standalone maps with `beginner` (one-liner) and `detail` (Weber-Fechner-style breakdown) in the new two-tier format.
 
 **Source of truth:** **`fallaciesData.ts`**, IDs **91–900**, `level: 2` … `level: 10` (see Scope table for ranges).
 
@@ -107,25 +118,32 @@
 
 **Apr 2026 style pass:** Level **10** IDs **811–827** were rewritten in the plain numbered lesson format (EN + FR) to match the easier-to-scan style used in Level 0.
 
-**Completed IDs (Levels 2–10):** **91–900** (**810 / 810**)
+**Completed IDs (Levels 2–10) — NEW FORMAT:** **0 / 810** (all need rewriting to Beginner+Detail two-tier style)
 
 ---
 
-## Authoring checklist (each ID)
+## Authoring checklist (each batch of 20 IDs)
 
-1. Read the **exact** question and options in `LEVEL_0_GEN_EN` and `LEVEL_0_GEN_FR` (same ID).
-2. Write **beginner**: plain language, walk through distractors vs correct option using **this** scenario.
-3. Write **intermediate**: longer, step-by-step, explicit mapping (premise/conclusion or problem/fix where relevant).
-4. Write **expert**: formal vocabulary, reconstruction, distractor analysis, optional pedagogical caveats.
-5. Translate to French with **matching** sections and depth (not a summary).
-6. Add entries to both `LEVEL_0_STANDALONE_EN` and `LEVEL_0_STANDALONE_FR` for the same ID.
+1. Read the **exact** question and options in both EN and FR banks for each ID in the batch.
+2. Write **Beginner** = a single sentence (the "One-line version" for that specific fallacy and question).
+3. Write **Detail** = full structured breakdown in the Weber-Fechner style (see §14 AGENTS.md): `Description:` → 2+ examples → mechanism → `So:` bullets → `Key concept inside it` → `Why it matters` → `The uncomfortable implication` → `One-line version`.
+4. Ensure section headers in Detail are marked for syntax-highlighting (yellow accent in UI).
+5. Repeat steps 2–4 in **French** for the same 20 IDs in the same pass.
+6. Add/update entries in both `*_STANDALONE_EN` and `*_STANDALONE_FR` for the same IDs.
 7. Run `npm run build` before committing.
+
+
 
 **Level 1:** Same checklist, but use `LEVEL_1_STANDALONE_EN` / `LEVEL_1_STANDALONE_FR` and IDs **1–90**. Bulk content is generated by `scripts/generate-level1-standalone.mjs`; hand-edit individual IDs if a scenario needs richer pedagogy.
 
 **Levels 2–10:** Same checklist pattern; bulk content is generated by `scripts/generate-standalone-levels-2-10.mjs`; hand-edit individual IDs as needed.
 
-**Fallacy in-depth style (IDs 1–900):** Text should stay **easy to read**, focus on **the named fallacy only** (do not walk through the wrong multiple-choice labels). **Beginner** = definition + this passage; **Intermediate** = same core + **more examples** of that fallacy; **Expert** = more examples + **rules / checks**. Regenerate from the scripts after changing this pattern.
+**NEW FORMAT (IDs 1–900, §14 AGENTS.md):**
+- **Beginner** = one single sentence (the "One-line version" at the bottom of the Detail panel).
+- **Detail** = full Weber-Fechner-style structured breakdown with syntax-highlighted section headers. At least 2 examples in different contexts. Plain language. No jargon.
+- Headers in Detail must be highlighted (yellow accent in UI): `Description:`, `Example (…)`, `Why it matters`, `One-line version`, etc.
+- Do not use intermediate or expert tiers — they are gone.
+- EN + FR in the same pass. French must be natural, not a literal translation.
 
 ---
 
@@ -135,7 +153,7 @@
 - Keep `AGENTS.md` glossary and `glossary.md` consistency for fallacy definitions.  
 - After completing a batch, update the **Range** table and **Last updated** below.
 
-**Last updated:** 2026-03-21 (fallacy in-depth template: layperson, fallacy-only, progressive examples)
+**Last updated:** 2026-04-25 (Batch 3 complete; next up: 61–80)
 
 ### Next steps (optional, not blocking)
 

@@ -14,3785 +14,5159 @@ import type { StandaloneInDepthLevels } from './level0StandaloneInDepth';
 /** English */
 export const LEVEL_1_STANDALONE_EN: Partial<Record<number, StandaloneInDepthLevels>> = {
   1: {
-    beginner: `## Ad Hominem — in-depth (Beginner)
+    beginner: `Ad Hominem = attacking the person instead of their argument.`,
+    intermediate: `Ad Hominem
 
-**What this is, in plain English**  
-Attacking the person making the argument rather than addressing the argument itself.
+Description:
+Instead of attacking the argument, you attack the person making it.
+The argument itself is never examined.
 
-**The example you’re looking at**  
-« You can't believe Jack when he says the proposed policy would help the economy. He doesn't even have a job. »  
+Example (politics)
+"You can't trust Jack's views on the economy — he doesn't even have a job."
+Jack's employment status says nothing about whether his policy analysis is correct.
+The argument about the policy is never addressed.
 
-**Why this is Ad Hominem**  
-Attacking the person making the argument rather than addressing the argument itself. That is what this label is pointing to in the passage above.
+Example (science debate)
+"Why would I listen to her views on climate? She drives an SUV."
+Personal lifestyle has no bearing on the validity of scientific evidence.
 
-**Takeaway**  
-Attacking the person making the argument rather than addressing the argument itself.`,
-    intermediate: `## Ad Hominem — in-depth (Intermediate)
+How it works
+The attacker shifts attention from the claim to the claimant.
+This is a distraction — even a flawed person can make a correct argument.
 
-**What this is, in plain English**  
-Attacking the person making the argument rather than addressing the argument itself.
+So:
+Character flaws do not disprove arguments
+Lifestyle choices do not disprove arguments
+The content of the argument must be judged on its own merits
 
-**This example**  
-« You can't believe Jack when he says the proposed policy would help the economy. He doesn't even have a job. »  
+Key concept inside it
+Relevance:
+A premise must be logically connected to the conclusion.
+The speaker's character is irrelevant to the truth of what they say.
 
-The passage shows **Ad Hominem** in action: attacking the person making the argument rather than addressing the argument itself.
+Why it matters
+Explains why:
+Political debates often focus on scandals instead of policies
+Social media attacks target messengers, not messages
+Experts are dismissed based on who funds them, not what they found
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: attacking the person making the argument rather than addressing the argument itself.
+The uncomfortable implication
+You can be wrong and right at the same time.
+A corrupt person can still make a correct argument.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if attacking the person making the argument rather than addressing the argument itself.
+One-line version
+Ad Hominem = attacking the person instead of their argument.`,
+    expert: `Ad Hominem
 
-- **Example 3:** In a news headline or social post, watch for this pattern: Attacking the person making the argument rather than addressing the argument itself.
+Description:
+Instead of attacking the argument, you attack the person making it.
+The argument itself is never examined.
 
-**In one sentence**  
-Ad Hominem is the label for reasoning that fits: Attacking the person making the argument rather than addressing the argument itself.`,
-    expert: `## Ad Hominem — in-depth (Expert)
+Example (politics)
+"You can't trust Jack's views on the economy — he doesn't even have a job."
+Jack's employment status says nothing about whether his policy analysis is correct.
+The argument about the policy is never addressed.
 
-**Definition**  
-Attacking the person making the argument rather than addressing the argument itself.
+Example (science debate)
+"Why would I listen to her views on climate? She drives an SUV."
+Personal lifestyle has no bearing on the validity of scientific evidence.
 
-**Applied to this passage**  
-« You can't believe Jack when he says the proposed policy would help the economy. He doesn't even have a job. »  
+How it works
+The attacker shifts attention from the claim to the claimant.
+This is a distraction — even a flawed person can make a correct argument.
 
-Here, **Ad Hominem** is the right name because attacking the person making the argument rather than addressing the argument itself.
+So:
+Character flaws do not disprove arguments
+Lifestyle choices do not disprove arguments
+The content of the argument must be judged on its own merits
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: attacking the person making the argument rather than addressing the argument itself.
+Key concept inside it
+Relevance:
+A premise must be logically connected to the conclusion.
+The speaker's character is irrelevant to the truth of what they say.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if attacking the person making the argument rather than addressing the argument itself.
+Why it matters
+Explains why:
+Political debates often focus on scandals instead of policies
+Social media attacks target messengers, not messages
+Experts are dismissed based on who funds them, not what they found
 
-- **Example 3:** In a news headline or social post, watch for this pattern: Attacking the person making the argument rather than addressing the argument itself.
+The uncomfortable implication
+You can be wrong and right at the same time.
+A corrupt person can still make a correct argument.
 
-- **Example 4:** Another everyday spot: a health or habits story. Attacking the person making the argument rather than addressing the argument itself.
-
-- **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** Attacking the person making the argument rather than addressing the argument itself.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Ad Hominem** means Attacking the person making the argument rather than addressing the argument itself.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Ad Hominem = attacking the person instead of their argument.`,
   },
   2: {
-    beginner: `## Ad Hominem — in-depth (Beginner)
+    beginner: `Ad Hominem = attacking the person instead of their argument.`,
+    intermediate: `Ad Hominem
 
-**What this is, in plain English**  
-Attacking the person making the argument rather than addressing the argument itself.
+Description:
+Instead of attacking the argument, you attack the person making it.
+The argument itself is never examined.
 
-**The example you’re looking at**  
-« My opponent suggests that lowering taxes will be a good idea -- this is coming from a woman who eats a pint of Ben and Jerry’s each night! »  
+Example (politics)
+"You can't trust Jack's views on the economy — he doesn't even have a job."
+Jack's employment status says nothing about whether his policy analysis is correct.
+The argument about the policy is never addressed.
 
-**Why this is Ad Hominem**  
-Attacking the person making the argument rather than addressing the argument itself. That is what this label is pointing to in the passage above.
+Example (science debate)
+"Why would I listen to her views on climate? She drives an SUV."
+Personal lifestyle has no bearing on the validity of scientific evidence.
 
-**Takeaway**  
-Attacking the person making the argument rather than addressing the argument itself.`,
-    intermediate: `## Ad Hominem — in-depth (Intermediate)
+How it works
+The attacker shifts attention from the claim to the claimant.
+This is a distraction — even a flawed person can make a correct argument.
 
-**What this is, in plain English**  
-Attacking the person making the argument rather than addressing the argument itself.
+So:
+Character flaws do not disprove arguments
+Lifestyle choices do not disprove arguments
+The content of the argument must be judged on its own merits
 
-**This example**  
-« My opponent suggests that lowering taxes will be a good idea -- this is coming from a woman who eats a pint of Ben and Jerry’s each night! »  
+Key concept inside it
+Relevance:
+A premise must be logically connected to the conclusion.
+The speaker's character is irrelevant to the truth of what they say.
 
-The passage shows **Ad Hominem** in action: attacking the person making the argument rather than addressing the argument itself.
+Why it matters
+Explains why:
+Political debates often focus on scandals instead of policies
+Social media attacks target messengers, not messages
+Experts are dismissed based on who funds them, not what they found
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if attacking the person making the argument rather than addressing the argument itself.
+The uncomfortable implication
+You can be wrong and right at the same time.
+A corrupt person can still make a correct argument.
 
-- **Example 2:** In a family argument, watch for this pattern: Attacking the person making the argument rather than addressing the argument itself.
+One-line version
+Ad Hominem = attacking the person instead of their argument.`,
+    expert: `Ad Hominem
 
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Attacking the person making the argument rather than addressing the argument itself.
+Description:
+Instead of attacking the argument, you attack the person making it.
+The argument itself is never examined.
 
-**In one sentence**  
-Ad Hominem is the label for reasoning that fits: Attacking the person making the argument rather than addressing the argument itself.`,
-    expert: `## Ad Hominem — in-depth (Expert)
+Example (politics)
+"You can't trust Jack's views on the economy — he doesn't even have a job."
+Jack's employment status says nothing about whether his policy analysis is correct.
+The argument about the policy is never addressed.
 
-**Definition**  
-Attacking the person making the argument rather than addressing the argument itself.
+Example (science debate)
+"Why would I listen to her views on climate? She drives an SUV."
+Personal lifestyle has no bearing on the validity of scientific evidence.
 
-**Applied to this passage**  
-« My opponent suggests that lowering taxes will be a good idea -- this is coming from a woman who eats a pint of Ben and Jerry’s each night! »  
+How it works
+The attacker shifts attention from the claim to the claimant.
+This is a distraction — even a flawed person can make a correct argument.
 
-Here, **Ad Hominem** is the right name because attacking the person making the argument rather than addressing the argument itself.
+So:
+Character flaws do not disprove arguments
+Lifestyle choices do not disprove arguments
+The content of the argument must be judged on its own merits
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if attacking the person making the argument rather than addressing the argument itself.
+Key concept inside it
+Relevance:
+A premise must be logically connected to the conclusion.
+The speaker's character is irrelevant to the truth of what they say.
 
-- **Example 2:** In a family argument, watch for this pattern: Attacking the person making the argument rather than addressing the argument itself.
+Why it matters
+Explains why:
+Political debates often focus on scandals instead of policies
+Social media attacks target messengers, not messages
+Experts are dismissed based on who funds them, not what they found
 
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Attacking the person making the argument rather than addressing the argument itself.
+The uncomfortable implication
+You can be wrong and right at the same time.
+A corrupt person can still make a correct argument.
 
-- **Example 4:** **Setting:** sports or business results. **What goes wrong:** Attacking the person making the argument rather than addressing the argument itself.
-
-- **Example 5:** Imagine a family argument. The slip is the same: attacking the person making the argument rather than addressing the argument itself.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Ad Hominem** means Attacking the person making the argument rather than addressing the argument itself.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Ad Hominem = attacking the person instead of their argument.`,
   },
   3: {
-    beginner: `## Ad Hominem — in-depth (Beginner)
+    beginner: `Ad Hominem = attacking the person instead of their argument.`,
+    intermediate: `Ad Hominem
 
-**What this is, in plain English**  
-Attacking the person making the argument rather than addressing the argument itself.
+Description:
+Instead of attacking the argument, you attack the person making it.
+The argument itself is never examined.
 
-**The example you’re looking at**  
-« Tony wants us to believe that the origin of life was an accident. Tony is a godless SOB who has spent more time in jail than in church. »  
+Example (politics)
+"You can't trust Jack's views on the economy — he doesn't even have a job."
+Jack's employment status says nothing about whether his policy analysis is correct.
+The argument about the policy is never addressed.
 
-**Why this is Ad Hominem**  
-Attacking the person making the argument rather than addressing the argument itself. That is what this label is pointing to in the passage above.
+Example (science debate)
+"Why would I listen to her views on climate? She drives an SUV."
+Personal lifestyle has no bearing on the validity of scientific evidence.
 
-**Takeaway**  
-Attacking the person making the argument rather than addressing the argument itself.`,
-    intermediate: `## Ad Hominem — in-depth (Intermediate)
+How it works
+The attacker shifts attention from the claim to the claimant.
+This is a distraction — even a flawed person can make a correct argument.
 
-**What this is, in plain English**  
-Attacking the person making the argument rather than addressing the argument itself.
+So:
+Character flaws do not disprove arguments
+Lifestyle choices do not disprove arguments
+The content of the argument must be judged on its own merits
 
-**This example**  
-« Tony wants us to believe that the origin of life was an accident. Tony is a godless SOB who has spent more time in jail than in church. »  
+Key concept inside it
+Relevance:
+A premise must be logically connected to the conclusion.
+The speaker's character is irrelevant to the truth of what they say.
 
-The passage shows **Ad Hominem** in action: attacking the person making the argument rather than addressing the argument itself.
+Why it matters
+Explains why:
+Political debates often focus on scandals instead of policies
+Social media attacks target messengers, not messages
+Experts are dismissed based on who funds them, not what they found
 
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Attacking the person making the argument rather than addressing the argument itself.
+The uncomfortable implication
+You can be wrong and right at the same time.
+A corrupt person can still make a correct argument.
 
-- **Example 2:** Another everyday spot: a news headline or social post. Attacking the person making the argument rather than addressing the argument itself.
+One-line version
+Ad Hominem = attacking the person instead of their argument.`,
+    expert: `Ad Hominem
 
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Attacking the person making the argument rather than addressing the argument itself.
+Description:
+Instead of attacking the argument, you attack the person making it.
+The argument itself is never examined.
 
-**In one sentence**  
-Ad Hominem is the label for reasoning that fits: Attacking the person making the argument rather than addressing the argument itself.`,
-    expert: `## Ad Hominem — in-depth (Expert)
+Example (politics)
+"You can't trust Jack's views on the economy — he doesn't even have a job."
+Jack's employment status says nothing about whether his policy analysis is correct.
+The argument about the policy is never addressed.
 
-**Definition**  
-Attacking the person making the argument rather than addressing the argument itself.
+Example (science debate)
+"Why would I listen to her views on climate? She drives an SUV."
+Personal lifestyle has no bearing on the validity of scientific evidence.
 
-**Applied to this passage**  
-« Tony wants us to believe that the origin of life was an accident. Tony is a godless SOB who has spent more time in jail than in church. »  
+How it works
+The attacker shifts attention from the claim to the claimant.
+This is a distraction — even a flawed person can make a correct argument.
 
-Here, **Ad Hominem** is the right name because attacking the person making the argument rather than addressing the argument itself.
+So:
+Character flaws do not disprove arguments
+Lifestyle choices do not disprove arguments
+The content of the argument must be judged on its own merits
 
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Attacking the person making the argument rather than addressing the argument itself.
+Key concept inside it
+Relevance:
+A premise must be logically connected to the conclusion.
+The speaker's character is irrelevant to the truth of what they say.
 
-- **Example 2:** Another everyday spot: a news headline or social post. Attacking the person making the argument rather than addressing the argument itself.
+Why it matters
+Explains why:
+Political debates often focus on scandals instead of policies
+Social media attacks target messengers, not messages
+Experts are dismissed based on who funds them, not what they found
 
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Attacking the person making the argument rather than addressing the argument itself.
+The uncomfortable implication
+You can be wrong and right at the same time.
+A corrupt person can still make a correct argument.
 
-- **Example 4:** Imagine school grades or test scores. The slip is the same: attacking the person making the argument rather than addressing the argument itself.
-
-- **Example 5:** Picture a news headline or social post. People often reason as if attacking the person making the argument rather than addressing the argument itself.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Ad Hominem** means Attacking the person making the argument rather than addressing the argument itself.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Ad Hominem = attacking the person instead of their argument.`,
   },
   4: {
-    beginner: `## Appeal to Authority — in-depth (Beginner)
+    beginner: `Appeal to Authority = treating someone's status as proof of their claim, even when it's outside their expertise.`,
+    intermediate: `Appeal to Authority
 
-**What this is, in plain English**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic.
+Description:
+Using someone's authority or status as proof that their claim is correct — even when they have no expertise on the topic.
+Being an expert in one field doesn't make you right about everything.
 
-**The example you’re looking at**  
-« The Pope told me that priests can turn bread into flesh. The Pope is not a liar. Therefore, priests can turn bread into flesh. »  
+Example (religion and science)
+"The Pope said priests can turn bread into flesh, and the Pope never lies. Therefore it's true."
+The Pope is a religious authority. That authority doesn't validate a miraculous physical claim.
+Religious status ≠ scientific evidence.
 
-**Why this is Appeal to Authority**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic. That is what this label is pointing to in the passage above.
+Example (celebrity endorsement)
+"Dr. Frasier Crane — a psychologist — recommends this hot tub."
+Being a doctor of the mind does not make someone an authority on hot tub ergonomics.
+The expertise doesn't transfer.
 
-**Takeaway**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic.`,
-    intermediate: `## Appeal to Authority — in-depth (Intermediate)
+How it works
+The argument leans on prestige, not evidence.
+The question to ask: Is this person an expert on THIS specific claim?
 
-**What this is, in plain English**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic.
+So:
+Expertise in one domain does not carry over to others
+Title or status is not a substitute for relevant evidence
+Even genuine experts can be wrong outside their field
 
-**This example**  
-« The Pope told me that priests can turn bread into flesh. The Pope is not a liar. Therefore, priests can turn bread into flesh. »  
+Key concept inside it
+Domain relevance:
+Authority is only valid when applied to the person's actual area of expertise.
+Outside that domain, their opinion carries no special weight.
 
-The passage shows **Appeal to Authority** in action: using an authority figure's opinion as evidence when they are not an expert on the topic.
+Why it matters
+Explains why:
+Celebrities endorse medical products they know nothing about
+Politicians cite economists who support their pre-existing view
+"Experts say…" without naming who, or their field, is a red flag
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Using an authority figure's opinion as evidence when they are not an expert on the topic.
+The uncomfortable implication
+Credentials impress us more than they should.
+We often stop questioning once someone sounds authoritative.
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using an authority figure's opinion as evidence when they are not an expert on the topic.
+One-line version
+Appeal to Authority = treating someone's status as proof of their claim, even when it's outside their expertise.`,
+    expert: `Appeal to Authority
 
-- **Example 3:** Imagine sports or business results. The slip is the same: using an authority figure's opinion as evidence when they are not an expert on the topic.
+Description:
+Using someone's authority or status as proof that their claim is correct — even when they have no expertise on the topic.
+Being an expert in one field doesn't make you right about everything.
 
-**In one sentence**  
-Appeal to Authority is the label for reasoning that fits: Using an authority figure's opinion as evidence when they are not an expert on the topic.`,
-    expert: `## Appeal to Authority — in-depth (Expert)
+Example (religion and science)
+"The Pope said priests can turn bread into flesh, and the Pope never lies. Therefore it's true."
+The Pope is a religious authority. That authority doesn't validate a miraculous physical claim.
+Religious status ≠ scientific evidence.
 
-**Definition**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic.
+Example (celebrity endorsement)
+"Dr. Frasier Crane — a psychologist — recommends this hot tub."
+Being a doctor of the mind does not make someone an authority on hot tub ergonomics.
+The expertise doesn't transfer.
 
-**Applied to this passage**  
-« The Pope told me that priests can turn bread into flesh. The Pope is not a liar. Therefore, priests can turn bread into flesh. »  
+How it works
+The argument leans on prestige, not evidence.
+The question to ask: Is this person an expert on THIS specific claim?
 
-Here, **Appeal to Authority** is the right name because using an authority figure's opinion as evidence when they are not an expert on the topic.
+So:
+Expertise in one domain does not carry over to others
+Title or status is not a substitute for relevant evidence
+Even genuine experts can be wrong outside their field
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Using an authority figure's opinion as evidence when they are not an expert on the topic.
+Key concept inside it
+Domain relevance:
+Authority is only valid when applied to the person's actual area of expertise.
+Outside that domain, their opinion carries no special weight.
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using an authority figure's opinion as evidence when they are not an expert on the topic.
+Why it matters
+Explains why:
+Celebrities endorse medical products they know nothing about
+Politicians cite economists who support their pre-existing view
+"Experts say…" without naming who, or their field, is a red flag
 
-- **Example 3:** Imagine sports or business results. The slip is the same: using an authority figure's opinion as evidence when they are not an expert on the topic.
+The uncomfortable implication
+Credentials impress us more than they should.
+We often stop questioning once someone sounds authoritative.
 
-- **Example 4:** Picture a family argument. People often reason as if using an authority figure's opinion as evidence when they are not an expert on the topic.
-
-- **Example 5:** In a policy or workplace discussion, watch for this pattern: Using an authority figure's opinion as evidence when they are not an expert on the topic.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Authority** means Using an authority figure's opinion as evidence when they are not an expert on the topic.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Appeal to Authority = treating someone's status as proof of their claim, even when it's outside their expertise.`,
   },
   5: {
-    beginner: `## Appeal to Authority — in-depth (Beginner)
+    beginner: `Appeal to Authority = treating someone's status as proof of their claim, even when it's outside their expertise.`,
+    intermediate: `Appeal to Authority
 
-**What this is, in plain English**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic.
+Description:
+Using someone's authority or status as proof that their claim is correct — even when they have no expertise on the topic.
+Being an expert in one field doesn't make you right about everything.
 
-**The example you’re looking at**  
-« My 5th-grade teacher once told me that girls will go crazy for boys if they learn how to dance. Therefore, if you want to make the ladies go crazy for you, learn to dance. »  
+Example (religion and science)
+"The Pope said priests can turn bread into flesh, and the Pope never lies. Therefore it's true."
+The Pope is a religious authority. That authority doesn't validate a miraculous physical claim.
+Religious status ≠ scientific evidence.
 
-**Why this is Appeal to Authority**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic. That is what this label is pointing to in the passage above.
+Example (celebrity endorsement)
+"Dr. Frasier Crane — a psychologist — recommends this hot tub."
+Being a doctor of the mind does not make someone an authority on hot tub ergonomics.
+The expertise doesn't transfer.
 
-**Takeaway**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic.`,
-    intermediate: `## Appeal to Authority — in-depth (Intermediate)
+How it works
+The argument leans on prestige, not evidence.
+The question to ask: Is this person an expert on THIS specific claim?
 
-**What this is, in plain English**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic.
+So:
+Expertise in one domain does not carry over to others
+Title or status is not a substitute for relevant evidence
+Even genuine experts can be wrong outside their field
 
-**This example**  
-« My 5th-grade teacher once told me that girls will go crazy for boys if they learn how to dance. Therefore, if you want to make the ladies go crazy for you, learn to dance. »  
+Key concept inside it
+Domain relevance:
+Authority is only valid when applied to the person's actual area of expertise.
+Outside that domain, their opinion carries no special weight.
 
-The passage shows **Appeal to Authority** in action: using an authority figure's opinion as evidence when they are not an expert on the topic.
+Why it matters
+Explains why:
+Celebrities endorse medical products they know nothing about
+Politicians cite economists who support their pre-existing view
+"Experts say…" without naming who, or their field, is a red flag
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Using an authority figure's opinion as evidence when they are not an expert on the topic.
+The uncomfortable implication
+Credentials impress us more than they should.
+We often stop questioning once someone sounds authoritative.
 
-- **Example 2:** Imagine a health or habits story. The slip is the same: using an authority figure's opinion as evidence when they are not an expert on the topic.
+One-line version
+Appeal to Authority = treating someone's status as proof of their claim, even when it's outside their expertise.`,
+    expert: `Appeal to Authority
 
-- **Example 3:** Picture school grades or test scores. People often reason as if using an authority figure's opinion as evidence when they are not an expert on the topic.
+Description:
+Using someone's authority or status as proof that their claim is correct — even when they have no expertise on the topic.
+Being an expert in one field doesn't make you right about everything.
 
-**In one sentence**  
-Appeal to Authority is the label for reasoning that fits: Using an authority figure's opinion as evidence when they are not an expert on the topic.`,
-    expert: `## Appeal to Authority — in-depth (Expert)
+Example (religion and science)
+"The Pope said priests can turn bread into flesh, and the Pope never lies. Therefore it's true."
+The Pope is a religious authority. That authority doesn't validate a miraculous physical claim.
+Religious status ≠ scientific evidence.
 
-**Definition**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic.
+Example (celebrity endorsement)
+"Dr. Frasier Crane — a psychologist — recommends this hot tub."
+Being a doctor of the mind does not make someone an authority on hot tub ergonomics.
+The expertise doesn't transfer.
 
-**Applied to this passage**  
-« My 5th-grade teacher once told me that girls will go crazy for boys if they learn how to dance. Therefore, if you want to make the ladies go crazy for you, learn to dance. »  
+How it works
+The argument leans on prestige, not evidence.
+The question to ask: Is this person an expert on THIS specific claim?
 
-Here, **Appeal to Authority** is the right name because using an authority figure's opinion as evidence when they are not an expert on the topic.
+So:
+Expertise in one domain does not carry over to others
+Title or status is not a substitute for relevant evidence
+Even genuine experts can be wrong outside their field
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Using an authority figure's opinion as evidence when they are not an expert on the topic.
+Key concept inside it
+Domain relevance:
+Authority is only valid when applied to the person's actual area of expertise.
+Outside that domain, their opinion carries no special weight.
 
-- **Example 2:** Imagine a health or habits story. The slip is the same: using an authority figure's opinion as evidence when they are not an expert on the topic.
+Why it matters
+Explains why:
+Celebrities endorse medical products they know nothing about
+Politicians cite economists who support their pre-existing view
+"Experts say…" without naming who, or their field, is a red flag
 
-- **Example 3:** Picture school grades or test scores. People often reason as if using an authority figure's opinion as evidence when they are not an expert on the topic.
+The uncomfortable implication
+Credentials impress us more than they should.
+We often stop questioning once someone sounds authoritative.
 
-- **Example 4:** In a news headline or social post, watch for this pattern: Using an authority figure's opinion as evidence when they are not an expert on the topic.
-
-- **Example 5:** Another everyday spot: a health or habits story. Using an authority figure's opinion as evidence when they are not an expert on the topic.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Authority** means Using an authority figure's opinion as evidence when they are not an expert on the topic.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Appeal to Authority = treating someone's status as proof of their claim, even when it's outside their expertise.`,
   },
   6: {
-    beginner: `## Appeal to Authority — in-depth (Beginner)
+    beginner: `Appeal to Authority = treating someone's status as proof of their claim, even when it's outside their expertise.`,
+    intermediate: `Appeal to Authority
 
-**What this is, in plain English**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic.
+Description:
+Using someone's authority or status as proof that their claim is correct — even when they have no expertise on the topic.
+Being an expert in one field doesn't make you right about everything.
 
-**The example you’re looking at**  
-« Noted psychologist Dr. Frasier Crane recommends that you buy the EZ-Rest Hot Tub. »  
+Example (religion and science)
+"The Pope said priests can turn bread into flesh, and the Pope never lies. Therefore it's true."
+The Pope is a religious authority. That authority doesn't validate a miraculous physical claim.
+Religious status ≠ scientific evidence.
 
-**Why this is Appeal to Authority**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic. That is what this label is pointing to in the passage above.
+Example (celebrity endorsement)
+"Dr. Frasier Crane — a psychologist — recommends this hot tub."
+Being a doctor of the mind does not make someone an authority on hot tub ergonomics.
+The expertise doesn't transfer.
 
-**Takeaway**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic.`,
-    intermediate: `## Appeal to Authority — in-depth (Intermediate)
+How it works
+The argument leans on prestige, not evidence.
+The question to ask: Is this person an expert on THIS specific claim?
 
-**What this is, in plain English**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic.
+So:
+Expertise in one domain does not carry over to others
+Title or status is not a substitute for relevant evidence
+Even genuine experts can be wrong outside their field
 
-**This example**  
-« Noted psychologist Dr. Frasier Crane recommends that you buy the EZ-Rest Hot Tub. »  
+Key concept inside it
+Domain relevance:
+Authority is only valid when applied to the person's actual area of expertise.
+Outside that domain, their opinion carries no special weight.
 
-The passage shows **Appeal to Authority** in action: using an authority figure's opinion as evidence when they are not an expert on the topic.
+Why it matters
+Explains why:
+Celebrities endorse medical products they know nothing about
+Politicians cite economists who support their pre-existing view
+"Experts say…" without naming who, or their field, is a red flag
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: using an authority figure's opinion as evidence when they are not an expert on the topic.
+The uncomfortable implication
+Credentials impress us more than they should.
+We often stop questioning once someone sounds authoritative.
 
-- **Example 2:** Picture sports or business results. People often reason as if using an authority figure's opinion as evidence when they are not an expert on the topic.
+One-line version
+Appeal to Authority = treating someone's status as proof of their claim, even when it's outside their expertise.`,
+    expert: `Appeal to Authority
 
-- **Example 3:** In a family argument, watch for this pattern: Using an authority figure's opinion as evidence when they are not an expert on the topic.
+Description:
+Using someone's authority or status as proof that their claim is correct — even when they have no expertise on the topic.
+Being an expert in one field doesn't make you right about everything.
 
-**In one sentence**  
-Appeal to Authority is the label for reasoning that fits: Using an authority figure's opinion as evidence when they are not an expert on the topic.`,
-    expert: `## Appeal to Authority — in-depth (Expert)
+Example (religion and science)
+"The Pope said priests can turn bread into flesh, and the Pope never lies. Therefore it's true."
+The Pope is a religious authority. That authority doesn't validate a miraculous physical claim.
+Religious status ≠ scientific evidence.
 
-**Definition**  
-Using an authority figure's opinion as evidence when they are not an expert on the topic.
+Example (celebrity endorsement)
+"Dr. Frasier Crane — a psychologist — recommends this hot tub."
+Being a doctor of the mind does not make someone an authority on hot tub ergonomics.
+The expertise doesn't transfer.
 
-**Applied to this passage**  
-« Noted psychologist Dr. Frasier Crane recommends that you buy the EZ-Rest Hot Tub. »  
+How it works
+The argument leans on prestige, not evidence.
+The question to ask: Is this person an expert on THIS specific claim?
 
-Here, **Appeal to Authority** is the right name because using an authority figure's opinion as evidence when they are not an expert on the topic.
+So:
+Expertise in one domain does not carry over to others
+Title or status is not a substitute for relevant evidence
+Even genuine experts can be wrong outside their field
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: using an authority figure's opinion as evidence when they are not an expert on the topic.
+Key concept inside it
+Domain relevance:
+Authority is only valid when applied to the person's actual area of expertise.
+Outside that domain, their opinion carries no special weight.
 
-- **Example 2:** Picture sports or business results. People often reason as if using an authority figure's opinion as evidence when they are not an expert on the topic.
+Why it matters
+Explains why:
+Celebrities endorse medical products they know nothing about
+Politicians cite economists who support their pre-existing view
+"Experts say…" without naming who, or their field, is a red flag
 
-- **Example 3:** In a family argument, watch for this pattern: Using an authority figure's opinion as evidence when they are not an expert on the topic.
+The uncomfortable implication
+Credentials impress us more than they should.
+We often stop questioning once someone sounds authoritative.
 
-- **Example 4:** Another everyday spot: a policy or workplace discussion. Using an authority figure's opinion as evidence when they are not an expert on the topic.
-
-- **Example 5:** **Setting:** sports or business results. **What goes wrong:** Using an authority figure's opinion as evidence when they are not an expert on the topic.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Authority** means Using an authority figure's opinion as evidence when they are not an expert on the topic.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Appeal to Authority = treating someone's status as proof of their claim, even when it's outside their expertise.`,
   },
   7: {
-    beginner: `## Appeal to Tradition — in-depth (Beginner)
+    beginner: `Appeal to Tradition = assuming something is right because it has always been done that way.`,
+    intermediate: `Appeal to Tradition
 
-**What this is, in plain English**  
-Arguing that something is better or correct simply because it is older or traditional.
+Description:
+Arguing that something is correct or better simply because it has always been done that way.
+Age is not the same as quality.
 
-**The example you’re looking at**  
-« Marriage has always been between a man and a woman, so we shouldn't change it now. »  
+Example (social customs)
+"Marriage has always been between a man and a woman, so we shouldn't change it now."
+How long something has existed is not evidence that it's the best or right approach.
+History can preserve mistakes just as well as wisdom.
 
-**Why this is Appeal to Tradition**  
-Arguing that something is better or correct simply because it is older or traditional. That is what this label is pointing to in the passage above.
+Example (diet and health)
+"Our ancestors ate meat, so it must be healthy for us."
+Ancestral habits were shaped by scarcity and survival, not optimization.
+Many traditional practices have since been improved or abandoned.
 
-**Takeaway**  
-Arguing that something is better or correct simply because it is older or traditional.`,
-    intermediate: `## Appeal to Tradition — in-depth (Intermediate)
+How it works
+The argument assumes: old = tested = good.
+But traditions can persist due to inertia, power, or habit — not because they work.
 
-**What this is, in plain English**  
-Arguing that something is better or correct simply because it is older or traditional.
+So:
+Long history is not proof of correctness
+Change can be an improvement, not a betrayal
+Scrutinize WHY something has lasted, not just THAT it has lasted
 
-**This example**  
-« Marriage has always been between a man and a woman, so we shouldn't change it now. »  
+Key concept inside it
+Argumentum ad antiquitatem:
+The formal name for this fallacy.
+It mistakes "this is how it has been" for "this is how it should be."
 
-The passage shows **Appeal to Tradition** in action: arguing that something is better or correct simply because it is older or traditional.
+Why it matters
+Explains why:
+Harmful social norms persist long after better alternatives are known
+"We've always done it this way" shuts down innovation in organizations
+Traditional remedies are trusted over tested medicine
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if arguing that something is better or correct simply because it is older or traditional.
+The uncomfortable implication
+Comfort with the familiar is not the same as evidence.
+Most traditions were invented by someone who had no special wisdom either.
 
-- **Example 2:** In school grades or test scores, watch for this pattern: Arguing that something is better or correct simply because it is older or traditional.
+One-line version
+Appeal to Tradition = assuming something is right because it has always been done that way.`,
+    expert: `Appeal to Tradition
 
-- **Example 3:** Another everyday spot: a news headline or social post. Arguing that something is better or correct simply because it is older or traditional.
+Description:
+Arguing that something is correct or better simply because it has always been done that way.
+Age is not the same as quality.
 
-**In one sentence**  
-Appeal to Tradition is the label for reasoning that fits: Arguing that something is better or correct simply because it is older or traditional.`,
-    expert: `## Appeal to Tradition — in-depth (Expert)
+Example (social customs)
+"Marriage has always been between a man and a woman, so we shouldn't change it now."
+How long something has existed is not evidence that it's the best or right approach.
+History can preserve mistakes just as well as wisdom.
 
-**Definition**  
-Arguing that something is better or correct simply because it is older or traditional.
+Example (diet and health)
+"Our ancestors ate meat, so it must be healthy for us."
+Ancestral habits were shaped by scarcity and survival, not optimization.
+Many traditional practices have since been improved or abandoned.
 
-**Applied to this passage**  
-« Marriage has always been between a man and a woman, so we shouldn't change it now. »  
+How it works
+The argument assumes: old = tested = good.
+But traditions can persist due to inertia, power, or habit — not because they work.
 
-Here, **Appeal to Tradition** is the right name because arguing that something is better or correct simply because it is older or traditional.
+So:
+Long history is not proof of correctness
+Change can be an improvement, not a betrayal
+Scrutinize WHY something has lasted, not just THAT it has lasted
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if arguing that something is better or correct simply because it is older or traditional.
+Key concept inside it
+Argumentum ad antiquitatem:
+The formal name for this fallacy.
+It mistakes "this is how it has been" for "this is how it should be."
 
-- **Example 2:** In school grades or test scores, watch for this pattern: Arguing that something is better or correct simply because it is older or traditional.
+Why it matters
+Explains why:
+Harmful social norms persist long after better alternatives are known
+"We've always done it this way" shuts down innovation in organizations
+Traditional remedies are trusted over tested medicine
 
-- **Example 3:** Another everyday spot: a news headline or social post. Arguing that something is better or correct simply because it is older or traditional.
+The uncomfortable implication
+Comfort with the familiar is not the same as evidence.
+Most traditions were invented by someone who had no special wisdom either.
 
-- **Example 4:** **Setting:** a health or habits story. **What goes wrong:** Arguing that something is better or correct simply because it is older or traditional.
-
-- **Example 5:** Imagine school grades or test scores. The slip is the same: arguing that something is better or correct simply because it is older or traditional.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Tradition** means Arguing that something is better or correct simply because it is older or traditional.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Social & Institutional Behaviors`,
+One-line version
+Appeal to Tradition = assuming something is right because it has always been done that way.`,
   },
   8: {
-    beginner: `## Appeal to Tradition — in-depth (Beginner)
+    beginner: `Appeal to Tradition = assuming something is right because it has always been done that way.`,
+    intermediate: `Appeal to Tradition
 
-**What this is, in plain English**  
-Arguing that something is better or correct simply because it is older or traditional.
+Description:
+Arguing that something is correct or better simply because it has always been done that way.
+Age is not the same as quality.
 
-**The example you’re looking at**  
-« We have always done it this way, so it must be the right way. »  
+Example (social customs)
+"Marriage has always been between a man and a woman, so we shouldn't change it now."
+How long something has existed is not evidence that it's the best or right approach.
+History can preserve mistakes just as well as wisdom.
 
-**Why this is Appeal to Tradition**  
-Arguing that something is better or correct simply because it is older or traditional. That is what this label is pointing to in the passage above.
+Example (diet and health)
+"Our ancestors ate meat, so it must be healthy for us."
+Ancestral habits were shaped by scarcity and survival, not optimization.
+Many traditional practices have since been improved or abandoned.
 
-**Takeaway**  
-Arguing that something is better or correct simply because it is older or traditional.`,
-    intermediate: `## Appeal to Tradition — in-depth (Intermediate)
+How it works
+The argument assumes: old = tested = good.
+But traditions can persist due to inertia, power, or habit — not because they work.
 
-**What this is, in plain English**  
-Arguing that something is better or correct simply because it is older or traditional.
+So:
+Long history is not proof of correctness
+Change can be an improvement, not a betrayal
+Scrutinize WHY something has lasted, not just THAT it has lasted
 
-**This example**  
-« We have always done it this way, so it must be the right way. »  
+Key concept inside it
+Argumentum ad antiquitatem:
+The formal name for this fallacy.
+It mistakes "this is how it has been" for "this is how it should be."
 
-The passage shows **Appeal to Tradition** in action: arguing that something is better or correct simply because it is older or traditional.
+Why it matters
+Explains why:
+Harmful social norms persist long after better alternatives are known
+"We've always done it this way" shuts down innovation in organizations
+Traditional remedies are trusted over tested medicine
 
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Arguing that something is better or correct simply because it is older or traditional.
+The uncomfortable implication
+Comfort with the familiar is not the same as evidence.
+Most traditions were invented by someone who had no special wisdom either.
 
-- **Example 2:** Another everyday spot: a family argument. Arguing that something is better or correct simply because it is older or traditional.
+One-line version
+Appeal to Tradition = assuming something is right because it has always been done that way.`,
+    expert: `Appeal to Tradition
 
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Arguing that something is better or correct simply because it is older or traditional.
+Description:
+Arguing that something is correct or better simply because it has always been done that way.
+Age is not the same as quality.
 
-**In one sentence**  
-Appeal to Tradition is the label for reasoning that fits: Arguing that something is better or correct simply because it is older or traditional.`,
-    expert: `## Appeal to Tradition — in-depth (Expert)
+Example (social customs)
+"Marriage has always been between a man and a woman, so we shouldn't change it now."
+How long something has existed is not evidence that it's the best or right approach.
+History can preserve mistakes just as well as wisdom.
 
-**Definition**  
-Arguing that something is better or correct simply because it is older or traditional.
+Example (diet and health)
+"Our ancestors ate meat, so it must be healthy for us."
+Ancestral habits were shaped by scarcity and survival, not optimization.
+Many traditional practices have since been improved or abandoned.
 
-**Applied to this passage**  
-« We have always done it this way, so it must be the right way. »  
+How it works
+The argument assumes: old = tested = good.
+But traditions can persist due to inertia, power, or habit — not because they work.
 
-Here, **Appeal to Tradition** is the right name because arguing that something is better or correct simply because it is older or traditional.
+So:
+Long history is not proof of correctness
+Change can be an improvement, not a betrayal
+Scrutinize WHY something has lasted, not just THAT it has lasted
 
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Arguing that something is better or correct simply because it is older or traditional.
+Key concept inside it
+Argumentum ad antiquitatem:
+The formal name for this fallacy.
+It mistakes "this is how it has been" for "this is how it should be."
 
-- **Example 2:** Another everyday spot: a family argument. Arguing that something is better or correct simply because it is older or traditional.
+Why it matters
+Explains why:
+Harmful social norms persist long after better alternatives are known
+"We've always done it this way" shuts down innovation in organizations
+Traditional remedies are trusted over tested medicine
 
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Arguing that something is better or correct simply because it is older or traditional.
+The uncomfortable implication
+Comfort with the familiar is not the same as evidence.
+Most traditions were invented by someone who had no special wisdom either.
 
-- **Example 4:** Imagine sports or business results. The slip is the same: arguing that something is better or correct simply because it is older or traditional.
-
-- **Example 5:** Picture a family argument. People often reason as if arguing that something is better or correct simply because it is older or traditional.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Tradition** means Arguing that something is better or correct simply because it is older or traditional.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Social & Institutional Behaviors`,
+One-line version
+Appeal to Tradition = assuming something is right because it has always been done that way.`,
   },
   9: {
-    beginner: `## Appeal to Tradition — in-depth (Beginner)
+    beginner: `Appeal to Tradition = assuming something is right because it has always been done that way.`,
+    intermediate: `Appeal to Tradition
 
-**What this is, in plain English**  
-Arguing that something is better or correct simply because it is older or traditional.
+Description:
+Arguing that something is correct or better simply because it has always been done that way.
+Age is not the same as quality.
 
-**The example you’re looking at**  
-« Our ancestors ate meat, so it must be healthy for us. »  
+Example (social customs)
+"Marriage has always been between a man and a woman, so we shouldn't change it now."
+How long something has existed is not evidence that it's the best or right approach.
+History can preserve mistakes just as well as wisdom.
 
-**Why this is Appeal to Tradition**  
-Arguing that something is better or correct simply because it is older or traditional. That is what this label is pointing to in the passage above.
+Example (diet and health)
+"Our ancestors ate meat, so it must be healthy for us."
+Ancestral habits were shaped by scarcity and survival, not optimization.
+Many traditional practices have since been improved or abandoned.
 
-**Takeaway**  
-Arguing that something is better or correct simply because it is older or traditional.`,
-    intermediate: `## Appeal to Tradition — in-depth (Intermediate)
+How it works
+The argument assumes: old = tested = good.
+But traditions can persist due to inertia, power, or habit — not because they work.
 
-**What this is, in plain English**  
-Arguing that something is better or correct simply because it is older or traditional.
+So:
+Long history is not proof of correctness
+Change can be an improvement, not a betrayal
+Scrutinize WHY something has lasted, not just THAT it has lasted
 
-**This example**  
-« Our ancestors ate meat, so it must be healthy for us. »  
+Key concept inside it
+Argumentum ad antiquitatem:
+The formal name for this fallacy.
+It mistakes "this is how it has been" for "this is how it should be."
 
-The passage shows **Appeal to Tradition** in action: arguing that something is better or correct simply because it is older or traditional.
+Why it matters
+Explains why:
+Harmful social norms persist long after better alternatives are known
+"We've always done it this way" shuts down innovation in organizations
+Traditional remedies are trusted over tested medicine
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Arguing that something is better or correct simply because it is older or traditional.
+The uncomfortable implication
+Comfort with the familiar is not the same as evidence.
+Most traditions were invented by someone who had no special wisdom either.
 
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Arguing that something is better or correct simply because it is older or traditional.
+One-line version
+Appeal to Tradition = assuming something is right because it has always been done that way.`,
+    expert: `Appeal to Tradition
 
-- **Example 3:** Imagine a health or habits story. The slip is the same: arguing that something is better or correct simply because it is older or traditional.
+Description:
+Arguing that something is correct or better simply because it has always been done that way.
+Age is not the same as quality.
 
-**In one sentence**  
-Appeal to Tradition is the label for reasoning that fits: Arguing that something is better or correct simply because it is older or traditional.`,
-    expert: `## Appeal to Tradition — in-depth (Expert)
+Example (social customs)
+"Marriage has always been between a man and a woman, so we shouldn't change it now."
+How long something has existed is not evidence that it's the best or right approach.
+History can preserve mistakes just as well as wisdom.
 
-**Definition**  
-Arguing that something is better or correct simply because it is older or traditional.
+Example (diet and health)
+"Our ancestors ate meat, so it must be healthy for us."
+Ancestral habits were shaped by scarcity and survival, not optimization.
+Many traditional practices have since been improved or abandoned.
 
-**Applied to this passage**  
-« Our ancestors ate meat, so it must be healthy for us. »  
+How it works
+The argument assumes: old = tested = good.
+But traditions can persist due to inertia, power, or habit — not because they work.
 
-Here, **Appeal to Tradition** is the right name because arguing that something is better or correct simply because it is older or traditional.
+So:
+Long history is not proof of correctness
+Change can be an improvement, not a betrayal
+Scrutinize WHY something has lasted, not just THAT it has lasted
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Arguing that something is better or correct simply because it is older or traditional.
+Key concept inside it
+Argumentum ad antiquitatem:
+The formal name for this fallacy.
+It mistakes "this is how it has been" for "this is how it should be."
 
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Arguing that something is better or correct simply because it is older or traditional.
+Why it matters
+Explains why:
+Harmful social norms persist long after better alternatives are known
+"We've always done it this way" shuts down innovation in organizations
+Traditional remedies are trusted over tested medicine
 
-- **Example 3:** Imagine a health or habits story. The slip is the same: arguing that something is better or correct simply because it is older or traditional.
+The uncomfortable implication
+Comfort with the familiar is not the same as evidence.
+Most traditions were invented by someone who had no special wisdom either.
 
-- **Example 4:** Picture school grades or test scores. People often reason as if arguing that something is better or correct simply because it is older or traditional.
-
-- **Example 5:** In a news headline or social post, watch for this pattern: Arguing that something is better or correct simply because it is older or traditional.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Tradition** means Arguing that something is better or correct simply because it is older or traditional.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Social & Institutional Behaviors`,
+One-line version
+Appeal to Tradition = assuming something is right because it has always been done that way.`,
   },
   10: {
-    beginner: `## Appeal to Novelty — in-depth (Beginner)
+    beginner: `Appeal to Novelty = assuming something is better just because it's newer.`,
+    intermediate: `Appeal to Novelty
 
-**What this is, in plain English**  
-Claiming that something is superior or true simply because it is new or modern.
+Description:
+Claiming that something is better or true simply because it's new or modern.
+New ≠ improved.
 
-**The example you’re looking at**  
-« Newer is always better. »  
+Example (technology)
+"The newest smartphone model is superior — it's the latest release."
+Newer versions can be worse: worse battery, worse repairability, same core features.
+Release date is not a quality metric.
 
-**Why this is Appeal to Novelty**  
-Claiming that something is superior or true simply because it is new or modern. That is what this label is pointing to in the passage above.
+Example (health trends)
+"This diet is the latest craze, so it must work."
+Many diets trend then fade because hype drives adoption, not evidence.
+Novelty gets media coverage; effectiveness requires time to measure.
 
-**Takeaway**  
-Claiming that something is superior or true simply because it is new or modern.`,
-    intermediate: `## Appeal to Novelty — in-depth (Intermediate)
+How it works
+The argument treats "new" as a feature, not just a descriptor.
+It ignores that newer versions can be regressions, not improvements.
 
-**What this is, in plain English**  
-Claiming that something is superior or true simply because it is new or modern.
+So:
+New things still require evidence of quality
+Older options may outperform newer ones
+Trends ≠ truth
 
-**This example**  
-« Newer is always better. »  
+Key concept inside it
+Novelty bias:
+The human tendency to prefer and pay attention to new things.
+Marketers exploit this by relabeling old products as "new and improved."
 
-The passage shows **Appeal to Novelty** in action: claiming that something is superior or true simply because it is new or modern.
+Why it matters
+Explains why:
+Industries release incremental updates sold as breakthroughs
+People abandon working solutions for trending alternatives
+"Cutting-edge" is used as a synonym for "superior" in advertising
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Claiming that something is superior or true simply because it is new or modern.
+The uncomfortable implication
+Our appetite for the new is a bug, not a feature.
+It makes us easy to market to and hard to satisfy.
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: claiming that something is superior or true simply because it is new or modern.
+One-line version
+Appeal to Novelty = assuming something is better just because it's newer.`,
+    expert: `Appeal to Novelty
 
-- **Example 3:** Picture sports or business results. People often reason as if claiming that something is superior or true simply because it is new or modern.
+Description:
+Claiming that something is better or true simply because it's new or modern.
+New ≠ improved.
 
-**In one sentence**  
-Appeal to Novelty is the label for reasoning that fits: Claiming that something is superior or true simply because it is new or modern.`,
-    expert: `## Appeal to Novelty — in-depth (Expert)
+Example (technology)
+"The newest smartphone model is superior — it's the latest release."
+Newer versions can be worse: worse battery, worse repairability, same core features.
+Release date is not a quality metric.
 
-**Definition**  
-Claiming that something is superior or true simply because it is new or modern.
+Example (health trends)
+"This diet is the latest craze, so it must work."
+Many diets trend then fade because hype drives adoption, not evidence.
+Novelty gets media coverage; effectiveness requires time to measure.
 
-**Applied to this passage**  
-« Newer is always better. »  
+How it works
+The argument treats "new" as a feature, not just a descriptor.
+It ignores that newer versions can be regressions, not improvements.
 
-Here, **Appeal to Novelty** is the right name because claiming that something is superior or true simply because it is new or modern.
+So:
+New things still require evidence of quality
+Older options may outperform newer ones
+Trends ≠ truth
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Claiming that something is superior or true simply because it is new or modern.
+Key concept inside it
+Novelty bias:
+The human tendency to prefer and pay attention to new things.
+Marketers exploit this by relabeling old products as "new and improved."
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: claiming that something is superior or true simply because it is new or modern.
+Why it matters
+Explains why:
+Industries release incremental updates sold as breakthroughs
+People abandon working solutions for trending alternatives
+"Cutting-edge" is used as a synonym for "superior" in advertising
 
-- **Example 3:** Picture sports or business results. People often reason as if claiming that something is superior or true simply because it is new or modern.
+The uncomfortable implication
+Our appetite for the new is a bug, not a feature.
+It makes us easy to market to and hard to satisfy.
 
-- **Example 4:** In a family argument, watch for this pattern: Claiming that something is superior or true simply because it is new or modern.
-
-- **Example 5:** Another everyday spot: a policy or workplace discussion. Claiming that something is superior or true simply because it is new or modern.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Novelty** means Claiming that something is superior or true simply because it is new or modern.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Novelty = assuming something is better just because it's newer.`,
   },
   11: {
-    beginner: `## Appeal to Novelty — in-depth (Beginner)
+    beginner: `Appeal to Novelty = assuming something is better just because it's newer.`,
+    intermediate: `Appeal to Novelty
 
-**What this is, in plain English**  
-Claiming that something is superior or true simply because it is new or modern.
+Description:
+Claiming that something is better or true simply because it's new or modern.
+New ≠ improved.
 
-**The example you’re looking at**  
-« This diet is the latest craze, so it must work. »  
+Example (technology)
+"The newest smartphone model is superior — it's the latest release."
+Newer versions can be worse: worse battery, worse repairability, same core features.
+Release date is not a quality metric.
 
-**Why this is Appeal to Novelty**  
-Claiming that something is superior or true simply because it is new or modern. That is what this label is pointing to in the passage above.
+Example (health trends)
+"This diet is the latest craze, so it must work."
+Many diets trend then fade because hype drives adoption, not evidence.
+Novelty gets media coverage; effectiveness requires time to measure.
 
-**Takeaway**  
-Claiming that something is superior or true simply because it is new or modern.`,
-    intermediate: `## Appeal to Novelty — in-depth (Intermediate)
+How it works
+The argument treats "new" as a feature, not just a descriptor.
+It ignores that newer versions can be regressions, not improvements.
 
-**What this is, in plain English**  
-Claiming that something is superior or true simply because it is new or modern.
+So:
+New things still require evidence of quality
+Older options may outperform newer ones
+Trends ≠ truth
 
-**This example**  
-« This diet is the latest craze, so it must work. »  
+Key concept inside it
+Novelty bias:
+The human tendency to prefer and pay attention to new things.
+Marketers exploit this by relabeling old products as "new and improved."
 
-The passage shows **Appeal to Novelty** in action: claiming that something is superior or true simply because it is new or modern.
+Why it matters
+Explains why:
+Industries release incremental updates sold as breakthroughs
+People abandon working solutions for trending alternatives
+"Cutting-edge" is used as a synonym for "superior" in advertising
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: claiming that something is superior or true simply because it is new or modern.
+The uncomfortable implication
+Our appetite for the new is a bug, not a feature.
+It makes us easy to market to and hard to satisfy.
 
-- **Example 2:** Picture a health or habits story. People often reason as if claiming that something is superior or true simply because it is new or modern.
+One-line version
+Appeal to Novelty = assuming something is better just because it's newer.`,
+    expert: `Appeal to Novelty
 
-- **Example 3:** In school grades or test scores, watch for this pattern: Claiming that something is superior or true simply because it is new or modern.
+Description:
+Claiming that something is better or true simply because it's new or modern.
+New ≠ improved.
 
-**In one sentence**  
-Appeal to Novelty is the label for reasoning that fits: Claiming that something is superior or true simply because it is new or modern.`,
-    expert: `## Appeal to Novelty — in-depth (Expert)
+Example (technology)
+"The newest smartphone model is superior — it's the latest release."
+Newer versions can be worse: worse battery, worse repairability, same core features.
+Release date is not a quality metric.
 
-**Definition**  
-Claiming that something is superior or true simply because it is new or modern.
+Example (health trends)
+"This diet is the latest craze, so it must work."
+Many diets trend then fade because hype drives adoption, not evidence.
+Novelty gets media coverage; effectiveness requires time to measure.
 
-**Applied to this passage**  
-« This diet is the latest craze, so it must work. »  
+How it works
+The argument treats "new" as a feature, not just a descriptor.
+It ignores that newer versions can be regressions, not improvements.
 
-Here, **Appeal to Novelty** is the right name because claiming that something is superior or true simply because it is new or modern.
+So:
+New things still require evidence of quality
+Older options may outperform newer ones
+Trends ≠ truth
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: claiming that something is superior or true simply because it is new or modern.
+Key concept inside it
+Novelty bias:
+The human tendency to prefer and pay attention to new things.
+Marketers exploit this by relabeling old products as "new and improved."
 
-- **Example 2:** Picture a health or habits story. People often reason as if claiming that something is superior or true simply because it is new or modern.
+Why it matters
+Explains why:
+Industries release incremental updates sold as breakthroughs
+People abandon working solutions for trending alternatives
+"Cutting-edge" is used as a synonym for "superior" in advertising
 
-- **Example 3:** In school grades or test scores, watch for this pattern: Claiming that something is superior or true simply because it is new or modern.
+The uncomfortable implication
+Our appetite for the new is a bug, not a feature.
+It makes us easy to market to and hard to satisfy.
 
-- **Example 4:** Another everyday spot: a news headline or social post. Claiming that something is superior or true simply because it is new or modern.
-
-- **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Claiming that something is superior or true simply because it is new or modern.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Novelty** means Claiming that something is superior or true simply because it is new or modern.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Novelty = assuming something is better just because it's newer.`,
   },
   12: {
-    beginner: `## Appeal to Novelty — in-depth (Beginner)
+    beginner: `Appeal to Novelty = assuming something is better just because it's newer.`,
+    intermediate: `Appeal to Novelty
 
-**What this is, in plain English**  
-Claiming that something is superior or true simply because it is new or modern.
+Description:
+Claiming that something is better or true simply because it's new or modern.
+New ≠ improved.
 
-**The example you’re looking at**  
-« The newest smartphone model is superior just because it's the latest release. »  
+Example (technology)
+"The newest smartphone model is superior — it's the latest release."
+Newer versions can be worse: worse battery, worse repairability, same core features.
+Release date is not a quality metric.
 
-**Why this is Appeal to Novelty**  
-Claiming that something is superior or true simply because it is new or modern. That is what this label is pointing to in the passage above.
+Example (health trends)
+"This diet is the latest craze, so it must work."
+Many diets trend then fade because hype drives adoption, not evidence.
+Novelty gets media coverage; effectiveness requires time to measure.
 
-**Takeaway**  
-Claiming that something is superior or true simply because it is new or modern.`,
-    intermediate: `## Appeal to Novelty — in-depth (Intermediate)
+How it works
+The argument treats "new" as a feature, not just a descriptor.
+It ignores that newer versions can be regressions, not improvements.
 
-**What this is, in plain English**  
-Claiming that something is superior or true simply because it is new or modern.
+So:
+New things still require evidence of quality
+Older options may outperform newer ones
+Trends ≠ truth
 
-**This example**  
-« The newest smartphone model is superior just because it's the latest release. »  
+Key concept inside it
+Novelty bias:
+The human tendency to prefer and pay attention to new things.
+Marketers exploit this by relabeling old products as "new and improved."
 
-The passage shows **Appeal to Novelty** in action: claiming that something is superior or true simply because it is new or modern.
+Why it matters
+Explains why:
+Industries release incremental updates sold as breakthroughs
+People abandon working solutions for trending alternatives
+"Cutting-edge" is used as a synonym for "superior" in advertising
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if claiming that something is superior or true simply because it is new or modern.
+The uncomfortable implication
+Our appetite for the new is a bug, not a feature.
+It makes us easy to market to and hard to satisfy.
 
-- **Example 2:** In sports or business results, watch for this pattern: Claiming that something is superior or true simply because it is new or modern.
+One-line version
+Appeal to Novelty = assuming something is better just because it's newer.`,
+    expert: `Appeal to Novelty
 
-- **Example 3:** Another everyday spot: a family argument. Claiming that something is superior or true simply because it is new or modern.
+Description:
+Claiming that something is better or true simply because it's new or modern.
+New ≠ improved.
 
-**In one sentence**  
-Appeal to Novelty is the label for reasoning that fits: Claiming that something is superior or true simply because it is new or modern.`,
-    expert: `## Appeal to Novelty — in-depth (Expert)
+Example (technology)
+"The newest smartphone model is superior — it's the latest release."
+Newer versions can be worse: worse battery, worse repairability, same core features.
+Release date is not a quality metric.
 
-**Definition**  
-Claiming that something is superior or true simply because it is new or modern.
+Example (health trends)
+"This diet is the latest craze, so it must work."
+Many diets trend then fade because hype drives adoption, not evidence.
+Novelty gets media coverage; effectiveness requires time to measure.
 
-**Applied to this passage**  
-« The newest smartphone model is superior just because it's the latest release. »  
+How it works
+The argument treats "new" as a feature, not just a descriptor.
+It ignores that newer versions can be regressions, not improvements.
 
-Here, **Appeal to Novelty** is the right name because claiming that something is superior or true simply because it is new or modern.
+So:
+New things still require evidence of quality
+Older options may outperform newer ones
+Trends ≠ truth
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if claiming that something is superior or true simply because it is new or modern.
+Key concept inside it
+Novelty bias:
+The human tendency to prefer and pay attention to new things.
+Marketers exploit this by relabeling old products as "new and improved."
 
-- **Example 2:** In sports or business results, watch for this pattern: Claiming that something is superior or true simply because it is new or modern.
+Why it matters
+Explains why:
+Industries release incremental updates sold as breakthroughs
+People abandon working solutions for trending alternatives
+"Cutting-edge" is used as a synonym for "superior" in advertising
 
-- **Example 3:** Another everyday spot: a family argument. Claiming that something is superior or true simply because it is new or modern.
+The uncomfortable implication
+Our appetite for the new is a bug, not a feature.
+It makes us easy to market to and hard to satisfy.
 
-- **Example 4:** **Setting:** a policy or workplace discussion. **What goes wrong:** Claiming that something is superior or true simply because it is new or modern.
-
-- **Example 5:** Imagine sports or business results. The slip is the same: claiming that something is superior or true simply because it is new or modern.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Novelty** means Claiming that something is superior or true simply because it is new or modern.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Novelty = assuming something is better just because it's newer.`,
   },
   13: {
-    beginner: `## Appeal to Popularity — in-depth (Beginner)
+    beginner: `Appeal to Popularity = treating widespread belief as proof something is true.`,
+    intermediate: `Appeal to Popularity
 
-**What this is, in plain English**  
-Arguing that a proposition is true because many or most people believe it.
+Description:
+Arguing that a claim must be true because many people believe it.
+Popularity is a measure of belief, not truth.
 
-**The example you’re looking at**  
-« Everyone is buying this product, so it must be good. »  
+Example (consumer products)
+"Everyone is buying this product, so it must be good."
+Sales volume reflects marketing, social pressure, and trends.
+It tells you nothing about quality, safety, or value.
 
-**Why this is Appeal to Popularity**  
-Arguing that a proposition is true because many or most people believe it. That is what this label is pointing to in the passage above.
+Example (beliefs at scale)
+"Millions of people believe this — it can't be wrong."
+Millions of people have simultaneously believed things that were later proven false.
+The scale of belief does not scale up its truth.
 
-**Takeaway**  
-Arguing that a proposition is true because many or most people believe it.`,
-    intermediate: `## Appeal to Popularity — in-depth (Intermediate)
+How it works
+The argument assumes: consensus = correctness.
+But humans are tribal and conformist — we adopt group beliefs for social reasons, not logical ones.
 
-**What this is, in plain English**  
-Arguing that a proposition is true because many or most people believe it.
+So:
+Majority opinion can be wrong
+Mass belief has historically supported slavery, flat-earth, and bloodletting
+Truth is not voted on
 
-**This example**  
-« Everyone is buying this product, so it must be good. »  
+Key concept inside it
+Argumentum ad populum:
+The formal name. It exploits the human need to belong and conform.
+It is why advertising shows crowds using a product rather than explaining how it works.
 
-The passage shows **Appeal to Popularity** in action: arguing that a proposition is true because many or most people believe it.
+Why it matters
+Explains why:
+Misinformation spreads faster when it seems widespread
+Best-seller lists drive more purchases regardless of quality
+Social proof overrides independent evaluation
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Arguing that a proposition is true because many or most people believe it.
+The uncomfortable implication
+Your beliefs are partly a product of what the people around you believe.
+Independent thinking is much harder than it feels.
 
-- **Example 2:** Another everyday spot: school grades or test scores. Arguing that a proposition is true because many or most people believe it.
+One-line version
+Appeal to Popularity = treating widespread belief as proof something is true.`,
+    expert: `Appeal to Popularity
 
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Arguing that a proposition is true because many or most people believe it.
+Description:
+Arguing that a claim must be true because many people believe it.
+Popularity is a measure of belief, not truth.
 
-**In one sentence**  
-Appeal to Popularity is the label for reasoning that fits: Arguing that a proposition is true because many or most people believe it.`,
-    expert: `## Appeal to Popularity — in-depth (Expert)
+Example (consumer products)
+"Everyone is buying this product, so it must be good."
+Sales volume reflects marketing, social pressure, and trends.
+It tells you nothing about quality, safety, or value.
 
-**Definition**  
-Arguing that a proposition is true because many or most people believe it.
+Example (beliefs at scale)
+"Millions of people believe this — it can't be wrong."
+Millions of people have simultaneously believed things that were later proven false.
+The scale of belief does not scale up its truth.
 
-**Applied to this passage**  
-« Everyone is buying this product, so it must be good. »  
+How it works
+The argument assumes: consensus = correctness.
+But humans are tribal and conformist — we adopt group beliefs for social reasons, not logical ones.
 
-Here, **Appeal to Popularity** is the right name because arguing that a proposition is true because many or most people believe it.
+So:
+Majority opinion can be wrong
+Mass belief has historically supported slavery, flat-earth, and bloodletting
+Truth is not voted on
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Arguing that a proposition is true because many or most people believe it.
+Key concept inside it
+Argumentum ad populum:
+The formal name. It exploits the human need to belong and conform.
+It is why advertising shows crowds using a product rather than explaining how it works.
 
-- **Example 2:** Another everyday spot: school grades or test scores. Arguing that a proposition is true because many or most people believe it.
+Why it matters
+Explains why:
+Misinformation spreads faster when it seems widespread
+Best-seller lists drive more purchases regardless of quality
+Social proof overrides independent evaluation
 
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Arguing that a proposition is true because many or most people believe it.
+The uncomfortable implication
+Your beliefs are partly a product of what the people around you believe.
+Independent thinking is much harder than it feels.
 
-- **Example 4:** Imagine a health or habits story. The slip is the same: arguing that a proposition is true because many or most people believe it.
-
-- **Example 5:** Picture school grades or test scores. People often reason as if arguing that a proposition is true because many or most people believe it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Popularity** means Arguing that a proposition is true because many or most people believe it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Social & Institutional Behaviors`,
+One-line version
+Appeal to Popularity = treating widespread belief as proof something is true.`,
   },
   14: {
-    beginner: `## Appeal to Popularity — in-depth (Beginner)
+    beginner: `Appeal to Popularity = treating widespread belief as proof something is true.`,
+    intermediate: `Appeal to Popularity
 
-**What this is, in plain English**  
-Arguing that a proposition is true because many or most people believe it.
+Description:
+Arguing that a claim must be true because many people believe it.
+Popularity is a measure of belief, not truth.
 
-**The example you’re looking at**  
-« Millions of people believe in this, it can't be wrong. »  
+Example (consumer products)
+"Everyone is buying this product, so it must be good."
+Sales volume reflects marketing, social pressure, and trends.
+It tells you nothing about quality, safety, or value.
 
-**Why this is Appeal to Popularity**  
-Arguing that a proposition is true because many or most people believe it. That is what this label is pointing to in the passage above.
+Example (beliefs at scale)
+"Millions of people believe this — it can't be wrong."
+Millions of people have simultaneously believed things that were later proven false.
+The scale of belief does not scale up its truth.
 
-**Takeaway**  
-Arguing that a proposition is true because many or most people believe it.`,
-    intermediate: `## Appeal to Popularity — in-depth (Intermediate)
+How it works
+The argument assumes: consensus = correctness.
+But humans are tribal and conformist — we adopt group beliefs for social reasons, not logical ones.
 
-**What this is, in plain English**  
-Arguing that a proposition is true because many or most people believe it.
+So:
+Majority opinion can be wrong
+Mass belief has historically supported slavery, flat-earth, and bloodletting
+Truth is not voted on
 
-**This example**  
-« Millions of people believe in this, it can't be wrong. »  
+Key concept inside it
+Argumentum ad populum:
+The formal name. It exploits the human need to belong and conform.
+It is why advertising shows crowds using a product rather than explaining how it works.
 
-The passage shows **Appeal to Popularity** in action: arguing that a proposition is true because many or most people believe it.
+Why it matters
+Explains why:
+Misinformation spreads faster when it seems widespread
+Best-seller lists drive more purchases regardless of quality
+Social proof overrides independent evaluation
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Arguing that a proposition is true because many or most people believe it.
+The uncomfortable implication
+Your beliefs are partly a product of what the people around you believe.
+Independent thinking is much harder than it feels.
 
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Arguing that a proposition is true because many or most people believe it.
+One-line version
+Appeal to Popularity = treating widespread belief as proof something is true.`,
+    expert: `Appeal to Popularity
 
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: arguing that a proposition is true because many or most people believe it.
+Description:
+Arguing that a claim must be true because many people believe it.
+Popularity is a measure of belief, not truth.
 
-**In one sentence**  
-Appeal to Popularity is the label for reasoning that fits: Arguing that a proposition is true because many or most people believe it.`,
-    expert: `## Appeal to Popularity — in-depth (Expert)
+Example (consumer products)
+"Everyone is buying this product, so it must be good."
+Sales volume reflects marketing, social pressure, and trends.
+It tells you nothing about quality, safety, or value.
 
-**Definition**  
-Arguing that a proposition is true because many or most people believe it.
+Example (beliefs at scale)
+"Millions of people believe this — it can't be wrong."
+Millions of people have simultaneously believed things that were later proven false.
+The scale of belief does not scale up its truth.
 
-**Applied to this passage**  
-« Millions of people believe in this, it can't be wrong. »  
+How it works
+The argument assumes: consensus = correctness.
+But humans are tribal and conformist — we adopt group beliefs for social reasons, not logical ones.
 
-Here, **Appeal to Popularity** is the right name because arguing that a proposition is true because many or most people believe it.
+So:
+Majority opinion can be wrong
+Mass belief has historically supported slavery, flat-earth, and bloodletting
+Truth is not voted on
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Arguing that a proposition is true because many or most people believe it.
+Key concept inside it
+Argumentum ad populum:
+The formal name. It exploits the human need to belong and conform.
+It is why advertising shows crowds using a product rather than explaining how it works.
 
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Arguing that a proposition is true because many or most people believe it.
+Why it matters
+Explains why:
+Misinformation spreads faster when it seems widespread
+Best-seller lists drive more purchases regardless of quality
+Social proof overrides independent evaluation
 
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: arguing that a proposition is true because many or most people believe it.
+The uncomfortable implication
+Your beliefs are partly a product of what the people around you believe.
+Independent thinking is much harder than it feels.
 
-- **Example 4:** Picture sports or business results. People often reason as if arguing that a proposition is true because many or most people believe it.
-
-- **Example 5:** In a family argument, watch for this pattern: Arguing that a proposition is true because many or most people believe it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Popularity** means Arguing that a proposition is true because many or most people believe it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Social & Institutional Behaviors`,
+One-line version
+Appeal to Popularity = treating widespread belief as proof something is true.`,
   },
   15: {
-    beginner: `## Appeal to Popularity — in-depth (Beginner)
+    beginner: `Appeal to Popularity = treating widespread belief as proof something is true.`,
+    intermediate: `Appeal to Popularity
 
-**What this is, in plain English**  
-Arguing that a proposition is true because many or most people believe it.
+Description:
+Arguing that a claim must be true because many people believe it.
+Popularity is a measure of belief, not truth.
 
-**The example you’re looking at**  
-« All the cool kids are doing it, why aren't you? »  
+Example (consumer products)
+"Everyone is buying this product, so it must be good."
+Sales volume reflects marketing, social pressure, and trends.
+It tells you nothing about quality, safety, or value.
 
-**Why this is Appeal to Popularity**  
-Arguing that a proposition is true because many or most people believe it. That is what this label is pointing to in the passage above.
+Example (beliefs at scale)
+"Millions of people believe this — it can't be wrong."
+Millions of people have simultaneously believed things that were later proven false.
+The scale of belief does not scale up its truth.
 
-**Takeaway**  
-Arguing that a proposition is true because many or most people believe it.`,
-    intermediate: `## Appeal to Popularity — in-depth (Intermediate)
+How it works
+The argument assumes: consensus = correctness.
+But humans are tribal and conformist — we adopt group beliefs for social reasons, not logical ones.
 
-**What this is, in plain English**  
-Arguing that a proposition is true because many or most people believe it.
+So:
+Majority opinion can be wrong
+Mass belief has historically supported slavery, flat-earth, and bloodletting
+Truth is not voted on
 
-**This example**  
-« All the cool kids are doing it, why aren't you? »  
+Key concept inside it
+Argumentum ad populum:
+The formal name. It exploits the human need to belong and conform.
+It is why advertising shows crowds using a product rather than explaining how it works.
 
-The passage shows **Appeal to Popularity** in action: arguing that a proposition is true because many or most people believe it.
+Why it matters
+Explains why:
+Misinformation spreads faster when it seems widespread
+Best-seller lists drive more purchases regardless of quality
+Social proof overrides independent evaluation
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Arguing that a proposition is true because many or most people believe it.
+The uncomfortable implication
+Your beliefs are partly a product of what the people around you believe.
+Independent thinking is much harder than it feels.
 
-- **Example 2:** Imagine a news headline or social post. The slip is the same: arguing that a proposition is true because many or most people believe it.
+One-line version
+Appeal to Popularity = treating widespread belief as proof something is true.`,
+    expert: `Appeal to Popularity
 
-- **Example 3:** Picture a health or habits story. People often reason as if arguing that a proposition is true because many or most people believe it.
+Description:
+Arguing that a claim must be true because many people believe it.
+Popularity is a measure of belief, not truth.
 
-**In one sentence**  
-Appeal to Popularity is the label for reasoning that fits: Arguing that a proposition is true because many or most people believe it.`,
-    expert: `## Appeal to Popularity — in-depth (Expert)
+Example (consumer products)
+"Everyone is buying this product, so it must be good."
+Sales volume reflects marketing, social pressure, and trends.
+It tells you nothing about quality, safety, or value.
 
-**Definition**  
-Arguing that a proposition is true because many or most people believe it.
+Example (beliefs at scale)
+"Millions of people believe this — it can't be wrong."
+Millions of people have simultaneously believed things that were later proven false.
+The scale of belief does not scale up its truth.
 
-**Applied to this passage**  
-« All the cool kids are doing it, why aren't you? »  
+How it works
+The argument assumes: consensus = correctness.
+But humans are tribal and conformist — we adopt group beliefs for social reasons, not logical ones.
 
-Here, **Appeal to Popularity** is the right name because arguing that a proposition is true because many or most people believe it.
+So:
+Majority opinion can be wrong
+Mass belief has historically supported slavery, flat-earth, and bloodletting
+Truth is not voted on
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Arguing that a proposition is true because many or most people believe it.
+Key concept inside it
+Argumentum ad populum:
+The formal name. It exploits the human need to belong and conform.
+It is why advertising shows crowds using a product rather than explaining how it works.
 
-- **Example 2:** Imagine a news headline or social post. The slip is the same: arguing that a proposition is true because many or most people believe it.
+Why it matters
+Explains why:
+Misinformation spreads faster when it seems widespread
+Best-seller lists drive more purchases regardless of quality
+Social proof overrides independent evaluation
 
-- **Example 3:** Picture a health or habits story. People often reason as if arguing that a proposition is true because many or most people believe it.
+The uncomfortable implication
+Your beliefs are partly a product of what the people around you believe.
+Independent thinking is much harder than it feels.
 
-- **Example 4:** In school grades or test scores, watch for this pattern: Arguing that a proposition is true because many or most people believe it.
-
-- **Example 5:** Another everyday spot: a news headline or social post. Arguing that a proposition is true because many or most people believe it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Popularity** means Arguing that a proposition is true because many or most people believe it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Social & Institutional Behaviors`,
+One-line version
+Appeal to Popularity = treating widespread belief as proof something is true.`,
   },
   16: {
-    beginner: `## Appeal to Emotion — in-depth (Beginner)
+    beginner: `Appeal to Emotion = substituting emotional impact for logical evidence.`,
+    intermediate: `Appeal to Emotion
 
-**What this is, in plain English**  
-Manipulating an emotional response in place of a valid or compelling argument.
+Description:
+Using emotional language or imagery to influence a conclusion instead of evidence or logic.
+Feeling strongly about a claim doesn't make it true.
 
-**The example you’re looking at**  
-« Power lines cause cancer. I met a little boy with cancer who lived just 20 miles from a power line who looked into my eyes and said 'Please do whatever you can so that other kids won't have to go through what I am going through.' »  
+Example (charity pitch)
+"Power lines cause cancer. I met a little boy with cancer who lived near a power line who begged me to stop this."
+A single moving story is not evidence of causation.
+The emotional weight of the anecdote replaces a scientific case.
 
-**Why this is Appeal to Emotion**  
-Manipulating an emotional response in place of a valid or compelling argument. That is what this label is pointing to in the passage above.
+Example (insurance ad)
+"If you don't buy this insurance, your family will be destitute when you die."
+Fear and guilt are being used as the argument — no statistics, no data.
+The emotional pressure substitutes for a factual case.
 
-**Takeaway**  
-Manipulating an emotional response in place of a valid or compelling argument.`,
-    intermediate: `## Appeal to Emotion — in-depth (Intermediate)
+How it works
+The argument triggers a strong feeling (fear, pity, outrage) that bypasses critical thinking.
+You feel compelled to agree before you've examined any evidence.
 
-**What this is, in plain English**  
-Manipulating an emotional response in place of a valid or compelling argument.
+So:
+Emotional intensity ≠ logical validity
+Strong feelings can point to important issues — but they don't prove claims
+The bigger the emotion, the harder it is to think clearly
 
-**This example**  
-« Power lines cause cancer. I met a little boy with cancer who lived just 20 miles from a power line who looked into my eyes and said 'Please do whatever you can so that other kids won't have to go through what I am going through.' »  
+Key concept inside it
+Pathos without logos:
+Rhetoric has always used emotion (pathos) — the problem is when emotion replaces logic (logos) entirely.
+A good argument can move you AND be factually sound.
 
-The passage shows **Appeal to Emotion** in action: manipulating an emotional response in place of a valid or compelling argument.
+Why it matters
+Explains why:
+Political speeches rely on fear and pride more than policy detail
+Fundraising uses extreme individual cases rather than statistics
+Outrage is algorithmically amplified because it drives engagement
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: manipulating an emotional response in place of a valid or compelling argument.
+The uncomfortable implication
+You are easier to manipulate when you're emotionally activated.
+The more intense the feeling, the more you should slow down and look for evidence.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if manipulating an emotional response in place of a valid or compelling argument.
+One-line version
+Appeal to Emotion = substituting emotional impact for logical evidence.`,
+    expert: `Appeal to Emotion
 
-- **Example 3:** In sports or business results, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
+Description:
+Using emotional language or imagery to influence a conclusion instead of evidence or logic.
+Feeling strongly about a claim doesn't make it true.
 
-**In one sentence**  
-Appeal to Emotion is the label for reasoning that fits: Manipulating an emotional response in place of a valid or compelling argument.`,
-    expert: `## Appeal to Emotion — in-depth (Expert)
+Example (charity pitch)
+"Power lines cause cancer. I met a little boy with cancer who lived near a power line who begged me to stop this."
+A single moving story is not evidence of causation.
+The emotional weight of the anecdote replaces a scientific case.
 
-**Definition**  
-Manipulating an emotional response in place of a valid or compelling argument.
+Example (insurance ad)
+"If you don't buy this insurance, your family will be destitute when you die."
+Fear and guilt are being used as the argument — no statistics, no data.
+The emotional pressure substitutes for a factual case.
 
-**Applied to this passage**  
-« Power lines cause cancer. I met a little boy with cancer who lived just 20 miles from a power line who looked into my eyes and said 'Please do whatever you can so that other kids won't have to go through what I am going through.' »  
+How it works
+The argument triggers a strong feeling (fear, pity, outrage) that bypasses critical thinking.
+You feel compelled to agree before you've examined any evidence.
 
-Here, **Appeal to Emotion** is the right name because manipulating an emotional response in place of a valid or compelling argument.
+So:
+Emotional intensity ≠ logical validity
+Strong feelings can point to important issues — but they don't prove claims
+The bigger the emotion, the harder it is to think clearly
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: manipulating an emotional response in place of a valid or compelling argument.
+Key concept inside it
+Pathos without logos:
+Rhetoric has always used emotion (pathos) — the problem is when emotion replaces logic (logos) entirely.
+A good argument can move you AND be factually sound.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if manipulating an emotional response in place of a valid or compelling argument.
+Why it matters
+Explains why:
+Political speeches rely on fear and pride more than policy detail
+Fundraising uses extreme individual cases rather than statistics
+Outrage is algorithmically amplified because it drives engagement
 
-- **Example 3:** In sports or business results, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
+The uncomfortable implication
+You are easier to manipulate when you're emotionally activated.
+The more intense the feeling, the more you should slow down and look for evidence.
 
-- **Example 4:** Another everyday spot: a family argument. Manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Manipulating an emotional response in place of a valid or compelling argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Emotion** means Manipulating an emotional response in place of a valid or compelling argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Emotion = substituting emotional impact for logical evidence.`,
   },
   17: {
-    beginner: `## Appeal to Emotion — in-depth (Beginner)
+    beginner: `Appeal to Emotion = substituting emotional impact for logical evidence.`,
+    intermediate: `Appeal to Emotion
 
-**What this is, in plain English**  
-Manipulating an emotional response in place of a valid or compelling argument.
+Description:
+Using emotional language or imagery to influence a conclusion instead of evidence or logic.
+Feeling strongly about a claim doesn't make it true.
 
-**The example you’re looking at**  
-« There must be objective rights and wrongs in the universe. If not, how can you possibly say that torturing babies for fun is wrong? »  
+Example (charity pitch)
+"Power lines cause cancer. I met a little boy with cancer who lived near a power line who begged me to stop this."
+A single moving story is not evidence of causation.
+The emotional weight of the anecdote replaces a scientific case.
 
-**Why this is Appeal to Emotion**  
-Manipulating an emotional response in place of a valid or compelling argument. That is what this label is pointing to in the passage above.
+Example (insurance ad)
+"If you don't buy this insurance, your family will be destitute when you die."
+Fear and guilt are being used as the argument — no statistics, no data.
+The emotional pressure substitutes for a factual case.
 
-**Takeaway**  
-Manipulating an emotional response in place of a valid or compelling argument.`,
-    intermediate: `## Appeal to Emotion — in-depth (Intermediate)
+How it works
+The argument triggers a strong feeling (fear, pity, outrage) that bypasses critical thinking.
+You feel compelled to agree before you've examined any evidence.
 
-**What this is, in plain English**  
-Manipulating an emotional response in place of a valid or compelling argument.
+So:
+Emotional intensity ≠ logical validity
+Strong feelings can point to important issues — but they don't prove claims
+The bigger the emotion, the harder it is to think clearly
 
-**This example**  
-« There must be objective rights and wrongs in the universe. If not, how can you possibly say that torturing babies for fun is wrong? »  
+Key concept inside it
+Pathos without logos:
+Rhetoric has always used emotion (pathos) — the problem is when emotion replaces logic (logos) entirely.
+A good argument can move you AND be factually sound.
 
-The passage shows **Appeal to Emotion** in action: manipulating an emotional response in place of a valid or compelling argument.
+Why it matters
+Explains why:
+Political speeches rely on fear and pride more than policy detail
+Fundraising uses extreme individual cases rather than statistics
+Outrage is algorithmically amplified because it drives engagement
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if manipulating an emotional response in place of a valid or compelling argument.
+The uncomfortable implication
+You are easier to manipulate when you're emotionally activated.
+The more intense the feeling, the more you should slow down and look for evidence.
 
-- **Example 2:** In a health or habits story, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
+One-line version
+Appeal to Emotion = substituting emotional impact for logical evidence.`,
+    expert: `Appeal to Emotion
 
-- **Example 3:** Another everyday spot: school grades or test scores. Manipulating an emotional response in place of a valid or compelling argument.
+Description:
+Using emotional language or imagery to influence a conclusion instead of evidence or logic.
+Feeling strongly about a claim doesn't make it true.
 
-**In one sentence**  
-Appeal to Emotion is the label for reasoning that fits: Manipulating an emotional response in place of a valid or compelling argument.`,
-    expert: `## Appeal to Emotion — in-depth (Expert)
+Example (charity pitch)
+"Power lines cause cancer. I met a little boy with cancer who lived near a power line who begged me to stop this."
+A single moving story is not evidence of causation.
+The emotional weight of the anecdote replaces a scientific case.
 
-**Definition**  
-Manipulating an emotional response in place of a valid or compelling argument.
+Example (insurance ad)
+"If you don't buy this insurance, your family will be destitute when you die."
+Fear and guilt are being used as the argument — no statistics, no data.
+The emotional pressure substitutes for a factual case.
 
-**Applied to this passage**  
-« There must be objective rights and wrongs in the universe. If not, how can you possibly say that torturing babies for fun is wrong? »  
+How it works
+The argument triggers a strong feeling (fear, pity, outrage) that bypasses critical thinking.
+You feel compelled to agree before you've examined any evidence.
 
-Here, **Appeal to Emotion** is the right name because manipulating an emotional response in place of a valid or compelling argument.
+So:
+Emotional intensity ≠ logical validity
+Strong feelings can point to important issues — but they don't prove claims
+The bigger the emotion, the harder it is to think clearly
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if manipulating an emotional response in place of a valid or compelling argument.
+Key concept inside it
+Pathos without logos:
+Rhetoric has always used emotion (pathos) — the problem is when emotion replaces logic (logos) entirely.
+A good argument can move you AND be factually sound.
 
-- **Example 2:** In a health or habits story, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
+Why it matters
+Explains why:
+Political speeches rely on fear and pride more than policy detail
+Fundraising uses extreme individual cases rather than statistics
+Outrage is algorithmically amplified because it drives engagement
 
-- **Example 3:** Another everyday spot: school grades or test scores. Manipulating an emotional response in place of a valid or compelling argument.
+The uncomfortable implication
+You are easier to manipulate when you're emotionally activated.
+The more intense the feeling, the more you should slow down and look for evidence.
 
-- **Example 4:** **Setting:** a news headline or social post. **What goes wrong:** Manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 5:** Imagine a health or habits story. The slip is the same: manipulating an emotional response in place of a valid or compelling argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Emotion** means Manipulating an emotional response in place of a valid or compelling argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Emotion = substituting emotional impact for logical evidence.`,
   },
   18: {
-    beginner: `## Appeal to Emotion — in-depth (Beginner)
+    beginner: `Appeal to Emotion = substituting emotional impact for logical evidence.`,
+    intermediate: `Appeal to Emotion
 
-**What this is, in plain English**  
-Manipulating an emotional response in place of a valid or compelling argument.
+Description:
+Using emotional language or imagery to influence a conclusion instead of evidence or logic.
+Feeling strongly about a claim doesn't make it true.
 
-**The example you’re looking at**  
-« If you don't buy this insurance, your family will be destitute when you die. »  
+Example (charity pitch)
+"Power lines cause cancer. I met a little boy with cancer who lived near a power line who begged me to stop this."
+A single moving story is not evidence of causation.
+The emotional weight of the anecdote replaces a scientific case.
 
-**Why this is Appeal to Emotion**  
-Manipulating an emotional response in place of a valid or compelling argument. That is what this label is pointing to in the passage above.
+Example (insurance ad)
+"If you don't buy this insurance, your family will be destitute when you die."
+Fear and guilt are being used as the argument — no statistics, no data.
+The emotional pressure substitutes for a factual case.
 
-**Takeaway**  
-Manipulating an emotional response in place of a valid or compelling argument.`,
-    intermediate: `## Appeal to Emotion — in-depth (Intermediate)
+How it works
+The argument triggers a strong feeling (fear, pity, outrage) that bypasses critical thinking.
+You feel compelled to agree before you've examined any evidence.
 
-**What this is, in plain English**  
-Manipulating an emotional response in place of a valid or compelling argument.
+So:
+Emotional intensity ≠ logical validity
+Strong feelings can point to important issues — but they don't prove claims
+The bigger the emotion, the harder it is to think clearly
 
-**This example**  
-« If you don't buy this insurance, your family will be destitute when you die. »  
+Key concept inside it
+Pathos without logos:
+Rhetoric has always used emotion (pathos) — the problem is when emotion replaces logic (logos) entirely.
+A good argument can move you AND be factually sound.
 
-The passage shows **Appeal to Emotion** in action: manipulating an emotional response in place of a valid or compelling argument.
+Why it matters
+Explains why:
+Political speeches rely on fear and pride more than policy detail
+Fundraising uses extreme individual cases rather than statistics
+Outrage is algorithmically amplified because it drives engagement
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
+The uncomfortable implication
+You are easier to manipulate when you're emotionally activated.
+The more intense the feeling, the more you should slow down and look for evidence.
 
-- **Example 2:** Another everyday spot: sports or business results. Manipulating an emotional response in place of a valid or compelling argument.
+One-line version
+Appeal to Emotion = substituting emotional impact for logical evidence.`,
+    expert: `Appeal to Emotion
 
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Manipulating an emotional response in place of a valid or compelling argument.
+Description:
+Using emotional language or imagery to influence a conclusion instead of evidence or logic.
+Feeling strongly about a claim doesn't make it true.
 
-**In one sentence**  
-Appeal to Emotion is the label for reasoning that fits: Manipulating an emotional response in place of a valid or compelling argument.`,
-    expert: `## Appeal to Emotion — in-depth (Expert)
+Example (charity pitch)
+"Power lines cause cancer. I met a little boy with cancer who lived near a power line who begged me to stop this."
+A single moving story is not evidence of causation.
+The emotional weight of the anecdote replaces a scientific case.
 
-**Definition**  
-Manipulating an emotional response in place of a valid or compelling argument.
+Example (insurance ad)
+"If you don't buy this insurance, your family will be destitute when you die."
+Fear and guilt are being used as the argument — no statistics, no data.
+The emotional pressure substitutes for a factual case.
 
-**Applied to this passage**  
-« If you don't buy this insurance, your family will be destitute when you die. »  
+How it works
+The argument triggers a strong feeling (fear, pity, outrage) that bypasses critical thinking.
+You feel compelled to agree before you've examined any evidence.
 
-Here, **Appeal to Emotion** is the right name because manipulating an emotional response in place of a valid or compelling argument.
+So:
+Emotional intensity ≠ logical validity
+Strong feelings can point to important issues — but they don't prove claims
+The bigger the emotion, the harder it is to think clearly
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
+Key concept inside it
+Pathos without logos:
+Rhetoric has always used emotion (pathos) — the problem is when emotion replaces logic (logos) entirely.
+A good argument can move you AND be factually sound.
 
-- **Example 2:** Another everyday spot: sports or business results. Manipulating an emotional response in place of a valid or compelling argument.
+Why it matters
+Explains why:
+Political speeches rely on fear and pride more than policy detail
+Fundraising uses extreme individual cases rather than statistics
+Outrage is algorithmically amplified because it drives engagement
 
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Manipulating an emotional response in place of a valid or compelling argument.
+The uncomfortable implication
+You are easier to manipulate when you're emotionally activated.
+The more intense the feeling, the more you should slow down and look for evidence.
 
-- **Example 4:** Imagine a policy or workplace discussion. The slip is the same: manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 5:** Picture sports or business results. People often reason as if manipulating an emotional response in place of a valid or compelling argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Emotion** means Manipulating an emotional response in place of a valid or compelling argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Emotion = substituting emotional impact for logical evidence.`,
   },
   19: {
-    beginner: `## Appeal to Fear — in-depth (Beginner)
+    beginner: `Appeal to Fear = using scare tactics to pressure a decision instead of offering real evidence.`,
+    intermediate: `Appeal to Fear
 
-**What this is, in plain English**  
-Using scare tactics to influence the audience's decision-making.
+Description:
+Using scare tactics to push someone toward a conclusion without providing real evidence.
+Fear is a tool — not a reason.
 
-**The example you’re looking at**  
-« If you don't vote for me, terrorists will attack our city. »  
+Example (politics)
+"If you don't vote for me, terrorists will attack our city."
+No evidence links this candidate's absence to a terrorist attack.
+The threat is invented to pressure a decision.
 
-**Why this is Appeal to Fear**  
-Using scare tactics to influence the audience's decision-making. That is what this label is pointing to in the passage above.
+Example (sales)
+"Buy this security system or your home will be burglarized."
+This implies safety guarantees the system cannot make.
+The fear of burglary replaces evidence of effectiveness.
 
-**Takeaway**  
-Using scare tactics to influence the audience's decision-making.`,
-    intermediate: `## Appeal to Fear — in-depth (Intermediate)
+How it works
+The argument skips evidence and goes straight to consequences — specifically scary ones.
+It forces a binary: act now (as I suggest) or face disaster.
 
-**What this is, in plain English**  
-Using scare tactics to influence the audience's decision-making.
+So:
+The threat may be exaggerated, remote, or invented
+Fear narrows thinking and prevents evaluation of alternatives
+Urgency manufactured by fear is not the same as real urgency
 
-**This example**  
-« If you don't vote for me, terrorists will attack our city. »  
+Key concept inside it
+False urgency:
+Appeal to Fear often creates a sense that you must decide NOW.
+This prevents reflection — which is exactly the goal.
 
-The passage shows **Appeal to Fear** in action: using scare tactics to influence the audience's decision-making.
+Why it matters
+Explains why:
+Security products are marketed with crime statistics and imagery
+Political ads focus on worst-case scenarios under the opponent
+Cult-like groups use fear of the outside world to retain members
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Using scare tactics to influence the audience's decision-making.
+The uncomfortable implication
+Fear is one of the most powerful cognitive shortcuts.
+When you feel afraid, you are most open to bad arguments.
 
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Using scare tactics to influence the audience's decision-making.
+One-line version
+Appeal to Fear = using scare tactics to pressure a decision instead of offering real evidence.`,
+    expert: `Appeal to Fear
 
-- **Example 3:** Imagine a news headline or social post. The slip is the same: using scare tactics to influence the audience's decision-making.
+Description:
+Using scare tactics to push someone toward a conclusion without providing real evidence.
+Fear is a tool — not a reason.
 
-**In one sentence**  
-Appeal to Fear is the label for reasoning that fits: Using scare tactics to influence the audience's decision-making.`,
-    expert: `## Appeal to Fear — in-depth (Expert)
+Example (politics)
+"If you don't vote for me, terrorists will attack our city."
+No evidence links this candidate's absence to a terrorist attack.
+The threat is invented to pressure a decision.
 
-**Definition**  
-Using scare tactics to influence the audience's decision-making.
+Example (sales)
+"Buy this security system or your home will be burglarized."
+This implies safety guarantees the system cannot make.
+The fear of burglary replaces evidence of effectiveness.
 
-**Applied to this passage**  
-« If you don't vote for me, terrorists will attack our city. »  
+How it works
+The argument skips evidence and goes straight to consequences — specifically scary ones.
+It forces a binary: act now (as I suggest) or face disaster.
 
-Here, **Appeal to Fear** is the right name because using scare tactics to influence the audience's decision-making.
+So:
+The threat may be exaggerated, remote, or invented
+Fear narrows thinking and prevents evaluation of alternatives
+Urgency manufactured by fear is not the same as real urgency
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Using scare tactics to influence the audience's decision-making.
+Key concept inside it
+False urgency:
+Appeal to Fear often creates a sense that you must decide NOW.
+This prevents reflection — which is exactly the goal.
 
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Using scare tactics to influence the audience's decision-making.
+Why it matters
+Explains why:
+Security products are marketed with crime statistics and imagery
+Political ads focus on worst-case scenarios under the opponent
+Cult-like groups use fear of the outside world to retain members
 
-- **Example 3:** Imagine a news headline or social post. The slip is the same: using scare tactics to influence the audience's decision-making.
+The uncomfortable implication
+Fear is one of the most powerful cognitive shortcuts.
+When you feel afraid, you are most open to bad arguments.
 
-- **Example 4:** Picture a health or habits story. People often reason as if using scare tactics to influence the audience's decision-making.
-
-- **Example 5:** In school grades or test scores, watch for this pattern: Using scare tactics to influence the audience's decision-making.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Fear** means Using scare tactics to influence the audience's decision-making.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Appeal to Fear = using scare tactics to pressure a decision instead of offering real evidence.`,
   },
   20: {
-    beginner: `## Appeal to Fear — in-depth (Beginner)
+    beginner: `Appeal to Fear = using scare tactics to pressure a decision instead of offering real evidence.`,
+    intermediate: `Appeal to Fear
 
-**What this is, in plain English**  
-Using scare tactics to influence the audience's decision-making.
+Description:
+Using scare tactics to push someone toward a conclusion without providing real evidence.
+Fear is a tool — not a reason.
 
-**The example you’re looking at**  
-« Buy this security system or your home will be burglarized. »  
+Example (politics)
+"If you don't vote for me, terrorists will attack our city."
+No evidence links this candidate's absence to a terrorist attack.
+The threat is invented to pressure a decision.
 
-**Why this is Appeal to Fear**  
-Using scare tactics to influence the audience's decision-making. That is what this label is pointing to in the passage above.
+Example (sales)
+"Buy this security system or your home will be burglarized."
+This implies safety guarantees the system cannot make.
+The fear of burglary replaces evidence of effectiveness.
 
-**Takeaway**  
-Using scare tactics to influence the audience's decision-making.`,
-    intermediate: `## Appeal to Fear — in-depth (Intermediate)
+How it works
+The argument skips evidence and goes straight to consequences — specifically scary ones.
+It forces a binary: act now (as I suggest) or face disaster.
 
-**What this is, in plain English**  
-Using scare tactics to influence the audience's decision-making.
+So:
+The threat may be exaggerated, remote, or invented
+Fear narrows thinking and prevents evaluation of alternatives
+Urgency manufactured by fear is not the same as real urgency
 
-**This example**  
-« Buy this security system or your home will be burglarized. »  
+Key concept inside it
+False urgency:
+Appeal to Fear often creates a sense that you must decide NOW.
+This prevents reflection — which is exactly the goal.
 
-The passage shows **Appeal to Fear** in action: using scare tactics to influence the audience's decision-making.
+Why it matters
+Explains why:
+Security products are marketed with crime statistics and imagery
+Political ads focus on worst-case scenarios under the opponent
+Cult-like groups use fear of the outside world to retain members
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Using scare tactics to influence the audience's decision-making.
+The uncomfortable implication
+Fear is one of the most powerful cognitive shortcuts.
+When you feel afraid, you are most open to bad arguments.
 
-- **Example 2:** Imagine a family argument. The slip is the same: using scare tactics to influence the audience's decision-making.
+One-line version
+Appeal to Fear = using scare tactics to pressure a decision instead of offering real evidence.`,
+    expert: `Appeal to Fear
 
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if using scare tactics to influence the audience's decision-making.
+Description:
+Using scare tactics to push someone toward a conclusion without providing real evidence.
+Fear is a tool — not a reason.
 
-**In one sentence**  
-Appeal to Fear is the label for reasoning that fits: Using scare tactics to influence the audience's decision-making.`,
-    expert: `## Appeal to Fear — in-depth (Expert)
+Example (politics)
+"If you don't vote for me, terrorists will attack our city."
+No evidence links this candidate's absence to a terrorist attack.
+The threat is invented to pressure a decision.
 
-**Definition**  
-Using scare tactics to influence the audience's decision-making.
+Example (sales)
+"Buy this security system or your home will be burglarized."
+This implies safety guarantees the system cannot make.
+The fear of burglary replaces evidence of effectiveness.
 
-**Applied to this passage**  
-« Buy this security system or your home will be burglarized. »  
+How it works
+The argument skips evidence and goes straight to consequences — specifically scary ones.
+It forces a binary: act now (as I suggest) or face disaster.
 
-Here, **Appeal to Fear** is the right name because using scare tactics to influence the audience's decision-making.
+So:
+The threat may be exaggerated, remote, or invented
+Fear narrows thinking and prevents evaluation of alternatives
+Urgency manufactured by fear is not the same as real urgency
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Using scare tactics to influence the audience's decision-making.
+Key concept inside it
+False urgency:
+Appeal to Fear often creates a sense that you must decide NOW.
+This prevents reflection — which is exactly the goal.
 
-- **Example 2:** Imagine a family argument. The slip is the same: using scare tactics to influence the audience's decision-making.
+Why it matters
+Explains why:
+Security products are marketed with crime statistics and imagery
+Political ads focus on worst-case scenarios under the opponent
+Cult-like groups use fear of the outside world to retain members
 
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if using scare tactics to influence the audience's decision-making.
+The uncomfortable implication
+Fear is one of the most powerful cognitive shortcuts.
+When you feel afraid, you are most open to bad arguments.
 
-- **Example 4:** In sports or business results, watch for this pattern: Using scare tactics to influence the audience's decision-making.
-
-- **Example 5:** Another everyday spot: a family argument. Using scare tactics to influence the audience's decision-making.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Fear** means Using scare tactics to influence the audience's decision-making.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Appeal to Fear = using scare tactics to pressure a decision instead of offering real evidence.`,
   },
   21: {
-    beginner: `## Appeal to Fear — in-depth (Beginner)
+    beginner: `Appeal to Fear = using scare tactics to pressure a decision instead of offering real evidence.`,
+    intermediate: `Appeal to Fear
 
-**What this is, in plain English**  
-Using scare tactics to influence the audience's decision-making.
+Description:
+Using scare tactics to push someone toward a conclusion without providing real evidence.
+Fear is a tool — not a reason.
 
-**The example you’re looking at**  
-« Without this vaccine, your child will die from preventable diseases. »  
+Example (politics)
+"If you don't vote for me, terrorists will attack our city."
+No evidence links this candidate's absence to a terrorist attack.
+The threat is invented to pressure a decision.
 
-**Why this is Appeal to Fear**  
-Using scare tactics to influence the audience's decision-making. That is what this label is pointing to in the passage above.
+Example (health warnings)
+"Without this vaccine, your child will die from preventable diseases."
+This overstates certainty — not every unvaccinated child dies — and uses fear to bypass evidence.
+A genuine case would use statistics and mechanism, not worst-case scenarios as certain facts.
 
-**Takeaway**  
-Using scare tactics to influence the audience's decision-making.`,
-    intermediate: `## Appeal to Fear — in-depth (Intermediate)
+How it works
+The argument skips evidence and jumps straight to terrifying consequences.
+It creates a false urgency: act now or disaster strikes.
 
-**What this is, in plain English**  
-Using scare tactics to influence the audience's decision-making.
+So:
+The threat may be exaggerated, remote, or fabricated
+Fear narrows thinking and blocks evaluation of alternatives
+Urgency manufactured by fear is not the same as real urgency
 
-**This example**  
-« Without this vaccine, your child will die from preventable diseases. »  
+Key concept inside it
+False urgency:
+Appeal to Fear manufactures a NOW or NEVER feeling.
+This prevents reflection — which is exactly the goal.
 
-The passage shows **Appeal to Fear** in action: using scare tactics to influence the audience's decision-making.
+Why it matters
+Explains why:
+Security products are marketed with vivid crime imagery
+Political opponents are described as existential threats
+Cults use fear of the outside world to control members
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: using scare tactics to influence the audience's decision-making.
+The uncomfortable implication
+Fear is one of the most powerful cognitive shortcuts.
+When you feel afraid, you are most open to bad arguments.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if using scare tactics to influence the audience's decision-making.
+One-line version
+Appeal to Fear = using scare tactics to pressure a decision instead of offering real evidence.`,
+    expert: `Appeal to Fear
 
-- **Example 3:** In a health or habits story, watch for this pattern: Using scare tactics to influence the audience's decision-making.
+Description:
+Using scare tactics to push someone toward a conclusion without providing real evidence.
+Fear is a tool — not a reason.
 
-**In one sentence**  
-Appeal to Fear is the label for reasoning that fits: Using scare tactics to influence the audience's decision-making.`,
-    expert: `## Appeal to Fear — in-depth (Expert)
+Example (politics)
+"If you don't vote for me, terrorists will attack our city."
+No evidence links this candidate's absence to a terrorist attack.
+The threat is invented to pressure a decision.
 
-**Definition**  
-Using scare tactics to influence the audience's decision-making.
+Example (health warnings)
+"Without this vaccine, your child will die from preventable diseases."
+This overstates certainty — not every unvaccinated child dies — and uses fear to bypass evidence.
+A genuine case would use statistics and mechanism, not worst-case scenarios as certain facts.
 
-**Applied to this passage**  
-« Without this vaccine, your child will die from preventable diseases. »  
+How it works
+The argument skips evidence and jumps straight to terrifying consequences.
+It creates a false urgency: act now or disaster strikes.
 
-Here, **Appeal to Fear** is the right name because using scare tactics to influence the audience's decision-making.
+So:
+The threat may be exaggerated, remote, or fabricated
+Fear narrows thinking and blocks evaluation of alternatives
+Urgency manufactured by fear is not the same as real urgency
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: using scare tactics to influence the audience's decision-making.
+Key concept inside it
+False urgency:
+Appeal to Fear manufactures a NOW or NEVER feeling.
+This prevents reflection — which is exactly the goal.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if using scare tactics to influence the audience's decision-making.
+Why it matters
+Explains why:
+Security products are marketed with vivid crime imagery
+Political opponents are described as existential threats
+Cults use fear of the outside world to control members
 
-- **Example 3:** In a health or habits story, watch for this pattern: Using scare tactics to influence the audience's decision-making.
+The uncomfortable implication
+Fear is one of the most powerful cognitive shortcuts.
+When you feel afraid, you are most open to bad arguments.
 
-- **Example 4:** Another everyday spot: school grades or test scores. Using scare tactics to influence the audience's decision-making.
-
-- **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** Using scare tactics to influence the audience's decision-making.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Fear** means Using scare tactics to influence the audience's decision-making.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Appeal to Fear = using scare tactics to pressure a decision instead of offering real evidence.`,
   },
   22: {
-    beginner: `## Appeal to Ignorance — in-depth (Beginner)
+    beginner: `Appeal to Ignorance = concluding something is true (or false) simply because it hasn't been proven otherwise.`,
+    intermediate: `Appeal to Ignorance
 
-**What this is, in plain English**  
-Arguing that a claim is true simply because it has not been proven false.
+Description:
+Arguing that a claim must be true simply because it hasn't been proven false — or false because it hasn't been proven true.
+Absence of evidence is not evidence of presence.
 
-**The example you’re looking at**  
-« Although we have proven that the moon is not made of spare ribs, we have not proven that its core cannot be filled with them; therefore, the moon’s core is filled with spare ribs. »  
+Example (paranormal)
+"No one has proven that ghosts don't exist, so they must exist."
+The burden of proof lies with the person making the positive claim.
+The impossibility of disproving something is not the same as proof it exists.
 
-**Why this is Appeal to Ignorance**  
-Arguing that a claim is true simply because it has not been proven false. That is what this label is pointing to in the passage above.
+Example (legal pressure)
+"Since you haven't been able to prove your innocence, I must assume you are guilty."
+This reverses the burden of proof.
+In sound reasoning, the claimant must provide evidence — silence from the other side proves nothing.
 
-**Takeaway**  
-Arguing that a claim is true simply because it has not been proven false.`,
-    intermediate: `## Appeal to Ignorance — in-depth (Intermediate)
+How it works
+The argument exploits the limits of knowledge.
+It uses "we don't know it's false" as though it were "we know it's true."
 
-**What this is, in plain English**  
-Arguing that a claim is true simply because it has not been proven false.
+So:
+Unknown ≠ true
+Unproven ≠ false
+The right response to insufficient evidence is "we don't know yet"
 
-**This example**  
-« Although we have proven that the moon is not made of spare ribs, we have not proven that its core cannot be filled with them; therefore, the moon’s core is filled with spare ribs. »  
+Key concept inside it
+Burden of proof:
+The person making a claim has the responsibility to support it with evidence.
+The other party is not required to disprove it.
 
-The passage shows **Appeal to Ignorance** in action: arguing that a claim is true simply because it has not been proven false.
+Why it matters
+Explains why:
+Conspiracy theories survive because they are hard to definitively disprove
+Pseudoscience exploits gaps in mainstream knowledge
+Legal presumptions of innocence exist precisely to counter this fallacy
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if arguing that a claim is true simply because it has not been proven false.
+The uncomfortable implication
+Almost any claim can survive under this logic.
+"We haven't proven unicorns don't exist" — so what?
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Arguing that a claim is true simply because it has not been proven false.
+One-line version
+Appeal to Ignorance = concluding something is true (or false) simply because it hasn't been proven otherwise.`,
+    expert: `Appeal to Ignorance
 
-- **Example 3:** Another everyday spot: sports or business results. Arguing that a claim is true simply because it has not been proven false.
+Description:
+Arguing that a claim must be true simply because it hasn't been proven false — or false because it hasn't been proven true.
+Absence of evidence is not evidence of presence.
 
-**In one sentence**  
-Appeal to Ignorance is the label for reasoning that fits: Arguing that a claim is true simply because it has not been proven false.`,
-    expert: `## Appeal to Ignorance — in-depth (Expert)
+Example (paranormal)
+"No one has proven that ghosts don't exist, so they must exist."
+The burden of proof lies with the person making the positive claim.
+The impossibility of disproving something is not the same as proof it exists.
 
-**Definition**  
-Arguing that a claim is true simply because it has not been proven false.
+Example (legal pressure)
+"Since you haven't been able to prove your innocence, I must assume you are guilty."
+This reverses the burden of proof.
+In sound reasoning, the claimant must provide evidence — silence from the other side proves nothing.
 
-**Applied to this passage**  
-« Although we have proven that the moon is not made of spare ribs, we have not proven that its core cannot be filled with them; therefore, the moon’s core is filled with spare ribs. »  
+How it works
+The argument exploits the limits of knowledge.
+It uses "we don't know it's false" as though it were "we know it's true."
 
-Here, **Appeal to Ignorance** is the right name because arguing that a claim is true simply because it has not been proven false.
+So:
+Unknown ≠ true
+Unproven ≠ false
+The right response to insufficient evidence is "we don't know yet"
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if arguing that a claim is true simply because it has not been proven false.
+Key concept inside it
+Burden of proof:
+The person making a claim has the responsibility to support it with evidence.
+The other party is not required to disprove it.
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Arguing that a claim is true simply because it has not been proven false.
+Why it matters
+Explains why:
+Conspiracy theories survive because they are hard to definitively disprove
+Pseudoscience exploits gaps in mainstream knowledge
+Legal presumptions of innocence exist precisely to counter this fallacy
 
-- **Example 3:** Another everyday spot: sports or business results. Arguing that a claim is true simply because it has not been proven false.
+The uncomfortable implication
+Almost any claim can survive under this logic.
+"We haven't proven unicorns don't exist" — so what?
 
-- **Example 4:** **Setting:** a family argument. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
-
-- **Example 5:** Imagine a policy or workplace discussion. The slip is the same: arguing that a claim is true simply because it has not been proven false.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Ignorance** means Arguing that a claim is true simply because it has not been proven false.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Appeal to Ignorance = concluding something is true (or false) simply because it hasn't been proven otherwise.`,
   },
   23: {
-    beginner: `## Appeal to Ignorance — in-depth (Beginner)
+    beginner: `Appeal to Ignorance = concluding something is true (or false) simply because it hasn't been proven otherwise.`,
+    intermediate: `Appeal to Ignorance
 
-**What this is, in plain English**  
-Arguing that a claim is true simply because it has not been proven false.
+Description:
+Arguing that a claim must be true simply because it hasn't been proven false — or false because it hasn't been proven true.
+Absence of evidence is not evidence of presence.
 
-**The example you’re looking at**  
-« No one has proven that ghosts don't exist, so they must exist. »  
+Example (paranormal)
+"No one has proven that ghosts don't exist, so they must exist."
+The burden of proof lies with the person making the positive claim.
+The impossibility of disproving something is not the same as proof it exists.
 
-**Why this is Appeal to Ignorance**  
-Arguing that a claim is true simply because it has not been proven false. That is what this label is pointing to in the passage above.
+Example (legal pressure)
+"Since you haven't been able to prove your innocence, I must assume you are guilty."
+This reverses the burden of proof.
+In sound reasoning, the claimant must provide evidence — silence from the other side proves nothing.
 
-**Takeaway**  
-Arguing that a claim is true simply because it has not been proven false.`,
-    intermediate: `## Appeal to Ignorance — in-depth (Intermediate)
+How it works
+The argument exploits the limits of knowledge.
+It uses "we don't know it's false" as though it were "we know it's true."
 
-**What this is, in plain English**  
-Arguing that a claim is true simply because it has not been proven false.
+So:
+Unknown ≠ true
+Unproven ≠ false
+The right response to insufficient evidence is "we don't know yet"
 
-**This example**  
-« No one has proven that ghosts don't exist, so they must exist. »  
+Key concept inside it
+Burden of proof:
+The person making a claim has the responsibility to support it with evidence.
+The other party is not required to disprove it.
 
-The passage shows **Appeal to Ignorance** in action: arguing that a claim is true simply because it has not been proven false.
+Why it matters
+Explains why:
+Conspiracy theories survive because they are hard to definitively disprove
+Pseudoscience exploits gaps in mainstream knowledge
+Legal presumptions of innocence exist precisely to counter this fallacy
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Arguing that a claim is true simply because it has not been proven false.
+The uncomfortable implication
+Almost any claim can survive under this logic.
+"We haven't proven unicorns don't exist" — so what?
 
-- **Example 2:** Another everyday spot: a health or habits story. Arguing that a claim is true simply because it has not been proven false.
+One-line version
+Appeal to Ignorance = concluding something is true (or false) simply because it hasn't been proven otherwise.`,
+    expert: `Appeal to Ignorance
 
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
+Description:
+Arguing that a claim must be true simply because it hasn't been proven false — or false because it hasn't been proven true.
+Absence of evidence is not evidence of presence.
 
-**In one sentence**  
-Appeal to Ignorance is the label for reasoning that fits: Arguing that a claim is true simply because it has not been proven false.`,
-    expert: `## Appeal to Ignorance — in-depth (Expert)
+Example (paranormal)
+"No one has proven that ghosts don't exist, so they must exist."
+The burden of proof lies with the person making the positive claim.
+The impossibility of disproving something is not the same as proof it exists.
 
-**Definition**  
-Arguing that a claim is true simply because it has not been proven false.
+Example (legal pressure)
+"Since you haven't been able to prove your innocence, I must assume you are guilty."
+This reverses the burden of proof.
+In sound reasoning, the claimant must provide evidence — silence from the other side proves nothing.
 
-**Applied to this passage**  
-« No one has proven that ghosts don't exist, so they must exist. »  
+How it works
+The argument exploits the limits of knowledge.
+It uses "we don't know it's false" as though it were "we know it's true."
 
-Here, **Appeal to Ignorance** is the right name because arguing that a claim is true simply because it has not been proven false.
+So:
+Unknown ≠ true
+Unproven ≠ false
+The right response to insufficient evidence is "we don't know yet"
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Arguing that a claim is true simply because it has not been proven false.
+Key concept inside it
+Burden of proof:
+The person making a claim has the responsibility to support it with evidence.
+The other party is not required to disprove it.
 
-- **Example 2:** Another everyday spot: a health or habits story. Arguing that a claim is true simply because it has not been proven false.
+Why it matters
+Explains why:
+Conspiracy theories survive because they are hard to definitively disprove
+Pseudoscience exploits gaps in mainstream knowledge
+Legal presumptions of innocence exist precisely to counter this fallacy
 
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
+The uncomfortable implication
+Almost any claim can survive under this logic.
+"We haven't proven unicorns don't exist" — so what?
 
-- **Example 4:** Imagine a news headline or social post. The slip is the same: arguing that a claim is true simply because it has not been proven false.
-
-- **Example 5:** Picture a health or habits story. People often reason as if arguing that a claim is true simply because it has not been proven false.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Ignorance** means Arguing that a claim is true simply because it has not been proven false.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Appeal to Ignorance = concluding something is true (or false) simply because it hasn't been proven otherwise.`,
   },
   24: {
-    beginner: `## Appeal to Ignorance — in-depth (Beginner)
+    beginner: `Appeal to Ignorance = concluding something is true (or false) simply because it hasn't been proven otherwise.`,
+    intermediate: `Appeal to Ignorance
 
-**What this is, in plain English**  
-Arguing that a claim is true simply because it has not been proven false.
+Description:
+Arguing that a claim must be true simply because it hasn't been proven false — or false because it hasn't been proven true.
+Absence of evidence is not evidence of presence.
 
-**The example you’re looking at**  
-« Since you haven't been able to prove your innocence, I must assume you are guilty. »  
+Example (paranormal)
+"No one has proven that ghosts don't exist, so they must exist."
+The burden of proof lies with the person making the positive claim.
+The impossibility of disproving something is not the same as proof it exists.
 
-**Why this is Appeal to Ignorance**  
-Arguing that a claim is true simply because it has not been proven false. That is what this label is pointing to in the passage above.
+Example (legal pressure)
+"Since you haven't been able to prove your innocence, I must assume you are guilty."
+This reverses the burden of proof.
+In sound reasoning, the claimant must provide evidence — silence from the other side proves nothing.
 
-**Takeaway**  
-Arguing that a claim is true simply because it has not been proven false.`,
-    intermediate: `## Appeal to Ignorance — in-depth (Intermediate)
+How it works
+The argument exploits the limits of knowledge.
+It uses "we don't know it's false" as though it were "we know it's true."
 
-**What this is, in plain English**  
-Arguing that a claim is true simply because it has not been proven false.
+So:
+Unknown ≠ true
+Unproven ≠ false
+The right response to insufficient evidence is "we don't know yet"
 
-**This example**  
-« Since you haven't been able to prove your innocence, I must assume you are guilty. »  
+Key concept inside it
+Burden of proof:
+The person making a claim has the responsibility to support it with evidence.
+The other party is not required to disprove it.
 
-The passage shows **Appeal to Ignorance** in action: arguing that a claim is true simply because it has not been proven false.
+Why it matters
+Explains why:
+Conspiracy theories survive because they are hard to definitively disprove
+Pseudoscience exploits gaps in mainstream knowledge
+Legal presumptions of innocence exist precisely to counter this fallacy
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Arguing that a claim is true simply because it has not been proven false.
+The uncomfortable implication
+Almost any claim can survive under this logic.
+"We haven't proven unicorns don't exist" — so what?
 
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
+One-line version
+Appeal to Ignorance = concluding something is true (or false) simply because it hasn't been proven otherwise.`,
+    expert: `Appeal to Ignorance
 
-- **Example 3:** Imagine a family argument. The slip is the same: arguing that a claim is true simply because it has not been proven false.
+Description:
+Arguing that a claim must be true simply because it hasn't been proven false — or false because it hasn't been proven true.
+Absence of evidence is not evidence of presence.
 
-**In one sentence**  
-Appeal to Ignorance is the label for reasoning that fits: Arguing that a claim is true simply because it has not been proven false.`,
-    expert: `## Appeal to Ignorance — in-depth (Expert)
+Example (paranormal)
+"No one has proven that ghosts don't exist, so they must exist."
+The burden of proof lies with the person making the positive claim.
+The impossibility of disproving something is not the same as proof it exists.
 
-**Definition**  
-Arguing that a claim is true simply because it has not been proven false.
+Example (legal pressure)
+"Since you haven't been able to prove your innocence, I must assume you are guilty."
+This reverses the burden of proof.
+In sound reasoning, the claimant must provide evidence — silence from the other side proves nothing.
 
-**Applied to this passage**  
-« Since you haven't been able to prove your innocence, I must assume you are guilty. »  
+How it works
+The argument exploits the limits of knowledge.
+It uses "we don't know it's false" as though it were "we know it's true."
 
-Here, **Appeal to Ignorance** is the right name because arguing that a claim is true simply because it has not been proven false.
+So:
+Unknown ≠ true
+Unproven ≠ false
+The right response to insufficient evidence is "we don't know yet"
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Arguing that a claim is true simply because it has not been proven false.
+Key concept inside it
+Burden of proof:
+The person making a claim has the responsibility to support it with evidence.
+The other party is not required to disprove it.
 
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
+Why it matters
+Explains why:
+Conspiracy theories survive because they are hard to definitively disprove
+Pseudoscience exploits gaps in mainstream knowledge
+Legal presumptions of innocence exist precisely to counter this fallacy
 
-- **Example 3:** Imagine a family argument. The slip is the same: arguing that a claim is true simply because it has not been proven false.
+The uncomfortable implication
+Almost any claim can survive under this logic.
+"We haven't proven unicorns don't exist" — so what?
 
-- **Example 4:** Picture a policy or workplace discussion. People often reason as if arguing that a claim is true simply because it has not been proven false.
-
-- **Example 5:** In sports or business results, watch for this pattern: Arguing that a claim is true simply because it has not been proven false.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Ignorance** means Arguing that a claim is true simply because it has not been proven false.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Appeal to Ignorance = concluding something is true (or false) simply because it hasn't been proven otherwise.`,
   },
   25: {
-    beginner: `## Appeal to Incredulity — in-depth (Beginner)
+    beginner: `Appeal to Incredulity = rejecting something as impossible just because you personally can't picture how it could be true.`,
+    intermediate: `Appeal to Incredulity
 
-**What this is, in plain English**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Description:
+Claiming something must be false simply because you personally find it hard to imagine or understand.
+Your inability to picture something doesn't make it impossible.
 
-**The example you’re looking at**  
-« I cannot imagine how this could be true, therefore it must be false. »  
+Example (evolution)
+"It's impossible that humans evolved from monkeys — it just doesn't make sense to me."
+Human intuition is not calibrated for geological timescales or molecular genetics.
+The complexity of evolution exceeds everyday experience, but that doesn't falsify it.
 
-**Why this is Appeal to Incredulity**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine. That is what this label is pointing to in the passage above.
+Example (vaccines)
+"I don't understand how vaccines work, so they must be dangerous."
+Lack of understanding is not evidence of danger.
+Billions of processes happen in your body that you can't explain — they still work.
 
-**Takeaway**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
-    intermediate: `## Appeal to Incredulity — in-depth (Intermediate)
+How it works
+The argument makes personal comprehension the measure of reality.
+Whatever exceeds intuition is deemed impossible.
 
-**What this is, in plain English**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+So:
+Complex things exist even when they seem impossible
+Your imagination is not a measuring instrument for truth
+Confusion is a reason to learn — not a reason to dismiss
 
-**This example**  
-« I cannot imagine how this could be true, therefore it must be false. »  
+Key concept inside it
+Limitations of intuition:
+Human intuition evolved for a small-scale, slow-paced world.
+It reliably fails us on quantum mechanics, evolution, statistics, and deep time.
 
-The passage shows **Appeal to Incredulity** in action: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Why it matters
+Explains why:
+People reject well-established science when it contradicts daily experience
+"That can't be right" shuts down curiosity instead of opening it
+Novel technologies and medical discoveries face this reaction routinely
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+The uncomfortable implication
+Many true things are deeply counterintuitive.
+Basing belief on what "seems right" is one of the most unreliable methods we have.
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+One-line version
+Appeal to Incredulity = rejecting something as impossible just because you personally can't picture how it could be true.`,
+    expert: `Appeal to Incredulity
 
-- **Example 3:** Picture a news headline or social post. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Description:
+Claiming something must be false simply because you personally find it hard to imagine or understand.
+Your inability to picture something doesn't make it impossible.
 
-**In one sentence**  
-Appeal to Incredulity is the label for reasoning that fits: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
-    expert: `## Appeal to Incredulity — in-depth (Expert)
+Example (evolution)
+"It's impossible that humans evolved from monkeys — it just doesn't make sense to me."
+Human intuition is not calibrated for geological timescales or molecular genetics.
+The complexity of evolution exceeds everyday experience, but that doesn't falsify it.
 
-**Definition**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Example (vaccines)
+"I don't understand how vaccines work, so they must be dangerous."
+Lack of understanding is not evidence of danger.
+Billions of processes happen in your body that you can't explain — they still work.
 
-**Applied to this passage**  
-« I cannot imagine how this could be true, therefore it must be false. »  
+How it works
+The argument makes personal comprehension the measure of reality.
+Whatever exceeds intuition is deemed impossible.
 
-Here, **Appeal to Incredulity** is the right name because asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+So:
+Complex things exist even when they seem impossible
+Your imagination is not a measuring instrument for truth
+Confusion is a reason to learn — not a reason to dismiss
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Key concept inside it
+Limitations of intuition:
+Human intuition evolved for a small-scale, slow-paced world.
+It reliably fails us on quantum mechanics, evolution, statistics, and deep time.
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Why it matters
+Explains why:
+People reject well-established science when it contradicts daily experience
+"That can't be right" shuts down curiosity instead of opening it
+Novel technologies and medical discoveries face this reaction routinely
 
-- **Example 3:** Picture a news headline or social post. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+The uncomfortable implication
+Many true things are deeply counterintuitive.
+Basing belief on what "seems right" is one of the most unreliable methods we have.
 
-- **Example 4:** In a health or habits story, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 5:** Another everyday spot: school grades or test scores. Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Incredulity** means Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Appeal to Incredulity = rejecting something as impossible just because you personally can't picture how it could be true.`,
   },
   26: {
-    beginner: `## Appeal to Incredulity — in-depth (Beginner)
+    beginner: `Appeal to Incredulity = rejecting something as impossible just because you personally can't picture how it could be true.`,
+    intermediate: `Appeal to Incredulity
 
-**What this is, in plain English**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Description:
+Claiming something must be false simply because you personally find it hard to imagine or understand.
+Your inability to picture something doesn't make it impossible.
 
-**The example you’re looking at**  
-« It's impossible that humans evolved from monkeys, it just doesn't make sense to me. »  
+Example (evolution)
+"It's impossible that humans evolved from monkeys — it just doesn't make sense to me."
+Human intuition is not calibrated for geological timescales or molecular genetics.
+The complexity of evolution exceeds everyday experience, but that doesn't falsify it.
 
-**Why this is Appeal to Incredulity**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine. That is what this label is pointing to in the passage above.
+Example (vaccines)
+"I don't understand how vaccines work, so they must be dangerous."
+Lack of understanding is not evidence of danger.
+Billions of processes happen in your body that you can't explain — they still work.
 
-**Takeaway**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
-    intermediate: `## Appeal to Incredulity — in-depth (Intermediate)
+How it works
+The argument makes personal comprehension the measure of reality.
+Whatever exceeds intuition is deemed impossible.
 
-**What this is, in plain English**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+So:
+Complex things exist even when they seem impossible
+Your imagination is not a measuring instrument for truth
+Confusion is a reason to learn — not a reason to dismiss
 
-**This example**  
-« It's impossible that humans evolved from monkeys, it just doesn't make sense to me. »  
+Key concept inside it
+Limitations of intuition:
+Human intuition evolved for a small-scale, slow-paced world.
+It reliably fails us on quantum mechanics, evolution, statistics, and deep time.
 
-The passage shows **Appeal to Incredulity** in action: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Why it matters
+Explains why:
+People reject well-established science when it contradicts daily experience
+"That can't be right" shuts down curiosity instead of opening it
+Novel technologies and medical discoveries face this reaction routinely
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+The uncomfortable implication
+Many true things are deeply counterintuitive.
+Basing belief on what "seems right" is one of the most unreliable methods we have.
 
-- **Example 2:** Picture a family argument. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+One-line version
+Appeal to Incredulity = rejecting something as impossible just because you personally can't picture how it could be true.`,
+    expert: `Appeal to Incredulity
 
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Description:
+Claiming something must be false simply because you personally find it hard to imagine or understand.
+Your inability to picture something doesn't make it impossible.
 
-**In one sentence**  
-Appeal to Incredulity is the label for reasoning that fits: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
-    expert: `## Appeal to Incredulity — in-depth (Expert)
+Example (evolution)
+"It's impossible that humans evolved from monkeys — it just doesn't make sense to me."
+Human intuition is not calibrated for geological timescales or molecular genetics.
+The complexity of evolution exceeds everyday experience, but that doesn't falsify it.
 
-**Definition**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Example (vaccines)
+"I don't understand how vaccines work, so they must be dangerous."
+Lack of understanding is not evidence of danger.
+Billions of processes happen in your body that you can't explain — they still work.
 
-**Applied to this passage**  
-« It's impossible that humans evolved from monkeys, it just doesn't make sense to me. »  
+How it works
+The argument makes personal comprehension the measure of reality.
+Whatever exceeds intuition is deemed impossible.
 
-Here, **Appeal to Incredulity** is the right name because asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+So:
+Complex things exist even when they seem impossible
+Your imagination is not a measuring instrument for truth
+Confusion is a reason to learn — not a reason to dismiss
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Key concept inside it
+Limitations of intuition:
+Human intuition evolved for a small-scale, slow-paced world.
+It reliably fails us on quantum mechanics, evolution, statistics, and deep time.
 
-- **Example 2:** Picture a family argument. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Why it matters
+Explains why:
+People reject well-established science when it contradicts daily experience
+"That can't be right" shuts down curiosity instead of opening it
+Novel technologies and medical discoveries face this reaction routinely
 
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+The uncomfortable implication
+Many true things are deeply counterintuitive.
+Basing belief on what "seems right" is one of the most unreliable methods we have.
 
-- **Example 4:** Another everyday spot: sports or business results. Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 5:** **Setting:** a family argument. **What goes wrong:** Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Incredulity** means Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Appeal to Incredulity = rejecting something as impossible just because you personally can't picture how it could be true.`,
   },
   27: {
-    beginner: `## Appeal to Incredulity — in-depth (Beginner)
+    beginner: `Appeal to Incredulity = rejecting something as impossible just because you personally can't picture how it could be true.`,
+    intermediate: `Appeal to Incredulity
 
-**What this is, in plain English**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Description:
+Claiming something must be false simply because you personally find it hard to imagine or understand.
+Your inability to picture something doesn't make it impossible.
 
-**The example you’re looking at**  
-« I don't understand how vaccines work, so they must be dangerous. »  
+Example (evolution)
+"It's impossible that humans evolved from monkeys — it just doesn't make sense to me."
+Human intuition is not calibrated for geological timescales or molecular genetics.
+The complexity of evolution exceeds everyday experience, but that doesn't falsify it.
 
-**Why this is Appeal to Incredulity**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine. That is what this label is pointing to in the passage above.
+Example (vaccines)
+"I don't understand how vaccines work, so they must be dangerous."
+Lack of understanding is not evidence of danger.
+Billions of processes happen in your body that you can't explain — they still work.
 
-**Takeaway**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
-    intermediate: `## Appeal to Incredulity — in-depth (Intermediate)
+How it works
+The argument makes personal comprehension the measure of reality.
+Whatever exceeds intuition is deemed impossible.
 
-**What this is, in plain English**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+So:
+Complex things exist even when they seem impossible
+Your imagination is not a measuring instrument for truth
+Confusion is a reason to learn — not a reason to dismiss
 
-**This example**  
-« I don't understand how vaccines work, so they must be dangerous. »  
+Key concept inside it
+Limitations of intuition:
+Human intuition evolved for a small-scale, slow-paced world.
+It reliably fails us on quantum mechanics, evolution, statistics, and deep time.
 
-The passage shows **Appeal to Incredulity** in action: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Why it matters
+Explains why:
+People reject well-established science when it contradicts daily experience
+"That can't be right" shuts down curiosity instead of opening it
+Novel technologies and medical discoveries face this reaction routinely
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+The uncomfortable implication
+Many true things are deeply counterintuitive.
+Basing belief on what "seems right" is one of the most unreliable methods we have.
 
-- **Example 2:** In a news headline or social post, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+One-line version
+Appeal to Incredulity = rejecting something as impossible just because you personally can't picture how it could be true.`,
+    expert: `Appeal to Incredulity
 
-- **Example 3:** Another everyday spot: a health or habits story. Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Description:
+Claiming something must be false simply because you personally find it hard to imagine or understand.
+Your inability to picture something doesn't make it impossible.
 
-**In one sentence**  
-Appeal to Incredulity is the label for reasoning that fits: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
-    expert: `## Appeal to Incredulity — in-depth (Expert)
+Example (evolution)
+"It's impossible that humans evolved from monkeys — it just doesn't make sense to me."
+Human intuition is not calibrated for geological timescales or molecular genetics.
+The complexity of evolution exceeds everyday experience, but that doesn't falsify it.
 
-**Definition**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Example (vaccines)
+"I don't understand how vaccines work, so they must be dangerous."
+Lack of understanding is not evidence of danger.
+Billions of processes happen in your body that you can't explain — they still work.
 
-**Applied to this passage**  
-« I don't understand how vaccines work, so they must be dangerous. »  
+How it works
+The argument makes personal comprehension the measure of reality.
+Whatever exceeds intuition is deemed impossible.
 
-Here, **Appeal to Incredulity** is the right name because asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+So:
+Complex things exist even when they seem impossible
+Your imagination is not a measuring instrument for truth
+Confusion is a reason to learn — not a reason to dismiss
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Key concept inside it
+Limitations of intuition:
+Human intuition evolved for a small-scale, slow-paced world.
+It reliably fails us on quantum mechanics, evolution, statistics, and deep time.
 
-- **Example 2:** In a news headline or social post, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Why it matters
+Explains why:
+People reject well-established science when it contradicts daily experience
+"That can't be right" shuts down curiosity instead of opening it
+Novel technologies and medical discoveries face this reaction routinely
 
-- **Example 3:** Another everyday spot: a health or habits story. Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+The uncomfortable implication
+Many true things are deeply counterintuitive.
+Basing belief on what "seems right" is one of the most unreliable methods we have.
 
-- **Example 4:** **Setting:** school grades or test scores. **What goes wrong:** Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 5:** Imagine a news headline or social post. The slip is the same: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Incredulity** means Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Appeal to Incredulity = rejecting something as impossible just because you personally can't picture how it could be true.`,
   },
   28: {
-    beginner: `## Anecdotal Fallacy — in-depth (Beginner)
+    beginner: `Anecdotal Fallacy = using a single personal story as proof of a general claim instead of systematic evidence.`,
+    intermediate: `Anecdotal Fallacy
 
-**What this is, in plain English**  
-Using a personal experience or an isolated example instead of effective evidence.
+Description:
+Using one personal story or isolated example as if it were proof of a general claim — instead of relying on systematic evidence.
+A sample size of one is not a study.
 
-**The example you’re looking at**  
-« Jason said that that was all cool and everything, but his grandfather smoked, like, 30 cigarettes a day and lived until 97 - so don't believe everything you read about meta analyses of methodologically sound studies showing proven causal relationships. »  
+Example (smoking)
+"My grandfather smoked 30 cigarettes a day and lived to 97 — so don't believe the studies on smoking."
+One long-lived smoker does not overturn thousands of studies and millions of data points.
+Outliers exist. They are not the rule.
 
-**Why this is Anecdotal Fallacy**  
-Using a personal experience or an isolated example instead of effective evidence. That is what this label is pointing to in the passage above.
+Example (crystals)
+"I know someone who was cured of illness by crystals — so crystals work."
+One case of a person who recovered (for any reason) while using crystals is not controlled evidence.
+Correlation, placebo, and spontaneous recovery all explain this without invoking crystal healing.
 
-**Takeaway**  
-Using a personal experience or an isolated example instead of effective evidence.`,
-    intermediate: `## Anecdotal Fallacy — in-depth (Intermediate)
+How it works
+The brain is wired to respond to stories — not statistics.
+A single vivid story overpowers abstract data, even when the data is far more reliable.
 
-**What this is, in plain English**  
-Using a personal experience or an isolated example instead of effective evidence.
+So:
+Individual cases cannot generalize to populations
+Memorable stories are more persuasive than they deserve to be
+Systematic evidence must be compared to systematic counter-evidence
 
-**This example**  
-« Jason said that that was all cool and everything, but his grandfather smoked, like, 30 cigarettes a day and lived until 97 - so don't believe everything you read about meta analyses of methodologically sound studies showing proven causal relationships. »  
+Key concept inside it
+Representativeness:
+One example is only powerful if it represents the broader pattern.
+An outlier selected for being dramatic is the least representative example possible.
 
-The passage shows **Anecdotal Fallacy** in action: using a personal experience or an isolated example instead of effective evidence.
+Why it matters
+Explains why:
+Alternative medicine spreads through testimonials
+People avoid air travel after one crash despite statistics favoring it strongly over cars
+Policy is shaped by emotional individual stories rather than population-level data
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Using a personal experience or an isolated example instead of effective evidence.
+The uncomfortable implication
+You remember the person who beat the odds.
+You forget the thousands who didn't — because their stories aren't told.
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Using a personal experience or an isolated example instead of effective evidence.
+One-line version
+Anecdotal Fallacy = using a single personal story as proof of a general claim instead of systematic evidence.`,
+    expert: `Anecdotal Fallacy
 
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
+Description:
+Using one personal story or isolated example as if it were proof of a general claim — instead of relying on systematic evidence.
+A sample size of one is not a study.
 
-**In one sentence**  
-Anecdotal Fallacy is the label for reasoning that fits: Using a personal experience or an isolated example instead of effective evidence.`,
-    expert: `## Anecdotal Fallacy — in-depth (Expert)
+Example (smoking)
+"My grandfather smoked 30 cigarettes a day and lived to 97 — so don't believe the studies on smoking."
+One long-lived smoker does not overturn thousands of studies and millions of data points.
+Outliers exist. They are not the rule.
 
-**Definition**  
-Using a personal experience or an isolated example instead of effective evidence.
+Example (crystals)
+"I know someone who was cured of illness by crystals — so crystals work."
+One case of a person who recovered (for any reason) while using crystals is not controlled evidence.
+Correlation, placebo, and spontaneous recovery all explain this without invoking crystal healing.
 
-**Applied to this passage**  
-« Jason said that that was all cool and everything, but his grandfather smoked, like, 30 cigarettes a day and lived until 97 - so don't believe everything you read about meta analyses of methodologically sound studies showing proven causal relationships. »  
+How it works
+The brain is wired to respond to stories — not statistics.
+A single vivid story overpowers abstract data, even when the data is far more reliable.
 
-Here, **Anecdotal Fallacy** is the right name because using a personal experience or an isolated example instead of effective evidence.
+So:
+Individual cases cannot generalize to populations
+Memorable stories are more persuasive than they deserve to be
+Systematic evidence must be compared to systematic counter-evidence
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Using a personal experience or an isolated example instead of effective evidence.
+Key concept inside it
+Representativeness:
+One example is only powerful if it represents the broader pattern.
+An outlier selected for being dramatic is the least representative example possible.
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Using a personal experience or an isolated example instead of effective evidence.
+Why it matters
+Explains why:
+Alternative medicine spreads through testimonials
+People avoid air travel after one crash despite statistics favoring it strongly over cars
+Policy is shaped by emotional individual stories rather than population-level data
 
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
+The uncomfortable implication
+You remember the person who beat the odds.
+You forget the thousands who didn't — because their stories aren't told.
 
-- **Example 4:** Imagine a family argument. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 5:** Picture a policy or workplace discussion. People often reason as if using a personal experience or an isolated example instead of effective evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Anecdotal Fallacy** means Using a personal experience or an isolated example instead of effective evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Anecdotal Fallacy = using a single personal story as proof of a general claim instead of systematic evidence.`,
   },
   29: {
-    beginner: `## Anecdotal Fallacy — in-depth (Beginner)
+    beginner: `Anecdotal Fallacy = using a single personal story as proof of a general claim instead of systematic evidence.`,
+    intermediate: `Anecdotal Fallacy
 
-**What this is, in plain English**  
-Using a personal experience or an isolated example instead of effective evidence.
+Description:
+Using one personal story or isolated example as if it were proof of a general claim — instead of relying on systematic evidence.
+A sample size of one is not a study.
 
-**The example you’re looking at**  
-« I know someone who was cured by crystals, so crystals work. »  
+Example (smoking)
+"My grandfather smoked 30 cigarettes a day and lived to 97 — so don't believe the studies on smoking."
+One long-lived smoker does not overturn thousands of studies and millions of data points.
+Outliers exist. They are not the rule.
 
-**Why this is Anecdotal Fallacy**  
-Using a personal experience or an isolated example instead of effective evidence. That is what this label is pointing to in the passage above.
+Example (crystals)
+"I know someone who was cured of illness by crystals — so crystals work."
+One case of a person who recovered (for any reason) while using crystals is not controlled evidence.
+Correlation, placebo, and spontaneous recovery all explain this without invoking crystal healing.
 
-**Takeaway**  
-Using a personal experience or an isolated example instead of effective evidence.`,
-    intermediate: `## Anecdotal Fallacy — in-depth (Intermediate)
+How it works
+The brain is wired to respond to stories — not statistics.
+A single vivid story overpowers abstract data, even when the data is far more reliable.
 
-**What this is, in plain English**  
-Using a personal experience or an isolated example instead of effective evidence.
+So:
+Individual cases cannot generalize to populations
+Memorable stories are more persuasive than they deserve to be
+Systematic evidence must be compared to systematic counter-evidence
 
-**This example**  
-« I know someone who was cured by crystals, so crystals work. »  
+Key concept inside it
+Representativeness:
+One example is only powerful if it represents the broader pattern.
+An outlier selected for being dramatic is the least representative example possible.
 
-The passage shows **Anecdotal Fallacy** in action: using a personal experience or an isolated example instead of effective evidence.
+Why it matters
+Explains why:
+Alternative medicine spreads through testimonials
+People avoid air travel after one crash despite statistics favoring it strongly over cars
+Policy is shaped by emotional individual stories rather than population-level data
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Using a personal experience or an isolated example instead of effective evidence.
+The uncomfortable implication
+You remember the person who beat the odds.
+You forget the thousands who didn't — because their stories aren't told.
 
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
+One-line version
+Anecdotal Fallacy = using a single personal story as proof of a general claim instead of systematic evidence.`,
+    expert: `Anecdotal Fallacy
 
-- **Example 3:** Imagine school grades or test scores. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
+Description:
+Using one personal story or isolated example as if it were proof of a general claim — instead of relying on systematic evidence.
+A sample size of one is not a study.
 
-**In one sentence**  
-Anecdotal Fallacy is the label for reasoning that fits: Using a personal experience or an isolated example instead of effective evidence.`,
-    expert: `## Anecdotal Fallacy — in-depth (Expert)
+Example (smoking)
+"My grandfather smoked 30 cigarettes a day and lived to 97 — so don't believe the studies on smoking."
+One long-lived smoker does not overturn thousands of studies and millions of data points.
+Outliers exist. They are not the rule.
 
-**Definition**  
-Using a personal experience or an isolated example instead of effective evidence.
+Example (crystals)
+"I know someone who was cured of illness by crystals — so crystals work."
+One case of a person who recovered (for any reason) while using crystals is not controlled evidence.
+Correlation, placebo, and spontaneous recovery all explain this without invoking crystal healing.
 
-**Applied to this passage**  
-« I know someone who was cured by crystals, so crystals work. »  
+How it works
+The brain is wired to respond to stories — not statistics.
+A single vivid story overpowers abstract data, even when the data is far more reliable.
 
-Here, **Anecdotal Fallacy** is the right name because using a personal experience or an isolated example instead of effective evidence.
+So:
+Individual cases cannot generalize to populations
+Memorable stories are more persuasive than they deserve to be
+Systematic evidence must be compared to systematic counter-evidence
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Using a personal experience or an isolated example instead of effective evidence.
+Key concept inside it
+Representativeness:
+One example is only powerful if it represents the broader pattern.
+An outlier selected for being dramatic is the least representative example possible.
 
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
+Why it matters
+Explains why:
+Alternative medicine spreads through testimonials
+People avoid air travel after one crash despite statistics favoring it strongly over cars
+Policy is shaped by emotional individual stories rather than population-level data
 
-- **Example 3:** Imagine school grades or test scores. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
+The uncomfortable implication
+You remember the person who beat the odds.
+You forget the thousands who didn't — because their stories aren't told.
 
-- **Example 4:** Picture a news headline or social post. People often reason as if using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 5:** In a health or habits story, watch for this pattern: Using a personal experience or an isolated example instead of effective evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Anecdotal Fallacy** means Using a personal experience or an isolated example instead of effective evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Anecdotal Fallacy = using a single personal story as proof of a general claim instead of systematic evidence.`,
   },
   30: {
-    beginner: `## Anecdotal Fallacy — in-depth (Beginner)
+    beginner: `Anecdotal Fallacy = using a single personal story as proof of a general claim instead of systematic evidence.`,
+    intermediate: `Anecdotal Fallacy
 
-**What this is, in plain English**  
-Using a personal experience or an isolated example instead of effective evidence.
+Description:
+Using one personal story or isolated example as if it were proof of a general claim — instead of relying on systematic evidence.
+A sample size of one is not a study.
 
-**The example you’re looking at**  
-« My car broke down, so all cars of this brand are unreliable. »  
+Example (smoking)
+"My grandfather smoked 30 cigarettes a day and lived to 97 — so don't believe the studies on smoking."
+One long-lived smoker does not overturn thousands of studies and millions of data points.
+Outliers exist. They are not the rule.
 
-**Why this is Anecdotal Fallacy**  
-Using a personal experience or an isolated example instead of effective evidence. That is what this label is pointing to in the passage above.
+Example (crystals)
+"I know someone who was cured of illness by crystals — so crystals work."
+One case of a person who recovered (for any reason) while using crystals is not controlled evidence.
+Correlation, placebo, and spontaneous recovery all explain this without invoking crystal healing.
 
-**Takeaway**  
-Using a personal experience or an isolated example instead of effective evidence.`,
-    intermediate: `## Anecdotal Fallacy — in-depth (Intermediate)
+How it works
+The brain is wired to respond to stories — not statistics.
+A single vivid story overpowers abstract data, even when the data is far more reliable.
 
-**What this is, in plain English**  
-Using a personal experience or an isolated example instead of effective evidence.
+So:
+Individual cases cannot generalize to populations
+Memorable stories are more persuasive than they deserve to be
+Systematic evidence must be compared to systematic counter-evidence
 
-**This example**  
-« My car broke down, so all cars of this brand are unreliable. »  
+Key concept inside it
+Representativeness:
+One example is only powerful if it represents the broader pattern.
+An outlier selected for being dramatic is the least representative example possible.
 
-The passage shows **Anecdotal Fallacy** in action: using a personal experience or an isolated example instead of effective evidence.
+Why it matters
+Explains why:
+Alternative medicine spreads through testimonials
+People avoid air travel after one crash despite statistics favoring it strongly over cars
+Policy is shaped by emotional individual stories rather than population-level data
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
+The uncomfortable implication
+You remember the person who beat the odds.
+You forget the thousands who didn't — because their stories aren't told.
 
-- **Example 2:** Imagine sports or business results. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
+One-line version
+Anecdotal Fallacy = using a single personal story as proof of a general claim instead of systematic evidence.`,
+    expert: `Anecdotal Fallacy
 
-- **Example 3:** Picture a family argument. People often reason as if using a personal experience or an isolated example instead of effective evidence.
+Description:
+Using one personal story or isolated example as if it were proof of a general claim — instead of relying on systematic evidence.
+A sample size of one is not a study.
 
-**In one sentence**  
-Anecdotal Fallacy is the label for reasoning that fits: Using a personal experience or an isolated example instead of effective evidence.`,
-    expert: `## Anecdotal Fallacy — in-depth (Expert)
+Example (smoking)
+"My grandfather smoked 30 cigarettes a day and lived to 97 — so don't believe the studies on smoking."
+One long-lived smoker does not overturn thousands of studies and millions of data points.
+Outliers exist. They are not the rule.
 
-**Definition**  
-Using a personal experience or an isolated example instead of effective evidence.
+Example (crystals)
+"I know someone who was cured of illness by crystals — so crystals work."
+One case of a person who recovered (for any reason) while using crystals is not controlled evidence.
+Correlation, placebo, and spontaneous recovery all explain this without invoking crystal healing.
 
-**Applied to this passage**  
-« My car broke down, so all cars of this brand are unreliable. »  
+How it works
+The brain is wired to respond to stories — not statistics.
+A single vivid story overpowers abstract data, even when the data is far more reliable.
 
-Here, **Anecdotal Fallacy** is the right name because using a personal experience or an isolated example instead of effective evidence.
+So:
+Individual cases cannot generalize to populations
+Memorable stories are more persuasive than they deserve to be
+Systematic evidence must be compared to systematic counter-evidence
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
+Key concept inside it
+Representativeness:
+One example is only powerful if it represents the broader pattern.
+An outlier selected for being dramatic is the least representative example possible.
 
-- **Example 2:** Imagine sports or business results. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
+Why it matters
+Explains why:
+Alternative medicine spreads through testimonials
+People avoid air travel after one crash despite statistics favoring it strongly over cars
+Policy is shaped by emotional individual stories rather than population-level data
 
-- **Example 3:** Picture a family argument. People often reason as if using a personal experience or an isolated example instead of effective evidence.
+The uncomfortable implication
+You remember the person who beat the odds.
+You forget the thousands who didn't — because their stories aren't told.
 
-- **Example 4:** In a policy or workplace discussion, watch for this pattern: Using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 5:** Another everyday spot: sports or business results. Using a personal experience or an isolated example instead of effective evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Anecdotal Fallacy** means Using a personal experience or an isolated example instead of effective evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Anecdotal Fallacy = using a single personal story as proof of a general claim instead of systematic evidence.`,
   },
   31: {
-    beginner: `## Availability Heuristic — in-depth (Beginner)
+    beginner: `Availability Heuristic = overestimating how common something is because it's easy to remember, not because it's frequent.`,
+    intermediate: `Availability Heuristic
 
-**What this is, in plain English**  
-Overestimating the importance of information that is available (easy to remember).
+Description:
+Overestimating the likelihood of events that come easily to mind — usually because they are dramatic, recent, or heavily covered.
+Memorable ≠ common.
 
-**The example you’re looking at**  
-« People overestimate the risk of plane crashes because they are highly publicized, ignoring that car accidents are more common. »  
+Example (plane crashes)
+"People overestimate the risk of plane crashes because they are highly publicized — ignoring that car accidents are far more common."
+A dramatic crash stays in memory. The daily toll of road deaths does not make headlines.
+Result: people fear the wrong thing.
 
-**Why this is Availability Heuristic**  
-Overestimating the importance of information that is available (easy to remember). That is what this label is pointing to in the passage above.
+Example (shark attacks)
+"Shark attacks feel common because of media coverage — but drowning is orders of magnitude more frequent."
+News coverage is not a random sample of reality.
+It is a selection of the most shocking events.
 
-**Takeaway**  
-Overestimating the importance of information that is available (easy to remember).`,
-    intermediate: `## Availability Heuristic — in-depth (Intermediate)
+How it works
+Things that are easy to recall feel more prevalent than they actually are.
+Ease of recall is driven by vividness, recency, and emotional impact — not by frequency.
 
-**What this is, in plain English**  
-Overestimating the importance of information that is available (easy to remember).
+So:
+Risk perception is distorted by media coverage
+We overprepare for exotic threats and underprepare for mundane ones
+"I can think of an example" is not the same as "this is common"
 
-**This example**  
-« People overestimate the risk of plane crashes because they are highly publicized, ignoring that car accidents are more common. »  
+Key concept inside it
+Cognitive ease:
+The brain interprets "easy to recall" as "likely."
+This made sense in a world where memorable events were things you personally witnessed — not things curated by media algorithms.
 
-The passage shows **Availability Heuristic** in action: overestimating the importance of information that is available (easy to remember).
+Why it matters
+Explains why:
+People buy lottery tickets while fearing plane crashes
+Insurance premiums spike after rare disasters
+Security policy focuses on dramatic threats while ignoring statistical ones
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: overestimating the importance of information that is available (easy to remember).
+The uncomfortable implication
+Your sense of what is dangerous is partly constructed by what you've read and watched.
+It is not an accurate map of actual risk.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if overestimating the importance of information that is available (easy to remember).
+One-line version
+Availability Heuristic = overestimating how common something is because it's easy to remember, not because it's frequent.`,
+    expert: `Availability Heuristic
 
-- **Example 3:** In a news headline or social post, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
+Description:
+Overestimating the likelihood of events that come easily to mind — usually because they are dramatic, recent, or heavily covered.
+Memorable ≠ common.
 
-**In one sentence**  
-Availability Heuristic is the label for reasoning that fits: Overestimating the importance of information that is available (easy to remember).`,
-    expert: `## Availability Heuristic — in-depth (Expert)
+Example (plane crashes)
+"People overestimate the risk of plane crashes because they are highly publicized — ignoring that car accidents are far more common."
+A dramatic crash stays in memory. The daily toll of road deaths does not make headlines.
+Result: people fear the wrong thing.
 
-**Definition**  
-Overestimating the importance of information that is available (easy to remember).
+Example (shark attacks)
+"Shark attacks feel common because of media coverage — but drowning is orders of magnitude more frequent."
+News coverage is not a random sample of reality.
+It is a selection of the most shocking events.
 
-**Applied to this passage**  
-« People overestimate the risk of plane crashes because they are highly publicized, ignoring that car accidents are more common. »  
+How it works
+Things that are easy to recall feel more prevalent than they actually are.
+Ease of recall is driven by vividness, recency, and emotional impact — not by frequency.
 
-Here, **Availability Heuristic** is the right name because overestimating the importance of information that is available (easy to remember).
+So:
+Risk perception is distorted by media coverage
+We overprepare for exotic threats and underprepare for mundane ones
+"I can think of an example" is not the same as "this is common"
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: overestimating the importance of information that is available (easy to remember).
+Key concept inside it
+Cognitive ease:
+The brain interprets "easy to recall" as "likely."
+This made sense in a world where memorable events were things you personally witnessed — not things curated by media algorithms.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if overestimating the importance of information that is available (easy to remember).
+Why it matters
+Explains why:
+People buy lottery tickets while fearing plane crashes
+Insurance premiums spike after rare disasters
+Security policy focuses on dramatic threats while ignoring statistical ones
 
-- **Example 3:** In a news headline or social post, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
+The uncomfortable implication
+Your sense of what is dangerous is partly constructed by what you've read and watched.
+It is not an accurate map of actual risk.
 
-- **Example 4:** Another everyday spot: a health or habits story. Overestimating the importance of information that is available (easy to remember).
-
-- **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** Overestimating the importance of information that is available (easy to remember).
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Availability Heuristic** means Overestimating the importance of information that is available (easy to remember).
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Memory & Perception Effects`,
+One-line version
+Availability Heuristic = overestimating how common something is because it's easy to remember, not because it's frequent.`,
   },
   32: {
-    beginner: `## Availability Heuristic — in-depth (Beginner)
+    beginner: `Availability Heuristic = overestimating how common something is because it's easy to remember, not because it's frequent.`,
+    intermediate: `Availability Heuristic
 
-**What this is, in plain English**  
-Overestimating the importance of information that is available (easy to remember).
+Description:
+Overestimating the likelihood of events that come easily to mind — usually because they are dramatic, recent, or heavily covered.
+Memorable ≠ common.
 
-**The example you’re looking at**  
-« Thinking shark attacks are common because media covers them, but drowning is more frequent. »  
+Example (plane crashes)
+"People overestimate the risk of plane crashes because they are highly publicized — ignoring that car accidents are far more common."
+A dramatic crash stays in memory. The daily toll of road deaths does not make headlines.
+Result: people fear the wrong thing.
 
-**Why this is Availability Heuristic**  
-Overestimating the importance of information that is available (easy to remember). That is what this label is pointing to in the passage above.
+Example (shark attacks)
+"Shark attacks feel common because of media coverage — but drowning is orders of magnitude more frequent."
+News coverage is not a random sample of reality.
+It is a selection of the most shocking events.
 
-**Takeaway**  
-Overestimating the importance of information that is available (easy to remember).`,
-    intermediate: `## Availability Heuristic — in-depth (Intermediate)
+How it works
+Things that are easy to recall feel more prevalent than they actually are.
+Ease of recall is driven by vividness, recency, and emotional impact — not by frequency.
 
-**What this is, in plain English**  
-Overestimating the importance of information that is available (easy to remember).
+So:
+Risk perception is distorted by media coverage
+We overprepare for exotic threats and underprepare for mundane ones
+"I can think of an example" is not the same as "this is common"
 
-**This example**  
-« Thinking shark attacks are common because media covers them, but drowning is more frequent. »  
+Key concept inside it
+Cognitive ease:
+The brain interprets "easy to recall" as "likely."
+This made sense in a world where memorable events were things you personally witnessed — not things curated by media algorithms.
 
-The passage shows **Availability Heuristic** in action: overestimating the importance of information that is available (easy to remember).
+Why it matters
+Explains why:
+People buy lottery tickets while fearing plane crashes
+Insurance premiums spike after rare disasters
+Security policy focuses on dramatic threats while ignoring statistical ones
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if overestimating the importance of information that is available (easy to remember).
+The uncomfortable implication
+Your sense of what is dangerous is partly constructed by what you've read and watched.
+It is not an accurate map of actual risk.
 
-- **Example 2:** In a family argument, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
+One-line version
+Availability Heuristic = overestimating how common something is because it's easy to remember, not because it's frequent.`,
+    expert: `Availability Heuristic
 
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Overestimating the importance of information that is available (easy to remember).
+Description:
+Overestimating the likelihood of events that come easily to mind — usually because they are dramatic, recent, or heavily covered.
+Memorable ≠ common.
 
-**In one sentence**  
-Availability Heuristic is the label for reasoning that fits: Overestimating the importance of information that is available (easy to remember).`,
-    expert: `## Availability Heuristic — in-depth (Expert)
+Example (plane crashes)
+"People overestimate the risk of plane crashes because they are highly publicized — ignoring that car accidents are far more common."
+A dramatic crash stays in memory. The daily toll of road deaths does not make headlines.
+Result: people fear the wrong thing.
 
-**Definition**  
-Overestimating the importance of information that is available (easy to remember).
+Example (shark attacks)
+"Shark attacks feel common because of media coverage — but drowning is orders of magnitude more frequent."
+News coverage is not a random sample of reality.
+It is a selection of the most shocking events.
 
-**Applied to this passage**  
-« Thinking shark attacks are common because media covers them, but drowning is more frequent. »  
+How it works
+Things that are easy to recall feel more prevalent than they actually are.
+Ease of recall is driven by vividness, recency, and emotional impact — not by frequency.
 
-Here, **Availability Heuristic** is the right name because overestimating the importance of information that is available (easy to remember).
+So:
+Risk perception is distorted by media coverage
+We overprepare for exotic threats and underprepare for mundane ones
+"I can think of an example" is not the same as "this is common"
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if overestimating the importance of information that is available (easy to remember).
+Key concept inside it
+Cognitive ease:
+The brain interprets "easy to recall" as "likely."
+This made sense in a world where memorable events were things you personally witnessed — not things curated by media algorithms.
 
-- **Example 2:** In a family argument, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
+Why it matters
+Explains why:
+People buy lottery tickets while fearing plane crashes
+Insurance premiums spike after rare disasters
+Security policy focuses on dramatic threats while ignoring statistical ones
 
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Overestimating the importance of information that is available (easy to remember).
+The uncomfortable implication
+Your sense of what is dangerous is partly constructed by what you've read and watched.
+It is not an accurate map of actual risk.
 
-- **Example 4:** **Setting:** sports or business results. **What goes wrong:** Overestimating the importance of information that is available (easy to remember).
-
-- **Example 5:** Imagine a family argument. The slip is the same: overestimating the importance of information that is available (easy to remember).
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Availability Heuristic** means Overestimating the importance of information that is available (easy to remember).
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Memory & Perception Effects`,
+One-line version
+Availability Heuristic = overestimating how common something is because it's easy to remember, not because it's frequent.`,
   },
   33: {
-    beginner: `## Availability Heuristic — in-depth (Beginner)
+    beginner: `Availability Heuristic = overestimating how common something is because it's easy to remember, not because it's frequent.`,
+    intermediate: `Availability Heuristic
 
-**What this is, in plain English**  
-Overestimating the importance of information that is available (easy to remember).
+Description:
+Overestimating the likelihood of events that come easily to mind — usually because they are dramatic, recent, or heavily covered.
+Memorable ≠ common.
 
-**The example you’re looking at**  
-« Recalling recent news events as more significant than statistical data. »  
+Example (plane crashes)
+"People overestimate the risk of plane crashes because they are highly publicized — ignoring that car accidents are far more common."
+A dramatic crash stays in memory. The daily toll of road deaths does not make headlines.
+Result: people fear the wrong thing.
 
-**Why this is Availability Heuristic**  
-Overestimating the importance of information that is available (easy to remember). That is what this label is pointing to in the passage above.
+Example (shark attacks)
+"Shark attacks feel common because of media coverage — but drowning is orders of magnitude more frequent."
+News coverage is not a random sample of reality.
+It is a selection of the most shocking events.
 
-**Takeaway**  
-Overestimating the importance of information that is available (easy to remember).`,
-    intermediate: `## Availability Heuristic — in-depth (Intermediate)
+How it works
+Things that are easy to recall feel more prevalent than they actually are.
+Ease of recall is driven by vividness, recency, and emotional impact — not by frequency.
 
-**What this is, in plain English**  
-Overestimating the importance of information that is available (easy to remember).
+So:
+Risk perception is distorted by media coverage
+We overprepare for exotic threats and underprepare for mundane ones
+"I can think of an example" is not the same as "this is common"
 
-**This example**  
-« Recalling recent news events as more significant than statistical data. »  
+Key concept inside it
+Cognitive ease:
+The brain interprets "easy to recall" as "likely."
+This made sense in a world where memorable events were things you personally witnessed — not things curated by media algorithms.
 
-The passage shows **Availability Heuristic** in action: overestimating the importance of information that is available (easy to remember).
+Why it matters
+Explains why:
+People buy lottery tickets while fearing plane crashes
+Insurance premiums spike after rare disasters
+Security policy focuses on dramatic threats while ignoring statistical ones
 
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
+The uncomfortable implication
+Your sense of what is dangerous is partly constructed by what you've read and watched.
+It is not an accurate map of actual risk.
 
-- **Example 2:** Another everyday spot: a news headline or social post. Overestimating the importance of information that is available (easy to remember).
+One-line version
+Availability Heuristic = overestimating how common something is because it's easy to remember, not because it's frequent.`,
+    expert: `Availability Heuristic
 
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Overestimating the importance of information that is available (easy to remember).
+Description:
+Overestimating the likelihood of events that come easily to mind — usually because they are dramatic, recent, or heavily covered.
+Memorable ≠ common.
 
-**In one sentence**  
-Availability Heuristic is the label for reasoning that fits: Overestimating the importance of information that is available (easy to remember).`,
-    expert: `## Availability Heuristic — in-depth (Expert)
+Example (plane crashes)
+"People overestimate the risk of plane crashes because they are highly publicized — ignoring that car accidents are far more common."
+A dramatic crash stays in memory. The daily toll of road deaths does not make headlines.
+Result: people fear the wrong thing.
 
-**Definition**  
-Overestimating the importance of information that is available (easy to remember).
+Example (shark attacks)
+"Shark attacks feel common because of media coverage — but drowning is orders of magnitude more frequent."
+News coverage is not a random sample of reality.
+It is a selection of the most shocking events.
 
-**Applied to this passage**  
-« Recalling recent news events as more significant than statistical data. »  
+How it works
+Things that are easy to recall feel more prevalent than they actually are.
+Ease of recall is driven by vividness, recency, and emotional impact — not by frequency.
 
-Here, **Availability Heuristic** is the right name because overestimating the importance of information that is available (easy to remember).
+So:
+Risk perception is distorted by media coverage
+We overprepare for exotic threats and underprepare for mundane ones
+"I can think of an example" is not the same as "this is common"
 
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
+Key concept inside it
+Cognitive ease:
+The brain interprets "easy to recall" as "likely."
+This made sense in a world where memorable events were things you personally witnessed — not things curated by media algorithms.
 
-- **Example 2:** Another everyday spot: a news headline or social post. Overestimating the importance of information that is available (easy to remember).
+Why it matters
+Explains why:
+People buy lottery tickets while fearing plane crashes
+Insurance premiums spike after rare disasters
+Security policy focuses on dramatic threats while ignoring statistical ones
 
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Overestimating the importance of information that is available (easy to remember).
+The uncomfortable implication
+Your sense of what is dangerous is partly constructed by what you've read and watched.
+It is not an accurate map of actual risk.
 
-- **Example 4:** Imagine school grades or test scores. The slip is the same: overestimating the importance of information that is available (easy to remember).
-
-- **Example 5:** Picture a news headline or social post. People often reason as if overestimating the importance of information that is available (easy to remember).
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Availability Heuristic** means Overestimating the importance of information that is available (easy to remember).
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Memory & Perception Effects`,
+One-line version
+Availability Heuristic = overestimating how common something is because it's easy to remember, not because it's frequent.`,
   },
   34: {
-    beginner: `## Base Rate Fallacy — in-depth (Beginner)
+    beginner: `Base Rate Fallacy = ignoring how common something actually is, and over-weighting a specific vivid case instead.`,
+    intermediate: `Base Rate Fallacy
 
-**What this is, in plain English**  
-Ignoring statistical information in favor of specific, vivid cases.
+Description:
+Ignoring the overall statistical probability (base rate) of something when evaluating a specific case.
+Vivid details override base rates — and that's where the error happens.
 
-**The example you’re looking at**  
-« A person tests positive for a rare disease. The test is 99% accurate, but the disease affects only 1 in 10,000 people. Despite the low base rate, they believe they have the disease. »  
+Example (medical test)
+"A person tests positive for a rare disease. The test is 99% accurate. They are convinced they have it."
+If only 1 in 10,000 people have the disease, even a 99% accurate test produces mostly false positives.
+The base rate (how rare the disease is) must be factored in — but people typically ignore it.
 
-**Why this is Base Rate Fallacy**  
-Ignoring statistical information in favor of specific, vivid cases. That is what this label is pointing to in the passage above.
+Example (investment)
+"A friend made money on a stock, so it must be a good investment."
+The base rate for individual stock-picking beating the market is low.
+One success story cannot override that prior probability.
 
-**Takeaway**  
-Ignoring statistical information in favor of specific, vivid cases.`,
-    intermediate: `## Base Rate Fallacy — in-depth (Intermediate)
+How it works
+Specific, vivid information about a case dominates over abstract statistical background.
+The brain feels the case evidence is more real than the baseline.
 
-**What this is, in plain English**  
-Ignoring statistical information in favor of specific, vivid cases.
+So:
+The rarity of a condition determines how much a positive test tells you
+One vivid example cannot overcome a low base rate
+Always ask: "How common is this in general before this specific evidence?"
 
-**This example**  
-« A person tests positive for a rare disease. The test is 99% accurate, but the disease affects only 1 in 10,000 people. Despite the low base rate, they believe they have the disease. »  
+Key concept inside it
+Prior probability:
+The base rate is the probability of something before you add case-specific evidence.
+Ignoring it leads to dramatic overestimates of likelihood.
 
-The passage shows **Base Rate Fallacy** in action: ignoring statistical information in favor of specific, vivid cases.
+Why it matters
+Explains why:
+Medical diagnosis requires base rate awareness — not just test sensitivity
+Investment strategies that look successful may just reflect market conditions
+Profiling based on rare traits produces overwhelmingly false positives
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Ignoring statistical information in favor of specific, vivid cases.
+The uncomfortable implication
+When something dramatic happens to you, you feel like the exception.
+The math usually disagrees.
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Ignoring statistical information in favor of specific, vivid cases.
+One-line version
+Base Rate Fallacy = ignoring how common something actually is, and over-weighting a specific vivid case instead.`,
+    expert: `Base Rate Fallacy
 
-- **Example 3:** Imagine sports or business results. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
+Description:
+Ignoring the overall statistical probability (base rate) of something when evaluating a specific case.
+Vivid details override base rates — and that's where the error happens.
 
-**In one sentence**  
-Base Rate Fallacy is the label for reasoning that fits: Ignoring statistical information in favor of specific, vivid cases.`,
-    expert: `## Base Rate Fallacy — in-depth (Expert)
+Example (medical test)
+"A person tests positive for a rare disease. The test is 99% accurate. They are convinced they have it."
+If only 1 in 10,000 people have the disease, even a 99% accurate test produces mostly false positives.
+The base rate (how rare the disease is) must be factored in — but people typically ignore it.
 
-**Definition**  
-Ignoring statistical information in favor of specific, vivid cases.
+Example (investment)
+"A friend made money on a stock, so it must be a good investment."
+The base rate for individual stock-picking beating the market is low.
+One success story cannot override that prior probability.
 
-**Applied to this passage**  
-« A person tests positive for a rare disease. The test is 99% accurate, but the disease affects only 1 in 10,000 people. Despite the low base rate, they believe they have the disease. »  
+How it works
+Specific, vivid information about a case dominates over abstract statistical background.
+The brain feels the case evidence is more real than the baseline.
 
-Here, **Base Rate Fallacy** is the right name because ignoring statistical information in favor of specific, vivid cases.
+So:
+The rarity of a condition determines how much a positive test tells you
+One vivid example cannot overcome a low base rate
+Always ask: "How common is this in general before this specific evidence?"
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Ignoring statistical information in favor of specific, vivid cases.
+Key concept inside it
+Prior probability:
+The base rate is the probability of something before you add case-specific evidence.
+Ignoring it leads to dramatic overestimates of likelihood.
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Ignoring statistical information in favor of specific, vivid cases.
+Why it matters
+Explains why:
+Medical diagnosis requires base rate awareness — not just test sensitivity
+Investment strategies that look successful may just reflect market conditions
+Profiling based on rare traits produces overwhelmingly false positives
 
-- **Example 3:** Imagine sports or business results. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
+The uncomfortable implication
+When something dramatic happens to you, you feel like the exception.
+The math usually disagrees.
 
-- **Example 4:** Picture a family argument. People often reason as if ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 5:** In a policy or workplace discussion, watch for this pattern: Ignoring statistical information in favor of specific, vivid cases.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Base Rate Fallacy** means Ignoring statistical information in favor of specific, vivid cases.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Base Rate Fallacy = ignoring how common something actually is, and over-weighting a specific vivid case instead.`,
   },
   35: {
-    beginner: `## Base Rate Fallacy — in-depth (Beginner)
+    beginner: `Base Rate Fallacy = ignoring how common something actually is, and over-weighting a specific vivid case instead.`,
+    intermediate: `Base Rate Fallacy
 
-**What this is, in plain English**  
-Ignoring statistical information in favor of specific, vivid cases.
+Description:
+Ignoring the overall statistical probability (base rate) of something when evaluating a specific case.
+Vivid details override base rates — and that's where the error happens.
 
-**The example you’re looking at**  
-« Assuming a stock is a good investment because a friend made money on it, ignoring overall market statistics. »  
+Example (medical test)
+"A person tests positive for a rare disease. The test is 99% accurate. They are convinced they have it."
+If only 1 in 10,000 people have the disease, even a 99% accurate test produces mostly false positives.
+The base rate (how rare the disease is) must be factored in — but people typically ignore it.
 
-**Why this is Base Rate Fallacy**  
-Ignoring statistical information in favor of specific, vivid cases. That is what this label is pointing to in the passage above.
+Example (investment)
+"A friend made money on a stock, so it must be a good investment."
+The base rate for individual stock-picking beating the market is low.
+One success story cannot override that prior probability.
 
-**Takeaway**  
-Ignoring statistical information in favor of specific, vivid cases.`,
-    intermediate: `## Base Rate Fallacy — in-depth (Intermediate)
+How it works
+Specific, vivid information about a case dominates over abstract statistical background.
+The brain feels the case evidence is more real than the baseline.
 
-**What this is, in plain English**  
-Ignoring statistical information in favor of specific, vivid cases.
+So:
+The rarity of a condition determines how much a positive test tells you
+One vivid example cannot overcome a low base rate
+Always ask: "How common is this in general before this specific evidence?"
 
-**This example**  
-« Assuming a stock is a good investment because a friend made money on it, ignoring overall market statistics. »  
+Key concept inside it
+Prior probability:
+The base rate is the probability of something before you add case-specific evidence.
+Ignoring it leads to dramatic overestimates of likelihood.
 
-The passage shows **Base Rate Fallacy** in action: ignoring statistical information in favor of specific, vivid cases.
+Why it matters
+Explains why:
+Medical diagnosis requires base rate awareness — not just test sensitivity
+Investment strategies that look successful may just reflect market conditions
+Profiling based on rare traits produces overwhelmingly false positives
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Ignoring statistical information in favor of specific, vivid cases.
+The uncomfortable implication
+When something dramatic happens to you, you feel like the exception.
+The math usually disagrees.
 
-- **Example 2:** Imagine a health or habits story. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
+One-line version
+Base Rate Fallacy = ignoring how common something actually is, and over-weighting a specific vivid case instead.`,
+    expert: `Base Rate Fallacy
 
-- **Example 3:** Picture school grades or test scores. People often reason as if ignoring statistical information in favor of specific, vivid cases.
+Description:
+Ignoring the overall statistical probability (base rate) of something when evaluating a specific case.
+Vivid details override base rates — and that's where the error happens.
 
-**In one sentence**  
-Base Rate Fallacy is the label for reasoning that fits: Ignoring statistical information in favor of specific, vivid cases.`,
-    expert: `## Base Rate Fallacy — in-depth (Expert)
+Example (medical test)
+"A person tests positive for a rare disease. The test is 99% accurate. They are convinced they have it."
+If only 1 in 10,000 people have the disease, even a 99% accurate test produces mostly false positives.
+The base rate (how rare the disease is) must be factored in — but people typically ignore it.
 
-**Definition**  
-Ignoring statistical information in favor of specific, vivid cases.
+Example (investment)
+"A friend made money on a stock, so it must be a good investment."
+The base rate for individual stock-picking beating the market is low.
+One success story cannot override that prior probability.
 
-**Applied to this passage**  
-« Assuming a stock is a good investment because a friend made money on it, ignoring overall market statistics. »  
+How it works
+Specific, vivid information about a case dominates over abstract statistical background.
+The brain feels the case evidence is more real than the baseline.
 
-Here, **Base Rate Fallacy** is the right name because ignoring statistical information in favor of specific, vivid cases.
+So:
+The rarity of a condition determines how much a positive test tells you
+One vivid example cannot overcome a low base rate
+Always ask: "How common is this in general before this specific evidence?"
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Ignoring statistical information in favor of specific, vivid cases.
+Key concept inside it
+Prior probability:
+The base rate is the probability of something before you add case-specific evidence.
+Ignoring it leads to dramatic overestimates of likelihood.
 
-- **Example 2:** Imagine a health or habits story. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
+Why it matters
+Explains why:
+Medical diagnosis requires base rate awareness — not just test sensitivity
+Investment strategies that look successful may just reflect market conditions
+Profiling based on rare traits produces overwhelmingly false positives
 
-- **Example 3:** Picture school grades or test scores. People often reason as if ignoring statistical information in favor of specific, vivid cases.
+The uncomfortable implication
+When something dramatic happens to you, you feel like the exception.
+The math usually disagrees.
 
-- **Example 4:** In a news headline or social post, watch for this pattern: Ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 5:** Another everyday spot: a health or habits story. Ignoring statistical information in favor of specific, vivid cases.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Base Rate Fallacy** means Ignoring statistical information in favor of specific, vivid cases.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Base Rate Fallacy = ignoring how common something actually is, and over-weighting a specific vivid case instead.`,
   },
   36: {
-    beginner: `## Base Rate Fallacy — in-depth (Beginner)
+    beginner: `Base Rate Fallacy = ignoring how common something actually is, and over-weighting a specific vivid case instead.`,
+    intermediate: `Base Rate Fallacy
 
-**What this is, in plain English**  
-Ignoring statistical information in favor of specific, vivid cases.
+Description:
+Ignoring the overall statistical probability (base rate) of something when evaluating a specific case.
+Vivid details override base rates — and that's where the error happens.
 
-**The example you’re looking at**  
-« Believing in a conspiracy because of one unusual event, disregarding common occurrences. »  
+Example (medical test)
+"A person tests positive for a rare disease. The test is 99% accurate. They are convinced they have it."
+If only 1 in 10,000 people have the disease, even a 99% accurate test produces mostly false positives.
+The base rate (how rare the disease is) must be factored in — but people typically ignore it.
 
-**Why this is Base Rate Fallacy**  
-Ignoring statistical information in favor of specific, vivid cases. That is what this label is pointing to in the passage above.
+Example (investment)
+"A friend made money on a stock, so it must be a good investment."
+The base rate for individual stock-picking beating the market is low.
+One success story cannot override that prior probability.
 
-**Takeaway**  
-Ignoring statistical information in favor of specific, vivid cases.`,
-    intermediate: `## Base Rate Fallacy — in-depth (Intermediate)
+How it works
+Specific, vivid information about a case dominates over abstract statistical background.
+The brain feels the case evidence is more real than the baseline.
 
-**What this is, in plain English**  
-Ignoring statistical information in favor of specific, vivid cases.
+So:
+The rarity of a condition determines how much a positive test tells you
+One vivid example cannot overcome a low base rate
+Always ask: "How common is this in general before this specific evidence?"
 
-**This example**  
-« Believing in a conspiracy because of one unusual event, disregarding common occurrences. »  
+Key concept inside it
+Prior probability:
+The base rate is the probability of something before you add case-specific evidence.
+Ignoring it leads to dramatic overestimates of likelihood.
 
-The passage shows **Base Rate Fallacy** in action: ignoring statistical information in favor of specific, vivid cases.
+Why it matters
+Explains why:
+Medical diagnosis requires base rate awareness — not just test sensitivity
+Investment strategies that look successful may just reflect market conditions
+Profiling based on rare traits produces overwhelmingly false positives
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
+The uncomfortable implication
+When something dramatic happens to you, you feel like the exception.
+The math usually disagrees.
 
-- **Example 2:** Picture sports or business results. People often reason as if ignoring statistical information in favor of specific, vivid cases.
+One-line version
+Base Rate Fallacy = ignoring how common something actually is, and over-weighting a specific vivid case instead.`,
+    expert: `Base Rate Fallacy
 
-- **Example 3:** In a family argument, watch for this pattern: Ignoring statistical information in favor of specific, vivid cases.
+Description:
+Ignoring the overall statistical probability (base rate) of something when evaluating a specific case.
+Vivid details override base rates — and that's where the error happens.
 
-**In one sentence**  
-Base Rate Fallacy is the label for reasoning that fits: Ignoring statistical information in favor of specific, vivid cases.`,
-    expert: `## Base Rate Fallacy — in-depth (Expert)
+Example (medical test)
+"A person tests positive for a rare disease. The test is 99% accurate. They are convinced they have it."
+If only 1 in 10,000 people have the disease, even a 99% accurate test produces mostly false positives.
+The base rate (how rare the disease is) must be factored in — but people typically ignore it.
 
-**Definition**  
-Ignoring statistical information in favor of specific, vivid cases.
+Example (investment)
+"A friend made money on a stock, so it must be a good investment."
+The base rate for individual stock-picking beating the market is low.
+One success story cannot override that prior probability.
 
-**Applied to this passage**  
-« Believing in a conspiracy because of one unusual event, disregarding common occurrences. »  
+How it works
+Specific, vivid information about a case dominates over abstract statistical background.
+The brain feels the case evidence is more real than the baseline.
 
-Here, **Base Rate Fallacy** is the right name because ignoring statistical information in favor of specific, vivid cases.
+So:
+The rarity of a condition determines how much a positive test tells you
+One vivid example cannot overcome a low base rate
+Always ask: "How common is this in general before this specific evidence?"
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
+Key concept inside it
+Prior probability:
+The base rate is the probability of something before you add case-specific evidence.
+Ignoring it leads to dramatic overestimates of likelihood.
 
-- **Example 2:** Picture sports or business results. People often reason as if ignoring statistical information in favor of specific, vivid cases.
+Why it matters
+Explains why:
+Medical diagnosis requires base rate awareness — not just test sensitivity
+Investment strategies that look successful may just reflect market conditions
+Profiling based on rare traits produces overwhelmingly false positives
 
-- **Example 3:** In a family argument, watch for this pattern: Ignoring statistical information in favor of specific, vivid cases.
+The uncomfortable implication
+When something dramatic happens to you, you feel like the exception.
+The math usually disagrees.
 
-- **Example 4:** Another everyday spot: a policy or workplace discussion. Ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 5:** **Setting:** sports or business results. **What goes wrong:** Ignoring statistical information in favor of specific, vivid cases.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Base Rate Fallacy** means Ignoring statistical information in favor of specific, vivid cases.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Base Rate Fallacy = ignoring how common something actually is, and over-weighting a specific vivid case instead.`,
   },
   37: {
-    beginner: `## Begging the Question — in-depth (Beginner)
+    beginner: `Begging the Question = building an argument where the conclusion is secretly already assumed in the premise.`,
+    intermediate: `Begging the Question
 
-**What this is, in plain English**  
-A circular argument in which the conclusion is included in the premise.
+Description:
+A circular argument where the conclusion is hidden inside the premise — so the argument assumes what it's trying to prove.
+The reasoning goes in a circle without ever escaping it.
 
-**The example you’re looking at**  
-« The word of Zorbo is flawless and perfect. We know this because it says so in The Great and Infallible Book of Zorbo's Best and Most Truest Things that are Definitely True and Should Not be Questioned. »  
+Example (religious text)
+"The Book of Zorbo is infallible. We know because Zorbo's book says so."
+The book's reliability is proven by the book itself.
+There is no independent evidence — the conclusion (it is infallible) is the premise.
 
-**Why this is Begging the Question**  
-A circular argument in which the conclusion is included in the premise. That is what this label is pointing to in the passage above.
+Example (paranormal)
+"Paranormal activity is real because I experienced what can only be described as paranormal."
+"Paranormal" is assumed in the premise and concluded from the same premise.
+The definition itself is doing the work of the proof.
 
-**Takeaway**  
-A circular argument in which the conclusion is included in the premise.`,
-    intermediate: `## Begging the Question — in-depth (Intermediate)
+How it works
+The argument structures itself so the conclusion is always already assumed.
+If you accept the premise, you've already accepted the conclusion — making the reasoning worthless as proof.
 
-**What this is, in plain English**  
-A circular argument in which the conclusion is included in the premise.
+So:
+The argument does not advance understanding — it just restates itself
+Any challenge to the conclusion is blocked because it is already baked into the premise
+Circular arguments feel solid because they are internally consistent
 
-**This example**  
-« The word of Zorbo is flawless and perfect. We know this because it says so in The Great and Infallible Book of Zorbo's Best and Most Truest Things that are Definitely True and Should Not be Questioned. »  
+Key concept inside it
+Petitio principii:
+The formal Latin name. Literally: "asking at the start" — the conclusion is requested as a premise.
+It's not technically invalid (the logic is consistent), but it proves nothing independently.
 
-The passage shows **Begging the Question** in action: a circular argument in which the conclusion is included in the premise.
+Why it matters
+Explains why:
+Ideological systems can be internally consistent but unfalsifiable
+Self-reinforcing belief loops are almost impossible to break from inside
+"The system works because it works" justifications are worthless as evidence
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if a circular argument in which the conclusion is included in the premise.
+The uncomfortable implication
+A belief can be perfectly consistent with itself and still be completely unsupported by evidence.
+Internal coherence is not the same as truth.
 
-- **Example 2:** In school grades or test scores, watch for this pattern: A circular argument in which the conclusion is included in the premise.
+One-line version
+Begging the Question = building an argument where the conclusion is secretly already assumed in the premise.`,
+    expert: `Begging the Question
 
-- **Example 3:** Another everyday spot: a news headline or social post. A circular argument in which the conclusion is included in the premise.
+Description:
+A circular argument where the conclusion is hidden inside the premise — so the argument assumes what it's trying to prove.
+The reasoning goes in a circle without ever escaping it.
 
-**In one sentence**  
-Begging the Question is the label for reasoning that fits: A circular argument in which the conclusion is included in the premise.`,
-    expert: `## Begging the Question — in-depth (Expert)
+Example (religious text)
+"The Book of Zorbo is infallible. We know because Zorbo's book says so."
+The book's reliability is proven by the book itself.
+There is no independent evidence — the conclusion (it is infallible) is the premise.
 
-**Definition**  
-A circular argument in which the conclusion is included in the premise.
+Example (paranormal)
+"Paranormal activity is real because I experienced what can only be described as paranormal."
+"Paranormal" is assumed in the premise and concluded from the same premise.
+The definition itself is doing the work of the proof.
 
-**Applied to this passage**  
-« The word of Zorbo is flawless and perfect. We know this because it says so in The Great and Infallible Book of Zorbo's Best and Most Truest Things that are Definitely True and Should Not be Questioned. »  
+How it works
+The argument structures itself so the conclusion is always already assumed.
+If you accept the premise, you've already accepted the conclusion — making the reasoning worthless as proof.
 
-Here, **Begging the Question** is the right name because a circular argument in which the conclusion is included in the premise.
+So:
+The argument does not advance understanding — it just restates itself
+Any challenge to the conclusion is blocked because it is already baked into the premise
+Circular arguments feel solid because they are internally consistent
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if a circular argument in which the conclusion is included in the premise.
+Key concept inside it
+Petitio principii:
+The formal Latin name. Literally: "asking at the start" — the conclusion is requested as a premise.
+It's not technically invalid (the logic is consistent), but it proves nothing independently.
 
-- **Example 2:** In school grades or test scores, watch for this pattern: A circular argument in which the conclusion is included in the premise.
+Why it matters
+Explains why:
+Ideological systems can be internally consistent but unfalsifiable
+Self-reinforcing belief loops are almost impossible to break from inside
+"The system works because it works" justifications are worthless as evidence
 
-- **Example 3:** Another everyday spot: a news headline or social post. A circular argument in which the conclusion is included in the premise.
+The uncomfortable implication
+A belief can be perfectly consistent with itself and still be completely unsupported by evidence.
+Internal coherence is not the same as truth.
 
-- **Example 4:** **Setting:** a health or habits story. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
-
-- **Example 5:** Imagine school grades or test scores. The slip is the same: a circular argument in which the conclusion is included in the premise.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Begging the Question** means A circular argument in which the conclusion is included in the premise.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Begging the Question = building an argument where the conclusion is secretly already assumed in the premise.`,
   },
   38: {
-    beginner: `## Begging the Question — in-depth (Beginner)
+    beginner: `Begging the Question = building an argument where the conclusion is secretly already assumed in the premise.`,
+    intermediate: `Begging the Question
 
-**What this is, in plain English**  
-A circular argument in which the conclusion is included in the premise.
+Description:
+A circular argument where the conclusion is hidden inside the premise — so the argument assumes what it's trying to prove.
+The reasoning goes in a circle without ever escaping it.
 
-**The example you’re looking at**  
-« Paranormal activity is real because I have experienced what can only be described as paranormal activity. »  
+Example (religious text)
+"The Book of Zorbo is infallible. We know because Zorbo's book says so."
+The book's reliability is proven by the book itself.
+There is no independent evidence — the conclusion (it is infallible) is the premise.
 
-**Why this is Begging the Question**  
-A circular argument in which the conclusion is included in the premise. That is what this label is pointing to in the passage above.
+Example (paranormal)
+"Paranormal activity is real because I experienced what can only be described as paranormal."
+"Paranormal" is assumed in the premise and concluded from the same premise.
+The definition itself is doing the work of the proof.
 
-**Takeaway**  
-A circular argument in which the conclusion is included in the premise.`,
-    intermediate: `## Begging the Question — in-depth (Intermediate)
+How it works
+The argument structures itself so the conclusion is always already assumed.
+If you accept the premise, you've already accepted the conclusion — making the reasoning worthless as proof.
 
-**What this is, in plain English**  
-A circular argument in which the conclusion is included in the premise.
+So:
+The argument does not advance understanding — it just restates itself
+Any challenge to the conclusion is blocked because it is already baked into the premise
+Circular arguments feel solid because they are internally consistent
 
-**This example**  
-« Paranormal activity is real because I have experienced what can only be described as paranormal activity. »  
+Key concept inside it
+Petitio principii:
+The formal Latin name. Literally: "asking at the start" — the conclusion is requested as a premise.
+It's not technically invalid (the logic is consistent), but it proves nothing independently.
 
-The passage shows **Begging the Question** in action: a circular argument in which the conclusion is included in the premise.
+Why it matters
+Explains why:
+Ideological systems can be internally consistent but unfalsifiable
+Self-reinforcing belief loops are almost impossible to break from inside
+"The system works because it works" justifications are worthless as evidence
 
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: A circular argument in which the conclusion is included in the premise.
+The uncomfortable implication
+A belief can be perfectly consistent with itself and still be completely unsupported by evidence.
+Internal coherence is not the same as truth.
 
-- **Example 2:** Another everyday spot: a family argument. A circular argument in which the conclusion is included in the premise.
+One-line version
+Begging the Question = building an argument where the conclusion is secretly already assumed in the premise.`,
+    expert: `Begging the Question
 
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
+Description:
+A circular argument where the conclusion is hidden inside the premise — so the argument assumes what it's trying to prove.
+The reasoning goes in a circle without ever escaping it.
 
-**In one sentence**  
-Begging the Question is the label for reasoning that fits: A circular argument in which the conclusion is included in the premise.`,
-    expert: `## Begging the Question — in-depth (Expert)
+Example (religious text)
+"The Book of Zorbo is infallible. We know because Zorbo's book says so."
+The book's reliability is proven by the book itself.
+There is no independent evidence — the conclusion (it is infallible) is the premise.
 
-**Definition**  
-A circular argument in which the conclusion is included in the premise.
+Example (paranormal)
+"Paranormal activity is real because I experienced what can only be described as paranormal."
+"Paranormal" is assumed in the premise and concluded from the same premise.
+The definition itself is doing the work of the proof.
 
-**Applied to this passage**  
-« Paranormal activity is real because I have experienced what can only be described as paranormal activity. »  
+How it works
+The argument structures itself so the conclusion is always already assumed.
+If you accept the premise, you've already accepted the conclusion — making the reasoning worthless as proof.
 
-Here, **Begging the Question** is the right name because a circular argument in which the conclusion is included in the premise.
+So:
+The argument does not advance understanding — it just restates itself
+Any challenge to the conclusion is blocked because it is already baked into the premise
+Circular arguments feel solid because they are internally consistent
 
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: A circular argument in which the conclusion is included in the premise.
+Key concept inside it
+Petitio principii:
+The formal Latin name. Literally: "asking at the start" — the conclusion is requested as a premise.
+It's not technically invalid (the logic is consistent), but it proves nothing independently.
 
-- **Example 2:** Another everyday spot: a family argument. A circular argument in which the conclusion is included in the premise.
+Why it matters
+Explains why:
+Ideological systems can be internally consistent but unfalsifiable
+Self-reinforcing belief loops are almost impossible to break from inside
+"The system works because it works" justifications are worthless as evidence
 
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
+The uncomfortable implication
+A belief can be perfectly consistent with itself and still be completely unsupported by evidence.
+Internal coherence is not the same as truth.
 
-- **Example 4:** Imagine sports or business results. The slip is the same: a circular argument in which the conclusion is included in the premise.
-
-- **Example 5:** Picture a family argument. People often reason as if a circular argument in which the conclusion is included in the premise.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Begging the Question** means A circular argument in which the conclusion is included in the premise.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Begging the Question = building an argument where the conclusion is secretly already assumed in the premise.`,
   },
   39: {
-    beginner: `## Begging the Question — in-depth (Beginner)
+    beginner: `Begging the Question = building an argument where the conclusion is secretly already assumed in the premise.`,
+    intermediate: `Begging the Question
 
-**What this is, in plain English**  
-A circular argument in which the conclusion is included in the premise.
+Description:
+A circular argument where the conclusion is hidden inside the premise — so the argument assumes what it's trying to prove.
+The reasoning goes in a circle without ever escaping it.
 
-**The example you’re looking at**  
-« I am trustworthy because I say so. »  
+Example (religious text)
+"The Book of Zorbo is infallible. We know because Zorbo's book says so."
+The book's reliability is proven by the book itself.
+There is no independent evidence — the conclusion (it is infallible) is the premise.
 
-**Why this is Begging the Question**  
-A circular argument in which the conclusion is included in the premise. That is what this label is pointing to in the passage above.
+Example (paranormal)
+"Paranormal activity is real because I experienced what can only be described as paranormal."
+"Paranormal" is assumed in the premise and concluded from the same premise.
+The definition itself is doing the work of the proof.
 
-**Takeaway**  
-A circular argument in which the conclusion is included in the premise.`,
-    intermediate: `## Begging the Question — in-depth (Intermediate)
+How it works
+The argument structures itself so the conclusion is always already assumed.
+If you accept the premise, you've already accepted the conclusion — making the reasoning worthless as proof.
 
-**What this is, in plain English**  
-A circular argument in which the conclusion is included in the premise.
+So:
+The argument does not advance understanding — it just restates itself
+Any challenge to the conclusion is blocked because it is already baked into the premise
+Circular arguments feel solid because they are internally consistent
 
-**This example**  
-« I am trustworthy because I say so. »  
+Key concept inside it
+Petitio principii:
+The formal Latin name. Literally: "asking at the start" — the conclusion is requested as a premise.
+It's not technically invalid (the logic is consistent), but it proves nothing independently.
 
-The passage shows **Begging the Question** in action: a circular argument in which the conclusion is included in the premise.
+Why it matters
+Explains why:
+Ideological systems can be internally consistent but unfalsifiable
+Self-reinforcing belief loops are almost impossible to break from inside
+"The system works because it works" justifications are worthless as evidence
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. A circular argument in which the conclusion is included in the premise.
+The uncomfortable implication
+A belief can be perfectly consistent with itself and still be completely unsupported by evidence.
+Internal coherence is not the same as truth.
 
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
+One-line version
+Begging the Question = building an argument where the conclusion is secretly already assumed in the premise.`,
+    expert: `Begging the Question
 
-- **Example 3:** Imagine a health or habits story. The slip is the same: a circular argument in which the conclusion is included in the premise.
+Description:
+A circular argument where the conclusion is hidden inside the premise — so the argument assumes what it's trying to prove.
+The reasoning goes in a circle without ever escaping it.
 
-**In one sentence**  
-Begging the Question is the label for reasoning that fits: A circular argument in which the conclusion is included in the premise.`,
-    expert: `## Begging the Question — in-depth (Expert)
+Example (religious text)
+"The Book of Zorbo is infallible. We know because Zorbo's book says so."
+The book's reliability is proven by the book itself.
+There is no independent evidence — the conclusion (it is infallible) is the premise.
 
-**Definition**  
-A circular argument in which the conclusion is included in the premise.
+Example (paranormal)
+"Paranormal activity is real because I experienced what can only be described as paranormal."
+"Paranormal" is assumed in the premise and concluded from the same premise.
+The definition itself is doing the work of the proof.
 
-**Applied to this passage**  
-« I am trustworthy because I say so. »  
+How it works
+The argument structures itself so the conclusion is always already assumed.
+If you accept the premise, you've already accepted the conclusion — making the reasoning worthless as proof.
 
-Here, **Begging the Question** is the right name because a circular argument in which the conclusion is included in the premise.
+So:
+The argument does not advance understanding — it just restates itself
+Any challenge to the conclusion is blocked because it is already baked into the premise
+Circular arguments feel solid because they are internally consistent
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. A circular argument in which the conclusion is included in the premise.
+Key concept inside it
+Petitio principii:
+The formal Latin name. Literally: "asking at the start" — the conclusion is requested as a premise.
+It's not technically invalid (the logic is consistent), but it proves nothing independently.
 
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
+Why it matters
+Explains why:
+Ideological systems can be internally consistent but unfalsifiable
+Self-reinforcing belief loops are almost impossible to break from inside
+"The system works because it works" justifications are worthless as evidence
 
-- **Example 3:** Imagine a health or habits story. The slip is the same: a circular argument in which the conclusion is included in the premise.
+The uncomfortable implication
+A belief can be perfectly consistent with itself and still be completely unsupported by evidence.
+Internal coherence is not the same as truth.
 
-- **Example 4:** Picture school grades or test scores. People often reason as if a circular argument in which the conclusion is included in the premise.
-
-- **Example 5:** In a news headline or social post, watch for this pattern: A circular argument in which the conclusion is included in the premise.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Begging the Question** means A circular argument in which the conclusion is included in the premise.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Begging the Question = building an argument where the conclusion is secretly already assumed in the premise.`,
   },
   40: {
-    beginner: `## Biased Sample — in-depth (Beginner)
+    beginner: `Biased Sample = drawing a conclusion about a whole group from a sample that misrepresents it.`,
+    intermediate: `Biased Sample
 
-**What this is, in plain English**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Description:
+Drawing a conclusion about a whole group based on a sample that doesn't represent that group.
+Garbage in, garbage out — if the sample is skewed, so is the conclusion.
 
-**The example you’re looking at**  
-« Surveying only fans at a concert to conclude everyone loves the band. »  
+Example (concert survey)
+"Surveying only fans at a concert to conclude everyone loves the band."
+The sample is 100% self-selected for enthusiasm.
+It tells you nothing about the general population's opinion.
 
-**Why this is Biased Sample**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced. That is what this label is pointing to in the passage above.
+Example (drug trial)
+"Testing a drug only on healthy volunteers and claiming it works for all."
+Healthy volunteers are not the population who will actually use the drug.
+The result cannot be generalised to patients with co-morbidities or different baselines.
 
-**Takeaway**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
-    intermediate: `## Biased Sample — in-depth (Intermediate)
+How it works
+The sample substitutes for the population — but systematically excludes important subgroups.
+The missing voices would have changed the conclusion.
 
-**What this is, in plain English**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+So:
+Survey results reflect who is asked, not just what is asked
+Self-selected samples always skew toward the motivated
+Representative sampling requires deliberate effort to counteract bias
 
-**This example**  
-« Surveying only fans at a concert to conclude everyone loves the band. »  
+Key concept inside it
+Selection bias:
+When the process of choosing who is included in a sample is not random, the sample is biased.
+The conclusion inherits that bias — sometimes dramatically.
 
-The passage shows **Biased Sample** in action: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Why it matters
+Explains why:
+Online reviews skew positive (satisfied customers review; dissatisfied ones often don't)
+Political polling accuracy depends heavily on sampling method
+Clinical trials have historically underrepresented women and minorities
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+The uncomfortable implication
+Most "data" you encounter was collected in a way that shapes the conclusion before analysis begins.
+Ask who was included — and who was left out.
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+One-line version
+Biased Sample = drawing a conclusion about a whole group from a sample that misrepresents it.`,
+    expert: `Biased Sample
 
-- **Example 3:** Picture sports or business results. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Description:
+Drawing a conclusion about a whole group based on a sample that doesn't represent that group.
+Garbage in, garbage out — if the sample is skewed, so is the conclusion.
 
-**In one sentence**  
-Biased Sample is the label for reasoning that fits: Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
-    expert: `## Biased Sample — in-depth (Expert)
+Example (concert survey)
+"Surveying only fans at a concert to conclude everyone loves the band."
+The sample is 100% self-selected for enthusiasm.
+It tells you nothing about the general population's opinion.
 
-**Definition**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Example (drug trial)
+"Testing a drug only on healthy volunteers and claiming it works for all."
+Healthy volunteers are not the population who will actually use the drug.
+The result cannot be generalised to patients with co-morbidities or different baselines.
 
-**Applied to this passage**  
-« Surveying only fans at a concert to conclude everyone loves the band. »  
+How it works
+The sample substitutes for the population — but systematically excludes important subgroups.
+The missing voices would have changed the conclusion.
 
-Here, **Biased Sample** is the right name because drawing a conclusion about a population based on a sample that is biased or prejudiced.
+So:
+Survey results reflect who is asked, not just what is asked
+Self-selected samples always skew toward the motivated
+Representative sampling requires deliberate effort to counteract bias
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Key concept inside it
+Selection bias:
+When the process of choosing who is included in a sample is not random, the sample is biased.
+The conclusion inherits that bias — sometimes dramatically.
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Why it matters
+Explains why:
+Online reviews skew positive (satisfied customers review; dissatisfied ones often don't)
+Political polling accuracy depends heavily on sampling method
+Clinical trials have historically underrepresented women and minorities
 
-- **Example 3:** Picture sports or business results. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
+The uncomfortable implication
+Most "data" you encounter was collected in a way that shapes the conclusion before analysis begins.
+Ask who was included — and who was left out.
 
-- **Example 4:** In a family argument, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 5:** Another everyday spot: a policy or workplace discussion. Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Biased Sample** means Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Biased Sample = drawing a conclusion about a whole group from a sample that misrepresents it.`,
   },
   41: {
-    beginner: `## Biased Sample — in-depth (Beginner)
+    beginner: `Biased Sample = drawing a conclusion from a sample that does not represent the whole.`,
+    intermediate: `Biased Sample
 
-**What this is, in plain English**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Description:
+A biased sample looks like evidence, but it leaves out the people or cases the conclusion needs.
+When the sample is tilted, the conclusion is tilted too.
 
-**The example you’re looking at**  
-« Asking opinions from a group of friends who all share the same view to represent public opinion. »  
+Example (survey)
+Asking only friends who already agree with you what the public thinks
+The sample is convenient, but convenience is not representation.
 
-**Why this is Biased Sample**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced. That is what this label is pointing to in the passage above.
+Example (public opinion)
+Using that circle as if it represented the whole town
+A conclusion about everyone cannot rest on a slice that misses key voices.
 
-**Takeaway**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
-    intermediate: `## Biased Sample — in-depth (Intermediate)
+How it works
+The filtering happens before the conclusion.
+That means the result can look statistical and still be badly skewed.
 
-**What this is, in plain English**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+So:
+A convenient sample can hide important differences
+A narrow group can make a false claim look reasonable
+Representative sampling is what gives a general claim real weight
 
-**This example**  
-« Asking opinions from a group of friends who all share the same view to represent public opinion. »  
+Key concept inside it
+Selection bias:
+The way people are chosen changes the result before analysis begins.
+If the selection is tilted, the evidence is tilted too.
 
-The passage shows **Biased Sample** in action: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Why it matters
+Explains why:
+Polls can miss whole groups when they only reach easy-to-contact people
+Online reviews can overstate satisfaction because unhappy customers are quieter
+Medical studies need participants who match the people the treatment will actually serve
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+The uncomfortable implication
+Bad sampling can make a bad conclusion look scientific.
+The numbers may be real, but the conclusion can still be wrong.
 
-- **Example 2:** Picture a health or habits story. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
+One-line version
+Biased Sample = drawing a conclusion from a sample that does not represent the whole.`,
+    expert: `Biased Sample
 
-- **Example 3:** In school grades or test scores, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Description:
+A biased sample looks like evidence, but it leaves out the people or cases the conclusion needs.
+When the sample is tilted, the conclusion is tilted too.
 
-**In one sentence**  
-Biased Sample is the label for reasoning that fits: Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
-    expert: `## Biased Sample — in-depth (Expert)
+Example (survey)
+Asking only friends who already agree with you what the public thinks
+The sample is convenient, but convenience is not representation.
 
-**Definition**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Example (public opinion)
+Using that circle as if it represented the whole town
+A conclusion about everyone cannot rest on a slice that misses key voices.
 
-**Applied to this passage**  
-« Asking opinions from a group of friends who all share the same view to represent public opinion. »  
+How it works
+The filtering happens before the conclusion.
+That means the result can look statistical and still be badly skewed.
 
-Here, **Biased Sample** is the right name because drawing a conclusion about a population based on a sample that is biased or prejudiced.
+So:
+A convenient sample can hide important differences
+A narrow group can make a false claim look reasonable
+Representative sampling is what gives a general claim real weight
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Key concept inside it
+Selection bias:
+The way people are chosen changes the result before analysis begins.
+If the selection is tilted, the evidence is tilted too.
 
-- **Example 2:** Picture a health or habits story. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Why it matters
+Explains why:
+Polls can miss whole groups when they only reach easy-to-contact people
+Online reviews can overstate satisfaction because unhappy customers are quieter
+Medical studies need participants who match the people the treatment will actually serve
 
-- **Example 3:** In school grades or test scores, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+The uncomfortable implication
+Bad sampling can make a bad conclusion look scientific.
+The numbers may be real, but the conclusion can still be wrong.
 
-- **Example 4:** Another everyday spot: a news headline or social post. Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Biased Sample** means Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Biased Sample = drawing a conclusion from a sample that does not represent the whole.`,
   },
+
   42: {
-    beginner: `## Biased Sample — in-depth (Beginner)
+    beginner: `Biased Sample = treating a narrow, unrepresentative group as if it stood for everyone.`,
+    intermediate: `Biased Sample
 
-**What this is, in plain English**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Description:
+A biased sample looks like evidence, but it leaves out the people or cases the conclusion needs.
+When the sample is tilted, the conclusion is tilted too.
 
-**The example you’re looking at**  
-« Testing a drug only on healthy volunteers and claiming it works for all. »  
+Example (trial)
+Testing a drug only on healthy volunteers and then claiming it works for every patient
+The sample is convenient, but convenience is not representation.
 
-**Why this is Biased Sample**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced. That is what this label is pointing to in the passage above.
+Example (clinical claim)
+Using that narrow result as if it covered all kinds of patients
+A conclusion about everyone cannot rest on a slice that misses key voices.
 
-**Takeaway**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
-    intermediate: `## Biased Sample — in-depth (Intermediate)
+How it works
+The filtering happens before the conclusion.
+That means the result can look statistical and still be badly skewed.
 
-**What this is, in plain English**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+So:
+A convenient sample can hide important differences
+A narrow group can make a false claim look reasonable
+Representative sampling is what gives a general claim real weight
 
-**This example**  
-« Testing a drug only on healthy volunteers and claiming it works for all. »  
+Key concept inside it
+Selection bias:
+The way people are chosen changes the result before analysis begins.
+If the selection is tilted, the evidence is tilted too.
 
-The passage shows **Biased Sample** in action: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Why it matters
+Explains why:
+Polls can miss whole groups when they only reach easy-to-contact people
+Online reviews can overstate satisfaction because unhappy customers are quieter
+Medical studies need participants who match the people the treatment will actually serve
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
+The uncomfortable implication
+Bad sampling can make a bad conclusion look scientific.
+The numbers may be real, but the conclusion can still be wrong.
 
-- **Example 2:** In sports or business results, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+One-line version
+Biased Sample = drawing a conclusion from a sample that does not represent the whole.`,
+    expert: `Biased Sample
 
-- **Example 3:** Another everyday spot: a family argument. Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Description:
+A biased sample looks like evidence, but it leaves out the people or cases the conclusion needs.
+When the sample is tilted, the conclusion is tilted too.
 
-**In one sentence**  
-Biased Sample is the label for reasoning that fits: Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
-    expert: `## Biased Sample — in-depth (Expert)
+Example (trial)
+Testing a drug only on healthy volunteers and then claiming it works for every patient
+The sample is convenient, but convenience is not representation.
 
-**Definition**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Example (clinical claim)
+Using that narrow result as if it covered all kinds of patients
+A conclusion about everyone cannot rest on a slice that misses key voices.
 
-**Applied to this passage**  
-« Testing a drug only on healthy volunteers and claiming it works for all. »  
+How it works
+The filtering happens before the conclusion.
+That means the result can look statistical and still be badly skewed.
 
-Here, **Biased Sample** is the right name because drawing a conclusion about a population based on a sample that is biased or prejudiced.
+So:
+A convenient sample can hide important differences
+A narrow group can make a false claim look reasonable
+Representative sampling is what gives a general claim real weight
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Key concept inside it
+Selection bias:
+The way people are chosen changes the result before analysis begins.
+If the selection is tilted, the evidence is tilted too.
 
-- **Example 2:** In sports or business results, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Why it matters
+Explains why:
+Polls can miss whole groups when they only reach easy-to-contact people
+Online reviews can overstate satisfaction because unhappy customers are quieter
+Medical studies need participants who match the people the treatment will actually serve
 
-- **Example 3:** Another everyday spot: a family argument. Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+The uncomfortable implication
+Bad sampling can make a bad conclusion look scientific.
+The numbers may be real, but the conclusion can still be wrong.
 
-- **Example 4:** **Setting:** a policy or workplace discussion. **What goes wrong:** Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 5:** Imagine sports or business results. The slip is the same: drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Biased Sample** means Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Biased Sample = drawing a conclusion from a sample that does not represent the whole.`,
   },
+
   43: {
-    beginner: `## Cherry Picking — in-depth (Beginner)
+    beginner: `Cherry Picking = choosing only the evidence that helps your claim and hiding the rest.`,
+    intermediate: `Cherry Picking
 
-**What this is, in plain English**  
-Selecting only the data that supports your argument while ignoring the rest.
+Description:
+Cherry picking selects only the pieces that help the claim and leaves out the parts that would weaken it.
+A report built from the flattering bits is not the whole report.
 
-**The example you’re looking at**  
-« Presenting only positive reviews for a product while omitting negative ones. »  
+Example (reviews)
+Showing only positive reviews for a product while leaving out the negative ones
+The good pieces are real, but the missing pieces matter too.
 
-**Why this is Cherry Picking**  
-Selecting only the data that supports your argument while ignoring the rest. That is what this label is pointing to in the passage above.
+Example (shopping list)
+Building the case from praise while the criticisms stay invisible
+If the contrary evidence disappears, the conclusion becomes too easy to fake.
 
-**Takeaway**  
-Selecting only the data that supports your argument while ignoring the rest.`,
-    intermediate: `## Cherry Picking — in-depth (Intermediate)
+How it works
+The arguer chooses the evidence after choosing the conclusion.
+That is why the argument feels neat: the missing parts are doing the damage.
 
-**What this is, in plain English**  
-Selecting only the data that supports your argument while ignoring the rest.
+So:
+Selective evidence can make a weak claim look strong
+Leaving out the hard cases changes the picture
+A fair summary has to include what hurts the thesis too
 
-**This example**  
-« Presenting only positive reviews for a product while omitting negative ones. »  
+Key concept inside it
+Suppressed evidence:
+Relevant facts are left out because they do not help the point being made.
+The silence is part of the trick.
 
-The passage shows **Cherry Picking** in action: selecting only the data that supports your argument while ignoring the rest.
+Why it matters
+Explains why:
+Product reviews can look perfect when only the happy customers are quoted
+Research summaries can mislead when contradictory studies are ignored
+Policy debates can sound convincing when failures are never mentioned
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Selecting only the data that supports your argument while ignoring the rest.
+The uncomfortable implication
+You can make almost any idea look good if you hide enough of the evidence.
+The argument is not honest unless the awkward facts stay in view.
 
-- **Example 2:** Another everyday spot: school grades or test scores. Selecting only the data that supports your argument while ignoring the rest.
+One-line version
+Cherry Picking = choosing only the evidence that helps your claim and hiding the rest.`,
+    expert: `Cherry Picking
 
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
+Description:
+Cherry picking selects only the pieces that help the claim and leaves out the parts that would weaken it.
+A report built from the flattering bits is not the whole report.
 
-**In one sentence**  
-Cherry Picking is the label for reasoning that fits: Selecting only the data that supports your argument while ignoring the rest.`,
-    expert: `## Cherry Picking — in-depth (Expert)
+Example (reviews)
+Showing only positive reviews for a product while leaving out the negative ones
+The good pieces are real, but the missing pieces matter too.
 
-**Definition**  
-Selecting only the data that supports your argument while ignoring the rest.
+Example (shopping list)
+Building the case from praise while the criticisms stay invisible
+If the contrary evidence disappears, the conclusion becomes too easy to fake.
 
-**Applied to this passage**  
-« Presenting only positive reviews for a product while omitting negative ones. »  
+How it works
+The arguer chooses the evidence after choosing the conclusion.
+That is why the argument feels neat: the missing parts are doing the damage.
 
-Here, **Cherry Picking** is the right name because selecting only the data that supports your argument while ignoring the rest.
+So:
+Selective evidence can make a weak claim look strong
+Leaving out the hard cases changes the picture
+A fair summary has to include what hurts the thesis too
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Selecting only the data that supports your argument while ignoring the rest.
+Key concept inside it
+Suppressed evidence:
+Relevant facts are left out because they do not help the point being made.
+The silence is part of the trick.
 
-- **Example 2:** Another everyday spot: school grades or test scores. Selecting only the data that supports your argument while ignoring the rest.
+Why it matters
+Explains why:
+Product reviews can look perfect when only the happy customers are quoted
+Research summaries can mislead when contradictory studies are ignored
+Policy debates can sound convincing when failures are never mentioned
 
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
+The uncomfortable implication
+You can make almost any idea look good if you hide enough of the evidence.
+The argument is not honest unless the awkward facts stay in view.
 
-- **Example 4:** Imagine a health or habits story. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 5:** Picture school grades or test scores. People often reason as if selecting only the data that supports your argument while ignoring the rest.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Cherry Picking** means Selecting only the data that supports your argument while ignoring the rest.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Cherry Picking = choosing only the evidence that helps your claim and hiding the rest.`,
   },
+
   44: {
-    beginner: `## Cherry Picking — in-depth (Beginner)
+    beginner: `Cherry Picking = showcasing supportive studies while ignoring the contradictory ones.`,
+    intermediate: `Cherry Picking
 
-**What this is, in plain English**  
-Selecting only the data that supports your argument while ignoring the rest.
+Description:
+Cherry picking selects only the pieces that help the claim and leaves out the parts that would weaken it.
+A report built from the flattering bits is not the whole report.
 
-**The example you’re looking at**  
-« Citing studies that support your view and ignoring contradictory research. »  
+Example (research)
+Citing studies that support your view and ignoring contradictory research
+The good pieces are real, but the missing pieces matter too.
 
-**Why this is Cherry Picking**  
-Selecting only the data that supports your argument while ignoring the rest. That is what this label is pointing to in the passage above.
+Example (policy brief)
+Making the argument look settled by leaving the hard studies out
+If the contrary evidence disappears, the conclusion becomes too easy to fake.
 
-**Takeaway**  
-Selecting only the data that supports your argument while ignoring the rest.`,
-    intermediate: `## Cherry Picking — in-depth (Intermediate)
+How it works
+The arguer chooses the evidence after choosing the conclusion.
+That is why the argument feels neat: the missing parts are doing the damage.
 
-**What this is, in plain English**  
-Selecting only the data that supports your argument while ignoring the rest.
+So:
+Selective evidence can make a weak claim look strong
+Leaving out the hard cases changes the picture
+A fair summary has to include what hurts the thesis too
 
-**This example**  
-« Citing studies that support your view and ignoring contradictory research. »  
+Key concept inside it
+Suppressed evidence:
+Relevant facts are left out because they do not help the point being made.
+The silence is part of the trick.
 
-The passage shows **Cherry Picking** in action: selecting only the data that supports your argument while ignoring the rest.
+Why it matters
+Explains why:
+Product reviews can look perfect when only the happy customers are quoted
+Research summaries can mislead when contradictory studies are ignored
+Policy debates can sound convincing when failures are never mentioned
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Selecting only the data that supports your argument while ignoring the rest.
+The uncomfortable implication
+You can make almost any idea look good if you hide enough of the evidence.
+The argument is not honest unless the awkward facts stay in view.
 
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
+One-line version
+Cherry Picking = choosing only the evidence that helps your claim and hiding the rest.`,
+    expert: `Cherry Picking
 
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
+Description:
+Cherry picking selects only the pieces that help the claim and leaves out the parts that would weaken it.
+A report built from the flattering bits is not the whole report.
 
-**In one sentence**  
-Cherry Picking is the label for reasoning that fits: Selecting only the data that supports your argument while ignoring the rest.`,
-    expert: `## Cherry Picking — in-depth (Expert)
+Example (research)
+Citing studies that support your view and ignoring contradictory research
+The good pieces are real, but the missing pieces matter too.
 
-**Definition**  
-Selecting only the data that supports your argument while ignoring the rest.
+Example (policy brief)
+Making the argument look settled by leaving the hard studies out
+If the contrary evidence disappears, the conclusion becomes too easy to fake.
 
-**Applied to this passage**  
-« Citing studies that support your view and ignoring contradictory research. »  
+How it works
+The arguer chooses the evidence after choosing the conclusion.
+That is why the argument feels neat: the missing parts are doing the damage.
 
-Here, **Cherry Picking** is the right name because selecting only the data that supports your argument while ignoring the rest.
+So:
+Selective evidence can make a weak claim look strong
+Leaving out the hard cases changes the picture
+A fair summary has to include what hurts the thesis too
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Selecting only the data that supports your argument while ignoring the rest.
+Key concept inside it
+Suppressed evidence:
+Relevant facts are left out because they do not help the point being made.
+The silence is part of the trick.
 
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
+Why it matters
+Explains why:
+Product reviews can look perfect when only the happy customers are quoted
+Research summaries can mislead when contradictory studies are ignored
+Policy debates can sound convincing when failures are never mentioned
 
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
+The uncomfortable implication
+You can make almost any idea look good if you hide enough of the evidence.
+The argument is not honest unless the awkward facts stay in view.
 
-- **Example 4:** Picture sports or business results. People often reason as if selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 5:** In a family argument, watch for this pattern: Selecting only the data that supports your argument while ignoring the rest.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Cherry Picking** means Selecting only the data that supports your argument while ignoring the rest.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Cherry Picking = choosing only the evidence that helps your claim and hiding the rest.`,
   },
+
   45: {
-    beginner: `## Cherry Picking — in-depth (Beginner)
+    beginner: `Cherry Picking = praising the successes of a policy while hiding its failures.`,
+    intermediate: `Cherry Picking
 
-**What this is, in plain English**  
-Selecting only the data that supports your argument while ignoring the rest.
+Description:
+Cherry picking selects only the pieces that help the claim and leaves out the parts that would weaken it.
+A report built from the flattering bits is not the whole report.
 
-**The example you’re looking at**  
-« Highlighting successes of a policy but not its failures. »  
+Example (policy report)
+Highlighting the successes of a policy but not its failures
+The good pieces are real, but the missing pieces matter too.
 
-**Why this is Cherry Picking**  
-Selecting only the data that supports your argument while ignoring the rest. That is what this label is pointing to in the passage above.
+Example (presentation)
+Leaving out the costs so the proposal looks cleaner than it is
+If the contrary evidence disappears, the conclusion becomes too easy to fake.
 
-**Takeaway**  
-Selecting only the data that supports your argument while ignoring the rest.`,
-    intermediate: `## Cherry Picking — in-depth (Intermediate)
+How it works
+The arguer chooses the evidence after choosing the conclusion.
+That is why the argument feels neat: the missing parts are doing the damage.
 
-**What this is, in plain English**  
-Selecting only the data that supports your argument while ignoring the rest.
+So:
+Selective evidence can make a weak claim look strong
+Leaving out the hard cases changes the picture
+A fair summary has to include what hurts the thesis too
 
-**This example**  
-« Highlighting successes of a policy but not its failures. »  
+Key concept inside it
+Suppressed evidence:
+Relevant facts are left out because they do not help the point being made.
+The silence is part of the trick.
 
-The passage shows **Cherry Picking** in action: selecting only the data that supports your argument while ignoring the rest.
+Why it matters
+Explains why:
+Product reviews can look perfect when only the happy customers are quoted
+Research summaries can mislead when contradictory studies are ignored
+Policy debates can sound convincing when failures are never mentioned
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
+The uncomfortable implication
+You can make almost any idea look good if you hide enough of the evidence.
+The argument is not honest unless the awkward facts stay in view.
 
-- **Example 2:** Imagine a news headline or social post. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
+One-line version
+Cherry Picking = choosing only the evidence that helps your claim and hiding the rest.`,
+    expert: `Cherry Picking
 
-- **Example 3:** Picture a health or habits story. People often reason as if selecting only the data that supports your argument while ignoring the rest.
+Description:
+Cherry picking selects only the pieces that help the claim and leaves out the parts that would weaken it.
+A report built from the flattering bits is not the whole report.
 
-**In one sentence**  
-Cherry Picking is the label for reasoning that fits: Selecting only the data that supports your argument while ignoring the rest.`,
-    expert: `## Cherry Picking — in-depth (Expert)
+Example (policy report)
+Highlighting the successes of a policy but not its failures
+The good pieces are real, but the missing pieces matter too.
 
-**Definition**  
-Selecting only the data that supports your argument while ignoring the rest.
+Example (presentation)
+Leaving out the costs so the proposal looks cleaner than it is
+If the contrary evidence disappears, the conclusion becomes too easy to fake.
 
-**Applied to this passage**  
-« Highlighting successes of a policy but not its failures. »  
+How it works
+The arguer chooses the evidence after choosing the conclusion.
+That is why the argument feels neat: the missing parts are doing the damage.
 
-Here, **Cherry Picking** is the right name because selecting only the data that supports your argument while ignoring the rest.
+So:
+Selective evidence can make a weak claim look strong
+Leaving out the hard cases changes the picture
+A fair summary has to include what hurts the thesis too
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
+Key concept inside it
+Suppressed evidence:
+Relevant facts are left out because they do not help the point being made.
+The silence is part of the trick.
 
-- **Example 2:** Imagine a news headline or social post. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
+Why it matters
+Explains why:
+Product reviews can look perfect when only the happy customers are quoted
+Research summaries can mislead when contradictory studies are ignored
+Policy debates can sound convincing when failures are never mentioned
 
-- **Example 3:** Picture a health or habits story. People often reason as if selecting only the data that supports your argument while ignoring the rest.
+The uncomfortable implication
+You can make almost any idea look good if you hide enough of the evidence.
+The argument is not honest unless the awkward facts stay in view.
 
-- **Example 4:** In school grades or test scores, watch for this pattern: Selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 5:** Another everyday spot: a news headline or social post. Selecting only the data that supports your argument while ignoring the rest.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Cherry Picking** means Selecting only the data that supports your argument while ignoring the rest.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Cherry Picking = choosing only the evidence that helps your claim and hiding the rest.`,
   },
+
   46: {
-    beginner: `## Circular Reasoning — in-depth (Beginner)
+    beginner: `Circular Reasoning = using the conclusion as part of the proof.`,
+    intermediate: `Circular Reasoning
 
-**What this is, in plain English**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+Description:
+Circular reasoning goes in a loop.
+The conclusion comes back as a premise, so nothing new is proven.
 
-**The example you’re looking at**  
-« The Bible is the Word of God because God tells us it is... in the Bible. »  
+Example (scripture)
+The Bible is the Word of God because God tells us it is in the Bible
+The sentence repeats the claim instead of supporting it.
 
-**Why this is Circular Reasoning**  
-Reasoning where the end of an argument comes back to the beginning without proving anything. That is what this label is pointing to in the passage above.
+Example (self-proof)
+This rule is right because the rulebook says the rulebook is right
+If the reason already assumes the conclusion, the proof never leaves home.
 
-**Takeaway**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.`,
-    intermediate: `## Circular Reasoning — in-depth (Intermediate)
+How it works
+The argument looks active, but it is only circling the same idea.
+A real argument should move from support to conclusion, not from conclusion back to support.
 
-**What this is, in plain English**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+So:
+A loop is not evidence
+Rephrasing a claim does not prove it
+The premises must do more than echo the conclusion
 
-**This example**  
-« The Bible is the Word of God because God tells us it is... in the Bible. »  
+Key concept inside it
+Begging the question:
+The conclusion is smuggled into the premise.
+That is why the argument feels persuasive without actually proving anything.
 
-The passage shows **Circular Reasoning** in action: reasoning where the end of an argument comes back to the beginning without proving anything.
+Why it matters
+Explains why:
+Some debates sound deep but never add a new reason
+People can defend a rule by simply restating the rule
+A claim can feel strong while still being empty
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: reasoning where the end of an argument comes back to the beginning without proving anything.
+The uncomfortable implication
+You can talk for a long time and still prove nothing.
+Circularity is motion without progress.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if reasoning where the end of an argument comes back to the beginning without proving anything.
+One-line version
+Circular Reasoning = using the conclusion as part of the proof.`,
+    expert: `Circular Reasoning
 
-- **Example 3:** In sports or business results, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
+Description:
+Circular reasoning goes in a loop.
+The conclusion comes back as a premise, so nothing new is proven.
 
-**In one sentence**  
-Circular Reasoning is the label for reasoning that fits: Reasoning where the end of an argument comes back to the beginning without proving anything.`,
-    expert: `## Circular Reasoning — in-depth (Expert)
+Example (scripture)
+The Bible is the Word of God because God tells us it is in the Bible
+The sentence repeats the claim instead of supporting it.
 
-**Definition**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+Example (self-proof)
+This rule is right because the rulebook says the rulebook is right
+If the reason already assumes the conclusion, the proof never leaves home.
 
-**Applied to this passage**  
-« The Bible is the Word of God because God tells us it is... in the Bible. »  
+How it works
+The argument looks active, but it is only circling the same idea.
+A real argument should move from support to conclusion, not from conclusion back to support.
 
-Here, **Circular Reasoning** is the right name because reasoning where the end of an argument comes back to the beginning without proving anything.
+So:
+A loop is not evidence
+Rephrasing a claim does not prove it
+The premises must do more than echo the conclusion
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: reasoning where the end of an argument comes back to the beginning without proving anything.
+Key concept inside it
+Begging the question:
+The conclusion is smuggled into the premise.
+That is why the argument feels persuasive without actually proving anything.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if reasoning where the end of an argument comes back to the beginning without proving anything.
+Why it matters
+Explains why:
+Some debates sound deep but never add a new reason
+People can defend a rule by simply restating the rule
+A claim can feel strong while still being empty
 
-- **Example 3:** In sports or business results, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
+The uncomfortable implication
+You can talk for a long time and still prove nothing.
+Circularity is motion without progress.
 
-- **Example 4:** Another everyday spot: a family argument. Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Circular Reasoning** means Reasoning where the end of an argument comes back to the beginning without proving anything.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Circular Reasoning = using the conclusion as part of the proof.`,
   },
+
   47: {
-    beginner: `## Circular Reasoning — in-depth (Beginner)
+    beginner: `Circular Reasoning = repeating the same reason in a different sentence instead of proving anything new.`,
+    intermediate: `Circular Reasoning
 
-**What this is, in plain English**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+Description:
+Circular reasoning goes in a loop.
+The conclusion comes back as a premise, so nothing new is proven.
 
-**The example you’re looking at**  
-« You have to invite Jenna to your party because it would not be nice not to invite Jenna. »  
+Example (party invitation)
+You have to invite Jenna because it would not be nice not to invite Jenna
+The sentence repeats the claim instead of supporting it.
 
-**Why this is Circular Reasoning**  
-Reasoning where the end of an argument comes back to the beginning without proving anything. That is what this label is pointing to in the passage above.
+Example (social pressure)
+We should include her because leaving her out would be wrong, and it would be wrong to leave her out
+If the reason already assumes the conclusion, the proof never leaves home.
 
-**Takeaway**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.`,
-    intermediate: `## Circular Reasoning — in-depth (Intermediate)
+How it works
+The argument looks active, but it is only circling the same idea.
+A real argument should move from support to conclusion, not from conclusion back to support.
 
-**What this is, in plain English**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+So:
+A loop is not evidence
+Rephrasing a claim does not prove it
+The premises must do more than echo the conclusion
 
-**This example**  
-« You have to invite Jenna to your party because it would not be nice not to invite Jenna. »  
+Key concept inside it
+Begging the question:
+The conclusion is smuggled into the premise.
+That is why the argument feels persuasive without actually proving anything.
 
-The passage shows **Circular Reasoning** in action: reasoning where the end of an argument comes back to the beginning without proving anything.
+Why it matters
+Explains why:
+Some debates sound deep but never add a new reason
+People can defend a rule by simply restating the rule
+A claim can feel strong while still being empty
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if reasoning where the end of an argument comes back to the beginning without proving anything.
+The uncomfortable implication
+You can talk for a long time and still prove nothing.
+Circularity is motion without progress.
 
-- **Example 2:** In a health or habits story, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
+One-line version
+Circular Reasoning = using the conclusion as part of the proof.`,
+    expert: `Circular Reasoning
 
-- **Example 3:** Another everyday spot: school grades or test scores. Reasoning where the end of an argument comes back to the beginning without proving anything.
+Description:
+Circular reasoning goes in a loop.
+The conclusion comes back as a premise, so nothing new is proven.
 
-**In one sentence**  
-Circular Reasoning is the label for reasoning that fits: Reasoning where the end of an argument comes back to the beginning without proving anything.`,
-    expert: `## Circular Reasoning — in-depth (Expert)
+Example (party invitation)
+You have to invite Jenna because it would not be nice not to invite Jenna
+The sentence repeats the claim instead of supporting it.
 
-**Definition**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+Example (social pressure)
+We should include her because leaving her out would be wrong, and it would be wrong to leave her out
+If the reason already assumes the conclusion, the proof never leaves home.
 
-**Applied to this passage**  
-« You have to invite Jenna to your party because it would not be nice not to invite Jenna. »  
+How it works
+The argument looks active, but it is only circling the same idea.
+A real argument should move from support to conclusion, not from conclusion back to support.
 
-Here, **Circular Reasoning** is the right name because reasoning where the end of an argument comes back to the beginning without proving anything.
+So:
+A loop is not evidence
+Rephrasing a claim does not prove it
+The premises must do more than echo the conclusion
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if reasoning where the end of an argument comes back to the beginning without proving anything.
+Key concept inside it
+Begging the question:
+The conclusion is smuggled into the premise.
+That is why the argument feels persuasive without actually proving anything.
 
-- **Example 2:** In a health or habits story, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
+Why it matters
+Explains why:
+Some debates sound deep but never add a new reason
+People can defend a rule by simply restating the rule
+A claim can feel strong while still being empty
 
-- **Example 3:** Another everyday spot: school grades or test scores. Reasoning where the end of an argument comes back to the beginning without proving anything.
+The uncomfortable implication
+You can talk for a long time and still prove nothing.
+Circularity is motion without progress.
 
-- **Example 4:** **Setting:** a news headline or social post. **What goes wrong:** Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 5:** Imagine a health or habits story. The slip is the same: reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Circular Reasoning** means Reasoning where the end of an argument comes back to the beginning without proving anything.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Circular Reasoning = using the conclusion as part of the proof.`,
   },
+
   48: {
-    beginner: `## Circular Reasoning — in-depth (Beginner)
+    beginner: `Circular Reasoning = saying you deserve something because you deserve it.`,
+    intermediate: `Circular Reasoning
 
-**What this is, in plain English**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+Description:
+Circular reasoning goes in a loop.
+The conclusion comes back as a premise, so nothing new is proven.
 
-**The example you’re looking at**  
-« I deserve to have a later curfew, so you should let me stay out until 10pm! »  
+Example (curfew)
+I deserve a later curfew, so you should let me stay out later
+The sentence repeats the claim instead of supporting it.
 
-**Why this is Circular Reasoning**  
-Reasoning where the end of an argument comes back to the beginning without proving anything. That is what this label is pointing to in the passage above.
+Example (deadline)
+I need more time because the deadline should be extended for me, and it should be extended because I need more time
+If the reason already assumes the conclusion, the proof never leaves home.
 
-**Takeaway**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.`,
-    intermediate: `## Circular Reasoning — in-depth (Intermediate)
+How it works
+The argument looks active, but it is only circling the same idea.
+A real argument should move from support to conclusion, not from conclusion back to support.
 
-**What this is, in plain English**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+So:
+A loop is not evidence
+Rephrasing a claim does not prove it
+The premises must do more than echo the conclusion
 
-**This example**  
-« I deserve to have a later curfew, so you should let me stay out until 10pm! »  
+Key concept inside it
+Begging the question:
+The conclusion is smuggled into the premise.
+That is why the argument feels persuasive without actually proving anything.
 
-The passage shows **Circular Reasoning** in action: reasoning where the end of an argument comes back to the beginning without proving anything.
+Why it matters
+Explains why:
+Some debates sound deep but never add a new reason
+People can defend a rule by simply restating the rule
+A claim can feel strong while still being empty
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
+The uncomfortable implication
+You can talk for a long time and still prove nothing.
+Circularity is motion without progress.
 
-- **Example 2:** Another everyday spot: sports or business results. Reasoning where the end of an argument comes back to the beginning without proving anything.
+One-line version
+Circular Reasoning = using the conclusion as part of the proof.`,
+    expert: `Circular Reasoning
 
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Reasoning where the end of an argument comes back to the beginning without proving anything.
+Description:
+Circular reasoning goes in a loop.
+The conclusion comes back as a premise, so nothing new is proven.
 
-**In one sentence**  
-Circular Reasoning is the label for reasoning that fits: Reasoning where the end of an argument comes back to the beginning without proving anything.`,
-    expert: `## Circular Reasoning — in-depth (Expert)
+Example (curfew)
+I deserve a later curfew, so you should let me stay out later
+The sentence repeats the claim instead of supporting it.
 
-**Definition**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+Example (deadline)
+I need more time because the deadline should be extended for me, and it should be extended because I need more time
+If the reason already assumes the conclusion, the proof never leaves home.
 
-**Applied to this passage**  
-« I deserve to have a later curfew, so you should let me stay out until 10pm! »  
+How it works
+The argument looks active, but it is only circling the same idea.
+A real argument should move from support to conclusion, not from conclusion back to support.
 
-Here, **Circular Reasoning** is the right name because reasoning where the end of an argument comes back to the beginning without proving anything.
+So:
+A loop is not evidence
+Rephrasing a claim does not prove it
+The premises must do more than echo the conclusion
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
+Key concept inside it
+Begging the question:
+The conclusion is smuggled into the premise.
+That is why the argument feels persuasive without actually proving anything.
 
-- **Example 2:** Another everyday spot: sports or business results. Reasoning where the end of an argument comes back to the beginning without proving anything.
+Why it matters
+Explains why:
+Some debates sound deep but never add a new reason
+People can defend a rule by simply restating the rule
+A claim can feel strong while still being empty
 
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Reasoning where the end of an argument comes back to the beginning without proving anything.
+The uncomfortable implication
+You can talk for a long time and still prove nothing.
+Circularity is motion without progress.
 
-- **Example 4:** Imagine a policy or workplace discussion. The slip is the same: reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 5:** Picture sports or business results. People often reason as if reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Circular Reasoning** means Reasoning where the end of an argument comes back to the beginning without proving anything.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Circular Reasoning = using the conclusion as part of the proof.`,
   },
+
   49: {
-    beginner: `## Complex Question — in-depth (Beginner)
+    beginner: `Complex Question = asking a question that hides an unproven accusation inside it.`,
+    intermediate: `Complex Question
 
-**What this is, in plain English**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Description:
+A complex question hides a claim inside the question itself.
+If you answer too quickly, you may sound like you accepted the hidden claim.
 
-**The example you’re looking at**  
-« Have you stopped beating your wife? »  
+Example (wife abuse)
+Have you stopped beating your wife
+The question is not neutral; it already loads the accusation.
 
-**Why this is Complex Question**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims. That is what this label is pointing to in the passage above.
+Example (loaded accusation)
+When did you stop cheating on the campaign
+The wording pushes the listener into a trap before any evidence is discussed.
 
-**Takeaway**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
-    intermediate: `## Complex Question — in-depth (Intermediate)
+How it works
+The question is built to smuggle in a premise.
+That means the person answering has to reject the hidden claim before answering the surface question.
 
-**What this is, in plain English**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+So:
+Not every question is fair
+A hidden assumption can make a question misleading
+You may need to challenge the question before answering it
 
-**This example**  
-« Have you stopped beating your wife? »  
+Key concept inside it
+Loaded presupposition:
+A claim is built into the question as if it were already settled.
+That is what makes the question unfair.
 
-The passage shows **Complex Question** in action: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Why it matters
+Explains why:
+Interrogators, interviewers, and debaters sometimes force agreement by wording the question badly
+A small wording shift can change who seems guilty
+People can accidentally accept a false premise by trying to be polite
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+The uncomfortable implication
+Sometimes the trap is inside the grammar.
+If you answer too fast, you may be answering a lie.
 
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+One-line version
+Complex Question = asking a question that hides an unproven accusation inside it.`,
+    expert: `Complex Question
 
-- **Example 3:** Imagine a news headline or social post. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Description:
+A complex question hides a claim inside the question itself.
+If you answer too quickly, you may sound like you accepted the hidden claim.
 
-**In one sentence**  
-Complex Question is the label for reasoning that fits: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
-    expert: `## Complex Question — in-depth (Expert)
+Example (wife abuse)
+Have you stopped beating your wife
+The question is not neutral; it already loads the accusation.
 
-**Definition**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Example (loaded accusation)
+When did you stop cheating on the campaign
+The wording pushes the listener into a trap before any evidence is discussed.
 
-**Applied to this passage**  
-« Have you stopped beating your wife? »  
+How it works
+The question is built to smuggle in a premise.
+That means the person answering has to reject the hidden claim before answering the surface question.
 
-Here, **Complex Question** is the right name because a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+So:
+Not every question is fair
+A hidden assumption can make a question misleading
+You may need to challenge the question before answering it
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Key concept inside it
+Loaded presupposition:
+A claim is built into the question as if it were already settled.
+That is what makes the question unfair.
 
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Why it matters
+Explains why:
+Interrogators, interviewers, and debaters sometimes force agreement by wording the question badly
+A small wording shift can change who seems guilty
+People can accidentally accept a false premise by trying to be polite
 
-- **Example 3:** Imagine a news headline or social post. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+The uncomfortable implication
+Sometimes the trap is inside the grammar.
+If you answer too fast, you may be answering a lie.
 
-- **Example 4:** Picture a health or habits story. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 5:** In school grades or test scores, watch for this pattern: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Complex Question** means A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Complex Question = asking a question that hides an unproven accusation inside it.`,
   },
+
   50: {
-    beginner: `## Complex Question — in-depth (Beginner)
+    beginner: `Complex Question = phrasing a question so it assumes something you have not admitted.`,
+    intermediate: `Complex Question
 
-**What this is, in plain English**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Description:
+A complex question hides a claim inside the question itself.
+If you answer too quickly, you may sound like you accepted the hidden claim.
 
-**The example you’re looking at**  
-« When did you become a communist? »  
+Example (ideology trap)
+When did you become a communist
+The question is not neutral; it already loads the accusation.
 
-**Why this is Complex Question**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims. That is what this label is pointing to in the passage above.
+Example (loyalty trap)
+Why did you betray the team
+The wording pushes the listener into a trap before any evidence is discussed.
 
-**Takeaway**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
-    intermediate: `## Complex Question — in-depth (Intermediate)
+How it works
+The question is built to smuggle in a premise.
+That means the person answering has to reject the hidden claim before answering the surface question.
 
-**What this is, in plain English**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+So:
+Not every question is fair
+A hidden assumption can make a question misleading
+You may need to challenge the question before answering it
 
-**This example**  
-« When did you become a communist? »  
+Key concept inside it
+Loaded presupposition:
+A claim is built into the question as if it were already settled.
+That is what makes the question unfair.
 
-The passage shows **Complex Question** in action: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Why it matters
+Explains why:
+Interrogators, interviewers, and debaters sometimes force agreement by wording the question badly
+A small wording shift can change who seems guilty
+People can accidentally accept a false premise by trying to be polite
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+The uncomfortable implication
+Sometimes the trap is inside the grammar.
+If you answer too fast, you may be answering a lie.
 
-- **Example 2:** Imagine a family argument. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+One-line version
+Complex Question = asking a question that hides an unproven accusation inside it.`,
+    expert: `Complex Question
 
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Description:
+A complex question hides a claim inside the question itself.
+If you answer too quickly, you may sound like you accepted the hidden claim.
 
-**In one sentence**  
-Complex Question is the label for reasoning that fits: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
-    expert: `## Complex Question — in-depth (Expert)
+Example (ideology trap)
+When did you become a communist
+The question is not neutral; it already loads the accusation.
 
-**Definition**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Example (loyalty trap)
+Why did you betray the team
+The wording pushes the listener into a trap before any evidence is discussed.
 
-**Applied to this passage**  
-« When did you become a communist? »  
+How it works
+The question is built to smuggle in a premise.
+That means the person answering has to reject the hidden claim before answering the surface question.
 
-Here, **Complex Question** is the right name because a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+So:
+Not every question is fair
+A hidden assumption can make a question misleading
+You may need to challenge the question before answering it
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Key concept inside it
+Loaded presupposition:
+A claim is built into the question as if it were already settled.
+That is what makes the question unfair.
 
-- **Example 2:** Imagine a family argument. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Why it matters
+Explains why:
+Interrogators, interviewers, and debaters sometimes force agreement by wording the question badly
+A small wording shift can change who seems guilty
+People can accidentally accept a false premise by trying to be polite
 
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+The uncomfortable implication
+Sometimes the trap is inside the grammar.
+If you answer too fast, you may be answering a lie.
 
-- **Example 4:** In sports or business results, watch for this pattern: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 5:** Another everyday spot: a family argument. A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Complex Question** means A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Complex Question = asking a question that hides an unproven accusation inside it.`,
   },
+
   51: {
-    beginner: `## Complex Question — in-depth (Beginner)
+    beginner: `Complex Question = forcing someone to answer a loaded question as if the hidden claim were already true.`,
+    intermediate: `Complex Question
 
-**What this is, in plain English**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Description:
+A complex question hides a claim inside the question itself.
+If you answer too quickly, you may sound like you accepted the hidden claim.
 
-**The example you’re looking at**  
-« Why are you so lazy? »  
+Example (laziness)
+Why are you so lazy
+The question is not neutral; it already loads the accusation.
 
-**Why this is Complex Question**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims. That is what this label is pointing to in the passage above.
+Example (dishonesty)
+Why do you keep lying to your boss
+The wording pushes the listener into a trap before any evidence is discussed.
 
-**Takeaway**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
-    intermediate: `## Complex Question — in-depth (Intermediate)
+How it works
+The question is built to smuggle in a premise.
+That means the person answering has to reject the hidden claim before answering the surface question.
 
-**What this is, in plain English**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+So:
+Not every question is fair
+A hidden assumption can make a question misleading
+You may need to challenge the question before answering it
 
-**This example**  
-« Why are you so lazy? »  
+Key concept inside it
+Loaded presupposition:
+A claim is built into the question as if it were already settled.
+That is what makes the question unfair.
 
-The passage shows **Complex Question** in action: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Why it matters
+Explains why:
+Interrogators, interviewers, and debaters sometimes force agreement by wording the question badly
+A small wording shift can change who seems guilty
+People can accidentally accept a false premise by trying to be polite
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+The uncomfortable implication
+Sometimes the trap is inside the grammar.
+If you answer too fast, you may be answering a lie.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+One-line version
+Complex Question = asking a question that hides an unproven accusation inside it.`,
+    expert: `Complex Question
 
-- **Example 3:** In a health or habits story, watch for this pattern: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Description:
+A complex question hides a claim inside the question itself.
+If you answer too quickly, you may sound like you accepted the hidden claim.
 
-**In one sentence**  
-Complex Question is the label for reasoning that fits: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
-    expert: `## Complex Question — in-depth (Expert)
+Example (laziness)
+Why are you so lazy
+The question is not neutral; it already loads the accusation.
 
-**Definition**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Example (dishonesty)
+Why do you keep lying to your boss
+The wording pushes the listener into a trap before any evidence is discussed.
 
-**Applied to this passage**  
-« Why are you so lazy? »  
+How it works
+The question is built to smuggle in a premise.
+That means the person answering has to reject the hidden claim before answering the surface question.
 
-Here, **Complex Question** is the right name because a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+So:
+Not every question is fair
+A hidden assumption can make a question misleading
+You may need to challenge the question before answering it
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Key concept inside it
+Loaded presupposition:
+A claim is built into the question as if it were already settled.
+That is what makes the question unfair.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Why it matters
+Explains why:
+Interrogators, interviewers, and debaters sometimes force agreement by wording the question badly
+A small wording shift can change who seems guilty
+People can accidentally accept a false premise by trying to be polite
 
-- **Example 3:** In a health or habits story, watch for this pattern: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+The uncomfortable implication
+Sometimes the trap is inside the grammar.
+If you answer too fast, you may be answering a lie.
 
-- **Example 4:** Another everyday spot: school grades or test scores. A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Complex Question** means A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Complex Question = asking a question that hides an unproven accusation inside it.`,
   },
+
   52: {
-    beginner: `## Composition Fallacy — in-depth (Beginner)
+    beginner: `Composition Fallacy = assuming the whole has a property just because each part has it.`,
+    intermediate: `Composition Fallacy
 
-**What this is, in plain English**  
-Assuming that what is true for a part is also true for the whole.
+Description:
+Composition mistakes a property of the parts for a property of the whole.
+What is true of each piece does not automatically become true of the finished thing.
 
-**The example you’re looking at**  
-« Atoms are invisible. Humans are made of atoms. Therefore, humans are invisible. »  
+Example (atoms)
+Atoms are invisible, humans are made of atoms, therefore humans are invisible
+A property of the building blocks is not always a property of the building.
 
-**Why this is Composition Fallacy**  
-Assuming that what is true for a part is also true for the whole. That is what this label is pointing to in the passage above.
+Example (parts-to-whole)
+Each ingredient is light, so the finished meal must be light
+What fits every member of a group may still fail to fit the group as a whole.
 
-**Takeaway**  
-Assuming that what is true for a part is also true for the whole.`,
-    intermediate: `## Composition Fallacy — in-depth (Intermediate)
+How it works
+The mind jumps from part to whole too quickly.
+The missing step is whether the property survives when the pieces are put together.
 
-**What this is, in plain English**  
-Assuming that what is true for a part is also true for the whole.
+So:
+Parts and wholes are not the same thing
+A local fact can disappear once the system is assembled
+You need a bridge from the part to the whole before the claim works
 
-**This example**  
-« Atoms are invisible. Humans are made of atoms. Therefore, humans are invisible. »  
+Key concept inside it
+Aggregation:
+Putting many true statements together does not guarantee that the big statement is true.
+The whole can behave differently from the pieces.
 
-The passage shows **Composition Fallacy** in action: assuming that what is true for a part is also true for the whole.
+Why it matters
+Explains why:
+A team can have great players and still lose as a team
+A machine part can be simple while the machine is complex
+A crowd can contain smart people without the crowd itself being wise
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if assuming that what is true for a part is also true for the whole.
+The uncomfortable implication
+A list of true statements can still produce a false conclusion.
+Big claims need big support.
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Assuming that what is true for a part is also true for the whole.
+One-line version
+Composition Fallacy = assuming the whole has a property just because each part has it.`,
+    expert: `Composition Fallacy
 
-- **Example 3:** Another everyday spot: sports or business results. Assuming that what is true for a part is also true for the whole.
+Description:
+Composition mistakes a property of the parts for a property of the whole.
+What is true of each piece does not automatically become true of the finished thing.
 
-**In one sentence**  
-Composition Fallacy is the label for reasoning that fits: Assuming that what is true for a part is also true for the whole.`,
-    expert: `## Composition Fallacy — in-depth (Expert)
+Example (atoms)
+Atoms are invisible, humans are made of atoms, therefore humans are invisible
+A property of the building blocks is not always a property of the building.
 
-**Definition**  
-Assuming that what is true for a part is also true for the whole.
+Example (parts-to-whole)
+Each ingredient is light, so the finished meal must be light
+What fits every member of a group may still fail to fit the group as a whole.
 
-**Applied to this passage**  
-« Atoms are invisible. Humans are made of atoms. Therefore, humans are invisible. »  
+How it works
+The mind jumps from part to whole too quickly.
+The missing step is whether the property survives when the pieces are put together.
 
-Here, **Composition Fallacy** is the right name because assuming that what is true for a part is also true for the whole.
+So:
+Parts and wholes are not the same thing
+A local fact can disappear once the system is assembled
+You need a bridge from the part to the whole before the claim works
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if assuming that what is true for a part is also true for the whole.
+Key concept inside it
+Aggregation:
+Putting many true statements together does not guarantee that the big statement is true.
+The whole can behave differently from the pieces.
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Assuming that what is true for a part is also true for the whole.
+Why it matters
+Explains why:
+A team can have great players and still lose as a team
+A machine part can be simple while the machine is complex
+A crowd can contain smart people without the crowd itself being wise
 
-- **Example 3:** Another everyday spot: sports or business results. Assuming that what is true for a part is also true for the whole.
+The uncomfortable implication
+A list of true statements can still produce a false conclusion.
+Big claims need big support.
 
-- **Example 4:** **Setting:** a family argument. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
-
-- **Example 5:** Imagine a policy or workplace discussion. The slip is the same: assuming that what is true for a part is also true for the whole.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Composition Fallacy** means Assuming that what is true for a part is also true for the whole.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Composition Fallacy = assuming the whole has a property just because each part has it.`,
   },
+
   53: {
-    beginner: `## Composition Fallacy — in-depth (Beginner)
+    beginner: `Composition Fallacy = turning a truth about each player into a truth about the whole team.`,
+    intermediate: `Composition Fallacy
 
-**What this is, in plain English**  
-Assuming that what is true for a part is also true for the whole.
+Description:
+Composition mistakes a property of the parts for a property of the whole.
+What is true of each piece does not automatically become true of the finished thing.
 
-**The example you’re looking at**  
-« Each player on the team is a superstar, so the team must be unbeatable. »  
+Example (team)
+Each player on the team is a superstar, so the team must be unbeatable
+A property of the building blocks is not always a property of the building.
 
-**Why this is Composition Fallacy**  
-Assuming that what is true for a part is also true for the whole. That is what this label is pointing to in the passage above.
+Example (assembly)
+Every worker is skilled, so the final project must be flawless
+What fits every member of a group may still fail to fit the group as a whole.
 
-**Takeaway**  
-Assuming that what is true for a part is also true for the whole.`,
-    intermediate: `## Composition Fallacy — in-depth (Intermediate)
+How it works
+The mind jumps from part to whole too quickly.
+The missing step is whether the property survives when the pieces are put together.
 
-**What this is, in plain English**  
-Assuming that what is true for a part is also true for the whole.
+So:
+Parts and wholes are not the same thing
+A local fact can disappear once the system is assembled
+You need a bridge from the part to the whole before the claim works
 
-**This example**  
-« Each player on the team is a superstar, so the team must be unbeatable. »  
+Key concept inside it
+Aggregation:
+Putting many true statements together does not guarantee that the big statement is true.
+The whole can behave differently from the pieces.
 
-The passage shows **Composition Fallacy** in action: assuming that what is true for a part is also true for the whole.
+Why it matters
+Explains why:
+A team can have great players and still lose as a team
+A machine part can be simple while the machine is complex
+A crowd can contain smart people without the crowd itself being wise
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Assuming that what is true for a part is also true for the whole.
+The uncomfortable implication
+A list of true statements can still produce a false conclusion.
+Big claims need big support.
 
-- **Example 2:** Another everyday spot: a health or habits story. Assuming that what is true for a part is also true for the whole.
+One-line version
+Composition Fallacy = assuming the whole has a property just because each part has it.`,
+    expert: `Composition Fallacy
 
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
+Description:
+Composition mistakes a property of the parts for a property of the whole.
+What is true of each piece does not automatically become true of the finished thing.
 
-**In one sentence**  
-Composition Fallacy is the label for reasoning that fits: Assuming that what is true for a part is also true for the whole.`,
-    expert: `## Composition Fallacy — in-depth (Expert)
+Example (team)
+Each player on the team is a superstar, so the team must be unbeatable
+A property of the building blocks is not always a property of the building.
 
-**Definition**  
-Assuming that what is true for a part is also true for the whole.
+Example (assembly)
+Every worker is skilled, so the final project must be flawless
+What fits every member of a group may still fail to fit the group as a whole.
 
-**Applied to this passage**  
-« Each player on the team is a superstar, so the team must be unbeatable. »  
+How it works
+The mind jumps from part to whole too quickly.
+The missing step is whether the property survives when the pieces are put together.
 
-Here, **Composition Fallacy** is the right name because assuming that what is true for a part is also true for the whole.
+So:
+Parts and wholes are not the same thing
+A local fact can disappear once the system is assembled
+You need a bridge from the part to the whole before the claim works
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Assuming that what is true for a part is also true for the whole.
+Key concept inside it
+Aggregation:
+Putting many true statements together does not guarantee that the big statement is true.
+The whole can behave differently from the pieces.
 
-- **Example 2:** Another everyday spot: a health or habits story. Assuming that what is true for a part is also true for the whole.
+Why it matters
+Explains why:
+A team can have great players and still lose as a team
+A machine part can be simple while the machine is complex
+A crowd can contain smart people without the crowd itself being wise
 
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
+The uncomfortable implication
+A list of true statements can still produce a false conclusion.
+Big claims need big support.
 
-- **Example 4:** Imagine a news headline or social post. The slip is the same: assuming that what is true for a part is also true for the whole.
-
-- **Example 5:** Picture a health or habits story. People often reason as if assuming that what is true for a part is also true for the whole.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Composition Fallacy** means Assuming that what is true for a part is also true for the whole.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Composition Fallacy = assuming the whole has a property just because each part has it.`,
   },
+
   54: {
-    beginner: `## Composition Fallacy — in-depth (Beginner)
+    beginner: `Composition Fallacy = assuming the car must share a property of one part inside it.`,
+    intermediate: `Composition Fallacy
 
-**What this is, in plain English**  
-Assuming that what is true for a part is also true for the whole.
+Description:
+Composition mistakes a property of the parts for a property of the whole.
+What is true of each piece does not automatically become true of the finished thing.
 
-**The example you’re looking at**  
-« This tire is made of rubber, so the whole car must be made of rubber. »  
+Example (tire)
+This tire is made of rubber, so the whole car must be made of rubber
+A property of the building blocks is not always a property of the building.
 
-**Why this is Composition Fallacy**  
-Assuming that what is true for a part is also true for the whole. That is what this label is pointing to in the passage above.
+Example (component)
+The speakers are loud, so the entire machine must be loud
+What fits every member of a group may still fail to fit the group as a whole.
 
-**Takeaway**  
-Assuming that what is true for a part is also true for the whole.`,
-    intermediate: `## Composition Fallacy — in-depth (Intermediate)
+How it works
+The mind jumps from part to whole too quickly.
+The missing step is whether the property survives when the pieces are put together.
 
-**What this is, in plain English**  
-Assuming that what is true for a part is also true for the whole.
+So:
+Parts and wholes are not the same thing
+A local fact can disappear once the system is assembled
+You need a bridge from the part to the whole before the claim works
 
-**This example**  
-« This tire is made of rubber, so the whole car must be made of rubber. »  
+Key concept inside it
+Aggregation:
+Putting many true statements together does not guarantee that the big statement is true.
+The whole can behave differently from the pieces.
 
-The passage shows **Composition Fallacy** in action: assuming that what is true for a part is also true for the whole.
+Why it matters
+Explains why:
+A team can have great players and still lose as a team
+A machine part can be simple while the machine is complex
+A crowd can contain smart people without the crowd itself being wise
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Assuming that what is true for a part is also true for the whole.
+The uncomfortable implication
+A list of true statements can still produce a false conclusion.
+Big claims need big support.
 
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
+One-line version
+Composition Fallacy = assuming the whole has a property just because each part has it.`,
+    expert: `Composition Fallacy
 
-- **Example 3:** Imagine a family argument. The slip is the same: assuming that what is true for a part is also true for the whole.
+Description:
+Composition mistakes a property of the parts for a property of the whole.
+What is true of each piece does not automatically become true of the finished thing.
 
-**In one sentence**  
-Composition Fallacy is the label for reasoning that fits: Assuming that what is true for a part is also true for the whole.`,
-    expert: `## Composition Fallacy — in-depth (Expert)
+Example (tire)
+This tire is made of rubber, so the whole car must be made of rubber
+A property of the building blocks is not always a property of the building.
 
-**Definition**  
-Assuming that what is true for a part is also true for the whole.
+Example (component)
+The speakers are loud, so the entire machine must be loud
+What fits every member of a group may still fail to fit the group as a whole.
 
-**Applied to this passage**  
-« This tire is made of rubber, so the whole car must be made of rubber. »  
+How it works
+The mind jumps from part to whole too quickly.
+The missing step is whether the property survives when the pieces are put together.
 
-Here, **Composition Fallacy** is the right name because assuming that what is true for a part is also true for the whole.
+So:
+Parts and wholes are not the same thing
+A local fact can disappear once the system is assembled
+You need a bridge from the part to the whole before the claim works
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Assuming that what is true for a part is also true for the whole.
+Key concept inside it
+Aggregation:
+Putting many true statements together does not guarantee that the big statement is true.
+The whole can behave differently from the pieces.
 
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
+Why it matters
+Explains why:
+A team can have great players and still lose as a team
+A machine part can be simple while the machine is complex
+A crowd can contain smart people without the crowd itself being wise
 
-- **Example 3:** Imagine a family argument. The slip is the same: assuming that what is true for a part is also true for the whole.
+The uncomfortable implication
+A list of true statements can still produce a false conclusion.
+Big claims need big support.
 
-- **Example 4:** Picture a policy or workplace discussion. People often reason as if assuming that what is true for a part is also true for the whole.
-
-- **Example 5:** In sports or business results, watch for this pattern: Assuming that what is true for a part is also true for the whole.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Composition Fallacy** means Assuming that what is true for a part is also true for the whole.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Composition Fallacy = assuming the whole has a property just because each part has it.`,
   },
+
   55: {
-    beginner: `## Division Fallacy — in-depth (Beginner)
+    beginner: `Division Fallacy = assuming each person has a property just because the country does.`,
+    intermediate: `Division Fallacy
 
-**What this is, in plain English**  
-Assuming that what is true for the whole is also true for each of its parts.
+Description:
+Division makes the opposite mistake.
+What is true of the whole does not automatically fit every part.
 
-**The example you’re looking at**  
-« The United States is the richest country in the world. Therefore, everyone in the United States must be rich. »  
+Example (country)
+The United States is the richest country in the world, so everyone in the United States must be rich
+A property of the group does not automatically describe each person inside it.
 
-**Why this is Division Fallacy**  
-Assuming that what is true for the whole is also true for each of its parts. That is what this label is pointing to in the passage above.
+Example (whole-to-part)
+The company is profitable, so every employee must be personally wealthy
+The whole can have a feature that no single part has on its own.
 
-**Takeaway**  
-Assuming that what is true for the whole is also true for each of its parts.`,
-    intermediate: `## Division Fallacy — in-depth (Intermediate)
+How it works
+The arguer slides from the big picture to the smaller pieces without justification.
+That move only works if the whole property really transfers to each part.
 
-**What this is, in plain English**  
-Assuming that what is true for the whole is also true for each of its parts.
+So:
+Whole and part are different levels of description
+A system-level fact does not always apply to each member
+You need evidence for the transfer, not just the slogan
 
-**This example**  
-« The United States is the richest country in the world. Therefore, everyone in the United States must be rich. »  
+Key concept inside it
+Decomposition:
+Breaking a whole into parts does not preserve every property.
+A group can have a trait that none of its members individually have.
 
-The passage shows **Division Fallacy** in action: assuming that what is true for the whole is also true for each of its parts.
+Why it matters
+Explains why:
+A wealthy country can still contain many poor citizens
+Water can be liquid even though a single molecule is not a puddle
+A heavy book does not make every page heavy in the same way
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Assuming that what is true for the whole is also true for each of its parts.
+The uncomfortable implication
+Scale changes meaning.
+What is true upstairs may not be true downstairs.
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: assuming that what is true for the whole is also true for each of its parts.
+One-line version
+Division Fallacy = assuming each part has a property just because the whole does.`,
+    expert: `Division Fallacy
 
-- **Example 3:** Picture a news headline or social post. People often reason as if assuming that what is true for the whole is also true for each of its parts.
+Description:
+Division makes the opposite mistake.
+What is true of the whole does not automatically fit every part.
 
-**In one sentence**  
-Division Fallacy is the label for reasoning that fits: Assuming that what is true for the whole is also true for each of its parts.`,
-    expert: `## Division Fallacy — in-depth (Expert)
+Example (country)
+The United States is the richest country in the world, so everyone in the United States must be rich
+A property of the group does not automatically describe each person inside it.
 
-**Definition**  
-Assuming that what is true for the whole is also true for each of its parts.
+Example (whole-to-part)
+The company is profitable, so every employee must be personally wealthy
+The whole can have a feature that no single part has on its own.
 
-**Applied to this passage**  
-« The United States is the richest country in the world. Therefore, everyone in the United States must be rich. »  
+How it works
+The arguer slides from the big picture to the smaller pieces without justification.
+That move only works if the whole property really transfers to each part.
 
-Here, **Division Fallacy** is the right name because assuming that what is true for the whole is also true for each of its parts.
+So:
+Whole and part are different levels of description
+A system-level fact does not always apply to each member
+You need evidence for the transfer, not just the slogan
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Assuming that what is true for the whole is also true for each of its parts.
+Key concept inside it
+Decomposition:
+Breaking a whole into parts does not preserve every property.
+A group can have a trait that none of its members individually have.
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: assuming that what is true for the whole is also true for each of its parts.
+Why it matters
+Explains why:
+A wealthy country can still contain many poor citizens
+Water can be liquid even though a single molecule is not a puddle
+A heavy book does not make every page heavy in the same way
 
-- **Example 3:** Picture a news headline or social post. People often reason as if assuming that what is true for the whole is also true for each of its parts.
+The uncomfortable implication
+Scale changes meaning.
+What is true upstairs may not be true downstairs.
 
-- **Example 4:** In a health or habits story, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 5:** Another everyday spot: school grades or test scores. Assuming that what is true for the whole is also true for each of its parts.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Division Fallacy** means Assuming that what is true for the whole is also true for each of its parts.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Division Fallacy = assuming each part has a property just because the whole does.`,
   },
+
   56: {
-    beginner: `## Division Fallacy — in-depth (Beginner)
+    beginner: `Division Fallacy = assuming the molecules have the same property as the liquid they make up.`,
+    intermediate: `Division Fallacy
 
-**What this is, in plain English**  
-Assuming that what is true for the whole is also true for each of its parts.
+Description:
+Division makes the opposite mistake.
+What is true of the whole does not automatically fit every part.
 
-**The example you’re looking at**  
-« Water is liquid. Therefore, H2O molecules are liquid. »  
+Example (water)
+Water is liquid, therefore H2O molecules are liquid
+A property of the group does not automatically describe each person inside it.
 
-**Why this is Division Fallacy**  
-Assuming that what is true for the whole is also true for each of its parts. That is what this label is pointing to in the passage above.
+Example (state of matter)
+The crowd is calm, so each person in it must be calm
+The whole can have a feature that no single part has on its own.
 
-**Takeaway**  
-Assuming that what is true for the whole is also true for each of its parts.`,
-    intermediate: `## Division Fallacy — in-depth (Intermediate)
+How it works
+The arguer slides from the big picture to the smaller pieces without justification.
+That move only works if the whole property really transfers to each part.
 
-**What this is, in plain English**  
-Assuming that what is true for the whole is also true for each of its parts.
+So:
+Whole and part are different levels of description
+A system-level fact does not always apply to each member
+You need evidence for the transfer, not just the slogan
 
-**This example**  
-« Water is liquid. Therefore, H2O molecules are liquid. »  
+Key concept inside it
+Decomposition:
+Breaking a whole into parts does not preserve every property.
+A group can have a trait that none of its members individually have.
 
-The passage shows **Division Fallacy** in action: assuming that what is true for the whole is also true for each of its parts.
+Why it matters
+Explains why:
+A wealthy country can still contain many poor citizens
+Water can be liquid even though a single molecule is not a puddle
+A heavy book does not make every page heavy in the same way
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: assuming that what is true for the whole is also true for each of its parts.
+The uncomfortable implication
+Scale changes meaning.
+What is true upstairs may not be true downstairs.
 
-- **Example 2:** Picture a family argument. People often reason as if assuming that what is true for the whole is also true for each of its parts.
+One-line version
+Division Fallacy = assuming each part has a property just because the whole does.`,
+    expert: `Division Fallacy
 
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
+Description:
+Division makes the opposite mistake.
+What is true of the whole does not automatically fit every part.
 
-**In one sentence**  
-Division Fallacy is the label for reasoning that fits: Assuming that what is true for the whole is also true for each of its parts.`,
-    expert: `## Division Fallacy — in-depth (Expert)
+Example (water)
+Water is liquid, therefore H2O molecules are liquid
+A property of the group does not automatically describe each person inside it.
 
-**Definition**  
-Assuming that what is true for the whole is also true for each of its parts.
+Example (state of matter)
+The crowd is calm, so each person in it must be calm
+The whole can have a feature that no single part has on its own.
 
-**Applied to this passage**  
-« Water is liquid. Therefore, H2O molecules are liquid. »  
+How it works
+The arguer slides from the big picture to the smaller pieces without justification.
+That move only works if the whole property really transfers to each part.
 
-Here, **Division Fallacy** is the right name because assuming that what is true for the whole is also true for each of its parts.
+So:
+Whole and part are different levels of description
+A system-level fact does not always apply to each member
+You need evidence for the transfer, not just the slogan
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: assuming that what is true for the whole is also true for each of its parts.
+Key concept inside it
+Decomposition:
+Breaking a whole into parts does not preserve every property.
+A group can have a trait that none of its members individually have.
 
-- **Example 2:** Picture a family argument. People often reason as if assuming that what is true for the whole is also true for each of its parts.
+Why it matters
+Explains why:
+A wealthy country can still contain many poor citizens
+Water can be liquid even though a single molecule is not a puddle
+A heavy book does not make every page heavy in the same way
 
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
+The uncomfortable implication
+Scale changes meaning.
+What is true upstairs may not be true downstairs.
 
-- **Example 4:** Another everyday spot: sports or business results. Assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 5:** **Setting:** a family argument. **What goes wrong:** Assuming that what is true for the whole is also true for each of its parts.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Division Fallacy** means Assuming that what is true for the whole is also true for each of its parts.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Division Fallacy = assuming each part has a property just because the whole does.`,
   },
+
   57: {
-    beginner: `## Division Fallacy — in-depth (Beginner)
+    beginner: `Division Fallacy = assuming each page shares the weight of the whole book.`,
+    intermediate: `Division Fallacy
 
-**What this is, in plain English**  
-Assuming that what is true for the whole is also true for each of its parts.
+Description:
+Division makes the opposite mistake.
+What is true of the whole does not automatically fit every part.
 
-**The example you’re looking at**  
-« This book is heavy, so every page must be heavy. »  
+Example (book)
+This book is heavy, so every page must be heavy
+A property of the group does not automatically describe each person inside it.
 
-**Why this is Division Fallacy**  
-Assuming that what is true for the whole is also true for each of its parts. That is what this label is pointing to in the passage above.
+Example (whole object)
+The wall is solid, so every brick must be solid in the same way
+The whole can have a feature that no single part has on its own.
 
-**Takeaway**  
-Assuming that what is true for the whole is also true for each of its parts.`,
-    intermediate: `## Division Fallacy — in-depth (Intermediate)
+How it works
+The arguer slides from the big picture to the smaller pieces without justification.
+That move only works if the whole property really transfers to each part.
 
-**What this is, in plain English**  
-Assuming that what is true for the whole is also true for each of its parts.
+So:
+Whole and part are different levels of description
+A system-level fact does not always apply to each member
+You need evidence for the transfer, not just the slogan
 
-**This example**  
-« This book is heavy, so every page must be heavy. »  
+Key concept inside it
+Decomposition:
+Breaking a whole into parts does not preserve every property.
+A group can have a trait that none of its members individually have.
 
-The passage shows **Division Fallacy** in action: assuming that what is true for the whole is also true for each of its parts.
+Why it matters
+Explains why:
+A wealthy country can still contain many poor citizens
+Water can be liquid even though a single molecule is not a puddle
+A heavy book does not make every page heavy in the same way
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if assuming that what is true for the whole is also true for each of its parts.
+The uncomfortable implication
+Scale changes meaning.
+What is true upstairs may not be true downstairs.
 
-- **Example 2:** In a news headline or social post, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
+One-line version
+Division Fallacy = assuming each part has a property just because the whole does.`,
+    expert: `Division Fallacy
 
-- **Example 3:** Another everyday spot: a health or habits story. Assuming that what is true for the whole is also true for each of its parts.
+Description:
+Division makes the opposite mistake.
+What is true of the whole does not automatically fit every part.
 
-**In one sentence**  
-Division Fallacy is the label for reasoning that fits: Assuming that what is true for the whole is also true for each of its parts.`,
-    expert: `## Division Fallacy — in-depth (Expert)
+Example (book)
+This book is heavy, so every page must be heavy
+A property of the group does not automatically describe each person inside it.
 
-**Definition**  
-Assuming that what is true for the whole is also true for each of its parts.
+Example (whole object)
+The wall is solid, so every brick must be solid in the same way
+The whole can have a feature that no single part has on its own.
 
-**Applied to this passage**  
-« This book is heavy, so every page must be heavy. »  
+How it works
+The arguer slides from the big picture to the smaller pieces without justification.
+That move only works if the whole property really transfers to each part.
 
-Here, **Division Fallacy** is the right name because assuming that what is true for the whole is also true for each of its parts.
+So:
+Whole and part are different levels of description
+A system-level fact does not always apply to each member
+You need evidence for the transfer, not just the slogan
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if assuming that what is true for the whole is also true for each of its parts.
+Key concept inside it
+Decomposition:
+Breaking a whole into parts does not preserve every property.
+A group can have a trait that none of its members individually have.
 
-- **Example 2:** In a news headline or social post, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
+Why it matters
+Explains why:
+A wealthy country can still contain many poor citizens
+Water can be liquid even though a single molecule is not a puddle
+A heavy book does not make every page heavy in the same way
 
-- **Example 3:** Another everyday spot: a health or habits story. Assuming that what is true for the whole is also true for each of its parts.
+The uncomfortable implication
+Scale changes meaning.
+What is true upstairs may not be true downstairs.
 
-- **Example 4:** **Setting:** school grades or test scores. **What goes wrong:** Assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 5:** Imagine a news headline or social post. The slip is the same: assuming that what is true for the whole is also true for each of its parts.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Division Fallacy** means Assuming that what is true for the whole is also true for each of its parts.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Division Fallacy = assuming each part has a property just because the whole does.`,
   },
+
   58: {
-    beginner: `## Confirmation Bias — in-depth (Beginner)
+    beginner: `Confirmation Bias = favoring evidence that agrees with what you already believe.`,
+    intermediate: `Confirmation Bias
 
-**What this is, in plain English**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Description:
+Confirmation bias is the habit of noticing the evidence that fits what you already believe and overlooking the rest.
+It can feel careful while quietly narrowing your view.
 
-**The example you’re looking at**  
-« I only watch news channels that agree with me. »  
+Example (news channels)
+I only watch news channels that agree with me
+Only hearing the side that agrees with you makes your belief feel stronger than it really is.
 
-**Why this is Confirmation Bias**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories. That is what this label is pointing to in the passage above.
+Example (information bubble)
+Filtering out the other side so agreement feels like proof
+If the contrary details are ignored, the pattern you think you see may only be half the picture.
 
-**Takeaway**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
-    intermediate: `## Confirmation Bias — in-depth (Intermediate)
+How it works
+The mind searches for support first and skepticism second.
+That makes existing beliefs feel confirmed even when the full evidence is mixed.
 
-**What this is, in plain English**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+So:
+Agreeable evidence is easy to overvalue
+Unfriendly evidence is easy to ignore
+A real check has to look for disconfirmation too
 
-**This example**  
-« I only watch news channels that agree with me. »  
+Key concept inside it
+Selective attention:
+We do not take in every fact equally.
+What matches the story stands out more, and that can distort judgment.
 
-The passage shows **Confirmation Bias** in action: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Why it matters
+Explains why:
+People can live in different information bubbles
+Two people can read the same data and notice only the parts they prefer
+Arguments harden when nobody asks what would prove them wrong
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+The uncomfortable implication
+You can mistake comfort for truth.
+If you only listen for agreement, you will think you are right for the wrong reason.
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+One-line version
+Confirmation Bias = favoring evidence that agrees with what you already believe.`,
+    expert: `Confirmation Bias
 
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Description:
+Confirmation bias is the habit of noticing the evidence that fits what you already believe and overlooking the rest.
+It can feel careful while quietly narrowing your view.
 
-**In one sentence**  
-Confirmation Bias is the label for reasoning that fits: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
-    expert: `## Confirmation Bias — in-depth (Expert)
+Example (news channels)
+I only watch news channels that agree with me
+Only hearing the side that agrees with you makes your belief feel stronger than it really is.
 
-**Definition**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Example (information bubble)
+Filtering out the other side so agreement feels like proof
+If the contrary details are ignored, the pattern you think you see may only be half the picture.
 
-**Applied to this passage**  
-« I only watch news channels that agree with me. »  
+How it works
+The mind searches for support first and skepticism second.
+That makes existing beliefs feel confirmed even when the full evidence is mixed.
 
-Here, **Confirmation Bias** is the right name because the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+So:
+Agreeable evidence is easy to overvalue
+Unfriendly evidence is easy to ignore
+A real check has to look for disconfirmation too
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Key concept inside it
+Selective attention:
+We do not take in every fact equally.
+What matches the story stands out more, and that can distort judgment.
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Why it matters
+Explains why:
+People can live in different information bubbles
+Two people can read the same data and notice only the parts they prefer
+Arguments harden when nobody asks what would prove them wrong
 
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+The uncomfortable implication
+You can mistake comfort for truth.
+If you only listen for agreement, you will think you are right for the wrong reason.
 
-- **Example 4:** Imagine a family argument. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 5:** Picture a policy or workplace discussion. People often reason as if the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Confirmation Bias** means The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Confirmation Bias = favoring evidence that agrees with what you already believe.`,
   },
+
   59: {
-    beginner: `## Confirmation Bias — in-depth (Beginner)
+    beginner: `Confirmation Bias = treating selective evidence as if it proved the pattern.`,
+    intermediate: `Confirmation Bias
 
-**What this is, in plain English**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Description:
+Confirmation bias is the habit of noticing the evidence that fits what you already believe and overlooking the rest.
+It can feel careful while quietly narrowing your view.
 
-**The example you’re looking at**  
-« See? I told you red cars get more tickets (ignoring all the blue cars speeding). »  
+Example (traffic tickets)
+See? I told you red cars get more tickets, while ignoring all the blue cars speeding
+Only hearing the side that agrees with you makes your belief feel stronger than it really is.
 
-**Why this is Confirmation Bias**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories. That is what this label is pointing to in the passage above.
+Example (selective memory)
+Remembering the hits and forgetting the misses
+If the contrary details are ignored, the pattern you think you see may only be half the picture.
 
-**Takeaway**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
-    intermediate: `## Confirmation Bias — in-depth (Intermediate)
+How it works
+The mind searches for support first and skepticism second.
+That makes existing beliefs feel confirmed even when the full evidence is mixed.
 
-**What this is, in plain English**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+So:
+Agreeable evidence is easy to overvalue
+Unfriendly evidence is easy to ignore
+A real check has to look for disconfirmation too
 
-**This example**  
-« See? I told you red cars get more tickets (ignoring all the blue cars speeding). »  
+Key concept inside it
+Selective attention:
+We do not take in every fact equally.
+What matches the story stands out more, and that can distort judgment.
 
-The passage shows **Confirmation Bias** in action: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Why it matters
+Explains why:
+People can live in different information bubbles
+Two people can read the same data and notice only the parts they prefer
+Arguments harden when nobody asks what would prove them wrong
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+The uncomfortable implication
+You can mistake comfort for truth.
+If you only listen for agreement, you will think you are right for the wrong reason.
 
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+One-line version
+Confirmation Bias = favoring evidence that agrees with what you already believe.`,
+    expert: `Confirmation Bias
 
-- **Example 3:** Imagine school grades or test scores. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Description:
+Confirmation bias is the habit of noticing the evidence that fits what you already believe and overlooking the rest.
+It can feel careful while quietly narrowing your view.
 
-**In one sentence**  
-Confirmation Bias is the label for reasoning that fits: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
-    expert: `## Confirmation Bias — in-depth (Expert)
+Example (traffic tickets)
+See? I told you red cars get more tickets, while ignoring all the blue cars speeding
+Only hearing the side that agrees with you makes your belief feel stronger than it really is.
 
-**Definition**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Example (selective memory)
+Remembering the hits and forgetting the misses
+If the contrary details are ignored, the pattern you think you see may only be half the picture.
 
-**Applied to this passage**  
-« See? I told you red cars get more tickets (ignoring all the blue cars speeding). »  
+How it works
+The mind searches for support first and skepticism second.
+That makes existing beliefs feel confirmed even when the full evidence is mixed.
 
-Here, **Confirmation Bias** is the right name because the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+So:
+Agreeable evidence is easy to overvalue
+Unfriendly evidence is easy to ignore
+A real check has to look for disconfirmation too
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Key concept inside it
+Selective attention:
+We do not take in every fact equally.
+What matches the story stands out more, and that can distort judgment.
 
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Why it matters
+Explains why:
+People can live in different information bubbles
+Two people can read the same data and notice only the parts they prefer
+Arguments harden when nobody asks what would prove them wrong
 
-- **Example 3:** Imagine school grades or test scores. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+The uncomfortable implication
+You can mistake comfort for truth.
+If you only listen for agreement, you will think you are right for the wrong reason.
 
-- **Example 4:** Picture a news headline or social post. People often reason as if the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 5:** In a health or habits story, watch for this pattern: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Confirmation Bias** means The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Confirmation Bias = favoring evidence that agrees with what you already believe.`,
   },
+
   60: {
-    beginner: `## Confirmation Bias — in-depth (Beginner)
+    beginner: `Confirmation Bias = reading ambiguous evidence to support your prior belief.`,
+    intermediate: `Confirmation Bias
 
-**What this is, in plain English**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Description:
+Confirmation bias is the habit of noticing the evidence that fits what you already believe and overlooking the rest.
+It can feel careful while quietly narrowing your view.
 
-**The example you’re looking at**  
-« Interpreting ambiguous evidence to support preconceived notions. »  
+Example (ambiguous evidence)
+Interpreting ambiguous evidence to support preconceived notions
+Only hearing the side that agrees with you makes your belief feel stronger than it really is.
 
-**Why this is Confirmation Bias**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories. That is what this label is pointing to in the passage above.
+Example (prior belief)
+Turning a vague clue into confirmation because it fits the story you already had
+If the contrary details are ignored, the pattern you think you see may only be half the picture.
 
-**Takeaway**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
-    intermediate: `## Confirmation Bias — in-depth (Intermediate)
+How it works
+The mind searches for support first and skepticism second.
+That makes existing beliefs feel confirmed even when the full evidence is mixed.
 
-**What this is, in plain English**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+So:
+Agreeable evidence is easy to overvalue
+Unfriendly evidence is easy to ignore
+A real check has to look for disconfirmation too
 
-**This example**  
-« Interpreting ambiguous evidence to support preconceived notions. »  
+Key concept inside it
+Selective attention:
+We do not take in every fact equally.
+What matches the story stands out more, and that can distort judgment.
 
-The passage shows **Confirmation Bias** in action: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Why it matters
+Explains why:
+People can live in different information bubbles
+Two people can read the same data and notice only the parts they prefer
+Arguments harden when nobody asks what would prove them wrong
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+The uncomfortable implication
+You can mistake comfort for truth.
+If you only listen for agreement, you will think you are right for the wrong reason.
 
-- **Example 2:** Imagine sports or business results. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+One-line version
+Confirmation Bias = favoring evidence that agrees with what you already believe.`,
+    expert: `Confirmation Bias
 
-- **Example 3:** Picture a family argument. People often reason as if the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Description:
+Confirmation bias is the habit of noticing the evidence that fits what you already believe and overlooking the rest.
+It can feel careful while quietly narrowing your view.
 
-**In one sentence**  
-Confirmation Bias is the label for reasoning that fits: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
-    expert: `## Confirmation Bias — in-depth (Expert)
+Example (ambiguous evidence)
+Interpreting ambiguous evidence to support preconceived notions
+Only hearing the side that agrees with you makes your belief feel stronger than it really is.
 
-**Definition**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Example (prior belief)
+Turning a vague clue into confirmation because it fits the story you already had
+If the contrary details are ignored, the pattern you think you see may only be half the picture.
 
-**Applied to this passage**  
-« Interpreting ambiguous evidence to support preconceived notions. »  
+How it works
+The mind searches for support first and skepticism second.
+That makes existing beliefs feel confirmed even when the full evidence is mixed.
 
-Here, **Confirmation Bias** is the right name because the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+So:
+Agreeable evidence is easy to overvalue
+Unfriendly evidence is easy to ignore
+A real check has to look for disconfirmation too
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Key concept inside it
+Selective attention:
+We do not take in every fact equally.
+What matches the story stands out more, and that can distort judgment.
 
-- **Example 2:** Imagine sports or business results. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Why it matters
+Explains why:
+People can live in different information bubbles
+Two people can read the same data and notice only the parts they prefer
+Arguments harden when nobody asks what would prove them wrong
 
-- **Example 3:** Picture a family argument. People often reason as if the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+The uncomfortable implication
+You can mistake comfort for truth.
+If you only listen for agreement, you will think you are right for the wrong reason.
 
-- **Example 4:** In a policy or workplace discussion, watch for this pattern: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 5:** Another everyday spot: sports or business results. The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Confirmation Bias** means The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Confirmation Bias = favoring evidence that agrees with what you already believe.`,
   },
+
   61: {
     beginner: `## Continuum Fallacy — in-depth (Beginner)
 
@@ -5688,3785 +7062,5165 @@ Logical Fallacies`,
 /** French — même contrat (parité structurale avec l’anglais) */
 export const LEVEL_1_STANDALONE_FR: Partial<Record<number, StandaloneInDepthLevels>> = {
   1: {
-    beginner: `## Ad Hominem — approfondi (Débutant)
+    beginner: `Ad Hominem = attaquer la personne plutôt que son argument.`,
+    intermediate: `Ad Hominem
 
-**En termes simples**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Description :
+Au lieu de réfuter l'argument, on attaque la personne qui le formule.
+L'argument lui-même n'est jamais examiné.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.". »  
+Exemple (débat politique)
+« Tu ne peux pas croire ce que dit Jacques sur l'économie — il n'a même pas de travail. »
+La situation professionnelle de Jacques ne dit rien sur la validité de son analyse.
+L'argument économique n'est jamais réfuté.
 
-**Pourquoi c’est bien Ad Hominem**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (débat scientifique)
+« Pourquoi l'écouterais-je sur le climate change ? Elle roule en SUV. »
+Le mode de vie personnel n'a aucune incidence sur la valeur des données scientifiques.
+L'attaque évite soigneusement le fond.
 
-**À retenir**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.`,
-    intermediate: `## Ad Hominem — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'attaquant déplace l'attention de la thèse vers l'émetteur.
+C'est une diversion — une personne imparfaite peut tout à fait avoir raison.
 
-**En termes simples**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Donc :
+Les défauts de caractère ne réfutent pas les arguments
+Le style de vie ne réfute pas les arguments
+Le contenu d'un argument doit être jugé pour ce qu'il est
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.". »  
+Concept clé
+Pertinence :
+Une prémisse doit être logiquement liée à la conclusion.
+Le caractère de l'orateur est sans rapport avec la vérité de ce qu'il affirme.
 
-Le passage montre **Ad Hominem** : attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats politiques se focalisent sur les scandales plutôt que les politiques
+Les attaques sur les réseaux visent les messagers, pas les messages
+Des experts sont écartés selon qui les finance, peu importe leurs conclusions
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+L'implication inconfortable
+On peut avoir tort et raison en même temps.
+Une personne corrompue peut tout de même formuler un argument correct.
 
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+En une phrase
+Ad Hominem = attaquer la personne plutôt que son argument.`,
+    expert: `Ad Hominem
 
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Description :
+Au lieu de réfuter l'argument, on attaque la personne qui le formule.
+L'argument lui-même n'est jamais examiné.
 
-**En une phrase**  
-**Ad Hominem**, c’est quand le raisonnement correspond à : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.`,
-    expert: `## Ad Hominem — approfondi (Expert)
+Exemple (débat politique)
+« Tu ne peux pas croire ce que dit Jacques sur l'économie — il n'a même pas de travail. »
+La situation professionnelle de Jacques ne dit rien sur la validité de son analyse.
+L'argument économique n'est jamais réfuté.
 
-**Définition**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Exemple (débat scientifique)
+« Pourquoi l'écouterais-je sur le climate change ? Elle roule en SUV. »
+Le mode de vie personnel n'a aucune incidence sur la valeur des données scientifiques.
+L'attaque évite soigneusement le fond.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.". »  
+Comment ça fonctionne
+L'attaquant déplace l'attention de la thèse vers l'émetteur.
+C'est une diversion — une personne imparfaite peut tout à fait avoir raison.
 
-Ici, **Ad Hominem** convient parce que attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Donc :
+Les défauts de caractère ne réfutent pas les arguments
+Le style de vie ne réfute pas les arguments
+Le contenu d'un argument doit être jugé pour ce qu'il est
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Concept clé
+Pertinence :
+Une prémisse doit être logiquement liée à la conclusion.
+Le caractère de l'orateur est sans rapport avec la vérité de ce qu'il affirme.
 
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats politiques se focalisent sur les scandales plutôt que les politiques
+Les attaques sur les réseaux visent les messagers, pas les messages
+Des experts sont écartés selon qui les finance, peu importe leurs conclusions
 
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+L'implication inconfortable
+On peut avoir tort et raison en même temps.
+Une personne corrompue peut tout de même formuler un argument correct.
 
-- **Exemple 4 :** Autre situation courante : un récit sur la santé ou les habitudes. Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
-
-- **Exemple 5 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ad Hominem**, c’est Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Ad Hominem = attaquer la personne plutôt que son argument.`,
   },
   2: {
-    beginner: `## Ad Hominem — approfondi (Débutant)
+    beginner: `Ad Hominem = attaquer la personne plutôt que son argument.`,
+    intermediate: `Ad Hominem
 
-**En termes simples**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Description :
+Au lieu de réfuter l'argument, on attaque la personne qui le formule.
+L'argument lui-même n'est jamais examiné.
 
-**L’exemple affiché**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Exemple (débat politique)
+« Tu ne peux pas croire ce que dit Jacques sur l'économie — il n'a même pas de travail. »
+La situation professionnelle de Jacques ne dit rien sur la validité de son analyse.
+L'argument économique n'est jamais réfuté.
 
-**Pourquoi c’est bien Ad Hominem**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (débat scientifique)
+« Pourquoi l'écouterais-je sur le climate change ? Elle roule en SUV. »
+Le mode de vie personnel n'a aucune incidence sur la valeur des données scientifiques.
+L'attaque évite soigneusement le fond.
 
-**À retenir**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.`,
-    intermediate: `## Ad Hominem — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'attaquant déplace l'attention de la thèse vers l'émetteur.
+C'est une diversion — une personne imparfaite peut tout à fait avoir raison.
 
-**En termes simples**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Donc :
+Les défauts de caractère ne réfutent pas les arguments
+Le style de vie ne réfute pas les arguments
+Le contenu d'un argument doit être jugé pour ce qu'il est
 
-**Cet exemple**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Concept clé
+Pertinence :
+Une prémisse doit être logiquement liée à la conclusion.
+Le caractère de l'orateur est sans rapport avec la vérité de ce qu'il affirme.
 
-Le passage montre **Ad Hominem** : attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats politiques se focalisent sur les scandales plutôt que les politiques
+Les attaques sur les réseaux visent les messagers, pas les messages
+Des experts sont écartés selon qui les finance, peu importe leurs conclusions
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+L'implication inconfortable
+On peut avoir tort et raison en même temps.
+Une personne corrompue peut tout de même formuler un argument correct.
 
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+En une phrase
+Ad Hominem = attaquer la personne plutôt que son argument.`,
+    expert: `Ad Hominem
 
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Description :
+Au lieu de réfuter l'argument, on attaque la personne qui le formule.
+L'argument lui-même n'est jamais examiné.
 
-**En une phrase**  
-**Ad Hominem**, c’est quand le raisonnement correspond à : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.`,
-    expert: `## Ad Hominem — approfondi (Expert)
+Exemple (débat politique)
+« Tu ne peux pas croire ce que dit Jacques sur l'économie — il n'a même pas de travail. »
+La situation professionnelle de Jacques ne dit rien sur la validité de son analyse.
+L'argument économique n'est jamais réfuté.
 
-**Définition**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Exemple (débat scientifique)
+« Pourquoi l'écouterais-je sur le climate change ? Elle roule en SUV. »
+Le mode de vie personnel n'a aucune incidence sur la valeur des données scientifiques.
+L'attaque évite soigneusement le fond.
 
-**Appliqué à ce passage**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Comment ça fonctionne
+L'attaquant déplace l'attention de la thèse vers l'émetteur.
+C'est une diversion — une personne imparfaite peut tout à fait avoir raison.
 
-Ici, **Ad Hominem** convient parce que attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Donc :
+Les défauts de caractère ne réfutent pas les arguments
+Le style de vie ne réfute pas les arguments
+Le contenu d'un argument doit être jugé pour ce qu'il est
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Concept clé
+Pertinence :
+Une prémisse doit être logiquement liée à la conclusion.
+Le caractère de l'orateur est sans rapport avec la vérité de ce qu'il affirme.
 
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats politiques se focalisent sur les scandales plutôt que les politiques
+Les attaques sur les réseaux visent les messagers, pas les messages
+Des experts sont écartés selon qui les finance, peu importe leurs conclusions
 
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+L'implication inconfortable
+On peut avoir tort et raison en même temps.
+Une personne corrompue peut tout de même formuler un argument correct.
 
-- **Exemple 4 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
-
-- **Exemple 5 :** Imaginez une discussion en famille. C’est la même erreur : attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ad Hominem**, c’est Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Ad Hominem = attaquer la personne plutôt que son argument.`,
   },
   3: {
-    beginner: `## Ad Hominem — approfondi (Débutant)
+    beginner: `Ad Hominem = attaquer la personne plutôt que son argument.`,
+    intermediate: `Ad Hominem
 
-**En termes simples**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Description :
+Au lieu de réfuter l'argument, on attaque la personne qui le formule.
+L'argument lui-même n'est jamais examiné.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.". »  
+Exemple (débat politique)
+« Tu ne peux pas croire ce que dit Jacques sur l'économie — il n'a même pas de travail. »
+La situation professionnelle de Jacques ne dit rien sur la validité de son analyse.
+L'argument économique n'est jamais réfuté.
 
-**Pourquoi c’est bien Ad Hominem**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (débat scientifique)
+« Pourquoi l'écouterais-je sur le climate change ? Elle roule en SUV. »
+Le mode de vie personnel n'a aucune incidence sur la valeur des données scientifiques.
+L'attaque évite soigneusement le fond.
 
-**À retenir**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.`,
-    intermediate: `## Ad Hominem — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'attaquant déplace l'attention de la thèse vers l'émetteur.
+C'est une diversion — une personne imparfaite peut tout à fait avoir raison.
 
-**En termes simples**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Donc :
+Les défauts de caractère ne réfutent pas les arguments
+Le style de vie ne réfute pas les arguments
+Le contenu d'un argument doit être jugé pour ce qu'il est
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.". »  
+Concept clé
+Pertinence :
+Une prémisse doit être logiquement liée à la conclusion.
+Le caractère de l'orateur est sans rapport avec la vérité de ce qu'il affirme.
 
-Le passage montre **Ad Hominem** : attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats politiques se focalisent sur les scandales plutôt que les politiques
+Les attaques sur les réseaux visent les messagers, pas les messages
+Des experts sont écartés selon qui les finance, peu importe leurs conclusions
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+L'implication inconfortable
+On peut avoir tort et raison en même temps.
+Une personne corrompue peut tout de même formuler un argument correct.
 
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+En une phrase
+Ad Hominem = attaquer la personne plutôt que son argument.`,
+    expert: `Ad Hominem
 
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Description :
+Au lieu de réfuter l'argument, on attaque la personne qui le formule.
+L'argument lui-même n'est jamais examiné.
 
-**En une phrase**  
-**Ad Hominem**, c’est quand le raisonnement correspond à : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.`,
-    expert: `## Ad Hominem — approfondi (Expert)
+Exemple (débat politique)
+« Tu ne peux pas croire ce que dit Jacques sur l'économie — il n'a même pas de travail. »
+La situation professionnelle de Jacques ne dit rien sur la validité de son analyse.
+L'argument économique n'est jamais réfuté.
 
-**Définition**  
-Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Exemple (débat scientifique)
+« Pourquoi l'écouterais-je sur le climate change ? Elle roule en SUV. »
+Le mode de vie personnel n'a aucune incidence sur la valeur des données scientifiques.
+L'attaque évite soigneusement le fond.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.". »  
+Comment ça fonctionne
+L'attaquant déplace l'attention de la thèse vers l'émetteur.
+C'est une diversion — une personne imparfaite peut tout à fait avoir raison.
 
-Ici, **Ad Hominem** convient parce que attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Donc :
+Les défauts de caractère ne réfutent pas les arguments
+Le style de vie ne réfute pas les arguments
+Le contenu d'un argument doit être jugé pour ce qu'il est
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Concept clé
+Pertinence :
+Une prémisse doit être logiquement liée à la conclusion.
+Le caractère de l'orateur est sans rapport avec la vérité de ce qu'il affirme.
 
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats politiques se focalisent sur les scandales plutôt que les politiques
+Les attaques sur les réseaux visent les messagers, pas les messages
+Des experts sont écartés selon qui les finance, peu importe leurs conclusions
 
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
+L'implication inconfortable
+On peut avoir tort et raison en même temps.
+Une personne corrompue peut tout de même formuler un argument correct.
 
-- **Exemple 4 :** Imaginez des notes ou examens. C’est la même erreur : attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
-
-- **Exemple 5 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ad Hominem**, c’est Attaquer le caractère ou les traits personnels de l'adversaire au lieu de répondre à son argument réel.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Ad Hominem = attaquer la personne plutôt que son argument.`,
   },
   4: {
-    beginner: `## Abusive Ad Hominem — approfondi (Débutant)
+    beginner: `Ad Hominem Abusif = insulter directement l'adversaire pour éviter d'avoir à réfuter son argument.`,
+    intermediate: `Ad Hominem Abusif
 
-**En termes simples**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Description :
+Insulter directement l'adversaire pour discréditer son point de vue — sans jamais toucher à la logique.
+L'injure remplace le raisonnement.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.". »  
+Exemple (débat académique)
+« Tu n'es qu'un idiot, comment pourrais-tu avoir raison sur quoi que ce soit ? »
+L'intelligence supposée de l'adversaire est sans rapport avec la validité de son argument.
+Aucune idée n'est réfutée — seulement la personne est blessée.
 
-**Pourquoi c’est bien Abusive Ad Hominem**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (discussion en ligne)
+« Quelqu'un d'aussi ignorant que toi ne devrait pas parler de science. »
+L'insulte tente de délégitimer l'interlocuteur avant même d'examiner ce qu'il dit.
+C'est une forme d'intimidation, pas de logique.
 
-**À retenir**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.`,
-    intermediate: `## Abusive Ad Hominem — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'attaque vise à faire taire, honte ou décrédibiliser — pas à réfuter.
+Si l'insulte fonctionne, la discussion se termine avant d'avoir commencé.
 
-**En termes simples**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Donc :
+Les insultes ne prouvent rien
+La valeur d'un argument ne dépend pas du statut social de son auteur
+L'ad hominem abusif est souvent le signe d'une faiblesse argumentative
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.". »  
+Concept clé
+Attaque personnelle directe :
+Contrairement à l'ad hominem circonstanciel (qui invoque un conflit d'intérêt),
+l'ad hominem abusif vise directement la personne elle-même.
 
-Le passage montre **Abusive Ad Hominem** : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Pourquoi c'est important
+Explique pourquoi :
+Les trolls utilisent l'insulte pour mettre fin aux débats gênants
+Les politiciens disqualifient leurs opposants plutôt que leurs arguments
+Le harcèlement en ligne empêche souvent les personnes compétentes de s'exprimer
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+L'implication inconfortable
+Même un fou peut parfois avoir raison.
+L'insulte ne change pas la vérité — elle change juste qui ose parler.
 
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+En une phrase
+Ad Hominem Abusif = insulter directement l'adversaire pour éviter d'avoir à réfuter son argument.`,
+    expert: `Ad Hominem Abusif
 
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Description :
+Insulter directement l'adversaire pour discréditer son point de vue — sans jamais toucher à la logique.
+L'injure remplace le raisonnement.
 
-**En une phrase**  
-**Abusive Ad Hominem**, c’est quand le raisonnement correspond à : Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.`,
-    expert: `## Abusive Ad Hominem — approfondi (Expert)
+Exemple (débat académique)
+« Tu n'es qu'un idiot, comment pourrais-tu avoir raison sur quoi que ce soit ? »
+L'intelligence supposée de l'adversaire est sans rapport avec la validité de son argument.
+Aucune idée n'est réfutée — seulement la personne est blessée.
 
-**Définition**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Exemple (discussion en ligne)
+« Quelqu'un d'aussi ignorant que toi ne devrait pas parler de science. »
+L'insulte tente de délégitimer l'interlocuteur avant même d'examiner ce qu'il dit.
+C'est une forme d'intimidation, pas de logique.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.". »  
+Comment ça fonctionne
+L'attaque vise à faire taire, honte ou décrédibiliser — pas à réfuter.
+Si l'insulte fonctionne, la discussion se termine avant d'avoir commencé.
 
-Ici, **Abusive Ad Hominem** convient parce que insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Donc :
+Les insultes ne prouvent rien
+La valeur d'un argument ne dépend pas du statut social de son auteur
+L'ad hominem abusif est souvent le signe d'une faiblesse argumentative
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Concept clé
+Attaque personnelle directe :
+Contrairement à l'ad hominem circonstanciel (qui invoque un conflit d'intérêt),
+l'ad hominem abusif vise directement la personne elle-même.
 
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Pourquoi c'est important
+Explique pourquoi :
+Les trolls utilisent l'insulte pour mettre fin aux débats gênants
+Les politiciens disqualifient leurs opposants plutôt que leurs arguments
+Le harcèlement en ligne empêche souvent les personnes compétentes de s'exprimer
 
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+L'implication inconfortable
+Même un fou peut parfois avoir raison.
+L'insulte ne change pas la vérité — elle change juste qui ose parler.
 
-- **Exemple 4 :** Pensez à une discussion en famille. Souvent, on raisonne comme si insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
-
-- **Exemple 5 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Abusive Ad Hominem**, c’est Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Ad Hominem Abusif = insulter directement l'adversaire pour éviter d'avoir à réfuter son argument.`,
   },
   5: {
-    beginner: `## Abusive Ad Hominem — approfondi (Débutant)
+    beginner: `Ad Hominem Abusif = insulter directement l'adversaire pour éviter d'avoir à réfuter son argument.`,
+    intermediate: `Ad Hominem Abusif
 
-**En termes simples**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Description :
+Insulter directement l'adversaire pour discréditer son point de vue — sans jamais toucher à la logique.
+L'injure remplace le raisonnement.
 
-**L’exemple affiché**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Exemple (débat académique)
+« Tu n'es qu'un idiot, comment pourrais-tu avoir raison sur quoi que ce soit ? »
+L'intelligence supposée de l'adversaire est sans rapport avec la validité de son argument.
+Aucune idée n'est réfutée — seulement la personne est blessée.
 
-**Pourquoi c’est bien Abusive Ad Hominem**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (discussion en ligne)
+« Quelqu'un d'aussi ignorant que toi ne devrait pas parler de science. »
+L'insulte tente de délégitimer l'interlocuteur avant même d'examiner ce qu'il dit.
+C'est une forme d'intimidation, pas de logique.
 
-**À retenir**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.`,
-    intermediate: `## Abusive Ad Hominem — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'attaque vise à faire taire, honte ou décrédibiliser — pas à réfuter.
+Si l'insulte fonctionne, la discussion se termine avant d'avoir commencé.
 
-**En termes simples**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Donc :
+Les insultes ne prouvent rien
+La valeur d'un argument ne dépend pas du statut social de son auteur
+L'ad hominem abusif est souvent le signe d'une faiblesse argumentative
 
-**Cet exemple**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Concept clé
+Attaque personnelle directe :
+Contrairement à l'ad hominem circonstanciel (qui invoque un conflit d'intérêt),
+l'ad hominem abusif vise directement la personne elle-même.
 
-Le passage montre **Abusive Ad Hominem** : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Pourquoi c'est important
+Explique pourquoi :
+Les trolls utilisent l'insulte pour mettre fin aux débats gênants
+Les politiciens disqualifient leurs opposants plutôt que leurs arguments
+Le harcèlement en ligne empêche souvent les personnes compétentes de s'exprimer
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+L'implication inconfortable
+Même un fou peut parfois avoir raison.
+L'insulte ne change pas la vérité — elle change juste qui ose parler.
 
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+En une phrase
+Ad Hominem Abusif = insulter directement l'adversaire pour éviter d'avoir à réfuter son argument.`,
+    expert: `Ad Hominem Abusif
 
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Description :
+Insulter directement l'adversaire pour discréditer son point de vue — sans jamais toucher à la logique.
+L'injure remplace le raisonnement.
 
-**En une phrase**  
-**Abusive Ad Hominem**, c’est quand le raisonnement correspond à : Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.`,
-    expert: `## Abusive Ad Hominem — approfondi (Expert)
+Exemple (débat académique)
+« Tu n'es qu'un idiot, comment pourrais-tu avoir raison sur quoi que ce soit ? »
+L'intelligence supposée de l'adversaire est sans rapport avec la validité de son argument.
+Aucune idée n'est réfutée — seulement la personne est blessée.
 
-**Définition**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Exemple (discussion en ligne)
+« Quelqu'un d'aussi ignorant que toi ne devrait pas parler de science. »
+L'insulte tente de délégitimer l'interlocuteur avant même d'examiner ce qu'il dit.
+C'est une forme d'intimidation, pas de logique.
 
-**Appliqué à ce passage**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Comment ça fonctionne
+L'attaque vise à faire taire, honte ou décrédibiliser — pas à réfuter.
+Si l'insulte fonctionne, la discussion se termine avant d'avoir commencé.
 
-Ici, **Abusive Ad Hominem** convient parce que insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Donc :
+Les insultes ne prouvent rien
+La valeur d'un argument ne dépend pas du statut social de son auteur
+L'ad hominem abusif est souvent le signe d'une faiblesse argumentative
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Concept clé
+Attaque personnelle directe :
+Contrairement à l'ad hominem circonstanciel (qui invoque un conflit d'intérêt),
+l'ad hominem abusif vise directement la personne elle-même.
 
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Pourquoi c'est important
+Explique pourquoi :
+Les trolls utilisent l'insulte pour mettre fin aux débats gênants
+Les politiciens disqualifient leurs opposants plutôt que leurs arguments
+Le harcèlement en ligne empêche souvent les personnes compétentes de s'exprimer
 
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+L'implication inconfortable
+Même un fou peut parfois avoir raison.
+L'insulte ne change pas la vérité — elle change juste qui ose parler.
 
-- **Exemple 4 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
-
-- **Exemple 5 :** Autre situation courante : un récit sur la santé ou les habitudes. Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Abusive Ad Hominem**, c’est Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Ad Hominem Abusif = insulter directement l'adversaire pour éviter d'avoir à réfuter son argument.`,
   },
   6: {
-    beginner: `## Abusive Ad Hominem — approfondi (Débutant)
+    beginner: `Ad Hominem Abusif = insulter directement l'adversaire pour éviter d'avoir à réfuter son argument.`,
+    intermediate: `Ad Hominem Abusif
 
-**En termes simples**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Description :
+Insulter directement l'adversaire pour discréditer son point de vue — sans jamais toucher à la logique.
+L'injure remplace le raisonnement.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.". »  
+Exemple (débat académique)
+« Tu n'es qu'un idiot, comment pourrais-tu avoir raison sur quoi que ce soit ? »
+L'intelligence supposée de l'adversaire est sans rapport avec la validité de son argument.
+Aucune idée n'est réfutée — seulement la personne est blessée.
 
-**Pourquoi c’est bien Abusive Ad Hominem**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (discussion en ligne)
+« Quelqu'un d'aussi ignorant que toi ne devrait pas parler de science. »
+L'insulte tente de délégitimer l'interlocuteur avant même d'examiner ce qu'il dit.
+C'est une forme d'intimidation, pas de logique.
 
-**À retenir**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.`,
-    intermediate: `## Abusive Ad Hominem — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'attaque vise à faire taire, honte ou décrédibiliser — pas à réfuter.
+Si l'insulte fonctionne, la discussion se termine avant d'avoir commencé.
 
-**En termes simples**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Donc :
+Les insultes ne prouvent rien
+La valeur d'un argument ne dépend pas du statut social de son auteur
+L'ad hominem abusif est souvent le signe d'une faiblesse argumentative
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.". »  
+Concept clé
+Attaque personnelle directe :
+Contrairement à l'ad hominem circonstanciel (qui invoque un conflit d'intérêt),
+l'ad hominem abusif vise directement la personne elle-même.
 
-Le passage montre **Abusive Ad Hominem** : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Pourquoi c'est important
+Explique pourquoi :
+Les trolls utilisent l'insulte pour mettre fin aux débats gênants
+Les politiciens disqualifient leurs opposants plutôt que leurs arguments
+Le harcèlement en ligne empêche souvent les personnes compétentes de s'exprimer
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+L'implication inconfortable
+Même un fou peut parfois avoir raison.
+L'insulte ne change pas la vérité — elle change juste qui ose parler.
 
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+En une phrase
+Ad Hominem Abusif = insulter directement l'adversaire pour éviter d'avoir à réfuter son argument.`,
+    expert: `Ad Hominem Abusif
 
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Description :
+Insulter directement l'adversaire pour discréditer son point de vue — sans jamais toucher à la logique.
+L'injure remplace le raisonnement.
 
-**En une phrase**  
-**Abusive Ad Hominem**, c’est quand le raisonnement correspond à : Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.`,
-    expert: `## Abusive Ad Hominem — approfondi (Expert)
+Exemple (débat académique)
+« Tu n'es qu'un idiot, comment pourrais-tu avoir raison sur quoi que ce soit ? »
+L'intelligence supposée de l'adversaire est sans rapport avec la validité de son argument.
+Aucune idée n'est réfutée — seulement la personne est blessée.
 
-**Définition**  
-Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Exemple (discussion en ligne)
+« Quelqu'un d'aussi ignorant que toi ne devrait pas parler de science. »
+L'insulte tente de délégitimer l'interlocuteur avant même d'examiner ce qu'il dit.
+C'est une forme d'intimidation, pas de logique.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.". »  
+Comment ça fonctionne
+L'attaque vise à faire taire, honte ou décrédibiliser — pas à réfuter.
+Si l'insulte fonctionne, la discussion se termine avant d'avoir commencé.
 
-Ici, **Abusive Ad Hominem** convient parce que insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Donc :
+Les insultes ne prouvent rien
+La valeur d'un argument ne dépend pas du statut social de son auteur
+L'ad hominem abusif est souvent le signe d'une faiblesse argumentative
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Concept clé
+Attaque personnelle directe :
+Contrairement à l'ad hominem circonstanciel (qui invoque un conflit d'intérêt),
+l'ad hominem abusif vise directement la personne elle-même.
 
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+Pourquoi c'est important
+Explique pourquoi :
+Les trolls utilisent l'insulte pour mettre fin aux débats gênants
+Les politiciens disqualifient leurs opposants plutôt que leurs arguments
+Le harcèlement en ligne empêche souvent les personnes compétentes de s'exprimer
 
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
+L'implication inconfortable
+Même un fou peut parfois avoir raison.
+L'insulte ne change pas la vérité — elle change juste qui ose parler.
 
-- **Exemple 4 :** Autre situation courante : un débat sur une politique ou au travail. Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
-
-- **Exemple 5 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Abusive Ad Hominem**, c’est Insulter directement l'adversaire pour discréditer son point de vue sans tenir compte de la logique.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Ad Hominem Abusif = insulter directement l'adversaire pour éviter d'avoir à réfuter son argument.`,
   },
   7: {
-    beginner: `## Circumstantial Ad Hominem — approfondi (Débutant)
+    beginner: `Ad Hominem Circonstanciel = discréditer quelqu'un à cause de sa situation personnelle, sans réfuter son argument.`,
+    intermediate: `Ad Hominem Circonstanciel
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Description :
+Discréditer quelqu'un en invoquant sa situation personnelle ou ses intérêts — plutôt qu'en réfutant son argument.
+Le conflit d'intérêt supposé remplace la réfutation.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (conflit d'intérêt)
+« Bien sûr qu'il défend les énergies fossiles — il est PDG d'une compagnie pétrolière. »
+La position professionnelle peut signaler un biais — mais elle ne prouve pas que l'argument est faux.
+Il faut examiner les données, pas seulement la source.
 
-**Pourquoi c’est bien Circumstantial Ad Hominem**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (contexte personnel)
+« Elle dit que le divorce est parfois nécessaire — mais elle vient de se séparer. »
+Son vécu personnel peut colorer son point de vue, mais ne le rend pas automatiquement incorrect.
+La vérité d'une affirmation ne dépend pas de la vie de celui qui la formule.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.`,
-    intermediate: `## Circumstantial Ad Hominem — approfondi (Intermédiaire)
+Comment ça fonctionne
+On laisse entendre : « Tu as intérêt à dire ça » — et l'auditeur tire lui-même la conclusion que l'argument est faux.
+C'est une insinuation, pas une réfutation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Donc :
+Un biais possible ne prouve pas une erreur
+Il faut distinguer "suspect" de "faux"
+Examiner l'argument, pas seulement ses motivations supposées
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Biais vs. erreur :
+Quelqu'un peut avoir un intérêt personnel ET avoir raison.
+L'existence d'un biais ne suffit pas à invalider un argument.
 
-Le passage montre **Circumstantial Ad Hominem** : une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+Les lobbyistes sont discrédités sans que leurs données soient analysées
+Les lanceurs d'alerte sont niés au motif qu'ils ont "un intérêt à nuire"
+Les experts financés par l'industrie sont rejetés — parfois à tort, parfois à raison
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+L'implication inconfortable
+La source d'un argument mérite attention — mais pas au point de remplacer l'examen de l'argument.
+La méfiance est utile ; la disqualification automatique ne l'est pas.
 
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+En une phrase
+Ad Hominem Circonstanciel = discréditer quelqu'un à cause de sa situation personnelle, sans réfuter son argument.`,
+    expert: `Ad Hominem Circonstanciel
 
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Description :
+Discréditer quelqu'un en invoquant sa situation personnelle ou ses intérêts — plutôt qu'en réfutant son argument.
+Le conflit d'intérêt supposé remplace la réfutation.
 
-**En une phrase**  
-**Circumstantial Ad Hominem**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.`,
-    expert: `## Circumstantial Ad Hominem — approfondi (Expert)
+Exemple (conflit d'intérêt)
+« Bien sûr qu'il défend les énergies fossiles — il est PDG d'une compagnie pétrolière. »
+La position professionnelle peut signaler un biais — mais elle ne prouve pas que l'argument est faux.
+Il faut examiner les données, pas seulement la source.
 
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Exemple (contexte personnel)
+« Elle dit que le divorce est parfois nécessaire — mais elle vient de se séparer. »
+Son vécu personnel peut colorer son point de vue, mais ne le rend pas automatiquement incorrect.
+La vérité d'une affirmation ne dépend pas de la vie de celui qui la formule.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Comment ça fonctionne
+On laisse entendre : « Tu as intérêt à dire ça » — et l'auditeur tire lui-même la conclusion que l'argument est faux.
+C'est une insinuation, pas une réfutation.
 
-Ici, **Circumstantial Ad Hominem** convient parce que une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Donc :
+Un biais possible ne prouve pas une erreur
+Il faut distinguer "suspect" de "faux"
+Examiner l'argument, pas seulement ses motivations supposées
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Concept clé
+Biais vs. erreur :
+Quelqu'un peut avoir un intérêt personnel ET avoir raison.
+L'existence d'un biais ne suffit pas à invalider un argument.
 
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+Les lobbyistes sont discrédités sans que leurs données soient analysées
+Les lanceurs d'alerte sont niés au motif qu'ils ont "un intérêt à nuire"
+Les experts financés par l'industrie sont rejetés — parfois à tort, parfois à raison
 
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+L'implication inconfortable
+La source d'un argument mérite attention — mais pas au point de remplacer l'examen de l'argument.
+La méfiance est utile ; la disqualification automatique ne l'est pas.
 
-- **Exemple 4 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Circumstantial Ad Hominem**, c’est Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Ad Hominem Circonstanciel = discréditer quelqu'un à cause de sa situation personnelle, sans réfuter son argument.`,
   },
   8: {
-    beginner: `## Circumstantial Ad Hominem — approfondi (Débutant)
+    beginner: `Ad Hominem Circonstanciel = discréditer quelqu'un à cause de sa situation personnelle, sans réfuter son argument.`,
+    intermediate: `Ad Hominem Circonstanciel
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Description :
+Discréditer quelqu'un en invoquant sa situation personnelle ou ses intérêts — plutôt qu'en réfutant son argument.
+Le conflit d'intérêt supposé remplace la réfutation.
 
-**L’exemple affiché**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Exemple (conflit d'intérêt)
+« Bien sûr qu'il défend les énergies fossiles — il est PDG d'une compagnie pétrolière. »
+La position professionnelle peut signaler un biais — mais elle ne prouve pas que l'argument est faux.
+Il faut examiner les données, pas seulement la source.
 
-**Pourquoi c’est bien Circumstantial Ad Hominem**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (contexte personnel)
+« Elle dit que le divorce est parfois nécessaire — mais elle vient de se séparer. »
+Son vécu personnel peut colorer son point de vue, mais ne le rend pas automatiquement incorrect.
+La vérité d'une affirmation ne dépend pas de la vie de celui qui la formule.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.`,
-    intermediate: `## Circumstantial Ad Hominem — approfondi (Intermédiaire)
+Comment ça fonctionne
+On laisse entendre : « Tu as intérêt à dire ça » — et l'auditeur tire lui-même la conclusion que l'argument est faux.
+C'est une insinuation, pas une réfutation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Donc :
+Un biais possible ne prouve pas une erreur
+Il faut distinguer "suspect" de "faux"
+Examiner l'argument, pas seulement ses motivations supposées
 
-**Cet exemple**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Concept clé
+Biais vs. erreur :
+Quelqu'un peut avoir un intérêt personnel ET avoir raison.
+L'existence d'un biais ne suffit pas à invalider un argument.
 
-Le passage montre **Circumstantial Ad Hominem** : une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+Les lobbyistes sont discrédités sans que leurs données soient analysées
+Les lanceurs d'alerte sont niés au motif qu'ils ont "un intérêt à nuire"
+Les experts financés par l'industrie sont rejetés — parfois à tort, parfois à raison
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+L'implication inconfortable
+La source d'un argument mérite attention — mais pas au point de remplacer l'examen de l'argument.
+La méfiance est utile ; la disqualification automatique ne l'est pas.
 
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+En une phrase
+Ad Hominem Circonstanciel = discréditer quelqu'un à cause de sa situation personnelle, sans réfuter son argument.`,
+    expert: `Ad Hominem Circonstanciel
 
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Description :
+Discréditer quelqu'un en invoquant sa situation personnelle ou ses intérêts — plutôt qu'en réfutant son argument.
+Le conflit d'intérêt supposé remplace la réfutation.
 
-**En une phrase**  
-**Circumstantial Ad Hominem**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.`,
-    expert: `## Circumstantial Ad Hominem — approfondi (Expert)
+Exemple (conflit d'intérêt)
+« Bien sûr qu'il défend les énergies fossiles — il est PDG d'une compagnie pétrolière. »
+La position professionnelle peut signaler un biais — mais elle ne prouve pas que l'argument est faux.
+Il faut examiner les données, pas seulement la source.
 
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Exemple (contexte personnel)
+« Elle dit que le divorce est parfois nécessaire — mais elle vient de se séparer. »
+Son vécu personnel peut colorer son point de vue, mais ne le rend pas automatiquement incorrect.
+La vérité d'une affirmation ne dépend pas de la vie de celui qui la formule.
 
-**Appliqué à ce passage**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Comment ça fonctionne
+On laisse entendre : « Tu as intérêt à dire ça » — et l'auditeur tire lui-même la conclusion que l'argument est faux.
+C'est une insinuation, pas une réfutation.
 
-Ici, **Circumstantial Ad Hominem** convient parce que une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Donc :
+Un biais possible ne prouve pas une erreur
+Il faut distinguer "suspect" de "faux"
+Examiner l'argument, pas seulement ses motivations supposées
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Concept clé
+Biais vs. erreur :
+Quelqu'un peut avoir un intérêt personnel ET avoir raison.
+L'existence d'un biais ne suffit pas à invalider un argument.
 
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+Les lobbyistes sont discrédités sans que leurs données soient analysées
+Les lanceurs d'alerte sont niés au motif qu'ils ont "un intérêt à nuire"
+Les experts financés par l'industrie sont rejetés — parfois à tort, parfois à raison
 
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+L'implication inconfortable
+La source d'un argument mérite attention — mais pas au point de remplacer l'examen de l'argument.
+La méfiance est utile ; la disqualification automatique ne l'est pas.
 
-- **Exemple 4 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Circumstantial Ad Hominem**, c’est Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Ad Hominem Circonstanciel = discréditer quelqu'un à cause de sa situation personnelle, sans réfuter son argument.`,
   },
   9: {
-    beginner: `## Circumstantial Ad Hominem — approfondi (Débutant)
+    beginner: `Ad Hominem Circonstanciel = discréditer quelqu'un à cause de sa situation personnelle, sans réfuter son argument.`,
+    intermediate: `Ad Hominem Circonstanciel
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Description :
+Discréditer quelqu'un en invoquant sa situation personnelle ou ses intérêts — plutôt qu'en réfutant son argument.
+Le conflit d'intérêt supposé remplace la réfutation.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (conflit d'intérêt)
+« Bien sûr qu'il défend les énergies fossiles — il est PDG d'une compagnie pétrolière. »
+La position professionnelle peut signaler un biais — mais elle ne prouve pas que l'argument est faux.
+Il faut examiner les données, pas seulement la source.
 
-**Pourquoi c’est bien Circumstantial Ad Hominem**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (contexte personnel)
+« Elle dit que le divorce est parfois nécessaire — mais elle vient de se séparer. »
+Son vécu personnel peut colorer son point de vue, mais ne le rend pas automatiquement incorrect.
+La vérité d'une affirmation ne dépend pas de la vie de celui qui la formule.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.`,
-    intermediate: `## Circumstantial Ad Hominem — approfondi (Intermédiaire)
+Comment ça fonctionne
+On laisse entendre : « Tu as intérêt à dire ça » — et l'auditeur tire lui-même la conclusion que l'argument est faux.
+C'est une insinuation, pas une réfutation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Donc :
+Un biais possible ne prouve pas une erreur
+Il faut distinguer "suspect" de "faux"
+Examiner l'argument, pas seulement ses motivations supposées
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Biais vs. erreur :
+Quelqu'un peut avoir un intérêt personnel ET avoir raison.
+L'existence d'un biais ne suffit pas à invalider un argument.
 
-Le passage montre **Circumstantial Ad Hominem** : une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+Les lobbyistes sont discrédités sans que leurs données soient analysées
+Les lanceurs d'alerte sont niés au motif qu'ils ont "un intérêt à nuire"
+Les experts financés par l'industrie sont rejetés — parfois à tort, parfois à raison
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+L'implication inconfortable
+La source d'un argument mérite attention — mais pas au point de remplacer l'examen de l'argument.
+La méfiance est utile ; la disqualification automatique ne l'est pas.
 
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+En une phrase
+Ad Hominem Circonstanciel = discréditer quelqu'un à cause de sa situation personnelle, sans réfuter son argument.`,
+    expert: `Ad Hominem Circonstanciel
 
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Description :
+Discréditer quelqu'un en invoquant sa situation personnelle ou ses intérêts — plutôt qu'en réfutant son argument.
+Le conflit d'intérêt supposé remplace la réfutation.
 
-**En une phrase**  
-**Circumstantial Ad Hominem**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.`,
-    expert: `## Circumstantial Ad Hominem — approfondi (Expert)
+Exemple (conflit d'intérêt)
+« Bien sûr qu'il défend les énergies fossiles — il est PDG d'une compagnie pétrolière. »
+La position professionnelle peut signaler un biais — mais elle ne prouve pas que l'argument est faux.
+Il faut examiner les données, pas seulement la source.
 
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Exemple (contexte personnel)
+« Elle dit que le divorce est parfois nécessaire — mais elle vient de se séparer. »
+Son vécu personnel peut colorer son point de vue, mais ne le rend pas automatiquement incorrect.
+La vérité d'une affirmation ne dépend pas de la vie de celui qui la formule.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Comment ça fonctionne
+On laisse entendre : « Tu as intérêt à dire ça » — et l'auditeur tire lui-même la conclusion que l'argument est faux.
+C'est une insinuation, pas une réfutation.
 
-Ici, **Circumstantial Ad Hominem** convient parce que une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Donc :
+Un biais possible ne prouve pas une erreur
+Il faut distinguer "suspect" de "faux"
+Examiner l'argument, pas seulement ses motivations supposées
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Concept clé
+Biais vs. erreur :
+Quelqu'un peut avoir un intérêt personnel ET avoir raison.
+L'existence d'un biais ne suffit pas à invalider un argument.
 
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+Les lobbyistes sont discrédités sans que leurs données soient analysées
+Les lanceurs d'alerte sont niés au motif qu'ils ont "un intérêt à nuire"
+Les experts financés par l'industrie sont rejetés — parfois à tort, parfois à raison
 
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
+L'implication inconfortable
+La source d'un argument mérite attention — mais pas au point de remplacer l'examen de l'argument.
+La méfiance est utile ; la disqualification automatique ne l'est pas.
 
-- **Exemple 4 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Circumstantial Ad Hominem**, c’est Une erreur logique ou un biais cognitif impliquant Circumstantial Ad Hominem, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Ad Hominem Circonstanciel = discréditer quelqu'un à cause de sa situation personnelle, sans réfuter son argument.`,
   },
   10: {
-    beginner: `## Tu Quoque — approfondi (Débutant)
+    beginner: `Tu Quoque = retourner une critique vers l'accusateur pour éviter d'y répondre.`,
+    intermediate: `Tu Quoque
 
-**En termes simples**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Description :
+Répondre à une critique en la renvoyant à l'accusateur — « toi aussi tu le fais ».
+Le comportement de l'autre ne réfute pas la critique d'origine.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.". »  
+Exemple (politique)
+« Tu me reproches ma corruption ? Et toi, qu'est-ce que tu as fait pendant tes années au pouvoir ? »
+Les actes passés du critique ne changent rien à la validité de la critique.
+Deux fautes ne s'annulent pas.
 
-**Pourquoi c’est bien Tu Quoque**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (santé)
+« Tu me dis d'arrêter de fumer ? Mais toi, tu manges du fast-food tous les jours ! »
+Le comportement alimentaire du critique ne rend pas le tabac moins dangereux.
+La critique reste valide indépendamment du comportement du critique.
 
-**À retenir**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.`,
-    intermediate: `## Tu Quoque — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le tu quoque déplace le sujet : au lieu de répondre à l'accusation, on retourne l'accusation.
+C'est une fuite, habillée en défense.
 
-**En termes simples**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Donc :
+L'hypocrisie de l'accusateur ne prouve pas l'innocence de l'accusé
+Deux erreurs ne font pas une vérité
+La validité d'une critique est indépendante de celui qui la formule
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.". »  
+Concept clé
+Inversion de la charge :
+Au lieu d'examiner le reproche, on tente de faire porter la honte à l'autre.
+C'est une manœuvre rhétorique, pas un argument.
 
-Le passage montre **Tu Quoque** : éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats politiques tournent en cercle d'accusations mutuelles
+Les enfants utilisent instinctivement le "toi aussi" pour éviter les réprimandes
+Les négociations échouent quand chaque partie s'accuse plutôt que d'argumenter
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+L'implication inconfortable
+On peut avoir totalement raison en critiquant quelqu'un qui fait comme nous.
+L'hypocrisie personnelle ne discrédite pas une critique légitime.
 
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+En une phrase
+Tu Quoque = retourner une critique vers l'accusateur pour éviter d'y répondre.`,
+    expert: `Tu Quoque
 
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Description :
+Répondre à une critique en la renvoyant à l'accusateur — « toi aussi tu le fais ».
+Le comportement de l'autre ne réfute pas la critique d'origine.
 
-**En une phrase**  
-**Tu Quoque**, c’est quand le raisonnement correspond à : Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.`,
-    expert: `## Tu Quoque — approfondi (Expert)
+Exemple (politique)
+« Tu me reproches ma corruption ? Et toi, qu'est-ce que tu as fait pendant tes années au pouvoir ? »
+Les actes passés du critique ne changent rien à la validité de la critique.
+Deux fautes ne s'annulent pas.
 
-**Définition**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Exemple (santé)
+« Tu me dis d'arrêter de fumer ? Mais toi, tu manges du fast-food tous les jours ! »
+Le comportement alimentaire du critique ne rend pas le tabac moins dangereux.
+La critique reste valide indépendamment du comportement du critique.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.". »  
+Comment ça fonctionne
+Le tu quoque déplace le sujet : au lieu de répondre à l'accusation, on retourne l'accusation.
+C'est une fuite, habillée en défense.
 
-Ici, **Tu Quoque** convient parce que éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Donc :
+L'hypocrisie de l'accusateur ne prouve pas l'innocence de l'accusé
+Deux erreurs ne font pas une vérité
+La validité d'une critique est indépendante de celui qui la formule
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Concept clé
+Inversion de la charge :
+Au lieu d'examiner le reproche, on tente de faire porter la honte à l'autre.
+C'est une manœuvre rhétorique, pas un argument.
 
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats politiques tournent en cercle d'accusations mutuelles
+Les enfants utilisent instinctivement le "toi aussi" pour éviter les réprimandes
+Les négociations échouent quand chaque partie s'accuse plutôt que d'argumenter
 
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+L'implication inconfortable
+On peut avoir totalement raison en critiquant quelqu'un qui fait comme nous.
+L'hypocrisie personnelle ne discrédite pas une critique légitime.
 
-- **Exemple 4 :** Dans une discussion en famille, repérez ce schéma : Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
-
-- **Exemple 5 :** Autre situation courante : un débat sur une politique ou au travail. Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Tu Quoque**, c’est Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Tu Quoque = retourner une critique vers l'accusateur pour éviter d'y répondre.`,
   },
   11: {
-    beginner: `## Tu Quoque — approfondi (Débutant)
+    beginner: `Tu Quoque = retourner une critique vers l'accusateur pour éviter d'y répondre.`,
+    intermediate: `Tu Quoque
 
-**En termes simples**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Description :
+Répondre à une critique en la renvoyant à l'accusateur — « toi aussi tu le fais ».
+Le comportement de l'autre ne réfute pas la critique d'origine.
 
-**L’exemple affiché**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Exemple (politique)
+« Tu me reproches ma corruption ? Et toi, qu'est-ce que tu as fait pendant tes années au pouvoir ? »
+Les actes passés du critique ne changent rien à la validité de la critique.
+Deux fautes ne s'annulent pas.
 
-**Pourquoi c’est bien Tu Quoque**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (santé)
+« Tu me dis d'arrêter de fumer ? Mais toi, tu manges du fast-food tous les jours ! »
+Le comportement alimentaire du critique ne rend pas le tabac moins dangereux.
+La critique reste valide indépendamment du comportement du critique.
 
-**À retenir**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.`,
-    intermediate: `## Tu Quoque — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le tu quoque déplace le sujet : au lieu de répondre à l'accusation, on retourne l'accusation.
+C'est une fuite, habillée en défense.
 
-**En termes simples**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Donc :
+L'hypocrisie de l'accusateur ne prouve pas l'innocence de l'accusé
+Deux erreurs ne font pas une vérité
+La validité d'une critique est indépendante de celui qui la formule
 
-**Cet exemple**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Concept clé
+Inversion de la charge :
+Au lieu d'examiner le reproche, on tente de faire porter la honte à l'autre.
+C'est une manœuvre rhétorique, pas un argument.
 
-Le passage montre **Tu Quoque** : éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats politiques tournent en cercle d'accusations mutuelles
+Les enfants utilisent instinctivement le "toi aussi" pour éviter les réprimandes
+Les négociations échouent quand chaque partie s'accuse plutôt que d'argumenter
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+L'implication inconfortable
+On peut avoir totalement raison en critiquant quelqu'un qui fait comme nous.
+L'hypocrisie personnelle ne discrédite pas une critique légitime.
 
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+En une phrase
+Tu Quoque = retourner une critique vers l'accusateur pour éviter d'y répondre.`,
+    expert: `Tu Quoque
 
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Description :
+Répondre à une critique en la renvoyant à l'accusateur — « toi aussi tu le fais ».
+Le comportement de l'autre ne réfute pas la critique d'origine.
 
-**En une phrase**  
-**Tu Quoque**, c’est quand le raisonnement correspond à : Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.`,
-    expert: `## Tu Quoque — approfondi (Expert)
+Exemple (politique)
+« Tu me reproches ma corruption ? Et toi, qu'est-ce que tu as fait pendant tes années au pouvoir ? »
+Les actes passés du critique ne changent rien à la validité de la critique.
+Deux fautes ne s'annulent pas.
 
-**Définition**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Exemple (santé)
+« Tu me dis d'arrêter de fumer ? Mais toi, tu manges du fast-food tous les jours ! »
+Le comportement alimentaire du critique ne rend pas le tabac moins dangereux.
+La critique reste valide indépendamment du comportement du critique.
 
-**Appliqué à ce passage**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Comment ça fonctionne
+Le tu quoque déplace le sujet : au lieu de répondre à l'accusation, on retourne l'accusation.
+C'est une fuite, habillée en défense.
 
-Ici, **Tu Quoque** convient parce que éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Donc :
+L'hypocrisie de l'accusateur ne prouve pas l'innocence de l'accusé
+Deux erreurs ne font pas une vérité
+La validité d'une critique est indépendante de celui qui la formule
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Concept clé
+Inversion de la charge :
+Au lieu d'examiner le reproche, on tente de faire porter la honte à l'autre.
+C'est une manœuvre rhétorique, pas un argument.
 
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats politiques tournent en cercle d'accusations mutuelles
+Les enfants utilisent instinctivement le "toi aussi" pour éviter les réprimandes
+Les négociations échouent quand chaque partie s'accuse plutôt que d'argumenter
 
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+L'implication inconfortable
+On peut avoir totalement raison en critiquant quelqu'un qui fait comme nous.
+L'hypocrisie personnelle ne discrédite pas une critique légitime.
 
-- **Exemple 4 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
-
-- **Exemple 5 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Tu Quoque**, c’est Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Tu Quoque = retourner une critique vers l'accusateur pour éviter d'y répondre.`,
   },
   12: {
-    beginner: `## Tu Quoque — approfondi (Débutant)
+    beginner: `Tu Quoque = retourner une critique vers l'accusateur pour éviter d'y répondre.`,
+    intermediate: `Tu Quoque
 
-**En termes simples**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Description :
+Répondre à une critique en la renvoyant à l'accusateur — « toi aussi tu le fais ».
+Le comportement de l'autre ne réfute pas la critique d'origine.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.". »  
+Exemple (politique)
+« Tu me reproches ma corruption ? Et toi, qu'est-ce que tu as fait pendant tes années au pouvoir ? »
+Les actes passés du critique ne changent rien à la validité de la critique.
+Deux fautes ne s'annulent pas.
 
-**Pourquoi c’est bien Tu Quoque**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (santé)
+« Tu me dis d'arrêter de fumer ? Mais toi, tu manges du fast-food tous les jours ! »
+Le comportement alimentaire du critique ne rend pas le tabac moins dangereux.
+La critique reste valide indépendamment du comportement du critique.
 
-**À retenir**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.`,
-    intermediate: `## Tu Quoque — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le tu quoque déplace le sujet : au lieu de répondre à l'accusation, on retourne l'accusation.
+C'est une fuite, habillée en défense.
 
-**En termes simples**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Donc :
+L'hypocrisie de l'accusateur ne prouve pas l'innocence de l'accusé
+Deux erreurs ne font pas une vérité
+La validité d'une critique est indépendante de celui qui la formule
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.". »  
+Concept clé
+Inversion de la charge :
+Au lieu d'examiner le reproche, on tente de faire porter la honte à l'autre.
+C'est une manœuvre rhétorique, pas un argument.
 
-Le passage montre **Tu Quoque** : éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats politiques tournent en cercle d'accusations mutuelles
+Les enfants utilisent instinctivement le "toi aussi" pour éviter les réprimandes
+Les négociations échouent quand chaque partie s'accuse plutôt que d'argumenter
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+L'implication inconfortable
+On peut avoir totalement raison en critiquant quelqu'un qui fait comme nous.
+L'hypocrisie personnelle ne discrédite pas une critique légitime.
 
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+En une phrase
+Tu Quoque = retourner une critique vers l'accusateur pour éviter d'y répondre.`,
+    expert: `Tu Quoque
 
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Description :
+Répondre à une critique en la renvoyant à l'accusateur — « toi aussi tu le fais ».
+Le comportement de l'autre ne réfute pas la critique d'origine.
 
-**En une phrase**  
-**Tu Quoque**, c’est quand le raisonnement correspond à : Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.`,
-    expert: `## Tu Quoque — approfondi (Expert)
+Exemple (politique)
+« Tu me reproches ma corruption ? Et toi, qu'est-ce que tu as fait pendant tes années au pouvoir ? »
+Les actes passés du critique ne changent rien à la validité de la critique.
+Deux fautes ne s'annulent pas.
 
-**Définition**  
-Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Exemple (santé)
+« Tu me dis d'arrêter de fumer ? Mais toi, tu manges du fast-food tous les jours ! »
+Le comportement alimentaire du critique ne rend pas le tabac moins dangereux.
+La critique reste valide indépendamment du comportement du critique.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.". »  
+Comment ça fonctionne
+Le tu quoque déplace le sujet : au lieu de répondre à l'accusation, on retourne l'accusation.
+C'est une fuite, habillée en défense.
 
-Ici, **Tu Quoque** convient parce que éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Donc :
+L'hypocrisie de l'accusateur ne prouve pas l'innocence de l'accusé
+Deux erreurs ne font pas une vérité
+La validité d'une critique est indépendante de celui qui la formule
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Concept clé
+Inversion de la charge :
+Au lieu d'examiner le reproche, on tente de faire porter la honte à l'autre.
+C'est une manœuvre rhétorique, pas un argument.
 
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats politiques tournent en cercle d'accusations mutuelles
+Les enfants utilisent instinctivement le "toi aussi" pour éviter les réprimandes
+Les négociations échouent quand chaque partie s'accuse plutôt que d'argumenter
 
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
+L'implication inconfortable
+On peut avoir totalement raison en critiquant quelqu'un qui fait comme nous.
+L'hypocrisie personnelle ne discrédite pas une critique légitime.
 
-- **Exemple 4 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
-
-- **Exemple 5 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Tu Quoque**, c’est Éviter la critique en la renvoyant à l'accusateur ; répondre à la critique par la critique.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Tu Quoque = retourner une critique vers l'accusateur pour éviter d'y répondre.`,
   },
   13: {
-    beginner: `## Appeal to Authority — approfondi (Débutant)
+    beginner: `Appel à l'Autorité = traiter le statut de quelqu'un comme une preuve de ce qu'il affirme, même hors de son domaine.`,
+    intermediate: `Appel à l'Autorité
 
-**En termes simples**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Description :
+Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit — sans preuve pertinente.
+Le statut ne remplace pas l'evidence.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.". »  
+Exemple (autorité hors domaine)
+« Le pape a dit que les prêtres peuvent transformer le pain en chair. Le pape ne ment jamais. Donc c'est vrai. »
+Le pape est une autorité religieuse, non une autorité scientifique ou empirique.
+La crédibilité dans un domaine ne valide pas des affirmations dans un autre.
 
-**Pourquoi c’est bien Appeal to Authority**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (publicité)
+« Le Dr Crane — éminent psychologue — recommande ce jacuzzi. »
+La psychologie n'est pas la physiopathologie des jacuzzis.
+Le titre impressionne, mais ne qualifie pas.
 
-**À retenir**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.`,
-    intermediate: `## Appeal to Authority — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument emprunte le prestige de quelqu'un pour valider une affirmation.
+La question clé : cette personne est-elle experte sur CE point précis ?
 
-**En termes simples**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Donc :
+L'expertise dans un domaine ne se transfère pas à un autre
+Le titre ou le statut ne remplace pas des preuves pertinentes
+Même de vrais experts peuvent se tromper hors de leur champ
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.". »  
+Concept clé
+Pertinence du domaine :
+Une autorité n'est valide que dans son domaine d'expertise réel.
+En dehors, son opinion n'a pas de poids particulier.
 
-Le passage montre **Appeal to Authority** : affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Pourquoi c'est important
+Explique pourquoi :
+Des célébrités vendent des produits médicaux sans aucune formation
+Des politiciens citent des économistes sélectionnés pour soutenir leur position préexistante
+« Des experts disent… » sans nommer qui ni dans quel domaine est un signal d'alarme
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+L'implication inconfortable
+Les titres nous impressionnent plus qu'ils ne le devraient.
+On arrête souvent de questionner dès qu'on entend « docteur » ou « professeur ».
 
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+En une phrase
+Appel à l'Autorité = traiter le statut de quelqu'un comme une preuve de ce qu'il affirme, même hors de son domaine.`,
+    expert: `Appel à l'Autorité
 
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Description :
+Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit — sans preuve pertinente.
+Le statut ne remplace pas l'evidence.
 
-**En une phrase**  
-**Appeal to Authority**, c’est quand le raisonnement correspond à : Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.`,
-    expert: `## Appeal to Authority — approfondi (Expert)
+Exemple (autorité hors domaine)
+« Le pape a dit que les prêtres peuvent transformer le pain en chair. Le pape ne ment jamais. Donc c'est vrai. »
+Le pape est une autorité religieuse, non une autorité scientifique ou empirique.
+La crédibilité dans un domaine ne valide pas des affirmations dans un autre.
 
-**Définition**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Exemple (publicité)
+« Le Dr Crane — éminent psychologue — recommande ce jacuzzi. »
+La psychologie n'est pas la physiopathologie des jacuzzis.
+Le titre impressionne, mais ne qualifie pas.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.". »  
+Comment ça fonctionne
+L'argument emprunte le prestige de quelqu'un pour valider une affirmation.
+La question clé : cette personne est-elle experte sur CE point précis ?
 
-Ici, **Appeal to Authority** convient parce que affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Donc :
+L'expertise dans un domaine ne se transfère pas à un autre
+Le titre ou le statut ne remplace pas des preuves pertinentes
+Même de vrais experts peuvent se tromper hors de leur champ
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Concept clé
+Pertinence du domaine :
+Une autorité n'est valide que dans son domaine d'expertise réel.
+En dehors, son opinion n'a pas de poids particulier.
 
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Pourquoi c'est important
+Explique pourquoi :
+Des célébrités vendent des produits médicaux sans aucune formation
+Des politiciens citent des économistes sélectionnés pour soutenir leur position préexistante
+« Des experts disent… » sans nommer qui ni dans quel domaine est un signal d'alarme
 
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+L'implication inconfortable
+Les titres nous impressionnent plus qu'ils ne le devraient.
+On arrête souvent de questionner dès qu'on entend « docteur » ou « professeur ».
 
-- **Exemple 4 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
-
-- **Exemple 5 :** Pensez à des notes ou examens. Souvent, on raisonne comme si affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Authority**, c’est Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à l'Autorité = traiter le statut de quelqu'un comme une preuve de ce qu'il affirme, même hors de son domaine.`,
   },
   14: {
-    beginner: `## Appeal to Authority — approfondi (Débutant)
+    beginner: `Appel à l'Autorité = traiter le statut de quelqu'un comme une preuve de ce qu'il affirme, même hors de son domaine.`,
+    intermediate: `Appel à l'Autorité
 
-**En termes simples**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Description :
+Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit — sans preuve pertinente.
+Le statut ne remplace pas l'evidence.
 
-**L’exemple affiché**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Exemple (autorité hors domaine)
+« Le pape a dit que les prêtres peuvent transformer le pain en chair. Le pape ne ment jamais. Donc c'est vrai. »
+Le pape est une autorité religieuse, non une autorité scientifique ou empirique.
+La crédibilité dans un domaine ne valide pas des affirmations dans un autre.
 
-**Pourquoi c’est bien Appeal to Authority**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (publicité)
+« Le Dr Crane — éminent psychologue — recommande ce jacuzzi. »
+La psychologie n'est pas la physiopathologie des jacuzzis.
+Le titre impressionne, mais ne qualifie pas.
 
-**À retenir**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.`,
-    intermediate: `## Appeal to Authority — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument emprunte le prestige de quelqu'un pour valider une affirmation.
+La question clé : cette personne est-elle experte sur CE point précis ?
 
-**En termes simples**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Donc :
+L'expertise dans un domaine ne se transfère pas à un autre
+Le titre ou le statut ne remplace pas des preuves pertinentes
+Même de vrais experts peuvent se tromper hors de leur champ
 
-**Cet exemple**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Concept clé
+Pertinence du domaine :
+Une autorité n'est valide que dans son domaine d'expertise réel.
+En dehors, son opinion n'a pas de poids particulier.
 
-Le passage montre **Appeal to Authority** : affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Pourquoi c'est important
+Explique pourquoi :
+Des célébrités vendent des produits médicaux sans aucune formation
+Des politiciens citent des économistes sélectionnés pour soutenir leur position préexistante
+« Des experts disent… » sans nommer qui ni dans quel domaine est un signal d'alarme
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+L'implication inconfortable
+Les titres nous impressionnent plus qu'ils ne le devraient.
+On arrête souvent de questionner dès qu'on entend « docteur » ou « professeur ».
 
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+En une phrase
+Appel à l'Autorité = traiter le statut de quelqu'un comme une preuve de ce qu'il affirme, même hors de son domaine.`,
+    expert: `Appel à l'Autorité
 
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Description :
+Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit — sans preuve pertinente.
+Le statut ne remplace pas l'evidence.
 
-**En une phrase**  
-**Appeal to Authority**, c’est quand le raisonnement correspond à : Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.`,
-    expert: `## Appeal to Authority — approfondi (Expert)
+Exemple (autorité hors domaine)
+« Le pape a dit que les prêtres peuvent transformer le pain en chair. Le pape ne ment jamais. Donc c'est vrai. »
+Le pape est une autorité religieuse, non une autorité scientifique ou empirique.
+La crédibilité dans un domaine ne valide pas des affirmations dans un autre.
 
-**Définition**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Exemple (publicité)
+« Le Dr Crane — éminent psychologue — recommande ce jacuzzi. »
+La psychologie n'est pas la physiopathologie des jacuzzis.
+Le titre impressionne, mais ne qualifie pas.
 
-**Appliqué à ce passage**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Comment ça fonctionne
+L'argument emprunte le prestige de quelqu'un pour valider une affirmation.
+La question clé : cette personne est-elle experte sur CE point précis ?
 
-Ici, **Appeal to Authority** convient parce que affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Donc :
+L'expertise dans un domaine ne se transfère pas à un autre
+Le titre ou le statut ne remplace pas des preuves pertinentes
+Même de vrais experts peuvent se tromper hors de leur champ
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Concept clé
+Pertinence du domaine :
+Une autorité n'est valide que dans son domaine d'expertise réel.
+En dehors, son opinion n'a pas de poids particulier.
 
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Pourquoi c'est important
+Explique pourquoi :
+Des célébrités vendent des produits médicaux sans aucune formation
+Des politiciens citent des économistes sélectionnés pour soutenir leur position préexistante
+« Des experts disent… » sans nommer qui ni dans quel domaine est un signal d'alarme
 
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+L'implication inconfortable
+Les titres nous impressionnent plus qu'ils ne le devraient.
+On arrête souvent de questionner dès qu'on entend « docteur » ou « professeur ».
 
-- **Exemple 4 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
-
-- **Exemple 5 :** Dans une discussion en famille, repérez ce schéma : Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Authority**, c’est Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à l'Autorité = traiter le statut de quelqu'un comme une preuve de ce qu'il affirme, même hors de son domaine.`,
   },
   15: {
-    beginner: `## Appeal to Authority — approfondi (Débutant)
+    beginner: `Appel à l'Autorité = traiter le statut de quelqu'un comme une preuve de ce qu'il affirme, même hors de son domaine.`,
+    intermediate: `Appel à l'Autorité
 
-**En termes simples**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Description :
+Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit — sans preuve pertinente.
+Le statut ne remplace pas l'evidence.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.". »  
+Exemple (autorité hors domaine)
+« Le pape a dit que les prêtres peuvent transformer le pain en chair. Le pape ne ment jamais. Donc c'est vrai. »
+Le pape est une autorité religieuse, non une autorité scientifique ou empirique.
+La crédibilité dans un domaine ne valide pas des affirmations dans un autre.
 
-**Pourquoi c’est bien Appeal to Authority**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (publicité)
+« Le Dr Crane — éminent psychologue — recommande ce jacuzzi. »
+La psychologie n'est pas la physiopathologie des jacuzzis.
+Le titre impressionne, mais ne qualifie pas.
 
-**À retenir**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.`,
-    intermediate: `## Appeal to Authority — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument emprunte le prestige de quelqu'un pour valider une affirmation.
+La question clé : cette personne est-elle experte sur CE point précis ?
 
-**En termes simples**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Donc :
+L'expertise dans un domaine ne se transfère pas à un autre
+Le titre ou le statut ne remplace pas des preuves pertinentes
+Même de vrais experts peuvent se tromper hors de leur champ
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.". »  
+Concept clé
+Pertinence du domaine :
+Une autorité n'est valide que dans son domaine d'expertise réel.
+En dehors, son opinion n'a pas de poids particulier.
 
-Le passage montre **Appeal to Authority** : affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Pourquoi c'est important
+Explique pourquoi :
+Des célébrités vendent des produits médicaux sans aucune formation
+Des politiciens citent des économistes sélectionnés pour soutenir leur position préexistante
+« Des experts disent… » sans nommer qui ni dans quel domaine est un signal d'alarme
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+L'implication inconfortable
+Les titres nous impressionnent plus qu'ils ne le devraient.
+On arrête souvent de questionner dès qu'on entend « docteur » ou « professeur ».
 
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+En une phrase
+Appel à l'Autorité = traiter le statut de quelqu'un comme une preuve de ce qu'il affirme, même hors de son domaine.`,
+    expert: `Appel à l'Autorité
 
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Description :
+Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit — sans preuve pertinente.
+Le statut ne remplace pas l'evidence.
 
-**En une phrase**  
-**Appeal to Authority**, c’est quand le raisonnement correspond à : Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.`,
-    expert: `## Appeal to Authority — approfondi (Expert)
+Exemple (autorité hors domaine)
+« Le pape a dit que les prêtres peuvent transformer le pain en chair. Le pape ne ment jamais. Donc c'est vrai. »
+Le pape est une autorité religieuse, non une autorité scientifique ou empirique.
+La crédibilité dans un domaine ne valide pas des affirmations dans un autre.
 
-**Définition**  
-Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Exemple (publicité)
+« Le Dr Crane — éminent psychologue — recommande ce jacuzzi. »
+La psychologie n'est pas la physiopathologie des jacuzzis.
+Le titre impressionne, mais ne qualifie pas.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.". »  
+Comment ça fonctionne
+L'argument emprunte le prestige de quelqu'un pour valider une affirmation.
+La question clé : cette personne est-elle experte sur CE point précis ?
 
-Ici, **Appeal to Authority** convient parce que affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Donc :
+L'expertise dans un domaine ne se transfère pas à un autre
+Le titre ou le statut ne remplace pas des preuves pertinentes
+Même de vrais experts peuvent se tromper hors de leur champ
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Concept clé
+Pertinence du domaine :
+Une autorité n'est valide que dans son domaine d'expertise réel.
+En dehors, son opinion n'a pas de poids particulier.
 
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+Pourquoi c'est important
+Explique pourquoi :
+Des célébrités vendent des produits médicaux sans aucune formation
+Des politiciens citent des économistes sélectionnés pour soutenir leur position préexistante
+« Des experts disent… » sans nommer qui ni dans quel domaine est un signal d'alarme
 
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
+L'implication inconfortable
+Les titres nous impressionnent plus qu'ils ne le devraient.
+On arrête souvent de questionner dès qu'on entend « docteur » ou « professeur ».
 
-- **Exemple 4 :** Dans des notes ou examens, repérez ce schéma : Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
-
-- **Exemple 5 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Authority**, c’est Affirmer qu'une chose est vraie uniquement parce qu'une figure d'autorité le dit, sans preuve pertinente.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à l'Autorité = traiter le statut de quelqu'un comme une preuve de ce qu'il affirme, même hors de son domaine.`,
   },
   16: {
-    beginner: `## Appeal to False Authority — approfondi (Débutant)
+    beginner: `Appel à la Fausse Autorité = s'appuyer sur une autorité fictive ou hors domaine pour valider une affirmation.`,
+    intermediate: `Appel à la Fausse Autorité
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Description :
+S'appuyer sur quelqu'un présenté comme une autorité qui n'en est pas réellement une.
+La différence avec l'appel à l'autorité classique : ici, l'autorité est fictive ou fabriquée.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (autorité inventée)
+« Des scientifiques anonymes affirment que ce remède fonctionne. »
+Sans nommer les scientifiques, leur institution, ni leurs méthodes, il n'y a aucune autorité réelle.
+"Des experts" sans identité n'est pas une autorité — c'est une fiction rhétorique.
 
-**Pourquoi c’est bien Appeal to False Authority**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (titre mal appliqué)
+« Ce médecin YouTubeur dit que les vaccins sont dangereux. »
+Avoir un titre ne signifie pas que ses affirmations représentent le consensus scientifique.
+Un titre réel + une affirmation fausse = fausse autorité.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to False Authority — approfondi (Intermédiaire)
+Comment ça fonctionne
+On emprunte le prestige d'une source qui n'a pas réellement cette compétence.
+L'autorité est simulée pour contourner l'absence de preuves.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Donc :
+Une autorité anonyme ne compte pas
+Un titre réel utilisé hors contexte est une fausse autorité
+Chercher : qui exactement ? dans quel cadre ? avec quelles preuves ?
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Autorité simulée :
+La fausse autorité repose sur l'apparence de la crédibilité, pas sur la crédibilité réelle.
+Elle exploite notre tendance à faire confiance aux figures d'autorité.
 
-Le passage montre **Appeal to False Authority** : soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+La désinformation s'habille souvent de titres et de jargon scientifique
+Les pseudosciences recrutent de vrais scientifiques pour des affirmations en dehors de leur domaine
+« Les experts sont d'accord » peut masquer un consensus minoritaire ou fabriqué
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+La forme d'une autorité (titre, ton, présentation) peut totalement nous convaincre.
+On vérifie rarement si l'autorité est réelle ou construite.
 
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Fausse Autorité = s'appuyer sur une autorité fictive, anonyme ou hors domaine pour valider une affirmation.`,
+    expert: `Appel à la Fausse Autorité
 
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Description :
+S'appuyer sur quelqu'un présenté comme une autorité qui n'en est pas réellement une.
+La différence avec l'appel à l'autorité classique : ici, l'autorité est fictive ou fabriquée.
 
-**En une phrase**  
-**Appeal to False Authority**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to False Authority — approfondi (Expert)
+Exemple (autorité inventée)
+« Des scientifiques anonymes affirment que ce remède fonctionne. »
+Sans nommer les scientifiques, leur institution, ni leurs méthodes, il n'y a aucune autorité réelle.
+"Des experts" sans identité n'est pas une autorité — c'est une fiction rhétorique.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Exemple (titre mal appliqué)
+« Ce médecin YouTubeur dit que les vaccins sont dangereux. »
+Avoir un titre ne signifie pas que ses affirmations représentent le consensus scientifique.
+Un titre réel + une affirmation fausse = fausse autorité.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+On emprunte le prestige d'une source qui n'a pas réellement cette compétence.
+L'autorité est simulée pour contourner l'absence de preuves.
 
-Ici, **Appeal to False Authority** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Donc :
+Une autorité anonyme ne compte pas
+Un titre réel utilisé hors contexte est une fausse autorité
+Chercher : qui exactement ? dans quel cadre ? avec quelles preuves ?
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Concept clé
+Autorité simulée :
+La fausse autorité repose sur l'apparence de la crédibilité, pas sur la crédibilité réelle.
+Elle exploite notre tendance à faire confiance aux figures d'autorité.
 
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+La désinformation s'habille souvent de titres et de jargon scientifique
+Les pseudosciences recrutent de vrais scientifiques pour des affirmations en dehors de leur domaine
+« Les experts sont d'accord » peut masquer un consensus minoritaire ou fabriqué
 
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+La forme d'une autorité (titre, ton, présentation) peut totalement nous convaincre.
+On vérifie rarement si l'autorité est réelle ou construite.
 
-- **Exemple 4 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to False Authority**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel à la Fausse Autorité = s'appuyer sur une autorité fictive, anonyme ou hors domaine pour valider une affirmation.`,
   },
   17: {
-    beginner: `## Appeal to False Authority — approfondi (Débutant)
+    beginner: `Appel à la Fausse Autorité = s'appuyer sur une autorité fictive ou hors domaine pour valider une affirmation.`,
+    intermediate: `Appel à la Fausse Autorité
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Description :
+S'appuyer sur quelqu'un présenté comme une autorité qui n'en est pas réellement une.
+La différence avec l'appel à l'autorité classique : ici, l'autorité est fictive ou fabriquée.
 
-**L’exemple affiché**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Exemple (autorité inventée)
+« Des scientifiques anonymes affirment que ce remède fonctionne. »
+Sans nommer les scientifiques, leur institution, ni leurs méthodes, il n'y a aucune autorité réelle.
+"Des experts" sans identité n'est pas une autorité — c'est une fiction rhétorique.
 
-**Pourquoi c’est bien Appeal to False Authority**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (titre mal appliqué)
+« Ce médecin YouTubeur dit que les vaccins sont dangereux. »
+Avoir un titre ne signifie pas que ses affirmations représentent le consensus scientifique.
+Un titre réel + une affirmation fausse = fausse autorité.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to False Authority — approfondi (Intermédiaire)
+Comment ça fonctionne
+On emprunte le prestige d'une source qui n'a pas réellement cette compétence.
+L'autorité est simulée pour contourner l'absence de preuves.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Donc :
+Une autorité anonyme ne compte pas
+Un titre réel utilisé hors contexte est une fausse autorité
+Chercher : qui exactement ? dans quel cadre ? avec quelles preuves ?
 
-**Cet exemple**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Concept clé
+Autorité simulée :
+La fausse autorité repose sur l'apparence de la crédibilité, pas sur la crédibilité réelle.
+Elle exploite notre tendance à faire confiance aux figures d'autorité.
 
-Le passage montre **Appeal to False Authority** : soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+La désinformation s'habille souvent de titres et de jargon scientifique
+Les pseudosciences recrutent de vrais scientifiques pour des affirmations en dehors de leur domaine
+« Les experts sont d'accord » peut masquer un consensus minoritaire ou fabriqué
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+La forme d'une autorité (titre, ton, présentation) peut totalement nous convaincre.
+On vérifie rarement si l'autorité est réelle ou construite.
 
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Fausse Autorité = s'appuyer sur une autorité fictive, anonyme ou hors domaine pour valider une affirmation.`,
+    expert: `Appel à la Fausse Autorité
 
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Description :
+S'appuyer sur quelqu'un présenté comme une autorité qui n'en est pas réellement une.
+La différence avec l'appel à l'autorité classique : ici, l'autorité est fictive ou fabriquée.
 
-**En une phrase**  
-**Appeal to False Authority**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to False Authority — approfondi (Expert)
+Exemple (autorité inventée)
+« Des scientifiques anonymes affirment que ce remède fonctionne. »
+Sans nommer les scientifiques, leur institution, ni leurs méthodes, il n'y a aucune autorité réelle.
+"Des experts" sans identité n'est pas une autorité — c'est une fiction rhétorique.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Exemple (titre mal appliqué)
+« Ce médecin YouTubeur dit que les vaccins sont dangereux. »
+Avoir un titre ne signifie pas que ses affirmations représentent le consensus scientifique.
+Un titre réel + une affirmation fausse = fausse autorité.
 
-**Appliqué à ce passage**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Comment ça fonctionne
+On emprunte le prestige d'une source qui n'a pas réellement cette compétence.
+L'autorité est simulée pour contourner l'absence de preuves.
 
-Ici, **Appeal to False Authority** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Donc :
+Une autorité anonyme ne compte pas
+Un titre réel utilisé hors contexte est une fausse autorité
+Chercher : qui exactement ? dans quel cadre ? avec quelles preuves ?
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Concept clé
+Autorité simulée :
+La fausse autorité repose sur l'apparence de la crédibilité, pas sur la crédibilité réelle.
+Elle exploite notre tendance à faire confiance aux figures d'autorité.
 
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+La désinformation s'habille souvent de titres et de jargon scientifique
+Les pseudosciences recrutent de vrais scientifiques pour des affirmations en dehors de leur domaine
+« Les experts sont d'accord » peut masquer un consensus minoritaire ou fabriqué
 
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+La forme d'une autorité (titre, ton, présentation) peut totalement nous convaincre.
+On vérifie rarement si l'autorité est réelle ou construite.
 
-- **Exemple 4 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to False Authority**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel à la Fausse Autorité = s'appuyer sur une autorité fictive, anonyme ou hors domaine pour valider une affirmation.`,
   },
   18: {
-    beginner: `## Appeal to False Authority — approfondi (Débutant)
+    beginner: `Appel à la Fausse Autorité = s'appuyer sur une autorité fictive ou hors domaine pour valider une affirmation.`,
+    intermediate: `Appel à la Fausse Autorité
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Description :
+S'appuyer sur quelqu'un présenté comme une autorité qui n'en est pas réellement une.
+La différence avec l'appel à l'autorité classique : ici, l'autorité est fictive ou fabriquée.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (autorité inventée)
+« Des scientifiques anonymes affirment que ce remède fonctionne. »
+Sans nommer les scientifiques, leur institution, ni leurs méthodes, il n'y a aucune autorité réelle.
+"Des experts" sans identité n'est pas une autorité — c'est une fiction rhétorique.
 
-**Pourquoi c’est bien Appeal to False Authority**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (titre mal appliqué)
+« Ce médecin YouTubeur dit que les vaccins sont dangereux. »
+Avoir un titre ne signifie pas que ses affirmations représentent le consensus scientifique.
+Un titre réel + une affirmation fausse = fausse autorité.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to False Authority — approfondi (Intermédiaire)
+Comment ça fonctionne
+On emprunte le prestige d'une source qui n'a pas réellement cette compétence.
+L'autorité est simulée pour contourner l'absence de preuves.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Donc :
+Une autorité anonyme ne compte pas
+Un titre réel utilisé hors contexte est une fausse autorité
+Chercher : qui exactement ? dans quel cadre ? avec quelles preuves ?
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Autorité simulée :
+La fausse autorité repose sur l'apparence de la crédibilité, pas sur la crédibilité réelle.
+Elle exploite notre tendance à faire confiance aux figures d'autorité.
 
-Le passage montre **Appeal to False Authority** : soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+La désinformation s'habille souvent de titres et de jargon scientifique
+Les pseudosciences recrutent de vrais scientifiques pour des affirmations en dehors de leur domaine
+« Les experts sont d'accord » peut masquer un consensus minoritaire ou fabriqué
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+La forme d'une autorité (titre, ton, présentation) peut totalement nous convaincre.
+On vérifie rarement si l'autorité est réelle ou construite.
 
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Fausse Autorité = s'appuyer sur une autorité fictive, anonyme ou hors domaine pour valider une affirmation.`,
+    expert: `Appel à la Fausse Autorité
 
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Description :
+S'appuyer sur quelqu'un présenté comme une autorité qui n'en est pas réellement une.
+La différence avec l'appel à l'autorité classique : ici, l'autorité est fictive ou fabriquée.
 
-**En une phrase**  
-**Appeal to False Authority**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to False Authority — approfondi (Expert)
+Exemple (autorité inventée)
+« Des scientifiques anonymes affirment que ce remède fonctionne. »
+Sans nommer les scientifiques, leur institution, ni leurs méthodes, il n'y a aucune autorité réelle.
+"Des experts" sans identité n'est pas une autorité — c'est une fiction rhétorique.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Exemple (titre mal appliqué)
+« Ce médecin YouTubeur dit que les vaccins sont dangereux. »
+Avoir un titre ne signifie pas que ses affirmations représentent le consensus scientifique.
+Un titre réel + une affirmation fausse = fausse autorité.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+On emprunte le prestige d'une source qui n'a pas réellement cette compétence.
+L'autorité est simulée pour contourner l'absence de preuves.
 
-Ici, **Appeal to False Authority** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Donc :
+Une autorité anonyme ne compte pas
+Un titre réel utilisé hors contexte est une fausse autorité
+Chercher : qui exactement ? dans quel cadre ? avec quelles preuves ?
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Concept clé
+Autorité simulée :
+La fausse autorité repose sur l'apparence de la crédibilité, pas sur la crédibilité réelle.
+Elle exploite notre tendance à faire confiance aux figures d'autorité.
 
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+La désinformation s'habille souvent de titres et de jargon scientifique
+Les pseudosciences recrutent de vrais scientifiques pour des affirmations en dehors de leur domaine
+« Les experts sont d'accord » peut masquer un consensus minoritaire ou fabriqué
 
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+La forme d'une autorité (titre, ton, présentation) peut totalement nous convaincre.
+On vérifie rarement si l'autorité est réelle ou construite.
 
-- **Exemple 4 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to False Authority**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur false authority, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel à la Fausse Autorité = s'appuyer sur une autorité fictive, anonyme ou hors domaine pour valider une affirmation.`,
   },
   19: {
-    beginner: `## Appeal to Anonymous Authority — approfondi (Débutant)
+    beginner: `Appel à l'Autorité Anonyme = invoquer une source non identifiable pour rendre une affirmation difficile à contester.`,
+    intermediate: `Appel à l'Autorité Anonyme
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Description :
+Invoquer des experts ou des sources non identifiés pour appuyer une affirmation.
+Sans identité, il n'y a aucun moyen de vérifier la compétence ou l'existence de la source.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (médias)
+« Des sources proches du gouvernement affirment que... »
+Sans nom ni institution, il est impossible de valider la crédibilité de la source.
+L'anonymat peut cacher l'absence totale de source.
 
-**Pourquoi c’est bien Appeal to Anonymous Authority**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (publicité)
+« 9 dentistes sur 10 recommandent ce dentifrice. »
+Quels dentistes ? Dans quelle étude ? Rémunérés par qui ?
+L'autorité anonyme donne l'impression de preuves sans en fournir.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Anonymous Authority — approfondi (Intermédiaire)
+Comment ça fonctionne
+En nommant une catégorie sans individus identifiables, on crée une autorité fictive que personne ne peut contester.
+C'est un raccourci rhétorique qui court-circuite la vérification.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Donc :
+Une source sans nom ne peut pas être vérifiée
+"Des experts disent" sans référence n'est pas une preuve
+Demander toujours : qui exactement, et où peut-on le vérifier ?
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Infalsifiabilité de la source :
+Une autorité anonyme ne peut ni être confirmée ni être réfutée.
+C'est précisément pourquoi elle est utilisée — pour protéger l'affirmation de tout examen.
 
-Le passage montre **Appeal to Anonymous Authority** : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Le journalisme peut amplifier des rumeurs habillées en sources officielles
+Les théories du complot s'appuient sur des "initiés anonymes"
+La publicité simule des consensus scientifiques avec des chiffres sans référence
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On accorde de la crédibilité à des sources qu'on ne pourrait même pas nommer.
+L'anonymat est souvent un signe d'absence, pas de discrétion.
 
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+En une phrase
+Appel à l'Autorité Anonyme = invoquer une source non identifiable pour rendre une affirmation difficile à contester.`,
+    expert: `Appel à l'Autorité Anonyme
 
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Description :
+Invoquer des experts ou des sources non identifiés pour appuyer une affirmation.
+Sans identité, il n'y a aucun moyen de vérifier la compétence ou l'existence de la source.
 
-**En une phrase**  
-**Appeal to Anonymous Authority**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Anonymous Authority — approfondi (Expert)
+Exemple (médias)
+« Des sources proches du gouvernement affirment que... »
+Sans nom ni institution, il est impossible de valider la crédibilité de la source.
+L'anonymat peut cacher l'absence totale de source.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Exemple (publicité)
+« 9 dentistes sur 10 recommandent ce dentifrice. »
+Quels dentistes ? Dans quelle étude ? Rémunérés par qui ?
+L'autorité anonyme donne l'impression de preuves sans en fournir.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+En nommant une catégorie sans individus identifiables, on crée une autorité fictive que personne ne peut contester.
+C'est un raccourci rhétorique qui court-circuite la vérification.
 
-Ici, **Appeal to Anonymous Authority** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Donc :
+Une source sans nom ne peut pas être vérifiée
+"Des experts disent" sans référence n'est pas une preuve
+Demander toujours : qui exactement, et où peut-on le vérifier ?
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Concept clé
+Infalsifiabilité de la source :
+Une autorité anonyme ne peut ni être confirmée ni être réfutée.
+C'est précisément pourquoi elle est utilisée — pour protéger l'affirmation de tout examen.
 
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Le journalisme peut amplifier des rumeurs habillées en sources officielles
+Les théories du complot s'appuient sur des "initiés anonymes"
+La publicité simule des consensus scientifiques avec des chiffres sans référence
 
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On accorde de la crédibilité à des sources qu'on ne pourrait même pas nommer.
+L'anonymat est souvent un signe d'absence, pas de discrétion.
 
-- **Exemple 4 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Anonymous Authority**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Appel à l'Autorité Anonyme = invoquer une source non identifiable pour rendre une affirmation difficile à contester.`,
   },
   20: {
-    beginner: `## Appeal to Anonymous Authority — approfondi (Débutant)
+    beginner: `Appel à l'Autorité Anonyme = invoquer une source non identifiable pour rendre une affirmation difficile à contester.`,
+    intermediate: `Appel à l'Autorité Anonyme
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Description :
+Invoquer des experts ou des sources non identifiés pour appuyer une affirmation.
+Sans identité, il n'y a aucun moyen de vérifier la compétence ou l'existence de la source.
 
-**L’exemple affiché**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Exemple (médias)
+« Des sources proches du gouvernement affirment que... »
+Sans nom ni institution, il est impossible de valider la crédibilité de la source.
+L'anonymat peut cacher l'absence totale de source.
 
-**Pourquoi c’est bien Appeal to Anonymous Authority**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (publicité)
+« 9 dentistes sur 10 recommandent ce dentifrice. »
+Quels dentistes ? Dans quelle étude ? Rémunérés par qui ?
+L'autorité anonyme donne l'impression de preuves sans en fournir.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Anonymous Authority — approfondi (Intermédiaire)
+Comment ça fonctionne
+En nommant une catégorie sans individus identifiables, on crée une autorité fictive que personne ne peut contester.
+C'est un raccourci rhétorique qui court-circuite la vérification.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Donc :
+Une source sans nom ne peut pas être vérifiée
+"Des experts disent" sans référence n'est pas une preuve
+Demander toujours : qui exactement, et où peut-on le vérifier ?
 
-**Cet exemple**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Concept clé
+Infalsifiabilité de la source :
+Une autorité anonyme ne peut ni être confirmée ni être réfutée.
+C'est précisément pourquoi elle est utilisée — pour protéger l'affirmation de tout examen.
 
-Le passage montre **Appeal to Anonymous Authority** : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Le journalisme peut amplifier des rumeurs habillées en sources officielles
+Les théories du complot s'appuient sur des "initiés anonymes"
+La publicité simule des consensus scientifiques avec des chiffres sans référence
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On accorde de la crédibilité à des sources qu'on ne pourrait même pas nommer.
+L'anonymat est souvent un signe d'absence, pas de discrétion.
 
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+En une phrase
+Appel à l'Autorité Anonyme = invoquer une source non identifiable pour rendre une affirmation difficile à contester.`,
+    expert: `Appel à l'Autorité Anonyme
 
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Description :
+Invoquer des experts ou des sources non identifiés pour appuyer une affirmation.
+Sans identité, il n'y a aucun moyen de vérifier la compétence ou l'existence de la source.
 
-**En une phrase**  
-**Appeal to Anonymous Authority**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Anonymous Authority — approfondi (Expert)
+Exemple (médias)
+« Des sources proches du gouvernement affirment que... »
+Sans nom ni institution, il est impossible de valider la crédibilité de la source.
+L'anonymat peut cacher l'absence totale de source.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Exemple (publicité)
+« 9 dentistes sur 10 recommandent ce dentifrice. »
+Quels dentistes ? Dans quelle étude ? Rémunérés par qui ?
+L'autorité anonyme donne l'impression de preuves sans en fournir.
 
-**Appliqué à ce passage**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Comment ça fonctionne
+En nommant une catégorie sans individus identifiables, on crée une autorité fictive que personne ne peut contester.
+C'est un raccourci rhétorique qui court-circuite la vérification.
 
-Ici, **Appeal to Anonymous Authority** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Donc :
+Une source sans nom ne peut pas être vérifiée
+"Des experts disent" sans référence n'est pas une preuve
+Demander toujours : qui exactement, et où peut-on le vérifier ?
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Concept clé
+Infalsifiabilité de la source :
+Une autorité anonyme ne peut ni être confirmée ni être réfutée.
+C'est précisément pourquoi elle est utilisée — pour protéger l'affirmation de tout examen.
 
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Le journalisme peut amplifier des rumeurs habillées en sources officielles
+Les théories du complot s'appuient sur des "initiés anonymes"
+La publicité simule des consensus scientifiques avec des chiffres sans référence
 
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On accorde de la crédibilité à des sources qu'on ne pourrait même pas nommer.
+L'anonymat est souvent un signe d'absence, pas de discrétion.
 
-- **Exemple 4 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Anonymous Authority**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Appel à l'Autorité Anonyme = invoquer une source non identifiable pour rendre une affirmation difficile à contester.`,
   },
   21: {
-    beginner: `## Appeal to Anonymous Authority — approfondi (Débutant)
+    beginner: `Appel à l'Autorité Anonyme = invoquer une source non identifiable pour rendre une affirmation difficile à contester.`,
+    intermediate: `Appel à l'Autorité Anonyme
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Description :
+Invoquer des experts ou des sources non identifiés pour appuyer une affirmation.
+Sans identité, il n'y a aucun moyen de vérifier la compétence ou l'existence de la source.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (médias)
+« Des sources proches du gouvernement affirment que... »
+Sans nom ni institution, il est impossible de valider la crédibilité de la source.
+L'anonymat peut masquer l'absence totale de source.
 
-**Pourquoi c’est bien Appeal to Anonymous Authority**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (publicité)
+« 9 dentistes sur 10 recommandent ce dentifrice. »
+Quels dentistes ? Dans quelle étude ? Financée par qui ?
+L'autorité anonyme donne l'impression de preuves sans en fournir.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Anonymous Authority — approfondi (Intermédiaire)
+Comment ça fonctionne
+En nommant une catégorie sans individus identifiables, on crée une autorité fictive que personne ne peut contester.
+C'est un raccourci rhétorique qui court-circuite la vérification.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Donc :
+Une source sans nom ne peut pas être vérifiée
+"Des experts disent" sans référence n'est pas une preuve
+Demander toujours : qui exactement, et où peut-on le vérifier ?
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Infalsifiabilité de la source :
+Une autorité anonyme ne peut ni être confirmée ni être réfutée.
+C'est précisément pourquoi elle est utilisée — pour protéger l'affirmation de tout examen.
 
-Le passage montre **Appeal to Anonymous Authority** : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Le journalisme peut amplifier des rumeurs habillées en sources officielles
+Les théories du complot s'appuient sur des "initiés anonymes"
+La publicité simule des consensus scientifiques avec des chiffres sans référence
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On accorde de la crédibilité à des sources qu'on ne pourrait même pas nommer.
+L'anonymat est souvent un signe d'absence, pas de discrétion.
 
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+En une phrase
+Appel à l'Autorité Anonyme = invoquer une source non identifiable pour rendre une affirmation difficile à contester.`,
+    expert: `Appel à l'Autorité Anonyme
 
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Description :
+Invoquer des experts ou des sources non identifiés pour appuyer une affirmation.
+Sans identité, il n'y a aucun moyen de vérifier la compétence ou l'existence de la source.
 
-**En une phrase**  
-**Appeal to Anonymous Authority**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Anonymous Authority — approfondi (Expert)
+Exemple (médias)
+« Des sources proches du gouvernement affirment que... »
+Sans nom ni institution, il est impossible de valider la crédibilité de la source.
+L'anonymat peut masquer l'absence totale de source.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Exemple (publicité)
+« 9 dentistes sur 10 recommandent ce dentifrice. »
+Quels dentistes ? Dans quelle étude ? Financée par qui ?
+L'autorité anonyme donne l'impression de preuves sans en fournir.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+En nommant une catégorie sans individus identifiables, on crée une autorité fictive que personne ne peut contester.
+C'est un raccourci rhétorique qui court-circuite la vérification.
 
-Ici, **Appeal to Anonymous Authority** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Donc :
+Une source sans nom ne peut pas être vérifiée
+"Des experts disent" sans référence n'est pas une preuve
+Demander toujours : qui exactement, et où peut-on le vérifier ?
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Concept clé
+Infalsifiabilité de la source :
+Une autorité anonyme ne peut ni être confirmée ni être réfutée.
+C'est précisément pourquoi elle est utilisée — pour protéger l'affirmation de tout examen.
 
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Le journalisme peut amplifier des rumeurs habillées en sources officielles
+Les théories du complot s'appuient sur des "initiés anonymes"
+La publicité simule des consensus scientifiques avec des chiffres sans référence
 
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On accorde de la crédibilité à des sources qu'on ne pourrait même pas nommer.
+L'anonymat est souvent un signe d'absence, pas de discrétion.
 
-- **Exemple 4 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Anonymous Authority**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur anonymous authority, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Appel à l'Autorité Anonyme = invoquer une source non identifiable pour rendre une affirmation difficile à contester.`,
   },
   22: {
-    beginner: `## Appeal to Tradition — approfondi (Débutant)
+    beginner: `Appel à la Tradition = supposer qu'une chose est juste parce qu'on l'a toujours fait ainsi.`,
+    intermediate: `Appel à la Tradition
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une chose est juste ou meilleure simplement parce qu'elle a toujours été faite ainsi.
+L'ancienneté n'est pas une preuve de valeur.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (institutions)
+« Le mariage a toujours été entre un homme et une femme — il ne faut pas changer ça maintenant. »
+La durée d'une pratique ne prouve pas qu'elle est correcte ou optimale.
+L'histoire perpétue aussi bien les erreurs que les sagesses.
 
-**Pourquoi c’est bien Appeal to Tradition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (protocoles techniques)
+« Ce protocole est la norme depuis cinquante ans. Le changer serait dangereux. »
+L'ancienneté d'un protocole peut refléter l'inertie institutionnelle, pas son excellence.
+Des protocoles vieux de cinquante ans ont souvent besoin d'être mis à jour.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Tradition — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument assume que ce qui a duré a été sélectionné pour sa qualité.
+Mais les traditions persistent aussi par habitude, confort et résistance au changement.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Donc :
+Une longue histoire n'est pas une preuve de justesse
+Le changement peut être une amélioration, pas une trahison
+Il faut examiner POURQUOI quelque chose a duré, pas seulement QUE ça a duré
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Argumentum ad antiquitatem :
+Le nom formel de cette erreur.
+Il confond « c'est ainsi que ça a toujours été » avec « c'est ainsi que ça devrait être ».
 
-Le passage montre **Appeal to Tradition** : soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des normes sociales nuisibles persistent longtemps après qu'on en connaît les alternatives
+« On a toujours fait comme ça » paralyse l'innovation dans les organisations
+Les remèdes traditionnels sont parfois préférés à des traitements testés
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Le confort que procure le familier n'est pas une preuve de valeur.
+La plupart des traditions ont été inventées par quelqu'un qui n'avait pas de sagesse particulière non plus.
 
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Tradition = supposer qu'une chose est juste parce qu'on l'a toujours fait ainsi.`,
+    expert: `Appel à la Tradition
 
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une chose est juste ou meilleure simplement parce qu'elle a toujours été faite ainsi.
+L'ancienneté n'est pas une preuve de valeur.
 
-**En une phrase**  
-**Appeal to Tradition**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Tradition — approfondi (Expert)
+Exemple (institutions)
+« Le mariage a toujours été entre un homme et une femme — il ne faut pas changer ça maintenant. »
+La durée d'une pratique ne prouve pas qu'elle est correcte ou optimale.
+L'histoire perpétue aussi bien les erreurs que les sagesses.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Exemple (protocoles techniques)
+« Ce protocole est la norme depuis cinquante ans. Le changer serait dangereux. »
+L'ancienneté d'un protocole peut refléter l'inertie institutionnelle, pas son excellence.
+Des protocoles vieux de cinquante ans ont souvent besoin d'être mis à jour.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument assume que ce qui a duré a été sélectionné pour sa qualité.
+Mais les traditions persistent aussi par habitude, confort et résistance au changement.
 
-Ici, **Appeal to Tradition** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Donc :
+Une longue histoire n'est pas une preuve de justesse
+Le changement peut être une amélioration, pas une trahison
+Il faut examiner POURQUOI quelque chose a duré, pas seulement QUE ça a duré
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Concept clé
+Argumentum ad antiquitatem :
+Le nom formel de cette erreur.
+Il confond « c'est ainsi que ça a toujours été » avec « c'est ainsi que ça devrait être ».
 
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des normes sociales nuisibles persistent longtemps après qu'on en connaît les alternatives
+« On a toujours fait comme ça » paralyse l'innovation dans les organisations
+Les remèdes traditionnels sont parfois préférés à des traitements testés
 
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Le confort que procure le familier n'est pas une preuve de valeur.
+La plupart des traditions ont été inventées par quelqu'un qui n'avait pas de sagesse particulière non plus.
 
-- **Exemple 4 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Tradition**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appel à la Tradition = supposer qu'une chose est juste parce qu'on l'a toujours fait ainsi.`,
   },
   23: {
-    beginner: `## Appeal to Tradition — approfondi (Débutant)
+    beginner: `Appel à la Tradition = supposer qu'une chose est juste parce qu'on l'a toujours fait ainsi.`,
+    intermediate: `Appel à la Tradition
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une chose est juste ou meilleure simplement parce qu'elle a toujours été faite ainsi.
+L'ancienneté n'est pas une preuve de valeur.
 
-**L’exemple affiché**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Exemple (institutions)
+« Le mariage a toujours été entre un homme et une femme — il ne faut pas changer ça maintenant. »
+La durée d'une pratique ne prouve pas qu'elle est correcte ou optimale.
+L'histoire perpétue aussi bien les erreurs que les sagesses.
 
-**Pourquoi c’est bien Appeal to Tradition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (protocoles techniques)
+« Ce protocole est la norme depuis cinquante ans. Le changer serait dangereux. »
+L'ancienneté d'un protocole peut refléter l'inertie institutionnelle, pas son excellence.
+Des protocoles vieux de cinquante ans ont souvent besoin d'être mis à jour.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Tradition — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument assume que ce qui a duré a été sélectionné pour sa qualité.
+Mais les traditions persistent aussi par habitude, confort et résistance au changement.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Donc :
+Une longue histoire n'est pas une preuve de justesse
+Le changement peut être une amélioration, pas une trahison
+Il faut examiner POURQUOI quelque chose a duré, pas seulement QUE ça a duré
 
-**Cet exemple**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Concept clé
+Argumentum ad antiquitatem :
+Le nom formel de cette erreur.
+Il confond « c'est ainsi que ça a toujours été » avec « c'est ainsi que ça devrait être ».
 
-Le passage montre **Appeal to Tradition** : soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des normes sociales nuisibles persistent longtemps après qu'on en connaît les alternatives
+« On a toujours fait comme ça » paralyse l'innovation dans les organisations
+Les remèdes traditionnels sont parfois préférés à des traitements testés
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Le confort que procure le familier n'est pas une preuve de valeur.
+La plupart des traditions ont été inventées par quelqu'un qui n'avait pas de sagesse particulière non plus.
 
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Tradition = supposer qu'une chose est juste parce qu'on l'a toujours fait ainsi.`,
+    expert: `Appel à la Tradition
 
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une chose est juste ou meilleure simplement parce qu'elle a toujours été faite ainsi.
+L'ancienneté n'est pas une preuve de valeur.
 
-**En une phrase**  
-**Appeal to Tradition**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Tradition — approfondi (Expert)
+Exemple (institutions)
+« Le mariage a toujours été entre un homme et une femme — il ne faut pas changer ça maintenant. »
+La durée d'une pratique ne prouve pas qu'elle est correcte ou optimale.
+L'histoire perpétue aussi bien les erreurs que les sagesses.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Exemple (protocoles techniques)
+« Ce protocole est la norme depuis cinquante ans. Le changer serait dangereux. »
+L'ancienneté d'un protocole peut refléter l'inertie institutionnelle, pas son excellence.
+Des protocoles vieux de cinquante ans ont souvent besoin d'être mis à jour.
 
-**Appliqué à ce passage**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Comment ça fonctionne
+L'argument assume que ce qui a duré a été sélectionné pour sa qualité.
+Mais les traditions persistent aussi par habitude, confort et résistance au changement.
 
-Ici, **Appeal to Tradition** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Donc :
+Une longue histoire n'est pas une preuve de justesse
+Le changement peut être une amélioration, pas une trahison
+Il faut examiner POURQUOI quelque chose a duré, pas seulement QUE ça a duré
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Concept clé
+Argumentum ad antiquitatem :
+Le nom formel de cette erreur.
+Il confond « c'est ainsi que ça a toujours été » avec « c'est ainsi que ça devrait être ».
 
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des normes sociales nuisibles persistent longtemps après qu'on en connaît les alternatives
+« On a toujours fait comme ça » paralyse l'innovation dans les organisations
+Les remèdes traditionnels sont parfois préférés à des traitements testés
 
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Le confort que procure le familier n'est pas une preuve de valeur.
+La plupart des traditions ont été inventées par quelqu'un qui n'avait pas de sagesse particulière non plus.
 
-- **Exemple 4 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Tradition**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appel à la Tradition = supposer qu'une chose est juste parce qu'on l'a toujours fait ainsi.`,
   },
   24: {
-    beginner: `## Appeal to Tradition — approfondi (Débutant)
+    beginner: `Appel à la Tradition = supposer qu'une chose est juste parce qu'on l'a toujours fait ainsi.`,
+    intermediate: `Appel à la Tradition
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une chose est juste ou meilleure simplement parce qu'elle a toujours été faite ainsi.
+L'ancienneté n'est pas une preuve de valeur.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (institutions)
+« Le mariage a toujours été entre un homme et une femme — il ne faut pas changer ça maintenant. »
+La durée d'une pratique ne prouve pas qu'elle est correcte ou optimale.
+L'histoire perpétue aussi bien les erreurs que les sagesses.
 
-**Pourquoi c’est bien Appeal to Tradition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (protocoles techniques)
+« Ce protocole est la norme depuis cinquante ans. Le changer serait dangereux. »
+L'ancienneté d'un protocole peut refléter l'inertie institutionnelle, pas son excellence.
+Des protocoles vieux de cinquante ans ont souvent besoin d'être mis à jour.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Tradition — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument assume que ce qui a duré a été sélectionné pour sa qualité.
+Mais les traditions persistent aussi par habitude, confort et résistance au changement.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Donc :
+Une longue histoire n'est pas une preuve de justesse
+Le changement peut être une amélioration, pas une trahison
+Il faut examiner POURQUOI quelque chose a duré, pas seulement QUE ça a duré
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Argumentum ad antiquitatem :
+Le nom formel de cette erreur.
+Il confond « c'est ainsi que ça a toujours été » avec « c'est ainsi que ça devrait être ».
 
-Le passage montre **Appeal to Tradition** : soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des normes sociales nuisibles persistent longtemps après qu'on en connaît les alternatives
+« On a toujours fait comme ça » paralyse l'innovation dans les organisations
+Les remèdes traditionnels sont parfois préférés à des traitements testés
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Le confort que procure le familier n'est pas une preuve de valeur.
+La plupart des traditions ont été inventées par quelqu'un qui n'avait pas de sagesse particulière non plus.
 
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Tradition = supposer qu'une chose est juste parce qu'on l'a toujours fait ainsi.`,
+    expert: `Appel à la Tradition
 
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une chose est juste ou meilleure simplement parce qu'elle a toujours été faite ainsi.
+L'ancienneté n'est pas une preuve de valeur.
 
-**En une phrase**  
-**Appeal to Tradition**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Tradition — approfondi (Expert)
+Exemple (institutions)
+« Le mariage a toujours été entre un homme et une femme — il ne faut pas changer ça maintenant. »
+La durée d'une pratique ne prouve pas qu'elle est correcte ou optimale.
+L'histoire perpétue aussi bien les erreurs que les sagesses.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Exemple (protocoles techniques)
+« Ce protocole est la norme depuis cinquante ans. Le changer serait dangereux. »
+L'ancienneté d'un protocole peut refléter l'inertie institutionnelle, pas son excellence.
+Des protocoles vieux de cinquante ans ont souvent besoin d'être mis à jour.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument assume que ce qui a duré a été sélectionné pour sa qualité.
+Mais les traditions persistent aussi par habitude, confort et résistance au changement.
 
-Ici, **Appeal to Tradition** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Donc :
+Une longue histoire n'est pas une preuve de justesse
+Le changement peut être une amélioration, pas une trahison
+Il faut examiner POURQUOI quelque chose a duré, pas seulement QUE ça a duré
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Concept clé
+Argumentum ad antiquitatem :
+Le nom formel de cette erreur.
+Il confond « c'est ainsi que ça a toujours été » avec « c'est ainsi que ça devrait être ».
 
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des normes sociales nuisibles persistent longtemps après qu'on en connaît les alternatives
+« On a toujours fait comme ça » paralyse l'innovation dans les organisations
+Les remèdes traditionnels sont parfois préférés à des traitements testés
 
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Le confort que procure le familier n'est pas une preuve de valeur.
+La plupart des traditions ont été inventées par quelqu'un qui n'avait pas de sagesse particulière non plus.
 
-- **Exemple 4 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Tradition**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur tradition, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appel à la Tradition = supposer qu'une chose est juste parce qu'on l'a toujours fait ainsi.`,
   },
   25: {
-    beginner: `## Appeal to Novelty — approfondi (Débutant)
+    beginner: `Appel à la Nouveauté = supposer qu'une chose est meilleure simplement parce qu'elle est plus récente.`,
+    intermediate: `Appel à la Nouveauté
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une chose est meilleure ou vraie simplement parce qu'elle est nouvelle ou moderne.
+Nouveau ≠ amélioré.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (technologie)
+« Ce protocole est dépassé — il faut adopter la nouvelle version. »
+Les nouvelles versions peuvent introduire de nouvelles failles ou perdre des fonctionnalités éprouvées.
+La date de sortie n'est pas un indicateur de qualité.
 
-**Pourquoi c’est bien Appeal to Novelty**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (tendances alimentaires)
+« Ce régime est la dernière tendance — ça doit forcément marcher. »
+De nombreux régimes tendance disparaissent après quelques années parce que leur popularité précède les preuves.
+La mode précède l'evidence ; l'evidence dure plus longtemps.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Novelty — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument traite « nouveau » comme une qualité intrinsèque, pas comme une simple description.
+Il ignore que les nouvelles versions peuvent être des régressions.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Donc :
+Les nouvelles choses nécessitent quand même des preuves
+Les options plus anciennes peuvent surpasser les plus récentes
+Tendance ≠ vérité
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Biais de nouveauté :
+La tendance humaine à accorder plus d'attention et de valeur aux choses nouvelles.
+Les marketeurs l'exploitent en relabelisant d'anciens produits comme « nouveau et amélioré ».
 
-Le passage montre **Appeal to Novelty** : soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des mises à jour logicielles remplacent des fonctionnalités stables par des versions moins testées
+Des personnes abandonnent des solutions fonctionnelles pour des alternatives tendance
+« Révolutionnaire » et « de pointe » sont utilisés comme synonymes de « supérieur »
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Notre appétit pour la nouveauté est une vulnérabilité, pas une force.
+Il nous rend faciles à commercialiser et difficiles à satisfaire durablement.
 
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Nouveauté = supposer qu'une chose est meilleure simplement parce qu'elle est plus récente.`,
+    expert: `Appel à la Nouveauté
 
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une chose est meilleure ou vraie simplement parce qu'elle est nouvelle ou moderne.
+Nouveau ≠ amélioré.
 
-**En une phrase**  
-**Appeal to Novelty**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Novelty — approfondi (Expert)
+Exemple (technologie)
+« Ce protocole est dépassé — il faut adopter la nouvelle version. »
+Les nouvelles versions peuvent introduire de nouvelles failles ou perdre des fonctionnalités éprouvées.
+La date de sortie n'est pas un indicateur de qualité.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Exemple (tendances alimentaires)
+« Ce régime est la dernière tendance — ça doit forcément marcher. »
+De nombreux régimes tendance disparaissent après quelques années parce que leur popularité précède les preuves.
+La mode précède l'evidence ; l'evidence dure plus longtemps.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument traite « nouveau » comme une qualité intrinsèque, pas comme une simple description.
+Il ignore que les nouvelles versions peuvent être des régressions.
 
-Ici, **Appeal to Novelty** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Donc :
+Les nouvelles choses nécessitent quand même des preuves
+Les options plus anciennes peuvent surpasser les plus récentes
+Tendance ≠ vérité
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Concept clé
+Biais de nouveauté :
+La tendance humaine à accorder plus d'attention et de valeur aux choses nouvelles.
+Les marketeurs l'exploitent en relabelisant d'anciens produits comme « nouveau et amélioré ».
 
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des mises à jour logicielles remplacent des fonctionnalités stables par des versions moins testées
+Des personnes abandonnent des solutions fonctionnelles pour des alternatives tendance
+« Révolutionnaire » et « de pointe » sont utilisés comme synonymes de « supérieur »
 
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Notre appétit pour la nouveauté est une vulnérabilité, pas une force.
+Il nous rend faciles à commercialiser et difficiles à satisfaire durablement.
 
-- **Exemple 4 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Novelty**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à la Nouveauté = supposer qu'une chose est meilleure simplement parce qu'elle est plus récente.`,
   },
   26: {
-    beginner: `## Appeal to Novelty — approfondi (Débutant)
+    beginner: `Appel à la Nouveauté = supposer qu'une chose est meilleure simplement parce qu'elle est plus récente.`,
+    intermediate: `Appel à la Nouveauté
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une chose est meilleure ou vraie simplement parce qu'elle est nouvelle ou moderne.
+Nouveau ≠ amélioré.
 
-**L’exemple affiché**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Exemple (technologie)
+« Ce protocole est dépassé — il faut adopter la nouvelle version. »
+Les nouvelles versions peuvent introduire de nouvelles failles ou perdre des fonctionnalités éprouvées.
+La date de sortie n'est pas un indicateur de qualité.
 
-**Pourquoi c’est bien Appeal to Novelty**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (tendances alimentaires)
+« Ce régime est la dernière tendance — ça doit forcément marcher. »
+De nombreux régimes tendance disparaissent après quelques années parce que leur popularité précède les preuves.
+La mode précède l'evidence ; l'evidence dure plus longtemps.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Novelty — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument traite « nouveau » comme une qualité intrinsèque, pas comme une simple description.
+Il ignore que les nouvelles versions peuvent être des régressions.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Donc :
+Les nouvelles choses nécessitent quand même des preuves
+Les options plus anciennes peuvent surpasser les plus récentes
+Tendance ≠ vérité
 
-**Cet exemple**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Concept clé
+Biais de nouveauté :
+La tendance humaine à accorder plus d'attention et de valeur aux choses nouvelles.
+Les marketeurs l'exploitent en relabelisant d'anciens produits comme « nouveau et amélioré ».
 
-Le passage montre **Appeal to Novelty** : soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des mises à jour logicielles remplacent des fonctionnalités stables par des versions moins testées
+Des personnes abandonnent des solutions fonctionnelles pour des alternatives tendance
+« Révolutionnaire » et « de pointe » sont utilisés comme synonymes de « supérieur »
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Notre appétit pour la nouveauté est une vulnérabilité, pas une force.
+Il nous rend faciles à commercialiser et difficiles à satisfaire durablement.
 
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Nouveauté = supposer qu'une chose est meilleure simplement parce qu'elle est plus récente.`,
+    expert: `Appel à la Nouveauté
 
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une chose est meilleure ou vraie simplement parce qu'elle est nouvelle ou moderne.
+Nouveau ≠ amélioré.
 
-**En une phrase**  
-**Appeal to Novelty**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Novelty — approfondi (Expert)
+Exemple (technologie)
+« Ce protocole est dépassé — il faut adopter la nouvelle version. »
+Les nouvelles versions peuvent introduire de nouvelles failles ou perdre des fonctionnalités éprouvées.
+La date de sortie n'est pas un indicateur de qualité.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Exemple (tendances alimentaires)
+« Ce régime est la dernière tendance — ça doit forcément marcher. »
+De nombreux régimes tendance disparaissent après quelques années parce que leur popularité précède les preuves.
+La mode précède l'evidence ; l'evidence dure plus longtemps.
 
-**Appliqué à ce passage**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Comment ça fonctionne
+L'argument traite « nouveau » comme une qualité intrinsèque, pas comme une simple description.
+Il ignore que les nouvelles versions peuvent être des régressions.
 
-Ici, **Appeal to Novelty** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Donc :
+Les nouvelles choses nécessitent quand même des preuves
+Les options plus anciennes peuvent surpasser les plus récentes
+Tendance ≠ vérité
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Concept clé
+Biais de nouveauté :
+La tendance humaine à accorder plus d'attention et de valeur aux choses nouvelles.
+Les marketeurs l'exploitent en relabelisant d'anciens produits comme « nouveau et amélioré ».
 
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des mises à jour logicielles remplacent des fonctionnalités stables par des versions moins testées
+Des personnes abandonnent des solutions fonctionnelles pour des alternatives tendance
+« Révolutionnaire » et « de pointe » sont utilisés comme synonymes de « supérieur »
 
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Notre appétit pour la nouveauté est une vulnérabilité, pas une force.
+Il nous rend faciles à commercialiser et difficiles à satisfaire durablement.
 
-- **Exemple 4 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Novelty**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à la Nouveauté = supposer qu'une chose est meilleure simplement parce qu'elle est plus récente.`,
   },
   27: {
-    beginner: `## Appeal to Novelty — approfondi (Débutant)
+    beginner: `Appel à la Nouveauté = supposer qu'une chose est meilleure simplement parce qu'elle est plus récente.`,
+    intermediate: `Appel à la Nouveauté
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une chose est meilleure ou vraie simplement parce qu'elle est nouvelle ou moderne.
+Nouveau ≠ amélioré.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (technologie)
+« Ce protocole est dépassé — il faut adopter la nouvelle version. »
+Les nouvelles versions peuvent introduire de nouvelles failles ou perdre des fonctionnalités éprouvées.
+La date de sortie n'est pas un indicateur de qualité.
 
-**Pourquoi c’est bien Appeal to Novelty**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (tendances alimentaires)
+« Ce régime est la dernière tendance — ça doit forcément marcher. »
+De nombreux régimes tendance disparaissent après quelques années parce que leur popularité précède les preuves.
+La mode précède l'evidence ; l'evidence dure plus longtemps.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Novelty — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument traite « nouveau » comme une qualité intrinsèque, pas comme une simple description.
+Il ignore que les nouvelles versions peuvent être des régressions.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Donc :
+Les nouvelles choses nécessitent quand même des preuves
+Les options plus anciennes peuvent surpasser les plus récentes
+Tendance ≠ vérité
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Biais de nouveauté :
+La tendance humaine à accorder plus d'attention et de valeur aux choses nouvelles.
+Les marketeurs l'exploitent en relabelisant d'anciens produits comme « nouveau et amélioré ».
 
-Le passage montre **Appeal to Novelty** : soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des mises à jour logicielles remplacent des fonctionnalités stables par des versions moins testées
+Des personnes abandonnent des solutions fonctionnelles pour des alternatives tendance
+« Révolutionnaire » et « de pointe » sont utilisés comme synonymes de « supérieur »
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Notre appétit pour la nouveauté est une vulnérabilité, pas une force.
+Il nous rend faciles à commercialiser et difficiles à satisfaire durablement.
 
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Nouveauté = supposer qu'une chose est meilleure simplement parce qu'elle est plus récente.`,
+    expert: `Appel à la Nouveauté
 
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une chose est meilleure ou vraie simplement parce qu'elle est nouvelle ou moderne.
+Nouveau ≠ amélioré.
 
-**En une phrase**  
-**Appeal to Novelty**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Novelty — approfondi (Expert)
+Exemple (technologie)
+« Ce protocole est dépassé — il faut adopter la nouvelle version. »
+Les nouvelles versions peuvent introduire de nouvelles failles ou perdre des fonctionnalités éprouvées.
+La date de sortie n'est pas un indicateur de qualité.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Exemple (tendances alimentaires)
+« Ce régime est la dernière tendance — ça doit forcément marcher. »
+De nombreux régimes tendance disparaissent après quelques années parce que leur popularité précède les preuves.
+La mode précède l'evidence ; l'evidence dure plus longtemps.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument traite « nouveau » comme une qualité intrinsèque, pas comme une simple description.
+Il ignore que les nouvelles versions peuvent être des régressions.
 
-Ici, **Appeal to Novelty** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Donc :
+Les nouvelles choses nécessitent quand même des preuves
+Les options plus anciennes peuvent surpasser les plus récentes
+Tendance ≠ vérité
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Concept clé
+Biais de nouveauté :
+La tendance humaine à accorder plus d'attention et de valeur aux choses nouvelles.
+Les marketeurs l'exploitent en relabelisant d'anciens produits comme « nouveau et amélioré ».
 
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des mises à jour logicielles remplacent des fonctionnalités stables par des versions moins testées
+Des personnes abandonnent des solutions fonctionnelles pour des alternatives tendance
+« Révolutionnaire » et « de pointe » sont utilisés comme synonymes de « supérieur »
 
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Notre appétit pour la nouveauté est une vulnérabilité, pas une force.
+Il nous rend faciles à commercialiser et difficiles à satisfaire durablement.
 
-- **Exemple 4 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Novelty**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur novelty, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à la Nouveauté = supposer qu'une chose est meilleure simplement parce qu'elle est plus récente.`,
   },
   28: {
-    beginner: `## Appeal to Popularity — approfondi (Débutant)
+    beginner: `Appel à la Popularité = traiter la croyance répandue comme une preuve que quelque chose est vrai.`,
+    intermediate: `Appel à la Popularité
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une proposition est vraie parce que beaucoup de personnes y croient.
+La popularité mesure la croyance, pas la vérité.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (produits)
+« Tout le monde achète ce produit, c'est donc qu'il est bon. »
+Le volume de ventes reflète le marketing, la pression sociale et les tendances.
+Il ne dit rien sur la qualité, la sécurité ou la valeur.
 
-**Pourquoi c’est bien Appeal to Popularity**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (croyances à grande échelle)
+« Des millions de personnes croient en cela — ça ne peut pas être faux. »
+Des millions de personnes ont simultanément cru à des choses qui ont depuis été réfutées.
+L'échelle de la croyance n'augmente pas sa vérité.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Popularity — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument suppose que consensus = justesse.
+Mais les humains sont grégaires : on adopte les croyances du groupe pour des raisons sociales, pas logiques.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Donc :
+L'opinion majoritaire peut se tromper
+La croyance de masse a historiquement soutenu des erreurs monumentales
+La vérité ne se vote pas
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Argumentum ad populum :
+Le nom formel. Il exploite le besoin humain d'appartenance et de conformité.
+C'est pourquoi la publicité montre des foules utilisant un produit plutôt que d'expliquer comment il fonctionne.
 
-Le passage montre **Appeal to Popularity** : soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+La désinformation se propage plus vite quand elle semble répandue
+Les best-sellers génèrent plus d'achats indépendamment de leur qualité
+La preuve sociale court-circuite l'évaluation indépendante
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Tes croyances sont en partie le produit de celles des personnes qui t'entourent.
+La pensée indépendante est beaucoup plus difficile qu'elle ne semble.
 
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Popularité = traiter la croyance répandue comme une preuve que quelque chose est vrai.`,
+    expert: `Appel à la Popularité
 
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une proposition est vraie parce que beaucoup de personnes y croient.
+La popularité mesure la croyance, pas la vérité.
 
-**En une phrase**  
-**Appeal to Popularity**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Popularity — approfondi (Expert)
+Exemple (produits)
+« Tout le monde achète ce produit, c'est donc qu'il est bon. »
+Le volume de ventes reflète le marketing, la pression sociale et les tendances.
+Il ne dit rien sur la qualité, la sécurité ou la valeur.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Exemple (croyances à grande échelle)
+« Des millions de personnes croient en cela — ça ne peut pas être faux. »
+Des millions de personnes ont simultanément cru à des choses qui ont depuis été réfutées.
+L'échelle de la croyance n'augmente pas sa vérité.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument suppose que consensus = justesse.
+Mais les humains sont grégaires : on adopte les croyances du groupe pour des raisons sociales, pas logiques.
 
-Ici, **Appeal to Popularity** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Donc :
+L'opinion majoritaire peut se tromper
+La croyance de masse a historiquement soutenu des erreurs monumentales
+La vérité ne se vote pas
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Concept clé
+Argumentum ad populum :
+Le nom formel. Il exploite le besoin humain d'appartenance et de conformité.
+C'est pourquoi la publicité montre des foules utilisant un produit plutôt que d'expliquer comment il fonctionne.
 
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+La désinformation se propage plus vite quand elle semble répandue
+Les best-sellers génèrent plus d'achats indépendamment de leur qualité
+La preuve sociale court-circuite l'évaluation indépendante
 
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Tes croyances sont en partie le produit de celles des personnes qui t'entourent.
+La pensée indépendante est beaucoup plus difficile qu'elle ne semble.
 
-- **Exemple 4 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Popularity**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel à la Popularité = traiter la croyance répandue comme une preuve que quelque chose est vrai.`,
   },
   29: {
-    beginner: `## Appeal to Popularity — approfondi (Débutant)
+    beginner: `Appel à la Popularité = traiter la croyance répandue comme une preuve que quelque chose est vrai.`,
+    intermediate: `Appel à la Popularité
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une proposition est vraie parce que beaucoup de personnes y croient.
+La popularité mesure la croyance, pas la vérité.
 
-**L’exemple affiché**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Exemple (produits)
+« Tout le monde achète ce produit, c'est donc qu'il est bon. »
+Le volume de ventes reflète le marketing, la pression sociale et les tendances.
+Il ne dit rien sur la qualité, la sécurité ou la valeur.
 
-**Pourquoi c’est bien Appeal to Popularity**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (croyances à grande échelle)
+« Des millions de personnes croient en cela — ça ne peut pas être faux. »
+Des millions de personnes ont simultanément cru à des choses qui ont depuis été réfutées.
+L'échelle de la croyance n'augmente pas sa vérité.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Popularity — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument suppose que consensus = justesse.
+Mais les humains sont grégaires : on adopte les croyances du groupe pour des raisons sociales, pas logiques.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Donc :
+L'opinion majoritaire peut se tromper
+La croyance de masse a historiquement soutenu des erreurs monumentales
+La vérité ne se vote pas
 
-**Cet exemple**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Concept clé
+Argumentum ad populum :
+Le nom formel. Il exploite le besoin humain d'appartenance et de conformité.
+C'est pourquoi la publicité montre des foules utilisant un produit plutôt que d'expliquer comment il fonctionne.
 
-Le passage montre **Appeal to Popularity** : soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+La désinformation se propage plus vite quand elle semble répandue
+Les best-sellers génèrent plus d'achats indépendamment de leur qualité
+La preuve sociale court-circuite l'évaluation indépendante
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Tes croyances sont en partie le produit de celles des personnes qui t'entourent.
+La pensée indépendante est beaucoup plus difficile qu'elle ne semble.
 
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Popularité = traiter la croyance répandue comme une preuve que quelque chose est vrai.`,
+    expert: `Appel à la Popularité
 
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une proposition est vraie parce que beaucoup de personnes y croient.
+La popularité mesure la croyance, pas la vérité.
 
-**En une phrase**  
-**Appeal to Popularity**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Popularity — approfondi (Expert)
+Exemple (produits)
+« Tout le monde achète ce produit, c'est donc qu'il est bon. »
+Le volume de ventes reflète le marketing, la pression sociale et les tendances.
+Il ne dit rien sur la qualité, la sécurité ou la valeur.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Exemple (croyances à grande échelle)
+« Des millions de personnes croient en cela — ça ne peut pas être faux. »
+Des millions de personnes ont simultanément cru à des choses qui ont depuis été réfutées.
+L'échelle de la croyance n'augmente pas sa vérité.
 
-**Appliqué à ce passage**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Comment ça fonctionne
+L'argument suppose que consensus = justesse.
+Mais les humains sont grégaires : on adopte les croyances du groupe pour des raisons sociales, pas logiques.
 
-Ici, **Appeal to Popularity** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Donc :
+L'opinion majoritaire peut se tromper
+La croyance de masse a historiquement soutenu des erreurs monumentales
+La vérité ne se vote pas
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Concept clé
+Argumentum ad populum :
+Le nom formel. Il exploite le besoin humain d'appartenance et de conformité.
+C'est pourquoi la publicité montre des foules utilisant un produit plutôt que d'expliquer comment il fonctionne.
 
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+La désinformation se propage plus vite quand elle semble répandue
+Les best-sellers génèrent plus d'achats indépendamment de leur qualité
+La preuve sociale court-circuite l'évaluation indépendante
 
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Tes croyances sont en partie le produit de celles des personnes qui t'entourent.
+La pensée indépendante est beaucoup plus difficile qu'elle ne semble.
 
-- **Exemple 4 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Popularity**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel à la Popularité = traiter la croyance répandue comme une preuve que quelque chose est vrai.`,
   },
   30: {
-    beginner: `## Appeal to Popularity — approfondi (Débutant)
+    beginner: `Appel à la Popularité = traiter la croyance répandue comme une preuve que quelque chose est vrai.`,
+    intermediate: `Appel à la Popularité
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une proposition est vraie parce que beaucoup de personnes y croient.
+La popularité mesure la croyance, pas la vérité.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (produits)
+« Tout le monde achète ce produit, c'est donc qu'il est bon. »
+Le volume de ventes reflète le marketing, la pression sociale et les tendances.
+Il ne dit rien sur la qualité, la sécurité ou la valeur.
 
-**Pourquoi c’est bien Appeal to Popularity**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (croyances à grande échelle)
+« Des millions de personnes croient en cela — ça ne peut pas être faux. »
+Des millions de personnes ont simultanément cru à des choses qui ont depuis été réfutées.
+L'échelle de la croyance n'augmente pas sa vérité.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Popularity — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument suppose que consensus = justesse.
+Mais les humains sont grégaires : on adopte les croyances du groupe pour des raisons sociales, pas logiques.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Donc :
+L'opinion majoritaire peut se tromper
+La croyance de masse a historiquement soutenu des erreurs monumentales
+La vérité ne se vote pas
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Argumentum ad populum :
+Le nom formel. Il exploite le besoin humain d'appartenance et de conformité.
+C'est pourquoi la publicité montre des foules utilisant un produit plutôt que d'expliquer comment il fonctionne.
 
-Le passage montre **Appeal to Popularity** : soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+La désinformation se propage plus vite quand elle semble répandue
+Les best-sellers génèrent plus d'achats indépendamment de leur qualité
+La preuve sociale court-circuite l'évaluation indépendante
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Tes croyances sont en partie le produit de celles des personnes qui t'entourent.
+La pensée indépendante est beaucoup plus difficile qu'elle ne semble.
 
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Popularité = traiter la croyance répandue comme une preuve que quelque chose est vrai.`,
+    expert: `Appel à la Popularité
 
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une proposition est vraie parce que beaucoup de personnes y croient.
+La popularité mesure la croyance, pas la vérité.
 
-**En une phrase**  
-**Appeal to Popularity**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Popularity — approfondi (Expert)
+Exemple (produits)
+« Tout le monde achète ce produit, c'est donc qu'il est bon. »
+Le volume de ventes reflète le marketing, la pression sociale et les tendances.
+Il ne dit rien sur la qualité, la sécurité ou la valeur.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Exemple (croyances à grande échelle)
+« Des millions de personnes croient en cela — ça ne peut pas être faux. »
+Des millions de personnes ont simultanément cru à des choses qui ont depuis été réfutées.
+L'échelle de la croyance n'augmente pas sa vérité.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument suppose que consensus = justesse.
+Mais les humains sont grégaires : on adopte les croyances du groupe pour des raisons sociales, pas logiques.
 
-Ici, **Appeal to Popularity** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Donc :
+L'opinion majoritaire peut se tromper
+La croyance de masse a historiquement soutenu des erreurs monumentales
+La vérité ne se vote pas
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Concept clé
+Argumentum ad populum :
+Le nom formel. Il exploite le besoin humain d'appartenance et de conformité.
+C'est pourquoi la publicité montre des foules utilisant un produit plutôt que d'expliquer comment il fonctionne.
 
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+La désinformation se propage plus vite quand elle semble répandue
+Les best-sellers génèrent plus d'achats indépendamment de leur qualité
+La preuve sociale court-circuite l'évaluation indépendante
 
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Tes croyances sont en partie le produit de celles des personnes qui t'entourent.
+La pensée indépendante est beaucoup plus difficile qu'elle ne semble.
 
-- **Exemple 4 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Popularity**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur popularity, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel à la Popularité = traiter la croyance répandue comme une preuve que quelque chose est vrai.`,
   },
   31: {
-    beginner: `## Appeal to the Majority — approfondi (Débutant)
+    beginner: `Appel à la Majorité = affirmer qu'une chose est vraie parce que la plupart des gens y croient.`,
+    intermediate: `Appel à la Majorité
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une proposition est vraie parce que la majorité des gens le croit ou l'approuve.
+La majorité peut se tromper collectivement.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (vote de groupe)
+« La majorité du district des gratte-ciel utilise ce patch neural — c'est donc le plus avancé. »
+L'adoption majoritaire peut refléter l'accessibilité, le marketing ou la pression sociale.
+Elle ne prouve pas la supériorité technique.
 
-**Pourquoi c’est bien Appeal to the Majority**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (consensus social)
+« Tout le monde dans notre communauté pense que c'est la bonne approche. »
+Un groupe homogène peut partager des angles morts collectifs.
+La majorité locale n'est pas un échantillon représentatif de la réalité.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to the Majority — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument traite la fréquence d'une croyance comme une preuve de sa justesse.
+C'est une forme spécifique de l'appel à la popularité, centrée sur la supériorité numérique.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Donc :
+La majorité a historiquement soutenu des positions qui étaient fausses
+Le consensus de groupe amplifie les biais partagés, il ne les corrige pas
+Un angle mort collectif est encore un angle mort
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Pensée de groupe :
+Quand les membres d'un groupe convergent vers une position non parce qu'elle est vraie, mais pour maintenir l'harmonie et l'appartenance.
+La majorité peut valider une erreur de manière très efficace.
 
-Le passage montre **Appeal to the Majority** : soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les bulles d'opinion politiques se renforcent d'elles-mêmes
+Les marchés financiers créent des bulles par adoption massive d'une croyance partagée
+Les groupes formés de personnes similaires convergent vers des erreurs similaires
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Être dans la majorité vous donne confiance, pas raison.
+Parfois, la minorité a simplement vu quelque chose que la majorité n'a pas encore vu.
 
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Majorité = affirmer qu'une chose est vraie parce que la plupart des gens y croient.`,
+    expert: `Appel à la Majorité
 
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une proposition est vraie parce que la majorité des gens le croit ou l'approuve.
+La majorité peut se tromper collectivement.
 
-**En une phrase**  
-**Appeal to the Majority**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to the Majority — approfondi (Expert)
+Exemple (vote de groupe)
+« La majorité du district des gratte-ciel utilise ce patch neural — c'est donc le plus avancé. »
+L'adoption majoritaire peut refléter l'accessibilité, le marketing ou la pression sociale.
+Elle ne prouve pas la supériorité technique.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Exemple (consensus social)
+« Tout le monde dans notre communauté pense que c'est la bonne approche. »
+Un groupe homogène peut partager des angles morts collectifs.
+La majorité locale n'est pas un échantillon représentatif de la réalité.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument traite la fréquence d'une croyance comme une preuve de sa justesse.
+C'est une forme spécifique de l'appel à la popularité, centrée sur la supériorité numérique.
 
-Ici, **Appeal to the Majority** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Donc :
+La majorité a historiquement soutenu des positions qui étaient fausses
+Le consensus de groupe amplifie les biais partagés, il ne les corrige pas
+Un angle mort collectif est encore un angle mort
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Concept clé
+Pensée de groupe :
+Quand les membres d'un groupe convergent vers une position non parce qu'elle est vraie, mais pour maintenir l'harmonie et l'appartenance.
+La majorité peut valider une erreur de manière très efficace.
 
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les bulles d'opinion politiques se renforcent d'elles-mêmes
+Les marchés financiers créent des bulles par adoption massive d'une croyance partagée
+Les groupes formés de personnes similaires convergent vers des erreurs similaires
 
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Être dans la majorité vous donne confiance, pas raison.
+Parfois, la minorité a simplement vu quelque chose que la majorité n'a pas encore vu.
 
-- **Exemple 4 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to the Majority**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Appel à la Majorité = affirmer qu'une chose est vraie parce que la plupart des gens y croient.`,
   },
   32: {
-    beginner: `## Appeal to the Majority — approfondi (Débutant)
+    beginner: `Appel à la Majorité = affirmer qu'une chose est vraie parce que la plupart des gens y croient.`,
+    intermediate: `Appel à la Majorité
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une proposition est vraie parce que la majorité des gens le croit ou l'approuve.
+La majorité peut se tromper collectivement.
 
-**L’exemple affiché**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Exemple (vote de groupe)
+« La majorité du district des gratte-ciel utilise ce patch neural — c'est donc le plus avancé. »
+L'adoption majoritaire peut refléter l'accessibilité, le marketing ou la pression sociale.
+Elle ne prouve pas la supériorité technique.
 
-**Pourquoi c’est bien Appeal to the Majority**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (consensus social)
+« Tout le monde dans notre communauté pense que c'est la bonne approche. »
+Un groupe homogène peut partager des angles morts collectifs.
+La majorité locale n'est pas un échantillon représentatif de la réalité.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to the Majority — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument traite la fréquence d'une croyance comme une preuve de sa justesse.
+C'est une forme spécifique de l'appel à la popularité, centrée sur la supériorité numérique.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Donc :
+La majorité a historiquement soutenu des positions qui étaient fausses
+Le consensus de groupe amplifie les biais partagés, il ne les corrige pas
+Un angle mort collectif est encore un angle mort
 
-**Cet exemple**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Concept clé
+Pensée de groupe :
+Quand les membres d'un groupe convergent vers une position non parce qu'elle est vraie, mais pour maintenir l'harmonie et l'appartenance.
+La majorité peut valider une erreur de manière très efficace.
 
-Le passage montre **Appeal to the Majority** : soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les bulles d'opinion politiques se renforcent d'elles-mêmes
+Les marchés financiers créent des bulles par adoption massive d'une croyance partagée
+Les groupes formés de personnes similaires convergent vers des erreurs similaires
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Être dans la majorité vous donne confiance, pas raison.
+Parfois, la minorité a simplement vu quelque chose que la majorité n'a pas encore vu.
 
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Majorité = affirmer qu'une chose est vraie parce que la plupart des gens y croient.`,
+    expert: `Appel à la Majorité
 
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une proposition est vraie parce que la majorité des gens le croit ou l'approuve.
+La majorité peut se tromper collectivement.
 
-**En une phrase**  
-**Appeal to the Majority**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to the Majority — approfondi (Expert)
+Exemple (vote de groupe)
+« La majorité du district des gratte-ciel utilise ce patch neural — c'est donc le plus avancé. »
+L'adoption majoritaire peut refléter l'accessibilité, le marketing ou la pression sociale.
+Elle ne prouve pas la supériorité technique.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Exemple (consensus social)
+« Tout le monde dans notre communauté pense que c'est la bonne approche. »
+Un groupe homogène peut partager des angles morts collectifs.
+La majorité locale n'est pas un échantillon représentatif de la réalité.
 
-**Appliqué à ce passage**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Comment ça fonctionne
+L'argument traite la fréquence d'une croyance comme une preuve de sa justesse.
+C'est une forme spécifique de l'appel à la popularité, centrée sur la supériorité numérique.
 
-Ici, **Appeal to the Majority** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Donc :
+La majorité a historiquement soutenu des positions qui étaient fausses
+Le consensus de groupe amplifie les biais partagés, il ne les corrige pas
+Un angle mort collectif est encore un angle mort
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Concept clé
+Pensée de groupe :
+Quand les membres d'un groupe convergent vers une position non parce qu'elle est vraie, mais pour maintenir l'harmonie et l'appartenance.
+La majorité peut valider une erreur de manière très efficace.
 
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les bulles d'opinion politiques se renforcent d'elles-mêmes
+Les marchés financiers créent des bulles par adoption massive d'une croyance partagée
+Les groupes formés de personnes similaires convergent vers des erreurs similaires
 
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Être dans la majorité vous donne confiance, pas raison.
+Parfois, la minorité a simplement vu quelque chose que la majorité n'a pas encore vu.
 
-- **Exemple 4 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to the Majority**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Appel à la Majorité = affirmer qu'une chose est vraie parce que la plupart des gens y croient.`,
   },
   33: {
-    beginner: `## Appeal to the Majority — approfondi (Débutant)
+    beginner: `Appel à la Majorité = affirmer qu'une chose est vraie parce que la plupart des gens y croient.`,
+    intermediate: `Appel à la Majorité
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une proposition est vraie parce que la majorité des gens le croit ou l'approuve.
+La majorité peut se tromper collectivement.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (vote de groupe)
+« La majorité du district des gratte-ciel utilise ce patch neural — c'est donc le plus avancé. »
+L'adoption majoritaire peut refléter l'accessibilité, le marketing ou la pression sociale.
+Elle ne prouve pas la supériorité technique.
 
-**Pourquoi c’est bien Appeal to the Majority**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (consensus social)
+« Tout le monde dans notre communauté pense que c'est la bonne approche. »
+Un groupe homogène peut partager des angles morts collectifs.
+La majorité locale n'est pas un échantillon représentatif de la réalité.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to the Majority — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument traite la fréquence d'une croyance comme une preuve de sa justesse.
+C'est une forme spécifique de l'appel à la popularité, centrée sur la supériorité numérique.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Donc :
+La majorité a historiquement soutenu des positions qui étaient fausses
+Le consensus de groupe amplifie les biais partagés, il ne les corrige pas
+Un angle mort collectif est encore un angle mort
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Pensée de groupe :
+Quand les membres d'un groupe convergent vers une position non parce qu'elle est vraie, mais pour maintenir l'harmonie et l'appartenance.
+La majorité peut valider une erreur de manière très efficace.
 
-Le passage montre **Appeal to the Majority** : soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les bulles d'opinion politiques se renforcent d'elles-mêmes
+Les marchés financiers créent des bulles par adoption massive d'une croyance partagée
+Les groupes formés de personnes similaires convergent vers des erreurs similaires
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Être dans la majorité vous donne confiance, pas raison.
+Parfois, la minorité a simplement vu quelque chose que la majorité n'a pas encore vu.
 
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Majorité = affirmer qu'une chose est vraie parce que la plupart des gens y croient.`,
+    expert: `Appel à la Majorité
 
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Description :
+Affirmer qu'une proposition est vraie parce que la majorité des gens le croit ou l'approuve.
+La majorité peut se tromper collectivement.
 
-**En une phrase**  
-**Appeal to the Majority**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to the Majority — approfondi (Expert)
+Exemple (vote de groupe)
+« La majorité du district des gratte-ciel utilise ce patch neural — c'est donc le plus avancé. »
+L'adoption majoritaire peut refléter l'accessibilité, le marketing ou la pression sociale.
+Elle ne prouve pas la supériorité technique.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Exemple (consensus social)
+« Tout le monde dans notre communauté pense que c'est la bonne approche. »
+Un groupe homogène peut partager des angles morts collectifs.
+La majorité locale n'est pas un échantillon représentatif de la réalité.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument traite la fréquence d'une croyance comme une preuve de sa justesse.
+C'est une forme spécifique de l'appel à la popularité, centrée sur la supériorité numérique.
 
-Ici, **Appeal to the Majority** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Donc :
+La majorité a historiquement soutenu des positions qui étaient fausses
+Le consensus de groupe amplifie les biais partagés, il ne les corrige pas
+Un angle mort collectif est encore un angle mort
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Concept clé
+Pensée de groupe :
+Quand les membres d'un groupe convergent vers une position non parce qu'elle est vraie, mais pour maintenir l'harmonie et l'appartenance.
+La majorité peut valider une erreur de manière très efficace.
 
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les bulles d'opinion politiques se renforcent d'elles-mêmes
+Les marchés financiers créent des bulles par adoption massive d'une croyance partagée
+Les groupes formés de personnes similaires convergent vers des erreurs similaires
 
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Être dans la majorité vous donne confiance, pas raison.
+Parfois, la minorité a simplement vu quelque chose que la majorité n'a pas encore vu.
 
-- **Exemple 4 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to the Majority**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur the majority, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Appel à la Majorité = affirmer qu'une chose est vraie parce que la plupart des gens y croient.`,
   },
   34: {
-    beginner: `## Bandwagon Fallacy — approfondi (Débutant)
+    beginner: `Effet de Mode = adopter une position ou un comportement simplement parce que le groupe le fait, sans évaluation indépendante.`,
+    intermediate: `Effet de Mode (Bandwagon)
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Description :
+Adopter une croyance ou un comportement simplement parce que tout le monde semble le faire.
+Le mouvement du groupe remplace l'évaluation personnelle.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant un raisonnement défectueux est structurellement invalide.". »  
+Exemple (technologie de masse)
+« Tout le monde dans le district utilise ce système — il faut l'adopter. »
+L'adoption universelle d'un système peut venir de son imposition, pas de sa supériorité.
+Suivre le groupe évite la réflexion — mais pas les erreurs.
 
-**Pourquoi c’est bien Bandwagon Fallacy**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (finance)
+« Si nous permettons aux machines de traiter 1% de notre subconscient, elles posséderont tout notre être. »
+C'est un glissement vers l'extrême sans étape intermédiaire — une forme de pensée de meute.
+La pression de groupe résonne plus fort que la logique dans ce type d'argument.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.`,
-    intermediate: `## Bandwagon Fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument tire sa force du mouvement collectif perçu.
+La raison d'adopter n'est pas "c'est vrai" mais "tout le monde le fait".
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Donc :
+La conformité n'est pas une preuve de validité
+Les mouvements de masse peuvent amplifier des erreurs à grande échelle
+Il faut évaluer la position séparément du nombre de ses partisans
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant un raisonnement défectueux est structurellement invalide.". »  
+Concept clé
+Conformité sociale :
+Le besoin humain d'appartenance crée une pression pour adopter les normes du groupe.
+Cette pression est indépendante de la qualité de ce qui est adopté.
 
-Le passage montre **Bandwagon Fallacy** : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+Les bulles financières émergent quand tout le monde achète parce que tout le monde achète
+Les tendances culturelles peuvent propager des comportements nuisibles
+Les algorithmes amplifient ce qui est déjà populaire, créant des spirales d'adoption
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+L'implication inconfortable
+Vous adoptez probablement plus de comportements "parce que tout le monde le fait" que vous ne le pensez.
+La pression sociale est invisible précisément parce qu'elle est partout.
 
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+En une phrase
+Effet de Mode = adopter une position ou un comportement simplement parce que le groupe le fait, sans évaluation indépendante.`,
+    expert: `Effet de Mode (Bandwagon)
 
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Description :
+Adopter une croyance ou un comportement simplement parce que tout le monde semble le faire.
+Le mouvement du groupe remplace l'évaluation personnelle.
 
-**En une phrase**  
-**Bandwagon Fallacy**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.`,
-    expert: `## Bandwagon Fallacy — approfondi (Expert)
+Exemple (technologie de masse)
+« Tout le monde dans le district utilise ce système — il faut l'adopter. »
+L'adoption universelle d'un système peut venir de son imposition, pas de sa supériorité.
+Suivre le groupe évite la réflexion — mais pas les erreurs.
 
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Exemple (finance)
+« Si nous permettons aux machines de traiter 1% de notre subconscient, elles posséderont tout notre être. »
+C'est un glissement vers l'extrême sans étape intermédiaire — une forme de pensée de meute.
+La pression de groupe résonne plus fort que la logique dans ce type d'argument.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant un raisonnement défectueux est structurellement invalide.". »  
+Comment ça fonctionne
+L'argument tire sa force du mouvement collectif perçu.
+La raison d'adopter n'est pas "c'est vrai" mais "tout le monde le fait".
 
-Ici, **Bandwagon Fallacy** convient parce que une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Donc :
+La conformité n'est pas une preuve de validité
+Les mouvements de masse peuvent amplifier des erreurs à grande échelle
+Il faut évaluer la position séparément du nombre de ses partisans
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Concept clé
+Conformité sociale :
+Le besoin humain d'appartenance crée une pression pour adopter les normes du groupe.
+Cette pression est indépendante de la qualité de ce qui est adopté.
 
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+Les bulles financières émergent quand tout le monde achète parce que tout le monde achète
+Les tendances culturelles peuvent propager des comportements nuisibles
+Les algorithmes amplifient ce qui est déjà populaire, créant des spirales d'adoption
 
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+L'implication inconfortable
+Vous adoptez probablement plus de comportements "parce que tout le monde le fait" que vous ne le pensez.
+La pression sociale est invisible précisément parce qu'elle est partout.
 
-- **Exemple 4 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
-
-- **Exemple 5 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Bandwagon Fallacy**, c’est Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Effet de Mode = adopter une position ou un comportement simplement parce que le groupe le fait, sans évaluation indépendante.`,
   },
   35: {
-    beginner: `## Bandwagon Fallacy — approfondi (Débutant)
+    beginner: `Effet de Mode = adopter une position ou un comportement simplement parce que le groupe le fait, sans évaluation indépendante.`,
+    intermediate: `Effet de Mode (Bandwagon)
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Description :
+Adopter une croyance ou un comportement simplement parce que tout le monde semble le faire.
+Le mouvement du groupe remplace l'évaluation personnelle.
 
-**L’exemple affiché**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Exemple (technologie de masse)
+« Tout le monde dans le district utilise ce système — il faut l'adopter. »
+L'adoption universelle d'un système peut venir de son imposition, pas de sa supériorité.
+Suivre le groupe évite la réflexion — mais pas les erreurs.
 
-**Pourquoi c’est bien Bandwagon Fallacy**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (finance)
+« Si nous permettons aux machines de traiter 1% de notre subconscient, elles posséderont tout notre être. »
+C'est un glissement vers l'extrême sans étape intermédiaire — une forme de pensée de meute.
+La pression de groupe résonne plus fort que la logique dans ce type d'argument.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.`,
-    intermediate: `## Bandwagon Fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument tire sa force du mouvement collectif perçu.
+La raison d'adopter n'est pas "c'est vrai" mais "tout le monde le fait".
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Donc :
+La conformité n'est pas une preuve de validité
+Les mouvements de masse peuvent amplifier des erreurs à grande échelle
+Il faut évaluer la position séparément du nombre de ses partisans
 
-**Cet exemple**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Concept clé
+Conformité sociale :
+Le besoin humain d'appartenance crée une pression pour adopter les normes du groupe.
+Cette pression est indépendante de la qualité de ce qui est adopté.
 
-Le passage montre **Bandwagon Fallacy** : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+Les bulles financières émergent quand tout le monde achète parce que tout le monde achète
+Les tendances culturelles peuvent propager des comportements nuisibles
+Les algorithmes amplifient ce qui est déjà populaire, créant des spirales d'adoption
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+L'implication inconfortable
+Vous adoptez probablement plus de comportements "parce que tout le monde le fait" que vous ne le pensez.
+La pression sociale est invisible précisément parce qu'elle est partout.
 
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+En une phrase
+Effet de Mode = adopter une position ou un comportement simplement parce que le groupe le fait, sans évaluation indépendante.`,
+    expert: `Effet de Mode (Bandwagon)
 
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Description :
+Adopter une croyance ou un comportement simplement parce que tout le monde semble le faire.
+Le mouvement du groupe remplace l'évaluation personnelle.
 
-**En une phrase**  
-**Bandwagon Fallacy**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.`,
-    expert: `## Bandwagon Fallacy — approfondi (Expert)
+Exemple (technologie de masse)
+« Tout le monde dans le district utilise ce système — il faut l'adopter. »
+L'adoption universelle d'un système peut venir de son imposition, pas de sa supériorité.
+Suivre le groupe évite la réflexion — mais pas les erreurs.
 
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Exemple (finance)
+« Si nous permettons aux machines de traiter 1% de notre subconscient, elles posséderont tout notre être. »
+C'est un glissement vers l'extrême sans étape intermédiaire — une forme de pensée de meute.
+La pression de groupe résonne plus fort que la logique dans ce type d'argument.
 
-**Appliqué à ce passage**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Comment ça fonctionne
+L'argument tire sa force du mouvement collectif perçu.
+La raison d'adopter n'est pas "c'est vrai" mais "tout le monde le fait".
 
-Ici, **Bandwagon Fallacy** convient parce que une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Donc :
+La conformité n'est pas une preuve de validité
+Les mouvements de masse peuvent amplifier des erreurs à grande échelle
+Il faut évaluer la position séparément du nombre de ses partisans
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Concept clé
+Conformité sociale :
+Le besoin humain d'appartenance crée une pression pour adopter les normes du groupe.
+Cette pression est indépendante de la qualité de ce qui est adopté.
 
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+Les bulles financières émergent quand tout le monde achète parce que tout le monde achète
+Les tendances culturelles peuvent propager des comportements nuisibles
+Les algorithmes amplifient ce qui est déjà populaire, créant des spirales d'adoption
 
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+L'implication inconfortable
+Vous adoptez probablement plus de comportements "parce que tout le monde le fait" que vous ne le pensez.
+La pression sociale est invisible précisément parce qu'elle est partout.
 
-- **Exemple 4 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
-
-- **Exemple 5 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Bandwagon Fallacy**, c’est Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Effet de Mode = adopter une position ou un comportement simplement parce que le groupe le fait, sans évaluation indépendante.`,
   },
   36: {
-    beginner: `## Bandwagon Fallacy — approfondi (Débutant)
+    beginner: `Effet de Mode = adopter une position ou un comportement simplement parce que le groupe le fait, sans évaluation indépendante.`,
+    intermediate: `Effet de Mode (Bandwagon)
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Description :
+Adopter une croyance ou un comportement simplement parce que tout le monde semble le faire.
+Le mouvement du groupe remplace l'évaluation personnelle.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant un raisonnement défectueux est structurellement invalide.". »  
+Exemple (technologie de masse)
+« Tout le monde dans le district utilise ce système — il faut l'adopter. »
+L'adoption universelle d'un système peut venir de son imposition, pas de sa supériorité.
+Suivre le groupe évite la réflexion — mais pas les erreurs.
 
-**Pourquoi c’est bien Bandwagon Fallacy**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (finance)
+« Si nous permettons aux machines de traiter 1% de notre subconscient, elles posséderont tout notre être. »
+C'est un glissement vers l'extrême sans étape intermédiaire — une forme de pensée de meute.
+La pression de groupe résonne plus fort que la logique dans ce type d'argument.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.`,
-    intermediate: `## Bandwagon Fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument tire sa force du mouvement collectif perçu.
+La raison d'adopter n'est pas "c'est vrai" mais "tout le monde le fait".
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Donc :
+La conformité n'est pas une preuve de validité
+Les mouvements de masse peuvent amplifier des erreurs à grande échelle
+Il faut évaluer la position séparément du nombre de ses partisans
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant un raisonnement défectueux est structurellement invalide.". »  
+Concept clé
+Conformité sociale :
+Le besoin humain d'appartenance crée une pression pour adopter les normes du groupe.
+Cette pression est indépendante de la qualité de ce qui est adopté.
 
-Le passage montre **Bandwagon Fallacy** : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+Les bulles financières émergent quand tout le monde achète parce que tout le monde achète
+Les tendances culturelles peuvent propager des comportements nuisibles
+Les algorithmes amplifient ce qui est déjà populaire, créant des spirales d'adoption
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+L'implication inconfortable
+Vous adoptez probablement plus de comportements "parce que tout le monde le fait" que vous ne le pensez.
+La pression sociale est invisible précisément parce qu'elle est partout.
 
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+En une phrase
+Effet de Mode = adopter une position ou un comportement simplement parce que le groupe le fait, sans évaluation indépendante.`,
+    expert: `Effet de Mode (Bandwagon)
 
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Description :
+Adopter une croyance ou un comportement simplement parce que tout le monde semble le faire.
+Le mouvement du groupe remplace l'évaluation personnelle.
 
-**En une phrase**  
-**Bandwagon Fallacy**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.`,
-    expert: `## Bandwagon Fallacy — approfondi (Expert)
+Exemple (technologie de masse)
+« Tout le monde dans le district utilise ce système — il faut l'adopter. »
+L'adoption universelle d'un système peut venir de son imposition, pas de sa supériorité.
+Suivre le groupe évite la réflexion — mais pas les erreurs.
 
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Exemple (finance)
+« Si nous permettons aux machines de traiter 1% de notre subconscient, elles posséderont tout notre être. »
+C'est un glissement vers l'extrême sans étape intermédiaire — une forme de pensée de meute.
+La pression de groupe résonne plus fort que la logique dans ce type d'argument.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant un raisonnement défectueux est structurellement invalide.". »  
+Comment ça fonctionne
+L'argument tire sa force du mouvement collectif perçu.
+La raison d'adopter n'est pas "c'est vrai" mais "tout le monde le fait".
 
-Ici, **Bandwagon Fallacy** convient parce que une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Donc :
+La conformité n'est pas une preuve de validité
+Les mouvements de masse peuvent amplifier des erreurs à grande échelle
+Il faut évaluer la position séparément du nombre de ses partisans
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Concept clé
+Conformité sociale :
+Le besoin humain d'appartenance crée une pression pour adopter les normes du groupe.
+Cette pression est indépendante de la qualité de ce qui est adopté.
 
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+Les bulles financières émergent quand tout le monde achète parce que tout le monde achète
+Les tendances culturelles peuvent propager des comportements nuisibles
+Les algorithmes amplifient ce qui est déjà populaire, créant des spirales d'adoption
 
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
+L'implication inconfortable
+Vous adoptez probablement plus de comportements "parce que tout le monde le fait" que vous ne le pensez.
+La pression sociale est invisible précisément parce qu'elle est partout.
 
-- **Exemple 4 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
-
-- **Exemple 5 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Bandwagon Fallacy**, c’est Une erreur logique spécifique où le raisonnement impliquant Bandwagon est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Effet de Mode = adopter une position ou un comportement simplement parce que le groupe le fait, sans évaluation indépendante.`,
   },
   37: {
-    beginner: `## Appeal to Emotion — approfondi (Débutant)
+    beginner: `Appel à l'Émotion = substituer l'impact émotionnel à des preuves logiques.`,
+    intermediate: `Appel à l'Émotion
 
-**En termes simples**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Description :
+Utiliser un langage ou des images émotionnelles pour influencer une conclusion à la place de preuves logiques.
+Ressentir fortement quelque chose ne le rend pas vrai.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.". »  
+Exemple (campagne de peur)
+« Si vous votez pour lui, vos enfants grandiront dans un monde sans liberté. »
+L'image émotionnelle terrifiante remplace l'analyse des politiques réelles.
+La peur est utilisée comme argument, pas comme preuve.
 
-**Pourquoi c’est bien Appeal to Emotion**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (publicité émotionnelle)
+« Le réseau n'a pas ralenti quand je portais mon conducteur d'argent. C'est la preuve de son efficacité. »
+Un ressenti positif associé à un objet n'est pas une preuve de causalité.
+L'émotion de confiance remplace la démonstration.
 
-**À retenir**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.`,
-    intermediate: `## Appeal to Emotion — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument déclenche une réponse émotionnelle forte (peur, pitié, fierté) qui court-circuite l'analyse critique.
+On se sent contraint d'approuver avant même d'examiner les preuves.
 
-**En termes simples**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Donc :
+L'intensité émotionnelle ≠ validité logique
+Les émotions fortes peuvent signaler des enjeux importants — mais elles ne prouvent pas les affirmations
+Plus l'émotion est intense, plus il est difficile de penser clairement
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.". »  
+Concept clé
+Pathos sans logos :
+La rhétorique a toujours utilisé l'émotion — le problème est quand l'émotion remplace entièrement la logique.
+Un bon argument peut être à la fois émouvant ET factuellement solide.
 
-Le passage montre **Appeal to Emotion** : tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Pourquoi c'est important
+Explique pourquoi :
+Les discours politiques misent sur la peur et la fierté plutôt que les détails des politiques
+Les campagnes de financement utilisent des cas individuels extrêmes plutôt que des statistiques
+L'indignation est amplifiée algorithmiquement parce qu'elle génère de l'engagement
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+L'implication inconfortable
+Tu es plus facile à manipuler quand tu es émotionnellement activé.
+Plus l'émotion est intense, plus tu devrais ralentir et chercher des preuves.
 
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+En une phrase
+Appel à l'Émotion = substituer l'impact émotionnel à des preuves logiques.`,
+    expert: `Appel à l'Émotion
 
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Description :
+Utiliser un langage ou des images émotionnelles pour influencer une conclusion à la place de preuves logiques.
+Ressentir fortement quelque chose ne le rend pas vrai.
 
-**En une phrase**  
-**Appeal to Emotion**, c’est quand le raisonnement correspond à : Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.`,
-    expert: `## Appeal to Emotion — approfondi (Expert)
+Exemple (campagne de peur)
+« Si vous votez pour lui, vos enfants grandiront dans un monde sans liberté. »
+L'image émotionnelle terrifiante remplace l'analyse des politiques réelles.
+La peur est utilisée comme argument, pas comme preuve.
 
-**Définition**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Exemple (publicité émotionnelle)
+« Le réseau n'a pas ralenti quand je portais mon conducteur d'argent. C'est la preuve de son efficacité. »
+Un ressenti positif associé à un objet n'est pas une preuve de causalité.
+L'émotion de confiance remplace la démonstration.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.". »  
+Comment ça fonctionne
+L'argument déclenche une réponse émotionnelle forte (peur, pitié, fierté) qui court-circuite l'analyse critique.
+On se sent contraint d'approuver avant même d'examiner les preuves.
 
-Ici, **Appeal to Emotion** convient parce que tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Donc :
+L'intensité émotionnelle ≠ validité logique
+Les émotions fortes peuvent signaler des enjeux importants — mais elles ne prouvent pas les affirmations
+Plus l'émotion est intense, plus il est difficile de penser clairement
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Concept clé
+Pathos sans logos :
+La rhétorique a toujours utilisé l'émotion — le problème est quand l'émotion remplace entièrement la logique.
+Un bon argument peut être à la fois émouvant ET factuellement solide.
 
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Pourquoi c'est important
+Explique pourquoi :
+Les discours politiques misent sur la peur et la fierté plutôt que les détails des politiques
+Les campagnes de financement utilisent des cas individuels extrêmes plutôt que des statistiques
+L'indignation est amplifiée algorithmiquement parce qu'elle génère de l'engagement
 
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+L'implication inconfortable
+Tu es plus facile à manipuler quand tu es émotionnellement activé.
+Plus l'émotion est intense, plus tu devrais ralentir et chercher des preuves.
 
-- **Exemple 4 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
-
-- **Exemple 5 :** Imaginez des notes ou examens. C’est la même erreur : tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Emotion**, c’est Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à l'Émotion = substituer l'impact émotionnel à des preuves logiques.`,
   },
   38: {
-    beginner: `## Appeal to Emotion — approfondi (Débutant)
+    beginner: `Appel à l'Émotion = substituer l'impact émotionnel à des preuves logiques.`,
+    intermediate: `Appel à l'Émotion
 
-**En termes simples**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Description :
+Utiliser un langage ou des images émotionnelles pour influencer une conclusion à la place de preuves logiques.
+Ressentir fortement quelque chose ne le rend pas vrai.
 
-**L’exemple affiché**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Exemple (campagne de peur)
+« Si vous votez pour lui, vos enfants grandiront dans un monde sans liberté. »
+L'image émotionnelle terrifiante remplace l'analyse des politiques réelles.
+La peur est utilisée comme argument, pas comme preuve.
 
-**Pourquoi c’est bien Appeal to Emotion**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (publicité émotionnelle)
+« Le réseau n'a pas ralenti quand je portais mon conducteur d'argent. C'est la preuve de son efficacité. »
+Un ressenti positif associé à un objet n'est pas une preuve de causalité.
+L'émotion de confiance remplace la démonstration.
 
-**À retenir**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.`,
-    intermediate: `## Appeal to Emotion — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument déclenche une réponse émotionnelle forte (peur, pitié, fierté) qui court-circuite l'analyse critique.
+On se sent contraint d'approuver avant même d'examiner les preuves.
 
-**En termes simples**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Donc :
+L'intensité émotionnelle ≠ validité logique
+Les émotions fortes peuvent signaler des enjeux importants — mais elles ne prouvent pas les affirmations
+Plus l'émotion est intense, plus il est difficile de penser clairement
 
-**Cet exemple**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Concept clé
+Pathos sans logos :
+La rhétorique a toujours utilisé l'émotion — le problème est quand l'émotion remplace entièrement la logique.
+Un bon argument peut être à la fois émouvant ET factuellement solide.
 
-Le passage montre **Appeal to Emotion** : tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Pourquoi c'est important
+Explique pourquoi :
+Les discours politiques misent sur la peur et la fierté plutôt que les détails des politiques
+Les campagnes de financement utilisent des cas individuels extrêmes plutôt que des statistiques
+L'indignation est amplifiée algorithmiquement parce qu'elle génère de l'engagement
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+L'implication inconfortable
+Tu es plus facile à manipuler quand tu es émotionnellement activé.
+Plus l'émotion est intense, plus tu devrais ralentir et chercher des preuves.
 
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+En une phrase
+Appel à l'Émotion = substituer l'impact émotionnel à des preuves logiques.`,
+    expert: `Appel à l'Émotion
 
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Description :
+Utiliser un langage ou des images émotionnelles pour influencer une conclusion à la place de preuves logiques.
+Ressentir fortement quelque chose ne le rend pas vrai.
 
-**En une phrase**  
-**Appeal to Emotion**, c’est quand le raisonnement correspond à : Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.`,
-    expert: `## Appeal to Emotion — approfondi (Expert)
+Exemple (campagne de peur)
+« Si vous votez pour lui, vos enfants grandiront dans un monde sans liberté. »
+L'image émotionnelle terrifiante remplace l'analyse des politiques réelles.
+La peur est utilisée comme argument, pas comme preuve.
 
-**Définition**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Exemple (publicité émotionnelle)
+« Le réseau n'a pas ralenti quand je portais mon conducteur d'argent. C'est la preuve de son efficacité. »
+Un ressenti positif associé à un objet n'est pas une preuve de causalité.
+L'émotion de confiance remplace la démonstration.
 
-**Appliqué à ce passage**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Comment ça fonctionne
+L'argument déclenche une réponse émotionnelle forte (peur, pitié, fierté) qui court-circuite l'analyse critique.
+On se sent contraint d'approuver avant même d'examiner les preuves.
 
-Ici, **Appeal to Emotion** convient parce que tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Donc :
+L'intensité émotionnelle ≠ validité logique
+Les émotions fortes peuvent signaler des enjeux importants — mais elles ne prouvent pas les affirmations
+Plus l'émotion est intense, plus il est difficile de penser clairement
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Concept clé
+Pathos sans logos :
+La rhétorique a toujours utilisé l'émotion — le problème est quand l'émotion remplace entièrement la logique.
+Un bon argument peut être à la fois émouvant ET factuellement solide.
 
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Pourquoi c'est important
+Explique pourquoi :
+Les discours politiques misent sur la peur et la fierté plutôt que les détails des politiques
+Les campagnes de financement utilisent des cas individuels extrêmes plutôt que des statistiques
+L'indignation est amplifiée algorithmiquement parce qu'elle génère de l'engagement
 
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+L'implication inconfortable
+Tu es plus facile à manipuler quand tu es émotionnellement activé.
+Plus l'émotion est intense, plus tu devrais ralentir et chercher des preuves.
 
-- **Exemple 4 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
-
-- **Exemple 5 :** Pensez à une discussion en famille. Souvent, on raisonne comme si tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Emotion**, c’est Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à l'Émotion = substituer l'impact émotionnel à des preuves logiques.`,
   },
   39: {
-    beginner: `## Appeal to Emotion — approfondi (Débutant)
+    beginner: `Appel à l'Émotion = substituer l'impact émotionnel à des preuves logiques.`,
+    intermediate: `Appel à l'Émotion
 
-**En termes simples**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Description :
+Utiliser un langage ou des images émotionnelles pour influencer une conclusion à la place de preuves logiques.
+Ressentir fortement quelque chose ne le rend pas vrai.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.". »  
+Exemple (campagne de peur)
+« Si vous votez pour lui, vos enfants grandiront dans un monde sans liberté. »
+L'image émotionnelle terrifiante remplace l'analyse des politiques réelles.
+La peur est utilisée comme argument, pas comme preuve.
 
-**Pourquoi c’est bien Appeal to Emotion**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (publicité émotionnelle)
+« Le réseau n'a pas ralenti quand je portais mon conducteur d'argent. C'est la preuve de son efficacité. »
+Un ressenti positif associé à un objet n'est pas une preuve de causalité.
+L'émotion de confiance remplace la démonstration.
 
-**À retenir**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.`,
-    intermediate: `## Appeal to Emotion — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument déclenche une réponse émotionnelle forte (peur, pitié, fierté) qui court-circuite l'analyse critique.
+On se sent contraint d'approuver avant même d'examiner les preuves.
 
-**En termes simples**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Donc :
+L'intensité émotionnelle ≠ validité logique
+Les émotions fortes peuvent signaler des enjeux importants — mais elles ne prouvent pas les affirmations
+Plus l'émotion est intense, plus il est difficile de penser clairement
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.". »  
+Concept clé
+Pathos sans logos :
+La rhétorique a toujours utilisé l'émotion — le problème est quand l'émotion remplace entièrement la logique.
+Un bon argument peut être à la fois émouvant ET factuellement solide.
 
-Le passage montre **Appeal to Emotion** : tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Pourquoi c'est important
+Explique pourquoi :
+Les discours politiques misent sur la peur et la fierté plutôt que les détails des politiques
+Les campagnes de financement utilisent des cas individuels extrêmes plutôt que des statistiques
+L'indignation est amplifiée algorithmiquement parce qu'elle génère de l'engagement
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+L'implication inconfortable
+Tu es plus facile à manipuler quand tu es émotionnellement activé.
+Plus l'émotion est intense, plus tu devrais ralentir et chercher des preuves.
 
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+En une phrase
+Appel à l'Émotion = substituer l'impact émotionnel à des preuves logiques.`,
+    expert: `Appel à l'Émotion
 
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Description :
+Utiliser un langage ou des images émotionnelles pour influencer une conclusion à la place de preuves logiques.
+Ressentir fortement quelque chose ne le rend pas vrai.
 
-**En une phrase**  
-**Appeal to Emotion**, c’est quand le raisonnement correspond à : Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.`,
-    expert: `## Appeal to Emotion — approfondi (Expert)
+Exemple (campagne de peur)
+« Si vous votez pour lui, vos enfants grandiront dans un monde sans liberté. »
+L'image émotionnelle terrifiante remplace l'analyse des politiques réelles.
+La peur est utilisée comme argument, pas comme preuve.
 
-**Définition**  
-Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Exemple (publicité émotionnelle)
+« Le réseau n'a pas ralenti quand je portais mon conducteur d'argent. C'est la preuve de son efficacité. »
+Un ressenti positif associé à un objet n'est pas une preuve de causalité.
+L'émotion de confiance remplace la démonstration.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.". »  
+Comment ça fonctionne
+L'argument déclenche une réponse émotionnelle forte (peur, pitié, fierté) qui court-circuite l'analyse critique.
+On se sent contraint d'approuver avant même d'examiner les preuves.
 
-Ici, **Appeal to Emotion** convient parce que tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Donc :
+L'intensité émotionnelle ≠ validité logique
+Les émotions fortes peuvent signaler des enjeux importants — mais elles ne prouvent pas les affirmations
+Plus l'émotion est intense, plus il est difficile de penser clairement
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Concept clé
+Pathos sans logos :
+La rhétorique a toujours utilisé l'émotion — le problème est quand l'émotion remplace entièrement la logique.
+Un bon argument peut être à la fois émouvant ET factuellement solide.
 
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+Pourquoi c'est important
+Explique pourquoi :
+Les discours politiques misent sur la peur et la fierté plutôt que les détails des politiques
+Les campagnes de financement utilisent des cas individuels extrêmes plutôt que des statistiques
+L'indignation est amplifiée algorithmiquement parce qu'elle génère de l'engagement
 
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
+L'implication inconfortable
+Tu es plus facile à manipuler quand tu es émotionnellement activé.
+Plus l'émotion est intense, plus tu devrais ralentir et chercher des preuves.
 
-- **Exemple 4 :** Pensez à des notes ou examens. Souvent, on raisonne comme si tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
-
-- **Exemple 5 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Emotion**, c’est Tenter de manipuler une réponse émotionnelle au lieu d'un argument valide ou convaincant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à l'Émotion = substituer l'impact émotionnel à des preuves logiques.`,
   },
   40: {
-    beginner: `## Appeal to Fear — approfondi (Débutant)
+    beginner: `Appel à la Peur = utiliser des tactiques d'intimidation pour forcer une décision, sans preuves réelles.`,
+    intermediate: `Appel à la Peur
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Description :
+Utiliser des tactiques d'intimidation pour pousser quelqu'un vers une conclusion — sans fournir de preuves réelles.
+La peur est un outil, pas une raison.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (politique)
+« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l'économie. »
+Les deux options sont présentées comme catastrophiques ou acceptables, sans nuance ni preuve.
+La menace économique remplace l'argumentation.
 
-**Pourquoi c’est bien Appeal to Fear**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (sécurité)
+« Sans ce patch de sécurité neural, votre esprit sera vulnérable à toutes les attaques. »
+La menace est présentée comme certaine et imminente sans preuve de base.
+La peur crée une urgence artificielle.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Fear — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument saute les preuves et va directement aux conséquences terrifiantes.
+Il force un choix binaire : agir maintenant (comme je le suggère) ou faire face au désastre.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Donc :
+La menace peut être exagérée, lointaine ou inventée
+La peur rétrécit la pensée et empêche l'évaluation des alternatives
+L'urgence fabriquée par la peur n'est pas une urgence réelle
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Fausse urgence :
+L'appel à la peur crée un sentiment de MAINTENANT OU JAMAIS.
+Cela empêche la réflexion — ce qui est exactement le but.
 
-Le passage montre **Appeal to Fear** : soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les produits de sécurité sont commercialisés avec des images de criminalité vivantes
+Les adversaires politiques sont décrits comme des menaces existentielles
+Les sectes utilisent la peur du monde extérieur pour contrôler leurs membres
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+L'implication inconfortable
+La peur est l'un des raccourcis cognitifs les plus puissants.
+Quand vous avez peur, vous êtes le plus réceptif aux mauvais arguments.
 
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+En une phrase
+Appel à la Peur = utiliser des tactiques d'intimidation pour forcer une décision, sans preuves réelles.`,
+    expert: `Appel à la Peur
 
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Description :
+Utiliser des tactiques d'intimidation pour pousser quelqu'un vers une conclusion — sans fournir de preuves réelles.
+La peur est un outil, pas une raison.
 
-**En une phrase**  
-**Appeal to Fear**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Fear — approfondi (Expert)
+Exemple (politique)
+« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l'économie. »
+Les deux options sont présentées comme catastrophiques ou acceptables, sans nuance ni preuve.
+La menace économique remplace l'argumentation.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Exemple (sécurité)
+« Sans ce patch de sécurité neural, votre esprit sera vulnérable à toutes les attaques. »
+La menace est présentée comme certaine et imminente sans preuve de base.
+La peur crée une urgence artificielle.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument saute les preuves et va directement aux conséquences terrifiantes.
+Il force un choix binaire : agir maintenant (comme je le suggère) ou faire face au désastre.
 
-Ici, **Appeal to Fear** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Donc :
+La menace peut être exagérée, lointaine ou inventée
+La peur rétrécit la pensée et empêche l'évaluation des alternatives
+L'urgence fabriquée par la peur n'est pas une urgence réelle
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Concept clé
+Fausse urgence :
+L'appel à la peur crée un sentiment de MAINTENANT OU JAMAIS.
+Cela empêche la réflexion — ce qui est exactement le but.
 
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les produits de sécurité sont commercialisés avec des images de criminalité vivantes
+Les adversaires politiques sont décrits comme des menaces existentielles
+Les sectes utilisent la peur du monde extérieur pour contrôler leurs membres
 
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+L'implication inconfortable
+La peur est l'un des raccourcis cognitifs les plus puissants.
+Quand vous avez peur, vous êtes le plus réceptif aux mauvais arguments.
 
-- **Exemple 4 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Fear**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel à la Peur = utiliser des tactiques d'intimidation pour forcer une décision, sans preuves réelles.`,
   },
   41: {
-    beginner: `## Appeal to Fear — approfondi (Débutant)
+    beginner: `Échantillon biaisé = tirer une conclusion à partir d'un échantillon qui ne représente pas l'ensemble.`,
+    intermediate: `Échantillon biaisé
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Description :
+Un échantillon biaisé ressemble à une preuve, mais il exclut justement les personnes ou les cas dont la conclusion a besoin.
+Si l'échantillon est déséquilibré, la conclusion le sera aussi.
 
-**L’exemple affiché**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Exemple (sondage)
+Ne demander qu'à des amis déjà d'accord avec vous ce que pense le public
+L'échantillon est pratique, mais pratique ne veut pas dire représentatif.
 
-**Pourquoi c’est bien Appeal to Fear**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (opinion publique)
+Prendre ce cercle restreint pour la ville entière
+On ne peut pas tirer une conclusion sur tout le monde à partir d'un morceau qui oublie des voix importantes.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Fear — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le filtrage se fait avant la conclusion.
+Le résultat peut donc avoir l'air statistique tout en restant gravement faussé.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Donc :
+Un échantillon commode peut cacher des différences importantes
+Un groupe étroit peut faire paraître plausible une affirmation fragile
+Un échantillonnage représentatif est nécessaire pour une généralisation solide
 
-**Cet exemple**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Concept clé
+Biais de sélection :
+La manière de choisir les personnes change le résultat avant même l'analyse.
+Si la sélection penche d'un côté, la preuve penche aussi.
 
-Le passage montre **Appeal to Fear** : soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les sondages peuvent rater des groupes entiers quand ils ne touchent que les personnes faciles à joindre
+Les avis en ligne peuvent surestimer la satisfaction parce que les mécontents écrivent moins
+Les études médicales doivent inclure des participants proches des personnes qui recevront vraiment le traitement
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Un mauvais échantillonnage peut donner à une mauvaise conclusion une allure scientifique.
+Les chiffres peuvent être réels, et pourtant la conclusion rester fausse.
 
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+En une phrase
+Échantillon biaisé = tirer une conclusion à partir d'un échantillon qui ne représente pas l'ensemble.`,
+    expert: `Échantillon biaisé
 
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Description :
+Un échantillon biaisé ressemble à une preuve, mais il exclut justement les personnes ou les cas dont la conclusion a besoin.
+Si l'échantillon est déséquilibré, la conclusion le sera aussi.
 
-**En une phrase**  
-**Appeal to Fear**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Fear — approfondi (Expert)
+Exemple (sondage)
+Ne demander qu'à des amis déjà d'accord avec vous ce que pense le public
+L'échantillon est pratique, mais pratique ne veut pas dire représentatif.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Exemple (opinion publique)
+Prendre ce cercle restreint pour la ville entière
+On ne peut pas tirer une conclusion sur tout le monde à partir d'un morceau qui oublie des voix importantes.
 
-**Appliqué à ce passage**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Comment ça fonctionne
+Le filtrage se fait avant la conclusion.
+Le résultat peut donc avoir l'air statistique tout en restant gravement faussé.
 
-Ici, **Appeal to Fear** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Donc :
+Un échantillon commode peut cacher des différences importantes
+Un groupe étroit peut faire paraître plausible une affirmation fragile
+Un échantillonnage représentatif est nécessaire pour une généralisation solide
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Concept clé
+Biais de sélection :
+La manière de choisir les personnes change le résultat avant même l'analyse.
+Si la sélection penche d'un côté, la preuve penche aussi.
 
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les sondages peuvent rater des groupes entiers quand ils ne touchent que les personnes faciles à joindre
+Les avis en ligne peuvent surestimer la satisfaction parce que les mécontents écrivent moins
+Les études médicales doivent inclure des participants proches des personnes qui recevront vraiment le traitement
 
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Un mauvais échantillonnage peut donner à une mauvaise conclusion une allure scientifique.
+Les chiffres peuvent être réels, et pourtant la conclusion rester fausse.
 
-- **Exemple 4 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Fear**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Échantillon biaisé = tirer une conclusion à partir d'un échantillon qui ne représente pas l'ensemble.`,
   },
+
   42: {
-    beginner: `## Appeal to Fear — approfondi (Débutant)
+    beginner: `Échantillon biaisé = traiter un groupe étroit et non représentatif comme s'il valait pour tout le monde.`,
+    intermediate: `Échantillon biaisé
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Description :
+Un échantillon biaisé ressemble à une preuve, mais il exclut justement les personnes ou les cas dont la conclusion a besoin.
+Si l'échantillon est déséquilibré, la conclusion le sera aussi.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (essai clinique)
+Tester un médicament seulement sur des volontaires en bonne santé puis prétendre qu'il marche pour tous les patients
+L'échantillon est pratique, mais pratique ne veut pas dire représentatif.
 
-**Pourquoi c’est bien Appeal to Fear**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (allégation médicale)
+Utiliser ce résultat limité comme s'il couvrait tous les types de patients
+On ne peut pas tirer une conclusion sur tout le monde à partir d'un morceau qui oublie des voix importantes.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Fear — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le filtrage se fait avant la conclusion.
+Le résultat peut donc avoir l'air statistique tout en restant gravement faussé.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Donc :
+Un échantillon commode peut cacher des différences importantes
+Un groupe étroit peut faire paraître plausible une affirmation fragile
+Un échantillonnage représentatif est nécessaire pour une généralisation solide
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Biais de sélection :
+La manière de choisir les personnes change le résultat avant même l'analyse.
+Si la sélection penche d'un côté, la preuve penche aussi.
 
-Le passage montre **Appeal to Fear** : soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les sondages peuvent rater des groupes entiers quand ils ne touchent que les personnes faciles à joindre
+Les avis en ligne peuvent surestimer la satisfaction parce que les mécontents écrivent moins
+Les études médicales doivent inclure des participants proches des personnes qui recevront vraiment le traitement
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Un mauvais échantillonnage peut donner à une mauvaise conclusion une allure scientifique.
+Les chiffres peuvent être réels, et pourtant la conclusion rester fausse.
 
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+En une phrase
+Échantillon biaisé = tirer une conclusion à partir d'un échantillon qui ne représente pas l'ensemble.`,
+    expert: `Échantillon biaisé
 
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Description :
+Un échantillon biaisé ressemble à une preuve, mais il exclut justement les personnes ou les cas dont la conclusion a besoin.
+Si l'échantillon est déséquilibré, la conclusion le sera aussi.
 
-**En une phrase**  
-**Appeal to Fear**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Fear — approfondi (Expert)
+Exemple (essai clinique)
+Tester un médicament seulement sur des volontaires en bonne santé puis prétendre qu'il marche pour tous les patients
+L'échantillon est pratique, mais pratique ne veut pas dire représentatif.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Exemple (allégation médicale)
+Utiliser ce résultat limité comme s'il couvrait tous les types de patients
+On ne peut pas tirer une conclusion sur tout le monde à partir d'un morceau qui oublie des voix importantes.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+Le filtrage se fait avant la conclusion.
+Le résultat peut donc avoir l'air statistique tout en restant gravement faussé.
 
-Ici, **Appeal to Fear** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Donc :
+Un échantillon commode peut cacher des différences importantes
+Un groupe étroit peut faire paraître plausible une affirmation fragile
+Un échantillonnage représentatif est nécessaire pour une généralisation solide
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Concept clé
+Biais de sélection :
+La manière de choisir les personnes change le résultat avant même l'analyse.
+Si la sélection penche d'un côté, la preuve penche aussi.
 
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les sondages peuvent rater des groupes entiers quand ils ne touchent que les personnes faciles à joindre
+Les avis en ligne peuvent surestimer la satisfaction parce que les mécontents écrivent moins
+Les études médicales doivent inclure des participants proches des personnes qui recevront vraiment le traitement
 
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Un mauvais échantillonnage peut donner à une mauvaise conclusion une allure scientifique.
+Les chiffres peuvent être réels, et pourtant la conclusion rester fausse.
 
-- **Exemple 4 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Fear**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur fear, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Échantillon biaisé = tirer une conclusion à partir d'un échantillon qui ne représente pas l'ensemble.`,
   },
+
   43: {
-    beginner: `## Appeal to Pity — approfondi (Débutant)
+    beginner: `Sélection partielle = choisir seulement les preuves qui servent l'affirmation et cacher le reste.`,
+    intermediate: `Sélection partielle
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Description :
+La sélection partielle ne garde que les éléments qui servent l'affirmation et laisse de côté ceux qui la fragiliseraient.
+Un rapport bâti sur les morceaux flatteurs n'est pas le rapport entier.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (avis)
+Montrer seulement les avis positifs d'un produit en laissant de côté les négatifs
+Les bonnes pièces sont réelles, mais les pièces manquantes comptent aussi.
 
-**Pourquoi c’est bien Appeal to Pity**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (achat)
+Bâtir le dossier sur les compliments pendant que les critiques restent invisibles
+Si les preuves contraires disparaissent, la conclusion devient trop facile à fabriquer.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Pity — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'auteur choisit les preuves après avoir choisi la conclusion.
+C'est pour cela que l'argument a l'air propre : les morceaux absents font tout le dégât.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Donc :
+Des preuves choisies à la carte peuvent rendre une affirmation faible plus convaincante
+Omettre les cas difficiles déforme complètement le tableau
+Un résumé honnête doit aussi inclure ce qui gêne la thèse
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Preuves supprimées :
+Des faits pertinents sont laissés de côté parce qu'ils ne servent pas le point défendu.
+Le silence fait partie du tour de passe-passe.
 
-Le passage montre **Appeal to Pity** : soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les avis sur un produit peuvent sembler parfaits si l'on ne cite que les clients contents
+Les synthèses de recherche peuvent tromper quand les études contradictoires sont ignorées
+Les débats publics peuvent paraître convaincants quand les échecs ne sont jamais mentionnés
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut faire paraître presque n'importe quelle idée bonne si l'on cache assez de preuves.
+L'argument n'est honnête que si les faits gênants restent visibles.
 
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+En une phrase
+Sélection partielle = choisir seulement les preuves qui servent la thèse et cacher le reste.`,
+    expert: `Sélection partielle
 
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Description :
+La sélection partielle ne garde que les éléments qui servent l'affirmation et laisse de côté ceux qui la fragiliseraient.
+Un rapport bâti sur les morceaux flatteurs n'est pas le rapport entier.
 
-**En une phrase**  
-**Appeal to Pity**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Pity — approfondi (Expert)
+Exemple (avis)
+Montrer seulement les avis positifs d'un produit en laissant de côté les négatifs
+Les bonnes pièces sont réelles, mais les pièces manquantes comptent aussi.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Exemple (achat)
+Bâtir le dossier sur les compliments pendant que les critiques restent invisibles
+Si les preuves contraires disparaissent, la conclusion devient trop facile à fabriquer.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'auteur choisit les preuves après avoir choisi la conclusion.
+C'est pour cela que l'argument a l'air propre : les morceaux absents font tout le dégât.
 
-Ici, **Appeal to Pity** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Donc :
+Des preuves choisies à la carte peuvent rendre une affirmation faible plus convaincante
+Omettre les cas difficiles déforme complètement le tableau
+Un résumé honnête doit aussi inclure ce qui gêne la thèse
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Concept clé
+Preuves supprimées :
+Des faits pertinents sont laissés de côté parce qu'ils ne servent pas le point défendu.
+Le silence fait partie du tour de passe-passe.
 
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les avis sur un produit peuvent sembler parfaits si l'on ne cite que les clients contents
+Les synthèses de recherche peuvent tromper quand les études contradictoires sont ignorées
+Les débats publics peuvent paraître convaincants quand les échecs ne sont jamais mentionnés
 
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut faire paraître presque n'importe quelle idée bonne si l'on cache assez de preuves.
+L'argument n'est honnête que si les faits gênants restent visibles.
 
-- **Exemple 4 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Pity**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Sélection partielle = choisir seulement les preuves qui servent la thèse et cacher le reste.`,
   },
+
   44: {
-    beginner: `## Appeal to Pity — approfondi (Débutant)
+    beginner: `Sélection partielle = mettre en avant les études favorables en ignorant celles qui contredisent la thèse.`,
+    intermediate: `Sélection partielle
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Description :
+La sélection partielle ne garde que les éléments qui servent l'affirmation et laisse de côté ceux qui la fragiliseraient.
+Un rapport bâti sur les morceaux flatteurs n'est pas le rapport entier.
 
-**L’exemple affiché**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Exemple (recherche)
+Citer les études qui vont dans votre sens et ignorer les recherches contradictoires
+Les bonnes pièces sont réelles, mais les pièces manquantes comptent aussi.
 
-**Pourquoi c’est bien Appeal to Pity**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (note politique)
+Faire passer l'idée pour acquise en laissant de côté les études difficiles
+Si les preuves contraires disparaissent, la conclusion devient trop facile à fabriquer.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Pity — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'auteur choisit les preuves après avoir choisi la conclusion.
+C'est pour cela que l'argument a l'air propre : les morceaux absents font tout le dégât.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Donc :
+Des preuves choisies à la carte peuvent rendre une affirmation faible plus convaincante
+Omettre les cas difficiles déforme complètement le tableau
+Un résumé honnête doit aussi inclure ce qui gêne la thèse
 
-**Cet exemple**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Concept clé
+Preuves supprimées :
+Des faits pertinents sont laissés de côté parce qu'ils ne servent pas le point défendu.
+Le silence fait partie du tour de passe-passe.
 
-Le passage montre **Appeal to Pity** : soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les avis sur un produit peuvent sembler parfaits si l'on ne cite que les clients contents
+Les synthèses de recherche peuvent tromper quand les études contradictoires sont ignorées
+Les débats publics peuvent paraître convaincants quand les échecs ne sont jamais mentionnés
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut faire paraître presque n'importe quelle idée bonne si l'on cache assez de preuves.
+L'argument n'est honnête que si les faits gênants restent visibles.
 
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+En une phrase
+Sélection partielle = choisir seulement les preuves qui servent la thèse et cacher le reste.`,
+    expert: `Sélection partielle
 
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Description :
+La sélection partielle ne garde que les éléments qui servent l'affirmation et laisse de côté ceux qui la fragiliseraient.
+Un rapport bâti sur les morceaux flatteurs n'est pas le rapport entier.
 
-**En une phrase**  
-**Appeal to Pity**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Pity — approfondi (Expert)
+Exemple (recherche)
+Citer les études qui vont dans votre sens et ignorer les recherches contradictoires
+Les bonnes pièces sont réelles, mais les pièces manquantes comptent aussi.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Exemple (note politique)
+Faire passer l'idée pour acquise en laissant de côté les études difficiles
+Si les preuves contraires disparaissent, la conclusion devient trop facile à fabriquer.
 
-**Appliqué à ce passage**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Comment ça fonctionne
+L'auteur choisit les preuves après avoir choisi la conclusion.
+C'est pour cela que l'argument a l'air propre : les morceaux absents font tout le dégât.
 
-Ici, **Appeal to Pity** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Donc :
+Des preuves choisies à la carte peuvent rendre une affirmation faible plus convaincante
+Omettre les cas difficiles déforme complètement le tableau
+Un résumé honnête doit aussi inclure ce qui gêne la thèse
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Concept clé
+Preuves supprimées :
+Des faits pertinents sont laissés de côté parce qu'ils ne servent pas le point défendu.
+Le silence fait partie du tour de passe-passe.
 
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les avis sur un produit peuvent sembler parfaits si l'on ne cite que les clients contents
+Les synthèses de recherche peuvent tromper quand les études contradictoires sont ignorées
+Les débats publics peuvent paraître convaincants quand les échecs ne sont jamais mentionnés
 
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut faire paraître presque n'importe quelle idée bonne si l'on cache assez de preuves.
+L'argument n'est honnête que si les faits gênants restent visibles.
 
-- **Exemple 4 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Pity**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Sélection partielle = choisir seulement les preuves qui servent la thèse et cacher le reste.`,
   },
+
   45: {
-    beginner: `## Appeal to Pity — approfondi (Débutant)
+    beginner: `Sélection partielle = vanter les succès d'une politique tout en cachant ses échecs.`,
+    intermediate: `Sélection partielle
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Description :
+La sélection partielle ne garde que les éléments qui servent l'affirmation et laisse de côté ceux qui la fragiliseraient.
+Un rapport bâti sur les morceaux flatteurs n'est pas le rapport entier.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (bilan de politique)
+Mettre en avant les réussites d'une politique mais pas ses échecs
+Les bonnes pièces sont réelles, mais les pièces manquantes comptent aussi.
 
-**Pourquoi c’est bien Appeal to Pity**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (présentation)
+Omettre les coûts pour que la proposition paraisse plus propre qu'elle ne l'est
+Si les preuves contraires disparaissent, la conclusion devient trop facile à fabriquer.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Pity — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'auteur choisit les preuves après avoir choisi la conclusion.
+C'est pour cela que l'argument a l'air propre : les morceaux absents font tout le dégât.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Donc :
+Des preuves choisies à la carte peuvent rendre une affirmation faible plus convaincante
+Omettre les cas difficiles déforme complètement le tableau
+Un résumé honnête doit aussi inclure ce qui gêne la thèse
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Preuves supprimées :
+Des faits pertinents sont laissés de côté parce qu'ils ne servent pas le point défendu.
+Le silence fait partie du tour de passe-passe.
 
-Le passage montre **Appeal to Pity** : soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les avis sur un produit peuvent sembler parfaits si l'on ne cite que les clients contents
+Les synthèses de recherche peuvent tromper quand les études contradictoires sont ignorées
+Les débats publics peuvent paraître convaincants quand les échecs ne sont jamais mentionnés
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut faire paraître presque n'importe quelle idée bonne si l'on cache assez de preuves.
+L'argument n'est honnête que si les faits gênants restent visibles.
 
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+En une phrase
+Sélection partielle = choisir seulement les preuves qui servent la thèse et cacher le reste.`,
+    expert: `Sélection partielle
 
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Description :
+La sélection partielle ne garde que les éléments qui servent l'affirmation et laisse de côté ceux qui la fragiliseraient.
+Un rapport bâti sur les morceaux flatteurs n'est pas le rapport entier.
 
-**En une phrase**  
-**Appeal to Pity**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Pity — approfondi (Expert)
+Exemple (bilan de politique)
+Mettre en avant les réussites d'une politique mais pas ses échecs
+Les bonnes pièces sont réelles, mais les pièces manquantes comptent aussi.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Exemple (présentation)
+Omettre les coûts pour que la proposition paraisse plus propre qu'elle ne l'est
+Si les preuves contraires disparaissent, la conclusion devient trop facile à fabriquer.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'auteur choisit les preuves après avoir choisi la conclusion.
+C'est pour cela que l'argument a l'air propre : les morceaux absents font tout le dégât.
 
-Ici, **Appeal to Pity** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Donc :
+Des preuves choisies à la carte peuvent rendre une affirmation faible plus convaincante
+Omettre les cas difficiles déforme complètement le tableau
+Un résumé honnête doit aussi inclure ce qui gêne la thèse
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Concept clé
+Preuves supprimées :
+Des faits pertinents sont laissés de côté parce qu'ils ne servent pas le point défendu.
+Le silence fait partie du tour de passe-passe.
 
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les avis sur un produit peuvent sembler parfaits si l'on ne cite que les clients contents
+Les synthèses de recherche peuvent tromper quand les études contradictoires sont ignorées
+Les débats publics peuvent paraître convaincants quand les échecs ne sont jamais mentionnés
 
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut faire paraître presque n'importe quelle idée bonne si l'on cache assez de preuves.
+L'argument n'est honnête que si les faits gênants restent visibles.
 
-- **Exemple 4 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Pity**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur pity, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Sélection partielle = choisir seulement les preuves qui servent la thèse et cacher le reste.`,
   },
+
   46: {
-    beginner: `## Appeal to Flattery — approfondi (Débutant)
+    beginner: `Raisonnement circulaire = utiliser la conclusion comme partie de la preuve.`,
+    intermediate: `Raisonnement circulaire
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Description :
+Le raisonnement circulaire tourne en boucle.
+La conclusion revient comme prémisse, donc rien de nouveau n'est prouvé.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (scripture)
+La Bible est la parole de Dieu parce que Dieu nous le dit dans la Bible
+La phrase répète l'affirmation au lieu de la soutenir.
 
-**Pourquoi c’est bien Appeal to Flattery**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (auto-preuve)
+Cette règle est juste parce que le règlement dit que le règlement est juste
+Si la raison suppose déjà la conclusion, la preuve ne sort jamais de chez elle.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Flattery — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument semble avancer, mais il tourne seulement autour de la même idée.
+Un vrai argument doit aller du soutien vers la conclusion, pas de la conclusion vers le soutien.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Donc :
+Une boucle n'est pas une preuve
+Répéter une affirmation ne la démontre pas
+Les prémisses doivent faire plus qu'écho à la conclusion
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Pétition de principe :
+La conclusion est glissée à l'intérieur de la prémisse.
+C'est pour cela que l'argument paraît convaincant sans rien prouver.
 
-Le passage montre **Appeal to Flattery** : soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Certains débats sonnent profonds mais n'ajoutent jamais de raison nouvelle
+On peut défendre une règle en se contentant de la répéter
+Une thèse peut sembler forte tout en restant vide
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut parler longtemps et ne rien démontrer.
+La circularité, c'est du mouvement sans progrès.
 
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+En une phrase
+Raisonnement circulaire = utiliser la conclusion comme partie de la preuve.`,
+    expert: `Raisonnement circulaire
 
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Description :
+Le raisonnement circulaire tourne en boucle.
+La conclusion revient comme prémisse, donc rien de nouveau n'est prouvé.
 
-**En une phrase**  
-**Appeal to Flattery**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Flattery — approfondi (Expert)
+Exemple (scripture)
+La Bible est la parole de Dieu parce que Dieu nous le dit dans la Bible
+La phrase répète l'affirmation au lieu de la soutenir.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Exemple (auto-preuve)
+Cette règle est juste parce que le règlement dit que le règlement est juste
+Si la raison suppose déjà la conclusion, la preuve ne sort jamais de chez elle.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument semble avancer, mais il tourne seulement autour de la même idée.
+Un vrai argument doit aller du soutien vers la conclusion, pas de la conclusion vers le soutien.
 
-Ici, **Appeal to Flattery** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Donc :
+Une boucle n'est pas une preuve
+Répéter une affirmation ne la démontre pas
+Les prémisses doivent faire plus qu'écho à la conclusion
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Concept clé
+Pétition de principe :
+La conclusion est glissée à l'intérieur de la prémisse.
+C'est pour cela que l'argument paraît convaincant sans rien prouver.
 
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Certains débats sonnent profonds mais n'ajoutent jamais de raison nouvelle
+On peut défendre une règle en se contentant de la répéter
+Une thèse peut sembler forte tout en restant vide
 
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut parler longtemps et ne rien démontrer.
+La circularité, c'est du mouvement sans progrès.
 
-- **Exemple 4 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Flattery**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Raisonnement circulaire = utiliser la conclusion comme partie de la preuve.`,
   },
+
   47: {
-    beginner: `## Appeal to Flattery — approfondi (Débutant)
+    beginner: `Raisonnement circulaire = répéter la même raison dans une autre phrase au lieu de prouver quelque chose de nouveau.`,
+    intermediate: `Raisonnement circulaire
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Description :
+Le raisonnement circulaire tourne en boucle.
+La conclusion revient comme prémisse, donc rien de nouveau n'est prouvé.
 
-**L’exemple affiché**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Exemple (invitation à une fête)
+Vous devez inviter Jenna parce qu'il ne serait pas gentil de ne pas inviter Jenna
+La phrase répète l'affirmation au lieu de la soutenir.
 
-**Pourquoi c’est bien Appeal to Flattery**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (pression sociale)
+Nous devrions l'inclure parce que l'exclure serait mal, et ce serait mal de l'exclure
+Si la raison suppose déjà la conclusion, la preuve ne sort jamais de chez elle.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Flattery — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument semble avancer, mais il tourne seulement autour de la même idée.
+Un vrai argument doit aller du soutien vers la conclusion, pas de la conclusion vers le soutien.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Donc :
+Une boucle n'est pas une preuve
+Répéter une affirmation ne la démontre pas
+Les prémisses doivent faire plus qu'écho à la conclusion
 
-**Cet exemple**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Concept clé
+Pétition de principe :
+La conclusion est glissée à l'intérieur de la prémisse.
+C'est pour cela que l'argument paraît convaincant sans rien prouver.
 
-Le passage montre **Appeal to Flattery** : soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Certains débats sonnent profonds mais n'ajoutent jamais de raison nouvelle
+On peut défendre une règle en se contentant de la répéter
+Une thèse peut sembler forte tout en restant vide
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut parler longtemps et ne rien démontrer.
+La circularité, c'est du mouvement sans progrès.
 
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+En une phrase
+Raisonnement circulaire = utiliser la conclusion comme partie de la preuve.`,
+    expert: `Raisonnement circulaire
 
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Description :
+Le raisonnement circulaire tourne en boucle.
+La conclusion revient comme prémisse, donc rien de nouveau n'est prouvé.
 
-**En une phrase**  
-**Appeal to Flattery**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Flattery — approfondi (Expert)
+Exemple (invitation à une fête)
+Vous devez inviter Jenna parce qu'il ne serait pas gentil de ne pas inviter Jenna
+La phrase répète l'affirmation au lieu de la soutenir.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Exemple (pression sociale)
+Nous devrions l'inclure parce que l'exclure serait mal, et ce serait mal de l'exclure
+Si la raison suppose déjà la conclusion, la preuve ne sort jamais de chez elle.
 
-**Appliqué à ce passage**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Comment ça fonctionne
+L'argument semble avancer, mais il tourne seulement autour de la même idée.
+Un vrai argument doit aller du soutien vers la conclusion, pas de la conclusion vers le soutien.
 
-Ici, **Appeal to Flattery** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Donc :
+Une boucle n'est pas une preuve
+Répéter une affirmation ne la démontre pas
+Les prémisses doivent faire plus qu'écho à la conclusion
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Concept clé
+Pétition de principe :
+La conclusion est glissée à l'intérieur de la prémisse.
+C'est pour cela que l'argument paraît convaincant sans rien prouver.
 
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Certains débats sonnent profonds mais n'ajoutent jamais de raison nouvelle
+On peut défendre une règle en se contentant de la répéter
+Une thèse peut sembler forte tout en restant vide
 
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut parler longtemps et ne rien démontrer.
+La circularité, c'est du mouvement sans progrès.
 
-- **Exemple 4 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Flattery**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Raisonnement circulaire = utiliser la conclusion comme partie de la preuve.`,
   },
+
   48: {
-    beginner: `## Appeal to Flattery — approfondi (Débutant)
+    beginner: `Raisonnement circulaire = dire que vous méritez quelque chose parce que vous le méritez.`,
+    intermediate: `Raisonnement circulaire
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Description :
+Le raisonnement circulaire tourne en boucle.
+La conclusion revient comme prémisse, donc rien de nouveau n'est prouvé.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (couvre-feu)
+Je mérite un couvre-feu plus tard, donc vous devez me laisser sortir plus tard
+La phrase répète l'affirmation au lieu de la soutenir.
 
-**Pourquoi c’est bien Appeal to Flattery**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (délai)
+J'ai besoin de plus de temps parce que la date limite devrait être prolongée pour moi, et elle devrait l'être parce que j'ai besoin de plus de temps
+Si la raison suppose déjà la conclusion, la preuve ne sort jamais de chez elle.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Flattery — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument semble avancer, mais il tourne seulement autour de la même idée.
+Un vrai argument doit aller du soutien vers la conclusion, pas de la conclusion vers le soutien.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Donc :
+Une boucle n'est pas une preuve
+Répéter une affirmation ne la démontre pas
+Les prémisses doivent faire plus qu'écho à la conclusion
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Pétition de principe :
+La conclusion est glissée à l'intérieur de la prémisse.
+C'est pour cela que l'argument paraît convaincant sans rien prouver.
 
-Le passage montre **Appeal to Flattery** : soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Certains débats sonnent profonds mais n'ajoutent jamais de raison nouvelle
+On peut défendre une règle en se contentant de la répéter
+Une thèse peut sembler forte tout en restant vide
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut parler longtemps et ne rien démontrer.
+La circularité, c'est du mouvement sans progrès.
 
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+En une phrase
+Raisonnement circulaire = utiliser la conclusion comme partie de la preuve.`,
+    expert: `Raisonnement circulaire
 
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Description :
+Le raisonnement circulaire tourne en boucle.
+La conclusion revient comme prémisse, donc rien de nouveau n'est prouvé.
 
-**En une phrase**  
-**Appeal to Flattery**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Flattery — approfondi (Expert)
+Exemple (couvre-feu)
+Je mérite un couvre-feu plus tard, donc vous devez me laisser sortir plus tard
+La phrase répète l'affirmation au lieu de la soutenir.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Exemple (délai)
+J'ai besoin de plus de temps parce que la date limite devrait être prolongée pour moi, et elle devrait l'être parce que j'ai besoin de plus de temps
+Si la raison suppose déjà la conclusion, la preuve ne sort jamais de chez elle.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument semble avancer, mais il tourne seulement autour de la même idée.
+Un vrai argument doit aller du soutien vers la conclusion, pas de la conclusion vers le soutien.
 
-Ici, **Appeal to Flattery** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Donc :
+Une boucle n'est pas une preuve
+Répéter une affirmation ne la démontre pas
+Les prémisses doivent faire plus qu'écho à la conclusion
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Concept clé
+Pétition de principe :
+La conclusion est glissée à l'intérieur de la prémisse.
+C'est pour cela que l'argument paraît convaincant sans rien prouver.
 
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Certains débats sonnent profonds mais n'ajoutent jamais de raison nouvelle
+On peut défendre une règle en se contentant de la répéter
+Une thèse peut sembler forte tout en restant vide
 
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut parler longtemps et ne rien démontrer.
+La circularité, c'est du mouvement sans progrès.
 
-- **Exemple 4 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Flattery**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur flattery, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Raisonnement circulaire = utiliser la conclusion comme partie de la preuve.`,
   },
+
   49: {
-    beginner: `## Appeal to Ridicule — approfondi (Débutant)
+    beginner: `Question chargée = poser une question qui cache une accusation non prouvée à l'intérieur.`,
+    intermediate: `Question chargée
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Description :
+Une question chargée cache une affirmation à l'intérieur de la question elle-même.
+Si l'on répond trop vite, on donne l'impression d'avoir accepté l'accusation cachée.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (violence envers la femme)
+Avez-vous arrêté de battre votre femme
+La question n'est pas neutre ; elle contient déjà l'accusation.
 
-**Pourquoi c’est bien Appeal to Ridicule**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (accusation chargée)
+Quand avez-vous arrêté de trahir la campagne
+La formulation pousse l'interlocuteur dans un piège avant même que les preuves soient discutées.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Ridicule — approfondi (Intermédiaire)
+Comment ça fonctionne
+La question est construite pour glisser une prémisse cachée.
+La personne qui répond doit donc rejeter cette prémisse avant de répondre à la question de surface.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Donc :
+Toutes les questions ne sont pas justes
+Une présupposition cachée peut rendre une question trompeuse
+Il faut parfois contester la question avant d'y répondre
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Présupposition chargée :
+Une affirmation est insérée dans la question comme si elle était déjà admise.
+C'est ce qui la rend injuste.
 
-Le passage montre **Appeal to Ridicule** : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des enquêteurs ou des débatteurs peuvent forcer l'accord par le simple choix des mots
+Un léger changement de formulation peut faire paraître quelqu'un coupable
+On peut accepter une fausse prémisse par politesse en voulant simplement répondre
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Parfois, le piège est dans la grammaire.
+Si vous répondez trop vite, vous répondez peut-être à un mensonge.
 
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+En une phrase
+Question chargée = poser une question qui cache une accusation non prouvée.`,
+    expert: `Question chargée
 
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Description :
+Une question chargée cache une affirmation à l'intérieur de la question elle-même.
+Si l'on répond trop vite, on donne l'impression d'avoir accepté l'accusation cachée.
 
-**En une phrase**  
-**Appeal to Ridicule**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Ridicule — approfondi (Expert)
+Exemple (violence envers la femme)
+Avez-vous arrêté de battre votre femme
+La question n'est pas neutre ; elle contient déjà l'accusation.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Exemple (accusation chargée)
+Quand avez-vous arrêté de trahir la campagne
+La formulation pousse l'interlocuteur dans un piège avant même que les preuves soient discutées.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+La question est construite pour glisser une prémisse cachée.
+La personne qui répond doit donc rejeter cette prémisse avant de répondre à la question de surface.
 
-Ici, **Appeal to Ridicule** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Donc :
+Toutes les questions ne sont pas justes
+Une présupposition cachée peut rendre une question trompeuse
+Il faut parfois contester la question avant d'y répondre
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Concept clé
+Présupposition chargée :
+Une affirmation est insérée dans la question comme si elle était déjà admise.
+C'est ce qui la rend injuste.
 
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des enquêteurs ou des débatteurs peuvent forcer l'accord par le simple choix des mots
+Un léger changement de formulation peut faire paraître quelqu'un coupable
+On peut accepter une fausse prémisse par politesse en voulant simplement répondre
 
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Parfois, le piège est dans la grammaire.
+Si vous répondez trop vite, vous répondez peut-être à un mensonge.
 
-- **Exemple 4 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Ridicule**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Question chargée = poser une question qui cache une accusation non prouvée.`,
   },
+
   50: {
-    beginner: `## Appeal to Ridicule — approfondi (Débutant)
+    beginner: `Question chargée = formuler une question comme si vous aviez déjà admis quelque chose.`,
+    intermediate: `Question chargée
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Description :
+Une question chargée cache une affirmation à l'intérieur de la question elle-même.
+Si l'on répond trop vite, on donne l'impression d'avoir accepté l'accusation cachée.
 
-**L’exemple affiché**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Exemple (piège idéologique)
+Quand êtes-vous devenu communiste
+La question n'est pas neutre ; elle contient déjà l'accusation.
 
-**Pourquoi c’est bien Appeal to Ridicule**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (piège de loyauté)
+Pourquoi avez-vous trahi l'équipe
+La formulation pousse l'interlocuteur dans un piège avant même que les preuves soient discutées.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Ridicule — approfondi (Intermédiaire)
+Comment ça fonctionne
+La question est construite pour glisser une prémisse cachée.
+La personne qui répond doit donc rejeter cette prémisse avant de répondre à la question de surface.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Donc :
+Toutes les questions ne sont pas justes
+Une présupposition cachée peut rendre une question trompeuse
+Il faut parfois contester la question avant d'y répondre
 
-**Cet exemple**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Concept clé
+Présupposition chargée :
+Une affirmation est insérée dans la question comme si elle était déjà admise.
+C'est ce qui la rend injuste.
 
-Le passage montre **Appeal to Ridicule** : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des enquêteurs ou des débatteurs peuvent forcer l'accord par le simple choix des mots
+Un léger changement de formulation peut faire paraître quelqu'un coupable
+On peut accepter une fausse prémisse par politesse en voulant simplement répondre
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Parfois, le piège est dans la grammaire.
+Si vous répondez trop vite, vous répondez peut-être à un mensonge.
 
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+En une phrase
+Question chargée = poser une question qui cache une accusation non prouvée.`,
+    expert: `Question chargée
 
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Description :
+Une question chargée cache une affirmation à l'intérieur de la question elle-même.
+Si l'on répond trop vite, on donne l'impression d'avoir accepté l'accusation cachée.
 
-**En une phrase**  
-**Appeal to Ridicule**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Ridicule — approfondi (Expert)
+Exemple (piège idéologique)
+Quand êtes-vous devenu communiste
+La question n'est pas neutre ; elle contient déjà l'accusation.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Exemple (piège de loyauté)
+Pourquoi avez-vous trahi l'équipe
+La formulation pousse l'interlocuteur dans un piège avant même que les preuves soient discutées.
 
-**Appliqué à ce passage**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Comment ça fonctionne
+La question est construite pour glisser une prémisse cachée.
+La personne qui répond doit donc rejeter cette prémisse avant de répondre à la question de surface.
 
-Ici, **Appeal to Ridicule** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Donc :
+Toutes les questions ne sont pas justes
+Une présupposition cachée peut rendre une question trompeuse
+Il faut parfois contester la question avant d'y répondre
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Concept clé
+Présupposition chargée :
+Une affirmation est insérée dans la question comme si elle était déjà admise.
+C'est ce qui la rend injuste.
 
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des enquêteurs ou des débatteurs peuvent forcer l'accord par le simple choix des mots
+Un léger changement de formulation peut faire paraître quelqu'un coupable
+On peut accepter une fausse prémisse par politesse en voulant simplement répondre
 
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Parfois, le piège est dans la grammaire.
+Si vous répondez trop vite, vous répondez peut-être à un mensonge.
 
-- **Exemple 4 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Ridicule**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Question chargée = poser une question qui cache une accusation non prouvée.`,
   },
+
   51: {
-    beginner: `## Appeal to Ridicule — approfondi (Débutant)
+    beginner: `Question chargée = forcer quelqu'un à répondre comme si la thèse cachée était déjà vraie.`,
+    intermediate: `Question chargée
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Description :
+Une question chargée cache une affirmation à l'intérieur de la question elle-même.
+Si l'on répond trop vite, on donne l'impression d'avoir accepté l'accusation cachée.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (paresse)
+Pourquoi êtes-vous si paresseux
+La question n'est pas neutre ; elle contient déjà l'accusation.
 
-**Pourquoi c’est bien Appeal to Ridicule**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (mensonge)
+Pourquoi continuez-vous à mentir à votre patron
+La formulation pousse l'interlocuteur dans un piège avant même que les preuves soient discutées.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Ridicule — approfondi (Intermédiaire)
+Comment ça fonctionne
+La question est construite pour glisser une prémisse cachée.
+La personne qui répond doit donc rejeter cette prémisse avant de répondre à la question de surface.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Donc :
+Toutes les questions ne sont pas justes
+Une présupposition cachée peut rendre une question trompeuse
+Il faut parfois contester la question avant d'y répondre
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Présupposition chargée :
+Une affirmation est insérée dans la question comme si elle était déjà admise.
+C'est ce qui la rend injuste.
 
-Le passage montre **Appeal to Ridicule** : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des enquêteurs ou des débatteurs peuvent forcer l'accord par le simple choix des mots
+Un léger changement de formulation peut faire paraître quelqu'un coupable
+On peut accepter une fausse prémisse par politesse en voulant simplement répondre
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Parfois, le piège est dans la grammaire.
+Si vous répondez trop vite, vous répondez peut-être à un mensonge.
 
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+En une phrase
+Question chargée = poser une question qui cache une accusation non prouvée.`,
+    expert: `Question chargée
 
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Description :
+Une question chargée cache une affirmation à l'intérieur de la question elle-même.
+Si l'on répond trop vite, on donne l'impression d'avoir accepté l'accusation cachée.
 
-**En une phrase**  
-**Appeal to Ridicule**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Ridicule — approfondi (Expert)
+Exemple (paresse)
+Pourquoi êtes-vous si paresseux
+La question n'est pas neutre ; elle contient déjà l'accusation.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Exemple (mensonge)
+Pourquoi continuez-vous à mentir à votre patron
+La formulation pousse l'interlocuteur dans un piège avant même que les preuves soient discutées.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+La question est construite pour glisser une prémisse cachée.
+La personne qui répond doit donc rejeter cette prémisse avant de répondre à la question de surface.
 
-Ici, **Appeal to Ridicule** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Donc :
+Toutes les questions ne sont pas justes
+Une présupposition cachée peut rendre une question trompeuse
+Il faut parfois contester la question avant d'y répondre
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Concept clé
+Présupposition chargée :
+Une affirmation est insérée dans la question comme si elle était déjà admise.
+C'est ce qui la rend injuste.
 
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Des enquêteurs ou des débatteurs peuvent forcer l'accord par le simple choix des mots
+Un léger changement de formulation peut faire paraître quelqu'un coupable
+On peut accepter une fausse prémisse par politesse en voulant simplement répondre
 
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Parfois, le piège est dans la grammaire.
+Si vous répondez trop vite, vous répondez peut-être à un mensonge.
 
-- **Exemple 4 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Ridicule**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur ridicule, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Question chargée = poser une question qui cache une accusation non prouvée.`,
   },
+
   52: {
-    beginner: `## Appeal to Spite — approfondi (Débutant)
+    beginner: `Erreur de composition = supposer que le tout possède une propriété parce que chaque partie la possède.`,
+    intermediate: `Erreur de composition
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Description :
+L'erreur de composition confond une propriété des parties avec une propriété de l'ensemble.
+Ce qui est vrai de chaque pièce ne devient pas automatiquement vrai du tout terminé.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (atomes)
+Les atomes sont invisibles, les humains sont faits d'atomes, donc les humains sont invisibles
+Une propriété des briques de départ n'est pas toujours une propriété du bâtiment fini.
 
-**Pourquoi c’est bien Appeal to Spite**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (parties vers tout)
+Chaque ingrédient est léger, donc le plat fini doit être léger
+Ce qui convient à chaque membre d'un groupe ne convient pas forcément au groupe entier.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Spite — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'esprit saute trop vite des parties au tout.
+Il manque l'étape qui vérifie si la propriété survit quand les morceaux sont assemblés.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Donc :
+Les parties et le tout ne sont pas la même chose
+Un fait local peut disparaître quand le système est assemblé
+Il faut un pont logique entre la partie et le tout
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Agrégation :
+Assembler plusieurs énoncés vrais ne garantit pas que le grand énoncé soit vrai.
+Le tout peut se comporter autrement que les morceaux.
 
-Le passage montre **Appeal to Spite** : soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Une équipe peut avoir d'excellents joueurs et quand même perdre comme équipe
+Une pièce de machine peut être simple alors que la machine entière est complexe
+Une foule peut contenir des personnes intelligentes sans être elle-même sage
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Une liste de faits vrais peut encore produire une conclusion fausse.
+Les grandes affirmations ont besoin d'un grand soutien.
 
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+En une phrase
+Erreur de composition = supposer que le tout possède une propriété parce que chaque partie la possède.`,
+    expert: `Erreur de composition
 
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Description :
+L'erreur de composition confond une propriété des parties avec une propriété de l'ensemble.
+Ce qui est vrai de chaque pièce ne devient pas automatiquement vrai du tout terminé.
 
-**En une phrase**  
-**Appeal to Spite**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Spite — approfondi (Expert)
+Exemple (atomes)
+Les atomes sont invisibles, les humains sont faits d'atomes, donc les humains sont invisibles
+Une propriété des briques de départ n'est pas toujours une propriété du bâtiment fini.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Exemple (parties vers tout)
+Chaque ingrédient est léger, donc le plat fini doit être léger
+Ce qui convient à chaque membre d'un groupe ne convient pas forcément au groupe entier.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'esprit saute trop vite des parties au tout.
+Il manque l'étape qui vérifie si la propriété survit quand les morceaux sont assemblés.
 
-Ici, **Appeal to Spite** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Donc :
+Les parties et le tout ne sont pas la même chose
+Un fait local peut disparaître quand le système est assemblé
+Il faut un pont logique entre la partie et le tout
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Concept clé
+Agrégation :
+Assembler plusieurs énoncés vrais ne garantit pas que le grand énoncé soit vrai.
+Le tout peut se comporter autrement que les morceaux.
 
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Une équipe peut avoir d'excellents joueurs et quand même perdre comme équipe
+Une pièce de machine peut être simple alors que la machine entière est complexe
+Une foule peut contenir des personnes intelligentes sans être elle-même sage
 
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Une liste de faits vrais peut encore produire une conclusion fausse.
+Les grandes affirmations ont besoin d'un grand soutien.
 
-- **Exemple 4 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Spite**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Erreur de composition = supposer que le tout possède une propriété parce que chaque partie la possède.`,
   },
+
   53: {
-    beginner: `## Appeal to Spite — approfondi (Débutant)
+    beginner: `Erreur de composition = transformer une vérité sur chaque joueur en vérité sur toute l'équipe.`,
+    intermediate: `Erreur de composition
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Description :
+L'erreur de composition confond une propriété des parties avec une propriété de l'ensemble.
+Ce qui est vrai de chaque pièce ne devient pas automatiquement vrai du tout terminé.
 
-**L’exemple affiché**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Exemple (équipe)
+Chaque joueur de l'équipe est une star, donc l'équipe doit être imbattable
+Une propriété des briques de départ n'est pas toujours une propriété du bâtiment fini.
 
-**Pourquoi c’est bien Appeal to Spite**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (assemblage)
+Chaque membre est compétent, donc le projet final doit être parfait
+Ce qui convient à chaque membre d'un groupe ne convient pas forcément au groupe entier.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Spite — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'esprit saute trop vite des parties au tout.
+Il manque l'étape qui vérifie si la propriété survit quand les morceaux sont assemblés.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Donc :
+Les parties et le tout ne sont pas la même chose
+Un fait local peut disparaître quand le système est assemblé
+Il faut un pont logique entre la partie et le tout
 
-**Cet exemple**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Concept clé
+Agrégation :
+Assembler plusieurs énoncés vrais ne garantit pas que le grand énoncé soit vrai.
+Le tout peut se comporter autrement que les morceaux.
 
-Le passage montre **Appeal to Spite** : soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Une équipe peut avoir d'excellents joueurs et quand même perdre comme équipe
+Une pièce de machine peut être simple alors que la machine entière est complexe
+Une foule peut contenir des personnes intelligentes sans être elle-même sage
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Une liste de faits vrais peut encore produire une conclusion fausse.
+Les grandes affirmations ont besoin d'un grand soutien.
 
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+En une phrase
+Erreur de composition = supposer que le tout possède une propriété parce que chaque partie la possède.`,
+    expert: `Erreur de composition
 
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Description :
+L'erreur de composition confond une propriété des parties avec une propriété de l'ensemble.
+Ce qui est vrai de chaque pièce ne devient pas automatiquement vrai du tout terminé.
 
-**En une phrase**  
-**Appeal to Spite**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Spite — approfondi (Expert)
+Exemple (équipe)
+Chaque joueur de l'équipe est une star, donc l'équipe doit être imbattable
+Une propriété des briques de départ n'est pas toujours une propriété du bâtiment fini.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Exemple (assemblage)
+Chaque membre est compétent, donc le projet final doit être parfait
+Ce qui convient à chaque membre d'un groupe ne convient pas forcément au groupe entier.
 
-**Appliqué à ce passage**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Comment ça fonctionne
+L'esprit saute trop vite des parties au tout.
+Il manque l'étape qui vérifie si la propriété survit quand les morceaux sont assemblés.
 
-Ici, **Appeal to Spite** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Donc :
+Les parties et le tout ne sont pas la même chose
+Un fait local peut disparaître quand le système est assemblé
+Il faut un pont logique entre la partie et le tout
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Concept clé
+Agrégation :
+Assembler plusieurs énoncés vrais ne garantit pas que le grand énoncé soit vrai.
+Le tout peut se comporter autrement que les morceaux.
 
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Une équipe peut avoir d'excellents joueurs et quand même perdre comme équipe
+Une pièce de machine peut être simple alors que la machine entière est complexe
+Une foule peut contenir des personnes intelligentes sans être elle-même sage
 
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Une liste de faits vrais peut encore produire une conclusion fausse.
+Les grandes affirmations ont besoin d'un grand soutien.
 
-- **Exemple 4 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Spite**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Erreur de composition = supposer que le tout possède une propriété parce que chaque partie la possède.`,
   },
+
   54: {
-    beginner: `## Appeal to Spite — approfondi (Débutant)
+    beginner: `Erreur de composition = supposer que la voiture doit partager la propriété d'une pièce qui la compose.`,
+    intermediate: `Erreur de composition
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Description :
+L'erreur de composition confond une propriété des parties avec une propriété de l'ensemble.
+Ce qui est vrai de chaque pièce ne devient pas automatiquement vrai du tout terminé.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (pneu)
+Ce pneu est en caoutchouc, donc toute la voiture doit être en caoutchouc
+Une propriété des briques de départ n'est pas toujours une propriété du bâtiment fini.
 
-**Pourquoi c’est bien Appeal to Spite**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (composant)
+Les haut-parleurs sont puissants, donc toute la machine doit être bruyante
+Ce qui convient à chaque membre d'un groupe ne convient pas forcément au groupe entier.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Spite — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'esprit saute trop vite des parties au tout.
+Il manque l'étape qui vérifie si la propriété survit quand les morceaux sont assemblés.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Donc :
+Les parties et le tout ne sont pas la même chose
+Un fait local peut disparaître quand le système est assemblé
+Il faut un pont logique entre la partie et le tout
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Agrégation :
+Assembler plusieurs énoncés vrais ne garantit pas que le grand énoncé soit vrai.
+Le tout peut se comporter autrement que les morceaux.
 
-Le passage montre **Appeal to Spite** : soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Une équipe peut avoir d'excellents joueurs et quand même perdre comme équipe
+Une pièce de machine peut être simple alors que la machine entière est complexe
+Une foule peut contenir des personnes intelligentes sans être elle-même sage
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Une liste de faits vrais peut encore produire une conclusion fausse.
+Les grandes affirmations ont besoin d'un grand soutien.
 
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+En une phrase
+Erreur de composition = supposer que le tout possède une propriété parce que chaque partie la possède.`,
+    expert: `Erreur de composition
 
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Description :
+L'erreur de composition confond une propriété des parties avec une propriété de l'ensemble.
+Ce qui est vrai de chaque pièce ne devient pas automatiquement vrai du tout terminé.
 
-**En une phrase**  
-**Appeal to Spite**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Spite — approfondi (Expert)
+Exemple (pneu)
+Ce pneu est en caoutchouc, donc toute la voiture doit être en caoutchouc
+Une propriété des briques de départ n'est pas toujours une propriété du bâtiment fini.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Exemple (composant)
+Les haut-parleurs sont puissants, donc toute la machine doit être bruyante
+Ce qui convient à chaque membre d'un groupe ne convient pas forcément au groupe entier.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'esprit saute trop vite des parties au tout.
+Il manque l'étape qui vérifie si la propriété survit quand les morceaux sont assemblés.
 
-Ici, **Appeal to Spite** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Donc :
+Les parties et le tout ne sont pas la même chose
+Un fait local peut disparaître quand le système est assemblé
+Il faut un pont logique entre la partie et le tout
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Concept clé
+Agrégation :
+Assembler plusieurs énoncés vrais ne garantit pas que le grand énoncé soit vrai.
+Le tout peut se comporter autrement que les morceaux.
 
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Une équipe peut avoir d'excellents joueurs et quand même perdre comme équipe
+Une pièce de machine peut être simple alors que la machine entière est complexe
+Une foule peut contenir des personnes intelligentes sans être elle-même sage
 
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Une liste de faits vrais peut encore produire une conclusion fausse.
+Les grandes affirmations ont besoin d'un grand soutien.
 
-- **Exemple 4 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Spite**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur spite, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Erreur de composition = supposer que le tout possède une propriété parce que chaque partie la possède.`,
   },
+
   55: {
-    beginner: `## Appeal to Consequences — approfondi (Débutant)
+    beginner: `Erreur de division = supposer que chaque personne a une propriété parce que le pays l'a.`,
+    intermediate: `Erreur de division
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Description :
+L'erreur de division fait le mouvement inverse.
+Ce qui est vrai du tout ne s'applique pas automatiquement à chaque partie.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (pays)
+Les États-Unis sont le pays le plus riche du monde, donc tout le monde aux États-Unis doit être riche
+Une propriété du groupe ne décrit pas forcément chaque personne à l'intérieur.
 
-**Pourquoi c’est bien Appeal to Consequences**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (du tout à la partie)
+L'entreprise est rentable, donc chaque employé doit être personnellement riche
+Le tout peut avoir une caractéristique qu'aucune pièce prise seule ne possède.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Consequences — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'auteur glisse du grand tableau vers les petits éléments sans justification.
+Ce saut ne marche que si la propriété du tout se transmet vraiment à chaque partie.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Donc :
+Le tout et les parties sont deux niveaux différents
+Un fait sur le système n'est pas toujours vrai pour chacun de ses membres
+Il faut une preuve du transfert, pas seulement un slogan
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Décomposition :
+Découper un tout en parties ne conserve pas toutes ses propriétés.
+Un groupe peut avoir un trait qu'aucun individu n'a seul.
 
-Le passage montre **Appeal to Consequences** : soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Un pays riche peut quand même compter de nombreux citoyens pauvres
+L'eau peut être liquide alors qu'une molécule seule n'est pas une flaque
+Un livre lourd ne rend pas chaque page lourde de la même façon
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+L'implication inconfortable
+L'échelle change le sens.
+Ce qui est vrai en haut n'est pas toujours vrai en bas.
 
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+En une phrase
+Erreur de division = supposer que chaque partie a une propriété parce que le tout l'a.`,
+    expert: `Erreur de division
 
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Description :
+L'erreur de division fait le mouvement inverse.
+Ce qui est vrai du tout ne s'applique pas automatiquement à chaque partie.
 
-**En une phrase**  
-**Appeal to Consequences**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Consequences — approfondi (Expert)
+Exemple (pays)
+Les États-Unis sont le pays le plus riche du monde, donc tout le monde aux États-Unis doit être riche
+Une propriété du groupe ne décrit pas forcément chaque personne à l'intérieur.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Exemple (du tout à la partie)
+L'entreprise est rentable, donc chaque employé doit être personnellement riche
+Le tout peut avoir une caractéristique qu'aucune pièce prise seule ne possède.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'auteur glisse du grand tableau vers les petits éléments sans justification.
+Ce saut ne marche que si la propriété du tout se transmet vraiment à chaque partie.
 
-Ici, **Appeal to Consequences** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Donc :
+Le tout et les parties sont deux niveaux différents
+Un fait sur le système n'est pas toujours vrai pour chacun de ses membres
+Il faut une preuve du transfert, pas seulement un slogan
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Concept clé
+Décomposition :
+Découper un tout en parties ne conserve pas toutes ses propriétés.
+Un groupe peut avoir un trait qu'aucun individu n'a seul.
 
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Un pays riche peut quand même compter de nombreux citoyens pauvres
+L'eau peut être liquide alors qu'une molécule seule n'est pas une flaque
+Un livre lourd ne rend pas chaque page lourde de la même façon
 
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+L'implication inconfortable
+L'échelle change le sens.
+Ce qui est vrai en haut n'est pas toujours vrai en bas.
 
-- **Exemple 4 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Consequences**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Erreur de division = supposer que chaque partie a une propriété parce que le tout l'a.`,
   },
+
   56: {
-    beginner: `## Appeal to Consequences — approfondi (Débutant)
+    beginner: `Erreur de division = supposer que les molécules ont la même propriété que le liquide qu'elles composent.`,
+    intermediate: `Erreur de division
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Description :
+L'erreur de division fait le mouvement inverse.
+Ce qui est vrai du tout ne s'applique pas automatiquement à chaque partie.
 
-**L’exemple affiché**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Exemple (eau)
+L'eau est liquide, donc les molécules H2O sont liquides
+Une propriété du groupe ne décrit pas forcément chaque personne à l'intérieur.
 
-**Pourquoi c’est bien Appeal to Consequences**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (état de matière)
+La foule est calme, donc chaque personne dans la foule doit être calme
+Le tout peut avoir une caractéristique qu'aucune pièce prise seule ne possède.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Consequences — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'auteur glisse du grand tableau vers les petits éléments sans justification.
+Ce saut ne marche que si la propriété du tout se transmet vraiment à chaque partie.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Donc :
+Le tout et les parties sont deux niveaux différents
+Un fait sur le système n'est pas toujours vrai pour chacun de ses membres
+Il faut une preuve du transfert, pas seulement un slogan
 
-**Cet exemple**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Concept clé
+Décomposition :
+Découper un tout en parties ne conserve pas toutes ses propriétés.
+Un groupe peut avoir un trait qu'aucun individu n'a seul.
 
-Le passage montre **Appeal to Consequences** : soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Un pays riche peut quand même compter de nombreux citoyens pauvres
+L'eau peut être liquide alors qu'une molécule seule n'est pas une flaque
+Un livre lourd ne rend pas chaque page lourde de la même façon
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+L'implication inconfortable
+L'échelle change le sens.
+Ce qui est vrai en haut n'est pas toujours vrai en bas.
 
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+En une phrase
+Erreur de division = supposer que chaque partie a une propriété parce que le tout l'a.`,
+    expert: `Erreur de division
 
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Description :
+L'erreur de division fait le mouvement inverse.
+Ce qui est vrai du tout ne s'applique pas automatiquement à chaque partie.
 
-**En une phrase**  
-**Appeal to Consequences**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Consequences — approfondi (Expert)
+Exemple (eau)
+L'eau est liquide, donc les molécules H2O sont liquides
+Une propriété du groupe ne décrit pas forcément chaque personne à l'intérieur.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Exemple (état de matière)
+La foule est calme, donc chaque personne dans la foule doit être calme
+Le tout peut avoir une caractéristique qu'aucune pièce prise seule ne possède.
 
-**Appliqué à ce passage**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Comment ça fonctionne
+L'auteur glisse du grand tableau vers les petits éléments sans justification.
+Ce saut ne marche que si la propriété du tout se transmet vraiment à chaque partie.
 
-Ici, **Appeal to Consequences** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Donc :
+Le tout et les parties sont deux niveaux différents
+Un fait sur le système n'est pas toujours vrai pour chacun de ses membres
+Il faut une preuve du transfert, pas seulement un slogan
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Concept clé
+Décomposition :
+Découper un tout en parties ne conserve pas toutes ses propriétés.
+Un groupe peut avoir un trait qu'aucun individu n'a seul.
 
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Un pays riche peut quand même compter de nombreux citoyens pauvres
+L'eau peut être liquide alors qu'une molécule seule n'est pas une flaque
+Un livre lourd ne rend pas chaque page lourde de la même façon
 
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+L'implication inconfortable
+L'échelle change le sens.
+Ce qui est vrai en haut n'est pas toujours vrai en bas.
 
-- **Exemple 4 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Consequences**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Erreur de division = supposer que chaque partie a une propriété parce que le tout l'a.`,
   },
+
   57: {
-    beginner: `## Appeal to Consequences — approfondi (Débutant)
+    beginner: `Erreur de division = supposer que chaque page partage le poids du livre entier.`,
+    intermediate: `Erreur de division
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Description :
+L'erreur de division fait le mouvement inverse.
+Ce qui est vrai du tout ne s'applique pas automatiquement à chaque partie.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (livre)
+Ce livre est lourd, donc chaque page doit être lourde
+Une propriété du groupe ne décrit pas forcément chaque personne à l'intérieur.
 
-**Pourquoi c’est bien Appeal to Consequences**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (objet entier)
+Le mur est solide, donc chaque brique doit être solide de la même manière
+Le tout peut avoir une caractéristique qu'aucune pièce prise seule ne possède.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Consequences — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'auteur glisse du grand tableau vers les petits éléments sans justification.
+Ce saut ne marche que si la propriété du tout se transmet vraiment à chaque partie.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Donc :
+Le tout et les parties sont deux niveaux différents
+Un fait sur le système n'est pas toujours vrai pour chacun de ses membres
+Il faut une preuve du transfert, pas seulement un slogan
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Décomposition :
+Découper un tout en parties ne conserve pas toutes ses propriétés.
+Un groupe peut avoir un trait qu'aucun individu n'a seul.
 
-Le passage montre **Appeal to Consequences** : soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Un pays riche peut quand même compter de nombreux citoyens pauvres
+L'eau peut être liquide alors qu'une molécule seule n'est pas une flaque
+Un livre lourd ne rend pas chaque page lourde de la même façon
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+L'implication inconfortable
+L'échelle change le sens.
+Ce qui est vrai en haut n'est pas toujours vrai en bas.
 
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+En une phrase
+Erreur de division = supposer que chaque partie a une propriété parce que le tout l'a.`,
+    expert: `Erreur de division
 
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Description :
+L'erreur de division fait le mouvement inverse.
+Ce qui est vrai du tout ne s'applique pas automatiquement à chaque partie.
 
-**En une phrase**  
-**Appeal to Consequences**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Consequences — approfondi (Expert)
+Exemple (livre)
+Ce livre est lourd, donc chaque page doit être lourde
+Une propriété du groupe ne décrit pas forcément chaque personne à l'intérieur.
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Exemple (objet entier)
+Le mur est solide, donc chaque brique doit être solide de la même manière
+Le tout peut avoir une caractéristique qu'aucune pièce prise seule ne possède.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'auteur glisse du grand tableau vers les petits éléments sans justification.
+Ce saut ne marche que si la propriété du tout se transmet vraiment à chaque partie.
 
-Ici, **Appeal to Consequences** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Donc :
+Le tout et les parties sont deux niveaux différents
+Un fait sur le système n'est pas toujours vrai pour chacun de ses membres
+Il faut une preuve du transfert, pas seulement un slogan
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Concept clé
+Décomposition :
+Découper un tout en parties ne conserve pas toutes ses propriétés.
+Un groupe peut avoir un trait qu'aucun individu n'a seul.
 
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Un pays riche peut quand même compter de nombreux citoyens pauvres
+L'eau peut être liquide alors qu'une molécule seule n'est pas une flaque
+Un livre lourd ne rend pas chaque page lourde de la même façon
 
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
+L'implication inconfortable
+L'échelle change le sens.
+Ce qui est vrai en haut n'est pas toujours vrai en bas.
 
-- **Exemple 4 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Consequences**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur consequences, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Erreur de division = supposer que chaque partie a une propriété parce que le tout l'a.`,
   },
+
   58: {
-    beginner: `## Appeal to Nature — approfondi (Débutant)
+    beginner: `Biais de confirmation = favoriser les preuves qui vont déjà dans le sens de ce que l'on croit.`,
+    intermediate: `Biais de confirmation
 
-**En termes simples**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Description :
+Le biais de confirmation consiste à remarquer surtout les preuves qui vont dans le sens de ce que l'on croit déjà et à négliger le reste.
+Cela peut donner une impression de rigueur tout en rétrécissant silencieusement le champ de vision.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir que parce que quelque chose est 'un raisonnement défectueuxl', c'est donc bon ou inévitable.". »  
+Exemple (chaînes d'info)
+Je ne regarde que les chaînes d'information qui sont d'accord avec moi
+N'entendre que le côté qui vous donne raison rend votre croyance plus solide qu'elle ne l'est vraiment.
 
-**Pourquoi c’est bien Appeal to Nature**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (bulle informationnelle)
+Filtrer l'autre camp pour que l'accord ressemble à une preuve
+Si les détails contraires sont ignorés, le motif que vous croyez voir n'est peut-être qu'une demi-image.
 
-**À retenir**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.`,
-    intermediate: `## Appeal to Nature — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'esprit cherche d'abord le soutien, puis le doute.
+Les croyances déjà présentes paraissent alors confirmées, même si les preuves complètes sont partagées.
 
-**En termes simples**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Donc :
+Les preuves agréables sont faciles à surestimer
+Les preuves gênantes sont faciles à ignorer
+Un vrai contrôle doit aussi chercher ce qui infirme l'idée
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir que parce que quelque chose est 'un raisonnement défectueuxl', c'est donc bon ou inévitable.". »  
+Concept clé
+Attention sélective :
+Nous ne recevons pas tous les faits de la même manière.
+Ce qui ressemble à l'histoire attendue ressort davantage, et cela peut déformer le jugement.
 
-Le passage montre **Appeal to Nature** : soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Pourquoi c'est important
+Explique pourquoi :
+Les gens peuvent vivre dans des bulles d'information différentes
+Deux personnes peuvent lire les mêmes données et ne remarquer que les morceaux qu'elles préfèrent
+Les arguments se durcissent quand personne ne demande ce qui les ferait échouer
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+L'implication inconfortable
+On peut prendre le confort pour la vérité.
+Si vous n'écoutez que ce qui vous approuve, vous vous croirez juste pour de mauvaises raisons.
 
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+En une phrase
+Biais de confirmation = favoriser les preuves qui vont dans le sens de ce que l'on croit déjà.`,
+    expert: `Biais de confirmation
 
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Description :
+Le biais de confirmation consiste à remarquer surtout les preuves qui vont dans le sens de ce que l'on croit déjà et à négliger le reste.
+Cela peut donner une impression de rigueur tout en rétrécissant silencieusement le champ de vision.
 
-**En une phrase**  
-**Appeal to Nature**, c’est quand le raisonnement correspond à : Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.`,
-    expert: `## Appeal to Nature — approfondi (Expert)
+Exemple (chaînes d'info)
+Je ne regarde que les chaînes d'information qui sont d'accord avec moi
+N'entendre que le côté qui vous donne raison rend votre croyance plus solide qu'elle ne l'est vraiment.
 
-**Définition**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Exemple (bulle informationnelle)
+Filtrer l'autre camp pour que l'accord ressemble à une preuve
+Si les détails contraires sont ignorés, le motif que vous croyez voir n'est peut-être qu'une demi-image.
 
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir que parce que quelque chose est 'un raisonnement défectueuxl', c'est donc bon ou inévitable.". »  
+Comment ça fonctionne
+L'esprit cherche d'abord le soutien, puis le doute.
+Les croyances déjà présentes paraissent alors confirmées, même si les preuves complètes sont partagées.
 
-Ici, **Appeal to Nature** convient parce que soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Donc :
+Les preuves agréables sont faciles à surestimer
+Les preuves gênantes sont faciles à ignorer
+Un vrai contrôle doit aussi chercher ce qui infirme l'idée
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Concept clé
+Attention sélective :
+Nous ne recevons pas tous les faits de la même manière.
+Ce qui ressemble à l'histoire attendue ressort davantage, et cela peut déformer le jugement.
 
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Pourquoi c'est important
+Explique pourquoi :
+Les gens peuvent vivre dans des bulles d'information différentes
+Deux personnes peuvent lire les mêmes données et ne remarquer que les morceaux qu'elles préfèrent
+Les arguments se durcissent quand personne ne demande ce qui les ferait échouer
 
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+L'implication inconfortable
+On peut prendre le confort pour la vérité.
+Si vous n'écoutez que ce qui vous approuve, vous vous croirez juste pour de mauvaises raisons.
 
-- **Exemple 4 :** Imaginez une discussion en famille. C’est la même erreur : soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
-
-- **Exemple 5 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Nature**, c’est Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Biais de confirmation = favoriser les preuves qui vont dans le sens de ce que l'on croit déjà.`,
   },
+
   59: {
-    beginner: `## Appeal to Nature — approfondi (Débutant)
+    beginner: `Biais de confirmation = traiter des preuves choisies comme si elles prouvaient le motif.`,
+    intermediate: `Biais de confirmation
 
-**En termes simples**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Description :
+Le biais de confirmation consiste à remarquer surtout les preuves qui vont dans le sens de ce que l'on croit déjà et à négliger le reste.
+Cela peut donner une impression de rigueur tout en rétrécissant silencieusement le champ de vision.
 
-**L’exemple affiché**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Exemple (contraventions)
+Vous voyez ? Je vous avais dit que les voitures rouges reçoivent plus d'amendes, en ignorant toutes les voitures bleues qui roulent trop vite
+N'entendre que le côté qui vous donne raison rend votre croyance plus solide qu'elle ne l'est vraiment.
 
-**Pourquoi c’est bien Appeal to Nature**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (mémoire sélective)
+Se souvenir des cas qui confirment et oublier ceux qui contredisent
+Si les détails contraires sont ignorés, le motif que vous croyez voir n'est peut-être qu'une demi-image.
 
-**À retenir**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.`,
-    intermediate: `## Appeal to Nature — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'esprit cherche d'abord le soutien, puis le doute.
+Les croyances déjà présentes paraissent alors confirmées, même si les preuves complètes sont partagées.
 
-**En termes simples**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Donc :
+Les preuves agréables sont faciles à surestimer
+Les preuves gênantes sont faciles à ignorer
+Un vrai contrôle doit aussi chercher ce qui infirme l'idée
 
-**Cet exemple**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Concept clé
+Attention sélective :
+Nous ne recevons pas tous les faits de la même manière.
+Ce qui ressemble à l'histoire attendue ressort davantage, et cela peut déformer le jugement.
 
-Le passage montre **Appeal to Nature** : soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Pourquoi c'est important
+Explique pourquoi :
+Les gens peuvent vivre dans des bulles d'information différentes
+Deux personnes peuvent lire les mêmes données et ne remarquer que les morceaux qu'elles préfèrent
+Les arguments se durcissent quand personne ne demande ce qui les ferait échouer
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+L'implication inconfortable
+On peut prendre le confort pour la vérité.
+Si vous n'écoutez que ce qui vous approuve, vous vous croirez juste pour de mauvaises raisons.
 
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+En une phrase
+Biais de confirmation = favoriser les preuves qui vont dans le sens de ce que l'on croit déjà.`,
+    expert: `Biais de confirmation
 
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Description :
+Le biais de confirmation consiste à remarquer surtout les preuves qui vont dans le sens de ce que l'on croit déjà et à négliger le reste.
+Cela peut donner une impression de rigueur tout en rétrécissant silencieusement le champ de vision.
 
-**En une phrase**  
-**Appeal to Nature**, c’est quand le raisonnement correspond à : Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.`,
-    expert: `## Appeal to Nature — approfondi (Expert)
+Exemple (contraventions)
+Vous voyez ? Je vous avais dit que les voitures rouges reçoivent plus d'amendes, en ignorant toutes les voitures bleues qui roulent trop vite
+N'entendre que le côté qui vous donne raison rend votre croyance plus solide qu'elle ne l'est vraiment.
 
-**Définition**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Exemple (mémoire sélective)
+Se souvenir des cas qui confirment et oublier ceux qui contredisent
+Si les détails contraires sont ignorés, le motif que vous croyez voir n'est peut-être qu'une demi-image.
 
-**Appliqué à ce passage**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Comment ça fonctionne
+L'esprit cherche d'abord le soutien, puis le doute.
+Les croyances déjà présentes paraissent alors confirmées, même si les preuves complètes sont partagées.
 
-Ici, **Appeal to Nature** convient parce que soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Donc :
+Les preuves agréables sont faciles à surestimer
+Les preuves gênantes sont faciles à ignorer
+Un vrai contrôle doit aussi chercher ce qui infirme l'idée
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Concept clé
+Attention sélective :
+Nous ne recevons pas tous les faits de la même manière.
+Ce qui ressemble à l'histoire attendue ressort davantage, et cela peut déformer le jugement.
 
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Pourquoi c'est important
+Explique pourquoi :
+Les gens peuvent vivre dans des bulles d'information différentes
+Deux personnes peuvent lire les mêmes données et ne remarquer que les morceaux qu'elles préfèrent
+Les arguments se durcissent quand personne ne demande ce qui les ferait échouer
 
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+L'implication inconfortable
+On peut prendre le confort pour la vérité.
+Si vous n'écoutez que ce qui vous approuve, vous vous croirez juste pour de mauvaises raisons.
 
-- **Exemple 4 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
-
-- **Exemple 5 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Nature**, c’est Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Biais de confirmation = favoriser les preuves qui vont dans le sens de ce que l'on croit déjà.`,
   },
+
   60: {
-    beginner: `## Appeal to Nature — approfondi (Débutant)
+    beginner: `Biais de confirmation = lire des preuves ambiguës de manière à soutenir sa croyance préalable.`,
+    intermediate: `Biais de confirmation
 
-**En termes simples**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Description :
+Le biais de confirmation consiste à remarquer surtout les preuves qui vont dans le sens de ce que l'on croit déjà et à négliger le reste.
+Cela peut donner une impression de rigueur tout en rétrécissant silencieusement le champ de vision.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir que parce que quelque chose est 'un raisonnement défectueuxl', c'est donc bon ou inévitable.". »  
+Exemple (preuve ambiguë)
+Interpréter des preuves ambiguës pour soutenir des idées préconçues
+N'entendre que le côté qui vous donne raison rend votre croyance plus solide qu'elle ne l'est vraiment.
 
-**Pourquoi c’est bien Appeal to Nature**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (croyance préalable)
+Transformer un indice vague en confirmation parce qu'il colle déjà à votre histoire
+Si les détails contraires sont ignorés, le motif que vous croyez voir n'est peut-être qu'une demi-image.
 
-**À retenir**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.`,
-    intermediate: `## Appeal to Nature — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'esprit cherche d'abord le soutien, puis le doute.
+Les croyances déjà présentes paraissent alors confirmées, même si les preuves complètes sont partagées.
 
-**En termes simples**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Donc :
+Les preuves agréables sont faciles à surestimer
+Les preuves gênantes sont faciles à ignorer
+Un vrai contrôle doit aussi chercher ce qui infirme l'idée
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir que parce que quelque chose est 'un raisonnement défectueuxl', c'est donc bon ou inévitable.". »  
+Concept clé
+Attention sélective :
+Nous ne recevons pas tous les faits de la même manière.
+Ce qui ressemble à l'histoire attendue ressort davantage, et cela peut déformer le jugement.
 
-Le passage montre **Appeal to Nature** : soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Pourquoi c'est important
+Explique pourquoi :
+Les gens peuvent vivre dans des bulles d'information différentes
+Deux personnes peuvent lire les mêmes données et ne remarquer que les morceaux qu'elles préfèrent
+Les arguments se durcissent quand personne ne demande ce qui les ferait échouer
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+L'implication inconfortable
+On peut prendre le confort pour la vérité.
+Si vous n'écoutez que ce qui vous approuve, vous vous croirez juste pour de mauvaises raisons.
 
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+En une phrase
+Biais de confirmation = favoriser les preuves qui vont dans le sens de ce que l'on croit déjà.`,
+    expert: `Biais de confirmation
 
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Description :
+Le biais de confirmation consiste à remarquer surtout les preuves qui vont dans le sens de ce que l'on croit déjà et à négliger le reste.
+Cela peut donner une impression de rigueur tout en rétrécissant silencieusement le champ de vision.
 
-**En une phrase**  
-**Appeal to Nature**, c’est quand le raisonnement correspond à : Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.`,
-    expert: `## Appeal to Nature — approfondi (Expert)
+Exemple (preuve ambiguë)
+Interpréter des preuves ambiguës pour soutenir des idées préconçues
+N'entendre que le côté qui vous donne raison rend votre croyance plus solide qu'elle ne l'est vraiment.
 
-**Définition**  
-Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Exemple (croyance préalable)
+Transformer un indice vague en confirmation parce qu'il colle déjà à votre histoire
+Si les détails contraires sont ignorés, le motif que vous croyez voir n'est peut-être qu'une demi-image.
 
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir que parce que quelque chose est 'un raisonnement défectueuxl', c'est donc bon ou inévitable.". »  
+Comment ça fonctionne
+L'esprit cherche d'abord le soutien, puis le doute.
+Les croyances déjà présentes paraissent alors confirmées, même si les preuves complètes sont partagées.
 
-Ici, **Appeal to Nature** convient parce que soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Donc :
+Les preuves agréables sont faciles à surestimer
+Les preuves gênantes sont faciles à ignorer
+Un vrai contrôle doit aussi chercher ce qui infirme l'idée
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Concept clé
+Attention sélective :
+Nous ne recevons pas tous les faits de la même manière.
+Ce qui ressemble à l'histoire attendue ressort davantage, et cela peut déformer le jugement.
 
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+Pourquoi c'est important
+Explique pourquoi :
+Les gens peuvent vivre dans des bulles d'information différentes
+Deux personnes peuvent lire les mêmes données et ne remarquer que les morceaux qu'elles préfèrent
+Les arguments se durcissent quand personne ne demande ce qui les ferait échouer
 
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
+L'implication inconfortable
+On peut prendre le confort pour la vérité.
+Si vous n'écoutez que ce qui vous approuve, vous vous croirez juste pour de mauvaises raisons.
 
-- **Exemple 4 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
-
-- **Exemple 5 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Nature**, c’est Soutenir que parce que quelque chose est 'naturel', c'est donc bon ou inévitable.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Biais de confirmation = favoriser les preuves qui vont dans le sens de ce que l'on croit déjà.`,
   },
+
   61: {
     beginner: `## Appeal to Ignorance — approfondi (Débutant)
 
