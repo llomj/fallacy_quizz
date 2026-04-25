@@ -94,7 +94,7 @@ Before any commit that should go live, confirm with `git remote -v` that you wil
 
 > **This is the final major content task for the app. Do not skip it or defer it.**
 
-**Status:** IN PROGRESS — working through all IDs **1–90** (Level 1) first, then **91–900** (Levels 2–10), then **1001–1300** (Level 0), in batches of **20**, English and French in the **same pass**. Track progress in **`task.md`**.
+**Status:** IN PROGRESS — working through all IDs **1–90** (Level 1) first, then **91–900** (Levels 2–10), then **1001–1300** (Level 0), in 30-ID checkpoints for the current Levels 2–10 pass, English and French in the **same pass**. Track progress in **`task.md`** and commit/push after every 30 IDs.
 
 ---
 
@@ -220,7 +220,7 @@ Weber–Fechner Law = you perceive changes proportionally, not absolutely.
 - **Concrete examples.** Every Detail panel needs at least **two examples** in different contexts.
 - **One-line version is mandatory.** It must appear at the bottom of every Detail panel AND is the text shown in the **Beginner** tier.
 - **EN + FR in the same batch pass.** A batch is incomplete if French is missing. French must follow the same structure and be written in natural French — not a word-for-word translation when the scenario differs for that ID (check `LEVEL_0_GEN_FR` / `FALLACY_QUESTIONS_FR`).
-- **20 questions per batch.** Process 20 IDs at a time. Do not jump ahead.
+- **30 questions per batch for the current Levels 2–10 pass.** Process 30 IDs at a time, then stop for a commit/push checkpoint. Do not jump ahead.
 - **Presentation parity (§6):** French must not use more markdown or heavier formatting than English for the same ID.
 
 ---
@@ -228,11 +228,11 @@ Weber–Fechner Law = you perceive changes proportionally, not absolutely.
 **Agent checklist — each batch of 20:**
 
 1. Read the exact question + answer options for each ID in both EN and FR banks.
-2. Write **Beginner** (one-liner) + **Detail** (structured breakdown) for all 20 IDs in English.
-3. Write the **French** Beginner + Detail for the same 20 IDs in the same pass.
+2. Write **Beginner** (one-liner) + **Detail** (structured breakdown) for all 30 IDs in English.
+3. Write the **French** Beginner + Detail for the same 30 IDs in the same pass.
 4. Ensure section headers in the Detail panel are consistently marked for syntax highlighting.
 5. Check glossary consistency (§3).
 6. Update **`task.md`** progress table after the batch.
 7. Run `npm run build` before committing.
 
-**Batch counting:** IDs **1–90** = 5 batches of 20 (Level 1). IDs **91–900** = 41 batches of 20 (Levels 2–10, last batch = 2 IDs). IDs **1001–1300** = 15 batches of 20 (Level 0).
+**Batch counting:** IDs **91–900** = 27 batches of 30 (Levels 2–10, last batch = 30 IDs). Keep the 30-ID commit/push checkpoint for this pass.
