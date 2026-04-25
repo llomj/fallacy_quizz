@@ -14096,634 +14096,481 @@ Ici, **Appeal to Belief** convient parce que soutenir qu'une proposition est vra
 **Thème (banque)**  
 Heuristique Système`,
   },
+
   81: {
-    beginner: `## Appeal to Belief — approfondi (Débutant)
+    beginner: `Appel à la croyance = tenir une proposition pour vraie parce qu'elle est crue.`,
+    intermediate: `Appel à la croyance
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+Description:
+Le fait que beaucoup de gens croient quelque chose ne le rend pas vrai.
+Une croyance partagée n'est pas une preuve.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (majorité)
+L'accord collectif ne remplace pas les faits.`,
+    expert: `Appel à la croyance
 
-**Pourquoi c’est bien Appeal to Belief**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Description:
+Le fait que beaucoup de gens croient quelque chose ne le rend pas vrai.
+Une croyance partagée n'est pas une preuve.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Belief — approfondi (Intermédiaire)
+Exemple (majorité)
+L'accord collectif ne remplace pas les faits.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+Exemple (rumeur)
+Une rumeur peut être fausse et pourtant très répandue.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument remplace la preuve par l'opinion générale.
+Ce n'est pas parce qu'une idée est populaire qu'elle est correcte.
 
-Le passage montre **Appeal to Belief** : soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+Donc :
+La croyance n'est pas la preuve
+La popularité n'est pas la vérité
+Il faut encore vérifier les faits
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+Concept clé
+Acceptation sociale :
+Une idée peut être largement acceptée sans être démontrée.
+L'assentiment ne garantit pas la vérité.
 
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les rumeurs peuvent paraître crédibles quand tout le monde les répète
+Les foules peuvent se tromper ensemble
+Il faut distinguer l'opinion partagée de la preuve réelle
 
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Une idée peut sembler évidente simplement parce qu'elle est répétée partout.
 
-**En une phrase**  
-**Appeal to Belief**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Belief — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to Belief** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Belief**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur belief, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Appel à la croyance = tenir une proposition pour vraie parce qu'elle est crue.`,
   },
   82: {
-    beginner: `## Appeal to Faith — approfondi (Débutant)
+    beginner: `Appel à la foi = tenir une proposition pour vraie parce qu'elle est crue avec ferveur.`,
+    intermediate: `Appel à la foi
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Description:
+Le fait de croire très fort ne remplace pas une preuve.
+Une conviction n'est pas un argument.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (discussion)
+Un sentiment fort n'est pas une démonstration.`,
+    expert: `Appel à la foi
 
-**Pourquoi c’est bien Appeal to Faith**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Description:
+Le fait de croire très fort ne remplace pas une preuve.
+Une conviction n'est pas un argument.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Faith — approfondi (Intermédiaire)
+Exemple (discussion)
+Un sentiment fort n'est pas une démonstration.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Exemple (groupe)
+La certitude du groupe ne change pas les faits.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument traite la ferveur comme si elle valait preuve.
+Mais croire avec intensité n'est pas tester avec rigueur.
 
-Le passage montre **Appeal to Faith** : soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Donc :
+La certitude n'est pas la preuve
+La conviction ne remplace pas les faits
+Il faut encore examiner le contenu
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Concept clé
+Intensité de croyance :
+Une croyance peut être très forte sans être justifiée.
+La force du sentiment ne dit rien sur la vérité.
 
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats peuvent devenir fermés aux preuves
+Les convictions fortes peuvent bloquer la révision
+La sincérité n'est pas la même chose que la justesse
 
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut croire très fort et pourtant se tromper complètement.
 
-**En une phrase**  
-**Appeal to Faith**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Faith — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to Faith** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Faith**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appel à la foi = tenir une proposition pour vraie parce qu'elle est crue avec ferveur.`,
   },
   83: {
-    beginner: `## Appeal to Faith — approfondi (Débutant)
+    beginner: `Appel à la foi = tenir une proposition pour vraie parce qu'elle est crue avec ferveur.`,
+    intermediate: `Appel à la foi
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Description:
+Le fait de croire très fort ne remplace pas une preuve.
+Une conviction n'est pas un argument.
 
-**L’exemple affiché**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Exemple (sécurité)
+La suspicion ne prouve rien.`,
+    expert: `Appel à la foi
 
-**Pourquoi c’est bien Appeal to Faith**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Description:
+Le fait de croire très fort ne remplace pas une preuve.
+Une conviction n'est pas un argument.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Faith — approfondi (Intermédiaire)
+Exemple (sécurité)
+La suspicion ne prouve rien.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Exemple (politique)
+L'appartenance ne change pas la validité d'une idée.
 
-**Cet exemple**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Comment ça fonctionne
+L'argument fait passer la loyauté ou la croyance devant les faits.
+Ce glissement transforme une opinion en test de fidélité.
 
-Le passage montre **Appeal to Faith** : soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Donc :
+La loyauté n'est pas la preuve
+Le doute n'est pas une trahison
+Les idées se jugent par des raisons, pas par des serments
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Concept clé
+Pression d'adhésion :
+Plus une communauté exige l'accord, plus il devient difficile de tester l'idée honnêtement.
 
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les groupes peuvent punir la critique au lieu d'y répondre
+La peur du rejet remplace parfois la réflexion
+Une idée peut survivre grâce à la pression sociale, pas grâce aux preuves
 
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Parfois, ce qu'on appelle fidélité n'est qu'une façon polie d'étouffer le doute.
 
-**En une phrase**  
-**Appeal to Faith**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Faith — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
-
-Ici, **Appeal to Faith** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Faith**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appel à la foi = tenir une proposition pour vraie parce qu'elle est crue avec ferveur.`,
   },
   84: {
-    beginner: `## Appeal to Faith — approfondi (Débutant)
+    beginner: `Appel à la foi = tenir une proposition pour vraie parce qu'elle est crue avec ferveur.`,
+    intermediate: `Appel à la foi
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Description:
+Le fait de croire très fort ne remplace pas une preuve.
+Une conviction n'est pas un argument.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (mauvaise formulation)
+Une mauvaise présentation ne prouve rien sur la vérité.`,
+    expert: `Appel à la foi
 
-**Pourquoi c’est bien Appeal to Faith**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Description:
+Le fait de croire très fort ne remplace pas une preuve.
+Une conviction n'est pas un argument.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Faith — approfondi (Intermédiaire)
+Exemple (mauvaise formulation)
+Une mauvaise présentation ne prouve rien sur la vérité.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Exemple (discussion rapide)
+Le style de défense et la vérité ne sont pas la même chose.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument confond la faiblesse de l'expression avec l'absence de preuve.
+Ce n'est pas parce qu'une thèse est mal présentée qu'elle est fausse.
 
-Le passage montre **Appeal to Faith** : soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Donc :
+Une présentation maladroite n'est pas une réfutation
+Le fond doit être examiné séparément
+Il faut juger les raisons, pas seulement le ton
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Concept clé
+Présentation et vérité :
+La façon de dire quelque chose est distincte de la justesse de ce qui est dit.
 
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les idées valides peuvent sembler faibles quand elles sont mal dites
+Les gens confondent parfois maladresse et erreur
+La critique doit viser le contenu, pas seulement la forme
 
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Une idée peut être vraie même si elle est présentée de manière très maladroite.
 
-**En une phrase**  
-**Appeal to Faith**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Faith — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to Faith** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Faith**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur faith, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appel à la foi = tenir une proposition pour vraie parce qu'elle est crue avec ferveur.`,
   },
   85: {
-    beginner: `## Appeal to Motive — approfondi (Débutant)
+    beginner: `Appel au motif = juger une proposition à partir des supposés intérêts derrière elle.`,
+    intermediate: `Appel au motif
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Description:
+Le fait de soupçonner une intention cachée ne suffit pas à réfuter une idée.
+Les motifs supposés ne remplacent pas les preuves.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (politique)
+Un motif possible ne dit rien sur la vérité de la proposition.`,
+    expert: `Appel au motif
 
-**Pourquoi c’est bien Appeal to Motive**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Description:
+Le fait de soupçonner une intention cachée ne suffit pas à réfuter une idée.
+Les motifs supposés ne remplacent pas les preuves.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Motive — approfondi (Intermédiaire)
+Exemple (politique)
+Un motif possible ne dit rien sur la vérité de la proposition.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Exemple (travail)
+Un intérêt possible n'annule pas automatiquement le raisonnement.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument attaque les raisons supposées du locuteur au lieu de tester sa thèse.
+Il y a un saut entre motif soupçonné et conclusion rejetée.
 
-Le passage montre **Appeal to Motive** : soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Donc :
+Un intérêt caché n'est pas une réfutation
+Les intentions ne remplacent pas la preuve
+Il faut encore examiner l'argument lui-même
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Concept clé
+Motif supposé :
+Une raison imaginaire ou partielle attribuée au locuteur.
+Elle ne dit pas si la proposition est vraie.
 
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats se déplacent vite vers la psychologie au lieu du fond
+Les critiques faciles visent souvent l'intention
+Les vraies preuves sont plus solides que les suppositions sur les motifs
 
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut deviner un motif et quand même manquer la vérité.
 
-**En une phrase**  
-**Appeal to Motive**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Motive — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to Motive** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Motive**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel au motif = juger une proposition à partir des supposés intérêts derrière elle.`,
   },
   86: {
-    beginner: `## Appeal to Motive — approfondi (Débutant)
+    beginner: `Appel au motif = juger une proposition à partir des supposés intérêts derrière elle.`,
+    intermediate: `Appel au motif
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Description:
+Le fait de soupçonner une intention cachée ne suffit pas à réfuter une idée.
+Les motifs supposés ne remplacent pas les preuves.
 
-**L’exemple affiché**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Exemple (norme)
+La peur du changement ne prouve pas que la règle est juste.`,
+    expert: `Appel au motif
 
-**Pourquoi c’est bien Appeal to Motive**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Description:
+Le fait de soupçonner une intention cachée ne suffit pas à réfuter une idée.
+Les motifs supposés ne remplacent pas les preuves.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Motive — approfondi (Intermédiaire)
+Exemple (norme)
+La peur du changement ne prouve pas que la règle est juste.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Exemple (travail)
+Même si le motif existe, la réforme peut encore être bonne.
 
-**Cet exemple**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Comment ça fonctionne
+L'argument veut faire passer un soupçon sur l'intention pour une réfutation.
+Mais soupçonner un motif n'est pas démontrer une erreur.
 
-Le passage montre **Appeal to Motive** : soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Donc :
+Un motif possible n'annule pas une thèse
+L'intention n'est pas la preuve
+Il faut tester les raisons exposées
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Concept clé
+Motif supposé :
+Une raison imaginée ou inférée derrière une position.
+Elle peut être vraie, mais elle ne suffit pas à elle seule.
 
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les habitudes anciennes résistent souvent par confort, pas par vérité
+Les attaques psychologiques évitent le débat réel
+La bonne question est toujours : les raisons tiennent-elles ?
 
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Un motif suspect peut exister sans rendre une idée fausse.
 
-**En une phrase**  
-**Appeal to Motive**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Motive — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
-
-Ici, **Appeal to Motive** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Motive**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel au motif = juger une proposition à partir des supposés intérêts derrière elle.`,
   },
   87: {
-    beginner: `## Appeal to Motive — approfondi (Débutant)
+    beginner: `Appel au motif = juger une proposition à partir des supposés intérêts derrière elle.`,
+    intermediate: `Appel au motif
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Description:
+Le fait de soupçonner une intention cachée ne suffit pas à réfuter une idée.
+Les motifs supposés ne remplacent pas les preuves.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (pression sociale)
+Un calcul possible ne décide pas de la vérité.`,
+    expert: `Appel au motif
 
-**Pourquoi c’est bien Appeal to Motive**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Description:
+Le fait de soupçonner une intention cachée ne suffit pas à réfuter une idée.
+Les motifs supposés ne remplacent pas les preuves.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Motive — approfondi (Intermédiaire)
+Exemple (pression sociale)
+Un calcul possible ne décide pas de la vérité.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Exemple (débat public)
+Même une raison basse ne rend pas la conclusion fausse.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument saute du soupçon sur les raisons à la conclusion sur la vérité.
+Ce saut n'est pas justifié.
 
-Le passage montre **Appeal to Motive** : soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Donc :
+Les intentions supposées ne prouvent rien
+Une motivation basse ne réfute pas un argument
+La thèse doit être examinée directement
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Concept clé
+Motif supposé :
+Une raison attribuée à quelqu'un sans preuve suffisante.
+Elle ne remplace pas une analyse du fond.
 
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les groupes sociaux peuvent étouffer la pensée critique
+Les explications psychologiques sont souvent trop faciles
+Il faut séparer le soupçon de la preuve
 
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Une idée peut être soutenue pour de mauvaises raisons et rester vraie.
 
-**En une phrase**  
-**Appeal to Motive**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Motive — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to Motive** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Motive**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur motive, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel au motif = juger une proposition à partir des supposés intérêts derrière elle.`,
   },
   88: {
-    beginner: `## Appeal to Hypocrisy — approfondi (Débutant)
+    beginner: `Appel à l'hypocrisie = rejeter une idée parce que la personne qui la défend ne la suit pas toujours.`,
+    intermediate: `Appel à l'hypocrisie
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Description:
+Le fait que quelqu'un soit incohérent ne montre pas que son idée est fausse.
+L'incohérence de la personne n'efface pas l'argument.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (sécurité)
+L'hypocrisie ne prouve rien sur la sécurité.`,
+    expert: `Appel à l'hypocrisie
 
-**Pourquoi c’est bien Appeal to Hypocrisy**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Description:
+Le fait que quelqu'un soit incohérent ne montre pas que son idée est fausse.
+L'incohérence de la personne n'efface pas l'argument.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Hypocrisy — approfondi (Intermédiaire)
+Exemple (sécurité)
+L'hypocrisie ne prouve rien sur la sécurité.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Exemple (règle de vie)
+Un mauvais exemple ne détruit pas forcément la règle.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument attaque la cohérence du locuteur au lieu de tester la thèse.
+Mais une personne imparfaite peut quand même dire quelque chose de vrai.
 
-Le passage montre **Appeal to Hypocrisy** : soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Donc :
+L'incohérence n'est pas une réfutation
+Le comportement personnel ne décide pas du fond
+Il faut juger l'argument séparément
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Concept clé
+Cohérence personnelle :
+Le fait de suivre ou non un conseil est distinct du fait que le conseil soit bon.
 
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats deviennent des attaques de personnes au lieu d'être des échanges d'idées
+Les défauts personnels ne remplacent pas l'analyse
+On peut dénoncer une incohérence sans conclure que la thèse est fausse
 
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Quelqu'un peut être hypocrite et pourtant avoir raison.
 
-**En une phrase**  
-**Appeal to Hypocrisy**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Hypocrisy — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to Hypocrisy** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Hypocrisy**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel à l'hypocrisie = rejeter une idée parce que la personne qui la défend ne la suit pas toujours.`,
   },
   89: {
-    beginner: `## Appeal to Hypocrisy — approfondi (Débutant)
+    beginner: `Appel à l'hypocrisie = rejeter une idée parce que la personne qui la défend ne la suit pas toujours.`,
+    intermediate: `Appel à l'hypocrisie
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Description:
+Le fait que quelqu'un soit incohérent ne montre pas que son idée est fausse.
+L'incohérence de la personne n'efface pas l'argument.
 
-**L’exemple affiché**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Exemple (horloge)
+Une image séduisante ne prouve pas la justesse du raisonnement.`,
+    expert: `Appel à l'hypocrisie
 
-**Pourquoi c’est bien Appeal to Hypocrisy**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Description:
+Le fait que quelqu'un soit incohérent ne montre pas que son idée est fausse.
+L'incohérence de la personne n'efface pas l'argument.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Hypocrisy — approfondi (Intermédiaire)
+Exemple (horloge)
+Une image séduisante ne prouve pas la justesse du raisonnement.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Exemple (promesse)
+Le mauvais comportement d'une personne ne casse pas automatiquement son point.
 
-**Cet exemple**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Comment ça fonctionne
+L'argument confond le défaut de la personne avec le défaut de l'idée.
+Ce n'est pas la même chose.
 
-Le passage montre **Appeal to Hypocrisy** : soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Donc :
+L'hypocrisie n'est pas une preuve contre une proposition
+Une personne peut être incohérente et avoir raison
+Il faut tester le contenu, pas seulement le comportement
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Concept clé
+Cohérence personnelle :
+Le comportement d'une personne et la validité de son idée ne se confondent pas.
 
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les débats publics glissent vite vers le mépris moral
+Les arguments vrais peuvent être rejetés par frustration
+La critique doit viser la thèse, pas seulement la personne
 
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+L'implication inconfortable
+On peut détester l'exemple sans devoir rejeter l'idée.
 
-**En une phrase**  
-**Appeal to Hypocrisy**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Hypocrisy — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
-
-Ici, **Appeal to Hypocrisy** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Hypocrisy**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel à l'hypocrisie = rejeter une idée parce que la personne qui la défend ne la suit pas toujours.`,
   },
   90: {
-    beginner: `## Appeal to Hypocrisy — approfondi (Débutant)
+    beginner: `Appel à l'hypocrisie = rejeter une idée parce que la personne qui la défend ne la suit pas toujours.`,
+    intermediate: `Appel à l'hypocrisie
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Description:
+Le fait que quelqu'un soit incohérent ne montre pas que son idée est fausse.
+L'incohérence de la personne n'efface pas l'argument.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (parents)
+Family history does not decide whether the view is true.`,
+    expert: `Appel à l'hypocrisie
 
-**Pourquoi c’est bien Appeal to Hypocrisy**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Description:
+Le fait que quelqu'un soit incohérent ne montre pas que son idée est fausse.
+L'incohérence de la personne n'efface pas l'argument.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Hypocrisy — approfondi (Intermédiaire)
+Exemple (parents)
+Family history does not decide whether the view is true.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Exemple (origine sociale)
+L'origine ne suffit pas à juger le contenu.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+L'argument fait comme si l'origine ou l'image de la personne annulait la thèse.
+Mais l'idée doit être évaluée pour elle-même.
 
-Le passage montre **Appeal to Hypocrisy** : soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Donc :
+L'origine sociale n'est pas la preuve
+L'historique personnel ne suffit pas
+Le contenu doit être jugé séparément
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Concept clé
+Source de l'idée :
+Là où une idée vient est différent de savoir si elle est vraie.
 
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les gens héritent souvent d'idées sans que cela les rende fausses
+Les attaques sur l'origine détournent du vrai débat
+Il faut vérifier les raisons, pas seulement les racines
 
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Une idée peut venir d'une origine imparfaite et rester correcte.
 
-**En une phrase**  
-**Appeal to Hypocrisy**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Hypocrisy — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to Hypocrisy** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Hypocrisy**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur hypocrisy, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel à l'hypocrisie = rejeter une idée parce que la personne qui la défend ne la suit pas toujours.`,
   },
 };
+
