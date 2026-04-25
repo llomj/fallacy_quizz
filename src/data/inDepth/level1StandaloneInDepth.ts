@@ -5168,1327 +5168,1037 @@ Confirmation Bias = favoring evidence that agrees with what you already believe.
   },
 
   61: {
-    beginner: `## Continuum Fallacy — in-depth (Beginner)
+    beginner: `Continuum Fallacy = assuming that a blurry boundary means the two extremes are the same.`,
+    intermediate: `Continuum Fallacy
 
-**What this is, in plain English**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Description:
+A blurry boundary does not erase a real difference.
+Gray areas are real, but they do not prove the categories are identical.
 
-**The example you’re looking at**  
-« You can't distinguish between healthy and unhealthy eating because there's no exact point where food becomes unhealthy. »  
+Example (healthy eating)
+"You cannot say exactly when food becomes unhealthy, so nothing is really unhealthy."
+No exact cutoff does not mean all choices are equally healthy.`,
+    expert: `Continuum Fallacy
 
-**Why this is Continuum Fallacy**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them. That is what this label is pointing to in the passage above.
+Description:
+A blurry boundary does not erase a real difference.
+Gray areas are real, but they do not prove the categories are identical.
 
-**Takeaway**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
-    intermediate: `## Continuum Fallacy — in-depth (Intermediate)
+Example (healthy eating)
+"You cannot say exactly when food becomes unhealthy, so nothing is really unhealthy."
+No exact cutoff does not mean all choices are equally healthy.
 
-**What this is, in plain English**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Example (school grades)
+"If we cannot mark the exact second a score becomes failing, then passing and failing are the same."
+The edge is fuzzy, but the difference still matters.
 
-**This example**  
-« You can't distinguish between healthy and unhealthy eating because there's no exact point where food becomes unhealthy. »  
+How it works
+The argument treats "no sharp line" as if it meant "no real distinction."
+That confuses a measurement problem with a meaning problem.
 
-The passage shows **Continuum Fallacy** in action: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+So:
+Fuzzy edges do not cancel meaningful categories
+You still have to compare the features that matter
+An unclear cutoff is not the same as no cutoff at all
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Key concept inside it
+Vagueness:
+A concept can have unclear edges without being meaningless.
+Many real-world categories work this way.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Why it matters
+Explains why:
+Health advice still needs standards even when edge cases exist
+Legal and policy rules often need workable thresholds
+Debates get stuck when people confuse "unclear" with "all the same"
 
-- **Example 3:** In a news headline or social post, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+The uncomfortable implication
+Reality is messy.
+That does not make your categories fake.
+It means you need judgment, not a magic border.
 
-**In one sentence**  
-Continuum Fallacy is the label for reasoning that fits: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
-    expert: `## Continuum Fallacy — in-depth (Expert)
-
-**Definition**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**Applied to this passage**  
-« You can't distinguish between healthy and unhealthy eating because there's no exact point where food becomes unhealthy. »  
-
-Here, **Continuum Fallacy** is the right name because the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 2:** Picture school grades or test scores. People often reason as if the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 3:** In a news headline or social post, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 4:** Another everyday spot: a health or habits story. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Continuum Fallacy** means The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Continuum Fallacy = assuming that a blurry boundary means the two extremes are the same.`,
   },
   62: {
-    beginner: `## Continuum Fallacy — in-depth (Beginner)
+    beginner: `Continuum Fallacy = assuming that a blurry boundary means the two extremes are the same.`,
+    intermediate: `Continuum Fallacy
 
-**What this is, in plain English**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Description:
+A blurry boundary does not erase a real difference.
+Gray areas are real, but they do not prove the categories are identical.
 
-**The example you’re looking at**  
-« Since there's no clear boundary between art and not art, everything is art. »  
+Example (art)
+"If there is no exact line between art and not art, then everything is art."
+The boundary may be fuzzy, but that does not make every object the same thing.`,
+    expert: `Continuum Fallacy
 
-**Why this is Continuum Fallacy**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them. That is what this label is pointing to in the passage above.
+Description:
+A blurry boundary does not erase a real difference.
+Gray areas are real, but they do not prove the categories are identical.
 
-**Takeaway**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
-    intermediate: `## Continuum Fallacy — in-depth (Intermediate)
+Example (art)
+"If there is no exact line between art and not art, then everything is art."
+The boundary may be fuzzy, but that does not make every object the same thing.
 
-**What this is, in plain English**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Example (policy)
+"If a rule has hard-to-draw edges, then the rule is useless."
+A fuzzy edge can still be practical and meaningful.
 
-**This example**  
-« Since there's no clear boundary between art and not art, everything is art. »  
+How it works
+The argument turns uncertainty at the edge into a reason to deny the whole category.
+That is a mistake about boundaries, not a discovery about reality.
 
-The passage shows **Continuum Fallacy** in action: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+So:
+An imperfect boundary is still a boundary
+Not every distinction needs a single magic point
+Reasonable thresholds can still be real and useful
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Key concept inside it
+Threshold:
+A practical point where a category starts to apply.
+It can be useful even when nature itself is gradual.
 
-- **Example 2:** In a family argument, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Why it matters
+Explains why:
+Policy rules often need practical thresholds
+Creative categories can be fuzzy without being useless
+People stop thinking once they treat every boundary as arbitrary
 
-- **Example 3:** Another everyday spot: a policy or workplace discussion. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+The uncomfortable implication
+Some real questions do not have a neat yes-or-no border.
+That is why judgment matters.
 
-**In one sentence**  
-Continuum Fallacy is the label for reasoning that fits: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
-    expert: `## Continuum Fallacy — in-depth (Expert)
-
-**Definition**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**Applied to this passage**  
-« Since there's no clear boundary between art and not art, everything is art. »  
-
-Here, **Continuum Fallacy** is the right name because the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 2:** In a family argument, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 4:** **Setting:** sports or business results. **What goes wrong:** The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 5:** Imagine a family argument. The slip is the same: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Continuum Fallacy** means The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Continuum Fallacy = assuming that a blurry boundary means the two extremes are the same.`,
   },
   63: {
-    beginner: `## Continuum Fallacy — in-depth (Beginner)
+    beginner: `Continuum Fallacy = assuming that a blurry boundary means the two extremes are the same.`,
+    intermediate: `Continuum Fallacy
 
-**What this is, in plain English**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Description:
+A blurry boundary does not erase a real difference.
+Gray areas are real, but they do not prove the categories are identical.
 
-**The example you’re looking at**  
-« Baldness is gradual, so no one is truly bald. »  
+Example (baldness)
+"Baldness is gradual, so nobody is really bald."
+Gradual change does not cancel the difference between more hair and less hair.`,
+    expert: `Continuum Fallacy
 
-**Why this is Continuum Fallacy**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them. That is what this label is pointing to in the passage above.
+Description:
+A blurry boundary does not erase a real difference.
+Gray areas are real, but they do not prove the categories are identical.
 
-**Takeaway**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
-    intermediate: `## Continuum Fallacy — in-depth (Intermediate)
+Example (baldness)
+"Baldness is gradual, so nobody is really bald."
+Gradual change does not cancel the difference between more hair and less hair.
 
-**What this is, in plain English**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Example (school grades)
+"If we cannot mark the exact second a score turns failing, then pass and fail mean nothing."
+The cutoff can be fuzzy while the distinction still works.
 
-**This example**  
-« Baldness is gradual, so no one is truly bald. »  
+How it works
+The argument turns an unclear edge into a reason to deny the whole category.
+That is like saying a map is useless because it does not show every blade of grass.
 
-The passage shows **Continuum Fallacy** in action: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+So:
+An imperfect boundary is still a boundary
+Not every distinction needs a single magic point
+Reasonable thresholds can still be real and useful
 
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Key concept inside it
+Threshold:
+A practical point where a category starts to apply.
+It can be useful even when nature itself is gradual.
 
-- **Example 2:** Another everyday spot: a news headline or social post. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Why it matters
+Explains why:
+Health, law, and grading all use workable cutoffs
+People confuse "hard to draw" with "not worth drawing"
+Good reasoning can handle fuzziness without giving up on distinctions
 
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+The uncomfortable implication
+Many real questions do not have a neat yes-or-no border.
+That is why judgment matters.
 
-**In one sentence**  
-Continuum Fallacy is the label for reasoning that fits: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
-    expert: `## Continuum Fallacy — in-depth (Expert)
-
-**Definition**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**Applied to this passage**  
-« Baldness is gradual, so no one is truly bald. »  
-
-Here, **Continuum Fallacy** is the right name because the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 2:** Another everyday spot: a news headline or social post. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 4:** Imagine school grades or test scores. The slip is the same: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 5:** Picture a news headline or social post. People often reason as if the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Continuum Fallacy** means The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Continuum Fallacy = assuming that a blurry boundary means the two extremes are the same.`,
   },
   64: {
-    beginner: `## Correlation Equals Causation — in-depth (Beginner)
+    beginner: `Correlation Equals Causation = assuming that because two things happen together, one caused the other.`,
+    intermediate: `Correlation Equals Causation
 
-**What this is, in plain English**  
-Assuming that because two things are correlated, one must have caused the other.
+Description:
+Two events can move together without one causing the other.
+Correlation is a clue, not a conclusion.
 
-**The example you’re looking at**  
-« I sneezed at the same time the power went off. My sneeze did something to make the power go off. »  
+Example (power outage)
+"I sneezed right when the power went out, so my sneeze caused it."
+Timing alone does not prove cause.`,
+    expert: `Correlation Equals Causation
 
-**Why this is Correlation Equals Causation**  
-Assuming that because two things are correlated, one must have caused the other. That is what this label is pointing to in the passage above.
+Description:
+Two events can move together without one causing the other.
+Correlation is a clue, not a conclusion.
 
-**Takeaway**  
-Assuming that because two things are correlated, one must have caused the other.`,
-    intermediate: `## Correlation Equals Causation — in-depth (Intermediate)
+Example (power outage)
+"I sneezed right when the power went out, so my sneeze caused it."
+Timing alone does not prove cause.
 
-**What this is, in plain English**  
-Assuming that because two things are correlated, one must have caused the other.
+Example (lucky pen)
+"I bought a lucky pen and passed my test, so the pen must have caused the pass."
+The pen may be harmless, and the pass may come from study.
 
-**This example**  
-« I sneezed at the same time the power went off. My sneeze did something to make the power go off. »  
+How it works
+The argument sees a pattern and turns it into a cause story.
+Without more evidence, it is guessing.
 
-The passage shows **Correlation Equals Causation** in action: assuming that because two things are correlated, one must have caused the other.
+So:
+Correlation is not enough to prove cause
+You need to ask what else could connect the events
+Even a real pattern can be explained the wrong way
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Assuming that because two things are correlated, one must have caused the other.
+Key concept inside it
+Correlation:
+Two things vary together.
+That does not tell you which one caused which, if either did.
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Assuming that because two things are correlated, one must have caused the other.
+Why it matters
+Explains why:
+Bad habits get blamed for results they did not cause
+News headlines turn trends into fake causes
+People mistake lucky timing for proof
 
-- **Example 3:** Imagine sports or business results. The slip is the same: assuming that because two things are correlated, one must have caused the other.
+The uncomfortable implication
+Your brain loves a story.
+Reality often gives you only a pattern, not the cause.
 
-**In one sentence**  
-Correlation Equals Causation is the label for reasoning that fits: Assuming that because two things are correlated, one must have caused the other.`,
-    expert: `## Correlation Equals Causation — in-depth (Expert)
-
-**Definition**  
-Assuming that because two things are correlated, one must have caused the other.
-
-**Applied to this passage**  
-« I sneezed at the same time the power went off. My sneeze did something to make the power go off. »  
-
-Here, **Correlation Equals Causation** is the right name because assuming that because two things are correlated, one must have caused the other.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Assuming that because two things are correlated, one must have caused the other.
-
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Assuming that because two things are correlated, one must have caused the other.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: assuming that because two things are correlated, one must have caused the other.
-
-- **Example 4:** Picture a family argument. People often reason as if assuming that because two things are correlated, one must have caused the other.
-
-- **Example 5:** In a policy or workplace discussion, watch for this pattern: Assuming that because two things are correlated, one must have caused the other.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Correlation Equals Causation** means Assuming that because two things are correlated, one must have caused the other.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Correlation Equals Causation = assuming that because two things happen together, one caused the other.`,
   },
   65: {
-    beginner: `## Correlation Equals Causation — in-depth (Beginner)
+    beginner: `Correlation Equals Causation = assuming that because two things happen together, one caused the other.`,
+    intermediate: `Correlation Equals Causation
 
-**What this is, in plain English**  
-Assuming that because two things are correlated, one must have caused the other.
+Description:
+Two events can move together without one causing the other.
+Correlation is a clue, not a conclusion.
 
-**The example you’re looking at**  
-« The football team lost on Friday. I wore my lucky socks on Friday. Therefore, my lucky socks made the football team lose. »  
+Example (lucky socks)
+"The team lost on Friday, and I wore my lucky socks, so the socks caused the loss."
+Shared timing is not a cause.`,
+    expert: `Correlation Equals Causation
 
-**Why this is Correlation Equals Causation**  
-Assuming that because two things are correlated, one must have caused the other. That is what this label is pointing to in the passage above.
+Description:
+Two events can move together without one causing the other.
+Correlation is a clue, not a conclusion.
 
-**Takeaway**  
-Assuming that because two things are correlated, one must have caused the other.`,
-    intermediate: `## Correlation Equals Causation — in-depth (Intermediate)
+Example (lucky socks)
+"The team lost on Friday, and I wore my lucky socks, so the socks caused the loss."
+Shared timing is not a cause.
 
-**What this is, in plain English**  
-Assuming that because two things are correlated, one must have caused the other.
+Example (habit and results)
+"Every time I drink coffee, I do better at work, so coffee is the reason."
+The real cause could be sleep, routine, or just a good morning.
 
-**This example**  
-« The football team lost on Friday. I wore my lucky socks on Friday. Therefore, my lucky socks made the football team lose. »  
+How it works
+The argument notices a pattern and then invents a cause.
+That leap is too fast unless other explanations are ruled out.
 
-The passage shows **Correlation Equals Causation** in action: assuming that because two things are correlated, one must have caused the other.
+So:
+You need more than matching timing
+Do not ignore hidden causes or reverse causation
+A repeated pattern can still be explained badly
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Assuming that because two things are correlated, one must have caused the other.
+Key concept inside it
+Confounder:
+A hidden factor that affects both things and makes them look connected.
+Missing that factor is how this fallacy grows.
 
-- **Example 2:** Imagine a health or habits story. The slip is the same: assuming that because two things are correlated, one must have caused the other.
+Why it matters
+Explains why:
+People blame products for effects caused by something else
+Superstitions survive because timing feels convincing
+Bad health advice spreads from coincidence
 
-- **Example 3:** Picture school grades or test scores. People often reason as if assuming that because two things are correlated, one must have caused the other.
+The uncomfortable implication
+Humans are excellent at spotting patterns.
+We are much worse at knowing what actually caused them.
 
-**In one sentence**  
-Correlation Equals Causation is the label for reasoning that fits: Assuming that because two things are correlated, one must have caused the other.`,
-    expert: `## Correlation Equals Causation — in-depth (Expert)
-
-**Definition**  
-Assuming that because two things are correlated, one must have caused the other.
-
-**Applied to this passage**  
-« The football team lost on Friday. I wore my lucky socks on Friday. Therefore, my lucky socks made the football team lose. »  
-
-Here, **Correlation Equals Causation** is the right name because assuming that because two things are correlated, one must have caused the other.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Assuming that because two things are correlated, one must have caused the other.
-
-- **Example 2:** Imagine a health or habits story. The slip is the same: assuming that because two things are correlated, one must have caused the other.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if assuming that because two things are correlated, one must have caused the other.
-
-- **Example 4:** In a news headline or social post, watch for this pattern: Assuming that because two things are correlated, one must have caused the other.
-
-- **Example 5:** Another everyday spot: a health or habits story. Assuming that because two things are correlated, one must have caused the other.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Correlation Equals Causation** means Assuming that because two things are correlated, one must have caused the other.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Correlation Equals Causation = assuming that because two things happen together, one caused the other.`,
   },
   66: {
-    beginner: `## Correlation Equals Causation — in-depth (Beginner)
+    beginner: `Correlation Equals Causation = assuming that because two things happen together, one caused the other.`,
+    intermediate: `Correlation Equals Causation
 
-**What this is, in plain English**  
-Assuming that because two things are correlated, one must have caused the other.
+Description:
+Two events can move together without one causing the other.
+Correlation is a clue, not a conclusion.
 
-**The example you’re looking at**  
-« I bought a lucky pen and passed my test. The pen must have helped me pass. »  
+Example (lucky pen)
+"I bought a lucky pen and passed my test, so the pen must have caused the pass."
+The pen may be harmless, and the pass may come from study.`,
+    expert: `Correlation Equals Causation
 
-**Why this is Correlation Equals Causation**  
-Assuming that because two things are correlated, one must have caused the other. That is what this label is pointing to in the passage above.
+Description:
+Two events can move together without one causing the other.
+Correlation is a clue, not a conclusion.
 
-**Takeaway**  
-Assuming that because two things are correlated, one must have caused the other.`,
-    intermediate: `## Correlation Equals Causation — in-depth (Intermediate)
+Example (lucky pen)
+"I bought a lucky pen and passed my test, so the pen must have caused the pass."
+The pen may be harmless, and the pass may come from study.
 
-**What this is, in plain English**  
-Assuming that because two things are correlated, one must have caused the other.
+Example (habit and results)
+"Every time I drink coffee, I do better at work, so coffee is the reason."
+The real cause could be sleep, routine, or just a good morning.
 
-**This example**  
-« I bought a lucky pen and passed my test. The pen must have helped me pass. »  
+How it works
+The argument sees a pattern and turns it into a cause story.
+Without more evidence, it is guessing.
 
-The passage shows **Correlation Equals Causation** in action: assuming that because two things are correlated, one must have caused the other.
+So:
+You need more than matching timing
+Do not ignore hidden causes or reverse causation
+A repeated pattern can still be explained badly
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: assuming that because two things are correlated, one must have caused the other.
+Key concept inside it
+Confounder:
+A hidden factor that affects both things and makes them look connected.
+Missing that factor is how this fallacy grows.
 
-- **Example 2:** Picture sports or business results. People often reason as if assuming that because two things are correlated, one must have caused the other.
+Why it matters
+Explains why:
+People blame products for effects caused by something else
+Superstitions survive because timing feels convincing
+Bad health advice spreads from coincidence
 
-- **Example 3:** In a family argument, watch for this pattern: Assuming that because two things are correlated, one must have caused the other.
+The uncomfortable implication
+Humans are excellent at spotting patterns.
+We are much worse at knowing what actually caused them.
 
-**In one sentence**  
-Correlation Equals Causation is the label for reasoning that fits: Assuming that because two things are correlated, one must have caused the other.`,
-    expert: `## Correlation Equals Causation — in-depth (Expert)
-
-**Definition**  
-Assuming that because two things are correlated, one must have caused the other.
-
-**Applied to this passage**  
-« I bought a lucky pen and passed my test. The pen must have helped me pass. »  
-
-Here, **Correlation Equals Causation** is the right name because assuming that because two things are correlated, one must have caused the other.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: assuming that because two things are correlated, one must have caused the other.
-
-- **Example 2:** Picture sports or business results. People often reason as if assuming that because two things are correlated, one must have caused the other.
-
-- **Example 3:** In a family argument, watch for this pattern: Assuming that because two things are correlated, one must have caused the other.
-
-- **Example 4:** Another everyday spot: a policy or workplace discussion. Assuming that because two things are correlated, one must have caused the other.
-
-- **Example 5:** **Setting:** sports or business results. **What goes wrong:** Assuming that because two things are correlated, one must have caused the other.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Correlation Equals Causation** means Assuming that because two things are correlated, one must have caused the other.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Correlation Equals Causation = assuming that because two things happen together, one caused the other.`,
   },
   67: {
-    beginner: `## False Analogy — in-depth (Beginner)
+    beginner: `False Analogy = comparing two things that are not similar in the ways that matter.`,
+    intermediate: `False Analogy
 
-**What this is, in plain English**  
-Comparing two things that are not comparable in relevant respects.
+Description:
+Two things can look alike and still be different in the important parts.
+A surface resemblance is not enough.
 
-**The example you’re looking at**  
-« Employees are like nails. Just as nails must be hit in the head to make them work, so must employees. »  
+Example (employees and nails)
+"Employees are like nails, so they should be hit to make them work."
+People are not tools, and force is not a good workplace rule.`,
+    expert: `False Analogy
 
-**Why this is False Analogy**  
-Comparing two things that are not comparable in relevant respects. That is what this label is pointing to in the passage above.
+Description:
+Two things can look alike and still be different in the important parts.
+A surface resemblance is not enough.
 
-**Takeaway**  
-Comparing two things that are not comparable in relevant respects.`,
-    intermediate: `## False Analogy — in-depth (Intermediate)
+Example (employees and nails)
+"Employees are like nails, so they should be hit to make them work."
+People are not tools, and force is not a good workplace rule.
 
-**What this is, in plain English**  
-Comparing two things that are not comparable in relevant respects.
+Example (management)
+"If a machine responds to pressure, employees should too."
+Human judgment, consent, and motivation do not work like machine parts.
 
-**This example**  
-« Employees are like nails. Just as nails must be hit in the head to make them work, so must employees. »  
+How it works
+The argument spots one shared feature and then pretends that feature explains everything.
+That ignores the relevant differences.
 
-The passage shows **False Analogy** in action: comparing two things that are not comparable in relevant respects.
+So:
+An analogy only helps if the comparison is relevant
+Similar words do not mean similar structure
+The wrong comparison can make a bad conclusion sound neat
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if comparing two things that are not comparable in relevant respects.
+Key concept inside it
+Relevant similarity:
+Only the features that affect the conclusion count.
+If those features differ, the analogy breaks.
 
-- **Example 2:** In school grades or test scores, watch for this pattern: Comparing two things that are not comparable in relevant respects.
+Why it matters
+Explains why:
+Managers should not copy hardware logic into human relationships
+Simple slogans can hide bad policy
+A catchy comparison can be persuasive without being true
 
-- **Example 3:** Another everyday spot: a news headline or social post. Comparing two things that are not comparable in relevant respects.
+The uncomfortable implication
+Good analogies feel obvious.
+That is exactly why they can mislead you.
 
-**In one sentence**  
-False Analogy is the label for reasoning that fits: Comparing two things that are not comparable in relevant respects.`,
-    expert: `## False Analogy — in-depth (Expert)
-
-**Definition**  
-Comparing two things that are not comparable in relevant respects.
-
-**Applied to this passage**  
-« Employees are like nails. Just as nails must be hit in the head to make them work, so must employees. »  
-
-Here, **False Analogy** is the right name because comparing two things that are not comparable in relevant respects.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if comparing two things that are not comparable in relevant respects.
-
-- **Example 2:** In school grades or test scores, watch for this pattern: Comparing two things that are not comparable in relevant respects.
-
-- **Example 3:** Another everyday spot: a news headline or social post. Comparing two things that are not comparable in relevant respects.
-
-- **Example 4:** **Setting:** a health or habits story. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
-
-- **Example 5:** Imagine school grades or test scores. The slip is the same: comparing two things that are not comparable in relevant respects.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Analogy** means Comparing two things that are not comparable in relevant respects.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Analogy = comparing two things that are not similar in the ways that matter.`,
   },
   68: {
-    beginner: `## False Analogy — in-depth (Beginner)
+    beginner: `False Analogy = comparing two things that are not similar in the ways that matter.`,
+    intermediate: `False Analogy
 
-**What this is, in plain English**  
-Comparing two things that are not comparable in relevant respects.
+Description:
+Two things can look alike and still be different in the important parts.
+A surface resemblance is not enough.
 
-**The example you’re looking at**  
-« A nation is like a family, so we should treat national debt like household debt. »  
+Example (national debt)
+"A nation is like a family, so government debt should be treated exactly like household debt."
+The analogy ignores scale, currency control, and public policy.`,
+    expert: `False Analogy
 
-**Why this is False Analogy**  
-Comparing two things that are not comparable in relevant respects. That is what this label is pointing to in the passage above.
+Description:
+Two things can look alike and still be different in the important parts.
+A surface resemblance is not enough.
 
-**Takeaway**  
-Comparing two things that are not comparable in relevant respects.`,
-    intermediate: `## False Analogy — in-depth (Intermediate)
+Example (national debt)
+"A nation is like a family, so government debt should be treated exactly like household debt."
+The analogy ignores scale, currency control, and public policy.
 
-**What this is, in plain English**  
-Comparing two things that are not comparable in relevant respects.
+Example (budget talk)
+"If a household must always spend less than it earns, the government must do exactly the same."
+That misses how public finance, taxation, and borrowing work.
 
-**This example**  
-« A nation is like a family, so we should treat national debt like household debt. »  
+How it works
+The argument borrows the shape of one situation and drops it onto another.
+If the important parts do not match, the conclusion does not travel.
 
-The passage shows **False Analogy** in action: comparing two things that are not comparable in relevant respects.
+So:
+Ask what the comparison leaves out
+Do not let a neat image replace actual reasoning
+The more important the decision, the more the analogy needs checking
 
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Comparing two things that are not comparable in relevant respects.
+Key concept inside it
+Relevant similarity:
+Only the features that affect the conclusion count.
+If those features differ, the analogy breaks.
 
-- **Example 2:** Another everyday spot: a family argument. Comparing two things that are not comparable in relevant respects.
+Why it matters
+Explains why:
+Policy debates need more than slogans
+Business and family finances are not the same thing
+Good comparisons still need evidence
 
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
+The uncomfortable implication
+An analogy can feel wise and still be wrong.
+That is why it is dangerous when people stop checking it.
 
-**In one sentence**  
-False Analogy is the label for reasoning that fits: Comparing two things that are not comparable in relevant respects.`,
-    expert: `## False Analogy — in-depth (Expert)
-
-**Definition**  
-Comparing two things that are not comparable in relevant respects.
-
-**Applied to this passage**  
-« A nation is like a family, so we should treat national debt like household debt. »  
-
-Here, **False Analogy** is the right name because comparing two things that are not comparable in relevant respects.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Comparing two things that are not comparable in relevant respects.
-
-- **Example 2:** Another everyday spot: a family argument. Comparing two things that are not comparable in relevant respects.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
-
-- **Example 4:** Imagine sports or business results. The slip is the same: comparing two things that are not comparable in relevant respects.
-
-- **Example 5:** Picture a family argument. People often reason as if comparing two things that are not comparable in relevant respects.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Analogy** means Comparing two things that are not comparable in relevant respects.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Analogy = comparing two things that are not similar in the ways that matter.`,
   },
   69: {
-    beginner: `## False Analogy — in-depth (Beginner)
+    beginner: `False Analogy = comparing two things that are not similar in the ways that matter.`,
+    intermediate: `False Analogy
 
-**What this is, in plain English**  
-Comparing two things that are not comparable in relevant respects.
+Description:
+Two things can look alike and still be different in the important parts.
+A surface resemblance is not enough.
 
-**The example you’re looking at**  
-« Life is like a box of chocolates; you never know what you're gonna get. »  
+Example (life and chocolates)
+"Life is like a box of chocolates, so you should make decisions by guessing at random."
+That is a memorable line, not a reliable argument.`,
+    expert: `False Analogy
 
-**Why this is False Analogy**  
-Comparing two things that are not comparable in relevant respects. That is what this label is pointing to in the passage above.
+Description:
+Two things can look alike and still be different in the important parts.
+A surface resemblance is not enough.
 
-**Takeaway**  
-Comparing two things that are not comparable in relevant respects.`,
-    intermediate: `## False Analogy — in-depth (Intermediate)
+Example (life and chocolates)
+"Life is like a box of chocolates, so you should make decisions by guessing at random."
+That is a memorable line, not a reliable argument.
 
-**What this is, in plain English**  
-Comparing two things that are not comparable in relevant respects.
+Example (school grades)
+"Grades are like weather, so trying to measure them precisely is pointless."
+The comparison sounds clever, but it does not prove the point.
 
-**This example**  
-« Life is like a box of chocolates; you never know what you're gonna get. »  
+How it works
+The argument uses a vivid image to smuggle in a conclusion.
+If the two things do not share the right structure, the image misleads instead of clarifying.
 
-The passage shows **False Analogy** in action: comparing two things that are not comparable in relevant respects.
+So:
+Ask what is actually shared and what is not
+Do not confuse style with substance
+A vivid comparison can still be a weak argument
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Comparing two things that are not comparable in relevant respects.
+Key concept inside it
+Relevant similarity:
+Only the features that affect the conclusion count.
+If those features differ, the analogy breaks.
 
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
+Why it matters
+Explains why:
+Good sounding comparisons can spread bad advice
+Teachers and writers need to test metaphors
+People can be persuaded by a picture before they check the logic
 
-- **Example 3:** Imagine a health or habits story. The slip is the same: comparing two things that are not comparable in relevant respects.
+The uncomfortable implication
+Some of the most memorable lines are not arguments at all.
+They are just good lines.
 
-**In one sentence**  
-False Analogy is the label for reasoning that fits: Comparing two things that are not comparable in relevant respects.`,
-    expert: `## False Analogy — in-depth (Expert)
-
-**Definition**  
-Comparing two things that are not comparable in relevant respects.
-
-**Applied to this passage**  
-« Life is like a box of chocolates; you never know what you're gonna get. »  
-
-Here, **False Analogy** is the right name because comparing two things that are not comparable in relevant respects.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Comparing two things that are not comparable in relevant respects.
-
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: comparing two things that are not comparable in relevant respects.
-
-- **Example 4:** Picture school grades or test scores. People often reason as if comparing two things that are not comparable in relevant respects.
-
-- **Example 5:** In a news headline or social post, watch for this pattern: Comparing two things that are not comparable in relevant respects.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Analogy** means Comparing two things that are not comparable in relevant respects.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Analogy = comparing two things that are not similar in the ways that matter.`,
   },
   70: {
-    beginner: `## False Attribution — in-depth (Beginner)
+    beginner: `False Attribution = using a source that is irrelevant, unknown, or unreliable to support a claim.`,
+    intermediate: `False Attribution
 
-**What this is, in plain English**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Description:
+A claim is not stronger just because someone said it.
+If the source is vague, unqualified, or fake, the support is weak.
 
-**The example you’re looking at**  
-« I read somewhere that peanuts cause cancer (but can't remember where). »  
+Example (unclear source)
+"I read somewhere that peanuts cause cancer, but I cannot remember where."
+Without a real source, the claim has no solid support.`,
+    expert: `False Attribution
 
-**Why this is False Attribution**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument. That is what this label is pointing to in the passage above.
+Description:
+A claim is not stronger just because someone said it.
+If the source is vague, unqualified, or fake, the support is weak.
 
-**Takeaway**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
-    intermediate: `## False Attribution — in-depth (Intermediate)
+Example (unclear source)
+"I read somewhere that peanuts cause cancer, but I cannot remember where."
+Without a real source, the claim has no solid support.
 
-**What this is, in plain English**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Example (fake experts)
+"Experts agree on this, but nobody can name them."
+That is not evidence; it is a costume for evidence.
 
-**This example**  
-« I read somewhere that peanuts cause cancer (but can't remember where). »  
+How it works
+The argument borrows authority from a source that cannot be checked.
+If the source is missing, irrelevant, or biased, the claim does not gain real strength.
 
-The passage shows **False Attribution** in action: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+So:
+Ask who said it and why that source matters
+Unclear sourcing should lower your confidence
+Real evidence survives scrutiny; fake support does not
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Key concept inside it
+Source credibility:
+The value of a source depends on expertise, relevance, and transparency.
+If those are missing, the citation is weak.
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Why it matters
+Explains why:
+Rumors spread when people hide behind "I heard"
+Bad arguments sound official when they name unnamed experts
+Media literacy starts with checking who is speaking
 
-- **Example 3:** Picture sports or business results. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+The uncomfortable implication
+People can make claims sound more trustworthy by making the source harder to check.
+That is the trick.
 
-**In one sentence**  
-False Attribution is the label for reasoning that fits: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
-    expert: `## False Attribution — in-depth (Expert)
-
-**Definition**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**Applied to this passage**  
-« I read somewhere that peanuts cause cancer (but can't remember where). »  
-
-Here, **False Attribution** is the right name because appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 3:** Picture sports or business results. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 4:** In a family argument, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 5:** Another everyday spot: a policy or workplace discussion. Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Attribution** means Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Attribution = using a source that is irrelevant, unknown, or unreliable to support a claim.`,
   },
   71: {
-    beginner: `## False Attribution — in-depth (Beginner)
+    beginner: `False Attribution = using a source that is irrelevant, unknown, or unreliable to support a claim.`,
+    intermediate: `False Attribution
 
-**What this is, in plain English**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Description:
+A claim is not stronger just because someone said it.
+If the source is vague, unqualified, or fake, the support is weak.
 
-**The example you’re looking at**  
-« A friend of a friend said that vaccines cause autism. »  
+Example (friend of a friend)
+"A friend of a friend said vaccines cause autism."
+That is not a trustworthy source; it is hearsay layered on hearsay.`,
+    expert: `False Attribution
 
-**Why this is False Attribution**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument. That is what this label is pointing to in the passage above.
+Description:
+A claim is not stronger just because someone said it.
+If the source is vague, unqualified, or fake, the support is weak.
 
-**Takeaway**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
-    intermediate: `## False Attribution — in-depth (Intermediate)
+Example (friend of a friend)
+"A friend of a friend said vaccines cause autism."
+That is not a trustworthy source; it is hearsay layered on hearsay.
 
-**What this is, in plain English**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Example (missing expert)
+"Experts agree this is true, but nobody can name one expert."
+That is a claim about authority without any usable authority.
 
-**This example**  
-« A friend of a friend said that vaccines cause autism. »  
+How it works
+The argument leans on a source that cannot be checked, judged, or trusted.
+Once the source is vague, the claim is much weaker.
 
-The passage shows **False Attribution** in action: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+So:
+Named sources matter
+Vague authority is not the same as evidence
+If you cannot check the source, you should be cautious
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Key concept inside it
+Source credibility:
+The value of a source depends on expertise, relevance, and transparency.
+If those are missing, the citation is weak.
 
-- **Example 2:** Picture a health or habits story. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Why it matters
+Explains why:
+Rumors sound convincing when they travel by gossip
+Fake authority can make weak claims feel official
+Checking sources protects you from bad advice
 
-- **Example 3:** In school grades or test scores, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+The uncomfortable implication
+If a claim needs a foggy source to survive, it is probably not standing on much.
 
-**In one sentence**  
-False Attribution is the label for reasoning that fits: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
-    expert: `## False Attribution — in-depth (Expert)
-
-**Definition**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**Applied to this passage**  
-« A friend of a friend said that vaccines cause autism. »  
-
-Here, **False Attribution** is the right name because appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 2:** Picture a health or habits story. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 4:** Another everyday spot: a news headline or social post. Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Attribution** means Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Attribution = using a source that is irrelevant, unknown, or unreliable to support a claim.`,
   },
   72: {
-    beginner: `## False Attribution — in-depth (Beginner)
+    beginner: `False Attribution = using a source that is irrelevant, unknown, or unreliable to support a claim.`,
+    intermediate: `False Attribution
 
-**What this is, in plain English**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Description:
+A claim is not stronger just because someone said it.
+If the source is vague, unqualified, or fake, the support is weak.
 
-**The example you’re looking at**  
-« Experts agree that this is true (without citing any). »  
+Example (unnamed experts)
+"Experts agree that this is true."
+If no expert is named, the appeal is empty.`,
+    expert: `False Attribution
 
-**Why this is False Attribution**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument. That is what this label is pointing to in the passage above.
+Description:
+A claim is not stronger just because someone said it.
+If the source is vague, unqualified, or fake, the support is weak.
 
-**Takeaway**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
-    intermediate: `## False Attribution — in-depth (Intermediate)
+Example (unnamed experts)
+"Experts agree that this is true."
+If no expert is named, the appeal is empty.
 
-**What this is, in plain English**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Example (social post)
+"I saw a post from a specialist saying it must be true."
+If the specialist cannot be identified, the statement is not reliable support.
 
-**This example**  
-« Experts agree that this is true (without citing any). »  
+How it works
+The argument uses the idea of authority without providing a real authority.
+That lets the speaker borrow trust they have not earned.
 
-The passage shows **False Attribution** in action: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+So:
+Authority must be specific enough to check
+Anonymous support should make you pause
+Strong claims need traceable sources
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Key concept inside it
+Source credibility:
+The value of a source depends on expertise, relevance, and transparency.
+If those are missing, the citation is weak.
 
-- **Example 2:** In sports or business results, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Why it matters
+Explains why:
+Vague experts are a common propaganda trick
+People accept weak claims when they sound official
+Source checking is a basic critical-thinking habit
 
-- **Example 3:** Another everyday spot: a family argument. Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+The uncomfortable implication
+If a source cannot be named, checked, or challenged, it is not doing much work.
 
-**In one sentence**  
-False Attribution is the label for reasoning that fits: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
-    expert: `## False Attribution — in-depth (Expert)
-
-**Definition**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**Applied to this passage**  
-« Experts agree that this is true (without citing any). »  
-
-Here, **False Attribution** is the right name because appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 2:** In sports or business results, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 3:** Another everyday spot: a family argument. Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 4:** **Setting:** a policy or workplace discussion. **What goes wrong:** Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 5:** Imagine sports or business results. The slip is the same: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Attribution** means Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Attribution = using a source that is irrelevant, unknown, or unreliable to support a claim.`,
   },
   73: {
-    beginner: `## False Balance — in-depth (Beginner)
+    beginner: `False Balance = treating weak and strong views as if they deserve the same weight.`,
+    intermediate: `False Balance
 
-**What this is, in plain English**  
-Presenting two opposing views as being more balanced than the evidence supports.
+Description:
+Two sides are not always equally supported.
+Giving them equal weight can hide how strong the evidence really is.
 
-**The example you’re looking at**  
-« Giving equal time to a scientist and a conspiracy theorist on climate change. »  
+Example (climate coverage)
+"A scientist and a conspiracy theorist were given equal time on TV."
+Equal time is not the same as equal evidence.`,
+    expert: `False Balance
 
-**Why this is False Balance**  
-Presenting two opposing views as being more balanced than the evidence supports. That is what this label is pointing to in the passage above.
+Description:
+Two sides are not always equally supported.
+Giving them equal weight can hide how strong the evidence really is.
 
-**Takeaway**  
-Presenting two opposing views as being more balanced than the evidence supports.`,
-    intermediate: `## False Balance — in-depth (Intermediate)
+Example (climate coverage)
+"A scientist and a conspiracy theorist were given equal time on TV."
+Equal time is not the same as equal evidence.
 
-**What this is, in plain English**  
-Presenting two opposing views as being more balanced than the evidence supports.
+Example (creationism)
+"Creationism and evolution should be presented as equally valid theories."
+That sounds balanced, but the evidence does not support equal footing.
 
-**This example**  
-« Giving equal time to a scientist and a conspiracy theorist on climate change. »  
+How it works
+The argument creates symmetry where the evidence is actually lopsided.
+That can make a weak position look safer than it is.
 
-The passage shows **False Balance** in action: presenting two opposing views as being more balanced than the evidence supports.
+So:
+Fairness is not the same as equal credibility
+Balance in presentation can become imbalance in truth
+You still have to ask which side has the evidence
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Presenting two opposing views as being more balanced than the evidence supports.
+Key concept inside it
+Evidence weighting:
+Arguments should be judged by the strength of their support.
+Equal airtime is not equal proof.
 
-- **Example 2:** Another everyday spot: school grades or test scores. Presenting two opposing views as being more balanced than the evidence supports.
+Why it matters
+Explains why:
+Media coverage can mislead by trying to look neutral
+Public debates can flatten expert consensus
+False fairness can make misinformation feel respectable
 
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
+The uncomfortable implication
+Sometimes the balanced-looking version is less honest than the uneven one.
 
-**In one sentence**  
-False Balance is the label for reasoning that fits: Presenting two opposing views as being more balanced than the evidence supports.`,
-    expert: `## False Balance — in-depth (Expert)
-
-**Definition**  
-Presenting two opposing views as being more balanced than the evidence supports.
-
-**Applied to this passage**  
-« Giving equal time to a scientist and a conspiracy theorist on climate change. »  
-
-Here, **False Balance** is the right name because presenting two opposing views as being more balanced than the evidence supports.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 2:** Another everyday spot: school grades or test scores. Presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 4:** Imagine a health or habits story. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 5:** Picture school grades or test scores. People often reason as if presenting two opposing views as being more balanced than the evidence supports.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Balance** means Presenting two opposing views as being more balanced than the evidence supports.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+False Balance = treating weak and strong views as if they deserve the same weight.`,
   },
   74: {
-    beginner: `## False Balance — in-depth (Beginner)
+    beginner: `False Balance = treating weak and strong views as if they deserve the same weight.`,
+    intermediate: `False Balance
 
-**What this is, in plain English**  
-Presenting two opposing views as being more balanced than the evidence supports.
+Description:
+Two sides are not always equally supported.
+Giving them equal weight can hide how strong the evidence really is.
 
-**The example you’re looking at**  
-« Presenting creationism and evolution as equally valid theories. »  
+Example (creationism and evolution)
+"Presenting creationism and evolution as equally valid theories."
+That is balance in appearance, not in evidence.`,
+    expert: `False Balance
 
-**Why this is False Balance**  
-Presenting two opposing views as being more balanced than the evidence supports. That is what this label is pointing to in the passage above.
+Description:
+Two sides are not always equally supported.
+Giving them equal weight can hide how strong the evidence really is.
 
-**Takeaway**  
-Presenting two opposing views as being more balanced than the evidence supports.`,
-    intermediate: `## False Balance — in-depth (Intermediate)
+Example (creationism and evolution)
+"Presenting creationism and evolution as equally valid theories."
+That is balance in appearance, not in evidence.
 
-**What this is, in plain English**  
-Presenting two opposing views as being more balanced than the evidence supports.
+Example (expert vs non-expert)
+"Balancing expert opinion with uninformed opinion."
+Equal treatment can hide the fact that one side knows far more.
 
-**This example**  
-« Presenting creationism and evolution as equally valid theories. »  
+How it works
+The argument acts as if fairness requires symmetry.
+But fairness should follow evidence, not replace it.
 
-The passage shows **False Balance** in action: presenting two opposing views as being more balanced than the evidence supports.
+So:
+Not every dispute has two equal sides
+Equal presentation can still be misleading
+You should weigh reasons, not just count voices
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Presenting two opposing views as being more balanced than the evidence supports.
+Key concept inside it
+Evidence weighting:
+Arguments should be judged by the strength of their support.
+Equal airtime is not equal proof.
 
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
+Why it matters
+Explains why:
+Journalism can oversell disagreement
+Schools and forums can normalize weak claims
+People confuse politeness with balance
 
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
+The uncomfortable implication
+Looking evenhanded is easy.
+Being evenhanded with evidence is harder.
 
-**In one sentence**  
-False Balance is the label for reasoning that fits: Presenting two opposing views as being more balanced than the evidence supports.`,
-    expert: `## False Balance — in-depth (Expert)
-
-**Definition**  
-Presenting two opposing views as being more balanced than the evidence supports.
-
-**Applied to this passage**  
-« Presenting creationism and evolution as equally valid theories. »  
-
-Here, **False Balance** is the right name because presenting two opposing views as being more balanced than the evidence supports.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 4:** Picture sports or business results. People often reason as if presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 5:** In a family argument, watch for this pattern: Presenting two opposing views as being more balanced than the evidence supports.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Balance** means Presenting two opposing views as being more balanced than the evidence supports.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+False Balance = treating weak and strong views as if they deserve the same weight.`,
   },
   75: {
-    beginner: `## False Balance — in-depth (Beginner)
+    beginner: `False Balance = treating weak and strong views as if they deserve the same weight.`,
+    intermediate: `False Balance
 
-**What this is, in plain English**  
-Presenting two opposing views as being more balanced than the evidence supports.
+Description:
+Two sides are not always equally supported.
+Giving them equal weight can hide how strong the evidence really is.
 
-**The example you’re looking at**  
-« Balancing expert opinion with uninformed opinion. »  
+Example (expert opinion)
+"Balancing expert opinion with uninformed opinion."
+Giving both sides the same space can make the weaker side look better than it is.`,
+    expert: `False Balance
 
-**Why this is False Balance**  
-Presenting two opposing views as being more balanced than the evidence supports. That is what this label is pointing to in the passage above.
+Description:
+Two sides are not always equally supported.
+Giving them equal weight can hide how strong the evidence really is.
 
-**Takeaway**  
-Presenting two opposing views as being more balanced than the evidence supports.`,
-    intermediate: `## False Balance — in-depth (Intermediate)
+Example (expert opinion)
+"Balancing expert opinion with uninformed opinion."
+Giving both sides the same space can make the weaker side look better than it is.
 
-**What this is, in plain English**  
-Presenting two opposing views as being more balanced than the evidence supports.
+Example (news framing)
+"A news story gives the same weight to a medical researcher and a random guess."
+That is not neutral reporting; it is distorted balance.
 
-**This example**  
-« Balancing expert opinion with uninformed opinion. »  
+How it works
+The argument confuses equal treatment with equal support.
+That lets weak claims borrow status from stronger ones.
 
-The passage shows **False Balance** in action: presenting two opposing views as being more balanced than the evidence supports.
+So:
+Do not let format hide the evidence gap
+Balance should follow the facts
+A fair presentation still has to respect expertise
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
+Key concept inside it
+Evidence weighting:
+Arguments should be judged by the strength of their support.
+Equal airtime is not equal proof.
 
-- **Example 2:** Imagine a news headline or social post. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
+Why it matters
+Explains why:
+Headlines can create fake disputes
+Public trust can be misplaced when all voices are treated the same
+People need to ask who is qualified, not just who is speaking
 
-- **Example 3:** Picture a health or habits story. People often reason as if presenting two opposing views as being more balanced than the evidence supports.
+The uncomfortable implication
+Fairness without judgment can become a lie of symmetry.
 
-**In one sentence**  
-False Balance is the label for reasoning that fits: Presenting two opposing views as being more balanced than the evidence supports.`,
-    expert: `## False Balance — in-depth (Expert)
-
-**Definition**  
-Presenting two opposing views as being more balanced than the evidence supports.
-
-**Applied to this passage**  
-« Balancing expert opinion with uninformed opinion. »  
-
-Here, **False Balance** is the right name because presenting two opposing views as being more balanced than the evidence supports.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 2:** Imagine a news headline or social post. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 3:** Picture a health or habits story. People often reason as if presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 4:** In school grades or test scores, watch for this pattern: Presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 5:** Another everyday spot: a news headline or social post. Presenting two opposing views as being more balanced than the evidence supports.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Balance** means Presenting two opposing views as being more balanced than the evidence supports.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+False Balance = treating weak and strong views as if they deserve the same weight.`,
   },
   76: {
-    beginner: `## False Dichotomy — in-depth (Beginner)
+    beginner: `False Dichotomy = presenting two options as if they were the only ones.`,
+    intermediate: `False Dichotomy
 
-**What this is, in plain English**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Description:
+The speaker pretends there are only two choices.
+Real life usually has more than two.
 
-**The example you’re looking at**  
-« You are either with us or against us. »  
+Example (with us or against us)
+"You are either with us or against us."
+There are often middle positions, mixed positions, and no-position positions.`,
+    expert: `False Dichotomy
 
-**Why this is False Dichotomy**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist. That is what this label is pointing to in the passage above.
+Description:
+The speaker pretends there are only two choices.
+Real life usually has more than two.
 
-**Takeaway**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.`,
-    intermediate: `## False Dichotomy — in-depth (Intermediate)
+Example (with us or against us)
+"You are either with us or against us."
+There are often middle positions, mixed positions, and no-position positions.
 
-**What this is, in plain English**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Example (policy)
+"Either you support this policy or you hate freedom."
+That leaves out disagreement, caution, and partial support.
 
-**This example**  
-« You are either with us or against us. »  
+How it works
+The argument forces a complex issue into a two-box choice.
+That makes one side look extreme and the other side look safe.
 
-The passage shows **False Dichotomy** in action: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+So:
+Look for the missing middle
+Many debates include more than two honest options
+A forced choice is not the same as a real choice
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Key concept inside it
+False choice:
+An argument can hide the real range of options by shrinking the menu.
+That is what makes the choice fake.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Why it matters
+Explains why:
+Politics often turns into team sports
+People get pressured to pick a side too quickly
+Nuance disappears when everything is framed as either/or
 
-- **Example 3:** In sports or business results, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+The uncomfortable implication
+Reality is often more complicated than the argument wants to admit.
 
-**In one sentence**  
-False Dichotomy is the label for reasoning that fits: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.`,
-    expert: `## False Dichotomy — in-depth (Expert)
-
-**Definition**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**Applied to this passage**  
-« You are either with us or against us. »  
-
-Here, **False Dichotomy** is the right name because presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 3:** In sports or business results, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 4:** Another everyday spot: a family argument. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Dichotomy** means Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Dichotomy = presenting two options as if they were the only ones.`,
   },
   77: {
-    beginner: `## False Dichotomy — in-depth (Beginner)
+    beginner: `False Dichotomy = presenting two options as if they were the only ones.`,
+    intermediate: `False Dichotomy
 
-**What this is, in plain English**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Description:
+The speaker pretends there are only two choices.
+Real life usually has more than two.
 
-**The example you’re looking at**  
-« Either you support this policy or you hate freedom. »  
+Example (policy)
+"Either you support this policy or you hate freedom."
+That leaves out compromise, criticism, and partial agreement.`,
+    expert: `False Dichotomy
 
-**Why this is False Dichotomy**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist. That is what this label is pointing to in the passage above.
+Description:
+The speaker pretends there are only two choices.
+Real life usually has more than two.
 
-**Takeaway**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.`,
-    intermediate: `## False Dichotomy — in-depth (Intermediate)
+Example (policy)
+"Either you support this policy or you hate freedom."
+That leaves out compromise, criticism, and partial agreement.
 
-**What this is, in plain English**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Example (relationships)
+"It is my way or the highway."
+That ignores collaboration, negotiation, and mutual adjustment.
 
-**This example**  
-« Either you support this policy or you hate freedom. »  
+How it works
+The argument narrows the field so much that one answer looks like the only safe answer.
+That can bully people into agreeing.
 
-The passage shows **False Dichotomy** in action: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+So:
+Real decisions often live in the middle
+Extreme framing hides workable alternatives
+You do not have to accept the fake menu
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Key concept inside it
+False choice:
+An argument can hide the real range of options by shrinking the menu.
+That is what makes the choice fake.
 
-- **Example 2:** In a health or habits story, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Why it matters
+Explains why:
+Leaders use either/or language to shut down discussion
+Teams lose better ideas when the middle is erased
+People feel forced to choose when they do not need to
 
-- **Example 3:** Another everyday spot: school grades or test scores. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+The uncomfortable implication
+The argument is not just simplifying.
+It is trying to control which answers you are allowed to see.
 
-**In one sentence**  
-False Dichotomy is the label for reasoning that fits: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.`,
-    expert: `## False Dichotomy — in-depth (Expert)
-
-**Definition**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**Applied to this passage**  
-« Either you support this policy or you hate freedom. »  
-
-Here, **False Dichotomy** is the right name because presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 2:** In a health or habits story, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 3:** Another everyday spot: school grades or test scores. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 4:** **Setting:** a news headline or social post. **What goes wrong:** Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 5:** Imagine a health or habits story. The slip is the same: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Dichotomy** means Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Dichotomy = presenting two options as if they were the only ones.`,
   },
   78: {
-    beginner: `## False Dichotomy — in-depth (Beginner)
+    beginner: `False Dichotomy = presenting two options as if they were the only ones.`,
+    intermediate: `False Dichotomy
 
-**What this is, in plain English**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Description:
+The speaker pretends there are only two choices.
+Real life usually has more than two.
 
-**The example you’re looking at**  
-« It's either my way or the highway. »  
+Example (my way or the highway)
+"It's either my way or the highway."
+That turns discussion into a false choice.`,
+    expert: `False Dichotomy
 
-**Why this is False Dichotomy**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist. That is what this label is pointing to in the passage above.
+Description:
+The speaker pretends there are only two choices.
+Real life usually has more than two.
 
-**Takeaway**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.`,
-    intermediate: `## False Dichotomy — in-depth (Intermediate)
+Example (my way or the highway)
+"It's either my way or the highway."
+That turns discussion into a false choice.
 
-**What this is, in plain English**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Example (workplace)
+"You can either be loyal or be a traitor."
+That ignores honest disagreement and independent judgment.
 
-**This example**  
-« It's either my way or the highway. »  
+How it works
+The argument narrows the field so much that one answer looks like the only safe answer.
+That can bully people into agreeing.
 
-The passage shows **False Dichotomy** in action: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+So:
+Real decisions often live in the middle
+Extreme framing hides workable alternatives
+You do not have to accept the fake menu
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Key concept inside it
+False choice:
+An argument can hide the real range of options by shrinking the menu.
+That is what makes the choice fake.
 
-- **Example 2:** Another everyday spot: sports or business results. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Why it matters
+Explains why:
+Leaders use either/or language to shut down discussion
+Teams lose better ideas when the middle is erased
+People feel forced to choose when they do not need to
 
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+The uncomfortable implication
+Once you notice the fake choice, the argument often loses its power.
 
-**In one sentence**  
-False Dichotomy is the label for reasoning that fits: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.`,
-    expert: `## False Dichotomy — in-depth (Expert)
-
-**Definition**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**Applied to this passage**  
-« It's either my way or the highway. »  
-
-Here, **False Dichotomy** is the right name because presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 2:** Another everyday spot: sports or business results. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 4:** Imagine a policy or workplace discussion. The slip is the same: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 5:** Picture sports or business results. People often reason as if presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Dichotomy** means Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Dichotomy = presenting two options as if they were the only ones.`,
   },
   79: {
-    beginner: `## False Equivalence — in-depth (Beginner)
+    beginner: `False Equivalence = treating two different things as if they were equally serious or equally true.`,
+    intermediate: `False Equivalence
 
-**What this is, in plain English**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
+Description:
+Two things can both be bad, but not be equally bad.
+Two claims can both be debated, but not be equally supported.
 
-**The example you’re looking at**  
-« Equating criticism of a policy with treason. »  
+Example (criticism and treason)
+"Criticizing a policy is the same as treason."
+That turns disagreement into a much bigger and different act.`,
+    expert: `False Equivalence
 
-**Why this is False Equivalence**  
-Describing two distinct and opposing arguments as logically equivalent when they are not. That is what this label is pointing to in the passage above.
+Description:
+Two things can both be bad, but not be equally bad.
+Two claims can both be debated, but not be equally supported.
 
-**Takeaway**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.`,
-    intermediate: `## False Equivalence — in-depth (Intermediate)
+Example (criticism and treason)
+"Criticizing a policy is the same as treason."
+That turns disagreement into a much bigger and different act.
 
-**What this is, in plain English**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
+Example (scale)
+"A small mistake and a serious betrayal are basically the same."
+That flattens real differences in harm and intent.
 
-**This example**  
-« Equating criticism of a policy with treason. »  
+How it works
+The argument collapses important differences into one label.
+That makes the speaker sound clever while the comparison gets weaker.
 
-The passage shows **False Equivalence** in action: describing two distinct and opposing arguments as logically equivalent when they are not.
+So:
+Equal treatment is not always fair
+Different harms need different responses
+Not all comparisons should end in a tie
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Describing two distinct and opposing arguments as logically equivalent when they are not.
+Key concept inside it
+Scale:
+Differences in seriousness, evidence, or impact matter.
+If you ignore scale, you distort the issue.
 
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Describing two distinct and opposing arguments as logically equivalent when they are not.
+Why it matters
+Explains why:
+People use "just as bad" to shut down discussion
+Moral and legal judgments need proportion
+Noticing the difference protects good reasoning
 
-- **Example 3:** Imagine a news headline or social post. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
+The uncomfortable implication
+If everything is said to be equivalent, nothing can be judged properly.
 
-**In one sentence**  
-False Equivalence is the label for reasoning that fits: Describing two distinct and opposing arguments as logically equivalent when they are not.`,
-    expert: `## False Equivalence — in-depth (Expert)
-
-**Definition**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**Applied to this passage**  
-« Equating criticism of a policy with treason. »  
-
-Here, **False Equivalence** is the right name because describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 3:** Imagine a news headline or social post. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 4:** Picture a health or habits story. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 5:** In school grades or test scores, watch for this pattern: Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Equivalence** means Describing two distinct and opposing arguments as logically equivalent when they are not.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Equivalence = treating two different things as if they were equally serious or equally true.`,
   },
   80: {
-    beginner: `## False Equivalence — in-depth (Beginner)
+    beginner: `False Equivalence = treating two different things as if they were equally serious or equally true.`,
+    intermediate: `False Equivalence
 
-**What this is, in plain English**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
+Description:
+Two things can both be bad, but not be equally bad.
+Two claims can both be debated, but not be equally supported.
 
-**The example you’re looking at**  
-« Treating minor mistakes and major crimes as the same. »  
+Example (minor mistakes and major crimes)
+"Treating minor mistakes and major crimes as the same."
+That erases scale and makes judgment impossible.`,
+    expert: `False Equivalence
 
-**Why this is False Equivalence**  
-Describing two distinct and opposing arguments as logically equivalent when they are not. That is what this label is pointing to in the passage above.
+Description:
+Two things can both be bad, but not be equally bad.
+Two claims can both be debated, but not be equally supported.
 
-**Takeaway**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.`,
-    intermediate: `## False Equivalence — in-depth (Intermediate)
+Example (minor mistakes and major crimes)
+"Treating minor mistakes and major crimes as the same."
+That erases scale and makes judgment impossible.
 
-**What this is, in plain English**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
+Example (doubt and denial)
+"Questioning a claim is the same as rejecting it."
+That confuses careful thinking with a fixed conclusion.
 
-**This example**  
-« Treating minor mistakes and major crimes as the same. »  
+How it works
+The argument strips away the differences that matter most.
+Once those differences are gone, the conclusion sounds simpler than it should.
 
-The passage shows **False Equivalence** in action: describing two distinct and opposing arguments as logically equivalent when they are not.
+So:
+Ask what got flattened
+Not every comparison has the same weight
+Different harms and different claims need different standards
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Describing two distinct and opposing arguments as logically equivalent when they are not.
+Key concept inside it
+Scale:
+Differences in seriousness, evidence, or impact matter.
+If you ignore scale, you distort the issue.
 
-- **Example 2:** Imagine a family argument. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
+Why it matters
+Explains why:
+Public arguments get distorted by "they are all the same" language
+Good judgment depends on proportional thinking
+Overflattening can excuse or exaggerate harm
 
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
+The uncomfortable implication
+When everything is made equal, nothing is really understood.
 
-**In one sentence**  
-False Equivalence is the label for reasoning that fits: Describing two distinct and opposing arguments as logically equivalent when they are not.`,
-    expert: `## False Equivalence — in-depth (Expert)
-
-**Definition**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**Applied to this passage**  
-« Treating minor mistakes and major crimes as the same. »  
-
-Here, **False Equivalence** is the right name because describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 2:** Imagine a family argument. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 4:** In sports or business results, watch for this pattern: Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 5:** Another everyday spot: a family argument. Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Equivalence** means Describing two distinct and opposing arguments as logically equivalent when they are not.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  81: {
-    beginner: `## False Equivalence — in-depth (Beginner)
-
-**What this is, in plain English**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**The example you’re looking at**  
-« Saying that doubting a claim is the same as denying it. »  
-
-**Why this is False Equivalence**  
-Describing two distinct and opposing arguments as logically equivalent when they are not. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.`,
-    intermediate: `## False Equivalence — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**This example**  
-« Saying that doubting a claim is the same as denying it. »  
-
-The passage shows **False Equivalence** in action: describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 2:** Picture a news headline or social post. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**In one sentence**  
-False Equivalence is the label for reasoning that fits: Describing two distinct and opposing arguments as logically equivalent when they are not.`,
-    expert: `## False Equivalence — in-depth (Expert)
-
-**Definition**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**Applied to this passage**  
-« Saying that doubting a claim is the same as denying it. »  
-
-Here, **False Equivalence** is the right name because describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 2:** Picture a news headline or social post. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 4:** Another everyday spot: school grades or test scores. Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Equivalence** means Describing two distinct and opposing arguments as logically equivalent when they are not.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Equivalence = treating two different things as if they were equally serious or equally true.`,
   },
   82: {
     beginner: `## Fallacy Fallacy — in-depth (Beginner)
@@ -12222,130 +11932,1035 @@ Biais de confirmation = favoriser les preuves qui vont dans le sens de ce que l'
   },
 
   61: {
-    beginner: `## Appeal to Ignorance — approfondi (Débutant)
+    beginner: `Continuum Fallacy = supposer qu'une frontière floue veut dire que les extrêmes sont identiques.`,
+    intermediate: `Continuum Fallacy
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Description:
+Une frontière floue n'efface pas une vraie différence.
+Les zones grises existent, mais elles ne prouvent pas que les catégories sont identiques.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (alimentation saine)
+"On ne peut pas dire exactement quand un aliment devient malsain, donc rien n'est vraiment malsain."
+L'absence de coupure nette ne veut pas dire que tout se vaut.`,
+    expert: `Continuum Fallacy
 
-**Pourquoi c’est bien Appeal to Ignorance**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Description:
+Une frontière floue n'efface pas une vraie différence.
+Les zones grises existent, mais elles ne prouvent pas que les catégories sont identiques.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Ignorance — approfondi (Intermédiaire)
+Exemple (alimentation saine)
+"On ne peut pas dire exactement quand un aliment devient malsain, donc rien n'est vraiment malsain."
+L'absence de coupure nette ne veut pas dire que tout se vaut.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Exemple (notes scolaires)
+"Si on ne peut pas fixer la seconde exacte où une note devient un échec, alors réussir et échouer, c'est pareil."
+Le bord est flou, mais la différence compte encore.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Comment ça fonctionne
+Le raisonnement traite "pas de ligne nette" comme si cela voulait dire "pas de vraie distinction".
+Il confond un problème de mesure avec un problème de sens.
 
-Le passage montre **Appeal to Ignorance** : soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Donc :
+Une bordure imparfaite reste une bordure
+Toutes les distinctions n'ont pas besoin d'un point magique
+Des seuils raisonnables peuvent être réels et utiles
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Concept clé
+Vagueness:
+Un concept peut avoir des bords flous sans être vide de sens.
+Beaucoup de catégories réelles fonctionnent ainsi.
 
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les conseils de santé ont besoin de règles même quand il y a des cas limites
+Les lois et les politiques ont souvent besoin de seuils pratiques
+Le débat se bloque quand on confond "flou" et "tout pareil"
 
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+L'implication inconfortable
+La réalité est brouillonne.
+Cela ne rend pas vos catégories fausses.
+Cela veut dire qu'il faut du jugement, pas une frontière magique.
 
-**En une phrase**  
-**Appeal to Ignorance**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Ignorance — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to Ignorance** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Ignorance**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Continuum Fallacy = supposer qu'une frontière floue veut dire que les extrêmes sont identiques.`,
   },
   62: {
-    beginner: `## Appeal to Ignorance — approfondi (Débutant)
+    beginner: `Continuum Fallacy = supposer qu'une frontière floue veut dire que les extrêmes sont identiques.`,
+    intermediate: `Continuum Fallacy
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Description:
+Une frontière floue n'efface pas une vraie différence.
+Les zones grises existent, mais elles ne prouvent pas que les catégories sont identiques.
 
-**L’exemple affiché**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Exemple (art)
+"S'il n'y a pas de ligne exacte entre art et non-art, alors tout est art."
+La frontière peut être floue sans que tout devienne la même chose.`,
+    expert: `Continuum Fallacy
 
-**Pourquoi c’est bien Appeal to Ignorance**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Description:
+Une frontière floue n'efface pas une vraie différence.
+Les zones grises existent, mais elles ne prouvent pas que les catégories sont identiques.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to Ignorance — approfondi (Intermédiaire)
+Exemple (art)
+"S'il n'y a pas de ligne exacte entre art et non-art, alors tout est art."
+La frontière peut être floue sans que tout devienne la même chose.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Exemple (politique)
+"Si une règle a des contours difficiles à tracer, alors la règle ne sert à rien."
+Un bord flou peut quand même être pratique et utile.
 
-**Cet exemple**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Comment ça fonctionne
+Le raisonnement transforme l'incertitude au bord en raison de nier toute la catégorie.
+C'est une erreur sur les frontières, pas une découverte sur la réalité.
 
-Le passage montre **Appeal to Ignorance** : soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Donc :
+Une frontière imparfaite reste une frontière
+Toutes les distinctions n'ont pas besoin d'un point magique
+Des seuils raisonnables peuvent être réels et utiles
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Concept clé
+Seuil:
+Un point pratique à partir duquel une catégorie s'applique.
+Il peut être utile même si la nature elle-même est progressive.
 
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+Les règles publiques ont souvent besoin de seuils pratiques
+Les catégories créatives peuvent être floues sans être inutiles
+On arrête de penser quand on traite chaque frontière comme arbitraire
 
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Certaines vraies questions n'ont pas de bord net oui/non.
+C'est pour cela que le jugement compte.
 
-**En une phrase**  
-**Appeal to Ignorance**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to Ignorance — approfondi (Expert)
+En une phrase
+Continuum Fallacy = supposer qu'une frontière floue veut dire que les extrêmes sont identiques.`,
+  },
+  63: {
+    beginner: `Continuum Fallacy = supposer qu'une frontière floue veut dire que les extrêmes sont identiques.`,
+    intermediate: `Continuum Fallacy
 
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Description:
+Une frontière floue n'efface pas une vraie différence.
+Les zones grises existent, mais elles ne prouvent pas que les catégories sont identiques.
 
-**Appliqué à ce passage**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Exemple (calvitie)
+"La calvitie est progressive, donc personne n'est vraiment chauve."
+Le changement progressif n'efface pas la différence entre plus de cheveux et moins de cheveux.`,
+    expert: `Continuum Fallacy
 
-Ici, **Appeal to Ignorance** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Description:
+Une frontière floue n'efface pas une vraie différence.
+Les zones grises existent, mais elles ne prouvent pas que les catégories sont identiques.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Exemple (calvitie)
+"La calvitie est progressive, donc personne n'est vraiment chauve."
+Le changement progressif n'efface pas la différence entre plus de cheveux et moins de cheveux.
 
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Exemple (notes scolaires)
+"Si on ne peut pas marquer l'instant exact où une note devient insuffisante, alors réussir et échouer ne veulent rien dire."
+Le seuil peut être flou alors que la distinction fonctionne encore.
 
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Comment ça fonctionne
+Le raisonnement transforme un bord flou en raison de nier toute la catégorie.
+C'est comme dire qu'une carte est inutile parce qu'elle ne montre pas chaque brin d'herbe.
 
-- **Exemple 4 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Donc :
+Une frontière imparfaite reste une frontière
+Toutes les distinctions n'ont pas besoin d'un point magique
+Des seuils raisonnables peuvent être réels et utiles
 
-- **Exemple 5 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
+Concept clé
+Seuil:
+Un point pratique à partir duquel une catégorie s'applique.
+Il peut être utile même si la nature elle-même est progressive.
 
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to Ignorance**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur ignorance, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
+Pourquoi c'est important
+Explique pourquoi :
+La santé, le droit et les notes utilisent tous des seuils pratiques
+On confond souvent "difficile à tracer" avec "inutile à tracer"
+Le bon raisonnement accepte le flou sans abandonner les distinctions
 
-**Thème (banque)**  
-Nœud Logique`,
+L'implication inconfortable
+Beaucoup de vraies questions n'ont pas de bord net oui/non.
+C'est pour cela que le jugement compte.
+
+En une phrase
+Continuum Fallacy = supposer qu'une frontière floue veut dire que les extrêmes sont identiques.`,
+  },
+  64: {
+    beginner: `Correlation Equals Causation = supposer que parce que deux choses arrivent ensemble, l'une a causé l'autre.`,
+    intermediate: `Correlation Equals Causation
+
+Description:
+Deux événements peuvent évoluer ensemble sans que l'un cause l'autre.
+La corrélation est un indice, pas une conclusion.
+
+Exemple (panne de courant)
+"J'ai éternué au moment où le courant a sauté, donc mon éternuement l'a causé."
+Le simple timing ne prouve pas la cause.`,
+    expert: `Correlation Equals Causation
+
+Description:
+Deux événements peuvent évoluer ensemble sans que l'un cause l'autre.
+La corrélation est un indice, pas une conclusion.
+
+Exemple (panne de courant)
+"J'ai éternué au moment où le courant a sauté, donc mon éternuement l'a causé."
+Le simple timing ne prouve pas la cause.
+
+Exemple (stylo porte-bonheur)
+"J'ai acheté un stylo porte-bonheur et j'ai réussi mon examen, donc le stylo m'a fait réussir."
+Le stylo peut être innocent, et la réussite peut venir du travail.
+
+Comment ça fonctionne
+Le raisonnement voit un motif et le transforme en histoire de cause.
+Sans plus de preuves, il devine.
+
+Donc :
+La corrélation ne suffit pas pour prouver la cause
+Il faut chercher ce qui pourrait relier les événements autrement
+Un vrai motif peut être expliqué de travers
+
+Concept clé
+Corrélation:
+Deux choses varient ensemble.
+Cela ne dit pas laquelle a causé laquelle, ni même s'il y a une cause.
+
+Pourquoi c'est important
+Explique pourquoi :
+On accuse parfois de mauvaises habitudes d'effets qu'elles n'ont pas causés
+Les titres de presse transforment des tendances en fausses causes
+On confond souvent un bon timing avec une preuve
+
+L'implication inconfortable
+Le cerveau adore les histoires.
+La réalité donne souvent seulement un motif, pas la cause.
+
+En une phrase
+Correlation Equals Causation = supposer que parce que deux choses arrivent ensemble, l'une a causé l'autre.`,
+  },
+  65: {
+    beginner: `Correlation Equals Causation = supposer que parce que deux choses arrivent ensemble, l'une a causé l'autre.`,
+    intermediate: `Correlation Equals Causation
+
+Description:
+Deux événements peuvent évoluer ensemble sans que l'un cause l'autre.
+La corrélation est un indice, pas une conclusion.
+
+Exemple (chaussettes porte-bonheur)
+"L'équipe a perdu vendredi et je portais mes chaussettes porte-bonheur, donc les chaussettes ont causé la défaite."
+Le timing partagé n'est pas une cause.`,
+    expert: `Correlation Equals Causation
+
+Description:
+Deux événements peuvent évoluer ensemble sans que l'un cause l'autre.
+La corrélation est un indice, pas une conclusion.
+
+Exemple (chaussettes porte-bonheur)
+"L'équipe a perdu vendredi et je portais mes chaussettes porte-bonheur, donc les chaussettes ont causé la défaite."
+Le timing partagé n'est pas une cause.
+
+Exemple (habitude et résultats)
+"Chaque fois que je bois du café, je travaille mieux, donc le café est la raison."
+La vraie cause pourrait être le sommeil, la routine, ou simplement une bonne matinée.
+
+Comment ça fonctionne
+Le raisonnement voit un motif et le transforme en histoire de cause.
+Sans plus de preuves, il devine.
+
+Donc :
+La corrélation ne suffit pas pour prouver la cause
+Il faut chercher ce qui pourrait relier les événements autrement
+Un vrai motif peut être expliqué de travers
+
+Concept clé
+Confondeur:
+Un facteur caché qui influence les deux choses et les fait paraître liées.
+L'oublier, c'est ainsi que cette erreur grandit.
+
+Pourquoi c'est important
+Explique pourquoi :
+On accuse parfois un produit d'effets causés par autre chose
+Les superstitions survivent parce que le timing paraît convaincant
+Les mauvais conseils santé se propagent à partir d'une coïncidence
+
+L'implication inconfortable
+Les humains repèrent très bien les motifs.
+Ils repèrent beaucoup moins bien ce qui les cause vraiment.
+
+En une phrase
+Correlation Equals Causation = supposer que parce que deux choses arrivent ensemble, l'une a causé l'autre.`,
+  },
+  66: {
+    beginner: `Correlation Equals Causation = supposer que parce que deux choses arrivent ensemble, l'une a causé l'autre.`,
+    intermediate: `Correlation Equals Causation
+
+Description:
+Deux événements peuvent évoluer ensemble sans que l'un cause l'autre.
+La corrélation est un indice, pas une conclusion.
+
+Exemple (stylo porte-bonheur)
+"J'ai acheté un stylo porte-bonheur et j'ai réussi mon examen, donc le stylo m'a fait réussir."
+Le stylo peut être innocent, et la réussite peut venir du travail.`,
+    expert: `Correlation Equals Causation
+
+Description:
+Deux événements peuvent évoluer ensemble sans que l'un cause l'autre.
+La corrélation est un indice, pas une conclusion.
+
+Exemple (stylo porte-bonheur)
+"J'ai acheté un stylo porte-bonheur et j'ai réussi mon examen, donc le stylo m'a fait réussir."
+Le stylo peut être innocent, et la réussite peut venir du travail.
+
+Exemple (habitude et résultats)
+"Chaque fois que je bois du café, je travaille mieux, donc le café est la raison."
+La vraie cause pourrait être le sommeil, la routine, ou simplement une bonne matinée.
+
+Comment ça fonctionne
+Le raisonnement voit un motif et le transforme en histoire de cause.
+Sans plus de preuves, il devine.
+
+Donc :
+La corrélation ne suffit pas pour prouver la cause
+Il faut chercher ce qui pourrait relier les événements autrement
+Un vrai motif peut être expliqué de travers
+
+Concept clé
+Confondeur:
+Un facteur caché qui influence les deux choses et les fait paraître liées.
+L'oublier, c'est ainsi que cette erreur grandit.
+
+Pourquoi c'est important
+Explique pourquoi :
+On accuse parfois un produit d'effets causés par autre chose
+Les superstitions survivent parce que le timing paraît convaincant
+Les mauvais conseils santé se propagent à partir d'une coïncidence
+
+L'implication inconfortable
+Les humains repèrent très bien les motifs.
+Ils repèrent beaucoup moins bien ce qui les cause vraiment.
+
+En une phrase
+Correlation Equals Causation = supposer que parce que deux choses arrivent ensemble, l'une a causé l'autre.`,
+  },
+  67: {
+    beginner: `False Analogy = comparer deux choses qui ne sont pas similaires sur les points qui comptent.`,
+    intermediate: `False Analogy
+
+Description:
+Deux choses peuvent se ressembler en surface tout en étant différentes sur l'essentiel.
+Une ressemblance superficielle ne suffit pas.
+
+Exemple (employés et clous)
+"Les employés sont comme des clous, donc il faut les frapper pour qu'ils fonctionnent."
+Les personnes ne sont pas des outils, et la force n'est pas une bonne règle de travail.`,
+    expert: `False Analogy
+
+Description:
+Deux choses peuvent se ressembler en surface tout en étant différentes sur l'essentiel.
+Une ressemblance superficielle ne suffit pas.
+
+Exemple (employés et clous)
+"Les employés sont comme des clous, donc il faut les frapper pour qu'ils fonctionnent."
+Les personnes ne sont pas des outils, et la force n'est pas une bonne règle de travail.
+
+Exemple (management)
+"Si une machine répond à la pression, les employés devraient faire pareil."
+Le jugement humain, le consentement et la motivation ne fonctionnent pas comme des pièces mécaniques.
+
+Comment ça fonctionne
+Le raisonnement repère un point commun puis fait comme si ce point expliquait tout.
+Il ignore les différences pertinentes.
+
+Donc :
+Une analogie n'aide que si la comparaison est pertinente
+Des mots similaires ne veulent pas dire même structure
+La mauvaise comparaison peut rendre une mauvaise conclusion élégante
+
+Concept clé
+Similarité pertinente:
+Seuls comptent les éléments qui influencent la conclusion.
+Si ces éléments diffèrent, l'analogie casse.
+
+Pourquoi c'est important
+Explique pourquoi :
+Les managers ne devraient pas copier la logique du matériel dans les relations humaines
+Les slogans simples peuvent cacher de mauvaises politiques
+Une comparaison accrocheuse peut convaincre sans être vraie
+
+L'implication inconfortable
+Les bonnes analogies semblent évidentes.
+C'est justement pour cela qu'elles peuvent tromper.
+
+En une phrase
+False Analogy = comparer deux choses qui ne sont pas similaires sur les points qui comptent.`,
+  },
+  68: {
+    beginner: `False Analogy = comparer deux choses qui ne sont pas similaires sur les points qui comptent.`,
+    intermediate: `False Analogy
+
+Description:
+Deux choses peuvent se ressembler en surface tout en étant différentes sur l'essentiel.
+Une ressemblance superficielle ne suffit pas.
+
+Exemple (dette nationale)
+"Une nation est comme une famille, donc la dette publique devrait être traitée exactement comme la dette d'un ménage."
+L'analogie ignore l'échelle, la monnaie et les politiques publiques.`,
+    expert: `False Analogy
+
+Description:
+Deux choses peuvent se ressembler en surface tout en étant différentes sur l'essentiel.
+Une ressemblance superficielle ne suffit pas.
+
+Exemple (dette nationale)
+"Une nation est comme une famille, donc la dette publique devrait être traitée exactement comme la dette d'un ménage."
+L'analogie ignore l'échelle, la monnaie et les politiques publiques.
+
+Exemple (budget)
+"Si un ménage doit toujours dépenser moins qu'il ne gagne, alors l'État doit faire exactement pareil."
+Cela oublie le fonctionnement des finances publiques, des impôts et de l'emprunt.
+
+Comment ça fonctionne
+Le raisonnement emprunte la forme d'une situation et la colle sur une autre.
+Si les points importants ne correspondent pas, la conclusion ne voyage pas.
+
+Donc :
+Demandez ce que la comparaison laisse de côté
+Ne laissez pas une image propre remplacer le raisonnement réel
+Plus la décision est importante, plus l'analogie doit être vérifiée
+
+Concept clé
+Similarité pertinente:
+Seuls comptent les éléments qui influencent la conclusion.
+Si ces éléments diffèrent, l'analogie casse.
+
+Pourquoi c'est important
+Explique pourquoi :
+Les débats publics ont besoin de plus que des slogans
+Les finances d'une entreprise et celles d'une famille ne sont pas la même chose
+Même les bonnes comparaisons ont besoin de preuves
+
+L'implication inconfortable
+Une analogie peut sembler sage et être quand même fausse.
+C'est pour cela qu'il est dangereux d'arrêter de la vérifier.
+
+En une phrase
+False Analogy = comparer deux choses qui ne sont pas similaires sur les points qui comptent.`,
+  },
+  69: {
+    beginner: `False Analogy = comparer deux choses qui ne sont pas similaires sur les points qui comptent.`,
+    intermediate: `False Analogy
+
+Description:
+Deux choses peuvent se ressembler en surface tout en étant différentes sur l'essentiel.
+Une ressemblance superficielle ne suffit pas.
+
+Exemple (la vie et les chocolats)
+"La vie est comme une boîte de chocolats, donc il faut décider en devinant au hasard."
+C'est une phrase mémorable, pas un argument fiable.`,
+    expert: `False Analogy
+
+Description:
+Deux choses peuvent se ressembler en surface tout en étant différentes sur l'essentiel.
+Une ressemblance superficielle ne suffit pas.
+
+Exemple (la vie et les chocolats)
+"La vie est comme une boîte de chocolats, donc il faut décider en devinant au hasard."
+C'est une phrase mémorable, pas un argument fiable.
+
+Exemple (notes scolaires)
+"Les notes sont comme la météo, donc essayer de les mesurer précisément ne sert à rien."
+La comparaison paraît maligne, mais elle ne prouve rien.
+
+Comment ça fonctionne
+Le raisonnement utilise une image frappante pour glisser une conclusion.
+Si les deux choses ne partagent pas la bonne structure, l'image induit en erreur au lieu d'éclairer.
+
+Donc :
+Demandez ce qui est vraiment partagé et ce qui ne l'est pas
+Ne confondez pas le style avec la substance
+Une comparaison vivante peut quand même être un faible argument
+
+Concept clé
+Similarité pertinente:
+Seuls comptent les éléments qui influencent la conclusion.
+Si ces éléments diffèrent, l'analogie casse.
+
+Pourquoi c'est important
+Explique pourquoi :
+Les comparaisons qui sonnent bien peuvent propager de mauvais conseils
+Les enseignants et les rédacteurs doivent tester les métaphores
+On peut être persuadé par une image avant de vérifier la logique
+
+L'implication inconfortable
+Certaines phrases mémorables ne sont pas des arguments.
+Ce sont juste de bonnes phrases.
+
+En une phrase
+False Analogy = comparer deux choses qui ne sont pas similaires sur les points qui comptent.`,
+  },
+  70: {
+    beginner: `False Attribution = utiliser une source irrélevante, inconnue ou peu fiable pour soutenir une affirmation.`,
+    intermediate: `False Attribution
+
+Description:
+Une affirmation n'est pas plus forte juste parce que quelqu'un l'a dite.
+Si la source est vague, non qualifiée ou fausse, le soutien est faible.
+
+Exemple (source floue)
+"J'ai lu quelque part que les cacahuètes causent le cancer, mais je ne me souviens plus où."
+Sans vraie source, l'affirmation n'a pas d'appui solide.`,
+    expert: `False Attribution
+
+Description:
+Une affirmation n'est pas plus forte juste parce que quelqu'un l'a dite.
+Si la source est vague, non qualifiée ou fausse, le soutien est faible.
+
+Exemple (source floue)
+"J'ai lu quelque part que les cacahuètes causent le cancer, mais je ne me souviens plus où."
+Sans vraie source, l'affirmation n'a pas d'appui solide.
+
+Exemple (faux experts)
+"Des experts sont d'accord là-dessus, mais personne ne peut les nommer."
+Ce n'est pas une preuve ; c'est un déguisement de preuve.
+
+Comment ça fonctionne
+Le raisonnement emprunte de l'autorité à une source qu'on ne peut pas vérifier.
+Si la source manque, est hors sujet ou biaisée, l'affirmation ne devient pas plus solide.
+
+Donc :
+Demandez qui l'a dit et pourquoi cette source compte
+Une source floue doit faire baisser votre confiance
+Une vraie preuve survit à la vérification ; un faux appui non
+
+Concept clé
+Crédibilité de la source:
+La valeur d'une source dépend de l'expertise, de la pertinence et de la transparence.
+Si cela manque, la citation est faible.
+
+Pourquoi c'est important
+Explique pourquoi :
+Les rumeurs se propagent quand on se cache derrière "on m'a dit"
+Les mauvais arguments paraissent officiels quand ils nomment des experts anonymes
+L'esprit critique commence par vérifier qui parle
+
+L'implication inconfortable
+On peut rendre une affirmation plus crédible en rendant la source plus difficile à vérifier.
+C'est le truc.
+
+En une phrase
+False Attribution = utiliser une source irrélevante, inconnue ou peu fiable pour soutenir une affirmation.`,
+  },
+  71: {
+    beginner: `False Attribution = utiliser une source irrélevante, inconnue ou peu fiable pour soutenir une affirmation.`,
+    intermediate: `False Attribution
+
+Description:
+Une affirmation n'est pas plus forte juste parce que quelqu'un l'a dite.
+Si la source est vague, non qualifiée ou fausse, le soutien est faible.
+
+Exemple (amis d'amis)
+"Un ami d'un ami a dit que les vaccins causent l'autisme."
+Ce n'est pas une source digne de confiance ; c'est du ouï-dire en cascade.`,
+    expert: `False Attribution
+
+Description:
+Une affirmation n'est pas plus forte juste parce que quelqu'un l'a dite.
+Si la source est vague, non qualifiée ou fausse, le soutien est faible.
+
+Exemple (amis d'amis)
+"Un ami d'un ami a dit que les vaccins causent l'autisme."
+Ce n'est pas une source digne de confiance ; c'est du ouï-dire en cascade.
+
+Exemple (expert manquant)
+"Des experts disent que c'est vrai, mais personne ne peut en nommer un."
+C'est une affirmation d'autorité sans autorité exploitable.
+
+Comment ça fonctionne
+Le raisonnement s'appuie sur une source qu'on ne peut ni vérifier, ni juger, ni faire confiance.
+Une fois la source vague, l'affirmation devient beaucoup plus faible.
+
+Donc :
+Les sources nommées comptent
+L'autorité vague n'est pas une preuve
+Si vous ne pouvez pas vérifier la source, soyez prudent
+
+Concept clé
+Crédibilité de la source:
+La valeur d'une source dépend de l'expertise, de la pertinence et de la transparence.
+Si cela manque, la citation est faible.
+
+Pourquoi c'est important
+Explique pourquoi :
+Les experts vagues sont un outil classique de propagande
+On accepte plus facilement des affirmations faibles quand elles semblent officielles
+Vérifier les sources est une habitude de base de l'esprit critique
+
+L'implication inconfortable
+Si une source ne peut pas être nommée, vérifiée ou contestée, elle ne fait pas grand-chose.
+
+En une phrase
+False Attribution = utiliser une source irrélevante, inconnue ou peu fiable pour soutenir une affirmation.`,
+  },
+  72: {
+    beginner: `False Attribution = utiliser une source irrélevante, inconnue ou peu fiable pour soutenir une affirmation.`,
+    intermediate: `False Attribution
+
+Description:
+Une affirmation n'est pas plus forte juste parce que quelqu'un l'a dite.
+Si la source est vague, non qualifiée ou fausse, le soutien est faible.
+
+Exemple (experts anonymes)
+"Des experts sont d'accord avec ça."
+Si aucun expert n'est nommé, l'appel est vide.`,
+    expert: `False Attribution
+
+Description:
+Une affirmation n'est pas plus forte juste parce que quelqu'un l'a dite.
+Si la source est vague, non qualifiée ou fausse, le soutien est faible.
+
+Exemple (experts anonymes)
+"Des experts sont d'accord avec ça."
+Si aucun expert n'est nommé, l'appel est vide.
+
+Exemple (réseau social)
+"J'ai vu un post d'un spécialiste disant que c'était vrai."
+Si le spécialiste n'est pas identifiable, ce n'est pas un appui fiable.
+
+Comment ça fonctionne
+Le raisonnement utilise l'idée d'autorité sans fournir une vraie autorité.
+Cela permet de voler une confiance non méritée.
+
+Donc :
+Les autorités doivent être assez précises pour être vérifiées
+Un appui anonyme doit vous faire hésiter
+Les affirmations fortes ont besoin de sources traçables
+
+Concept clé
+Crédibilité de la source:
+La valeur d'une source dépend de l'expertise, de la pertinence et de la transparence.
+Si cela manque, la citation est faible.
+
+Pourquoi c'est important
+Explique pourquoi :
+Les experts vagues sont une astuce courante de propagande
+On accepte les affirmations faibles quand elles sonnent officielles
+La vérification des sources protège des mauvais conseils
+
+L'implication inconfortable
+Si une source ne peut pas être nommée, vérifiée ou contestée, elle ne fait pas grand-chose.
+
+En une phrase
+False Attribution = utiliser une source irrélevante, inconnue ou peu fiable pour soutenir une affirmation.`,
+  },
+  73: {
+    beginner: `False Balance = traiter des points de vue faibles et forts comme s'ils méritaient le même poids.`,
+    intermediate: `False Balance
+
+Description:
+Deux côtés ne sont pas toujours soutenus de façon égale.
+Leur donner le même poids peut cacher la vraie force des preuves.
+
+Exemple (couverture climatique)
+"Un scientifique et un complotiste ont eu le même temps d'antenne à la télévision."
+Même temps ne veut pas dire même preuve.`,
+    expert: `False Balance
+
+Description:
+Deux côtés ne sont pas toujours soutenus de façon égale.
+Leur donner le même poids peut cacher la vraie force des preuves.
+
+Exemple (couverture climatique)
+"Un scientifique et un complotiste ont eu le même temps d'antenne à la télévision."
+Même temps ne veut pas dire même preuve.
+
+Exemple (créationnisme)
+"Il faut présenter le créationnisme et l'évolution comme des théories également valables."
+Cela paraît équilibré, mais les preuves ne montrent pas un pied d'égalité.
+
+Comment ça fonctionne
+Le raisonnement crée une symétrie là où les preuves sont en réalité déséquilibrées.
+Cela peut rendre une position faible plus sûre qu'elle ne l'est.
+
+Donc :
+L'équité n'est pas la même chose que la crédibilité égale
+L'équilibre de la présentation peut devenir un déséquilibre de la vérité
+Il faut encore demander quel côté a les preuves
+
+Concept clé
+Pondération des preuves:
+Les arguments doivent être jugés selon la force de leur soutien.
+Même temps d'antenne ne veut pas dire même preuve.
+
+Pourquoi c'est important
+Explique pourquoi :
+Les médias peuvent exagérer les désaccords pour paraître neutres
+Le débat public peut aplatir le consensus des experts
+Une fausse équité peut rendre la désinformation respectable
+
+L'implication inconfortable
+La version qui paraît équilibrée est parfois moins honnête que la version déséquilibrée.
+
+En une phrase
+False Balance = traiter des points de vue faibles et forts comme s'ils méritaient le même poids.`,
+  },
+  74: {
+    beginner: `False Balance = traiter des points de vue faibles et forts comme s'ils méritaient le même poids.`,
+    intermediate: `False Balance
+
+Description:
+Deux côtés ne sont pas toujours soutenus de façon égale.
+Leur donner le même poids peut cacher la vraie force des preuves.
+
+Exemple (opinion d'expert)
+"Mettre à égalité l'opinion d'un expert et celle de quelqu'un qui n'y connaît rien."
+Donner autant de place aux deux peut faire paraître la position faible meilleure qu'elle ne l'est.`,
+    expert: `False Balance
+
+Description:
+Deux côtés ne sont pas toujours soutenus de façon égale.
+Leur donner le même poids peut cacher la vraie force des preuves.
+
+Exemple (opinion d'expert)
+"Mettre à égalité l'opinion d'un expert et celle de quelqu'un qui n'y connaît rien."
+Donner autant de place aux deux peut faire paraître la position faible meilleure qu'elle ne l'est.
+
+Exemple (mise en récit)
+"Un reportage donne le même poids à un chercheur médical et à une supposition au hasard."
+Ce n'est pas un journalisme neutre ; c'est un équilibre déformé.
+
+Comment ça fonctionne
+Le raisonnement confond traitement égal et soutien égal.
+Cela permet aux affirmations faibles de profiter du statut des fortes.
+
+Donc :
+Ne laissez pas le format cacher l'écart de preuves
+L'équilibre doit suivre les faits
+Une présentation équitable doit quand même respecter l'expertise
+
+Concept clé
+Pondération des preuves:
+Les arguments doivent être jugés selon la force de leur soutien.
+Même temps d'antenne ne veut pas dire même preuve.
+
+Pourquoi c'est important
+Explique pourquoi :
+Les titres peuvent créer de faux débats
+La confiance du public peut être mal placée quand toutes les voix sont traitées pareil
+Il faut demander qui est qualifié, pas seulement qui parle
+
+L'implication inconfortable
+L'équité sans jugement peut devenir un mensonge de symétrie.
+
+En une phrase
+False Balance = traiter des points de vue faibles et forts comme s'ils méritaient le même poids.`,
+  },
+  75: {
+    beginner: `False Balance = traiter des points de vue faibles et forts comme s'ils méritaient le même poids.`,
+    intermediate: `False Balance
+
+Description:
+Deux côtés ne sont pas toujours soutenus de façon égale.
+Leur donner le même poids peut cacher la vraie force des preuves.
+
+Exemple (opinion d'expert)
+"Mettre à égalité l'opinion d'un expert et celle de quelqu'un qui n'y connaît rien."
+Donner autant de place aux deux peut faire paraître la position faible meilleure qu'elle ne l'est.`,
+    expert: `False Balance
+
+Description:
+Deux côtés ne sont pas toujours soutenus de façon égale.
+Leur donner le même poids peut cacher la vraie force des preuves.
+
+Exemple (opinion d'expert)
+"Mettre à égalité l'opinion d'un expert et celle de quelqu'un qui n'y connaît rien."
+Donner autant de place aux deux peut faire paraître la position faible meilleure qu'elle ne l'est.
+
+Exemple (mise en récit)
+"Un reportage donne le même poids à un chercheur médical et à une supposition au hasard."
+Ce n'est pas un journalisme neutre ; c'est un équilibre déformé.
+
+Comment ça fonctionne
+Le raisonnement confond traitement égal et soutien égal.
+Cela permet aux affirmations faibles de profiter du statut des fortes.
+
+Donc :
+Ne laissez pas le format cacher l'écart de preuves
+L'équilibre doit suivre les faits
+Une présentation équitable doit quand même respecter l'expertise
+
+Concept clé
+Pondération des preuves:
+Les arguments doivent être jugés selon la force de leur soutien.
+Même temps d'antenne ne veut pas dire même preuve.
+
+Pourquoi c'est important
+Explique pourquoi :
+Les titres peuvent créer de faux débats
+La confiance du public peut être mal placée quand toutes les voix sont traitées pareil
+Il faut demander qui est qualifié, pas seulement qui parle
+
+L'implication inconfortable
+L'équité sans jugement peut devenir un mensonge de symétrie.
+
+En une phrase
+False Balance = traiter des points de vue faibles et forts comme s'ils méritaient le même poids.`,
+  },
+  76: {
+    beginner: `False Dichotomy = présenter deux options comme si elles étaient les seules.`,
+    intermediate: `False Dichotomy
+
+Description:
+Le locuteur prétend qu'il n'existe que deux choix.
+En réalité, il y en a souvent davantage.
+
+Exemple (avec nous ou contre nous)
+"Vous êtes soit avec nous, soit contre nous."
+Il existe souvent des positions intermédiaires, mixtes ou de non-position.`,
+    expert: `False Dichotomy
+
+Description:
+Le locuteur prétend qu'il n'existe que deux choix.
+En réalité, il y en a souvent davantage.
+
+Exemple (avec nous ou contre nous)
+"Vous êtes soit avec nous, soit contre nous."
+Il existe souvent des positions intermédiaires, mixtes ou de non-position.
+
+Exemple (politique)
+"Soit vous soutenez cette politique, soit vous détestez la liberté."
+Cela oublie le désaccord, la prudence et le soutien partiel.
+
+Comment ça fonctionne
+Le raisonnement force une question complexe dans une boîte à deux choix.
+Cela fait paraître un camp extrême et l'autre camp sûr.
+
+Donc :
+Cherchez le milieu manquant
+Beaucoup de débats ont plus de deux options honnêtes
+Un faux choix n'est pas un vrai choix
+
+Concept clé
+Faux choix:
+Un argument peut cacher la vraie gamme d'options en rétrécissant le menu.
+C'est ce qui rend le choix faux.
+
+Pourquoi c'est important
+Explique pourquoi :
+La politique devient souvent un sport d'équipe
+On presse les gens de choisir un camp trop vite
+La nuance disparaît quand tout est présenté en oui/non
+
+L'implication inconfortable
+La réalité est souvent plus compliquée que le raisonnement ne veut l'admettre.
+
+En une phrase
+False Dichotomy = présenter deux options comme si elles étaient les seules.`,
+  },
+  77: {
+    beginner: `False Dichotomy = présenter deux options comme si elles étaient les seules.`,
+    intermediate: `False Dichotomy
+
+Description:
+Le locuteur prétend qu'il n'existe que deux choix.
+En réalité, il y en a souvent davantage.
+
+Exemple (ma façon ou l'autoroute)
+"C'est soit à ma façon, soit la porte."
+Cela transforme la discussion en faux choix.`,
+    expert: `False Dichotomy
+
+Description:
+Le locuteur prétend qu'il n'existe que deux choix.
+En réalité, il y en a souvent davantage.
+
+Exemple (ma façon ou l'autoroute)
+"C'est soit à ma façon, soit la porte."
+Cela transforme la discussion en faux choix.
+
+Exemple (travail)
+"Vous pouvez être loyal ou être un traître."
+Cela ignore le désaccord honnête et le jugement indépendant.
+
+Comment ça fonctionne
+Le raisonnement rétrécit tellement le terrain qu'une réponse paraît être la seule sûre.
+Cela peut forcer les gens à être d'accord.
+
+Donc :
+Les vraies décisions vivent souvent au milieu
+Le cadrage extrême cache des alternatives utiles
+Vous n'êtes pas obligé d'accepter le faux menu
+
+Concept clé
+Faux choix:
+Un argument peut cacher la vraie gamme d'options en rétrécissant le menu.
+C'est ce qui rend le choix faux.
+
+Pourquoi c'est important
+Explique pourquoi :
+Les leaders utilisent le "ou bien/ou bien" pour couper court à la discussion
+Les équipes perdent de meilleures idées quand le milieu disparaît
+Les gens se sentent forcés de choisir alors qu'ils n'ont pas à le faire
+
+L'implication inconfortable
+Une fois le faux choix repéré, l'argument perd souvent sa force.
+
+En une phrase
+False Dichotomy = présenter deux options comme si elles étaient les seules.`,
+  },
+  78: {
+    beginner: `False Dichotomy = présenter deux options comme si elles étaient les seules.`,
+    intermediate: `False Dichotomy
+
+Description:
+Le locuteur prétend qu'il n'existe que deux choix.
+En réalité, il y en a souvent davantage.
+
+Exemple (c'est ma façon ou l'autoroute)
+"C'est ma façon ou l'autoroute."
+Cela transforme la discussion en faux choix.`,
+    expert: `False Dichotomy
+
+Description:
+Le locuteur prétend qu'il n'existe que deux choix.
+En réalité, il y en a souvent davantage.
+
+Exemple (c'est ma façon ou l'autoroute)
+"C'est ma façon ou l'autoroute."
+Cela transforme la discussion en faux choix.
+
+Exemple (travail)
+"Vous pouvez être loyal ou être un traître."
+Cela ignore le désaccord honnête et le jugement indépendant.
+
+Comment ça fonctionne
+Le raisonnement rétrécit tellement le terrain qu'une réponse paraît être la seule sûre.
+Cela peut forcer les gens à être d'accord.
+
+Donc :
+Les vraies décisions vivent souvent au milieu
+Le cadrage extrême cache des alternatives utiles
+Vous n'êtes pas obligé d'accepter le faux menu
+
+Concept clé
+Faux choix:
+Un argument peut cacher la vraie gamme d'options en rétrécissant le menu.
+C'est ce qui rend le choix faux.
+
+Pourquoi c'est important
+Explique pourquoi :
+Les leaders utilisent le "ou bien/ou bien" pour couper court à la discussion
+Les équipes perdent de meilleures idées quand le milieu disparaît
+Les gens se sentent forcés de choisir alors qu'ils n'ont pas à le faire
+
+L'implication inconfortable
+Une fois le faux choix repéré, l'argument perd souvent sa force.
+
+En une phrase
+False Dichotomy = présenter deux options comme si elles étaient les seules.`,
+  },
+  79: {
+    beginner: `False Equivalence = traiter deux choses différentes comme si elles étaient également graves ou également vraies.`,
+    intermediate: `False Equivalence
+
+Description:
+Deux choses peuvent être toutes deux mauvaises sans être aussi mauvaises l'une que l'autre.
+Deux affirmations peuvent être discutées sans avoir le même niveau de soutien.
+
+Exemple (critique et trahison)
+"Critiquer une politique, c'est la même chose que trahir."
+Cela transforme un désaccord en un acte bien plus grave et différent.`,
+    expert: `False Equivalence
+
+Description:
+Deux choses peuvent être toutes deux mauvaises sans être aussi mauvaises l'une que l'autre.
+Deux affirmations peuvent être discutées sans avoir le même niveau de soutien.
+
+Exemple (critique et trahison)
+"Critiquer une politique, c'est la même chose que trahir."
+Cela transforme un désaccord en un acte bien plus grave et différent.
+
+Exemple (échelle)
+"Une petite erreur et une vraie trahison, c'est pratiquement pareil."
+Cela aplatit les différences réelles de gravité et d'intention.
+
+Comment ça fonctionne
+Le raisonnement écrase les différences importantes en une seule étiquette.
+Cela fait paraître le locuteur malin tandis que la comparaison s'affaiblit.
+
+Donc :
+Un traitement égal n'est pas toujours juste
+Des torts différents demandent des réponses différentes
+Toutes les comparaisons ne doivent pas finir à égalité
+
+Concept clé
+Échelle:
+Les différences de gravité, de preuve ou d'impact comptent.
+Si vous ignorez l'échelle, vous déformez la question.
+
+Pourquoi c'est important
+Explique pourquoi :
+Les gens utilisent "c'est tout aussi grave" pour couper la discussion
+Les jugements moraux et juridiques ont besoin de proportion
+Voir la différence protège le bon raisonnement
+
+L'implication inconfortable
+Si tout est dit équivalent, plus rien ne peut être jugé correctement.
+
+En une phrase
+False Equivalence = traiter deux choses différentes comme si elles étaient également graves ou également vraies.`,
+  },
+  80: {
+    beginner: `False Equivalence = traiter deux choses différentes comme si elles étaient également graves ou également vraies.`,
+    intermediate: `False Equivalence
+
+Description:
+Deux choses peuvent être toutes deux mauvaises sans être aussi mauvaises l'une que l'autre.
+Deux affirmations peuvent être discutées sans avoir le même niveau de soutien.
+
+Exemple (petite erreur et grand crime)
+"Traiter une petite erreur et un grand crime comme la même chose."
+Cela efface l'échelle et rend le jugement impossible.`,
+    expert: `False Equivalence
+
+Description:
+Deux choses peuvent être toutes deux mauvaises sans être aussi mauvaises l'une que l'autre.
+Deux affirmations peuvent être discutées sans avoir le même niveau de soutien.
+
+Exemple (petite erreur et grand crime)
+"Traiter une petite erreur et un grand crime comme la même chose."
+Cela efface l'échelle et rend le jugement impossible.
+
+Exemple (doute et rejet)
+"Questionner une affirmation, c'est la même chose que la rejeter."
+Cela confond la réflexion prudente avec une conclusion figée.
+
+Comment ça fonctionne
+Le raisonnement enlève les différences qui comptent le plus.
+Une fois ces différences effacées, la conclusion paraît plus simple qu'elle ne devrait l'être.
+
+Donc :
+Demandez ce qui a été aplati
+Toutes les comparaisons n'ont pas le même poids
+Des torts et des affirmations différents demandent des standards différents
+
+Concept clé
+Échelle:
+Les différences de gravité, de preuve ou d'impact comptent.
+Si vous ignorez l'échelle, vous déformez la question.
+
+Pourquoi c'est important
+Explique pourquoi :
+Les débats publics se déforment avec le discours "tout est pareil"
+Le bon jugement dépend de la proportion
+Aplatir à l'excès peut excuser ou exagérer un tort
+
+L'implication inconfortable
+Quand tout est rendu égal, rien n'est vraiment compris.
+
+En une phrase
+False Equivalence = traiter deux choses différentes comme si elles étaient également graves ou également vraies.`,
   },
   63: {
     beginner: `## Appeal to Ignorance — approfondi (Débutant)

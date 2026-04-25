@@ -36,11 +36,67 @@ export const FOUNDATION_CONCEPT_DEFINITIONS: Record<string, { en: string; fr: st
 
 /** Map display concept label to glossary term when they differ (e.g. level label vs glossary entry). */
 const CONCEPT_TO_GLOSSARY_TERM: Record<string, string> = {
+  // English aliases
   'False Dilemma': 'False Dichotomy',
   'Hasty Generalization': 'Faulty Generalization',
   'Reversed Causality': 'Correlation Equals Causation',
   'Base Rate': 'Base Rate Fallacy',
-  'Appeal to Authority': 'Appeal to Authority',
+  'Oversimplified Cause': 'Causal Oversimplification',
+  
+  // French to English mappings (Level 1)
+  'Appel à l\'autorité': 'Appeal to Authority',
+  'Appel à la tradition': 'Appeal to Tradition',
+  'Appel à la popularité': 'Appeal to Popularity',
+  'Faux dilemme': 'False Dichotomy',
+  
+  // Level 2
+  'Fausse piste': 'Red Herring',
+  'Pente glissante': 'Slippery Slope',
+  'Généralisation hâtive': 'Faulty Generalization',
+  'Analogie faible': 'Weak Analogy',
+  'Appel à l\'émotion': 'Appeal to Emotion',
+  
+  // Level 3
+  'Cause inversée': 'Correlation Equals Causation',
+  'Cause simplifiée': 'Causal Oversimplification',
+  'Facteurs confondants': 'Confounding Factors',
+  
+  // Level 4
+  'Équivoque': 'Equivocation',
+  'Amphibologie': 'Amphiboly',
+  'Question piège': 'Loaded Question',
+  'Vaguité': 'Vagueness',
+  'Déplacer les poteaux': 'Moving the Goalposts',
+  
+  // Level 5
+  'Affirmation du conséquent': 'Affirming the Consequent',
+  'Négation de l\'antécédent': 'Denying the Antecedent',
+  'Terme moyen non distribué': 'Undistributed Middle',
+  
+  // Level 6
+  'Quantificateurs': 'Quantifiers',
+  'Portée logique': 'Logical Scope',
+  'Schémas valides vs invalides': 'Valid vs Invalid Schemas',
+  
+  // Level 7
+  'Fréquence de base': 'Base Rate Fallacy',
+  'Sophisme du joueur': 'Gambler\'s Fallacy',
+  'Sophisme du procureur': 'Prosecutor\'s Fallacy',
+  'Biais de survivance': 'Survivorship Bias',
+  
+  // Level 8
+  'Empoisonnement du puits': 'Poisoning the Well',
+  'Effet de cadrage': 'Framing Effect',
+  'Motte-et-bailey': 'Motte-and-Bailey',
+  
+  // Level 9
+  'Arguments mixtes': 'Mixed Arguments',
+  'Multi-sophismes': 'Multi-Fallacy',
+  'Dominant vs secondaire': 'Primary vs Secondary',
+  
+  // Level 10
+  'Mauvais usage des étiquettes de sophisme': 'Misuse of Fallacy Labels',
+  'Raisonnements solides mais impopulaires': 'Sound but Unpopular Reasoning',
 };
 
 /** French concept labels (from LEVELS conceptsFr) mapped to same foundation key for definition lookup. */

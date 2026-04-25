@@ -773,13 +773,13 @@ export const GLOSSARY_FR: GlossaryItem[] = [
   },
   {
     "term": "Loaded Question",
-    "definition": "Une erreur logique ou un biais cognitif impliquant Loaded Question, où le raisonnement est défaillant.",
+    "definition": "Poser une question qui contient une présupposition, de sorte qu'il soit impossible d'y répondre sans paraître coupable.",
     "levelRange": "1-10",
-    "detailedDescription": "Category: Biais Neural\\nLogic Type: Logique Informelle\\nStructure: Échec de structure de l'argument.",
-    "example": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n- Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale.\\n- Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique ce raisonnement spécifique, où le raisonnement est défaillant.\".",
-    "exampleBeginner": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique ce raisonnement spécifique, où le raisonnement est défaillant.\".",
-    "exampleIntermediate": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n- Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale.\\n- Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique ce raisonnement spécifique, où le raisonnement est défaillant.\".",
-    "exampleExpert": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n- Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale.\\n- Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n\\nEn analyse argumentative : Reconnaître ce schéma permet d'évaluer si les prémisses soutiennent la conclusion et d'éviter d'être influencé par des procédés non pertinents ou trompeurs. Le repérer dans le discours renforce votre esprit critique."
+    "detailedDescription": "Category: Rhetorical/Discourse Tactics\\nLogic Type: Logique Informelle\\nStructure: Échec de structure de l'argument.",
+    "example": "- Avez-vous arrêté de battre votre femme ?\\n- Pourquoi détestez-vous la liberté ?\\n- Quand avez-vous commencé à mentir à vos amis ?",
+    "exampleBeginner": "- Avez-vous arrêté de battre votre femme ?",
+    "exampleIntermediate": "- Avez-vous arrêté de battre votre femme ?\\n- Pourquoi détestez-vous la liberté ?\\n- Quand avez-vous commencé à mentir à vos amis ?",
+    "exampleExpert": "- Avez-vous arrêté de battre votre femme ?\\n- Pourquoi détestez-vous la liberté ?\\n- Quand avez-vous commencé à mentir à vos amis ?\\n\\nEn analyse argumentative : La question chargée force l'interlocuteur à accepter une prémisse non prouvée. Reconnaître ce piège aide à recadrer le débat sur des assertions vérifiables."
   },
   {
     "term": "Masked Man Fallacy",
@@ -1143,13 +1143,13 @@ export const GLOSSARY_FR: GlossaryItem[] = [
   },
   {
     "term": "Moving the Goalposts",
-    "definition": "Une erreur logique ou un biais cognitif impliquant Moving the Goalposts, où le raisonnement est défaillant.",
+    "definition": "Exiger de nouvelles preuves après que les preuves initiales ont été fournies, changeant ainsi les critères de succès.",
     "levelRange": "1-10",
-    "detailedDescription": "Category: Heuristique Système\\nLogic Type: Logique Informelle\\nStructure: Échec de structure de l'argument.",
-    "example": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique the ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n- Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable.\\n- Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique the ce raisonnement spécifique, où le raisonnement est défaillant.\".",
-    "exampleBeginner": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique the ce raisonnement spécifique, où le raisonnement est défaillant.\".",
-    "exampleIntermediate": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique the ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n- Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable.\\n- Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique the ce raisonnement spécifique, où le raisonnement est défaillant.\".",
-    "exampleExpert": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique the ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n- Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable.\\n- Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique the ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n\\nEn analyse argumentative : Reconnaître ce schéma permet d'évaluer si les prémisses soutiennent la conclusion et d'éviter d'être influencé par des procédés non pertinents ou trompeurs. Le repérer dans le discours renforce votre esprit critique."
+    "detailedDescription": "Category: Rhetorical/Discourse Tactics\\nLogic Type: Logique Informelle\\nStructure: Échec de structure de l'argument.",
+    "example": "- Prouvez-moi que ce vaccin marche. (Preuve donnée). Oui, mais prouvez-moi qu'il n'a aucun effet secondaire sur 50 ans !\\n- Un médium rate ses prédictions et prétend que c'est parce que les sceptiques ont 'bloqué' son énergie.",
+    "exampleBeginner": "- Exiger de nouvelles preuves après avoir reçu celles demandées.",
+    "exampleIntermediate": "- Prouvez-moi que ce vaccin marche. (Preuve donnée). Oui, mais prouvez-moi qu'il n'a aucun effet secondaire sur 50 ans !\\n- Rejet constant de la preuve par ajout de nouvelles conditions.",
+    "exampleExpert": "- Prouvez-moi que ce vaccin marche. (Preuve donnée). Oui, mais prouvez-moi qu'il n'a aucun effet secondaire sur 50 ans !\\n\\nEn analyse argumentative : On déplace les poteaux (les cages) pour éviter d'admettre qu'un argument a été réfuté. C'est une tactique de survie pour une thèse indéfendable."
   },
   {
     "term": "Etymological Fallacy",
@@ -1173,13 +1173,13 @@ export const GLOSSARY_FR: GlossaryItem[] = [
   },
   {
     "term": "Amphiboly",
-    "definition": "Une erreur logique ou un biais cognitif impliquant Amphiboly, où le raisonnement est défaillant.",
+    "definition": "Utiliser une syntaxe ou une structure de phrase ambiguë pour créer un double sens et prêter à confusion.",
     "levelRange": "1-10",
-    "detailedDescription": "Category: Biais Neural\\nLogic Type: Logique Informelle\\nStructure: Échec de structure de l'argument.",
-    "example": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n- Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale.\\n- Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique, où le raisonnement est défaillant.\".",
-    "exampleBeginner": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique, où le raisonnement est défaillant.\".",
-    "exampleIntermediate": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n- Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale.\\n- Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique, où le raisonnement est défaillant.\".",
-    "exampleExpert": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n- Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale.\\n- Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n\\nEn analyse argumentative : Reconnaître ce schéma permet d'évaluer si les prémisses soutiennent la conclusion et d'éviter d'être influencé par des procédés non pertinents ou trompeurs. Le repérer dans le discours renforce votre esprit critique."
+    "detailedDescription": "Category: Rhetorical/Discourse Tactics\\nLogic Type: Logique Informelle\\nStructure: Échec de structure de l'argument.",
+    "example": "- J'ai vu un homme avec un télescope (Qui avait le télescope ?).\\n- Sauvons l'homme de la morsure de l'ours (L'ours mord qui ?).\\n- Phrases mal construites menant à des interprétations fausses.",
+    "exampleBeginner": "- J'ai vu un homme avec un télescope (Ambiguïté sur qui porte le télescope).",
+    "exampleIntermediate": "- J'ai vu un homme avec un télescope.\\n- La prédiction du médium était ambiguë : 'Tu vaincras l'ennemi' (mais lequel ?).",
+    "exampleExpert": "- J'ai vu un homme avec un télescope.\\n\\nEn analyse argumentative : L'amphibologie exploite le flou grammatical pour glisser une conclusion qui ne suit pas nécessairement de la prémisse si celle-ci est clarifiée."
   },
   {
     "term": "Fallacy of Quoting Out of Context",
@@ -1663,13 +1663,13 @@ export const GLOSSARY_FR: GlossaryItem[] = [
   },
   {
     "term": "Equivocation",
-    "definition": "Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.",
+    "definition": "Utiliser un terme polysémique (qui a plusieurs sens) au cours d'un même argument comme s'il n'en avait qu'un seul.",
     "levelRange": "1-10",
-    "detailedDescription": "Category: Heuristique Système\\nLogic Type: Logique Informelle\\nStructure: Échec de structure de l'argument.",
-    "example": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.\".\\n- Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé.\\n- Lorsqu'une personne soutient que : \"Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.\".",
-    "exampleBeginner": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.\".",
-    "exampleIntermediate": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.\".\\n- Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé.\\n- Lorsqu'une personne soutient que : \"Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.\".",
-    "exampleExpert": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.\".\\n- Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé.\\n- Lorsqu'une personne soutient que : \"Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.\".\\n\\nEn analyse argumentative : Reconnaître ce schéma permet d'évaluer si les prémisses soutiennent la conclusion et d'éviter d'être influencé par des procédés non pertinents ou trompeurs. Le repérer dans le discours renforce votre esprit critique."
+    "detailedDescription": "Category: Rhetorical/Discourse Tactics\\nLogic Type: Logique Informelle\\nStructure: Échec de structure de l'argument.",
+    "example": "- Les fins justifient les moyens (La mort est la fin de la vie, donc elle justifie tout ? Non, ici 'fin' change de sens).\\n- Tout ce qui est rare est cher. Un cheval bon marché est rare. Donc un cheval bon marché est cher.",
+    "exampleBeginner": "- Les fins justifient les moyens (Confusion sur le sens du mot 'fin').",
+    "exampleIntermediate": "- Les fins justifient les moyens.\\n- Un cheval bon marché est rare. Tout ce qui est rare est cher. Donc un cheval bon marché est cher.",
+    "exampleExpert": "- Tout ce qui est rare est cher. Un cheval bon marché est rare. Donc un cheval bon marché est cher.\\n\\nEn analyse argumentative : L'équivoque crée une illusion de validité en faisant passer un mot pour un autre sous une apparence identique. C'est un jeu de dupes linguistique."
   },
   {
     "term": "Ambiguity fallacy",
@@ -3000,5 +3000,15 @@ export const GLOSSARY_FR: GlossaryItem[] = [
     "exampleBeginner": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique, où le raisonnement est défaillant.\".",
     "exampleIntermediate": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n- Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire.\\n- Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique, où le raisonnement est défaillant.\".",
     "exampleExpert": "- Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n- Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire.\\n- Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant ce raisonnement spécifique, où le raisonnement est défaillant.\".\\n\\nEn analyse argumentative : Reconnaître ce schéma permet d'évaluer si les prémisses soutiennent la conclusion et d'éviter d'être influencé par des procédés non pertinents ou trompeurs. Le repérer dans le discours renforce votre esprit critique."
+  },
+  {
+    "term": "Vagueness",
+    "definition": "Utiliser un langage imprécis ou flou pour éviter de s'engager sur une position claire ou pour masquer un manque de preuves.",
+    "levelRange": "1-10",
+    "detailedDescription": "Category: Rhetorical/Discourse Tactics\nLogic Type: Informal Logic\nStructure: Échec de précision de l'argument.",
+    "example": "- Nous devons augmenter la 'flexibilité' du marché du travail (sans définir ce que 'flexibilité' signifie).\n- Le produit offre une 'performance améliorée' (sans préciser par rapport à quoi).\n- 'Certaines personnes' disent que c'est une mauvaise idée (sans identifier qui).",
+    "exampleBeginner": "- Nous devons augmenter la 'flexibilité' du marché du travail (sans définir ce que 'flexibilité' signifie).",
+    "exampleIntermediate": "- Nous devons augmenter la 'flexibilité' du marché du travail (sans définir ce que 'flexibilité' signifie).\n- Le produit offre une 'performance améliorée' (sans préciser par rapport à quoi).\n- 'Certaines personnes' disent que c'est une mauvaise idée (sans identifier qui).",
+    "exampleExpert": "- Nous devons augmenter la 'flexibilité' du marché du travail (sans définir ce que 'flexibilité' signifie).\n- Le produit offre une 'performance améliorée' (sans préciser par rapport à quoi).\n- 'Certaines personnes' disent que c'est une mauvaise idée (sans identifier qui).\n\nEn analyse argumentative : La vaguité permet à un locuteur de paraître compétent tout en évitant d'être pris en défaut par des faits précis. Repérer ce flou permet d'exiger la clarté nécessaire à une évaluation honnête."
   }
 ];

@@ -165,7 +165,7 @@ export const LEVELS: LevelInfo[] = [
     level: 4,
     persona: PersonaStage.SMALL_FISH,
     conceptsEn: ["Equivocation", "Amphiboly", "Loaded Question", "Vagueness", "Moving the Goalposts"],
-    conceptsFr: ["Équivoque", "Amphibologie", "Question piège", "Vagueness", "Déplacer les poteaux"],
+    conceptsFr: ["Équivoque", "Amphibologie", "Question piège", "Vaguité", "Déplacer les poteaux"],
     concepts: ["Equivocation", "Amphiboly", "Loaded Question", "Vagueness", "Moving the Goalposts"],
     description: "Ambiguity and language. Spot wordplay, grammatical ambiguity, loaded questions, vagueness, and shifting standards.",
     color: "#06b6d4",

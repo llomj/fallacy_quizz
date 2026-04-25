@@ -89,10 +89,10 @@
 | 1–20 | **20 / 20** | NEW FORMAT ✅ EN: Ad Hominem (1–3), Appeal to Authority (4–6), Appeal to Tradition (7–9), Appeal to Novelty (10–12), Appeal to Popularity (13–15), Appeal to Emotion (16–18), Appeal to Fear (19–20). FR: Ad Hominem (1–3), Ad Hominem Abusif (4–6), Ad Hominem Circonstanciel (7–9), Tu Quoque (10–12), Appel à l'Autorité (13–15), Appel à la Fausse Autorité (16–18), Appel à l'Autorité Anonyme (19–20). |
 | 21–40 | **20 / 20** | NEW FORMAT ✅ EN: Appeal to Fear (21), Appeal to Ignorance (22–24), Appeal to Incredulity (25–27), Anecdotal Fallacy (28–30), Availability Heuristic (31–33), Base Rate Fallacy (34–36), Begging the Question (37–39), Biased Sample (40). FR: Appel Autorité Anonyme (21), Appel à la Tradition (22–24), Appel à la Nouveauté (25–27), Appel à la Popularité (28–30), Appel à la Majorité (31–33), Effet de Mode/Bandwagon (34–36), Appel à l'Émotion (37–39), Appel à la Peur (40). |
 | 41–60 | **20 / 20** | NEW FORMAT ✅ EN+FR complete. |
-| 61–80 | **0 / 20** | NEW FORMAT — to do (Batch 4) |
+| 61–80 | **20 / 20** | NEW FORMAT ✅ EN+FR complete. |
 | 81–90 | **0 / 10** | NEW FORMAT — to do (Batch 5, 10 IDs) |
 
-**Completed IDs (Level 1) — NEW FORMAT:** **20 / 90** (Batch 1–2 done; Batch 3 complete here)
+**Completed IDs (Level 1) — NEW FORMAT:** **40 / 90** (Batches 1–4 done; Batch 4 complete here)
 
 ---
 
@@ -153,7 +153,7 @@
 - Keep `AGENTS.md` glossary and `glossary.md` consistency for fallacy definitions.  
 - After completing a batch, update the **Range** table and **Last updated** below.
 
-**Last updated:** 2026-04-25 (Batch 3 complete; next up: 61–80)
+**Last updated:** 2026-04-25 (Batch 4 complete; next up: 81–90)
 
 ### Next steps (optional, not blocking)
 

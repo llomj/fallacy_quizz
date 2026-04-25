@@ -3,8 +3,18 @@ import React from 'react';
 /**
  * Lines that start with a numbered step marker (digit(s), period, space) per AGENTS.md §14.
  * Renders the marker in the app yellow accent; rest of the line uses bodyClassName.
+ *
+ * Also highlights section header lines used in the two-tier Detail panel format:
+ *   Description:, Description :, Example (...), Exemple (...),
+ *   How it works, Comment ça fonctionne, Why it matters, Pourquoi c'est important,
+ *   One-line version, En une phrase, The uncomfortable implication, L'implication inconfortable,
+ *   Key concept inside it, Concept clé, So:, Donc :, Why this is a fallacy,
+ *   and any line that is exactly a fallacy name header (the first non-blank line of a Detail block).
  */
 const STEP_LINE = /^(\d{1,3})\.\s(.*)$/;
+
+/** Header lines that get yellow accent highlight in the Detail panel. */
+const HEADER_LINE = /^(Description\s*:|Description\s*：|Example\s*\(|Exemple\s*\(|How it works|Comment ça fonctionne|Why it matters|Pourquoi c'est important|One-line version|En une phrase|The uncomfortable implication|L'implication inconfortable|Key concept inside it|Concept clé|So:|Donc\s*:|Why this is a fallacy|Pourquoi c'est une erreur|The formula|La formule|Explains why:|Explique pourquoi\s*:)(.*)$/;
 
 export type ExplanationWithStepNumbersProps = {
   text: string;
@@ -26,16 +36,25 @@ export function ExplanationWithStepNumbers({
   return (
     <div className={`whitespace-pre-wrap leading-relaxed ${bodyClassName} ${className}`.trim()}>
       {lines.map((line, idx) => {
-        const m = line.match(STEP_LINE);
         const prefix = idx > 0 ? '\n' : '';
-        if (m) {
+        const stepMatch = line.match(STEP_LINE);
+        if (stepMatch) {
           return (
             <span key={idx}>
               {prefix}
               <span className={stepClassName}>
-                {m[1]}.{' '}
+                {stepMatch[1]}.{' '}
               </span>
-              {m[2]}
+              {stepMatch[2]}
+            </span>
+          );
+        }
+        const headerMatch = line.match(HEADER_LINE);
+        if (headerMatch) {
+          return (
+            <span key={idx}>
+              {prefix}
+              <span className={stepClassName}>{line}</span>
             </span>
           );
         }
@@ -49,3 +68,4 @@ export function ExplanationWithStepNumbers({
     </div>
   );
 }
+

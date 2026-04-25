@@ -18,12 +18,14 @@
 - **Glossary Source of Truth**: The `glossary.md` file is the master reference for all logical fallacy and argumentation definitions.
 - **Consistency Rule**: All definitions must be consistent with `glossary.md`.
 - **Pre-Change Check**: Agents must always consult `ps.md` and `planning.md` before making changes.
-- **In-depth authoring progress**: Agents must always consult **`task.md`** at the repo root for unique per-question in-depth explanations (EN/FR parity, beginner/intermediate/expert), which files to edit, and what is already complete. Standalone maps cover Level **0** (IDs 1001–1300), Level **1** (1–90), and Levels **2–10** (91–900); see `task.md` for regeneration scripts when question banks change.
+- **In-depth authoring progress**: Agents must always consult **`task.md`** at the repo root for unique per-question in-depth explanations (EN/FR parity, **beginner / detail** two-tier format), which files to edit, and what is already complete. Standalone maps cover Level **0** (IDs 1001–1300), Level **1** (1–90), and Levels **2–10** (91–900); see `task.md` for regeneration scripts when question banks change.
+- **Batch memory**: `task.md` is the source of truth for which batch is complete and what comes next. Check it before starting a batch, and update it immediately after finishing one so the next agent can continue without guessing.
 - **Debugging Reference**: Agents must always consult `ps.md` for debugging information and urgent issues.
 
 ## 4. The 900-Question Genome Goal
 - **Current State**: 900 logical fallacy questions. All 900 must be unique with distinct argumentative scenarios.
-- **In-depth UI (beginner / intermediate / expert)**: EN+FR standalone panels for fallacy IDs **1–900** are wired via `level1StandaloneInDepth.ts` and `level2to10StandaloneInDepth.ts`; Level **0** uses `level0StandaloneInDepth.ts` (1001–1300). **Authoring tracker:** `task.md`.
+- **In-depth UI (beginner / detail)**: EN+FR standalone panels for fallacy IDs **1–900** are wired via `level1StandaloneInDepth.ts` and `level2to10StandaloneInDepth.ts`; Level **0** uses `level0StandaloneInDepth.ts` (1001–1300). The new **two-tier format** (beginner = one-liner; detail = full breakdown) replaces the old beginner/intermediate/expert system. **Authoring tracker:** `task.md`.
+- **Codon display contract**: when a codon / fallback explanation is shown, `Beginner` means the one-line version only; `Intermediate` means `Description` + `Example` only; `Expert` means the full breakdown, including `How it works`, `So:`, `Key concept inside it`, `Why it matters`, `The uncomfortable implication`, and `One-line version`. English and French must stay structurally identical.
 - **Status**: Logical fallacy genome IN PROGRESS. Existing CLI question genome is archived/legacy and must not be used for new gameplay content.
 - **Diversity Rule**: Use at least 10 reasoning templates per stage so students encounter varied argument structures and conceptual challenges (e.g. causal, analogical, statistical, rhetorical).
 
@@ -54,7 +56,7 @@ Before any commit that should go live, confirm with `git remote -v` that you wil
 - **Goal**: Transform this app into a fully bilingual experience (English and French). This is critical.
 - **Full French Mode**: When the user selects French, **all** visible UI text and explanations must appear in French (navigation, buttons, panels, short explanations, detailed explanations, and advanced panels like Code Versatility).
 - **Structural Parity**: French detailed explanations (explication du codon / description approfondie) must be structurally identical to the English versions: same sections (Key concepts, How it works, Examples, Common uses, Edge cases, etc.), same level of detail. Concrete argument texts can be localized, but the logical structure and pedagogical depth must match.
-- **Standalone rewrites (EN + FR together):** When reworking Level 0 (or any level) standalone in-depth panels to the plain, step-by-step style in §14, agents must update **both** `LEVEL_0_STANDALONE_EN` **and** `LEVEL_0_STANDALONE_FR` for the **same ID range**—not English-only. French entries use the **same** beginner / intermediate / expert structure and clarity standard; scenario wording follows the **French** question bank (`LEVEL_0_GEN_FR`, etc.) where EN/FR differ for an ID (see §3 / `task.md`). Do not treat French as an optional follow-up.
+- **Standalone rewrites (EN + FR together):** When reworking Level 0 (or any level) standalone in-depth panels to the new two-tier style in §14, agents must update **both** `LEVEL_0_STANDALONE_EN` **and** `LEVEL_0_STANDALONE_FR` for the **same ID range**—not English-only. French entries use the **same** beginner / detail structure and clarity standard; scenario wording follows the **French** question bank (`LEVEL_0_GEN_FR`, etc.) where EN/FR differ for an ID (see §3 / `task.md`). Do not treat French as an optional follow-up.
 - **French must match English presentation (no “markdown drift”):** For each ID, French panels must read with the **same** plain layout as English: same use of numbered steps, blank lines between steps, and comparable density of emphasis—**not** a heavier French style (bold titles on every line, **En résumé :**, **À ne pas confondre :**, stacked labels) while English is already simplified. Learners toggling **French mode** should see the same lesson shape, not a more formatted spec sheet. If English is updated first, **immediately** align French for that ID before moving on.
 - **Fallback Rule**: Only fall back to English when a French translation truly does not exist yet; once added, the French version must fully mirror the English content in depth and structure.
 
@@ -88,35 +90,149 @@ Before any commit that should go live, confirm with `git remote -v` that you wil
 - **Separate points**: Level mode and Random mode each have their own point system. Level mode uses `xp`; Random mode uses `randomModeXp`. Points must never be shared or carried over between modes. When the user is in Random mode, the UI (e.g. nav bar bolt/XP) must show only Random-mode points (starting at 0 when they have not yet earned any in Random). When in Level mode, show only Level-mode `xp`.
 - **Start level**: When a user starts the game (fresh state), the game starts on **level 0**, not level 1. Initial state must use `currentLevel: 0` and `highestUnlockedLevel: 0`. Do not default new users to level 1.
 
-## 14. Codon / in-depth explanations — quality overhaul (TRACKED TASK)
+## 14. Codon / in-depth explanations — NEW FORMAT OVERHAUL (LAST BIG TASK)
 
-**Status:** In progress. **Work order:** Start at **Level 0** (question IDs **1001–1300**, `level0StandaloneInDepth.ts`), then Level **1** (1–90), then Levels **2–10** (91–900). Do not skip ahead; advance only when the current band meets the quality bar below. Detailed authoring progress and file references: **`task.md`** (EN/FR parity required per §6).
+> **This is the final major content task for the app. Do not skip it or defer it.**
 
-**Problem to fix:** Codon explanations (beginner / intermediate / expert panels) must not read as **generic, robotic, or lifeless**. They must help users **detect logical fallacies in real arguments**—this is core pedagogy for a learning tool.
+**Status:** IN PROGRESS — working through all IDs **1–90** (Level 1) first, then **91–900** (Levels 2–10), then **1001–1300** (Level 0), in batches of **20**, English and French in the **same pass**. Track progress in **`task.md`**.
 
-**Per-question specificity:** Each explanation should **tie to the actual question/scenario** where it adds value—especially at **beginner** level—so the learner sees *why* this stem illustrates the fallacy, not a boilerplate definition dump.
+---
 
-**By depth (English + French, structurally aligned per §6):**
+### The new two-tier format (replaces beginner / intermediate / expert)
 
-| Depth | Purpose |
-|-------|---------|
-| **Beginner** | Short, plain-language explanation **grounded in the question**—simple and specific enough that a new learner connects stem → fallacy. |
-| **Intermediate** | Somewhat more verbose; use **additional examples** (they may differ from the question) that **clearly illustrate** the same fallacy pattern in varied contexts. |
-| **Expert** | Deeper analysis: nuance, edge cases, and **distinct expert content**—**do not repeat** the same illustrative examples used at intermediate (or duplicate the stem). Add **distinctions** where useful: e.g. “not to be confused with…”, “similar to… but differs because…”, related fallacies. |
+The old three-tier system (beginner / intermediate / expert) is **abolished**. Replace it with:
 
-**Commercial / education alignment:** Store-bound apps (§7) compete on clarity and trust. Explanations are a primary product surface: they must read as **human, precise, and educational**, suitable for users who may have no prior logic training.
+| Tier | Purpose | Length |
+|------|---------|--------|
+| **Beginner** | A single plain sentence — the one-line version of the fallacy for this question. | 1 sentence max |
+| **Detail** | A full structured breakdown in the Weber-Fechner style below. | ~200–350 words |
 
-**Plain, step-by-step presentation (mandatory):** In-depth text must be **easy to read and follow**—like a short lesson plan, not a wall of formatting or jargon.
+There is no "intermediate" or "expert" tab anymore. The UI shows **Beginner** and **Detail** only.
 
-- **Step by step:** Where the logic is not obvious, use **numbered steps** (1, 2, 3…) so the learner can follow the reasoning in order. Prefer **one clear path** over dense prose.
-- **Number formatting (readability):** Always put **one space after the period** in each list marker before the text: write `1. ` `2. ` `3. ` (digit, period, space, then content)—not `1.Text` jammed together. **Between steps,** insert a **blank line** (double newline in the string) so each numbered item is visually separated in the panel and easier to scan. Apply the same rule to **English and French** in-depth strings.
-- **Step numbers in the UI:** In the app, **only** the step marker at the **start of a line** matching that pattern (`N. `) is rendered in the **yellow accent** used for in-depth controls—the same family as **“Show detailed explanation”** / in-depth section headings (`text-yellow-400` on the main quiz card; `text-yellow-300` in ID log, learning log, and search-by-ID panels). The rest of each line keeps the normal body color so lists scan clearly. Implementation: **`ExplanationWithStepNumbers`** (`src/components/ExplanationWithStepNumbers.tsx`). If panel typography changes, keep step styling consistent with those controls.
-- **Plain language:** Short sentences. Explain **what to do** on the question (e.g. “First find the premise…”) before naming technical labels.
-- **Avoid markdown-heavy “label soup”:** Do **not** pack panels with excessive bold, repeated headers (**Takeaway:**, **Not to be confused with:**, **Different example:**) on every line, or stacks of inline emphasis that look like a spec sheet. Light emphasis is fine when it helps; **readability and teaching** come first.
-- **Structure over decoration:** A clear **plan** (steps + short wrap-up) beats stylistic flourishes. Intermediate may still use **one** extra example when it teaches; expert may still give distinctions—without turning every paragraph into a formatted checklist.
+---
 
-**English and French in the same pass (mandatory):** A content pass is **incomplete** if only one language is updated. For Level 0 standalone maps in `level0StandaloneInDepth.ts`, every ID band you rewrite in **English** must have the matching **French** entries rewritten to the same standard: plain language, numbered steps where helpful, no label soup, same three tiers. French must align with **`LEVEL_0_GEN_FR`** (and French bank rules) for each ID—some IDs differ from English; French text is **not** a blind translation when the scenario differs. **Presentation parity:** French must not use more markdown or labeling than English for the same ID (§6 “markdown drift”). Higher levels: apply the same rule to `level1StandaloneInDepth.ts` / `level2to10StandaloneInDepth.ts` (EN + FR maps) when those bands are in scope.
+### Detail panel format (MANDATORY — follow exactly)
 
-**Agent checklist when authoring or reviewing in-depth content:** glossary-consistent (§3); no placeholder tone; beginner tied to the question; **plain + step-by-step** presentation per bullets above; **EN + FR for the same IDs** (§6 standalone bullet); intermediate adds varied examples where they teach (not for decoration); expert adds depth without recycling examples; Level 0 → Level 1 → higher levels in order; update **`task.md`** as sections complete.
+The Detail panel must look like the reference example below. **Section headers must use syntax highlighting** (rendered as highlighted/accented text — `text-yellow-400` family — in the app). Use this structure:
 
-**Batch counting (Level 0):** IDs **1001–1300** = **300** questions = **30** batches if each batch is **10** consecutive IDs. There are **not** 100 Level 0 batches—continue batch numbering across levels if you need a long-running count (e.g. Level 1 batches after Level 0’s 30).
+```
+[Fallacy Name]
+
+Description:
+[One or two sentences — core idea, plain language.]
+[Memorable contrast line if helpful.]
+
+Example ([label])
+[Concrete bullet-style lines showing the fallacy in action]
+[Short punchy conclusion line]
+
+Example ([label])
+[A second example in a different context]
+[Short punchy conclusion line]
+
+[Section heading — e.g. "How it works" or "Why this is a fallacy"]
+[Short plain-language explanation of the mechanism]
+
+So:
+[Two or three bullet consequences]
+
+Key concept inside it
+[Term]:
+[Short definition, 1–2 lines]
+
+Why it matters
+Explains why:
+[2–4 real-world bullet applications]
+
+The uncomfortable implication
+[One or two candid, punchy lines about what this means for reasoning.]
+
+One-line version
+[Fallacy Name] = [plain-language definition in one clause].
+```
+
+**Reference example (Weber-Fechner Law — use as a style template):**
+
+```
+Weber-Fechner Law
+
+Description:
+The noticeable change in a stimulus depends on its proportion, not its size.
+Same change ≠ same perception.
+
+Example (weight)
+Add 1 kg to 2 kg → very noticeable
+Add 1 kg to 50 kg → barely noticeable
+
+Same increase. Completely different experience.
+
+Example (money)
+Gaining $100 when you have $200 → significant
+Gaining $100 when you have $1,000,000 → irrelevant
+
+Your perception scales with context.
+
+The formula (simplified idea)
+Perceived intensity grows roughly like a logarithm of actual intensity.
+
+So:
+Big increases → feel smaller over time
+Small changes → only noticeable when they pass a threshold
+
+Key concept inside it
+Just Noticeable Difference (JND):
+The smallest change you can detect
+It scales proportionally with the original stimulus
+
+Why it matters
+Explains why:
+Loud music needs bigger increases to feel louder
+Price changes affect poor and rich people differently
+Marketing plays with "perceived value"
+
+The uncomfortable implication
+Your senses don't measure reality.
+They measure relative differences.
+
+One-line version
+Weber–Fechner Law = you perceive changes proportionally, not absolutely.
+```
+
+---
+
+### Rules for writing Detail panels
+
+- **Headers must be syntax-highlighted** in the UI. The following section header lines are rendered in the yellow accent (`text-yellow-300 font-semibold`) by `ExplanationWithStepNumbers.tsx`:
+  - `Description:` / `Description :`
+  - `Example (…)` / `Exemple (…)`
+  - `How it works` / `Comment ça fonctionne`
+  - `Why it matters` / `Pourquoi c'est important`
+  - `One-line version` / `En une phrase`
+  - `The uncomfortable implication` / `L'implication inconfortable`
+  - `Key concept inside it` / `Concept clé`
+  - `So:` / `Donc :`
+  - `Why this is a fallacy` / `Pourquoi c'est une erreur`
+  - `The formula` / `La formule`
+  - `Explains why:` / `Explique pourquoi :`
+  Use these exact strings as your section headers — they are pattern-matched by the renderer. Do not use markdown `##` or `**` for these headers; plain text is correct.
+- **Plain language only.** No jargon without a definition. Write for someone with no logic training.
+- **No label soup.** Do not stack bold labels on every line. Use headers + plain prose/bullets.
+- **Concrete examples.** Every Detail panel needs at least **two examples** in different contexts.
+- **One-line version is mandatory.** It must appear at the bottom of every Detail panel AND is the text shown in the **Beginner** tier.
+- **EN + FR in the same batch pass.** A batch is incomplete if French is missing. French must follow the same structure and be written in natural French — not a word-for-word translation when the scenario differs for that ID (check `LEVEL_0_GEN_FR` / `FALLACY_QUESTIONS_FR`).
+- **20 questions per batch.** Process 20 IDs at a time. Do not jump ahead.
+- **Presentation parity (§6):** French must not use more markdown or heavier formatting than English for the same ID.
+
+---
+
+**Agent checklist — each batch of 20:**
+
+1. Read the exact question + answer options for each ID in both EN and FR banks.
+2. Write **Beginner** (one-liner) + **Detail** (structured breakdown) for all 20 IDs in English.
+3. Write the **French** Beginner + Detail for the same 20 IDs in the same pass.
+4. Ensure section headers in the Detail panel are consistently marked for syntax highlighting.
+5. Check glossary consistency (§3).
+6. Update **`task.md`** progress table after the batch.
+7. Run `npm run build` before committing.
+
+**Batch counting:** IDs **1–90** = 5 batches of 20 (Level 1). IDs **91–900** = 41 batches of 20 (Levels 2–10, last batch = 2 IDs). IDs **1001–1300** = 15 batches of 20 (Level 0).
