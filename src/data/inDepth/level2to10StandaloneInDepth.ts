@@ -16415,1894 +16415,1204 @@ One-line version
 Cherry Picking = Selecting only the data that supports your argument while ignoring the rest.`,
   },
   501: {
-    beginner: `## Cherry Picking — in-depth (Beginner)
+    beginner: `undefined = Selecting only the data that supports your argument while ignoring the rest.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Selecting only the data that supports your argument while ignoring the rest.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« Highlighting successes of a policy but not its failures. »  
+Example (question)
+« Highlighting successes of a policy but not its failures. »
+undefined
 
-**Why this is Cherry Picking**  
-Selecting only the data that supports your argument while ignoring the rest. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Selecting only the data that supports your argument while ignoring the rest.`,
-    intermediate: `## Cherry Picking — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Selecting only the data that supports your argument while ignoring the rest.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Highlighting successes of a policy but not its failures. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Cherry Picking** in action: selecting only the data that supports your argument while ignoring the rest.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Picture a news headline or social post. People often reason as if selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Selecting only the data that supports your argument while ignoring the rest.
-
-**In one sentence**  
-Cherry Picking is the label for reasoning that fits: Selecting only the data that supports your argument while ignoring the rest.`,
-    expert: `## Cherry Picking — in-depth (Expert)
-
-**Definition**  
-Selecting only the data that supports your argument while ignoring the rest.
-
-**Applied to this passage**  
-« Highlighting successes of a policy but not its failures. »  
-
-Here, **Cherry Picking** is the right name because selecting only the data that supports your argument while ignoring the rest.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 2:** Picture a news headline or social post. People often reason as if selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 4:** Another everyday spot: school grades or test scores. Selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Cherry Picking** means Selecting only the data that supports your argument while ignoring the rest.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Selecting only the data that supports your argument while ignoring the rest.`,
   },
   502: {
-    beginner: `## Circular Reasoning — in-depth (Beginner)
+    beginner: `undefined = Reasoning where the end of an argument comes back to the beginning without proving anything.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« The Bible is the Word of God because God tells us it is... in the Bible. »  
+Example (question)
+« The Bible is the Word of God because God tells us it is... in the Bible. »
+undefined
 
-**Why this is Circular Reasoning**  
-Reasoning where the end of an argument comes back to the beginning without proving anything. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.`,
-    intermediate: `## Circular Reasoning — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« The Bible is the Word of God because God tells us it is... in the Bible. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Circular Reasoning** in action: reasoning where the end of an argument comes back to the beginning without proving anything.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if reasoning where the end of an argument comes back to the beginning without proving anything.
+The uncomfortable implication
+undefined
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 3:** Another everyday spot: sports or business results. Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**In one sentence**  
-Circular Reasoning is the label for reasoning that fits: Reasoning where the end of an argument comes back to the beginning without proving anything.`,
-    expert: `## Circular Reasoning — in-depth (Expert)
-
-**Definition**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**Applied to this passage**  
-« The Bible is the Word of God because God tells us it is... in the Bible. »  
-
-Here, **Circular Reasoning** is the right name because reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 3:** Another everyday spot: sports or business results. Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 4:** **Setting:** a family argument. **What goes wrong:** Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 5:** Imagine a policy or workplace discussion. The slip is the same: reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Circular Reasoning** means Reasoning where the end of an argument comes back to the beginning without proving anything.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Reasoning where the end of an argument comes back to the beginning without proving anything.`,
   },
   503: {
-    beginner: `## Circular Reasoning — in-depth (Beginner)
+    beginner: `undefined = Reasoning where the end of an argument comes back to the beginning without proving anything.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« You have to invite Jenna to your party because it would not be nice not to invite Jenna. »  
+Example (question)
+« You have to invite Jenna to your party because it would not be nice not to invite Jenna. »
+undefined
 
-**Why this is Circular Reasoning**  
-Reasoning where the end of an argument comes back to the beginning without proving anything. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.`,
-    intermediate: `## Circular Reasoning — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« You have to invite Jenna to your party because it would not be nice not to invite Jenna. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Circular Reasoning** in action: reasoning where the end of an argument comes back to the beginning without proving anything.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Another everyday spot: a health or habits story. Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**In one sentence**  
-Circular Reasoning is the label for reasoning that fits: Reasoning where the end of an argument comes back to the beginning without proving anything.`,
-    expert: `## Circular Reasoning — in-depth (Expert)
-
-**Definition**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**Applied to this passage**  
-« You have to invite Jenna to your party because it would not be nice not to invite Jenna. »  
-
-Here, **Circular Reasoning** is the right name because reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 2:** Another everyday spot: a health or habits story. Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 4:** Imagine a news headline or social post. The slip is the same: reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 5:** Picture a health or habits story. People often reason as if reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Circular Reasoning** means Reasoning where the end of an argument comes back to the beginning without proving anything.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Reasoning where the end of an argument comes back to the beginning without proving anything.`,
   },
   504: {
-    beginner: `## Circular Reasoning — in-depth (Beginner)
+    beginner: `undefined = Reasoning where the end of an argument comes back to the beginning without proving anything.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« I am the boss because I say I am the boss. »  
+Example (question)
+« I am the boss because I say I am the boss. »
+undefined
 
-**Why this is Circular Reasoning**  
-Reasoning where the end of an argument comes back to the beginning without proving anything. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.`,
-    intermediate: `## Circular Reasoning — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« I am the boss because I say I am the boss. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Circular Reasoning** in action: reasoning where the end of an argument comes back to the beginning without proving anything.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Reasoning where the end of an argument comes back to the beginning without proving anything.
+The uncomfortable implication
+undefined
 
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 3:** Imagine a family argument. The slip is the same: reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**In one sentence**  
-Circular Reasoning is the label for reasoning that fits: Reasoning where the end of an argument comes back to the beginning without proving anything.`,
-    expert: `## Circular Reasoning — in-depth (Expert)
-
-**Definition**  
-Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**Applied to this passage**  
-« I am the boss because I say I am the boss. »  
-
-Here, **Circular Reasoning** is the right name because reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 3:** Imagine a family argument. The slip is the same: reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 4:** Picture a policy or workplace discussion. People often reason as if reasoning where the end of an argument comes back to the beginning without proving anything.
-
-- **Example 5:** In sports or business results, watch for this pattern: Reasoning where the end of an argument comes back to the beginning without proving anything.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Circular Reasoning** means Reasoning where the end of an argument comes back to the beginning without proving anything.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Reasoning where the end of an argument comes back to the beginning without proving anything.`,
   },
   505: {
-    beginner: `## Complex Question — in-depth (Beginner)
+    beginner: `undefined = A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« Have you stopped beating your wife? »  
+Example (question)
+« Have you stopped beating your wife? »
+undefined
 
-**Why this is Complex Question**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
-    intermediate: `## Complex Question — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Have you stopped beating your wife? »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Complex Question** in action: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 3:** Picture a news headline or social post. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**In one sentence**  
-Complex Question is the label for reasoning that fits: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
-    expert: `## Complex Question — in-depth (Expert)
-
-**Definition**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**Applied to this passage**  
-« Have you stopped beating your wife? »  
-
-Here, **Complex Question** is the right name because a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 2:** Imagine school grades or test scores. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 3:** Picture a news headline or social post. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 4:** In a health or habits story, watch for this pattern: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 5:** Another everyday spot: school grades or test scores. A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Complex Question** means A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+undefined = A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
   },
   506: {
-    beginner: `## Complex Question — in-depth (Beginner)
+    beginner: `undefined = A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« When did you become a communist? »  
+Example (question)
+« When did you become a communist? »
+undefined
 
-**Why this is Complex Question**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
-    intermediate: `## Complex Question — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« When did you become a communist? »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Complex Question** in action: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Picture a family argument. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**In one sentence**  
-Complex Question is the label for reasoning that fits: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
-    expert: `## Complex Question — in-depth (Expert)
-
-**Definition**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**Applied to this passage**  
-« When did you become a communist? »  
-
-Here, **Complex Question** is the right name because a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 2:** Picture a family argument. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 4:** Another everyday spot: sports or business results. A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 5:** **Setting:** a family argument. **What goes wrong:** A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Complex Question** means A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+undefined = A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
   },
   507: {
-    beginner: `## Complex Question — in-depth (Beginner)
+    beginner: `undefined = A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« Why are you so lazy? »  
+Example (question)
+« Why are you so lazy? »
+undefined
 
-**Why this is Complex Question**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
-    intermediate: `## Complex Question — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Why are you so lazy? »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Complex Question** in action: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
+The uncomfortable implication
+undefined
 
-- **Example 2:** In a news headline or social post, watch for this pattern: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 3:** Another everyday spot: a health or habits story. A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**In one sentence**  
-Complex Question is the label for reasoning that fits: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
-    expert: `## Complex Question — in-depth (Expert)
-
-**Definition**  
-A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**Applied to this passage**  
-« Why are you so lazy? »  
-
-Here, **Complex Question** is the right name because a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 2:** In a news headline or social post, watch for this pattern: A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 3:** Another everyday spot: a health or habits story. A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 4:** **Setting:** school grades or test scores. **What goes wrong:** A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-- **Example 5:** Imagine a news headline or social post. The slip is the same: a question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Complex Question** means A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+undefined = A question that has a presupposition built in, which implies something but protects the one asking the question from accusations of false claims.`,
   },
   508: {
-    beginner: `## Composition Fallacy — in-depth (Beginner)
+    beginner: `undefined = Assuming that what is true for a part is also true for the whole.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Assuming that what is true for a part is also true for the whole.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« Atoms are invisible. Humans are made of atoms. Therefore, humans are invisible. »  
+Example (question)
+« Atoms are invisible. Humans are made of atoms. Therefore, humans are invisible. »
+undefined
 
-**Why this is Composition Fallacy**  
-Assuming that what is true for a part is also true for the whole. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Assuming that what is true for a part is also true for the whole.`,
-    intermediate: `## Composition Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Assuming that what is true for a part is also true for the whole.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Atoms are invisible. Humans are made of atoms. Therefore, humans are invisible. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Composition Fallacy** in action: assuming that what is true for a part is also true for the whole.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Assuming that what is true for a part is also true for the whole.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Assuming that what is true for a part is also true for the whole.
-
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
-
-**In one sentence**  
-Composition Fallacy is the label for reasoning that fits: Assuming that what is true for a part is also true for the whole.`,
-    expert: `## Composition Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming that what is true for a part is also true for the whole.
-
-**Applied to this passage**  
-« Atoms are invisible. Humans are made of atoms. Therefore, humans are invisible. »  
-
-Here, **Composition Fallacy** is the right name because assuming that what is true for a part is also true for the whole.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Assuming that what is true for a part is also true for the whole.
-
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Assuming that what is true for a part is also true for the whole.
-
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
-
-- **Example 4:** Imagine a family argument. The slip is the same: assuming that what is true for a part is also true for the whole.
-
-- **Example 5:** Picture a policy or workplace discussion. People often reason as if assuming that what is true for a part is also true for the whole.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Composition Fallacy** means Assuming that what is true for a part is also true for the whole.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Assuming that what is true for a part is also true for the whole.`,
   },
   509: {
-    beginner: `## Composition Fallacy — in-depth (Beginner)
+    beginner: `undefined = Assuming that what is true for a part is also true for the whole.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Assuming that what is true for a part is also true for the whole.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« Each player on the team is a superstar, so the team must be unbeatable. »  
+Example (question)
+« Each player on the team is a superstar, so the team must be unbeatable. »
+undefined
 
-**Why this is Composition Fallacy**  
-Assuming that what is true for a part is also true for the whole. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Assuming that what is true for a part is also true for the whole.`,
-    intermediate: `## Composition Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Assuming that what is true for a part is also true for the whole.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Each player on the team is a superstar, so the team must be unbeatable. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Composition Fallacy** in action: assuming that what is true for a part is also true for the whole.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Assuming that what is true for a part is also true for the whole.
+The uncomfortable implication
+undefined
 
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: assuming that what is true for a part is also true for the whole.
-
-**In one sentence**  
-Composition Fallacy is the label for reasoning that fits: Assuming that what is true for a part is also true for the whole.`,
-    expert: `## Composition Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming that what is true for a part is also true for the whole.
-
-**Applied to this passage**  
-« Each player on the team is a superstar, so the team must be unbeatable. »  
-
-Here, **Composition Fallacy** is the right name because assuming that what is true for a part is also true for the whole.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Assuming that what is true for a part is also true for the whole.
-
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: assuming that what is true for a part is also true for the whole.
-
-- **Example 4:** Picture a news headline or social post. People often reason as if assuming that what is true for a part is also true for the whole.
-
-- **Example 5:** In a health or habits story, watch for this pattern: Assuming that what is true for a part is also true for the whole.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Composition Fallacy** means Assuming that what is true for a part is also true for the whole.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Assuming that what is true for a part is also true for the whole.`,
   },
   510: {
-    beginner: `## Composition Fallacy — in-depth (Beginner)
+    beginner: `undefined = Assuming that what is true for a part is also true for the whole.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Assuming that what is true for a part is also true for the whole.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« This tire is made of rubber, so the whole car must be made of rubber. »  
+Example (question)
+« This tire is made of rubber, so the whole car must be made of rubber. »
+undefined
 
-**Why this is Composition Fallacy**  
-Assuming that what is true for a part is also true for the whole. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Assuming that what is true for a part is also true for the whole.`,
-    intermediate: `## Composition Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Assuming that what is true for a part is also true for the whole.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« This tire is made of rubber, so the whole car must be made of rubber. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Composition Fallacy** in action: assuming that what is true for a part is also true for the whole.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Imagine sports or business results. The slip is the same: assuming that what is true for a part is also true for the whole.
-
-- **Example 3:** Picture a family argument. People often reason as if assuming that what is true for a part is also true for the whole.
-
-**In one sentence**  
-Composition Fallacy is the label for reasoning that fits: Assuming that what is true for a part is also true for the whole.`,
-    expert: `## Composition Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming that what is true for a part is also true for the whole.
-
-**Applied to this passage**  
-« This tire is made of rubber, so the whole car must be made of rubber. »  
-
-Here, **Composition Fallacy** is the right name because assuming that what is true for a part is also true for the whole.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Assuming that what is true for a part is also true for the whole.
-
-- **Example 2:** Imagine sports or business results. The slip is the same: assuming that what is true for a part is also true for the whole.
-
-- **Example 3:** Picture a family argument. People often reason as if assuming that what is true for a part is also true for the whole.
-
-- **Example 4:** In a policy or workplace discussion, watch for this pattern: Assuming that what is true for a part is also true for the whole.
-
-- **Example 5:** Another everyday spot: sports or business results. Assuming that what is true for a part is also true for the whole.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Composition Fallacy** means Assuming that what is true for a part is also true for the whole.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Assuming that what is true for a part is also true for the whole.`,
   },
   511: {
-    beginner: `## Division Fallacy — in-depth (Beginner)
+    beginner: `undefined = Assuming that what is true for the whole is also true for each of its parts.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Assuming that what is true for the whole is also true for each of its parts.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« The United States is the richest country in the world. Therefore, everyone in the United States must be rich. »  
+Example (question)
+« The United States is the richest country in the world. Therefore, everyone in the United States must be rich. »
+undefined
 
-**Why this is Division Fallacy**  
-Assuming that what is true for the whole is also true for each of its parts. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Assuming that what is true for the whole is also true for each of its parts.`,
-    intermediate: `## Division Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Assuming that what is true for the whole is also true for each of its parts.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« The United States is the richest country in the world. Therefore, everyone in the United States must be rich. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Division Fallacy** in action: assuming that what is true for the whole is also true for each of its parts.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: assuming that what is true for the whole is also true for each of its parts.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Picture school grades or test scores. People often reason as if assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 3:** In a news headline or social post, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
-
-**In one sentence**  
-Division Fallacy is the label for reasoning that fits: Assuming that what is true for the whole is also true for each of its parts.`,
-    expert: `## Division Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming that what is true for the whole is also true for each of its parts.
-
-**Applied to this passage**  
-« The United States is the richest country in the world. Therefore, everyone in the United States must be rich. »  
-
-Here, **Division Fallacy** is the right name because assuming that what is true for the whole is also true for each of its parts.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 2:** Picture school grades or test scores. People often reason as if assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 3:** In a news headline or social post, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 4:** Another everyday spot: a health or habits story. Assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** Assuming that what is true for the whole is also true for each of its parts.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Division Fallacy** means Assuming that what is true for the whole is also true for each of its parts.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Assuming that what is true for the whole is also true for each of its parts.`,
   },
   512: {
-    beginner: `## Division Fallacy — in-depth (Beginner)
+    beginner: `undefined = Assuming that what is true for the whole is also true for each of its parts.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Assuming that what is true for the whole is also true for each of its parts.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« Water is liquid. Therefore, H2O molecules are liquid. »  
+Example (question)
+« Water is liquid. Therefore, H2O molecules are liquid. »
+undefined
 
-**Why this is Division Fallacy**  
-Assuming that what is true for the whole is also true for each of its parts. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Assuming that what is true for the whole is also true for each of its parts.`,
-    intermediate: `## Division Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Assuming that what is true for the whole is also true for each of its parts.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Water is liquid. Therefore, H2O molecules are liquid. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Division Fallacy** in action: assuming that what is true for the whole is also true for each of its parts.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if assuming that what is true for the whole is also true for each of its parts.
+The uncomfortable implication
+undefined
 
-- **Example 2:** In a family argument, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Assuming that what is true for the whole is also true for each of its parts.
-
-**In one sentence**  
-Division Fallacy is the label for reasoning that fits: Assuming that what is true for the whole is also true for each of its parts.`,
-    expert: `## Division Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming that what is true for the whole is also true for each of its parts.
-
-**Applied to this passage**  
-« Water is liquid. Therefore, H2O molecules are liquid. »  
-
-Here, **Division Fallacy** is the right name because assuming that what is true for the whole is also true for each of its parts.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 2:** In a family argument, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 4:** **Setting:** sports or business results. **What goes wrong:** Assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 5:** Imagine a family argument. The slip is the same: assuming that what is true for the whole is also true for each of its parts.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Division Fallacy** means Assuming that what is true for the whole is also true for each of its parts.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Assuming that what is true for the whole is also true for each of its parts.`,
   },
   513: {
-    beginner: `## Division Fallacy — in-depth (Beginner)
+    beginner: `undefined = Assuming that what is true for the whole is also true for each of its parts.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Assuming that what is true for the whole is also true for each of its parts.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« This book is heavy, so every page must be heavy. »  
+Example (question)
+« This book is heavy, so every page must be heavy. »
+undefined
 
-**Why this is Division Fallacy**  
-Assuming that what is true for the whole is also true for each of its parts. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Assuming that what is true for the whole is also true for each of its parts.`,
-    intermediate: `## Division Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Assuming that what is true for the whole is also true for each of its parts.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« This book is heavy, so every page must be heavy. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Division Fallacy** in action: assuming that what is true for the whole is also true for each of its parts.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Another everyday spot: a news headline or social post. Assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Assuming that what is true for the whole is also true for each of its parts.
-
-**In one sentence**  
-Division Fallacy is the label for reasoning that fits: Assuming that what is true for the whole is also true for each of its parts.`,
-    expert: `## Division Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming that what is true for the whole is also true for each of its parts.
-
-**Applied to this passage**  
-« This book is heavy, so every page must be heavy. »  
-
-Here, **Division Fallacy** is the right name because assuming that what is true for the whole is also true for each of its parts.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 2:** Another everyday spot: a news headline or social post. Assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 4:** Imagine school grades or test scores. The slip is the same: assuming that what is true for the whole is also true for each of its parts.
-
-- **Example 5:** Picture a news headline or social post. People often reason as if assuming that what is true for the whole is also true for each of its parts.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Division Fallacy** means Assuming that what is true for the whole is also true for each of its parts.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Assuming that what is true for the whole is also true for each of its parts.`,
   },
   514: {
-    beginner: `## Confirmation Bias — in-depth (Beginner)
+    beginner: `undefined = The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« I only watch news channels that agree with me. »  
+Example (question)
+« I only watch news channels that agree with me. »
+undefined
 
-**Why this is Confirmation Bias**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
-    intermediate: `## Confirmation Bias — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« I only watch news channels that agree with me. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Confirmation Bias** in action: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+The uncomfortable implication
+undefined
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**In one sentence**  
-Confirmation Bias is the label for reasoning that fits: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
-    expert: `## Confirmation Bias — in-depth (Expert)
-
-**Definition**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**Applied to this passage**  
-« I only watch news channels that agree with me. »  
-
-Here, **Confirmation Bias** is the right name because the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 4:** Picture a family argument. People often reason as if the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 5:** In a policy or workplace discussion, watch for this pattern: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Confirmation Bias** means The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+undefined = The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
   },
   515: {
-    beginner: `## Confirmation Bias — in-depth (Beginner)
+    beginner: `undefined = The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« See? I told you red cars get more tickets (ignoring all the blue cars speeding). »  
+Example (question)
+« See? I told you red cars get more tickets (ignoring all the blue cars speeding). »
+undefined
 
-**Why this is Confirmation Bias**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
-    intermediate: `## Confirmation Bias — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« See? I told you red cars get more tickets (ignoring all the blue cars speeding). »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Confirmation Bias** in action: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Imagine a health or habits story. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**In one sentence**  
-Confirmation Bias is the label for reasoning that fits: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
-    expert: `## Confirmation Bias — in-depth (Expert)
-
-**Definition**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**Applied to this passage**  
-« See? I told you red cars get more tickets (ignoring all the blue cars speeding). »  
-
-Here, **Confirmation Bias** is the right name because the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 2:** Imagine a health or habits story. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 4:** In a news headline or social post, watch for this pattern: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 5:** Another everyday spot: a health or habits story. The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Confirmation Bias** means The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+undefined = The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
   },
   516: {
-    beginner: `## Confirmation Bias — in-depth (Beginner)
+    beginner: `undefined = The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« Interpreting ambiguous evidence to support preconceived notions. »  
+Example (question)
+« Interpreting ambiguous evidence to support preconceived notions. »
+undefined
 
-**Why this is Confirmation Bias**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
-    intermediate: `## Confirmation Bias — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Interpreting ambiguous evidence to support preconceived notions. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Confirmation Bias** in action: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Picture sports or business results. People often reason as if the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 3:** In a family argument, watch for this pattern: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**In one sentence**  
-Confirmation Bias is the label for reasoning that fits: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
-    expert: `## Confirmation Bias — in-depth (Expert)
-
-**Definition**  
-The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**Applied to this passage**  
-« Interpreting ambiguous evidence to support preconceived notions. »  
-
-Here, **Confirmation Bias** is the right name because the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 2:** Picture sports or business results. People often reason as if the tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 3:** In a family argument, watch for this pattern: The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 4:** Another everyday spot: a policy or workplace discussion. The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-- **Example 5:** **Setting:** sports or business results. **What goes wrong:** The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Confirmation Bias** means The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+undefined = The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.`,
   },
   517: {
-    beginner: `## Continuum Fallacy — in-depth (Beginner)
+    beginner: `undefined = The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« You can't distinguish between healthy and unhealthy eating because there's no exact point where food becomes unhealthy. »  
+Example (question)
+« You can't distinguish between healthy and unhealthy eating because there's no exact point where food becomes unhealthy. »
+undefined
 
-**Why this is Continuum Fallacy**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
-    intermediate: `## Continuum Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« You can't distinguish between healthy and unhealthy eating because there's no exact point where food becomes unhealthy. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Continuum Fallacy** in action: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+The uncomfortable implication
+undefined
 
-- **Example 2:** In school grades or test scores, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 3:** Another everyday spot: a news headline or social post. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**In one sentence**  
-Continuum Fallacy is the label for reasoning that fits: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
-    expert: `## Continuum Fallacy — in-depth (Expert)
-
-**Definition**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**Applied to this passage**  
-« You can't distinguish between healthy and unhealthy eating because there's no exact point where food becomes unhealthy. »  
-
-Here, **Continuum Fallacy** is the right name because the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 2:** In school grades or test scores, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 3:** Another everyday spot: a news headline or social post. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 4:** **Setting:** a health or habits story. **What goes wrong:** The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 5:** Imagine school grades or test scores. The slip is the same: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Continuum Fallacy** means The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
   },
   518: {
-    beginner: `## Continuum Fallacy — in-depth (Beginner)
+    beginner: `undefined = The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« Since there's no clear boundary between art and not art, everything is art. »  
+Example (question)
+« Since there's no clear boundary between art and not art, everything is art. »
+undefined
 
-**Why this is Continuum Fallacy**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
-    intermediate: `## Continuum Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Since there's no clear boundary between art and not art, everything is art. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Continuum Fallacy** in action: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Another everyday spot: a family argument. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**In one sentence**  
-Continuum Fallacy is the label for reasoning that fits: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
-    expert: `## Continuum Fallacy — in-depth (Expert)
-
-**Definition**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**Applied to this passage**  
-« Since there's no clear boundary between art and not art, everything is art. »  
-
-Here, **Continuum Fallacy** is the right name because the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 2:** Another everyday spot: a family argument. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 4:** Imagine sports or business results. The slip is the same: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 5:** Picture a family argument. People often reason as if the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Continuum Fallacy** means The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
   },
   519: {
-    beginner: `## Continuum Fallacy — in-depth (Beginner)
+    beginner: `undefined = The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« Baldness is gradual, so no one is truly bald. »  
+Example (question)
+« Baldness is gradual, so no one is truly bald. »
+undefined
 
-**Why this is Continuum Fallacy**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
-    intermediate: `## Continuum Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Baldness is gradual, so no one is truly bald. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Continuum Fallacy** in action: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
+The uncomfortable implication
+undefined
 
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**In one sentence**  
-Continuum Fallacy is the label for reasoning that fits: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
-    expert: `## Continuum Fallacy — in-depth (Expert)
-
-**Definition**  
-The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**Applied to this passage**  
-« Baldness is gradual, so no one is truly bald. »  
-
-Here, **Continuum Fallacy** is the right name because the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 4:** Picture school grades or test scores. People often reason as if the fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-- **Example 5:** In a news headline or social post, watch for this pattern: The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Continuum Fallacy** means The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = The fallacy of assuming that because there is no clear line between two extremes, there is no difference between them.`,
   },
   520: {
-    beginner: `## Correlation Equals Causation — in-depth (Beginner)
+    beginner: `undefined = Assuming that because two things are correlated, one must have caused the other.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Assuming that because two things are correlated, one must have caused the other.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« I sneezed at the same time the power went off. My sneeze did something to make the power go off. »  
+Example (question)
+« I sneezed at the same time the power went off. My sneeze did something to make the power go off. »
+undefined
 
-**Why this is Correlation Equals Causation**  
-Assuming that because two things are correlated, one must have caused the other. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Assuming that because two things are correlated, one must have caused the other.`,
-    intermediate: `## Correlation Equals Causation — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Assuming that because two things are correlated, one must have caused the other.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« I sneezed at the same time the power went off. My sneeze did something to make the power go off. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Correlation Equals Causation** in action: assuming that because two things are correlated, one must have caused the other.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Assuming that because two things are correlated, one must have caused the other.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: assuming that because two things are correlated, one must have caused the other.
-
-- **Example 3:** Picture sports or business results. People often reason as if assuming that because two things are correlated, one must have caused the other.
-
-**In one sentence**  
-Correlation Equals Causation is the label for reasoning that fits: Assuming that because two things are correlated, one must have caused the other.`,
-    expert: `## Correlation Equals Causation — in-depth (Expert)
-
-**Definition**  
-Assuming that because two things are correlated, one must have caused the other.
-
-**Applied to this passage**  
-« I sneezed at the same time the power went off. My sneeze did something to make the power go off. »  
-
-Here, **Correlation Equals Causation** is the right name because assuming that because two things are correlated, one must have caused the other.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Assuming that because two things are correlated, one must have caused the other.
-
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: assuming that because two things are correlated, one must have caused the other.
-
-- **Example 3:** Picture sports or business results. People often reason as if assuming that because two things are correlated, one must have caused the other.
-
-- **Example 4:** In a family argument, watch for this pattern: Assuming that because two things are correlated, one must have caused the other.
-
-- **Example 5:** Another everyday spot: a policy or workplace discussion. Assuming that because two things are correlated, one must have caused the other.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Correlation Equals Causation** means Assuming that because two things are correlated, one must have caused the other.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Assuming that because two things are correlated, one must have caused the other.`,
   },
   521: {
-    beginner: `## Correlation Equals Causation — in-depth (Beginner)
+    beginner: `undefined = Assuming that because two things are correlated, one must have caused the other.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Assuming that because two things are correlated, one must have caused the other.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« The football team lost on Friday. I wore my lucky socks on Friday. Therefore, my lucky socks made the football team lose. »  
+Example (question)
+« The football team lost on Friday. I wore my lucky socks on Friday. Therefore, my lucky socks made the football team lose. »
+undefined
 
-**Why this is Correlation Equals Causation**  
-Assuming that because two things are correlated, one must have caused the other. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Assuming that because two things are correlated, one must have caused the other.`,
-    intermediate: `## Correlation Equals Causation — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Assuming that because two things are correlated, one must have caused the other.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« The football team lost on Friday. I wore my lucky socks on Friday. Therefore, my lucky socks made the football team lose. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Correlation Equals Causation** in action: assuming that because two things are correlated, one must have caused the other.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: assuming that because two things are correlated, one must have caused the other.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Picture a health or habits story. People often reason as if assuming that because two things are correlated, one must have caused the other.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: Assuming that because two things are correlated, one must have caused the other.
-
-**In one sentence**  
-Correlation Equals Causation is the label for reasoning that fits: Assuming that because two things are correlated, one must have caused the other.`,
-    expert: `## Correlation Equals Causation — in-depth (Expert)
-
-**Definition**  
-Assuming that because two things are correlated, one must have caused the other.
-
-**Applied to this passage**  
-« The football team lost on Friday. I wore my lucky socks on Friday. Therefore, my lucky socks made the football team lose. »  
-
-Here, **Correlation Equals Causation** is the right name because assuming that because two things are correlated, one must have caused the other.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: assuming that because two things are correlated, one must have caused the other.
-
-- **Example 2:** Picture a health or habits story. People often reason as if assuming that because two things are correlated, one must have caused the other.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: Assuming that because two things are correlated, one must have caused the other.
-
-- **Example 4:** Another everyday spot: a news headline or social post. Assuming that because two things are correlated, one must have caused the other.
-
-- **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Assuming that because two things are correlated, one must have caused the other.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Correlation Equals Causation** means Assuming that because two things are correlated, one must have caused the other.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Assuming that because two things are correlated, one must have caused the other.`,
   },
   522: {
-    beginner: `## Correlation Equals Causation — in-depth (Beginner)
+    beginner: `undefined = Assuming that because two things are correlated, one must have caused the other.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Assuming that because two things are correlated, one must have caused the other.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« I bought a lucky pen and passed my test. The pen must have helped me pass. »  
+Example (question)
+« I bought a lucky pen and passed my test. The pen must have helped me pass. »
+undefined
 
-**Why this is Correlation Equals Causation**  
-Assuming that because two things are correlated, one must have caused the other. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Assuming that because two things are correlated, one must have caused the other.`,
-    intermediate: `## Correlation Equals Causation — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Assuming that because two things are correlated, one must have caused the other.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« I bought a lucky pen and passed my test. The pen must have helped me pass. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **Correlation Equals Causation** in action: assuming that because two things are correlated, one must have caused the other.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if assuming that because two things are correlated, one must have caused the other.
+The uncomfortable implication
+undefined
 
-- **Example 2:** In sports or business results, watch for this pattern: Assuming that because two things are correlated, one must have caused the other.
-
-- **Example 3:** Another everyday spot: a family argument. Assuming that because two things are correlated, one must have caused the other.
-
-**In one sentence**  
-Correlation Equals Causation is the label for reasoning that fits: Assuming that because two things are correlated, one must have caused the other.`,
-    expert: `## Correlation Equals Causation — in-depth (Expert)
-
-**Definition**  
-Assuming that because two things are correlated, one must have caused the other.
-
-**Applied to this passage**  
-« I bought a lucky pen and passed my test. The pen must have helped me pass. »  
-
-Here, **Correlation Equals Causation** is the right name because assuming that because two things are correlated, one must have caused the other.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if assuming that because two things are correlated, one must have caused the other.
-
-- **Example 2:** In sports or business results, watch for this pattern: Assuming that because two things are correlated, one must have caused the other.
-
-- **Example 3:** Another everyday spot: a family argument. Assuming that because two things are correlated, one must have caused the other.
-
-- **Example 4:** **Setting:** a policy or workplace discussion. **What goes wrong:** Assuming that because two things are correlated, one must have caused the other.
-
-- **Example 5:** Imagine sports or business results. The slip is the same: assuming that because two things are correlated, one must have caused the other.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Correlation Equals Causation** means Assuming that because two things are correlated, one must have caused the other.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Assuming that because two things are correlated, one must have caused the other.`,
   },
   523: {
-    beginner: `## False Analogy — in-depth (Beginner)
+    beginner: `undefined = Comparing two things that are not comparable in relevant respects.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Comparing two things that are not comparable in relevant respects.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« Employees are like nails. Just as nails must be hit in the head to make them work, so must employees. »  
+Example (question)
+« Employees are like nails. Just as nails must be hit in the head to make them work, so must employees. »
+undefined
 
-**Why this is False Analogy**  
-Comparing two things that are not comparable in relevant respects. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Comparing two things that are not comparable in relevant respects.`,
-    intermediate: `## False Analogy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Comparing two things that are not comparable in relevant respects.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Employees are like nails. Just as nails must be hit in the head to make them work, so must employees. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **False Analogy** in action: comparing two things that are not comparable in relevant respects.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Comparing two things that are not comparable in relevant respects.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Another everyday spot: school grades or test scores. Comparing two things that are not comparable in relevant respects.
-
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
-
-**In one sentence**  
-False Analogy is the label for reasoning that fits: Comparing two things that are not comparable in relevant respects.`,
-    expert: `## False Analogy — in-depth (Expert)
-
-**Definition**  
-Comparing two things that are not comparable in relevant respects.
-
-**Applied to this passage**  
-« Employees are like nails. Just as nails must be hit in the head to make them work, so must employees. »  
-
-Here, **False Analogy** is the right name because comparing two things that are not comparable in relevant respects.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Comparing two things that are not comparable in relevant respects.
-
-- **Example 2:** Another everyday spot: school grades or test scores. Comparing two things that are not comparable in relevant respects.
-
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
-
-- **Example 4:** Imagine a health or habits story. The slip is the same: comparing two things that are not comparable in relevant respects.
-
-- **Example 5:** Picture school grades or test scores. People often reason as if comparing two things that are not comparable in relevant respects.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Analogy** means Comparing two things that are not comparable in relevant respects.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Comparing two things that are not comparable in relevant respects.`,
   },
   524: {
-    beginner: `## False Analogy — in-depth (Beginner)
+    beginner: `undefined = Comparing two things that are not comparable in relevant respects.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Comparing two things that are not comparable in relevant respects.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« A nation is like a family, so we should treat national debt like household debt. »  
+Example (question)
+« A nation is like a family, so we should treat national debt like household debt. »
+undefined
 
-**Why this is False Analogy**  
-Comparing two things that are not comparable in relevant respects. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Comparing two things that are not comparable in relevant respects.`,
-    intermediate: `## False Analogy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Comparing two things that are not comparable in relevant respects.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« A nation is like a family, so we should treat national debt like household debt. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **False Analogy** in action: comparing two things that are not comparable in relevant respects.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Comparing two things that are not comparable in relevant respects.
+The uncomfortable implication
+undefined
 
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: comparing two things that are not comparable in relevant respects.
-
-**In one sentence**  
-False Analogy is the label for reasoning that fits: Comparing two things that are not comparable in relevant respects.`,
-    expert: `## False Analogy — in-depth (Expert)
-
-**Definition**  
-Comparing two things that are not comparable in relevant respects.
-
-**Applied to this passage**  
-« A nation is like a family, so we should treat national debt like household debt. »  
-
-Here, **False Analogy** is the right name because comparing two things that are not comparable in relevant respects.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Comparing two things that are not comparable in relevant respects.
-
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: comparing two things that are not comparable in relevant respects.
-
-- **Example 4:** Picture sports or business results. People often reason as if comparing two things that are not comparable in relevant respects.
-
-- **Example 5:** In a family argument, watch for this pattern: Comparing two things that are not comparable in relevant respects.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Analogy** means Comparing two things that are not comparable in relevant respects.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Comparing two things that are not comparable in relevant respects.`,
   },
   525: {
-    beginner: `## False Analogy — in-depth (Beginner)
+    beginner: `undefined = Comparing two things that are not comparable in relevant respects.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Comparing two things that are not comparable in relevant respects.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« Life is like a box of chocolates; you never know what you're gonna get. »  
+Example (question)
+« Life is like a box of chocolates; you never know what you're gonna get. »
+undefined
 
-**Why this is False Analogy**  
-Comparing two things that are not comparable in relevant respects. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Comparing two things that are not comparable in relevant respects.`,
-    intermediate: `## False Analogy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Comparing two things that are not comparable in relevant respects.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Life is like a box of chocolates; you never know what you're gonna get. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **False Analogy** in action: comparing two things that are not comparable in relevant respects.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Imagine a news headline or social post. The slip is the same: comparing two things that are not comparable in relevant respects.
-
-- **Example 3:** Picture a health or habits story. People often reason as if comparing two things that are not comparable in relevant respects.
-
-**In one sentence**  
-False Analogy is the label for reasoning that fits: Comparing two things that are not comparable in relevant respects.`,
-    expert: `## False Analogy — in-depth (Expert)
-
-**Definition**  
-Comparing two things that are not comparable in relevant respects.
-
-**Applied to this passage**  
-« Life is like a box of chocolates; you never know what you're gonna get. »  
-
-Here, **False Analogy** is the right name because comparing two things that are not comparable in relevant respects.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Comparing two things that are not comparable in relevant respects.
-
-- **Example 2:** Imagine a news headline or social post. The slip is the same: comparing two things that are not comparable in relevant respects.
-
-- **Example 3:** Picture a health or habits story. People often reason as if comparing two things that are not comparable in relevant respects.
-
-- **Example 4:** In school grades or test scores, watch for this pattern: Comparing two things that are not comparable in relevant respects.
-
-- **Example 5:** Another everyday spot: a news headline or social post. Comparing two things that are not comparable in relevant respects.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Analogy** means Comparing two things that are not comparable in relevant respects.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Comparing two things that are not comparable in relevant respects.`,
   },
   526: {
-    beginner: `## False Attribution — in-depth (Beginner)
+    beginner: `undefined = Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« I read somewhere that peanuts cause cancer (but can't remember where). »  
+Example (question)
+« I read somewhere that peanuts cause cancer (but can't remember where). »
+undefined
 
-**Why this is False Attribution**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
-    intermediate: `## False Attribution — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« I read somewhere that peanuts cause cancer (but can't remember where). »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **False Attribution** in action: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 3:** In sports or business results, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**In one sentence**  
-False Attribution is the label for reasoning that fits: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
-    expert: `## False Attribution — in-depth (Expert)
-
-**Definition**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**Applied to this passage**  
-« I read somewhere that peanuts cause cancer (but can't remember where). »  
-
-Here, **False Attribution** is the right name because appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 3:** In sports or business results, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 4:** Another everyday spot: a family argument. Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Attribution** means Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
   },
   527: {
-    beginner: `## False Attribution — in-depth (Beginner)
+    beginner: `undefined = Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« A friend of a friend said that vaccines cause autism. »  
+Example (question)
+« A friend of a friend said that vaccines cause autism. »
+undefined
 
-**Why this is False Attribution**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
-    intermediate: `## False Attribution — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« A friend of a friend said that vaccines cause autism. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **False Attribution** in action: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+The uncomfortable implication
+undefined
 
-- **Example 2:** In a health or habits story, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 3:** Another everyday spot: school grades or test scores. Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**In one sentence**  
-False Attribution is the label for reasoning that fits: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
-    expert: `## False Attribution — in-depth (Expert)
-
-**Definition**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**Applied to this passage**  
-« A friend of a friend said that vaccines cause autism. »  
-
-Here, **False Attribution** is the right name because appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 2:** In a health or habits story, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 3:** Another everyday spot: school grades or test scores. Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 4:** **Setting:** a news headline or social post. **What goes wrong:** Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 5:** Imagine a health or habits story. The slip is the same: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Attribution** means Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
   },
   528: {
-    beginner: `## False Attribution — in-depth (Beginner)
+    beginner: `undefined = Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« Experts agree that this is true (without citing any). »  
+Example (question)
+« Experts agree that this is true (without citing any). »
+undefined
 
-**Why this is False Attribution**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
-    intermediate: `## False Attribution — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Experts agree that this is true (without citing any). »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **False Attribution** in action: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Another everyday spot: sports or business results. Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**In one sentence**  
-False Attribution is the label for reasoning that fits: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
-    expert: `## False Attribution — in-depth (Expert)
-
-**Definition**  
-Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**Applied to this passage**  
-« Experts agree that this is true (without citing any). »  
-
-Here, **False Attribution** is the right name because appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 2:** Another everyday spot: sports or business results. Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 4:** Imagine a policy or workplace discussion. The slip is the same: appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-- **Example 5:** Picture sports or business results. People often reason as if appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Attribution** means Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+undefined = Appealing to an irrelevant, unqualified, unidentified, biased, or fabricated source in support of an argument.`,
   },
   529: {
-    beginner: `## False Balance — in-depth (Beginner)
+    beginner: `undefined = Presenting two opposing views as being more balanced than the evidence supports.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Presenting two opposing views as being more balanced than the evidence supports.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« Giving equal time to a scientist and a conspiracy theorist on climate change. »  
+Example (question)
+« Giving equal time to a scientist and a conspiracy theorist on climate change. »
+undefined
 
-**Why this is False Balance**  
-Presenting two opposing views as being more balanced than the evidence supports. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Presenting two opposing views as being more balanced than the evidence supports.`,
-    intermediate: `## False Balance — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Presenting two opposing views as being more balanced than the evidence supports.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Giving equal time to a scientist and a conspiracy theorist on climate change. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **False Balance** in action: presenting two opposing views as being more balanced than the evidence supports.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Presenting two opposing views as being more balanced than the evidence supports.
+The uncomfortable implication
+undefined
 
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 3:** Imagine a news headline or social post. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
-
-**In one sentence**  
-False Balance is the label for reasoning that fits: Presenting two opposing views as being more balanced than the evidence supports.`,
-    expert: `## False Balance — in-depth (Expert)
-
-**Definition**  
-Presenting two opposing views as being more balanced than the evidence supports.
-
-**Applied to this passage**  
-« Giving equal time to a scientist and a conspiracy theorist on climate change. »  
-
-Here, **False Balance** is the right name because presenting two opposing views as being more balanced than the evidence supports.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 3:** Imagine a news headline or social post. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 4:** Picture a health or habits story. People often reason as if presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 5:** In school grades or test scores, watch for this pattern: Presenting two opposing views as being more balanced than the evidence supports.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Balance** means Presenting two opposing views as being more balanced than the evidence supports.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+undefined = Presenting two opposing views as being more balanced than the evidence supports.`,
   },
   530: {
-    beginner: `## False Balance — in-depth (Beginner)
+    beginner: `undefined = Presenting two opposing views as being more balanced than the evidence supports.`,
+    detail: `undefined
 
-**What this is, in plain English**  
-Presenting two opposing views as being more balanced than the evidence supports.
+Description:
+undefined
+undefined
 
-**The example you’re looking at**  
-« Presenting creationism and evolution as equally valid theories. »  
+Example (question)
+« Presenting creationism and evolution as equally valid theories. »
+undefined
 
-**Why this is False Balance**  
-Presenting two opposing views as being more balanced than the evidence supports. That is what this label is pointing to in the passage above.
+Example (other context)
+undefined
+undefined
 
-**Takeaway**  
-Presenting two opposing views as being more balanced than the evidence supports.`,
-    intermediate: `## False Balance — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Presenting two opposing views as being more balanced than the evidence supports.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Presenting creationism and evolution as equally valid theories. »  
+Key concept inside it
+undefined:
+undefined
 
-The passage shows **False Balance** in action: presenting two opposing views as being more balanced than the evidence supports.
+Why it matters
+Explains why:
+- undefined
+- undefined
+- undefined
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
+The uncomfortable implication
+undefined
 
-- **Example 2:** Imagine a family argument. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if presenting two opposing views as being more balanced than the evidence supports.
-
-**In one sentence**  
-False Balance is the label for reasoning that fits: Presenting two opposing views as being more balanced than the evidence supports.`,
-    expert: `## False Balance — in-depth (Expert)
-
-**Definition**  
-Presenting two opposing views as being more balanced than the evidence supports.
-
-**Applied to this passage**  
-« Presenting creationism and evolution as equally valid theories. »  
-
-Here, **False Balance** is the right name because presenting two opposing views as being more balanced than the evidence supports.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 2:** Imagine a family argument. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 4:** In sports or business results, watch for this pattern: Presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 5:** Another everyday spot: a family argument. Presenting two opposing views as being more balanced than the evidence supports.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Balance** means Presenting two opposing views as being more balanced than the evidence supports.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+undefined = Presenting two opposing views as being more balanced than the evidence supports.`,
   },
   531: {
     beginner: `## False Balance — in-depth (Beginner)
@@ -56939,1894 +56249,1204 @@ En une phrase
 Equivocation = Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.`,
   },
   501: {
-    beginner: `## Equivocation — approfondi (Débutant)
+    beginner: `Équivoque = Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.`,
+    detail: `Équivoque
 
-**En termes simples**  
-Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
+Description:
+Employer le même mot dans deux sens différents pour tirer une conclusion trompeuse.
+Le sens change au milieu du raisonnement, puis la conclusion fait comme si tout était resté identique.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.". »
+Le sens change au milieu du raisonnement, puis la conclusion fait comme si tout était resté identique.
 
-**Pourquoi c’est bien Equivocation**  
-Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Dans un débat, un mot glisse de son sens littéral à un sens figuré.
+Le glissement paraît petit, mais il casse la logique.
 
-**À retenir**  
-Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.`,
-    intermediate: `## Equivocation — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.". »  
+Concept clé
+Double sens:
+Utiliser un mot avec deux significations différentes dans le même argument.
 
-Le passage montre **Equivocation** : utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
+Pourquoi c'est important
+Explique pourquoi :
+- Le mot semble stable alors qu’il ne l’est pas.
+- Le raisonnement gagne une fausse impression de cohérence.
+- Le changement de sens fait passer un non-argument pour une preuve.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
+L'implication inconfortable
+Si un mot peut changer de sens à mi-chemin, la conclusion ne tient plus debout.
 
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-**En une phrase**  
-**Equivocation**, c’est quand le raisonnement correspond à : Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.`,
-    expert: `## Equivocation — approfondi (Expert)
-
-**Définition**  
-Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.". »  
-
-Ici, **Equivocation** convient parce que utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 4 :** Autre situation courante : des notes ou examens. Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 5 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Equivocation**, c’est Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Équivoque = Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.`,
   },
   502: {
-    beginner: `## Ambiguity fallacy — approfondi (Débutant)
+    beginner: `Sophisme de l'ambiguïté = Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.`,
+    detail: `Sophisme de l'ambiguïté
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
+Description:
+Laisser une expression floue cacher un changement de sens ou une conclusion trop large.
+Le flou s’installe, puis on agit comme si la phrase voulait dire une seule chose nette.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »
+Le flou s’installe, puis on agit comme si la phrase voulait dire une seule chose nette.
 
-**Pourquoi c’est bien Ambiguity fallacy**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une phrase volontairement vague donne l’impression de dire beaucoup sans rien fixer.
+Quand on demande de préciser, la conclusion s’effondre.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Ambiguity fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Concept clé
+Formulation floue:
+Une phrase assez vague pour être lue de plusieurs façons.
 
-Le passage montre **Ambiguity fallacy** : une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Le flou permet d’éviter d’être contredit.
+- Le public remplit les blancs avec ce qu’il veut entendre.
+- Une phrase vague peut servir de bouclier contre la critique.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Un argument flou peut paraître profond alors qu’il évite juste de se définir.
 
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ambiguity fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.`,
-    expert: `## Ambiguity fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
-
-Ici, **Ambiguity fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ambiguity fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Sophisme de l'ambiguïté = Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.`,
   },
   503: {
-    beginner: `## Ambiguity fallacy — approfondi (Débutant)
+    beginner: `Sophisme de l'ambiguïté = Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.`,
+    detail: `Sophisme de l'ambiguïté
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
+Description:
+Laisser une expression floue cacher un changement de sens ou une conclusion trop large.
+Le flou s’installe, puis on agit comme si la phrase voulait dire une seule chose nette.
 
-**L’exemple affiché**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Exemple (question)
+« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »
+Le flou s’installe, puis on agit comme si la phrase voulait dire une seule chose nette.
 
-**Pourquoi c’est bien Ambiguity fallacy**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une phrase volontairement vague donne l’impression de dire beaucoup sans rien fixer.
+Quand on demande de préciser, la conclusion s’effondre.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Ambiguity fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Concept clé
+Formulation floue:
+Une phrase assez vague pour être lue de plusieurs façons.
 
-Le passage montre **Ambiguity fallacy** : une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Le flou permet d’éviter d’être contredit.
+- Le public remplit les blancs avec ce qu’il veut entendre.
+- Une phrase vague peut servir de bouclier contre la critique.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Un argument flou peut paraître profond alors qu’il évite juste de se définir.
 
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ambiguity fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.`,
-    expert: `## Ambiguity fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
-
-Ici, **Ambiguity fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ambiguity fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Sophisme de l'ambiguïté = Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.`,
   },
   504: {
-    beginner: `## Ambiguity fallacy — approfondi (Débutant)
+    beginner: `Sophisme de l'ambiguïté = Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.`,
+    detail: `Sophisme de l'ambiguïté
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
+Description:
+Laisser une expression floue cacher un changement de sens ou une conclusion trop large.
+Le flou s’installe, puis on agit comme si la phrase voulait dire une seule chose nette.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »
+Le flou s’installe, puis on agit comme si la phrase voulait dire une seule chose nette.
 
-**Pourquoi c’est bien Ambiguity fallacy**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une phrase volontairement vague donne l’impression de dire beaucoup sans rien fixer.
+Quand on demande de préciser, la conclusion s’effondre.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Ambiguity fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Concept clé
+Formulation floue:
+Une phrase assez vague pour être lue de plusieurs façons.
 
-Le passage montre **Ambiguity fallacy** : une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Le flou permet d’éviter d’être contredit.
+- Le public remplit les blancs avec ce qu’il veut entendre.
+- Une phrase vague peut servir de bouclier contre la critique.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Un argument flou peut paraître profond alors qu’il évite juste de se définir.
 
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ambiguity fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.`,
-    expert: `## Ambiguity fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
-
-Ici, **Ambiguity fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ambiguity fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Sophisme de l'ambiguïté = Une erreur logique ou un biais cognitif impliquant Ambiguity fallacy, où le raisonnement est défaillant.`,
   },
   505: {
-    beginner: `## Survivorship bias — approfondi (Débutant)
+    beginner: `Biais du survivant = Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.`,
+    detail: `Biais du survivant
 
-**En termes simples**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
+Description:
+Se concentrer sur ce qui a survécu et oublier tout ce qui a échoué hors du champ de vision.
+On ne voit que les gagnants, puis on croit que le chemin du gagnant est le seul chemin réel.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Se concentrer sur les éléments qui ont "THIS CONCEPTécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Se concentrer sur les éléments qui ont "THIS CONCEPTécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.". »
+On ne voit que les gagnants, puis on croit que le chemin du gagnant est le seul chemin réel.
 
-**Pourquoi c’est bien Survivorship bias**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un rapport célèbre les réussites d’une méthode sans montrer les échecs cachés.
+Sans les ratés, la comparaison est truquée.
 
-**À retenir**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.`,
-    intermediate: `## Survivorship bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Se concentrer sur les éléments qui ont "THIS CONCEPTécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.". »  
+Concept clé
+Échantillon survivant:
+La partie visible d’un ensemble, qui n’inclut pas ceux qui ont disparu ou échoué.
 
-Le passage montre **Survivorship bias** : se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
+Pourquoi c'est important
+Explique pourquoi :
+- Les cas visibles ne représentent pas toujours le tout.
+- Les échecs cachés changent souvent la conclusion.
+- Le succès peut paraître plus simple qu’il ne l’est vraiment.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
+L'implication inconfortable
+Si vous ne regardez que les survivants, vous confondez visibilité et vérité.
 
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-**En une phrase**  
-**Survivorship bias**, c’est quand le raisonnement correspond à : Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.`,
-    expert: `## Survivorship bias — approfondi (Expert)
-
-**Définition**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Se concentrer sur les éléments qui ont "THIS CONCEPTécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.". »  
-
-Ici, **Survivorship bias** convient parce que se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 4 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 5 :** Autre situation courante : des notes ou examens. Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Survivorship bias**, c’est Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Biais du survivant = Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.`,
   },
   506: {
-    beginner: `## Survivorship bias — approfondi (Débutant)
+    beginner: `Biais du survivant = Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.`,
+    detail: `Biais du survivant
 
-**En termes simples**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
+Description:
+Se concentrer sur ce qui a survécu et oublier tout ce qui a échoué hors du champ de vision.
+On ne voit que les gagnants, puis on croit que le chemin du gagnant est le seul chemin réel.
 
-**L’exemple affiché**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Exemple (question)
+« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »
+On ne voit que les gagnants, puis on croit que le chemin du gagnant est le seul chemin réel.
 
-**Pourquoi c’est bien Survivorship bias**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un rapport célèbre les réussites d’une méthode sans montrer les échecs cachés.
+Sans les ratés, la comparaison est truquée.
 
-**À retenir**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.`,
-    intermediate: `## Survivorship bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Concept clé
+Échantillon survivant:
+La partie visible d’un ensemble, qui n’inclut pas ceux qui ont disparu ou échoué.
 
-Le passage montre **Survivorship bias** : se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
+Pourquoi c'est important
+Explique pourquoi :
+- Les cas visibles ne représentent pas toujours le tout.
+- Les échecs cachés changent souvent la conclusion.
+- Le succès peut paraître plus simple qu’il ne l’est vraiment.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
+L'implication inconfortable
+Si vous ne regardez que les survivants, vous confondez visibilité et vérité.
 
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-**En une phrase**  
-**Survivorship bias**, c’est quand le raisonnement correspond à : Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.`,
-    expert: `## Survivorship bias — approfondi (Expert)
-
-**Définition**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-**Appliqué à ce passage**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
-
-Ici, **Survivorship bias** convient parce que se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 4 :** Autre situation courante : des résultats sportifs ou d’entreprise. Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 5 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Survivorship bias**, c’est Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Biais du survivant = Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.`,
   },
   507: {
-    beginner: `## Survivorship bias — approfondi (Débutant)
+    beginner: `Biais du survivant = Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.`,
+    detail: `Biais du survivant
 
-**En termes simples**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
+Description:
+Se concentrer sur ce qui a survécu et oublier tout ce qui a échoué hors du champ de vision.
+On ne voit que les gagnants, puis on croit que le chemin du gagnant est le seul chemin réel.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Se concentrer sur les éléments qui ont "THIS CONCEPTécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Se concentrer sur les éléments qui ont "THIS CONCEPTécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.". »
+On ne voit que les gagnants, puis on croit que le chemin du gagnant est le seul chemin réel.
 
-**Pourquoi c’est bien Survivorship bias**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un rapport célèbre les réussites d’une méthode sans montrer les échecs cachés.
+Sans les ratés, la comparaison est truquée.
 
-**À retenir**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.`,
-    intermediate: `## Survivorship bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Se concentrer sur les éléments qui ont "THIS CONCEPTécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.". »  
+Concept clé
+Échantillon survivant:
+La partie visible d’un ensemble, qui n’inclut pas ceux qui ont disparu ou échoué.
 
-Le passage montre **Survivorship bias** : se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
+Pourquoi c'est important
+Explique pourquoi :
+- Les cas visibles ne représentent pas toujours le tout.
+- Les échecs cachés changent souvent la conclusion.
+- Le succès peut paraître plus simple qu’il ne l’est vraiment.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
+L'implication inconfortable
+Si vous ne regardez que les survivants, vous confondez visibilité et vérité.
 
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-**En une phrase**  
-**Survivorship bias**, c’est quand le raisonnement correspond à : Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.`,
-    expert: `## Survivorship bias — approfondi (Expert)
-
-**Définition**  
-Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Se concentrer sur les éléments qui ont "THIS CONCEPTécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.". »  
-
-Ici, **Survivorship bias** convient parce que se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 4 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-- **Exemple 5 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Survivorship bias**, c’est Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Biais du survivant = Se concentrer sur les éléments qui ont "survécu" à un processus en oubliant ceux qui ont échoué par manque de visibilité.`,
   },
   508: {
-    beginner: `## Sunk cost fallacy — approfondi (Débutant)
+    beginner: `Biais des coûts irrécupérables = Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.`,
+    detail: `Biais des coûts irrécupérables
 
-**En termes simples**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
+Description:
+Continuer parce qu’on a déjà investi, même si la suite n’en vaut plus la peine.
+L’argent ou le temps déjà dépensé pousse à continuer, même quand l’avenir est mauvais.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.". »
+L’argent ou le temps déjà dépensé pousse à continuer, même quand l’avenir est mauvais.
 
-**Pourquoi c’est bien Sunk cost fallacy**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelqu’un garde un projet raté juste parce qu’il y a déjà passé des mois.
+Le passé ne récupère pas l’avenir.
 
-**À retenir**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.`,
-    intermediate: `## Sunk cost fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.". »  
+Concept clé
+Coût irrécupérable:
+Un investissement déjà fait et qu’on ne peut plus récupérer.
 
-Le passage montre **Sunk cost fallacy** : poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
+Pourquoi c'est important
+Explique pourquoi :
+- Le passé est perdu, même si on continue.
+- Seul l’avenir compte pour décider.
+- Rester juste pour ne pas “gâcher” aggrave parfois la perte.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
+L'implication inconfortable
+Plus on a payé cher une erreur, plus il devient tentant de la prolonger.
 
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-**En une phrase**  
-**Sunk cost fallacy**, c’est quand le raisonnement correspond à : Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.`,
-    expert: `## Sunk cost fallacy — approfondi (Expert)
-
-**Définition**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.". »  
-
-Ici, **Sunk cost fallacy** convient parce que poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 4 :** Imaginez une discussion en famille. C’est la même erreur : poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 5 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Sunk cost fallacy**, c’est Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Biais des coûts irrécupérables = Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.`,
   },
   509: {
-    beginner: `## Sunk cost fallacy — approfondi (Débutant)
+    beginner: `Biais des coûts irrécupérables = Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.`,
+    detail: `Biais des coûts irrécupérables
 
-**En termes simples**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
+Description:
+Continuer parce qu’on a déjà investi, même si la suite n’en vaut plus la peine.
+L’argent ou le temps déjà dépensé pousse à continuer, même quand l’avenir est mauvais.
 
-**L’exemple affiché**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Exemple (question)
+« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »
+L’argent ou le temps déjà dépensé pousse à continuer, même quand l’avenir est mauvais.
 
-**Pourquoi c’est bien Sunk cost fallacy**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelqu’un garde un projet raté juste parce qu’il y a déjà passé des mois.
+Le passé ne récupère pas l’avenir.
 
-**À retenir**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.`,
-    intermediate: `## Sunk cost fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Concept clé
+Coût irrécupérable:
+Un investissement déjà fait et qu’on ne peut plus récupérer.
 
-Le passage montre **Sunk cost fallacy** : poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
+Pourquoi c'est important
+Explique pourquoi :
+- Le passé est perdu, même si on continue.
+- Seul l’avenir compte pour décider.
+- Rester juste pour ne pas “gâcher” aggrave parfois la perte.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
+L'implication inconfortable
+Plus on a payé cher une erreur, plus il devient tentant de la prolonger.
 
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-**En une phrase**  
-**Sunk cost fallacy**, c’est quand le raisonnement correspond à : Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.`,
-    expert: `## Sunk cost fallacy — approfondi (Expert)
-
-**Définition**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-**Appliqué à ce passage**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
-
-Ici, **Sunk cost fallacy** convient parce que poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 4 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 5 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Sunk cost fallacy**, c’est Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Biais des coûts irrécupérables = Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.`,
   },
   510: {
-    beginner: `## Sunk cost fallacy — approfondi (Débutant)
+    beginner: `Biais des coûts irrécupérables = Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.`,
+    detail: `Biais des coûts irrécupérables
 
-**En termes simples**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
+Description:
+Continuer parce qu’on a déjà investi, même si la suite n’en vaut plus la peine.
+L’argent ou le temps déjà dépensé pousse à continuer, même quand l’avenir est mauvais.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.". »
+L’argent ou le temps déjà dépensé pousse à continuer, même quand l’avenir est mauvais.
 
-**Pourquoi c’est bien Sunk cost fallacy**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelqu’un garde un projet raté juste parce qu’il y a déjà passé des mois.
+Le passé ne récupère pas l’avenir.
 
-**À retenir**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.`,
-    intermediate: `## Sunk cost fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.". »  
+Concept clé
+Coût irrécupérable:
+Un investissement déjà fait et qu’on ne peut plus récupérer.
 
-Le passage montre **Sunk cost fallacy** : poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
+Pourquoi c'est important
+Explique pourquoi :
+- Le passé est perdu, même si on continue.
+- Seul l’avenir compte pour décider.
+- Rester juste pour ne pas “gâcher” aggrave parfois la perte.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
+L'implication inconfortable
+Plus on a payé cher une erreur, plus il devient tentant de la prolonger.
 
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-**En une phrase**  
-**Sunk cost fallacy**, c’est quand le raisonnement correspond à : Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.`,
-    expert: `## Sunk cost fallacy — approfondi (Expert)
-
-**Définition**  
-Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.". »  
-
-Ici, **Sunk cost fallacy** convient parce que poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 4 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-- **Exemple 5 :** Autre situation courante : des résultats sportifs ou d’entreprise. Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Sunk cost fallacy**, c’est Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Biais des coûts irrécupérables = Poursuivre une action en raison des investissements passés plutôt que des bénéfices futurs.`,
   },
   511: {
-    beginner: `## Concorde fallacy — approfondi (Débutant)
+    beginner: `Sophisme du Concorde = Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.`,
+    detail: `Sophisme du Concorde
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
+Description:
+Croire qu’une chose mérite d’être poursuivie seulement parce qu’on y a déjà mis beaucoup d’efforts.
+L’histoire passée sert de justification à elle seule, même quand les signes actuels disent non.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »
+L’histoire passée sert de justification à elle seule, même quand les signes actuels disent non.
 
-**Pourquoi c’est bien Concorde fallacy**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un projet coûteux continue parce qu’il a déjà coûté cher, pas parce qu’il est encore utile.
+L’attachement au passé remplace l’évaluation présente.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Concorde fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Concept clé
+Effort justifiant:
+La tendance à défendre un choix parce qu’on a déjà dépensé beaucoup pour lui.
 
-Le passage montre **Concorde fallacy** : une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- L’investissement passé rend la décision difficile à abandonner.
+- Le coût émotionnel pousse à persister.
+- La bonne question devient : que faire maintenant ?
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Quand le passé décide à votre place, l’argument n’est plus rationnel.
 
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Concorde fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.`,
-    expert: `## Concorde fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
-
-Ici, **Concorde fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Concorde fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Sophisme du Concorde = Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.`,
   },
   512: {
-    beginner: `## Concorde fallacy — approfondi (Débutant)
+    beginner: `Sophisme du Concorde = Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.`,
+    detail: `Sophisme du Concorde
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
+Description:
+Croire qu’une chose mérite d’être poursuivie seulement parce qu’on y a déjà mis beaucoup d’efforts.
+L’histoire passée sert de justification à elle seule, même quand les signes actuels disent non.
 
-**L’exemple affiché**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Exemple (question)
+« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »
+L’histoire passée sert de justification à elle seule, même quand les signes actuels disent non.
 
-**Pourquoi c’est bien Concorde fallacy**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un projet coûteux continue parce qu’il a déjà coûté cher, pas parce qu’il est encore utile.
+L’attachement au passé remplace l’évaluation présente.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Concorde fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Concept clé
+Effort justifiant:
+La tendance à défendre un choix parce qu’on a déjà dépensé beaucoup pour lui.
 
-Le passage montre **Concorde fallacy** : une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- L’investissement passé rend la décision difficile à abandonner.
+- Le coût émotionnel pousse à persister.
+- La bonne question devient : que faire maintenant ?
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Quand le passé décide à votre place, l’argument n’est plus rationnel.
 
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Concorde fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.`,
-    expert: `## Concorde fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
-
-Ici, **Concorde fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Concorde fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Sophisme du Concorde = Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.`,
   },
   513: {
-    beginner: `## Concorde fallacy — approfondi (Débutant)
+    beginner: `Sophisme du Concorde = Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.`,
+    detail: `Sophisme du Concorde
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
+Description:
+Croire qu’une chose mérite d’être poursuivie seulement parce qu’on y a déjà mis beaucoup d’efforts.
+L’histoire passée sert de justification à elle seule, même quand les signes actuels disent non.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »
+L’histoire passée sert de justification à elle seule, même quand les signes actuels disent non.
 
-**Pourquoi c’est bien Concorde fallacy**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un projet coûteux continue parce qu’il a déjà coûté cher, pas parce qu’il est encore utile.
+L’attachement au passé remplace l’évaluation présente.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Concorde fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Concept clé
+Effort justifiant:
+La tendance à défendre un choix parce qu’on a déjà dépensé beaucoup pour lui.
 
-Le passage montre **Concorde fallacy** : une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- L’investissement passé rend la décision difficile à abandonner.
+- Le coût émotionnel pousse à persister.
+- La bonne question devient : que faire maintenant ?
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Quand le passé décide à votre place, l’argument n’est plus rationnel.
 
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Concorde fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.`,
-    expert: `## Concorde fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
-
-Ici, **Concorde fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Concorde fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Sophisme du Concorde = Une erreur logique ou un biais cognitif impliquant Concorde fallacy, où le raisonnement est défaillant.`,
   },
   514: {
-    beginner: `## Gambler's fallacy — approfondi (Débutant)
+    beginner: `Erreur du joueur = Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.`,
+    detail: `Erreur du joueur
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
+Description:
+Croire qu’une série passée modifie la probabilité du prochain résultat indépendant.
+Le hasard n’a pas de mémoire, même si notre cerveau en invente une.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »
+Le hasard n’a pas de mémoire, même si notre cerveau en invente une.
 
-**Pourquoi c’est bien Gambler's fallacy**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Après plusieurs échecs, quelqu’un pense qu’un succès devient “dû”.
+Chaque tirage reste un nouveau tirage.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Gambler's fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Concept clé
+Événements indépendants:
+Des événements dont le résultat de l’un n’influence pas l’autre.
 
-Le passage montre **Gambler's fallacy** : une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une série ne change pas forcément la prochaine chance.
+- Le sentiment de “devoir” une réussite est trompeur.
+- Le hasard ne cherche pas à rétablir l’équilibre.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Si vous pariez contre le hasard, c’est souvent le hasard qui gagne.
 
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Gambler's fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.`,
-    expert: `## Gambler's fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
-
-Ici, **Gambler's fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Gambler's fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Erreur du joueur = Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.`,
   },
   515: {
-    beginner: `## Gambler's fallacy — approfondi (Débutant)
+    beginner: `Erreur du joueur = Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.`,
+    detail: `Erreur du joueur
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
+Description:
+Croire qu’une série passée modifie la probabilité du prochain résultat indépendant.
+Le hasard n’a pas de mémoire, même si notre cerveau en invente une.
 
-**L’exemple affiché**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Exemple (question)
+« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »
+Le hasard n’a pas de mémoire, même si notre cerveau en invente une.
 
-**Pourquoi c’est bien Gambler's fallacy**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Après plusieurs échecs, quelqu’un pense qu’un succès devient “dû”.
+Chaque tirage reste un nouveau tirage.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Gambler's fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Concept clé
+Événements indépendants:
+Des événements dont le résultat de l’un n’influence pas l’autre.
 
-Le passage montre **Gambler's fallacy** : une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une série ne change pas forcément la prochaine chance.
+- Le sentiment de “devoir” une réussite est trompeur.
+- Le hasard ne cherche pas à rétablir l’équilibre.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Si vous pariez contre le hasard, c’est souvent le hasard qui gagne.
 
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Gambler's fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.`,
-    expert: `## Gambler's fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
-
-Ici, **Gambler's fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Gambler's fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Erreur du joueur = Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.`,
   },
   516: {
-    beginner: `## Gambler's fallacy — approfondi (Débutant)
+    beginner: `Erreur du joueur = Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.`,
+    detail: `Erreur du joueur
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
+Description:
+Croire qu’une série passée modifie la probabilité du prochain résultat indépendant.
+Le hasard n’a pas de mémoire, même si notre cerveau en invente une.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »
+Le hasard n’a pas de mémoire, même si notre cerveau en invente une.
 
-**Pourquoi c’est bien Gambler's fallacy**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Après plusieurs échecs, quelqu’un pense qu’un succès devient “dû”.
+Chaque tirage reste un nouveau tirage.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Gambler's fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Concept clé
+Événements indépendants:
+Des événements dont le résultat de l’un n’influence pas l’autre.
 
-Le passage montre **Gambler's fallacy** : une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une série ne change pas forcément la prochaine chance.
+- Le sentiment de “devoir” une réussite est trompeur.
+- Le hasard ne cherche pas à rétablir l’équilibre.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Si vous pariez contre le hasard, c’est souvent le hasard qui gagne.
 
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Gambler's fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.`,
-    expert: `## Gambler's fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
-
-Ici, **Gambler's fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Gambler's fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Erreur du joueur = Une erreur logique ou un biais cognitif impliquant Gambler's fallacy, où le raisonnement est défaillant.`,
   },
   517: {
-    beginner: `## Base rate neglect — approfondi (Débutant)
+    beginner: `Négligence des taux de base = Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.`,
+    detail: `Négligence des taux de base
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
+Description:
+Oublier la fréquence générale d’un phénomène et ne regarder qu’un détail impressionnant.
+Le cas spécial prend toute la place, et la réalité statistique disparaît.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Le cas spécial prend toute la place, et la réalité statistique disparaît.
 
-**Pourquoi c’est bien Base rate neglect**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On voit un profil séduisant et on oublie ce qui est, en général, le plus probable.
+Le contexte de fond compte autant que l’histoire visible.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.`,
-    intermediate: `## Base rate neglect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Taux de base:
+La fréquence habituelle d’un phénomène dans la population.
 
-Le passage montre **Base rate neglect** : une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un détail spectaculaire peut masquer la probabilité réelle.
+- La base statistique évite les conclusions trop rapides.
+- Sans contexte, une histoire bien racontée peut tromper.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
+L'implication inconfortable
+Quand on oublie la base, une exception peut se faire passer pour la règle.
 
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Base rate neglect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.`,
-    expert: `## Base rate neglect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Base rate neglect** convient parce que une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Base rate neglect**, c’est Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Négligence des taux de base = Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.`,
   },
   518: {
-    beginner: `## Base rate neglect — approfondi (Débutant)
+    beginner: `Négligence des taux de base = Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.`,
+    detail: `Négligence des taux de base
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
+Description:
+Oublier la fréquence générale d’un phénomène et ne regarder qu’un détail impressionnant.
+Le cas spécial prend toute la place, et la réalité statistique disparaît.
 
-**L’exemple affiché**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Exemple (question)
+« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »
+Le cas spécial prend toute la place, et la réalité statistique disparaît.
 
-**Pourquoi c’est bien Base rate neglect**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On voit un profil séduisant et on oublie ce qui est, en général, le plus probable.
+Le contexte de fond compte autant que l’histoire visible.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.`,
-    intermediate: `## Base rate neglect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Concept clé
+Taux de base:
+La fréquence habituelle d’un phénomène dans la population.
 
-Le passage montre **Base rate neglect** : une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un détail spectaculaire peut masquer la probabilité réelle.
+- La base statistique évite les conclusions trop rapides.
+- Sans contexte, une histoire bien racontée peut tromper.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
+L'implication inconfortable
+Quand on oublie la base, une exception peut se faire passer pour la règle.
 
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Base rate neglect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.`,
-    expert: `## Base rate neglect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
-
-Ici, **Base rate neglect** convient parce que une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Base rate neglect**, c’est Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Négligence des taux de base = Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.`,
   },
   519: {
-    beginner: `## Base rate neglect — approfondi (Débutant)
+    beginner: `Négligence des taux de base = Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.`,
+    detail: `Négligence des taux de base
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
+Description:
+Oublier la fréquence générale d’un phénomène et ne regarder qu’un détail impressionnant.
+Le cas spécial prend toute la place, et la réalité statistique disparaît.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Le cas spécial prend toute la place, et la réalité statistique disparaît.
 
-**Pourquoi c’est bien Base rate neglect**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On voit un profil séduisant et on oublie ce qui est, en général, le plus probable.
+Le contexte de fond compte autant que l’histoire visible.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.`,
-    intermediate: `## Base rate neglect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Taux de base:
+La fréquence habituelle d’un phénomène dans la population.
 
-Le passage montre **Base rate neglect** : une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un détail spectaculaire peut masquer la probabilité réelle.
+- La base statistique évite les conclusions trop rapides.
+- Sans contexte, une histoire bien racontée peut tromper.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
+L'implication inconfortable
+Quand on oublie la base, une exception peut se faire passer pour la règle.
 
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Base rate neglect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.`,
-    expert: `## Base rate neglect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Base rate neglect** convient parce que une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Base rate neglect**, c’est Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Négligence des taux de base = Une erreur logique ou un biais cognitif impliquant Base rate neglect, où le raisonnement est défaillant.`,
   },
   520: {
-    beginner: `## Clustering illusion — approfondi (Débutant)
+    beginner: `Illusion de regroupement = Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.`,
+    detail: `Illusion de regroupement
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
+Description:
+Voir un motif important dans des données aléatoires ou dans un simple amas.
+Le cerveau repère des grappes et leur donne un sens qu’elles n’ont pas forcément.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Le cerveau repère des grappes et leur donne un sens qu’elles n’ont pas forcément.
 
-**Pourquoi c’est bien Clustering illusion**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelques points proches semblent former un message, alors que c’est juste du hasard.
+Une grappe n’est pas automatiquement un schéma causal.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.`,
-    intermediate: `## Clustering illusion — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Amas aléatoire:
+Un petit groupe de points ou d’événements qui paraît significatif alors qu’il peut être fortuit.
 
-Le passage montre **Clustering illusion** : une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Le hasard produit naturellement des regroupements.
+- Voir une forme ne prouve pas qu’il y a un mécanisme.
+- Les petits échantillons trompent facilement.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
+L'implication inconfortable
+Le hasard peut ressembler à une intention si on le regarde trop vite.
 
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Clustering illusion**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.`,
-    expert: `## Clustering illusion — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Clustering illusion** convient parce que une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Clustering illusion**, c’est Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Illusion de regroupement = Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.`,
   },
   521: {
-    beginner: `## Clustering illusion — approfondi (Débutant)
+    beginner: `Illusion de regroupement = Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.`,
+    detail: `Illusion de regroupement
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
+Description:
+Voir un motif important dans des données aléatoires ou dans un simple amas.
+Le cerveau repère des grappes et leur donne un sens qu’elles n’ont pas forcément.
 
-**L’exemple affiché**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Exemple (question)
+« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »
+Le cerveau repère des grappes et leur donne un sens qu’elles n’ont pas forcément.
 
-**Pourquoi c’est bien Clustering illusion**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelques points proches semblent former un message, alors que c’est juste du hasard.
+Une grappe n’est pas automatiquement un schéma causal.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.`,
-    intermediate: `## Clustering illusion — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Concept clé
+Amas aléatoire:
+Un petit groupe de points ou d’événements qui paraît significatif alors qu’il peut être fortuit.
 
-Le passage montre **Clustering illusion** : une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Le hasard produit naturellement des regroupements.
+- Voir une forme ne prouve pas qu’il y a un mécanisme.
+- Les petits échantillons trompent facilement.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
+L'implication inconfortable
+Le hasard peut ressembler à une intention si on le regarde trop vite.
 
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Clustering illusion**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.`,
-    expert: `## Clustering illusion — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
-
-Ici, **Clustering illusion** convient parce que une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Clustering illusion**, c’est Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Illusion de regroupement = Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.`,
   },
   522: {
-    beginner: `## Clustering illusion — approfondi (Débutant)
+    beginner: `Illusion de regroupement = Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.`,
+    detail: `Illusion de regroupement
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
+Description:
+Voir un motif important dans des données aléatoires ou dans un simple amas.
+Le cerveau repère des grappes et leur donne un sens qu’elles n’ont pas forcément.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Le cerveau repère des grappes et leur donne un sens qu’elles n’ont pas forcément.
 
-**Pourquoi c’est bien Clustering illusion**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelques points proches semblent former un message, alors que c’est juste du hasard.
+Une grappe n’est pas automatiquement un schéma causal.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.`,
-    intermediate: `## Clustering illusion — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Amas aléatoire:
+Un petit groupe de points ou d’événements qui paraît significatif alors qu’il peut être fortuit.
 
-Le passage montre **Clustering illusion** : une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Le hasard produit naturellement des regroupements.
+- Voir une forme ne prouve pas qu’il y a un mécanisme.
+- Les petits échantillons trompent facilement.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
+L'implication inconfortable
+Le hasard peut ressembler à une intention si on le regarde trop vite.
 
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Clustering illusion**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.`,
-    expert: `## Clustering illusion — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Clustering illusion** convient parce que une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Clustering illusion**, c’est Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Illusion de regroupement = Une erreur logique ou un biais cognitif impliquant Clustering illusion, où le raisonnement est défaillant.`,
   },
   523: {
-    beginner: `## Availability bias — approfondi (Débutant)
+    beginner: `Biais de disponibilité = Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.`,
+    detail: `Biais de disponibilité
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
+Description:
+Juger à partir de ce qui vient facilement à l’esprit, pas à partir de ce qui est le plus représentatif.
+Ce qui est récent, marquant ou répété semble plus probable qu’il ne l’est.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Ce qui est récent, marquant ou répété semble plus probable qu’il ne l’est.
 
-**Pourquoi c’est bien Availability bias**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un exemple frappant revient en mémoire, puis il écrase toutes les autres informations.
+La facilité de rappel remplace l’analyse.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.`,
-    intermediate: `## Availability bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Facilité de rappel:
+La tendance à juger quelque chose selon la facilité avec laquelle on s’en souvient.
 
-Le passage montre **Availability bias** : une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- La mémoire vive n’est pas toujours la mémoire la plus juste.
+- Ce qui frappe l’esprit paraît plus fréquent qu’il ne l’est.
+- Les exemples visibles prennent le dessus sur les statistiques.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Si ce qui vous vient en tête décide pour vous, la mémoire devient un mauvais juge.
 
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Availability bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.`,
-    expert: `## Availability bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Availability bias** convient parce que une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Availability bias**, c’est Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Biais de disponibilité = Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.`,
   },
   524: {
-    beginner: `## Availability bias — approfondi (Débutant)
+    beginner: `Biais de disponibilité = Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.`,
+    detail: `Biais de disponibilité
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
+Description:
+Juger à partir de ce qui vient facilement à l’esprit, pas à partir de ce qui est le plus représentatif.
+Ce qui est récent, marquant ou répété semble plus probable qu’il ne l’est.
 
-**L’exemple affiché**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Exemple (question)
+« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »
+Ce qui est récent, marquant ou répété semble plus probable qu’il ne l’est.
 
-**Pourquoi c’est bien Availability bias**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un exemple frappant revient en mémoire, puis il écrase toutes les autres informations.
+La facilité de rappel remplace l’analyse.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.`,
-    intermediate: `## Availability bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Concept clé
+Facilité de rappel:
+La tendance à juger quelque chose selon la facilité avec laquelle on s’en souvient.
 
-Le passage montre **Availability bias** : une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- La mémoire vive n’est pas toujours la mémoire la plus juste.
+- Ce qui frappe l’esprit paraît plus fréquent qu’il ne l’est.
+- Les exemples visibles prennent le dessus sur les statistiques.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Si ce qui vous vient en tête décide pour vous, la mémoire devient un mauvais juge.
 
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Availability bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.`,
-    expert: `## Availability bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
-
-Ici, **Availability bias** convient parce que une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Availability bias**, c’est Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Biais de disponibilité = Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.`,
   },
   525: {
-    beginner: `## Availability bias — approfondi (Débutant)
+    beginner: `Biais de disponibilité = Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.`,
+    detail: `Biais de disponibilité
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
+Description:
+Juger à partir de ce qui vient facilement à l’esprit, pas à partir de ce qui est le plus représentatif.
+Ce qui est récent, marquant ou répété semble plus probable qu’il ne l’est.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Ce qui est récent, marquant ou répété semble plus probable qu’il ne l’est.
 
-**Pourquoi c’est bien Availability bias**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un exemple frappant revient en mémoire, puis il écrase toutes les autres informations.
+La facilité de rappel remplace l’analyse.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.`,
-    intermediate: `## Availability bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Facilité de rappel:
+La tendance à juger quelque chose selon la facilité avec laquelle on s’en souvient.
 
-Le passage montre **Availability bias** : une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- La mémoire vive n’est pas toujours la mémoire la plus juste.
+- Ce qui frappe l’esprit paraît plus fréquent qu’il ne l’est.
+- Les exemples visibles prennent le dessus sur les statistiques.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Si ce qui vous vient en tête décide pour vous, la mémoire devient un mauvais juge.
 
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Availability bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.`,
-    expert: `## Availability bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Availability bias** convient parce que une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Availability bias**, c’est Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Biais de disponibilité = Une erreur logique ou un biais cognitif impliquant Availability bias, où le raisonnement est défaillant.`,
   },
   526: {
-    beginner: `## Hindsight bias — approfondi (Débutant)
+    beginner: `Biais rétrospectif = Croire après coup qu'un événement était prévisible.`,
+    detail: `Biais rétrospectif
 
-**En termes simples**  
-Croire après coup qu'un événement était prévisible.
+Description:
+Croire après coup qu’un événement était prévisible alors qu’il ne l’était pas vraiment.
+Une fois l’issue connue, le passé semble soudain évident.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Croire après coup qu'un événement était prévisible.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Croire après coup qu'un événement était prévisible.". »
+Une fois l’issue connue, le passé semble soudain évident.
 
-**Pourquoi c’est bien Hindsight bias**  
-Croire après coup qu'un événement était prévisible. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Après un résultat, on prétend qu’on “savait depuis le début” ce qui allait arriver.
+L’histoire se réécrit avec la fin déjà en main.
 
-**À retenir**  
-Croire après coup qu'un événement était prévisible.`,
-    intermediate: `## Hindsight bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Croire après coup qu'un événement était prévisible.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Croire après coup qu'un événement était prévisible.". »  
+Concept clé
+Vision après coup:
+La tendance à juger le passé comme plus prévisible qu’il ne l’était.
 
-Le passage montre **Hindsight bias** : croire après coup qu'un événement était prévisible.
+Pourquoi c'est important
+Explique pourquoi :
+- Le résultat connu fausse le souvenir de nos attentes.
+- On confond explication et prédiction.
+- Le recul donne une illusion de clairvoyance.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : croire après coup qu'un événement était prévisible.
+L'implication inconfortable
+Quand le futur devient passé, il est trop facile de réinventer sa propre certitude.
 
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si croire après coup qu'un événement était prévisible.
-
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Croire après coup qu'un événement était prévisible.
-
-**En une phrase**  
-**Hindsight bias**, c’est quand le raisonnement correspond à : Croire après coup qu'un événement était prévisible.`,
-    expert: `## Hindsight bias — approfondi (Expert)
-
-**Définition**  
-Croire après coup qu'un événement était prévisible.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Croire après coup qu'un événement était prévisible.". »  
-
-Ici, **Hindsight bias** convient parce que croire après coup qu'un événement était prévisible.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : croire après coup qu'un événement était prévisible.
-
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si croire après coup qu'un événement était prévisible.
-
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Croire après coup qu'un événement était prévisible.
-
-- **Exemple 4 :** Autre situation courante : une discussion en famille. Croire après coup qu'un événement était prévisible.
-
-- **Exemple 5 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Croire après coup qu'un événement était prévisible.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Hindsight bias**, c’est Croire après coup qu'un événement était prévisible.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Biais rétrospectif = Croire après coup qu'un événement était prévisible.`,
   },
   527: {
-    beginner: `## Hindsight bias — approfondi (Débutant)
+    beginner: `Biais rétrospectif = Croire après coup qu'un événement était prévisible.`,
+    detail: `Biais rétrospectif
 
-**En termes simples**  
-Croire après coup qu'un événement était prévisible.
+Description:
+Croire après coup qu’un événement était prévisible alors qu’il ne l’était pas vraiment.
+Une fois l’issue connue, le passé semble soudain évident.
 
-**L’exemple affiché**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Exemple (question)
+« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »
+Une fois l’issue connue, le passé semble soudain évident.
 
-**Pourquoi c’est bien Hindsight bias**  
-Croire après coup qu'un événement était prévisible. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Après un résultat, on prétend qu’on “savait depuis le début” ce qui allait arriver.
+L’histoire se réécrit avec la fin déjà en main.
 
-**À retenir**  
-Croire après coup qu'un événement était prévisible.`,
-    intermediate: `## Hindsight bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Croire après coup qu'un événement était prévisible.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Concept clé
+Vision après coup:
+La tendance à juger le passé comme plus prévisible qu’il ne l’était.
 
-Le passage montre **Hindsight bias** : croire après coup qu'un événement était prévisible.
+Pourquoi c'est important
+Explique pourquoi :
+- Le résultat connu fausse le souvenir de nos attentes.
+- On confond explication et prédiction.
+- Le recul donne une illusion de clairvoyance.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si croire après coup qu'un événement était prévisible.
+L'implication inconfortable
+Quand le futur devient passé, il est trop facile de réinventer sa propre certitude.
 
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Croire après coup qu'un événement était prévisible.
-
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Croire après coup qu'un événement était prévisible.
-
-**En une phrase**  
-**Hindsight bias**, c’est quand le raisonnement correspond à : Croire après coup qu'un événement était prévisible.`,
-    expert: `## Hindsight bias — approfondi (Expert)
-
-**Définition**  
-Croire après coup qu'un événement était prévisible.
-
-**Appliqué à ce passage**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
-
-Ici, **Hindsight bias** convient parce que croire après coup qu'un événement était prévisible.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si croire après coup qu'un événement était prévisible.
-
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Croire après coup qu'un événement était prévisible.
-
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Croire après coup qu'un événement était prévisible.
-
-- **Exemple 4 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Croire après coup qu'un événement était prévisible.
-
-- **Exemple 5 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : croire après coup qu'un événement était prévisible.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Hindsight bias**, c’est Croire après coup qu'un événement était prévisible.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Biais rétrospectif = Croire après coup qu'un événement était prévisible.`,
   },
   528: {
-    beginner: `## Hindsight bias — approfondi (Débutant)
+    beginner: `Biais rétrospectif = Croire après coup qu'un événement était prévisible.`,
+    detail: `Biais rétrospectif
 
-**En termes simples**  
-Croire après coup qu'un événement était prévisible.
+Description:
+Croire après coup qu’un événement était prévisible alors qu’il ne l’était pas vraiment.
+Une fois l’issue connue, le passé semble soudain évident.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Croire après coup qu'un événement était prévisible.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Croire après coup qu'un événement était prévisible.". »
+Une fois l’issue connue, le passé semble soudain évident.
 
-**Pourquoi c’est bien Hindsight bias**  
-Croire après coup qu'un événement était prévisible. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Après un résultat, on prétend qu’on “savait depuis le début” ce qui allait arriver.
+L’histoire se réécrit avec la fin déjà en main.
 
-**À retenir**  
-Croire après coup qu'un événement était prévisible.`,
-    intermediate: `## Hindsight bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Croire après coup qu'un événement était prévisible.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Croire après coup qu'un événement était prévisible.". »  
+Concept clé
+Vision après coup:
+La tendance à juger le passé comme plus prévisible qu’il ne l’était.
 
-Le passage montre **Hindsight bias** : croire après coup qu'un événement était prévisible.
+Pourquoi c'est important
+Explique pourquoi :
+- Le résultat connu fausse le souvenir de nos attentes.
+- On confond explication et prédiction.
+- Le recul donne une illusion de clairvoyance.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Croire après coup qu'un événement était prévisible.
+L'implication inconfortable
+Quand le futur devient passé, il est trop facile de réinventer sa propre certitude.
 
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Croire après coup qu'un événement était prévisible.
-
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Croire après coup qu'un événement était prévisible.
-
-**En une phrase**  
-**Hindsight bias**, c’est quand le raisonnement correspond à : Croire après coup qu'un événement était prévisible.`,
-    expert: `## Hindsight bias — approfondi (Expert)
-
-**Définition**  
-Croire après coup qu'un événement était prévisible.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Croire après coup qu'un événement était prévisible.". »  
-
-Ici, **Hindsight bias** convient parce que croire après coup qu'un événement était prévisible.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Croire après coup qu'un événement était prévisible.
-
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Croire après coup qu'un événement était prévisible.
-
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Croire après coup qu'un événement était prévisible.
-
-- **Exemple 4 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : croire après coup qu'un événement était prévisible.
-
-- **Exemple 5 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si croire après coup qu'un événement était prévisible.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Hindsight bias**, c’est Croire après coup qu'un événement était prévisible.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Biais rétrospectif = Croire après coup qu'un événement était prévisible.`,
   },
   529: {
-    beginner: `## Anchoring bias — approfondi (Débutant)
+    beginner: `Biais d'ancrage = Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.`,
+    detail: `Biais d'ancrage
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
+Description:
+Laisser la première valeur ou la première idée peser trop lourd sur le jugement suivant.
+Le premier chiffre colle à l’esprit et tire toutes les estimations après lui.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Le premier chiffre colle à l’esprit et tire toutes les estimations après lui.
 
-**Pourquoi c’est bien Anchoring bias**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un premier prix affiche un repère, puis tous les autres semblent soudain élevés ou bas.
+L’ancre fausse la suite du calcul.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.`,
-    intermediate: `## Anchoring bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Ancre:
+La première information qui influence de manière disproportionnée les jugements suivants.
 
-Le passage montre **Anchoring bias** : une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Le premier nombre oriente toute la suite.
+- La première impression paraît plus objective qu’elle ne l’est.
+- Une ancre mal choisie fausse les comparaisons.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Si la première valeur commande tout, le jugement n’est plus libre.
 
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Anchoring bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.`,
-    expert: `## Anchoring bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Anchoring bias** convient parce que une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Anchoring bias**, c’est Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Biais d'ancrage = Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.`,
   },
   530: {
-    beginner: `## Anchoring bias — approfondi (Débutant)
+    beginner: `Biais d'ancrage = Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.`,
+    detail: `Biais d'ancrage
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
+Description:
+Laisser la première valeur ou la première idée peser trop lourd sur le jugement suivant.
+Le premier chiffre colle à l’esprit et tire toutes les estimations après lui.
 
-**L’exemple affiché**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Exemple (question)
+« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »
+Le premier chiffre colle à l’esprit et tire toutes les estimations après lui.
 
-**Pourquoi c’est bien Anchoring bias**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un premier prix affiche un repère, puis tous les autres semblent soudain élevés ou bas.
+L’ancre fausse la suite du calcul.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.`,
-    intermediate: `## Anchoring bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument répète le même mauvais geste dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Concept clé
+Ancre:
+La première information qui influence de manière disproportionnée les jugements suivants.
 
-Le passage montre **Anchoring bias** : une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Le premier nombre oriente toute la suite.
+- La première impression paraît plus objective qu’elle ne l’est.
+- Une ancre mal choisie fausse les comparaisons.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Si la première valeur commande tout, le jugement n’est plus libre.
 
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Anchoring bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.`,
-    expert: `## Anchoring bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
-
-Ici, **Anchoring bias** convient parce que une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Anchoring bias**, c’est Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Biais d'ancrage = Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.`,
   },
   531: {
     beginner: `## Anchoring bias — approfondi (Débutant)
