@@ -15215,1894 +15215,1204 @@ One-line version
 Appeal to Popularity = Arguing that a proposition is true because many or most people believe it.`,
   },
   471: {
-    beginner: `## Appeal to Popularity — in-depth (Beginner)
+    beginner: `Appeal to Popularity = Arguing that a proposition is true because many or most people believe it.`,
+    detail: `Appeal to Popularity
 
-**What this is, in plain English**  
+Description:
 Arguing that a proposition is true because many or most people believe it.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« All the cool kids are doing it, why aren't you? »  
+Example (question)
+« All the cool kids are doing it, why aren't you? »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Popularity**  
-Arguing that a proposition is true because many or most people believe it. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Arguing that a proposition is true because many or most people believe it.`,
-    intermediate: `## Appeal to Popularity — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Arguing that a proposition is true because many or most people believe it.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« All the cool kids are doing it, why aren't you? »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Appeal to Popularity** in action: arguing that a proposition is true because many or most people believe it.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: arguing that a proposition is true because many or most people believe it.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if arguing that a proposition is true because many or most people believe it.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Arguing that a proposition is true because many or most people believe it.
-
-**In one sentence**  
-Appeal to Popularity is the label for reasoning that fits: Arguing that a proposition is true because many or most people believe it.`,
-    expert: `## Appeal to Popularity — in-depth (Expert)
-
-**Definition**  
-Arguing that a proposition is true because many or most people believe it.
-
-**Applied to this passage**  
-« All the cool kids are doing it, why aren't you? »  
-
-Here, **Appeal to Popularity** is the right name because arguing that a proposition is true because many or most people believe it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: arguing that a proposition is true because many or most people believe it.
-
-- **Example 2:** Picture a news headline or social post. People often reason as if arguing that a proposition is true because many or most people believe it.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Arguing that a proposition is true because many or most people believe it.
-
-- **Example 4:** Another everyday spot: school grades or test scores. Arguing that a proposition is true because many or most people believe it.
-
-- **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** Arguing that a proposition is true because many or most people believe it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Popularity** means Arguing that a proposition is true because many or most people believe it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Social & Institutional Behaviors`,
+One-line version
+Appeal to Popularity = Arguing that a proposition is true because many or most people believe it.`,
   },
   472: {
-    beginner: `## Appeal to Emotion — in-depth (Beginner)
+    beginner: `Appeal to Emotion = Manipulating an emotional response in place of a valid or compelling argument.`,
+    detail: `Appeal to Emotion
 
-**What this is, in plain English**  
+Description:
 Manipulating an emotional response in place of a valid or compelling argument.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Power lines cause cancer. I met a little boy with cancer who lived just 20 miles from a power line who looked into my eyes and said 'Please do whatever you can so that other kids won't have to go through what I am going through.' »  
+Example (question)
+« Power lines cause cancer. I met a little boy with cancer who lived just 20 miles from a power line who looked into my eyes and said 'Please do whatever you can so that other kids won't have to go through what I am going through.' »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Emotion**  
-Manipulating an emotional response in place of a valid or compelling argument. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Manipulating an emotional response in place of a valid or compelling argument.`,
-    intermediate: `## Appeal to Emotion — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Manipulating an emotional response in place of a valid or compelling argument.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Power lines cause cancer. I met a little boy with cancer who lived just 20 miles from a power line who looked into my eyes and said 'Please do whatever you can so that other kids won't have to go through what I am going through.' »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Appeal to Emotion** in action: manipulating an emotional response in place of a valid or compelling argument.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if manipulating an emotional response in place of a valid or compelling argument.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 3:** Another everyday spot: sports or business results. Manipulating an emotional response in place of a valid or compelling argument.
-
-**In one sentence**  
-Appeal to Emotion is the label for reasoning that fits: Manipulating an emotional response in place of a valid or compelling argument.`,
-    expert: `## Appeal to Emotion — in-depth (Expert)
-
-**Definition**  
-Manipulating an emotional response in place of a valid or compelling argument.
-
-**Applied to this passage**  
-« Power lines cause cancer. I met a little boy with cancer who lived just 20 miles from a power line who looked into my eyes and said 'Please do whatever you can so that other kids won't have to go through what I am going through.' »  
-
-Here, **Appeal to Emotion** is the right name because manipulating an emotional response in place of a valid or compelling argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 3:** Another everyday spot: sports or business results. Manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 4:** **Setting:** a family argument. **What goes wrong:** Manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 5:** Imagine a policy or workplace discussion. The slip is the same: manipulating an emotional response in place of a valid or compelling argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Emotion** means Manipulating an emotional response in place of a valid or compelling argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Emotion = Manipulating an emotional response in place of a valid or compelling argument.`,
   },
   473: {
-    beginner: `## Appeal to Emotion — in-depth (Beginner)
+    beginner: `Appeal to Emotion = Manipulating an emotional response in place of a valid or compelling argument.`,
+    detail: `Appeal to Emotion
 
-**What this is, in plain English**  
+Description:
 Manipulating an emotional response in place of a valid or compelling argument.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« There must be objective rights and wrongs in the universe. If not, how can you possibly say that torturing babies for fun is wrong? »  
+Example (question)
+« There must be objective rights and wrongs in the universe. If not, how can you possibly say that torturing babies for fun is wrong? »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Emotion**  
-Manipulating an emotional response in place of a valid or compelling argument. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Manipulating an emotional response in place of a valid or compelling argument.`,
-    intermediate: `## Appeal to Emotion — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Manipulating an emotional response in place of a valid or compelling argument.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« There must be objective rights and wrongs in the universe. If not, how can you possibly say that torturing babies for fun is wrong? »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Appeal to Emotion** in action: manipulating an emotional response in place of a valid or compelling argument.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Another everyday spot: a health or habits story. Manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Manipulating an emotional response in place of a valid or compelling argument.
-
-**In one sentence**  
-Appeal to Emotion is the label for reasoning that fits: Manipulating an emotional response in place of a valid or compelling argument.`,
-    expert: `## Appeal to Emotion — in-depth (Expert)
-
-**Definition**  
-Manipulating an emotional response in place of a valid or compelling argument.
-
-**Applied to this passage**  
-« There must be objective rights and wrongs in the universe. If not, how can you possibly say that torturing babies for fun is wrong? »  
-
-Here, **Appeal to Emotion** is the right name because manipulating an emotional response in place of a valid or compelling argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 2:** Another everyday spot: a health or habits story. Manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 4:** Imagine a news headline or social post. The slip is the same: manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 5:** Picture a health or habits story. People often reason as if manipulating an emotional response in place of a valid or compelling argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Emotion** means Manipulating an emotional response in place of a valid or compelling argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Emotion = Manipulating an emotional response in place of a valid or compelling argument.`,
   },
   474: {
-    beginner: `## Appeal to Emotion — in-depth (Beginner)
+    beginner: `Appeal to Emotion = Manipulating an emotional response in place of a valid or compelling argument.`,
+    detail: `Appeal to Emotion
 
-**What this is, in plain English**  
+Description:
 Manipulating an emotional response in place of a valid or compelling argument.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« If you don't buy this insurance, your family will be destitute when you die. »  
+Example (question)
+« If you don't buy this insurance, your family will be destitute when you die. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Emotion**  
-Manipulating an emotional response in place of a valid or compelling argument. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Manipulating an emotional response in place of a valid or compelling argument.`,
-    intermediate: `## Appeal to Emotion — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Manipulating an emotional response in place of a valid or compelling argument.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« If you don't buy this insurance, your family will be destitute when you die. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Appeal to Emotion** in action: manipulating an emotional response in place of a valid or compelling argument.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Manipulating an emotional response in place of a valid or compelling argument.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 3:** Imagine a family argument. The slip is the same: manipulating an emotional response in place of a valid or compelling argument.
-
-**In one sentence**  
-Appeal to Emotion is the label for reasoning that fits: Manipulating an emotional response in place of a valid or compelling argument.`,
-    expert: `## Appeal to Emotion — in-depth (Expert)
-
-**Definition**  
-Manipulating an emotional response in place of a valid or compelling argument.
-
-**Applied to this passage**  
-« If you don't buy this insurance, your family will be destitute when you die. »  
-
-Here, **Appeal to Emotion** is the right name because manipulating an emotional response in place of a valid or compelling argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 3:** Imagine a family argument. The slip is the same: manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 4:** Picture a policy or workplace discussion. People often reason as if manipulating an emotional response in place of a valid or compelling argument.
-
-- **Example 5:** In sports or business results, watch for this pattern: Manipulating an emotional response in place of a valid or compelling argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Emotion** means Manipulating an emotional response in place of a valid or compelling argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Emotion = Manipulating an emotional response in place of a valid or compelling argument.`,
   },
   475: {
-    beginner: `## Appeal to Fear — in-depth (Beginner)
+    beginner: `Appeal to Fear = Using scare tactics to influence the audience's decision-making.`,
+    detail: `Appeal to Fear
 
-**What this is, in plain English**  
+Description:
 Using scare tactics to influence the audience's decision-making.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« If you don't vote for me, terrorists will attack our city. »  
+Example (question)
+« If you don't vote for me, terrorists will attack our city. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Fear**  
-Using scare tactics to influence the audience's decision-making. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Using scare tactics to influence the audience's decision-making.`,
-    intermediate: `## Appeal to Fear — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Using scare tactics to influence the audience's decision-making.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« If you don't vote for me, terrorists will attack our city. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Appeal to Fear** in action: using scare tactics to influence the audience's decision-making.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Using scare tactics to influence the audience's decision-making.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: using scare tactics to influence the audience's decision-making.
-
-- **Example 3:** Picture a news headline or social post. People often reason as if using scare tactics to influence the audience's decision-making.
-
-**In one sentence**  
-Appeal to Fear is the label for reasoning that fits: Using scare tactics to influence the audience's decision-making.`,
-    expert: `## Appeal to Fear — in-depth (Expert)
-
-**Definition**  
-Using scare tactics to influence the audience's decision-making.
-
-**Applied to this passage**  
-« If you don't vote for me, terrorists will attack our city. »  
-
-Here, **Appeal to Fear** is the right name because using scare tactics to influence the audience's decision-making.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Using scare tactics to influence the audience's decision-making.
-
-- **Example 2:** Imagine school grades or test scores. The slip is the same: using scare tactics to influence the audience's decision-making.
-
-- **Example 3:** Picture a news headline or social post. People often reason as if using scare tactics to influence the audience's decision-making.
-
-- **Example 4:** In a health or habits story, watch for this pattern: Using scare tactics to influence the audience's decision-making.
-
-- **Example 5:** Another everyday spot: school grades or test scores. Using scare tactics to influence the audience's decision-making.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Fear** means Using scare tactics to influence the audience's decision-making.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Appeal to Fear = Using scare tactics to influence the audience's decision-making.`,
   },
   476: {
-    beginner: `## Appeal to Fear — in-depth (Beginner)
+    beginner: `Appeal to Fear = Using scare tactics to influence the audience's decision-making.`,
+    detail: `Appeal to Fear
 
-**What this is, in plain English**  
+Description:
 Using scare tactics to influence the audience's decision-making.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Buy this security system or your home will be burglarized. »  
+Example (question)
+« Buy this security system or your home will be burglarized. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Fear**  
-Using scare tactics to influence the audience's decision-making. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Using scare tactics to influence the audience's decision-making.`,
-    intermediate: `## Appeal to Fear — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Using scare tactics to influence the audience's decision-making.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Buy this security system or your home will be burglarized. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Appeal to Fear** in action: using scare tactics to influence the audience's decision-making.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: using scare tactics to influence the audience's decision-making.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Picture a family argument. People often reason as if using scare tactics to influence the audience's decision-making.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Using scare tactics to influence the audience's decision-making.
-
-**In one sentence**  
-Appeal to Fear is the label for reasoning that fits: Using scare tactics to influence the audience's decision-making.`,
-    expert: `## Appeal to Fear — in-depth (Expert)
-
-**Definition**  
-Using scare tactics to influence the audience's decision-making.
-
-**Applied to this passage**  
-« Buy this security system or your home will be burglarized. »  
-
-Here, **Appeal to Fear** is the right name because using scare tactics to influence the audience's decision-making.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: using scare tactics to influence the audience's decision-making.
-
-- **Example 2:** Picture a family argument. People often reason as if using scare tactics to influence the audience's decision-making.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Using scare tactics to influence the audience's decision-making.
-
-- **Example 4:** Another everyday spot: sports or business results. Using scare tactics to influence the audience's decision-making.
-
-- **Example 5:** **Setting:** a family argument. **What goes wrong:** Using scare tactics to influence the audience's decision-making.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Fear** means Using scare tactics to influence the audience's decision-making.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Appeal to Fear = Using scare tactics to influence the audience's decision-making.`,
   },
   477: {
-    beginner: `## Appeal to Fear — in-depth (Beginner)
+    beginner: `Appeal to Fear = Using scare tactics to influence the audience's decision-making.`,
+    detail: `Appeal to Fear
 
-**What this is, in plain English**  
+Description:
 Using scare tactics to influence the audience's decision-making.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Without this vaccine, your child will die from preventable diseases. »  
+Example (question)
+« Without this vaccine, your child will die from preventable diseases. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Fear**  
-Using scare tactics to influence the audience's decision-making. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Using scare tactics to influence the audience's decision-making.`,
-    intermediate: `## Appeal to Fear — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Using scare tactics to influence the audience's decision-making.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Without this vaccine, your child will die from preventable diseases. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Appeal to Fear** in action: using scare tactics to influence the audience's decision-making.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if using scare tactics to influence the audience's decision-making.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** In a news headline or social post, watch for this pattern: Using scare tactics to influence the audience's decision-making.
-
-- **Example 3:** Another everyday spot: a health or habits story. Using scare tactics to influence the audience's decision-making.
-
-**In one sentence**  
-Appeal to Fear is the label for reasoning that fits: Using scare tactics to influence the audience's decision-making.`,
-    expert: `## Appeal to Fear — in-depth (Expert)
-
-**Definition**  
-Using scare tactics to influence the audience's decision-making.
-
-**Applied to this passage**  
-« Without this vaccine, your child will die from preventable diseases. »  
-
-Here, **Appeal to Fear** is the right name because using scare tactics to influence the audience's decision-making.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if using scare tactics to influence the audience's decision-making.
-
-- **Example 2:** In a news headline or social post, watch for this pattern: Using scare tactics to influence the audience's decision-making.
-
-- **Example 3:** Another everyday spot: a health or habits story. Using scare tactics to influence the audience's decision-making.
-
-- **Example 4:** **Setting:** school grades or test scores. **What goes wrong:** Using scare tactics to influence the audience's decision-making.
-
-- **Example 5:** Imagine a news headline or social post. The slip is the same: using scare tactics to influence the audience's decision-making.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Fear** means Using scare tactics to influence the audience's decision-making.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Appeal to Fear = Using scare tactics to influence the audience's decision-making.`,
   },
   478: {
-    beginner: `## Appeal to Ignorance — in-depth (Beginner)
+    beginner: `Appeal to Ignorance = Arguing that a claim is true simply because it has not been proven false.`,
+    detail: `Appeal to Ignorance
 
-**What this is, in plain English**  
+Description:
 Arguing that a claim is true simply because it has not been proven false.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Although we have proven that the moon is not made of spare ribs, we have not proven that its core cannot be filled with them; therefore, the moon’s core is filled with spare ribs. »  
+Example (question)
+« Although we have proven that the moon is not made of spare ribs, we have not proven that its core cannot be filled with them; therefore, the moon’s core is filled with spare ribs. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Ignorance**  
-Arguing that a claim is true simply because it has not been proven false. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Arguing that a claim is true simply because it has not been proven false.`,
-    intermediate: `## Appeal to Ignorance — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Arguing that a claim is true simply because it has not been proven false.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Although we have proven that the moon is not made of spare ribs, we have not proven that its core cannot be filled with them; therefore, the moon’s core is filled with spare ribs. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Appeal to Ignorance** in action: arguing that a claim is true simply because it has not been proven false.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Arguing that a claim is true simply because it has not been proven false.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Arguing that a claim is true simply because it has not been proven false.
-
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
-
-**In one sentence**  
-Appeal to Ignorance is the label for reasoning that fits: Arguing that a claim is true simply because it has not been proven false.`,
-    expert: `## Appeal to Ignorance — in-depth (Expert)
-
-**Definition**  
-Arguing that a claim is true simply because it has not been proven false.
-
-**Applied to this passage**  
-« Although we have proven that the moon is not made of spare ribs, we have not proven that its core cannot be filled with them; therefore, the moon’s core is filled with spare ribs. »  
-
-Here, **Appeal to Ignorance** is the right name because arguing that a claim is true simply because it has not been proven false.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Arguing that a claim is true simply because it has not been proven false.
-
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Arguing that a claim is true simply because it has not been proven false.
-
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
-
-- **Example 4:** Imagine a family argument. The slip is the same: arguing that a claim is true simply because it has not been proven false.
-
-- **Example 5:** Picture a policy or workplace discussion. People often reason as if arguing that a claim is true simply because it has not been proven false.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Ignorance** means Arguing that a claim is true simply because it has not been proven false.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Appeal to Ignorance = Arguing that a claim is true simply because it has not been proven false.`,
   },
   479: {
-    beginner: `## Appeal to Ignorance — in-depth (Beginner)
+    beginner: `Appeal to Ignorance = Arguing that a claim is true simply because it has not been proven false.`,
+    detail: `Appeal to Ignorance
 
-**What this is, in plain English**  
+Description:
 Arguing that a claim is true simply because it has not been proven false.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« No one has proven that ghosts don't exist, so they must exist. »  
+Example (question)
+« No one has proven that ghosts don't exist, so they must exist. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Ignorance**  
-Arguing that a claim is true simply because it has not been proven false. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Arguing that a claim is true simply because it has not been proven false.`,
-    intermediate: `## Appeal to Ignorance — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Arguing that a claim is true simply because it has not been proven false.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« No one has proven that ghosts don't exist, so they must exist. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Appeal to Ignorance** in action: arguing that a claim is true simply because it has not been proven false.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Arguing that a claim is true simply because it has not been proven false.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: arguing that a claim is true simply because it has not been proven false.
-
-**In one sentence**  
-Appeal to Ignorance is the label for reasoning that fits: Arguing that a claim is true simply because it has not been proven false.`,
-    expert: `## Appeal to Ignorance — in-depth (Expert)
-
-**Definition**  
-Arguing that a claim is true simply because it has not been proven false.
-
-**Applied to this passage**  
-« No one has proven that ghosts don't exist, so they must exist. »  
-
-Here, **Appeal to Ignorance** is the right name because arguing that a claim is true simply because it has not been proven false.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Arguing that a claim is true simply because it has not been proven false.
-
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: arguing that a claim is true simply because it has not been proven false.
-
-- **Example 4:** Picture a news headline or social post. People often reason as if arguing that a claim is true simply because it has not been proven false.
-
-- **Example 5:** In a health or habits story, watch for this pattern: Arguing that a claim is true simply because it has not been proven false.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Ignorance** means Arguing that a claim is true simply because it has not been proven false.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Appeal to Ignorance = Arguing that a claim is true simply because it has not been proven false.`,
   },
   480: {
-    beginner: `## Appeal to Ignorance — in-depth (Beginner)
+    beginner: `Appeal to Ignorance = Arguing that a claim is true simply because it has not been proven false.`,
+    detail: `Appeal to Ignorance
 
-**What this is, in plain English**  
+Description:
 Arguing that a claim is true simply because it has not been proven false.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Since you haven't been able to prove your innocence, I must assume you are guilty. »  
+Example (question)
+« Since you haven't been able to prove your innocence, I must assume you are guilty. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Ignorance**  
-Arguing that a claim is true simply because it has not been proven false. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Arguing that a claim is true simply because it has not been proven false.`,
-    intermediate: `## Appeal to Ignorance — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Arguing that a claim is true simply because it has not been proven false.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Since you haven't been able to prove your innocence, I must assume you are guilty. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Appeal to Ignorance** in action: arguing that a claim is true simply because it has not been proven false.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Imagine sports or business results. The slip is the same: arguing that a claim is true simply because it has not been proven false.
-
-- **Example 3:** Picture a family argument. People often reason as if arguing that a claim is true simply because it has not been proven false.
-
-**In one sentence**  
-Appeal to Ignorance is the label for reasoning that fits: Arguing that a claim is true simply because it has not been proven false.`,
-    expert: `## Appeal to Ignorance — in-depth (Expert)
-
-**Definition**  
-Arguing that a claim is true simply because it has not been proven false.
-
-**Applied to this passage**  
-« Since you haven't been able to prove your innocence, I must assume you are guilty. »  
-
-Here, **Appeal to Ignorance** is the right name because arguing that a claim is true simply because it has not been proven false.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Arguing that a claim is true simply because it has not been proven false.
-
-- **Example 2:** Imagine sports or business results. The slip is the same: arguing that a claim is true simply because it has not been proven false.
-
-- **Example 3:** Picture a family argument. People often reason as if arguing that a claim is true simply because it has not been proven false.
-
-- **Example 4:** In a policy or workplace discussion, watch for this pattern: Arguing that a claim is true simply because it has not been proven false.
-
-- **Example 5:** Another everyday spot: sports or business results. Arguing that a claim is true simply because it has not been proven false.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Ignorance** means Arguing that a claim is true simply because it has not been proven false.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Appeal to Ignorance = Arguing that a claim is true simply because it has not been proven false.`,
   },
   481: {
-    beginner: `## Appeal to Incredulity — in-depth (Beginner)
+    beginner: `Appeal to Incredulity = Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
+    detail: `Appeal to Incredulity
 
-**What this is, in plain English**  
+Description:
 Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« I cannot imagine how this could be true, therefore it must be false. »  
+Example (question)
+« I cannot imagine how this could be true, therefore it must be false. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Incredulity**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
-    intermediate: `## Appeal to Incredulity — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« I cannot imagine how this could be true, therefore it must be false. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Appeal to Incredulity** in action: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 3:** In a news headline or social post, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**In one sentence**  
-Appeal to Incredulity is the label for reasoning that fits: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
-    expert: `## Appeal to Incredulity — in-depth (Expert)
-
-**Definition**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**Applied to this passage**  
-« I cannot imagine how this could be true, therefore it must be false. »  
-
-Here, **Appeal to Incredulity** is the right name because asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 2:** Picture school grades or test scores. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 3:** In a news headline or social post, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 4:** Another everyday spot: a health or habits story. Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Incredulity** means Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Appeal to Incredulity = Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
   },
   482: {
-    beginner: `## Appeal to Incredulity — in-depth (Beginner)
+    beginner: `Appeal to Incredulity = Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
+    detail: `Appeal to Incredulity
 
-**What this is, in plain English**  
+Description:
 Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« It's impossible that humans evolved from monkeys, it just doesn't make sense to me. »  
+Example (question)
+« It's impossible that humans evolved from monkeys, it just doesn't make sense to me. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Incredulity**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
-    intermediate: `## Appeal to Incredulity — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« It's impossible that humans evolved from monkeys, it just doesn't make sense to me. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Appeal to Incredulity** in action: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** In a family argument, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**In one sentence**  
-Appeal to Incredulity is the label for reasoning that fits: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
-    expert: `## Appeal to Incredulity — in-depth (Expert)
-
-**Definition**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**Applied to this passage**  
-« It's impossible that humans evolved from monkeys, it just doesn't make sense to me. »  
-
-Here, **Appeal to Incredulity** is the right name because asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 2:** In a family argument, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 4:** **Setting:** sports or business results. **What goes wrong:** Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 5:** Imagine a family argument. The slip is the same: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Incredulity** means Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Appeal to Incredulity = Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
   },
   483: {
-    beginner: `## Appeal to Incredulity — in-depth (Beginner)
+    beginner: `Appeal to Incredulity = Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
+    detail: `Appeal to Incredulity
 
-**What this is, in plain English**  
+Description:
 Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« I don't understand how vaccines work, so they must be dangerous. »  
+Example (question)
+« I don't understand how vaccines work, so they must be dangerous. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Incredulity**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
-    intermediate: `## Appeal to Incredulity — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« I don't understand how vaccines work, so they must be dangerous. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Appeal to Incredulity** in action: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Another everyday spot: a news headline or social post. Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**In one sentence**  
-Appeal to Incredulity is the label for reasoning that fits: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
-    expert: `## Appeal to Incredulity — in-depth (Expert)
-
-**Definition**  
-Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**Applied to this passage**  
-« I don't understand how vaccines work, so they must be dangerous. »  
-
-Here, **Appeal to Incredulity** is the right name because asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 2:** Another everyday spot: a news headline or social post. Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 4:** Imagine school grades or test scores. The slip is the same: asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-- **Example 5:** Picture a news headline or social post. People often reason as if asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Incredulity** means Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Appeal to Incredulity = Asserting that a proposition must be false because it contradicts one's personal expectations or is difficult to imagine.`,
   },
   484: {
-    beginner: `## Anecdotal Fallacy — in-depth (Beginner)
+    beginner: `Anecdotal Fallacy = Using a personal experience or an isolated example instead of effective evidence.`,
+    detail: `Anecdotal Fallacy
 
-**What this is, in plain English**  
+Description:
 Using a personal experience or an isolated example instead of effective evidence.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Jason said that that was all cool and everything, but his grandfather smoked cigarettes every day and lived until 97 - so don't believe everything you read about studies showing smoking causes health problems. »  
+Example (question)
+« Jason said that that was all cool and everything, but his grandfather smoked cigarettes every day and lived until 97 - so don't believe everything you read about studies showing smoking causes health problems. »
+This is the exact kind of move the question is testing.
 
-**Why this is Anecdotal Fallacy**  
-Using a personal experience or an isolated example instead of effective evidence. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Using a personal experience or an isolated example instead of effective evidence.`,
-    intermediate: `## Anecdotal Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Using a personal experience or an isolated example instead of effective evidence.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Jason said that that was all cool and everything, but his grandfather smoked cigarettes every day and lived until 97 - so don't believe everything you read about studies showing smoking causes health problems. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Anecdotal Fallacy** in action: using a personal experience or an isolated example instead of effective evidence.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Using a personal experience or an isolated example instead of effective evidence.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
-
-**In one sentence**  
-Anecdotal Fallacy is the label for reasoning that fits: Using a personal experience or an isolated example instead of effective evidence.`,
-    expert: `## Anecdotal Fallacy — in-depth (Expert)
-
-**Definition**  
-Using a personal experience or an isolated example instead of effective evidence.
-
-**Applied to this passage**  
-« Jason said that that was all cool and everything, but his grandfather smoked cigarettes every day and lived until 97 - so don't believe everything you read about studies showing smoking causes health problems. »  
-
-Here, **Anecdotal Fallacy** is the right name because using a personal experience or an isolated example instead of effective evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 4:** Picture a family argument. People often reason as if using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 5:** In a policy or workplace discussion, watch for this pattern: Using a personal experience or an isolated example instead of effective evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Anecdotal Fallacy** means Using a personal experience or an isolated example instead of effective evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Anecdotal Fallacy = Using a personal experience or an isolated example instead of effective evidence.`,
   },
   485: {
-    beginner: `## Anecdotal Fallacy — in-depth (Beginner)
+    beginner: `Anecdotal Fallacy = Using a personal experience or an isolated example instead of effective evidence.`,
+    detail: `Anecdotal Fallacy
 
-**What this is, in plain English**  
+Description:
 Using a personal experience or an isolated example instead of effective evidence.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« I know someone who was cured by crystals, so crystals work. »  
+Example (question)
+« I know someone who was cured by crystals, so crystals work. »
+This is the exact kind of move the question is testing.
 
-**Why this is Anecdotal Fallacy**  
-Using a personal experience or an isolated example instead of effective evidence. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Using a personal experience or an isolated example instead of effective evidence.`,
-    intermediate: `## Anecdotal Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Using a personal experience or an isolated example instead of effective evidence.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« I know someone who was cured by crystals, so crystals work. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Anecdotal Fallacy** in action: using a personal experience or an isolated example instead of effective evidence.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Imagine a health or habits story. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if using a personal experience or an isolated example instead of effective evidence.
-
-**In one sentence**  
-Anecdotal Fallacy is the label for reasoning that fits: Using a personal experience or an isolated example instead of effective evidence.`,
-    expert: `## Anecdotal Fallacy — in-depth (Expert)
-
-**Definition**  
-Using a personal experience or an isolated example instead of effective evidence.
-
-**Applied to this passage**  
-« I know someone who was cured by crystals, so crystals work. »  
-
-Here, **Anecdotal Fallacy** is the right name because using a personal experience or an isolated example instead of effective evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 2:** Imagine a health or habits story. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 4:** In a news headline or social post, watch for this pattern: Using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 5:** Another everyday spot: a health or habits story. Using a personal experience or an isolated example instead of effective evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Anecdotal Fallacy** means Using a personal experience or an isolated example instead of effective evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Anecdotal Fallacy = Using a personal experience or an isolated example instead of effective evidence.`,
   },
   486: {
-    beginner: `## Anecdotal Fallacy — in-depth (Beginner)
+    beginner: `Anecdotal Fallacy = Using a personal experience or an isolated example instead of effective evidence.`,
+    detail: `Anecdotal Fallacy
 
-**What this is, in plain English**  
+Description:
 Using a personal experience or an isolated example instead of effective evidence.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« My car broke down, so all cars of this brand are unreliable. »  
+Example (question)
+« My car broke down, so all cars of this brand are unreliable. »
+This is the exact kind of move the question is testing.
 
-**Why this is Anecdotal Fallacy**  
-Using a personal experience or an isolated example instead of effective evidence. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Using a personal experience or an isolated example instead of effective evidence.`,
-    intermediate: `## Anecdotal Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Using a personal experience or an isolated example instead of effective evidence.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« My car broke down, so all cars of this brand are unreliable. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Anecdotal Fallacy** in action: using a personal experience or an isolated example instead of effective evidence.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Picture sports or business results. People often reason as if using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 3:** In a family argument, watch for this pattern: Using a personal experience or an isolated example instead of effective evidence.
-
-**In one sentence**  
-Anecdotal Fallacy is the label for reasoning that fits: Using a personal experience or an isolated example instead of effective evidence.`,
-    expert: `## Anecdotal Fallacy — in-depth (Expert)
-
-**Definition**  
-Using a personal experience or an isolated example instead of effective evidence.
-
-**Applied to this passage**  
-« My car broke down, so all cars of this brand are unreliable. »  
-
-Here, **Anecdotal Fallacy** is the right name because using a personal experience or an isolated example instead of effective evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 2:** Picture sports or business results. People often reason as if using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 3:** In a family argument, watch for this pattern: Using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 4:** Another everyday spot: a policy or workplace discussion. Using a personal experience or an isolated example instead of effective evidence.
-
-- **Example 5:** **Setting:** sports or business results. **What goes wrong:** Using a personal experience or an isolated example instead of effective evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Anecdotal Fallacy** means Using a personal experience or an isolated example instead of effective evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Anecdotal Fallacy = Using a personal experience or an isolated example instead of effective evidence.`,
   },
   487: {
-    beginner: `## Availability Heuristic — in-depth (Beginner)
+    beginner: `Availability Heuristic = Overestimating the importance of information that is available (easy to remember).`,
+    detail: `Availability Heuristic
 
-**What this is, in plain English**  
+Description:
 Overestimating the importance of information that is available (easy to remember).
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« People overestimate the risk of plane crashes because they are highly publicized, ignoring that car accidents are more common. »  
+Example (question)
+« People overestimate the risk of plane crashes because they are highly publicized, ignoring that car accidents are more common. »
+This is the exact kind of move the question is testing.
 
-**Why this is Availability Heuristic**  
-Overestimating the importance of information that is available (easy to remember). That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Overestimating the importance of information that is available (easy to remember).`,
-    intermediate: `## Availability Heuristic — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Overestimating the importance of information that is available (easy to remember).
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« People overestimate the risk of plane crashes because they are highly publicized, ignoring that car accidents are more common. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Availability Heuristic** in action: overestimating the importance of information that is available (easy to remember).
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if overestimating the importance of information that is available (easy to remember).
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** In school grades or test scores, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
-
-- **Example 3:** Another everyday spot: a news headline or social post. Overestimating the importance of information that is available (easy to remember).
-
-**In one sentence**  
-Availability Heuristic is the label for reasoning that fits: Overestimating the importance of information that is available (easy to remember).`,
-    expert: `## Availability Heuristic — in-depth (Expert)
-
-**Definition**  
-Overestimating the importance of information that is available (easy to remember).
-
-**Applied to this passage**  
-« People overestimate the risk of plane crashes because they are highly publicized, ignoring that car accidents are more common. »  
-
-Here, **Availability Heuristic** is the right name because overestimating the importance of information that is available (easy to remember).
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if overestimating the importance of information that is available (easy to remember).
-
-- **Example 2:** In school grades or test scores, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
-
-- **Example 3:** Another everyday spot: a news headline or social post. Overestimating the importance of information that is available (easy to remember).
-
-- **Example 4:** **Setting:** a health or habits story. **What goes wrong:** Overestimating the importance of information that is available (easy to remember).
-
-- **Example 5:** Imagine school grades or test scores. The slip is the same: overestimating the importance of information that is available (easy to remember).
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Availability Heuristic** means Overestimating the importance of information that is available (easy to remember).
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Memory & Perception Effects`,
+One-line version
+Availability Heuristic = Overestimating the importance of information that is available (easy to remember).`,
   },
   488: {
-    beginner: `## Availability Heuristic — in-depth (Beginner)
+    beginner: `Availability Heuristic = Overestimating the importance of information that is available (easy to remember).`,
+    detail: `Availability Heuristic
 
-**What this is, in plain English**  
+Description:
 Overestimating the importance of information that is available (easy to remember).
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Thinking shark attacks are common because media covers them, but drowning is more frequent. »  
+Example (question)
+« Thinking shark attacks are common because media covers them, but drowning is more frequent. »
+This is the exact kind of move the question is testing.
 
-**Why this is Availability Heuristic**  
-Overestimating the importance of information that is available (easy to remember). That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Overestimating the importance of information that is available (easy to remember).`,
-    intermediate: `## Availability Heuristic — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Overestimating the importance of information that is available (easy to remember).
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Thinking shark attacks are common because media covers them, but drowning is more frequent. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Availability Heuristic** in action: overestimating the importance of information that is available (easy to remember).
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Another everyday spot: a family argument. Overestimating the importance of information that is available (easy to remember).
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Overestimating the importance of information that is available (easy to remember).
-
-**In one sentence**  
-Availability Heuristic is the label for reasoning that fits: Overestimating the importance of information that is available (easy to remember).`,
-    expert: `## Availability Heuristic — in-depth (Expert)
-
-**Definition**  
-Overestimating the importance of information that is available (easy to remember).
-
-**Applied to this passage**  
-« Thinking shark attacks are common because media covers them, but drowning is more frequent. »  
-
-Here, **Availability Heuristic** is the right name because overestimating the importance of information that is available (easy to remember).
-
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
-
-- **Example 2:** Another everyday spot: a family argument. Overestimating the importance of information that is available (easy to remember).
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Overestimating the importance of information that is available (easy to remember).
-
-- **Example 4:** Imagine sports or business results. The slip is the same: overestimating the importance of information that is available (easy to remember).
-
-- **Example 5:** Picture a family argument. People often reason as if overestimating the importance of information that is available (easy to remember).
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Availability Heuristic** means Overestimating the importance of information that is available (easy to remember).
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Memory & Perception Effects`,
+One-line version
+Availability Heuristic = Overestimating the importance of information that is available (easy to remember).`,
   },
   489: {
-    beginner: `## Availability Heuristic — in-depth (Beginner)
+    beginner: `Availability Heuristic = Overestimating the importance of information that is available (easy to remember).`,
+    detail: `Availability Heuristic
 
-**What this is, in plain English**  
+Description:
 Overestimating the importance of information that is available (easy to remember).
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Recalling recent news events as more significant than statistical data. »  
+Example (question)
+« Recalling recent news events as more significant than statistical data. »
+This is the exact kind of move the question is testing.
 
-**Why this is Availability Heuristic**  
-Overestimating the importance of information that is available (easy to remember). That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Overestimating the importance of information that is available (easy to remember).`,
-    intermediate: `## Availability Heuristic — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Overestimating the importance of information that is available (easy to remember).
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Recalling recent news events as more significant than statistical data. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Availability Heuristic** in action: overestimating the importance of information that is available (easy to remember).
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Overestimating the importance of information that is available (easy to remember).
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Overestimating the importance of information that is available (easy to remember).
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: overestimating the importance of information that is available (easy to remember).
-
-**In one sentence**  
-Availability Heuristic is the label for reasoning that fits: Overestimating the importance of information that is available (easy to remember).`,
-    expert: `## Availability Heuristic — in-depth (Expert)
-
-**Definition**  
-Overestimating the importance of information that is available (easy to remember).
-
-**Applied to this passage**  
-« Recalling recent news events as more significant than statistical data. »  
-
-Here, **Availability Heuristic** is the right name because overestimating the importance of information that is available (easy to remember).
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Overestimating the importance of information that is available (easy to remember).
-
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Overestimating the importance of information that is available (easy to remember).
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: overestimating the importance of information that is available (easy to remember).
-
-- **Example 4:** Picture school grades or test scores. People often reason as if overestimating the importance of information that is available (easy to remember).
-
-- **Example 5:** In a news headline or social post, watch for this pattern: Overestimating the importance of information that is available (easy to remember).
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Availability Heuristic** means Overestimating the importance of information that is available (easy to remember).
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Memory & Perception Effects`,
+One-line version
+Availability Heuristic = Overestimating the importance of information that is available (easy to remember).`,
   },
   490: {
-    beginner: `## Base Rate Fallacy — in-depth (Beginner)
+    beginner: `Base Rate Fallacy = Ignoring statistical information in favor of specific, vivid cases.`,
+    detail: `Base Rate Fallacy
 
-**What this is, in plain English**  
+Description:
 Ignoring statistical information in favor of specific, vivid cases.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« A person tests positive for a rare disease. The test is 99% accurate, but the disease affects only 1 in 10,000 people. Despite the low base rate, they believe they have the disease. »  
+Example (question)
+« A person tests positive for a rare disease. The test is 99% accurate, but the disease affects only 1 in 10,000 people. Despite the low base rate, they believe they have the disease. »
+This is the exact kind of move the question is testing.
 
-**Why this is Base Rate Fallacy**  
-Ignoring statistical information in favor of specific, vivid cases. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Ignoring statistical information in favor of specific, vivid cases.`,
-    intermediate: `## Base Rate Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Ignoring statistical information in favor of specific, vivid cases.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« A person tests positive for a rare disease. The test is 99% accurate, but the disease affects only 1 in 10,000 people. Despite the low base rate, they believe they have the disease. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Base Rate Fallacy** in action: ignoring statistical information in favor of specific, vivid cases.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Ignoring statistical information in favor of specific, vivid cases.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 3:** Picture sports or business results. People often reason as if ignoring statistical information in favor of specific, vivid cases.
-
-**In one sentence**  
-Base Rate Fallacy is the label for reasoning that fits: Ignoring statistical information in favor of specific, vivid cases.`,
-    expert: `## Base Rate Fallacy — in-depth (Expert)
-
-**Definition**  
-Ignoring statistical information in favor of specific, vivid cases.
-
-**Applied to this passage**  
-« A person tests positive for a rare disease. The test is 99% accurate, but the disease affects only 1 in 10,000 people. Despite the low base rate, they believe they have the disease. »  
-
-Here, **Base Rate Fallacy** is the right name because ignoring statistical information in favor of specific, vivid cases.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 3:** Picture sports or business results. People often reason as if ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 4:** In a family argument, watch for this pattern: Ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 5:** Another everyday spot: a policy or workplace discussion. Ignoring statistical information in favor of specific, vivid cases.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Base Rate Fallacy** means Ignoring statistical information in favor of specific, vivid cases.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Base Rate Fallacy = Ignoring statistical information in favor of specific, vivid cases.`,
   },
   491: {
-    beginner: `## Base Rate Fallacy — in-depth (Beginner)
+    beginner: `Base Rate Fallacy = Ignoring statistical information in favor of specific, vivid cases.`,
+    detail: `Base Rate Fallacy
 
-**What this is, in plain English**  
+Description:
 Ignoring statistical information in favor of specific, vivid cases.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Assuming a stock is a good investment because a friend made money on it, ignoring overall market statistics. »  
+Example (question)
+« Assuming a stock is a good investment because a friend made money on it, ignoring overall market statistics. »
+This is the exact kind of move the question is testing.
 
-**Why this is Base Rate Fallacy**  
-Ignoring statistical information in favor of specific, vivid cases. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Ignoring statistical information in favor of specific, vivid cases.`,
-    intermediate: `## Base Rate Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Ignoring statistical information in favor of specific, vivid cases.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Assuming a stock is a good investment because a friend made money on it, ignoring overall market statistics. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Base Rate Fallacy** in action: ignoring statistical information in favor of specific, vivid cases.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Picture a health or habits story. People often reason as if ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: Ignoring statistical information in favor of specific, vivid cases.
-
-**In one sentence**  
-Base Rate Fallacy is the label for reasoning that fits: Ignoring statistical information in favor of specific, vivid cases.`,
-    expert: `## Base Rate Fallacy — in-depth (Expert)
-
-**Definition**  
-Ignoring statistical information in favor of specific, vivid cases.
-
-**Applied to this passage**  
-« Assuming a stock is a good investment because a friend made money on it, ignoring overall market statistics. »  
-
-Here, **Base Rate Fallacy** is the right name because ignoring statistical information in favor of specific, vivid cases.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 2:** Picture a health or habits story. People often reason as if ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: Ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 4:** Another everyday spot: a news headline or social post. Ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Ignoring statistical information in favor of specific, vivid cases.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Base Rate Fallacy** means Ignoring statistical information in favor of specific, vivid cases.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Base Rate Fallacy = Ignoring statistical information in favor of specific, vivid cases.`,
   },
   492: {
-    beginner: `## Base Rate Fallacy — in-depth (Beginner)
+    beginner: `Base Rate Fallacy = Ignoring statistical information in favor of specific, vivid cases.`,
+    detail: `Base Rate Fallacy
 
-**What this is, in plain English**  
+Description:
 Ignoring statistical information in favor of specific, vivid cases.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Believing in a conspiracy because of one unusual event, disregarding common occurrences. »  
+Example (question)
+« Believing in a conspiracy because of one unusual event, disregarding common occurrences. »
+This is the exact kind of move the question is testing.
 
-**Why this is Base Rate Fallacy**  
-Ignoring statistical information in favor of specific, vivid cases. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Ignoring statistical information in favor of specific, vivid cases.`,
-    intermediate: `## Base Rate Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Ignoring statistical information in favor of specific, vivid cases.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Believing in a conspiracy because of one unusual event, disregarding common occurrences. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Base Rate Fallacy** in action: ignoring statistical information in favor of specific, vivid cases.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if ignoring statistical information in favor of specific, vivid cases.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** In sports or business results, watch for this pattern: Ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 3:** Another everyday spot: a family argument. Ignoring statistical information in favor of specific, vivid cases.
-
-**In one sentence**  
-Base Rate Fallacy is the label for reasoning that fits: Ignoring statistical information in favor of specific, vivid cases.`,
-    expert: `## Base Rate Fallacy — in-depth (Expert)
-
-**Definition**  
-Ignoring statistical information in favor of specific, vivid cases.
-
-**Applied to this passage**  
-« Believing in a conspiracy because of one unusual event, disregarding common occurrences. »  
-
-Here, **Base Rate Fallacy** is the right name because ignoring statistical information in favor of specific, vivid cases.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 2:** In sports or business results, watch for this pattern: Ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 3:** Another everyday spot: a family argument. Ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 4:** **Setting:** a policy or workplace discussion. **What goes wrong:** Ignoring statistical information in favor of specific, vivid cases.
-
-- **Example 5:** Imagine sports or business results. The slip is the same: ignoring statistical information in favor of specific, vivid cases.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Base Rate Fallacy** means Ignoring statistical information in favor of specific, vivid cases.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Base Rate Fallacy = Ignoring statistical information in favor of specific, vivid cases.`,
   },
   493: {
-    beginner: `## Begging the Question — in-depth (Beginner)
+    beginner: `Begging the Question = A circular argument in which the conclusion is included in the premise.`,
+    detail: `Begging the Question
 
-**What this is, in plain English**  
+Description:
 A circular argument in which the conclusion is included in the premise.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« The word of Zorbo is flawless and perfect. We know this because it says so in The Great and Infallible Book of Zorbo's Best and Most Truest Things that are Definitely True and Should Not be Questioned. »  
+Example (question)
+« The word of Zorbo is flawless and perfect. We know this because it says so in The Great and Infallible Book of Zorbo's Best and Most Truest Things that are Definitely True and Should Not be Questioned. »
+This is the exact kind of move the question is testing.
 
-**Why this is Begging the Question**  
-A circular argument in which the conclusion is included in the premise. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-A circular argument in which the conclusion is included in the premise.`,
-    intermediate: `## Begging the Question — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-A circular argument in which the conclusion is included in the premise.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« The word of Zorbo is flawless and perfect. We know this because it says so in The Great and Infallible Book of Zorbo's Best and Most Truest Things that are Definitely True and Should Not be Questioned. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Begging the Question** in action: a circular argument in which the conclusion is included in the premise.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: A circular argument in which the conclusion is included in the premise.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Another everyday spot: school grades or test scores. A circular argument in which the conclusion is included in the premise.
-
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
-
-**In one sentence**  
-Begging the Question is the label for reasoning that fits: A circular argument in which the conclusion is included in the premise.`,
-    expert: `## Begging the Question — in-depth (Expert)
-
-**Definition**  
-A circular argument in which the conclusion is included in the premise.
-
-**Applied to this passage**  
-« The word of Zorbo is flawless and perfect. We know this because it says so in The Great and Infallible Book of Zorbo's Best and Most Truest Things that are Definitely True and Should Not be Questioned. »  
-
-Here, **Begging the Question** is the right name because a circular argument in which the conclusion is included in the premise.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: A circular argument in which the conclusion is included in the premise.
-
-- **Example 2:** Another everyday spot: school grades or test scores. A circular argument in which the conclusion is included in the premise.
-
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
-
-- **Example 4:** Imagine a health or habits story. The slip is the same: a circular argument in which the conclusion is included in the premise.
-
-- **Example 5:** Picture school grades or test scores. People often reason as if a circular argument in which the conclusion is included in the premise.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Begging the Question** means A circular argument in which the conclusion is included in the premise.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Begging the Question = A circular argument in which the conclusion is included in the premise.`,
   },
   494: {
-    beginner: `## Begging the Question — in-depth (Beginner)
+    beginner: `Begging the Question = A circular argument in which the conclusion is included in the premise.`,
+    detail: `Begging the Question
 
-**What this is, in plain English**  
+Description:
 A circular argument in which the conclusion is included in the premise.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Paranormal activity is real because I have experienced what can only be described as paranormal activity. »  
+Example (question)
+« Paranormal activity is real because I have experienced what can only be described as paranormal activity. »
+This is the exact kind of move the question is testing.
 
-**Why this is Begging the Question**  
-A circular argument in which the conclusion is included in the premise. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-A circular argument in which the conclusion is included in the premise.`,
-    intermediate: `## Begging the Question — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-A circular argument in which the conclusion is included in the premise.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Paranormal activity is real because I have experienced what can only be described as paranormal activity. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Begging the Question** in action: a circular argument in which the conclusion is included in the premise.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. A circular argument in which the conclusion is included in the premise.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: a circular argument in which the conclusion is included in the premise.
-
-**In one sentence**  
-Begging the Question is the label for reasoning that fits: A circular argument in which the conclusion is included in the premise.`,
-    expert: `## Begging the Question — in-depth (Expert)
-
-**Definition**  
-A circular argument in which the conclusion is included in the premise.
-
-**Applied to this passage**  
-« Paranormal activity is real because I have experienced what can only be described as paranormal activity. »  
-
-Here, **Begging the Question** is the right name because a circular argument in which the conclusion is included in the premise.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. A circular argument in which the conclusion is included in the premise.
-
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: a circular argument in which the conclusion is included in the premise.
-
-- **Example 4:** Picture sports or business results. People often reason as if a circular argument in which the conclusion is included in the premise.
-
-- **Example 5:** In a family argument, watch for this pattern: A circular argument in which the conclusion is included in the premise.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Begging the Question** means A circular argument in which the conclusion is included in the premise.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Begging the Question = A circular argument in which the conclusion is included in the premise.`,
   },
   495: {
-    beginner: `## Begging the Question — in-depth (Beginner)
+    beginner: `Begging the Question = A circular argument in which the conclusion is included in the premise.`,
+    detail: `Begging the Question
 
-**What this is, in plain English**  
+Description:
 A circular argument in which the conclusion is included in the premise.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« I am trustworthy because I say so. »  
+Example (question)
+« I am trustworthy because I say so. »
+This is the exact kind of move the question is testing.
 
-**Why this is Begging the Question**  
-A circular argument in which the conclusion is included in the premise. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-A circular argument in which the conclusion is included in the premise.`,
-    intermediate: `## Begging the Question — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-A circular argument in which the conclusion is included in the premise.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« I am trustworthy because I say so. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Begging the Question** in action: a circular argument in which the conclusion is included in the premise.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Imagine a news headline or social post. The slip is the same: a circular argument in which the conclusion is included in the premise.
-
-- **Example 3:** Picture a health or habits story. People often reason as if a circular argument in which the conclusion is included in the premise.
-
-**In one sentence**  
-Begging the Question is the label for reasoning that fits: A circular argument in which the conclusion is included in the premise.`,
-    expert: `## Begging the Question — in-depth (Expert)
-
-**Definition**  
-A circular argument in which the conclusion is included in the premise.
-
-**Applied to this passage**  
-« I am trustworthy because I say so. »  
-
-Here, **Begging the Question** is the right name because a circular argument in which the conclusion is included in the premise.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** A circular argument in which the conclusion is included in the premise.
-
-- **Example 2:** Imagine a news headline or social post. The slip is the same: a circular argument in which the conclusion is included in the premise.
-
-- **Example 3:** Picture a health or habits story. People often reason as if a circular argument in which the conclusion is included in the premise.
-
-- **Example 4:** In school grades or test scores, watch for this pattern: A circular argument in which the conclusion is included in the premise.
-
-- **Example 5:** Another everyday spot: a news headline or social post. A circular argument in which the conclusion is included in the premise.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Begging the Question** means A circular argument in which the conclusion is included in the premise.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Begging the Question = A circular argument in which the conclusion is included in the premise.`,
   },
   496: {
-    beginner: `## Biased Sample — in-depth (Beginner)
+    beginner: `Biased Sample = Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
+    detail: `Biased Sample
 
-**What this is, in plain English**  
+Description:
 Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Surveying only fans at a concert to conclude everyone loves the band. »  
+Example (question)
+« Surveying only fans at a concert to conclude everyone loves the band. »
+This is the exact kind of move the question is testing.
 
-**Why this is Biased Sample**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
-    intermediate: `## Biased Sample — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Surveying only fans at a concert to conclude everyone loves the band. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Biased Sample** in action: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 3:** In sports or business results, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**In one sentence**  
-Biased Sample is the label for reasoning that fits: Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
-    expert: `## Biased Sample — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**Applied to this passage**  
-« Surveying only fans at a concert to conclude everyone loves the band. »  
-
-Here, **Biased Sample** is the right name because drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 3:** In sports or business results, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 4:** Another everyday spot: a family argument. Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Biased Sample** means Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Biased Sample = Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
   },
   497: {
-    beginner: `## Biased Sample — in-depth (Beginner)
+    beginner: `Biased Sample = Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
+    detail: `Biased Sample
 
-**What this is, in plain English**  
+Description:
 Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Asking opinions from a group of friends who all share the same view to represent public opinion. »  
+Example (question)
+« Asking opinions from a group of friends who all share the same view to represent public opinion. »
+This is the exact kind of move the question is testing.
 
-**Why this is Biased Sample**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
-    intermediate: `## Biased Sample — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Asking opinions from a group of friends who all share the same view to represent public opinion. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Biased Sample** in action: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** In a health or habits story, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 3:** Another everyday spot: school grades or test scores. Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**In one sentence**  
-Biased Sample is the label for reasoning that fits: Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
-    expert: `## Biased Sample — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**Applied to this passage**  
-« Asking opinions from a group of friends who all share the same view to represent public opinion. »  
-
-Here, **Biased Sample** is the right name because drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 2:** In a health or habits story, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 3:** Another everyday spot: school grades or test scores. Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 4:** **Setting:** a news headline or social post. **What goes wrong:** Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 5:** Imagine a health or habits story. The slip is the same: drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Biased Sample** means Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Biased Sample = Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
   },
   498: {
-    beginner: `## Biased Sample — in-depth (Beginner)
+    beginner: `Biased Sample = Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
+    detail: `Biased Sample
 
-**What this is, in plain English**  
+Description:
 Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Testing a drug only on healthy volunteers and claiming it works for all. »  
+Example (question)
+« Testing a drug only on healthy volunteers and claiming it works for all. »
+This is the exact kind of move the question is testing.
 
-**Why this is Biased Sample**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
-    intermediate: `## Biased Sample — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Testing a drug only on healthy volunteers and claiming it works for all. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Biased Sample** in action: drawing a conclusion about a population based on a sample that is biased or prejudiced.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Another everyday spot: sports or business results. Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**In one sentence**  
-Biased Sample is the label for reasoning that fits: Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
-    expert: `## Biased Sample — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**Applied to this passage**  
-« Testing a drug only on healthy volunteers and claiming it works for all. »  
-
-Here, **Biased Sample** is the right name because drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 2:** Another everyday spot: sports or business results. Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 4:** Imagine a policy or workplace discussion. The slip is the same: drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-- **Example 5:** Picture sports or business results. People often reason as if drawing a conclusion about a population based on a sample that is biased or prejudiced.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Biased Sample** means Drawing a conclusion about a population based on a sample that is biased or prejudiced.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Biased Sample = Drawing a conclusion about a population based on a sample that is biased or prejudiced.`,
   },
   499: {
-    beginner: `## Cherry Picking — in-depth (Beginner)
+    beginner: `Cherry Picking = Selecting only the data that supports your argument while ignoring the rest.`,
+    detail: `Cherry Picking
 
-**What this is, in plain English**  
+Description:
 Selecting only the data that supports your argument while ignoring the rest.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Presenting only positive reviews for a product while omitting negative ones. »  
+Example (question)
+« Presenting only positive reviews for a product while omitting negative ones. »
+This is the exact kind of move the question is testing.
 
-**Why this is Cherry Picking**  
-Selecting only the data that supports your argument while ignoring the rest. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Selecting only the data that supports your argument while ignoring the rest.`,
-    intermediate: `## Cherry Picking — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Selecting only the data that supports your argument while ignoring the rest.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Presenting only positive reviews for a product while omitting negative ones. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Cherry Picking** in action: selecting only the data that supports your argument while ignoring the rest.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Selecting only the data that supports your argument while ignoring the rest.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 3:** Imagine a news headline or social post. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
-
-**In one sentence**  
-Cherry Picking is the label for reasoning that fits: Selecting only the data that supports your argument while ignoring the rest.`,
-    expert: `## Cherry Picking — in-depth (Expert)
-
-**Definition**  
-Selecting only the data that supports your argument while ignoring the rest.
-
-**Applied to this passage**  
-« Presenting only positive reviews for a product while omitting negative ones. »  
-
-Here, **Cherry Picking** is the right name because selecting only the data that supports your argument while ignoring the rest.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 3:** Imagine a news headline or social post. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 4:** Picture a health or habits story. People often reason as if selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 5:** In school grades or test scores, watch for this pattern: Selecting only the data that supports your argument while ignoring the rest.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Cherry Picking** means Selecting only the data that supports your argument while ignoring the rest.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Cherry Picking = Selecting only the data that supports your argument while ignoring the rest.`,
   },
   500: {
-    beginner: `## Cherry Picking — in-depth (Beginner)
+    beginner: `Cherry Picking = Selecting only the data that supports your argument while ignoring the rest.`,
+    detail: `Cherry Picking
 
-**What this is, in plain English**  
+Description:
 Selecting only the data that supports your argument while ignoring the rest.
+The label only names the reasoning error; it does not solve the question for you.
 
-**The example you’re looking at**  
-« Citing studies that support your view and ignoring contradictory research. »  
+Example (question)
+« Citing studies that support your view and ignoring contradictory research. »
+This is the exact kind of move the question is testing.
 
-**Why this is Cherry Picking**  
-Selecting only the data that supports your argument while ignoring the rest. That is what this label is pointing to in the passage above.
+Example (everyday)
+A similar shortcut can show up in a different conversation.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Selecting only the data that supports your argument while ignoring the rest.`,
-    intermediate: `## Cherry Picking — in-depth (Intermediate)
+How it works
+The argument uses the shortcut described above instead of testing the claim directly.
 
-**What this is, in plain English**  
-Selecting only the data that supports your argument while ignoring the rest.
+So:
+- It feels tidy because it skips the hard part.
+- It can sound confident without proving much.
+- It still needs real support.
 
-**This example**  
-« Citing studies that support your view and ignoring contradictory research. »  
+Key concept inside it
+Shortcut:
+A fast route that feels satisfying but leaves out a real check.
 
-The passage shows **Cherry Picking** in action: selecting only the data that supports your argument while ignoring the rest.
+Why it matters
+Explains why:
+- It can block better questions.
+- It can hide the real issue.
+- It can make weak reasoning feel complete.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
+The uncomfortable implication
+A slick shortcut can survive longer than a careful answer.
 
-- **Example 2:** Imagine a family argument. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if selecting only the data that supports your argument while ignoring the rest.
-
-**In one sentence**  
-Cherry Picking is the label for reasoning that fits: Selecting only the data that supports your argument while ignoring the rest.`,
-    expert: `## Cherry Picking — in-depth (Expert)
-
-**Definition**  
-Selecting only the data that supports your argument while ignoring the rest.
-
-**Applied to this passage**  
-« Citing studies that support your view and ignoring contradictory research. »  
-
-Here, **Cherry Picking** is the right name because selecting only the data that supports your argument while ignoring the rest.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 2:** Imagine a family argument. The slip is the same: selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 4:** In sports or business results, watch for this pattern: Selecting only the data that supports your argument while ignoring the rest.
-
-- **Example 5:** Another everyday spot: a family argument. Selecting only the data that supports your argument while ignoring the rest.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Cherry Picking** means Selecting only the data that supports your argument while ignoring the rest.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Cherry Picking = Selecting only the data that supports your argument while ignoring the rest.`,
   },
   501: {
     beginner: `## Cherry Picking — in-depth (Beginner)
@@ -56429,1894 +55739,1204 @@ En une phrase
 Affirming the consequent = Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.`,
   },
   471: {
-    beginner: `## Affirming the consequent — approfondi (Débutant)
+    beginner: `Affirming the consequent = Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.`,
+    detail: `Affirming the consequent
 
-**En termes simples**  
+Description:
 Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Affirming the consequent**  
-Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.`,
-    intermediate: `## Affirming the consequent — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Affirming the consequent** : déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.
-
-**En une phrase**  
-**Affirming the consequent**, c’est quand le raisonnement correspond à : Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.`,
-    expert: `## Affirming the consequent — approfondi (Expert)
-
-**Définition**  
-Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.". »  
-
-Ici, **Affirming the consequent** convient parce que déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.
-
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.
-
-- **Exemple 4 :** Autre situation courante : des notes ou examens. Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.
-
-- **Exemple 5 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Affirming the consequent**, c’est Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Affirming the consequent = Déduire "A" à partir de "Si A alors B" et "B est vrai", ce qui est logiquement invalide.`,
   },
   472: {
-    beginner: `## Fallacy of four terms — approfondi (Débutant)
+    beginner: `Sophisme des quatre termes = Une erreur logique spécifique où le raisonnement mélange quatre termes au lieu de trois, ce qui casse la logique du syllogisme.`,
+    detail: `Sophisme des quatre termes
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
+Description:
+Une erreur logique spécifique où le raisonnement mélange quatre termes au lieu de trois, ce qui casse la logique du syllogisme.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant of un raisonnement défectueux est structurellement invalide.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Un syllogisme qui semble correct, mais qui introduit en fait un quatrième terme caché.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Fallacy of four terms**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.`,
-    intermediate: `## Fallacy of four terms — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant of un raisonnement défectueux est structurellement invalide.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Fallacy of four terms** : une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-**En une phrase**  
-**Fallacy of four terms**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.`,
-    expert: `## Fallacy of four terms — approfondi (Expert)
-
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant of un raisonnement défectueux est structurellement invalide.". »  
-
-Ici, **Fallacy of four terms** convient parce que une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 4 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 5 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Fallacy of four terms**, c’est Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Sophisme des quatre termes = un raisonnement qui paraît tenir, mais qui ajoute un terme de trop et casse la conclusion.`,
   },
   473: {
-    beginner: `## Fallacy of four terms — approfondi (Débutant)
+    beginner: `Sophisme des quatre termes = Une erreur logique spécifique où le raisonnement mélange quatre termes au lieu de trois, ce qui casse la logique du syllogisme.`,
+    detail: `Sophisme des quatre termes
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
+Description:
+Une erreur logique spécifique où le raisonnement mélange quatre termes au lieu de trois, ce qui casse la logique du syllogisme.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Exemple (question)
+« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Fallacy of four terms**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.`,
-    intermediate: `## Fallacy of four terms — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Fallacy of four terms** : une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-**En une phrase**  
-**Fallacy of four terms**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.`,
-    expert: `## Fallacy of four terms — approfondi (Expert)
-
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-**Appliqué à ce passage**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
-
-Ici, **Fallacy of four terms** convient parce que une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 4 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 5 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Fallacy of four terms**, c’est Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Sophisme des quatre termes = un raisonnement qui paraît tenir, mais qui ajoute un terme de trop et casse la conclusion.`,
   },
   474: {
-    beginner: `## Fallacy of four terms — approfondi (Débutant)
+    beginner: `Sophisme des quatre termes = Une erreur logique spécifique où le raisonnement mélange quatre termes au lieu de trois, ce qui casse la logique du syllogisme.`,
+    detail: `Sophisme des quatre termes
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
+Description:
+Une erreur logique spécifique où le raisonnement mélange quatre termes au lieu de trois, ce qui casse la logique du syllogisme.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant of un raisonnement défectueux est structurellement invalide.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Un syllogisme qui semble correct, mais qui introduit en fait un quatrième terme caché.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Fallacy of four terms**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.`,
-    intermediate: `## Fallacy of four terms — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant of un raisonnement défectueux est structurellement invalide.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Fallacy of four terms** : une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-**En une phrase**  
-**Fallacy of four terms**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.`,
-    expert: `## Fallacy of four terms — approfondi (Expert)
-
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant of un raisonnement défectueux est structurellement invalide.". »  
-
-Ici, **Fallacy of four terms** convient parce que une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 4 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-- **Exemple 5 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Fallacy of four terms**, c’est Une erreur logique spécifique où le raisonnement impliquant of four terms est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Sophisme des quatre termes = un raisonnement qui paraît tenir, mais qui ajoute un terme de trop et casse la conclusion.`,
   },
   475: {
-    beginner: `## Illicit major — approfondi (Débutant)
+    beginner: `Illicit major = Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.`,
+    detail: `Illicit major
 
-**En termes simples**  
+Description:
 Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Illicit major**  
-Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.`,
-    intermediate: `## Illicit major — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Illicit major** : une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Illicit major**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.`,
-    expert: `## Illicit major — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Illicit major** convient parce que une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Illicit major**, c’est Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Illicit major = Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.`,
   },
   476: {
-    beginner: `## Illicit major — approfondi (Débutant)
+    beginner: `Illicit major = Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.`,
+    detail: `Illicit major
 
-**En termes simples**  
+Description:
 Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Exemple (question)
+« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Illicit major**  
-Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.`,
-    intermediate: `## Illicit major — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Illicit major** : une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Illicit major**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.`,
-    expert: `## Illicit major — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
-
-Ici, **Illicit major** convient parce que une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Illicit major**, c’est Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Illicit major = Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.`,
   },
   477: {
-    beginner: `## Illicit major — approfondi (Débutant)
+    beginner: `Illicit major = Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.`,
+    detail: `Illicit major
 
-**En termes simples**  
+Description:
 Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Illicit major**  
-Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.`,
-    intermediate: `## Illicit major — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Illicit major** : une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Illicit major**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.`,
-    expert: `## Illicit major — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Illicit major** convient parce que une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Illicit major**, c’est Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Illicit major = Une erreur logique ou un biais cognitif impliquant Illicit major, où le raisonnement est défaillant.`,
   },
   478: {
-    beginner: `## Illicit minor — approfondi (Débutant)
+    beginner: `Illicit minor = Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.`,
+    detail: `Illicit minor
 
-**En termes simples**  
+Description:
 Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Illicit minor**  
-Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.`,
-    intermediate: `## Illicit minor — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Illicit minor** : une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Illicit minor**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.`,
-    expert: `## Illicit minor — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Illicit minor** convient parce que une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Illicit minor**, c’est Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Illicit minor = Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.`,
   },
   479: {
-    beginner: `## Illicit minor — approfondi (Débutant)
+    beginner: `Illicit minor = Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.`,
+    detail: `Illicit minor
 
-**En termes simples**  
+Description:
 Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Exemple (question)
+« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Illicit minor**  
-Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.`,
-    intermediate: `## Illicit minor — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Illicit minor** : une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Illicit minor**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.`,
-    expert: `## Illicit minor — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
-
-Ici, **Illicit minor** convient parce que une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Illicit minor**, c’est Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Illicit minor = Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.`,
   },
   480: {
-    beginner: `## Illicit minor — approfondi (Débutant)
+    beginner: `Illicit minor = Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.`,
+    detail: `Illicit minor
 
-**En termes simples**  
+Description:
 Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Illicit minor**  
-Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.`,
-    intermediate: `## Illicit minor — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Illicit minor** : une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Illicit minor**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.`,
-    expert: `## Illicit minor — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Illicit minor** convient parce que une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Illicit minor**, c’est Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Illicit minor = Une erreur logique ou un biais cognitif impliquant Illicit minor, où le raisonnement est défaillant.`,
   },
   481: {
-    beginner: `## Modal fallacy — approfondi (Débutant)
+    beginner: `Modal fallacy = Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.`,
+    detail: `Modal fallacy
 
-**En termes simples**  
+Description:
 Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Modal fallacy**  
-Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Modal fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Modal fallacy** : une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Modal fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.`,
-    expert: `## Modal fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
-
-Ici, **Modal fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Modal fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Modal fallacy = Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.`,
   },
   482: {
-    beginner: `## Modal fallacy — approfondi (Débutant)
+    beginner: `Modal fallacy = Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.`,
+    detail: `Modal fallacy
 
-**En termes simples**  
+Description:
 Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Exemple (question)
+« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Modal fallacy**  
-Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Modal fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Modal fallacy** : une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Modal fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.`,
-    expert: `## Modal fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
-
-Ici, **Modal fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Modal fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Modal fallacy = Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.`,
   },
   483: {
-    beginner: `## Modal fallacy — approfondi (Débutant)
+    beginner: `Modal fallacy = Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.`,
+    detail: `Modal fallacy
 
-**En termes simples**  
+Description:
 Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Modal fallacy**  
-Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Modal fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Modal fallacy** : une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Modal fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.`,
-    expert: `## Modal fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
-
-Ici, **Modal fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Modal fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Modal fallacy = Une erreur logique ou un biais cognitif impliquant Modal fallacy, où le raisonnement est défaillant.`,
   },
   484: {
-    beginner: `## Fallacy of necessity — approfondi (Débutant)
+    beginner: `Fallacy of necessity = Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.`,
+    detail: `Fallacy of necessity
 
-**En termes simples**  
+Description:
 Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Fallacy of necessity**  
-Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.`,
-    intermediate: `## Fallacy of necessity — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Fallacy of necessity** : une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-**En une phrase**  
-**Fallacy of necessity**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.`,
-    expert: `## Fallacy of necessity — approfondi (Expert)
-
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »  
-
-Ici, **Fallacy of necessity** convient parce que une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 4 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 5 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Fallacy of necessity**, c’est Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Fallacy of necessity = Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.`,
   },
   485: {
-    beginner: `## Fallacy of necessity — approfondi (Débutant)
+    beginner: `Fallacy of necessity = Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.`,
+    detail: `Fallacy of necessity
 
-**En termes simples**  
+Description:
 Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Exemple (question)
+« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Fallacy of necessity**  
-Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.`,
-    intermediate: `## Fallacy of necessity — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Fallacy of necessity** : une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-**En une phrase**  
-**Fallacy of necessity**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.`,
-    expert: `## Fallacy of necessity — approfondi (Expert)
-
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-**Appliqué à ce passage**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
-
-Ici, **Fallacy of necessity** convient parce que une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 4 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 5 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Fallacy of necessity**, c’est Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Fallacy of necessity = Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.`,
   },
   486: {
-    beginner: `## Fallacy of necessity — approfondi (Débutant)
+    beginner: `Fallacy of necessity = Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.`,
+    detail: `Fallacy of necessity
 
-**En termes simples**  
+Description:
 Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Fallacy of necessity**  
-Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.`,
-    intermediate: `## Fallacy of necessity — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Fallacy of necessity** : une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-**En une phrase**  
-**Fallacy of necessity**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.`,
-    expert: `## Fallacy of necessity — approfondi (Expert)
-
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »  
-
-Ici, **Fallacy of necessity** convient parce que une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 4 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-- **Exemple 5 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Fallacy of necessity**, c’est Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Fallacy of necessity = Une erreur logique spécifique où le raisonnement impliquant of necessity est structurellement invalide.`,
   },
   487: {
-    beginner: `## Quantifier shift — approfondi (Débutant)
+    beginner: `Quantifier shift = Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.`,
+    detail: `Quantifier shift
 
-**En termes simples**  
+Description:
 Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliTHIS CONCEPT un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliTHIS CONCEPT un raisonnement défectueux, où le raisonnement est défaillant.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Quantifier shift**  
-Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.`,
-    intermediate: `## Quantifier shift — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliTHIS CONCEPT un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Quantifier shift** : une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Quantifier shift**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.`,
-    expert: `## Quantifier shift — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliTHIS CONCEPT un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Quantifier shift** convient parce que une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Quantifier shift**, c’est Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Quantifier shift = Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.`,
   },
   488: {
-    beginner: `## Quantifier shift — approfondi (Débutant)
+    beginner: `Quantifier shift = Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.`,
+    detail: `Quantifier shift
 
-**En termes simples**  
+Description:
 Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Exemple (question)
+« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Quantifier shift**  
-Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.`,
-    intermediate: `## Quantifier shift — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Quantifier shift** : une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Quantifier shift**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.`,
-    expert: `## Quantifier shift — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
-
-Ici, **Quantifier shift** convient parce que une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Quantifier shift**, c’est Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Quantifier shift = Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.`,
   },
   489: {
-    beginner: `## Quantifier shift — approfondi (Débutant)
+    beginner: `Déplacement de quantificateur = Une erreur logique ou un biais cognitif où l'on passe d'une affirmation générale à une conclusion trop forte.`,
+    detail: `Déplacement de quantificateur
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
+Description:
+Une erreur logique ou un biais cognitif où l'on passe d'une affirmation générale à une conclusion trop forte.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliTHIS CONCEPT un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une affirmation générale est transformée en règle absolue sans preuve supplémentaire.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Quantifier shift**  
-Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.`,
-    intermediate: `## Quantifier shift — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliTHIS CONCEPT un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Quantifier shift** : une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Quantifier shift**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.`,
-    expert: `## Quantifier shift — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliTHIS CONCEPT un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Quantifier shift** convient parce que une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Quantifier shift**, c’est Une erreur logique ou un biais cognitif impliquant Quantifier shift, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Déplacement de quantificateur = on élargit abusivement une affirmation générale jusqu'à en faire une conclusion trop forte.`,
   },
   490: {
-    beginner: `## Self-refuting idea — approfondi (Débutant)
+    beginner: `Idée auto-réfutante = Une affirmation qui se contredit elle-même et détruit sa propre crédibilité.`,
+    detail: `Idée auto-réfutante
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
+Description:
+Une affirmation qui se contredit elle-même et détruit sa propre crédibilité.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Cette règle affirme quelque chose, puis le nie dans la même phrase.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Self-refuting idea**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.`,
-    intermediate: `## Self-refuting idea — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Self-refuting idea** : une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Self-refuting idea**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.`,
-    expert: `## Self-refuting idea — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Self-refuting idea** convient parce que une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Self-refuting idea**, c’est Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Idée auto-réfutante = une affirmation qui se contredit et se détruit elle-même.`,
   },
   491: {
-    beginner: `## Self-refuting idea — approfondi (Débutant)
+    beginner: `Idée auto-réfutante = Une affirmation qui se contredit elle-même et détruit sa propre crédibilité.`,
+    detail: `Idée auto-réfutante
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
+Description:
+Une affirmation qui se contredit elle-même et détruit sa propre crédibilité.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Exemple (question)
+« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Self-refuting idea**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.`,
-    intermediate: `## Self-refuting idea — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Self-refuting idea** : une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Self-refuting idea**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.`,
-    expert: `## Self-refuting idea — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
-
-Ici, **Self-refuting idea** convient parce que une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Self-refuting idea**, c’est Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Idée auto-réfutante = une affirmation qui se contredit et se détruit elle-même.`,
   },
   492: {
-    beginner: `## Self-refuting idea — approfondi (Débutant)
+    beginner: `Idée auto-réfutante = Une affirmation qui se contredit elle-même et détruit sa propre crédibilité.`,
+    detail: `Idée auto-réfutante
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
+Description:
+Une affirmation qui se contredit elle-même et détruit sa propre crédibilité.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Cette phrase tente de poser une règle, mais elle la contredit immédiatement.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Self-refuting idea**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.`,
-    intermediate: `## Self-refuting idea — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Self-refuting idea** : une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Self-refuting idea**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.`,
-    expert: `## Self-refuting idea — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Self-refuting idea** convient parce que une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Self-refuting idea**, c’est Une erreur logique ou un biais cognitif impliquant Self-refuting idea, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Idée auto-réfutante = une affirmation qui se contredit et se détruit elle-même.`,
   },
   493: {
-    beginner: `## Vicious circle — approfondi (Débutant)
+    beginner: `Vicious circle = Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.`,
+    detail: `Vicious circle
 
-**En termes simples**  
+Description:
 Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Vicious circle**  
-Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.`,
-    intermediate: `## Vicious circle — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Vicious circle** : une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-**En une phrase**  
-**Vicious circle**, c’est quand le raisonnement correspond à : Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.`,
-    expert: `## Vicious circle — approfondi (Expert)
-
-**Définition**  
-Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.". »  
-
-Ici, **Vicious circle** convient parce que une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 4 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 5 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Vicious circle**, c’est Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Vicious circle = Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.`,
   },
   494: {
-    beginner: `## Vicious circle — approfondi (Débutant)
+    beginner: `Vicious circle = Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.`,
+    detail: `Vicious circle
 
-**En termes simples**  
+Description:
 Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Exemple (question)
+« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Vicious circle**  
-Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.`,
-    intermediate: `## Vicious circle — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Vicious circle** : une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-**En une phrase**  
-**Vicious circle**, c’est quand le raisonnement correspond à : Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.`,
-    expert: `## Vicious circle — approfondi (Expert)
-
-**Définition**  
-Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-**Appliqué à ce passage**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
-
-Ici, **Vicious circle** convient parce que une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 4 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 5 :** Dans une discussion en famille, repérez ce schéma : Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Vicious circle**, c’est Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Vicious circle = Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.`,
   },
   495: {
-    beginner: `## Vicious circle — approfondi (Débutant)
+    beginner: `Vicious circle = Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.`,
+    detail: `Vicious circle
 
-**En termes simples**  
+Description:
 Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Vicious circle**  
-Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.`,
-    intermediate: `## Vicious circle — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Vicious circle** : une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-**En une phrase**  
-**Vicious circle**, c’est quand le raisonnement correspond à : Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.`,
-    expert: `## Vicious circle — approfondi (Expert)
-
-**Définition**  
-Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.". »  
-
-Ici, **Vicious circle** convient parce que une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 4 :** Dans des notes ou examens, repérez ce schéma : Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-- **Exemple 5 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Vicious circle**, c’est Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Vicious circle = Une chaîne de raisonnement où la conclusion est utilisée pour justifier la prémisse.`,
   },
   496: {
-    beginner: `## Double standard — approfondi (Débutant)
+    beginner: `Double standard = Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.`,
+    detail: `Double standard
 
-**En termes simples**  
+Description:
 Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Double standard**  
-Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.`,
-    intermediate: `## Double standard — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Double standard** : une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Double standard**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.`,
-    expert: `## Double standard — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Double standard** convient parce que une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Double standard**, c’est Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Double standard = Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.`,
   },
   497: {
-    beginner: `## Double standard — approfondi (Débutant)
+    beginner: `Double standard = Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.`,
+    detail: `Double standard
 
-**En termes simples**  
+Description:
 Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Exemple (question)
+« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Double standard**  
-Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.`,
-    intermediate: `## Double standard — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Double standard** : une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Double standard**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.`,
-    expert: `## Double standard — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
-
-Ici, **Double standard** convient parce que une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Double standard**, c’est Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Double standard = Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.`,
   },
   498: {
-    beginner: `## Double standard — approfondi (Débutant)
+    beginner: `Double standard = Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.`,
+    detail: `Double standard
 
-**En termes simples**  
+Description:
 Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Double standard**  
-Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.`,
-    intermediate: `## Double standard — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Double standard** : une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Double standard**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.`,
-    expert: `## Double standard — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Double standard** convient parce que une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Double standard**, c’est Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Double standard = Une erreur logique ou un biais cognitif impliquant Double standard, où le raisonnement est défaillant.`,
   },
   499: {
-    beginner: `## Equivocation — approfondi (Débutant)
+    beginner: `Equivocation = Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.`,
+    detail: `Equivocation
 
-**En termes simples**  
+Description:
 Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.". »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Equivocation**  
-Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.`,
-    intermediate: `## Equivocation — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.". »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Equivocation** : utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-**En une phrase**  
-**Equivocation**, c’est quand le raisonnement correspond à : Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.`,
-    expert: `## Equivocation — approfondi (Expert)
-
-**Définition**  
-Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.". »  
-
-Ici, **Equivocation** convient parce que utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 4 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 5 :** Dans des notes ou examens, repérez ce schéma : Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Equivocation**, c’est Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Equivocation = Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.`,
   },
   500: {
-    beginner: `## Equivocation — approfondi (Débutant)
+    beginner: `Equivocation = Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.`,
+    detail: `Equivocation
 
-**En termes simples**  
+Description:
 Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
+L'étiquette nomme seulement l'erreur de raisonnement; elle ne répond pas à la question à votre place.
 
-**L’exemple affiché**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Exemple (question)
+« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »
+C'est exactement ce que la question cherche à faire repérer.
 
-**Pourquoi c’est bien Equivocation**  
-Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un raccourci similaire peut apparaître dans une autre conversation.
+La même logique revient même quand le décor change.
 
-**À retenir**  
-Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.`,
-    intermediate: `## Equivocation — approfondi (Intermédiaire)
+Comment ça fonctionne
+Le raisonnement utilise le raccourci décrit plus haut au lieu de tester directement l'affirmation.
 
-**En termes simples**  
-Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
+Donc :
+- Cela paraît net parce que cela saute l'étape difficile.
+- Cela peut sembler assuré sans vraiment prouver quoi que ce soit.
+- Il faut encore une vraie justification.
 
-**Cet exemple**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Concept clé
+Raccourci :
+Un chemin rapide qui paraît pratique mais qui laisse de côté le vrai contrôle.
 
-Le passage montre **Equivocation** : utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut bloquer de meilleures questions.
+- Cela peut cacher le vrai problème.
+- Cela peut faire passer un raisonnement faible pour complet.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
+L'implication inconfortable
+Un raccourci séduisant peut durer plus longtemps qu'une réponse prudente.
 
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-**En une phrase**  
-**Equivocation**, c’est quand le raisonnement correspond à : Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.`,
-    expert: `## Equivocation — approfondi (Expert)
-
-**Définition**  
-Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-**Appliqué à ce passage**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
-
-Ici, **Equivocation** convient parce que utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 4 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-- **Exemple 5 :** Autre situation courante : une discussion en famille. Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Equivocation**, c’est Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Equivocation = Utiliser le même mot dans deux sens différents pour créer une conclusion trompeuse.`,
   },
   501: {
     beginner: `## Equivocation — approfondi (Débutant)
