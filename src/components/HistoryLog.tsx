@@ -93,7 +93,7 @@ interface HistoryLogProps {
 export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveToIdLog, savedIdLogIds = [], onPlayClickSound }) => {
   const { t, language } = useLanguage();
   const [expandedEntries, setExpandedEntries] = useState<Set<string>>(new Set());
-  const [detailedExplanationLevel, setDetailedExplanationLevel] = useState<DetailedExplanationLevel>('intermediate');
+  const [detailedExplanationLevel, setDetailedExplanationLevel] = useState<DetailedExplanationLevel>('detail');
   const sortedHistory = [...history].sort((a, b) => b.timestamp - a.timestamp);
 
   const questionBank = getQuestionBank(language);
@@ -311,8 +311,7 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                                 style={{ minHeight: '1.5rem' }}
                               >
                                 <option value="beginner">{t('subLevels.beginner')}</option>
-                                <option value="intermediate">{t('subLevels.intermediate')}</option>
-                                <option value="expert">{t('subLevels.expert')}</option>
+                                <option value="detail">{t('subLevels.detail')}</option>
                               </select>
                             </label>
                           </div>

@@ -618,7 +618,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
   const [loading, setLoading] = useState(true);
   const [score, setScore] = useState(0);
   const [showDetailedExplanation, setShowDetailedExplanation] = useState(false);
-  const [detailedExplanationLevel, setDetailedExplanationLevel] = useState<DetailedExplanationLevel>('intermediate');
+  const [detailedExplanationLevel, setDetailedExplanationLevel] = useState<DetailedExplanationLevel>('detail');
   const [justSavedId, setJustSavedId] = useState<number | null>(null);
 
   // Snapshot at the start of each fetch (level / randomize / mode change). Mid-quiz prop updates do not re-run the effect.
@@ -1084,8 +1084,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                             style={{ minHeight: '1.5rem' }}
                           >
                             <option value="beginner">{t('subLevels.beginner')}</option>
-                            <option value="intermediate">{t('subLevels.intermediate')}</option>
-                            <option value="expert">{t('subLevels.expert')}</option>
+                            <option value="detail">{t('subLevels.detail')}</option>
                           </select>
                         </label>
                       </div>

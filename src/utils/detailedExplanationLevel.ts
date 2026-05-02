@@ -5,7 +5,7 @@ import { LEVEL_0_STANDALONE_EN } from '../data/inDepth/level0StandaloneInDepth';
 import { LEVEL_1_STANDALONE_EN } from '../data/inDepth/level1StandaloneInDepth';
 import { LEVELS_2_TO_10_STANDALONE_EN } from '../data/inDepth/level2to10StandaloneInDepth';
 
-export type DetailedExplanationLevel = 'beginner' | 'intermediate' | 'expert';
+export type DetailedExplanationLevel = 'beginner' | 'intermediate' | 'expert' | 'detail';
 
 /**
  * Returns the detailed explanation text for the given level.
@@ -22,15 +22,18 @@ export function getDetailedExplanationForLevel(
   level: DetailedExplanationLevel
 ): string | undefined {
   if (q.level === 0) {
-    const standalone = LEVEL_0_STANDALONE_EN[q.id]?.[level];
+    let standalone = LEVEL_0_STANDALONE_EN[q.id]?.[level];
+    if (!standalone && level === 'detail') standalone = LEVEL_0_STANDALONE_EN[q.id]?.['expert'];
     if (standalone) return standalone;
   }
   if (q.level === 1) {
-    const standalone = LEVEL_1_STANDALONE_EN[q.id]?.[level];
+    let standalone = LEVEL_1_STANDALONE_EN[q.id]?.[level];
+    if (!standalone && level === 'detail') standalone = LEVEL_1_STANDALONE_EN[q.id]?.['expert'];
     if (standalone) return standalone;
   }
   if (q.level >= 2 && q.level <= 10) {
-    const standalone = LEVELS_2_TO_10_STANDALONE_EN[q.id]?.[level];
+    let standalone = LEVELS_2_TO_10_STANDALONE_EN[q.id]?.[level];
+    if (!standalone && level === 'detail') standalone = LEVELS_2_TO_10_STANDALONE_EN[q.id]?.['expert'];
     if (standalone) return standalone;
   }
 
@@ -42,6 +45,7 @@ export function getDetailedExplanationForLevel(
       case 'intermediate':
         return q.detailedExplanationIntermediate ?? fallback;
       case 'expert':
+      case 'detail':
         return q.detailedExplanationExpert ?? fallback;
       default:
         return fallback;

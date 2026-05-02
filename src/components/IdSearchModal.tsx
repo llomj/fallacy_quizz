@@ -75,7 +75,7 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
   const [idInput, setIdInput] = useState(initialId ? String(initialId) : '');
   const [question, setQuestion] = useState<Question | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [detailedExplanationLevel, setDetailedExplanationLevel] = useState<DetailedExplanationLevel>('intermediate');
+  const [detailedExplanationLevel, setDetailedExplanationLevel] = useState<DetailedExplanationLevel>('detail');
   const displayContent = question ? getQuestionDisplay(language, question.question, question.options) : null;
   const showWhitespaceHints = question ? shouldVisualizeOptionWhitespace(displayContent!.options) : false;
 
@@ -270,8 +270,7 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
                               className="bg-slate-800 border border-slate-600 rounded px-2 py-1 text-slate-200 text-xs focus:outline-none focus:ring-1 focus:ring-yellow-400 appearance-none cursor-pointer [color-scheme:dark]"
                             >
                               <option value="beginner">{t('subLevels.beginner')}</option>
-                              <option value="intermediate">{t('subLevels.intermediate')}</option>
-                              <option value="expert">{t('subLevels.expert')}</option>
+                              <option value="detail">{t('subLevels.detail')}</option>
                             </select>
                           </label>
                           <ExplanationWithStepNumbers

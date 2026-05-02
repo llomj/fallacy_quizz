@@ -114,7 +114,7 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
     });
   };
 
-  const [detailedExplanationLevel, setDetailedExplanationLevel] = useState<DetailedExplanationLevel>('intermediate');
+  const [detailedExplanationLevel, setDetailedExplanationLevel] = useState<DetailedExplanationLevel>('detail');
 
   const questionBank = getQuestionBank(language);
   const getQuestionDetailedExplanation = (id: number): string | null => {
@@ -276,8 +276,7 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
                                   style={{ minHeight: '1.5rem' }}
                                 >
                                   <option value="beginner">{t('subLevels.beginner')}</option>
-                                  <option value="intermediate">{t('subLevels.intermediate')}</option>
-                                  <option value="expert">{t('subLevels.expert')}</option>
+                                  <option value="detail">{t('subLevels.detail')}</option>
                                 </select>
                               </label>
                             </div>

@@ -75436,15 +75436,18 @@ export const getTranslatedDetailedExplanation = (
 
   // Standalone French in-depth (full panel): Level 0 IDs 1001–1300; Level 1 IDs 1–90; Levels 2–10 IDs 91–900 — see task.md
   if (questionId >= 1001 && questionId <= 1300) {
-    const frL0 = LEVEL_0_STANDALONE_FR[questionId]?.[explanationLevel];
+    let frL0 = LEVEL_0_STANDALONE_FR[questionId]?.[explanationLevel];
+    if (!frL0 && explanationLevel === 'detail') frL0 = LEVEL_0_STANDALONE_FR[questionId]?.['expert'];
     if (frL0) return frL0;
   }
   if (questionId >= 1 && questionId <= 90) {
-    const frL1 = LEVEL_1_STANDALONE_FR[questionId]?.[explanationLevel];
+    let frL1 = LEVEL_1_STANDALONE_FR[questionId]?.[explanationLevel];
+    if (!frL1 && explanationLevel === 'detail') frL1 = LEVEL_1_STANDALONE_FR[questionId]?.['expert'];
     if (frL1) return frL1;
   }
   if (questionId >= 91 && questionId <= 900) {
-    const frL2_10 = LEVELS_2_TO_10_STANDALONE_FR[questionId]?.[explanationLevel];
+    let frL2_10 = LEVELS_2_TO_10_STANDALONE_FR[questionId]?.[explanationLevel];
+    if (!frL2_10 && explanationLevel === 'detail') frL2_10 = LEVELS_2_TO_10_STANDALONE_FR[questionId]?.['expert'];
     if (frL2_10) return frL2_10;
   }
 
