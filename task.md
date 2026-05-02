@@ -118,7 +118,7 @@
 
 **Apr 2026 style pass:** Level **10** IDs **811–827** were rewritten in the plain numbered lesson format (EN + FR) to match the easier-to-scan style used in Level 0.
 
-**Completed IDs (Levels 2–10) — NEW FORMAT:** **200 / 810** (Batches 1–7: 91–290 complete)
+**Completed IDs (Levels 2–10) — NEW FORMAT:** **230 / 810** (Batches 1–8: 91–320 complete)
 
 ---
 
@@ -153,7 +153,7 @@
 - Keep `AGENTS.md` glossary and `glossary.md` consistency for fallacy definitions.  
 - After completing a batch, update the **Range** table and **Last updated** below.
 
-**Last updated:** 2026-05-02 (Batch 7 complete for Levels 2–10; next up: 291–320)
+**Last updated:** 2026-05-02 (Batch 8 complete for Levels 2–10; next up: 321–350)
 
 ### Next steps (optional, not blocking)
 
