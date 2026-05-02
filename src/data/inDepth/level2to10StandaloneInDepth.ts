@@ -21935,1894 +21935,1234 @@ One-line version
 Suppressed Evidence = Leaving out important information that would weaken the conclusion.`,
   },
   621: {
-    beginner: `## Suppressed Evidence — in-depth (Beginner)
+    beginner: `Suppressed Evidence = Leaving out important information that would weaken the conclusion.`,
+    detail: `Suppressed Evidence
 
-**What this is, in plain English**  
-Ignoring relevant information that would challenge the conclusion.
+Description:
+Leaving out important information that would weaken the conclusion.
+The core problem is simple.
 
-**The example you’re looking at**  
-« A debater quotes sources that support their view but ignores opposing research. »  
+Example (question)
+« A debater quotes sources that support their view but ignores opposing research. »
+A product review highlights only the glowing comments and hides the complaints.
+What is missing can matter as much as what is included.
 
-**Why this is Suppressed Evidence**  
-Ignoring relevant information that would challenge the conclusion. That is what this label is pointing to in the passage above.
+Example (other context)
+A product review highlights only the glowing comments and hides the complaints.
+What is missing can matter as much as what is included.
 
-**Takeaway**  
-Ignoring relevant information that would challenge the conclusion.`,
-    intermediate: `## Suppressed Evidence — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Ignoring relevant information that would challenge the conclusion.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« A debater quotes sources that support their view but ignores opposing research. »  
+Key concept inside it
+Cherry-picked evidence:
+Selecting only the supporting facts while hiding the rest of the picture.
 
-The passage shows **Suppressed Evidence** in action: ignoring relevant information that would challenge the conclusion.
+Why it matters
+Explains why:
+- It gives a one-sided view.
+- It can make a weak claim look strong.
+- It hides the best objections.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: ignoring relevant information that would challenge the conclusion.
+The uncomfortable implication
+What is left out can be the whole story.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if ignoring relevant information that would challenge the conclusion.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Ignoring relevant information that would challenge the conclusion.
-
-**In one sentence**  
-Suppressed Evidence is the label for reasoning that fits: Ignoring relevant information that would challenge the conclusion.`,
-    expert: `## Suppressed Evidence — in-depth (Expert)
-
-**Definition**  
-Ignoring relevant information that would challenge the conclusion.
-
-**Applied to this passage**  
-« A debater quotes sources that support their view but ignores opposing research. »  
-
-Here, **Suppressed Evidence** is the right name because ignoring relevant information that would challenge the conclusion.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: ignoring relevant information that would challenge the conclusion.
-
-- **Example 2:** Picture a news headline or social post. People often reason as if ignoring relevant information that would challenge the conclusion.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Ignoring relevant information that would challenge the conclusion.
-
-- **Example 4:** Another everyday spot: school grades or test scores. Ignoring relevant information that would challenge the conclusion.
-
-- **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** Ignoring relevant information that would challenge the conclusion.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Suppressed Evidence** means Ignoring relevant information that would challenge the conclusion.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Suppressed Evidence = Leaving out important information that would weaken the conclusion.`,
   },
   622: {
-    beginner: `## Texas Sharpshooter Fallacy — in-depth (Beginner)
+    beginner: `Texas Sharpshooter Fallacy = Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.`,
+    detail: `Texas Sharpshooter Fallacy
 
-**What this is, in plain English**  
+Description:
 Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
+The core problem is simple.
 
-**The example you’re looking at**  
-« The makers of Sugarette Candy Drinks point to research showing that of the five countries where Sugarette drinks sell the most there are three of them in the top ten healthiest countries on Earth. »  
+Example (question)
+« The makers of Sugarette Candy Drinks point to research showing that of the five countries where Sugarette drinks sell the most there are three of them in the top ten healthiest countries on Earth. »
+A shooter paints a target around the bullet holes after firing and then claims perfect aim.
+A cluster found after the fact is not proof of intention.
 
-**Why this is Texas Sharpshooter Fallacy**  
-Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption. That is what this label is pointing to in the passage above.
+Example (other context)
+A shooter paints a target around the bullet holes after firing and then claims perfect aim.
+A cluster found after the fact is not proof of intention.
 
-**Takeaway**  
-Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.`,
-    intermediate: `## Texas Sharpshooter Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« The makers of Sugarette Candy Drinks point to research showing that of the five countries where Sugarette drinks sell the most there are three of them in the top ten healthiest countries on Earth. »  
+Key concept inside it
+Pattern after the fact:
+A pattern claimed only after the data are already known.
 
-The passage shows **Texas Sharpshooter Fallacy** in action: cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
+Why it matters
+Explains why:
+- It rewards selective looking.
+- It turns coincidence into design.
+- It confuses a neat cluster with a real prediction.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
+The uncomfortable implication
+A target drawn later is still a target drawn later.
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 3:** Another everyday spot: sports or business results. Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-**In one sentence**  
-Texas Sharpshooter Fallacy is the label for reasoning that fits: Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.`,
-    expert: `## Texas Sharpshooter Fallacy — in-depth (Expert)
-
-**Definition**  
-Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-**Applied to this passage**  
-« The makers of Sugarette Candy Drinks point to research showing that of the five countries where Sugarette drinks sell the most there are three of them in the top ten healthiest countries on Earth. »  
-
-Here, **Texas Sharpshooter Fallacy** is the right name because cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 3:** Another everyday spot: sports or business results. Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 4:** **Setting:** a family argument. **What goes wrong:** Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 5:** Imagine a policy or workplace discussion. The slip is the same: cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Texas Sharpshooter Fallacy** means Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Texas Sharpshooter Fallacy = Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.`,
   },
   623: {
-    beginner: `## Texas Sharpshooter Fallacy — in-depth (Beginner)
+    beginner: `Texas Sharpshooter Fallacy = Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.`,
+    detail: `Texas Sharpshooter Fallacy
 
-**What this is, in plain English**  
+Description:
 Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
+The core problem is simple.
 
-**The example you’re looking at**  
-« I sprayed a hundred paintballs at the side of a barn, then drew a circle around the tightest cluster of splatters and claimed I had aimed for that spot all along. »  
+Example (question)
+« I sprayed a hundred paintballs at the side of a barn, then drew a circle around the tightest cluster of splatters and claimed I had aimed for that spot all along. »
+A shooter paints a target around the bullet holes after firing and then claims perfect aim.
+A cluster found after the fact is not proof of intention.
 
-**Why this is Texas Sharpshooter Fallacy**  
-Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption. That is what this label is pointing to in the passage above.
+Example (other context)
+A shooter paints a target around the bullet holes after firing and then claims perfect aim.
+A cluster found after the fact is not proof of intention.
 
-**Takeaway**  
-Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.`,
-    intermediate: `## Texas Sharpshooter Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« I sprayed a hundred paintballs at the side of a barn, then drew a circle around the tightest cluster of splatters and claimed I had aimed for that spot all along. »  
+Key concept inside it
+Pattern after the fact:
+A pattern claimed only after the data are already known.
 
-The passage shows **Texas Sharpshooter Fallacy** in action: cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
+Why it matters
+Explains why:
+- It rewards selective looking.
+- It turns coincidence into design.
+- It confuses a neat cluster with a real prediction.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
+The uncomfortable implication
+A target drawn later is still a target drawn later.
 
-- **Example 2:** Another everyday spot: a health or habits story. Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-**In one sentence**  
-Texas Sharpshooter Fallacy is the label for reasoning that fits: Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.`,
-    expert: `## Texas Sharpshooter Fallacy — in-depth (Expert)
-
-**Definition**  
-Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-**Applied to this passage**  
-« I sprayed a hundred paintballs at the side of a barn, then drew a circle around the tightest cluster of splatters and claimed I had aimed for that spot all along. »  
-
-Here, **Texas Sharpshooter Fallacy** is the right name because cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 2:** Another everyday spot: a health or habits story. Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 4:** Imagine a news headline or social post. The slip is the same: cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 5:** Picture a health or habits story. People often reason as if cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Texas Sharpshooter Fallacy** means Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Texas Sharpshooter Fallacy = Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.`,
   },
   624: {
-    beginner: `## Texas Sharpshooter Fallacy — in-depth (Beginner)
+    beginner: `Texas Sharpshooter Fallacy = Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.`,
+    detail: `Texas Sharpshooter Fallacy
 
-**What this is, in plain English**  
+Description:
 Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Claiming that because certain numbers appeared in a sequence, it proves a conspiracy. »  
+Example (question)
+« Claiming that because certain numbers appeared in a sequence, it proves a conspiracy. »
+A shooter paints a target around the bullet holes after firing and then claims perfect aim.
+A cluster found after the fact is not proof of intention.
 
-**Why this is Texas Sharpshooter Fallacy**  
-Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption. That is what this label is pointing to in the passage above.
+Example (other context)
+A shooter paints a target around the bullet holes after firing and then claims perfect aim.
+A cluster found after the fact is not proof of intention.
 
-**Takeaway**  
-Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.`,
-    intermediate: `## Texas Sharpshooter Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Claiming that because certain numbers appeared in a sequence, it proves a conspiracy. »  
+Key concept inside it
+Pattern after the fact:
+A pattern claimed only after the data are already known.
 
-The passage shows **Texas Sharpshooter Fallacy** in action: cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
+Why it matters
+Explains why:
+- It rewards selective looking.
+- It turns coincidence into design.
+- It confuses a neat cluster with a real prediction.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
+The uncomfortable implication
+A target drawn later is still a target drawn later.
 
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 3:** Imagine a family argument. The slip is the same: cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-**In one sentence**  
-Texas Sharpshooter Fallacy is the label for reasoning that fits: Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.`,
-    expert: `## Texas Sharpshooter Fallacy — in-depth (Expert)
-
-**Definition**  
-Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-**Applied to this passage**  
-« Claiming that because certain numbers appeared in a sequence, it proves a conspiracy. »  
-
-Here, **Texas Sharpshooter Fallacy** is the right name because cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 3:** Imagine a family argument. The slip is the same: cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 4:** Picture a policy or workplace discussion. People often reason as if cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-- **Example 5:** In sports or business results, watch for this pattern: Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Texas Sharpshooter Fallacy** means Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Texas Sharpshooter Fallacy = Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.`,
   },
   625: {
-    beginner: `## Undistributed Middle — in-depth (Beginner)
+    beginner: `Undistributed Middle = A mistake in syllogistic reasoning where the shared middle term does not properly connect the conclusion.`,
+    detail: `Undistributed Middle
 
-**What this is, in plain English**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument.
+Description:
+A mistake in syllogistic reasoning where the shared middle term does not properly connect the conclusion.
+The core problem is simple.
 
-**The example you’re looking at**  
-« All roses are flowers. Some flowers are red. Therefore, some roses are red. »  
+Example (question)
+« All roses are flowers. Some flowers are red. Therefore, some roses are red. »
+Two groups share one property, so someone assumes they must be related in the conclusion.
+A shared trait is not enough to prove the final link.
 
-**Why this is Undistributed Middle**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument. That is what this label is pointing to in the passage above.
+Example (other context)
+Two groups share one property, so someone assumes they must be related in the conclusion.
+A shared trait is not enough to prove the final link.
 
-**Takeaway**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument.`,
-    intermediate: `## Undistributed Middle — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« All roses are flowers. Some flowers are red. Therefore, some roses are red. »  
+Key concept inside it
+Shared middle term:
+The term that must actually connect both premises for the conclusion to work.
 
-The passage shows **Undistributed Middle** in action: a mistake in reasoning where the connecting idea isn't used properly in the argument.
+Why it matters
+Explains why:
+- It looks formal while still failing logically.
+- It can hide a missing bridge.
+- It makes the conclusion seem inevitable when it is not.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** A mistake in reasoning where the connecting idea isn't used properly in the argument.
+The uncomfortable implication
+Shared words do not guarantee shared truth.
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: a mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 3:** Picture a news headline or social post. People often reason as if a mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-**In one sentence**  
-Undistributed Middle is the label for reasoning that fits: A mistake in reasoning where the connecting idea isn't used properly in the argument.`,
-    expert: `## Undistributed Middle — in-depth (Expert)
-
-**Definition**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-**Applied to this passage**  
-« All roses are flowers. Some flowers are red. Therefore, some roses are red. »  
-
-Here, **Undistributed Middle** is the right name because a mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 2:** Imagine school grades or test scores. The slip is the same: a mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 3:** Picture a news headline or social post. People often reason as if a mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 4:** In a health or habits story, watch for this pattern: A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 5:** Another everyday spot: school grades or test scores. A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Undistributed Middle** means A mistake in reasoning where the connecting idea isn't used properly in the argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Undistributed Middle = A mistake in syllogistic reasoning where the shared middle term does not properly connect the conclusion.`,
   },
   626: {
-    beginner: `## Undistributed Middle — in-depth (Beginner)
+    beginner: `Undistributed Middle = A mistake in syllogistic reasoning where the shared middle term does not properly connect the conclusion.`,
+    detail: `Undistributed Middle
 
-**What this is, in plain English**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument.
+Description:
+A mistake in syllogistic reasoning where the shared middle term does not properly connect the conclusion.
+The core problem is simple.
 
-**The example you’re looking at**  
-« All mammals have hair. Some animals have hair. Therefore, some animals are mammals. »  
+Example (question)
+« All mammals have hair. Some animals have hair. Therefore, some animals are mammals. »
+Two groups share one property, so someone assumes they must be related in the conclusion.
+A shared trait is not enough to prove the final link.
 
-**Why this is Undistributed Middle**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument. That is what this label is pointing to in the passage above.
+Example (other context)
+Two groups share one property, so someone assumes they must be related in the conclusion.
+A shared trait is not enough to prove the final link.
 
-**Takeaway**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument.`,
-    intermediate: `## Undistributed Middle — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« All mammals have hair. Some animals have hair. Therefore, some animals are mammals. »  
+Key concept inside it
+Shared middle term:
+The term that must actually connect both premises for the conclusion to work.
 
-The passage shows **Undistributed Middle** in action: a mistake in reasoning where the connecting idea isn't used properly in the argument.
+Why it matters
+Explains why:
+- It looks formal while still failing logically.
+- It can hide a missing bridge.
+- It makes the conclusion seem inevitable when it is not.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: a mistake in reasoning where the connecting idea isn't used properly in the argument.
+The uncomfortable implication
+Shared words do not guarantee shared truth.
 
-- **Example 2:** Picture a family argument. People often reason as if a mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-**In one sentence**  
-Undistributed Middle is the label for reasoning that fits: A mistake in reasoning where the connecting idea isn't used properly in the argument.`,
-    expert: `## Undistributed Middle — in-depth (Expert)
-
-**Definition**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-**Applied to this passage**  
-« All mammals have hair. Some animals have hair. Therefore, some animals are mammals. »  
-
-Here, **Undistributed Middle** is the right name because a mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: a mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 2:** Picture a family argument. People often reason as if a mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 4:** Another everyday spot: sports or business results. A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 5:** **Setting:** a family argument. **What goes wrong:** A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Undistributed Middle** means A mistake in reasoning where the connecting idea isn't used properly in the argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Undistributed Middle = A mistake in syllogistic reasoning where the shared middle term does not properly connect the conclusion.`,
   },
   627: {
-    beginner: `## Undistributed Middle — in-depth (Beginner)
+    beginner: `Undistributed Middle = A mistake in syllogistic reasoning where the shared middle term does not properly connect the conclusion.`,
+    detail: `Undistributed Middle
 
-**What this is, in plain English**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument.
+Description:
+A mistake in syllogistic reasoning where the shared middle term does not properly connect the conclusion.
+The core problem is simple.
 
-**The example you’re looking at**  
-« All doctors are educated. Some educated people are rich. Therefore, some doctors are rich. »  
+Example (question)
+« All doctors are educated. Some educated people are rich. Therefore, some doctors are rich. »
+Two groups share one property, so someone assumes they must be related in the conclusion.
+A shared trait is not enough to prove the final link.
 
-**Why this is Undistributed Middle**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument. That is what this label is pointing to in the passage above.
+Example (other context)
+Two groups share one property, so someone assumes they must be related in the conclusion.
+A shared trait is not enough to prove the final link.
 
-**Takeaway**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument.`,
-    intermediate: `## Undistributed Middle — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« All doctors are educated. Some educated people are rich. Therefore, some doctors are rich. »  
+Key concept inside it
+Shared middle term:
+The term that must actually connect both premises for the conclusion to work.
 
-The passage shows **Undistributed Middle** in action: a mistake in reasoning where the connecting idea isn't used properly in the argument.
+Why it matters
+Explains why:
+- It looks formal while still failing logically.
+- It can hide a missing bridge.
+- It makes the conclusion seem inevitable when it is not.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if a mistake in reasoning where the connecting idea isn't used properly in the argument.
+The uncomfortable implication
+Shared words do not guarantee shared truth.
 
-- **Example 2:** In a news headline or social post, watch for this pattern: A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 3:** Another everyday spot: a health or habits story. A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-**In one sentence**  
-Undistributed Middle is the label for reasoning that fits: A mistake in reasoning where the connecting idea isn't used properly in the argument.`,
-    expert: `## Undistributed Middle — in-depth (Expert)
-
-**Definition**  
-A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-**Applied to this passage**  
-« All doctors are educated. Some educated people are rich. Therefore, some doctors are rich. »  
-
-Here, **Undistributed Middle** is the right name because a mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if a mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 2:** In a news headline or social post, watch for this pattern: A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 3:** Another everyday spot: a health or habits story. A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 4:** **Setting:** school grades or test scores. **What goes wrong:** A mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-- **Example 5:** Imagine a news headline or social post. The slip is the same: a mistake in reasoning where the connecting idea isn't used properly in the argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Undistributed Middle** means A mistake in reasoning where the connecting idea isn't used properly in the argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Undistributed Middle = A mistake in syllogistic reasoning where the shared middle term does not properly connect the conclusion.`,
   },
   628: {
-    beginner: `## Weak Analogy — in-depth (Beginner)
+    beginner: `Weak Analogy = When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.`,
+    detail: `Weak Analogy
 
-**What this is, in plain English**  
+Description:
 When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Comparing government to a family, ignoring scale differences. »  
+Example (question)
+« Comparing government to a family, ignoring scale differences. »
+A business is compared to a body, but the comparison ignores the important differences.
+A surface similarity is not enough.
 
-**Why this is Weak Analogy**  
-When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective. That is what this label is pointing to in the passage above.
+Example (other context)
+A business is compared to a body, but the comparison ignores the important differences.
+A surface similarity is not enough.
 
-**Takeaway**  
-When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.`,
-    intermediate: `## Weak Analogy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Comparing government to a family, ignoring scale differences. »  
+Key concept inside it
+Relevant similarity:
+The part of the comparison that actually matters to the conclusion.
 
-The passage shows **Weak Analogy** in action: when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
+Why it matters
+Explains why:
+- It treats resemblance as proof.
+- It ignores the differences that change the result.
+- It can make a weak comparison sound persuasive.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
+The uncomfortable implication
+An analogy can be vivid and still be bad evidence.
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-**In one sentence**  
-Weak Analogy is the label for reasoning that fits: When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.`,
-    expert: `## Weak Analogy — in-depth (Expert)
-
-**Definition**  
-When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-**Applied to this passage**  
-« Comparing government to a family, ignoring scale differences. »  
-
-Here, **Weak Analogy** is the right name because when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 2:** Another everyday spot: a policy or workplace discussion. When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 4:** Imagine a family argument. The slip is the same: when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 5:** Picture a policy or workplace discussion. People often reason as if when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Weak Analogy** means When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Weak Analogy = When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.`,
   },
   629: {
-    beginner: `## Weak Analogy — in-depth (Beginner)
+    beginner: `Weak Analogy = When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.`,
+    detail: `Weak Analogy
 
-**What this is, in plain English**  
+Description:
 When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Saying a business is like a human body, but not explaining how. »  
+Example (question)
+« Saying a business is like a human body, but not explaining how. »
+A business is compared to a body, but the comparison ignores the important differences.
+A surface similarity is not enough.
 
-**Why this is Weak Analogy**  
-When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective. That is what this label is pointing to in the passage above.
+Example (other context)
+A business is compared to a body, but the comparison ignores the important differences.
+A surface similarity is not enough.
 
-**Takeaway**  
-When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.`,
-    intermediate: `## Weak Analogy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Saying a business is like a human body, but not explaining how. »  
+Key concept inside it
+Relevant similarity:
+The part of the comparison that actually matters to the conclusion.
 
-The passage shows **Weak Analogy** in action: when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
+Why it matters
+Explains why:
+- It treats resemblance as proof.
+- It ignores the differences that change the result.
+- It can make a weak comparison sound persuasive.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
+The uncomfortable implication
+An analogy can be vivid and still be bad evidence.
 
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-**In one sentence**  
-Weak Analogy is the label for reasoning that fits: When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.`,
-    expert: `## Weak Analogy — in-depth (Expert)
-
-**Definition**  
-When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-**Applied to this passage**  
-« Saying a business is like a human body, but not explaining how. »  
-
-Here, **Weak Analogy** is the right name because when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 4:** Picture a news headline or social post. People often reason as if when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 5:** In a health or habits story, watch for this pattern: When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Weak Analogy** means When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Weak Analogy = When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.`,
   },
   630: {
-    beginner: `## Weak Analogy — in-depth (Beginner)
+    beginner: `Weak Analogy = When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.`,
+    detail: `Weak Analogy
 
-**What this is, in plain English**  
+Description:
 When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Comparing a computer to a brain, but ignoring that computers don't think. »  
+Example (question)
+« Comparing a computer to a brain, but ignoring that computers don't think. »
+A business is compared to a body, but the comparison ignores the important differences.
+A surface similarity is not enough.
 
-**Why this is Weak Analogy**  
-When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective. That is what this label is pointing to in the passage above.
+Example (other context)
+A business is compared to a body, but the comparison ignores the important differences.
+A surface similarity is not enough.
 
-**Takeaway**  
-When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.`,
-    intermediate: `## Weak Analogy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Comparing a computer to a brain, but ignoring that computers don't think. »  
+Key concept inside it
+Relevant similarity:
+The part of the comparison that actually matters to the conclusion.
 
-The passage shows **Weak Analogy** in action: when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
+Why it matters
+Explains why:
+- It treats resemblance as proof.
+- It ignores the differences that change the result.
+- It can make a weak comparison sound persuasive.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
+The uncomfortable implication
+An analogy can be vivid and still be bad evidence.
 
-- **Example 2:** Imagine sports or business results. The slip is the same: when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 3:** Picture a family argument. People often reason as if when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-**In one sentence**  
-Weak Analogy is the label for reasoning that fits: When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.`,
-    expert: `## Weak Analogy — in-depth (Expert)
-
-**Definition**  
-When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-**Applied to this passage**  
-« Comparing a computer to a brain, but ignoring that computers don't think. »  
-
-Here, **Weak Analogy** is the right name because when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 2:** Imagine sports or business results. The slip is the same: when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 3:** Picture a family argument. People often reason as if when an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 4:** In a policy or workplace discussion, watch for this pattern: When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-- **Example 5:** Another everyday spot: sports or business results. When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Weak Analogy** means When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Weak Analogy = When an analogy is used to prove or disprove an argument, but the analogy is too dissimilar to be effective.`,
   },
   631: {
-    beginner: `## Wishful Thinking — in-depth (Beginner)
+    beginner: `Wishful Thinking = Forming conclusions based on what represents one’s desires rather than what is supported by evidence.`,
+    detail: `Wishful Thinking
 
-**What this is, in plain English**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence.
+Description:
+Forming conclusions based on what represents one’s desires rather than what is supported by evidence.
+The core problem is simple.
 
-**The example you’re looking at**  
-« I really want this to be true, so it must be. »  
+Example (question)
+« I really want this to be true, so it must be. »
+A person wants a result so badly that they treat the wish as evidence.
+Wanting something does not make it true.
 
-**Why this is Wishful Thinking**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence. That is what this label is pointing to in the passage above.
+Example (other context)
+A person wants a result so badly that they treat the wish as evidence.
+Wanting something does not make it true.
 
-**Takeaway**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence.`,
-    intermediate: `## Wishful Thinking — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« I really want this to be true, so it must be. »  
+Key concept inside it
+Desire bias:
+Letting hope or preference replace the actual evidence.
 
-The passage shows **Wishful Thinking** in action: forming conclusions based on what represents one's desires rather than what is supported by evidence.
+Why it matters
+Explains why:
+- It makes preference look like proof.
+- It can hide bad odds.
+- It encourages self-deception.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: forming conclusions based on what represents one's desires rather than what is supported by evidence.
+The uncomfortable implication
+A strong wish is not a strong reason.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 3:** In a news headline or social post, watch for this pattern: Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-**In one sentence**  
-Wishful Thinking is the label for reasoning that fits: Forming conclusions based on what represents one's desires rather than what is supported by evidence.`,
-    expert: `## Wishful Thinking — in-depth (Expert)
-
-**Definition**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-**Applied to this passage**  
-« I really want this to be true, so it must be. »  
-
-Here, **Wishful Thinking** is the right name because forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 2:** Picture school grades or test scores. People often reason as if forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 3:** In a news headline or social post, watch for this pattern: Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 4:** Another everyday spot: a health or habits story. Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Wishful Thinking** means Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Wishful Thinking = Forming conclusions based on what represents one’s desires rather than what is supported by evidence.`,
   },
   632: {
-    beginner: `## Wishful Thinking — in-depth (Beginner)
+    beginner: `Wishful Thinking = Forming conclusions based on what represents one’s desires rather than what is supported by evidence.`,
+    detail: `Wishful Thinking
 
-**What this is, in plain English**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence.
+Description:
+Forming conclusions based on what represents one’s desires rather than what is supported by evidence.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Believing in lottery odds because you want to win. »  
+Example (question)
+« Believing in lottery odds because you want to win. »
+A person wants a result so badly that they treat the wish as evidence.
+Wanting something does not make it true.
 
-**Why this is Wishful Thinking**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence. That is what this label is pointing to in the passage above.
+Example (other context)
+A person wants a result so badly that they treat the wish as evidence.
+Wanting something does not make it true.
 
-**Takeaway**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence.`,
-    intermediate: `## Wishful Thinking — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Believing in lottery odds because you want to win. »  
+Key concept inside it
+Desire bias:
+Letting hope or preference replace the actual evidence.
 
-The passage shows **Wishful Thinking** in action: forming conclusions based on what represents one's desires rather than what is supported by evidence.
+Why it matters
+Explains why:
+- It makes preference look like proof.
+- It can hide bad odds.
+- It encourages self-deception.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if forming conclusions based on what represents one's desires rather than what is supported by evidence.
+The uncomfortable implication
+A strong wish is not a strong reason.
 
-- **Example 2:** In a family argument, watch for this pattern: Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-**In one sentence**  
-Wishful Thinking is the label for reasoning that fits: Forming conclusions based on what represents one's desires rather than what is supported by evidence.`,
-    expert: `## Wishful Thinking — in-depth (Expert)
-
-**Definition**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-**Applied to this passage**  
-« Believing in lottery odds because you want to win. »  
-
-Here, **Wishful Thinking** is the right name because forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 2:** In a family argument, watch for this pattern: Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 4:** **Setting:** sports or business results. **What goes wrong:** Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 5:** Imagine a family argument. The slip is the same: forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Wishful Thinking** means Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Wishful Thinking = Forming conclusions based on what represents one’s desires rather than what is supported by evidence.`,
   },
   633: {
-    beginner: `## Wishful Thinking — in-depth (Beginner)
+    beginner: `Wishful Thinking = Forming conclusions based on what represents one’s desires rather than what is supported by evidence.`,
+    detail: `Wishful Thinking
 
-**What this is, in plain English**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence.
+Description:
+Forming conclusions based on what represents one’s desires rather than what is supported by evidence.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Ignoring evidence for desired outcomes. »  
+Example (question)
+« Ignoring evidence for desired outcomes. »
+A person wants a result so badly that they treat the wish as evidence.
+Wanting something does not make it true.
 
-**Why this is Wishful Thinking**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence. That is what this label is pointing to in the passage above.
+Example (other context)
+A person wants a result so badly that they treat the wish as evidence.
+Wanting something does not make it true.
 
-**Takeaway**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence.`,
-    intermediate: `## Wishful Thinking — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Ignoring evidence for desired outcomes. »  
+Key concept inside it
+Desire bias:
+Letting hope or preference replace the actual evidence.
 
-The passage shows **Wishful Thinking** in action: forming conclusions based on what represents one's desires rather than what is supported by evidence.
+Why it matters
+Explains why:
+- It makes preference look like proof.
+- It can hide bad odds.
+- It encourages self-deception.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Forming conclusions based on what represents one's desires rather than what is supported by evidence.
+The uncomfortable implication
+A strong wish is not a strong reason.
 
-- **Example 2:** Another everyday spot: a news headline or social post. Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-**In one sentence**  
-Wishful Thinking is the label for reasoning that fits: Forming conclusions based on what represents one's desires rather than what is supported by evidence.`,
-    expert: `## Wishful Thinking — in-depth (Expert)
-
-**Definition**  
-Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-**Applied to this passage**  
-« Ignoring evidence for desired outcomes. »  
-
-Here, **Wishful Thinking** is the right name because forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 2:** Another everyday spot: a news headline or social post. Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 4:** Imagine school grades or test scores. The slip is the same: forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-- **Example 5:** Picture a news headline or social post. People often reason as if forming conclusions based on what represents one's desires rather than what is supported by evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Wishful Thinking** means Forming conclusions based on what represents one's desires rather than what is supported by evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Wishful Thinking = Forming conclusions based on what represents one’s desires rather than what is supported by evidence.`,
   },
   634: {
-    beginner: `## Zero-Risk Bias — in-depth (Beginner)
+    beginner: `Zero-Risk Bias = The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.`,
+    detail: `Zero-Risk Bias
 
-**What this is, in plain English**  
+Description:
 The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Preferring complete safety over partial reduction. »  
+Example (question)
+« Preferring complete safety over partial reduction. »
+A safety plan is rejected because it does not erase every tiny possibility of harm.
+Reducing danger a lot is still reducing danger.
 
-**Why this is Zero-Risk Bias**  
-The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk. That is what this label is pointing to in the passage above.
+Example (other context)
+A safety plan is rejected because it does not erase every tiny possibility of harm.
+Reducing danger a lot is still reducing danger.
 
-**Takeaway**  
-The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.`,
-    intermediate: `## Zero-Risk Bias — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Preferring complete safety over partial reduction. »  
+Key concept inside it
+Perfect safety trap:
+The habit of treating “not perfect” as “not worth doing.”
 
-The passage shows **Zero-Risk Bias** in action: the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
+Why it matters
+Explains why:
+- It ignores big improvements.
+- It makes zero the only acceptable number.
+- It can block practical progress.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
+The uncomfortable implication
+Some risk reduction is better than none.
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-**In one sentence**  
-Zero-Risk Bias is the label for reasoning that fits: The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.`,
-    expert: `## Zero-Risk Bias — in-depth (Expert)
-
-**Definition**  
-The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-**Applied to this passage**  
-« Preferring complete safety over partial reduction. »  
-
-Here, **Zero-Risk Bias** is the right name because the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 4:** Picture a family argument. People often reason as if the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 5:** In a policy or workplace discussion, watch for this pattern: The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Zero-Risk Bias** means The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Zero-Risk Bias = The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.`,
   },
   635: {
-    beginner: `## Zero-Risk Bias — in-depth (Beginner)
+    beginner: `Zero-Risk Bias = The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.`,
+    detail: `Zero-Risk Bias
 
-**What this is, in plain English**  
+Description:
 The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Avoiding any risk. »  
+Example (question)
+« Avoiding any risk. »
+A safety plan is rejected because it does not erase every tiny possibility of harm.
+Reducing danger a lot is still reducing danger.
 
-**Why this is Zero-Risk Bias**  
-The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk. That is what this label is pointing to in the passage above.
+Example (other context)
+A safety plan is rejected because it does not erase every tiny possibility of harm.
+Reducing danger a lot is still reducing danger.
 
-**Takeaway**  
-The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.`,
-    intermediate: `## Zero-Risk Bias — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Avoiding any risk. »  
+Key concept inside it
+Perfect safety trap:
+The habit of treating “not perfect” as “not worth doing.”
 
-The passage shows **Zero-Risk Bias** in action: the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
+Why it matters
+Explains why:
+- It ignores big improvements.
+- It makes zero the only acceptable number.
+- It can block practical progress.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
+The uncomfortable implication
+Some risk reduction is better than none.
 
-- **Example 2:** Imagine a health or habits story. The slip is the same: the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-**In one sentence**  
-Zero-Risk Bias is the label for reasoning that fits: The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.`,
-    expert: `## Zero-Risk Bias — in-depth (Expert)
-
-**Definition**  
-The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-**Applied to this passage**  
-« Avoiding any risk. »  
-
-Here, **Zero-Risk Bias** is the right name because the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 2:** Imagine a health or habits story. The slip is the same: the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 4:** In a news headline or social post, watch for this pattern: The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 5:** Another everyday spot: a health or habits story. The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Zero-Risk Bias** means The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Zero-Risk Bias = The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.`,
   },
   636: {
-    beginner: `## Zero-Risk Bias — in-depth (Beginner)
+    beginner: `Zero-Risk Bias = The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.`,
+    detail: `Zero-Risk Bias
 
-**What this is, in plain English**  
+Description:
 The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Zero tolerance preference. »  
+Example (question)
+« Zero tolerance preference. »
+A safety plan is rejected because it does not erase every tiny possibility of harm.
+Reducing danger a lot is still reducing danger.
 
-**Why this is Zero-Risk Bias**  
-The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk. That is what this label is pointing to in the passage above.
+Example (other context)
+A safety plan is rejected because it does not erase every tiny possibility of harm.
+Reducing danger a lot is still reducing danger.
 
-**Takeaway**  
-The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.`,
-    intermediate: `## Zero-Risk Bias — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Zero tolerance preference. »  
+Key concept inside it
+Perfect safety trap:
+The habit of treating “not perfect” as “not worth doing.”
 
-The passage shows **Zero-Risk Bias** in action: the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
+Why it matters
+Explains why:
+- It ignores big improvements.
+- It makes zero the only acceptable number.
+- It can block practical progress.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
+The uncomfortable implication
+Some risk reduction is better than none.
 
-- **Example 2:** Picture sports or business results. People often reason as if the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 3:** In a family argument, watch for this pattern: The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-**In one sentence**  
-Zero-Risk Bias is the label for reasoning that fits: The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.`,
-    expert: `## Zero-Risk Bias — in-depth (Expert)
-
-**Definition**  
-The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-**Applied to this passage**  
-« Zero tolerance preference. »  
-
-Here, **Zero-Risk Bias** is the right name because the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 2:** Picture sports or business results. People often reason as if the tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 3:** In a family argument, watch for this pattern: The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 4:** Another everyday spot: a policy or workplace discussion. The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-- **Example 5:** **Setting:** sports or business results. **What goes wrong:** The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Zero-Risk Bias** means The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Zero-Risk Bias = The tendency to prefer options that reduce risk to zero over options that reduce risk by a larger amount but still leave some risk.`,
   },
   637: {
-    beginner: `## Ad Hominem Abusive — in-depth (Beginner)
+    beginner: `Ad Hominem Abusive = Attacking the character of the person making the argument instead of addressing the argument itself.`,
+    detail: `Ad Hominem Abusive
 
-**What this is, in plain English**  
+Description:
 Attacking the character of the person making the argument instead of addressing the argument itself.
+The core problem is simple.
 
-**The example you’re looking at**  
-« You can't trust John's opinion on politics because he's an idiot. »  
+Example (question)
+« You can't trust John's opinion on politics because he's an idiot. »
+The speaker is called an idiot so their point can be ignored.
+Insults are not rebuttals.
 
-**Why this is Ad Hominem Abusive**  
-Attacking the character of the person making the argument instead of addressing the argument itself. That is what this label is pointing to in the passage above.
+Example (other context)
+The speaker is called an idiot so their point can be ignored.
+Insults are not rebuttals.
 
-**Takeaway**  
-Attacking the character of the person making the argument instead of addressing the argument itself.`,
-    intermediate: `## Ad Hominem Abusive — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Attacking the character of the person making the argument instead of addressing the argument itself.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« You can't trust John's opinion on politics because he's an idiot. »  
+Key concept inside it
+Personal attack:
+Targeting the speaker instead of the claim.
 
-The passage shows **Ad Hominem Abusive** in action: attacking the character of the person making the argument instead of addressing the argument itself.
+Why it matters
+Explains why:
+- It dodges the actual issue.
+- It confuses reputation with reasoning.
+- It replaces evidence with contempt.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if attacking the character of the person making the argument instead of addressing the argument itself.
+The uncomfortable implication
+A rude speaker can still be right.
 
-- **Example 2:** In school grades or test scores, watch for this pattern: Attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 3:** Another everyday spot: a news headline or social post. Attacking the character of the person making the argument instead of addressing the argument itself.
-
-**In one sentence**  
-Ad Hominem Abusive is the label for reasoning that fits: Attacking the character of the person making the argument instead of addressing the argument itself.`,
-    expert: `## Ad Hominem Abusive — in-depth (Expert)
-
-**Definition**  
-Attacking the character of the person making the argument instead of addressing the argument itself.
-
-**Applied to this passage**  
-« You can't trust John's opinion on politics because he's an idiot. »  
-
-Here, **Ad Hominem Abusive** is the right name because attacking the character of the person making the argument instead of addressing the argument itself.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 2:** In school grades or test scores, watch for this pattern: Attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 3:** Another everyday spot: a news headline or social post. Attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 4:** **Setting:** a health or habits story. **What goes wrong:** Attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 5:** Imagine school grades or test scores. The slip is the same: attacking the character of the person making the argument instead of addressing the argument itself.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Ad Hominem Abusive** means Attacking the character of the person making the argument instead of addressing the argument itself.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Ad Hominem Abusive = Attacking the character of the person making the argument instead of addressing the argument itself.`,
   },
   638: {
-    beginner: `## Ad Hominem Abusive — in-depth (Beginner)
+    beginner: `Ad Hominem Abusive = Attacking the character of the person making the argument instead of addressing the argument itself.`,
+    detail: `Ad Hominem Abusive
 
-**What this is, in plain English**  
+Description:
 Attacking the character of the person making the argument instead of addressing the argument itself.
+The core problem is simple.
 
-**The example you’re looking at**  
-« My opponent is a liar, so her proposal must be bad. »  
+Example (question)
+« My opponent is a liar, so her proposal must be bad. »
+The speaker is called an idiot so their point can be ignored.
+Insults are not rebuttals.
 
-**Why this is Ad Hominem Abusive**  
-Attacking the character of the person making the argument instead of addressing the argument itself. That is what this label is pointing to in the passage above.
+Example (other context)
+The speaker is called an idiot so their point can be ignored.
+Insults are not rebuttals.
 
-**Takeaway**  
-Attacking the character of the person making the argument instead of addressing the argument itself.`,
-    intermediate: `## Ad Hominem Abusive — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Attacking the character of the person making the argument instead of addressing the argument itself.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« My opponent is a liar, so her proposal must be bad. »  
+Key concept inside it
+Personal attack:
+Targeting the speaker instead of the claim.
 
-The passage shows **Ad Hominem Abusive** in action: attacking the character of the person making the argument instead of addressing the argument itself.
+Why it matters
+Explains why:
+- It dodges the actual issue.
+- It confuses reputation with reasoning.
+- It replaces evidence with contempt.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Attacking the character of the person making the argument instead of addressing the argument itself.
+The uncomfortable implication
+A rude speaker can still be right.
 
-- **Example 2:** Another everyday spot: a family argument. Attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Attacking the character of the person making the argument instead of addressing the argument itself.
-
-**In one sentence**  
-Ad Hominem Abusive is the label for reasoning that fits: Attacking the character of the person making the argument instead of addressing the argument itself.`,
-    expert: `## Ad Hominem Abusive — in-depth (Expert)
-
-**Definition**  
-Attacking the character of the person making the argument instead of addressing the argument itself.
-
-**Applied to this passage**  
-« My opponent is a liar, so her proposal must be bad. »  
-
-Here, **Ad Hominem Abusive** is the right name because attacking the character of the person making the argument instead of addressing the argument itself.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 2:** Another everyday spot: a family argument. Attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 4:** Imagine sports or business results. The slip is the same: attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 5:** Picture a family argument. People often reason as if attacking the character of the person making the argument instead of addressing the argument itself.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Ad Hominem Abusive** means Attacking the character of the person making the argument instead of addressing the argument itself.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Ad Hominem Abusive = Attacking the character of the person making the argument instead of addressing the argument itself.`,
   },
   639: {
-    beginner: `## Ad Hominem Abusive — in-depth (Beginner)
+    beginner: `Ad Hominem Abusive = Attacking the character of the person making the argument instead of addressing the argument itself.`,
+    detail: `Ad Hominem Abusive
 
-**What this is, in plain English**  
+Description:
 Attacking the character of the person making the argument instead of addressing the argument itself.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Don't listen to him; he's a criminal. »  
+Example (question)
+« Don't listen to him; he's a criminal. »
+The speaker is called an idiot so their point can be ignored.
+Insults are not rebuttals.
 
-**Why this is Ad Hominem Abusive**  
-Attacking the character of the person making the argument instead of addressing the argument itself. That is what this label is pointing to in the passage above.
+Example (other context)
+The speaker is called an idiot so their point can be ignored.
+Insults are not rebuttals.
 
-**Takeaway**  
-Attacking the character of the person making the argument instead of addressing the argument itself.`,
-    intermediate: `## Ad Hominem Abusive — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Attacking the character of the person making the argument instead of addressing the argument itself.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Don't listen to him; he's a criminal. »  
+Key concept inside it
+Personal attack:
+Targeting the speaker instead of the claim.
 
-The passage shows **Ad Hominem Abusive** in action: attacking the character of the person making the argument instead of addressing the argument itself.
+Why it matters
+Explains why:
+- It dodges the actual issue.
+- It confuses reputation with reasoning.
+- It replaces evidence with contempt.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Attacking the character of the person making the argument instead of addressing the argument itself.
+The uncomfortable implication
+A rude speaker can still be right.
 
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: attacking the character of the person making the argument instead of addressing the argument itself.
-
-**In one sentence**  
-Ad Hominem Abusive is the label for reasoning that fits: Attacking the character of the person making the argument instead of addressing the argument itself.`,
-    expert: `## Ad Hominem Abusive — in-depth (Expert)
-
-**Definition**  
-Attacking the character of the person making the argument instead of addressing the argument itself.
-
-**Applied to this passage**  
-« Don't listen to him; he's a criminal. »  
-
-Here, **Ad Hominem Abusive** is the right name because attacking the character of the person making the argument instead of addressing the argument itself.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 4:** Picture school grades or test scores. People often reason as if attacking the character of the person making the argument instead of addressing the argument itself.
-
-- **Example 5:** In a news headline or social post, watch for this pattern: Attacking the character of the person making the argument instead of addressing the argument itself.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Ad Hominem Abusive** means Attacking the character of the person making the argument instead of addressing the argument itself.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Ad Hominem Abusive = Attacking the character of the person making the argument instead of addressing the argument itself.`,
   },
   640: {
-    beginner: `## Ad Hominem Circumstantial — in-depth (Beginner)
+    beginner: `Ad Hominem Circumstantial = Attacking the circumstances of the person making the argument rather than the argument itself.`,
+    detail: `Ad Hominem Circumstantial
 
-**What this is, in plain English**  
+Description:
 Attacking the circumstances of the person making the argument rather than the argument itself.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Of course you support this policy; you're paid by the company. »  
+Example (question)
+« Of course you support this policy; you're paid by the company. »
+The opinion is dismissed because the speaker has a job or connection that might influence them.
+A possible bias is not automatic proof of a bad claim.
 
-**Why this is Ad Hominem Circumstantial**  
-Attacking the circumstances of the person making the argument rather than the argument itself. That is what this label is pointing to in the passage above.
+Example (other context)
+The opinion is dismissed because the speaker has a job or connection that might influence them.
+A possible bias is not automatic proof of a bad claim.
 
-**Takeaway**  
-Attacking the circumstances of the person making the argument rather than the argument itself.`,
-    intermediate: `## Ad Hominem Circumstantial — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Attacking the circumstances of the person making the argument rather than the argument itself.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Of course you support this policy; you're paid by the company. »  
+Key concept inside it
+Conflict guess:
+Assuming the claim is wrong because of the speaker’s situation.
 
-The passage shows **Ad Hominem Circumstantial** in action: attacking the circumstances of the person making the argument rather than the argument itself.
+Why it matters
+Explains why:
+- It can ignore a good argument.
+- It may focus on motive instead of evidence.
+- It can be used too broadly.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Attacking the circumstances of the person making the argument rather than the argument itself.
+The uncomfortable implication
+A bias risk is not the same as a refutation.
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 3:** Picture sports or business results. People often reason as if attacking the circumstances of the person making the argument rather than the argument itself.
-
-**In one sentence**  
-Ad Hominem Circumstantial is the label for reasoning that fits: Attacking the circumstances of the person making the argument rather than the argument itself.`,
-    expert: `## Ad Hominem Circumstantial — in-depth (Expert)
-
-**Definition**  
-Attacking the circumstances of the person making the argument rather than the argument itself.
-
-**Applied to this passage**  
-« Of course you support this policy; you're paid by the company. »  
-
-Here, **Ad Hominem Circumstantial** is the right name because attacking the circumstances of the person making the argument rather than the argument itself.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 3:** Picture sports or business results. People often reason as if attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 4:** In a family argument, watch for this pattern: Attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 5:** Another everyday spot: a policy or workplace discussion. Attacking the circumstances of the person making the argument rather than the argument itself.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Ad Hominem Circumstantial** means Attacking the circumstances of the person making the argument rather than the argument itself.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Ad Hominem Circumstantial = Attacking the circumstances of the person making the argument rather than the argument itself.`,
   },
   641: {
-    beginner: `## Ad Hominem Circumstantial — in-depth (Beginner)
+    beginner: `Ad Hominem Circumstantial = Attacking the circumstances of the person making the argument rather than the argument itself.`,
+    detail: `Ad Hominem Circumstantial
 
-**What this is, in plain English**  
+Description:
 Attacking the circumstances of the person making the argument rather than the argument itself.
+The core problem is simple.
 
-**The example you’re looking at**  
-« You only oppose this because you're biased. »  
+Example (question)
+« You only oppose this because you're biased. »
+The opinion is dismissed because the speaker has a job or connection that might influence them.
+A possible bias is not automatic proof of a bad claim.
 
-**Why this is Ad Hominem Circumstantial**  
-Attacking the circumstances of the person making the argument rather than the argument itself. That is what this label is pointing to in the passage above.
+Example (other context)
+The opinion is dismissed because the speaker has a job or connection that might influence them.
+A possible bias is not automatic proof of a bad claim.
 
-**Takeaway**  
-Attacking the circumstances of the person making the argument rather than the argument itself.`,
-    intermediate: `## Ad Hominem Circumstantial — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Attacking the circumstances of the person making the argument rather than the argument itself.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« You only oppose this because you're biased. »  
+Key concept inside it
+Conflict guess:
+Assuming the claim is wrong because of the speaker’s situation.
 
-The passage shows **Ad Hominem Circumstantial** in action: attacking the circumstances of the person making the argument rather than the argument itself.
+Why it matters
+Explains why:
+- It can ignore a good argument.
+- It may focus on motive instead of evidence.
+- It can be used too broadly.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: attacking the circumstances of the person making the argument rather than the argument itself.
+The uncomfortable implication
+A bias risk is not the same as a refutation.
 
-- **Example 2:** Picture a health or habits story. People often reason as if attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: Attacking the circumstances of the person making the argument rather than the argument itself.
-
-**In one sentence**  
-Ad Hominem Circumstantial is the label for reasoning that fits: Attacking the circumstances of the person making the argument rather than the argument itself.`,
-    expert: `## Ad Hominem Circumstantial — in-depth (Expert)
-
-**Definition**  
-Attacking the circumstances of the person making the argument rather than the argument itself.
-
-**Applied to this passage**  
-« You only oppose this because you're biased. »  
-
-Here, **Ad Hominem Circumstantial** is the right name because attacking the circumstances of the person making the argument rather than the argument itself.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 2:** Picture a health or habits story. People often reason as if attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: Attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 4:** Another everyday spot: a news headline or social post. Attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Attacking the circumstances of the person making the argument rather than the argument itself.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Ad Hominem Circumstantial** means Attacking the circumstances of the person making the argument rather than the argument itself.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Ad Hominem Circumstantial = Attacking the circumstances of the person making the argument rather than the argument itself.`,
   },
   642: {
-    beginner: `## Ad Hominem Circumstantial — in-depth (Beginner)
+    beginner: `Ad Hominem Circumstantial = Attacking the circumstances of the person making the argument rather than the argument itself.`,
+    detail: `Ad Hominem Circumstantial
 
-**What this is, in plain English**  
+Description:
 Attacking the circumstances of the person making the argument rather than the argument itself.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Your opinion is invalid because you're related to the issue. »  
+Example (question)
+« Your opinion is invalid because you're related to the issue. »
+The opinion is dismissed because the speaker has a job or connection that might influence them.
+A possible bias is not automatic proof of a bad claim.
 
-**Why this is Ad Hominem Circumstantial**  
-Attacking the circumstances of the person making the argument rather than the argument itself. That is what this label is pointing to in the passage above.
+Example (other context)
+The opinion is dismissed because the speaker has a job or connection that might influence them.
+A possible bias is not automatic proof of a bad claim.
 
-**Takeaway**  
-Attacking the circumstances of the person making the argument rather than the argument itself.`,
-    intermediate: `## Ad Hominem Circumstantial — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Attacking the circumstances of the person making the argument rather than the argument itself.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Your opinion is invalid because you're related to the issue. »  
+Key concept inside it
+Conflict guess:
+Assuming the claim is wrong because of the speaker’s situation.
 
-The passage shows **Ad Hominem Circumstantial** in action: attacking the circumstances of the person making the argument rather than the argument itself.
+Why it matters
+Explains why:
+- It can ignore a good argument.
+- It may focus on motive instead of evidence.
+- It can be used too broadly.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if attacking the circumstances of the person making the argument rather than the argument itself.
+The uncomfortable implication
+A bias risk is not the same as a refutation.
 
-- **Example 2:** In sports or business results, watch for this pattern: Attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 3:** Another everyday spot: a family argument. Attacking the circumstances of the person making the argument rather than the argument itself.
-
-**In one sentence**  
-Ad Hominem Circumstantial is the label for reasoning that fits: Attacking the circumstances of the person making the argument rather than the argument itself.`,
-    expert: `## Ad Hominem Circumstantial — in-depth (Expert)
-
-**Definition**  
-Attacking the circumstances of the person making the argument rather than the argument itself.
-
-**Applied to this passage**  
-« Your opinion is invalid because you're related to the issue. »  
-
-Here, **Ad Hominem Circumstantial** is the right name because attacking the circumstances of the person making the argument rather than the argument itself.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 2:** In sports or business results, watch for this pattern: Attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 3:** Another everyday spot: a family argument. Attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 4:** **Setting:** a policy or workplace discussion. **What goes wrong:** Attacking the circumstances of the person making the argument rather than the argument itself.
-
-- **Example 5:** Imagine sports or business results. The slip is the same: attacking the circumstances of the person making the argument rather than the argument itself.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Ad Hominem Circumstantial** means Attacking the circumstances of the person making the argument rather than the argument itself.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Ad Hominem Circumstantial = Attacking the circumstances of the person making the argument rather than the argument itself.`,
   },
   643: {
-    beginner: `## Ad Populum — in-depth (Beginner)
+    beginner: `Ad Populum = Appealing to the emotions and prejudices of the crowd.`,
+    detail: `Ad Populum
 
-**What this is, in plain English**  
+Description:
 Appealing to the emotions and prejudices of the crowd.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Everyone loves this product, so it must be great. »  
+Example (question)
+« Everyone loves this product, so it must be great. »
+A claim is sold because many people like it, not because it is supported.
+Popularity is not proof.
 
-**Why this is Ad Populum**  
-Appealing to the emotions and prejudices of the crowd. That is what this label is pointing to in the passage above.
+Example (other context)
+A claim is sold because many people like it, not because it is supported.
+Popularity is not proof.
 
-**Takeaway**  
-Appealing to the emotions and prejudices of the crowd.`,
-    intermediate: `## Ad Populum — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Appealing to the emotions and prejudices of the crowd.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Everyone loves this product, so it must be great. »  
+Key concept inside it
+Bandwagon cue:
+Using crowd support as a substitute for evidence.
 
-The passage shows **Ad Populum** in action: appealing to the emotions and prejudices of the crowd.
+Why it matters
+Explains why:
+- Crowds can be wrong.
+- Familiarity can feel like truth.
+- It pressures people instead of persuading them.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Appealing to the emotions and prejudices of the crowd.
+The uncomfortable implication
+A loud crowd is not the same as a correct crowd.
 
-- **Example 2:** Another everyday spot: school grades or test scores. Appealing to the emotions and prejudices of the crowd.
-
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Appealing to the emotions and prejudices of the crowd.
-
-**In one sentence**  
-Ad Populum is the label for reasoning that fits: Appealing to the emotions and prejudices of the crowd.`,
-    expert: `## Ad Populum — in-depth (Expert)
-
-**Definition**  
-Appealing to the emotions and prejudices of the crowd.
-
-**Applied to this passage**  
-« Everyone loves this product, so it must be great. »  
-
-Here, **Ad Populum** is the right name because appealing to the emotions and prejudices of the crowd.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Appealing to the emotions and prejudices of the crowd.
-
-- **Example 2:** Another everyday spot: school grades or test scores. Appealing to the emotions and prejudices of the crowd.
-
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Appealing to the emotions and prejudices of the crowd.
-
-- **Example 4:** Imagine a health or habits story. The slip is the same: appealing to the emotions and prejudices of the crowd.
-
-- **Example 5:** Picture school grades or test scores. People often reason as if appealing to the emotions and prejudices of the crowd.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Ad Populum** means Appealing to the emotions and prejudices of the crowd.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Ad Populum = Appealing to the emotions and prejudices of the crowd.`,
   },
   644: {
-    beginner: `## Ad Populum — in-depth (Beginner)
+    beginner: `Ad Populum = Appealing to the emotions and prejudices of the crowd.`,
+    detail: `Ad Populum
 
-**What this is, in plain English**  
+Description:
 Appealing to the emotions and prejudices of the crowd.
+The core problem is simple.
 
-**The example you’re looking at**  
-« The crowd is cheering, so this is the right choice. »  
+Example (question)
+« The crowd is cheering, so this is the right choice. »
+A claim is sold because many people like it, not because it is supported.
+Popularity is not proof.
 
-**Why this is Ad Populum**  
-Appealing to the emotions and prejudices of the crowd. That is what this label is pointing to in the passage above.
+Example (other context)
+A claim is sold because many people like it, not because it is supported.
+Popularity is not proof.
 
-**Takeaway**  
-Appealing to the emotions and prejudices of the crowd.`,
-    intermediate: `## Ad Populum — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Appealing to the emotions and prejudices of the crowd.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« The crowd is cheering, so this is the right choice. »  
+Key concept inside it
+Bandwagon cue:
+Using crowd support as a substitute for evidence.
 
-The passage shows **Ad Populum** in action: appealing to the emotions and prejudices of the crowd.
+Why it matters
+Explains why:
+- Crowds can be wrong.
+- Familiarity can feel like truth.
+- It pressures people instead of persuading them.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Appealing to the emotions and prejudices of the crowd.
+The uncomfortable implication
+A loud crowd is not the same as a correct crowd.
 
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Appealing to the emotions and prejudices of the crowd.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: appealing to the emotions and prejudices of the crowd.
-
-**In one sentence**  
-Ad Populum is the label for reasoning that fits: Appealing to the emotions and prejudices of the crowd.`,
-    expert: `## Ad Populum — in-depth (Expert)
-
-**Definition**  
-Appealing to the emotions and prejudices of the crowd.
-
-**Applied to this passage**  
-« The crowd is cheering, so this is the right choice. »  
-
-Here, **Ad Populum** is the right name because appealing to the emotions and prejudices of the crowd.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Appealing to the emotions and prejudices of the crowd.
-
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Appealing to the emotions and prejudices of the crowd.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: appealing to the emotions and prejudices of the crowd.
-
-- **Example 4:** Picture sports or business results. People often reason as if appealing to the emotions and prejudices of the crowd.
-
-- **Example 5:** In a family argument, watch for this pattern: Appealing to the emotions and prejudices of the crowd.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Ad Populum** means Appealing to the emotions and prejudices of the crowd.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Ad Populum = Appealing to the emotions and prejudices of the crowd.`,
   },
   645: {
-    beginner: `## Ad Populum — in-depth (Beginner)
+    beginner: `Ad Populum = Appealing to the emotions and prejudices of the crowd.`,
+    detail: `Ad Populum
 
-**What this is, in plain English**  
+Description:
 Appealing to the emotions and prejudices of the crowd.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Popular opinion proves it's true. »  
+Example (question)
+« Popular opinion proves it's true. »
+A claim is sold because many people like it, not because it is supported.
+Popularity is not proof.
 
-**Why this is Ad Populum**  
-Appealing to the emotions and prejudices of the crowd. That is what this label is pointing to in the passage above.
+Example (other context)
+A claim is sold because many people like it, not because it is supported.
+Popularity is not proof.
 
-**Takeaway**  
-Appealing to the emotions and prejudices of the crowd.`,
-    intermediate: `## Ad Populum — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Appealing to the emotions and prejudices of the crowd.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Popular opinion proves it's true. »  
+Key concept inside it
+Bandwagon cue:
+Using crowd support as a substitute for evidence.
 
-The passage shows **Ad Populum** in action: appealing to the emotions and prejudices of the crowd.
+Why it matters
+Explains why:
+- Crowds can be wrong.
+- Familiarity can feel like truth.
+- It pressures people instead of persuading them.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Appealing to the emotions and prejudices of the crowd.
+The uncomfortable implication
+A loud crowd is not the same as a correct crowd.
 
-- **Example 2:** Imagine a news headline or social post. The slip is the same: appealing to the emotions and prejudices of the crowd.
-
-- **Example 3:** Picture a health or habits story. People often reason as if appealing to the emotions and prejudices of the crowd.
-
-**In one sentence**  
-Ad Populum is the label for reasoning that fits: Appealing to the emotions and prejudices of the crowd.`,
-    expert: `## Ad Populum — in-depth (Expert)
-
-**Definition**  
-Appealing to the emotions and prejudices of the crowd.
-
-**Applied to this passage**  
-« Popular opinion proves it's true. »  
-
-Here, **Ad Populum** is the right name because appealing to the emotions and prejudices of the crowd.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Appealing to the emotions and prejudices of the crowd.
-
-- **Example 2:** Imagine a news headline or social post. The slip is the same: appealing to the emotions and prejudices of the crowd.
-
-- **Example 3:** Picture a health or habits story. People often reason as if appealing to the emotions and prejudices of the crowd.
-
-- **Example 4:** In school grades or test scores, watch for this pattern: Appealing to the emotions and prejudices of the crowd.
-
-- **Example 5:** Another everyday spot: a news headline or social post. Appealing to the emotions and prejudices of the crowd.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Ad Populum** means Appealing to the emotions and prejudices of the crowd.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Ad Populum = Appealing to the emotions and prejudices of the crowd.`,
   },
   646: {
-    beginner: `## Affirming the Consequent — in-depth (Beginner)
+    beginner: `Affirming the Consequent = Drawing a conclusion based on the inverse of a conditional statement.`,
+    detail: `Affirming the Consequent
 
-**What this is, in plain English**  
+Description:
 Drawing a conclusion based on the inverse of a conditional statement.
+The core problem is simple.
 
-**The example you’re looking at**  
-« If it rains, the ground is wet. The ground is wet, so it rained. »  
+Example (question)
+« If it rains, the ground is wet. The ground is wet, so it rained. »
+Seeing fur and concluding the animal must be a cat.
+The effect does not prove the cause.
 
-**Why this is Affirming the Consequent**  
-Drawing a conclusion based on the inverse of a conditional statement. That is what this label is pointing to in the passage above.
+Example (other context)
+Seeing fur and concluding the animal must be a cat.
+The effect does not prove the cause.
 
-**Takeaway**  
-Drawing a conclusion based on the inverse of a conditional statement.`,
-    intermediate: `## Affirming the Consequent — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Drawing a conclusion based on the inverse of a conditional statement.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« If it rains, the ground is wet. The ground is wet, so it rained. »  
+Key concept inside it
+Reverse-logic error:
+Assuming that if A leads to B, then seeing B means A must have happened.
 
-The passage shows **Affirming the Consequent** in action: drawing a conclusion based on the inverse of a conditional statement.
+Why it matters
+Explains why:
+- Other causes may produce the same result.
+- It swaps a one-way rule into a two-way rule.
+- It makes the conclusion look tidy but unsafe.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: drawing a conclusion based on the inverse of a conditional statement.
+The uncomfortable implication
+The same result can have many causes.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 3:** In sports or business results, watch for this pattern: Drawing a conclusion based on the inverse of a conditional statement.
-
-**In one sentence**  
-Affirming the Consequent is the label for reasoning that fits: Drawing a conclusion based on the inverse of a conditional statement.`,
-    expert: `## Affirming the Consequent — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion based on the inverse of a conditional statement.
-
-**Applied to this passage**  
-« If it rains, the ground is wet. The ground is wet, so it rained. »  
-
-Here, **Affirming the Consequent** is the right name because drawing a conclusion based on the inverse of a conditional statement.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 3:** In sports or business results, watch for this pattern: Drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 4:** Another everyday spot: a family argument. Drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Drawing a conclusion based on the inverse of a conditional statement.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Affirming the Consequent** means Drawing a conclusion based on the inverse of a conditional statement.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Affirming the Consequent = Drawing a conclusion based on the inverse of a conditional statement.`,
   },
   647: {
-    beginner: `## Affirming the Consequent — in-depth (Beginner)
+    beginner: `Affirming the Consequent = Drawing a conclusion based on the inverse of a conditional statement.`,
+    detail: `Affirming the Consequent
 
-**What this is, in plain English**  
+Description:
 Drawing a conclusion based on the inverse of a conditional statement.
+The core problem is simple.
 
-**The example you’re looking at**  
-« If I'm a student, I have books. I have books, so I'm a student. »  
+Example (question)
+« If I'm a student, I have books. I have books, so I'm a student. »
+Seeing fur and concluding the animal must be a cat.
+The effect does not prove the cause.
 
-**Why this is Affirming the Consequent**  
-Drawing a conclusion based on the inverse of a conditional statement. That is what this label is pointing to in the passage above.
+Example (other context)
+Seeing fur and concluding the animal must be a cat.
+The effect does not prove the cause.
 
-**Takeaway**  
-Drawing a conclusion based on the inverse of a conditional statement.`,
-    intermediate: `## Affirming the Consequent — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Drawing a conclusion based on the inverse of a conditional statement.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« If I'm a student, I have books. I have books, so I'm a student. »  
+Key concept inside it
+Reverse-logic error:
+Assuming that if A leads to B, then seeing B means A must have happened.
 
-The passage shows **Affirming the Consequent** in action: drawing a conclusion based on the inverse of a conditional statement.
+Why it matters
+Explains why:
+- Other causes may produce the same result.
+- It swaps a one-way rule into a two-way rule.
+- It makes the conclusion look tidy but unsafe.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if drawing a conclusion based on the inverse of a conditional statement.
+The uncomfortable implication
+The same result can have many causes.
 
-- **Example 2:** In a health or habits story, watch for this pattern: Drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 3:** Another everyday spot: school grades or test scores. Drawing a conclusion based on the inverse of a conditional statement.
-
-**In one sentence**  
-Affirming the Consequent is the label for reasoning that fits: Drawing a conclusion based on the inverse of a conditional statement.`,
-    expert: `## Affirming the Consequent — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion based on the inverse of a conditional statement.
-
-**Applied to this passage**  
-« If I'm a student, I have books. I have books, so I'm a student. »  
-
-Here, **Affirming the Consequent** is the right name because drawing a conclusion based on the inverse of a conditional statement.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 2:** In a health or habits story, watch for this pattern: Drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 3:** Another everyday spot: school grades or test scores. Drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 4:** **Setting:** a news headline or social post. **What goes wrong:** Drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 5:** Imagine a health or habits story. The slip is the same: drawing a conclusion based on the inverse of a conditional statement.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Affirming the Consequent** means Drawing a conclusion based on the inverse of a conditional statement.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Affirming the Consequent = Drawing a conclusion based on the inverse of a conditional statement.`,
   },
   648: {
-    beginner: `## Affirming the Consequent — in-depth (Beginner)
+    beginner: `Affirming the Consequent = Drawing a conclusion based on the inverse of a conditional statement.`,
+    detail: `Affirming the Consequent
 
-**What this is, in plain English**  
+Description:
 Drawing a conclusion based on the inverse of a conditional statement.
+The core problem is simple.
 
-**The example you’re looking at**  
-« If it's a cat, it has fur. It has fur, so it's a cat. »  
+Example (question)
+« If it's a cat, it has fur. It has fur, so it's a cat. »
+Seeing fur and concluding the animal must be a cat.
+The effect does not prove the cause.
 
-**Why this is Affirming the Consequent**  
-Drawing a conclusion based on the inverse of a conditional statement. That is what this label is pointing to in the passage above.
+Example (other context)
+Seeing fur and concluding the animal must be a cat.
+The effect does not prove the cause.
 
-**Takeaway**  
-Drawing a conclusion based on the inverse of a conditional statement.`,
-    intermediate: `## Affirming the Consequent — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Drawing a conclusion based on the inverse of a conditional statement.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« If it's a cat, it has fur. It has fur, so it's a cat. »  
+Key concept inside it
+Reverse-logic error:
+Assuming that if A leads to B, then seeing B means A must have happened.
 
-The passage shows **Affirming the Consequent** in action: drawing a conclusion based on the inverse of a conditional statement.
+Why it matters
+Explains why:
+- Other causes may produce the same result.
+- It swaps a one-way rule into a two-way rule.
+- It makes the conclusion look tidy but unsafe.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Drawing a conclusion based on the inverse of a conditional statement.
+The uncomfortable implication
+The same result can have many causes.
 
-- **Example 2:** Another everyday spot: sports or business results. Drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Drawing a conclusion based on the inverse of a conditional statement.
-
-**In one sentence**  
-Affirming the Consequent is the label for reasoning that fits: Drawing a conclusion based on the inverse of a conditional statement.`,
-    expert: `## Affirming the Consequent — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion based on the inverse of a conditional statement.
-
-**Applied to this passage**  
-« If it's a cat, it has fur. It has fur, so it's a cat. »  
-
-Here, **Affirming the Consequent** is the right name because drawing a conclusion based on the inverse of a conditional statement.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 2:** Another everyday spot: sports or business results. Drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 4:** Imagine a policy or workplace discussion. The slip is the same: drawing a conclusion based on the inverse of a conditional statement.
-
-- **Example 5:** Picture sports or business results. People often reason as if drawing a conclusion based on the inverse of a conditional statement.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Affirming the Consequent** means Drawing a conclusion based on the inverse of a conditional statement.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Affirming the Consequent = Drawing a conclusion based on the inverse of a conditional statement.`,
   },
   649: {
-    beginner: `## Amphiboly — in-depth (Beginner)
+    beginner: `Amphiboly = Ambiguity in grammar that leads to misinterpretation.`,
+    detail: `Amphiboly
 
-**What this is, in plain English**  
+Description:
 Ambiguity in grammar that leads to misinterpretation.
+The core problem is simple.
 
-**The example you’re looking at**  
-« I saw the man with the telescope. »  
+Example (question)
+« I saw the man with the telescope. »
+A sentence is read one way when the grammar could mean something else.
+The wording, not the fact, creates the problem.
 
-**Why this is Amphiboly**  
-Ambiguity in grammar that leads to misinterpretation. That is what this label is pointing to in the passage above.
+Example (other context)
+A sentence is read one way when the grammar could mean something else.
+The wording, not the fact, creates the problem.
 
-**Takeaway**  
-Ambiguity in grammar that leads to misinterpretation.`,
-    intermediate: `## Amphiboly — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Ambiguity in grammar that leads to misinterpretation.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« I saw the man with the telescope. »  
+Key concept inside it
+Syntactic ambiguity:
+A sentence structure that allows more than one reading.
 
-The passage shows **Amphiboly** in action: ambiguity in grammar that leads to misinterpretation.
+Why it matters
+Explains why:
+- It can hide what the speaker really meant.
+- It makes arguments look stronger than they are.
+- It can create false claims from bad parsing.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Ambiguity in grammar that leads to misinterpretation.
+The uncomfortable implication
+A sentence can be grammatical and still be misleading.
 
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Ambiguity in grammar that leads to misinterpretation.
-
-- **Example 3:** Imagine a news headline or social post. The slip is the same: ambiguity in grammar that leads to misinterpretation.
-
-**In one sentence**  
-Amphiboly is the label for reasoning that fits: Ambiguity in grammar that leads to misinterpretation.`,
-    expert: `## Amphiboly — in-depth (Expert)
-
-**Definition**  
-Ambiguity in grammar that leads to misinterpretation.
-
-**Applied to this passage**  
-« I saw the man with the telescope. »  
-
-Here, **Amphiboly** is the right name because ambiguity in grammar that leads to misinterpretation.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Ambiguity in grammar that leads to misinterpretation.
-
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Ambiguity in grammar that leads to misinterpretation.
-
-- **Example 3:** Imagine a news headline or social post. The slip is the same: ambiguity in grammar that leads to misinterpretation.
-
-- **Example 4:** Picture a health or habits story. People often reason as if ambiguity in grammar that leads to misinterpretation.
-
-- **Example 5:** In school grades or test scores, watch for this pattern: Ambiguity in grammar that leads to misinterpretation.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Amphiboly** means Ambiguity in grammar that leads to misinterpretation.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Amphiboly = Ambiguity in grammar that leads to misinterpretation.`,
   },
   650: {
-    beginner: `## Amphiboly — in-depth (Beginner)
+    beginner: `Amphiboly = Ambiguity in grammar that leads to misinterpretation.`,
+    detail: `Amphiboly
 
-**What this is, in plain English**  
+Description:
 Ambiguity in grammar that leads to misinterpretation.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Prostitutes appeal to the Pope. »  
+Example (question)
+« Prostitutes appeal to the Pope. »
+A sentence is read one way when the grammar could mean something else.
+The wording, not the fact, creates the problem.
 
-**Why this is Amphiboly**  
-Ambiguity in grammar that leads to misinterpretation. That is what this label is pointing to in the passage above.
+Example (other context)
+A sentence is read one way when the grammar could mean something else.
+The wording, not the fact, creates the problem.
 
-**Takeaway**  
-Ambiguity in grammar that leads to misinterpretation.`,
-    intermediate: `## Amphiboly — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Ambiguity in grammar that leads to misinterpretation.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Prostitutes appeal to the Pope. »  
+Key concept inside it
+Syntactic ambiguity:
+A sentence structure that allows more than one reading.
 
-The passage shows **Amphiboly** in action: ambiguity in grammar that leads to misinterpretation.
+Why it matters
+Explains why:
+- It can hide what the speaker really meant.
+- It makes arguments look stronger than they are.
+- It can create false claims from bad parsing.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Ambiguity in grammar that leads to misinterpretation.
+The uncomfortable implication
+A sentence can be grammatical and still be misleading.
 
-- **Example 2:** Imagine a family argument. The slip is the same: ambiguity in grammar that leads to misinterpretation.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if ambiguity in grammar that leads to misinterpretation.
-
-**In one sentence**  
-Amphiboly is the label for reasoning that fits: Ambiguity in grammar that leads to misinterpretation.`,
-    expert: `## Amphiboly — in-depth (Expert)
-
-**Definition**  
-Ambiguity in grammar that leads to misinterpretation.
-
-**Applied to this passage**  
-« Prostitutes appeal to the Pope. »  
-
-Here, **Amphiboly** is the right name because ambiguity in grammar that leads to misinterpretation.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Ambiguity in grammar that leads to misinterpretation.
-
-- **Example 2:** Imagine a family argument. The slip is the same: ambiguity in grammar that leads to misinterpretation.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if ambiguity in grammar that leads to misinterpretation.
-
-- **Example 4:** In sports or business results, watch for this pattern: Ambiguity in grammar that leads to misinterpretation.
-
-- **Example 5:** Another everyday spot: a family argument. Ambiguity in grammar that leads to misinterpretation.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Amphiboly** means Ambiguity in grammar that leads to misinterpretation.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Amphiboly = Ambiguity in grammar that leads to misinterpretation.`,
   },
   651: {
     beginner: `## Amphiboly — in-depth (Beginner)
@@ -59759,1894 +59099,1234 @@ En une phrase
 Ad lazarum = Croire qu’une chose est vraie ou meilleure parce qu’elle semble pauvre, simple ou modeste.`,
   },
   621: {
-    beginner: `## Ad lazarum — approfondi (Débutant)
+    beginner: `Ad lazarum = Croire qu’une chose est vraie ou meilleure parce qu’elle semble pauvre, simple ou modeste.`,
+    detail: `Ad lazarum
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
+Description:
+Croire qu’une chose est vraie ou meilleure parce qu’elle semble pauvre, simple ou modeste.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Quelque chose paraît plus crédible simplement parce qu’il a l’air dépouillé.
+La simplicité matérielle n’est pas une preuve.
 
-**Pourquoi c’est bien Ad lazarum**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelque chose paraît plus crédible simplement parce qu’il a l’air dépouillé.
+La simplicité matérielle n’est pas une preuve.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.`,
-    intermediate: `## Ad lazarum — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Apparence de pauvreté:
+Prendre le manque d’apparat pour un signe de vérité ou de vertu.
 
-Le passage montre **Ad lazarum** : une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond sobriété et validité.
+- Cela peut idéaliser la pauvreté.
+- Cela remplace l’analyse par une impression.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
+L'implication inconfortable
+Un objet modeste peut être juste, ou non.
 
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ad lazarum**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.`,
-    expert: `## Ad lazarum — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Ad lazarum** convient parce que une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ad lazarum**, c’est Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Ad lazarum = Croire qu’une chose est vraie ou meilleure parce qu’elle semble pauvre, simple ou modeste.`,
   },
   622: {
-    beginner: `## Ad crumenam — approfondi (Débutant)
+    beginner: `Ad crumenam = Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.`,
+    detail: `Ad crumenam
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
+Description:
+Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Une thèse est prise au sérieux parce qu’elle semble soutenue par l’argent.
+La richesse n’est pas une preuve.
 
-**Pourquoi c’est bien Ad crumenam**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une thèse est prise au sérieux parce qu’elle semble soutenue par l’argent.
+La richesse n’est pas une preuve.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.`,
-    intermediate: `## Ad crumenam — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Richesse comme preuve:
+Utiliser l’argent comme argument à la place d’un raisonnement pertinent.
 
-Le passage montre **Ad crumenam** : une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond richesse et vérité.
+- Cela flatte le prestige financier.
+- Cela donne un faux vernis de crédibilité.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
+L'implication inconfortable
+L’argent parle fort, mais il ne prouve pas tout.
 
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ad crumenam**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.`,
-    expert: `## Ad crumenam — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Ad crumenam** convient parce que une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ad crumenam**, c’est Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Ad crumenam = Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.`,
   },
   623: {
-    beginner: `## Ad crumenam — approfondi (Débutant)
+    beginner: `Ad crumenam = Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.`,
+    detail: `Ad crumenam
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
+Description:
+Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Exemple (question)
+« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »
+Une thèse est prise au sérieux parce qu’elle semble soutenue par l’argent.
+La richesse n’est pas une preuve.
 
-**Pourquoi c’est bien Ad crumenam**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une thèse est prise au sérieux parce qu’elle semble soutenue par l’argent.
+La richesse n’est pas une preuve.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.`,
-    intermediate: `## Ad crumenam — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Concept clé
+Richesse comme preuve:
+Utiliser l’argent comme argument à la place d’un raisonnement pertinent.
 
-Le passage montre **Ad crumenam** : une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond richesse et vérité.
+- Cela flatte le prestige financier.
+- Cela donne un faux vernis de crédibilité.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
+L'implication inconfortable
+L’argent parle fort, mais il ne prouve pas tout.
 
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ad crumenam**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.`,
-    expert: `## Ad crumenam — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
-
-Ici, **Ad crumenam** convient parce que une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ad crumenam**, c’est Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Ad crumenam = Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.`,
   },
   624: {
-    beginner: `## Ad crumenam — approfondi (Débutant)
+    beginner: `Ad crumenam = Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.`,
+    detail: `Ad crumenam
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
+Description:
+Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Une thèse est prise au sérieux parce qu’elle semble soutenue par l’argent.
+La richesse n’est pas une preuve.
 
-**Pourquoi c’est bien Ad crumenam**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une thèse est prise au sérieux parce qu’elle semble soutenue par l’argent.
+La richesse n’est pas une preuve.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.`,
-    intermediate: `## Ad crumenam — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Richesse comme preuve:
+Utiliser l’argent comme argument à la place d’un raisonnement pertinent.
 
-Le passage montre **Ad crumenam** : une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond richesse et vérité.
+- Cela flatte le prestige financier.
+- Cela donne un faux vernis de crédibilité.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
+L'implication inconfortable
+L’argent parle fort, mais il ne prouve pas tout.
 
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ad crumenam**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.`,
-    expert: `## Ad crumenam — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Ad crumenam** convient parce que une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ad crumenam**, c’est Une erreur logique ou un biais cognitif impliquant Ad crumenam, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Ad crumenam = Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.`,
   },
   625: {
-    beginner: `## Style over substance — approfondi (Débutant)
+    beginner: `Style over substance = Privilégier l’apparence d’un propos au lieu de son contenu réel.`,
+    detail: `Style over substance
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
+Description:
+Privilégier l’apparence d’un propos au lieu de son contenu réel.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Un discours sonne bien mais ne dit presque rien.
+Le vernis ne remplace pas le fond.
 
-**Pourquoi c’est bien Style over substance**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un discours sonne bien mais ne dit presque rien.
+Le vernis ne remplace pas le fond.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.`,
-    intermediate: `## Style over substance — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Vernis rhétorique:
+Une forme séduisante qui masque un fond faible.
 
-Le passage montre **Style over substance** : une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela fait illusion.
+- Cela récompense la présentation plutôt que la preuve.
+- Cela peut cacher un vide argumentatif.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
+L'implication inconfortable
+Un beau style ne garantit rien sur le fond.
 
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Style over substance**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.`,
-    expert: `## Style over substance — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Style over substance** convient parce que une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Style over substance**, c’est Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Style over substance = Privilégier l’apparence d’un propos au lieu de son contenu réel.`,
   },
   626: {
-    beginner: `## Style over substance — approfondi (Débutant)
+    beginner: `Style over substance = Privilégier l’apparence d’un propos au lieu de son contenu réel.`,
+    detail: `Style over substance
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
+Description:
+Privilégier l’apparence d’un propos au lieu de son contenu réel.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Exemple (question)
+« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »
+Un discours sonne bien mais ne dit presque rien.
+Le vernis ne remplace pas le fond.
 
-**Pourquoi c’est bien Style over substance**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un discours sonne bien mais ne dit presque rien.
+Le vernis ne remplace pas le fond.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.`,
-    intermediate: `## Style over substance — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Concept clé
+Vernis rhétorique:
+Une forme séduisante qui masque un fond faible.
 
-Le passage montre **Style over substance** : une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela fait illusion.
+- Cela récompense la présentation plutôt que la preuve.
+- Cela peut cacher un vide argumentatif.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
+L'implication inconfortable
+Un beau style ne garantit rien sur le fond.
 
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Style over substance**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.`,
-    expert: `## Style over substance — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
-
-Ici, **Style over substance** convient parce que une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Style over substance**, c’est Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Style over substance = Privilégier l’apparence d’un propos au lieu de son contenu réel.`,
   },
   627: {
-    beginner: `## Style over substance — approfondi (Débutant)
+    beginner: `Style over substance = Privilégier l’apparence d’un propos au lieu de son contenu réel.`,
+    detail: `Style over substance
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
+Description:
+Privilégier l’apparence d’un propos au lieu de son contenu réel.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Un discours sonne bien mais ne dit presque rien.
+Le vernis ne remplace pas le fond.
 
-**Pourquoi c’est bien Style over substance**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un discours sonne bien mais ne dit presque rien.
+Le vernis ne remplace pas le fond.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.`,
-    intermediate: `## Style over substance — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Vernis rhétorique:
+Une forme séduisante qui masque un fond faible.
 
-Le passage montre **Style over substance** : une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela fait illusion.
+- Cela récompense la présentation plutôt que la preuve.
+- Cela peut cacher un vide argumentatif.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
+L'implication inconfortable
+Un beau style ne garantit rien sur le fond.
 
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Style over substance**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.`,
-    expert: `## Style over substance — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Style over substance** convient parce que une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Style over substance**, c’est Une erreur logique ou un biais cognitif impliquant Style over substance, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Style over substance = Privilégier l’apparence d’un propos au lieu de son contenu réel.`,
   },
   628: {
-    beginner: `## Appeal to complexity — approfondi (Débutant)
+    beginner: `Appeal to complexity = Soutenir qu’une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.`,
+    detail: `Appeal to complexity
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+Description:
+Soutenir qu’une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »
+Quelque chose semble crédible parce qu’il paraît compliqué.
+La complexité seule n’est pas une preuve.
 
-**Pourquoi c’est bien Appeal to complexity**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelque chose semble crédible parce qu’il paraît compliqué.
+La complexité seule n’est pas une preuve.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to complexity — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Complexité comme autorité:
+Utiliser la difficulté apparente comme substitut à l’argument.
 
-Le passage montre **Appeal to complexity** : soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond difficulté et vérité.
+- Cela peut intimider l’auditeur.
+- Cela évite la clarté.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Compliqué n’est pas automatiquement profond.
 
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to complexity**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to complexity — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to complexity** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to complexity**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appeal to complexity = Soutenir qu’une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.`,
   },
   629: {
-    beginner: `## Appeal to complexity — approfondi (Débutant)
+    beginner: `Appeal to complexity = Soutenir qu’une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.`,
+    detail: `Appeal to complexity
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+Description:
+Soutenir qu’une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Exemple (question)
+« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »
+Quelque chose semble crédible parce qu’il paraît compliqué.
+La complexité seule n’est pas une preuve.
 
-**Pourquoi c’est bien Appeal to complexity**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelque chose semble crédible parce qu’il paraît compliqué.
+La complexité seule n’est pas une preuve.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to complexity — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Concept clé
+Complexité comme autorité:
+Utiliser la difficulté apparente comme substitut à l’argument.
 
-Le passage montre **Appeal to complexity** : soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond difficulté et vérité.
+- Cela peut intimider l’auditeur.
+- Cela évite la clarté.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Compliqué n’est pas automatiquement profond.
 
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to complexity**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to complexity — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
-
-Ici, **Appeal to complexity** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to complexity**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appeal to complexity = Soutenir qu’une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.`,
   },
   630: {
-    beginner: `## Appeal to complexity — approfondi (Débutant)
+    beginner: `Appeal to complexity = Soutenir qu’une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.`,
+    detail: `Appeal to complexity
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+Description:
+Soutenir qu’une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »
+Quelque chose semble crédible parce qu’il paraît compliqué.
+La complexité seule n’est pas une preuve.
 
-**Pourquoi c’est bien Appeal to complexity**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelque chose semble crédible parce qu’il paraît compliqué.
+La complexité seule n’est pas une preuve.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to complexity — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Complexité comme autorité:
+Utiliser la difficulté apparente comme substitut à l’argument.
 
-Le passage montre **Appeal to complexity** : soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond difficulté et vérité.
+- Cela peut intimider l’auditeur.
+- Cela évite la clarté.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Compliqué n’est pas automatiquement profond.
 
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to complexity**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to complexity — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to complexity** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to complexity**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appeal to complexity = Soutenir qu’une proposition est vraie ou fausse en se basant sur complexity, ce qui est logiquement non pertinent.`,
   },
   631: {
-    beginner: `## Appeal to simplicity — approfondi (Débutant)
+    beginner: `Appeal to simplicity = Soutenir qu’une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.`,
+    detail: `Appeal to simplicity
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+Description:
+Soutenir qu’une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »
+Une idée est prise pour vraie parce qu’elle semble facile à comprendre.
+La simplicité seule ne suffit pas.
 
-**Pourquoi c’est bien Appeal to simplicity**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une idée est prise pour vraie parce qu’elle semble facile à comprendre.
+La simplicité seule ne suffit pas.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to simplicity — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Simplicité comme preuve:
+Utiliser le fait qu’une idée soit simple comme si cela la rendait correcte.
 
-Le passage montre **Appeal to simplicity** : soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut simplifier à l’excès.
+- Cela écarte des explications utiles.
+- Cela remplace la preuve par le confort.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Simple ne veut pas dire vrai.
 
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to simplicity**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to simplicity — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to simplicity** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Autre situation courante : un récit sur la santé ou les habitudes. Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to simplicity**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Appeal to simplicity = Soutenir qu’une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.`,
   },
   632: {
-    beginner: `## Appeal to simplicity — approfondi (Débutant)
+    beginner: `Appeal to simplicity = Soutenir qu’une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.`,
+    detail: `Appeal to simplicity
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+Description:
+Soutenir qu’une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Exemple (question)
+« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »
+Une idée est prise pour vraie parce qu’elle semble facile à comprendre.
+La simplicité seule ne suffit pas.
 
-**Pourquoi c’est bien Appeal to simplicity**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une idée est prise pour vraie parce qu’elle semble facile à comprendre.
+La simplicité seule ne suffit pas.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to simplicity — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Concept clé
+Simplicité comme preuve:
+Utiliser le fait qu’une idée soit simple comme si cela la rendait correcte.
 
-Le passage montre **Appeal to simplicity** : soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut simplifier à l’excès.
+- Cela écarte des explications utiles.
+- Cela remplace la preuve par le confort.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Simple ne veut pas dire vrai.
 
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to simplicity**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to simplicity — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
-
-Ici, **Appeal to simplicity** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to simplicity**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Appeal to simplicity = Soutenir qu’une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.`,
   },
   633: {
-    beginner: `## Appeal to simplicity — approfondi (Débutant)
+    beginner: `Appeal to simplicity = Soutenir qu’une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.`,
+    detail: `Appeal to simplicity
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+Description:
+Soutenir qu’une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »
+Une idée est prise pour vraie parce qu’elle semble facile à comprendre.
+La simplicité seule ne suffit pas.
 
-**Pourquoi c’est bien Appeal to simplicity**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une idée est prise pour vraie parce qu’elle semble facile à comprendre.
+La simplicité seule ne suffit pas.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to simplicity — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Simplicité comme preuve:
+Utiliser le fait qu’une idée soit simple comme si cela la rendait correcte.
 
-Le passage montre **Appeal to simplicity** : soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut simplifier à l’excès.
+- Cela écarte des explications utiles.
+- Cela remplace la preuve par le confort.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Simple ne veut pas dire vrai.
 
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to simplicity**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to simplicity — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to simplicity** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Imaginez des notes ou examens. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to simplicity**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Appeal to simplicity = Soutenir qu’une proposition est vraie ou fausse en se basant sur simplicity, ce qui est logiquement non pertinent.`,
   },
   634: {
-    beginner: `## Fallacy of origin — approfondi (Débutant)
+    beginner: `Fallacy of origin = Juger une idée à son origine plutôt qu’à son contenu.`,
+    detail: `Fallacy of origin
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
+Description:
+Juger une idée à son origine plutôt qu’à son contenu.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »
+Une proposition est rejetée parce qu’elle vient d’une source jugée douteuse.
+L’origine ne décide pas du fond.
 
-**Pourquoi c’est bien Fallacy of origin**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une proposition est rejetée parce qu’elle vient d’une source jugée douteuse.
+L’origine ne décide pas du fond.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.`,
-    intermediate: `## Fallacy of origin — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »  
+Concept clé
+Origine contre contenu:
+La différence entre d’où vient une idée et si cette idée est valable.
 
-Le passage montre **Fallacy of origin** : une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+- Une mauvaise origine ne prouve pas une mauvaise thèse.
+- Une bonne origine ne prouve pas une bonne thèse.
+- Il faut juger l’idée elle-même.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
+L'implication inconfortable
+Une source douteuse peut parfois dire vrai.
 
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-**En une phrase**  
-**Fallacy of origin**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.`,
-    expert: `## Fallacy of origin — approfondi (Expert)
-
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »  
-
-Ici, **Fallacy of origin** convient parce que une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 4 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 5 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Fallacy of origin**, c’est Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Fallacy of origin = Juger une idée à son origine plutôt qu’à son contenu.`,
   },
   635: {
-    beginner: `## Fallacy of origin — approfondi (Débutant)
+    beginner: `Fallacy of origin = Juger une idée à son origine plutôt qu’à son contenu.`,
+    detail: `Fallacy of origin
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
+Description:
+Juger une idée à son origine plutôt qu’à son contenu.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Exemple (question)
+« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »
+Une proposition est rejetée parce qu’elle vient d’une source jugée douteuse.
+L’origine ne décide pas du fond.
 
-**Pourquoi c’est bien Fallacy of origin**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une proposition est rejetée parce qu’elle vient d’une source jugée douteuse.
+L’origine ne décide pas du fond.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.`,
-    intermediate: `## Fallacy of origin — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Concept clé
+Origine contre contenu:
+La différence entre d’où vient une idée et si cette idée est valable.
 
-Le passage montre **Fallacy of origin** : une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+- Une mauvaise origine ne prouve pas une mauvaise thèse.
+- Une bonne origine ne prouve pas une bonne thèse.
+- Il faut juger l’idée elle-même.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
+L'implication inconfortable
+Une source douteuse peut parfois dire vrai.
 
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-**En une phrase**  
-**Fallacy of origin**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.`,
-    expert: `## Fallacy of origin — approfondi (Expert)
-
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-**Appliqué à ce passage**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
-
-Ici, **Fallacy of origin** convient parce que une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 4 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 5 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Fallacy of origin**, c’est Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Fallacy of origin = Juger une idée à son origine plutôt qu’à son contenu.`,
   },
   636: {
-    beginner: `## Fallacy of origin — approfondi (Débutant)
+    beginner: `Fallacy of origin = Juger une idée à son origine plutôt qu’à son contenu.`,
+    detail: `Fallacy of origin
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
+Description:
+Juger une idée à son origine plutôt qu’à son contenu.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »
+Une proposition est rejetée parce qu’elle vient d’une source jugée douteuse.
+L’origine ne décide pas du fond.
 
-**Pourquoi c’est bien Fallacy of origin**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une proposition est rejetée parce qu’elle vient d’une source jugée douteuse.
+L’origine ne décide pas du fond.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.`,
-    intermediate: `## Fallacy of origin — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »  
+Concept clé
+Origine contre contenu:
+La différence entre d’où vient une idée et si cette idée est valable.
 
-Le passage montre **Fallacy of origin** : une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+- Une mauvaise origine ne prouve pas une mauvaise thèse.
+- Une bonne origine ne prouve pas une bonne thèse.
+- Il faut juger l’idée elle-même.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
+L'implication inconfortable
+Une source douteuse peut parfois dire vrai.
 
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-**En une phrase**  
-**Fallacy of origin**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.`,
-    expert: `## Fallacy of origin — approfondi (Expert)
-
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant d'un raisonnement défectueux est structurellement invalide.". »  
-
-Ici, **Fallacy of origin** convient parce que une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 4 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-- **Exemple 5 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Fallacy of origin**, c’est Une erreur logique spécifique où le raisonnement impliquant of origin est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Fallacy of origin = Juger une idée à son origine plutôt qu’à son contenu.`,
   },
   637: {
-    beginner: `## Honor by association — approfondi (Débutant)
+    beginner: `Honor by association = Juger une idée ou une personne à travers son association avec quelqu’un ou quelque chose.`,
+    detail: `Honor by association
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
+Description:
+Juger une idée ou une personne à travers son association avec quelqu’un ou quelque chose.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux by un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux by un raisonnement défectueux, où le raisonnement est défaillant.". »
+On crédite ou on discrédite une proposition parce qu’elle est liée à un groupe.
+Le lien social n’est pas une preuve logique.
 
-**Pourquoi c’est bien Honor by association**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On crédite ou on discrédite une proposition parce qu’elle est liée à un groupe.
+Le lien social n’est pas une preuve logique.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.`,
-    intermediate: `## Honor by association — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux by un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Association sociale:
+Un lien avec une personne ou un groupe qui ne prouve pas en soi une conclusion.
 
-Le passage montre **Honor by association** : une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond proximité et preuve.
+- Cela peut survaloriser un allié ou salir un adversaire.
+- Cela court-circuite l’analyse.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
+L'implication inconfortable
+Qui tu connais ne dit pas tout sur la vérité de ce que tu dis.
 
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Honor by association**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.`,
-    expert: `## Honor by association — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux by un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Honor by association** convient parce que une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Honor by association**, c’est Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Honor by association = Juger une idée ou une personne à travers son association avec quelqu’un ou quelque chose.`,
   },
   638: {
-    beginner: `## Honor by association — approfondi (Débutant)
+    beginner: `Honor by association = Juger une idée ou une personne à travers son association avec quelqu’un ou quelque chose.`,
+    detail: `Honor by association
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
+Description:
+Juger une idée ou une personne à travers son association avec quelqu’un ou quelque chose.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Exemple (question)
+« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »
+On crédite ou on discrédite une proposition parce qu’elle est liée à un groupe.
+Le lien social n’est pas une preuve logique.
 
-**Pourquoi c’est bien Honor by association**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On crédite ou on discrédite une proposition parce qu’elle est liée à un groupe.
+Le lien social n’est pas une preuve logique.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.`,
-    intermediate: `## Honor by association — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Concept clé
+Association sociale:
+Un lien avec une personne ou un groupe qui ne prouve pas en soi une conclusion.
 
-Le passage montre **Honor by association** : une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond proximité et preuve.
+- Cela peut survaloriser un allié ou salir un adversaire.
+- Cela court-circuite l’analyse.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
+L'implication inconfortable
+Qui tu connais ne dit pas tout sur la vérité de ce que tu dis.
 
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Honor by association**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.`,
-    expert: `## Honor by association — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
-
-Ici, **Honor by association** convient parce que une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Honor by association**, c’est Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Honor by association = Juger une idée ou une personne à travers son association avec quelqu’un ou quelque chose.`,
   },
   639: {
-    beginner: `## Honor by association — approfondi (Débutant)
+    beginner: `Honor by association = Juger une idée ou une personne à travers son association avec quelqu’un ou quelque chose.`,
+    detail: `Honor by association
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
+Description:
+Juger une idée ou une personne à travers son association avec quelqu’un ou quelque chose.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux by un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux by un raisonnement défectueux, où le raisonnement est défaillant.". »
+On crédite ou on discrédite une proposition parce qu’elle est liée à un groupe.
+Le lien social n’est pas une preuve logique.
 
-**Pourquoi c’est bien Honor by association**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On crédite ou on discrédite une proposition parce qu’elle est liée à un groupe.
+Le lien social n’est pas une preuve logique.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.`,
-    intermediate: `## Honor by association — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux by un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Association sociale:
+Un lien avec une personne ou un groupe qui ne prouve pas en soi une conclusion.
 
-Le passage montre **Honor by association** : une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond proximité et preuve.
+- Cela peut survaloriser un allié ou salir un adversaire.
+- Cela court-circuite l’analyse.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
+L'implication inconfortable
+Qui tu connais ne dit pas tout sur la vérité de ce que tu dis.
 
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Honor by association**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.`,
-    expert: `## Honor by association — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux by un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Honor by association** convient parce que une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Honor by association**, c’est Une erreur logique ou un biais cognitif impliquant Honor by association, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Honor by association = Juger une idée ou une personne à travers son association avec quelqu’un ou quelque chose.`,
   },
   640: {
-    beginner: `## Ad fidentia — approfondi (Débutant)
+    beginner: `Ad fidentia = Prendre une conclusion au sérieux parce qu’elle est formulée avec assurance.`,
+    detail: `Ad fidentia
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
+Description:
+Prendre une conclusion au sérieux parce qu’elle est formulée avec assurance.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Quelqu’un parle fort et sûr de lui, donc on suppose qu’il a raison.
+La confiance n’est pas une preuve.
 
-**Pourquoi c’est bien Ad fidentia**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelqu’un parle fort et sûr de lui, donc on suppose qu’il a raison.
+La confiance n’est pas une preuve.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.`,
-    intermediate: `## Ad fidentia — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Confiance trompeuse:
+Donner trop de poids au ton assuré d’un locuteur.
 
-Le passage montre **Ad fidentia** : une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond assurance et justesse.
+- Cela peut faire taire le doute utile.
+- Cela récompense la performance.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
+L'implication inconfortable
+Parler avec aplomb ne rend pas une idée correcte.
 
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ad fidentia**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.`,
-    expert: `## Ad fidentia — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Ad fidentia** convient parce que une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ad fidentia**, c’est Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Ad fidentia = Prendre une conclusion au sérieux parce qu’elle est formulée avec assurance.`,
   },
   641: {
-    beginner: `## Ad fidentia — approfondi (Débutant)
+    beginner: `Ad fidentia = Prendre une conclusion au sérieux parce qu’elle est formulée avec assurance.`,
+    detail: `Ad fidentia
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
+Description:
+Prendre une conclusion au sérieux parce qu’elle est formulée avec assurance.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Exemple (question)
+« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »
+Quelqu’un parle fort et sûr de lui, donc on suppose qu’il a raison.
+La confiance n’est pas une preuve.
 
-**Pourquoi c’est bien Ad fidentia**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelqu’un parle fort et sûr de lui, donc on suppose qu’il a raison.
+La confiance n’est pas une preuve.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.`,
-    intermediate: `## Ad fidentia — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Concept clé
+Confiance trompeuse:
+Donner trop de poids au ton assuré d’un locuteur.
 
-Le passage montre **Ad fidentia** : une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond assurance et justesse.
+- Cela peut faire taire le doute utile.
+- Cela récompense la performance.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
+L'implication inconfortable
+Parler avec aplomb ne rend pas une idée correcte.
 
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ad fidentia**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.`,
-    expert: `## Ad fidentia — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
-
-Ici, **Ad fidentia** convient parce que une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ad fidentia**, c’est Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Ad fidentia = Prendre une conclusion au sérieux parce qu’elle est formulée avec assurance.`,
   },
   642: {
-    beginner: `## Ad fidentia — approfondi (Débutant)
+    beginner: `Ad fidentia = Prendre une conclusion au sérieux parce qu’elle est formulée avec assurance.`,
+    detail: `Ad fidentia
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
+Description:
+Prendre une conclusion au sérieux parce qu’elle est formulée avec assurance.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Quelqu’un parle fort et sûr de lui, donc on suppose qu’il a raison.
+La confiance n’est pas une preuve.
 
-**Pourquoi c’est bien Ad fidentia**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelqu’un parle fort et sûr de lui, donc on suppose qu’il a raison.
+La confiance n’est pas une preuve.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.`,
-    intermediate: `## Ad fidentia — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Confiance trompeuse:
+Donner trop de poids au ton assuré d’un locuteur.
 
-Le passage montre **Ad fidentia** : une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond assurance et justesse.
+- Cela peut faire taire le doute utile.
+- Cela récompense la performance.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
+L'implication inconfortable
+Parler avec aplomb ne rend pas une idée correcte.
 
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ad fidentia**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.`,
-    expert: `## Ad fidentia — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Ad fidentia** convient parce que une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ad fidentia**, c’est Une erreur logique ou un biais cognitif impliquant Ad fidentia, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Ad fidentia = Prendre une conclusion au sérieux parce qu’elle est formulée avec assurance.`,
   },
   643: {
-    beginner: `## Argument from self-confidence — approfondi (Débutant)
+    beginner: `Argument from self-confidence = Tirer une conclusion parce qu’on se sent sûr de soi plutôt que parce qu’on a des preuves directes.`,
+    detail: `Argument from self-confidence
 
-**En termes simples**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
+Description:
+Tirer une conclusion parce qu’on se sent sûr de soi plutôt que parce qu’on a des preuves directes.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »
+Une erreur est traitée comme une certitude juste parce qu’elle semble évidente au locuteur.
+Le sentiment de certitude ne remplace pas les preuves.
 
-**Pourquoi c’est bien Argument from self-confidence**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une erreur est traitée comme une certitude juste parce qu’elle semble évidente au locuteur.
+Le sentiment de certitude ne remplace pas les preuves.
 
-**À retenir**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.`,
-    intermediate: `## Argument from self-confidence — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
+Concept clé
+Certitude personnelle:
+La confiance subjective utilisée comme argument.
 
-Le passage montre **Argument from self-confidence** : tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
+Pourquoi c'est important
+Explique pourquoi :
+- Elle peut masquer des lacunes.
+- Elle encourage l’arrogance.
+- Elle donne une impression de solidité sans fond.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
+L'implication inconfortable
+Se sentir certain n’est pas savoir.
 
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-**En une phrase**  
-**Argument from self-confidence**, c’est quand le raisonnement correspond à : Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.`,
-    expert: `## Argument from self-confidence — approfondi (Expert)
-
-**Définition**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
-
-Ici, **Argument from self-confidence** convient parce que tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 4 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 5 :** Pensez à des notes ou examens. Souvent, on raisonne comme si tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Argument from self-confidence**, c’est Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Argument from self-confidence = Tirer une conclusion parce qu’on se sent sûr de soi plutôt que parce qu’on a des preuves directes.`,
   },
   644: {
-    beginner: `## Argument from self-confidence — approfondi (Débutant)
+    beginner: `Argument from self-confidence = Tirer une conclusion parce qu’on se sent sûr de soi plutôt que parce qu’on a des preuves directes.`,
+    detail: `Argument from self-confidence
 
-**En termes simples**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
+Description:
+Tirer une conclusion parce qu’on se sent sûr de soi plutôt que parce qu’on a des preuves directes.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Exemple (question)
+« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »
+Une erreur est traitée comme une certitude juste parce qu’elle semble évidente au locuteur.
+Le sentiment de certitude ne remplace pas les preuves.
 
-**Pourquoi c’est bien Argument from self-confidence**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une erreur est traitée comme une certitude juste parce qu’elle semble évidente au locuteur.
+Le sentiment de certitude ne remplace pas les preuves.
 
-**À retenir**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.`,
-    intermediate: `## Argument from self-confidence — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Concept clé
+Certitude personnelle:
+La confiance subjective utilisée comme argument.
 
-Le passage montre **Argument from self-confidence** : tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
+Pourquoi c'est important
+Explique pourquoi :
+- Elle peut masquer des lacunes.
+- Elle encourage l’arrogance.
+- Elle donne une impression de solidité sans fond.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
+L'implication inconfortable
+Se sentir certain n’est pas savoir.
 
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-**En une phrase**  
-**Argument from self-confidence**, c’est quand le raisonnement correspond à : Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.`,
-    expert: `## Argument from self-confidence — approfondi (Expert)
-
-**Définition**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-**Appliqué à ce passage**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
-
-Ici, **Argument from self-confidence** convient parce que tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 4 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 5 :** Dans une discussion en famille, repérez ce schéma : Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Argument from self-confidence**, c’est Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Argument from self-confidence = Tirer une conclusion parce qu’on se sent sûr de soi plutôt que parce qu’on a des preuves directes.`,
   },
   645: {
-    beginner: `## Argument from self-confidence — approfondi (Débutant)
+    beginner: `Argument from self-confidence = Tirer une conclusion parce qu’on se sent sûr de soi plutôt que parce qu’on a des preuves directes.`,
+    detail: `Argument from self-confidence
 
-**En termes simples**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
+Description:
+Tirer une conclusion parce qu’on se sent sûr de soi plutôt que parce qu’on a des preuves directes.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »
+Une erreur est traitée comme une certitude juste parce qu’elle semble évidente au locuteur.
+Le sentiment de certitude ne remplace pas les preuves.
 
-**Pourquoi c’est bien Argument from self-confidence**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une erreur est traitée comme une certitude juste parce qu’elle semble évidente au locuteur.
+Le sentiment de certitude ne remplace pas les preuves.
 
-**À retenir**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.`,
-    intermediate: `## Argument from self-confidence — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
+Concept clé
+Certitude personnelle:
+La confiance subjective utilisée comme argument.
 
-Le passage montre **Argument from self-confidence** : tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
+Pourquoi c'est important
+Explique pourquoi :
+- Elle peut masquer des lacunes.
+- Elle encourage l’arrogance.
+- Elle donne une impression de solidité sans fond.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
+L'implication inconfortable
+Se sentir certain n’est pas savoir.
 
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-**En une phrase**  
-**Argument from self-confidence**, c’est quand le raisonnement correspond à : Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.`,
-    expert: `## Argument from self-confidence — approfondi (Expert)
-
-**Définition**  
-Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
-
-Ici, **Argument from self-confidence** convient parce que tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 4 :** Dans des notes ou examens, repérez ce schéma : Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-- **Exemple 5 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Argument from self-confidence**, c’est Tirer une conclusion basée sur self-confidence plutôt que sur des preuves directes.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Argument from self-confidence = Tirer une conclusion parce qu’on se sent sûr de soi plutôt que parce qu’on a des preuves directes.`,
   },
   646: {
-    beginner: `## Appeal to common practice — approfondi (Débutant)
+    beginner: `Appeal to common practice = Soutenir qu’une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.`,
+    detail: `Appeal to common practice
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+Description:
+Soutenir qu’une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »
+Une chose est acceptée parce qu’elle est courante.
+L’habitude n’est pas une preuve.
 
-**Pourquoi c’est bien Appeal to common practice**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une chose est acceptée parce qu’elle est courante.
+L’habitude n’est pas une preuve.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to common practice — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Norme sociale:
+Utiliser ce que tout le monde fait comme argument de vérité.
 
-Le passage montre **Appeal to common practice** : soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela transforme la coutume en règle.
+- Cela bloque la critique.
+- Cela confond fréquence et justesse.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Ce qui est courant n’est pas forcément correct.
 
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to common practice**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to common practice — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to common practice** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to common practice**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appeal to common practice = Soutenir qu’une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.`,
   },
   647: {
-    beginner: `## Appeal to common practice — approfondi (Débutant)
+    beginner: `Appeal to common practice = Soutenir qu’une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.`,
+    detail: `Appeal to common practice
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+Description:
+Soutenir qu’une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Exemple (question)
+« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »
+Une chose est acceptée parce qu’elle est courante.
+L’habitude n’est pas une preuve.
 
-**Pourquoi c’est bien Appeal to common practice**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une chose est acceptée parce qu’elle est courante.
+L’habitude n’est pas une preuve.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to common practice — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Concept clé
+Norme sociale:
+Utiliser ce que tout le monde fait comme argument de vérité.
 
-Le passage montre **Appeal to common practice** : soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela transforme la coutume en règle.
+- Cela bloque la critique.
+- Cela confond fréquence et justesse.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Ce qui est courant n’est pas forcément correct.
 
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to common practice**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to common practice — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
-
-Ici, **Appeal to common practice** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to common practice**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appeal to common practice = Soutenir qu’une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.`,
   },
   648: {
-    beginner: `## Appeal to common practice — approfondi (Débutant)
+    beginner: `Appeal to common practice = Soutenir qu’une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.`,
+    detail: `Appeal to common practice
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+Description:
+Soutenir qu’une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »
+Une chose est acceptée parce qu’elle est courante.
+L’habitude n’est pas une preuve.
 
-**Pourquoi c’est bien Appeal to common practice**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une chose est acceptée parce qu’elle est courante.
+L’habitude n’est pas une preuve.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to common practice — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Norme sociale:
+Utiliser ce que tout le monde fait comme argument de vérité.
 
-Le passage montre **Appeal to common practice** : soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela transforme la coutume en règle.
+- Cela bloque la critique.
+- Cela confond fréquence et justesse.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Ce qui est courant n’est pas forcément correct.
 
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to common practice**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to common practice — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to common practice** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to common practice**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appeal to common practice = Soutenir qu’une proposition est vraie ou fausse en se basant sur common practice, ce qui est logiquement non pertinent.`,
   },
   649: {
-    beginner: `## Two wrongs make a right — approfondi (Débutant)
+    beginner: `Two wrongs make a right = Soutenir qu’une faute est acceptable parce qu’une autre faute existe déjà.`,
+    detail: `Two wrongs make a right
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
+Description:
+Soutenir qu’une faute est acceptable parce qu’une autre faute existe déjà.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux a un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux a un raisonnement défectueux, où le raisonnement est défaillant.". »
+Quelqu’un justifie sa mauvaise action par la mauvaise action d’un autre.
+Une faute ne répare pas une autre faute.
 
-**Pourquoi c’est bien Two wrongs make a right**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelqu’un justifie sa mauvaise action par la mauvaise action d’un autre.
+Une faute ne répare pas une autre faute.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.`,
-    intermediate: `## Two wrongs make a right — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux a un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Compensation morale illusoire:
+L’idée qu’une mauvaise action devient correcte parce qu’elle répond à une autre mauvaise action.
 
-Le passage montre **Two wrongs make a right** : une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela normalise la vengeance.
+- Cela évite de répondre du premier tort.
+- Cela remplace la justice par la revanche.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
+L'implication inconfortable
+Deux erreurs restent deux erreurs.
 
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Two wrongs make a right**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.`,
-    expert: `## Two wrongs make a right — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux a un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Two wrongs make a right** convient parce que une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Two wrongs make a right**, c’est Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Two wrongs make a right = Soutenir qu’une faute est acceptable parce qu’une autre faute existe déjà.`,
   },
   650: {
-    beginner: `## Two wrongs make a right — approfondi (Débutant)
+    beginner: `Two wrongs make a right = Soutenir qu’une faute est acceptable parce qu’une autre faute existe déjà.`,
+    detail: `Two wrongs make a right
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
+Description:
+Soutenir qu’une faute est acceptable parce qu’une autre faute existe déjà.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Exemple (question)
+« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »
+Quelqu’un justifie sa mauvaise action par la mauvaise action d’un autre.
+Une faute ne répare pas une autre faute.
 
-**Pourquoi c’est bien Two wrongs make a right**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelqu’un justifie sa mauvaise action par la mauvaise action d’un autre.
+Une faute ne répare pas une autre faute.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.`,
-    intermediate: `## Two wrongs make a right — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Concept clé
+Compensation morale illusoire:
+L’idée qu’une mauvaise action devient correcte parce qu’elle répond à une autre mauvaise action.
 
-Le passage montre **Two wrongs make a right** : une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela normalise la vengeance.
+- Cela évite de répondre du premier tort.
+- Cela remplace la justice par la revanche.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
+L'implication inconfortable
+Deux erreurs restent deux erreurs.
 
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Two wrongs make a right**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.`,
-    expert: `## Two wrongs make a right — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
-
-Ici, **Two wrongs make a right** convient parce que une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Two wrongs make a right**, c’est Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Two wrongs make a right = Soutenir qu’une faute est acceptable parce qu’une autre faute existe déjà.`,
   },
   651: {
     beginner: `## Two wrongs make a right — approfondi (Débutant)
