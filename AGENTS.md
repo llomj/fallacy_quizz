@@ -25,7 +25,7 @@
 ## 4. The 900-Question Genome Goal
 - **Current State**: 900 logical fallacy questions. All 900 must be unique with distinct argumentative scenarios.
 - **In-depth UI (beginner / detail)**: EN+FR standalone panels for fallacy IDs **1–900** are wired via `level1StandaloneInDepth.ts` and `level2to10StandaloneInDepth.ts`; Level **0** uses `level0StandaloneInDepth.ts` (1001–1300). The new **two-tier format** (beginner = one-liner; detail = full breakdown) replaces the old beginner/intermediate/expert system. **Authoring tracker:** `task.md`.
-- **Codon display contract**: when a codon / fallback explanation is shown, `Beginner` means the one-line version only; `Intermediate` means `Description` + `Example` only; `Expert` means the full breakdown, including `How it works`, `So:`, `Key concept inside it`, `Why it matters`, `The uncomfortable implication`, and `One-line version`. English and French must stay structurally identical.
+- **Codon display contract**: when a codon / fallback explanation is shown, `Beginner` means the one-line version only; `Detail` means the full breakdown, including `Description`, `Example`, `How it works`, `So:`, `Key concept inside it`, `Why it matters`, `The uncomfortable implication`, and `One-line version`. English and French must stay structurally identical.
 - **Status**: Logical fallacy genome IN PROGRESS. Existing CLI question genome is archived/legacy and must not be used for new gameplay content.
 - **Diversity Rule**: Use at least 10 reasoning templates per stage so students encounter varied argument structures and conceptual challenges (e.g. causal, analogical, statistical, rhetorical).
 
@@ -225,7 +225,7 @@ Weber–Fechner Law = you perceive changes proportionally, not absolutely.
 
 ---
 
-**Agent checklist — each batch of 20:**
+**Agent checklist — each batch of 30:**
 
 1. Read the exact question + answer options for each ID in both EN and FR banks.
 2. Write **Beginner** (one-liner) + **Detail** (structured breakdown) for all 30 IDs in English.

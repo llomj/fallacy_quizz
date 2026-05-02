@@ -23165,1894 +23165,1264 @@ One-line version
 Amphiboly = Ambiguity in grammar that leads to misinterpretation.`,
   },
   651: {
-    beginner: `## Amphiboly — in-depth (Beginner)
+    beginner: `Amphiboly = a sentence is misread because its grammar is ambiguous.`,
+    detail: `Amphiboly
 
-**What this is, in plain English**  
-Ambiguity in grammar that leads to misinterpretation.
+Description:
+A sentence can be read in more than one way because the grammar is unclear.
+A confusing sentence can sound precise while still hiding two meanings.
 
-**The example you’re looking at**  
-« Time flies like an arrow. »  
+Example (question)
+« Time flies like an arrow. »
+This is the exact kind of move the question is testing.
 
-**Why this is Amphiboly**  
-Ambiguity in grammar that leads to misinterpretation. That is what this label is pointing to in the passage above.
+Example (everyday)
+A sign or instruction is read the wrong way because the wording is ambiguous.
 
-**Takeaway**  
-Ambiguity in grammar that leads to misinterpretation.`,
-    intermediate: `## Amphiboly — in-depth (Intermediate)
+Example (another context)
+A headline or short message leaves room for two different readings.
 
-**What this is, in plain English**  
-Ambiguity in grammar that leads to misinterpretation.
+How it works
+The argument treats one ambiguous sentence as if it had only one obvious meaning.
 
-**This example**  
-« Time flies like an arrow. »  
+So:
+- A small wording slip can change the whole meaning.
+- The reader can be pushed toward the wrong conclusion.
+- Clear reasoning starts with clear grammar.
 
-The passage shows **Amphiboly** in action: ambiguity in grammar that leads to misinterpretation.
+Key concept inside it
+Ambiguous grammar:
+A sentence structure that allows more than one reading.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: ambiguity in grammar that leads to misinterpretation.
+Why it matters
+Explains why:
+- A tiny ambiguity can flip the point completely.
+- A neat-sounding line can still say the wrong thing.
+- Precision in language is part of precision in thought.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if ambiguity in grammar that leads to misinterpretation.
+The uncomfortable implication
+A sentence can feel persuasive while quietly meaning something else.
 
-- **Example 3:** In a health or habits story, watch for this pattern: Ambiguity in grammar that leads to misinterpretation.
-
-**In one sentence**  
-Amphiboly is the label for reasoning that fits: Ambiguity in grammar that leads to misinterpretation.`,
-    expert: `## Amphiboly — in-depth (Expert)
-
-**Definition**  
-Ambiguity in grammar that leads to misinterpretation.
-
-**Applied to this passage**  
-« Time flies like an arrow. »  
-
-Here, **Amphiboly** is the right name because ambiguity in grammar that leads to misinterpretation.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: ambiguity in grammar that leads to misinterpretation.
-
-- **Example 2:** Picture a news headline or social post. People often reason as if ambiguity in grammar that leads to misinterpretation.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Ambiguity in grammar that leads to misinterpretation.
-
-- **Example 4:** Another everyday spot: school grades or test scores. Ambiguity in grammar that leads to misinterpretation.
-
-- **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** Ambiguity in grammar that leads to misinterpretation.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Amphiboly** means Ambiguity in grammar that leads to misinterpretation.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Amphiboly = a sentence is misread because its grammar is ambiguous.`,
   },
   652: {
-    beginner: `## Appeal to Consequences — in-depth (Beginner)
+    beginner: `Appeal to Consequences = treating a claim as true or false because of its results.`,
+    detail: `Appeal to Consequences
 
-**What this is, in plain English**  
-Arguing that a claim is true or false based on its consequences.
+Description:
+A claim is accepted or rejected because of the results people expect from it.
+Good or bad outcomes do not automatically make a claim true or false.
 
-**The example you’re looking at**  
-« We can't accept this theory because it would ruin society. »  
+Example (question)
+« We can't accept this theory because it would ruin society. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Consequences**  
-Arguing that a claim is true or false based on its consequences. That is what this label is pointing to in the passage above.
+Example (everyday)
+A policy is rejected only because someone fears it will be inconvenient.
 
-**Takeaway**  
-Arguing that a claim is true or false based on its consequences.`,
-    intermediate: `## Appeal to Consequences — in-depth (Intermediate)
+Example (another context)
+A theory is praised only because it would be comforting if it were true.
 
-**What this is, in plain English**  
-Arguing that a claim is true or false based on its consequences.
+How it works
+The expected result is treated like proof, even though it is not evidence.
 
-**This example**  
-« We can't accept this theory because it would ruin society. »  
+So:
+- Good results do not automatically make a claim true.
+- Bad results do not automatically make it false.
+- Evidence and consequences are different things.
 
-The passage shows **Appeal to Consequences** in action: arguing that a claim is true or false based on its consequences.
+Key concept inside it
+Consequence:
+What would happen if the claim were true or false.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if arguing that a claim is true or false based on its consequences.
+Why it matters
+Explains why:
+- What we like or fear is not the same as what is true.
+- A useful outcome is not a proof.
+- Emotion can make a weak argument sound stronger than it is.
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Arguing that a claim is true or false based on its consequences.
+The uncomfortable implication
+Comfort or fear can hide a bad inference.
 
-- **Example 3:** Another everyday spot: sports or business results. Arguing that a claim is true or false based on its consequences.
-
-**In one sentence**  
-Appeal to Consequences is the label for reasoning that fits: Arguing that a claim is true or false based on its consequences.`,
-    expert: `## Appeal to Consequences — in-depth (Expert)
-
-**Definition**  
-Arguing that a claim is true or false based on its consequences.
-
-**Applied to this passage**  
-« We can't accept this theory because it would ruin society. »  
-
-Here, **Appeal to Consequences** is the right name because arguing that a claim is true or false based on its consequences.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if arguing that a claim is true or false based on its consequences.
-
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Arguing that a claim is true or false based on its consequences.
-
-- **Example 3:** Another everyday spot: sports or business results. Arguing that a claim is true or false based on its consequences.
-
-- **Example 4:** **Setting:** a family argument. **What goes wrong:** Arguing that a claim is true or false based on its consequences.
-
-- **Example 5:** Imagine a policy or workplace discussion. The slip is the same: arguing that a claim is true or false based on its consequences.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Consequences** means Arguing that a claim is true or false based on its consequences.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Appeal to Consequences = treating a claim as true or false because of its results.`,
   },
   653: {
-    beginner: `## Appeal to Consequences — in-depth (Beginner)
+    beginner: `Appeal to Consequences = treating a claim as true or false because of its results.`,
+    detail: `Appeal to Consequences
 
-**What this is, in plain English**  
-Arguing that a claim is true or false based on its consequences.
+Description:
+A claim is accepted or rejected because of the results people expect from it.
+Good or bad outcomes do not automatically make a claim true or false.
 
-**The example you’re looking at**  
-« This must be true because it leads to good outcomes. »  
+Example (question)
+« This must be true because it leads to good outcomes. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Consequences**  
-Arguing that a claim is true or false based on its consequences. That is what this label is pointing to in the passage above.
+Example (everyday)
+A policy is rejected only because someone fears it will be inconvenient.
 
-**Takeaway**  
-Arguing that a claim is true or false based on its consequences.`,
-    intermediate: `## Appeal to Consequences — in-depth (Intermediate)
+Example (another context)
+A theory is praised only because it would be comforting if it were true.
 
-**What this is, in plain English**  
-Arguing that a claim is true or false based on its consequences.
+How it works
+The expected result is treated like proof, even though it is not evidence.
 
-**This example**  
-« This must be true because it leads to good outcomes. »  
+So:
+- Good results do not automatically make a claim true.
+- Bad results do not automatically make it false.
+- Evidence and consequences are different things.
 
-The passage shows **Appeal to Consequences** in action: arguing that a claim is true or false based on its consequences.
+Key concept inside it
+Consequence:
+What would happen if the claim were true or false.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Arguing that a claim is true or false based on its consequences.
+Why it matters
+Explains why:
+- What we like or fear is not the same as what is true.
+- A useful outcome is not a proof.
+- Emotion can make a weak argument sound stronger than it is.
 
-- **Example 2:** Another everyday spot: a health or habits story. Arguing that a claim is true or false based on its consequences.
+The uncomfortable implication
+Comfort or fear can hide a bad inference.
 
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Arguing that a claim is true or false based on its consequences.
-
-**In one sentence**  
-Appeal to Consequences is the label for reasoning that fits: Arguing that a claim is true or false based on its consequences.`,
-    expert: `## Appeal to Consequences — in-depth (Expert)
-
-**Definition**  
-Arguing that a claim is true or false based on its consequences.
-
-**Applied to this passage**  
-« This must be true because it leads to good outcomes. »  
-
-Here, **Appeal to Consequences** is the right name because arguing that a claim is true or false based on its consequences.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Arguing that a claim is true or false based on its consequences.
-
-- **Example 2:** Another everyday spot: a health or habits story. Arguing that a claim is true or false based on its consequences.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Arguing that a claim is true or false based on its consequences.
-
-- **Example 4:** Imagine a news headline or social post. The slip is the same: arguing that a claim is true or false based on its consequences.
-
-- **Example 5:** Picture a health or habits story. People often reason as if arguing that a claim is true or false based on its consequences.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Consequences** means Arguing that a claim is true or false based on its consequences.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Appeal to Consequences = treating a claim as true or false because of its results.`,
   },
   654: {
-    beginner: `## Appeal to Consequences — in-depth (Beginner)
+    beginner: `Appeal to Consequences = treating a claim as true or false because of its results.`,
+    detail: `Appeal to Consequences
 
-**What this is, in plain English**  
-Arguing that a claim is true or false based on its consequences.
+Description:
+A claim is accepted or rejected because of the results people expect from it.
+Good or bad outcomes do not automatically make a claim true or false.
 
-**The example you’re looking at**  
-« Rejecting this because of bad results. »  
+Example (question)
+« Rejecting this because of bad results. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Consequences**  
-Arguing that a claim is true or false based on its consequences. That is what this label is pointing to in the passage above.
+Example (everyday)
+A policy is rejected only because someone fears it will be inconvenient.
 
-**Takeaway**  
-Arguing that a claim is true or false based on its consequences.`,
-    intermediate: `## Appeal to Consequences — in-depth (Intermediate)
+Example (another context)
+A theory is praised only because it would be comforting if it were true.
 
-**What this is, in plain English**  
-Arguing that a claim is true or false based on its consequences.
+How it works
+The expected result is treated like proof, even though it is not evidence.
 
-**This example**  
-« Rejecting this because of bad results. »  
+So:
+- Good results do not automatically make a claim true.
+- Bad results do not automatically make it false.
+- Evidence and consequences are different things.
 
-The passage shows **Appeal to Consequences** in action: arguing that a claim is true or false based on its consequences.
+Key concept inside it
+Consequence:
+What would happen if the claim were true or false.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Arguing that a claim is true or false based on its consequences.
+Why it matters
+Explains why:
+- What we like or fear is not the same as what is true.
+- A useful outcome is not a proof.
+- Emotion can make a weak argument sound stronger than it is.
 
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Arguing that a claim is true or false based on its consequences.
+The uncomfortable implication
+Comfort or fear can hide a bad inference.
 
-- **Example 3:** Imagine a family argument. The slip is the same: arguing that a claim is true or false based on its consequences.
-
-**In one sentence**  
-Appeal to Consequences is the label for reasoning that fits: Arguing that a claim is true or false based on its consequences.`,
-    expert: `## Appeal to Consequences — in-depth (Expert)
-
-**Definition**  
-Arguing that a claim is true or false based on its consequences.
-
-**Applied to this passage**  
-« Rejecting this because of bad results. »  
-
-Here, **Appeal to Consequences** is the right name because arguing that a claim is true or false based on its consequences.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Arguing that a claim is true or false based on its consequences.
-
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Arguing that a claim is true or false based on its consequences.
-
-- **Example 3:** Imagine a family argument. The slip is the same: arguing that a claim is true or false based on its consequences.
-
-- **Example 4:** Picture a policy or workplace discussion. People often reason as if arguing that a claim is true or false based on its consequences.
-
-- **Example 5:** In sports or business results, watch for this pattern: Arguing that a claim is true or false based on its consequences.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Consequences** means Arguing that a claim is true or false based on its consequences.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Appeal to Consequences = treating a claim as true or false because of its results.`,
   },
   655: {
-    beginner: `## Appeal to Flattery — in-depth (Beginner)
+    beginner: `Appeal to Flattery = using praise to push someone toward agreement.`,
+    detail: `Appeal to Flattery
 
-**What this is, in plain English**  
-Using excessive praise to persuade.
+Description:
+Someone uses praise to lower your guard and push you toward agreement.
+A compliment can feel pleasant without being a reason.
 
-**The example you’re looking at**  
-« You're so smart, surely you agree with this. »  
+Example (question)
+« You're so smart, surely you agree with this. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Flattery**  
-Using excessive praise to persuade. That is what this label is pointing to in the passage above.
+Example (everyday)
+A seller compliments the buyer before making the pitch.
 
-**Takeaway**  
-Using excessive praise to persuade.`,
-    intermediate: `## Appeal to Flattery — in-depth (Intermediate)
+Example (another context)
+A colleague calls someone the smart one in the room to nudge agreement.
 
-**What this is, in plain English**  
-Using excessive praise to persuade.
+How it works
+The praise is doing pressure work, not evidence work.
 
-**This example**  
-« You're so smart, surely you agree with this. »  
+So:
+- Nice words can hide weak reasons.
+- Feeling appreciated does not prove the claim.
+- A compliment can steer a decision without answering the issue.
 
-The passage shows **Appeal to Flattery** in action: using excessive praise to persuade.
+Key concept inside it
+Flattery:
+Compliments used to influence a choice.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Using excessive praise to persuade.
+Why it matters
+Explains why:
+- A warm tone can distract from weak logic.
+- Being flattered is not the same as being informed.
+- Pleasant language can still be manipulation.
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: using excessive praise to persuade.
+The uncomfortable implication
+You can feel respected while being steered.
 
-- **Example 3:** Picture a news headline or social post. People often reason as if using excessive praise to persuade.
-
-**In one sentence**  
-Appeal to Flattery is the label for reasoning that fits: Using excessive praise to persuade.`,
-    expert: `## Appeal to Flattery — in-depth (Expert)
-
-**Definition**  
-Using excessive praise to persuade.
-
-**Applied to this passage**  
-« You're so smart, surely you agree with this. »  
-
-Here, **Appeal to Flattery** is the right name because using excessive praise to persuade.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Using excessive praise to persuade.
-
-- **Example 2:** Imagine school grades or test scores. The slip is the same: using excessive praise to persuade.
-
-- **Example 3:** Picture a news headline or social post. People often reason as if using excessive praise to persuade.
-
-- **Example 4:** In a health or habits story, watch for this pattern: Using excessive praise to persuade.
-
-- **Example 5:** Another everyday spot: school grades or test scores. Using excessive praise to persuade.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Flattery** means Using excessive praise to persuade.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Flattery = using praise to push someone toward agreement.`,
   },
   656: {
-    beginner: `## Appeal to Flattery — in-depth (Beginner)
+    beginner: `Appeal to Flattery = using praise to push someone toward agreement.`,
+    detail: `Appeal to Flattery
 
-**What this is, in plain English**  
-Using excessive praise to persuade.
+Description:
+Someone uses praise to lower your guard and push you toward agreement.
+A compliment can feel pleasant without being a reason.
 
-**The example you’re looking at**  
-« As an expert like you, you must support this. »  
+Example (question)
+« As an expert like you, you must support this. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Flattery**  
-Using excessive praise to persuade. That is what this label is pointing to in the passage above.
+Example (everyday)
+A seller compliments the buyer before making the pitch.
 
-**Takeaway**  
-Using excessive praise to persuade.`,
-    intermediate: `## Appeal to Flattery — in-depth (Intermediate)
+Example (another context)
+A colleague calls someone the smart one in the room to nudge agreement.
 
-**What this is, in plain English**  
-Using excessive praise to persuade.
+How it works
+The praise is doing pressure work, not evidence work.
 
-**This example**  
-« As an expert like you, you must support this. »  
+So:
+- Nice words can hide weak reasons.
+- Feeling appreciated does not prove the claim.
+- A compliment can steer a decision without answering the issue.
 
-The passage shows **Appeal to Flattery** in action: using excessive praise to persuade.
+Key concept inside it
+Flattery:
+Compliments used to influence a choice.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: using excessive praise to persuade.
+Why it matters
+Explains why:
+- A warm tone can distract from weak logic.
+- Being flattered is not the same as being informed.
+- Pleasant language can still be manipulation.
 
-- **Example 2:** Picture a family argument. People often reason as if using excessive praise to persuade.
+The uncomfortable implication
+You can feel respected while being steered.
 
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Using excessive praise to persuade.
-
-**In one sentence**  
-Appeal to Flattery is the label for reasoning that fits: Using excessive praise to persuade.`,
-    expert: `## Appeal to Flattery — in-depth (Expert)
-
-**Definition**  
-Using excessive praise to persuade.
-
-**Applied to this passage**  
-« As an expert like you, you must support this. »  
-
-Here, **Appeal to Flattery** is the right name because using excessive praise to persuade.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: using excessive praise to persuade.
-
-- **Example 2:** Picture a family argument. People often reason as if using excessive praise to persuade.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Using excessive praise to persuade.
-
-- **Example 4:** Another everyday spot: sports or business results. Using excessive praise to persuade.
-
-- **Example 5:** **Setting:** a family argument. **What goes wrong:** Using excessive praise to persuade.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Flattery** means Using excessive praise to persuade.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Flattery = using praise to push someone toward agreement.`,
   },
   657: {
-    beginner: `## Appeal to Flattery — in-depth (Beginner)
+    beginner: `Appeal to Flattery = using praise to push someone toward agreement.`,
+    detail: `Appeal to Flattery
 
-**What this is, in plain English**  
-Using excessive praise to persuade.
+Description:
+Someone uses praise to lower your guard and push you toward agreement.
+A compliment can feel pleasant without being a reason.
 
-**The example you’re looking at**  
-« Flattering to gain agreement. »  
+Example (question)
+« Flattering to gain agreement. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Flattery**  
-Using excessive praise to persuade. That is what this label is pointing to in the passage above.
+Example (everyday)
+A seller compliments the buyer before making the pitch.
 
-**Takeaway**  
-Using excessive praise to persuade.`,
-    intermediate: `## Appeal to Flattery — in-depth (Intermediate)
+Example (another context)
+A colleague calls someone the smart one in the room to nudge agreement.
 
-**What this is, in plain English**  
-Using excessive praise to persuade.
+How it works
+The praise is doing pressure work, not evidence work.
 
-**This example**  
-« Flattering to gain agreement. »  
+So:
+- Nice words can hide weak reasons.
+- Feeling appreciated does not prove the claim.
+- A compliment can steer a decision without answering the issue.
 
-The passage shows **Appeal to Flattery** in action: using excessive praise to persuade.
+Key concept inside it
+Flattery:
+Compliments used to influence a choice.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if using excessive praise to persuade.
+Why it matters
+Explains why:
+- A warm tone can distract from weak logic.
+- Being flattered is not the same as being informed.
+- Pleasant language can still be manipulation.
 
-- **Example 2:** In a news headline or social post, watch for this pattern: Using excessive praise to persuade.
+The uncomfortable implication
+You can feel respected while being steered.
 
-- **Example 3:** Another everyday spot: a health or habits story. Using excessive praise to persuade.
-
-**In one sentence**  
-Appeal to Flattery is the label for reasoning that fits: Using excessive praise to persuade.`,
-    expert: `## Appeal to Flattery — in-depth (Expert)
-
-**Definition**  
-Using excessive praise to persuade.
-
-**Applied to this passage**  
-« Flattering to gain agreement. »  
-
-Here, **Appeal to Flattery** is the right name because using excessive praise to persuade.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if using excessive praise to persuade.
-
-- **Example 2:** In a news headline or social post, watch for this pattern: Using excessive praise to persuade.
-
-- **Example 3:** Another everyday spot: a health or habits story. Using excessive praise to persuade.
-
-- **Example 4:** **Setting:** school grades or test scores. **What goes wrong:** Using excessive praise to persuade.
-
-- **Example 5:** Imagine a news headline or social post. The slip is the same: using excessive praise to persuade.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Flattery** means Using excessive praise to persuade.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Flattery = using praise to push someone toward agreement.`,
   },
   658: {
-    beginner: `## Appeal to Pity — in-depth (Beginner)
+    beginner: `Appeal to Pity = trying to win by making people feel sorry for you.`,
+    detail: `Appeal to Pity
 
-**What this is, in plain English**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+Description:
+Someone tries to win by making you feel sorry for them instead of giving a real reason.
+A sad story is not the same thing as relevant evidence.
 
-**The example you’re looking at**  
-« Please give me an A; I had a rough childhood and my dog died last week. »  
+Example (question)
+« Please give me an A; I had a rough childhood and my dog died last week. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Pity**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt. That is what this label is pointing to in the passage above.
+Example (everyday)
+A student asks for extra credit because they had a terrible week.
 
-**Takeaway**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt.`,
-    intermediate: `## Appeal to Pity — in-depth (Intermediate)
+Example (another context)
+A job applicant asks to be hired only because their situation is hard.
 
-**What this is, in plain English**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+How it works
+Sympathy is used as a substitute for justification.
 
-**This example**  
-« Please give me an A; I had a rough childhood and my dog died last week. »  
+So:
+- Compassion matters, but it does not decide the truth.
+- An emotional story can pull attention away from the real question.
+- A fair decision still needs relevant reasons.
 
-The passage shows **Appeal to Pity** in action: trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+Key concept inside it
+Pity:
+A feeling of sympathy used as if it were a reason.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+Why it matters
+Explains why:
+- Kindness is real, but it does not replace evidence.
+- A hard story can distract from the actual issue.
+- The argument needs reasons that match the claim.
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+The uncomfortable implication
+A moving story can silence the questions that matter.
 
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-**In one sentence**  
-Appeal to Pity is the label for reasoning that fits: Trying to win an argument by exploiting the opponent's feelings of pity or guilt.`,
-    expert: `## Appeal to Pity — in-depth (Expert)
-
-**Definition**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-**Applied to this passage**  
-« Please give me an A; I had a rough childhood and my dog died last week. »  
-
-Here, **Appeal to Pity** is the right name because trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-- **Example 4:** Imagine a family argument. The slip is the same: trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-- **Example 5:** Picture a policy or workplace discussion. People often reason as if trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Pity** means Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Pity = trying to win by making people feel sorry for you.`,
   },
   659: {
-    beginner: `## Appeal to Pity — in-depth (Beginner)
+    beginner: `Appeal to Pity = trying to win by making people feel sorry for you.`,
+    detail: `Appeal to Pity
 
-**What this is, in plain English**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+Description:
+Someone tries to win by making you feel sorry for them instead of giving a real reason.
+A sad story is not the same thing as relevant evidence.
 
-**The example you’re looking at**  
-« You have to hire me; I have five kids and no money. »  
+Example (question)
+« You have to hire me; I have five kids and no money. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Pity**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt. That is what this label is pointing to in the passage above.
+Example (everyday)
+A student asks for extra credit because they had a terrible week.
 
-**Takeaway**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt.`,
-    intermediate: `## Appeal to Pity — in-depth (Intermediate)
+Example (another context)
+A job applicant asks to be hired only because their situation is hard.
 
-**What this is, in plain English**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+How it works
+Sympathy is used as a substitute for justification.
 
-**This example**  
-« You have to hire me; I have five kids and no money. »  
+So:
+- Compassion matters, but it does not decide the truth.
+- An emotional story can pull attention away from the real question.
+- A fair decision still needs relevant reasons.
 
-The passage shows **Appeal to Pity** in action: trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+Key concept inside it
+Pity:
+A feeling of sympathy used as if it were a reason.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+Why it matters
+Explains why:
+- Kindness is real, but it does not replace evidence.
+- A hard story can distract from the actual issue.
+- The argument needs reasons that match the claim.
 
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+The uncomfortable implication
+A moving story can silence the questions that matter.
 
-- **Example 3:** Imagine school grades or test scores. The slip is the same: trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-**In one sentence**  
-Appeal to Pity is the label for reasoning that fits: Trying to win an argument by exploiting the opponent's feelings of pity or guilt.`,
-    expert: `## Appeal to Pity — in-depth (Expert)
-
-**Definition**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-**Applied to this passage**  
-« You have to hire me; I have five kids and no money. »  
-
-Here, **Appeal to Pity** is the right name because trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-- **Example 4:** Picture a news headline or social post. People often reason as if trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-- **Example 5:** In a health or habits story, watch for this pattern: Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Pity** means Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Pity = trying to win by making people feel sorry for you.`,
   },
   660: {
-    beginner: `## Appeal to Pity — in-depth (Beginner)
+    beginner: `Appeal to Pity = trying to win by making people feel sorry for you.`,
+    detail: `Appeal to Pity
 
-**What this is, in plain English**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+Description:
+Someone tries to win by making you feel sorry for them instead of giving a real reason.
+A sad story is not the same thing as relevant evidence.
 
-**The example you’re looking at**  
-« Let me off with a warning, officer; I'm on my way to my grandmother's funeral. »  
+Example (question)
+« Let me off with a warning, officer; I'm on my way to my grandmother's funeral. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Pity**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt. That is what this label is pointing to in the passage above.
+Example (everyday)
+A student asks for extra credit because they had a terrible week.
 
-**Takeaway**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt.`,
-    intermediate: `## Appeal to Pity — in-depth (Intermediate)
+Example (another context)
+A job applicant asks to be hired only because their situation is hard.
 
-**What this is, in plain English**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+How it works
+Sympathy is used as a substitute for justification.
 
-**This example**  
-« Let me off with a warning, officer; I'm on my way to my grandmother's funeral. »  
+So:
+- Compassion matters, but it does not decide the truth.
+- An emotional story can pull attention away from the real question.
+- A fair decision still needs relevant reasons.
 
-The passage shows **Appeal to Pity** in action: trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+Key concept inside it
+Pity:
+A feeling of sympathy used as if it were a reason.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+Why it matters
+Explains why:
+- Kindness is real, but it does not replace evidence.
+- A hard story can distract from the actual issue.
+- The argument needs reasons that match the claim.
 
-- **Example 2:** Imagine sports or business results. The slip is the same: trying to win an argument by exploiting the opponent's feelings of pity or guilt.
+The uncomfortable implication
+A moving story can silence the questions that matter.
 
-- **Example 3:** Picture a family argument. People often reason as if trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-**In one sentence**  
-Appeal to Pity is the label for reasoning that fits: Trying to win an argument by exploiting the opponent's feelings of pity or guilt.`,
-    expert: `## Appeal to Pity — in-depth (Expert)
-
-**Definition**  
-Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-**Applied to this passage**  
-« Let me off with a warning, officer; I'm on my way to my grandmother's funeral. »  
-
-Here, **Appeal to Pity** is the right name because trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-- **Example 2:** Imagine sports or business results. The slip is the same: trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-- **Example 3:** Picture a family argument. People often reason as if trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-- **Example 4:** In a policy or workplace discussion, watch for this pattern: Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-- **Example 5:** Another everyday spot: sports or business results. Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Pity** means Trying to win an argument by exploiting the opponent's feelings of pity or guilt.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Pity = trying to win by making people feel sorry for you.`,
   },
   661: {
-    beginner: `## Appeal to Ridicule — in-depth (Beginner)
+    beginner: `Appeal to Ridicule = rejecting a claim by mocking it.`,
+    detail: `Appeal to Ridicule
 
-**What this is, in plain English**  
-Mocking an argument to dismiss it.
+Description:
+A claim is mocked instead of answered.
+Something that sounds silly is not automatically false.
 
-**The example you’re looking at**  
-« That's just silly, so it can't be true. »  
+Example (question)
+« That's just silly, so it can't be true. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Ridicule**  
-Mocking an argument to dismiss it. That is what this label is pointing to in the passage above.
+Example (everyday)
+Someone laughs at a proposal instead of explaining what is wrong with it.
 
-**Takeaway**  
-Mocking an argument to dismiss it.`,
-    intermediate: `## Appeal to Ridicule — in-depth (Intermediate)
+Example (another context)
+A policy is dismissed with a joke rather than reasons.
 
-**What this is, in plain English**  
-Mocking an argument to dismiss it.
+How it works
+Ridicule replaces actual analysis.
 
-**This example**  
-« That's just silly, so it can't be true. »  
+So:
+- Mockery is not a refutation.
+- A claim still needs reasons to be rejected.
+- Humor can hide a lack of argument.
 
-The passage shows **Appeal to Ridicule** in action: mocking an argument to dismiss it.
+Key concept inside it
+Mockery:
+Using laughter or scorn to dismiss a claim.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: mocking an argument to dismiss it.
+Why it matters
+Explains why:
+- Being laughable is not the same as being false.
+- A funny line can stop people from asking for evidence.
+- A real answer still has to address the claim.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if mocking an argument to dismiss it.
+The uncomfortable implication
+If the joke lands, the discussion can stop too early.
 
-- **Example 3:** In a news headline or social post, watch for this pattern: Mocking an argument to dismiss it.
-
-**In one sentence**  
-Appeal to Ridicule is the label for reasoning that fits: Mocking an argument to dismiss it.`,
-    expert: `## Appeal to Ridicule — in-depth (Expert)
-
-**Definition**  
-Mocking an argument to dismiss it.
-
-**Applied to this passage**  
-« That's just silly, so it can't be true. »  
-
-Here, **Appeal to Ridicule** is the right name because mocking an argument to dismiss it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: mocking an argument to dismiss it.
-
-- **Example 2:** Picture school grades or test scores. People often reason as if mocking an argument to dismiss it.
-
-- **Example 3:** In a news headline or social post, watch for this pattern: Mocking an argument to dismiss it.
-
-- **Example 4:** Another everyday spot: a health or habits story. Mocking an argument to dismiss it.
-
-- **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** Mocking an argument to dismiss it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Ridicule** means Mocking an argument to dismiss it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Ridicule = rejecting a claim by mocking it.`,
   },
   662: {
-    beginner: `## Appeal to Ridicule — in-depth (Beginner)
+    beginner: `Appeal to Ridicule = rejecting a claim by mocking it.`,
+    detail: `Appeal to Ridicule
 
-**What this is, in plain English**  
-Mocking an argument to dismiss it.
+Description:
+A claim is mocked instead of answered.
+Something that sounds silly is not automatically false.
 
-**The example you’re looking at**  
-« Laughing off a serious argument. »  
+Example (question)
+« Laughing off a serious argument. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Ridicule**  
-Mocking an argument to dismiss it. That is what this label is pointing to in the passage above.
+Example (everyday)
+Someone laughs at a proposal instead of explaining what is wrong with it.
 
-**Takeaway**  
-Mocking an argument to dismiss it.`,
-    intermediate: `## Appeal to Ridicule — in-depth (Intermediate)
+Example (another context)
+A policy is dismissed with a joke rather than reasons.
 
-**What this is, in plain English**  
-Mocking an argument to dismiss it.
+How it works
+Ridicule replaces actual analysis.
 
-**This example**  
-« Laughing off a serious argument. »  
+So:
+- Mockery is not a refutation.
+- A claim still needs reasons to be rejected.
+- Humor can hide a lack of argument.
 
-The passage shows **Appeal to Ridicule** in action: mocking an argument to dismiss it.
+Key concept inside it
+Mockery:
+Using laughter or scorn to dismiss a claim.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if mocking an argument to dismiss it.
+Why it matters
+Explains why:
+- Being laughable is not the same as being false.
+- A funny line can stop people from asking for evidence.
+- A real answer still has to address the claim.
 
-- **Example 2:** In a family argument, watch for this pattern: Mocking an argument to dismiss it.
+The uncomfortable implication
+If the joke lands, the discussion can stop too early.
 
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Mocking an argument to dismiss it.
-
-**In one sentence**  
-Appeal to Ridicule is the label for reasoning that fits: Mocking an argument to dismiss it.`,
-    expert: `## Appeal to Ridicule — in-depth (Expert)
-
-**Definition**  
-Mocking an argument to dismiss it.
-
-**Applied to this passage**  
-« Laughing off a serious argument. »  
-
-Here, **Appeal to Ridicule** is the right name because mocking an argument to dismiss it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if mocking an argument to dismiss it.
-
-- **Example 2:** In a family argument, watch for this pattern: Mocking an argument to dismiss it.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Mocking an argument to dismiss it.
-
-- **Example 4:** **Setting:** sports or business results. **What goes wrong:** Mocking an argument to dismiss it.
-
-- **Example 5:** Imagine a family argument. The slip is the same: mocking an argument to dismiss it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Ridicule** means Mocking an argument to dismiss it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Ridicule = rejecting a claim by mocking it.`,
   },
   663: {
-    beginner: `## Appeal to Ridicule — in-depth (Beginner)
+    beginner: `Appeal to Ridicule = rejecting a claim by mocking it.`,
+    detail: `Appeal to Ridicule
 
-**What this is, in plain English**  
-Mocking an argument to dismiss it.
+Description:
+A claim is mocked instead of answered.
+Something that sounds silly is not automatically false.
 
-**The example you’re looking at**  
-« Ridiculing to avoid discussion. »  
+Example (question)
+« Ridiculing to avoid discussion. »
+This is the exact kind of move the question is testing.
 
-**Why this is Appeal to Ridicule**  
-Mocking an argument to dismiss it. That is what this label is pointing to in the passage above.
+Example (everyday)
+Someone laughs at a proposal instead of explaining what is wrong with it.
 
-**Takeaway**  
-Mocking an argument to dismiss it.`,
-    intermediate: `## Appeal to Ridicule — in-depth (Intermediate)
+Example (another context)
+A policy is dismissed with a joke rather than reasons.
 
-**What this is, in plain English**  
-Mocking an argument to dismiss it.
+How it works
+Ridicule replaces actual analysis.
 
-**This example**  
-« Ridiculing to avoid discussion. »  
+So:
+- Mockery is not a refutation.
+- A claim still needs reasons to be rejected.
+- Humor can hide a lack of argument.
 
-The passage shows **Appeal to Ridicule** in action: mocking an argument to dismiss it.
+Key concept inside it
+Mockery:
+Using laughter or scorn to dismiss a claim.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Mocking an argument to dismiss it.
+Why it matters
+Explains why:
+- Being laughable is not the same as being false.
+- A funny line can stop people from asking for evidence.
+- A real answer still has to address the claim.
 
-- **Example 2:** Another everyday spot: a news headline or social post. Mocking an argument to dismiss it.
+The uncomfortable implication
+If the joke lands, the discussion can stop too early.
 
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Mocking an argument to dismiss it.
-
-**In one sentence**  
-Appeal to Ridicule is the label for reasoning that fits: Mocking an argument to dismiss it.`,
-    expert: `## Appeal to Ridicule — in-depth (Expert)
-
-**Definition**  
-Mocking an argument to dismiss it.
-
-**Applied to this passage**  
-« Ridiculing to avoid discussion. »  
-
-Here, **Appeal to Ridicule** is the right name because mocking an argument to dismiss it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Mocking an argument to dismiss it.
-
-- **Example 2:** Another everyday spot: a news headline or social post. Mocking an argument to dismiss it.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Mocking an argument to dismiss it.
-
-- **Example 4:** Imagine school grades or test scores. The slip is the same: mocking an argument to dismiss it.
-
-- **Example 5:** Picture a news headline or social post. People often reason as if mocking an argument to dismiss it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Appeal to Ridicule** means Mocking an argument to dismiss it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Appeal to Ridicule = rejecting a claim by mocking it.`,
   },
   664: {
-    beginner: `## Association Fallacy — in-depth (Beginner)
+    beginner: `Association Fallacy = judging a person or idea by the company it keeps.`,
+    detail: `Association Fallacy
 
-**What this is, in plain English**  
-Assuming guilt or virtue based on association.
+Description:
+A person or idea is judged by the people or groups it is linked to.
+A connection is not the same thing as proof.
 
-**The example you’re looking at**  
-« He's friends with bad people, so he's bad. »  
+Example (question)
+« He's friends with bad people, so he's bad. »
+This is the exact kind of move the question is testing.
 
-**Why this is Association Fallacy**  
-Assuming guilt or virtue based on association. That is what this label is pointing to in the passage above.
+Example (everyday)
+A good proposal is rejected because a disliked group also supports it.
 
-**Takeaway**  
-Assuming guilt or virtue based on association.`,
-    intermediate: `## Association Fallacy — in-depth (Intermediate)
+Example (another context)
+Someone is treated as suspect just because they know the wrong people.
 
-**What this is, in plain English**  
-Assuming guilt or virtue based on association.
+How it works
+The link is treated like evidence about the claim itself.
 
-**This example**  
-« He's friends with bad people, so he's bad. »  
+So:
+- Links can be suggestive, but they do not prove the point.
+- A claim still needs its own reasons.
+- Guilt or praise by association is a shortcut, not an argument.
 
-The passage shows **Association Fallacy** in action: assuming guilt or virtue based on association.
+Key concept inside it
+Association:
+A link to someone or something mistaken for evidence.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Assuming guilt or virtue based on association.
+Why it matters
+Explains why:
+- A connection may matter, but it is not enough on its own.
+- A thesis should be judged on its own reasons.
+- You can smear an idea without touching its logic.
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Assuming guilt or virtue based on association.
+The uncomfortable implication
+The label around a claim can become a weapon against the claim itself.
 
-- **Example 3:** Imagine sports or business results. The slip is the same: assuming guilt or virtue based on association.
-
-**In one sentence**  
-Association Fallacy is the label for reasoning that fits: Assuming guilt or virtue based on association.`,
-    expert: `## Association Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming guilt or virtue based on association.
-
-**Applied to this passage**  
-« He's friends with bad people, so he's bad. »  
-
-Here, **Association Fallacy** is the right name because assuming guilt or virtue based on association.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Assuming guilt or virtue based on association.
-
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Assuming guilt or virtue based on association.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: assuming guilt or virtue based on association.
-
-- **Example 4:** Picture a family argument. People often reason as if assuming guilt or virtue based on association.
-
-- **Example 5:** In a policy or workplace discussion, watch for this pattern: Assuming guilt or virtue based on association.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Association Fallacy** means Assuming guilt or virtue based on association.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Association Fallacy = judging a person or idea by the company it keeps.`,
   },
   665: {
-    beginner: `## Association Fallacy — in-depth (Beginner)
+    beginner: `Association Fallacy = judging a person or idea by the company it keeps.`,
+    detail: `Association Fallacy
 
-**What this is, in plain English**  
-Assuming guilt or virtue based on association.
+Description:
+A person or idea is judged by the people or groups it is linked to.
+A connection is not the same thing as proof.
 
-**The example you’re looking at**  
-« She's associated with good causes, so she's good. »  
+Example (question)
+« She's associated with good causes, so she's good. »
+This is the exact kind of move the question is testing.
 
-**Why this is Association Fallacy**  
-Assuming guilt or virtue based on association. That is what this label is pointing to in the passage above.
+Example (everyday)
+A good proposal is rejected because a disliked group also supports it.
 
-**Takeaway**  
-Assuming guilt or virtue based on association.`,
-    intermediate: `## Association Fallacy — in-depth (Intermediate)
+Example (another context)
+Someone is treated as suspect just because they know the wrong people.
 
-**What this is, in plain English**  
-Assuming guilt or virtue based on association.
+How it works
+The link is treated like evidence about the claim itself.
 
-**This example**  
-« She's associated with good causes, so she's good. »  
+So:
+- Links can be suggestive, but they do not prove the point.
+- A claim still needs its own reasons.
+- Guilt or praise by association is a shortcut, not an argument.
 
-The passage shows **Association Fallacy** in action: assuming guilt or virtue based on association.
+Key concept inside it
+Association:
+A link to someone or something mistaken for evidence.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Assuming guilt or virtue based on association.
+Why it matters
+Explains why:
+- A connection may matter, but it is not enough on its own.
+- A thesis should be judged on its own reasons.
+- You can smear an idea without touching its logic.
 
-- **Example 2:** Imagine a health or habits story. The slip is the same: assuming guilt or virtue based on association.
+The uncomfortable implication
+The label around a claim can become a weapon against the claim itself.
 
-- **Example 3:** Picture school grades or test scores. People often reason as if assuming guilt or virtue based on association.
-
-**In one sentence**  
-Association Fallacy is the label for reasoning that fits: Assuming guilt or virtue based on association.`,
-    expert: `## Association Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming guilt or virtue based on association.
-
-**Applied to this passage**  
-« She's associated with good causes, so she's good. »  
-
-Here, **Association Fallacy** is the right name because assuming guilt or virtue based on association.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Assuming guilt or virtue based on association.
-
-- **Example 2:** Imagine a health or habits story. The slip is the same: assuming guilt or virtue based on association.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if assuming guilt or virtue based on association.
-
-- **Example 4:** In a news headline or social post, watch for this pattern: Assuming guilt or virtue based on association.
-
-- **Example 5:** Another everyday spot: a health or habits story. Assuming guilt or virtue based on association.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Association Fallacy** means Assuming guilt or virtue based on association.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Association Fallacy = judging a person or idea by the company it keeps.`,
   },
   666: {
-    beginner: `## Association Fallacy — in-depth (Beginner)
+    beginner: `Association Fallacy = judging a person or idea by the company it keeps.`,
+    detail: `Association Fallacy
 
-**What this is, in plain English**  
-Assuming guilt or virtue based on association.
+Description:
+A person or idea is judged by the people or groups it is linked to.
+A connection is not the same thing as proof.
 
-**The example you’re looking at**  
-« Judging by company kept. »  
+Example (question)
+« Judging by company kept. »
+This is the exact kind of move the question is testing.
 
-**Why this is Association Fallacy**  
-Assuming guilt or virtue based on association. That is what this label is pointing to in the passage above.
+Example (everyday)
+A good proposal is rejected because a disliked group also supports it.
 
-**Takeaway**  
-Assuming guilt or virtue based on association.`,
-    intermediate: `## Association Fallacy — in-depth (Intermediate)
+Example (another context)
+Someone is treated as suspect just because they know the wrong people.
 
-**What this is, in plain English**  
-Assuming guilt or virtue based on association.
+How it works
+The link is treated like evidence about the claim itself.
 
-**This example**  
-« Judging by company kept. »  
+So:
+- Links can be suggestive, but they do not prove the point.
+- A claim still needs its own reasons.
+- Guilt or praise by association is a shortcut, not an argument.
 
-The passage shows **Association Fallacy** in action: assuming guilt or virtue based on association.
+Key concept inside it
+Association:
+A link to someone or something mistaken for evidence.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: assuming guilt or virtue based on association.
+Why it matters
+Explains why:
+- A connection may matter, but it is not enough on its own.
+- A thesis should be judged on its own reasons.
+- You can smear an idea without touching its logic.
 
-- **Example 2:** Picture sports or business results. People often reason as if assuming guilt or virtue based on association.
+The uncomfortable implication
+The label around a claim can become a weapon against the claim itself.
 
-- **Example 3:** In a family argument, watch for this pattern: Assuming guilt or virtue based on association.
-
-**In one sentence**  
-Association Fallacy is the label for reasoning that fits: Assuming guilt or virtue based on association.`,
-    expert: `## Association Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming guilt or virtue based on association.
-
-**Applied to this passage**  
-« Judging by company kept. »  
-
-Here, **Association Fallacy** is the right name because assuming guilt or virtue based on association.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: assuming guilt or virtue based on association.
-
-- **Example 2:** Picture sports or business results. People often reason as if assuming guilt or virtue based on association.
-
-- **Example 3:** In a family argument, watch for this pattern: Assuming guilt or virtue based on association.
-
-- **Example 4:** Another everyday spot: a policy or workplace discussion. Assuming guilt or virtue based on association.
-
-- **Example 5:** **Setting:** sports or business results. **What goes wrong:** Assuming guilt or virtue based on association.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Association Fallacy** means Assuming guilt or virtue based on association.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Association Fallacy = judging a person or idea by the company it keeps.`,
   },
   667: {
-    beginner: `## Attacking the Evidence — in-depth (Beginner)
+    beginner: `Attacking the Evidence = dismissing a claim by attacking its source.`,
+    detail: `Attacking the Evidence
 
-**What this is, in plain English**  
-Discrediting the source of evidence rather than the evidence itself.
+Description:
+The evidence is dismissed by attacking its source instead of looking at the evidence itself.
+A weak messenger does not automatically make the message false.
 
-**The example you’re looking at**  
-« That study is from a biased source, so ignore it. »  
+Example (question)
+« That study is from a biased source, so ignore it. »
+This is the exact kind of move the question is testing.
 
-**Why this is Attacking the Evidence**  
-Discrediting the source of evidence rather than the evidence itself. That is what this label is pointing to in the passage above.
+Example (everyday)
+A study is rejected only because the person who cites it is unpopular.
 
-**Takeaway**  
-Discrediting the source of evidence rather than the evidence itself.`,
-    intermediate: `## Attacking the Evidence — in-depth (Intermediate)
+Example (another context)
+A witness is ignored without checking what they actually said.
 
-**What this is, in plain English**  
-Discrediting the source of evidence rather than the evidence itself.
+How it works
+The source is targeted while the content is left untouched.
 
-**This example**  
-« That study is from a biased source, so ignore it. »  
+So:
+- A weak source can matter, but the content still has to be checked.
+- Good evidence can come from imperfect people.
+- Calling out the messenger is not the same as answering the message.
 
-The passage shows **Attacking the Evidence** in action: discrediting the source of evidence rather than the evidence itself.
+Key concept inside it
+Source:
+The origin of evidence, not the evidence itself.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if discrediting the source of evidence rather than the evidence itself.
+Why it matters
+Explains why:
+- You should inspect evidence, not just the person attached to it.
+- A bad source does not automatically mean a false claim.
+- Criticizing the messenger can hide the fact that the claim was never answered.
 
-- **Example 2:** In school grades or test scores, watch for this pattern: Discrediting the source of evidence rather than the evidence itself.
+The uncomfortable implication
+It is easy to look responsive while avoiding the real issue.
 
-- **Example 3:** Another everyday spot: a news headline or social post. Discrediting the source of evidence rather than the evidence itself.
-
-**In one sentence**  
-Attacking the Evidence is the label for reasoning that fits: Discrediting the source of evidence rather than the evidence itself.`,
-    expert: `## Attacking the Evidence — in-depth (Expert)
-
-**Definition**  
-Discrediting the source of evidence rather than the evidence itself.
-
-**Applied to this passage**  
-« That study is from a biased source, so ignore it. »  
-
-Here, **Attacking the Evidence** is the right name because discrediting the source of evidence rather than the evidence itself.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if discrediting the source of evidence rather than the evidence itself.
-
-- **Example 2:** In school grades or test scores, watch for this pattern: Discrediting the source of evidence rather than the evidence itself.
-
-- **Example 3:** Another everyday spot: a news headline or social post. Discrediting the source of evidence rather than the evidence itself.
-
-- **Example 4:** **Setting:** a health or habits story. **What goes wrong:** Discrediting the source of evidence rather than the evidence itself.
-
-- **Example 5:** Imagine school grades or test scores. The slip is the same: discrediting the source of evidence rather than the evidence itself.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Attacking the Evidence** means Discrediting the source of evidence rather than the evidence itself.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Attacking the Evidence = dismissing a claim by attacking its source.`,
   },
   668: {
-    beginner: `## Attacking the Evidence — in-depth (Beginner)
+    beginner: `Attacking the Evidence = dismissing a claim by attacking its source.`,
+    detail: `Attacking the Evidence
 
-**What this is, in plain English**  
-Discrediting the source of evidence rather than the evidence itself.
+Description:
+The evidence is dismissed by attacking its source instead of looking at the evidence itself.
+A weak messenger does not automatically make the message false.
 
-**The example you’re looking at**  
-« The witness is unreliable, so the testimony is worthless. »  
+Example (question)
+« The witness is unreliable, so the testimony is worthless. »
+This is the exact kind of move the question is testing.
 
-**Why this is Attacking the Evidence**  
-Discrediting the source of evidence rather than the evidence itself. That is what this label is pointing to in the passage above.
+Example (everyday)
+A study is rejected only because the person who cites it is unpopular.
 
-**Takeaway**  
-Discrediting the source of evidence rather than the evidence itself.`,
-    intermediate: `## Attacking the Evidence — in-depth (Intermediate)
+Example (another context)
+A witness is ignored without checking what they actually said.
 
-**What this is, in plain English**  
-Discrediting the source of evidence rather than the evidence itself.
+How it works
+The source is targeted while the content is left untouched.
 
-**This example**  
-« The witness is unreliable, so the testimony is worthless. »  
+So:
+- A weak source can matter, but the content still has to be checked.
+- Good evidence can come from imperfect people.
+- Calling out the messenger is not the same as answering the message.
 
-The passage shows **Attacking the Evidence** in action: discrediting the source of evidence rather than the evidence itself.
+Key concept inside it
+Source:
+The origin of evidence, not the evidence itself.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Discrediting the source of evidence rather than the evidence itself.
+Why it matters
+Explains why:
+- You should inspect evidence, not just the person attached to it.
+- A bad source does not automatically mean a false claim.
+- Criticizing the messenger can hide the fact that the claim was never answered.
 
-- **Example 2:** Another everyday spot: a family argument. Discrediting the source of evidence rather than the evidence itself.
+The uncomfortable implication
+It is easy to look responsive while avoiding the real issue.
 
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Discrediting the source of evidence rather than the evidence itself.
-
-**In one sentence**  
-Attacking the Evidence is the label for reasoning that fits: Discrediting the source of evidence rather than the evidence itself.`,
-    expert: `## Attacking the Evidence — in-depth (Expert)
-
-**Definition**  
-Discrediting the source of evidence rather than the evidence itself.
-
-**Applied to this passage**  
-« The witness is unreliable, so the testimony is worthless. »  
-
-Here, **Attacking the Evidence** is the right name because discrediting the source of evidence rather than the evidence itself.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Discrediting the source of evidence rather than the evidence itself.
-
-- **Example 2:** Another everyday spot: a family argument. Discrediting the source of evidence rather than the evidence itself.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Discrediting the source of evidence rather than the evidence itself.
-
-- **Example 4:** Imagine sports or business results. The slip is the same: discrediting the source of evidence rather than the evidence itself.
-
-- **Example 5:** Picture a family argument. People often reason as if discrediting the source of evidence rather than the evidence itself.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Attacking the Evidence** means Discrediting the source of evidence rather than the evidence itself.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Attacking the Evidence = dismissing a claim by attacking its source.`,
   },
   669: {
-    beginner: `## Attacking the Evidence — in-depth (Beginner)
+    beginner: `Attacking the Evidence = dismissing a claim by attacking its source.`,
+    detail: `Attacking the Evidence
 
-**What this is, in plain English**  
-Discrediting the source of evidence rather than the evidence itself.
+Description:
+The evidence is dismissed by attacking its source instead of looking at the evidence itself.
+A weak messenger does not automatically make the message false.
 
-**The example you’re looking at**  
-« Attacking credibility instead of content. »  
+Example (question)
+« Attacking credibility instead of content. »
+This is the exact kind of move the question is testing.
 
-**Why this is Attacking the Evidence**  
-Discrediting the source of evidence rather than the evidence itself. That is what this label is pointing to in the passage above.
+Example (everyday)
+A study is rejected only because the person who cites it is unpopular.
 
-**Takeaway**  
-Discrediting the source of evidence rather than the evidence itself.`,
-    intermediate: `## Attacking the Evidence — in-depth (Intermediate)
+Example (another context)
+A witness is ignored without checking what they actually said.
 
-**What this is, in plain English**  
-Discrediting the source of evidence rather than the evidence itself.
+How it works
+The source is targeted while the content is left untouched.
 
-**This example**  
-« Attacking credibility instead of content. »  
+So:
+- A weak source can matter, but the content still has to be checked.
+- Good evidence can come from imperfect people.
+- Calling out the messenger is not the same as answering the message.
 
-The passage shows **Attacking the Evidence** in action: discrediting the source of evidence rather than the evidence itself.
+Key concept inside it
+Source:
+The origin of evidence, not the evidence itself.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Discrediting the source of evidence rather than the evidence itself.
+Why it matters
+Explains why:
+- You should inspect evidence, not just the person attached to it.
+- A bad source does not automatically mean a false claim.
+- Criticizing the messenger can hide the fact that the claim was never answered.
 
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Discrediting the source of evidence rather than the evidence itself.
+The uncomfortable implication
+It is easy to look responsive while avoiding the real issue.
 
-- **Example 3:** Imagine a health or habits story. The slip is the same: discrediting the source of evidence rather than the evidence itself.
-
-**In one sentence**  
-Attacking the Evidence is the label for reasoning that fits: Discrediting the source of evidence rather than the evidence itself.`,
-    expert: `## Attacking the Evidence — in-depth (Expert)
-
-**Definition**  
-Discrediting the source of evidence rather than the evidence itself.
-
-**Applied to this passage**  
-« Attacking credibility instead of content. »  
-
-Here, **Attacking the Evidence** is the right name because discrediting the source of evidence rather than the evidence itself.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Discrediting the source of evidence rather than the evidence itself.
-
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Discrediting the source of evidence rather than the evidence itself.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: discrediting the source of evidence rather than the evidence itself.
-
-- **Example 4:** Picture school grades or test scores. People often reason as if discrediting the source of evidence rather than the evidence itself.
-
-- **Example 5:** In a news headline or social post, watch for this pattern: Discrediting the source of evidence rather than the evidence itself.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Attacking the Evidence** means Discrediting the source of evidence rather than the evidence itself.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Attacking the Evidence = dismissing a claim by attacking its source.`,
   },
   670: {
-    beginner: `## Authority Fallacy — in-depth (Beginner)
+    beginner: `Authority Fallacy = treating a claim as true because an authority said it.`,
+    detail: `Authority Fallacy
 
-**What this is, in plain English**  
-Appealing to authority without justification.
+Description:
+A claim is treated as true just because an authority said it.
+Status is not the same thing as proof.
 
-**The example you’re looking at**  
-« Einstein said it, so it's true. »  
+Example (question)
+« Einstein said it, so it's true. »
+This is the exact kind of move the question is testing.
 
-**Why this is Authority Fallacy**  
-Appealing to authority without justification. That is what this label is pointing to in the passage above.
+Example (everyday)
+A celebrity opinion is accepted as fact without checking the reasons.
 
-**Takeaway**  
-Appealing to authority without justification.`,
-    intermediate: `## Authority Fallacy — in-depth (Intermediate)
+Example (another context)
+A manager’s view is taken as a demonstration instead of a claim to examine.
 
-**What this is, in plain English**  
-Appealing to authority without justification.
+How it works
+Rank replaces reasoning.
 
-**This example**  
-« Einstein said it, so it's true. »  
+So:
+- An expert can be wrong outside their field.
+- Authority can guide you, but it cannot do the thinking for you.
+- The evidence still has to be checked.
 
-The passage shows **Authority Fallacy** in action: appealing to authority without justification.
+Key concept inside it
+Authority:
+A person with rank or expertise treated as automatically correct.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Appealing to authority without justification.
+Why it matters
+Explains why:
+- Respect is not a substitute for proof.
+- Even experts need evidence when the claim is not obvious.
+- A good source can guide attention without deciding the issue.
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: appealing to authority without justification.
+The uncomfortable implication
+Deference can become a shortcut around thinking.
 
-- **Example 3:** Picture sports or business results. People often reason as if appealing to authority without justification.
-
-**In one sentence**  
-Authority Fallacy is the label for reasoning that fits: Appealing to authority without justification.`,
-    expert: `## Authority Fallacy — in-depth (Expert)
-
-**Definition**  
-Appealing to authority without justification.
-
-**Applied to this passage**  
-« Einstein said it, so it's true. »  
-
-Here, **Authority Fallacy** is the right name because appealing to authority without justification.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Appealing to authority without justification.
-
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: appealing to authority without justification.
-
-- **Example 3:** Picture sports or business results. People often reason as if appealing to authority without justification.
-
-- **Example 4:** In a family argument, watch for this pattern: Appealing to authority without justification.
-
-- **Example 5:** Another everyday spot: a policy or workplace discussion. Appealing to authority without justification.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Authority Fallacy** means Appealing to authority without justification.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Authority Fallacy = treating a claim as true because an authority said it.`,
   },
   671: {
-    beginner: `## Authority Fallacy — in-depth (Beginner)
+    beginner: `Authority Fallacy = treating a claim as true because an authority said it.`,
+    detail: `Authority Fallacy
 
-**What this is, in plain English**  
-Appealing to authority without justification.
+Description:
+A claim is treated as true just because an authority said it.
+Status is not the same thing as proof.
 
-**The example you’re looking at**  
-« The expert must be right. »  
+Example (question)
+« The expert must be right. »
+This is the exact kind of move the question is testing.
 
-**Why this is Authority Fallacy**  
-Appealing to authority without justification. That is what this label is pointing to in the passage above.
+Example (everyday)
+A celebrity opinion is accepted as fact without checking the reasons.
 
-**Takeaway**  
-Appealing to authority without justification.`,
-    intermediate: `## Authority Fallacy — in-depth (Intermediate)
+Example (another context)
+A manager’s view is taken as a demonstration instead of a claim to examine.
 
-**What this is, in plain English**  
-Appealing to authority without justification.
+How it works
+Rank replaces reasoning.
 
-**This example**  
-« The expert must be right. »  
+So:
+- An expert can be wrong outside their field.
+- Authority can guide you, but it cannot do the thinking for you.
+- The evidence still has to be checked.
 
-The passage shows **Authority Fallacy** in action: appealing to authority without justification.
+Key concept inside it
+Authority:
+A person with rank or expertise treated as automatically correct.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: appealing to authority without justification.
+Why it matters
+Explains why:
+- Respect is not a substitute for proof.
+- Even experts need evidence when the claim is not obvious.
+- A good source can guide attention without deciding the issue.
 
-- **Example 2:** Picture a health or habits story. People often reason as if appealing to authority without justification.
+The uncomfortable implication
+Deference can become a shortcut around thinking.
 
-- **Example 3:** In school grades or test scores, watch for this pattern: Appealing to authority without justification.
-
-**In one sentence**  
-Authority Fallacy is the label for reasoning that fits: Appealing to authority without justification.`,
-    expert: `## Authority Fallacy — in-depth (Expert)
-
-**Definition**  
-Appealing to authority without justification.
-
-**Applied to this passage**  
-« The expert must be right. »  
-
-Here, **Authority Fallacy** is the right name because appealing to authority without justification.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: appealing to authority without justification.
-
-- **Example 2:** Picture a health or habits story. People often reason as if appealing to authority without justification.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: Appealing to authority without justification.
-
-- **Example 4:** Another everyday spot: a news headline or social post. Appealing to authority without justification.
-
-- **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Appealing to authority without justification.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Authority Fallacy** means Appealing to authority without justification.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Authority Fallacy = treating a claim as true because an authority said it.`,
   },
   672: {
-    beginner: `## Authority Fallacy — in-depth (Beginner)
+    beginner: `Authority Fallacy = treating a claim as true because an authority said it.`,
+    detail: `Authority Fallacy
 
-**What this is, in plain English**  
-Appealing to authority without justification.
+Description:
+A claim is treated as true just because an authority said it.
+Status is not the same thing as proof.
 
-**The example you’re looking at**  
-« Blind faith in authority. »  
+Example (question)
+« Blind faith in authority. »
+This is the exact kind of move the question is testing.
 
-**Why this is Authority Fallacy**  
-Appealing to authority without justification. That is what this label is pointing to in the passage above.
+Example (everyday)
+A celebrity opinion is accepted as fact without checking the reasons.
 
-**Takeaway**  
-Appealing to authority without justification.`,
-    intermediate: `## Authority Fallacy — in-depth (Intermediate)
+Example (another context)
+A manager’s view is taken as a demonstration instead of a claim to examine.
 
-**What this is, in plain English**  
-Appealing to authority without justification.
+How it works
+Rank replaces reasoning.
 
-**This example**  
-« Blind faith in authority. »  
+So:
+- An expert can be wrong outside their field.
+- Authority can guide you, but it cannot do the thinking for you.
+- The evidence still has to be checked.
 
-The passage shows **Authority Fallacy** in action: appealing to authority without justification.
+Key concept inside it
+Authority:
+A person with rank or expertise treated as automatically correct.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if appealing to authority without justification.
+Why it matters
+Explains why:
+- Respect is not a substitute for proof.
+- Even experts need evidence when the claim is not obvious.
+- A good source can guide attention without deciding the issue.
 
-- **Example 2:** In sports or business results, watch for this pattern: Appealing to authority without justification.
+The uncomfortable implication
+Deference can become a shortcut around thinking.
 
-- **Example 3:** Another everyday spot: a family argument. Appealing to authority without justification.
-
-**In one sentence**  
-Authority Fallacy is the label for reasoning that fits: Appealing to authority without justification.`,
-    expert: `## Authority Fallacy — in-depth (Expert)
-
-**Definition**  
-Appealing to authority without justification.
-
-**Applied to this passage**  
-« Blind faith in authority. »  
-
-Here, **Authority Fallacy** is the right name because appealing to authority without justification.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if appealing to authority without justification.
-
-- **Example 2:** In sports or business results, watch for this pattern: Appealing to authority without justification.
-
-- **Example 3:** Another everyday spot: a family argument. Appealing to authority without justification.
-
-- **Example 4:** **Setting:** a policy or workplace discussion. **What goes wrong:** Appealing to authority without justification.
-
-- **Example 5:** Imagine sports or business results. The slip is the same: appealing to authority without justification.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Authority Fallacy** means Appealing to authority without justification.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Authority Fallacy = treating a claim as true because an authority said it.`,
   },
   673: {
-    beginner: `## Bandwagon Fallacy — in-depth (Beginner)
+    beginner: `Bandwagon Fallacy = treating a claim as true because many people believe it.`,
+    detail: `Bandwagon Fallacy
 
-**What this is, in plain English**  
-Arguing that something is true because many people believe it.
+Description:
+Something is treated as true because lots of people accept it.
+A crowd is not a proof.
 
-**The example you’re looking at**  
-« Everyone is doing it, so it must be right. »  
+Example (question)
+« Everyone is doing it, so it must be right. »
+This is the exact kind of move the question is testing.
 
-**Why this is Bandwagon Fallacy**  
-Arguing that something is true because many people believe it. That is what this label is pointing to in the passage above.
+Example (everyday)
+A trend is assumed to be correct just because it is popular.
 
-**Takeaway**  
-Arguing that something is true because many people believe it.`,
-    intermediate: `## Bandwagon Fallacy — in-depth (Intermediate)
+Example (another context)
+A decision is copied because everyone else is doing the same thing.
 
-**What this is, in plain English**  
-Arguing that something is true because many people believe it.
+How it works
+Popularity is confused with correctness.
 
-**This example**  
-« Everyone is doing it, so it must be right. »  
+So:
+- Crowds can be early, late, wise, or wrong.
+- Many believers do not make a claim true.
+- A popular idea still needs reasons.
 
-The passage shows **Bandwagon Fallacy** in action: arguing that something is true because many people believe it.
+Key concept inside it
+Popularity:
+How many people accept an idea.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Arguing that something is true because many people believe it.
+Why it matters
+Explains why:
+- Large groups can still be mistaken.
+- Many believers do not create truth.
+- A common idea still has to earn its support.
 
-- **Example 2:** Another everyday spot: school grades or test scores. Arguing that something is true because many people believe it.
+The uncomfortable implication
+Belonging can feel safer than checking.
 
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Arguing that something is true because many people believe it.
-
-**In one sentence**  
-Bandwagon Fallacy is the label for reasoning that fits: Arguing that something is true because many people believe it.`,
-    expert: `## Bandwagon Fallacy — in-depth (Expert)
-
-**Definition**  
-Arguing that something is true because many people believe it.
-
-**Applied to this passage**  
-« Everyone is doing it, so it must be right. »  
-
-Here, **Bandwagon Fallacy** is the right name because arguing that something is true because many people believe it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Arguing that something is true because many people believe it.
-
-- **Example 2:** Another everyday spot: school grades or test scores. Arguing that something is true because many people believe it.
-
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Arguing that something is true because many people believe it.
-
-- **Example 4:** Imagine a health or habits story. The slip is the same: arguing that something is true because many people believe it.
-
-- **Example 5:** Picture school grades or test scores. People often reason as if arguing that something is true because many people believe it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Bandwagon Fallacy** means Arguing that something is true because many people believe it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Social & Institutional Behaviors`,
+One-line version
+Bandwagon Fallacy = treating a claim as true because many people believe it.`,
   },
   674: {
-    beginner: `## Bandwagon Fallacy — in-depth (Beginner)
+    beginner: `Bandwagon Fallacy = treating a claim as true because many people believe it.`,
+    detail: `Bandwagon Fallacy
 
-**What this is, in plain English**  
-Arguing that something is true because many people believe it.
+Description:
+Something is treated as true because lots of people accept it.
+A crowd is not a proof.
 
-**The example you’re looking at**  
-« Popular belief proves truth. »  
+Example (question)
+« Popular belief proves truth. »
+This is the exact kind of move the question is testing.
 
-**Why this is Bandwagon Fallacy**  
-Arguing that something is true because many people believe it. That is what this label is pointing to in the passage above.
+Example (everyday)
+A trend is assumed to be correct just because it is popular.
 
-**Takeaway**  
-Arguing that something is true because many people believe it.`,
-    intermediate: `## Bandwagon Fallacy — in-depth (Intermediate)
+Example (another context)
+A decision is copied because everyone else is doing the same thing.
 
-**What this is, in plain English**  
-Arguing that something is true because many people believe it.
+How it works
+Popularity is confused with correctness.
 
-**This example**  
-« Popular belief proves truth. »  
+So:
+- Crowds can be early, late, wise, or wrong.
+- Many believers do not make a claim true.
+- A popular idea still needs reasons.
 
-The passage shows **Bandwagon Fallacy** in action: arguing that something is true because many people believe it.
+Key concept inside it
+Popularity:
+How many people accept an idea.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Arguing that something is true because many people believe it.
+Why it matters
+Explains why:
+- Large groups can still be mistaken.
+- Many believers do not create truth.
+- A common idea still has to earn its support.
 
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Arguing that something is true because many people believe it.
+The uncomfortable implication
+Belonging can feel safer than checking.
 
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: arguing that something is true because many people believe it.
-
-**In one sentence**  
-Bandwagon Fallacy is the label for reasoning that fits: Arguing that something is true because many people believe it.`,
-    expert: `## Bandwagon Fallacy — in-depth (Expert)
-
-**Definition**  
-Arguing that something is true because many people believe it.
-
-**Applied to this passage**  
-« Popular belief proves truth. »  
-
-Here, **Bandwagon Fallacy** is the right name because arguing that something is true because many people believe it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Arguing that something is true because many people believe it.
-
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Arguing that something is true because many people believe it.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: arguing that something is true because many people believe it.
-
-- **Example 4:** Picture sports or business results. People often reason as if arguing that something is true because many people believe it.
-
-- **Example 5:** In a family argument, watch for this pattern: Arguing that something is true because many people believe it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Bandwagon Fallacy** means Arguing that something is true because many people believe it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Social & Institutional Behaviors`,
+One-line version
+Bandwagon Fallacy = treating a claim as true because many people believe it.`,
   },
   675: {
-    beginner: `## Bandwagon Fallacy — in-depth (Beginner)
+    beginner: `Bandwagon Fallacy = treating a claim as true because many people believe it.`,
+    detail: `Bandwagon Fallacy
 
-**What this is, in plain English**  
-Arguing that something is true because many people believe it.
+Description:
+Something is treated as true because lots of people accept it.
+A crowd is not a proof.
 
-**The example you’re looking at**  
-« Following the crowd. »  
+Example (question)
+« Following the crowd. »
+This is the exact kind of move the question is testing.
 
-**Why this is Bandwagon Fallacy**  
-Arguing that something is true because many people believe it. That is what this label is pointing to in the passage above.
+Example (everyday)
+A trend is assumed to be correct just because it is popular.
 
-**Takeaway**  
-Arguing that something is true because many people believe it.`,
-    intermediate: `## Bandwagon Fallacy — in-depth (Intermediate)
+Example (another context)
+A decision is copied because everyone else is doing the same thing.
 
-**What this is, in plain English**  
-Arguing that something is true because many people believe it.
+How it works
+Popularity is confused with correctness.
 
-**This example**  
-« Following the crowd. »  
+So:
+- Crowds can be early, late, wise, or wrong.
+- Many believers do not make a claim true.
+- A popular idea still needs reasons.
 
-The passage shows **Bandwagon Fallacy** in action: arguing that something is true because many people believe it.
+Key concept inside it
+Popularity:
+How many people accept an idea.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Arguing that something is true because many people believe it.
+Why it matters
+Explains why:
+- Large groups can still be mistaken.
+- Many believers do not create truth.
+- A common idea still has to earn its support.
 
-- **Example 2:** Imagine a news headline or social post. The slip is the same: arguing that something is true because many people believe it.
+The uncomfortable implication
+Belonging can feel safer than checking.
 
-- **Example 3:** Picture a health or habits story. People often reason as if arguing that something is true because many people believe it.
-
-**In one sentence**  
-Bandwagon Fallacy is the label for reasoning that fits: Arguing that something is true because many people believe it.`,
-    expert: `## Bandwagon Fallacy — in-depth (Expert)
-
-**Definition**  
-Arguing that something is true because many people believe it.
-
-**Applied to this passage**  
-« Following the crowd. »  
-
-Here, **Bandwagon Fallacy** is the right name because arguing that something is true because many people believe it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Arguing that something is true because many people believe it.
-
-- **Example 2:** Imagine a news headline or social post. The slip is the same: arguing that something is true because many people believe it.
-
-- **Example 3:** Picture a health or habits story. People often reason as if arguing that something is true because many people believe it.
-
-- **Example 4:** In school grades or test scores, watch for this pattern: Arguing that something is true because many people believe it.
-
-- **Example 5:** Another everyday spot: a news headline or social post. Arguing that something is true because many people believe it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Bandwagon Fallacy** means Arguing that something is true because many people believe it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Social & Institutional Behaviors`,
+One-line version
+Bandwagon Fallacy = treating a claim as true because many people believe it.`,
   },
   676: {
-    beginner: `## Bare Assertion Fallacy — in-depth (Beginner)
+    beginner: `Bare Assertion Fallacy = treating a claim as proven just because it was stated.`,
+    detail: `Bare Assertion Fallacy
 
-**What this is, in plain English**  
-Stating a claim without evidence.
+Description:
+Someone states a claim as if saying it were enough.
+A statement is not the same thing as support.
 
-**The example you’re looking at**  
-« It's true because I say so. »  
+Example (question)
+« It's true because I say so. »
+This is the exact kind of move the question is testing.
 
-**Why this is Bare Assertion Fallacy**  
-Stating a claim without evidence. That is what this label is pointing to in the passage above.
+Example (everyday)
+A rumor is called true with no evidence at all.
 
-**Takeaway**  
-Stating a claim without evidence.`,
-    intermediate: `## Bare Assertion Fallacy — in-depth (Intermediate)
+Example (another context)
+A person says “trust me” instead of giving any reasons.
 
-**What this is, in plain English**  
-Stating a claim without evidence.
+How it works
+The claim is expected to stand on its own with no support.
 
-**This example**  
-« It's true because I say so. »  
+So:
+- A claim needs reasons, not just confidence.
+- Repeating it louder does not make it stronger.
+- Without evidence, the statement is just an assertion.
 
-The passage shows **Bare Assertion Fallacy** in action: stating a claim without evidence.
+Key concept inside it
+Assertion:
+A claim offered without support.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: stating a claim without evidence.
+Why it matters
+Explains why:
+- A claim needs reasons, not just volume.
+- Confidence is not proof.
+- Evidence is what separates a claim from a bare opinion.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if stating a claim without evidence.
+The uncomfortable implication
+A short, sharp sentence can sound decisive while proving nothing.
 
-- **Example 3:** In sports or business results, watch for this pattern: Stating a claim without evidence.
-
-**In one sentence**  
-Bare Assertion Fallacy is the label for reasoning that fits: Stating a claim without evidence.`,
-    expert: `## Bare Assertion Fallacy — in-depth (Expert)
-
-**Definition**  
-Stating a claim without evidence.
-
-**Applied to this passage**  
-« It's true because I say so. »  
-
-Here, **Bare Assertion Fallacy** is the right name because stating a claim without evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: stating a claim without evidence.
-
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if stating a claim without evidence.
-
-- **Example 3:** In sports or business results, watch for this pattern: Stating a claim without evidence.
-
-- **Example 4:** Another everyday spot: a family argument. Stating a claim without evidence.
-
-- **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Stating a claim without evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Bare Assertion Fallacy** means Stating a claim without evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Bare Assertion Fallacy = treating a claim as proven just because it was stated.`,
   },
   677: {
-    beginner: `## Bare Assertion Fallacy — in-depth (Beginner)
+    beginner: `Bare Assertion Fallacy = treating a claim as proven just because it was stated.`,
+    detail: `Bare Assertion Fallacy
 
-**What this is, in plain English**  
-Stating a claim without evidence.
+Description:
+Someone states a claim as if saying it were enough.
+A statement is not the same thing as support.
 
-**The example you’re looking at**  
-« No proof needed. »  
+Example (question)
+« No proof needed. »
+This is the exact kind of move the question is testing.
 
-**Why this is Bare Assertion Fallacy**  
-Stating a claim without evidence. That is what this label is pointing to in the passage above.
+Example (everyday)
+A rumor is called true with no evidence at all.
 
-**Takeaway**  
-Stating a claim without evidence.`,
-    intermediate: `## Bare Assertion Fallacy — in-depth (Intermediate)
+Example (another context)
+A person says “trust me” instead of giving any reasons.
 
-**What this is, in plain English**  
-Stating a claim without evidence.
+How it works
+The claim is expected to stand on its own with no support.
 
-**This example**  
-« No proof needed. »  
+So:
+- A claim needs reasons, not just confidence.
+- Repeating it louder does not make it stronger.
+- Without evidence, the statement is just an assertion.
 
-The passage shows **Bare Assertion Fallacy** in action: stating a claim without evidence.
+Key concept inside it
+Assertion:
+A claim offered without support.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if stating a claim without evidence.
+Why it matters
+Explains why:
+- A claim needs reasons, not just volume.
+- Confidence is not proof.
+- Evidence is what separates a claim from a bare opinion.
 
-- **Example 2:** In a health or habits story, watch for this pattern: Stating a claim without evidence.
+The uncomfortable implication
+A short, sharp sentence can sound decisive while proving nothing.
 
-- **Example 3:** Another everyday spot: school grades or test scores. Stating a claim without evidence.
-
-**In one sentence**  
-Bare Assertion Fallacy is the label for reasoning that fits: Stating a claim without evidence.`,
-    expert: `## Bare Assertion Fallacy — in-depth (Expert)
-
-**Definition**  
-Stating a claim without evidence.
-
-**Applied to this passage**  
-« No proof needed. »  
-
-Here, **Bare Assertion Fallacy** is the right name because stating a claim without evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if stating a claim without evidence.
-
-- **Example 2:** In a health or habits story, watch for this pattern: Stating a claim without evidence.
-
-- **Example 3:** Another everyday spot: school grades or test scores. Stating a claim without evidence.
-
-- **Example 4:** **Setting:** a news headline or social post. **What goes wrong:** Stating a claim without evidence.
-
-- **Example 5:** Imagine a health or habits story. The slip is the same: stating a claim without evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Bare Assertion Fallacy** means Stating a claim without evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Bare Assertion Fallacy = treating a claim as proven just because it was stated.`,
   },
   678: {
-    beginner: `## Bare Assertion Fallacy — in-depth (Beginner)
+    beginner: `Bare Assertion Fallacy = treating a claim as proven just because it was stated.`,
+    detail: `Bare Assertion Fallacy
 
-**What this is, in plain English**  
-Stating a claim without evidence.
+Description:
+Someone states a claim as if saying it were enough.
+A statement is not the same thing as support.
 
-**The example you’re looking at**  
-« Unsubstantiated claim. »  
+Example (question)
+« Unsubstantiated claim. »
+This is the exact kind of move the question is testing.
 
-**Why this is Bare Assertion Fallacy**  
-Stating a claim without evidence. That is what this label is pointing to in the passage above.
+Example (everyday)
+A rumor is called true with no evidence at all.
 
-**Takeaway**  
-Stating a claim without evidence.`,
-    intermediate: `## Bare Assertion Fallacy — in-depth (Intermediate)
+Example (another context)
+A person says “trust me” instead of giving any reasons.
 
-**What this is, in plain English**  
-Stating a claim without evidence.
+How it works
+The claim is expected to stand on its own with no support.
 
-**This example**  
-« Unsubstantiated claim. »  
+So:
+- A claim needs reasons, not just confidence.
+- Repeating it louder does not make it stronger.
+- Without evidence, the statement is just an assertion.
 
-The passage shows **Bare Assertion Fallacy** in action: stating a claim without evidence.
+Key concept inside it
+Assertion:
+A claim offered without support.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Stating a claim without evidence.
+Why it matters
+Explains why:
+- A claim needs reasons, not just volume.
+- Confidence is not proof.
+- Evidence is what separates a claim from a bare opinion.
 
-- **Example 2:** Another everyday spot: sports or business results. Stating a claim without evidence.
+The uncomfortable implication
+A short, sharp sentence can sound decisive while proving nothing.
 
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Stating a claim without evidence.
-
-**In one sentence**  
-Bare Assertion Fallacy is the label for reasoning that fits: Stating a claim without evidence.`,
-    expert: `## Bare Assertion Fallacy — in-depth (Expert)
-
-**Definition**  
-Stating a claim without evidence.
-
-**Applied to this passage**  
-« Unsubstantiated claim. »  
-
-Here, **Bare Assertion Fallacy** is the right name because stating a claim without evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Stating a claim without evidence.
-
-- **Example 2:** Another everyday spot: sports or business results. Stating a claim without evidence.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Stating a claim without evidence.
-
-- **Example 4:** Imagine a policy or workplace discussion. The slip is the same: stating a claim without evidence.
-
-- **Example 5:** Picture sports or business results. People often reason as if stating a claim without evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Bare Assertion Fallacy** means Stating a claim without evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Bare Assertion Fallacy = treating a claim as proven just because it was stated.`,
   },
   679: {
-    beginner: `## Bifurcation — in-depth (Beginner)
+    beginner: `Bifurcation = forcing a problem into only two choices.`,
+    detail: `Bifurcation
 
-**What this is, in plain English**  
-Presenting only two options when more exist.
+Description:
+A situation is forced into only two choices when more exist.
+Real problems are usually not binary.
 
-**The example you’re looking at**  
-« Either you're with us or against us. »  
+Example (question)
+« Either you're with us or against us. »
+This is the exact kind of move the question is testing.
 
-**Why this is Bifurcation**  
-Presenting only two options when more exist. That is what this label is pointing to in the passage above.
+Example (everyday)
+A debate is framed as total success or total failure.
 
-**Takeaway**  
-Presenting only two options when more exist.`,
-    intermediate: `## Bifurcation — in-depth (Intermediate)
+Example (another context)
+Someone says you are either with us or against us.
 
-**What this is, in plain English**  
-Presenting only two options when more exist.
+How it works
+The middle ground and other possibilities are erased.
 
-**This example**  
-« Either you're with us or against us. »  
+So:
+- Real situations often have several reasonable paths.
+- False choices hide nuance.
+- Good decisions often live between extremes.
 
-The passage shows **Bifurcation** in action: presenting only two options when more exist.
+Key concept inside it
+Two options:
+A fake either-or choice.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Presenting only two options when more exist.
+Why it matters
+Explains why:
+- Many problems have more than two reasonable outcomes.
+- A false alternative can make a complex issue look simple.
+- Nuance matters when the real choice is not binary.
 
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Presenting only two options when more exist.
+The uncomfortable implication
+A neat either-or can distort a messy real-world problem.
 
-- **Example 3:** Imagine a news headline or social post. The slip is the same: presenting only two options when more exist.
-
-**In one sentence**  
-Bifurcation is the label for reasoning that fits: Presenting only two options when more exist.`,
-    expert: `## Bifurcation — in-depth (Expert)
-
-**Definition**  
-Presenting only two options when more exist.
-
-**Applied to this passage**  
-« Either you're with us or against us. »  
-
-Here, **Bifurcation** is the right name because presenting only two options when more exist.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Presenting only two options when more exist.
-
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Presenting only two options when more exist.
-
-- **Example 3:** Imagine a news headline or social post. The slip is the same: presenting only two options when more exist.
-
-- **Example 4:** Picture a health or habits story. People often reason as if presenting only two options when more exist.
-
-- **Example 5:** In school grades or test scores, watch for this pattern: Presenting only two options when more exist.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Bifurcation** means Presenting only two options when more exist.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Bifurcation = forcing a problem into only two choices.`,
   },
   680: {
-    beginner: `## Bifurcation — in-depth (Beginner)
+    beginner: `Bifurcation = forcing a problem into only two choices.`,
+    detail: `Bifurcation
 
-**What this is, in plain English**  
-Presenting only two options when more exist.
+Description:
+A situation is forced into only two choices when more exist.
+Real problems are usually not binary.
 
-**The example you’re looking at**  
-« Black or white, no gray. »  
+Example (question)
+« Black or white, no gray. »
+This is the exact kind of move the question is testing.
 
-**Why this is Bifurcation**  
-Presenting only two options when more exist. That is what this label is pointing to in the passage above.
+Example (everyday)
+A debate is framed as total success or total failure.
 
-**Takeaway**  
-Presenting only two options when more exist.`,
-    intermediate: `## Bifurcation — in-depth (Intermediate)
+Example (another context)
+Someone says you are either with us or against us.
 
-**What this is, in plain English**  
-Presenting only two options when more exist.
+How it works
+The middle ground and other possibilities are erased.
 
-**This example**  
-« Black or white, no gray. »  
+So:
+- Real situations often have several reasonable paths.
+- False choices hide nuance.
+- Good decisions often live between extremes.
 
-The passage shows **Bifurcation** in action: presenting only two options when more exist.
+Key concept inside it
+Two options:
+A fake either-or choice.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Presenting only two options when more exist.
+Why it matters
+Explains why:
+- Many problems have more than two reasonable outcomes.
+- A false alternative can make a complex issue look simple.
+- Nuance matters when the real choice is not binary.
 
-- **Example 2:** Imagine a family argument. The slip is the same: presenting only two options when more exist.
+The uncomfortable implication
+A neat either-or can distort a messy real-world problem.
 
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if presenting only two options when more exist.
-
-**In one sentence**  
-Bifurcation is the label for reasoning that fits: Presenting only two options when more exist.`,
-    expert: `## Bifurcation — in-depth (Expert)
-
-**Definition**  
-Presenting only two options when more exist.
-
-**Applied to this passage**  
-« Black or white, no gray. »  
-
-Here, **Bifurcation** is the right name because presenting only two options when more exist.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Presenting only two options when more exist.
-
-- **Example 2:** Imagine a family argument. The slip is the same: presenting only two options when more exist.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if presenting only two options when more exist.
-
-- **Example 4:** In sports or business results, watch for this pattern: Presenting only two options when more exist.
-
-- **Example 5:** Another everyday spot: a family argument. Presenting only two options when more exist.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Bifurcation** means Presenting only two options when more exist.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Bifurcation = forcing a problem into only two choices.`,
   },
   681: {
     beginner: `## Bifurcation — in-depth (Beginner)
@@ -60329,1894 +59699,1264 @@ En une phrase
 Two wrongs make a right = Soutenir qu’une faute est acceptable parce qu’une autre faute existe déjà.`,
   },
   651: {
-    beginner: `## Two wrongs make a right — approfondi (Débutant)
+    beginner: `Amphibologie = une phrase est mal lue parce que sa grammaire est ambiguë.`,
+    detail: `Amphibologie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
+Description :
+Une phrase peut se lire de plusieurs façons à cause d’une grammaire ambiguë.
+Une tournure ambiguë peut sembler claire tout en cachant deux sens.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux a un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux a un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Two wrongs make a right**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Un panneau ou une consigne est compris de travers parce que la formulation prête à confusion.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.`,
-    intermediate: `## Two wrongs make a right — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Un titre ou un message bref laisse croire à un sens alors qu’il en existe deux.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
+Comment ça fonctionne
+On traite une phrase ambiguë comme si un seul sens était possible.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux a un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Une petite ambiguïté peut changer tout le sens.
+- Le lecteur peut être poussé vers la mauvaise conclusion.
+- Une pensée claire commence par une grammaire claire.
 
-Le passage montre **Two wrongs make a right** : une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
+Concept clé
+Grammaire ambiguë :
+Une structure de phrase qui permet plusieurs lectures.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une ambiguïté minime peut inverser complètement le sens.
+- Une phrase propre peut quand même dire la mauvaise chose.
+- La précision du langage fait partie de la précision de la pensée.
 
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
+L'implication inconfortable
+Une phrase peut paraître convaincante tout en voulant dire autre chose.
 
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Two wrongs make a right**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.`,
-    expert: `## Two wrongs make a right — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux a un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Two wrongs make a right** convient parce que une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Two wrongs make a right**, c’est Une erreur logique ou un biais cognitif impliquant Two wrongs make a right, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Amphibologie = une phrase est mal lue parce que sa grammaire est ambiguë.`,
   },
   652: {
-    beginner: `## Chewbacca defense — approfondi (Débutant)
+    beginner: `Appel aux conséquences = juger une affirmation par ses effets au lieu de ses preuves.`,
+    detail: `Appel aux conséquences
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+Description :
+On accepte ou on rejette une affirmation à cause des effets qu’on imagine.
+Des conséquences agréables ou terribles ne rendent pas une idée vraie ou fausse.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Chewbacca defense**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On rejette une réforme uniquement parce qu’on pense qu’elle sera gênante.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.`,
-    intermediate: `## Chewbacca defense — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On croit une théorie parce qu’elle serait rassurante si elle était vraie.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+Comment ça fonctionne
+L’effet supposé prend la place de la preuve.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Un bon résultat ne rend pas une affirmation vraie.
+- Un mauvais résultat ne la rend pas fausse.
+- Les preuves et les conséquences ne sont pas la même chose.
 
-Le passage montre **Chewbacca defense** : une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+Concept clé
+Conséquence :
+Ce qui arriverait si l’affirmation était vraie ou fausse.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Ce qu’on préfère ou redoute n’est pas la vérité.
+- Un résultat utile n’est pas une preuve.
+- L’émotion peut donner plus de force à une mauvaise idée.
 
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+L'implication inconfortable
+Le confort ou la peur peuvent masquer une mauvaise inférence.
 
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Chewbacca defense**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.`,
-    expert: `## Chewbacca defense — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Chewbacca defense** convient parce que une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Chewbacca defense**, c’est Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel aux conséquences = juger une affirmation par ses effets au lieu de ses preuves.`,
   },
   653: {
-    beginner: `## Chewbacca defense — approfondi (Débutant)
+    beginner: `Appel aux conséquences = juger une affirmation par ses effets au lieu de ses preuves.`,
+    detail: `Appel aux conséquences
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+Description :
+On accepte ou on rejette une affirmation à cause des effets qu’on imagine.
+Des conséquences agréables ou terribles ne rendent pas une idée vraie ou fausse.
 
-**L’exemple affiché**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Exemple (question)
+« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Chewbacca defense**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On rejette une réforme uniquement parce qu’on pense qu’elle sera gênante.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.`,
-    intermediate: `## Chewbacca defense — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On croit une théorie parce qu’elle serait rassurante si elle était vraie.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+Comment ça fonctionne
+L’effet supposé prend la place de la preuve.
 
-**Cet exemple**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Donc :
+- Un bon résultat ne rend pas une affirmation vraie.
+- Un mauvais résultat ne la rend pas fausse.
+- Les preuves et les conséquences ne sont pas la même chose.
 
-Le passage montre **Chewbacca defense** : une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+Concept clé
+Conséquence :
+Ce qui arriverait si l’affirmation était vraie ou fausse.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Ce qu’on préfère ou redoute n’est pas la vérité.
+- Un résultat utile n’est pas une preuve.
+- L’émotion peut donner plus de force à une mauvaise idée.
 
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+L'implication inconfortable
+Le confort ou la peur peuvent masquer une mauvaise inférence.
 
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Chewbacca defense**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.`,
-    expert: `## Chewbacca defense — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
-
-Ici, **Chewbacca defense** convient parce que une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Chewbacca defense**, c’est Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel aux conséquences = juger une affirmation par ses effets au lieu de ses preuves.`,
   },
   654: {
-    beginner: `## Chewbacca defense — approfondi (Débutant)
+    beginner: `Appel aux conséquences = juger une affirmation par ses effets au lieu de ses preuves.`,
+    detail: `Appel aux conséquences
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+Description :
+On accepte ou on rejette une affirmation à cause des effets qu’on imagine.
+Des conséquences agréables ou terribles ne rendent pas une idée vraie ou fausse.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Chewbacca defense**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On rejette une réforme uniquement parce qu’on pense qu’elle sera gênante.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.`,
-    intermediate: `## Chewbacca defense — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On croit une théorie parce qu’elle serait rassurante si elle était vraie.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+Comment ça fonctionne
+L’effet supposé prend la place de la preuve.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Un bon résultat ne rend pas une affirmation vraie.
+- Un mauvais résultat ne la rend pas fausse.
+- Les preuves et les conséquences ne sont pas la même chose.
 
-Le passage montre **Chewbacca defense** : une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+Concept clé
+Conséquence :
+Ce qui arriverait si l’affirmation était vraie ou fausse.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Ce qu’on préfère ou redoute n’est pas la vérité.
+- Un résultat utile n’est pas une preuve.
+- L’émotion peut donner plus de force à une mauvaise idée.
 
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
+L'implication inconfortable
+Le confort ou la peur peuvent masquer une mauvaise inférence.
 
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Chewbacca defense**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.`,
-    expert: `## Chewbacca defense — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Chewbacca defense** convient parce que une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Chewbacca defense**, c’est Une erreur logique ou un biais cognitif impliquant Chewbacca defense, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel aux conséquences = juger une affirmation par ses effets au lieu de ses preuves.`,
   },
   655: {
-    beginner: `## Plurium interrogationum — approfondi (Débutant)
+    beginner: `Appel à la flatterie = utiliser des compliments pour pousser à l’accord.`,
+    detail: `Appel à la flatterie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+Description :
+On flatte quelqu’un pour le pousser à accepter une idée.
+Un compliment peut faire plaisir sans être une raison.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Plurium interrogationum**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Un vendeur complimente le client avant de lui faire sa proposition.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.`,
-    intermediate: `## Plurium interrogationum — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Un collègue dit à quelqu’un qu’il est le plus brillant de la salle pour obtenir son accord.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+Comment ça fonctionne
+La flatterie sert à faire baisser la vigilance, pas à prouver quoi que ce soit.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Des mots agréables peuvent cacher de faibles raisons.
+- Se sentir apprécié ne prouve pas que l’idée est bonne.
+- Un compliment peut orienter une décision sans répondre au fond.
 
-Le passage montre **Plurium interrogationum** : une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+Concept clé
+Flatterie :
+Des compliments utilisés pour influencer un choix.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un ton chaleureux peut détourner de la faiblesse logique.
+- Être flatté n’est pas être convaincu par des preuves.
+- Un langage agréable peut tout de même manipuler.
 
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+L'implication inconfortable
+On peut se sentir valorisé tout en étant orienté.
 
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Plurium interrogationum**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.`,
-    expert: `## Plurium interrogationum — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Plurium interrogationum** convient parce que une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Plurium interrogationum**, c’est Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Appel à la flatterie = utiliser des compliments pour pousser à l’accord.`,
   },
   656: {
-    beginner: `## Plurium interrogationum — approfondi (Débutant)
+    beginner: `Appel à la flatterie = utiliser des compliments pour pousser à l’accord.`,
+    detail: `Appel à la flatterie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+Description :
+On flatte quelqu’un pour le pousser à accepter une idée.
+Un compliment peut faire plaisir sans être une raison.
 
-**L’exemple affiché**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Exemple (question)
+« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Plurium interrogationum**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Un vendeur complimente le client avant de lui faire sa proposition.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.`,
-    intermediate: `## Plurium interrogationum — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Un collègue dit à quelqu’un qu’il est le plus brillant de la salle pour obtenir son accord.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+Comment ça fonctionne
+La flatterie sert à faire baisser la vigilance, pas à prouver quoi que ce soit.
 
-**Cet exemple**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Donc :
+- Des mots agréables peuvent cacher de faibles raisons.
+- Se sentir apprécié ne prouve pas que l’idée est bonne.
+- Un compliment peut orienter une décision sans répondre au fond.
 
-Le passage montre **Plurium interrogationum** : une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+Concept clé
+Flatterie :
+Des compliments utilisés pour influencer un choix.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un ton chaleureux peut détourner de la faiblesse logique.
+- Être flatté n’est pas être convaincu par des preuves.
+- Un langage agréable peut tout de même manipuler.
 
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+L'implication inconfortable
+On peut se sentir valorisé tout en étant orienté.
 
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Plurium interrogationum**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.`,
-    expert: `## Plurium interrogationum — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
-
-Ici, **Plurium interrogationum** convient parce que une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Plurium interrogationum**, c’est Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Appel à la flatterie = utiliser des compliments pour pousser à l’accord.`,
   },
   657: {
-    beginner: `## Plurium interrogationum — approfondi (Débutant)
+    beginner: `Appel à la flatterie = utiliser des compliments pour pousser à l’accord.`,
+    detail: `Appel à la flatterie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+Description :
+On flatte quelqu’un pour le pousser à accepter une idée.
+Un compliment peut faire plaisir sans être une raison.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Plurium interrogationum**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Un vendeur complimente le client avant de lui faire sa proposition.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.`,
-    intermediate: `## Plurium interrogationum — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Un collègue dit à quelqu’un qu’il est le plus brillant de la salle pour obtenir son accord.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+Comment ça fonctionne
+La flatterie sert à faire baisser la vigilance, pas à prouver quoi que ce soit.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Des mots agréables peuvent cacher de faibles raisons.
+- Se sentir apprécié ne prouve pas que l’idée est bonne.
+- Un compliment peut orienter une décision sans répondre au fond.
 
-Le passage montre **Plurium interrogationum** : une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+Concept clé
+Flatterie :
+Des compliments utilisés pour influencer un choix.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un ton chaleureux peut détourner de la faiblesse logique.
+- Être flatté n’est pas être convaincu par des preuves.
+- Un langage agréable peut tout de même manipuler.
 
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
+L'implication inconfortable
+On peut se sentir valorisé tout en étant orienté.
 
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Plurium interrogationum**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.`,
-    expert: `## Plurium interrogationum — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Plurium interrogationum** convient parce que une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Plurium interrogationum**, c’est Une erreur logique ou un biais cognitif impliquant Plurium interrogationum, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Appel à la flatterie = utiliser des compliments pour pousser à l’accord.`,
   },
   658: {
-    beginner: `## Bifurcation — approfondi (Débutant)
+    beginner: `Appel à la pitié = essayer de convaincre en suscitant la compassion.`,
+    detail: `Appel à la pitié
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+Description :
+On essaie de gagner en suscitant la compassion au lieu de donner une vraie raison.
+Une histoire triste n’est pas une preuve pertinente.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Bifurcation**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Un élève demande un meilleur résultat parce qu’il a vécu une semaine terrible.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.`,
-    intermediate: `## Bifurcation — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Un candidat demande d’être embauché uniquement parce que sa situation est difficile.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+Comment ça fonctionne
+La sympathie remplace la justification.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- La compassion compte, mais elle ne décide pas de la vérité.
+- Un récit émouvant peut détourner de la vraie question.
+- Une décision juste a encore besoin de raisons pertinentes.
 
-Le passage montre **Bifurcation** : une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+Concept clé
+Pitié :
+Un sentiment de compassion utilisé comme raison.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- La gentillesse existe, mais elle ne remplace pas les preuves.
+- Une histoire difficile peut masquer le vrai sujet.
+- L’argument doit apporter des raisons adaptées à l’affirmation.
 
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+L'implication inconfortable
+Un récit touchant peut faire taire les questions importantes.
 
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Bifurcation**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.`,
-    expert: `## Bifurcation — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Bifurcation** convient parce que une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Bifurcation**, c’est Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appel à la pitié = essayer de convaincre en suscitant la compassion.`,
   },
   659: {
-    beginner: `## Bifurcation — approfondi (Débutant)
+    beginner: `Appel à la pitié = essayer de convaincre en suscitant la compassion.`,
+    detail: `Appel à la pitié
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+Description :
+On essaie de gagner en suscitant la compassion au lieu de donner une vraie raison.
+Une histoire triste n’est pas une preuve pertinente.
 
-**L’exemple affiché**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Exemple (question)
+« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Bifurcation**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Un élève demande un meilleur résultat parce qu’il a vécu une semaine terrible.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.`,
-    intermediate: `## Bifurcation — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Un candidat demande d’être embauché uniquement parce que sa situation est difficile.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+Comment ça fonctionne
+La sympathie remplace la justification.
 
-**Cet exemple**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Donc :
+- La compassion compte, mais elle ne décide pas de la vérité.
+- Un récit émouvant peut détourner de la vraie question.
+- Une décision juste a encore besoin de raisons pertinentes.
 
-Le passage montre **Bifurcation** : une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+Concept clé
+Pitié :
+Un sentiment de compassion utilisé comme raison.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- La gentillesse existe, mais elle ne remplace pas les preuves.
+- Une histoire difficile peut masquer le vrai sujet.
+- L’argument doit apporter des raisons adaptées à l’affirmation.
 
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+L'implication inconfortable
+Un récit touchant peut faire taire les questions importantes.
 
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Bifurcation**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.`,
-    expert: `## Bifurcation — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
-
-Ici, **Bifurcation** convient parce que une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Bifurcation**, c’est Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appel à la pitié = essayer de convaincre en suscitant la compassion.`,
   },
   660: {
-    beginner: `## Bifurcation — approfondi (Débutant)
+    beginner: `Appel à la pitié = essayer de convaincre en suscitant la compassion.`,
+    detail: `Appel à la pitié
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+Description :
+On essaie de gagner en suscitant la compassion au lieu de donner une vraie raison.
+Une histoire triste n’est pas une preuve pertinente.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Bifurcation**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Un élève demande un meilleur résultat parce qu’il a vécu une semaine terrible.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.`,
-    intermediate: `## Bifurcation — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Un candidat demande d’être embauché uniquement parce que sa situation est difficile.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+Comment ça fonctionne
+La sympathie remplace la justification.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- La compassion compte, mais elle ne décide pas de la vérité.
+- Un récit émouvant peut détourner de la vraie question.
+- Une décision juste a encore besoin de raisons pertinentes.
 
-Le passage montre **Bifurcation** : une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+Concept clé
+Pitié :
+Un sentiment de compassion utilisé comme raison.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- La gentillesse existe, mais elle ne remplace pas les preuves.
+- Une histoire difficile peut masquer le vrai sujet.
+- L’argument doit apporter des raisons adaptées à l’affirmation.
 
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
+L'implication inconfortable
+Un récit touchant peut faire taire les questions importantes.
 
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Bifurcation**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.`,
-    expert: `## Bifurcation — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Bifurcation** convient parce que une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Bifurcation**, c’est Une erreur logique ou un biais cognitif impliquant Bifurcation, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appel à la pitié = essayer de convaincre en suscitant la compassion.`,
   },
   661: {
-    beginner: `## Double talk — approfondi (Débutant)
+    beginner: `Appel au ridicule = rejeter une idée en s’en moquant.`,
+    detail: `Appel au ridicule
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+Description :
+On se moque d’une affirmation au lieu d’y répondre.
+Quelque chose de risible n’est pas forcément faux.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Double talk**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Quelqu’un rit d’une proposition au lieu d’expliquer ce qui ne va pas.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.`,
-    intermediate: `## Double talk — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Une politique est balayée d’un trait avec une blague plutôt qu’avec des raisons.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+Comment ça fonctionne
+La moquerie remplace l’analyse.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Le ridicule n’est pas une réfutation.
+- Une affirmation a encore besoin de raisons pour être rejetée.
+- L’humour peut cacher un vide argumentatif.
 
-Le passage montre **Double talk** : une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+Concept clé
+Moquerie :
+Utiliser le rire ou le mépris pour écarter une affirmation.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Être risible n’est pas la même chose qu’être faux.
+- Une phrase drôle peut empêcher de demander des preuves.
+- Une vraie réponse doit quand même traiter l’idée.
 
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+L'implication inconfortable
+Si la blague marche, la discussion peut s’arrêter trop tôt.
 
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Double talk**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.`,
-    expert: `## Double talk — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Double talk** convient parce que une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Double talk**, c’est Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel au ridicule = rejeter une idée en s’en moquant.`,
   },
   662: {
-    beginner: `## Double talk — approfondi (Débutant)
+    beginner: `Appel au ridicule = rejeter une idée en s’en moquant.`,
+    detail: `Appel au ridicule
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+Description :
+On se moque d’une affirmation au lieu d’y répondre.
+Quelque chose de risible n’est pas forcément faux.
 
-**L’exemple affiché**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Exemple (question)
+« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Double talk**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Quelqu’un rit d’une proposition au lieu d’expliquer ce qui ne va pas.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.`,
-    intermediate: `## Double talk — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Une politique est balayée d’un trait avec une blague plutôt qu’avec des raisons.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+Comment ça fonctionne
+La moquerie remplace l’analyse.
 
-**Cet exemple**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Donc :
+- Le ridicule n’est pas une réfutation.
+- Une affirmation a encore besoin de raisons pour être rejetée.
+- L’humour peut cacher un vide argumentatif.
 
-Le passage montre **Double talk** : une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+Concept clé
+Moquerie :
+Utiliser le rire ou le mépris pour écarter une affirmation.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Être risible n’est pas la même chose qu’être faux.
+- Une phrase drôle peut empêcher de demander des preuves.
+- Une vraie réponse doit quand même traiter l’idée.
 
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+L'implication inconfortable
+Si la blague marche, la discussion peut s’arrêter trop tôt.
 
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Double talk**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.`,
-    expert: `## Double talk — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
-
-Ici, **Double talk** convient parce que une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Double talk**, c’est Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel au ridicule = rejeter une idée en s’en moquant.`,
   },
   663: {
-    beginner: `## Double talk — approfondi (Débutant)
+    beginner: `Appel au ridicule = rejeter une idée en s’en moquant.`,
+    detail: `Appel au ridicule
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+Description :
+On se moque d’une affirmation au lieu d’y répondre.
+Quelque chose de risible n’est pas forcément faux.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Double talk**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Quelqu’un rit d’une proposition au lieu d’expliquer ce qui ne va pas.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.`,
-    intermediate: `## Double talk — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Une politique est balayée d’un trait avec une blague plutôt qu’avec des raisons.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+Comment ça fonctionne
+La moquerie remplace l’analyse.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Le ridicule n’est pas une réfutation.
+- Une affirmation a encore besoin de raisons pour être rejetée.
+- L’humour peut cacher un vide argumentatif.
 
-Le passage montre **Double talk** : une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+Concept clé
+Moquerie :
+Utiliser le rire ou le mépris pour écarter une affirmation.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Être risible n’est pas la même chose qu’être faux.
+- Une phrase drôle peut empêcher de demander des preuves.
+- Une vraie réponse doit quand même traiter l’idée.
 
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
+L'implication inconfortable
+Si la blague marche, la discussion peut s’arrêter trop tôt.
 
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Double talk**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.`,
-    expert: `## Double talk — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Double talk** convient parce que une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Double talk**, c’est Une erreur logique ou un biais cognitif impliquant Double talk, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel au ridicule = rejeter une idée en s’en moquant.`,
   },
   664: {
-    beginner: `## Weasel words — approfondi (Débutant)
+    beginner: `Sophisme d’association = juger une idée ou une personne par ses liens.`,
+    detail: `Sophisme d’association
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+Description :
+On juge une idée ou une personne d’après ses liens ou ses fréquentations.
+Un lien n’est pas une preuve.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Weasel words**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On rejette une bonne proposition parce qu’un groupe détesté la soutient aussi.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.`,
-    intermediate: `## Weasel words — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On soupçonne quelqu’un seulement parce qu’il fréquente les mauvaises personnes.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+Comment ça fonctionne
+Le lien est traité comme si c’était la preuve elle-même.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Les liens peuvent être suggestifs, mais ils ne démontrent rien seuls.
+- Une thèse doit être jugée sur ses raisons propres.
+- On peut salir une idée sans toucher à sa logique.
 
-Le passage montre **Weasel words** : une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+Concept clé
+Association :
+Un lien avec quelqu’un ou quelque chose confondu avec une preuve.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une connexion peut compter, mais elle ne suffit pas à elle seule.
+- Une thèse doit être évaluée sur ses propres raisons.
+- On peut attaquer une idée sans jamais répondre à son raisonnement.
 
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+L'implication inconfortable
+L’étiquette autour d’une idée peut devenir une arme contre l’idée elle-même.
 
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Weasel words**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.`,
-    expert: `## Weasel words — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Weasel words** convient parce que une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Weasel words**, c’est Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Sophisme d’association = juger une idée ou une personne par ses liens.`,
   },
   665: {
-    beginner: `## Weasel words — approfondi (Débutant)
+    beginner: `Sophisme d’association = juger une idée ou une personne par ses liens.`,
+    detail: `Sophisme d’association
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+Description :
+On juge une idée ou une personne d’après ses liens ou ses fréquentations.
+Un lien n’est pas une preuve.
 
-**L’exemple affiché**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Exemple (question)
+« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Weasel words**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On rejette une bonne proposition parce qu’un groupe détesté la soutient aussi.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.`,
-    intermediate: `## Weasel words — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On soupçonne quelqu’un seulement parce qu’il fréquente les mauvaises personnes.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+Comment ça fonctionne
+Le lien est traité comme si c’était la preuve elle-même.
 
-**Cet exemple**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Donc :
+- Les liens peuvent être suggestifs, mais ils ne démontrent rien seuls.
+- Une thèse doit être jugée sur ses raisons propres.
+- On peut salir une idée sans toucher à sa logique.
 
-Le passage montre **Weasel words** : une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+Concept clé
+Association :
+Un lien avec quelqu’un ou quelque chose confondu avec une preuve.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une connexion peut compter, mais elle ne suffit pas à elle seule.
+- Une thèse doit être évaluée sur ses propres raisons.
+- On peut attaquer une idée sans jamais répondre à son raisonnement.
 
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+L'implication inconfortable
+L’étiquette autour d’une idée peut devenir une arme contre l’idée elle-même.
 
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Weasel words**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.`,
-    expert: `## Weasel words — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
-
-Ici, **Weasel words** convient parce que une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Weasel words**, c’est Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Sophisme d’association = juger une idée ou une personne par ses liens.`,
   },
   666: {
-    beginner: `## Weasel words — approfondi (Débutant)
+    beginner: `Sophisme d’association = juger une idée ou une personne par ses liens.`,
+    detail: `Sophisme d’association
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+Description :
+On juge une idée ou une personne d’après ses liens ou ses fréquentations.
+Un lien n’est pas une preuve.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Weasel words**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On rejette une bonne proposition parce qu’un groupe détesté la soutient aussi.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.`,
-    intermediate: `## Weasel words — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On soupçonne quelqu’un seulement parce qu’il fréquente les mauvaises personnes.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+Comment ça fonctionne
+Le lien est traité comme si c’était la preuve elle-même.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Les liens peuvent être suggestifs, mais ils ne démontrent rien seuls.
+- Une thèse doit être jugée sur ses raisons propres.
+- On peut salir une idée sans toucher à sa logique.
 
-Le passage montre **Weasel words** : une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+Concept clé
+Association :
+Un lien avec quelqu’un ou quelque chose confondu avec une preuve.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une connexion peut compter, mais elle ne suffit pas à elle seule.
+- Une thèse doit être évaluée sur ses propres raisons.
+- On peut attaquer une idée sans jamais répondre à son raisonnement.
 
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
+L'implication inconfortable
+L’étiquette autour d’une idée peut devenir une arme contre l’idée elle-même.
 
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Weasel words**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.`,
-    expert: `## Weasel words — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Weasel words** convient parce que une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Weasel words**, c’est Une erreur logique ou un biais cognitif impliquant Weasel words, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Sophisme d’association = juger une idée ou une personne par ses liens.`,
   },
   667: {
-    beginner: `## Deepity — approfondi (Débutant)
+    beginner: `Attaquer la preuve = rejeter une affirmation en visant sa source.`,
+    detail: `Attaquer la preuve
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+Description :
+On rejette une preuve en s’attaquant à sa source au lieu d’examiner son contenu.
+Un mauvais messager ne rend pas automatiquement le message faux.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Deepity**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On balaie une étude parce que la personne qui la cite est impopulaire.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.`,
-    intermediate: `## Deepity — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On ignore un témoin sans vérifier ce qu’il a réellement dit.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+Comment ça fonctionne
+On vise la source plutôt que la preuve elle-même.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Une source faible peut compter, mais il faut quand même examiner le contenu.
+- Une bonne preuve peut venir d’une personne imparfaite.
+- Critiquer le messager ne répond pas à l’argument.
 
-Le passage montre **Deepity** : une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+Concept clé
+Source :
+L’origine de la preuve, pas la preuve elle-même.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Il faut examiner la preuve, pas seulement la personne qui l’apporte.
+- Une mauvaise source ne rend pas automatiquement une affirmation fausse.
+- Attaquer le messager peut masquer le fait qu’on n’a jamais répondu au fond.
 
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+L'implication inconfortable
+On peut avoir l’air de répondre tout en évitant la vraie question.
 
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Deepity**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.`,
-    expert: `## Deepity — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Deepity** convient parce que une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Deepity**, c’est Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Attaquer la preuve = rejeter une affirmation en visant sa source.`,
   },
   668: {
-    beginner: `## Deepity — approfondi (Débutant)
+    beginner: `Attaquer la preuve = rejeter une affirmation en visant sa source.`,
+    detail: `Attaquer la preuve
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+Description :
+On rejette une preuve en s’attaquant à sa source au lieu d’examiner son contenu.
+Un mauvais messager ne rend pas automatiquement le message faux.
 
-**L’exemple affiché**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Exemple (question)
+« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Deepity**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On balaie une étude parce que la personne qui la cite est impopulaire.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.`,
-    intermediate: `## Deepity — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On ignore un témoin sans vérifier ce qu’il a réellement dit.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+Comment ça fonctionne
+On vise la source plutôt que la preuve elle-même.
 
-**Cet exemple**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Donc :
+- Une source faible peut compter, mais il faut quand même examiner le contenu.
+- Une bonne preuve peut venir d’une personne imparfaite.
+- Critiquer le messager ne répond pas à l’argument.
 
-Le passage montre **Deepity** : une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+Concept clé
+Source :
+L’origine de la preuve, pas la preuve elle-même.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Il faut examiner la preuve, pas seulement la personne qui l’apporte.
+- Une mauvaise source ne rend pas automatiquement une affirmation fausse.
+- Attaquer le messager peut masquer le fait qu’on n’a jamais répondu au fond.
 
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+L'implication inconfortable
+On peut avoir l’air de répondre tout en évitant la vraie question.
 
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Deepity**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.`,
-    expert: `## Deepity — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
-
-Ici, **Deepity** convient parce que une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Deepity**, c’est Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Attaquer la preuve = rejeter une affirmation en visant sa source.`,
   },
   669: {
-    beginner: `## Deepity — approfondi (Débutant)
+    beginner: `Attaquer la preuve = rejeter une affirmation en visant sa source.`,
+    detail: `Attaquer la preuve
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+Description :
+On rejette une preuve en s’attaquant à sa source au lieu d’examiner son contenu.
+Un mauvais messager ne rend pas automatiquement le message faux.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Deepity**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On balaie une étude parce que la personne qui la cite est impopulaire.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.`,
-    intermediate: `## Deepity — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On ignore un témoin sans vérifier ce qu’il a réellement dit.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+Comment ça fonctionne
+On vise la source plutôt que la preuve elle-même.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Une source faible peut compter, mais il faut quand même examiner le contenu.
+- Une bonne preuve peut venir d’une personne imparfaite.
+- Critiquer le messager ne répond pas à l’argument.
 
-Le passage montre **Deepity** : une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+Concept clé
+Source :
+L’origine de la preuve, pas la preuve elle-même.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Il faut examiner la preuve, pas seulement la personne qui l’apporte.
+- Une mauvaise source ne rend pas automatiquement une affirmation fausse.
+- Attaquer le messager peut masquer le fait qu’on n’a jamais répondu au fond.
 
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
+L'implication inconfortable
+On peut avoir l’air de répondre tout en évitant la vraie question.
 
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Deepity**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.`,
-    expert: `## Deepity — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Deepity** convient parce que une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Deepity**, c’est Une erreur logique ou un biais cognitif impliquant Deepity, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Attaquer la preuve = rejeter une affirmation en visant sa source.`,
   },
   670: {
-    beginner: `## Euphemism treadmill — approfondi (Débutant)
+    beginner: `Appel à l’autorité = croire une affirmation parce qu’une autorité la dit.`,
+    detail: `Appel à l’autorité
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+Description :
+On prend une affirmation pour vraie uniquement parce qu’une autorité l’a dite.
+Le statut n’est pas une preuve.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Euphemism treadmill**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On accepte l’avis d’une célébrité comme s’il s’agissait d’un fait.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.`,
-    intermediate: `## Euphemism treadmill — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On traite la parole d’un responsable comme une démonstration.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+Comment ça fonctionne
+Le rang remplace le raisonnement.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Un expert peut se tromper hors de son domaine.
+- L’autorité peut orienter, mais elle ne remplace pas la preuve.
+- Les faits restent nécessaires.
 
-Le passage montre **Euphemism treadmill** : une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+Concept clé
+Autorité :
+Une personne influente ou experte qu’on traite comme infaillible.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Le respect ne remplace pas la preuve.
+- Même un expert doit s’appuyer sur des faits quand l’affirmation n’est pas évidente.
+- Une bonne source peut orienter sans trancher le sujet.
 
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+L'implication inconfortable
+Le respect peut devenir un raccourci pour éviter de vérifier.
 
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Euphemism treadmill**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.`,
-    expert: `## Euphemism treadmill — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Euphemism treadmill** convient parce que une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Euphemism treadmill**, c’est Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appel à l’autorité = croire une affirmation parce qu’une autorité la dit.`,
   },
   671: {
-    beginner: `## Euphemism treadmill — approfondi (Débutant)
+    beginner: `Appel à l’autorité = croire une affirmation parce qu’une autorité la dit.`,
+    detail: `Appel à l’autorité
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+Description :
+On prend une affirmation pour vraie uniquement parce qu’une autorité l’a dite.
+Le statut n’est pas une preuve.
 
-**L’exemple affiché**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Exemple (question)
+« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Euphemism treadmill**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On accepte l’avis d’une célébrité comme s’il s’agissait d’un fait.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.`,
-    intermediate: `## Euphemism treadmill — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On traite la parole d’un responsable comme une démonstration.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+Comment ça fonctionne
+Le rang remplace le raisonnement.
 
-**Cet exemple**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Donc :
+- Un expert peut se tromper hors de son domaine.
+- L’autorité peut orienter, mais elle ne remplace pas la preuve.
+- Les faits restent nécessaires.
 
-Le passage montre **Euphemism treadmill** : une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+Concept clé
+Autorité :
+Une personne influente ou experte qu’on traite comme infaillible.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Le respect ne remplace pas la preuve.
+- Même un expert doit s’appuyer sur des faits quand l’affirmation n’est pas évidente.
+- Une bonne source peut orienter sans trancher le sujet.
 
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+L'implication inconfortable
+Le respect peut devenir un raccourci pour éviter de vérifier.
 
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Euphemism treadmill**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.`,
-    expert: `## Euphemism treadmill — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
-
-Ici, **Euphemism treadmill** convient parce que une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Euphemism treadmill**, c’est Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appel à l’autorité = croire une affirmation parce qu’une autorité la dit.`,
   },
   672: {
-    beginner: `## Euphemism treadmill — approfondi (Débutant)
+    beginner: `Appel à l’autorité = croire une affirmation parce qu’une autorité la dit.`,
+    detail: `Appel à l’autorité
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+Description :
+On prend une affirmation pour vraie uniquement parce qu’une autorité l’a dite.
+Le statut n’est pas une preuve.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Euphemism treadmill**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On accepte l’avis d’une célébrité comme s’il s’agissait d’un fait.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.`,
-    intermediate: `## Euphemism treadmill — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On traite la parole d’un responsable comme une démonstration.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+Comment ça fonctionne
+Le rang remplace le raisonnement.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Un expert peut se tromper hors de son domaine.
+- L’autorité peut orienter, mais elle ne remplace pas la preuve.
+- Les faits restent nécessaires.
 
-Le passage montre **Euphemism treadmill** : une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+Concept clé
+Autorité :
+Une personne influente ou experte qu’on traite comme infaillible.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Le respect ne remplace pas la preuve.
+- Même un expert doit s’appuyer sur des faits quand l’affirmation n’est pas évidente.
+- Une bonne source peut orienter sans trancher le sujet.
 
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
+L'implication inconfortable
+Le respect peut devenir un raccourci pour éviter de vérifier.
 
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Euphemism treadmill**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.`,
-    expert: `## Euphemism treadmill — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Euphemism treadmill** convient parce que une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Euphemism treadmill**, c’est Une erreur logique ou un biais cognitif impliquant Euphemism treadmill, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Appel à l’autorité = croire une affirmation parce qu’une autorité la dit.`,
   },
   673: {
-    beginner: `## Dysphemism — approfondi (Débutant)
+    beginner: `Appel à la popularité = prendre une affirmation pour vraie parce qu’elle est populaire.`,
+    detail: `Appel à la popularité
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+Description :
+On croit quelque chose parce que beaucoup de gens y croient.
+Une foule n’est pas une preuve.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Dysphemism**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On suppose qu’une tendance est juste parce qu’elle est populaire.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.`,
-    intermediate: `## Dysphemism — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On copie une décision parce que tout le monde fait pareil.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+Comment ça fonctionne
+La popularité est confondue avec la vérité.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Les foules peuvent se tromper.
+- Beaucoup de croyants ne rendent pas une idée vraie.
+- Une idée populaire a encore besoin de raisons.
 
-Le passage montre **Dysphemism** : une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+Concept clé
+Popularité :
+Le nombre de personnes qui acceptent une idée.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un grand groupe peut encore avoir tort.
+- Beaucoup de croyants ne créent pas la vérité.
+- Une idée fréquente doit quand même être justifiée.
 
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+L'implication inconfortable
+Suivre le groupe peut sembler plus simple que vérifier.
 
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Dysphemism**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.`,
-    expert: `## Dysphemism — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Dysphemism** convient parce que une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Dysphemism**, c’est Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à la popularité = prendre une affirmation pour vraie parce qu’elle est populaire.`,
   },
   674: {
-    beginner: `## Dysphemism — approfondi (Débutant)
+    beginner: `Appel à la popularité = prendre une affirmation pour vraie parce qu’elle est populaire.`,
+    detail: `Appel à la popularité
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+Description :
+On croit quelque chose parce que beaucoup de gens y croient.
+Une foule n’est pas une preuve.
 
-**L’exemple affiché**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Exemple (question)
+« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Dysphemism**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On suppose qu’une tendance est juste parce qu’elle est populaire.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.`,
-    intermediate: `## Dysphemism — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On copie une décision parce que tout le monde fait pareil.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+Comment ça fonctionne
+La popularité est confondue avec la vérité.
 
-**Cet exemple**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Donc :
+- Les foules peuvent se tromper.
+- Beaucoup de croyants ne rendent pas une idée vraie.
+- Une idée populaire a encore besoin de raisons.
 
-Le passage montre **Dysphemism** : une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+Concept clé
+Popularité :
+Le nombre de personnes qui acceptent une idée.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un grand groupe peut encore avoir tort.
+- Beaucoup de croyants ne créent pas la vérité.
+- Une idée fréquente doit quand même être justifiée.
 
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+L'implication inconfortable
+Suivre le groupe peut sembler plus simple que vérifier.
 
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Dysphemism**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.`,
-    expert: `## Dysphemism — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
-
-Ici, **Dysphemism** convient parce que une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Dysphemism**, c’est Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à la popularité = prendre une affirmation pour vraie parce qu’elle est populaire.`,
   },
   675: {
-    beginner: `## Dysphemism — approfondi (Débutant)
+    beginner: `Appel à la popularité = prendre une affirmation pour vraie parce qu’elle est populaire.`,
+    detail: `Appel à la popularité
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+Description :
+On croit quelque chose parce que beaucoup de gens y croient.
+Une foule n’est pas une preuve.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Dysphemism**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On suppose qu’une tendance est juste parce qu’elle est populaire.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.`,
-    intermediate: `## Dysphemism — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On copie une décision parce que tout le monde fait pareil.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+Comment ça fonctionne
+La popularité est confondue avec la vérité.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Les foules peuvent se tromper.
+- Beaucoup de croyants ne rendent pas une idée vraie.
+- Une idée populaire a encore besoin de raisons.
 
-Le passage montre **Dysphemism** : une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+Concept clé
+Popularité :
+Le nombre de personnes qui acceptent une idée.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un grand groupe peut encore avoir tort.
+- Beaucoup de croyants ne créent pas la vérité.
+- Une idée fréquente doit quand même être justifiée.
 
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
+L'implication inconfortable
+Suivre le groupe peut sembler plus simple que vérifier.
 
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Dysphemism**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.`,
-    expert: `## Dysphemism — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Dysphemism** convient parce que une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Dysphemism**, c’est Une erreur logique ou un biais cognitif impliquant Dysphemism, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à la popularité = prendre une affirmation pour vraie parce qu’elle est populaire.`,
   },
   676: {
-    beginner: `## Motte and Bailey — approfondi (Débutant)
+    beginner: `Assertion gratuite = prendre une affirmation pour prouvée simplement parce qu’elle a été dite.`,
+    detail: `Assertion gratuite
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+Description :
+On affirme quelque chose comme si le simple fait de le dire suffisait.
+Une affirmation n’est pas une preuve.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Motte and Bailey**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On dit qu’une rumeur est vraie sans donner le moindre élément.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.`,
-    intermediate: `## Motte and Bailey — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Quelqu’un répond simplement « fais-moi confiance » au lieu d’expliquer.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+Comment ça fonctionne
+La phrase est censée se soutenir elle-même.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Une thèse a besoin de raisons, pas seulement d’assurance.
+- Répéter plus fort ne la rend pas plus solide.
+- Sans preuve, on reste au niveau de l’opinion.
 
-Le passage montre **Motte and Bailey** : une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+Concept clé
+Assertion :
+Une affirmation donnée sans soutien.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une thèse a besoin de raisons, pas juste d’un ton assuré.
+- La confiance n’est pas une preuve.
+- Les preuves distinguent une affirmation d’une simple opinion.
 
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+L'implication inconfortable
+Une phrase brève peut sembler décisive tout en ne prouvant rien.
 
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Motte and Bailey**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.`,
-    expert: `## Motte and Bailey — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Motte and Bailey** convient parce que une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Motte and Bailey**, c’est Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Assertion gratuite = prendre une affirmation pour prouvée simplement parce qu’elle a été dite.`,
   },
   677: {
-    beginner: `## Motte and Bailey — approfondi (Débutant)
+    beginner: `Assertion gratuite = prendre une affirmation pour prouvée simplement parce qu’elle a été dite.`,
+    detail: `Assertion gratuite
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+Description :
+On affirme quelque chose comme si le simple fait de le dire suffisait.
+Une affirmation n’est pas une preuve.
 
-**L’exemple affiché**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Exemple (question)
+« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Motte and Bailey**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On dit qu’une rumeur est vraie sans donner le moindre élément.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.`,
-    intermediate: `## Motte and Bailey — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Quelqu’un répond simplement « fais-moi confiance » au lieu d’expliquer.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+Comment ça fonctionne
+La phrase est censée se soutenir elle-même.
 
-**Cet exemple**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Donc :
+- Une thèse a besoin de raisons, pas seulement d’assurance.
+- Répéter plus fort ne la rend pas plus solide.
+- Sans preuve, on reste au niveau de l’opinion.
 
-Le passage montre **Motte and Bailey** : une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+Concept clé
+Assertion :
+Une affirmation donnée sans soutien.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une thèse a besoin de raisons, pas juste d’un ton assuré.
+- La confiance n’est pas une preuve.
+- Les preuves distinguent une affirmation d’une simple opinion.
 
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+L'implication inconfortable
+Une phrase brève peut sembler décisive tout en ne prouvant rien.
 
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Motte and Bailey**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.`,
-    expert: `## Motte and Bailey — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
-
-Ici, **Motte and Bailey** convient parce que une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Motte and Bailey**, c’est Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Assertion gratuite = prendre une affirmation pour prouvée simplement parce qu’elle a été dite.`,
   },
   678: {
-    beginner: `## Motte and Bailey — approfondi (Débutant)
+    beginner: `Assertion gratuite = prendre une affirmation pour prouvée simplement parce qu’elle a été dite.`,
+    detail: `Assertion gratuite
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+Description :
+On affirme quelque chose comme si le simple fait de le dire suffisait.
+Une affirmation n’est pas une preuve.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Motte and Bailey**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On dit qu’une rumeur est vraie sans donner le moindre élément.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.`,
-    intermediate: `## Motte and Bailey — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Quelqu’un répond simplement « fais-moi confiance » au lieu d’expliquer.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+Comment ça fonctionne
+La phrase est censée se soutenir elle-même.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Une thèse a besoin de raisons, pas seulement d’assurance.
+- Répéter plus fort ne la rend pas plus solide.
+- Sans preuve, on reste au niveau de l’opinion.
 
-Le passage montre **Motte and Bailey** : une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+Concept clé
+Assertion :
+Une affirmation donnée sans soutien.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une thèse a besoin de raisons, pas juste d’un ton assuré.
+- La confiance n’est pas une preuve.
+- Les preuves distinguent une affirmation d’une simple opinion.
 
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
+L'implication inconfortable
+Une phrase brève peut sembler décisive tout en ne prouvant rien.
 
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Motte and Bailey**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.`,
-    expert: `## Motte and Bailey — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Motte and Bailey** convient parce que une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Motte and Bailey**, c’est Une erreur logique ou un biais cognitif impliquant Motte and Bailey, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Assertion gratuite = prendre une affirmation pour prouvée simplement parce qu’elle a été dite.`,
   },
   679: {
-    beginner: `## Kafka-trapping — approfondi (Débutant)
+    beginner: `Fausse dichotomie = forcer un problème à n’avoir que deux choix.`,
+    detail: `Fausse dichotomie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+Description :
+On enferme une situation dans seulement deux choix alors qu’il en existe d’autres.
+Les vrais problèmes ne sont presque jamais binaires.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Kafka-trapping**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Un débat est présenté comme un succès total ou un échec total.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.`,
-    intermediate: `## Kafka-trapping — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On dit à quelqu’un : « avec nous ou contre nous ». 
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+Comment ça fonctionne
+Les solutions intermédiaires et les autres possibilités disparaissent.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Beaucoup de situations ont plusieurs issues raisonnables.
+- Un faux choix efface la nuance.
+- Les bonnes décisions se trouvent souvent entre deux extrêmes.
 
-Le passage montre **Kafka-trapping** : une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+Concept clé
+Deux options :
+Un faux choix du type « soit l’un, soit l’autre ».
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Beaucoup de problèmes ont plus de deux issues raisonnables.
+- Une fausse alternative peut faire paraître un sujet complexe trop simple.
+- La nuance compte quand le vrai choix n’est pas binaire.
 
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+L'implication inconfortable
+Un faux choix net peut déformer un problème réel et brouillon.
 
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Kafka-trapping**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.`,
-    expert: `## Kafka-trapping — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Kafka-trapping** convient parce que une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Kafka-trapping**, c’est Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Fausse dichotomie = forcer un problème à n’avoir que deux choix.`,
   },
   680: {
-    beginner: `## Kafka-trapping — approfondi (Débutant)
+    beginner: `Fausse dichotomie = forcer un problème à n’avoir que deux choix.`,
+    detail: `Fausse dichotomie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+Description :
+On enferme une situation dans seulement deux choix alors qu’il en existe d’autres.
+Les vrais problèmes ne sont presque jamais binaires.
 
-**L’exemple affiché**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Exemple (question)
+« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Kafka-trapping**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Un débat est présenté comme un succès total ou un échec total.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.`,
-    intermediate: `## Kafka-trapping — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On dit à quelqu’un : « avec nous ou contre nous ». 
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+Comment ça fonctionne
+Les solutions intermédiaires et les autres possibilités disparaissent.
 
-**Cet exemple**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Donc :
+- Beaucoup de situations ont plusieurs issues raisonnables.
+- Un faux choix efface la nuance.
+- Les bonnes décisions se trouvent souvent entre deux extrêmes.
 
-Le passage montre **Kafka-trapping** : une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+Concept clé
+Deux options :
+Un faux choix du type « soit l’un, soit l’autre ».
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Beaucoup de problèmes ont plus de deux issues raisonnables.
+- Une fausse alternative peut faire paraître un sujet complexe trop simple.
+- La nuance compte quand le vrai choix n’est pas binaire.
 
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+L'implication inconfortable
+Un faux choix net peut déformer un problème réel et brouillon.
 
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Kafka-trapping**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.`,
-    expert: `## Kafka-trapping — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
-
-Ici, **Kafka-trapping** convient parce que une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Kafka-trapping**, c’est Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Fausse dichotomie = forcer un problème à n’avoir que deux choix.`,
   },
   681: {
     beginner: `## Kafka-trapping — approfondi (Débutant)
