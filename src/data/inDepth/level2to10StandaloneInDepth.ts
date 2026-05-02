@@ -17615,1894 +17615,1204 @@ One-line version
 undefined = Presenting two opposing views as being more balanced than the evidence supports.`,
   },
   531: {
-    beginner: `## False Balance — in-depth (Beginner)
+    beginner: `False Balance = Giving two sides equal weight when the evidence clearly does not.`,
+    detail: `False Balance
 
-**What this is, in plain English**  
-Presenting two opposing views as being more balanced than the evidence supports.
+Description:
+Giving two sides equal weight when the evidence clearly does not.
+The disagreement is treated as if both sides deserve the same trust.
 
-**The example you’re looking at**  
-« Balancing expert opinion with uninformed opinion. »  
+Example (question)
+« Balancing expert opinion with uninformed opinion. »
+The disagreement is treated as if both sides deserve the same trust.
 
-**Why this is False Balance**  
-Presenting two opposing views as being more balanced than the evidence supports. That is what this label is pointing to in the passage above.
+Example (other context)
+A broadcast puts an expert next to a random guesser and calls it fairness.
+Balance of airtime is not the same as balance of evidence.
 
-**Takeaway**  
-Presenting two opposing views as being more balanced than the evidence supports.`,
-    intermediate: `## False Balance — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Presenting two opposing views as being more balanced than the evidence supports.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Balancing expert opinion with uninformed opinion. »  
+Key concept inside it
+Evidence weight:
+How much support a claim gets from the facts, not from the format of the discussion.
 
-The passage shows **False Balance** in action: presenting two opposing views as being more balanced than the evidence supports.
+Why it matters
+Explains why:
+- It can make weak claims look respectable.
+- It confuses fairness of treatment with fairness of evidence.
+- It can hide where the actual support is.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
+The uncomfortable implication
+Equal time can still produce unequal truth.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Presenting two opposing views as being more balanced than the evidence supports.
-
-**In one sentence**  
-False Balance is the label for reasoning that fits: Presenting two opposing views as being more balanced than the evidence supports.`,
-    expert: `## False Balance — in-depth (Expert)
-
-**Definition**  
-Presenting two opposing views as being more balanced than the evidence supports.
-
-**Applied to this passage**  
-« Balancing expert opinion with uninformed opinion. »  
-
-Here, **False Balance** is the right name because presenting two opposing views as being more balanced than the evidence supports.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 2:** Picture a news headline or social post. People often reason as if presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 4:** Another everyday spot: school grades or test scores. Presenting two opposing views as being more balanced than the evidence supports.
-
-- **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** Presenting two opposing views as being more balanced than the evidence supports.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Balance** means Presenting two opposing views as being more balanced than the evidence supports.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+False Balance = Giving two sides equal weight when the evidence clearly does not.`,
   },
   532: {
-    beginner: `## False Dichotomy — in-depth (Beginner)
+    beginner: `False Dichotomy = Treating two options as if no middle ground exists.`,
+    detail: `False Dichotomy
 
-**What this is, in plain English**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Description:
+Treating two options as if no middle ground exists.
+A range of real possibilities gets squeezed into a fake either-or choice.
 
-**The example you’re looking at**  
-« You are either with us or against us. »  
+Example (question)
+« You are either with us or against us. »
+A range of real possibilities gets squeezed into a fake either-or choice.
 
-**Why this is False Dichotomy**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist. That is what this label is pointing to in the passage above.
+Example (other context)
+Someone says you are either with us or against us, even though neutrality or nuance exists.
+The world usually has more than two boxes.
 
-**Takeaway**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.`,
-    intermediate: `## False Dichotomy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« You are either with us or against us. »  
+Key concept inside it
+Middle ground:
+A real alternative that sits between or outside the two choices being offered.
 
-The passage shows **False Dichotomy** in action: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Why it matters
+Explains why:
+- It hides other options.
+- It pressures people into a false choice.
+- It makes a simple frame look decisive.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+The uncomfortable implication
+If only two doors are shown, someone is usually hiding the hallway.
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 3:** Another everyday spot: sports or business results. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**In one sentence**  
-False Dichotomy is the label for reasoning that fits: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.`,
-    expert: `## False Dichotomy — in-depth (Expert)
-
-**Definition**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**Applied to this passage**  
-« You are either with us or against us. »  
-
-Here, **False Dichotomy** is the right name because presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 3:** Another everyday spot: sports or business results. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 4:** **Setting:** a family argument. **What goes wrong:** Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 5:** Imagine a policy or workplace discussion. The slip is the same: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Dichotomy** means Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Dichotomy = Treating two options as if no middle ground exists.`,
   },
   533: {
-    beginner: `## False Dichotomy — in-depth (Beginner)
+    beginner: `False Dichotomy = Treating two options as if no middle ground exists.`,
+    detail: `False Dichotomy
 
-**What this is, in plain English**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Description:
+Treating two options as if no middle ground exists.
+A range of real possibilities gets squeezed into a fake either-or choice.
 
-**The example you’re looking at**  
-« Either you support this policy or you hate freedom. »  
+Example (question)
+« You are either with us or against us. »
+A range of real possibilities gets squeezed into a fake either-or choice.
 
-**Why this is False Dichotomy**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist. That is what this label is pointing to in the passage above.
+Example (other context)
+Someone says you are either with us or against us, even though neutrality or nuance exists.
+The world usually has more than two boxes.
 
-**Takeaway**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.`,
-    intermediate: `## False Dichotomy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Either you support this policy or you hate freedom. »  
+Key concept inside it
+Middle ground:
+A real alternative that sits between or outside the two choices being offered.
 
-The passage shows **False Dichotomy** in action: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Why it matters
+Explains why:
+- It hides other options.
+- It pressures people into a false choice.
+- It makes a simple frame look decisive.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+The uncomfortable implication
+If only two doors are shown, someone is usually hiding the hallway.
 
-- **Example 2:** Another everyday spot: a health or habits story. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**In one sentence**  
-False Dichotomy is the label for reasoning that fits: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.`,
-    expert: `## False Dichotomy — in-depth (Expert)
-
-**Definition**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**Applied to this passage**  
-« Either you support this policy or you hate freedom. »  
-
-Here, **False Dichotomy** is the right name because presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 2:** Another everyday spot: a health or habits story. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 4:** Imagine a news headline or social post. The slip is the same: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 5:** Picture a health or habits story. People often reason as if presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Dichotomy** means Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Dichotomy = Treating two options as if no middle ground exists.`,
   },
   534: {
-    beginner: `## False Dichotomy — in-depth (Beginner)
+    beginner: `False Dichotomy = Treating two options as if no middle ground exists.`,
+    detail: `False Dichotomy
 
-**What this is, in plain English**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Description:
+Treating two options as if no middle ground exists.
+A range of real possibilities gets squeezed into a fake either-or choice.
 
-**The example you’re looking at**  
-« It's either my way or the highway. »  
+Example (question)
+« You are either with us or against us. »
+A range of real possibilities gets squeezed into a fake either-or choice.
 
-**Why this is False Dichotomy**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist. That is what this label is pointing to in the passage above.
+Example (other context)
+Someone says you are either with us or against us, even though neutrality or nuance exists.
+The world usually has more than two boxes.
 
-**Takeaway**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.`,
-    intermediate: `## False Dichotomy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« It's either my way or the highway. »  
+Key concept inside it
+Middle ground:
+A real alternative that sits between or outside the two choices being offered.
 
-The passage shows **False Dichotomy** in action: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+Why it matters
+Explains why:
+- It hides other options.
+- It pressures people into a false choice.
+- It makes a simple frame look decisive.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
+The uncomfortable implication
+If only two doors are shown, someone is usually hiding the hallway.
 
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 3:** Imagine a family argument. The slip is the same: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**In one sentence**  
-False Dichotomy is the label for reasoning that fits: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.`,
-    expert: `## False Dichotomy — in-depth (Expert)
-
-**Definition**  
-Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**Applied to this passage**  
-« It's either my way or the highway. »  
-
-Here, **False Dichotomy** is the right name because presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 3:** Imagine a family argument. The slip is the same: presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 4:** Picture a policy or workplace discussion. People often reason as if presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-- **Example 5:** In sports or business results, watch for this pattern: Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Dichotomy** means Presenting two alternative states as the only possibilities, when in fact more possibilities exist.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Dichotomy = Treating two options as if no middle ground exists.`,
   },
   535: {
-    beginner: `## False Equivalence — in-depth (Beginner)
+    beginner: `False Equivalence = Acting like two unlike things are the same answer.`,
+    detail: `False Equivalence
 
-**What this is, in plain English**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
+Description:
+Acting like two unlike things are the same answer.
+Important differences are flattened until the comparison looks stronger than it is.
 
-**The example you’re looking at**  
-« Equating criticism of a policy with treason. »  
+Example (question)
+« Comparing two very different problems as if they had the same weight. »
+Important differences are flattened until the comparison looks stronger than it is.
 
-**Why this is False Equivalence**  
-Describing two distinct and opposing arguments as logically equivalent when they are not. That is what this label is pointing to in the passage above.
+Example (other context)
+Criticism of a policy is treated as the same thing as treason.
+A loud comparison is not a valid one.
 
-**Takeaway**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.`,
-    intermediate: `## False Equivalence — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Equating criticism of a policy with treason. »  
+Key concept inside it
+Relevant difference:
+A difference that matters to the conclusion being drawn.
 
-The passage shows **False Equivalence** in action: describing two distinct and opposing arguments as logically equivalent when they are not.
+Why it matters
+Explains why:
+- It can make the worse side look harmless.
+- It turns contrast into sameness.
+- It hides the scale of the difference.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Describing two distinct and opposing arguments as logically equivalent when they are not.
+The uncomfortable implication
+When unlike things are forced to match, the conclusion becomes cosmetic.
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 3:** Picture a news headline or social post. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**In one sentence**  
-False Equivalence is the label for reasoning that fits: Describing two distinct and opposing arguments as logically equivalent when they are not.`,
-    expert: `## False Equivalence — in-depth (Expert)
-
-**Definition**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**Applied to this passage**  
-« Equating criticism of a policy with treason. »  
-
-Here, **False Equivalence** is the right name because describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 2:** Imagine school grades or test scores. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 3:** Picture a news headline or social post. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 4:** In a health or habits story, watch for this pattern: Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 5:** Another everyday spot: school grades or test scores. Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Equivalence** means Describing two distinct and opposing arguments as logically equivalent when they are not.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Equivalence = Acting like two unlike things are the same answer.`,
   },
   536: {
-    beginner: `## False Equivalence — in-depth (Beginner)
+    beginner: `False Equivalence = Acting like two unlike things are the same answer.`,
+    detail: `False Equivalence
 
-**What this is, in plain English**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
+Description:
+Acting like two unlike things are the same answer.
+Important differences are flattened until the comparison looks stronger than it is.
 
-**The example you’re looking at**  
-« Treating minor mistakes and major crimes as the same. »  
+Example (question)
+« Comparing two very different problems as if they had the same weight. »
+Important differences are flattened until the comparison looks stronger than it is.
 
-**Why this is False Equivalence**  
-Describing two distinct and opposing arguments as logically equivalent when they are not. That is what this label is pointing to in the passage above.
+Example (other context)
+Criticism of a policy is treated as the same thing as treason.
+A loud comparison is not a valid one.
 
-**Takeaway**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.`,
-    intermediate: `## False Equivalence — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Treating minor mistakes and major crimes as the same. »  
+Key concept inside it
+Relevant difference:
+A difference that matters to the conclusion being drawn.
 
-The passage shows **False Equivalence** in action: describing two distinct and opposing arguments as logically equivalent when they are not.
+Why it matters
+Explains why:
+- It can make the worse side look harmless.
+- It turns contrast into sameness.
+- It hides the scale of the difference.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
+The uncomfortable implication
+When unlike things are forced to match, the conclusion becomes cosmetic.
 
-- **Example 2:** Picture a family argument. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**In one sentence**  
-False Equivalence is the label for reasoning that fits: Describing two distinct and opposing arguments as logically equivalent when they are not.`,
-    expert: `## False Equivalence — in-depth (Expert)
-
-**Definition**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**Applied to this passage**  
-« Treating minor mistakes and major crimes as the same. »  
-
-Here, **False Equivalence** is the right name because describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 2:** Picture a family argument. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 4:** Another everyday spot: sports or business results. Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 5:** **Setting:** a family argument. **What goes wrong:** Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Equivalence** means Describing two distinct and opposing arguments as logically equivalent when they are not.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Equivalence = Acting like two unlike things are the same answer.`,
   },
   537: {
-    beginner: `## False Equivalence — in-depth (Beginner)
+    beginner: `False Equivalence = Acting like two unlike things are the same answer.`,
+    detail: `False Equivalence
 
-**What this is, in plain English**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
+Description:
+Acting like two unlike things are the same answer.
+Important differences are flattened until the comparison looks stronger than it is.
 
-**The example you’re looking at**  
-« Saying that doubting a claim is the same as denying it. »  
+Example (question)
+« Comparing two very different problems as if they had the same weight. »
+Important differences are flattened until the comparison looks stronger than it is.
 
-**Why this is False Equivalence**  
-Describing two distinct and opposing arguments as logically equivalent when they are not. That is what this label is pointing to in the passage above.
+Example (other context)
+Criticism of a policy is treated as the same thing as treason.
+A loud comparison is not a valid one.
 
-**Takeaway**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.`,
-    intermediate: `## False Equivalence — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Saying that doubting a claim is the same as denying it. »  
+Key concept inside it
+Relevant difference:
+A difference that matters to the conclusion being drawn.
 
-The passage shows **False Equivalence** in action: describing two distinct and opposing arguments as logically equivalent when they are not.
+Why it matters
+Explains why:
+- It can make the worse side look harmless.
+- It turns contrast into sameness.
+- It hides the scale of the difference.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
+The uncomfortable implication
+When unlike things are forced to match, the conclusion becomes cosmetic.
 
-- **Example 2:** In a news headline or social post, watch for this pattern: Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 3:** Another everyday spot: a health or habits story. Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**In one sentence**  
-False Equivalence is the label for reasoning that fits: Describing two distinct and opposing arguments as logically equivalent when they are not.`,
-    expert: `## False Equivalence — in-depth (Expert)
-
-**Definition**  
-Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**Applied to this passage**  
-« Saying that doubting a claim is the same as denying it. »  
-
-Here, **False Equivalence** is the right name because describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 2:** In a news headline or social post, watch for this pattern: Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 3:** Another everyday spot: a health or habits story. Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 4:** **Setting:** school grades or test scores. **What goes wrong:** Describing two distinct and opposing arguments as logically equivalent when they are not.
-
-- **Example 5:** Imagine a news headline or social post. The slip is the same: describing two distinct and opposing arguments as logically equivalent when they are not.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Equivalence** means Describing two distinct and opposing arguments as logically equivalent when they are not.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Equivalence = Acting like two unlike things are the same answer.`,
   },
   538: {
-    beginner: `## Fallacy Fallacy — in-depth (Beginner)
+    beginner: `Fallacy Fallacy = Rejecting a claim just because the argument for it was bad.`,
+    detail: `Fallacy Fallacy
 
-**What this is, in plain English**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+Description:
+Rejecting a claim just because the argument for it was bad.
+A weak defense does not automatically make the defended claim false.
 
-**The example you’re looking at**  
-« My opponent used a fallacy, so their argument is invalid. »  
+Example (question)
+« Because the explanation was clumsy, the listener rejects the claim itself. »
+A weak defense does not automatically make the defended claim false.
 
-**Why this is Fallacy Fallacy**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong. That is what this label is pointing to in the passage above.
+Example (other context)
+A presenter bungles the explanation, so the listener throws away the idea itself.
+Bad packaging is not the same as bad truth.
 
-**Takeaway**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.`,
-    intermediate: `## Fallacy Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« My opponent used a fallacy, so their argument is invalid. »  
+Key concept inside it
+Argument quality:
+How well the reasoning was presented, which is separate from whether the claim is true.
 
-The passage shows **Fallacy Fallacy** in action: presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+Why it matters
+Explains why:
+- It punishes a claim for the speaker’s mistake.
+- It confuses bad reasoning with false conclusions.
+- It can discard good ideas too quickly.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+The uncomfortable implication
+A bad explanation can hide a true point.
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-**In one sentence**  
-Fallacy Fallacy is the label for reasoning that fits: Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.`,
-    expert: `## Fallacy Fallacy — in-depth (Expert)
-
-**Definition**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-**Applied to this passage**  
-« My opponent used a fallacy, so their argument is invalid. »  
-
-Here, **Fallacy Fallacy** is the right name because presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 4:** Imagine a family argument. The slip is the same: presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 5:** Picture a policy or workplace discussion. People often reason as if presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Fallacy Fallacy** means Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Fallacy Fallacy = Rejecting a claim just because the argument for it was bad.`,
   },
   539: {
-    beginner: `## Fallacy Fallacy — in-depth (Beginner)
+    beginner: `Fallacy Fallacy = Rejecting a claim just because the argument for it was bad.`,
+    detail: `Fallacy Fallacy
 
-**What this is, in plain English**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+Description:
+Rejecting a claim just because the argument for it was bad.
+A weak defense does not automatically make the defended claim false.
 
-**The example you’re looking at**  
-« Since the presentation was bad, the idea must be wrong. »  
+Example (question)
+« Because the explanation was clumsy, the listener rejects the claim itself. »
+A weak defense does not automatically make the defended claim false.
 
-**Why this is Fallacy Fallacy**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong. That is what this label is pointing to in the passage above.
+Example (other context)
+A presenter bungles the explanation, so the listener throws away the idea itself.
+Bad packaging is not the same as bad truth.
 
-**Takeaway**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.`,
-    intermediate: `## Fallacy Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Since the presentation was bad, the idea must be wrong. »  
+Key concept inside it
+Argument quality:
+How well the reasoning was presented, which is separate from whether the claim is true.
 
-The passage shows **Fallacy Fallacy** in action: presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+Why it matters
+Explains why:
+- It punishes a claim for the speaker’s mistake.
+- It confuses bad reasoning with false conclusions.
+- It can discard good ideas too quickly.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+The uncomfortable implication
+A bad explanation can hide a true point.
 
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-**In one sentence**  
-Fallacy Fallacy is the label for reasoning that fits: Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.`,
-    expert: `## Fallacy Fallacy — in-depth (Expert)
-
-**Definition**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-**Applied to this passage**  
-« Since the presentation was bad, the idea must be wrong. »  
-
-Here, **Fallacy Fallacy** is the right name because presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 4:** Picture a news headline or social post. People often reason as if presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 5:** In a health or habits story, watch for this pattern: Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Fallacy Fallacy** means Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Fallacy Fallacy = Rejecting a claim just because the argument for it was bad.`,
   },
   540: {
-    beginner: `## Fallacy Fallacy — in-depth (Beginner)
+    beginner: `Fallacy Fallacy = Rejecting a claim just because the argument for it was bad.`,
+    detail: `Fallacy Fallacy
 
-**What this is, in plain English**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+Description:
+Rejecting a claim just because the argument for it was bad.
+A weak defense does not automatically make the defended claim false.
 
-**The example you’re looking at**  
-« Dismissing a theory because it was explained poorly. »  
+Example (question)
+« Because the explanation was clumsy, the listener rejects the claim itself. »
+A weak defense does not automatically make the defended claim false.
 
-**Why this is Fallacy Fallacy**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong. That is what this label is pointing to in the passage above.
+Example (other context)
+A presenter bungles the explanation, so the listener throws away the idea itself.
+Bad packaging is not the same as bad truth.
 
-**Takeaway**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.`,
-    intermediate: `## Fallacy Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Dismissing a theory because it was explained poorly. »  
+Key concept inside it
+Argument quality:
+How well the reasoning was presented, which is separate from whether the claim is true.
 
-The passage shows **Fallacy Fallacy** in action: presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+Why it matters
+Explains why:
+- It punishes a claim for the speaker’s mistake.
+- It confuses bad reasoning with false conclusions.
+- It can discard good ideas too quickly.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+The uncomfortable implication
+A bad explanation can hide a true point.
 
-- **Example 2:** Imagine sports or business results. The slip is the same: presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 3:** Picture a family argument. People often reason as if presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-**In one sentence**  
-Fallacy Fallacy is the label for reasoning that fits: Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.`,
-    expert: `## Fallacy Fallacy — in-depth (Expert)
-
-**Definition**  
-Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-**Applied to this passage**  
-« Dismissing a theory because it was explained poorly. »  
-
-Here, **Fallacy Fallacy** is the right name because presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 2:** Imagine sports or business results. The slip is the same: presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 3:** Picture a family argument. People often reason as if presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 4:** In a policy or workplace discussion, watch for this pattern: Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-- **Example 5:** Another everyday spot: sports or business results. Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Fallacy Fallacy** means Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Fallacy Fallacy = Rejecting a claim just because the argument for it was bad.`,
   },
   541: {
-    beginner: `## Faulty Generalization — in-depth (Beginner)
+    beginner: `Faulty Generalization = Jumping from a few examples to a broad rule.`,
+    detail: `Faulty Generalization
 
-**What this is, in plain English**  
-Drawing a conclusion from weak or insufficient evidence.
+Description:
+Jumping from a few examples to a broad rule.
+A small sample gets treated as if it represented the whole population.
 
-**The example you’re looking at**  
-« I met two rude people from that city, so everyone there is rude. »  
+Example (question)
+« Two rude visitors are used to judge an entire city. »
+A small sample gets treated as if it represented the whole population.
 
-**Why this is Faulty Generalization**  
-Drawing a conclusion from weak or insufficient evidence. That is what this label is pointing to in the passage above.
+Example (other context)
+Two rude people from one city become proof that everyone there is rude.
+A couple of cases are not enough to crown a rule.
 
-**Takeaway**  
-Drawing a conclusion from weak or insufficient evidence.`,
-    intermediate: `## Faulty Generalization — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Drawing a conclusion from weak or insufficient evidence.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« I met two rude people from that city, so everyone there is rude. »  
+Key concept inside it
+Sample size:
+How many cases you actually observed before drawing the conclusion.
 
-The passage shows **Faulty Generalization** in action: drawing a conclusion from weak or insufficient evidence.
+Why it matters
+Explains why:
+- Small samples mislead easily.
+- Exceptions can look like trends.
+- A broad claim needs broad evidence.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: drawing a conclusion from weak or insufficient evidence.
+The uncomfortable implication
+A tiny window can make the whole street look the same.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if drawing a conclusion from weak or insufficient evidence.
-
-- **Example 3:** In a news headline or social post, watch for this pattern: Drawing a conclusion from weak or insufficient evidence.
-
-**In one sentence**  
-Faulty Generalization is the label for reasoning that fits: Drawing a conclusion from weak or insufficient evidence.`,
-    expert: `## Faulty Generalization — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion from weak or insufficient evidence.
-
-**Applied to this passage**  
-« I met two rude people from that city, so everyone there is rude. »  
-
-Here, **Faulty Generalization** is the right name because drawing a conclusion from weak or insufficient evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: drawing a conclusion from weak or insufficient evidence.
-
-- **Example 2:** Picture school grades or test scores. People often reason as if drawing a conclusion from weak or insufficient evidence.
-
-- **Example 3:** In a news headline or social post, watch for this pattern: Drawing a conclusion from weak or insufficient evidence.
-
-- **Example 4:** Another everyday spot: a health or habits story. Drawing a conclusion from weak or insufficient evidence.
-
-- **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** Drawing a conclusion from weak or insufficient evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Faulty Generalization** means Drawing a conclusion from weak or insufficient evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Faulty Generalization = Jumping from a few examples to a broad rule.`,
   },
   542: {
-    beginner: `## Faulty Generalization — in-depth (Beginner)
+    beginner: `Faulty Generalization = Jumping from a few examples to a broad rule.`,
+    detail: `Faulty Generalization
 
-**What this is, in plain English**  
-Drawing a conclusion from weak or insufficient evidence.
+Description:
+Jumping from a few examples to a broad rule.
+A small sample gets treated as if it represented the whole population.
 
-**The example you’re looking at**  
-« One bad experience with a product means it's always bad. »  
+Example (question)
+« Two rude visitors are used to judge an entire city. »
+A small sample gets treated as if it represented the whole population.
 
-**Why this is Faulty Generalization**  
-Drawing a conclusion from weak or insufficient evidence. That is what this label is pointing to in the passage above.
+Example (other context)
+Two rude people from one city become proof that everyone there is rude.
+A couple of cases are not enough to crown a rule.
 
-**Takeaway**  
-Drawing a conclusion from weak or insufficient evidence.`,
-    intermediate: `## Faulty Generalization — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Drawing a conclusion from weak or insufficient evidence.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« One bad experience with a product means it's always bad. »  
+Key concept inside it
+Sample size:
+How many cases you actually observed before drawing the conclusion.
 
-The passage shows **Faulty Generalization** in action: drawing a conclusion from weak or insufficient evidence.
+Why it matters
+Explains why:
+- Small samples mislead easily.
+- Exceptions can look like trends.
+- A broad claim needs broad evidence.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if drawing a conclusion from weak or insufficient evidence.
+The uncomfortable implication
+A tiny window can make the whole street look the same.
 
-- **Example 2:** In a family argument, watch for this pattern: Drawing a conclusion from weak or insufficient evidence.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Drawing a conclusion from weak or insufficient evidence.
-
-**In one sentence**  
-Faulty Generalization is the label for reasoning that fits: Drawing a conclusion from weak or insufficient evidence.`,
-    expert: `## Faulty Generalization — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion from weak or insufficient evidence.
-
-**Applied to this passage**  
-« One bad experience with a product means it's always bad. »  
-
-Here, **Faulty Generalization** is the right name because drawing a conclusion from weak or insufficient evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if drawing a conclusion from weak or insufficient evidence.
-
-- **Example 2:** In a family argument, watch for this pattern: Drawing a conclusion from weak or insufficient evidence.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Drawing a conclusion from weak or insufficient evidence.
-
-- **Example 4:** **Setting:** sports or business results. **What goes wrong:** Drawing a conclusion from weak or insufficient evidence.
-
-- **Example 5:** Imagine a family argument. The slip is the same: drawing a conclusion from weak or insufficient evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Faulty Generalization** means Drawing a conclusion from weak or insufficient evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Faulty Generalization = Jumping from a few examples to a broad rule.`,
   },
   543: {
-    beginner: `## Faulty Generalization — in-depth (Beginner)
+    beginner: `Faulty Generalization = Jumping from a few examples to a broad rule.`,
+    detail: `Faulty Generalization
 
-**What this is, in plain English**  
-Drawing a conclusion from weak or insufficient evidence.
+Description:
+Jumping from a few examples to a broad rule.
+A small sample gets treated as if it represented the whole population.
 
-**The example you’re looking at**  
-« Assuming all politicians are corrupt based on a few scandals. »  
+Example (question)
+« Two rude visitors are used to judge an entire city. »
+A small sample gets treated as if it represented the whole population.
 
-**Why this is Faulty Generalization**  
-Drawing a conclusion from weak or insufficient evidence. That is what this label is pointing to in the passage above.
+Example (other context)
+Two rude people from one city become proof that everyone there is rude.
+A couple of cases are not enough to crown a rule.
 
-**Takeaway**  
-Drawing a conclusion from weak or insufficient evidence.`,
-    intermediate: `## Faulty Generalization — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Drawing a conclusion from weak or insufficient evidence.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Assuming all politicians are corrupt based on a few scandals. »  
+Key concept inside it
+Sample size:
+How many cases you actually observed before drawing the conclusion.
 
-The passage shows **Faulty Generalization** in action: drawing a conclusion from weak or insufficient evidence.
+Why it matters
+Explains why:
+- Small samples mislead easily.
+- Exceptions can look like trends.
+- A broad claim needs broad evidence.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Drawing a conclusion from weak or insufficient evidence.
+The uncomfortable implication
+A tiny window can make the whole street look the same.
 
-- **Example 2:** Another everyday spot: a news headline or social post. Drawing a conclusion from weak or insufficient evidence.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Drawing a conclusion from weak or insufficient evidence.
-
-**In one sentence**  
-Faulty Generalization is the label for reasoning that fits: Drawing a conclusion from weak or insufficient evidence.`,
-    expert: `## Faulty Generalization — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion from weak or insufficient evidence.
-
-**Applied to this passage**  
-« Assuming all politicians are corrupt based on a few scandals. »  
-
-Here, **Faulty Generalization** is the right name because drawing a conclusion from weak or insufficient evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Drawing a conclusion from weak or insufficient evidence.
-
-- **Example 2:** Another everyday spot: a news headline or social post. Drawing a conclusion from weak or insufficient evidence.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Drawing a conclusion from weak or insufficient evidence.
-
-- **Example 4:** Imagine school grades or test scores. The slip is the same: drawing a conclusion from weak or insufficient evidence.
-
-- **Example 5:** Picture a news headline or social post. People often reason as if drawing a conclusion from weak or insufficient evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Faulty Generalization** means Drawing a conclusion from weak or insufficient evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Faulty Generalization = Jumping from a few examples to a broad rule.`,
   },
   544: {
-    beginner: `## Genetic Fallacy — in-depth (Beginner)
+    beginner: `Genetic Fallacy = Judging an idea by where it came from instead of what it says.`,
+    detail: `Genetic Fallacy
 
-**What this is, in plain English**  
-Judging something distinct from its origin based on the history or origin of the thing.
+Description:
+Judging an idea by where it came from instead of what it says.
+The origin story replaces the actual content.
 
-**The example you’re looking at**  
-« Lisa was brainwashed as a child into thinking that people are generally good. Therefore, people are not generally good. »  
+Example (question)
+« Rejecting a proposal because it came from a rival group. »
+The origin story replaces the actual content.
 
-**Why this is Genetic Fallacy**  
-Judging something distinct from its origin based on the history or origin of the thing. That is what this label is pointing to in the passage above.
+Example (other context)
+A theory is dismissed because a bad person once said it.
+A claim can be true even if its first supporter was awful.
 
-**Takeaway**  
-Judging something distinct from its origin based on the history or origin of the thing.`,
-    intermediate: `## Genetic Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Judging something distinct from its origin based on the history or origin of the thing.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Lisa was brainwashed as a child into thinking that people are generally good. Therefore, people are not generally good. »  
+Key concept inside it
+Origin vs content:
+The distinction between where an idea came from and whether the idea is actually sound.
 
-The passage shows **Genetic Fallacy** in action: judging something distinct from its origin based on the history or origin of the thing.
+Why it matters
+Explains why:
+- Bad origins do not prove a bad claim.
+- Good origins do not prove a good claim.
+- The argument should target the idea itself.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Judging something distinct from its origin based on the history or origin of the thing.
+The uncomfortable implication
+A source can be ugly and still say something true.
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: judging something distinct from its origin based on the history or origin of the thing.
-
-**In one sentence**  
-Genetic Fallacy is the label for reasoning that fits: Judging something distinct from its origin based on the history or origin of the thing.`,
-    expert: `## Genetic Fallacy — in-depth (Expert)
-
-**Definition**  
-Judging something distinct from its origin based on the history or origin of the thing.
-
-**Applied to this passage**  
-« Lisa was brainwashed as a child into thinking that people are generally good. Therefore, people are not generally good. »  
-
-Here, **Genetic Fallacy** is the right name because judging something distinct from its origin based on the history or origin of the thing.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 4:** Picture a family argument. People often reason as if judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 5:** In a policy or workplace discussion, watch for this pattern: Judging something distinct from its origin based on the history or origin of the thing.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Genetic Fallacy** means Judging something distinct from its origin based on the history or origin of the thing.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Genetic Fallacy = Judging an idea by where it came from instead of what it says.`,
   },
   545: {
-    beginner: `## Genetic Fallacy — in-depth (Beginner)
+    beginner: `Genetic Fallacy = Judging an idea by where it came from instead of what it says.`,
+    detail: `Genetic Fallacy
 
-**What this is, in plain English**  
-Judging something distinct from its origin based on the history or origin of the thing.
+Description:
+Judging an idea by where it came from instead of what it says.
+The origin story replaces the actual content.
 
-**The example you’re looking at**  
-« This theory was created by a crazy person, so it can't be true. »  
+Example (question)
+« Rejecting a proposal because it came from a rival group. »
+The origin story replaces the actual content.
 
-**Why this is Genetic Fallacy**  
-Judging something distinct from its origin based on the history or origin of the thing. That is what this label is pointing to in the passage above.
+Example (other context)
+A theory is dismissed because a bad person once said it.
+A claim can be true even if its first supporter was awful.
 
-**Takeaway**  
-Judging something distinct from its origin based on the history or origin of the thing.`,
-    intermediate: `## Genetic Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Judging something distinct from its origin based on the history or origin of the thing.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« This theory was created by a crazy person, so it can't be true. »  
+Key concept inside it
+Origin vs content:
+The distinction between where an idea came from and whether the idea is actually sound.
 
-The passage shows **Genetic Fallacy** in action: judging something distinct from its origin based on the history or origin of the thing.
+Why it matters
+Explains why:
+- Bad origins do not prove a bad claim.
+- Good origins do not prove a good claim.
+- The argument should target the idea itself.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Judging something distinct from its origin based on the history or origin of the thing.
+The uncomfortable implication
+A source can be ugly and still say something true.
 
-- **Example 2:** Imagine a health or habits story. The slip is the same: judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if judging something distinct from its origin based on the history or origin of the thing.
-
-**In one sentence**  
-Genetic Fallacy is the label for reasoning that fits: Judging something distinct from its origin based on the history or origin of the thing.`,
-    expert: `## Genetic Fallacy — in-depth (Expert)
-
-**Definition**  
-Judging something distinct from its origin based on the history or origin of the thing.
-
-**Applied to this passage**  
-« This theory was created by a crazy person, so it can't be true. »  
-
-Here, **Genetic Fallacy** is the right name because judging something distinct from its origin based on the history or origin of the thing.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 2:** Imagine a health or habits story. The slip is the same: judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 4:** In a news headline or social post, watch for this pattern: Judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 5:** Another everyday spot: a health or habits story. Judging something distinct from its origin based on the history or origin of the thing.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Genetic Fallacy** means Judging something distinct from its origin based on the history or origin of the thing.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Genetic Fallacy = Judging an idea by where it came from instead of what it says.`,
   },
   546: {
-    beginner: `## Genetic Fallacy — in-depth (Beginner)
+    beginner: `Genetic Fallacy = Judging an idea by where it came from instead of what it says.`,
+    detail: `Genetic Fallacy
 
-**What this is, in plain English**  
-Judging something distinct from its origin based on the history or origin of the thing.
+Description:
+Judging an idea by where it came from instead of what it says.
+The origin story replaces the actual content.
 
-**The example you’re looking at**  
-« You're only a Democrat because your parents were. »  
+Example (question)
+« Rejecting a proposal because it came from a rival group. »
+The origin story replaces the actual content.
 
-**Why this is Genetic Fallacy**  
-Judging something distinct from its origin based on the history or origin of the thing. That is what this label is pointing to in the passage above.
+Example (other context)
+A theory is dismissed because a bad person once said it.
+A claim can be true even if its first supporter was awful.
 
-**Takeaway**  
-Judging something distinct from its origin based on the history or origin of the thing.`,
-    intermediate: `## Genetic Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Judging something distinct from its origin based on the history or origin of the thing.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« You're only a Democrat because your parents were. »  
+Key concept inside it
+Origin vs content:
+The distinction between where an idea came from and whether the idea is actually sound.
 
-The passage shows **Genetic Fallacy** in action: judging something distinct from its origin based on the history or origin of the thing.
+Why it matters
+Explains why:
+- Bad origins do not prove a bad claim.
+- Good origins do not prove a good claim.
+- The argument should target the idea itself.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: judging something distinct from its origin based on the history or origin of the thing.
+The uncomfortable implication
+A source can be ugly and still say something true.
 
-- **Example 2:** Picture sports or business results. People often reason as if judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 3:** In a family argument, watch for this pattern: Judging something distinct from its origin based on the history or origin of the thing.
-
-**In one sentence**  
-Genetic Fallacy is the label for reasoning that fits: Judging something distinct from its origin based on the history or origin of the thing.`,
-    expert: `## Genetic Fallacy — in-depth (Expert)
-
-**Definition**  
-Judging something distinct from its origin based on the history or origin of the thing.
-
-**Applied to this passage**  
-« You're only a Democrat because your parents were. »  
-
-Here, **Genetic Fallacy** is the right name because judging something distinct from its origin based on the history or origin of the thing.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 2:** Picture sports or business results. People often reason as if judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 3:** In a family argument, watch for this pattern: Judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 4:** Another everyday spot: a policy or workplace discussion. Judging something distinct from its origin based on the history or origin of the thing.
-
-- **Example 5:** **Setting:** sports or business results. **What goes wrong:** Judging something distinct from its origin based on the history or origin of the thing.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Genetic Fallacy** means Judging something distinct from its origin based on the history or origin of the thing.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Genetic Fallacy = Judging an idea by where it came from instead of what it says.`,
   },
   547: {
-    beginner: `## Guilt by Association — in-depth (Beginner)
+    beginner: `Guilt by Association = Blaming someone because of who they are linked to.`,
+    detail: `Guilt by Association
 
-**What this is, in plain English**  
-Attributing guilt to individuals because of the people or organizations with which they associate.
+Description:
+Blaming someone because of who they are linked to.
+The person is judged through the company they keep, not the evidence against them.
 
-**The example you’re looking at**  
-« He hangs out with criminals, so he must be a criminal. »  
+Example (question)
+« Someone is dismissed because they once spoke at the same event as a bad actor. »
+The person is judged through the company they keep, not the evidence against them.
 
-**Why this is Guilt by Association**  
-Attributing guilt to individuals because of the people or organizations with which they associate. That is what this label is pointing to in the passage above.
+Example (other context)
+He knows a criminal, so he must be a criminal too.
+Association is not proof of guilt.
 
-**Takeaway**  
-Attributing guilt to individuals because of the people or organizations with which they associate.`,
-    intermediate: `## Guilt by Association — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Attributing guilt to individuals because of the people or organizations with which they associate.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« He hangs out with criminals, so he must be a criminal. »  
+Key concept inside it
+Association:
+A connection to a person or group that does not by itself establish wrongdoing.
 
-The passage shows **Guilt by Association** in action: attributing guilt to individuals because of the people or organizations with which they associate.
+Why it matters
+Explains why:
+- It mistakes proximity for proof.
+- It can smear innocent people.
+- It shortcuts the actual argument.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if attributing guilt to individuals because of the people or organizations with which they associate.
+The uncomfortable implication
+Who you know is not automatically what you are.
 
-- **Example 2:** In school grades or test scores, watch for this pattern: Attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 3:** Another everyday spot: a news headline or social post. Attributing guilt to individuals because of the people or organizations with which they associate.
-
-**In one sentence**  
-Guilt by Association is the label for reasoning that fits: Attributing guilt to individuals because of the people or organizations with which they associate.`,
-    expert: `## Guilt by Association — in-depth (Expert)
-
-**Definition**  
-Attributing guilt to individuals because of the people or organizations with which they associate.
-
-**Applied to this passage**  
-« He hangs out with criminals, so he must be a criminal. »  
-
-Here, **Guilt by Association** is the right name because attributing guilt to individuals because of the people or organizations with which they associate.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 2:** In school grades or test scores, watch for this pattern: Attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 3:** Another everyday spot: a news headline or social post. Attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 4:** **Setting:** a health or habits story. **What goes wrong:** Attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 5:** Imagine school grades or test scores. The slip is the same: attributing guilt to individuals because of the people or organizations with which they associate.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Guilt by Association** means Attributing guilt to individuals because of the people or organizations with which they associate.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Social & Institutional Behaviors`,
+One-line version
+Guilt by Association = Blaming someone because of who they are linked to.`,
   },
   548: {
-    beginner: `## Guilt by Association — in-depth (Beginner)
+    beginner: `Guilt by Association = Blaming someone because of who they are linked to.`,
+    detail: `Guilt by Association
 
-**What this is, in plain English**  
-Attributing guilt to individuals because of the people or organizations with which they associate.
+Description:
+Blaming someone because of who they are linked to.
+The person is judged through the company they keep, not the evidence against them.
 
-**The example you’re looking at**  
-« She's friends with liberals, so her ideas are wrong. »  
+Example (question)
+« Someone is dismissed because they once spoke at the same event as a bad actor. »
+The person is judged through the company they keep, not the evidence against them.
 
-**Why this is Guilt by Association**  
-Attributing guilt to individuals because of the people or organizations with which they associate. That is what this label is pointing to in the passage above.
+Example (other context)
+He knows a criminal, so he must be a criminal too.
+Association is not proof of guilt.
 
-**Takeaway**  
-Attributing guilt to individuals because of the people or organizations with which they associate.`,
-    intermediate: `## Guilt by Association — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Attributing guilt to individuals because of the people or organizations with which they associate.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« She's friends with liberals, so her ideas are wrong. »  
+Key concept inside it
+Association:
+A connection to a person or group that does not by itself establish wrongdoing.
 
-The passage shows **Guilt by Association** in action: attributing guilt to individuals because of the people or organizations with which they associate.
+Why it matters
+Explains why:
+- It mistakes proximity for proof.
+- It can smear innocent people.
+- It shortcuts the actual argument.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Attributing guilt to individuals because of the people or organizations with which they associate.
+The uncomfortable implication
+Who you know is not automatically what you are.
 
-- **Example 2:** Another everyday spot: a family argument. Attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Attributing guilt to individuals because of the people or organizations with which they associate.
-
-**In one sentence**  
-Guilt by Association is the label for reasoning that fits: Attributing guilt to individuals because of the people or organizations with which they associate.`,
-    expert: `## Guilt by Association — in-depth (Expert)
-
-**Definition**  
-Attributing guilt to individuals because of the people or organizations with which they associate.
-
-**Applied to this passage**  
-« She's friends with liberals, so her ideas are wrong. »  
-
-Here, **Guilt by Association** is the right name because attributing guilt to individuals because of the people or organizations with which they associate.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 2:** Another everyday spot: a family argument. Attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 4:** Imagine sports or business results. The slip is the same: attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 5:** Picture a family argument. People often reason as if attributing guilt to individuals because of the people or organizations with which they associate.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Guilt by Association** means Attributing guilt to individuals because of the people or organizations with which they associate.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Social & Institutional Behaviors`,
+One-line version
+Guilt by Association = Blaming someone because of who they are linked to.`,
   },
   549: {
-    beginner: `## Guilt by Association — in-depth (Beginner)
+    beginner: `Guilt by Association = Blaming someone because of who they are linked to.`,
+    detail: `Guilt by Association
 
-**What this is, in plain English**  
-Attributing guilt to individuals because of the people or organizations with which they associate.
+Description:
+Blaming someone because of who they are linked to.
+The person is judged through the company they keep, not the evidence against them.
 
-**The example you’re looking at**  
-« Associating someone with a discredited group to discredit them. »  
+Example (question)
+« Someone is dismissed because they once spoke at the same event as a bad actor. »
+The person is judged through the company they keep, not the evidence against them.
 
-**Why this is Guilt by Association**  
-Attributing guilt to individuals because of the people or organizations with which they associate. That is what this label is pointing to in the passage above.
+Example (other context)
+He knows a criminal, so he must be a criminal too.
+Association is not proof of guilt.
 
-**Takeaway**  
-Attributing guilt to individuals because of the people or organizations with which they associate.`,
-    intermediate: `## Guilt by Association — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Attributing guilt to individuals because of the people or organizations with which they associate.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Associating someone with a discredited group to discredit them. »  
+Key concept inside it
+Association:
+A connection to a person or group that does not by itself establish wrongdoing.
 
-The passage shows **Guilt by Association** in action: attributing guilt to individuals because of the people or organizations with which they associate.
+Why it matters
+Explains why:
+- It mistakes proximity for proof.
+- It can smear innocent people.
+- It shortcuts the actual argument.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Attributing guilt to individuals because of the people or organizations with which they associate.
+The uncomfortable implication
+Who you know is not automatically what you are.
 
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: attributing guilt to individuals because of the people or organizations with which they associate.
-
-**In one sentence**  
-Guilt by Association is the label for reasoning that fits: Attributing guilt to individuals because of the people or organizations with which they associate.`,
-    expert: `## Guilt by Association — in-depth (Expert)
-
-**Definition**  
-Attributing guilt to individuals because of the people or organizations with which they associate.
-
-**Applied to this passage**  
-« Associating someone with a discredited group to discredit them. »  
-
-Here, **Guilt by Association** is the right name because attributing guilt to individuals because of the people or organizations with which they associate.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 4:** Picture school grades or test scores. People often reason as if attributing guilt to individuals because of the people or organizations with which they associate.
-
-- **Example 5:** In a news headline or social post, watch for this pattern: Attributing guilt to individuals because of the people or organizations with which they associate.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Guilt by Association** means Attributing guilt to individuals because of the people or organizations with which they associate.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Social & Institutional Behaviors`,
+One-line version
+Guilt by Association = Blaming someone because of who they are linked to.`,
   },
   550: {
-    beginner: `## Halo Effect — in-depth (Beginner)
+    beginner: `Halo Effect = Letting one good trait distort the rest of the judgment.`,
+    detail: `Halo Effect
 
-**What this is, in plain English**  
-The tendency for an impression created in one area to influence opinion in another area.
+Description:
+Letting one good trait distort the rest of the judgment.
+A strong first impression spills over into unrelated judgments.
 
-**The example you’re looking at**  
-« Thinking a handsome person is also intelligent. »  
+Example (question)
+« A friendly speaker is assumed to be correct about everything else. »
+A strong first impression spills over into unrelated judgments.
 
-**Why this is Halo Effect**  
-The tendency for an impression created in one area to influence opinion in another area. That is what this label is pointing to in the passage above.
+Example (other context)
+A handsome speaker is assumed to be smart, honest, and competent too.
+One glow can tint the whole picture.
 
-**Takeaway**  
-The tendency for an impression created in one area to influence opinion in another area.`,
-    intermediate: `## Halo Effect — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The tendency for an impression created in one area to influence opinion in another area.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Thinking a handsome person is also intelligent. »  
+Key concept inside it
+Single-trait spillover:
+When one positive feature unfairly colors judgments about other features.
 
-The passage shows **Halo Effect** in action: the tendency for an impression created in one area to influence opinion in another area.
+Why it matters
+Explains why:
+- A good look can hide weak evidence.
+- One trait should not decide everything.
+- It can make bias feel like intuition.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** The tendency for an impression created in one area to influence opinion in another area.
+The uncomfortable implication
+A bright halo can still cast a bad shadow.
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: the tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 3:** Picture sports or business results. People often reason as if the tendency for an impression created in one area to influence opinion in another area.
-
-**In one sentence**  
-Halo Effect is the label for reasoning that fits: The tendency for an impression created in one area to influence opinion in another area.`,
-    expert: `## Halo Effect — in-depth (Expert)
-
-**Definition**  
-The tendency for an impression created in one area to influence opinion in another area.
-
-**Applied to this passage**  
-« Thinking a handsome person is also intelligent. »  
-
-Here, **Halo Effect** is the right name because the tendency for an impression created in one area to influence opinion in another area.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** The tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: the tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 3:** Picture sports or business results. People often reason as if the tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 4:** In a family argument, watch for this pattern: The tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 5:** Another everyday spot: a policy or workplace discussion. The tendency for an impression created in one area to influence opinion in another area.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Halo Effect** means The tendency for an impression created in one area to influence opinion in another area.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Memory & Perception Effects`,
+One-line version
+Halo Effect = Letting one good trait distort the rest of the judgment.`,
   },
   551: {
-    beginner: `## Halo Effect — in-depth (Beginner)
+    beginner: `Halo Effect = Letting one good trait distort the rest of the judgment.`,
+    detail: `Halo Effect
 
-**What this is, in plain English**  
-The tendency for an impression created in one area to influence opinion in another area.
+Description:
+Letting one good trait distort the rest of the judgment.
+A strong first impression spills over into unrelated judgments.
 
-**The example you’re looking at**  
-« Assuming a successful CEO is ethical in all areas. »  
+Example (question)
+« A friendly speaker is assumed to be correct about everything else. »
+A strong first impression spills over into unrelated judgments.
 
-**Why this is Halo Effect**  
-The tendency for an impression created in one area to influence opinion in another area. That is what this label is pointing to in the passage above.
+Example (other context)
+A handsome speaker is assumed to be smart, honest, and competent too.
+One glow can tint the whole picture.
 
-**Takeaway**  
-The tendency for an impression created in one area to influence opinion in another area.`,
-    intermediate: `## Halo Effect — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The tendency for an impression created in one area to influence opinion in another area.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Assuming a successful CEO is ethical in all areas. »  
+Key concept inside it
+Single-trait spillover:
+When one positive feature unfairly colors judgments about other features.
 
-The passage shows **Halo Effect** in action: the tendency for an impression created in one area to influence opinion in another area.
+Why it matters
+Explains why:
+- A good look can hide weak evidence.
+- One trait should not decide everything.
+- It can make bias feel like intuition.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: the tendency for an impression created in one area to influence opinion in another area.
+The uncomfortable implication
+A bright halo can still cast a bad shadow.
 
-- **Example 2:** Picture a health or habits story. People often reason as if the tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: The tendency for an impression created in one area to influence opinion in another area.
-
-**In one sentence**  
-Halo Effect is the label for reasoning that fits: The tendency for an impression created in one area to influence opinion in another area.`,
-    expert: `## Halo Effect — in-depth (Expert)
-
-**Definition**  
-The tendency for an impression created in one area to influence opinion in another area.
-
-**Applied to this passage**  
-« Assuming a successful CEO is ethical in all areas. »  
-
-Here, **Halo Effect** is the right name because the tendency for an impression created in one area to influence opinion in another area.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: the tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 2:** Picture a health or habits story. People often reason as if the tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: The tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 4:** Another everyday spot: a news headline or social post. The tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 5:** **Setting:** a health or habits story. **What goes wrong:** The tendency for an impression created in one area to influence opinion in another area.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Halo Effect** means The tendency for an impression created in one area to influence opinion in another area.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Memory & Perception Effects`,
+One-line version
+Halo Effect = Letting one good trait distort the rest of the judgment.`,
   },
   552: {
-    beginner: `## Halo Effect — in-depth (Beginner)
+    beginner: `Halo Effect = Letting one good trait distort the rest of the judgment.`,
+    detail: `Halo Effect
 
-**What this is, in plain English**  
-The tendency for an impression created in one area to influence opinion in another area.
+Description:
+Letting one good trait distort the rest of the judgment.
+A strong first impression spills over into unrelated judgments.
 
-**The example you’re looking at**  
-« Liking a product because of its attractive packaging. »  
+Example (question)
+« A friendly speaker is assumed to be correct about everything else. »
+A strong first impression spills over into unrelated judgments.
 
-**Why this is Halo Effect**  
-The tendency for an impression created in one area to influence opinion in another area. That is what this label is pointing to in the passage above.
+Example (other context)
+A handsome speaker is assumed to be smart, honest, and competent too.
+One glow can tint the whole picture.
 
-**Takeaway**  
-The tendency for an impression created in one area to influence opinion in another area.`,
-    intermediate: `## Halo Effect — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The tendency for an impression created in one area to influence opinion in another area.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Liking a product because of its attractive packaging. »  
+Key concept inside it
+Single-trait spillover:
+When one positive feature unfairly colors judgments about other features.
 
-The passage shows **Halo Effect** in action: the tendency for an impression created in one area to influence opinion in another area.
+Why it matters
+Explains why:
+- A good look can hide weak evidence.
+- One trait should not decide everything.
+- It can make bias feel like intuition.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if the tendency for an impression created in one area to influence opinion in another area.
+The uncomfortable implication
+A bright halo can still cast a bad shadow.
 
-- **Example 2:** In sports or business results, watch for this pattern: The tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 3:** Another everyday spot: a family argument. The tendency for an impression created in one area to influence opinion in another area.
-
-**In one sentence**  
-Halo Effect is the label for reasoning that fits: The tendency for an impression created in one area to influence opinion in another area.`,
-    expert: `## Halo Effect — in-depth (Expert)
-
-**Definition**  
-The tendency for an impression created in one area to influence opinion in another area.
-
-**Applied to this passage**  
-« Liking a product because of its attractive packaging. »  
-
-Here, **Halo Effect** is the right name because the tendency for an impression created in one area to influence opinion in another area.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if the tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 2:** In sports or business results, watch for this pattern: The tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 3:** Another everyday spot: a family argument. The tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 4:** **Setting:** a policy or workplace discussion. **What goes wrong:** The tendency for an impression created in one area to influence opinion in another area.
-
-- **Example 5:** Imagine sports or business results. The slip is the same: the tendency for an impression created in one area to influence opinion in another area.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Halo Effect** means The tendency for an impression created in one area to influence opinion in another area.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Memory & Perception Effects`,
+One-line version
+Halo Effect = Letting one good trait distort the rest of the judgment.`,
   },
   553: {
-    beginner: `## Historian's Fallacy — in-depth (Beginner)
+    beginner: `Historian's Fallacy = Judging the past as if people knew what we know now.`,
+    detail: `Historian's Fallacy
 
-**What this is, in plain English**  
-Judging a person's decisions in the light of new information not available at the time.
+Description:
+Judging the past as if people knew what we know now.
+Current knowledge gets projected backward onto people who did not have it.
 
-**The example you’re looking at**  
-« Blaming a long-dead ruler for not acting on facts that science only established decades after their death, as if they could have foreseen the future. »  
+Example (question)
+« Blaming an old decision for not using information discovered decades later. »
+Current knowledge gets projected backward onto people who did not have it.
 
-**Why this is Historian's Fallacy**  
-Judging a person's decisions in the light of new information not available at the time. That is what this label is pointing to in the passage above.
+Example (other context)
+A long-dead leader is blamed for missing facts science only discovered decades later.
+History is not hindsight with costumes.
 
-**Takeaway**  
-Judging a person's decisions in the light of new information not available at the time.`,
-    intermediate: `## Historian's Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Judging a person's decisions in the light of new information not available at the time.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Blaming a long-dead ruler for not acting on facts that science only established decades after their death, as if they could have foreseen the future. »  
+Key concept inside it
+Presentism:
+Projecting today’s knowledge or values onto earlier events or people.
 
-The passage shows **Historian's Fallacy** in action: judging a person's decisions in the light of new information not available at the time.
+Why it matters
+Explains why:
+- It ignores what was actually knowable then.
+- It makes past choices look stupid in unfair ways.
+- It erases uncertainty from old decisions.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Judging a person's decisions in the light of new information not available at the time.
+The uncomfortable implication
+The past cannot use information that had not been born yet.
 
-- **Example 2:** Another everyday spot: school grades or test scores. Judging a person's decisions in the light of new information not available at the time.
-
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Judging a person's decisions in the light of new information not available at the time.
-
-**In one sentence**  
-Historian's Fallacy is the label for reasoning that fits: Judging a person's decisions in the light of new information not available at the time.`,
-    expert: `## Historian's Fallacy — in-depth (Expert)
-
-**Definition**  
-Judging a person's decisions in the light of new information not available at the time.
-
-**Applied to this passage**  
-« Blaming a long-dead ruler for not acting on facts that science only established decades after their death, as if they could have foreseen the future. »  
-
-Here, **Historian's Fallacy** is the right name because judging a person's decisions in the light of new information not available at the time.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Judging a person's decisions in the light of new information not available at the time.
-
-- **Example 2:** Another everyday spot: school grades or test scores. Judging a person's decisions in the light of new information not available at the time.
-
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Judging a person's decisions in the light of new information not available at the time.
-
-- **Example 4:** Imagine a health or habits story. The slip is the same: judging a person's decisions in the light of new information not available at the time.
-
-- **Example 5:** Picture school grades or test scores. People often reason as if judging a person's decisions in the light of new information not available at the time.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Historian's Fallacy** means Judging a person's decisions in the light of new information not available at the time.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Historian's Fallacy = Judging the past as if people knew what we know now.`,
   },
   554: {
-    beginner: `## Historian's Fallacy — in-depth (Beginner)
+    beginner: `Historian's Fallacy = Judging the past as if people knew what we know now.`,
+    detail: `Historian's Fallacy
 
-**What this is, in plain English**  
-Judging a person's decisions in the light of new information not available at the time.
+Description:
+Judging the past as if people knew what we know now.
+Current knowledge gets projected backward onto people who did not have it.
 
-**The example you’re looking at**  
-« Saying Columbus was wrong for not knowing the Earth was round (he did). »  
+Example (question)
+« Blaming an old decision for not using information discovered decades later. »
+Current knowledge gets projected backward onto people who did not have it.
 
-**Why this is Historian's Fallacy**  
-Judging a person's decisions in the light of new information not available at the time. That is what this label is pointing to in the passage above.
+Example (other context)
+A long-dead leader is blamed for missing facts science only discovered decades later.
+History is not hindsight with costumes.
 
-**Takeaway**  
-Judging a person's decisions in the light of new information not available at the time.`,
-    intermediate: `## Historian's Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Judging a person's decisions in the light of new information not available at the time.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Saying Columbus was wrong for not knowing the Earth was round (he did). »  
+Key concept inside it
+Presentism:
+Projecting today’s knowledge or values onto earlier events or people.
 
-The passage shows **Historian's Fallacy** in action: judging a person's decisions in the light of new information not available at the time.
+Why it matters
+Explains why:
+- It ignores what was actually knowable then.
+- It makes past choices look stupid in unfair ways.
+- It erases uncertainty from old decisions.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Judging a person's decisions in the light of new information not available at the time.
+The uncomfortable implication
+The past cannot use information that had not been born yet.
 
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Judging a person's decisions in the light of new information not available at the time.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: judging a person's decisions in the light of new information not available at the time.
-
-**In one sentence**  
-Historian's Fallacy is the label for reasoning that fits: Judging a person's decisions in the light of new information not available at the time.`,
-    expert: `## Historian's Fallacy — in-depth (Expert)
-
-**Definition**  
-Judging a person's decisions in the light of new information not available at the time.
-
-**Applied to this passage**  
-« Saying Columbus was wrong for not knowing the Earth was round (he did). »  
-
-Here, **Historian's Fallacy** is the right name because judging a person's decisions in the light of new information not available at the time.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Judging a person's decisions in the light of new information not available at the time.
-
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Judging a person's decisions in the light of new information not available at the time.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: judging a person's decisions in the light of new information not available at the time.
-
-- **Example 4:** Picture sports or business results. People often reason as if judging a person's decisions in the light of new information not available at the time.
-
-- **Example 5:** In a family argument, watch for this pattern: Judging a person's decisions in the light of new information not available at the time.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Historian's Fallacy** means Judging a person's decisions in the light of new information not available at the time.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Historian's Fallacy = Judging the past as if people knew what we know now.`,
   },
   555: {
-    beginner: `## Historian's Fallacy — in-depth (Beginner)
+    beginner: `Historian's Fallacy = Judging the past as if people knew what we know now.`,
+    detail: `Historian's Fallacy
 
-**What this is, in plain English**  
-Judging a person's decisions in the light of new information not available at the time.
+Description:
+Judging the past as if people knew what we know now.
+Current knowledge gets projected backward onto people who did not have it.
 
-**The example you’re looking at**  
-« Judging past actions with modern knowledge. »  
+Example (question)
+« Blaming an old decision for not using information discovered decades later. »
+Current knowledge gets projected backward onto people who did not have it.
 
-**Why this is Historian's Fallacy**  
-Judging a person's decisions in the light of new information not available at the time. That is what this label is pointing to in the passage above.
+Example (other context)
+A long-dead leader is blamed for missing facts science only discovered decades later.
+History is not hindsight with costumes.
 
-**Takeaway**  
-Judging a person's decisions in the light of new information not available at the time.`,
-    intermediate: `## Historian's Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Judging a person's decisions in the light of new information not available at the time.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Judging past actions with modern knowledge. »  
+Key concept inside it
+Presentism:
+Projecting today’s knowledge or values onto earlier events or people.
 
-The passage shows **Historian's Fallacy** in action: judging a person's decisions in the light of new information not available at the time.
+Why it matters
+Explains why:
+- It ignores what was actually knowable then.
+- It makes past choices look stupid in unfair ways.
+- It erases uncertainty from old decisions.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Judging a person's decisions in the light of new information not available at the time.
+The uncomfortable implication
+The past cannot use information that had not been born yet.
 
-- **Example 2:** Imagine a news headline or social post. The slip is the same: judging a person's decisions in the light of new information not available at the time.
-
-- **Example 3:** Picture a health or habits story. People often reason as if judging a person's decisions in the light of new information not available at the time.
-
-**In one sentence**  
-Historian's Fallacy is the label for reasoning that fits: Judging a person's decisions in the light of new information not available at the time.`,
-    expert: `## Historian's Fallacy — in-depth (Expert)
-
-**Definition**  
-Judging a person's decisions in the light of new information not available at the time.
-
-**Applied to this passage**  
-« Judging past actions with modern knowledge. »  
-
-Here, **Historian's Fallacy** is the right name because judging a person's decisions in the light of new information not available at the time.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Judging a person's decisions in the light of new information not available at the time.
-
-- **Example 2:** Imagine a news headline or social post. The slip is the same: judging a person's decisions in the light of new information not available at the time.
-
-- **Example 3:** Picture a health or habits story. People often reason as if judging a person's decisions in the light of new information not available at the time.
-
-- **Example 4:** In school grades or test scores, watch for this pattern: Judging a person's decisions in the light of new information not available at the time.
-
-- **Example 5:** Another everyday spot: a news headline or social post. Judging a person's decisions in the light of new information not available at the time.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Historian's Fallacy** means Judging a person's decisions in the light of new information not available at the time.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Historian's Fallacy = Judging the past as if people knew what we know now.`,
   },
   556: {
-    beginner: `## Hot Hand Fallacy — in-depth (Beginner)
+    beginner: `Hot Hand Fallacy = Assuming a random streak will keep going because it has been successful.`,
+    detail: `Hot Hand Fallacy
 
-**What this is, in plain English**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
+Description:
+Assuming a random streak will keep going because it has been successful.
+A short run of success is treated like a force that must continue.
 
-**The example you’re looking at**  
-« Thinking a basketball player on a streak will keep making shots. »  
+Example (question)
+« A player makes several shots, so the next shot is assumed to be automatic. »
+A short run of success is treated like a force that must continue.
 
-**Why this is Hot Hand Fallacy**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts. That is what this label is pointing to in the passage above.
+Example (other context)
+A basketball player makes several shots and people expect the next one to fall too.
+A streak feels like a law, but it may just be chance.
 
-**Takeaway**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.`,
-    intermediate: `## Hot Hand Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Thinking a basketball player on a streak will keep making shots. »  
+Key concept inside it
+Random streak:
+A run of results that can happen by chance without indicating a hidden pattern.
 
-The passage shows **Hot Hand Fallacy** in action: the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
+Why it matters
+Explains why:
+- Streaks happen in random data.
+- Past hits do not guarantee future hits.
+- Confidence can outrun evidence.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
+The uncomfortable implication
+A hot streak can cool off without warning.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 3:** In sports or business results, watch for this pattern: The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-**In one sentence**  
-Hot Hand Fallacy is the label for reasoning that fits: The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.`,
-    expert: `## Hot Hand Fallacy — in-depth (Expert)
-
-**Definition**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-**Applied to this passage**  
-« Thinking a basketball player on a streak will keep making shots. »  
-
-Here, **Hot Hand Fallacy** is the right name because the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 3:** In sports or business results, watch for this pattern: The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 4:** Another everyday spot: a family argument. The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Hot Hand Fallacy** means The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Hot Hand Fallacy = Assuming a random streak will keep going because it has been successful.`,
   },
   557: {
-    beginner: `## Hot Hand Fallacy — in-depth (Beginner)
+    beginner: `Hot Hand Fallacy = Assuming a random streak will keep going because it has been successful.`,
+    detail: `Hot Hand Fallacy
 
-**What this is, in plain English**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
+Description:
+Assuming a random streak will keep going because it has been successful.
+A short run of success is treated like a force that must continue.
 
-**The example you’re looking at**  
-« Believing in lucky streaks in gambling. »  
+Example (question)
+« A player makes several shots, so the next shot is assumed to be automatic. »
+A short run of success is treated like a force that must continue.
 
-**Why this is Hot Hand Fallacy**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts. That is what this label is pointing to in the passage above.
+Example (other context)
+A basketball player makes several shots and people expect the next one to fall too.
+A streak feels like a law, but it may just be chance.
 
-**Takeaway**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.`,
-    intermediate: `## Hot Hand Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Believing in lucky streaks in gambling. »  
+Key concept inside it
+Random streak:
+A run of results that can happen by chance without indicating a hidden pattern.
 
-The passage shows **Hot Hand Fallacy** in action: the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
+Why it matters
+Explains why:
+- Streaks happen in random data.
+- Past hits do not guarantee future hits.
+- Confidence can outrun evidence.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
+The uncomfortable implication
+A hot streak can cool off without warning.
 
-- **Example 2:** In a health or habits story, watch for this pattern: The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 3:** Another everyday spot: school grades or test scores. The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-**In one sentence**  
-Hot Hand Fallacy is the label for reasoning that fits: The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.`,
-    expert: `## Hot Hand Fallacy — in-depth (Expert)
-
-**Definition**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-**Applied to this passage**  
-« Believing in lucky streaks in gambling. »  
-
-Here, **Hot Hand Fallacy** is the right name because the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 2:** In a health or habits story, watch for this pattern: The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 3:** Another everyday spot: school grades or test scores. The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 4:** **Setting:** a news headline or social post. **What goes wrong:** The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 5:** Imagine a health or habits story. The slip is the same: the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Hot Hand Fallacy** means The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Hot Hand Fallacy = Assuming a random streak will keep going because it has been successful.`,
   },
   558: {
-    beginner: `## Hot Hand Fallacy — in-depth (Beginner)
+    beginner: `Hot Hand Fallacy = Assuming a random streak will keep going because it has been successful.`,
+    detail: `Hot Hand Fallacy
 
-**What this is, in plain English**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
+Description:
+Assuming a random streak will keep going because it has been successful.
+A short run of success is treated like a force that must continue.
 
-**The example you’re looking at**  
-« Assuming success breeds more success in random events. »  
+Example (question)
+« A player makes several shots, so the next shot is assumed to be automatic. »
+A short run of success is treated like a force that must continue.
 
-**Why this is Hot Hand Fallacy**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts. That is what this label is pointing to in the passage above.
+Example (other context)
+A basketball player makes several shots and people expect the next one to fall too.
+A streak feels like a law, but it may just be chance.
 
-**Takeaway**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.`,
-    intermediate: `## Hot Hand Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Assuming success breeds more success in random events. »  
+Key concept inside it
+Random streak:
+A run of results that can happen by chance without indicating a hidden pattern.
 
-The passage shows **Hot Hand Fallacy** in action: the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
+Why it matters
+Explains why:
+- Streaks happen in random data.
+- Past hits do not guarantee future hits.
+- Confidence can outrun evidence.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
+The uncomfortable implication
+A hot streak can cool off without warning.
 
-- **Example 2:** Another everyday spot: sports or business results. The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-**In one sentence**  
-Hot Hand Fallacy is the label for reasoning that fits: The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.`,
-    expert: `## Hot Hand Fallacy — in-depth (Expert)
-
-**Definition**  
-The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-**Applied to this passage**  
-« Assuming success breeds more success in random events. »  
-
-Here, **Hot Hand Fallacy** is the right name because the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 2:** Another everyday spot: sports or business results. The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 4:** Imagine a policy or workplace discussion. The slip is the same: the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-- **Example 5:** Picture sports or business results. People often reason as if the belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Hot Hand Fallacy** means The belief that a person who has experienced success with a random event has a greater chance of further success in additional attempts.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Hot Hand Fallacy = Assuming a random streak will keep going because it has been successful.`,
   },
   559: {
-    beginner: `## Illusory Correlation — in-depth (Beginner)
+    beginner: `Illusory Correlation = Seeing a connection that is not really there.`,
+    detail: `Illusory Correlation
 
-**What this is, in plain English**  
-Perceiving a relationship between variables even when no such relationship exists.
+Description:
+Seeing a connection that is not really there.
+Two things appear linked because they stand out together, even if the link is fake.
 
-**The example you’re looking at**  
-« Thinking ice cream sales cause drownings because both happen in summer. »  
+Example (question)
+« Seeing a link between ice cream sales and drownings just because both rise in summer. »
+Two things appear linked because they stand out together, even if the link is fake.
 
-**Why this is Illusory Correlation**  
-Perceiving a relationship between variables even when no such relationship exists. That is what this label is pointing to in the passage above.
+Example (other context)
+Ice cream sales and drownings both rise in summer, so one must cause the other.
+Shared timing is not a real connection by itself.
 
-**Takeaway**  
-Perceiving a relationship between variables even when no such relationship exists.`,
-    intermediate: `## Illusory Correlation — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Perceiving a relationship between variables even when no such relationship exists.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Thinking ice cream sales cause drownings because both happen in summer. »  
+Key concept inside it
+False link:
+A perceived relationship between two variables that is not supported by the facts.
 
-The passage shows **Illusory Correlation** in action: perceiving a relationship between variables even when no such relationship exists.
+Why it matters
+Explains why:
+- It can make coincidences look meaningful.
+- It often ignores the background rate.
+- It can create fake causes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Perceiving a relationship between variables even when no such relationship exists.
+The uncomfortable implication
+A matching pattern is not the same as a real bond.
 
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Perceiving a relationship between variables even when no such relationship exists.
-
-- **Example 3:** Imagine a news headline or social post. The slip is the same: perceiving a relationship between variables even when no such relationship exists.
-
-**In one sentence**  
-Illusory Correlation is the label for reasoning that fits: Perceiving a relationship between variables even when no such relationship exists.`,
-    expert: `## Illusory Correlation — in-depth (Expert)
-
-**Definition**  
-Perceiving a relationship between variables even when no such relationship exists.
-
-**Applied to this passage**  
-« Thinking ice cream sales cause drownings because both happen in summer. »  
-
-Here, **Illusory Correlation** is the right name because perceiving a relationship between variables even when no such relationship exists.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Perceiving a relationship between variables even when no such relationship exists.
-
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Perceiving a relationship between variables even when no such relationship exists.
-
-- **Example 3:** Imagine a news headline or social post. The slip is the same: perceiving a relationship between variables even when no such relationship exists.
-
-- **Example 4:** Picture a health or habits story. People often reason as if perceiving a relationship between variables even when no such relationship exists.
-
-- **Example 5:** In school grades or test scores, watch for this pattern: Perceiving a relationship between variables even when no such relationship exists.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Illusory Correlation** means Perceiving a relationship between variables even when no such relationship exists.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Memory & Perception Effects`,
+One-line version
+Illusory Correlation = Seeing a connection that is not really there.`,
   },
   560: {
-    beginner: `## Illusory Correlation — in-depth (Beginner)
+    beginner: `Illusory Correlation = Seeing a connection that is not really there.`,
+    detail: `Illusory Correlation
 
-**What this is, in plain English**  
-Perceiving a relationship between variables even when no such relationship exists.
+Description:
+Seeing a connection that is not really there.
+Two things appear linked because they stand out together, even if the link is fake.
 
-**The example you’re looking at**  
-« Believing that wearing a certain color leads to good luck. »  
+Example (question)
+« Seeing a link between ice cream sales and drownings just because both rise in summer. »
+Two things appear linked because they stand out together, even if the link is fake.
 
-**Why this is Illusory Correlation**  
-Perceiving a relationship between variables even when no such relationship exists. That is what this label is pointing to in the passage above.
+Example (other context)
+Ice cream sales and drownings both rise in summer, so one must cause the other.
+Shared timing is not a real connection by itself.
 
-**Takeaway**  
-Perceiving a relationship between variables even when no such relationship exists.`,
-    intermediate: `## Illusory Correlation — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Perceiving a relationship between variables even when no such relationship exists.
+So:
+- It sounds clear, but the proof is still missing.
+- The reasoning skips the hard step.
+- It still needs a real check.
 
-**This example**  
-« Believing that wearing a certain color leads to good luck. »  
+Key concept inside it
+False link:
+A perceived relationship between two variables that is not supported by the facts.
 
-The passage shows **Illusory Correlation** in action: perceiving a relationship between variables even when no such relationship exists.
+Why it matters
+Explains why:
+- It can make coincidences look meaningful.
+- It often ignores the background rate.
+- It can create fake causes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Perceiving a relationship between variables even when no such relationship exists.
+The uncomfortable implication
+A matching pattern is not the same as a real bond.
 
-- **Example 2:** Imagine a family argument. The slip is the same: perceiving a relationship between variables even when no such relationship exists.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if perceiving a relationship between variables even when no such relationship exists.
-
-**In one sentence**  
-Illusory Correlation is the label for reasoning that fits: Perceiving a relationship between variables even when no such relationship exists.`,
-    expert: `## Illusory Correlation — in-depth (Expert)
-
-**Definition**  
-Perceiving a relationship between variables even when no such relationship exists.
-
-**Applied to this passage**  
-« Believing that wearing a certain color leads to good luck. »  
-
-Here, **Illusory Correlation** is the right name because perceiving a relationship between variables even when no such relationship exists.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Perceiving a relationship between variables even when no such relationship exists.
-
-- **Example 2:** Imagine a family argument. The slip is the same: perceiving a relationship between variables even when no such relationship exists.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if perceiving a relationship between variables even when no such relationship exists.
-
-- **Example 4:** In sports or business results, watch for this pattern: Perceiving a relationship between variables even when no such relationship exists.
-
-- **Example 5:** Another everyday spot: a family argument. Perceiving a relationship between variables even when no such relationship exists.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Illusory Correlation** means Perceiving a relationship between variables even when no such relationship exists.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Memory & Perception Effects`,
+One-line version
+Illusory Correlation = Seeing a connection that is not really there.`,
   },
   561: {
     beginner: `## Illusory Correlation — in-depth (Beginner)
@@ -57449,1894 +56759,1204 @@ En une phrase
 Biais d'ancrage = Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.`,
   },
   531: {
-    beginner: `## Anchoring bias — approfondi (Débutant)
+    beginner: `Faux équilibre = Donner le même poids à deux camps alors que les preuves ne le justifient pas.`,
+    detail: `Faux équilibre
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
+Description:
+Donner le même poids à deux camps alors que les preuves ne le justifient pas.
+Le désaccord est traité comme si les deux côtés méritaient la même confiance.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Mettre l’avis d’un expert et celui d’une personne non informée sur le même plan. »
+Le désaccord est traité comme si les deux côtés méritaient la même confiance.
 
-**Pourquoi c’est bien Anchoring bias**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une émission met un expert face à un amateur et appelle cela de l’équité.
+L’équilibre du temps d’antenne n’est pas l’équilibre des preuves.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.`,
-    intermediate: `## Anchoring bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Poids des preuves:
+L’appui réel qu’une thèse reçoit des faits, et non de la mise en scène du débat.
 
-Le passage montre **Anchoring bias** : une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut donner une apparence crédible à une thèse faible.
+- Cela confond équité de traitement et équité des preuves.
+- Cela cache où se trouve réellement le soutien.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
+L'implication inconfortable
+On peut partager le temps sans partager la vérité.
 
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Anchoring bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.`,
-    expert: `## Anchoring bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Anchoring bias** convient parce que une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Anchoring bias**, c’est Une erreur logique ou un biais cognitif impliquant Anchoring bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Faux équilibre = Donner le même poids à deux camps alors que les preuves ne le justifient pas.`,
   },
   532: {
-    beginner: `## Framing effect — approfondi (Débutant)
+    beginner: `Faux dilemme = Présenter deux options comme si aucune autre possibilité n’existait.`,
+    detail: `Faux dilemme
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
+Description:
+Présenter deux options comme si aucune autre possibilité n’existait.
+Une gamme de possibilités réelles est comprimée en un choix artificiel.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« On dit : « Vous êtes avec nous ou contre nous », alors qu’il existe des nuances. »
+Une gamme de possibilités réelles est comprimée en un choix artificiel.
 
-**Pourquoi c’est bien Framing effect**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On dit : « Vous êtes avec nous ou contre nous », alors qu’il existe des nuances.
+Le monde a presque toujours plus de deux cases.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.`,
-    intermediate: `## Framing effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Terrain intermédiaire:
+Une alternative réelle qui se situe entre ou au-delà des deux options proposées.
 
-Le passage montre **Framing effect** : une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela cache d’autres options.
+- Cela pousse les gens vers un faux choix.
+- Cela donne à un cadre simpliste un air décisif.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Si l’on ne montre que deux portes, c’est souvent qu’on cache le couloir.
 
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Framing effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.`,
-    expert: `## Framing effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Framing effect** convient parce que une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Framing effect**, c’est Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Faux dilemme = Présenter deux options comme si aucune autre possibilité n’existait.`,
   },
   533: {
-    beginner: `## Framing effect — approfondi (Débutant)
+    beginner: `Faux dilemme = Présenter deux options comme si aucune autre possibilité n’existait.`,
+    detail: `Faux dilemme
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
+Description:
+Présenter deux options comme si aucune autre possibilité n’existait.
+Une gamme de possibilités réelles est comprimée en un choix artificiel.
 
-**L’exemple affiché**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Exemple (question)
+« On dit : « Vous êtes avec nous ou contre nous », alors qu’il existe des nuances. »
+Une gamme de possibilités réelles est comprimée en un choix artificiel.
 
-**Pourquoi c’est bien Framing effect**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On dit : « Vous êtes avec nous ou contre nous », alors qu’il existe des nuances.
+Le monde a presque toujours plus de deux cases.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.`,
-    intermediate: `## Framing effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Concept clé
+Terrain intermédiaire:
+Une alternative réelle qui se situe entre ou au-delà des deux options proposées.
 
-Le passage montre **Framing effect** : une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela cache d’autres options.
+- Cela pousse les gens vers un faux choix.
+- Cela donne à un cadre simpliste un air décisif.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Si l’on ne montre que deux portes, c’est souvent qu’on cache le couloir.
 
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Framing effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.`,
-    expert: `## Framing effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
-
-Ici, **Framing effect** convient parce que une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Framing effect**, c’est Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Faux dilemme = Présenter deux options comme si aucune autre possibilité n’existait.`,
   },
   534: {
-    beginner: `## Framing effect — approfondi (Débutant)
+    beginner: `Faux dilemme = Présenter deux options comme si aucune autre possibilité n’existait.`,
+    detail: `Faux dilemme
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
+Description:
+Présenter deux options comme si aucune autre possibilité n’existait.
+Une gamme de possibilités réelles est comprimée en un choix artificiel.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« On dit : « Vous êtes avec nous ou contre nous », alors qu’il existe des nuances. »
+Une gamme de possibilités réelles est comprimée en un choix artificiel.
 
-**Pourquoi c’est bien Framing effect**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On dit : « Vous êtes avec nous ou contre nous », alors qu’il existe des nuances.
+Le monde a presque toujours plus de deux cases.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.`,
-    intermediate: `## Framing effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Terrain intermédiaire:
+Une alternative réelle qui se situe entre ou au-delà des deux options proposées.
 
-Le passage montre **Framing effect** : une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela cache d’autres options.
+- Cela pousse les gens vers un faux choix.
+- Cela donne à un cadre simpliste un air décisif.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Si l’on ne montre que deux portes, c’est souvent qu’on cache le couloir.
 
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Framing effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.`,
-    expert: `## Framing effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Framing effect** convient parce que une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Framing effect**, c’est Une erreur logique ou un biais cognitif impliquant Framing effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Faux dilemme = Présenter deux options comme si aucune autre possibilité n’existait.`,
   },
   535: {
-    beginner: `## Endowment effect — approfondi (Débutant)
+    beginner: `Fausse équivalence = Faire comme si deux choses différentes étaient équivalentes.`,
+    detail: `Fausse équivalence
 
-**En termes simples**  
-Surévaluer quelque chose simplement parce qu'on le possède.
+Description:
+Faire comme si deux choses différentes étaient équivalentes.
+Les différences importantes sont aplaties pour faire paraître la comparaison plus forte qu’elle ne l’est.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Surévaluer quelque chose simplement parce qu'on le possède.". »  
+Exemple (question)
+« Comparer une contravention de stationnement à un crime grave comme si c’était la même chose. »
+Les différences importantes sont aplaties pour faire paraître la comparaison plus forte qu’elle ne l’est.
 
-**Pourquoi c’est bien Endowment effect**  
-Surévaluer quelque chose simplement parce qu'on le possède. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Critiquer une politique est présenté comme l’équivalent de la trahison.
+Une comparaison forte n’est pas forcément juste.
 
-**À retenir**  
-Surévaluer quelque chose simplement parce qu'on le possède.`,
-    intermediate: `## Endowment effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Surévaluer quelque chose simplement parce qu'on le possède.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Surévaluer quelque chose simplement parce qu'on le possède.". »  
+Concept clé
+Différence pertinente:
+Une différence qui compte vraiment pour la conclusion à tirer.
 
-Le passage montre **Endowment effect** : surévaluer quelque chose simplement parce qu'on le possède.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut rendre une mauvaise option inoffensive.
+- Cela transforme la différence en pseudo-similitude.
+- Cela masque l’écart réel entre les choses.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Surévaluer quelque chose simplement parce qu'on le possède.
+L'implication inconfortable
+Quand on force deux choses à se ressembler, la conclusion devient du décor.
 
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si surévaluer quelque chose simplement parce qu'on le possède.
-
-**En une phrase**  
-**Endowment effect**, c’est quand le raisonnement correspond à : Surévaluer quelque chose simplement parce qu'on le possède.`,
-    expert: `## Endowment effect — approfondi (Expert)
-
-**Définition**  
-Surévaluer quelque chose simplement parce qu'on le possède.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Surévaluer quelque chose simplement parce qu'on le possède.". »  
-
-Ici, **Endowment effect** convient parce que surévaluer quelque chose simplement parce qu'on le possède.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 4 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 5 :** Autre situation courante : des notes ou examens. Surévaluer quelque chose simplement parce qu'on le possède.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Endowment effect**, c’est Surévaluer quelque chose simplement parce qu'on le possède.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Fausse équivalence = Faire comme si deux choses différentes étaient équivalentes.`,
   },
   536: {
-    beginner: `## Endowment effect — approfondi (Débutant)
+    beginner: `Fausse équivalence = Faire comme si deux choses différentes étaient équivalentes.`,
+    detail: `Fausse équivalence
 
-**En termes simples**  
-Surévaluer quelque chose simplement parce qu'on le possède.
+Description:
+Faire comme si deux choses différentes étaient équivalentes.
+Les différences importantes sont aplaties pour faire paraître la comparaison plus forte qu’elle ne l’est.
 
-**L’exemple affiché**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Exemple (question)
+« Comparer une contravention de stationnement à un crime grave comme si c’était la même chose. »
+Les différences importantes sont aplaties pour faire paraître la comparaison plus forte qu’elle ne l’est.
 
-**Pourquoi c’est bien Endowment effect**  
-Surévaluer quelque chose simplement parce qu'on le possède. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Critiquer une politique est présenté comme l’équivalent de la trahison.
+Une comparaison forte n’est pas forcément juste.
 
-**À retenir**  
-Surévaluer quelque chose simplement parce qu'on le possède.`,
-    intermediate: `## Endowment effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Surévaluer quelque chose simplement parce qu'on le possède.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Concept clé
+Différence pertinente:
+Une différence qui compte vraiment pour la conclusion à tirer.
 
-Le passage montre **Endowment effect** : surévaluer quelque chose simplement parce qu'on le possède.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut rendre une mauvaise option inoffensive.
+- Cela transforme la différence en pseudo-similitude.
+- Cela masque l’écart réel entre les choses.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : surévaluer quelque chose simplement parce qu'on le possède.
+L'implication inconfortable
+Quand on force deux choses à se ressembler, la conclusion devient du décor.
 
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Surévaluer quelque chose simplement parce qu'on le possède.
-
-**En une phrase**  
-**Endowment effect**, c’est quand le raisonnement correspond à : Surévaluer quelque chose simplement parce qu'on le possède.`,
-    expert: `## Endowment effect — approfondi (Expert)
-
-**Définition**  
-Surévaluer quelque chose simplement parce qu'on le possède.
-
-**Appliqué à ce passage**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
-
-Ici, **Endowment effect** convient parce que surévaluer quelque chose simplement parce qu'on le possède.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 4 :** Autre situation courante : des résultats sportifs ou d’entreprise. Surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 5 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Surévaluer quelque chose simplement parce qu'on le possède.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Endowment effect**, c’est Surévaluer quelque chose simplement parce qu'on le possède.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Fausse équivalence = Faire comme si deux choses différentes étaient équivalentes.`,
   },
   537: {
-    beginner: `## Endowment effect — approfondi (Débutant)
+    beginner: `Fausse équivalence = Faire comme si deux choses différentes étaient équivalentes.`,
+    detail: `Fausse équivalence
 
-**En termes simples**  
-Surévaluer quelque chose simplement parce qu'on le possède.
+Description:
+Faire comme si deux choses différentes étaient équivalentes.
+Les différences importantes sont aplaties pour faire paraître la comparaison plus forte qu’elle ne l’est.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Surévaluer quelque chose simplement parce qu'on le possède.". »  
+Exemple (question)
+« Comparer une contravention de stationnement à un crime grave comme si c’était la même chose. »
+Les différences importantes sont aplaties pour faire paraître la comparaison plus forte qu’elle ne l’est.
 
-**Pourquoi c’est bien Endowment effect**  
-Surévaluer quelque chose simplement parce qu'on le possède. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Critiquer une politique est présenté comme l’équivalent de la trahison.
+Une comparaison forte n’est pas forcément juste.
 
-**À retenir**  
-Surévaluer quelque chose simplement parce qu'on le possède.`,
-    intermediate: `## Endowment effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Surévaluer quelque chose simplement parce qu'on le possède.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Surévaluer quelque chose simplement parce qu'on le possède.". »  
+Concept clé
+Différence pertinente:
+Une différence qui compte vraiment pour la conclusion à tirer.
 
-Le passage montre **Endowment effect** : surévaluer quelque chose simplement parce qu'on le possède.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela peut rendre une mauvaise option inoffensive.
+- Cela transforme la différence en pseudo-similitude.
+- Cela masque l’écart réel entre les choses.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si surévaluer quelque chose simplement parce qu'on le possède.
+L'implication inconfortable
+Quand on force deux choses à se ressembler, la conclusion devient du décor.
 
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Surévaluer quelque chose simplement parce qu'on le possède.
-
-**En une phrase**  
-**Endowment effect**, c’est quand le raisonnement correspond à : Surévaluer quelque chose simplement parce qu'on le possède.`,
-    expert: `## Endowment effect — approfondi (Expert)
-
-**Définition**  
-Surévaluer quelque chose simplement parce qu'on le possède.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Surévaluer quelque chose simplement parce qu'on le possède.". »  
-
-Ici, **Endowment effect** convient parce que surévaluer quelque chose simplement parce qu'on le possède.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 4 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Surévaluer quelque chose simplement parce qu'on le possède.
-
-- **Exemple 5 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : surévaluer quelque chose simplement parce qu'on le possède.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Endowment effect**, c’est Surévaluer quelque chose simplement parce qu'on le possède.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Fausse équivalence = Faire comme si deux choses différentes étaient équivalentes.`,
   },
   538: {
-    beginner: `## Loss aversion — approfondi (Débutant)
+    beginner: `Sophisme du sophisme = Rejeter une thèse parce que l’argument qui la défendait était mauvais.`,
+    detail: `Sophisme du sophisme
 
-**En termes simples**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
+Description:
+Rejeter une thèse parce que l’argument qui la défendait était mauvais.
+Une défense faible ne rend pas automatiquement la thèse fausse.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.". »  
+Exemple (question)
+« Quelqu’un rate son explication, alors on jette l’idée avec. »
+Une défense faible ne rend pas automatiquement la thèse fausse.
 
-**Pourquoi c’est bien Loss aversion**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelqu’un rate son explication, alors on jette l’idée avec.
+Une mauvaise vitrine n’est pas la même chose qu’une mauvaise vérité.
 
-**À retenir**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.`,
-    intermediate: `## Loss aversion — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.". »  
+Concept clé
+Qualité de l’argument:
+La qualité du raisonnement présenté, qui reste distincte de la vérité de la thèse.
 
-Le passage montre **Loss aversion** : préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
+Pourquoi c'est important
+Explique pourquoi :
+- Une erreur de présentation ne prouve pas le faux.
+- Un mauvais raisonnement ne tue pas automatiquement la conclusion.
+- On peut jeter une bonne idée trop vite.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
+L'implication inconfortable
+Une mauvaise explication peut cacher un point vrai.
 
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-**En une phrase**  
-**Loss aversion**, c’est quand le raisonnement correspond à : Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.`,
-    expert: `## Loss aversion — approfondi (Expert)
-
-**Définition**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.". »  
-
-Ici, **Loss aversion** convient parce que préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 4 :** Imaginez une discussion en famille. C’est la même erreur : préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 5 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Loss aversion**, c’est Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Sophisme du sophisme = Rejeter une thèse parce que l’argument qui la défendait était mauvais.`,
   },
   539: {
-    beginner: `## Loss aversion — approfondi (Débutant)
+    beginner: `Sophisme du sophisme = Rejeter une thèse parce que l’argument qui la défendait était mauvais.`,
+    detail: `Sophisme du sophisme
 
-**En termes simples**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
+Description:
+Rejeter une thèse parce que l’argument qui la défendait était mauvais.
+Une défense faible ne rend pas automatiquement la thèse fausse.
 
-**L’exemple affiché**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Exemple (question)
+« Quelqu’un rate son explication, alors on jette l’idée avec. »
+Une défense faible ne rend pas automatiquement la thèse fausse.
 
-**Pourquoi c’est bien Loss aversion**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelqu’un rate son explication, alors on jette l’idée avec.
+Une mauvaise vitrine n’est pas la même chose qu’une mauvaise vérité.
 
-**À retenir**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.`,
-    intermediate: `## Loss aversion — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Concept clé
+Qualité de l’argument:
+La qualité du raisonnement présenté, qui reste distincte de la vérité de la thèse.
 
-Le passage montre **Loss aversion** : préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
+Pourquoi c'est important
+Explique pourquoi :
+- Une erreur de présentation ne prouve pas le faux.
+- Un mauvais raisonnement ne tue pas automatiquement la conclusion.
+- On peut jeter une bonne idée trop vite.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
+L'implication inconfortable
+Une mauvaise explication peut cacher un point vrai.
 
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-**En une phrase**  
-**Loss aversion**, c’est quand le raisonnement correspond à : Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.`,
-    expert: `## Loss aversion — approfondi (Expert)
-
-**Définition**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-**Appliqué à ce passage**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
-
-Ici, **Loss aversion** convient parce que préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 4 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 5 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Loss aversion**, c’est Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Sophisme du sophisme = Rejeter une thèse parce que l’argument qui la défendait était mauvais.`,
   },
   540: {
-    beginner: `## Loss aversion — approfondi (Débutant)
+    beginner: `Sophisme du sophisme = Rejeter une thèse parce que l’argument qui la défendait était mauvais.`,
+    detail: `Sophisme du sophisme
 
-**En termes simples**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
+Description:
+Rejeter une thèse parce que l’argument qui la défendait était mauvais.
+Une défense faible ne rend pas automatiquement la thèse fausse.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.". »  
+Exemple (question)
+« Quelqu’un rate son explication, alors on jette l’idée avec. »
+Une défense faible ne rend pas automatiquement la thèse fausse.
 
-**Pourquoi c’est bien Loss aversion**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelqu’un rate son explication, alors on jette l’idée avec.
+Une mauvaise vitrine n’est pas la même chose qu’une mauvaise vérité.
 
-**À retenir**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.`,
-    intermediate: `## Loss aversion — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.". »  
+Concept clé
+Qualité de l’argument:
+La qualité du raisonnement présenté, qui reste distincte de la vérité de la thèse.
 
-Le passage montre **Loss aversion** : préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
+Pourquoi c'est important
+Explique pourquoi :
+- Une erreur de présentation ne prouve pas le faux.
+- Un mauvais raisonnement ne tue pas automatiquement la conclusion.
+- On peut jeter une bonne idée trop vite.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
+L'implication inconfortable
+Une mauvaise explication peut cacher un point vrai.
 
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-**En une phrase**  
-**Loss aversion**, c’est quand le raisonnement correspond à : Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.`,
-    expert: `## Loss aversion — approfondi (Expert)
-
-**Définition**  
-Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.". »  
-
-Ici, **Loss aversion** convient parce que préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 4 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-- **Exemple 5 :** Autre situation courante : des résultats sportifs ou d’entreprise. Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Loss aversion**, c’est Préférer éviter les pertes plutôt qu'acquérir des gains équivalents.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Sophisme du sophisme = Rejeter une thèse parce que l’argument qui la défendait était mauvais.`,
   },
   541: {
-    beginner: `## Dunning-Kruger effect — approfondi (Débutant)
+    beginner: `Généralisation hâtive = Passer de quelques cas à une règle générale.`,
+    detail: `Généralisation hâtive
 
-**En termes simples**  
-Biais où les personnes incompétentes surestiment leur compétence.
+Description:
+Passer de quelques cas à une règle générale.
+Un petit échantillon est traité comme s’il représentait tout le monde.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Biais où les personnes incompétentes surestiment leur compétence.". »  
+Exemple (question)
+« Deux personnes impolies d’une ville deviennent la preuve que tout le monde y est impoli. »
+Un petit échantillon est traité comme s’il représentait tout le monde.
 
-**Pourquoi c’est bien Dunning-Kruger effect**  
-Biais où les personnes incompétentes surestiment leur compétence. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Deux personnes impolies d’une ville deviennent la preuve que tout le monde y est impoli.
+Quelques cas ne suffisent pas à fabriquer une loi.
 
-**À retenir**  
-Biais où les personnes incompétentes surestiment leur compétence.`,
-    intermediate: `## Dunning-Kruger effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Biais où les personnes incompétentes surestiment leur compétence.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Biais où les personnes incompétentes surestiment leur compétence.". »  
+Concept clé
+Taille de l’échantillon:
+Le nombre de cas observés avant de tirer une conclusion.
 
-Le passage montre **Dunning-Kruger effect** : biais où les personnes incompétentes surestiment leur compétence.
+Pourquoi c'est important
+Explique pourquoi :
+- Les petits échantillons trompent facilement.
+- Une exception peut ressembler à une tendance.
+- Une grande conclusion demande de grandes preuves.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : biais où les personnes incompétentes surestiment leur compétence.
+L'implication inconfortable
+Une petite fenêtre peut faire croire que toute la rue est pareille.
 
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Biais où les personnes incompétentes surestiment leur compétence.
-
-**En une phrase**  
-**Dunning-Kruger effect**, c’est quand le raisonnement correspond à : Biais où les personnes incompétentes surestiment leur compétence.`,
-    expert: `## Dunning-Kruger effect — approfondi (Expert)
-
-**Définition**  
-Biais où les personnes incompétentes surestiment leur compétence.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Biais où les personnes incompétentes surestiment leur compétence.". »  
-
-Ici, **Dunning-Kruger effect** convient parce que biais où les personnes incompétentes surestiment leur compétence.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 4 :** Autre situation courante : un récit sur la santé ou les habitudes. Biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 5 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Biais où les personnes incompétentes surestiment leur compétence.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Dunning-Kruger effect**, c’est Biais où les personnes incompétentes surestiment leur compétence.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Généralisation hâtive = Passer de quelques cas à une règle générale.`,
   },
   542: {
-    beginner: `## Dunning-Kruger effect — approfondi (Débutant)
+    beginner: `Généralisation hâtive = Passer de quelques cas à une règle générale.`,
+    detail: `Généralisation hâtive
 
-**En termes simples**  
-Biais où les personnes incompétentes surestiment leur compétence.
+Description:
+Passer de quelques cas à une règle générale.
+Un petit échantillon est traité comme s’il représentait tout le monde.
 
-**L’exemple affiché**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Exemple (question)
+« Deux personnes impolies d’une ville deviennent la preuve que tout le monde y est impoli. »
+Un petit échantillon est traité comme s’il représentait tout le monde.
 
-**Pourquoi c’est bien Dunning-Kruger effect**  
-Biais où les personnes incompétentes surestiment leur compétence. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Deux personnes impolies d’une ville deviennent la preuve que tout le monde y est impoli.
+Quelques cas ne suffisent pas à fabriquer une loi.
 
-**À retenir**  
-Biais où les personnes incompétentes surestiment leur compétence.`,
-    intermediate: `## Dunning-Kruger effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Biais où les personnes incompétentes surestiment leur compétence.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Concept clé
+Taille de l’échantillon:
+Le nombre de cas observés avant de tirer une conclusion.
 
-Le passage montre **Dunning-Kruger effect** : biais où les personnes incompétentes surestiment leur compétence.
+Pourquoi c'est important
+Explique pourquoi :
+- Les petits échantillons trompent facilement.
+- Une exception peut ressembler à une tendance.
+- Une grande conclusion demande de grandes preuves.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si biais où les personnes incompétentes surestiment leur compétence.
+L'implication inconfortable
+Une petite fenêtre peut faire croire que toute la rue est pareille.
 
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Biais où les personnes incompétentes surestiment leur compétence.
-
-**En une phrase**  
-**Dunning-Kruger effect**, c’est quand le raisonnement correspond à : Biais où les personnes incompétentes surestiment leur compétence.`,
-    expert: `## Dunning-Kruger effect — approfondi (Expert)
-
-**Définition**  
-Biais où les personnes incompétentes surestiment leur compétence.
-
-**Appliqué à ce passage**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
-
-Ici, **Dunning-Kruger effect** convient parce que biais où les personnes incompétentes surestiment leur compétence.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 4 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 5 :** Imaginez une discussion en famille. C’est la même erreur : biais où les personnes incompétentes surestiment leur compétence.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Dunning-Kruger effect**, c’est Biais où les personnes incompétentes surestiment leur compétence.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Généralisation hâtive = Passer de quelques cas à une règle générale.`,
   },
   543: {
-    beginner: `## Dunning-Kruger effect — approfondi (Débutant)
+    beginner: `Généralisation hâtive = Passer de quelques cas à une règle générale.`,
+    detail: `Généralisation hâtive
 
-**En termes simples**  
-Biais où les personnes incompétentes surestiment leur compétence.
+Description:
+Passer de quelques cas à une règle générale.
+Un petit échantillon est traité comme s’il représentait tout le monde.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Biais où les personnes incompétentes surestiment leur compétence.". »  
+Exemple (question)
+« Deux personnes impolies d’une ville deviennent la preuve que tout le monde y est impoli. »
+Un petit échantillon est traité comme s’il représentait tout le monde.
 
-**Pourquoi c’est bien Dunning-Kruger effect**  
-Biais où les personnes incompétentes surestiment leur compétence. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Deux personnes impolies d’une ville deviennent la preuve que tout le monde y est impoli.
+Quelques cas ne suffisent pas à fabriquer une loi.
 
-**À retenir**  
-Biais où les personnes incompétentes surestiment leur compétence.`,
-    intermediate: `## Dunning-Kruger effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Biais où les personnes incompétentes surestiment leur compétence.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Biais où les personnes incompétentes surestiment leur compétence.". »  
+Concept clé
+Taille de l’échantillon:
+Le nombre de cas observés avant de tirer une conclusion.
 
-Le passage montre **Dunning-Kruger effect** : biais où les personnes incompétentes surestiment leur compétence.
+Pourquoi c'est important
+Explique pourquoi :
+- Les petits échantillons trompent facilement.
+- Une exception peut ressembler à une tendance.
+- Une grande conclusion demande de grandes preuves.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Biais où les personnes incompétentes surestiment leur compétence.
+L'implication inconfortable
+Une petite fenêtre peut faire croire que toute la rue est pareille.
 
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Biais où les personnes incompétentes surestiment leur compétence.
-
-**En une phrase**  
-**Dunning-Kruger effect**, c’est quand le raisonnement correspond à : Biais où les personnes incompétentes surestiment leur compétence.`,
-    expert: `## Dunning-Kruger effect — approfondi (Expert)
-
-**Définition**  
-Biais où les personnes incompétentes surestiment leur compétence.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Biais où les personnes incompétentes surestiment leur compétence.". »  
-
-Ici, **Dunning-Kruger effect** convient parce que biais où les personnes incompétentes surestiment leur compétence.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 4 :** Imaginez des notes ou examens. C’est la même erreur : biais où les personnes incompétentes surestiment leur compétence.
-
-- **Exemple 5 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si biais où les personnes incompétentes surestiment leur compétence.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Dunning-Kruger effect**, c’est Biais où les personnes incompétentes surestiment leur compétence.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Généralisation hâtive = Passer de quelques cas à une règle générale.`,
   },
   544: {
-    beginner: `## Planning fallacy — approfondi (Débutant)
+    beginner: `Sophisme génétique = Juger une idée à son origine plutôt qu’à son contenu.`,
+    detail: `Sophisme génétique
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
+Description:
+Juger une idée à son origine plutôt qu’à son contenu.
+L’histoire de naissance remplace le fond de l’idée.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Exemple (question)
+« On rejette une théorie parce qu’une mauvaise personne l’a dite autrefois. »
+L’histoire de naissance remplace le fond de l’idée.
 
-**Pourquoi c’est bien Planning fallacy**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On rejette une théorie parce qu’une mauvaise personne l’a dite autrefois.
+Une thèse peut être vraie même si son premier soutien était mauvais.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Planning fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Concept clé
+Origine contre contenu:
+La différence entre d’où vient une idée et si cette idée est valable.
 
-Le passage montre **Planning fallacy** : une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une mauvaise origine ne prouve pas une mauvaise thèse.
+- Une bonne origine ne prouve pas une bonne thèse.
+- Il faut attaquer l’idée elle-même.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Une source peut être douteuse et dire quelque chose de juste.
 
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Planning fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.`,
-    expert: `## Planning fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
-
-Ici, **Planning fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Planning fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Sophisme génétique = Juger une idée à son origine plutôt qu’à son contenu.`,
   },
   545: {
-    beginner: `## Planning fallacy — approfondi (Débutant)
+    beginner: `Sophisme génétique = Juger une idée à son origine plutôt qu’à son contenu.`,
+    detail: `Sophisme génétique
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
+Description:
+Juger une idée à son origine plutôt qu’à son contenu.
+L’histoire de naissance remplace le fond de l’idée.
 
-**L’exemple affiché**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Exemple (question)
+« On rejette une théorie parce qu’une mauvaise personne l’a dite autrefois. »
+L’histoire de naissance remplace le fond de l’idée.
 
-**Pourquoi c’est bien Planning fallacy**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On rejette une théorie parce qu’une mauvaise personne l’a dite autrefois.
+Une thèse peut être vraie même si son premier soutien était mauvais.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Planning fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Concept clé
+Origine contre contenu:
+La différence entre d’où vient une idée et si cette idée est valable.
 
-Le passage montre **Planning fallacy** : une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une mauvaise origine ne prouve pas une mauvaise thèse.
+- Une bonne origine ne prouve pas une bonne thèse.
+- Il faut attaquer l’idée elle-même.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Une source peut être douteuse et dire quelque chose de juste.
 
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Planning fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.`,
-    expert: `## Planning fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
-
-Ici, **Planning fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Planning fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Sophisme génétique = Juger une idée à son origine plutôt qu’à son contenu.`,
   },
   546: {
-    beginner: `## Planning fallacy — approfondi (Débutant)
+    beginner: `Sophisme génétique = Juger une idée à son origine plutôt qu’à son contenu.`,
+    detail: `Sophisme génétique
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
+Description:
+Juger une idée à son origine plutôt qu’à son contenu.
+L’histoire de naissance remplace le fond de l’idée.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Exemple (question)
+« On rejette une théorie parce qu’une mauvaise personne l’a dite autrefois. »
+L’histoire de naissance remplace le fond de l’idée.
 
-**Pourquoi c’est bien Planning fallacy**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On rejette une théorie parce qu’une mauvaise personne l’a dite autrefois.
+Une thèse peut être vraie même si son premier soutien était mauvais.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.`,
-    intermediate: `## Planning fallacy — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
+Concept clé
+Origine contre contenu:
+La différence entre d’où vient une idée et si cette idée est valable.
 
-Le passage montre **Planning fallacy** : une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une mauvaise origine ne prouve pas une mauvaise thèse.
+- Une bonne origine ne prouve pas une bonne thèse.
+- Il faut attaquer l’idée elle-même.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
+L'implication inconfortable
+Une source peut être douteuse et dire quelque chose de juste.
 
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Planning fallacy**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.`,
-    expert: `## Planning fallacy — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux fallacy, où le raisonnement est défaillant.". »  
-
-Ici, **Planning fallacy** convient parce que une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Planning fallacy**, c’est Une erreur logique ou un biais cognitif impliquant Planning fallacy, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Sophisme génétique = Juger une idée à son origine plutôt qu’à son contenu.`,
   },
   547: {
-    beginner: `## Zeigarnik effect — approfondi (Débutant)
+    beginner: `Culpabilité par association = Accuser quelqu’un à cause de ses fréquentations.`,
+    detail: `Culpabilité par association
 
-**En termes simples**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
+Description:
+Accuser quelqu’un à cause de ses fréquentations.
+La personne est jugée par les gens qu’elle côtoie, pas par les preuves contre elle.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tendance à se souvenir des tâches inachevées mieux que de celles terminées.". »  
+Exemple (question)
+« Il connaît un criminel, donc il est criminel lui aussi. »
+La personne est jugée par les gens qu’elle côtoie, pas par les preuves contre elle.
 
-**Pourquoi c’est bien Zeigarnik effect**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Il connaît un criminel, donc il est criminel lui aussi.
+Le lien social n’est pas une preuve de culpabilité.
 
-**À retenir**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées.`,
-    intermediate: `## Zeigarnik effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tendance à se souvenir des tâches inachevées mieux que de celles terminées.". »  
+Concept clé
+Association:
+Un lien avec une personne ou un groupe qui ne prouve pas en soi une faute.
 
-Le passage montre **Zeigarnik effect** : tendance à se souvenir des tâches inachevées mieux que de celles terminées.
+Pourquoi c'est important
+Explique pourquoi :
+- On confond proximité et preuve.
+- On peut salir des innocents.
+- Cela remplace l’argument réel par une étiquette.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si tendance à se souvenir des tâches inachevées mieux que de celles terminées.
+L'implication inconfortable
+Savoir qui quelqu’un connaît ne dit pas qui il est.
 
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-**En une phrase**  
-**Zeigarnik effect**, c’est quand le raisonnement correspond à : Tendance à se souvenir des tâches inachevées mieux que de celles terminées.`,
-    expert: `## Zeigarnik effect — approfondi (Expert)
-
-**Définition**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tendance à se souvenir des tâches inachevées mieux que de celles terminées.". »  
-
-Ici, **Zeigarnik effect** convient parce que tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 4 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 5 :** Imaginez des notes ou examens. C’est la même erreur : tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Zeigarnik effect**, c’est Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Culpabilité par association = Accuser quelqu’un à cause de ses fréquentations.`,
   },
   548: {
-    beginner: `## Zeigarnik effect — approfondi (Débutant)
+    beginner: `Culpabilité par association = Accuser quelqu’un à cause de ses fréquentations.`,
+    detail: `Culpabilité par association
 
-**En termes simples**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
+Description:
+Accuser quelqu’un à cause de ses fréquentations.
+La personne est jugée par les gens qu’elle côtoie, pas par les preuves contre elle.
 
-**L’exemple affiché**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Exemple (question)
+« Il connaît un criminel, donc il est criminel lui aussi. »
+La personne est jugée par les gens qu’elle côtoie, pas par les preuves contre elle.
 
-**Pourquoi c’est bien Zeigarnik effect**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Il connaît un criminel, donc il est criminel lui aussi.
+Le lien social n’est pas une preuve de culpabilité.
 
-**À retenir**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées.`,
-    intermediate: `## Zeigarnik effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Concept clé
+Association:
+Un lien avec une personne ou un groupe qui ne prouve pas en soi une faute.
 
-Le passage montre **Zeigarnik effect** : tendance à se souvenir des tâches inachevées mieux que de celles terminées.
+Pourquoi c'est important
+Explique pourquoi :
+- On confond proximité et preuve.
+- On peut salir des innocents.
+- Cela remplace l’argument réel par une étiquette.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
+L'implication inconfortable
+Savoir qui quelqu’un connaît ne dit pas qui il est.
 
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-**En une phrase**  
-**Zeigarnik effect**, c’est quand le raisonnement correspond à : Tendance à se souvenir des tâches inachevées mieux que de celles terminées.`,
-    expert: `## Zeigarnik effect — approfondi (Expert)
-
-**Définition**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-**Appliqué à ce passage**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
-
-Ici, **Zeigarnik effect** convient parce que tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 4 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 5 :** Pensez à une discussion en famille. Souvent, on raisonne comme si tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Zeigarnik effect**, c’est Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Culpabilité par association = Accuser quelqu’un à cause de ses fréquentations.`,
   },
   549: {
-    beginner: `## Zeigarnik effect — approfondi (Débutant)
+    beginner: `Culpabilité par association = Accuser quelqu’un à cause de ses fréquentations.`,
+    detail: `Culpabilité par association
 
-**En termes simples**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
+Description:
+Accuser quelqu’un à cause de ses fréquentations.
+La personne est jugée par les gens qu’elle côtoie, pas par les preuves contre elle.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Tendance à se souvenir des tâches inachevées mieux que de celles terminées.". »  
+Exemple (question)
+« Il connaît un criminel, donc il est criminel lui aussi. »
+La personne est jugée par les gens qu’elle côtoie, pas par les preuves contre elle.
 
-**Pourquoi c’est bien Zeigarnik effect**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Il connaît un criminel, donc il est criminel lui aussi.
+Le lien social n’est pas une preuve de culpabilité.
 
-**À retenir**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées.`,
-    intermediate: `## Zeigarnik effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Tendance à se souvenir des tâches inachevées mieux que de celles terminées.". »  
+Concept clé
+Association:
+Un lien avec une personne ou un groupe qui ne prouve pas en soi une faute.
 
-Le passage montre **Zeigarnik effect** : tendance à se souvenir des tâches inachevées mieux que de celles terminées.
+Pourquoi c'est important
+Explique pourquoi :
+- On confond proximité et preuve.
+- On peut salir des innocents.
+- Cela remplace l’argument réel par une étiquette.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
+L'implication inconfortable
+Savoir qui quelqu’un connaît ne dit pas qui il est.
 
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-**En une phrase**  
-**Zeigarnik effect**, c’est quand le raisonnement correspond à : Tendance à se souvenir des tâches inachevées mieux que de celles terminées.`,
-    expert: `## Zeigarnik effect — approfondi (Expert)
-
-**Définition**  
-Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Tendance à se souvenir des tâches inachevées mieux que de celles terminées.". »  
-
-Ici, **Zeigarnik effect** convient parce que tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 4 :** Pensez à des notes ou examens. Souvent, on raisonne comme si tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-- **Exemple 5 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Zeigarnik effect**, c’est Tendance à se souvenir des tâches inachevées mieux que de celles terminées.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Culpabilité par association = Accuser quelqu’un à cause de ses fréquentations.`,
   },
   550: {
-    beginner: `## IKEA effect — approfondi (Débutant)
+    beginner: `Effet de halo = Laisser un trait positif déformer tout le jugement.`,
+    detail: `Effet de halo
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
+Description:
+Laisser un trait positif déformer tout le jugement.
+La bonne première impression déborde sur des traits sans lien.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Une personne séduisante est tenue pour intelligente, honnête et compétente. »
+La bonne première impression déborde sur des traits sans lien.
 
-**Pourquoi c’est bien IKEA effect**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une personne séduisante est tenue pour intelligente, honnête et compétente.
+Une seule lumière peut teinter toute la scène.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.`,
-    intermediate: `## IKEA effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Contamination par un trait:
+Quand une qualité positive colore injustement l’évaluation des autres qualités.
 
-Le passage montre **IKEA effect** : une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un beau trait peut masquer de faibles preuves.
+- Un seul aspect ne devrait pas tout décider.
+- Le biais peut se déguiser en intuition.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Un halo lumineux peut quand même jeter une mauvaise ombre.
 
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**IKEA effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.`,
-    expert: `## IKEA effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **IKEA effect** convient parce que une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**IKEA effect**, c’est Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Effet de halo = Laisser un trait positif déformer tout le jugement.`,
   },
   551: {
-    beginner: `## IKEA effect — approfondi (Débutant)
+    beginner: `Effet de halo = Laisser un trait positif déformer tout le jugement.`,
+    detail: `Effet de halo
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
+Description:
+Laisser un trait positif déformer tout le jugement.
+La bonne première impression déborde sur des traits sans lien.
 
-**L’exemple affiché**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Exemple (question)
+« Une personne séduisante est tenue pour intelligente, honnête et compétente. »
+La bonne première impression déborde sur des traits sans lien.
 
-**Pourquoi c’est bien IKEA effect**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une personne séduisante est tenue pour intelligente, honnête et compétente.
+Une seule lumière peut teinter toute la scène.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.`,
-    intermediate: `## IKEA effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Concept clé
+Contamination par un trait:
+Quand une qualité positive colore injustement l’évaluation des autres qualités.
 
-Le passage montre **IKEA effect** : une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un beau trait peut masquer de faibles preuves.
+- Un seul aspect ne devrait pas tout décider.
+- Le biais peut se déguiser en intuition.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Un halo lumineux peut quand même jeter une mauvaise ombre.
 
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**IKEA effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.`,
-    expert: `## IKEA effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
-
-Ici, **IKEA effect** convient parce que une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**IKEA effect**, c’est Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Effet de halo = Laisser un trait positif déformer tout le jugement.`,
   },
   552: {
-    beginner: `## IKEA effect — approfondi (Débutant)
+    beginner: `Effet de halo = Laisser un trait positif déformer tout le jugement.`,
+    detail: `Effet de halo
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
+Description:
+Laisser un trait positif déformer tout le jugement.
+La bonne première impression déborde sur des traits sans lien.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Une personne séduisante est tenue pour intelligente, honnête et compétente. »
+La bonne première impression déborde sur des traits sans lien.
 
-**Pourquoi c’est bien IKEA effect**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une personne séduisante est tenue pour intelligente, honnête et compétente.
+Une seule lumière peut teinter toute la scène.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.`,
-    intermediate: `## IKEA effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Contamination par un trait:
+Quand une qualité positive colore injustement l’évaluation des autres qualités.
 
-Le passage montre **IKEA effect** : une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un beau trait peut masquer de faibles preuves.
+- Un seul aspect ne devrait pas tout décider.
+- Le biais peut se déguiser en intuition.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Un halo lumineux peut quand même jeter une mauvaise ombre.
 
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**IKEA effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.`,
-    expert: `## IKEA effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **IKEA effect** convient parce que une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**IKEA effect**, c’est Une erreur logique ou un biais cognitif impliquant IKEA effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Effet de halo = Laisser un trait positif déformer tout le jugement.`,
   },
   553: {
-    beginner: `## Ben Franklin effect — approfondi (Débutant)
+    beginner: `Sophisme de l’historien = Juger le passé comme si les gens avaient connu ce que nous savons maintenant.`,
+    detail: `Sophisme de l’historien
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
+Description:
+Juger le passé comme si les gens avaient connu ce que nous savons maintenant.
+Les connaissances actuelles sont projetées en arrière sur des gens qui ne les avaient pas.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« On reproche à un dirigeant ancien de ne pas avoir prévu des faits découverts bien plus tard. »
+Les connaissances actuelles sont projetées en arrière sur des gens qui ne les avaient pas.
 
-**Pourquoi c’est bien Ben Franklin effect**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On reproche à un dirigeant ancien de ne pas avoir prévu des faits découverts bien plus tard.
+L’histoire n’est pas le recul avec des costumes.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.`,
-    intermediate: `## Ben Franklin effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Présentisme:
+Projeter les connaissances ou valeurs d’aujourd’hui sur des événements passés.
 
-Le passage montre **Ben Franklin effect** : une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela oublie ce qui était réellement visible à l’époque.
+- Cela rend les décisions passées injustement stupides.
+- Cela efface l’incertitude d’alors.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Le passé ne peut pas utiliser des informations qui n’existaient pas encore.
 
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ben Franklin effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.`,
-    expert: `## Ben Franklin effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Ben Franklin effect** convient parce que une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ben Franklin effect**, c’est Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Sophisme de l’historien = Juger le passé comme si les gens avaient connu ce que nous savons maintenant.`,
   },
   554: {
-    beginner: `## Ben Franklin effect — approfondi (Débutant)
+    beginner: `Sophisme de l’historien = Juger le passé comme si les gens avaient connu ce que nous savons maintenant.`,
+    detail: `Sophisme de l’historien
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
+Description:
+Juger le passé comme si les gens avaient connu ce que nous savons maintenant.
+Les connaissances actuelles sont projetées en arrière sur des gens qui ne les avaient pas.
 
-**L’exemple affiché**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Exemple (question)
+« On reproche à un dirigeant ancien de ne pas avoir prévu des faits découverts bien plus tard. »
+Les connaissances actuelles sont projetées en arrière sur des gens qui ne les avaient pas.
 
-**Pourquoi c’est bien Ben Franklin effect**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On reproche à un dirigeant ancien de ne pas avoir prévu des faits découverts bien plus tard.
+L’histoire n’est pas le recul avec des costumes.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.`,
-    intermediate: `## Ben Franklin effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Concept clé
+Présentisme:
+Projeter les connaissances ou valeurs d’aujourd’hui sur des événements passés.
 
-Le passage montre **Ben Franklin effect** : une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela oublie ce qui était réellement visible à l’époque.
+- Cela rend les décisions passées injustement stupides.
+- Cela efface l’incertitude d’alors.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Le passé ne peut pas utiliser des informations qui n’existaient pas encore.
 
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ben Franklin effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.`,
-    expert: `## Ben Franklin effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
-
-Ici, **Ben Franklin effect** convient parce que une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ben Franklin effect**, c’est Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Sophisme de l’historien = Juger le passé comme si les gens avaient connu ce que nous savons maintenant.`,
   },
   555: {
-    beginner: `## Ben Franklin effect — approfondi (Débutant)
+    beginner: `Sophisme de l’historien = Juger le passé comme si les gens avaient connu ce que nous savons maintenant.`,
+    detail: `Sophisme de l’historien
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
+Description:
+Juger le passé comme si les gens avaient connu ce que nous savons maintenant.
+Les connaissances actuelles sont projetées en arrière sur des gens qui ne les avaient pas.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« On reproche à un dirigeant ancien de ne pas avoir prévu des faits découverts bien plus tard. »
+Les connaissances actuelles sont projetées en arrière sur des gens qui ne les avaient pas.
 
-**Pourquoi c’est bien Ben Franklin effect**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On reproche à un dirigeant ancien de ne pas avoir prévu des faits découverts bien plus tard.
+L’histoire n’est pas le recul avec des costumes.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.`,
-    intermediate: `## Ben Franklin effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Présentisme:
+Projeter les connaissances ou valeurs d’aujourd’hui sur des événements passés.
 
-Le passage montre **Ben Franklin effect** : une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela oublie ce qui était réellement visible à l’époque.
+- Cela rend les décisions passées injustement stupides.
+- Cela efface l’incertitude d’alors.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Le passé ne peut pas utiliser des informations qui n’existaient pas encore.
 
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ben Franklin effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.`,
-    expert: `## Ben Franklin effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Ben Franklin effect** convient parce que une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ben Franklin effect**, c’est Une erreur logique ou un biais cognitif impliquant Ben Franklin effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Sophisme de l’historien = Juger le passé comme si les gens avaient connu ce que nous savons maintenant.`,
   },
   556: {
-    beginner: `## Mere exposure effect — approfondi (Débutant)
+    beginner: `Effet de la main chaude = Croire qu’une série chanceuse doit continuer.`,
+    detail: `Effet de la main chaude
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
+Description:
+Croire qu’une série chanceuse doit continuer.
+Une courte série de succès est prise pour une force qui doit durer.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Un basketteur enchaîne les tirs et on s’attend à ce que le prochain entre aussi. »
+Une courte série de succès est prise pour une force qui doit durer.
 
-**Pourquoi c’est bien Mere exposure effect**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un basketteur enchaîne les tirs et on s’attend à ce que le prochain entre aussi.
+Une série peut être du hasard, pas une loi.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.`,
-    intermediate: `## Mere exposure effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Série aléatoire:
+Une suite de résultats qui peut arriver par hasard sans indiquer de motif caché.
 
-Le passage montre **Mere exposure effect** : une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Les séries arrivent naturellement.
+- Des succès passés ne garantissent rien.
+- La confiance peut dépasser les preuves.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Une série chaude peut refroidir sans prévenir.
 
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Mere exposure effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.`,
-    expert: `## Mere exposure effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Mere exposure effect** convient parce que une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Mere exposure effect**, c’est Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Effet de la main chaude = Croire qu’une série chanceuse doit continuer.`,
   },
   557: {
-    beginner: `## Mere exposure effect — approfondi (Débutant)
+    beginner: `Effet de la main chaude = Croire qu’une série chanceuse doit continuer.`,
+    detail: `Effet de la main chaude
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
+Description:
+Croire qu’une série chanceuse doit continuer.
+Une courte série de succès est prise pour une force qui doit durer.
 
-**L’exemple affiché**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Exemple (question)
+« Un basketteur enchaîne les tirs et on s’attend à ce que le prochain entre aussi. »
+Une courte série de succès est prise pour une force qui doit durer.
 
-**Pourquoi c’est bien Mere exposure effect**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un basketteur enchaîne les tirs et on s’attend à ce que le prochain entre aussi.
+Une série peut être du hasard, pas une loi.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.`,
-    intermediate: `## Mere exposure effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Concept clé
+Série aléatoire:
+Une suite de résultats qui peut arriver par hasard sans indiquer de motif caché.
 
-Le passage montre **Mere exposure effect** : une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Les séries arrivent naturellement.
+- Des succès passés ne garantissent rien.
+- La confiance peut dépasser les preuves.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Une série chaude peut refroidir sans prévenir.
 
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Mere exposure effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.`,
-    expert: `## Mere exposure effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
-
-Ici, **Mere exposure effect** convient parce que une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Mere exposure effect**, c’est Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Effet de la main chaude = Croire qu’une série chanceuse doit continuer.`,
   },
   558: {
-    beginner: `## Mere exposure effect — approfondi (Débutant)
+    beginner: `Effet de la main chaude = Croire qu’une série chanceuse doit continuer.`,
+    detail: `Effet de la main chaude
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
+Description:
+Croire qu’une série chanceuse doit continuer.
+Une courte série de succès est prise pour une force qui doit durer.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Un basketteur enchaîne les tirs et on s’attend à ce que le prochain entre aussi. »
+Une courte série de succès est prise pour une force qui doit durer.
 
-**Pourquoi c’est bien Mere exposure effect**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un basketteur enchaîne les tirs et on s’attend à ce que le prochain entre aussi.
+Une série peut être du hasard, pas une loi.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.`,
-    intermediate: `## Mere exposure effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Série aléatoire:
+Une suite de résultats qui peut arriver par hasard sans indiquer de motif caché.
 
-Le passage montre **Mere exposure effect** : une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Les séries arrivent naturellement.
+- Des succès passés ne garantissent rien.
+- La confiance peut dépasser les preuves.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Une série chaude peut refroidir sans prévenir.
 
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Mere exposure effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.`,
-    expert: `## Mere exposure effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Mere exposure effect** convient parce que une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Mere exposure effect**, c’est Une erreur logique ou un biais cognitif impliquant Mere exposure effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Effet de la main chaude = Croire qu’une série chanceuse doit continuer.`,
   },
   559: {
-    beginner: `## Spotlight effect — approfondi (Débutant)
+    beginner: `Corrélation illusoire = Voir un lien qui n’existe pas vraiment.`,
+    detail: `Corrélation illusoire
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
+Description:
+Voir un lien qui n’existe pas vraiment.
+Deux choses semblent liées parce qu’elles se remarquent ensemble, même si le lien est faux.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Les ventes de glaces et les noyades montent l’été, donc l’une doit causer l’autre. »
+Deux choses semblent liées parce qu’elles se remarquent ensemble, même si le lien est faux.
 
-**Pourquoi c’est bien Spotlight effect**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Les ventes de glaces et les noyades montent l’été, donc l’une doit causer l’autre.
+Un même calendrier n’est pas un vrai lien.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.`,
-    intermediate: `## Spotlight effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Faux lien:
+Une relation perçue entre deux variables qui n’est pas soutenue par les faits.
 
-Le passage montre **Spotlight effect** : une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une coïncidence peut sembler profonde.
+- Le contexte de fond est souvent ignoré.
+- Un faux lien peut fabriquer une fausse cause.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Un motif qui se ressemble n’est pas la même chose qu’un lien réel.
 
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Spotlight effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.`,
-    expert: `## Spotlight effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Spotlight effect** convient parce que une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Spotlight effect**, c’est Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Corrélation illusoire = Voir un lien qui n’existe pas vraiment.`,
   },
   560: {
-    beginner: `## Spotlight effect — approfondi (Débutant)
+    beginner: `Corrélation illusoire = Voir un lien qui n’existe pas vraiment.`,
+    detail: `Corrélation illusoire
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
+Description:
+Voir un lien qui n’existe pas vraiment.
+Deux choses semblent liées parce qu’elles se remarquent ensemble, même si le lien est faux.
 
-**L’exemple affiché**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Exemple (question)
+« Les ventes de glaces et les noyades montent l’été, donc l’une doit causer l’autre. »
+Deux choses semblent liées parce qu’elles se remarquent ensemble, même si le lien est faux.
 
-**Pourquoi c’est bien Spotlight effect**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Les ventes de glaces et les noyades montent l’été, donc l’une doit causer l’autre.
+Un même calendrier n’est pas un vrai lien.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.`,
-    intermediate: `## Spotlight effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît clair, mais la preuve manque encore.
+- Le raisonnement saute l’étape difficile.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Concept clé
+Faux lien:
+Une relation perçue entre deux variables qui n’est pas soutenue par les faits.
 
-Le passage montre **Spotlight effect** : une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une coïncidence peut sembler profonde.
+- Le contexte de fond est souvent ignoré.
+- Un faux lien peut fabriquer une fausse cause.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Un motif qui se ressemble n’est pas la même chose qu’un lien réel.
 
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Spotlight effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.`,
-    expert: `## Spotlight effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
-
-Ici, **Spotlight effect** convient parce que une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Spotlight effect**, c’est Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Corrélation illusoire = Voir un lien qui n’existe pas vraiment.`,
   },
   561: {
     beginner: `## Spotlight effect — approfondi (Débutant)
