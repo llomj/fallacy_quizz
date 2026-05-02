@@ -57959,1894 +57959,1234 @@ En une phrase
 Corrélation illusoire = Voir un lien qui n’existe pas vraiment.`,
   },
   561: {
-    beginner: `## Spotlight effect — approfondi (Débutant)
+    beginner: `Effet projecteur = Croire que les autres remarquent beaucoup plus nos actes ou nos défauts qu’ils ne le font.`,
+    detail: `Effet projecteur
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
+Description:
+Se sentir observé beaucoup plus qu’on ne l’est réellement.
+Pensez à une personne qui croit que tout le monde remarque sa petite erreur, alors que presque personne ne la voit.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Pensez à une personne qui croit que tout le monde remarque sa petite erreur, alors que presque personne ne la voit. »
+Un détail gênant semble gigantesque pour soi, mais il passe presque inaperçu pour les autres.
+Notre attention grossit notre propre visibilité.
 
-**Pourquoi c’est bien Spotlight effect**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un détail gênant semble gigantesque pour soi, mais il passe presque inaperçu pour les autres.
+Notre attention grossit notre propre visibilité.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.`,
-    intermediate: `## Spotlight effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Surestimation de l’attention:
+Le fait de croire que les autres nous regardent et nous jugent bien plus qu’ils ne le font.
 
-Le passage montre **Spotlight effect** : une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela gonfle l’importance de petits défauts.
+- Cela fausse la lecture des réactions des autres.
+- Cela peut rendre les gens inutilement anxieux.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Le monde n’est pas un projecteur braqué sur nous.
 
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Spotlight effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.`,
-    expert: `## Spotlight effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Spotlight effect** convient parce que une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Spotlight effect**, c’est Une erreur logique ou un biais cognitif impliquant Spotlight effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Effet projecteur = Croire que les autres remarquent beaucoup plus nos actes ou nos défauts qu’ils ne le font.`,
   },
   562: {
-    beginner: `## Barnum effect — approfondi (Débutant)
+    beginner: `Effet Barnum = Accepter des descriptions vagues comme si elles étaient faites pour soi.`,
+    detail: `Effet Barnum
 
-**En termes simples**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
+Description:
+Prendre une phrase générale pour un portrait très personnel.
+Une description vague semble incroyablement juste parce qu’elle pourrait viser presque tout le monde.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.". »  
+Exemple (question)
+« Une description vague semble incroyablement juste parce qu’elle pourrait viser presque tout le monde. »
+Une formule floue paraît intime alors qu’elle reste très large.
+Le vague peut donner l’illusion du sur-mesure.
 
-**Pourquoi c’est bien Barnum effect**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une formule floue paraît intime alors qu’elle reste très large.
+Le vague peut donner l’illusion du sur-mesure.
 
-**À retenir**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.`,
-    intermediate: `## Barnum effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.". »  
+Concept clé
+Description vague:
+Une formulation assez large pour paraître personnelle à beaucoup de gens.
 
-Le passage montre **Barnum effect** : accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela fait passer du général pour du précis.
+- Cela donne une fausse impression de vérité.
+- Cela exploite le désir d’être compris.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
+L'implication inconfortable
+Ce qui semble personnel n’est pas forcément vrai.
 
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-**En une phrase**  
-**Barnum effect**, c’est quand le raisonnement correspond à : Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.`,
-    expert: `## Barnum effect — approfondi (Expert)
-
-**Définition**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.". »  
-
-Ici, **Barnum effect** convient parce que accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 4 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 5 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Barnum effect**, c’est Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Effet Barnum = Accepter des descriptions vagues comme si elles étaient faites pour soi.`,
   },
   563: {
-    beginner: `## Barnum effect — approfondi (Débutant)
+    beginner: `Effet Barnum = Accepter des descriptions vagues comme si elles étaient faites pour soi.`,
+    detail: `Effet Barnum
 
-**En termes simples**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
+Description:
+Prendre une phrase générale pour un portrait très personnel.
+Une description vague semble incroyablement juste parce qu’elle pourrait viser presque tout le monde.
 
-**L’exemple affiché**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Exemple (question)
+« Une description vague semble incroyablement juste parce qu’elle pourrait viser presque tout le monde. »
+Une formule floue paraît intime alors qu’elle reste très large.
+Le vague peut donner l’illusion du sur-mesure.
 
-**Pourquoi c’est bien Barnum effect**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une formule floue paraît intime alors qu’elle reste très large.
+Le vague peut donner l’illusion du sur-mesure.
 
-**À retenir**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.`,
-    intermediate: `## Barnum effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Concept clé
+Description vague:
+Une formulation assez large pour paraître personnelle à beaucoup de gens.
 
-Le passage montre **Barnum effect** : accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela fait passer du général pour du précis.
+- Cela donne une fausse impression de vérité.
+- Cela exploite le désir d’être compris.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
+L'implication inconfortable
+Ce qui semble personnel n’est pas forcément vrai.
 
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-**En une phrase**  
-**Barnum effect**, c’est quand le raisonnement correspond à : Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.`,
-    expert: `## Barnum effect — approfondi (Expert)
-
-**Définition**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-**Appliqué à ce passage**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
-
-Ici, **Barnum effect** convient parce que accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 4 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 5 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Barnum effect**, c’est Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Effet Barnum = Accepter des descriptions vagues comme si elles étaient faites pour soi.`,
   },
   564: {
-    beginner: `## Barnum effect — approfondi (Débutant)
+    beginner: `Effet Barnum = Accepter des descriptions vagues comme si elles étaient faites pour soi.`,
+    detail: `Effet Barnum
 
-**En termes simples**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
+Description:
+Prendre une phrase générale pour un portrait très personnel.
+Une description vague semble incroyablement juste parce qu’elle pourrait viser presque tout le monde.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.". »  
+Exemple (question)
+« Une description vague semble incroyablement juste parce qu’elle pourrait viser presque tout le monde. »
+Une formule floue paraît intime alors qu’elle reste très large.
+Le vague peut donner l’illusion du sur-mesure.
 
-**Pourquoi c’est bien Barnum effect**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Une formule floue paraît intime alors qu’elle reste très large.
+Le vague peut donner l’illusion du sur-mesure.
 
-**À retenir**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.`,
-    intermediate: `## Barnum effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.". »  
+Concept clé
+Description vague:
+Une formulation assez large pour paraître personnelle à beaucoup de gens.
 
-Le passage montre **Barnum effect** : accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela fait passer du général pour du précis.
+- Cela donne une fausse impression de vérité.
+- Cela exploite le désir d’être compris.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
+L'implication inconfortable
+Ce qui semble personnel n’est pas forcément vrai.
 
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-**En une phrase**  
-**Barnum effect**, c’est quand le raisonnement correspond à : Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.`,
-    expert: `## Barnum effect — approfondi (Expert)
-
-**Définition**  
-Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.". »  
-
-Ici, **Barnum effect** convient parce que accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 4 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-- **Exemple 5 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Barnum effect**, c’est Accepter des descriptions de personnalité vagues comme s'appliquant uniquement à soi-même.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Effet Barnum = Accepter des descriptions vagues comme si elles étaient faites pour soi.`,
   },
   565: {
-    beginner: `## Forer effect — approfondi (Débutant)
+    beginner: `Effet Forer = Donner du crédit à une phrase vague parce qu’elle semble vous décrire.`,
+    detail: `Effet Forer
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
+Description:
+Laisser une formule générale paraître étonnamment exacte.
+Une lecture de personnalité paraît très précise alors qu’elle reste volontairement floue.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Une lecture de personnalité paraît très précise alors qu’elle reste volontairement floue. »
+On croit reconnaître son cas dans une phrase qui pourrait convenir à beaucoup de monde.
+Plus une phrase est vague, plus elle peut sembler personnelle.
 
-**Pourquoi c’est bien Forer effect**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On croit reconnaître son cas dans une phrase qui pourrait convenir à beaucoup de monde.
+Plus une phrase est vague, plus elle peut sembler personnelle.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.`,
-    intermediate: `## Forer effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Fausse précision:
+L’illusion qu’une description générale aurait révélé quelque chose de très précis.
 
-Le passage montre **Forer effect** : une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond familiarité et exactitude.
+- Cela fait passer du flou pour une preuve.
+- Cela encourage des jugements trop confiants.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Une phrase vague peut sembler vous lire comme un livre.
 
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Forer effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.`,
-    expert: `## Forer effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Forer effect** convient parce que une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Forer effect**, c’est Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Effet Forer = Donner du crédit à une phrase vague parce qu’elle semble vous décrire.`,
   },
   566: {
-    beginner: `## Forer effect — approfondi (Débutant)
+    beginner: `Effet Forer = Donner du crédit à une phrase vague parce qu’elle semble vous décrire.`,
+    detail: `Effet Forer
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
+Description:
+Laisser une formule générale paraître étonnamment exacte.
+Une lecture de personnalité paraît très précise alors qu’elle reste volontairement floue.
 
-**L’exemple affiché**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Exemple (question)
+« Une lecture de personnalité paraît très précise alors qu’elle reste volontairement floue. »
+On croit reconnaître son cas dans une phrase qui pourrait convenir à beaucoup de monde.
+Plus une phrase est vague, plus elle peut sembler personnelle.
 
-**Pourquoi c’est bien Forer effect**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On croit reconnaître son cas dans une phrase qui pourrait convenir à beaucoup de monde.
+Plus une phrase est vague, plus elle peut sembler personnelle.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.`,
-    intermediate: `## Forer effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Concept clé
+Fausse précision:
+L’illusion qu’une description générale aurait révélé quelque chose de très précis.
 
-Le passage montre **Forer effect** : une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond familiarité et exactitude.
+- Cela fait passer du flou pour une preuve.
+- Cela encourage des jugements trop confiants.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Une phrase vague peut sembler vous lire comme un livre.
 
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Forer effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.`,
-    expert: `## Forer effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
-
-Ici, **Forer effect** convient parce que une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Forer effect**, c’est Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Effet Forer = Donner du crédit à une phrase vague parce qu’elle semble vous décrire.`,
   },
   567: {
-    beginner: `## Forer effect — approfondi (Débutant)
+    beginner: `Effet Forer = Donner du crédit à une phrase vague parce qu’elle semble vous décrire.`,
+    detail: `Effet Forer
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
+Description:
+Laisser une formule générale paraître étonnamment exacte.
+Une lecture de personnalité paraît très précise alors qu’elle reste volontairement floue.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Une lecture de personnalité paraît très précise alors qu’elle reste volontairement floue. »
+On croit reconnaître son cas dans une phrase qui pourrait convenir à beaucoup de monde.
+Plus une phrase est vague, plus elle peut sembler personnelle.
 
-**Pourquoi c’est bien Forer effect**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On croit reconnaître son cas dans une phrase qui pourrait convenir à beaucoup de monde.
+Plus une phrase est vague, plus elle peut sembler personnelle.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.`,
-    intermediate: `## Forer effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Fausse précision:
+L’illusion qu’une description générale aurait révélé quelque chose de très précis.
 
-Le passage montre **Forer effect** : une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond familiarité et exactitude.
+- Cela fait passer du flou pour une preuve.
+- Cela encourage des jugements trop confiants.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Une phrase vague peut sembler vous lire comme un livre.
 
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Forer effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.`,
-    expert: `## Forer effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Forer effect** convient parce que une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Forer effect**, c’est Une erreur logique ou un biais cognitif impliquant Forer effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Effet Forer = Donner du crédit à une phrase vague parce qu’elle semble vous décrire.`,
   },
   568: {
-    beginner: `## Pareidolia — approfondi (Débutant)
+    beginner: `Paréidolie = Percevoir des images ou des motifs significatifs dans des stimuli aléatoires.`,
+    detail: `Paréidolie
 
-**En termes simples**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
+Description:
+Voir des formes connues dans du bruit aléatoire.
+Voir un visage dans les nuages.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Percevoir des images ou motifs significatifs dans des stimulus aléatoires.". »  
+Exemple (question)
+« Voir un visage dans les nuages. »
+Un motif sans sens précis semble porter un message clair.
+Notre cerveau aime reconnaître des formes, même quand elles ne sont pas là.
 
-**Pourquoi c’est bien Pareidolia**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un motif sans sens précis semble porter un message clair.
+Notre cerveau aime reconnaître des formes, même quand elles ne sont pas là.
 
-**À retenir**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires.`,
-    intermediate: `## Pareidolia — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Percevoir des images ou motifs significatifs dans des stimulus aléatoires.". »  
+Concept clé
+Reconnaissance de formes:
+La tendance à identifier des formes familières dans des données aléatoires.
 
-Le passage montre **Pareidolia** : percevoir des images ou motifs significatifs dans des stimulus aléatoires.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela transforme du hasard en message.
+- Cela peut faire paraître un motif comme une preuve.
+- Cela pousse à lire trop vite des intentions.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
+L'implication inconfortable
+Un visage vu dans un nuage reste un nuage.
 
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-**En une phrase**  
-**Pareidolia**, c’est quand le raisonnement correspond à : Percevoir des images ou motifs significatifs dans des stimulus aléatoires.`,
-    expert: `## Pareidolia — approfondi (Expert)
-
-**Définition**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Percevoir des images ou motifs significatifs dans des stimulus aléatoires.". »  
-
-Ici, **Pareidolia** convient parce que percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 4 :** Imaginez une discussion en famille. C’est la même erreur : percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 5 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Pareidolia**, c’est Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Paréidolie = Percevoir des images ou des motifs significatifs dans des stimuli aléatoires.`,
   },
   569: {
-    beginner: `## Pareidolia — approfondi (Débutant)
+    beginner: `Paréidolie = Percevoir des images ou des motifs significatifs dans des stimuli aléatoires.`,
+    detail: `Paréidolie
 
-**En termes simples**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
+Description:
+Voir des formes connues dans du bruit aléatoire.
+Voir un visage dans les nuages.
 
-**L’exemple affiché**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Exemple (question)
+« Voir un visage dans les nuages. »
+Un motif sans sens précis semble porter un message clair.
+Notre cerveau aime reconnaître des formes, même quand elles ne sont pas là.
 
-**Pourquoi c’est bien Pareidolia**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un motif sans sens précis semble porter un message clair.
+Notre cerveau aime reconnaître des formes, même quand elles ne sont pas là.
 
-**À retenir**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires.`,
-    intermediate: `## Pareidolia — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Concept clé
+Reconnaissance de formes:
+La tendance à identifier des formes familières dans des données aléatoires.
 
-Le passage montre **Pareidolia** : percevoir des images ou motifs significatifs dans des stimulus aléatoires.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela transforme du hasard en message.
+- Cela peut faire paraître un motif comme une preuve.
+- Cela pousse à lire trop vite des intentions.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
+L'implication inconfortable
+Un visage vu dans un nuage reste un nuage.
 
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-**En une phrase**  
-**Pareidolia**, c’est quand le raisonnement correspond à : Percevoir des images ou motifs significatifs dans des stimulus aléatoires.`,
-    expert: `## Pareidolia — approfondi (Expert)
-
-**Définition**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-**Appliqué à ce passage**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
-
-Ici, **Pareidolia** convient parce que percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 4 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 5 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Pareidolia**, c’est Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Paréidolie = Percevoir des images ou des motifs significatifs dans des stimuli aléatoires.`,
   },
   570: {
-    beginner: `## Pareidolia — approfondi (Débutant)
+    beginner: `Paréidolie = Percevoir des images ou des motifs significatifs dans des stimuli aléatoires.`,
+    detail: `Paréidolie
 
-**En termes simples**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
+Description:
+Voir des formes connues dans du bruit aléatoire.
+Voir un visage dans les nuages.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Percevoir des images ou motifs significatifs dans des stimulus aléatoires.". »  
+Exemple (question)
+« Voir un visage dans les nuages. »
+Un motif sans sens précis semble porter un message clair.
+Notre cerveau aime reconnaître des formes, même quand elles ne sont pas là.
 
-**Pourquoi c’est bien Pareidolia**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un motif sans sens précis semble porter un message clair.
+Notre cerveau aime reconnaître des formes, même quand elles ne sont pas là.
 
-**À retenir**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires.`,
-    intermediate: `## Pareidolia — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Percevoir des images ou motifs significatifs dans des stimulus aléatoires.". »  
+Concept clé
+Reconnaissance de formes:
+La tendance à identifier des formes familières dans des données aléatoires.
 
-Le passage montre **Pareidolia** : percevoir des images ou motifs significatifs dans des stimulus aléatoires.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela transforme du hasard en message.
+- Cela peut faire paraître un motif comme une preuve.
+- Cela pousse à lire trop vite des intentions.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
+L'implication inconfortable
+Un visage vu dans un nuage reste un nuage.
 
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-**En une phrase**  
-**Pareidolia**, c’est quand le raisonnement correspond à : Percevoir des images ou motifs significatifs dans des stimulus aléatoires.`,
-    expert: `## Pareidolia — approfondi (Expert)
-
-**Définition**  
-Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Percevoir des images ou motifs significatifs dans des stimulus aléatoires.". »  
-
-Ici, **Pareidolia** convient parce que percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 4 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-- **Exemple 5 :** Autre situation courante : des résultats sportifs ou d’entreprise. Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Pareidolia**, c’est Percevoir des images ou motifs significatifs dans des stimulus aléatoires.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Paréidolie = Percevoir des images ou des motifs significatifs dans des stimuli aléatoires.`,
   },
   571: {
-    beginner: `## Apophenia — approfondi (Débutant)
+    beginner: `Apophénie = Voir des liens ou des motifs là où il n’y en a pas.`,
+    detail: `Apophénie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
+Description:
+Construire un sens à partir de coïncidences isolées.
+Deux faits sans lien réel semblent pourtant raconter la même histoire.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Deux faits sans lien réel semblent pourtant raconter la même histoire. »
+Un enchaînement de détails aléatoires est pris pour une structure cachée.
+Le cerveau relie parfois trop vite les points.
 
-**Pourquoi c’est bien Apophenia**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un enchaînement de détails aléatoires est pris pour une structure cachée.
+Le cerveau relie parfois trop vite les points.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.`,
-    intermediate: `## Apophenia — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Motif inventé:
+Un schéma perçu qui n’est pas soutenu par les faits.
 
-Le passage montre **Apophenia** : une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela donne du sens à ce qui est seulement accidentel.
+- Cela peut fabriquer de fausses explications.
+- Cela rend les coïncidences trop convaincantes.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
+L'implication inconfortable
+Un schéma ressenti n’est pas forcément un schéma réel.
 
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Apophenia**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.`,
-    expert: `## Apophenia — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Apophenia** convient parce que une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Apophenia**, c’est Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Apophénie = Voir des liens ou des motifs là où il n’y en a pas.`,
   },
   572: {
-    beginner: `## Apophenia — approfondi (Débutant)
+    beginner: `Apophénie = Voir des liens ou des motifs là où il n’y en a pas.`,
+    detail: `Apophénie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
+Description:
+Construire un sens à partir de coïncidences isolées.
+Deux faits sans lien réel semblent pourtant raconter la même histoire.
 
-**L’exemple affiché**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Exemple (question)
+« Deux faits sans lien réel semblent pourtant raconter la même histoire. »
+Un enchaînement de détails aléatoires est pris pour une structure cachée.
+Le cerveau relie parfois trop vite les points.
 
-**Pourquoi c’est bien Apophenia**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un enchaînement de détails aléatoires est pris pour une structure cachée.
+Le cerveau relie parfois trop vite les points.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.`,
-    intermediate: `## Apophenia — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Concept clé
+Motif inventé:
+Un schéma perçu qui n’est pas soutenu par les faits.
 
-Le passage montre **Apophenia** : une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela donne du sens à ce qui est seulement accidentel.
+- Cela peut fabriquer de fausses explications.
+- Cela rend les coïncidences trop convaincantes.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
+L'implication inconfortable
+Un schéma ressenti n’est pas forcément un schéma réel.
 
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Apophenia**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.`,
-    expert: `## Apophenia — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
-
-Ici, **Apophenia** convient parce que une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Apophenia**, c’est Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Apophénie = Voir des liens ou des motifs là où il n’y en a pas.`,
   },
   573: {
-    beginner: `## Apophenia — approfondi (Débutant)
+    beginner: `Apophénie = Voir des liens ou des motifs là où il n’y en a pas.`,
+    detail: `Apophénie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
+Description:
+Construire un sens à partir de coïncidences isolées.
+Deux faits sans lien réel semblent pourtant raconter la même histoire.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Deux faits sans lien réel semblent pourtant raconter la même histoire. »
+Un enchaînement de détails aléatoires est pris pour une structure cachée.
+Le cerveau relie parfois trop vite les points.
 
-**Pourquoi c’est bien Apophenia**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un enchaînement de détails aléatoires est pris pour une structure cachée.
+Le cerveau relie parfois trop vite les points.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.`,
-    intermediate: `## Apophenia — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Motif inventé:
+Un schéma perçu qui n’est pas soutenu par les faits.
 
-Le passage montre **Apophenia** : une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela donne du sens à ce qui est seulement accidentel.
+- Cela peut fabriquer de fausses explications.
+- Cela rend les coïncidences trop convaincantes.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
+L'implication inconfortable
+Un schéma ressenti n’est pas forcément un schéma réel.
 
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Apophenia**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.`,
-    expert: `## Apophenia — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Apophenia** convient parce que une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Apophenia**, c’est Une erreur logique ou un biais cognitif impliquant Apophenia, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Apophénie = Voir des liens ou des motifs là où il n’y en a pas.`,
   },
   574: {
-    beginner: `## Selection bias — approfondi (Débutant)
+    beginner: `Biais de sélection = Choisir un échantillon qui ne représente pas l’ensemble.`,
+    detail: `Biais de sélection
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
+Description:
+Tirer une conclusion à partir d’un groupe déjà orienté.
+On ne regarde que les cas qui confirment l’idée de départ.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« On ne regarde que les cas qui confirment l’idée de départ. »
+Le groupe observé est déjà filtré avant même que l’analyse commence.
+Un échantillon biaisé ne peut pas parler pour tout le monde.
 
-**Pourquoi c’est bien Selection bias**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Le groupe observé est déjà filtré avant même que l’analyse commence.
+Un échantillon biaisé ne peut pas parler pour tout le monde.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.`,
-    intermediate: `## Selection bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Échantillon biaisé:
+Un sous-ensemble choisi d’une manière qui fausse la conclusion.
 
-Le passage montre **Selection bias** : une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela fausse les statistiques.
+- Cela donne une fausse impression de généralité.
+- Cela masque les cas absents.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Si l’entrée est biaisée, la sortie le sera aussi.
 
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Selection bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.`,
-    expert: `## Selection bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Selection bias** convient parce que une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Selection bias**, c’est Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Biais de sélection = Choisir un échantillon qui ne représente pas l’ensemble.`,
   },
   575: {
-    beginner: `## Selection bias — approfondi (Débutant)
+    beginner: `Biais de sélection = Choisir un échantillon qui ne représente pas l’ensemble.`,
+    detail: `Biais de sélection
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
+Description:
+Tirer une conclusion à partir d’un groupe déjà orienté.
+On ne regarde que les cas qui confirment l’idée de départ.
 
-**L’exemple affiché**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Exemple (question)
+« On ne regarde que les cas qui confirment l’idée de départ. »
+Le groupe observé est déjà filtré avant même que l’analyse commence.
+Un échantillon biaisé ne peut pas parler pour tout le monde.
 
-**Pourquoi c’est bien Selection bias**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Le groupe observé est déjà filtré avant même que l’analyse commence.
+Un échantillon biaisé ne peut pas parler pour tout le monde.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.`,
-    intermediate: `## Selection bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Concept clé
+Échantillon biaisé:
+Un sous-ensemble choisi d’une manière qui fausse la conclusion.
 
-Le passage montre **Selection bias** : une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela fausse les statistiques.
+- Cela donne une fausse impression de généralité.
+- Cela masque les cas absents.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Si l’entrée est biaisée, la sortie le sera aussi.
 
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Selection bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.`,
-    expert: `## Selection bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
-
-Ici, **Selection bias** convient parce que une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Selection bias**, c’est Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Biais de sélection = Choisir un échantillon qui ne représente pas l’ensemble.`,
   },
   576: {
-    beginner: `## Selection bias — approfondi (Débutant)
+    beginner: `Biais de sélection = Choisir un échantillon qui ne représente pas l’ensemble.`,
+    detail: `Biais de sélection
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
+Description:
+Tirer une conclusion à partir d’un groupe déjà orienté.
+On ne regarde que les cas qui confirment l’idée de départ.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« On ne regarde que les cas qui confirment l’idée de départ. »
+Le groupe observé est déjà filtré avant même que l’analyse commence.
+Un échantillon biaisé ne peut pas parler pour tout le monde.
 
-**Pourquoi c’est bien Selection bias**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Le groupe observé est déjà filtré avant même que l’analyse commence.
+Un échantillon biaisé ne peut pas parler pour tout le monde.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.`,
-    intermediate: `## Selection bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Échantillon biaisé:
+Un sous-ensemble choisi d’une manière qui fausse la conclusion.
 
-Le passage montre **Selection bias** : une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela fausse les statistiques.
+- Cela donne une fausse impression de généralité.
+- Cela masque les cas absents.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Si l’entrée est biaisée, la sortie le sera aussi.
 
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Selection bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.`,
-    expert: `## Selection bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Selection bias** convient parce que une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Selection bias**, c’est Une erreur logique ou un biais cognitif impliquant Selection bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Biais de sélection = Choisir un échantillon qui ne représente pas l’ensemble.`,
   },
   577: {
-    beginner: `## Sampling bias — approfondi (Débutant)
+    beginner: `Biais d’échantillonnage = Tirer une conclusion générale d’un échantillon non représentatif.`,
+    detail: `Biais d’échantillonnage
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
+Description:
+Confondre un petit groupe avec la population entière.
+Quelques témoignages ne suffisent pas à décrire tout un pays.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Quelques témoignages ne suffisent pas à décrire tout un pays. »
+Un groupe trop étroit devient la base d’une règle générale.
+Un échantillon faible donne une conclusion faible.
 
-**Pourquoi c’est bien Sampling bias**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un groupe trop étroit devient la base d’une règle générale.
+Un échantillon faible donne une conclusion faible.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.`,
-    intermediate: `## Sampling bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Représentativité:
+Le degré auquel un échantillon reflète réellement l’ensemble.
 
-Le passage montre **Sampling bias** : une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela surévalue des cas partiels.
+- Cela cache la diversité réelle.
+- Cela peut faire croire qu’une tendance est universelle.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Un petit morceau ne raconte pas toujours tout le gâteau.
 
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Sampling bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.`,
-    expert: `## Sampling bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Sampling bias** convient parce que une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Sampling bias**, c’est Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Biais d’échantillonnage = Tirer une conclusion générale d’un échantillon non représentatif.`,
   },
   578: {
-    beginner: `## Sampling bias — approfondi (Débutant)
+    beginner: `Biais d’échantillonnage = Tirer une conclusion générale d’un échantillon non représentatif.`,
+    detail: `Biais d’échantillonnage
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
+Description:
+Confondre un petit groupe avec la population entière.
+Quelques témoignages ne suffisent pas à décrire tout un pays.
 
-**L’exemple affiché**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Exemple (question)
+« Quelques témoignages ne suffisent pas à décrire tout un pays. »
+Un groupe trop étroit devient la base d’une règle générale.
+Un échantillon faible donne une conclusion faible.
 
-**Pourquoi c’est bien Sampling bias**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un groupe trop étroit devient la base d’une règle générale.
+Un échantillon faible donne une conclusion faible.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.`,
-    intermediate: `## Sampling bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Concept clé
+Représentativité:
+Le degré auquel un échantillon reflète réellement l’ensemble.
 
-Le passage montre **Sampling bias** : une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela surévalue des cas partiels.
+- Cela cache la diversité réelle.
+- Cela peut faire croire qu’une tendance est universelle.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Un petit morceau ne raconte pas toujours tout le gâteau.
 
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Sampling bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.`,
-    expert: `## Sampling bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
-
-Ici, **Sampling bias** convient parce que une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Sampling bias**, c’est Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Biais d’échantillonnage = Tirer une conclusion générale d’un échantillon non représentatif.`,
   },
   579: {
-    beginner: `## Sampling bias — approfondi (Débutant)
+    beginner: `Biais d’échantillonnage = Tirer une conclusion générale d’un échantillon non représentatif.`,
+    detail: `Biais d’échantillonnage
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
+Description:
+Confondre un petit groupe avec la population entière.
+Quelques témoignages ne suffisent pas à décrire tout un pays.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Quelques témoignages ne suffisent pas à décrire tout un pays. »
+Un groupe trop étroit devient la base d’une règle générale.
+Un échantillon faible donne une conclusion faible.
 
-**Pourquoi c’est bien Sampling bias**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un groupe trop étroit devient la base d’une règle générale.
+Un échantillon faible donne une conclusion faible.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.`,
-    intermediate: `## Sampling bias — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Représentativité:
+Le degré auquel un échantillon reflète réellement l’ensemble.
 
-Le passage montre **Sampling bias** : une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela surévalue des cas partiels.
+- Cela cache la diversité réelle.
+- Cela peut faire croire qu’une tendance est universelle.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Un petit morceau ne raconte pas toujours tout le gâteau.
 
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Sampling bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.`,
-    expert: `## Sampling bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Sampling bias** convient parce que une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Sampling bias**, c’est Une erreur logique ou un biais cognitif impliquant Sampling bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Biais d’échantillonnage = Tirer une conclusion générale d’un échantillon non représentatif.`,
   },
   580: {
-    beginner: `## Data dredging — approfondi (Débutant)
+    beginner: `Dragage de données = Chercher des liens dans les données jusqu’à en trouver un qui a l’air convaincant.`,
+    detail: `Dragage de données
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
+Description:
+Explorer les chiffres jusqu’à faire surgir un résultat séduisant.
+On teste plein de pistes puis on ne garde que celle qui semble marcher.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« On teste plein de pistes puis on ne garde que celle qui semble marcher. »
+Les données sont fouillées jusqu’à ce qu’un motif utile apparaisse.
+On finit par confondre découverte et sélection.
 
-**Pourquoi c’est bien Data dredging**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Les données sont fouillées jusqu’à ce qu’un motif utile apparaisse.
+On finit par confondre découverte et sélection.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.`,
-    intermediate: `## Data dredging — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Recherche opportuniste:
+Le fait de fouiller les données jusqu’à obtenir un résultat qui paraît bon.
 
-Le passage montre **Data dredging** : une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela gonfle les faux positifs.
+- Cela donne l’illusion d’une preuve solide.
+- Cela récompense le tri après coup.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
+L'implication inconfortable
+Si on cherche assez longtemps, on peut toujours trouver quelque chose.
 
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Data dredging**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.`,
-    expert: `## Data dredging — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Data dredging** convient parce que une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Data dredging**, c’est Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Dragage de données = Chercher des liens dans les données jusqu’à en trouver un qui a l’air convaincant.`,
   },
   581: {
-    beginner: `## Data dredging — approfondi (Débutant)
+    beginner: `Dragage de données = Chercher des liens dans les données jusqu’à en trouver un qui a l’air convaincant.`,
+    detail: `Dragage de données
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
+Description:
+Explorer les chiffres jusqu’à faire surgir un résultat séduisant.
+On teste plein de pistes puis on ne garde que celle qui semble marcher.
 
-**L’exemple affiché**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Exemple (question)
+« On teste plein de pistes puis on ne garde que celle qui semble marcher. »
+Les données sont fouillées jusqu’à ce qu’un motif utile apparaisse.
+On finit par confondre découverte et sélection.
 
-**Pourquoi c’est bien Data dredging**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Les données sont fouillées jusqu’à ce qu’un motif utile apparaisse.
+On finit par confondre découverte et sélection.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.`,
-    intermediate: `## Data dredging — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Concept clé
+Recherche opportuniste:
+Le fait de fouiller les données jusqu’à obtenir un résultat qui paraît bon.
 
-Le passage montre **Data dredging** : une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela gonfle les faux positifs.
+- Cela donne l’illusion d’une preuve solide.
+- Cela récompense le tri après coup.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
+L'implication inconfortable
+Si on cherche assez longtemps, on peut toujours trouver quelque chose.
 
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Data dredging**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.`,
-    expert: `## Data dredging — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
-
-Ici, **Data dredging** convient parce que une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Data dredging**, c’est Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Dragage de données = Chercher des liens dans les données jusqu’à en trouver un qui a l’air convaincant.`,
   },
   582: {
-    beginner: `## Data dredging — approfondi (Débutant)
+    beginner: `Dragage de données = Chercher des liens dans les données jusqu’à en trouver un qui a l’air convaincant.`,
+    detail: `Dragage de données
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
+Description:
+Explorer les chiffres jusqu’à faire surgir un résultat séduisant.
+On teste plein de pistes puis on ne garde que celle qui semble marcher.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« On teste plein de pistes puis on ne garde que celle qui semble marcher. »
+Les données sont fouillées jusqu’à ce qu’un motif utile apparaisse.
+On finit par confondre découverte et sélection.
 
-**Pourquoi c’est bien Data dredging**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Les données sont fouillées jusqu’à ce qu’un motif utile apparaisse.
+On finit par confondre découverte et sélection.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.`,
-    intermediate: `## Data dredging — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Recherche opportuniste:
+Le fait de fouiller les données jusqu’à obtenir un résultat qui paraît bon.
 
-Le passage montre **Data dredging** : une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela gonfle les faux positifs.
+- Cela donne l’illusion d’une preuve solide.
+- Cela récompense le tri après coup.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
+L'implication inconfortable
+Si on cherche assez longtemps, on peut toujours trouver quelque chose.
 
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Data dredging**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.`,
-    expert: `## Data dredging — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Data dredging** convient parce que une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Data dredging**, c’est Une erreur logique ou un biais cognitif impliquant Data dredging, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Dragage de données = Chercher des liens dans les données jusqu’à en trouver un qui a l’air convaincant.`,
   },
   583: {
-    beginner: `## P-hacking — approfondi (Débutant)
+    beginner: `P-hacking = Tordre l’analyse jusqu’à obtenir une significativité artificielle.`,
+    detail: `P-hacking
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
+Description:
+Modifier l’analyse pour faire passer un résultat au seuil désiré.
+On change les critères ou on essaie plusieurs analyses jusqu’à ce qu’une valeur paraisse significative.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant P-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« On change les critères ou on essaie plusieurs analyses jusqu’à ce qu’une valeur paraisse significative. »
+Le résultat n’est pas trouvé, il est fabriqué par la méthode.
+Le test est ajusté pour produire un joli nombre.
 
-**Pourquoi c’est bien P-hacking**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Le résultat n’est pas trouvé, il est fabriqué par la méthode.
+Le test est ajusté pour produire un joli nombre.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.`,
-    intermediate: `## P-hacking — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant P-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Significativité truquée:
+Une apparence de preuve statistique obtenue en manipulant l’analyse.
 
-Le passage montre **P-hacking** : une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela casse la confiance dans les résultats.
+- Cela rend les chiffres trompeurs.
+- Cela ressemble à de la science sans en avoir la rigueur.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
+L'implication inconfortable
+Une belle p-value ne suffit pas si la méthode est tordue.
 
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-**En une phrase**  
-**P-hacking**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.`,
-    expert: `## P-hacking — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant P-un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **P-hacking** convient parce que une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**P-hacking**, c’est Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+P-hacking = Tordre l’analyse jusqu’à obtenir une significativité artificielle.`,
   },
   584: {
-    beginner: `## P-hacking — approfondi (Débutant)
+    beginner: `P-hacking = Tordre l’analyse jusqu’à obtenir une significativité artificielle.`,
+    detail: `P-hacking
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
+Description:
+Modifier l’analyse pour faire passer un résultat au seuil désiré.
+On change les critères ou on essaie plusieurs analyses jusqu’à ce qu’une valeur paraisse significative.
 
-**L’exemple affiché**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Exemple (question)
+« On change les critères ou on essaie plusieurs analyses jusqu’à ce qu’une valeur paraisse significative. »
+Le résultat n’est pas trouvé, il est fabriqué par la méthode.
+Le test est ajusté pour produire un joli nombre.
 
-**Pourquoi c’est bien P-hacking**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Le résultat n’est pas trouvé, il est fabriqué par la méthode.
+Le test est ajusté pour produire un joli nombre.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.`,
-    intermediate: `## P-hacking — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Concept clé
+Significativité truquée:
+Une apparence de preuve statistique obtenue en manipulant l’analyse.
 
-Le passage montre **P-hacking** : une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela casse la confiance dans les résultats.
+- Cela rend les chiffres trompeurs.
+- Cela ressemble à de la science sans en avoir la rigueur.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
+L'implication inconfortable
+Une belle p-value ne suffit pas si la méthode est tordue.
 
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-**En une phrase**  
-**P-hacking**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.`,
-    expert: `## P-hacking — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
-
-Ici, **P-hacking** convient parce que une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**P-hacking**, c’est Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+P-hacking = Tordre l’analyse jusqu’à obtenir une significativité artificielle.`,
   },
   585: {
-    beginner: `## P-hacking — approfondi (Débutant)
+    beginner: `P-hacking = Tordre l’analyse jusqu’à obtenir une significativité artificielle.`,
+    detail: `P-hacking
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
+Description:
+Modifier l’analyse pour faire passer un résultat au seuil désiré.
+On change les critères ou on essaie plusieurs analyses jusqu’à ce qu’une valeur paraisse significative.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant P-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« On change les critères ou on essaie plusieurs analyses jusqu’à ce qu’une valeur paraisse significative. »
+Le résultat n’est pas trouvé, il est fabriqué par la méthode.
+Le test est ajusté pour produire un joli nombre.
 
-**Pourquoi c’est bien P-hacking**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Le résultat n’est pas trouvé, il est fabriqué par la méthode.
+Le test est ajusté pour produire un joli nombre.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.`,
-    intermediate: `## P-hacking — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant P-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Significativité truquée:
+Une apparence de preuve statistique obtenue en manipulant l’analyse.
 
-Le passage montre **P-hacking** : une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela casse la confiance dans les résultats.
+- Cela rend les chiffres trompeurs.
+- Cela ressemble à de la science sans en avoir la rigueur.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
+L'implication inconfortable
+Une belle p-value ne suffit pas si la méthode est tordue.
 
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-**En une phrase**  
-**P-hacking**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.`,
-    expert: `## P-hacking — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant P-un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **P-hacking** convient parce que une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**P-hacking**, c’est Une erreur logique ou un biais cognitif impliquant P-hacking, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+P-hacking = Tordre l’analyse jusqu’à obtenir une significativité artificielle.`,
   },
   586: {
-    beginner: `## Wrong direction — approfondi (Débutant)
+    beginner: `Fausse direction = Inverser cause et effet ou attribuer la cause au mauvais côté.`,
+    detail: `Fausse direction
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
+Description:
+Prendre le bon sens causal à l’envers.
+Le réseau ne ralentit pas pendant que je porte mon badge, donc mon badge le protège.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Le réseau ne ralentit pas pendant que je porte mon badge, donc mon badge le protège. »
+On voit un effet puis on attribue la cause au mauvais élément.
+Le lien observé pointe dans la mauvaise direction.
 
-**Pourquoi c’est bien Wrong direction**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On voit un effet puis on attribue la cause au mauvais élément.
+Le lien observé pointe dans la mauvaise direction.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.`,
-    intermediate: `## Wrong direction — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Cause inversée:
+Une interprétation où l’effet est pris pour la cause, ou l’inverse.
 
-Le passage montre **Wrong direction** : une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela renverse la lecture des faits.
+- Cela peut transformer une coïncidence en mécanisme.
+- Cela fait croire à une influence qui n’existe pas.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
+L'implication inconfortable
+Voir deux choses ensemble ne dit pas qui pousse qui.
 
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Wrong direction**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.`,
-    expert: `## Wrong direction — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Wrong direction** convient parce que une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Wrong direction**, c’est Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Fausse direction = Inverser cause et effet ou attribuer la cause au mauvais côté.`,
   },
   587: {
-    beginner: `## Wrong direction — approfondi (Débutant)
+    beginner: `Fausse direction = Inverser cause et effet ou attribuer la cause au mauvais côté.`,
+    detail: `Fausse direction
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
+Description:
+Prendre le bon sens causal à l’envers.
+Le réseau ne ralentit pas pendant que je porte mon badge, donc mon badge le protège.
 
-**L’exemple affiché**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Exemple (question)
+« Le réseau ne ralentit pas pendant que je porte mon badge, donc mon badge le protège. »
+On voit un effet puis on attribue la cause au mauvais élément.
+Le lien observé pointe dans la mauvaise direction.
 
-**Pourquoi c’est bien Wrong direction**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On voit un effet puis on attribue la cause au mauvais élément.
+Le lien observé pointe dans la mauvaise direction.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.`,
-    intermediate: `## Wrong direction — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Concept clé
+Cause inversée:
+Une interprétation où l’effet est pris pour la cause, ou l’inverse.
 
-Le passage montre **Wrong direction** : une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela renverse la lecture des faits.
+- Cela peut transformer une coïncidence en mécanisme.
+- Cela fait croire à une influence qui n’existe pas.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
+L'implication inconfortable
+Voir deux choses ensemble ne dit pas qui pousse qui.
 
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Wrong direction**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.`,
-    expert: `## Wrong direction — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
-
-Ici, **Wrong direction** convient parce que une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Wrong direction**, c’est Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Fausse direction = Inverser cause et effet ou attribuer la cause au mauvais côté.`,
   },
   588: {
-    beginner: `## Wrong direction — approfondi (Débutant)
+    beginner: `Fausse direction = Inverser cause et effet ou attribuer la cause au mauvais côté.`,
+    detail: `Fausse direction
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
+Description:
+Prendre le bon sens causal à l’envers.
+Le réseau ne ralentit pas pendant que je porte mon badge, donc mon badge le protège.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Le réseau ne ralentit pas pendant que je porte mon badge, donc mon badge le protège. »
+On voit un effet puis on attribue la cause au mauvais élément.
+Le lien observé pointe dans la mauvaise direction.
 
-**Pourquoi c’est bien Wrong direction**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+On voit un effet puis on attribue la cause au mauvais élément.
+Le lien observé pointe dans la mauvaise direction.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.`,
-    intermediate: `## Wrong direction — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Cause inversée:
+Une interprétation où l’effet est pris pour la cause, ou l’inverse.
 
-Le passage montre **Wrong direction** : une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela renverse la lecture des faits.
+- Cela peut transformer une coïncidence en mécanisme.
+- Cela fait croire à une influence qui n’existe pas.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
+L'implication inconfortable
+Voir deux choses ensemble ne dit pas qui pousse qui.
 
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Wrong direction**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.`,
-    expert: `## Wrong direction — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Wrong direction** convient parce que une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Wrong direction**, c’est Une erreur logique ou un biais cognitif impliquant Wrong direction, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Fausse direction = Inverser cause et effet ou attribuer la cause au mauvais côté.`,
   },
   589: {
-    beginner: `## Correlation is not causation — approfondi (Débutant)
+    beginner: `Corrélation n’implique pas causalité = Une association ne prouve pas qu’un élément cause l’autre.`,
+    detail: `Corrélation n’implique pas causalité
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
+Description:
+Prendre un lien visible pour une preuve de cause.
+Tout le monde dans le district porte ce patch, donc il doit être la cause du résultat.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux is un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Tout le monde dans le district porte ce patch, donc il doit être la cause du résultat. »
+Deux choses montent ensemble et l’on saute tout de suite à une explication causale.
+Une corrélation n’explique pas tout seule.
 
-**Pourquoi c’est bien Correlation is not causation**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Deux choses montent ensemble et l’on saute tout de suite à une explication causale.
+Une corrélation n’explique pas tout seule.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.`,
-    intermediate: `## Correlation is not causation — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux is un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Lien statistique:
+Une association observée entre deux variables sans preuve de causalité.
 
-Le passage montre **Correlation is not causation** : une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond relation et cause.
+- Cela peut ignorer une troisième variable.
+- Cela transforme une coïncidence en théorie.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
+L'implication inconfortable
+Un lien n’est pas encore une cause.
 
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Correlation is not causation**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.`,
-    expert: `## Correlation is not causation — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux is un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Correlation is not causation** convient parce que une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Correlation is not causation**, c’est Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Corrélation n’implique pas causalité = Une association ne prouve pas qu’un élément cause l’autre.`,
   },
   590: {
-    beginner: `## Correlation is not causation — approfondi (Débutant)
+    beginner: `Corrélation n’implique pas causalité = Une association ne prouve pas qu’un élément cause l’autre.`,
+    detail: `Corrélation n’implique pas causalité
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
+Description:
+Prendre un lien visible pour une preuve de cause.
+Tout le monde dans le district porte ce patch, donc il doit être la cause du résultat.
 
-**L’exemple affiché**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Exemple (question)
+« Tout le monde dans le district porte ce patch, donc il doit être la cause du résultat. »
+Deux choses montent ensemble et l’on saute tout de suite à une explication causale.
+Une corrélation n’explique pas tout seule.
 
-**Pourquoi c’est bien Correlation is not causation**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Deux choses montent ensemble et l’on saute tout de suite à une explication causale.
+Une corrélation n’explique pas tout seule.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.`,
-    intermediate: `## Correlation is not causation — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
+Donc :
+- Cela paraît convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape clé.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Concept clé
+Lien statistique:
+Une association observée entre deux variables sans preuve de causalité.
 
-Le passage montre **Correlation is not causation** : une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond relation et cause.
+- Cela peut ignorer une troisième variable.
+- Cela transforme une coïncidence en théorie.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
+L'implication inconfortable
+Un lien n’est pas encore une cause.
 
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Correlation is not causation**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.`,
-    expert: `## Correlation is not causation — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
-
-Ici, **Correlation is not causation** convient parce que une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Correlation is not causation**, c’est Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Corrélation n’implique pas causalité = Une association ne prouve pas qu’un élément cause l’autre.`,
   },
   591: {
     beginner: `## Correlation is not causation — approfondi (Débutant)
