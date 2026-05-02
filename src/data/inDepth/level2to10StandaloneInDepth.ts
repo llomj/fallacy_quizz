@@ -20705,1894 +20705,1234 @@ Here, **Personal Incredulity** is the right name because saying that because one
 Cognitive Biases`,
   },
   591: {
-    beginner: `## Personal Incredulity — in-depth (Beginner)
+    beginner: `Personal Incredulity = Rejecting something because it is hard to understand.`,
+    detail: `Personal Incredulity
 
-**What this is, in plain English**  
-Saying that because one finds something difficult to understand that it's therefore not true.
+Description:
+Rejecting something because it is hard to understand.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Rejecting science because it's incomprehensible. »  
+Example (question)
+« Rejecting science because it's incomprehensible. »
+Rejecting science because it is incomprehensible.
+Confusion is not the same thing as falsity.
 
-**Why this is Personal Incredulity**  
-Saying that because one finds something difficult to understand that it's therefore not true. That is what this label is pointing to in the passage above.
+Example (other context)
+A complex result is dismissed simply because the speaker cannot follow the explanation.
+Confusion is not the same thing as falsity.
 
-**Takeaway**  
-Saying that because one finds something difficult to understand that it's therefore not true.`,
-    intermediate: `## Personal Incredulity — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Saying that because one finds something difficult to understand that it's therefore not true.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Rejecting science because it's incomprehensible. »  
+Key concept inside it
+Understanding gap:
+The distance between “I do not understand this” and “this is false.”
 
-The passage shows **Personal Incredulity** in action: saying that because one finds something difficult to understand that it's therefore not true.
+Why it matters
+Explains why:
+- It turns confusion into evidence.
+- It can dismiss real expertise.
+- It rewards certainty without understanding.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: saying that because one finds something difficult to understand that it's therefore not true.
+The uncomfortable implication
+What you cannot explain may still be true.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if saying that because one finds something difficult to understand that it's therefore not true.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Saying that because one finds something difficult to understand that it's therefore not true.
-
-**In one sentence**  
-Personal Incredulity is the label for reasoning that fits: Saying that because one finds something difficult to understand that it's therefore not true.`,
-    expert: `## Personal Incredulity — in-depth (Expert)
-
-**Definition**  
-Saying that because one finds something difficult to understand that it's therefore not true.
-
-**Applied to this passage**  
-« Rejecting science because it's incomprehensible. »  
-
-Here, **Personal Incredulity** is the right name because saying that because one finds something difficult to understand that it's therefore not true.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: saying that because one finds something difficult to understand that it's therefore not true.
-
-- **Example 2:** Picture a news headline or social post. People often reason as if saying that because one finds something difficult to understand that it's therefore not true.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Saying that because one finds something difficult to understand that it's therefore not true.
-
-- **Example 4:** Another everyday spot: school grades or test scores. Saying that because one finds something difficult to understand that it's therefore not true.
-
-- **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** Saying that because one finds something difficult to understand that it's therefore not true.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Personal Incredulity** means Saying that because one finds something difficult to understand that it's therefore not true.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Cognitive Biases`,
+One-line version
+Personal Incredulity = Rejecting something because it is hard to understand.`,
   },
   592: {
-    beginner: `## Poisoning the Well — in-depth (Beginner)
+    beginner: `Poisoning the Well = Discrediting a person before they can present their case.`,
+    detail: `Poisoning the Well
 
-**What this is, in plain English**  
-Discrediting an opponent or their views in advance.
+Description:
+Discrediting a person before they can present their case.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Don't listen to him; he's a known liar. »  
+Example (question)
+« Don't listen to him; he's a known liar. »
+Don’t listen to him; he is a known liar.
+The attack comes before the evidence.
 
-**Why this is Poisoning the Well**  
-Discrediting an opponent or their views in advance. That is what this label is pointing to in the passage above.
+Example (other context)
+An audience is primed to distrust a speaker before the argument even begins.
+The attack comes before the evidence.
 
-**Takeaway**  
-Discrediting an opponent or their views in advance.`,
-    intermediate: `## Poisoning the Well — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Discrediting an opponent or their views in advance.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Don't listen to him; he's a known liar. »  
+Key concept inside it
+Preemptive discrediting:
+Making a source look unreliable in advance so the argument will be ignored.
 
-The passage shows **Poisoning the Well** in action: discrediting an opponent or their views in advance.
+Why it matters
+Explains why:
+- It blocks fair listening.
+- It changes the mood before the facts appear.
+- It shifts attention from the claim to the person.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if discrediting an opponent or their views in advance.
+The uncomfortable implication
+A poisoned hearing is not a fair hearing.
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Discrediting an opponent or their views in advance.
-
-- **Example 3:** Another everyday spot: sports or business results. Discrediting an opponent or their views in advance.
-
-**In one sentence**  
-Poisoning the Well is the label for reasoning that fits: Discrediting an opponent or their views in advance.`,
-    expert: `## Poisoning the Well — in-depth (Expert)
-
-**Definition**  
-Discrediting an opponent or their views in advance.
-
-**Applied to this passage**  
-« Don't listen to him; he's a known liar. »  
-
-Here, **Poisoning the Well** is the right name because discrediting an opponent or their views in advance.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if discrediting an opponent or their views in advance.
-
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Discrediting an opponent or their views in advance.
-
-- **Example 3:** Another everyday spot: sports or business results. Discrediting an opponent or their views in advance.
-
-- **Example 4:** **Setting:** a family argument. **What goes wrong:** Discrediting an opponent or their views in advance.
-
-- **Example 5:** Imagine a policy or workplace discussion. The slip is the same: discrediting an opponent or their views in advance.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Poisoning the Well** means Discrediting an opponent or their views in advance.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Poisoning the Well = Discrediting a person before they can present their case.`,
   },
   593: {
-    beginner: `## Poisoning the Well — in-depth (Beginner)
+    beginner: `Poisoning the Well = Discrediting a person before they can present their case.`,
+    detail: `Poisoning the Well
 
-**What this is, in plain English**  
-Discrediting an opponent or their views in advance.
+Description:
+Discrediting a person before they can present their case.
+The core problem is simple.
 
-**The example you’re looking at**  
-« She's biased, so her opinion doesn't count. »  
+Example (question)
+« She's biased, so her opinion doesn't count. »
+Don’t listen to him; he is a known liar.
+The attack comes before the evidence.
 
-**Why this is Poisoning the Well**  
-Discrediting an opponent or their views in advance. That is what this label is pointing to in the passage above.
+Example (other context)
+An audience is primed to distrust a speaker before the argument even begins.
+The attack comes before the evidence.
 
-**Takeaway**  
-Discrediting an opponent or their views in advance.`,
-    intermediate: `## Poisoning the Well — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Discrediting an opponent or their views in advance.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« She's biased, so her opinion doesn't count. »  
+Key concept inside it
+Preemptive discrediting:
+Making a source look unreliable in advance so the argument will be ignored.
 
-The passage shows **Poisoning the Well** in action: discrediting an opponent or their views in advance.
+Why it matters
+Explains why:
+- It blocks fair listening.
+- It changes the mood before the facts appear.
+- It shifts attention from the claim to the person.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Discrediting an opponent or their views in advance.
+The uncomfortable implication
+A poisoned hearing is not a fair hearing.
 
-- **Example 2:** Another everyday spot: a health or habits story. Discrediting an opponent or their views in advance.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Discrediting an opponent or their views in advance.
-
-**In one sentence**  
-Poisoning the Well is the label for reasoning that fits: Discrediting an opponent or their views in advance.`,
-    expert: `## Poisoning the Well — in-depth (Expert)
-
-**Definition**  
-Discrediting an opponent or their views in advance.
-
-**Applied to this passage**  
-« She's biased, so her opinion doesn't count. »  
-
-Here, **Poisoning the Well** is the right name because discrediting an opponent or their views in advance.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Discrediting an opponent or their views in advance.
-
-- **Example 2:** Another everyday spot: a health or habits story. Discrediting an opponent or their views in advance.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Discrediting an opponent or their views in advance.
-
-- **Example 4:** Imagine a news headline or social post. The slip is the same: discrediting an opponent or their views in advance.
-
-- **Example 5:** Picture a health or habits story. People often reason as if discrediting an opponent or their views in advance.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Poisoning the Well** means Discrediting an opponent or their views in advance.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Poisoning the Well = Discrediting a person before they can present their case.`,
   },
   594: {
-    beginner: `## Poisoning the Well — in-depth (Beginner)
+    beginner: `Poisoning the Well = Discrediting a person before they can present their case.`,
+    detail: `Poisoning the Well
 
-**What this is, in plain English**  
-Discrediting an opponent or their views in advance.
+Description:
+Discrediting a person before they can present their case.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Preemptively discrediting sources. »  
+Example (question)
+« Before the debate, the host warns the audience that the guest is unreliable and they shouldn't trust anything they say. »
+Don’t listen to him; he is a known liar.
+The attack comes before the evidence.
 
-**Why this is Poisoning the Well**  
-Discrediting an opponent or their views in advance. That is what this label is pointing to in the passage above.
+Example (other context)
+An audience is primed to distrust a speaker before the argument even begins.
+The attack comes before the evidence.
 
-**Takeaway**  
-Discrediting an opponent or their views in advance.`,
-    intermediate: `## Poisoning the Well — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Discrediting an opponent or their views in advance.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Preemptively discrediting sources. »  
+Key concept inside it
+Preemptive discrediting:
+Making a source look unreliable in advance so the argument will be ignored.
 
-The passage shows **Poisoning the Well** in action: discrediting an opponent or their views in advance.
+Why it matters
+Explains why:
+- It blocks fair listening.
+- It changes the mood before the facts appear.
+- It shifts attention from the claim to the person.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Discrediting an opponent or their views in advance.
+The uncomfortable implication
+A poisoned hearing is not a fair hearing.
 
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Discrediting an opponent or their views in advance.
-
-- **Example 3:** Imagine a family argument. The slip is the same: discrediting an opponent or their views in advance.
-
-**In one sentence**  
-Poisoning the Well is the label for reasoning that fits: Discrediting an opponent or their views in advance.`,
-    expert: `## Poisoning the Well — in-depth (Expert)
-
-**Definition**  
-Discrediting an opponent or their views in advance.
-
-**Applied to this passage**  
-« Preemptively discrediting sources. »  
-
-Here, **Poisoning the Well** is the right name because discrediting an opponent or their views in advance.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Discrediting an opponent or their views in advance.
-
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Discrediting an opponent or their views in advance.
-
-- **Example 3:** Imagine a family argument. The slip is the same: discrediting an opponent or their views in advance.
-
-- **Example 4:** Picture a policy or workplace discussion. People often reason as if discrediting an opponent or their views in advance.
-
-- **Example 5:** In sports or business results, watch for this pattern: Discrediting an opponent or their views in advance.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Poisoning the Well** means Discrediting an opponent or their views in advance.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Poisoning the Well = Discrediting a person before they can present their case.`,
   },
   595: {
-    beginner: `## Prosecutor’s Fallacy — in-depth (Beginner)
+    beginner: `Prosecutor’s Fallacy = Treating a match or probability as proof of guilt.`,
+    detail: `Prosecutor’s Fallacy
 
-**What this is, in plain English**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
+Description:
+Treating a match or probability as proof of guilt.
+The core problem is simple.
 
-**The example you’re looking at**  
-« The DNA matches 1 in a million people, so the chance of innocence is 1 in a million. »  
+Example (question)
+« The DNA matches 1 in a million people, so the chance of innocence is 1 in a million. »
+The DNA matches 1 in a million people, so the chance of innocence is 1 in a million.
+A match is not the same as a full explanation.
 
-**Why this is Prosecutor’s Fallacy**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt. That is what this label is pointing to in the passage above.
+Example (other context)
+A rare evidence match is treated as if it were the same as guilt.
+A match is not the same as a full explanation.
 
-**Takeaway**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.`,
-    intermediate: `## Prosecutor’s Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« The DNA matches 1 in a million people, so the chance of innocence is 1 in a million. »  
+Key concept inside it
+Base-rate mistake:
+Ignoring how common the event is overall while focusing on one striking statistic.
 
-The passage shows **Prosecutor’s Fallacy** in action: a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
+Why it matters
+Explains why:
+- It confuses rarity with guilt.
+- It ignores the background odds.
+- It can make weak evidence look decisive.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
+The uncomfortable implication
+A rare match still needs context.
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 3:** Picture a news headline or social post. People often reason as if a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-**In one sentence**  
-Prosecutor’s Fallacy is the label for reasoning that fits: A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.`,
-    expert: `## Prosecutor’s Fallacy — in-depth (Expert)
-
-**Definition**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-**Applied to this passage**  
-« The DNA matches 1 in a million people, so the chance of innocence is 1 in a million. »  
-
-Here, **Prosecutor’s Fallacy** is the right name because a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 2:** Imagine school grades or test scores. The slip is the same: a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 3:** Picture a news headline or social post. People often reason as if a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 4:** In a health or habits story, watch for this pattern: A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 5:** Another everyday spot: school grades or test scores. A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Prosecutor’s Fallacy** means A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Prosecutor’s Fallacy = Treating a match or probability as proof of guilt.`,
   },
   596: {
-    beginner: `## Prosecutor’s Fallacy — in-depth (Beginner)
+    beginner: `Prosecutor’s Fallacy = Treating a match or probability as proof of guilt.`,
+    detail: `Prosecutor’s Fallacy
 
-**What this is, in plain English**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
+Description:
+Treating a match or probability as proof of guilt.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Ignoring base rates in evidence interpretation. »  
+Example (question)
+« Ignoring base rates in evidence interpretation. »
+The DNA matches 1 in a million people, so the chance of innocence is 1 in a million.
+A match is not the same as a full explanation.
 
-**Why this is Prosecutor’s Fallacy**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt. That is what this label is pointing to in the passage above.
+Example (other context)
+A rare evidence match is treated as if it were the same as guilt.
+A match is not the same as a full explanation.
 
-**Takeaway**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.`,
-    intermediate: `## Prosecutor’s Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Ignoring base rates in evidence interpretation. »  
+Key concept inside it
+Base-rate mistake:
+Ignoring how common the event is overall while focusing on one striking statistic.
 
-The passage shows **Prosecutor’s Fallacy** in action: a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
+Why it matters
+Explains why:
+- It confuses rarity with guilt.
+- It ignores the background odds.
+- It can make weak evidence look decisive.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
+The uncomfortable implication
+A rare match still needs context.
 
-- **Example 2:** Picture a family argument. People often reason as if a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-**In one sentence**  
-Prosecutor’s Fallacy is the label for reasoning that fits: A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.`,
-    expert: `## Prosecutor’s Fallacy — in-depth (Expert)
-
-**Definition**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-**Applied to this passage**  
-« Ignoring base rates in evidence interpretation. »  
-
-Here, **Prosecutor’s Fallacy** is the right name because a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 2:** Picture a family argument. People often reason as if a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 4:** Another everyday spot: sports or business results. A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 5:** **Setting:** a family argument. **What goes wrong:** A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Prosecutor’s Fallacy** means A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Prosecutor’s Fallacy = Treating a match or probability as proof of guilt.`,
   },
   597: {
-    beginner: `## Prosecutor’s Fallacy — in-depth (Beginner)
+    beginner: `Prosecutor’s Fallacy = Treating a match or probability as proof of guilt.`,
+    detail: `Prosecutor’s Fallacy
 
-**What this is, in plain English**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
+Description:
+Treating a match or probability as proof of guilt.
+The core problem is simple.
 
-**The example you’re looking at**  
-« The suspect was found with the weapon, so he must be guilty. »  
+Example (question)
+« The suspect was found with the weapon, so he must be guilty. »
+The DNA matches 1 in a million people, so the chance of innocence is 1 in a million.
+A match is not the same as a full explanation.
 
-**Why this is Prosecutor’s Fallacy**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt. That is what this label is pointing to in the passage above.
+Example (other context)
+A rare evidence match is treated as if it were the same as guilt.
+A match is not the same as a full explanation.
 
-**Takeaway**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.`,
-    intermediate: `## Prosecutor’s Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« The suspect was found with the weapon, so he must be guilty. »  
+Key concept inside it
+Base-rate mistake:
+Ignoring how common the event is overall while focusing on one striking statistic.
 
-The passage shows **Prosecutor’s Fallacy** in action: a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
+Why it matters
+Explains why:
+- It confuses rarity with guilt.
+- It ignores the background odds.
+- It can make weak evidence look decisive.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
+The uncomfortable implication
+A rare match still needs context.
 
-- **Example 2:** In a news headline or social post, watch for this pattern: A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 3:** Another everyday spot: a health or habits story. A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-**In one sentence**  
-Prosecutor’s Fallacy is the label for reasoning that fits: A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.`,
-    expert: `## Prosecutor’s Fallacy — in-depth (Expert)
-
-**Definition**  
-A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-**Applied to this passage**  
-« The suspect was found with the weapon, so he must be guilty. »  
-
-Here, **Prosecutor’s Fallacy** is the right name because a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 2:** In a news headline or social post, watch for this pattern: A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 3:** Another everyday spot: a health or habits story. A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 4:** **Setting:** school grades or test scores. **What goes wrong:** A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-- **Example 5:** Imagine a news headline or social post. The slip is the same: a fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Prosecutor’s Fallacy** means A fallacy of statistical reasoning typically used by a prosecutor to exaggerate the likelihood of a defendant's guilt.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Prosecutor’s Fallacy = Treating a match or probability as proof of guilt.`,
   },
   598: {
-    beginner: `## Red Herring — in-depth (Beginner)
+    beginner: `Red Herring = Redirecting the discussion to a different issue.`,
+    detail: `Red Herring
 
-**What this is, in plain English**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
+Description:
+Redirecting the discussion to a different issue.
+The core problem is simple.
 
-**The example you’re looking at**  
-« The level of mercury in seafood may be unsafe, but what will fishers do to support their families? »  
+Example (question)
+« The level of mercury in seafood may be unsafe, but what will fishers do to support their families? »
+The level of mercury in seafood may be unsafe, but what will fishers do to support their families?
+A side issue is used to dodge the main one.
 
-**Why this is Red Herring**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond. That is what this label is pointing to in the passage above.
+Example (other context)
+The reply changes the topic instead of answering the point that was raised.
+A side issue is used to dodge the main one.
 
-**Takeaway**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.`,
-    intermediate: `## Red Herring — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« The level of mercury in seafood may be unsafe, but what will fishers do to support their families? »  
+Key concept inside it
+Topic shift:
+Moving the conversation away from the original question to a different concern.
 
-The passage shows **Red Herring** in action: attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
+Why it matters
+Explains why:
+- It avoids the hard point.
+- It can look thoughtful while dodging the issue.
+- It prevents real resolution.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
+The uncomfortable implication
+A new topic is not an answer.
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-**In one sentence**  
-Red Herring is the label for reasoning that fits: Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.`,
-    expert: `## Red Herring — in-depth (Expert)
-
-**Definition**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-**Applied to this passage**  
-« The level of mercury in seafood may be unsafe, but what will fishers do to support their families? »  
-
-Here, **Red Herring** is the right name because attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 4:** Imagine a family argument. The slip is the same: attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 5:** Picture a policy or workplace discussion. People often reason as if attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Red Herring** means Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Red Herring = Redirecting the discussion to a different issue.`,
   },
   599: {
-    beginner: `## Red Herring — in-depth (Beginner)
+    beginner: `Red Herring = Redirecting the discussion to a different issue.`,
+    detail: `Red Herring
 
-**What this is, in plain English**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
+Description:
+Redirecting the discussion to a different issue.
+The core problem is simple.
 
-**The example you’re looking at**  
-« I know your car isn't working right. But, if you had gone to the store one day earlier, you'd not be having problems. »  
+Example (question)
+« I know your car isn't working right. But, if you had gone to the store one day earlier, you'd not be having problems. »
+The level of mercury in seafood may be unsafe, but what will fishers do to support their families?
+A side issue is used to dodge the main one.
 
-**Why this is Red Herring**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond. That is what this label is pointing to in the passage above.
+Example (other context)
+The reply changes the topic instead of answering the point that was raised.
+A side issue is used to dodge the main one.
 
-**Takeaway**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.`,
-    intermediate: `## Red Herring — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« I know your car isn't working right. But, if you had gone to the store one day earlier, you'd not be having problems. »  
+Key concept inside it
+Topic shift:
+Moving the conversation away from the original question to a different concern.
 
-The passage shows **Red Herring** in action: attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
+Why it matters
+Explains why:
+- It avoids the hard point.
+- It can look thoughtful while dodging the issue.
+- It prevents real resolution.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
+The uncomfortable implication
+A new topic is not an answer.
 
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-**In one sentence**  
-Red Herring is the label for reasoning that fits: Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.`,
-    expert: `## Red Herring — in-depth (Expert)
-
-**Definition**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-**Applied to this passage**  
-« I know your car isn't working right. But, if you had gone to the store one day earlier, you'd not be having problems. »  
-
-Here, **Red Herring** is the right name because attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 4:** Picture a news headline or social post. People often reason as if attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 5:** In a health or habits story, watch for this pattern: Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Red Herring** means Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Red Herring = Redirecting the discussion to a different issue.`,
   },
   600: {
-    beginner: `## Red Herring — in-depth (Beginner)
+    beginner: `Red Herring = Redirecting the discussion to a different issue.`,
+    detail: `Red Herring
 
-**What this is, in plain English**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
+Description:
+Redirecting the discussion to a different issue.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Mother: It’s bedtime Jane so put your book away. Jane: Mom, how do you make babies? »  
+Example (question)
+« Mother: It’s bedtime Jane so put your book away. Jane: Mom, how do you make babies? »
+The level of mercury in seafood may be unsafe, but what will fishers do to support their families?
+A side issue is used to dodge the main one.
 
-**Why this is Red Herring**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond. That is what this label is pointing to in the passage above.
+Example (other context)
+The reply changes the topic instead of answering the point that was raised.
+A side issue is used to dodge the main one.
 
-**Takeaway**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.`,
-    intermediate: `## Red Herring — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Mother: It’s bedtime Jane so put your book away. Jane: Mom, how do you make babies? »  
+Key concept inside it
+Topic shift:
+Moving the conversation away from the original question to a different concern.
 
-The passage shows **Red Herring** in action: attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
+Why it matters
+Explains why:
+- It avoids the hard point.
+- It can look thoughtful while dodging the issue.
+- It prevents real resolution.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
+The uncomfortable implication
+A new topic is not an answer.
 
-- **Example 2:** Imagine sports or business results. The slip is the same: attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 3:** Picture a family argument. People often reason as if attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-**In one sentence**  
-Red Herring is the label for reasoning that fits: Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.`,
-    expert: `## Red Herring — in-depth (Expert)
-
-**Definition**  
-Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-**Applied to this passage**  
-« Mother: It’s bedtime Jane so put your book away. Jane: Mom, how do you make babies? »  
-
-Here, **Red Herring** is the right name because attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 2:** Imagine sports or business results. The slip is the same: attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 3:** Picture a family argument. People often reason as if attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 4:** In a policy or workplace discussion, watch for this pattern: Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-- **Example 5:** Another everyday spot: sports or business results. Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Red Herring** means Attempting to redirect the argument to another issue to which the person doing the redirecting can better respond.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Red Herring = Redirecting the discussion to a different issue.`,
   },
   601: {
-    beginner: `## Regression Fallacy — in-depth (Beginner)
+    beginner: `Regression Fallacy = Explaining a swing as a cause when it may just be a return toward average.`,
+    detail: `Regression Fallacy
 
-**What this is, in plain English**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
+Description:
+Explaining a swing as a cause when it may just be a return toward average.
+The core problem is simple.
 
-**The example you’re looking at**  
-« The team replaced the coach after a disastrous season; the next year they won more games. Pundits credit the new hire, but the awful season was unusually extreme and outcomes often swing back toward average on their own. »  
+Example (question)
+« The team replaced the coach after a disastrous season; the next year they won more games. Pundits credit the new hire, but the awful season was unusually extreme and outcomes often swing back toward average on their own. »
+Thinking a treatment worked because symptoms improved after starting it.
+Not every rebound has a hero.
 
-**Why this is Regression Fallacy**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean. That is what this label is pointing to in the passage above.
+Example (other context)
+A bad season is followed by a better one, but the change may be ordinary regression to the mean.
+Not every rebound has a hero.
 
-**Takeaway**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.`,
-    intermediate: `## Regression Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« The team replaced the coach after a disastrous season; the next year they won more games. Pundits credit the new hire, but the awful season was unusually extreme and outcomes often swing back toward average on their own. »  
+Key concept inside it
+Regression to the mean:
+The tendency for extreme results to move back toward average over time.
 
-The passage shows **Regression Fallacy** in action: ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
+Why it matters
+Explains why:
+- It can credit the wrong cause.
+- It mistakes normal variation for intervention.
+- It overstates the power of a recent action.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
+The uncomfortable implication
+Sometimes the curve fixes itself.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 3:** In a news headline or social post, watch for this pattern: Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-**In one sentence**  
-Regression Fallacy is the label for reasoning that fits: Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.`,
-    expert: `## Regression Fallacy — in-depth (Expert)
-
-**Definition**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-**Applied to this passage**  
-« The team replaced the coach after a disastrous season; the next year they won more games. Pundits credit the new hire, but the awful season was unusually extreme and outcomes often swing back toward average on their own. »  
-
-Here, **Regression Fallacy** is the right name because ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 2:** Picture school grades or test scores. People often reason as if ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 3:** In a news headline or social post, watch for this pattern: Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 4:** Another everyday spot: a health or habits story. Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Regression Fallacy** means Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Regression Fallacy = Explaining a swing as a cause when it may just be a return toward average.`,
   },
   602: {
-    beginner: `## Regression Fallacy — in-depth (Beginner)
+    beginner: `Regression Fallacy = Explaining a swing as a cause when it may just be a return toward average.`,
+    detail: `Regression Fallacy
 
-**What this is, in plain English**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
+Description:
+Explaining a swing as a cause when it may just be a return toward average.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Thinking a treatment worked because symptoms improved after starting it. »  
+Example (question)
+« Thinking a treatment worked because symptoms improved after starting it. »
+Thinking a treatment worked because symptoms improved after starting it.
+Not every rebound has a hero.
 
-**Why this is Regression Fallacy**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean. That is what this label is pointing to in the passage above.
+Example (other context)
+A bad season is followed by a better one, but the change may be ordinary regression to the mean.
+Not every rebound has a hero.
 
-**Takeaway**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.`,
-    intermediate: `## Regression Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Thinking a treatment worked because symptoms improved after starting it. »  
+Key concept inside it
+Regression to the mean:
+The tendency for extreme results to move back toward average over time.
 
-The passage shows **Regression Fallacy** in action: ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
+Why it matters
+Explains why:
+- It can credit the wrong cause.
+- It mistakes normal variation for intervention.
+- It overstates the power of a recent action.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
+The uncomfortable implication
+Sometimes the curve fixes itself.
 
-- **Example 2:** In a family argument, watch for this pattern: Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-**In one sentence**  
-Regression Fallacy is the label for reasoning that fits: Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.`,
-    expert: `## Regression Fallacy — in-depth (Expert)
-
-**Definition**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-**Applied to this passage**  
-« Thinking a treatment worked because symptoms improved after starting it. »  
-
-Here, **Regression Fallacy** is the right name because ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 2:** In a family argument, watch for this pattern: Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 4:** **Setting:** sports or business results. **What goes wrong:** Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 5:** Imagine a family argument. The slip is the same: ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Regression Fallacy** means Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Regression Fallacy = Explaining a swing as a cause when it may just be a return toward average.`,
   },
   603: {
-    beginner: `## Regression Fallacy — in-depth (Beginner)
+    beginner: `Regression Fallacy = Explaining a swing as a cause when it may just be a return toward average.`,
+    detail: `Regression Fallacy
 
-**What this is, in plain English**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
+Description:
+Explaining a swing as a cause when it may just be a return toward average.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Attributing success to an action when it was inevitable. »  
+Example (question)
+« Attributing success to an action when it was inevitable. »
+Thinking a treatment worked because symptoms improved after starting it.
+Not every rebound has a hero.
 
-**Why this is Regression Fallacy**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean. That is what this label is pointing to in the passage above.
+Example (other context)
+A bad season is followed by a better one, but the change may be ordinary regression to the mean.
+Not every rebound has a hero.
 
-**Takeaway**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.`,
-    intermediate: `## Regression Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Attributing success to an action when it was inevitable. »  
+Key concept inside it
+Regression to the mean:
+The tendency for extreme results to move back toward average over time.
 
-The passage shows **Regression Fallacy** in action: ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
+Why it matters
+Explains why:
+- It can credit the wrong cause.
+- It mistakes normal variation for intervention.
+- It overstates the power of a recent action.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
+The uncomfortable implication
+Sometimes the curve fixes itself.
 
-- **Example 2:** Another everyday spot: a news headline or social post. Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-**In one sentence**  
-Regression Fallacy is the label for reasoning that fits: Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.`,
-    expert: `## Regression Fallacy — in-depth (Expert)
-
-**Definition**  
-Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-**Applied to this passage**  
-« Attributing success to an action when it was inevitable. »  
-
-Here, **Regression Fallacy** is the right name because ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 2:** Another everyday spot: a news headline or social post. Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 4:** Imagine school grades or test scores. The slip is the same: ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-- **Example 5:** Picture a news headline or social post. People often reason as if ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Regression Fallacy** means Ascribing a cause to a fluctuation of a variable when the fluctuation is actually just regression to the mean.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Regression Fallacy = Explaining a swing as a cause when it may just be a return toward average.`,
   },
   604: {
-    beginner: `## Reification — in-depth (Beginner)
+    beginner: `Reification = Treating an abstract idea as if it were a concrete thing.`,
+    detail: `Reification
 
-**What this is, in plain English**  
-Treating an abstract concept as if it were a real, concrete thing.
+Description:
+Treating an abstract idea as if it were a concrete thing.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Society demands this. »  
+Example (question)
+« Society demands this. »
+The economy is angry.
+An idea is not a physical creature.
 
-**Why this is Reification**  
-Treating an abstract concept as if it were a real, concrete thing. That is what this label is pointing to in the passage above.
+Example (other context)
+A policy or value is spoken of like a living object with feelings and intent.
+An idea is not a physical creature.
 
-**Takeaway**  
-Treating an abstract concept as if it were a real, concrete thing.`,
-    intermediate: `## Reification — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Treating an abstract concept as if it were a real, concrete thing.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Society demands this. »  
+Key concept inside it
+Abstract-to-concrete error:
+Turning a concept into something physical in the mind and in the argument.
 
-The passage shows **Reification** in action: treating an abstract concept as if it were a real, concrete thing.
+Why it matters
+Explains why:
+- It blurs the line between metaphor and fact.
+- It makes vague ideas seem tangible.
+- It can hide weak reasoning behind a dramatic image.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Treating an abstract concept as if it were a real, concrete thing.
+The uncomfortable implication
+A concept can matter without becoming a thing.
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: treating an abstract concept as if it were a real, concrete thing.
-
-**In one sentence**  
-Reification is the label for reasoning that fits: Treating an abstract concept as if it were a real, concrete thing.`,
-    expert: `## Reification — in-depth (Expert)
-
-**Definition**  
-Treating an abstract concept as if it were a real, concrete thing.
-
-**Applied to this passage**  
-« Society demands this. »  
-
-Here, **Reification** is the right name because treating an abstract concept as if it were a real, concrete thing.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 4:** Picture a family argument. People often reason as if treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 5:** In a policy or workplace discussion, watch for this pattern: Treating an abstract concept as if it were a real, concrete thing.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Reification** means Treating an abstract concept as if it were a real, concrete thing.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Reification = Treating an abstract idea as if it were a concrete thing.`,
   },
   605: {
-    beginner: `## Reification — in-depth (Beginner)
+    beginner: `Reification = Treating an abstract idea as if it were a concrete thing.`,
+    detail: `Reification
 
-**What this is, in plain English**  
-Treating an abstract concept as if it were a real, concrete thing.
+Description:
+Treating an abstract idea as if it were a concrete thing.
+The core problem is simple.
 
-**The example you’re looking at**  
-« The economy is angry. »  
+Example (question)
+« The economy is angry. »
+The economy is angry.
+An idea is not a physical creature.
 
-**Why this is Reification**  
-Treating an abstract concept as if it were a real, concrete thing. That is what this label is pointing to in the passage above.
+Example (other context)
+A policy or value is spoken of like a living object with feelings and intent.
+An idea is not a physical creature.
 
-**Takeaway**  
-Treating an abstract concept as if it were a real, concrete thing.`,
-    intermediate: `## Reification — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Treating an abstract concept as if it were a real, concrete thing.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« The economy is angry. »  
+Key concept inside it
+Abstract-to-concrete error:
+Turning a concept into something physical in the mind and in the argument.
 
-The passage shows **Reification** in action: treating an abstract concept as if it were a real, concrete thing.
+Why it matters
+Explains why:
+- It blurs the line between metaphor and fact.
+- It makes vague ideas seem tangible.
+- It can hide weak reasoning behind a dramatic image.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Treating an abstract concept as if it were a real, concrete thing.
+The uncomfortable implication
+A concept can matter without becoming a thing.
 
-- **Example 2:** Imagine a health or habits story. The slip is the same: treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if treating an abstract concept as if it were a real, concrete thing.
-
-**In one sentence**  
-Reification is the label for reasoning that fits: Treating an abstract concept as if it were a real, concrete thing.`,
-    expert: `## Reification — in-depth (Expert)
-
-**Definition**  
-Treating an abstract concept as if it were a real, concrete thing.
-
-**Applied to this passage**  
-« The economy is angry. »  
-
-Here, **Reification** is the right name because treating an abstract concept as if it were a real, concrete thing.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 2:** Imagine a health or habits story. The slip is the same: treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 4:** In a news headline or social post, watch for this pattern: Treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 5:** Another everyday spot: a health or habits story. Treating an abstract concept as if it were a real, concrete thing.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Reification** means Treating an abstract concept as if it were a real, concrete thing.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Reification = Treating an abstract idea as if it were a concrete thing.`,
   },
   606: {
-    beginner: `## Reification — in-depth (Beginner)
+    beginner: `Reification = Treating an abstract idea as if it were a concrete thing.`,
+    detail: `Reification
 
-**What this is, in plain English**  
-Treating an abstract concept as if it were a real, concrete thing.
+Description:
+Treating an abstract idea as if it were a concrete thing.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Treating ideas as physical entities. »  
+Example (question)
+« Treating ideas as physical entities. »
+The economy is angry.
+An idea is not a physical creature.
 
-**Why this is Reification**  
-Treating an abstract concept as if it were a real, concrete thing. That is what this label is pointing to in the passage above.
+Example (other context)
+A policy or value is spoken of like a living object with feelings and intent.
+An idea is not a physical creature.
 
-**Takeaway**  
-Treating an abstract concept as if it were a real, concrete thing.`,
-    intermediate: `## Reification — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Treating an abstract concept as if it were a real, concrete thing.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Treating ideas as physical entities. »  
+Key concept inside it
+Abstract-to-concrete error:
+Turning a concept into something physical in the mind and in the argument.
 
-The passage shows **Reification** in action: treating an abstract concept as if it were a real, concrete thing.
+Why it matters
+Explains why:
+- It blurs the line between metaphor and fact.
+- It makes vague ideas seem tangible.
+- It can hide weak reasoning behind a dramatic image.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: treating an abstract concept as if it were a real, concrete thing.
+The uncomfortable implication
+A concept can matter without becoming a thing.
 
-- **Example 2:** Picture sports or business results. People often reason as if treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 3:** In a family argument, watch for this pattern: Treating an abstract concept as if it were a real, concrete thing.
-
-**In one sentence**  
-Reification is the label for reasoning that fits: Treating an abstract concept as if it were a real, concrete thing.`,
-    expert: `## Reification — in-depth (Expert)
-
-**Definition**  
-Treating an abstract concept as if it were a real, concrete thing.
-
-**Applied to this passage**  
-« Treating ideas as physical entities. »  
-
-Here, **Reification** is the right name because treating an abstract concept as if it were a real, concrete thing.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 2:** Picture sports or business results. People often reason as if treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 3:** In a family argument, watch for this pattern: Treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 4:** Another everyday spot: a policy or workplace discussion. Treating an abstract concept as if it were a real, concrete thing.
-
-- **Example 5:** **Setting:** sports or business results. **What goes wrong:** Treating an abstract concept as if it were a real, concrete thing.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Reification** means Treating an abstract concept as if it were a real, concrete thing.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Reification = Treating an abstract idea as if it were a concrete thing.`,
   },
   607: {
-    beginner: `## Slippery Slope — in-depth (Beginner)
+    beginner: `Slippery Slope = Claiming a small step will inevitably lead to a disastrous chain reaction.`,
+    detail: `Slippery Slope
 
-**What this is, in plain English**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
+Description:
+Claiming a small step will inevitably lead to a disastrous chain reaction.
+The core problem is simple.
 
-**The example you’re looking at**  
-« If we let this child bring the permission slip late, there is no reason to ever set a deadline for anything again! »  
+Example (question)
+« If we let this child bring the permission slip late, there is no reason to ever set a deadline for anything again! »
+If we let this child hand in the permission slip late, there will be no deadlines left for anything.
+A possible chain is treated like a certainty.
 
-**Why this is Slippery Slope**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen. That is what this label is pointing to in the passage above.
+Example (other context)
+A modest change is presented as the start of an unstoppable collapse.
+A possible chain is treated like a certainty.
 
-**Takeaway**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.`,
-    intermediate: `## Slippery Slope — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« If we let this child bring the permission slip late, there is no reason to ever set a deadline for anything again! »  
+Key concept inside it
+Cascade claim:
+The claim that one step will trigger a long, unavoidable series of worse steps.
 
-The passage shows **Slippery Slope** in action: asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
+Why it matters
+Explains why:
+- It skips over missing links.
+- It turns risk into inevitability.
+- It can make ordinary choices feel catastrophic.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
+The uncomfortable implication
+A path can slope without plunging.
 
-- **Example 2:** In school grades or test scores, watch for this pattern: Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 3:** Another everyday spot: a news headline or social post. Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-**In one sentence**  
-Slippery Slope is the label for reasoning that fits: Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.`,
-    expert: `## Slippery Slope — in-depth (Expert)
-
-**Definition**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-**Applied to this passage**  
-« If we let this child bring the permission slip late, there is no reason to ever set a deadline for anything again! »  
-
-Here, **Slippery Slope** is the right name because asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 2:** In school grades or test scores, watch for this pattern: Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 3:** Another everyday spot: a news headline or social post. Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 4:** **Setting:** a health or habits story. **What goes wrong:** Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 5:** Imagine school grades or test scores. The slip is the same: asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Slippery Slope** means Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Slippery Slope = Claiming a small step will inevitably lead to a disastrous chain reaction.`,
   },
   608: {
-    beginner: `## Slippery Slope — in-depth (Beginner)
+    beginner: `Slippery Slope = Claiming a small step will inevitably lead to a disastrous chain reaction.`,
+    detail: `Slippery Slope
 
-**What this is, in plain English**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
+Description:
+Claiming a small step will inevitably lead to a disastrous chain reaction.
+The core problem is simple.
 
-**The example you’re looking at**  
-« If we allow gay marriage, the next thing you know, people will want to marry their dogs, their cats, and what about their pigs? »  
+Example (question)
+« If we allow gay marriage, the next thing you know, people will want to marry their dogs, their cats, and what about their pigs? »
+If we let this child hand in the permission slip late, there will be no deadlines left for anything.
+A possible chain is treated like a certainty.
 
-**Why this is Slippery Slope**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen. That is what this label is pointing to in the passage above.
+Example (other context)
+A modest change is presented as the start of an unstoppable collapse.
+A possible chain is treated like a certainty.
 
-**Takeaway**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.`,
-    intermediate: `## Slippery Slope — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« If we allow gay marriage, the next thing you know, people will want to marry their dogs, their cats, and what about their pigs? »  
+Key concept inside it
+Cascade claim:
+The claim that one step will trigger a long, unavoidable series of worse steps.
 
-The passage shows **Slippery Slope** in action: asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
+Why it matters
+Explains why:
+- It skips over missing links.
+- It turns risk into inevitability.
+- It can make ordinary choices feel catastrophic.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
+The uncomfortable implication
+A path can slope without plunging.
 
-- **Example 2:** Another everyday spot: a family argument. Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-**In one sentence**  
-Slippery Slope is the label for reasoning that fits: Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.`,
-    expert: `## Slippery Slope — in-depth (Expert)
-
-**Definition**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-**Applied to this passage**  
-« If we allow gay marriage, the next thing you know, people will want to marry their dogs, their cats, and what about their pigs? »  
-
-Here, **Slippery Slope** is the right name because asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 2:** Another everyday spot: a family argument. Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 4:** Imagine sports or business results. The slip is the same: asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 5:** Picture a family argument. People often reason as if asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Slippery Slope** means Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Slippery Slope = Claiming a small step will inevitably lead to a disastrous chain reaction.`,
   },
   609: {
-    beginner: `## Slippery Slope — in-depth (Beginner)
+    beginner: `Slippery Slope = Claiming a small step will inevitably lead to a disastrous chain reaction.`,
+    detail: `Slippery Slope
 
-**What this is, in plain English**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
+Description:
+Claiming a small step will inevitably lead to a disastrous chain reaction.
+The core problem is simple.
 
-**The example you’re looking at**  
-« If I fail this test, I won't get into college. If I don't get into college, I won't get a good job. If I don't get a good job, I'll be poor and homeless. »  
+Example (question)
+« If I fail this test, I won't get into college. If I don't get into college, I won't get a good job. If I don't get a good job, I'll be poor and homeless. »
+If we let this child hand in the permission slip late, there will be no deadlines left for anything.
+A possible chain is treated like a certainty.
 
-**Why this is Slippery Slope**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen. That is what this label is pointing to in the passage above.
+Example (other context)
+A modest change is presented as the start of an unstoppable collapse.
+A possible chain is treated like a certainty.
 
-**Takeaway**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.`,
-    intermediate: `## Slippery Slope — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« If I fail this test, I won't get into college. If I don't get into college, I won't get a good job. If I don't get a good job, I'll be poor and homeless. »  
+Key concept inside it
+Cascade claim:
+The claim that one step will trigger a long, unavoidable series of worse steps.
 
-The passage shows **Slippery Slope** in action: asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
+Why it matters
+Explains why:
+- It skips over missing links.
+- It turns risk into inevitability.
+- It can make ordinary choices feel catastrophic.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
+The uncomfortable implication
+A path can slope without plunging.
 
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-**In one sentence**  
-Slippery Slope is the label for reasoning that fits: Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.`,
-    expert: `## Slippery Slope — in-depth (Expert)
-
-**Definition**  
-Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-**Applied to this passage**  
-« If I fail this test, I won't get into college. If I don't get into college, I won't get a good job. If I don't get a good job, I'll be poor and homeless. »  
-
-Here, **Slippery Slope** is the right name because asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 4:** Picture school grades or test scores. People often reason as if asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-- **Example 5:** In a news headline or social post, watch for this pattern: Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Slippery Slope** means Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Slippery Slope = Claiming a small step will inevitably lead to a disastrous chain reaction.`,
   },
   610: {
-    beginner: `## Special Pleading — in-depth (Beginner)
+    beginner: `Special Pleading = Making an exception for a claim without a fair reason.`,
+    detail: `Special Pleading
 
-**What this is, in plain English**  
-Moving the goalposts to create exceptions when a claim is shown to be false.
+Description:
+Making an exception for a claim without a fair reason.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Edward Johns claimed to be psychic, but when his 'abilities' were tested under proper scientific conditions, they magically disappeared. Edward explained this saying that one had to have faith in his abilities for them to work. »  
+Example (question)
+« Edward Johns claimed to be psychic, but when his 'abilities' were tested under proper scientific conditions, they magically disappeared. Edward explained this saying that one had to have faith in his abilities for them to work. »
+Yes, I know I broke the law, but I had a good reason.
+The exception appears only when the claim is in trouble.
 
-**Why this is Special Pleading**  
-Moving the goalposts to create exceptions when a claim is shown to be false. That is what this label is pointing to in the passage above.
+Example (other context)
+The rule is accepted for everyone else but quietly suspended for the speaker.
+The exception appears only when the claim is in trouble.
 
-**Takeaway**  
-Moving the goalposts to create exceptions when a claim is shown to be false.`,
-    intermediate: `## Special Pleading — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Moving the goalposts to create exceptions when a claim is shown to be false.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Edward Johns claimed to be psychic, but when his 'abilities' were tested under proper scientific conditions, they magically disappeared. Edward explained this saying that one had to have faith in his abilities for them to work. »  
+Key concept inside it
+Unfair exception:
+A rule is treated as universal until the speaker needs to escape it.
 
-The passage shows **Special Pleading** in action: moving the goalposts to create exceptions when a claim is shown to be false.
+Why it matters
+Explains why:
+- It protects a claim instead of testing it.
+- It creates double standards.
+- It makes the rule feel optional.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Moving the goalposts to create exceptions when a claim is shown to be false.
+The uncomfortable implication
+A rule with secret exits is not much of a rule.
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 3:** Picture sports or business results. People often reason as if moving the goalposts to create exceptions when a claim is shown to be false.
-
-**In one sentence**  
-Special Pleading is the label for reasoning that fits: Moving the goalposts to create exceptions when a claim is shown to be false.`,
-    expert: `## Special Pleading — in-depth (Expert)
-
-**Definition**  
-Moving the goalposts to create exceptions when a claim is shown to be false.
-
-**Applied to this passage**  
-« Edward Johns claimed to be psychic, but when his 'abilities' were tested under proper scientific conditions, they magically disappeared. Edward explained this saying that one had to have faith in his abilities for them to work. »  
-
-Here, **Special Pleading** is the right name because moving the goalposts to create exceptions when a claim is shown to be false.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 3:** Picture sports or business results. People often reason as if moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 4:** In a family argument, watch for this pattern: Moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 5:** Another everyday spot: a policy or workplace discussion. Moving the goalposts to create exceptions when a claim is shown to be false.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Special Pleading** means Moving the goalposts to create exceptions when a claim is shown to be false.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Special Pleading = Making an exception for a claim without a fair reason.`,
   },
   611: {
-    beginner: `## Special Pleading — in-depth (Beginner)
+    beginner: `Special Pleading = Making an exception for a claim without a fair reason.`,
+    detail: `Special Pleading
 
-**What this is, in plain English**  
-Moving the goalposts to create exceptions when a claim is shown to be false.
+Description:
+Making an exception for a claim without a fair reason.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Yes, I know I broke the law, but I had a good reason. »  
+Example (question)
+« Yes, I know I broke the law, but I had a good reason. »
+Yes, I know I broke the law, but I had a good reason.
+The exception appears only when the claim is in trouble.
 
-**Why this is Special Pleading**  
-Moving the goalposts to create exceptions when a claim is shown to be false. That is what this label is pointing to in the passage above.
+Example (other context)
+The rule is accepted for everyone else but quietly suspended for the speaker.
+The exception appears only when the claim is in trouble.
 
-**Takeaway**  
-Moving the goalposts to create exceptions when a claim is shown to be false.`,
-    intermediate: `## Special Pleading — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Moving the goalposts to create exceptions when a claim is shown to be false.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Yes, I know I broke the law, but I had a good reason. »  
+Key concept inside it
+Unfair exception:
+A rule is treated as universal until the speaker needs to escape it.
 
-The passage shows **Special Pleading** in action: moving the goalposts to create exceptions when a claim is shown to be false.
+Why it matters
+Explains why:
+- It protects a claim instead of testing it.
+- It creates double standards.
+- It makes the rule feel optional.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: moving the goalposts to create exceptions when a claim is shown to be false.
+The uncomfortable implication
+A rule with secret exits is not much of a rule.
 
-- **Example 2:** Picture a health or habits story. People often reason as if moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: Moving the goalposts to create exceptions when a claim is shown to be false.
-
-**In one sentence**  
-Special Pleading is the label for reasoning that fits: Moving the goalposts to create exceptions when a claim is shown to be false.`,
-    expert: `## Special Pleading — in-depth (Expert)
-
-**Definition**  
-Moving the goalposts to create exceptions when a claim is shown to be false.
-
-**Applied to this passage**  
-« Yes, I know I broke the law, but I had a good reason. »  
-
-Here, **Special Pleading** is the right name because moving the goalposts to create exceptions when a claim is shown to be false.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 2:** Picture a health or habits story. People often reason as if moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: Moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 4:** Another everyday spot: a news headline or social post. Moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Moving the goalposts to create exceptions when a claim is shown to be false.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Special Pleading** means Moving the goalposts to create exceptions when a claim is shown to be false.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Special Pleading = Making an exception for a claim without a fair reason.`,
   },
   612: {
-    beginner: `## Special Pleading — in-depth (Beginner)
+    beginner: `Special Pleading = Making an exception for a claim without a fair reason.`,
+    detail: `Special Pleading
 
-**What this is, in plain English**  
-Moving the goalposts to create exceptions when a claim is shown to be false.
+Description:
+Making an exception for a claim without a fair reason.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Making exceptions for oneself. »  
+Example (question)
+« Making exceptions for oneself. »
+Yes, I know I broke the law, but I had a good reason.
+The exception appears only when the claim is in trouble.
 
-**Why this is Special Pleading**  
-Moving the goalposts to create exceptions when a claim is shown to be false. That is what this label is pointing to in the passage above.
+Example (other context)
+The rule is accepted for everyone else but quietly suspended for the speaker.
+The exception appears only when the claim is in trouble.
 
-**Takeaway**  
-Moving the goalposts to create exceptions when a claim is shown to be false.`,
-    intermediate: `## Special Pleading — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Moving the goalposts to create exceptions when a claim is shown to be false.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Making exceptions for oneself. »  
+Key concept inside it
+Unfair exception:
+A rule is treated as universal until the speaker needs to escape it.
 
-The passage shows **Special Pleading** in action: moving the goalposts to create exceptions when a claim is shown to be false.
+Why it matters
+Explains why:
+- It protects a claim instead of testing it.
+- It creates double standards.
+- It makes the rule feel optional.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if moving the goalposts to create exceptions when a claim is shown to be false.
+The uncomfortable implication
+A rule with secret exits is not much of a rule.
 
-- **Example 2:** In sports or business results, watch for this pattern: Moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 3:** Another everyday spot: a family argument. Moving the goalposts to create exceptions when a claim is shown to be false.
-
-**In one sentence**  
-Special Pleading is the label for reasoning that fits: Moving the goalposts to create exceptions when a claim is shown to be false.`,
-    expert: `## Special Pleading — in-depth (Expert)
-
-**Definition**  
-Moving the goalposts to create exceptions when a claim is shown to be false.
-
-**Applied to this passage**  
-« Making exceptions for oneself. »  
-
-Here, **Special Pleading** is the right name because moving the goalposts to create exceptions when a claim is shown to be false.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 2:** In sports or business results, watch for this pattern: Moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 3:** Another everyday spot: a family argument. Moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 4:** **Setting:** a policy or workplace discussion. **What goes wrong:** Moving the goalposts to create exceptions when a claim is shown to be false.
-
-- **Example 5:** Imagine sports or business results. The slip is the same: moving the goalposts to create exceptions when a claim is shown to be false.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Special Pleading** means Moving the goalposts to create exceptions when a claim is shown to be false.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Special Pleading = Making an exception for a claim without a fair reason.`,
   },
   613: {
-    beginner: `## Spotlight Fallacy — in-depth (Beginner)
+    beginner: `Spotlight Fallacy = Assuming an event is more common because it gets a lot of attention.`,
+    detail: `Spotlight Fallacy
 
-**What this is, in plain English**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue.
+Description:
+Assuming an event is more common because it gets a lot of attention.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Thinking school shootings are common because they're heavily reported. »  
+Example (question)
+« Thinking school shootings are common because they're heavily reported. »
+Thinking school shootings are common because they are heavily reported.
+Visibility is not prevalence.
 
-**Why this is Spotlight Fallacy**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue. That is what this label is pointing to in the passage above.
+Example (other context)
+Media coverage makes an event feel everywhere even when it is still rare.
+Visibility is not prevalence.
 
-**Takeaway**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue.`,
-    intermediate: `## Spotlight Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Thinking school shootings are common because they're heavily reported. »  
+Key concept inside it
+Attention bias:
+Mistaking what is most visible for what is most common.
 
-The passage shows **Spotlight Fallacy** in action: assuming that the media's attention on a specific issue represents the general frequency of that issue.
+Why it matters
+Explains why:
+- It inflates fear.
+- It distorts risk perception.
+- It confuses headlines with real-world frequency.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Assuming that the media's attention on a specific issue represents the general frequency of that issue.
+The uncomfortable implication
+What is loud is not always large.
 
-- **Example 2:** Another everyday spot: school grades or test scores. Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-**In one sentence**  
-Spotlight Fallacy is the label for reasoning that fits: Assuming that the media's attention on a specific issue represents the general frequency of that issue.`,
-    expert: `## Spotlight Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-**Applied to this passage**  
-« Thinking school shootings are common because they're heavily reported. »  
-
-Here, **Spotlight Fallacy** is the right name because assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 2:** Another everyday spot: school grades or test scores. Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 4:** Imagine a health or habits story. The slip is the same: assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 5:** Picture school grades or test scores. People often reason as if assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Spotlight Fallacy** means Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Memory & Perception Effects`,
+One-line version
+Spotlight Fallacy = Assuming an event is more common because it gets a lot of attention.`,
   },
   614: {
-    beginner: `## Spotlight Fallacy — in-depth (Beginner)
+    beginner: `Spotlight Fallacy = Assuming an event is more common because it gets a lot of attention.`,
+    detail: `Spotlight Fallacy
 
-**What this is, in plain English**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue.
+Description:
+Assuming an event is more common because it gets a lot of attention.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Believing rare events are frequent due to media focus. »  
+Example (question)
+« Believing rare events are frequent due to media focus. »
+Thinking school shootings are common because they are heavily reported.
+Visibility is not prevalence.
 
-**Why this is Spotlight Fallacy**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue. That is what this label is pointing to in the passage above.
+Example (other context)
+Media coverage makes an event feel everywhere even when it is still rare.
+Visibility is not prevalence.
 
-**Takeaway**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue.`,
-    intermediate: `## Spotlight Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Believing rare events are frequent due to media focus. »  
+Key concept inside it
+Attention bias:
+Mistaking what is most visible for what is most common.
 
-The passage shows **Spotlight Fallacy** in action: assuming that the media's attention on a specific issue represents the general frequency of that issue.
+Why it matters
+Explains why:
+- It inflates fear.
+- It distorts risk perception.
+- It confuses headlines with real-world frequency.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Assuming that the media's attention on a specific issue represents the general frequency of that issue.
+The uncomfortable implication
+What is loud is not always large.
 
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-**In one sentence**  
-Spotlight Fallacy is the label for reasoning that fits: Assuming that the media's attention on a specific issue represents the general frequency of that issue.`,
-    expert: `## Spotlight Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-**Applied to this passage**  
-« Believing rare events are frequent due to media focus. »  
-
-Here, **Spotlight Fallacy** is the right name because assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 4:** Picture sports or business results. People often reason as if assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 5:** In a family argument, watch for this pattern: Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Spotlight Fallacy** means Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Memory & Perception Effects`,
+One-line version
+Spotlight Fallacy = Assuming an event is more common because it gets a lot of attention.`,
   },
   615: {
-    beginner: `## Spotlight Fallacy — in-depth (Beginner)
+    beginner: `Spotlight Fallacy = Assuming an event is more common because it gets a lot of attention.`,
+    detail: `Spotlight Fallacy
 
-**What this is, in plain English**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue.
+Description:
+Assuming an event is more common because it gets a lot of attention.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Overestimating prevalence based on coverage. »  
+Example (question)
+« Overestimating prevalence based on coverage. »
+Thinking school shootings are common because they are heavily reported.
+Visibility is not prevalence.
 
-**Why this is Spotlight Fallacy**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue. That is what this label is pointing to in the passage above.
+Example (other context)
+Media coverage makes an event feel everywhere even when it is still rare.
+Visibility is not prevalence.
 
-**Takeaway**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue.`,
-    intermediate: `## Spotlight Fallacy — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Overestimating prevalence based on coverage. »  
+Key concept inside it
+Attention bias:
+Mistaking what is most visible for what is most common.
 
-The passage shows **Spotlight Fallacy** in action: assuming that the media's attention on a specific issue represents the general frequency of that issue.
+Why it matters
+Explains why:
+- It inflates fear.
+- It distorts risk perception.
+- It confuses headlines with real-world frequency.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Assuming that the media's attention on a specific issue represents the general frequency of that issue.
+The uncomfortable implication
+What is loud is not always large.
 
-- **Example 2:** Imagine a news headline or social post. The slip is the same: assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 3:** Picture a health or habits story. People often reason as if assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-**In one sentence**  
-Spotlight Fallacy is the label for reasoning that fits: Assuming that the media's attention on a specific issue represents the general frequency of that issue.`,
-    expert: `## Spotlight Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-**Applied to this passage**  
-« Overestimating prevalence based on coverage. »  
-
-Here, **Spotlight Fallacy** is the right name because assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 2:** Imagine a news headline or social post. The slip is the same: assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 3:** Picture a health or habits story. People often reason as if assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 4:** In school grades or test scores, watch for this pattern: Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-- **Example 5:** Another everyday spot: a news headline or social post. Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Spotlight Fallacy** means Assuming that the media's attention on a specific issue represents the general frequency of that issue.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Memory & Perception Effects`,
+One-line version
+Spotlight Fallacy = Assuming an event is more common because it gets a lot of attention.`,
   },
   616: {
-    beginner: `## Straw Man — in-depth (Beginner)
+    beginner: `Straw Man = Misrepresenting someone’s argument so it is easier to attack.`,
+    detail: `Straw Man
 
-**What this is, in plain English**  
-Misrepresenting someone's argument to make it easier to attack.
+Description:
+Misrepresenting someone’s argument so it is easier to attack.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Senator Jones says that we should not fund the attack submarine program. I disagree entirely. I can't understand why he wants to leave us defenseless like that. »  
+Example (question)
+« Senator Jones says that we should not fund the attack submarine program. I disagree entirely. I can't understand why he wants to leave us defenseless like that. »
+A critic turns a modest proposal into an extreme claim and attacks the exaggerated version.
+It is easier to beat a fake argument than the real one.
 
-**Why this is Straw Man**  
-Misrepresenting someone's argument to make it easier to attack. That is what this label is pointing to in the passage above.
+Example (other context)
+The real position is replaced with a caricature.
+It is easier to beat a fake argument than the real one.
 
-**Takeaway**  
-Misrepresenting someone's argument to make it easier to attack.`,
-    intermediate: `## Straw Man — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Misrepresenting someone's argument to make it easier to attack.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Senator Jones says that we should not fund the attack submarine program. I disagree entirely. I can't understand why he wants to leave us defenseless like that. »  
+Key concept inside it
+Caricatured argument:
+A distorted version of the original view that is much easier to knock down.
 
-The passage shows **Straw Man** in action: misrepresenting someone's argument to make it easier to attack.
+Why it matters
+Explains why:
+- It dodges the real point.
+- It makes victory too easy.
+- It can sound like a rebuttal while missing the actual claim.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: misrepresenting someone's argument to make it easier to attack.
+The uncomfortable implication
+If you fight a shadow, you may not touch the person.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if misrepresenting someone's argument to make it easier to attack.
-
-- **Example 3:** In sports or business results, watch for this pattern: Misrepresenting someone's argument to make it easier to attack.
-
-**In one sentence**  
-Straw Man is the label for reasoning that fits: Misrepresenting someone's argument to make it easier to attack.`,
-    expert: `## Straw Man — in-depth (Expert)
-
-**Definition**  
-Misrepresenting someone's argument to make it easier to attack.
-
-**Applied to this passage**  
-« Senator Jones says that we should not fund the attack submarine program. I disagree entirely. I can't understand why he wants to leave us defenseless like that. »  
-
-Here, **Straw Man** is the right name because misrepresenting someone's argument to make it easier to attack.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: misrepresenting someone's argument to make it easier to attack.
-
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if misrepresenting someone's argument to make it easier to attack.
-
-- **Example 3:** In sports or business results, watch for this pattern: Misrepresenting someone's argument to make it easier to attack.
-
-- **Example 4:** Another everyday spot: a family argument. Misrepresenting someone's argument to make it easier to attack.
-
-- **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Misrepresenting someone's argument to make it easier to attack.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Straw Man** means Misrepresenting someone's argument to make it easier to attack.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Straw Man = Misrepresenting someone’s argument so it is easier to attack.`,
   },
   617: {
-    beginner: `## Straw Man — in-depth (Beginner)
+    beginner: `Straw Man = Misrepresenting someone’s argument so it is easier to attack.`,
+    detail: `Straw Man
 
-**What this is, in plain English**  
-Misrepresenting someone's argument to make it easier to attack.
+Description:
+Misrepresenting someone’s argument so it is easier to attack.
+The core problem is simple.
 
-**The example you’re looking at**  
-« Zebedee: What is your view on the Christian God? Mike: I don’t believe in any gods, including the Christian one. Zebedee: So you think that we are here by accident, and all this design in nature is pure chance? »  
+Example (question)
+« Zebedee: What is your view on the Christian God? Mike: I don’t believe in any gods, including the Christian one. Zebedee: So you think that we are here by accident, and all this design in nature is pure chance? »
+A critic turns a modest proposal into an extreme claim and attacks the exaggerated version.
+It is easier to beat a fake argument than the real one.
 
-**Why this is Straw Man**  
-Misrepresenting someone's argument to make it easier to attack. That is what this label is pointing to in the passage above.
+Example (other context)
+The real position is replaced with a caricature.
+It is easier to beat a fake argument than the real one.
 
-**Takeaway**  
-Misrepresenting someone's argument to make it easier to attack.`,
-    intermediate: `## Straw Man — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Misrepresenting someone's argument to make it easier to attack.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« Zebedee: What is your view on the Christian God? Mike: I don’t believe in any gods, including the Christian one. Zebedee: So you think that we are here by accident, and all this design in nature is pure chance? »  
+Key concept inside it
+Caricatured argument:
+A distorted version of the original view that is much easier to knock down.
 
-The passage shows **Straw Man** in action: misrepresenting someone's argument to make it easier to attack.
+Why it matters
+Explains why:
+- It dodges the real point.
+- It makes victory too easy.
+- It can sound like a rebuttal while missing the actual claim.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if misrepresenting someone's argument to make it easier to attack.
+The uncomfortable implication
+If you fight a shadow, you may not touch the person.
 
-- **Example 2:** In a health or habits story, watch for this pattern: Misrepresenting someone's argument to make it easier to attack.
-
-- **Example 3:** Another everyday spot: school grades or test scores. Misrepresenting someone's argument to make it easier to attack.
-
-**In one sentence**  
-Straw Man is the label for reasoning that fits: Misrepresenting someone's argument to make it easier to attack.`,
-    expert: `## Straw Man — in-depth (Expert)
-
-**Definition**  
-Misrepresenting someone's argument to make it easier to attack.
-
-**Applied to this passage**  
-« Zebedee: What is your view on the Christian God? Mike: I don’t believe in any gods, including the Christian one. Zebedee: So you think that we are here by accident, and all this design in nature is pure chance? »  
-
-Here, **Straw Man** is the right name because misrepresenting someone's argument to make it easier to attack.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if misrepresenting someone's argument to make it easier to attack.
-
-- **Example 2:** In a health or habits story, watch for this pattern: Misrepresenting someone's argument to make it easier to attack.
-
-- **Example 3:** Another everyday spot: school grades or test scores. Misrepresenting someone's argument to make it easier to attack.
-
-- **Example 4:** **Setting:** a news headline or social post. **What goes wrong:** Misrepresenting someone's argument to make it easier to attack.
-
-- **Example 5:** Imagine a health or habits story. The slip is the same: misrepresenting someone's argument to make it easier to attack.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Straw Man** means Misrepresenting someone's argument to make it easier to attack.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Straw Man = Misrepresenting someone’s argument so it is easier to attack.`,
   },
   618: {
-    beginner: `## Straw Man — in-depth (Beginner)
+    beginner: `Straw Man = Misrepresenting someone’s argument so it is easier to attack.`,
+    detail: `Straw Man
 
-**What this is, in plain English**  
-Misrepresenting someone's argument to make it easier to attack.
+Description:
+Misrepresenting someone’s argument so it is easier to attack.
+The core problem is simple.
 
-**The example you’re looking at**  
-« The mayor proposed raising park funding by 5%. A critic says the mayor wants to pour unlimited money into every pet project and bankrupt the city. »  
+Example (question)
+« The mayor proposed raising park funding by 5%. A critic says the mayor wants to pour unlimited money into every pet project and bankrupt the city. »
+A critic turns a modest proposal into an extreme claim and attacks the exaggerated version.
+It is easier to beat a fake argument than the real one.
 
-**Why this is Straw Man**  
-Misrepresenting someone's argument to make it easier to attack. That is what this label is pointing to in the passage above.
+Example (other context)
+The real position is replaced with a caricature.
+It is easier to beat a fake argument than the real one.
 
-**Takeaway**  
-Misrepresenting someone's argument to make it easier to attack.`,
-    intermediate: `## Straw Man — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Misrepresenting someone's argument to make it easier to attack.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« The mayor proposed raising park funding by 5%. A critic says the mayor wants to pour unlimited money into every pet project and bankrupt the city. »  
+Key concept inside it
+Caricatured argument:
+A distorted version of the original view that is much easier to knock down.
 
-The passage shows **Straw Man** in action: misrepresenting someone's argument to make it easier to attack.
+Why it matters
+Explains why:
+- It dodges the real point.
+- It makes victory too easy.
+- It can sound like a rebuttal while missing the actual claim.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Misrepresenting someone's argument to make it easier to attack.
+The uncomfortable implication
+If you fight a shadow, you may not touch the person.
 
-- **Example 2:** Another everyday spot: sports or business results. Misrepresenting someone's argument to make it easier to attack.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Misrepresenting someone's argument to make it easier to attack.
-
-**In one sentence**  
-Straw Man is the label for reasoning that fits: Misrepresenting someone's argument to make it easier to attack.`,
-    expert: `## Straw Man — in-depth (Expert)
-
-**Definition**  
-Misrepresenting someone's argument to make it easier to attack.
-
-**Applied to this passage**  
-« The mayor proposed raising park funding by 5%. A critic says the mayor wants to pour unlimited money into every pet project and bankrupt the city. »  
-
-Here, **Straw Man** is the right name because misrepresenting someone's argument to make it easier to attack.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Misrepresenting someone's argument to make it easier to attack.
-
-- **Example 2:** Another everyday spot: sports or business results. Misrepresenting someone's argument to make it easier to attack.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Misrepresenting someone's argument to make it easier to attack.
-
-- **Example 4:** Imagine a policy or workplace discussion. The slip is the same: misrepresenting someone's argument to make it easier to attack.
-
-- **Example 5:** Picture sports or business results. People often reason as if misrepresenting someone's argument to make it easier to attack.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Straw Man** means Misrepresenting someone's argument to make it easier to attack.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Straw Man = Misrepresenting someone’s argument so it is easier to attack.`,
   },
   619: {
-    beginner: `## Suppressed Evidence — in-depth (Beginner)
+    beginner: `Suppressed Evidence = Leaving out important information that would weaken the conclusion.`,
+    detail: `Suppressed Evidence
 
-**What this is, in plain English**  
-Ignoring relevant information that would challenge the conclusion.
+Description:
+Leaving out important information that would weaken the conclusion.
+The core problem is simple.
 
-**The example you’re looking at**  
-« A tobacco company only cites studies showing no link between smoking and cancer, ignoring those that do. »  
+Example (question)
+« A tobacco company only cites studies showing no link between smoking and cancer, ignoring those that do. »
+A tobacco company cites only studies that support its view and ignores the ones that do not.
+The missing facts matter just as much as the included ones.
 
-**Why this is Suppressed Evidence**  
-Ignoring relevant information that would challenge the conclusion. That is what this label is pointing to in the passage above.
+Example (other context)
+A salesperson highlights benefits while hiding the risks.
+The missing facts matter just as much as the included ones.
 
-**Takeaway**  
-Ignoring relevant information that would challenge the conclusion.`,
-    intermediate: `## Suppressed Evidence — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Ignoring relevant information that would challenge the conclusion.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« A tobacco company only cites studies showing no link between smoking and cancer, ignoring those that do. »  
+Key concept inside it
+Cherry-picked evidence:
+Selecting only the supporting facts while hiding the rest of the picture.
 
-The passage shows **Suppressed Evidence** in action: ignoring relevant information that would challenge the conclusion.
+Why it matters
+Explains why:
+- It gives a one-sided view.
+- It can make a weak claim look strong.
+- It hides the best objections.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Ignoring relevant information that would challenge the conclusion.
+The uncomfortable implication
+What is left out can be the whole story.
 
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Ignoring relevant information that would challenge the conclusion.
-
-- **Example 3:** Imagine a news headline or social post. The slip is the same: ignoring relevant information that would challenge the conclusion.
-
-**In one sentence**  
-Suppressed Evidence is the label for reasoning that fits: Ignoring relevant information that would challenge the conclusion.`,
-    expert: `## Suppressed Evidence — in-depth (Expert)
-
-**Definition**  
-Ignoring relevant information that would challenge the conclusion.
-
-**Applied to this passage**  
-« A tobacco company only cites studies showing no link between smoking and cancer, ignoring those that do. »  
-
-Here, **Suppressed Evidence** is the right name because ignoring relevant information that would challenge the conclusion.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Ignoring relevant information that would challenge the conclusion.
-
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Ignoring relevant information that would challenge the conclusion.
-
-- **Example 3:** Imagine a news headline or social post. The slip is the same: ignoring relevant information that would challenge the conclusion.
-
-- **Example 4:** Picture a health or habits story. People often reason as if ignoring relevant information that would challenge the conclusion.
-
-- **Example 5:** In school grades or test scores, watch for this pattern: Ignoring relevant information that would challenge the conclusion.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Suppressed Evidence** means Ignoring relevant information that would challenge the conclusion.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Suppressed Evidence = Leaving out important information that would weaken the conclusion.`,
   },
   620: {
-    beginner: `## Suppressed Evidence — in-depth (Beginner)
+    beginner: `Suppressed Evidence = Leaving out important information that would weaken the conclusion.`,
+    detail: `Suppressed Evidence
 
-**What this is, in plain English**  
-Ignoring relevant information that would challenge the conclusion.
+Description:
+Leaving out important information that would weaken the conclusion.
+The core problem is simple.
 
-**The example you’re looking at**  
-« A salesperson highlights only the benefits of a product, omitting the risks. »  
+Example (question)
+« A salesperson highlights only the benefits of a product, omitting the risks. »
+A tobacco company cites only studies that support its view and ignores the ones that do not.
+The missing facts matter just as much as the included ones.
 
-**Why this is Suppressed Evidence**  
-Ignoring relevant information that would challenge the conclusion. That is what this label is pointing to in the passage above.
+Example (other context)
+A salesperson highlights benefits while hiding the risks.
+The missing facts matter just as much as the included ones.
 
-**Takeaway**  
-Ignoring relevant information that would challenge the conclusion.`,
-    intermediate: `## Suppressed Evidence — in-depth (Intermediate)
+How it works
+The argument uses the same wrong move in a different sentence: it replaces proof with a shortcut.
 
-**What this is, in plain English**  
-Ignoring relevant information that would challenge the conclusion.
+So:
+- It can sound convincing, but the proof is still missing.
+- The reasoning skips an important step.
+- It still needs a real check.
 
-**This example**  
-« A salesperson highlights only the benefits of a product, omitting the risks. »  
+Key concept inside it
+Cherry-picked evidence:
+Selecting only the supporting facts while hiding the rest of the picture.
 
-The passage shows **Suppressed Evidence** in action: ignoring relevant information that would challenge the conclusion.
+Why it matters
+Explains why:
+- It gives a one-sided view.
+- It can make a weak claim look strong.
+- It hides the best objections.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Ignoring relevant information that would challenge the conclusion.
+The uncomfortable implication
+What is left out can be the whole story.
 
-- **Example 2:** Imagine a family argument. The slip is the same: ignoring relevant information that would challenge the conclusion.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if ignoring relevant information that would challenge the conclusion.
-
-**In one sentence**  
-Suppressed Evidence is the label for reasoning that fits: Ignoring relevant information that would challenge the conclusion.`,
-    expert: `## Suppressed Evidence — in-depth (Expert)
-
-**Definition**  
-Ignoring relevant information that would challenge the conclusion.
-
-**Applied to this passage**  
-« A salesperson highlights only the benefits of a product, omitting the risks. »  
-
-Here, **Suppressed Evidence** is the right name because ignoring relevant information that would challenge the conclusion.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Ignoring relevant information that would challenge the conclusion.
-
-- **Example 2:** Imagine a family argument. The slip is the same: ignoring relevant information that would challenge the conclusion.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if ignoring relevant information that would challenge the conclusion.
-
-- **Example 4:** In sports or business results, watch for this pattern: Ignoring relevant information that would challenge the conclusion.
-
-- **Example 5:** Another everyday spot: a family argument. Ignoring relevant information that would challenge the conclusion.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Suppressed Evidence** means Ignoring relevant information that would challenge the conclusion.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Suppressed Evidence = Leaving out important information that would weaken the conclusion.`,
   },
   621: {
     beginner: `## Suppressed Evidence — in-depth (Beginner)
@@ -59189,1894 +58529,1234 @@ En une phrase
 Corrélation n’implique pas causalité = Une association ne prouve pas qu’un élément cause l’autre.`,
   },
   591: {
-    beginner: `## Correlation is not causation — approfondi (Débutant)
+    beginner: `Corrélation n’implique pas causalité = Deux choses peuvent être liées sans que l’une cause l’autre.`,
+    detail: `Corrélation n’implique pas causalité
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
+Description:
+Deux choses peuvent être liées sans que l’une cause l’autre.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux is un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux is un raisonnement défectueux, où le raisonnement est défaillant.". »
+Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé.
+Une association n’est pas encore une cause.
 
-**Pourquoi c’est bien Correlation is not causation**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Deux événements vont ensemble et l’on saute trop vite à une explication causale.
+Une association n’est pas encore une cause.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.`,
-    intermediate: `## Correlation is not causation — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux is un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Lien statistique:
+Une relation observée entre deux variables sans preuve qu’une cause agit sur l’autre.
 
-Le passage montre **Correlation is not causation** : une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond corrélation et causalité.
+- Cela ignore les facteurs cachés.
+- Cela transforme une coïncidence en explication.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
+L'implication inconfortable
+Un lien visible n’est pas une preuve de cause.
 
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Correlation is not causation**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.`,
-    expert: `## Correlation is not causation — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux is un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Correlation is not causation** convient parce que une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Correlation is not causation**, c’est Une erreur logique ou un biais cognitif impliquant Correlation is not causation, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Corrélation n’implique pas causalité = Deux choses peuvent être liées sans que l’une cause l’autre.`,
   },
   592: {
-    beginner: `## Fallacy of the single cause — approfondi (Débutant)
+    beginner: `Sophisme de la cause unique = Attribuer un phénomène complexe à une seule cause.`,
+    detail: `Sophisme de la cause unique
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
+Description:
+Attribuer un phénomène complexe à une seule cause.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant of the un raisonnement défectueux est structurellement invalide.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant of the un raisonnement défectueux est structurellement invalide.". »
+Vous devez être un agent pour une faction rivale.
+Le monde réel a souvent plusieurs causes à la fois.
 
-**Pourquoi c’est bien Fallacy of the single cause**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un problème avec plusieurs facteurs est réduit à un seul coupable commode.
+Le monde réel a souvent plusieurs causes à la fois.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.`,
-    intermediate: `## Fallacy of the single cause — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant of the un raisonnement défectueux est structurellement invalide.". »  
+Concept clé
+Cause unique:
+L’idée qu’une seule explication suffit pour un phénomène qui en demande plusieurs.
 
-Le passage montre **Fallacy of the single cause** : une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela simplifie trop la réalité.
+- Cela oublie les facteurs concurrents.
+- Cela rend les conclusions trop faciles.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
+L'implication inconfortable
+Les grandes choses ont rarement une seule clé.
 
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-**En une phrase**  
-**Fallacy of the single cause**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.`,
-    expert: `## Fallacy of the single cause — approfondi (Expert)
-
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique spécifique où le raisonnement impliquant of the un raisonnement défectueux est structurellement invalide.". »  
-
-Ici, **Fallacy of the single cause** convient parce que une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 4 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 5 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Fallacy of the single cause**, c’est Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Sophisme de la cause unique = Attribuer un phénomène complexe à une seule cause.`,
   },
   593: {
-    beginner: `## Fallacy of the single cause — approfondi (Débutant)
+    beginner: `Sophisme de la cause unique = Attribuer un phénomène complexe à une seule cause.`,
+    detail: `Sophisme de la cause unique
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
+Description:
+Attribuer un phénomène complexe à une seule cause.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Exemple (question)
+« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »
+Vous devez être un agent pour une faction rivale.
+Le monde réel a souvent plusieurs causes à la fois.
 
-**Pourquoi c’est bien Fallacy of the single cause**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un problème avec plusieurs facteurs est réduit à un seul coupable commode.
+Le monde réel a souvent plusieurs causes à la fois.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.`,
-    intermediate: `## Fallacy of the single cause — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Concept clé
+Cause unique:
+L’idée qu’une seule explication suffit pour un phénomène qui en demande plusieurs.
 
-Le passage montre **Fallacy of the single cause** : une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela simplifie trop la réalité.
+- Cela oublie les facteurs concurrents.
+- Cela rend les conclusions trop faciles.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
+L'implication inconfortable
+Les grandes choses ont rarement une seule clé.
 
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-**En une phrase**  
-**Fallacy of the single cause**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.`,
-    expert: `## Fallacy of the single cause — approfondi (Expert)
-
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-**Appliqué à ce passage**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
-
-Ici, **Fallacy of the single cause** convient parce que une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 4 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 5 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Fallacy of the single cause**, c’est Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Sophisme de la cause unique = Attribuer un phénomène complexe à une seule cause.`,
   },
   594: {
-    beginner: `## Fallacy of the single cause — approfondi (Débutant)
+    beginner: `Sophisme de la cause unique = Attribuer un phénomène complexe à une seule cause.`,
+    detail: `Sophisme de la cause unique
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
+Description:
+Attribuer un phénomène complexe à une seule cause.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant of the un raisonnement défectueux est structurellement invalide.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant of the un raisonnement défectueux est structurellement invalide.". »
+Vous devez être un agent pour une faction rivale.
+Le monde réel a souvent plusieurs causes à la fois.
 
-**Pourquoi c’est bien Fallacy of the single cause**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un problème avec plusieurs facteurs est réduit à un seul coupable commode.
+Le monde réel a souvent plusieurs causes à la fois.
 
-**À retenir**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.`,
-    intermediate: `## Fallacy of the single cause — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant of the un raisonnement défectueux est structurellement invalide.". »  
+Concept clé
+Cause unique:
+L’idée qu’une seule explication suffit pour un phénomène qui en demande plusieurs.
 
-Le passage montre **Fallacy of the single cause** : une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela simplifie trop la réalité.
+- Cela oublie les facteurs concurrents.
+- Cela rend les conclusions trop faciles.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
+L'implication inconfortable
+Les grandes choses ont rarement une seule clé.
 
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-**En une phrase**  
-**Fallacy of the single cause**, c’est quand le raisonnement correspond à : Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.`,
-    expert: `## Fallacy of the single cause — approfondi (Expert)
-
-**Définition**  
-Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique spécifique où le raisonnement impliquant of the un raisonnement défectueux est structurellement invalide.". »  
-
-Ici, **Fallacy of the single cause** convient parce que une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 4 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-- **Exemple 5 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Fallacy of the single cause**, c’est Une erreur logique spécifique où le raisonnement impliquant of the single cause est structurellement invalide.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Sophisme de la cause unique = Attribuer un phénomène complexe à une seule cause.`,
   },
   595: {
-    beginner: `## Complex cause — approfondi (Débutant)
+    beginner: `Cause complexe = Réduire un phénomène à un facteur alors qu’il en combine plusieurs.`,
+    detail: `Cause complexe
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
+Description:
+Réduire un phénomène à un facteur alors qu’il en combine plusieurs.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable.
+Le réel mélange souvent plusieurs causes.
 
-**Pourquoi c’est bien Complex cause**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un changement est traité comme s’il avait une seule conséquence principale alors que le système est plus riche.
+Le réel mélange souvent plusieurs causes.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.`,
-    intermediate: `## Complex cause — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Multicausalité:
+Le fait qu’un résultat puisse venir de plusieurs causes en même temps.
 
-Le passage montre **Complex cause** : une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela coupe le problème en trop peu de morceaux.
+- Cela fait perdre les interactions entre facteurs.
+- Cela produit des réponses trop simples.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
+L'implication inconfortable
+Les systèmes compliqués refusent les réponses à un seul bouton.
 
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Complex cause**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.`,
-    expert: `## Complex cause — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Complex cause** convient parce que une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Complex cause**, c’est Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Cause complexe = Réduire un phénomène à un facteur alors qu’il en combine plusieurs.`,
   },
   596: {
-    beginner: `## Complex cause — approfondi (Débutant)
+    beginner: `Cause complexe = Réduire un phénomène à un facteur alors qu’il en combine plusieurs.`,
+    detail: `Cause complexe
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
+Description:
+Réduire un phénomène à un facteur alors qu’il en combine plusieurs.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Exemple (question)
+« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »
+Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable.
+Le réel mélange souvent plusieurs causes.
 
-**Pourquoi c’est bien Complex cause**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un changement est traité comme s’il avait une seule conséquence principale alors que le système est plus riche.
+Le réel mélange souvent plusieurs causes.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.`,
-    intermediate: `## Complex cause — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Concept clé
+Multicausalité:
+Le fait qu’un résultat puisse venir de plusieurs causes en même temps.
 
-Le passage montre **Complex cause** : une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela coupe le problème en trop peu de morceaux.
+- Cela fait perdre les interactions entre facteurs.
+- Cela produit des réponses trop simples.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
+L'implication inconfortable
+Les systèmes compliqués refusent les réponses à un seul bouton.
 
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Complex cause**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.`,
-    expert: `## Complex cause — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
-
-Ici, **Complex cause** convient parce que une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Complex cause**, c’est Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Cause complexe = Réduire un phénomène à un facteur alors qu’il en combine plusieurs.`,
   },
   597: {
-    beginner: `## Complex cause — approfondi (Débutant)
+    beginner: `Cause complexe = Réduire un phénomène à un facteur alors qu’il en combine plusieurs.`,
+    detail: `Cause complexe
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
+Description:
+Réduire un phénomène à un facteur alors qu’il en combine plusieurs.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable.
+Le réel mélange souvent plusieurs causes.
 
-**Pourquoi c’est bien Complex cause**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un changement est traité comme s’il avait une seule conséquence principale alors que le système est plus riche.
+Le réel mélange souvent plusieurs causes.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.`,
-    intermediate: `## Complex cause — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Multicausalité:
+Le fait qu’un résultat puisse venir de plusieurs causes en même temps.
 
-Le passage montre **Complex cause** : une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela coupe le problème en trop peu de morceaux.
+- Cela fait perdre les interactions entre facteurs.
+- Cela produit des réponses trop simples.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
+L'implication inconfortable
+Les systèmes compliqués refusent les réponses à un seul bouton.
 
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Complex cause**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.`,
-    expert: `## Complex cause — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Complex cause** convient parce que une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Complex cause**, c’est Une erreur logique ou un biais cognitif impliquant Complex cause, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Cause complexe = Réduire un phénomène à un facteur alors qu’il en combine plusieurs.`,
   },
   598: {
-    beginner: `## Joint effect — approfondi (Débutant)
+    beginner: `Effet joint = Attribuer à tort un résultat à une seule cause alors qu’un ensemble de facteurs agit ensemble.`,
+    detail: `Effet joint
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
+Description:
+Attribuer à tort un résultat à une seule cause alors qu’un ensemble de facteurs agit ensemble.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire.
+Le tout fait plus que la pièce isolée.
 
-**Pourquoi c’est bien Joint effect**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Plusieurs éléments agissent de concert et l’on en isole un seul comme s’il expliquait tout.
+Le tout fait plus que la pièce isolée.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.`,
-    intermediate: `## Joint effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Effet combiné:
+Un résultat qui vient de plusieurs causes conjointes plutôt que d’une seule.
 
-Le passage montre **Joint effect** : une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela oublie les interactions.
+- Cela donne trop de pouvoir à une seule variable.
+- Cela casse la vraie structure du problème.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Une roue ne fait pas toute l’horloge.
 
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Joint effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.`,
-    expert: `## Joint effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Joint effect** convient parce que une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Joint effect**, c’est Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Effet joint = Attribuer à tort un résultat à une seule cause alors qu’un ensemble de facteurs agit ensemble.`,
   },
   599: {
-    beginner: `## Joint effect — approfondi (Débutant)
+    beginner: `Effet joint = Attribuer à tort un résultat à une seule cause alors qu’un ensemble de facteurs agit ensemble.`,
+    detail: `Effet joint
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
+Description:
+Attribuer à tort un résultat à une seule cause alors qu’un ensemble de facteurs agit ensemble.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Exemple (question)
+« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »
+Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire.
+Le tout fait plus que la pièce isolée.
 
-**Pourquoi c’est bien Joint effect**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Plusieurs éléments agissent de concert et l’on en isole un seul comme s’il expliquait tout.
+Le tout fait plus que la pièce isolée.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.`,
-    intermediate: `## Joint effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Concept clé
+Effet combiné:
+Un résultat qui vient de plusieurs causes conjointes plutôt que d’une seule.
 
-Le passage montre **Joint effect** : une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela oublie les interactions.
+- Cela donne trop de pouvoir à une seule variable.
+- Cela casse la vraie structure du problème.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Une roue ne fait pas toute l’horloge.
 
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Joint effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.`,
-    expert: `## Joint effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
-
-Ici, **Joint effect** convient parce que une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Joint effect**, c’est Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Effet joint = Attribuer à tort un résultat à une seule cause alors qu’un ensemble de facteurs agit ensemble.`,
   },
   600: {
-    beginner: `## Joint effect — approfondi (Débutant)
+    beginner: `Effet joint = Attribuer à tort un résultat à une seule cause alors qu’un ensemble de facteurs agit ensemble.`,
+    detail: `Effet joint
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
+Description:
+Attribuer à tort un résultat à une seule cause alors qu’un ensemble de facteurs agit ensemble.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire.
+Le tout fait plus que la pièce isolée.
 
-**Pourquoi c’est bien Joint effect**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Plusieurs éléments agissent de concert et l’on en isole un seul comme s’il expliquait tout.
+Le tout fait plus que la pièce isolée.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.`,
-    intermediate: `## Joint effect — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Effet combiné:
+Un résultat qui vient de plusieurs causes conjointes plutôt que d’une seule.
 
-Le passage montre **Joint effect** : une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela oublie les interactions.
+- Cela donne trop de pouvoir à une seule variable.
+- Cela casse la vraie structure du problème.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
+L'implication inconfortable
+Une roue ne fait pas toute l’horloge.
 
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Joint effect**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.`,
-    expert: `## Joint effect — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Joint effect** convient parce que une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Joint effect**, c’est Une erreur logique ou un biais cognitif impliquant Joint effect, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Effet joint = Attribuer à tort un résultat à une seule cause alors qu’un ensemble de facteurs agit ensemble.`,
   },
   601: {
-    beginner: `## Insignificant cause — approfondi (Débutant)
+    beginner: `Cause insignifiante = Confondre un détail mineur avec une explication causale importante.`,
+    detail: `Cause insignifiante
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
+Description:
+Confondre un détail mineur avec une explication causale importante.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité.
+Petit ne veut pas dire moteur.
 
-**Pourquoi c’est bien Insignificant cause**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un petit indice est traité comme s’il déterminait à lui seul le résultat.
+Petit ne veut pas dire moteur.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.`,
-    intermediate: `## Insignificant cause — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Cause négligeable:
+Une cause trop faible pour porter l’explication qu’on lui attribue.
 
-Le passage montre **Insignificant cause** : une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela exagère l’importance d’un détail.
+- Cela détourne l’attention des vraies causes.
+- Cela donne un faux sentiment de clarté.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
+L'implication inconfortable
+Une étincelle n’explique pas tout l’incendie.
 
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Insignificant cause**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.`,
-    expert: `## Insignificant cause — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Insignificant cause** convient parce que une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Insignificant cause**, c’est Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Cause insignifiante = Confondre un détail mineur avec une explication causale importante.`,
   },
   602: {
-    beginner: `## Insignificant cause — approfondi (Débutant)
+    beginner: `Cause insignifiante = Confondre un détail mineur avec une explication causale importante.`,
+    detail: `Cause insignifiante
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
+Description:
+Confondre un détail mineur avec une explication causale importante.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Exemple (question)
+« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »
+Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité.
+Petit ne veut pas dire moteur.
 
-**Pourquoi c’est bien Insignificant cause**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un petit indice est traité comme s’il déterminait à lui seul le résultat.
+Petit ne veut pas dire moteur.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.`,
-    intermediate: `## Insignificant cause — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Concept clé
+Cause négligeable:
+Une cause trop faible pour porter l’explication qu’on lui attribue.
 
-Le passage montre **Insignificant cause** : une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela exagère l’importance d’un détail.
+- Cela détourne l’attention des vraies causes.
+- Cela donne un faux sentiment de clarté.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
+L'implication inconfortable
+Une étincelle n’explique pas tout l’incendie.
 
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Insignificant cause**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.`,
-    expert: `## Insignificant cause — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
-
-Ici, **Insignificant cause** convient parce que une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Insignificant cause**, c’est Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Cause insignifiante = Confondre un détail mineur avec une explication causale importante.`,
   },
   603: {
-    beginner: `## Insignificant cause — approfondi (Débutant)
+    beginner: `Cause insignifiante = Confondre un détail mineur avec une explication causale importante.`,
+    detail: `Cause insignifiante
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
+Description:
+Confondre un détail mineur avec une explication causale importante.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité.
+Petit ne veut pas dire moteur.
 
-**Pourquoi c’est bien Insignificant cause**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Un petit indice est traité comme s’il déterminait à lui seul le résultat.
+Petit ne veut pas dire moteur.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.`,
-    intermediate: `## Insignificant cause — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Cause négligeable:
+Une cause trop faible pour porter l’explication qu’on lui attribue.
 
-Le passage montre **Insignificant cause** : une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela exagère l’importance d’un détail.
+- Cela détourne l’attention des vraies causes.
+- Cela donne un faux sentiment de clarté.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
+L'implication inconfortable
+Une étincelle n’explique pas tout l’incendie.
 
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Insignificant cause**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.`,
-    expert: `## Insignificant cause — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Insignificant cause** convient parce que une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Insignificant cause**, c’est Une erreur logique ou un biais cognitif impliquant Insignificant cause, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Cause insignifiante = Confondre un détail mineur avec une explication causale importante.`,
   },
   604: {
-    beginner: `## Bad comparison — approfondi (Débutant)
+    beginner: `Mauvaise comparaison = Comparer deux choses qui ne sont pas vraiment comparables.`,
+    detail: `Mauvaise comparaison
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
+Description:
+Comparer deux choses qui ne sont pas vraiment comparables.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être.
+Comparer n’est pas encore mesurer.
 
-**Pourquoi c’est bien Bad comparison**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Deux réalités très différentes sont mises sur le même plan sans ajuster les différences utiles.
+Comparer n’est pas encore mesurer.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.`,
-    intermediate: `## Bad comparison — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Différence pertinente:
+Une différence qui compte vraiment pour la conclusion à tirer.
 
-Le passage montre **Bad comparison** : une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela mélange des cas différents.
+- Cela cache ce qui change la réponse.
+- Cela donne une fausse impression d’équivalence.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
+L'implication inconfortable
+Deux choses proches ne sont pas forcément comparables.
 
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Bad comparison**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.`,
-    expert: `## Bad comparison — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Bad comparison** convient parce que une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Bad comparison**, c’est Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Mauvaise comparaison = Comparer deux choses qui ne sont pas vraiment comparables.`,
   },
   605: {
-    beginner: `## Bad comparison — approfondi (Débutant)
+    beginner: `Mauvaise comparaison = Comparer deux choses qui ne sont pas vraiment comparables.`,
+    detail: `Mauvaise comparaison
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
+Description:
+Comparer deux choses qui ne sont pas vraiment comparables.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Exemple (question)
+« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »
+Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être.
+Comparer n’est pas encore mesurer.
 
-**Pourquoi c’est bien Bad comparison**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Deux réalités très différentes sont mises sur le même plan sans ajuster les différences utiles.
+Comparer n’est pas encore mesurer.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.`,
-    intermediate: `## Bad comparison — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Concept clé
+Différence pertinente:
+Une différence qui compte vraiment pour la conclusion à tirer.
 
-Le passage montre **Bad comparison** : une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela mélange des cas différents.
+- Cela cache ce qui change la réponse.
+- Cela donne une fausse impression d’équivalence.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
+L'implication inconfortable
+Deux choses proches ne sont pas forcément comparables.
 
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Bad comparison**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.`,
-    expert: `## Bad comparison — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
-
-Ici, **Bad comparison** convient parce que une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Bad comparison**, c’est Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Mauvaise comparaison = Comparer deux choses qui ne sont pas vraiment comparables.`,
   },
   606: {
-    beginner: `## Bad comparison — approfondi (Débutant)
+    beginner: `Mauvaise comparaison = Comparer deux choses qui ne sont pas vraiment comparables.`,
+    detail: `Mauvaise comparaison
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
+Description:
+Comparer deux choses qui ne sont pas vraiment comparables.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être.
+Comparer n’est pas encore mesurer.
 
-**Pourquoi c’est bien Bad comparison**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Deux réalités très différentes sont mises sur le même plan sans ajuster les différences utiles.
+Comparer n’est pas encore mesurer.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.`,
-    intermediate: `## Bad comparison — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Différence pertinente:
+Une différence qui compte vraiment pour la conclusion à tirer.
 
-Le passage montre **Bad comparison** : une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela mélange des cas différents.
+- Cela cache ce qui change la réponse.
+- Cela donne une fausse impression d’équivalence.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
+L'implication inconfortable
+Deux choses proches ne sont pas forcément comparables.
 
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Bad comparison**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.`,
-    expert: `## Bad comparison — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Bad comparison** convient parce que une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Bad comparison**, c’est Une erreur logique ou un biais cognitif impliquant Bad comparison, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Mauvaise comparaison = Comparer deux choses qui ne sont pas vraiment comparables.`,
   },
   607: {
-    beginner: `## Argument from age — approfondi (Débutant)
+    beginner: `Argument de l’âge = Juger une idée vraie ou fausse à cause de son ancienneté ou de l’âge de la personne.`,
+    detail: `Argument de l’âge
 
-**En termes simples**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes.
+Description:
+Juger une idée vraie ou fausse à cause de son ancienneté ou de l’âge de la personne.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »
+Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.
+L’âge n’est pas une preuve.
 
-**Pourquoi c’est bien Argument from age**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelque chose est jugé meilleur, pire ou plus crédible parce qu’il est vieux ou jeune.
+L’âge n’est pas une preuve.
 
-**À retenir**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes.`,
-    intermediate: `## Argument from age — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
+Concept clé
+Ancienneté / jeunesse:
+L’âge d’une idée ou d’une personne utilisé à la place d’une preuve pertinente.
 
-Le passage montre **Argument from age** : tirer une conclusion basée sur age plutôt que sur des preuves directes.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela remplace les faits par l’âge.
+- Cela peut valoriser ou discréditer à tort.
+- Cela donne un faux vernis de bon sens.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si tirer une conclusion basée sur age plutôt que sur des preuves directes.
+L'implication inconfortable
+Vieux n’est pas automatiquement vrai, jeune n’est pas automatiquement faux.
 
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-**En une phrase**  
-**Argument from age**, c’est quand le raisonnement correspond à : Tirer une conclusion basée sur age plutôt que sur des preuves directes.`,
-    expert: `## Argument from age — approfondi (Expert)
-
-**Définition**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
-
-Ici, **Argument from age** convient parce que tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 4 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 5 :** Imaginez des notes ou examens. C’est la même erreur : tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Argument from age**, c’est Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Argument de l’âge = Juger une idée vraie ou fausse à cause de son ancienneté ou de l’âge de la personne.`,
   },
   608: {
-    beginner: `## Argument from age — approfondi (Débutant)
+    beginner: `Argument de l’âge = Juger une idée vraie ou fausse à cause de son ancienneté ou de l’âge de la personne.`,
+    detail: `Argument de l’âge
 
-**En termes simples**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes.
+Description:
+Juger une idée vraie ou fausse à cause de son ancienneté ou de l’âge de la personne.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Exemple (question)
+« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »
+Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.
+L’âge n’est pas une preuve.
 
-**Pourquoi c’est bien Argument from age**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelque chose est jugé meilleur, pire ou plus crédible parce qu’il est vieux ou jeune.
+L’âge n’est pas une preuve.
 
-**À retenir**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes.`,
-    intermediate: `## Argument from age — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Concept clé
+Ancienneté / jeunesse:
+L’âge d’une idée ou d’une personne utilisé à la place d’une preuve pertinente.
 
-Le passage montre **Argument from age** : tirer une conclusion basée sur age plutôt que sur des preuves directes.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela remplace les faits par l’âge.
+- Cela peut valoriser ou discréditer à tort.
+- Cela donne un faux vernis de bon sens.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Tirer une conclusion basée sur age plutôt que sur des preuves directes.
+L'implication inconfortable
+Vieux n’est pas automatiquement vrai, jeune n’est pas automatiquement faux.
 
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-**En une phrase**  
-**Argument from age**, c’est quand le raisonnement correspond à : Tirer une conclusion basée sur age plutôt que sur des preuves directes.`,
-    expert: `## Argument from age — approfondi (Expert)
-
-**Définition**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-**Appliqué à ce passage**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
-
-Ici, **Argument from age** convient parce que tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 4 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 5 :** Pensez à une discussion en famille. Souvent, on raisonne comme si tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Argument from age**, c’est Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Argument de l’âge = Juger une idée vraie ou fausse à cause de son ancienneté ou de l’âge de la personne.`,
   },
   609: {
-    beginner: `## Argument from age — approfondi (Débutant)
+    beginner: `Argument de l’âge = Juger une idée vraie ou fausse à cause de son ancienneté ou de l’âge de la personne.`,
+    detail: `Argument de l’âge
 
-**En termes simples**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes.
+Description:
+Juger une idée vraie ou fausse à cause de son ancienneté ou de l’âge de la personne.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »
+Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.
+L’âge n’est pas une preuve.
 
-**Pourquoi c’est bien Argument from age**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelque chose est jugé meilleur, pire ou plus crédible parce qu’il est vieux ou jeune.
+L’âge n’est pas une preuve.
 
-**À retenir**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes.`,
-    intermediate: `## Argument from age — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
+Concept clé
+Ancienneté / jeunesse:
+L’âge d’une idée ou d’une personne utilisé à la place d’une preuve pertinente.
 
-Le passage montre **Argument from age** : tirer une conclusion basée sur age plutôt que sur des preuves directes.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela remplace les faits par l’âge.
+- Cela peut valoriser ou discréditer à tort.
+- Cela donne un faux vernis de bon sens.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Tirer une conclusion basée sur age plutôt que sur des preuves directes.
+L'implication inconfortable
+Vieux n’est pas automatiquement vrai, jeune n’est pas automatiquement faux.
 
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-**En une phrase**  
-**Argument from age**, c’est quand le raisonnement correspond à : Tirer une conclusion basée sur age plutôt que sur des preuves directes.`,
-    expert: `## Argument from age — approfondi (Expert)
-
-**Définition**  
-Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
-
-Ici, **Argument from age** convient parce que tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 4 :** Pensez à des notes ou examens. Souvent, on raisonne comme si tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-- **Exemple 5 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Argument from age**, c’est Tirer une conclusion basée sur age plutôt que sur des preuves directes.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Argument de l’âge = Juger une idée vraie ou fausse à cause de son ancienneté ou de l’âge de la personne.`,
   },
   610: {
-    beginner: `## Argument from youth — approfondi (Débutant)
+    beginner: `Argument de la jeunesse = Juger une idée à cause de l’âge de la personne ou de la chose qui l’exprime.`,
+    detail: `Argument de la jeunesse
 
-**En termes simples**  
+Description:
+Juger une idée à cause de l’âge de la personne ou de la chose qui l’exprime.
+Le cœur du problème est simple.
+
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »
 Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
+La crédibilité ne naît pas d’un anniversaire.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
+Exemple (autre contexte)
+Une proposition est prise au sérieux ou rejetée à cause de l’âge du locuteur.
+La crédibilité ne naît pas d’un anniversaire.
 
-**Pourquoi c’est bien Argument from youth**  
-Tirer une conclusion basée sur youth plutôt que sur des preuves directes. C’est ce que ce libellé vise dans le passage ci-dessus.
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**À retenir**  
-Tirer une conclusion basée sur youth plutôt que sur des preuves directes.`,
-    intermediate: `## Argument from youth — approfondi (Intermédiaire)
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**En termes simples**  
-Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
+Concept clé
+Âge hors sujet:
+L’utilisation de la jeunesse comme substitut à une vraie preuve.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond âge et compétence.
+- Cela discrimine sans analyser.
+- Cela évite le fond du sujet.
 
-Le passage montre **Argument from youth** : tirer une conclusion basée sur youth plutôt que sur des preuves directes.
+L'implication inconfortable
+L’âge peut raconter une histoire, pas conclure l’argument.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-**En une phrase**  
-**Argument from youth**, c’est quand le raisonnement correspond à : Tirer une conclusion basée sur youth plutôt que sur des preuves directes.`,
-    expert: `## Argument from youth — approfondi (Expert)
-
-**Définition**  
-Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
-
-Ici, **Argument from youth** convient parce que tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 4 :** Dans une discussion en famille, repérez ce schéma : Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 5 :** Autre situation courante : un débat sur une politique ou au travail. Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Argument from youth**, c’est Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Argument de la jeunesse = Juger une idée à cause de l’âge de la personne ou de la chose qui l’exprime.`,
   },
   611: {
-    beginner: `## Argument from youth — approfondi (Débutant)
+    beginner: `Argument de la jeunesse = Juger une idée à cause de l’âge de la personne ou de la chose qui l’exprime.`,
+    detail: `Argument de la jeunesse
 
-**En termes simples**  
+Description:
+Juger une idée à cause de l’âge de la personne ou de la chose qui l’exprime.
+Le cœur du problème est simple.
+
+Exemple (question)
+« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »
 Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
+La crédibilité ne naît pas d’un anniversaire.
 
-**L’exemple affiché**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Exemple (autre contexte)
+Une proposition est prise au sérieux ou rejetée à cause de l’âge du locuteur.
+La crédibilité ne naît pas d’un anniversaire.
 
-**Pourquoi c’est bien Argument from youth**  
-Tirer une conclusion basée sur youth plutôt que sur des preuves directes. C’est ce que ce libellé vise dans le passage ci-dessus.
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**À retenir**  
-Tirer une conclusion basée sur youth plutôt que sur des preuves directes.`,
-    intermediate: `## Argument from youth — approfondi (Intermédiaire)
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**En termes simples**  
-Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
+Concept clé
+Âge hors sujet:
+L’utilisation de la jeunesse comme substitut à une vraie preuve.
 
-**Cet exemple**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond âge et compétence.
+- Cela discrimine sans analyser.
+- Cela évite le fond du sujet.
 
-Le passage montre **Argument from youth** : tirer une conclusion basée sur youth plutôt que sur des preuves directes.
+L'implication inconfortable
+L’âge peut raconter une histoire, pas conclure l’argument.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-**En une phrase**  
-**Argument from youth**, c’est quand le raisonnement correspond à : Tirer une conclusion basée sur youth plutôt que sur des preuves directes.`,
-    expert: `## Argument from youth — approfondi (Expert)
-
-**Définition**  
-Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-**Appliqué à ce passage**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
-
-Ici, **Argument from youth** convient parce que tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 4 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 5 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Argument from youth**, c’est Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Argument de la jeunesse = Juger une idée à cause de l’âge de la personne ou de la chose qui l’exprime.`,
   },
   612: {
-    beginner: `## Argument from youth — approfondi (Débutant)
+    beginner: `Argument de la jeunesse = Juger une idée à cause de l’âge de la personne ou de la chose qui l’exprime.`,
+    detail: `Argument de la jeunesse
 
-**En termes simples**  
+Description:
+Juger une idée à cause de l’âge de la personne ou de la chose qui l’exprime.
+Le cœur du problème est simple.
+
+Exemple (question)
+« Lorsqu'une personne soutient que : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »
 Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
+La crédibilité ne naît pas d’un anniversaire.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
+Exemple (autre contexte)
+Une proposition est prise au sérieux ou rejetée à cause de l’âge du locuteur.
+La crédibilité ne naît pas d’un anniversaire.
 
-**Pourquoi c’est bien Argument from youth**  
-Tirer une conclusion basée sur youth plutôt que sur des preuves directes. C’est ce que ce libellé vise dans le passage ci-dessus.
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**À retenir**  
-Tirer une conclusion basée sur youth plutôt que sur des preuves directes.`,
-    intermediate: `## Argument from youth — approfondi (Intermédiaire)
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**En termes simples**  
-Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
+Concept clé
+Âge hors sujet:
+L’utilisation de la jeunesse comme substitut à une vraie preuve.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond âge et compétence.
+- Cela discrimine sans analyser.
+- Cela évite le fond du sujet.
 
-Le passage montre **Argument from youth** : tirer une conclusion basée sur youth plutôt que sur des preuves directes.
+L'implication inconfortable
+L’âge peut raconter une histoire, pas conclure l’argument.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-**En une phrase**  
-**Argument from youth**, c’est quand le raisonnement correspond à : Tirer une conclusion basée sur youth plutôt que sur des preuves directes.`,
-    expert: `## Argument from youth — approfondi (Expert)
-
-**Définition**  
-Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Tirer une conclusion basée sur un raisonnement défectueux plutôt que sur des preuves directes.". »  
-
-Ici, **Argument from youth** convient parce que tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 4 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-- **Exemple 5 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Argument from youth**, c’est Tirer une conclusion basée sur youth plutôt que sur des preuves directes.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Argument de la jeunesse = Juger une idée à cause de l’âge de la personne ou de la chose qui l’exprime.`,
   },
   613: {
-    beginner: `## Appeal to money — approfondi (Débutant)
+    beginner: `Appel à l’argent = Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.`,
+    detail: `Appel à l’argent
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+Description:
+Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »
+Soutenir qu’une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+La valeur monétaire n’est pas une vérité.
 
-**Pourquoi c’est bien Appeal to money**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Le prestige financier remplace la preuve.
+La valeur monétaire n’est pas une vérité.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to money — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Richesse comme preuve:
+Utiliser l’argent comme argument à la place d’un raisonnement pertinent.
 
-Le passage montre **Appeal to money** : soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond richesse et vérité.
+- Cela flatte l’autorité financière.
+- Cela peut acheter une impression de validité.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+L'implication inconfortable
+L’argent parle fort, mais il ne prouve pas tout.
 
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to money**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to money — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to money** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Pensez à des notes ou examens. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to money**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à l’argent = Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.`,
   },
   614: {
-    beginner: `## Appeal to money — approfondi (Débutant)
+    beginner: `Appel à l’argent = Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.`,
+    detail: `Appel à l’argent
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+Description:
+Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Exemple (question)
+« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »
+Soutenir qu’une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+La valeur monétaire n’est pas une vérité.
 
-**Pourquoi c’est bien Appeal to money**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Le prestige financier remplace la preuve.
+La valeur monétaire n’est pas une vérité.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to money — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Concept clé
+Richesse comme preuve:
+Utiliser l’argent comme argument à la place d’un raisonnement pertinent.
 
-Le passage montre **Appeal to money** : soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond richesse et vérité.
+- Cela flatte l’autorité financière.
+- Cela peut acheter une impression de validité.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+L'implication inconfortable
+L’argent parle fort, mais il ne prouve pas tout.
 
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to money**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to money — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
-
-Ici, **Appeal to money** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Dans une discussion en famille, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to money**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à l’argent = Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.`,
   },
   615: {
-    beginner: `## Appeal to money — approfondi (Débutant)
+    beginner: `Appel à l’argent = Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.`,
+    detail: `Appel à l’argent
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+Description:
+Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »
+Soutenir qu’une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+La valeur monétaire n’est pas une vérité.
 
-**Pourquoi c’est bien Appeal to money**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Le prestige financier remplace la preuve.
+La valeur monétaire n’est pas une vérité.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to money — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Richesse comme preuve:
+Utiliser l’argent comme argument à la place d’un raisonnement pertinent.
 
-Le passage montre **Appeal to money** : soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond richesse et vérité.
+- Cela flatte l’autorité financière.
+- Cela peut acheter une impression de validité.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
+L'implication inconfortable
+L’argent parle fort, mais il ne prouve pas tout.
 
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to money**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to money — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to money** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Dans des notes ou examens, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to money**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur money, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Appel à l’argent = Croire qu’une chose est vraie ou meilleure parce qu’elle est liée à l’argent ou à la richesse.`,
   },
   616: {
-    beginner: `## Appeal to poverty — approfondi (Débutant)
+    beginner: `Appel à la pauvreté = Croire qu’une chose est vraie ou meilleure parce qu’elle est associée à la pauvreté.`,
+    detail: `Appel à la pauvreté
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+Description:
+Croire qu’une chose est vraie ou meilleure parce qu’elle est associée à la pauvreté.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »
+Soutenir qu’une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+Pauvre n’est pas automatiquement juste.
 
-**Pourquoi c’est bien Appeal to poverty**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+La rareté ou la modestie matérielle est prise pour un signe de vérité.
+Pauvre n’est pas automatiquement juste.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to poverty — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Pauvreté comme preuve:
+Utiliser le manque d’argent comme argument en faveur d’une conclusion.
 
-Le passage montre **Appeal to poverty** : soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela remplace les faits par l’austérité.
+- Cela peut idéaliser la misère.
+- Cela fait passer une impression pour une preuve.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Le manque de moyens n’est pas un certificat de vérité.
 
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to poverty**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to poverty — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to poverty** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Autre situation courante : une discussion en famille. Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to poverty**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel à la pauvreté = Croire qu’une chose est vraie ou meilleure parce qu’elle est associée à la pauvreté.`,
   },
   617: {
-    beginner: `## Appeal to poverty — approfondi (Débutant)
+    beginner: `Appel à la pauvreté = Croire qu’une chose est vraie ou meilleure parce qu’elle est associée à la pauvreté.`,
+    detail: `Appel à la pauvreté
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+Description:
+Croire qu’une chose est vraie ou meilleure parce qu’elle est associée à la pauvreté.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Exemple (question)
+« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »
+Soutenir qu’une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+Pauvre n’est pas automatiquement juste.
 
-**Pourquoi c’est bien Appeal to poverty**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+La rareté ou la modestie matérielle est prise pour un signe de vérité.
+Pauvre n’est pas automatiquement juste.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to poverty — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Concept clé
+Pauvreté comme preuve:
+Utiliser le manque d’argent comme argument en faveur d’une conclusion.
 
-Le passage montre **Appeal to poverty** : soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela remplace les faits par l’austérité.
+- Cela peut idéaliser la misère.
+- Cela fait passer une impression pour une preuve.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Le manque de moyens n’est pas un certificat de vérité.
 
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to poverty**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to poverty — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
-
-Ici, **Appeal to poverty** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to poverty**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel à la pauvreté = Croire qu’une chose est vraie ou meilleure parce qu’elle est associée à la pauvreté.`,
   },
   618: {
-    beginner: `## Appeal to poverty — approfondi (Débutant)
+    beginner: `Appel à la pauvreté = Croire qu’une chose est vraie ou meilleure parce qu’elle est associée à la pauvreté.`,
+    detail: `Appel à la pauvreté
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+Description:
+Croire qu’une chose est vraie ou meilleure parce qu’elle est associée à la pauvreté.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »
+Soutenir qu’une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+Pauvre n’est pas automatiquement juste.
 
-**Pourquoi c’est bien Appeal to poverty**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+La rareté ou la modestie matérielle est prise pour un signe de vérité.
+Pauvre n’est pas automatiquement juste.
 
-**À retenir**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.`,
-    intermediate: `## Appeal to poverty — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
+Concept clé
+Pauvreté comme preuve:
+Utiliser le manque d’argent comme argument en faveur d’une conclusion.
 
-Le passage montre **Appeal to poverty** : soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela remplace les faits par l’austérité.
+- Cela peut idéaliser la misère.
+- Cela fait passer une impression pour une preuve.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
+L'implication inconfortable
+Le manque de moyens n’est pas un certificat de vérité.
 
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-**En une phrase**  
-**Appeal to poverty**, c’est quand le raisonnement correspond à : Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.`,
-    expert: `## Appeal to poverty — approfondi (Expert)
-
-**Définition**  
-Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Soutenir qu'une proposition est vraie ou fausse en se basant sur un raisonnement défectueux, ce qui est logiquement non pertinent.". »  
-
-Ici, **Appeal to poverty** convient parce que soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 4 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-- **Exemple 5 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Appeal to poverty**, c’est Soutenir qu'une proposition est vraie ou fausse en se basant sur poverty, ce qui est logiquement non pertinent.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Appel à la pauvreté = Croire qu’une chose est vraie ou meilleure parce qu’elle est associée à la pauvreté.`,
   },
   619: {
-    beginner: `## Ad lazarum — approfondi (Débutant)
+    beginner: `Ad lazarum = Croire qu’une chose est vraie ou meilleure parce qu’elle semble pauvre, simple ou modeste.`,
+    detail: `Ad lazarum
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
+Description:
+Croire qu’une chose est vraie ou meilleure parce qu’elle semble pauvre, simple ou modeste.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »
+Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé.
+L’apparence de modestie n’est pas une preuve.
 
-**Pourquoi c’est bien Ad lazarum**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelque chose paraît crédible simplement parce qu’il a l’air dépouillé ou peu coûteux.
+L’apparence de modestie n’est pas une preuve.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.`,
-    intermediate: `## Ad lazarum — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Concept clé
+Apparence de pauvreté:
+La tendance à prendre la simplicité matérielle pour un signe de vérité ou de vertu.
 
-Le passage montre **Ad lazarum** : une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond sobriété et validité.
+- Cela donne un faux avantage au pauvre ou au simple.
+- Cela remplace l’évaluation réelle.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
+L'implication inconfortable
+Un objet modeste peut être juste, ou non.
 
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ad lazarum**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.`,
-    expert: `## Ad lazarum — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Ad lazarum** convient parce que une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ad lazarum**, c’est Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Ad lazarum = Croire qu’une chose est vraie ou meilleure parce qu’elle semble pauvre, simple ou modeste.`,
   },
   620: {
-    beginner: `## Ad lazarum — approfondi (Débutant)
+    beginner: `Ad lazarum = Croire qu’une chose est vraie ou meilleure parce qu’elle semble pauvre, simple ou modeste.`,
+    detail: `Ad lazarum
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
+Description:
+Croire qu’une chose est vraie ou meilleure parce qu’elle semble pauvre, simple ou modeste.
+Le cœur du problème est simple.
 
-**L’exemple affiché**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Exemple (question)
+« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »
+Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé.
+L’apparence de modestie n’est pas une preuve.
 
-**Pourquoi c’est bien Ad lazarum**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (autre contexte)
+Quelque chose paraît crédible simplement parce qu’il a l’air dépouillé ou peu coûteux.
+L’apparence de modestie n’est pas une preuve.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.`,
-    intermediate: `## Ad lazarum — approfondi (Intermédiaire)
+Comment ça fonctionne
+L’argument reprend la même erreur dans une autre phrase : il remplace la preuve par un raccourci.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
+Donc :
+- Cela peut paraître convaincant, mais la preuve manque encore.
+- Le raisonnement saute une étape importante.
+- Il faut encore vérifier ce qui est vraiment montré.
 
-**Cet exemple**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Concept clé
+Apparence de pauvreté:
+La tendance à prendre la simplicité matérielle pour un signe de vérité ou de vertu.
 
-Le passage montre **Ad lazarum** : une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Cela confond sobriété et validité.
+- Cela donne un faux avantage au pauvre ou au simple.
+- Cela remplace l’évaluation réelle.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
+L'implication inconfortable
+Un objet modeste peut être juste, ou non.
 
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Ad lazarum**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.`,
-    expert: `## Ad lazarum — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
-
-Ici, **Ad lazarum** convient parce que une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Ad lazarum**, c’est Une erreur logique ou un biais cognitif impliquant Ad lazarum, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Ad lazarum = Croire qu’une chose est vraie ou meilleure parce qu’elle semble pauvre, simple ou modeste.`,
   },
   621: {
     beginner: `## Ad lazarum — approfondi (Débutant)
