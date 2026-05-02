@@ -24425,1895 +24425,1266 @@ One-line version
 Bifurcation = forcing a problem into only two choices.`,
   },
   681: {
-    beginner: `## Bifurcation — in-depth (Beginner)
+    beginner: `Bifurcation = forcing a problem into only two choices.`,
+    detail: `Bifurcation
 
-**What this is, in plain English**  
-Presenting only two options when more exist.
+Description:
+A situation is framed as if it has only two options when more are possible.
+Real problems usually have more than a yes-or-no shape.
 
-**The example you’re looking at**  
-« False dichotomy. »  
+Example (question)
+« False dichotomy. »
+This is the exact kind of move the question is testing.
 
-**Why this is Bifurcation**  
-Presenting only two options when more exist. That is what this label is pointing to in the passage above.
+Example (everyday)
+A debate is framed as total victory or total failure.
 
-**Takeaway**  
-Presenting only two options when more exist.`,
-    intermediate: `## Bifurcation — in-depth (Intermediate)
+Example (another context)
+Someone says you are either with us or against us.
 
-**What this is, in plain English**  
-Presenting only two options when more exist.
+How it works
+The middle ground and other possibilities are erased so the choice looks simpler than it is.
 
-**This example**  
-« False dichotomy. »  
+So:
+- A fake either-or can make a complex issue look tidy.
+- Nuance gets pushed out of the picture.
+- Good reasoning checks for missing options.
 
-The passage shows **Bifurcation** in action: presenting only two options when more exist.
+Key concept inside it
+Two options:
+A false choice that ignores the other possibilities.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: presenting only two options when more exist.
+Why it matters
+Explains why:
+- Many real problems have more than two reasonable answers.
+- A forced choice can hide the best option.
+- Binary framing can make a messy issue seem settled.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if presenting only two options when more exist.
+The uncomfortable implication
+A neat either-or can distort a real-world problem.
 
-- **Example 3:** In a health or habits story, watch for this pattern: Presenting only two options when more exist.
-
-**In one sentence**  
-Bifurcation is the label for reasoning that fits: Presenting only two options when more exist.`,
-    expert: `## Bifurcation — in-depth (Expert)
-
-**Definition**  
-Presenting only two options when more exist.
-
-**Applied to this passage**  
-« False dichotomy. »  
-
-Here, **Bifurcation** is the right name because presenting only two options when more exist.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: presenting only two options when more exist.
-
-- **Example 2:** Picture a news headline or social post. People often reason as if presenting only two options when more exist.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Presenting only two options when more exist.
-
-- **Example 4:** Another everyday spot: school grades or test scores. Presenting only two options when more exist.
-
-- **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** Presenting only two options when more exist.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Bifurcation** means Presenting only two options when more exist.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Bifurcation = forcing a problem into only two choices.`,
   },
   682: {
-    beginner: `## Black or White Fallacy — in-depth (Beginner)
+    beginner: `Bifurcation = forcing a problem into only two choices.`,
+    detail: `Bifurcation
 
-**What this is, in plain English**  
-Presenting a situation as having only two possible outcomes.
+Description:
+A situation is framed as if it has only two options when more are possible.
+Real problems usually have more than a yes-or-no shape.
 
-**The example you’re looking at**  
-« You're either perfect or a failure. »  
+Example (question)
+« You're either perfect or a failure. »
+This is the exact kind of move the question is testing.
 
-**Why this is Black or White Fallacy**  
-Presenting a situation as having only two possible outcomes. That is what this label is pointing to in the passage above.
+Example (everyday)
+A debate is framed as total victory or total failure.
 
-**Takeaway**  
-Presenting a situation as having only two possible outcomes.`,
-    intermediate: `## Black or White Fallacy — in-depth (Intermediate)
+Example (another context)
+Someone says you are either with us or against us.
 
-**What this is, in plain English**  
-Presenting a situation as having only two possible outcomes.
+How it works
+The middle ground and other possibilities are erased so the choice looks simpler than it is.
 
-**This example**  
-« You're either perfect or a failure. »  
+So:
+- A fake either-or can make a complex issue look tidy.
+- Nuance gets pushed out of the picture.
+- Good reasoning checks for missing options.
 
-The passage shows **Black or White Fallacy** in action: presenting a situation as having only two possible outcomes.
+Key concept inside it
+Two options:
+A false choice that ignores the other possibilities.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if presenting a situation as having only two possible outcomes.
+Why it matters
+Explains why:
+- Many real problems have more than two reasonable answers.
+- A forced choice can hide the best option.
+- Binary framing can make a messy issue seem settled.
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Presenting a situation as having only two possible outcomes.
+The uncomfortable implication
+A neat either-or can distort a real-world problem.
 
-- **Example 3:** Another everyday spot: sports or business results. Presenting a situation as having only two possible outcomes.
-
-**In one sentence**  
-Black or White Fallacy is the label for reasoning that fits: Presenting a situation as having only two possible outcomes.`,
-    expert: `## Black or White Fallacy — in-depth (Expert)
-
-**Definition**  
-Presenting a situation as having only two possible outcomes.
-
-**Applied to this passage**  
-« You're either perfect or a failure. »  
-
-Here, **Black or White Fallacy** is the right name because presenting a situation as having only two possible outcomes.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if presenting a situation as having only two possible outcomes.
-
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Presenting a situation as having only two possible outcomes.
-
-- **Example 3:** Another everyday spot: sports or business results. Presenting a situation as having only two possible outcomes.
-
-- **Example 4:** **Setting:** a family argument. **What goes wrong:** Presenting a situation as having only two possible outcomes.
-
-- **Example 5:** Imagine a policy or workplace discussion. The slip is the same: presenting a situation as having only two possible outcomes.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Black or White Fallacy** means Presenting a situation as having only two possible outcomes.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Bifurcation = forcing a problem into only two choices.`,
   },
   683: {
-    beginner: `## Black or White Fallacy — in-depth (Beginner)
+    beginner: `Bifurcation = forcing a problem into only two choices.`,
+    detail: `Bifurcation
 
-**What this is, in plain English**  
-Presenting a situation as having only two possible outcomes.
+Description:
+A situation is framed as if it has only two options when more are possible.
+Real problems usually have more than a yes-or-no shape.
 
-**The example you’re looking at**  
-« All or nothing thinking. »  
+Example (question)
+« All or nothing thinking. »
+This is the exact kind of move the question is testing.
 
-**Why this is Black or White Fallacy**  
-Presenting a situation as having only two possible outcomes. That is what this label is pointing to in the passage above.
+Example (everyday)
+A debate is framed as total victory or total failure.
 
-**Takeaway**  
-Presenting a situation as having only two possible outcomes.`,
-    intermediate: `## Black or White Fallacy — in-depth (Intermediate)
+Example (another context)
+Someone says you are either with us or against us.
 
-**What this is, in plain English**  
-Presenting a situation as having only two possible outcomes.
+How it works
+The middle ground and other possibilities are erased so the choice looks simpler than it is.
 
-**This example**  
-« All or nothing thinking. »  
+So:
+- A fake either-or can make a complex issue look tidy.
+- Nuance gets pushed out of the picture.
+- Good reasoning checks for missing options.
 
-The passage shows **Black or White Fallacy** in action: presenting a situation as having only two possible outcomes.
+Key concept inside it
+Two options:
+A false choice that ignores the other possibilities.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Presenting a situation as having only two possible outcomes.
+Why it matters
+Explains why:
+- Many real problems have more than two reasonable answers.
+- A forced choice can hide the best option.
+- Binary framing can make a messy issue seem settled.
 
-- **Example 2:** Another everyday spot: a health or habits story. Presenting a situation as having only two possible outcomes.
+The uncomfortable implication
+A neat either-or can distort a real-world problem.
 
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Presenting a situation as having only two possible outcomes.
-
-**In one sentence**  
-Black or White Fallacy is the label for reasoning that fits: Presenting a situation as having only two possible outcomes.`,
-    expert: `## Black or White Fallacy — in-depth (Expert)
-
-**Definition**  
-Presenting a situation as having only two possible outcomes.
-
-**Applied to this passage**  
-« All or nothing thinking. »  
-
-Here, **Black or White Fallacy** is the right name because presenting a situation as having only two possible outcomes.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Presenting a situation as having only two possible outcomes.
-
-- **Example 2:** Another everyday spot: a health or habits story. Presenting a situation as having only two possible outcomes.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Presenting a situation as having only two possible outcomes.
-
-- **Example 4:** Imagine a news headline or social post. The slip is the same: presenting a situation as having only two possible outcomes.
-
-- **Example 5:** Picture a health or habits story. People often reason as if presenting a situation as having only two possible outcomes.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Black or White Fallacy** means Presenting a situation as having only two possible outcomes.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Bifurcation = forcing a problem into only two choices.`,
   },
   684: {
-    beginner: `## Black or White Fallacy — in-depth (Beginner)
+    beginner: `Bifurcation = forcing a problem into only two choices.`,
+    detail: `Bifurcation
 
-**What this is, in plain English**  
-Presenting a situation as having only two possible outcomes.
+Description:
+A situation is framed as if it has only two options when more are possible.
+Real problems usually have more than a yes-or-no shape.
 
-**The example you’re looking at**  
-« No middle ground. »  
+Example (question)
+« No middle ground. »
+This is the exact kind of move the question is testing.
 
-**Why this is Black or White Fallacy**  
-Presenting a situation as having only two possible outcomes. That is what this label is pointing to in the passage above.
+Example (everyday)
+A debate is framed as total victory or total failure.
 
-**Takeaway**  
-Presenting a situation as having only two possible outcomes.`,
-    intermediate: `## Black or White Fallacy — in-depth (Intermediate)
+Example (another context)
+Someone says you are either with us or against us.
 
-**What this is, in plain English**  
-Presenting a situation as having only two possible outcomes.
+How it works
+The middle ground and other possibilities are erased so the choice looks simpler than it is.
 
-**This example**  
-« No middle ground. »  
+So:
+- A fake either-or can make a complex issue look tidy.
+- Nuance gets pushed out of the picture.
+- Good reasoning checks for missing options.
 
-The passage shows **Black or White Fallacy** in action: presenting a situation as having only two possible outcomes.
+Key concept inside it
+Two options:
+A false choice that ignores the other possibilities.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Presenting a situation as having only two possible outcomes.
+Why it matters
+Explains why:
+- Many real problems have more than two reasonable answers.
+- A forced choice can hide the best option.
+- Binary framing can make a messy issue seem settled.
 
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Presenting a situation as having only two possible outcomes.
+The uncomfortable implication
+A neat either-or can distort a real-world problem.
 
-- **Example 3:** Imagine a family argument. The slip is the same: presenting a situation as having only two possible outcomes.
-
-**In one sentence**  
-Black or White Fallacy is the label for reasoning that fits: Presenting a situation as having only two possible outcomes.`,
-    expert: `## Black or White Fallacy — in-depth (Expert)
-
-**Definition**  
-Presenting a situation as having only two possible outcomes.
-
-**Applied to this passage**  
-« No middle ground. »  
-
-Here, **Black or White Fallacy** is the right name because presenting a situation as having only two possible outcomes.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Presenting a situation as having only two possible outcomes.
-
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Presenting a situation as having only two possible outcomes.
-
-- **Example 3:** Imagine a family argument. The slip is the same: presenting a situation as having only two possible outcomes.
-
-- **Example 4:** Picture a policy or workplace discussion. People often reason as if presenting a situation as having only two possible outcomes.
-
-- **Example 5:** In sports or business results, watch for this pattern: Presenting a situation as having only two possible outcomes.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Black or White Fallacy** means Presenting a situation as having only two possible outcomes.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Bifurcation = forcing a problem into only two choices.`,
   },
   685: {
-    beginner: `## Burden of Proof — in-depth (Beginner)
+    beginner: `Burden of Proof = making the other person prove your claim false.`,
+    detail: `Burden of Proof
 
-**What this is, in plain English**  
-Shifting the burden of proof to the opponent.
+Description:
+The person making the claim tries to make the opponent do all the proving.
+A claim still needs support even if nobody has disproved it yet.
 
-**The example you’re looking at**  
-« Prove I'm wrong. »  
+Example (question)
+« Prove I'm wrong. »
+This is the exact kind of move the question is testing.
 
-**Why this is Burden of Proof**  
-Shifting the burden of proof to the opponent. That is what this label is pointing to in the passage above.
+Example (everyday)
+Someone says “prove me wrong” instead of giving reasons.
 
-**Takeaway**  
-Shifting the burden of proof to the opponent.`,
-    intermediate: `## Burden of Proof — in-depth (Intermediate)
+Example (another context)
+A speaker demands refutation while offering nothing themselves.
 
-**What this is, in plain English**  
-Shifting the burden of proof to the opponent.
+How it works
+The responsibility to support the claim is shifted to the other side.
 
-**This example**  
-« Prove I'm wrong. »  
+So:
+- Absence of refutation is not the same as proof.
+- The person who makes the claim should carry the burden.
+- A challenge is not a substitute for evidence.
 
-The passage shows **Burden of Proof** in action: shifting the burden of proof to the opponent.
+Key concept inside it
+Burden:
+The duty to provide reasons for a claim.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Shifting the burden of proof to the opponent.
+Why it matters
+Explains why:
+- Arguments need support, not just a challenge to others.
+- A claim without proof is still just a claim.
+- Shifting the burden lets someone dodge responsibility.
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: shifting the burden of proof to the opponent.
+The uncomfortable implication
+It can sound bold while avoiding the hard work of justification.
 
-- **Example 3:** Picture a news headline or social post. People often reason as if shifting the burden of proof to the opponent.
-
-**In one sentence**  
-Burden of Proof is the label for reasoning that fits: Shifting the burden of proof to the opponent.`,
-    expert: `## Burden of Proof — in-depth (Expert)
-
-**Definition**  
-Shifting the burden of proof to the opponent.
-
-**Applied to this passage**  
-« Prove I'm wrong. »  
-
-Here, **Burden of Proof** is the right name because shifting the burden of proof to the opponent.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Shifting the burden of proof to the opponent.
-
-- **Example 2:** Imagine school grades or test scores. The slip is the same: shifting the burden of proof to the opponent.
-
-- **Example 3:** Picture a news headline or social post. People often reason as if shifting the burden of proof to the opponent.
-
-- **Example 4:** In a health or habits story, watch for this pattern: Shifting the burden of proof to the opponent.
-
-- **Example 5:** Another everyday spot: school grades or test scores. Shifting the burden of proof to the opponent.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Burden of Proof** means Shifting the burden of proof to the opponent.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Burden of Proof = making others disprove your claim instead of supporting it.`,
   },
   686: {
-    beginner: `## Burden of Proof — in-depth (Beginner)
+    beginner: `Burden of Proof = making the other person prove your claim false.`,
+    detail: `Burden of Proof
 
-**What this is, in plain English**  
-Shifting the burden of proof to the opponent.
+Description:
+The person making the claim tries to make the opponent do all the proving.
+A claim still needs support even if nobody has disproved it yet.
 
-**The example you’re looking at**  
-« You disprove my claim. »  
+Example (question)
+« You disprove my claim. »
+This is the exact kind of move the question is testing.
 
-**Why this is Burden of Proof**  
-Shifting the burden of proof to the opponent. That is what this label is pointing to in the passage above.
+Example (everyday)
+Someone says “prove me wrong” instead of giving reasons.
 
-**Takeaway**  
-Shifting the burden of proof to the opponent.`,
-    intermediate: `## Burden of Proof — in-depth (Intermediate)
+Example (another context)
+A speaker demands refutation while offering nothing themselves.
 
-**What this is, in plain English**  
-Shifting the burden of proof to the opponent.
+How it works
+The responsibility to support the claim is shifted to the other side.
 
-**This example**  
-« You disprove my claim. »  
+So:
+- Absence of refutation is not the same as proof.
+- The person who makes the claim should carry the burden.
+- A challenge is not a substitute for evidence.
 
-The passage shows **Burden of Proof** in action: shifting the burden of proof to the opponent.
+Key concept inside it
+Burden:
+The duty to provide reasons for a claim.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: shifting the burden of proof to the opponent.
+Why it matters
+Explains why:
+- Arguments need support, not just a challenge to others.
+- A claim without proof is still just a claim.
+- Shifting the burden lets someone dodge responsibility.
 
-- **Example 2:** Picture a family argument. People often reason as if shifting the burden of proof to the opponent.
+The uncomfortable implication
+It can sound bold while avoiding the hard work of justification.
 
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Shifting the burden of proof to the opponent.
-
-**In one sentence**  
-Burden of Proof is the label for reasoning that fits: Shifting the burden of proof to the opponent.`,
-    expert: `## Burden of Proof — in-depth (Expert)
-
-**Definition**  
-Shifting the burden of proof to the opponent.
-
-**Applied to this passage**  
-« You disprove my claim. »  
-
-Here, **Burden of Proof** is the right name because shifting the burden of proof to the opponent.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: shifting the burden of proof to the opponent.
-
-- **Example 2:** Picture a family argument. People often reason as if shifting the burden of proof to the opponent.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Shifting the burden of proof to the opponent.
-
-- **Example 4:** Another everyday spot: sports or business results. Shifting the burden of proof to the opponent.
-
-- **Example 5:** **Setting:** a family argument. **What goes wrong:** Shifting the burden of proof to the opponent.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Burden of Proof** means Shifting the burden of proof to the opponent.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Burden of Proof = making others disprove your claim instead of supporting it.`,
   },
   687: {
-    beginner: `## Burden of Proof — in-depth (Beginner)
+    beginner: `Burden of Proof = making the other person prove your claim false.`,
+    detail: `Burden of Proof
 
-**What this is, in plain English**  
-Shifting the burden of proof to the opponent.
+Description:
+The person making the claim tries to make the opponent do all the proving.
+A claim still needs support even if nobody has disproved it yet.
 
-**The example you’re looking at**  
-« Reversing proof responsibility. »  
+Example (question)
+« Reversing proof responsibility. »
+This is the exact kind of move the question is testing.
 
-**Why this is Burden of Proof**  
-Shifting the burden of proof to the opponent. That is what this label is pointing to in the passage above.
+Example (everyday)
+Someone says “prove me wrong” instead of giving reasons.
 
-**Takeaway**  
-Shifting the burden of proof to the opponent.`,
-    intermediate: `## Burden of Proof — in-depth (Intermediate)
+Example (another context)
+A speaker demands refutation while offering nothing themselves.
 
-**What this is, in plain English**  
-Shifting the burden of proof to the opponent.
+How it works
+The responsibility to support the claim is shifted to the other side.
 
-**This example**  
-« Reversing proof responsibility. »  
+So:
+- Absence of refutation is not the same as proof.
+- The person who makes the claim should carry the burden.
+- A challenge is not a substitute for evidence.
 
-The passage shows **Burden of Proof** in action: shifting the burden of proof to the opponent.
+Key concept inside it
+Burden:
+The duty to provide reasons for a claim.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if shifting the burden of proof to the opponent.
+Why it matters
+Explains why:
+- Arguments need support, not just a challenge to others.
+- A claim without proof is still just a claim.
+- Shifting the burden lets someone dodge responsibility.
 
-- **Example 2:** In a news headline or social post, watch for this pattern: Shifting the burden of proof to the opponent.
+The uncomfortable implication
+It can sound bold while avoiding the hard work of justification.
 
-- **Example 3:** Another everyday spot: a health or habits story. Shifting the burden of proof to the opponent.
-
-**In one sentence**  
-Burden of Proof is the label for reasoning that fits: Shifting the burden of proof to the opponent.`,
-    expert: `## Burden of Proof — in-depth (Expert)
-
-**Definition**  
-Shifting the burden of proof to the opponent.
-
-**Applied to this passage**  
-« Reversing proof responsibility. »  
-
-Here, **Burden of Proof** is the right name because shifting the burden of proof to the opponent.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if shifting the burden of proof to the opponent.
-
-- **Example 2:** In a news headline or social post, watch for this pattern: Shifting the burden of proof to the opponent.
-
-- **Example 3:** Another everyday spot: a health or habits story. Shifting the burden of proof to the opponent.
-
-- **Example 4:** **Setting:** school grades or test scores. **What goes wrong:** Shifting the burden of proof to the opponent.
-
-- **Example 5:** Imagine a news headline or social post. The slip is the same: shifting the burden of proof to the opponent.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Burden of Proof** means Shifting the burden of proof to the opponent.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Burden of Proof = making others disprove your claim instead of supporting it.`,
   },
   688: {
-    beginner: `## Causal Oversimplification — in-depth (Beginner)
+    beginner: `Causal Oversimplification = treating a complex outcome as if it had one simple cause.`,
+    detail: `Causal Oversimplification
 
-**What this is, in plain English**  
-Assuming a single cause for a complex effect.
+Description:
+A complicated result is explained as though one factor did all the work.
+Real outcomes usually come from several causes working together.
 
-**The example you’re looking at**  
-« Poverty causes crime. »  
+Example (question)
+« Poverty causes crime. »
+This is the exact kind of move the question is testing.
 
-**Why this is Causal Oversimplification**  
-Assuming a single cause for a complex effect. That is what this label is pointing to in the passage above.
+Example (everyday)
+A social problem is blamed on one policy alone.
 
-**Takeaway**  
-Assuming a single cause for a complex effect.`,
-    intermediate: `## Causal Oversimplification — in-depth (Intermediate)
+Example (another context)
+A business result is explained by one dramatic event and nothing else.
 
-**What this is, in plain English**  
-Assuming a single cause for a complex effect.
+How it works
+The argument leaves out the other causes that also matter.
 
-**This example**  
-« Poverty causes crime. »  
+So:
+- Complex results rarely have a single clean cause.
+- One factor can matter without being the whole story.
+- Good reasoning keeps the full picture in view.
 
-The passage shows **Causal Oversimplification** in action: assuming a single cause for a complex effect.
+Key concept inside it
+Cause:
+What helps produce an outcome.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Assuming a single cause for a complex effect.
+Why it matters
+Explains why:
+- Reducing a complex issue to one cause can mislead decisions.
+- A simple story is not always the true story.
+- The missing causes are often the most important part.
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Assuming a single cause for a complex effect.
+The uncomfortable implication
+A simple answer can hide the real machinery behind the result.
 
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Assuming a single cause for a complex effect.
-
-**In one sentence**  
-Causal Oversimplification is the label for reasoning that fits: Assuming a single cause for a complex effect.`,
-    expert: `## Causal Oversimplification — in-depth (Expert)
-
-**Definition**  
-Assuming a single cause for a complex effect.
-
-**Applied to this passage**  
-« Poverty causes crime. »  
-
-Here, **Causal Oversimplification** is the right name because assuming a single cause for a complex effect.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Assuming a single cause for a complex effect.
-
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Assuming a single cause for a complex effect.
-
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Assuming a single cause for a complex effect.
-
-- **Example 4:** Imagine a family argument. The slip is the same: assuming a single cause for a complex effect.
-
-- **Example 5:** Picture a policy or workplace discussion. People often reason as if assuming a single cause for a complex effect.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Causal Oversimplification** means Assuming a single cause for a complex effect.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Causal Oversimplification = reducing a complex result to one cause.`,
   },
   689: {
-    beginner: `## Causal Oversimplification — in-depth (Beginner)
+    beginner: `Causal Oversimplification = treating a complex outcome as if it had one simple cause.`,
+    detail: `Causal Oversimplification
 
-**What this is, in plain English**  
-Assuming a single cause for a complex effect.
+Description:
+A complicated result is explained as though one factor did all the work.
+Real outcomes usually come from several causes working together.
 
-**The example you’re looking at**  
-« One factor explains everything. »  
+Example (question)
+« One factor explains everything. »
+This is the exact kind of move the question is testing.
 
-**Why this is Causal Oversimplification**  
-Assuming a single cause for a complex effect. That is what this label is pointing to in the passage above.
+Example (everyday)
+A social problem is blamed on one policy alone.
 
-**Takeaway**  
-Assuming a single cause for a complex effect.`,
-    intermediate: `## Causal Oversimplification — in-depth (Intermediate)
+Example (another context)
+A business result is explained by one dramatic event and nothing else.
 
-**What this is, in plain English**  
-Assuming a single cause for a complex effect.
+How it works
+The argument leaves out the other causes that also matter.
 
-**This example**  
-« One factor explains everything. »  
+So:
+- Complex results rarely have a single clean cause.
+- One factor can matter without being the whole story.
+- Good reasoning keeps the full picture in view.
 
-The passage shows **Causal Oversimplification** in action: assuming a single cause for a complex effect.
+Key concept inside it
+Cause:
+What helps produce an outcome.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Assuming a single cause for a complex effect.
+Why it matters
+Explains why:
+- Reducing a complex issue to one cause can mislead decisions.
+- A simple story is not always the true story.
+- The missing causes are often the most important part.
 
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Assuming a single cause for a complex effect.
+The uncomfortable implication
+A simple answer can hide the real machinery behind the result.
 
-- **Example 3:** Imagine school grades or test scores. The slip is the same: assuming a single cause for a complex effect.
-
-**In one sentence**  
-Causal Oversimplification is the label for reasoning that fits: Assuming a single cause for a complex effect.`,
-    expert: `## Causal Oversimplification — in-depth (Expert)
-
-**Definition**  
-Assuming a single cause for a complex effect.
-
-**Applied to this passage**  
-« One factor explains everything. »  
-
-Here, **Causal Oversimplification** is the right name because assuming a single cause for a complex effect.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Assuming a single cause for a complex effect.
-
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Assuming a single cause for a complex effect.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: assuming a single cause for a complex effect.
-
-- **Example 4:** Picture a news headline or social post. People often reason as if assuming a single cause for a complex effect.
-
-- **Example 5:** In a health or habits story, watch for this pattern: Assuming a single cause for a complex effect.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Causal Oversimplification** means Assuming a single cause for a complex effect.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Causal Oversimplification = reducing a complex result to one cause.`,
   },
   690: {
-    beginner: `## Causal Oversimplification — in-depth (Beginner)
+    beginner: `Causal Oversimplification = treating a complex outcome as if it had one simple cause.`,
+    detail: `Causal Oversimplification
 
-**What this is, in plain English**  
-Assuming a single cause for a complex effect.
+Description:
+A complicated result is explained as though one factor did all the work.
+Real outcomes usually come from several causes working together.
 
-**The example you’re looking at**  
-« Ignoring complexity. »  
+Example (question)
+« Ignoring complexity. »
+This is the exact kind of move the question is testing.
 
-**Why this is Causal Oversimplification**  
-Assuming a single cause for a complex effect. That is what this label is pointing to in the passage above.
+Example (everyday)
+A social problem is blamed on one policy alone.
 
-**Takeaway**  
-Assuming a single cause for a complex effect.`,
-    intermediate: `## Causal Oversimplification — in-depth (Intermediate)
+Example (another context)
+A business result is explained by one dramatic event and nothing else.
 
-**What this is, in plain English**  
-Assuming a single cause for a complex effect.
+How it works
+The argument leaves out the other causes that also matter.
 
-**This example**  
-« Ignoring complexity. »  
+So:
+- Complex results rarely have a single clean cause.
+- One factor can matter without being the whole story.
+- Good reasoning keeps the full picture in view.
 
-The passage shows **Causal Oversimplification** in action: assuming a single cause for a complex effect.
+Key concept inside it
+Cause:
+What helps produce an outcome.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Assuming a single cause for a complex effect.
+Why it matters
+Explains why:
+- Reducing a complex issue to one cause can mislead decisions.
+- A simple story is not always the true story.
+- The missing causes are often the most important part.
 
-- **Example 2:** Imagine sports or business results. The slip is the same: assuming a single cause for a complex effect.
+The uncomfortable implication
+A simple answer can hide the real machinery behind the result.
 
-- **Example 3:** Picture a family argument. People often reason as if assuming a single cause for a complex effect.
-
-**In one sentence**  
-Causal Oversimplification is the label for reasoning that fits: Assuming a single cause for a complex effect.`,
-    expert: `## Causal Oversimplification — in-depth (Expert)
-
-**Definition**  
-Assuming a single cause for a complex effect.
-
-**Applied to this passage**  
-« Ignoring complexity. »  
-
-Here, **Causal Oversimplification** is the right name because assuming a single cause for a complex effect.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Assuming a single cause for a complex effect.
-
-- **Example 2:** Imagine sports or business results. The slip is the same: assuming a single cause for a complex effect.
-
-- **Example 3:** Picture a family argument. People often reason as if assuming a single cause for a complex effect.
-
-- **Example 4:** In a policy or workplace discussion, watch for this pattern: Assuming a single cause for a complex effect.
-
-- **Example 5:** Another everyday spot: sports or business results. Assuming a single cause for a complex effect.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Causal Oversimplification** means Assuming a single cause for a complex effect.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Causal Oversimplification = reducing a complex result to one cause.`,
   },
   691: {
-    beginner: `## Circumstantial Ad Hominem — in-depth (Beginner)
+    beginner: `Circumstantial Ad Hominem = attacking the person’s situation instead of the argument.`,
+    detail: `Circumstantial Ad Hominem
 
-**What this is, in plain English**  
-Attacking the circumstances rather than the argument.
+Description:
+The argument is dismissed by pointing to the speaker’s background, interests, or circumstances.
+A person’s situation can matter, but it does not answer the claim by itself.
 
-**The example you’re looking at**  
-« You're biased because of your background. »  
+Example (question)
+« You're biased because of your background. »
+This is the exact kind of move the question is testing.
 
-**Why this is Circumstantial Ad Hominem**  
-Attacking the circumstances rather than the argument. That is what this label is pointing to in the passage above.
+Example (everyday)
+Someone says your opinion is wrong because of your job.
 
-**Takeaway**  
-Attacking the circumstances rather than the argument.`,
-    intermediate: `## Circumstantial Ad Hominem — in-depth (Intermediate)
+Example (another context)
+A speaker is rejected because of their background rather than their reasons.
 
-**What this is, in plain English**  
-Attacking the circumstances rather than the argument.
+How it works
+The focus shifts from the claim to the person making it.
 
-**This example**  
-« You're biased because of your background. »  
+So:
+- Circumstances may explain bias, but they do not automatically refute the claim.
+- The argument still needs to be checked on its own.
+- Attacking the speaker is not the same as answering the point.
 
-The passage shows **Circumstantial Ad Hominem** in action: attacking the circumstances rather than the argument.
+Key concept inside it
+Circumstances:
+Facts about the person, not facts about the argument.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: attacking the circumstances rather than the argument.
+Why it matters
+Explains why:
+- A claim can be right even if the speaker has a conflict of interest.
+- A background detail does not settle truth.
+- The reasoning still has to be examined directly.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if attacking the circumstances rather than the argument.
+The uncomfortable implication
+You can make the person look suspect without touching the argument.
 
-- **Example 3:** In a news headline or social post, watch for this pattern: Attacking the circumstances rather than the argument.
-
-**In one sentence**  
-Circumstantial Ad Hominem is the label for reasoning that fits: Attacking the circumstances rather than the argument.`,
-    expert: `## Circumstantial Ad Hominem — in-depth (Expert)
-
-**Definition**  
-Attacking the circumstances rather than the argument.
-
-**Applied to this passage**  
-« You're biased because of your background. »  
-
-Here, **Circumstantial Ad Hominem** is the right name because attacking the circumstances rather than the argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: attacking the circumstances rather than the argument.
-
-- **Example 2:** Picture school grades or test scores. People often reason as if attacking the circumstances rather than the argument.
-
-- **Example 3:** In a news headline or social post, watch for this pattern: Attacking the circumstances rather than the argument.
-
-- **Example 4:** Another everyday spot: a health or habits story. Attacking the circumstances rather than the argument.
-
-- **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** Attacking the circumstances rather than the argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Circumstantial Ad Hominem** means Attacking the circumstances rather than the argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Circumstantial Ad Hominem = attacking the speaker’s situation instead of the argument.`,
   },
   692: {
-    beginner: `## Circumstantial Ad Hominem — in-depth (Beginner)
+    beginner: `Circumstantial Ad Hominem = attacking the person’s situation instead of the argument.`,
+    detail: `Circumstantial Ad Hominem
 
-**What this is, in plain English**  
-Attacking the circumstances rather than the argument.
+Description:
+The argument is dismissed by pointing to the speaker’s background, interests, or circumstances.
+A person’s situation can matter, but it does not answer the claim by itself.
 
-**The example you’re looking at**  
-« Your situation invalidates your view. »  
+Example (question)
+« Your situation invalidates your view. »
+This is the exact kind of move the question is testing.
 
-**Why this is Circumstantial Ad Hominem**  
-Attacking the circumstances rather than the argument. That is what this label is pointing to in the passage above.
+Example (everyday)
+Someone says your opinion is wrong because of your job.
 
-**Takeaway**  
-Attacking the circumstances rather than the argument.`,
-    intermediate: `## Circumstantial Ad Hominem — in-depth (Intermediate)
+Example (another context)
+A speaker is rejected because of their background rather than their reasons.
 
-**What this is, in plain English**  
-Attacking the circumstances rather than the argument.
+How it works
+The focus shifts from the claim to the person making it.
 
-**This example**  
-« Your situation invalidates your view. »  
+So:
+- Circumstances may explain bias, but they do not automatically refute the claim.
+- The argument still needs to be checked on its own.
+- Attacking the speaker is not the same as answering the point.
 
-The passage shows **Circumstantial Ad Hominem** in action: attacking the circumstances rather than the argument.
+Key concept inside it
+Circumstances:
+Facts about the person, not facts about the argument.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if attacking the circumstances rather than the argument.
+Why it matters
+Explains why:
+- A claim can be right even if the speaker has a conflict of interest.
+- A background detail does not settle truth.
+- The reasoning still has to be examined directly.
 
-- **Example 2:** In a family argument, watch for this pattern: Attacking the circumstances rather than the argument.
+The uncomfortable implication
+You can make the person look suspect without touching the argument.
 
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Attacking the circumstances rather than the argument.
-
-**In one sentence**  
-Circumstantial Ad Hominem is the label for reasoning that fits: Attacking the circumstances rather than the argument.`,
-    expert: `## Circumstantial Ad Hominem — in-depth (Expert)
-
-**Definition**  
-Attacking the circumstances rather than the argument.
-
-**Applied to this passage**  
-« Your situation invalidates your view. »  
-
-Here, **Circumstantial Ad Hominem** is the right name because attacking the circumstances rather than the argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if attacking the circumstances rather than the argument.
-
-- **Example 2:** In a family argument, watch for this pattern: Attacking the circumstances rather than the argument.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Attacking the circumstances rather than the argument.
-
-- **Example 4:** **Setting:** sports or business results. **What goes wrong:** Attacking the circumstances rather than the argument.
-
-- **Example 5:** Imagine a family argument. The slip is the same: attacking the circumstances rather than the argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Circumstantial Ad Hominem** means Attacking the circumstances rather than the argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Circumstantial Ad Hominem = attacking the speaker’s situation instead of the argument.`,
   },
   693: {
-    beginner: `## Circumstantial Ad Hominem — in-depth (Beginner)
+    beginner: `Circumstantial Ad Hominem = attacking the person’s situation instead of the argument.`,
+    detail: `Circumstantial Ad Hominem
 
-**What this is, in plain English**  
-Attacking the circumstances rather than the argument.
+Description:
+The argument is dismissed by pointing to the speaker’s background, interests, or circumstances.
+A person’s situation can matter, but it does not answer the claim by itself.
 
-**The example you’re looking at**  
-« Attacking context. »  
+Example (question)
+« Attacking context. »
+This is the exact kind of move the question is testing.
 
-**Why this is Circumstantial Ad Hominem**  
-Attacking the circumstances rather than the argument. That is what this label is pointing to in the passage above.
+Example (everyday)
+Someone says your opinion is wrong because of your job.
 
-**Takeaway**  
-Attacking the circumstances rather than the argument.`,
-    intermediate: `## Circumstantial Ad Hominem — in-depth (Intermediate)
+Example (another context)
+A speaker is rejected because of their background rather than their reasons.
 
-**What this is, in plain English**  
-Attacking the circumstances rather than the argument.
+How it works
+The focus shifts from the claim to the person making it.
 
-**This example**  
-« Attacking context. »  
+So:
+- Circumstances may explain bias, but they do not automatically refute the claim.
+- The argument still needs to be checked on its own.
+- Attacking the speaker is not the same as answering the point.
 
-The passage shows **Circumstantial Ad Hominem** in action: attacking the circumstances rather than the argument.
+Key concept inside it
+Circumstances:
+Facts about the person, not facts about the argument.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Attacking the circumstances rather than the argument.
+Why it matters
+Explains why:
+- A claim can be right even if the speaker has a conflict of interest.
+- A background detail does not settle truth.
+- The reasoning still has to be examined directly.
 
-- **Example 2:** Another everyday spot: a news headline or social post. Attacking the circumstances rather than the argument.
+The uncomfortable implication
+You can make the person look suspect without touching the argument.
 
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Attacking the circumstances rather than the argument.
-
-**In one sentence**  
-Circumstantial Ad Hominem is the label for reasoning that fits: Attacking the circumstances rather than the argument.`,
-    expert: `## Circumstantial Ad Hominem — in-depth (Expert)
-
-**Definition**  
-Attacking the circumstances rather than the argument.
-
-**Applied to this passage**  
-« Attacking context. »  
-
-Here, **Circumstantial Ad Hominem** is the right name because attacking the circumstances rather than the argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Attacking the circumstances rather than the argument.
-
-- **Example 2:** Another everyday spot: a news headline or social post. Attacking the circumstances rather than the argument.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Attacking the circumstances rather than the argument.
-
-- **Example 4:** Imagine school grades or test scores. The slip is the same: attacking the circumstances rather than the argument.
-
-- **Example 5:** Picture a news headline or social post. People often reason as if attacking the circumstances rather than the argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Circumstantial Ad Hominem** means Attacking the circumstances rather than the argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Circumstantial Ad Hominem = attacking the speaker’s situation instead of the argument.`,
   },
   694: {
-    beginner: `## Denying the Antecedent — in-depth (Beginner)
+    beginner: `Denying the Antecedent = assuming that if the first part is false, the second part must be false too.`,
+    detail: `Denying the Antecedent
 
-**What this is, in plain English**  
-Drawing a conclusion based on the inverse of a conditional.
+Description:
+A conditional statement is handled as if the negative case tells you the conclusion for sure.
+Not having the first condition does not automatically rule out the result.
 
-**The example you’re looking at**  
-« If it rains, the ground is wet. The ground is not wet, so it didn't rain. »  
+Example (question)
+« If it rains, the ground is wet. The ground is not wet, so it didn't rain. »
+This is the exact kind of move the question is testing.
 
-**Why this is Denying the Antecedent**  
-Drawing a conclusion based on the inverse of a conditional. That is what this label is pointing to in the passage above.
+Example (everyday)
+If it rains, the ground gets wet. It did not rain, so the ground must be dry.
 
-**Takeaway**  
-Drawing a conclusion based on the inverse of a conditional.`,
-    intermediate: `## Denying the Antecedent — in-depth (Intermediate)
+Example (another context)
+If I’m rich, I have money. I’m not rich, so I have no money.
 
-**What this is, in plain English**  
-Drawing a conclusion based on the inverse of a conditional.
+How it works
+The argument mistakes “not the first part” for “not the result.”
 
-**This example**  
-« If it rains, the ground is wet. The ground is not wet, so it didn't rain. »  
+So:
+- A conditional is not reversible just because it sounds neat.
+- Other causes can still produce the result.
+- A missing condition is not the same as a missing outcome.
 
-The passage shows **Denying the Antecedent** in action: drawing a conclusion based on the inverse of a conditional.
+Key concept inside it
+Conditional:
+An if-then statement that is not automatically reversible.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Drawing a conclusion based on the inverse of a conditional.
+Why it matters
+Explains why:
+- Logic has to follow the structure of the statement, not the rhythm of the sentence.
+- The world often has more than one route to the same result.
+- A false shortcut can make the conclusion look guaranteed.
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Drawing a conclusion based on the inverse of a conditional.
+The uncomfortable implication
+A tidy if-then can trick you into a wrong “therefore.”
 
-- **Example 3:** Imagine sports or business results. The slip is the same: drawing a conclusion based on the inverse of a conditional.
-
-**In one sentence**  
-Denying the Antecedent is the label for reasoning that fits: Drawing a conclusion based on the inverse of a conditional.`,
-    expert: `## Denying the Antecedent — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion based on the inverse of a conditional.
-
-**Applied to this passage**  
-« If it rains, the ground is wet. The ground is not wet, so it didn't rain. »  
-
-Here, **Denying the Antecedent** is the right name because drawing a conclusion based on the inverse of a conditional.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Drawing a conclusion based on the inverse of a conditional.
-
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Drawing a conclusion based on the inverse of a conditional.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: drawing a conclusion based on the inverse of a conditional.
-
-- **Example 4:** Picture a family argument. People often reason as if drawing a conclusion based on the inverse of a conditional.
-
-- **Example 5:** In a policy or workplace discussion, watch for this pattern: Drawing a conclusion based on the inverse of a conditional.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Denying the Antecedent** means Drawing a conclusion based on the inverse of a conditional.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Denying the Antecedent = assuming the result is false because the first condition is false.`,
   },
   695: {
-    beginner: `## Denying the Antecedent — in-depth (Beginner)
+    beginner: `Denying the Antecedent = assuming that if the first part is false, the second part must be false too.`,
+    detail: `Denying the Antecedent
 
-**What this is, in plain English**  
-Drawing a conclusion based on the inverse of a conditional.
+Description:
+A conditional statement is handled as if the negative case tells you the conclusion for sure.
+Not having the first condition does not automatically rule out the result.
 
-**The example you’re looking at**  
-« If I'm rich, I have money. I'm not rich, so I have no money. »  
+Example (question)
+« If I'm rich, I have money. I'm not rich, so I have no money. »
+This is the exact kind of move the question is testing.
 
-**Why this is Denying the Antecedent**  
-Drawing a conclusion based on the inverse of a conditional. That is what this label is pointing to in the passage above.
+Example (everyday)
+If it rains, the ground gets wet. It did not rain, so the ground must be dry.
 
-**Takeaway**  
-Drawing a conclusion based on the inverse of a conditional.`,
-    intermediate: `## Denying the Antecedent — in-depth (Intermediate)
+Example (another context)
+If I’m rich, I have money. I’m not rich, so I have no money.
 
-**What this is, in plain English**  
-Drawing a conclusion based on the inverse of a conditional.
+How it works
+The argument mistakes “not the first part” for “not the result.”
 
-**This example**  
-« If I'm rich, I have money. I'm not rich, so I have no money. »  
+So:
+- A conditional is not reversible just because it sounds neat.
+- Other causes can still produce the result.
+- A missing condition is not the same as a missing outcome.
 
-The passage shows **Denying the Antecedent** in action: drawing a conclusion based on the inverse of a conditional.
+Key concept inside it
+Conditional:
+An if-then statement that is not automatically reversible.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Drawing a conclusion based on the inverse of a conditional.
+Why it matters
+Explains why:
+- Logic has to follow the structure of the statement, not the rhythm of the sentence.
+- The world often has more than one route to the same result.
+- A false shortcut can make the conclusion look guaranteed.
 
-- **Example 2:** Imagine a health or habits story. The slip is the same: drawing a conclusion based on the inverse of a conditional.
+The uncomfortable implication
+A tidy if-then can trick you into a wrong “therefore.”
 
-- **Example 3:** Picture school grades or test scores. People often reason as if drawing a conclusion based on the inverse of a conditional.
-
-**In one sentence**  
-Denying the Antecedent is the label for reasoning that fits: Drawing a conclusion based on the inverse of a conditional.`,
-    expert: `## Denying the Antecedent — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion based on the inverse of a conditional.
-
-**Applied to this passage**  
-« If I'm rich, I have money. I'm not rich, so I have no money. »  
-
-Here, **Denying the Antecedent** is the right name because drawing a conclusion based on the inverse of a conditional.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Drawing a conclusion based on the inverse of a conditional.
-
-- **Example 2:** Imagine a health or habits story. The slip is the same: drawing a conclusion based on the inverse of a conditional.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if drawing a conclusion based on the inverse of a conditional.
-
-- **Example 4:** In a news headline or social post, watch for this pattern: Drawing a conclusion based on the inverse of a conditional.
-
-- **Example 5:** Another everyday spot: a health or habits story. Drawing a conclusion based on the inverse of a conditional.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Denying the Antecedent** means Drawing a conclusion based on the inverse of a conditional.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Denying the Antecedent = assuming the result is false because the first condition is false.`,
   },
   696: {
-    beginner: `## Denying the Antecedent — in-depth (Beginner)
+    beginner: `Denying the Antecedent = assuming that if the first part is false, the second part must be false too.`,
+    detail: `Denying the Antecedent
 
-**What this is, in plain English**  
-Drawing a conclusion based on the inverse of a conditional.
+Description:
+A conditional statement is handled as if the negative case tells you the conclusion for sure.
+Not having the first condition does not automatically rule out the result.
 
-**The example you’re looking at**  
-« Invalid logic in conditionals. »  
+Example (question)
+« Invalid logic in conditionals. »
+This is the exact kind of move the question is testing.
 
-**Why this is Denying the Antecedent**  
-Drawing a conclusion based on the inverse of a conditional. That is what this label is pointing to in the passage above.
+Example (everyday)
+If it rains, the ground gets wet. It did not rain, so the ground must be dry.
 
-**Takeaway**  
-Drawing a conclusion based on the inverse of a conditional.`,
-    intermediate: `## Denying the Antecedent — in-depth (Intermediate)
+Example (another context)
+If I’m rich, I have money. I’m not rich, so I have no money.
 
-**What this is, in plain English**  
-Drawing a conclusion based on the inverse of a conditional.
+How it works
+The argument mistakes “not the first part” for “not the result.”
 
-**This example**  
-« Invalid logic in conditionals. »  
+So:
+- A conditional is not reversible just because it sounds neat.
+- Other causes can still produce the result.
+- A missing condition is not the same as a missing outcome.
 
-The passage shows **Denying the Antecedent** in action: drawing a conclusion based on the inverse of a conditional.
+Key concept inside it
+Conditional:
+An if-then statement that is not automatically reversible.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: drawing a conclusion based on the inverse of a conditional.
+Why it matters
+Explains why:
+- Logic has to follow the structure of the statement, not the rhythm of the sentence.
+- The world often has more than one route to the same result.
+- A false shortcut can make the conclusion look guaranteed.
 
-- **Example 2:** Picture sports or business results. People often reason as if drawing a conclusion based on the inverse of a conditional.
+The uncomfortable implication
+A tidy if-then can trick you into a wrong “therefore.”
 
-- **Example 3:** In a family argument, watch for this pattern: Drawing a conclusion based on the inverse of a conditional.
-
-**In one sentence**  
-Denying the Antecedent is the label for reasoning that fits: Drawing a conclusion based on the inverse of a conditional.`,
-    expert: `## Denying the Antecedent — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion based on the inverse of a conditional.
-
-**Applied to this passage**  
-« Invalid logic in conditionals. »  
-
-Here, **Denying the Antecedent** is the right name because drawing a conclusion based on the inverse of a conditional.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: drawing a conclusion based on the inverse of a conditional.
-
-- **Example 2:** Picture sports or business results. People often reason as if drawing a conclusion based on the inverse of a conditional.
-
-- **Example 3:** In a family argument, watch for this pattern: Drawing a conclusion based on the inverse of a conditional.
-
-- **Example 4:** Another everyday spot: a policy or workplace discussion. Drawing a conclusion based on the inverse of a conditional.
-
-- **Example 5:** **Setting:** sports or business results. **What goes wrong:** Drawing a conclusion based on the inverse of a conditional.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Denying the Antecedent** means Drawing a conclusion based on the inverse of a conditional.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Denying the Antecedent = assuming the result is false because the first condition is false.`,
   },
   697: {
-    beginner: `## Equivocation — in-depth (Beginner)
+    beginner: `Equivocation = using one word in two different ways inside the same argument.`,
+    detail: `Equivocation
 
-**What this is, in plain English**  
-Using a word with two different meanings in the same argument.
+Description:
+The argument switches meanings halfway through and acts as if nothing changed.
+One word can sound stable while secretly changing sense.
 
-**The example you’re looking at**  
-« A bat is a mammal, so it can fly. »  
+Example (question)
+« A bat is a mammal, so it can fly. »
+This is the exact kind of move the question is testing.
 
-**Why this is Equivocation**  
-Using a word with two different meanings in the same argument. That is what this label is pointing to in the passage above.
+Example (everyday)
+A bat is a mammal, so it can fly.
 
-**Takeaway**  
-Using a word with two different meanings in the same argument.`,
-    intermediate: `## Equivocation — in-depth (Intermediate)
+Example (another context)
+A word is used one way in the first line and a different way in the second.
 
-**What this is, in plain English**  
-Using a word with two different meanings in the same argument.
+How it works
+The conclusion only works because the key word shifts meaning.
 
-**This example**  
-« A bat is a mammal, so it can fly. »  
+So:
+- A word can be ambiguous without the speaker noticing.
+- The argument looks valid only because the meaning moved.
+- Clear reasoning keeps terms fixed.
 
-The passage shows **Equivocation** in action: using a word with two different meanings in the same argument.
+Key concept inside it
+Ambiguous term:
+A word that changes meaning in the course of the argument.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if using a word with two different meanings in the same argument.
+Why it matters
+Explains why:
+- A hidden meaning shift can make a bad argument sound good.
+- The same word is not always the same claim.
+- If the term moves, the logic moves too.
 
-- **Example 2:** In school grades or test scores, watch for this pattern: Using a word with two different meanings in the same argument.
+The uncomfortable implication
+A clever word choice can smuggle in a false conclusion.
 
-- **Example 3:** Another everyday spot: a news headline or social post. Using a word with two different meanings in the same argument.
-
-**In one sentence**  
-Equivocation is the label for reasoning that fits: Using a word with two different meanings in the same argument.`,
-    expert: `## Equivocation — in-depth (Expert)
-
-**Definition**  
-Using a word with two different meanings in the same argument.
-
-**Applied to this passage**  
-« A bat is a mammal, so it can fly. »  
-
-Here, **Equivocation** is the right name because using a word with two different meanings in the same argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if using a word with two different meanings in the same argument.
-
-- **Example 2:** In school grades or test scores, watch for this pattern: Using a word with two different meanings in the same argument.
-
-- **Example 3:** Another everyday spot: a news headline or social post. Using a word with two different meanings in the same argument.
-
-- **Example 4:** **Setting:** a health or habits story. **What goes wrong:** Using a word with two different meanings in the same argument.
-
-- **Example 5:** Imagine school grades or test scores. The slip is the same: using a word with two different meanings in the same argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Equivocation** means Using a word with two different meanings in the same argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Equivocation = using one word in two different ways in the same argument.`,
   },
   698: {
-    beginner: `## Equivocation — in-depth (Beginner)
+    beginner: `Equivocation = using one word in two different ways inside the same argument.`,
+    detail: `Equivocation
 
-**What this is, in plain English**  
-Using a word with two different meanings in the same argument.
+Description:
+The argument switches meanings halfway through and acts as if nothing changed.
+One word can sound stable while secretly changing sense.
 
-**The example you’re looking at**  
-« Playing on words. »  
+Example (question)
+« Playing on words. »
+This is the exact kind of move the question is testing.
 
-**Why this is Equivocation**  
-Using a word with two different meanings in the same argument. That is what this label is pointing to in the passage above.
+Example (everyday)
+A bat is a mammal, so it can fly.
 
-**Takeaway**  
-Using a word with two different meanings in the same argument.`,
-    intermediate: `## Equivocation — in-depth (Intermediate)
+Example (another context)
+A word is used one way in the first line and a different way in the second.
 
-**What this is, in plain English**  
-Using a word with two different meanings in the same argument.
+How it works
+The conclusion only works because the key word shifts meaning.
 
-**This example**  
-« Playing on words. »  
+So:
+- A word can be ambiguous without the speaker noticing.
+- The argument looks valid only because the meaning moved.
+- Clear reasoning keeps terms fixed.
 
-The passage shows **Equivocation** in action: using a word with two different meanings in the same argument.
+Key concept inside it
+Ambiguous term:
+A word that changes meaning in the course of the argument.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Using a word with two different meanings in the same argument.
+Why it matters
+Explains why:
+- A hidden meaning shift can make a bad argument sound good.
+- The same word is not always the same claim.
+- If the term moves, the logic moves too.
 
-- **Example 2:** Another everyday spot: a family argument. Using a word with two different meanings in the same argument.
+The uncomfortable implication
+A clever word choice can smuggle in a false conclusion.
 
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using a word with two different meanings in the same argument.
-
-**In one sentence**  
-Equivocation is the label for reasoning that fits: Using a word with two different meanings in the same argument.`,
-    expert: `## Equivocation — in-depth (Expert)
-
-**Definition**  
-Using a word with two different meanings in the same argument.
-
-**Applied to this passage**  
-« Playing on words. »  
-
-Here, **Equivocation** is the right name because using a word with two different meanings in the same argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Using a word with two different meanings in the same argument.
-
-- **Example 2:** Another everyday spot: a family argument. Using a word with two different meanings in the same argument.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using a word with two different meanings in the same argument.
-
-- **Example 4:** Imagine sports or business results. The slip is the same: using a word with two different meanings in the same argument.
-
-- **Example 5:** Picture a family argument. People often reason as if using a word with two different meanings in the same argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Equivocation** means Using a word with two different meanings in the same argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Equivocation = using one word in two different ways in the same argument.`,
   },
   699: {
-    beginner: `## Equivocation — in-depth (Beginner)
+    beginner: `Equivocation = using one word in two different ways inside the same argument.`,
+    detail: `Equivocation
 
-**What this is, in plain English**  
-Using a word with two different meanings in the same argument.
+Description:
+The argument switches meanings halfway through and acts as if nothing changed.
+One word can sound stable while secretly changing sense.
 
-**The example you’re looking at**  
-« Ambiguous terms. »  
+Example (question)
+« Ambiguous terms. »
+This is the exact kind of move the question is testing.
 
-**Why this is Equivocation**  
-Using a word with two different meanings in the same argument. That is what this label is pointing to in the passage above.
+Example (everyday)
+A bat is a mammal, so it can fly.
 
-**Takeaway**  
-Using a word with two different meanings in the same argument.`,
-    intermediate: `## Equivocation — in-depth (Intermediate)
+Example (another context)
+A word is used one way in the first line and a different way in the second.
 
-**What this is, in plain English**  
-Using a word with two different meanings in the same argument.
+How it works
+The conclusion only works because the key word shifts meaning.
 
-**This example**  
-« Ambiguous terms. »  
+So:
+- A word can be ambiguous without the speaker noticing.
+- The argument looks valid only because the meaning moved.
+- Clear reasoning keeps terms fixed.
 
-The passage shows **Equivocation** in action: using a word with two different meanings in the same argument.
+Key concept inside it
+Ambiguous term:
+A word that changes meaning in the course of the argument.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Using a word with two different meanings in the same argument.
+Why it matters
+Explains why:
+- A hidden meaning shift can make a bad argument sound good.
+- The same word is not always the same claim.
+- If the term moves, the logic moves too.
 
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Using a word with two different meanings in the same argument.
+The uncomfortable implication
+A clever word choice can smuggle in a false conclusion.
 
-- **Example 3:** Imagine a health or habits story. The slip is the same: using a word with two different meanings in the same argument.
-
-**In one sentence**  
-Equivocation is the label for reasoning that fits: Using a word with two different meanings in the same argument.`,
-    expert: `## Equivocation — in-depth (Expert)
-
-**Definition**  
-Using a word with two different meanings in the same argument.
-
-**Applied to this passage**  
-« Ambiguous terms. »  
-
-Here, **Equivocation** is the right name because using a word with two different meanings in the same argument.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Using a word with two different meanings in the same argument.
-
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Using a word with two different meanings in the same argument.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: using a word with two different meanings in the same argument.
-
-- **Example 4:** Picture school grades or test scores. People often reason as if using a word with two different meanings in the same argument.
-
-- **Example 5:** In a news headline or social post, watch for this pattern: Using a word with two different meanings in the same argument.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Equivocation** means Using a word with two different meanings in the same argument.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Equivocation = using one word in two different ways in the same argument.`,
   },
   700: {
-    beginner: `## Existential Fallacy — in-depth (Beginner)
+    beginner: `Existential Fallacy = assuming something exists just because a universal statement sounds complete.`,
+    detail: `Existential Fallacy
 
-**What this is, in plain English**  
-Assuming existence from a universal claim.
+Description:
+A universal claim is treated as if it automatically proves that at least one real example exists.
+A sentence about “all” does not automatically create a real thing in the world.
 
-**The example you’re looking at**  
-« All unicorns are magical, so unicorns exist. »  
+Example (question)
+« All unicorns are magical, so unicorns exist. »
+This is the exact kind of move the question is testing.
 
-**Why this is Existential Fallacy**  
-Assuming existence from a universal claim. That is what this label is pointing to in the passage above.
+Example (everyday)
+From “all unicorns are magical,” someone jumps to “there must be unicorns.”
 
-**Takeaway**  
-Assuming existence from a universal claim.`,
-    intermediate: `## Existential Fallacy — in-depth (Intermediate)
+Example (another context)
+A broad rule is taken as proof that the thing named actually exists.
 
-**What this is, in plain English**  
-Assuming existence from a universal claim.
+How it works
+The argument mistakes a universal statement for evidence of existence.
 
-**This example**  
-« All unicorns are magical, so unicorns exist. »  
+So:
+- Universal language does not always imply a real instance.
+- Existence needs its own support.
+- A description is not the same thing as a proof that the thing exists.
 
-The passage shows **Existential Fallacy** in action: assuming existence from a universal claim.
+Key concept inside it
+Existence:
+Being real, not just being described.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Assuming existence from a universal claim.
+Why it matters
+Explains why:
+- You can talk about a category without proving any member exists.
+- A clean-looking universal statement can still be empty.
+- Existence claims need actual evidence.
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: assuming existence from a universal claim.
+The uncomfortable implication
+Language can make something sound real before it has been shown to exist.
 
-- **Example 3:** Picture sports or business results. People often reason as if assuming existence from a universal claim.
-
-**In one sentence**  
-Existential Fallacy is the label for reasoning that fits: Assuming existence from a universal claim.`,
-    expert: `## Existential Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming existence from a universal claim.
-
-**Applied to this passage**  
-« All unicorns are magical, so unicorns exist. »  
-
-Here, **Existential Fallacy** is the right name because assuming existence from a universal claim.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Assuming existence from a universal claim.
-
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: assuming existence from a universal claim.
-
-- **Example 3:** Picture sports or business results. People often reason as if assuming existence from a universal claim.
-
-- **Example 4:** In a family argument, watch for this pattern: Assuming existence from a universal claim.
-
-- **Example 5:** Another everyday spot: a policy or workplace discussion. Assuming existence from a universal claim.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Existential Fallacy** means Assuming existence from a universal claim.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Existential Fallacy = assuming existence from a universal statement.`,
   },
   701: {
-    beginner: `## Existential Fallacy — in-depth (Beginner)
+    beginner: `False Cause = treating correlation or sequence as proof of causation.`,
+    detail: `False Cause
 
-**What this is, in plain English**  
-Assuming existence from a universal claim.
+Description:
+Two things line up and the argument jumps to “therefore one caused the other.”
+Things can happen together without one causing the other.
 
-**The example you’re looking at**  
-« Universal implies existence. »  
+Example (question)
+« Universal implies existence. »
+This is the exact kind of move the question is testing.
 
-**Why this is Existential Fallacy**  
-Assuming existence from a universal claim. That is what this label is pointing to in the passage above.
+Example (everyday)
+Ice cream sales and drownings rise in summer, so ice cream must cause drownings.
 
-**Takeaway**  
-Assuming existence from a universal claim.`,
-    intermediate: `## Existential Fallacy — in-depth (Intermediate)
+Example (another context)
+A change happens after another event, so the first event is blamed for it.
 
-**What this is, in plain English**  
-Assuming existence from a universal claim.
+How it works
+The timing or pattern is mistaken for a causal link.
 
-**This example**  
-« Universal implies existence. »  
+So:
+- Correlation is not causation.
+- Sequence is not proof of cause.
+- Other explanations still matter.
 
-The passage shows **Existential Fallacy** in action: assuming existence from a universal claim.
+Key concept inside it
+Causation:
+One thing genuinely producing another.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: assuming existence from a universal claim.
+Why it matters
+Explains why:
+- A pattern alone does not prove a cause.
+- The wrong cause can lead to the wrong fix.
+- Good reasoning checks for alternative explanations.
 
-- **Example 2:** Picture a health or habits story. People often reason as if assuming existence from a universal claim.
+The uncomfortable implication
+A neat story about cause can be completely wrong.
 
-- **Example 3:** In school grades or test scores, watch for this pattern: Assuming existence from a universal claim.
-
-**In one sentence**  
-Existential Fallacy is the label for reasoning that fits: Assuming existence from a universal claim.`,
-    expert: `## Existential Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming existence from a universal claim.
-
-**Applied to this passage**  
-« Universal implies existence. »  
-
-Here, **Existential Fallacy** is the right name because assuming existence from a universal claim.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: assuming existence from a universal claim.
-
-- **Example 2:** Picture a health or habits story. People often reason as if assuming existence from a universal claim.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: Assuming existence from a universal claim.
-
-- **Example 4:** Another everyday spot: a news headline or social post. Assuming existence from a universal claim.
-
-- **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Assuming existence from a universal claim.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Existential Fallacy** means Assuming existence from a universal claim.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Cause = treating correlation or timing as proof of causation.`,
   },
   702: {
-    beginner: `## Existential Fallacy — in-depth (Beginner)
+    beginner: `False Cause = treating correlation or sequence as proof of causation.`,
+    detail: `False Cause
 
-**What this is, in plain English**  
-Assuming existence from a universal claim.
+Description:
+Two things line up and the argument jumps to “therefore one caused the other.”
+Things can happen together without one causing the other.
 
-**The example you’re looking at**  
-« Faulty existential claim. »  
+Example (question)
+« Faulty existential claim. »
+This is the exact kind of move the question is testing.
 
-**Why this is Existential Fallacy**  
-Assuming existence from a universal claim. That is what this label is pointing to in the passage above.
+Example (everyday)
+Ice cream sales and drownings rise in summer, so ice cream must cause drownings.
 
-**Takeaway**  
-Assuming existence from a universal claim.`,
-    intermediate: `## Existential Fallacy — in-depth (Intermediate)
+Example (another context)
+A change happens after another event, so the first event is blamed for it.
 
-**What this is, in plain English**  
-Assuming existence from a universal claim.
+How it works
+The timing or pattern is mistaken for a causal link.
 
-**This example**  
-« Faulty existential claim. »  
+So:
+- Correlation is not causation.
+- Sequence is not proof of cause.
+- Other explanations still matter.
 
-The passage shows **Existential Fallacy** in action: assuming existence from a universal claim.
+Key concept inside it
+Causation:
+One thing genuinely producing another.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if assuming existence from a universal claim.
+Why it matters
+Explains why:
+- A pattern alone does not prove a cause.
+- The wrong cause can lead to the wrong fix.
+- Good reasoning checks for alternative explanations.
 
-- **Example 2:** In sports or business results, watch for this pattern: Assuming existence from a universal claim.
+The uncomfortable implication
+A neat story about cause can be completely wrong.
 
-- **Example 3:** Another everyday spot: a family argument. Assuming existence from a universal claim.
-
-**In one sentence**  
-Existential Fallacy is the label for reasoning that fits: Assuming existence from a universal claim.`,
-    expert: `## Existential Fallacy — in-depth (Expert)
-
-**Definition**  
-Assuming existence from a universal claim.
-
-**Applied to this passage**  
-« Faulty existential claim. »  
-
-Here, **Existential Fallacy** is the right name because assuming existence from a universal claim.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if assuming existence from a universal claim.
-
-- **Example 2:** In sports or business results, watch for this pattern: Assuming existence from a universal claim.
-
-- **Example 3:** Another everyday spot: a family argument. Assuming existence from a universal claim.
-
-- **Example 4:** **Setting:** a policy or workplace discussion. **What goes wrong:** Assuming existence from a universal claim.
-
-- **Example 5:** Imagine sports or business results. The slip is the same: assuming existence from a universal claim.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Existential Fallacy** means Assuming existence from a universal claim.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Cause = treating correlation or timing as proof of causation.`,
   },
   703: {
-    beginner: `## False Cause — in-depth (Beginner)
+    beginner: `False Cause = treating correlation or sequence as proof of causation.`,
+    detail: `False Cause
 
-**What this is, in plain English**  
-Assuming correlation implies causation.
+Description:
+Two things line up and the argument jumps to “therefore one caused the other.”
+Things can happen together without one causing the other.
 
-**The example you’re looking at**  
-« Ice cream sales and drownings both rise in summer, so ice cream causes drownings. »  
+Example (question)
+« Ice cream sales and drownings both rise in summer, so ice cream causes drownings. »
+This is the exact kind of move the question is testing.
 
-**Why this is False Cause**  
-Assuming correlation implies causation. That is what this label is pointing to in the passage above.
+Example (everyday)
+Ice cream sales and drownings rise in summer, so ice cream must cause drownings.
 
-**Takeaway**  
-Assuming correlation implies causation.`,
-    intermediate: `## False Cause — in-depth (Intermediate)
+Example (another context)
+A change happens after another event, so the first event is blamed for it.
 
-**What this is, in plain English**  
-Assuming correlation implies causation.
+How it works
+The timing or pattern is mistaken for a causal link.
 
-**This example**  
-« Ice cream sales and drownings both rise in summer, so ice cream causes drownings. »  
+So:
+- Correlation is not causation.
+- Sequence is not proof of cause.
+- Other explanations still matter.
 
-The passage shows **False Cause** in action: assuming correlation implies causation.
+Key concept inside it
+Causation:
+One thing genuinely producing another.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Assuming correlation implies causation.
+Why it matters
+Explains why:
+- A pattern alone does not prove a cause.
+- The wrong cause can lead to the wrong fix.
+- Good reasoning checks for alternative explanations.
 
-- **Example 2:** Another everyday spot: school grades or test scores. Assuming correlation implies causation.
+The uncomfortable implication
+A neat story about cause can be completely wrong.
 
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Assuming correlation implies causation.
-
-**In one sentence**  
-False Cause is the label for reasoning that fits: Assuming correlation implies causation.`,
-    expert: `## False Cause — in-depth (Expert)
-
-**Definition**  
-Assuming correlation implies causation.
-
-**Applied to this passage**  
-« Ice cream sales and drownings both rise in summer, so ice cream causes drownings. »  
-
-Here, **False Cause** is the right name because assuming correlation implies causation.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Assuming correlation implies causation.
-
-- **Example 2:** Another everyday spot: school grades or test scores. Assuming correlation implies causation.
-
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Assuming correlation implies causation.
-
-- **Example 4:** Imagine a health or habits story. The slip is the same: assuming correlation implies causation.
-
-- **Example 5:** Picture school grades or test scores. People often reason as if assuming correlation implies causation.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Cause** means Assuming correlation implies causation.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Cause = treating correlation or timing as proof of causation.`,
   },
   704: {
-    beginner: `## False Cause — in-depth (Beginner)
+    beginner: `False Cause = treating correlation or sequence as proof of causation.`,
+    detail: `False Cause
 
-**What this is, in plain English**  
-Assuming correlation implies causation.
+Description:
+Two things line up and the argument jumps to “therefore one caused the other.”
+Things can happen together without one causing the other.
 
-**The example you’re looking at**  
-« Post hoc ergo propter hoc. »  
+Example (question)
+« Post hoc ergo propter hoc. »
+This is the exact kind of move the question is testing.
 
-**Why this is False Cause**  
-Assuming correlation implies causation. That is what this label is pointing to in the passage above.
+Example (everyday)
+Ice cream sales and drownings rise in summer, so ice cream must cause drownings.
 
-**Takeaway**  
-Assuming correlation implies causation.`,
-    intermediate: `## False Cause — in-depth (Intermediate)
+Example (another context)
+A change happens after another event, so the first event is blamed for it.
 
-**What this is, in plain English**  
-Assuming correlation implies causation.
+How it works
+The timing or pattern is mistaken for a causal link.
 
-**This example**  
-« Post hoc ergo propter hoc. »  
+So:
+- Correlation is not causation.
+- Sequence is not proof of cause.
+- Other explanations still matter.
 
-The passage shows **False Cause** in action: assuming correlation implies causation.
+Key concept inside it
+Causation:
+One thing genuinely producing another.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Assuming correlation implies causation.
+Why it matters
+Explains why:
+- A pattern alone does not prove a cause.
+- The wrong cause can lead to the wrong fix.
+- Good reasoning checks for alternative explanations.
 
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Assuming correlation implies causation.
+The uncomfortable implication
+A neat story about cause can be completely wrong.
 
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: assuming correlation implies causation.
-
-**In one sentence**  
-False Cause is the label for reasoning that fits: Assuming correlation implies causation.`,
-    expert: `## False Cause — in-depth (Expert)
-
-**Definition**  
-Assuming correlation implies causation.
-
-**Applied to this passage**  
-« Post hoc ergo propter hoc. »  
-
-Here, **False Cause** is the right name because assuming correlation implies causation.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Assuming correlation implies causation.
-
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Assuming correlation implies causation.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: assuming correlation implies causation.
-
-- **Example 4:** Picture sports or business results. People often reason as if assuming correlation implies causation.
-
-- **Example 5:** In a family argument, watch for this pattern: Assuming correlation implies causation.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Cause** means Assuming correlation implies causation.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Cause = treating correlation or timing as proof of causation.`,
   },
   705: {
-    beginner: `## False Cause — in-depth (Beginner)
+    beginner: `False Cause = treating correlation or sequence as proof of causation.`,
+    detail: `False Cause
 
-**What this is, in plain English**  
-Assuming correlation implies causation.
+Description:
+Two things line up and the argument jumps to “therefore one caused the other.”
+Things can happen together without one causing the other.
 
-**The example you’re looking at**  
-« Misattributing cause. »  
+Example (question)
+« Misattributing cause. »
+This is the exact kind of move the question is testing.
 
-**Why this is False Cause**  
-Assuming correlation implies causation. That is what this label is pointing to in the passage above.
+Example (everyday)
+Ice cream sales and drownings rise in summer, so ice cream must cause drownings.
 
-**Takeaway**  
-Assuming correlation implies causation.`,
-    intermediate: `## False Cause — in-depth (Intermediate)
+Example (another context)
+A change happens after another event, so the first event is blamed for it.
 
-**What this is, in plain English**  
-Assuming correlation implies causation.
+How it works
+The timing or pattern is mistaken for a causal link.
 
-**This example**  
-« Misattributing cause. »  
+So:
+- Correlation is not causation.
+- Sequence is not proof of cause.
+- Other explanations still matter.
 
-The passage shows **False Cause** in action: assuming correlation implies causation.
+Key concept inside it
+Causation:
+One thing genuinely producing another.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Assuming correlation implies causation.
+Why it matters
+Explains why:
+- A pattern alone does not prove a cause.
+- The wrong cause can lead to the wrong fix.
+- Good reasoning checks for alternative explanations.
 
-- **Example 2:** Imagine a news headline or social post. The slip is the same: assuming correlation implies causation.
+The uncomfortable implication
+A neat story about cause can be completely wrong.
 
-- **Example 3:** Picture a health or habits story. People often reason as if assuming correlation implies causation.
-
-**In one sentence**  
-False Cause is the label for reasoning that fits: Assuming correlation implies causation.`,
-    expert: `## False Cause — in-depth (Expert)
-
-**Definition**  
-Assuming correlation implies causation.
-
-**Applied to this passage**  
-« Misattributing cause. »  
-
-Here, **False Cause** is the right name because assuming correlation implies causation.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Assuming correlation implies causation.
-
-- **Example 2:** Imagine a news headline or social post. The slip is the same: assuming correlation implies causation.
-
-- **Example 3:** Picture a health or habits story. People often reason as if assuming correlation implies causation.
-
-- **Example 4:** In school grades or test scores, watch for this pattern: Assuming correlation implies causation.
-
-- **Example 5:** Another everyday spot: a news headline or social post. Assuming correlation implies causation.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Cause** means Assuming correlation implies causation.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Cause = treating correlation or timing as proof of causation.`,
   },
   706: {
-    beginner: `## False Premise — in-depth (Beginner)
+    beginner: `False Premise = building an argument on a statement that is wrong.`,
+    detail: `False Premise
 
-**What this is, in plain English**  
-Building an argument on a false assumption.
+Description:
+The reasoning starts from a fact that is simply not true.
+A valid-looking structure still fails if the starting point is false.
 
-**The example you’re looking at**  
-« Assuming a fact that's wrong. »  
+Example (question)
+« Assuming a fact that's wrong. »
+This is the exact kind of move the question is testing.
 
-**Why this is False Premise**  
-Building an argument on a false assumption. That is what this label is pointing to in the passage above.
+Example (everyday)
+A conclusion is built on a lie or a mistaken fact.
 
-**Takeaway**  
-Building an argument on a false assumption.`,
-    intermediate: `## False Premise — in-depth (Intermediate)
+Example (another context)
+Someone reasons carefully from a premise that was never true in the first place.
 
-**What this is, in plain English**  
-Building an argument on a false assumption.
+How it works
+The whole argument inherits the error in its starting assumption.
 
-**This example**  
-« Assuming a fact that's wrong. »  
+So:
+- A false start can make the rest of the logic pointless.
+- Good structure cannot rescue bad facts.
+- Check the premise before you trust the conclusion.
 
-The passage shows **False Premise** in action: building an argument on a false assumption.
+Key concept inside it
+Premise:
+A starting statement used to build an argument.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: building an argument on a false assumption.
+Why it matters
+Explains why:
+- If the premise is wrong, the conclusion may collapse too.
+- A neat chain of reasoning is useless if the first link breaks.
+- Truth at the start matters just as much as logic along the way.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if building an argument on a false assumption.
+The uncomfortable implication
+A polished argument can still stand on a false base.
 
-- **Example 3:** In sports or business results, watch for this pattern: Building an argument on a false assumption.
-
-**In one sentence**  
-False Premise is the label for reasoning that fits: Building an argument on a false assumption.`,
-    expert: `## False Premise — in-depth (Expert)
-
-**Definition**  
-Building an argument on a false assumption.
-
-**Applied to this passage**  
-« Assuming a fact that's wrong. »  
-
-Here, **False Premise** is the right name because building an argument on a false assumption.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: building an argument on a false assumption.
-
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if building an argument on a false assumption.
-
-- **Example 3:** In sports or business results, watch for this pattern: Building an argument on a false assumption.
-
-- **Example 4:** Another everyday spot: a family argument. Building an argument on a false assumption.
-
-- **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Building an argument on a false assumption.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Premise** means Building an argument on a false assumption.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Premise = building an argument on a statement that is wrong.`,
   },
   707: {
-    beginner: `## False Premise — in-depth (Beginner)
+    beginner: `False Premise = building an argument on a statement that is wrong.`,
+    detail: `False Premise
 
-**What this is, in plain English**  
-Building an argument on a false assumption.
+Description:
+The reasoning starts from a fact that is simply not true.
+A valid-looking structure still fails if the starting point is false.
 
-**The example you’re looking at**  
-« Building on lies. »  
+Example (question)
+« Building on lies. »
+This is the exact kind of move the question is testing.
 
-**Why this is False Premise**  
-Building an argument on a false assumption. That is what this label is pointing to in the passage above.
+Example (everyday)
+A conclusion is built on a lie or a mistaken fact.
 
-**Takeaway**  
-Building an argument on a false assumption.`,
-    intermediate: `## False Premise — in-depth (Intermediate)
+Example (another context)
+Someone reasons carefully from a premise that was never true in the first place.
 
-**What this is, in plain English**  
-Building an argument on a false assumption.
+How it works
+The whole argument inherits the error in its starting assumption.
 
-**This example**  
-« Building on lies. »  
+So:
+- A false start can make the rest of the logic pointless.
+- Good structure cannot rescue bad facts.
+- Check the premise before you trust the conclusion.
 
-The passage shows **False Premise** in action: building an argument on a false assumption.
+Key concept inside it
+Premise:
+A starting statement used to build an argument.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if building an argument on a false assumption.
+Why it matters
+Explains why:
+- If the premise is wrong, the conclusion may collapse too.
+- A neat chain of reasoning is useless if the first link breaks.
+- Truth at the start matters just as much as logic along the way.
 
-- **Example 2:** In a health or habits story, watch for this pattern: Building an argument on a false assumption.
+The uncomfortable implication
+A polished argument can still stand on a false base.
 
-- **Example 3:** Another everyday spot: school grades or test scores. Building an argument on a false assumption.
-
-**In one sentence**  
-False Premise is the label for reasoning that fits: Building an argument on a false assumption.`,
-    expert: `## False Premise — in-depth (Expert)
-
-**Definition**  
-Building an argument on a false assumption.
-
-**Applied to this passage**  
-« Building on lies. »  
-
-Here, **False Premise** is the right name because building an argument on a false assumption.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if building an argument on a false assumption.
-
-- **Example 2:** In a health or habits story, watch for this pattern: Building an argument on a false assumption.
-
-- **Example 3:** Another everyday spot: school grades or test scores. Building an argument on a false assumption.
-
-- **Example 4:** **Setting:** a news headline or social post. **What goes wrong:** Building an argument on a false assumption.
-
-- **Example 5:** Imagine a health or habits story. The slip is the same: building an argument on a false assumption.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Premise** means Building an argument on a false assumption.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Premise = building an argument on a statement that is wrong.`,
   },
   708: {
-    beginner: `## False Premise — in-depth (Beginner)
+    beginner: `False Premise = building an argument on a statement that is wrong.`,
+    detail: `False Premise
 
-**What this is, in plain English**  
-Building an argument on a false assumption.
+Description:
+The reasoning starts from a fact that is simply not true.
+A valid-looking structure still fails if the starting point is false.
 
-**The example you’re looking at**  
-« Invalid foundation. »  
+Example (question)
+« Invalid foundation. »
+This is the exact kind of move the question is testing.
 
-**Why this is False Premise**  
-Building an argument on a false assumption. That is what this label is pointing to in the passage above.
+Example (everyday)
+A conclusion is built on a lie or a mistaken fact.
 
-**Takeaway**  
-Building an argument on a false assumption.`,
-    intermediate: `## False Premise — in-depth (Intermediate)
+Example (another context)
+Someone reasons carefully from a premise that was never true in the first place.
 
-**What this is, in plain English**  
-Building an argument on a false assumption.
+How it works
+The whole argument inherits the error in its starting assumption.
 
-**This example**  
-« Invalid foundation. »  
+So:
+- A false start can make the rest of the logic pointless.
+- Good structure cannot rescue bad facts.
+- Check the premise before you trust the conclusion.
 
-The passage shows **False Premise** in action: building an argument on a false assumption.
+Key concept inside it
+Premise:
+A starting statement used to build an argument.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Building an argument on a false assumption.
+Why it matters
+Explains why:
+- If the premise is wrong, the conclusion may collapse too.
+- A neat chain of reasoning is useless if the first link breaks.
+- Truth at the start matters just as much as logic along the way.
 
-- **Example 2:** Another everyday spot: sports or business results. Building an argument on a false assumption.
+The uncomfortable implication
+A polished argument can still stand on a false base.
 
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Building an argument on a false assumption.
-
-**In one sentence**  
-False Premise is the label for reasoning that fits: Building an argument on a false assumption.`,
-    expert: `## False Premise — in-depth (Expert)
-
-**Definition**  
-Building an argument on a false assumption.
-
-**Applied to this passage**  
-« Invalid foundation. »  
-
-Here, **False Premise** is the right name because building an argument on a false assumption.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Building an argument on a false assumption.
-
-- **Example 2:** Another everyday spot: sports or business results. Building an argument on a false assumption.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Building an argument on a false assumption.
-
-- **Example 4:** Imagine a policy or workplace discussion. The slip is the same: building an argument on a false assumption.
-
-- **Example 5:** Picture sports or business results. People often reason as if building an argument on a false assumption.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**False Premise** means Building an argument on a false assumption.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+False Premise = building an argument on a statement that is wrong.`,
   },
   709: {
-    beginner: `## Faulty Analogy — in-depth (Beginner)
+    beginner: `Faulty Analogy = drawing a conclusion from a comparison that is too weak.`,
+    detail: `Faulty Analogy
 
-**What this is, in plain English**  
-Drawing a conclusion from a weak comparison.
+Description:
+The argument compares two things that look alike in a way that does not really support the conclusion.
+A resemblance can be real and still not be relevant enough.
 
-**The example you’re looking at**  
-« Comparing unlike things. »  
+Example (question)
+« Comparing unlike things. »
+This is the exact kind of move the question is testing.
 
-**Why this is Faulty Analogy**  
-Drawing a conclusion from a weak comparison. That is what this label is pointing to in the passage above.
+Example (everyday)
+A car is compared to a bicycle to prove they should be treated the same.
 
-**Takeaway**  
-Drawing a conclusion from a weak comparison.`,
-    intermediate: `## Faulty Analogy — in-depth (Intermediate)
+Example (another context)
+Two unlike things are matched up and treated as if the comparison were decisive.
 
-**What this is, in plain English**  
-Drawing a conclusion from a weak comparison.
+How it works
+The comparison leaves out the differences that matter most.
 
-**This example**  
-« Comparing unlike things. »  
+So:
+- A good analogy depends on the right similarities.
+- Weak similarities do not carry the conclusion far enough.
+- The important question is whether the comparison really fits.
 
-The passage shows **Faulty Analogy** in action: drawing a conclusion from a weak comparison.
+Key concept inside it
+Analogy:
+A comparison used to help support a claim.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Drawing a conclusion from a weak comparison.
+Why it matters
+Explains why:
+- Not every resemblance matters to the argument.
+- A weak comparison can make a bad conclusion feel obvious.
+- Good analogies highlight the same important structure.
 
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Drawing a conclusion from a weak comparison.
+The uncomfortable implication
+A catchy comparison can hide a bad leap.
 
-- **Example 3:** Imagine a news headline or social post. The slip is the same: drawing a conclusion from a weak comparison.
-
-**In one sentence**  
-Faulty Analogy is the label for reasoning that fits: Drawing a conclusion from a weak comparison.`,
-    expert: `## Faulty Analogy — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion from a weak comparison.
-
-**Applied to this passage**  
-« Comparing unlike things. »  
-
-Here, **Faulty Analogy** is the right name because drawing a conclusion from a weak comparison.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Drawing a conclusion from a weak comparison.
-
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Drawing a conclusion from a weak comparison.
-
-- **Example 3:** Imagine a news headline or social post. The slip is the same: drawing a conclusion from a weak comparison.
-
-- **Example 4:** Picture a health or habits story. People often reason as if drawing a conclusion from a weak comparison.
-
-- **Example 5:** In school grades or test scores, watch for this pattern: Drawing a conclusion from a weak comparison.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Faulty Analogy** means Drawing a conclusion from a weak comparison.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Faulty Analogy = using a weak comparison to support a conclusion.`,
   },
   710: {
-    beginner: `## Faulty Analogy — in-depth (Beginner)
+    beginner: `Faulty Analogy = drawing a conclusion from a comparison that is too weak.`,
+    detail: `Faulty Analogy
 
-**What this is, in plain English**  
-Drawing a conclusion from a weak comparison.
+Description:
+The argument compares two things that look alike in a way that does not really support the conclusion.
+A resemblance can be real and still not be relevant enough.
 
-**The example you’re looking at**  
-« Weak similarities. »  
+Example (question)
+« Weak similarities. »
+This is the exact kind of move the question is testing.
 
-**Why this is Faulty Analogy**  
-Drawing a conclusion from a weak comparison. That is what this label is pointing to in the passage above.
+Example (everyday)
+A car is compared to a bicycle to prove they should be treated the same.
 
-**Takeaway**  
-Drawing a conclusion from a weak comparison.`,
-    intermediate: `## Faulty Analogy — in-depth (Intermediate)
+Example (another context)
+Two unlike things are matched up and treated as if the comparison were decisive.
 
-**What this is, in plain English**  
-Drawing a conclusion from a weak comparison.
+How it works
+The comparison leaves out the differences that matter most.
 
-**This example**  
-« Weak similarities. »  
+So:
+- A good analogy depends on the right similarities.
+- Weak similarities do not carry the conclusion far enough.
+- The important question is whether the comparison really fits.
 
-The passage shows **Faulty Analogy** in action: drawing a conclusion from a weak comparison.
+Key concept inside it
+Analogy:
+A comparison used to help support a claim.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Drawing a conclusion from a weak comparison.
+Why it matters
+Explains why:
+- Not every resemblance matters to the argument.
+- A weak comparison can make a bad conclusion feel obvious.
+- Good analogies highlight the same important structure.
 
-- **Example 2:** Imagine a family argument. The slip is the same: drawing a conclusion from a weak comparison.
+The uncomfortable implication
+A catchy comparison can hide a bad leap.
 
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if drawing a conclusion from a weak comparison.
-
-**In one sentence**  
-Faulty Analogy is the label for reasoning that fits: Drawing a conclusion from a weak comparison.`,
-    expert: `## Faulty Analogy — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion from a weak comparison.
-
-**Applied to this passage**  
-« Weak similarities. »  
-
-Here, **Faulty Analogy** is the right name because drawing a conclusion from a weak comparison.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Drawing a conclusion from a weak comparison.
-
-- **Example 2:** Imagine a family argument. The slip is the same: drawing a conclusion from a weak comparison.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if drawing a conclusion from a weak comparison.
-
-- **Example 4:** In sports or business results, watch for this pattern: Drawing a conclusion from a weak comparison.
-
-- **Example 5:** Another everyday spot: a family argument. Drawing a conclusion from a weak comparison.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Faulty Analogy** means Drawing a conclusion from a weak comparison.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Faulty Analogy = using a weak comparison to support a conclusion.`,
   },
+
   711: {
     beginner: `## Faulty Analogy — in-depth (Beginner)
 
@@ -60959,1895 +60330,1266 @@ En une phrase
 Fausse dichotomie = forcer un problème à n’avoir que deux choix.`,
   },
   681: {
-    beginner: `## Kafka-trapping — approfondi (Débutant)
+    beginner: `Fausse dichotomie = forcer un problème à n’avoir que deux choix.`,
+    detail: `Fausse dichotomie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+Description :
+On présente une situation comme si elle n’avait que deux options alors qu’il en existe d’autres.
+Les vrais problèmes ont rarement une forme binaire.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Kafka-trapping**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Un débat est présenté comme une victoire totale ou un échec total.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.`,
-    intermediate: `## Kafka-trapping — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On dit à quelqu’un : « avec nous ou contre nous ». 
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+Comment ça fonctionne
+On efface les solutions intermédiaires pour faire croire que le choix est plus simple qu’il ne l’est.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Un faux choix peut faire paraître un sujet complexe très net.
+- La nuance disparaît.
+- Le bon raisonnement cherche les options manquantes.
 
-Le passage montre **Kafka-trapping** : une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+Concept clé
+Deux options:
+Un faux choix qui ignore les autres possibilités.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Beaucoup de problèmes réels ont plus de deux réponses possibles.
+- Un choix forcé peut cacher la meilleure option.
+- Le cadrage binaire peut faire croire qu’un sujet est réglé.
 
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
+L'implication inconfortable
+Un faux choix propre peut déformer un problème réel.
 
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Kafka-trapping**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.`,
-    expert: `## Kafka-trapping — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Kafka-trapping** convient parce que une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Kafka-trapping**, c’est Une erreur logique ou un biais cognitif impliquant Kafka-trapping, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Fausse dichotomie = forcer un problème à n’avoir que deux choix.`,
   },
   682: {
-    beginner: `## Exception that proves the rule — approfondi (Débutant)
+    beginner: `Fausse dichotomie = forcer un problème à n’avoir que deux choix.`,
+    detail: `Fausse dichotomie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+Description :
+On présente une situation comme si elle n’avait que deux options alors qu’il en existe d’autres.
+Les vrais problèmes ont rarement une forme binaire.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Exception that proves the rule**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Un débat est présenté comme une victoire totale ou un échec total.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.`,
-    intermediate: `## Exception that proves the rule — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On dit à quelqu’un : « avec nous ou contre nous ». 
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+Comment ça fonctionne
+On efface les solutions intermédiaires pour faire croire que le choix est plus simple qu’il ne l’est.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Un faux choix peut faire paraître un sujet complexe très net.
+- La nuance disparaît.
+- Le bon raisonnement cherche les options manquantes.
 
-Le passage montre **Exception that proves the rule** : une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+Concept clé
+Deux options:
+Un faux choix qui ignore les autres possibilités.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Beaucoup de problèmes réels ont plus de deux réponses possibles.
+- Un choix forcé peut cacher la meilleure option.
+- Le cadrage binaire peut faire croire qu’un sujet est réglé.
 
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+L'implication inconfortable
+Un faux choix propre peut déformer un problème réel.
 
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Exception that proves the rule**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.`,
-    expert: `## Exception that proves the rule — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Exception that proves the rule** convient parce que une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Exception that proves the rule**, c’est Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Fausse dichotomie = forcer un problème à n’avoir que deux choix.`,
   },
   683: {
-    beginner: `## Exception that proves the rule — approfondi (Débutant)
+    beginner: `Fausse dichotomie = forcer un problème à n’avoir que deux choix.`,
+    detail: `Fausse dichotomie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+Description :
+On présente une situation comme si elle n’avait que deux options alors qu’il en existe d’autres.
+Les vrais problèmes ont rarement une forme binaire.
 
-**L’exemple affiché**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Exemple (question)
+« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Exception that proves the rule**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Un débat est présenté comme une victoire totale ou un échec total.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.`,
-    intermediate: `## Exception that proves the rule — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On dit à quelqu’un : « avec nous ou contre nous ». 
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+Comment ça fonctionne
+On efface les solutions intermédiaires pour faire croire que le choix est plus simple qu’il ne l’est.
 
-**Cet exemple**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
+Donc :
+- Un faux choix peut faire paraître un sujet complexe très net.
+- La nuance disparaît.
+- Le bon raisonnement cherche les options manquantes.
 
-Le passage montre **Exception that proves the rule** : une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+Concept clé
+Deux options:
+Un faux choix qui ignore les autres possibilités.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Beaucoup de problèmes réels ont plus de deux réponses possibles.
+- Un choix forcé peut cacher la meilleure option.
+- Le cadrage binaire peut faire croire qu’un sujet est réglé.
 
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+L'implication inconfortable
+Un faux choix propre peut déformer un problème réel.
 
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Exception that proves the rule**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.`,
-    expert: `## Exception that proves the rule — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Vous remettez en question la sécurité de la centrale ? Vous devez être un agent pour une faction rivale. »  
-
-Ici, **Exception that proves the rule** convient parce que une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Exception that proves the rule**, c’est Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Fausse dichotomie = forcer un problème à n’avoir que deux choix.`,
   },
   684: {
-    beginner: `## Exception that proves the rule — approfondi (Débutant)
+    beginner: `Fausse dichotomie = forcer un problème à n’avoir que deux choix.`,
+    detail: `Fausse dichotomie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+Description :
+On présente une situation comme si elle n’avait que deux options alors qu’il en existe d’autres.
+Les vrais problèmes ont rarement une forme binaire.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Exception that proves the rule**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Un débat est présenté comme une victoire totale ou un échec total.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.`,
-    intermediate: `## Exception that proves the rule — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On dit à quelqu’un : « avec nous ou contre nous ». 
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+Comment ça fonctionne
+On efface les solutions intermédiaires pour faire croire que le choix est plus simple qu’il ne l’est.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Un faux choix peut faire paraître un sujet complexe très net.
+- La nuance disparaît.
+- Le bon raisonnement cherche les options manquantes.
 
-Le passage montre **Exception that proves the rule** : une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+Concept clé
+Deux options:
+Un faux choix qui ignore les autres possibilités.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Beaucoup de problèmes réels ont plus de deux réponses possibles.
+- Un choix forcé peut cacher la meilleure option.
+- Le cadrage binaire peut faire croire qu’un sujet est réglé.
 
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
+L'implication inconfortable
+Un faux choix propre peut déformer un problème réel.
 
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Exception that proves the rule**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.`,
-    expert: `## Exception that proves the rule — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Exception that proves the rule** convient parce que une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Exception that proves the rule**, c’est Une erreur logique ou un biais cognitif impliquant Exception that proves the rule, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Fausse dichotomie = forcer un problème à n’avoir que deux choix.`,
   },
   685: {
-    beginner: `## Just-world hypothesis — approfondi (Débutant)
+    beginner: `Charge de la preuve = faire porter à l’autre la preuve de votre affirmation.`,
+    detail: `Charge de la preuve
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+Description :
+La personne qui affirme quelque chose essaie de faire tout prouver par son opposant.
+Une affirmation a besoin de soutien même si personne ne l’a encore réfutée.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Just-world hypothesis**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Quelqu’un dit « prouvez-moi que j’ai tort » au lieu de donner des raisons.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.`,
-    intermediate: `## Just-world hypothesis — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Un intervenant exige une réfutation tout en n’apportant rien lui-même.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+Comment ça fonctionne
+La responsabilité de justifier l’affirmation est renvoyée à l’autre côté.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- L’absence de réfutation n’est pas une preuve.
+- La personne qui avance l’idée doit en porter la charge.
+- Défier l’autre ne remplace pas les preuves.
 
-Le passage montre **Just-world hypothesis** : une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+Concept clé
+Charge:
+Le devoir de fournir des raisons pour une affirmation.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un argument a besoin de soutien, pas seulement d’un défi adressé aux autres.
+- Une affirmation sans preuve reste une affirmation.
+- Déplacer la charge permet d’éviter la justification.
 
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+L'implication inconfortable
+On peut paraître sûr de soi tout en évitant de prouver quoi que ce soit.
 
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Just-world hypothesis**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.`,
-    expert: `## Just-world hypothesis — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Just-world hypothesis** convient parce que une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Just-world hypothesis**, c’est Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Charge de la preuve = demander aux autres de réfuter votre affirmation au lieu de la soutenir.`,
   },
   686: {
-    beginner: `## Just-world hypothesis — approfondi (Débutant)
+    beginner: `Charge de la preuve = faire porter à l’autre la preuve de votre affirmation.`,
+    detail: `Charge de la preuve
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+Description :
+La personne qui affirme quelque chose essaie de faire tout prouver par son opposant.
+Une affirmation a besoin de soutien même si personne ne l’a encore réfutée.
 
-**L’exemple affiché**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Exemple (question)
+« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Just-world hypothesis**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Quelqu’un dit « prouvez-moi que j’ai tort » au lieu de donner des raisons.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.`,
-    intermediate: `## Just-world hypothesis — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Un intervenant exige une réfutation tout en n’apportant rien lui-même.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+Comment ça fonctionne
+La responsabilité de justifier l’affirmation est renvoyée à l’autre côté.
 
-**Cet exemple**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
+Donc :
+- L’absence de réfutation n’est pas une preuve.
+- La personne qui avance l’idée doit en porter la charge.
+- Défier l’autre ne remplace pas les preuves.
 
-Le passage montre **Just-world hypothesis** : une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+Concept clé
+Charge:
+Le devoir de fournir des raisons pour une affirmation.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un argument a besoin de soutien, pas seulement d’un défi adressé aux autres.
+- Une affirmation sans preuve reste une affirmation.
+- Déplacer la charge permet d’éviter la justification.
 
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+L'implication inconfortable
+On peut paraître sûr de soi tout en évitant de prouver quoi que ce soit.
 
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Just-world hypothesis**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.`,
-    expert: `## Just-world hypothesis — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Ce protocole est la norme depuis cinquante ans. Le changer serait un acte dangereux et irresponsable. »  
-
-Ici, **Just-world hypothesis** convient parce que une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Just-world hypothesis**, c’est Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Charge de la preuve = demander aux autres de réfuter votre affirmation au lieu de la soutenir.`,
   },
   687: {
-    beginner: `## Just-world hypothesis — approfondi (Débutant)
+    beginner: `Charge de la preuve = faire porter à l’autre la preuve de votre affirmation.`,
+    detail: `Charge de la preuve
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+Description :
+La personne qui affirme quelque chose essaie de faire tout prouver par son opposant.
+Une affirmation a besoin de soutien même si personne ne l’a encore réfutée.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Just-world hypothesis**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Quelqu’un dit « prouvez-moi que j’ai tort » au lieu de donner des raisons.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.`,
-    intermediate: `## Just-world hypothesis — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Un intervenant exige une réfutation tout en n’apportant rien lui-même.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+Comment ça fonctionne
+La responsabilité de justifier l’affirmation est renvoyée à l’autre côté.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- L’absence de réfutation n’est pas une preuve.
+- La personne qui avance l’idée doit en porter la charge.
+- Défier l’autre ne remplace pas les preuves.
 
-Le passage montre **Just-world hypothesis** : une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+Concept clé
+Charge:
+Le devoir de fournir des raisons pour une affirmation.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un argument a besoin de soutien, pas seulement d’un défi adressé aux autres.
+- Une affirmation sans preuve reste une affirmation.
+- Déplacer la charge permet d’éviter la justification.
 
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
+L'implication inconfortable
+On peut paraître sûr de soi tout en évitant de prouver quoi que ce soit.
 
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Just-world hypothesis**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.`,
-    expert: `## Just-world hypothesis — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Just-world hypothesis** convient parce que une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Just-world hypothesis**, c’est Une erreur logique ou un biais cognitif impliquant Just-world hypothesis, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Charge de la preuve = demander aux autres de réfuter votre affirmation au lieu de la soutenir.`,
   },
   688: {
-    beginner: `## Naive realism — approfondi (Débutant)
+    beginner: `Simplification causale = traiter un résultat complexe comme s’il n’avait qu’une seule cause.`,
+    detail: `Simplification causale
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+Description :
+On explique un résultat compliqué comme si un seul facteur avait tout fait.
+Les vrais résultats viennent souvent de plusieurs causes qui agissent ensemble.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Naive realism**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On attribue un problème social à une seule politique.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.`,
-    intermediate: `## Naive realism — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On explique un résultat d’entreprise par un seul événement spectaculaire.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+Comment ça fonctionne
+L’argument oublie les autres causes qui comptent aussi.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Les résultats complexes ont rarement une seule cause propre.
+- Un facteur peut compter sans être toute l’histoire.
+- Un bon raisonnement garde le tableau complet en vue.
 
-Le passage montre **Naive realism** : une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+Concept clé
+Cause:
+Ce qui contribue à produire un résultat.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Réduire un problème complexe à une seule cause peut tromper la décision.
+- Une histoire simple n’est pas toujours la vraie histoire.
+- Les causes oubliées sont souvent les plus importantes.
 
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+L'implication inconfortable
+Une réponse simple peut cacher la vraie mécanique du résultat.
 
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Naive realism**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.`,
-    expert: `## Naive realism — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Naive realism** convient parce que une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Naive realism**, c’est Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Simplification causale = réduire un résultat complexe à une seule cause.`,
   },
   689: {
-    beginner: `## Naive realism — approfondi (Débutant)
+    beginner: `Simplification causale = traiter un résultat complexe comme s’il n’avait qu’une seule cause.`,
+    detail: `Simplification causale
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+Description :
+On explique un résultat compliqué comme si un seul facteur avait tout fait.
+Les vrais résultats viennent souvent de plusieurs causes qui agissent ensemble.
 
-**L’exemple affiché**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Exemple (question)
+« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Naive realism**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On attribue un problème social à une seule politique.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.`,
-    intermediate: `## Naive realism — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On explique un résultat d’entreprise par un seul événement spectaculaire.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+Comment ça fonctionne
+L’argument oublie les autres causes qui comptent aussi.
 
-**Cet exemple**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+Donc :
+- Les résultats complexes ont rarement une seule cause propre.
+- Un facteur peut compter sans être toute l’histoire.
+- Un bon raisonnement garde le tableau complet en vue.
 
-Le passage montre **Naive realism** : une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+Concept clé
+Cause:
+Ce qui contribue à produire un résultat.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Réduire un problème complexe à une seule cause peut tromper la décision.
+- Une histoire simple n’est pas toujours la vraie histoire.
+- Les causes oubliées sont souvent les plus importantes.
 
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+L'implication inconfortable
+Une réponse simple peut cacher la vraie mécanique du résultat.
 
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Naive realism**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.`,
-    expert: `## Naive realism — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
-
-Ici, **Naive realism** convient parce que une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Naive realism**, c’est Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Simplification causale = réduire un résultat complexe à une seule cause.`,
   },
   690: {
-    beginner: `## Naive realism — approfondi (Débutant)
+    beginner: `Simplification causale = traiter un résultat complexe comme s’il n’avait qu’une seule cause.`,
+    detail: `Simplification causale
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+Description :
+On explique un résultat compliqué comme si un seul facteur avait tout fait.
+Les vrais résultats viennent souvent de plusieurs causes qui agissent ensemble.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Naive realism**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On attribue un problème social à une seule politique.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.`,
-    intermediate: `## Naive realism — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On explique un résultat d’entreprise par un seul événement spectaculaire.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+Comment ça fonctionne
+L’argument oublie les autres causes qui comptent aussi.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Les résultats complexes ont rarement une seule cause propre.
+- Un facteur peut compter sans être toute l’histoire.
+- Un bon raisonnement garde le tableau complet en vue.
 
-Le passage montre **Naive realism** : une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+Concept clé
+Cause:
+Ce qui contribue à produire un résultat.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Réduire un problème complexe à une seule cause peut tromper la décision.
+- Une histoire simple n’est pas toujours la vraie histoire.
+- Les causes oubliées sont souvent les plus importantes.
 
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
+L'implication inconfortable
+Une réponse simple peut cacher la vraie mécanique du résultat.
 
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Naive realism**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.`,
-    expert: `## Naive realism — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Naive realism** convient parce que une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Naive realism**, c’est Une erreur logique ou un biais cognitif impliquant Naive realism, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Simplification causale = réduire un résultat complexe à une seule cause.`,
   },
   691: {
-    beginner: `## Hostile attribution bias — approfondi (Débutant)
+    beginner: `Ad hominem circonstanciel = attaquer la situation d’une personne au lieu de son argument.`,
+    detail: `Ad hominem circonstanciel
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+Description :
+On rejette un argument en pointant du doigt le contexte, les intérêts ou le parcours de la personne.
+La situation d’une personne peut compter, mais elle ne répond pas à l’affirmation toute seule.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Hostile attribution bias**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On dit que votre opinion est fausse à cause de votre métier.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.`,
-    intermediate: `## Hostile attribution bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On rejette une personne à cause de son parcours plutôt qu’à cause de ses raisons.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+On déplace l’attention de l’idée vers la personne qui la formule.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Le contexte peut expliquer un biais, mais il ne réfute pas automatiquement la thèse.
+- L’argument doit encore être vérifié en lui-même.
+- Attaquer la personne ne répond pas au fond.
 
-Le passage montre **Hostile attribution bias** : une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+Concept clé
+Circonstances:
+Des faits sur la personne, pas sur l’argument.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une affirmation peut être juste même si la personne a un intérêt en jeu.
+- Un détail de parcours ne dit pas la vérité.
+- Le raisonnement doit être examiné directement.
 
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+L'implication inconfortable
+On peut rendre quelqu’un suspect sans jamais toucher à son argument.
 
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Hostile attribution bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.`,
-    expert: `## Hostile attribution bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Hostile attribution bias** convient parce que une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Hostile attribution bias**, c’est Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Ad hominem circonstanciel = attaquer la situation d’une personne au lieu de son argument.`,
   },
   692: {
-    beginner: `## Hostile attribution bias — approfondi (Débutant)
+    beginner: `Ad hominem circonstanciel = attaquer la situation d’une personne au lieu de son argument.`,
+    detail: `Ad hominem circonstanciel
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+Description :
+On rejette un argument en pointant du doigt le contexte, les intérêts ou le parcours de la personne.
+La situation d’une personne peut compter, mais elle ne répond pas à l’affirmation toute seule.
 
-**L’exemple affiché**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Exemple (question)
+« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Hostile attribution bias**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On dit que votre opinion est fausse à cause de votre métier.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.`,
-    intermediate: `## Hostile attribution bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On rejette une personne à cause de son parcours plutôt qu’à cause de ses raisons.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+On déplace l’attention de l’idée vers la personne qui la formule.
 
-**Cet exemple**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+Donc :
+- Le contexte peut expliquer un biais, mais il ne réfute pas automatiquement la thèse.
+- L’argument doit encore être vérifié en lui-même.
+- Attaquer la personne ne répond pas au fond.
 
-Le passage montre **Hostile attribution bias** : une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+Concept clé
+Circonstances:
+Des faits sur la personne, pas sur l’argument.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une affirmation peut être juste même si la personne a un intérêt en jeu.
+- Un détail de parcours ne dit pas la vérité.
+- Le raisonnement doit être examiné directement.
 
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+L'implication inconfortable
+On peut rendre quelqu’un suspect sans jamais toucher à son argument.
 
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Hostile attribution bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.`,
-    expert: `## Hostile attribution bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
-
-Ici, **Hostile attribution bias** convient parce que une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Hostile attribution bias**, c’est Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Ad hominem circonstanciel = attaquer la situation d’une personne au lieu de son argument.`,
   },
   693: {
-    beginner: `## Hostile attribution bias — approfondi (Débutant)
+    beginner: `Ad hominem circonstanciel = attaquer la situation d’une personne au lieu de son argument.`,
+    detail: `Ad hominem circonstanciel
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+Description :
+On rejette un argument en pointant du doigt le contexte, les intérêts ou le parcours de la personne.
+La situation d’une personne peut compter, mais elle ne répond pas à l’affirmation toute seule.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Hostile attribution bias**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On dit que votre opinion est fausse à cause de votre métier.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.`,
-    intermediate: `## Hostile attribution bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On rejette une personne à cause de son parcours plutôt qu’à cause de ses raisons.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+On déplace l’attention de l’idée vers la personne qui la formule.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Le contexte peut expliquer un biais, mais il ne réfute pas automatiquement la thèse.
+- L’argument doit encore être vérifié en lui-même.
+- Attaquer la personne ne répond pas au fond.
 
-Le passage montre **Hostile attribution bias** : une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+Concept clé
+Circonstances:
+Des faits sur la personne, pas sur l’argument.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Une affirmation peut être juste même si la personne a un intérêt en jeu.
+- Un détail de parcours ne dit pas la vérité.
+- Le raisonnement doit être examiné directement.
 
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
+L'implication inconfortable
+On peut rendre quelqu’un suspect sans jamais toucher à son argument.
 
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Hostile attribution bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.`,
-    expert: `## Hostile attribution bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Hostile attribution bias** convient parce que une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Hostile attribution bias**, c’est Une erreur logique ou un biais cognitif impliquant Hostile attribution bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Ad hominem circonstanciel = attaquer la situation d’une personne au lieu de son argument.`,
   },
   694: {
-    beginner: `## Outcome bias — approfondi (Débutant)
+    beginner: `Nier l’antécédent = supposer que si la première condition est fausse, la conclusion l’est forcément aussi.`,
+    detail: `Nier l’antécédent
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+Description :
+On traite une condition « si... alors... » comme si l’absence du premier élément prouvait la conclusion inverse.
+Le fait que la première condition manque ne suffit pas à exclure le résultat.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Outcome bias**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+S’il pleut, le sol est mouillé. Il n’a pas plu, donc le sol est sec.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.`,
-    intermediate: `## Outcome bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Si je suis riche, j’ai de l’argent. Je ne suis pas riche, donc je n’ai pas d’argent.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+On confond « pas la première partie » avec « pas le résultat ». 
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Une conditionnelle n’est pas automatiquement réversible.
+- D’autres causes peuvent produire le même résultat.
+- L’absence de la condition ne prouve pas l’absence du résultat.
 
-Le passage montre **Outcome bias** : une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+Concept clé
+Conditionnelle:
+Une phrase du type « si... alors... » qui n’est pas automatiquement réversible.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- La logique doit suivre la forme de l’énoncé, pas seulement son apparence.
+- Le monde a souvent plusieurs chemins vers le même résultat.
+- Un faux raccourci peut faire croire que la conclusion est garantie.
 
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Une conditionnelle bien propre peut faire conclure trop vite.
 
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Outcome bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.`,
-    expert: `## Outcome bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Outcome bias** convient parce que une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Outcome bias**, c’est Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Nier l’antécédent = supposer que le résultat est faux parce que la première condition est fausse.`,
   },
   695: {
-    beginner: `## Outcome bias — approfondi (Débutant)
+    beginner: `Nier l’antécédent = supposer que si la première condition est fausse, la conclusion l’est forcément aussi.`,
+    detail: `Nier l’antécédent
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+Description :
+On traite une condition « si... alors... » comme si l’absence du premier élément prouvait la conclusion inverse.
+Le fait que la première condition manque ne suffit pas à exclure le résultat.
 
-**L’exemple affiché**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Exemple (question)
+« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Outcome bias**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+S’il pleut, le sol est mouillé. Il n’a pas plu, donc le sol est sec.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.`,
-    intermediate: `## Outcome bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Si je suis riche, j’ai de l’argent. Je ne suis pas riche, donc je n’ai pas d’argent.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+On confond « pas la première partie » avec « pas le résultat ». 
 
-**Cet exemple**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
+Donc :
+- Une conditionnelle n’est pas automatiquement réversible.
+- D’autres causes peuvent produire le même résultat.
+- L’absence de la condition ne prouve pas l’absence du résultat.
 
-Le passage montre **Outcome bias** : une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+Concept clé
+Conditionnelle:
+Une phrase du type « si... alors... » qui n’est pas automatiquement réversible.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- La logique doit suivre la forme de l’énoncé, pas seulement son apparence.
+- Le monde a souvent plusieurs chemins vers le même résultat.
+- Un faux raccourci peut faire croire que la conclusion est garantie.
 
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Une conditionnelle bien propre peut faire conclure trop vite.
 
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Outcome bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.`,
-    expert: `## Outcome bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Si nous permettons aux machines de traiter ne serait-ce que 1% de notre subconscient, elles posséderont tout notre être. »  
-
-Ici, **Outcome bias** convient parce que une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Outcome bias**, c’est Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Nier l’antécédent = supposer que le résultat est faux parce que la première condition est fausse.`,
   },
   696: {
-    beginner: `## Outcome bias — approfondi (Débutant)
+    beginner: `Nier l’antécédent = supposer que si la première condition est fausse, la conclusion l’est forcément aussi.`,
+    detail: `Nier l’antécédent
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+Description :
+On traite une condition « si... alors... » comme si l’absence du premier élément prouvait la conclusion inverse.
+Le fait que la première condition manque ne suffit pas à exclure le résultat.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Outcome bias**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+S’il pleut, le sol est mouillé. Il n’a pas plu, donc le sol est sec.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.`,
-    intermediate: `## Outcome bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Si je suis riche, j’ai de l’argent. Je ne suis pas riche, donc je n’ai pas d’argent.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+On confond « pas la première partie » avec « pas le résultat ». 
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Une conditionnelle n’est pas automatiquement réversible.
+- D’autres causes peuvent produire le même résultat.
+- L’absence de la condition ne prouve pas l’absence du résultat.
 
-Le passage montre **Outcome bias** : une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+Concept clé
+Conditionnelle:
+Une phrase du type « si... alors... » qui n’est pas automatiquement réversible.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- La logique doit suivre la forme de l’énoncé, pas seulement son apparence.
+- Le monde a souvent plusieurs chemins vers le même résultat.
+- Un faux raccourci peut faire croire que la conclusion est garantie.
 
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Une conditionnelle bien propre peut faire conclure trop vite.
 
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Outcome bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.`,
-    expert: `## Outcome bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Outcome bias** convient parce que une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Outcome bias**, c’est Une erreur logique ou un biais cognitif impliquant Outcome bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Nier l’antécédent = supposer que le résultat est faux parce que la première condition est fausse.`,
   },
   697: {
-    beginner: `## Pro-innovation bias — approfondi (Débutant)
+    beginner: `Équivocation = utiliser un même mot avec deux sens différents dans le même argument.`,
+    detail: `Équivocation
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+Description :
+L’argument change de sens en cours de route tout en faisant comme si rien n’avait bougé.
+Un mot peut sembler stable tout en changeant discrètement de sens.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Pro-innovation bias**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Une chauve-souris est un mammifère, donc elle peut voler.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.`,
-    intermediate: `## Pro-innovation bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On emploie un mot dans un sens au début puis dans un autre sens à la fin.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+La conclusion ne marche que parce que le mot-clé change de sens.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Un mot peut être ambigu sans que l’orateur s’en rende compte.
+- L’argument paraît valide seulement parce que le sens a glissé.
+- Un bon raisonnement garde ses termes fixes.
 
-Le passage montre **Pro-innovation bias** : une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+Concept clé
+Terme ambigu:
+Un mot qui change de sens au cours de l’argument.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un changement de sens caché peut faire passer un mauvais argument.
+- Le même mot ne veut pas toujours dire la même chose.
+- Si le terme bouge, la logique bouge aussi.
 
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Un choix de mots malin peut faire entrer une fausse conclusion.
 
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Pro-innovation bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.`,
-    expert: `## Pro-innovation bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Pro-innovation bias** convient parce que une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez des notes ou examens. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Pro-innovation bias**, c’est Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Équivocation = utiliser un même mot avec deux sens différents dans le même argument.`,
   },
   698: {
-    beginner: `## Pro-innovation bias — approfondi (Débutant)
+    beginner: `Équivocation = utiliser un même mot avec deux sens différents dans le même argument.`,
+    detail: `Équivocation
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+Description :
+L’argument change de sens en cours de route tout en faisant comme si rien n’avait bougé.
+Un mot peut sembler stable tout en changeant discrètement de sens.
 
-**L’exemple affiché**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Exemple (question)
+« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Pro-innovation bias**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Une chauve-souris est un mammifère, donc elle peut voler.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.`,
-    intermediate: `## Pro-innovation bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On emploie un mot dans un sens au début puis dans un autre sens à la fin.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+La conclusion ne marche que parce que le mot-clé change de sens.
 
-**Cet exemple**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
+Donc :
+- Un mot peut être ambigu sans que l’orateur s’en rende compte.
+- L’argument paraît valide seulement parce que le sens a glissé.
+- Un bon raisonnement garde ses termes fixes.
 
-Le passage montre **Pro-innovation bias** : une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+Concept clé
+Terme ambigu:
+Un mot qui change de sens au cours de l’argument.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un changement de sens caché peut faire passer un mauvais argument.
+- Le même mot ne veut pas toujours dire la même chose.
+- Si le terme bouge, la logique bouge aussi.
 
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Un choix de mots malin peut faire entrer une fausse conclusion.
 
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Pro-innovation bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.`,
-    expert: `## Pro-innovation bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Personne n’a réfuté l’existence du fantôme dans la machine, c’est donc une entité confirmée du Réseau. »  
-
-Ici, **Pro-innovation bias** convient parce que une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à une discussion en famille. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Pro-innovation bias**, c’est Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Équivocation = utiliser un même mot avec deux sens différents dans le même argument.`,
   },
   699: {
-    beginner: `## Pro-innovation bias — approfondi (Débutant)
+    beginner: `Équivocation = utiliser un même mot avec deux sens différents dans le même argument.`,
+    detail: `Équivocation
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+Description :
+L’argument change de sens en cours de route tout en faisant comme si rien n’avait bougé.
+Un mot peut sembler stable tout en changeant discrètement de sens.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Pro-innovation bias**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Une chauve-souris est un mammifère, donc elle peut voler.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.`,
-    intermediate: `## Pro-innovation bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On emploie un mot dans un sens au début puis dans un autre sens à la fin.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+La conclusion ne marche que parce que le mot-clé change de sens.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Un mot peut être ambigu sans que l’orateur s’en rende compte.
+- L’argument paraît valide seulement parce que le sens a glissé.
+- Un bon raisonnement garde ses termes fixes.
 
-Le passage montre **Pro-innovation bias** : une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+Concept clé
+Terme ambigu:
+Un mot qui change de sens au cours de l’argument.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un changement de sens caché peut faire passer un mauvais argument.
+- Le même mot ne veut pas toujours dire la même chose.
+- Si le terme bouge, la logique bouge aussi.
 
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Un choix de mots malin peut faire entrer une fausse conclusion.
 
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Pro-innovation bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.`,
-    expert: `## Pro-innovation bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Pro-innovation bias** convient parce que une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans un titre de presse ou un fil sur les réseaux, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Pro-innovation bias**, c’est Une erreur logique ou un biais cognitif impliquant Pro-innovation bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Équivocation = utiliser un même mot avec deux sens différents dans le même argument.`,
   },
   700: {
-    beginner: `## Restraint bias — approfondi (Débutant)
+    beginner: `Sophisme existentiel = supposer qu’une chose existe parce qu’une affirmation universelle paraît complète.`,
+    detail: `Sophisme existentiel
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+Description :
+On traite une affirmation universelle comme si elle prouvait automatiquement qu’un exemple réel existe.
+Une phrase sur « tous » ne fait pas apparaître une chose réelle par magie.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Restraint bias**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+À partir de « tous les licornes sont magiques », on saute à « donc les licornes existent ». 
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.`,
-    intermediate: `## Restraint bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Une règle générale est prise pour une preuve d’existence.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+On confond une affirmation universelle avec une preuve d’existence.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Le langage universel n’implique pas toujours un exemple réel.
+- L’existence a besoin de sa propre preuve.
+- Une description n’est pas une preuve d’existence.
 
-Le passage montre **Restraint bias** : une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+Concept clé
+Existence:
+Le fait d’être réel, pas seulement décrit.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- On peut parler d’une catégorie sans prouver qu’un membre existe.
+- Une phrase bien formée peut quand même être vide.
+- Les affirmations d’existence demandent des preuves concrètes.
 
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Le langage peut faire paraître réel ce qui n’a pas encore été montré.
 
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Restraint bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.`,
-    expert: `## Restraint bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Restraint bias** convient parce que une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un débat sur une politique ou au travail. Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Restraint bias**, c’est Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Sophisme existentiel = supposer l’existence à partir d’une affirmation universelle.`,
   },
   701: {
-    beginner: `## Restraint bias — approfondi (Débutant)
+    beginner: `Fausse cause = prendre une corrélation ou une succession pour une preuve de causalité.`,
+    detail: `Fausse cause
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+Description :
+Deux choses se suivent ou se ressemblent, et l’on saute à « donc l’une a causé l’autre ». 
+Des événements peuvent arriver ensemble sans lien de cause à effet.
 
-**L’exemple affiché**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Exemple (question)
+« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Restraint bias**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Les ventes de glace et les noyades augmentent en été, donc la glace cause les noyades.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.`,
-    intermediate: `## Restraint bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Quelque chose change après un autre événement, donc on accuse le premier.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+On confond le timing ou le motif avec un vrai lien causal.
 
-**Cet exemple**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
+Donc :
+- Corrélation n’est pas causalité.
+- La succession n’est pas une preuve de cause.
+- Les autres explications comptent encore.
 
-Le passage montre **Restraint bias** : une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+Concept clé
+Causalité:
+Le fait qu’une chose produise réellement une autre.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un motif seul ne prouve pas une cause.
+- La mauvaise cause mène à la mauvaise solution.
+- Un bon raisonnement cherche d’autres explications.
 
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Une histoire simple sur la cause peut être complètement fausse.
 
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Restraint bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.`,
-    expert: `## Restraint bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Soit vous suivez les directives de la corporation à la lettre, soit vous favorisez un effondrement de l’économie. »  
-
-Ici, **Restraint bias** convient parce que une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un récit sur la santé ou les habitudes. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Restraint bias**, c’est Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Fausse cause = prendre une corrélation ou un timing pour une causalité.`,
   },
   702: {
-    beginner: `## Restraint bias — approfondi (Débutant)
+    beginner: `Fausse cause = prendre une corrélation ou une succession pour une preuve de causalité.`,
+    detail: `Fausse cause
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+Description :
+Deux choses se suivent ou se ressemblent, et l’on saute à « donc l’une a causé l’autre ». 
+Des événements peuvent arriver ensemble sans lien de cause à effet.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Restraint bias**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Les ventes de glace et les noyades augmentent en été, donc la glace cause les noyades.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.`,
-    intermediate: `## Restraint bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Quelque chose change après un autre événement, donc on accuse le premier.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+On confond le timing ou le motif avec un vrai lien causal.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Corrélation n’est pas causalité.
+- La succession n’est pas une preuve de cause.
+- Les autres explications comptent encore.
 
-Le passage montre **Restraint bias** : une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+Concept clé
+Causalité:
+Le fait qu’une chose produise réellement une autre.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un motif seul ne prouve pas une cause.
+- La mauvaise cause mène à la mauvaise solution.
+- Un bon raisonnement cherche d’autres explications.
 
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Une histoire simple sur la cause peut être complètement fausse.
 
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Restraint bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.`,
-    expert: `## Restraint bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Restraint bias** convient parce que une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez des résultats sportifs ou d’entreprise. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Restraint bias**, c’est Une erreur logique ou un biais cognitif impliquant Restraint bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Biais Neural`,
+En une phrase
+Fausse cause = prendre une corrélation ou un timing pour une causalité.`,
   },
   703: {
-    beginner: `## Self-serving bias — approfondi (Débutant)
+    beginner: `Fausse cause = prendre une corrélation ou une succession pour une preuve de causalité.`,
+    detail: `Fausse cause
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+Description :
+Deux choses se suivent ou se ressemblent, et l’on saute à « donc l’une a causé l’autre ». 
+Des événements peuvent arriver ensemble sans lien de cause à effet.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Self-serving bias**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Les ventes de glace et les noyades augmentent en été, donc la glace cause les noyades.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.`,
-    intermediate: `## Self-serving bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Quelque chose change après un autre événement, donc on accuse le premier.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+On confond le timing ou le motif avec un vrai lien causal.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Corrélation n’est pas causalité.
+- La succession n’est pas une preuve de cause.
+- Les autres explications comptent encore.
 
-Le passage montre **Self-serving bias** : une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+Concept clé
+Causalité:
+Le fait qu’une chose produise réellement une autre.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un motif seul ne prouve pas une cause.
+- La mauvaise cause mène à la mauvaise solution.
+- Un bon raisonnement cherche d’autres explications.
 
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Une histoire simple sur la cause peut être complètement fausse.
 
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Self-serving bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.`,
-    expert: `## Self-serving bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Self-serving bias** convient parce que une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à des notes ou examens. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Self-serving bias**, c’est Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Fausse cause = prendre une corrélation ou un timing pour une causalité.`,
   },
   704: {
-    beginner: `## Self-serving bias — approfondi (Débutant)
+    beginner: `Fausse cause = prendre une corrélation ou une succession pour une preuve de causalité.`,
+    detail: `Fausse cause
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+Description :
+Deux choses se suivent ou se ressemblent, et l’on saute à « donc l’une a causé l’autre ». 
+Des événements peuvent arriver ensemble sans lien de cause à effet.
 
-**L’exemple affiché**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Exemple (question)
+« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Self-serving bias**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Les ventes de glace et les noyades augmentent en été, donc la glace cause les noyades.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.`,
-    intermediate: `## Self-serving bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Quelque chose change après un autre événement, donc on accuse le premier.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+On confond le timing ou le motif avec un vrai lien causal.
 
-**Cet exemple**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
+Donc :
+- Corrélation n’est pas causalité.
+- La succession n’est pas une preuve de cause.
+- Les autres explications comptent encore.
 
-Le passage montre **Self-serving bias** : une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+Concept clé
+Causalité:
+Le fait qu’une chose produise réellement une autre.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un motif seul ne prouve pas une cause.
+- La mauvaise cause mène à la mauvaise solution.
+- Un bon raisonnement cherche d’autres explications.
 
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Une histoire simple sur la cause peut être complètement fausse.
 
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Self-serving bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.`,
-    expert: `## Self-serving bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Ma première tentative de piratage a échoué. Clairement, tout le système de sécurité est impénétrable. »  
-
-Ici, **Self-serving bias** convient parce que une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans une discussion en famille, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Self-serving bias**, c’est Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Fausse cause = prendre une corrélation ou un timing pour une causalité.`,
   },
   705: {
-    beginner: `## Self-serving bias — approfondi (Débutant)
+    beginner: `Fausse cause = prendre une corrélation ou une succession pour une preuve de causalité.`,
+    detail: `Fausse cause
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+Description :
+Deux choses se suivent ou se ressemblent, et l’on saute à « donc l’une a causé l’autre ». 
+Des événements peuvent arriver ensemble sans lien de cause à effet.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Self-serving bias**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+Les ventes de glace et les noyades augmentent en été, donc la glace cause les noyades.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.`,
-    intermediate: `## Self-serving bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Quelque chose change après un autre événement, donc on accuse le premier.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+On confond le timing ou le motif avec un vrai lien causal.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Corrélation n’est pas causalité.
+- La succession n’est pas une preuve de cause.
+- Les autres explications comptent encore.
 
-Le passage montre **Self-serving bias** : une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+Concept clé
+Causalité:
+Le fait qu’une chose produise réellement une autre.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Un motif seul ne prouve pas une cause.
+- La mauvaise cause mène à la mauvaise solution.
+- Un bon raisonnement cherche d’autres explications.
 
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Une histoire simple sur la cause peut être complètement fausse.
 
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Self-serving bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.`,
-    expert: `## Self-serving bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Self-serving bias** convient parce que une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : un titre de presse ou un fil sur les réseaux. Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Self-serving bias**, c’est Une erreur logique ou un biais cognitif impliquant Self-serving bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Heuristique Système`,
+En une phrase
+Fausse cause = prendre une corrélation ou un timing pour une causalité.`,
   },
   706: {
-    beginner: `## Social desirability bias — approfondi (Débutant)
+    beginner: `Fausse prémisse = construire un argument sur une affirmation fausse.`,
+    detail: `Fausse prémisse
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+Description :
+Le raisonnement part d’un fait qui n’est tout simplement pas vrai.
+Une structure qui a l’air correcte échoue si son point de départ est faux.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Social desirability bias**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On construit une conclusion sur un mensonge ou un fait erroné.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.`,
-    intermediate: `## Social desirability bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Quelqu’un raisonne très bien à partir d’une prémisse qui n’a jamais été vraie.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+Tout l’argument hérite de l’erreur présente au départ.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Un mauvais départ peut rendre le reste du raisonnement inutile.
+- Une bonne forme ne sauve pas de mauvais faits.
+- Il faut vérifier la prémisse avant de faire confiance à la conclusion.
 
-Le passage montre **Social desirability bias** : une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+Concept clé
+Prémisse:
+Une affirmation de départ utilisée pour construire un argument.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Si la prémisse est fausse, la conclusion peut s’écrouler aussi.
+- Une chaîne logique propre ne sert à rien si le premier maillon casse.
+- La vérité du départ compte autant que la logique du trajet.
 
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Un argument soigné peut tout de même reposer sur une base fausse.
 
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Social desirability bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.`,
-    expert: `## Social desirability bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Social desirability bias** convient parce que une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** **Contexte :** un débat sur une politique ou au travail. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Social desirability bias**, c’est Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Fausse prémisse = construire un argument sur une affirmation fausse.`,
   },
   707: {
-    beginner: `## Social desirability bias — approfondi (Débutant)
+    beginner: `Fausse prémisse = construire un argument sur une affirmation fausse.`,
+    detail: `Fausse prémisse
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+Description :
+Le raisonnement part d’un fait qui n’est tout simplement pas vrai.
+Une structure qui a l’air correcte échoue si son point de départ est faux.
 
-**L’exemple affiché**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Exemple (question)
+« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Social desirability bias**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On construit une conclusion sur un mensonge ou un fait erroné.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.`,
-    intermediate: `## Social desirability bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Quelqu’un raisonne très bien à partir d’une prémisse qui n’a jamais été vraie.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+Tout l’argument hérite de l’erreur présente au départ.
 
-**Cet exemple**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
+Donc :
+- Un mauvais départ peut rendre le reste du raisonnement inutile.
+- Une bonne forme ne sauve pas de mauvais faits.
+- Il faut vérifier la prémisse avant de faire confiance à la conclusion.
 
-Le passage montre **Social desirability bias** : une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+Concept clé
+Prémisse:
+Une affirmation de départ utilisée pour construire un argument.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Si la prémisse est fausse, la conclusion peut s’écrouler aussi.
+- Une chaîne logique propre ne sert à rien si le premier maillon casse.
+- La vérité du départ compte autant que la logique du trajet.
 
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Un argument soigné peut tout de même reposer sur une base fausse.
 
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Social desirability bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.`,
-    expert: `## Social desirability bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Le réseau n’a pas ralenti pendant que je portais mon conduit d’argent. C’est la preuve de son efficacité. »  
-
-Ici, **Social desirability bias** convient parce que une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Pensez à un titre de presse ou un fil sur les réseaux. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Dans un récit sur la santé ou les habitudes, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Autre situation courante : des notes ou examens. Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** **Contexte :** un titre de presse ou un fil sur les réseaux. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Imaginez un récit sur la santé ou les habitudes. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Social desirability bias**, c’est Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Fausse prémisse = construire un argument sur une affirmation fausse.`,
   },
   708: {
-    beginner: `## Social desirability bias — approfondi (Débutant)
+    beginner: `Fausse prémisse = construire un argument sur une affirmation fausse.`,
+    detail: `Fausse prémisse
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+Description :
+Le raisonnement part d’un fait qui n’est tout simplement pas vrai.
+Une structure qui a l’air correcte échoue si son point de départ est faux.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Lorsqu'une personne soutient que : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Social desirability bias**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On construit une conclusion sur un mensonge ou un fait erroné.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.`,
-    intermediate: `## Social desirability bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+Quelqu’un raisonne très bien à partir d’une prémisse qui n’a jamais été vraie.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+Tout l’argument hérite de l’erreur présente au départ.
 
-**Cet exemple**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Un mauvais départ peut rendre le reste du raisonnement inutile.
+- Une bonne forme ne sauve pas de mauvais faits.
+- Il faut vérifier la prémisse avant de faire confiance à la conclusion.
 
-Le passage montre **Social desirability bias** : une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+Concept clé
+Prémisse:
+Une affirmation de départ utilisée pour construire un argument.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Si la prémisse est fausse, la conclusion peut s’écrouler aussi.
+- Une chaîne logique propre ne sert à rien si le premier maillon casse.
+- La vérité du départ compte autant que la logique du trajet.
 
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Un argument soigné peut tout de même reposer sur une base fausse.
 
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Social desirability bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.`,
-    expert: `## Social desirability bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Social desirability bias** convient parce que une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Dans un débat sur une politique ou au travail, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Autre situation courante : des résultats sportifs ou d’entreprise. Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** **Contexte :** une discussion en famille. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Imaginez un débat sur une politique ou au travail. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Pensez à des résultats sportifs ou d’entreprise. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Social desirability bias**, c’est Une erreur logique ou un biais cognitif impliquant Social desirability bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Protocole Social`,
+En une phrase
+Fausse prémisse = construire un argument sur une affirmation fausse.`,
   },
   709: {
-    beginner: `## Zero-risk bias — approfondi (Débutant)
+    beginner: `Fausse analogie = tirer une conclusion à partir d’une comparaison trop faible.`,
+    detail: `Fausse analogie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
+Description :
+On compare deux choses qui se ressemblent en surface, mais pas assez pour justifier la conclusion.
+Une ressemblance peut être réelle sans être pertinente.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Exemple (question)
+« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : \"Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.\". »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Zero-risk bias**  
-Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On compare une voiture à un vélo pour prouver qu’on doit les traiter pareil.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.`,
-    intermediate: `## Zero-risk bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On met deux choses très différentes côte à côte comme si la comparaison tranchait tout.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+La comparaison oublie les différences les plus importantes.
 
-**Cet exemple**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
+Donc :
+- Une bonne analogie dépend des bonnes ressemblances.
+- Des ressemblances faibles ne portent pas la conclusion assez loin.
+- La vraie question est de savoir si la comparaison tient vraiment.
 
-Le passage montre **Zero-risk bias** : une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
+Concept clé
+Analogie:
+Une comparaison utilisée pour soutenir une affirmation.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Toute ressemblance n’est pas pertinente pour l’argument.
+- Une comparaison faible peut faire paraître une mauvaise conclusion évidente.
+- Une bonne analogie met en avant la même structure importante.
 
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Une comparaison accrocheuse peut cacher un mauvais saut logique.
 
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Zero-risk bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.`,
-    expert: `## Zero-risk bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux-un raisonnement défectueux, où le raisonnement est défaillant.". »  
-
-Ici, **Zero-risk bias** convient parce que une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** Autre situation courante : un récit sur la santé ou les habitudes. Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** **Contexte :** des notes ou examens. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Imaginez un titre de presse ou un fil sur les réseaux. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Pensez à un récit sur la santé ou les habitudes. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Dans des notes ou examens, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Zero-risk bias**, c’est Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Fausse analogie = utiliser une comparaison trop faible pour soutenir une conclusion.`,
   },
   710: {
-    beginner: `## Zero-risk bias — approfondi (Débutant)
+    beginner: `Fausse analogie = tirer une conclusion à partir d’une comparaison trop faible.`,
+    detail: `Fausse analogie
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
+Description :
+On compare deux choses qui se ressemblent en surface, mais pas assez pour justifier la conclusion.
+Une ressemblance peut être réelle sans être pertinente.
 
-**L’exemple affiché**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Exemple (question)
+« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »
+C’est exactement le type de mouvement visé par la question.
 
-**Pourquoi c’est bien Zero-risk bias**  
-Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (vie courante)
+On compare une voiture à un vélo pour prouver qu’on doit les traiter pareil.
 
-**À retenir**  
-Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.`,
-    intermediate: `## Zero-risk bias — approfondi (Intermédiaire)
+Exemple (autre contexte)
+On met deux choses très différentes côte à côte comme si la comparaison tranchait tout.
 
-**En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
+Comment ça fonctionne
+La comparaison oublie les différences les plus importantes.
 
-**Cet exemple**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
+Donc :
+- Une bonne analogie dépend des bonnes ressemblances.
+- Des ressemblances faibles ne portent pas la conclusion assez loin.
+- La vraie question est de savoir si la comparaison tient vraiment.
 
-Le passage montre **Zero-risk bias** : une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
+Concept clé
+Analogie:
+Une comparaison utilisée pour soutenir une affirmation.
 
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
+Pourquoi c'est important
+Explique pourquoi :
+- Toute ressemblance n’est pas pertinente pour l’argument.
+- Une comparaison faible peut faire paraître une mauvaise conclusion évidente.
+- Une bonne analogie met en avant la même structure importante.
 
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
+L'implication inconfortable
+Une comparaison accrocheuse peut cacher un mauvais saut logique.
 
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-**En une phrase**  
-**Zero-risk bias**, c’est quand le raisonnement correspond à : Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.`,
-    expert: `## Zero-risk bias — approfondi (Expert)
-
-**Définition**  
-Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-**Appliqué à ce passage**  
-« Tout le monde dans le district des gratte-ciel utilise ce patch neural, ce doit être le plus avancé. »  
-
-Ici, **Zero-risk bias** convient parce que une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-**Autres exemples (même erreur seulement)**  
-- **Exemple 1 :** **Contexte :** des résultats sportifs ou d’entreprise. **Ce qui cloche :** Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-- **Exemple 2 :** Imaginez une discussion en famille. C’est la même erreur : une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-- **Exemple 3 :** Pensez à un débat sur une politique ou au travail. Souvent, on raisonne comme si une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-- **Exemple 4 :** Dans des résultats sportifs ou d’entreprise, repérez ce schéma : Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-- **Exemple 5 :** Autre situation courante : une discussion en famille. Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**Zero-risk bias**, c’est Une erreur logique ou un biais cognitif impliquant Zero-risk bias, où le raisonnement est défaillant.
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-Nœud Logique`,
+En une phrase
+Fausse analogie = utiliser une comparaison trop faible pour soutenir une conclusion.`,
   },
+
   711: {
     beginner: `## Zero-risk bias — approfondi (Débutant)
 
