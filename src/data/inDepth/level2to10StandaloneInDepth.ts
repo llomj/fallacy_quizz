@@ -25471,1182 +25471,1371 @@ One-line version
 Reification = Treating an abstract concept as concrete.`,
   },
   761: {
-    beginner: `Reification = Treating an abstract concept as concrete.`,
+    beginner: `Reification = Treating abstract concepts like "society" or "truth" as concrete, real things.`,
     detail: `Reification
 
 Description:
-Treating an abstract concept as concrete.
-
-Reification = Treating an abstract concept as concrete
+Treating abstract concepts like "society," "freedom," or "truth" as if they were concrete objects that exist in the world.
 
 Example (question)
 « Abstract as real. »
+The argument treats "abstract" as something that can be "real" — treating an idea as if it were a thing.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Treating "the economy" as if it were a visible machine you can repair
+- Saying "crime is rising" as if crime were an object you can catch
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+When we reify, we treat concepts as though they have physical properties — location, size, boundaries — that they don't actually have.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Abstract ideas don't have causes the way objects do
+- "Society" doesn't "want" things — people do
+- Policy decisions about "the economy" may not work the way you'd expect
 
 Key concept inside it
 Reification:
-Treating an abstract concept as concrete.
+Treating something that exists only in thought as if it existed in reality.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Economic policies fail when treated like engineering
+- Social movements get misdiagnosed
+- Debates become impossible when arguing about "definitions" rather than facts
 
 One-line version
-Reification = Treating an abstract concept as concrete.`,
+Reification = Treating abstract concepts like "society" or "truth" as concrete, real things.`,
   },
   762: {
-    beginner: `Reification = Treating an abstract concept as concrete.`,
+    beginner: `Reification = Treating abstract concepts like "society" or "truth" as concrete, real things.`,
     detail: `Reification
 
 Description:
-Treating an abstract concept as concrete.
-
-Reification = Treating an abstract concept as concrete
+Treating abstract concepts like "society," "freedom," or "truth" as if they were concrete objects that exist in the world.
 
 Example (question)
 « Conceptual reification. »
+The argument reifies "concepts" — treating ideas as if they were tangible things.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Saying "love made me do it" — treating love as an external force
+- Blaming "the system" as if it were a person with intentions
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+When we reify, we treat concepts as though they have physical properties — location, size, boundaries — that they don't actually have.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Abstract ideas don't have causes the way objects do
+- "Society" doesn't "want" things — people do
+- Policy decisions about "the economy" may not work the way you'd expect
 
 Key concept inside it
 Reification:
-Treating an abstract concept as concrete.
+Treating something that exists only in thought as if it existed in reality.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Economic policies fail when treated like engineering
+- Social movements get misdiagnosed
+- Debates become impossible when arguing about "definitions" rather than facts
 
 One-line version
-Reification = Treating an abstract concept as concrete.`,
+Reification = Treating abstract concepts like "society" or "truth" as concrete, real things.`,
   },
-  763: {
-    beginner: `Retrospective Determinism = Believing that events were inevitable after they occurred.`,
+763: {
+    beginner: `Retrospective Determinism = Believing past events were inevitable because we now know the outcome.`,
     detail: `Retrospective Determinism
 
 Description:
-Believing that events were inevitable after they occurred.
-
-Retrospective Determinism = Believing that events were inevitable after they occurred
+Believing that past events were inevitable after seeing how they turned out — assuming the outcome was obvious all along.
 
 Example (question)
 « It was bound to happen. »
+After seeing the result, we assume it couldn't have been otherwise — forgetting we didn't know the outcome beforehand.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "I knew that company would fail — look at their decisions"
+- "Obviously that investment was risky — anyone could see it"
+- After a stock crashes: "You should have known"
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Knowing the outcome colors our view of the probability. We judge decisions by results, not by what was known at the time.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+-Smart decisions can have bad outcomes due to randomness
+- Bad outcomes don't prove the decision was stupid
+- Hindsight makes risky bets look obviously risky
 
 Key concept inside it
-Retrospective Determinism:
-Believing that events were inevitable after they occurred.
+Hindsight Bias:
+Judging past decisions by their outcomes instead of the information available at the time.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Investors panic after losses even with good strategy
+- Business leaders become risk-averse after failures that weren't predictable
+- Monday-morning quarterbacks dominate sports commentary
 
 One-line version
-Retrospective Determinism = Believing that events were inevitable after they occurred.`,
+Retrospective Determinism = Believing past events were inevitable because we now know the outcome.`,
   },
   764: {
-    beginner: `Retrospective Determinism = Believing that events were inevitable after they occurred.`,
+    beginner: `Retrospective Determinism = Believing past events were inevitable because we now know the outcome.`,
     detail: `Retrospective Determinism
 
 Description:
-Believing that events were inevitable after they occurred.
-
-Retrospective Determinism = Believing that events were inevitable after they occurred
+Believing that past events were inevitable after seeing how they turned out — assuming the outcome was obvious all along.
 
 Example (question)
 « Hindsight bias. »
+The term "hindsight bias" describes seeing past events as predictable after they happened.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "I knew that relationship wouldn't work"
+- After a war: "Leaders should have seen it coming"
+- Looking back at 2008 crisis: "Obviously housing was a bubble"
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Knowing the outcome colors our view of the probability. We judge decisions by results, not by what was known at the time.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Smart decisions can have bad outcomes due to randomness
+- Bad outcomes don't prove the decision was stupid
+- Hindsight makes risky bets look obviously risky
 
 Key concept inside it
-Retrospective Determinism:
-Believing that events were inevitable after they occurred.
+Hindsight Bias:
+Judging past decisions by their outcomes instead of the information available at the time.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Investors panic after losses even with good strategy
+- Business leaders become risk-averse after failures that weren't predictable
+- Monday-morning quarterbacks dominate sports commentary
 
 One-line version
-Retrospective Determinism = Believing that events were inevitable after they occurred.`,
+Retrospective Determinism = Believing past events were inevitable because we now know the outcome.`,
   },
   765: {
-    beginner: `Retrospective Determinism = Believing that events were inevitable after they occurred.`,
+    beginner: `Retrospective Determinism = Believing past events were inevitable because we now know the outcome.`,
     detail: `Retrospective Determinism
 
 Description:
-Believing that events were inevitable after they occurred.
-
-Retrospective Determinism = Believing that events were inevitable after they occurred
+Believing that past events were inevitable after seeing how they turned out — assuming the outcome was obvious all along.
 
 Example (question)
 « Post-event inevitability. »
+After events unfold, we view them as having been inevitable — "it was bound to happen."
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "The pandemic was always going to spread — borders don't work"
+- After an election: "Everyone knew that candidate would win"
+- "History proves the victor was meant to win"
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Knowing the outcome colors our view of the probability. We judge decisions by results, not by what was known at the time.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Smart decisions can have bad outcomes due to randomness
+- Bad outcomes don't prove the decision was stupid
+- Hindsight makes risky bets look obviously risky
 
 Key concept inside it
-Retrospective Determinism:
-Believing that events were inevitable after they occurred.
+Hindsight Bias:
+Judging past decisions by their outcomes instead of the information available at the time.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Investors panic after losses even with good strategy
+- Business leaders become risk-averse after failures that weren't predictable
+- Monday-morning quarterbacks dominate sports commentary
 
 One-line version
-Retrospective Determinism = Believing that events were inevitable after they occurred.`,
+Retrospective Determinism = Believing past events were inevitable because we now know the outcome.`,
   },
   766: {
-    beginner: `Selective Attention = Focusing only on certain information.`,
+    beginner: `Selective Attention = Focusing on certain facts while ignoring others that contradict the conclusion.`,
     detail: `Selective Attention
 
 Description:
-Focusing only on certain information.
-
-Selective Attention = Focusing only on certain information
+Focusing on some information while ignoring other facts that might contradict your conclusion.
 
 Example (question)
 « Ignoring inconvenient facts. »
+The arguer highlights only the evidence supporting their position, ignoring evidence that would contradict it.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Product reviews: only showing 5-star ratings
+- News: covering one side of a conflict
+- Climate: focusing on cold winters to question warming
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+We naturally seek information that confirms what we already believe. This confirmation bias leads us to ignore contradictory evidence.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Strong claims require looking at counterevidence
+- "Missing" evidence is often the most important
+- Selective attention can be unconscious
 
 Key concept inside it
-Selective Attention:
-Focusing only on certain information.
+Confirmation Bias:
+Seeking information that confirms existing beliefs while ignoring contradictory evidence.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Reviews systems get gamed
+- Politics became polarized
+- Scientific disputes last years longer than needed
 
 One-line version
-Selective Attention = Focusing only on certain information.`,
+Selective Attention = Focusing on certain facts while ignoring others that contradict the conclusion.`,
   },
   767: {
-    beginner: `Selective Attention = Focusing only on certain information.`,
+    beginner: `Selective Attention = Focusing on certain facts while ignoring others that contradict the conclusion.`,
     detail: `Selective Attention
 
 Description:
-Focusing only on certain information.
-
-Selective Attention = Focusing only on certain information
+Focusing on some information while ignoring other facts that might contradict your conclusion.
 
 Example (question)
 « Biased perception. »
+The arguer sees only what supports their view — "biased perception" describes this one-sided view.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Looking for reasons your team lost, but not why the other won
+- Noticing only the flaws in competing products
+- Remembering when your advice helped but not when it didn't
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+We naturally seek information that confirms what we already believe. This confirmation bias leads us to ignore contradictory evidence.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Strong claims require looking at counterevidence
+- "Missing" evidence is often the most important
+- Selective attention can be unconscious
 
 Key concept inside it
-Selective Attention:
-Focusing only on certain information.
+Confirmation Bias:
+Seeking information that confirms existing beliefs while ignoring contradictory evidence.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Reviews systems get gamed
+- Politics became polarized
+- Scientific disputes last years longer than needed
 
 One-line version
-Selective Attention = Focusing only on certain information.`,
+Selective Attention = Focusing on certain facts while ignoring others that contradict the conclusion.`,
   },
   768: {
-    beginner: `Selective Attention = Focusing only on certain information.`,
+    beginner: `Selective Attention = Focusing on certain facts while ignoring others that contradict the conclusion.`,
     detail: `Selective Attention
 
 Description:
-Focusing only on certain information.
-
-Selective Attention = Focusing only on certain information
+Focusing on some information while ignoring other facts that might contradict your conclusion.
 
 Example (question)
 « Selective focus. »
+The narrow focus on one aspect while ignoring everything else — that's selective attention.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Only looking at one metric in a complex situation
+- Focusing on the cost but not the quality
+- Noticing one person's behavior while ignoring the group
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+We naturally seek information that confirms what we already believe. This confirmation bias leads us to ignore contradictory evidence.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Strong claims require looking at counterevidence
+- "Missing" evidence is often the most important
+- Selective attention can be unconscious
 
 Key concept inside it
-Selective Attention:
-Focusing only on certain information.
+Confirmation Bias:
+Seeking information that confirms existing beliefs while ignoring contradictory evidence.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Reviews systems get gamed
+- Politics became polarized
+- Scientific disputes last years longer than needed
 
 One-line version
-Selective Attention = Focusing only on certain information.`,
+Selective Attention = Focusing on certain facts while ignoring others that contradict the conclusion.`,
   },
   769: {
-    beginner: `Self-Fulfilling Prophecy = A prediction that causes itself to become true.`,
+    beginner: `Self-Fulfilling Prophecy = A belief that causes itself to become true through behavior.`,
     detail: `Self-Fulfilling Prophecy
 
 Description:
-A prediction that causes itself to become true.
-
-Self-Fulfilling Prophecy = A prediction that causes itself to become true
+When a belief about a situation changes behavior in a way that makes the belief come true.
 
 Example (question)
 « Expecting failure leads to failure. »
+If you expect to fail, you may not try as hard — making failure more likely. The expectation becomes self-fulfilling.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- A run on a bank: fears about insolvency cause banks to fail
+- stereotype threat: underperforming due to fear of confirming a stereotype
+- Market panic: selling because you expect prices to drop
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Beliefs influence behavior, behavior influences outcomes, outcomes confirm beliefs — creating a loop.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Predictions can create the future they predict
+- Markets and societies are particularly vulnerable
+- "There's no such thing as a self-fulfilling prophecy" could also be one
 
 Key concept inside it
-Self-Fulfilling Prophecy:
-A prediction that causes itself to become true.
+Circular Causality:
+When an outcome is caused by the very prediction of that outcome.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Economic crises can be caused by fear of crises
+- Social predictions can create the outcomes predicted
+- Labeling children can affect their performance
 
 One-line version
-Self-Fulfilling Prophecy = A prediction that causes itself to become true.`,
+Self-Fulfilling Prophecy = A belief that causes itself to become true through behavior.`,
   },
   770: {
-    beginner: `Self-Fulfilling Prophecy = A prediction that causes itself to become true.`,
+    beginner: `Self-Fulfilling Prophecy = A belief that causes itself to become true through behavior.`,
     detail: `Self-Fulfilling Prophecy
 
 Description:
-A prediction that causes itself to become true.
-
-Self-Fulfilling Prophecy = A prediction that causes itself to become true
+When a belief about a situation changes behavior in a way that makes the belief come true.
 
 Example (question)
 « Beliefs create reality. »
+The idea that what we believe "creates" the outcome — through the actions our beliefs cause.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "Think positively and you'll succeed"
+- Belief that a negotiation will fail makes it fail
+- Confidence in a relationship helps it succeed
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Beliefs influence behavior, behavior influences outcomes, outcomes confirm beliefs — creating a loop.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Predictions can create the future they predict
+- Markets and societies are particularly vulnerable
+- "There's no such thing as a self-fulfilling prophecy" could also be one
 
 Key concept inside it
-Self-Fulfilling Prophecy:
-A prediction that causes itself to become true.
+Circular Causality:
+When an outcome is caused by the very prediction of that outcome.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Economic crises can be caused by fear of crises
+- Social predictions can create the outcomes predicted
+- Labeling children can affect their performance
 
 One-line version
-Self-Fulfilling Prophecy = A prediction that causes itself to become true.`,
+Self-Fulfilling Prophecy = A belief that causes itself to become true through behavior.`,
   },
   771: {
-    beginner: `Self-Fulfilling Prophecy = A prediction that causes itself to become true.`,
+    beginner: `Self-Fulfilling Prophecy = A belief that causes itself to become true through behavior.`,
     detail: `Self-Fulfilling Prophecy
 
 Description:
-A prediction that causes itself to become true.
-
-Self-Fulfilling Prophecy = A prediction that causes itself to become true
+When a belief about a situation changes behavior in a way that makes the belief come true.
 
 Example (question)
 « Prophecy fulfillment. »
+The term "prophecy fulfillment" describes when a prediction creates its own outcome.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- A prophecy about a market crash causes selling, then the crash
+- Expecting a relationship to fail causes distant behavior that fails it
+- Belief that a team will win energizes them to win
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Beliefs influence behavior, behavior influences outcomes, outcomes confirm beliefs — creating a loop.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Predictions can create the future they predict
+- Markets and societies are particularly vulnerable
+- "There's no such thing as a self-fulfilling prophecy" could also be one
 
 Key concept inside it
-Self-Fulfilling Prophecy:
-A prediction that causes itself to become true.
+Circular Causality:
+When an outcome is caused by the very prediction of that outcome.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Economic crises can be caused by fear of crises
+- Social predictions can create the outcomes predicted
+- Labeling children can affect their performance
 
 One-line version
-Self-Fulfilling Prophecy = A prediction that causes itself to become true.`,
+Self-Fulfilling Prophecy = A belief that causes itself to become true through behavior.`,
   },
   772: {
-    beginner: `Social Desirability Bias = Answering questions in a way that is socially acceptable.`,
+    beginner: `Social Desirability Bias = Answering surveys or questions to appear socially acceptable.`,
     detail: `Social Desirability Bias
 
 Description:
-Answering questions in a way that is socially acceptable.
-
-Social Desirability Bias = Answering questions in a way that is socially acceptable
+When people answer questions in a way that makes them look good rather than honest.
 
 Example (question)
 « Lying on surveys. »
+People often misrepresent themselves on surveys to look better — downplaying unpopular opinions, exaggerating positive behaviors.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Saying you vote when you don't
+- Over-reporting exercise on health forms
+- Under-reporting drinking alcohol
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Social pressure makes us present ourselves favorably. We worry about judgment, so we distort the truth.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Survey results are often biased toward "acceptable" answers
+- Self-reporting is unreliable for sensitive topics
+- The gap between "what people say" and "what people do" matters
 
 Key concept inside it
-Social Desirability Bias:
-Answering questions in a way that is socially acceptable.
+Self-Presentation:
+Managing how others perceive us — sometimes at the cost of honesty.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Polls can be wrong on controversial topics
+- Health data underestimates unhealthy behaviors
+- Employee feedback forms miss real issues
 
 One-line version
-Social Desirability Bias = Answering questions in a way that is socially acceptable.`,
+Social Desirability Bias = Answering surveys or questions to appear socially acceptable.`,
   },
   773: {
-    beginner: `Social Desirability Bias = Answering questions in a way that is socially acceptable.`,
+    beginner: `Social Desirability Bias = Answering surveys or questions to appear socially acceptable.`,
     detail: `Social Desirability Bias
 
 Description:
-Answering questions in a way that is socially acceptable.
-
-Social Desirability Bias = Answering questions in a way that is socially acceptable
+When people answer questions in a way that makes them look good rather than honest.
 
 Example (question)
 « Presenting self favorably. »
+People present themselves in the best light — even when the truth would be less flattering.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Describing yourself as "flexible" instead of "indecisive"
+- Calling yourself "straightforward" when you're rude
+- Saying you're "busy" instead of "unproductive"
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Social pressure makes us present ourselves favorably. We worry about judgment, so we distort the truth.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Survey results are often biased toward "acceptable" answers
+- Self-reporting is unreliable for sensitive topics
+- The gap between "what people say" and "what people do" matters
 
 Key concept inside it
-Social Desirability Bias:
-Answering questions in a way that is socially acceptable.
+Self-Presentation:
+Managing how others perceive us — sometimes at the cost of honesty.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Polls can be wrong on controversial topics
+- Health data underestimates unhealthy behaviors
+- Employee feedback forms miss real issues
 
 One-line version
-Social Desirability Bias = Answering questions in a way that is socially acceptable.`,
+Social Desirability Bias = Answering surveys or questions to appear socially acceptable.`,
   },
   774: {
-    beginner: `Social Desirability Bias = Answering questions in a way that is socially acceptable.`,
+    beginner: `Social Desirability Bias = Answering surveys or questions to appear socially acceptable.`,
     detail: `Social Desirability Bias
 
 Description:
-Answering questions in a way that is socially acceptable.
-
-Social Desirability Bias = Answering questions in a way that is socially acceptable
+When people answer questions in a way that makes them look good rather than honest.
 
 Example (question)
 « Social approval bias. »
+We answer to fit in — choosing what sounds "right" rather than what's true.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Conforming opinions to friend groups
+- Saying "I love that movie" because others do
+- Pretending to understand when you don't
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Social pressure makes us present ourselves favorably. We worry about judgment, so we distort the truth.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Survey results are often biased toward "acceptable" answers
+- Self-reporting is unreliable for sensitive topics
+- The gap between "what people say" and "what people do" matters
 
 Key concept inside it
-Social Desirability Bias:
-Answering questions in a way that is socially acceptable.
+Self-Presentation:
+Managing how others perceive us — sometimes at the cost of honesty.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Polls can be wrong on controversial topics
+- Health data underestimates unhealthy behaviors
+- Employee feedback forms miss real issues
 
 One-line version
-Social Desirability Bias = Answering questions in a way that is socially acceptable.`,
+Social Desirability Bias = Answering surveys or questions to appear socially acceptable.`,
   },
   775: {
-    beginner: `Status Quo Bias = Preferring things to stay the same.`,
+    beginner: `Status Quo Bias = Preferring the current state of things over change.`,
     detail: `Status Quo Bias
 
 Description:
-Preferring things to stay the same.
-
-Status Quo Bias = Preferring things to stay the same
+A preference for keeping things as they are — resistance to change, even when change would be better.
 
 Example (question)
 « Resisting change. »
+The comfort of familiar routines makes us resist changes, even beneficial ones.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Keeping the same phone plan even when better options exist
+- Not switching banks despite better rates elsewhere
+- Sticking with outdated processes "because that's how we've always done it"
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Change requires effort and carries risk. The current state feels "safe" even when it's not optimal.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- We overvalue what we have
+- Change feels riskier than it is
+- "If it ain't broke" can prevent improvement
 
 Key concept inside it
-Status Quo Bias:
-Preferring things to stay the same.
+Loss Aversion:
+Changes that feel like losses are weighted more heavily than equivalent gains.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Companies resist innovation
+- Government programs become permanent
+- Personal finances suffer from inertia
 
 One-line version
-Status Quo Bias = Preferring things to stay the same.`,
+Status Quo Bias = Preferring the current state of things over change.`,
   },
   776: {
-    beginner: `Status Quo Bias = Preferring things to stay the same.`,
+    beginner: `Status Quo Bias = Preferring the current state of things over change.`,
     detail: `Status Quo Bias
 
 Description:
-Preferring things to stay the same.
-
-Status Quo Bias = Preferring things to stay the same
+A preference for keeping things as they are — resistance to change, even when change would be better.
 
 Example (question)
 « Sticking with familiar. »
+The familiar feels comfortable. We stick with what we know, even when alternatives are better.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Keeping the same morning routine despite better options
+- Not trying new products you're used to
+- Staying in jobs longer than you should
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Change requires effort and carries risk. The current state feels "safe" even when it's not optimal.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- We overvalue what we have
+- Change feels riskier than it is
+- "If it ain't broke" can prevent improvement
 
 Key concept inside it
-Status Quo Bias:
-Preferring things to stay the same.
+Loss Aversion:
+Changes that feel like losses are weighted more heavily than equivalent gains.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Companies resist innovation
+- Government programs become permanent
+- Personal finances suffer from inertia
 
 One-line version
-Status Quo Bias = Preferring things to stay the same.`,
+Status Quo Bias = Preferring the current state of things over change.`,
   },
   777: {
-    beginner: `Status Quo Bias = Preferring things to stay the same.`,
+    beginner: `Status Quo Bias = Preferring the current state of things over change.`,
     detail: `Status Quo Bias
 
 Description:
-Preferring things to stay the same.
-
-Status Quo Bias = Preferring things to stay the same
+A preference for keeping things as they are — resistance to change, even when change would be better.
 
 Example (question)
 « Inertia preference. »
+"When it's not broken, don't fix it" — but sometimes not fixing things stops progress.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Not updating software that would be better
+- Keeping old habits even when better ones exist
+- Opposing any change "just because"
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Change requires effort and carries risk. The current state feels "safe" even when it's not optimal.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- We overvalue what we have
+- Change feels riskier than it is
+- "If it ain't broke" can prevent improvement
 
 Key concept inside it
-Status Quo Bias:
-Preferring things to stay the same.
+Loss Aversion:
+Changes that feel like losses are weighted more heavily than equivalent gains.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Companies resist innovation
+- Government programs become permanent
+- Personal finances suffer from inertia
 
 One-line version
-Status Quo Bias = Preferring things to stay the same.`,
+Status Quo Bias = Preferring the current state of things over change.`,
   },
   778: {
-    beginner: `Stereotyping = Applying generalizations to individuals.`,
+    beginner: `Stereotyping = Applying group generalizations to individuals.`,
     detail: `Stereotyping
 
 Description:
-Applying generalizations to individuals.
-
-Stereotyping = Applying generalizations to individuals
+Applying broad generalizations about a group to specific individuals in that group.
 
 Example (question)
 « Judging by group traits. »
+Assuming someone has certain traits because they belong to a particular group.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "People from this country are good at math"
+- "Young people are bad with money"
+- "Older workers can't learn new technology"
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Group patterns may exist, but individuals vary. Applying group averages to individuals ignores personal differences.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Group patterns don't predict individuals
+- Stereotypes become self-fulfilling
+- Personal merit gets overlooked
 
 Key concept inside it
-Stereotyping:
-Applying generalizations to individuals.
+Group vs Individual:
+Statistics describe groups but not necessarily individuals within them.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Discrimination persists in hiring and promotions
+- Individual potential gets ignored
+- Diverse teams underperform due to stereotyping
 
 One-line version
-Stereotyping = Applying generalizations to individuals.`,
+Stereotyping = Applying group generalizations to individuals.`,
   },
   779: {
-    beginner: `Stereotyping = Applying generalizations to individuals.`,
+    beginner: `Stereotyping = Applying group generalizations to individuals.`,
     detail: `Stereotyping
 
 Description:
-Applying generalizations to individuals.
-
-Stereotyping = Applying generalizations to individuals
+Applying broad generalizations about a group to specific individuals in that group.
 
 Example (question)
 « Prejudiced assumptions. »
+Prejudging someone's abilities or character based on their group membership.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Assuming someone is less capable because of their background
+- Expecting certain behavior based on age, gender, or ethnicity
+- Judging a book by its cover
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Group patterns may exist, but individuals vary. Applying group averages to individuals ignores personal differences.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Group patterns don't predict individuals
+- Stereotypes become self-fulfilling
+- Personal merit gets overlooked
 
 Key concept inside it
-Stereotyping:
-Applying generalizations to individuals.
+Group vs Individual:
+Statistics describe groups but not necessarily individuals within them.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Discrimination persists in hiring and promotions
+- Individual potential gets ignored
+- Diverse teams underperform due to stereotyping
 
 One-line version
-Stereotyping = Applying generalizations to individuals.`,
+Stereotyping = Applying group generalizations to individuals.`,
   },
   780: {
-    beginner: `Stereotyping = Applying generalizations to individuals.`,
+    beginner: `Stereotyping = Applying group generalizations to individuals.`,
     detail: `Stereotyping
 
 Description:
-Applying generalizations to individuals.
-
-Stereotyping = Applying generalizations to individuals
+Applying broad generalizations about a group to specific individuals in that group.
 
 Example (question)
 « Group-based bias. »
+Letting someone's group membership shape your expectations about them — ignoring the individual.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Assuming someone will fail because they "always fail"
+- Treating someone differently because of their background
+- Expecting specific behavior from someone based on identity
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Group patterns may exist, but individuals vary. Applying group averages to individuals ignores personal differences.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Group patterns don't predict individuals
+- Stereotypes become self-fulfilling
+- Personal merit gets overlooked
 
 Key concept inside it
-Stereotyping:
-Applying generalizations to individuals.
+Group vs Individual:
+Statistics describe groups but not necessarily individuals within them.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Discrimination persists in hiring and promotions
+- Individual potential gets ignored
+- Diverse teams underperform due to stereotyping
 
 One-line version
-Stereotyping = Applying generalizations to individuals.`,
+Stereotyping = Applying group generalizations to individuals.`,
   },
   781: {
-    beginner: `Suggestibility = Being easily influenced by suggestions.`,
+    beginner: `Suggestibility = Being influenced by suggestions without realizing it.`,
     detail: `Suggestibility
 
 Description:
-Being easily influenced by suggestions.
-
-Suggestibility = Being easily influenced by suggestions
+Accepting ideas or beliefs because others suggested them — without critical evaluation.
 
 Example (question)
 « Adopting suggested ideas. »
+The arguer accepts an idea simply because it was suggested, not because it was proven.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "That's a great idea!" makes you agree before thinking
+- Product recommendations influence your choices
+- Ads create "phantom needs"
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Our brains use mental shortcuts. Suggestions feel like our own thoughts, so we accept them too easily.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Questions can influence answers
+-Advertising works below awareness
+- Even "neutral" suggestions can sway us
 
 Key concept inside it
-Suggestibility:
-Being easily influenced by suggestions.
+Priming:
+External cues influencing subsequent thoughts and behaviors without awareness.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Marketing is so effective
+- Focus groups can be manipulated
+- Therapy and interrogation use suggestion
 
 One-line version
-Suggestibility = Being easily influenced by suggestions.`,
+Suggestibility = Being influenced by suggestions without realizing it.`,
   },
   782: {
-    beginner: `Suggestibility = Being easily influenced by suggestions.`,
+    beginner: `Suggestibility = Being influenced by suggestions without realizing it.`,
     detail: `Suggestibility
 
 Description:
-Being easily influenced by suggestions.
-
-Suggestibility = Being easily influenced by suggestions
+Accepting ideas or beliefs because others suggested them — without critical evaluation.
 
 Example (question)
 « Influence from cues. »
+Subtle cues from others — tone, phrasing, framing — influence what we think and believe.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "How could you NOT want that?" creates desire
+- Phrasing prices as "pennies a day" makes them seem small
+- "Don't think about a pink elephant" backfires
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Our brains use mental shortcuts. Suggestions feel like our own thoughts, so we accept them too easily.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Questions can influence answers
+- Advertising works below awareness
+- Even "neutral" suggestions can sway us
 
 Key concept inside it
-Suggestibility:
-Being easily influenced by suggestions.
+Priming:
+External cues influencing subsequent thoughts and behaviors without awareness.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Marketing is so effective
+- Focus groups can be manipulated
+- Therapy and interrogation use suggestion
 
 One-line version
-Suggestibility = Being easily influenced by suggestions.`,
+Suggestibility = Being influenced by suggestions without realizing it.`,
   },
   783: {
-    beginner: `Suggestibility = Being easily influenced by suggestions.`,
+    beginner: `Suggestibility = Being influenced by suggestions without realizing it.`,
     detail: `Suggestibility
 
 Description:
-Being easily influenced by suggestions.
-
-Suggestibility = Being easily influenced by suggestions
+Accepting ideas or beliefs because others suggested them — without critical evaluation.
 
 Example (question)
 « Suggestive bias. »
+When what someone suggests changes how you see things — that's the bias working.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- After hearing "this might hurt," it does hurt more
+- Warning about a side effect increases worry about it
+- Asking "did you see anything unusual?" can create false memories
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Our brains use mental shortcuts. Suggestions feel like our own thoughts, so we accept them too easily.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Questions can influence answers
+- Advertising works below awareness
+- Even "neutral" suggestions can sway us
 
 Key concept inside it
-Suggestibility:
-Being easily influenced by suggestions.
+Priming:
+External cues influencing subsequent thoughts and behaviors without awareness.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Marketing is so effective
+- Focus groups can be manipulated
+- Therapy and interrogation use suggestion
 
 One-line version
-Suggestibility = Being easily influenced by suggestions.`,
+Suggestibility = Being influenced by suggestions without realizing it.`,
   },
   784: {
-    beginner: `Survivor Bias = Focusing on successes while ignoring failures.`,
+    beginner: `Survivor Bias = Learning from successful examples while ignoring failed ones.`,
     detail: `Survivor Bias
 
 Description:
-Focusing on successes while ignoring failures.
-
-Survivor Bias = Focusing on successes while ignoring failures
+Focusing on successful cases while ignoring unsuccessful ones — creating a distorted view.
 
 Example (question)
 « Learning from winners only. »
+We study what succeeded, but what failed is invisible — leading to wrong lessons.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Studying only successful entrepreneurs
+- Learning from "best practices" that were actually luck
+- Ignoring all the people who tried the same thing and failed
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Failures are harder to see — they disappear. We only see survivors, so we think success is easier.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Success stories are a biased sample
+- "Just do what they did" often fails
+- The graveyard of failures is silent
 
 Key concept inside it
-Survivor Bias:
-Focusing on successes while ignoring failures.
+Selection Bias:
+The sample you study is not representative because it only includes successes.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Business books are often wrong
+- "Secrets of success" don't work
+- Startups fail at high rates despite visible successes
 
 One-line version
-Survivor Bias = Focusing on successes while ignoring failures.`,
+Survivor Bias = Learning from successful examples while ignoring failed ones.`,
   },
   785: {
-    beginner: `Survivor Bias = Focusing on successes while ignoring failures.`,
+    beginner: `Survivor Bias = Learning from successful examples while ignoring failed ones.`,
     detail: `Survivor Bias
 
 Description:
-Focusing on successes while ignoring failures.
-
-Survivor Bias = Focusing on successes while ignoring failures
+Focusing on successful cases while ignoring unsuccessful ones — creating a distorted view.
 
 Example (question)
 « Ignoring the fallen. »
+We see the survivors, not those who didn't make it — giving us a false picture.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "My grandfather smoked and lived to 90"
+- Investors who made money are visible; those who lost aren't
+- Celebrity success stories overshadow failures
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Failures are harder to see — they disappear. We only see survivors, so we think success is easier.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Success stories are a biased sample
+- "Just do what they did" often fails
+- The graveyard of failures is silent
 
 Key concept inside it
-Survivor Bias:
-Focusing on successes while ignoring failures.
+Selection Bias:
+The sample you study is not representative because it only includes successes.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Business books are often wrong
+- "Secrets of success" don't work
+- Startups fail at high rates despite visible successes
 
 One-line version
-Survivor Bias = Focusing on successes while ignoring failures.`,
+Survivor Bias = Learning from successful examples while ignoring failed ones.`,
   },
   786: {
-    beginner: `Survivor Bias = Focusing on successes while ignoring failures.`,
+    beginner: `Survivor Bias = Learning from successful examples while ignoring failed ones.`,
     detail: `Survivor Bias
 
 Description:
-Focusing on successes while ignoring failures.
-
-Survivor Bias = Focusing on successes while ignoring failures
+Focusing on successful cases while ignoring unsuccessful ones — creating a distorted view.
 
 Example (question)
 « Biased success view. »
+We see success and assume it's representative — forgetting how many tried and failed.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Hollywood success stories: thousands of failed films
+- Famous authors: millions of rejected manuscripts
+- CEO success stories: many who tried and failed
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Failures are harder to see — they disappear. We only see survivors, so we think success is easier.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Success stories are a biased sample
+- "Just do what they did" often fails
+- The graveyard of failures is silent
 
 Key concept inside it
-Survivor Bias:
-Focusing on successes while ignoring failures.
+Selection Bias:
+The sample you study is not representative because it only includes successes.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Business books are often wrong
+- "Secrets of success" don't work
+- Startups fail at high rates despite visible successes
 
 One-line version
-Survivor Bias = Focusing on successes while ignoring failures.`,
+Survivor Bias = Learning from successful examples while ignoring failed ones.`,
   },
   787: {
-    beginner: `Telescoping Effect = Misremembering the timing of events.`,
+    beginner: `Telescoping Effect = Misremembering when events happened — recent ones seem distant, distant seem recent.`,
     detail: `Telescoping Effect
 
 Description:
-Misremembering the timing of events.
-
-Telescoping Effect = Misremembering the timing of events
+Distorting time perception — recent events seem longer ago (backward telescoping), and distant events seem recent (forward telescoping).
 
 Example (question)
 « Thinking events happened more recently. »
+When you can't remember exactly when something happened, time gets compressed or expanded.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "That happened last year" — actually two years ago
+- Childhood memories feel closer than they are
+- Last week's argument feels like ages ago
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Our memory doesn't work like a video camera. Time perception is fluid and gets distorted.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Memory decay affects recency judgments
+- Salient events get misdated
+- Memories get compressed over time
 
 Key concept inside it
-Telescoping Effect:
-Misremembering the timing of events.
+Temporal Distortion:
+Our sense of time doesn't match clock time — especially for memories.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Eyewitness testimony can be off by years
+- Legal cases depend on accurate timelines
+- Personal history gets fuzzy
 
 One-line version
-Telescoping Effect = Misremembering the timing of events.`,
+Telescoping Effect = Misremembering when events happened — recent ones seem distant, distant seem recent.`,
   },
   788: {
-    beginner: `Telescoping Effect = Misremembering the timing of events.`,
+    beginner: `Telescoping Effect = Misremembering when events happened — recent ones seem distant, distant seem recent.`,
     detail: `Telescoping Effect
 
 Description:
-Misremembering the timing of events.
-
-Telescoping Effect = Misremembering the timing of events
+Distorting time perception — recent events seem longer ago (backward telescoping), and distant events seem recent (forward telescoping).
 
 Example (question)
 « Memory timing error. »
+When trying to recall an event, the dates get scrambled — making recent feel old and old feel recent.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "That was last summer" — actually three years ago
+- Mixing up the order of events from different years
+- Childhood memories feel like they happened recently
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Our memory doesn't work like a video camera. Time perception is fluid and gets distorted.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Memory decay affects recency judgments
+- Salient events get misdated
+- Memories get compressed over time
 
 Key concept inside it
-Telescoping Effect:
-Misremembering the timing of events.
+Temporal Distortion:
+Our sense of time doesn't match clock time — especially for memories.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Eyewitness testimony can be off by years
+- Legal cases depend on accurate timelines
+- Personal history gets fuzzy
 
 One-line version
-Telescoping Effect = Misremembering the timing of events.`,
+Telescoping Effect = Misremembering when events happened — recent ones seem distant, distant seem recent.`,
   },
   789: {
-    beginner: `Telescoping Effect = Misremembering the timing of events.`,
+    beginner: `Telescoping Effect = Misremembering when events happened — recent ones seem distant, distant seem recent.`,
     detail: `Telescoping Effect
 
 Description:
-Misremembering the timing of events.
-
-Telescoping Effect = Misremembering the timing of events
+Distorting time perception — recent events seem longer ago (backward telescoping), and distant events seem recent (forward telescoping).
 
 Example (question)
 « Temporal distortion. »
+Time gets compressed or expanded in memory — making it hard to judge when things happened.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Feeling like things happened longer ago
+- Last month's event feels like last year
+- Childhood memories feel more recent than they are
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Our memory doesn't work like a video camera. Time perception is fluid and gets distorted.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Memory decay affects recency judgments
+- Salient events get misdated
+- Memories get compressed over time
 
 Key concept inside it
-Telescoping Effect:
-Misremembering the timing of events.
+Temporal Distortion:
+Our sense of time doesn't match clock time — especially for memories.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Eyewitness testimony can be off by years
+- Legal cases depend on accurate timelines
+- Personal history gets fuzzy
 
 One-line version
-Telescoping Effect = Misremembering the timing of events.`,
+Telescoping Effect = Misremembering when events happened — recent ones seem distant, distant seem recent.`,
   },
   790: {
-    beginner: `The Fallacy Fallacy = Assuming an argument is wrong because it contains a fallacy.`,
+    beginner: `The Fallacy Fallacy = Assuming a conclusion is false because the argument contains a fallacy.`,
     detail: `The Fallacy Fallacy
 
 Description:
-Assuming an argument is wrong because it contains a fallacy.
-
-The Fallacy Fallacy = Assuming an argument is wrong because it contains a fallacy
+Assuming that because an argument contains a flaw, its conclusion must be wrong.
 
 Example (question)
 « Bad argument means bad conclusion. »
+The arguer uses a weak argument, so we reject the conclusion — even if it might be true.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "That person is emotional" doesn't mean their point is wrong
+- Dismissing an idea because it came from a biased source
+- "That's a stereotype" doesn't make the claim false
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+A flawed argument can still reach a true conclusion. The argument's quality is separate from the conclusion's truth.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Bad logic doesn't prove the conclusion false
+- Even bad sources can be right
+- Attack the argument, not the person
 
 Key concept inside it
-The Fallacy Fallacy:
-Assuming an argument is wrong because it contains a fallacy.
+Argument vs Truth:
+An argument's structure can be flawed while its conclusion is correct.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- People dismiss valid points for wrong reasons
+- "Fallacy!" becomes a conversation ender
+- Good ideas get rejected due to poor expression
 
 One-line version
-The Fallacy Fallacy = Assuming an argument is wrong because it contains a fallacy.`,
+The Fallacy Fallacy = Assuming a conclusion is false because the argument contains a fallacy.`,
   },
-  791: {
-    beginner: `The Fallacy Fallacy = Assuming an argument is wrong because it contains a fallacy.`,
+791: {
+    beginner: `The Fallacy Fallacy = Rejecting a conclusion because it was argued badly.`,
     detail: `The Fallacy Fallacy
 
 Description:
-Assuming an argument is wrong because it contains a fallacy.
-
-The Fallacy Fallacy = Assuming an argument is wrong because it contains a fallacy
+Rejecting a conclusion because the argument for it was flawed — even if the conclusion might be true.
 
 Example (question)
 « Fallacy invalidates truth. »
+The reasoning is weak, so we assume the conclusion is wrong — but the two are separate.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "That person is too emotional" doesn't mean they're wrong
+- Rejecting advice because a biased person gave it
+- Dismissing facts because of how they were presented
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+A flawed argument can still reach a true conclusion. The argument's quality is separate from the conclusion's truth.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Bad logic doesn't prove the conclusion false
+- Even bad sources can be right
+- Attack the argument, not the person
 
 Key concept inside it
-The Fallacy Fallacy:
-Assuming an argument is wrong because it contains a fallacy.
+Argument vs Truth:
+An argument's structure can be flawed while its conclusion is correct.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- People dismiss valid points for wrong reasons
+- "Fallacy!" becomes a conversation ender
+- Good ideas get rejected due to poor expression
 
 One-line version
-The Fallacy Fallacy = Assuming an argument is wrong because it contains a fallacy.`,
+The Fallacy Fallacy = Rejecting a conclusion because it was argued badly.`,
+  },
+  792: {
+    beginner: `The Fallacy Fallacy = Rejecting a conclusion because it was argued badly.`,
+    detail: `The Fallacy Fallacy
+
+Description:
+Rejecting a conclusion because the argument for it was flawed — even if the conclusion might be true.
+
+Example (question)
+« Overgeneralizing fallacy impact. »
+Dismissing the entire point because one part of the argument is weak.
+
+Example (everyday)
+- "That's anecdotal" can dismiss real evidence
+- "They're biased" makes everything they say wrong
+- One flaw ruins the whole argument
+
+How it works
+A flawed argument can still reach a true conclusion. The argument's quality is separate from the conclusion's truth.
+
+So:
+- Bad logic doesn't prove the conclusion false
+- Even bad sources can be right
+- Attack the argument, not the person
+
+Key concept inside it
+Argument vs Truth:
+An argument's structure can be flawed while its conclusion is correct.
+
+Why it matters
+Explains why:
+- People dismiss valid points for wrong reasons
+- "Fallacy!" becomes a conversation ender
+- Good ideas get rejected due to poor expression
+
+One-line version
+The Fallacy Fallacy = Rejecting a conclusion because it was argued badly.`,
+  },
+  793: {
+    beginner: `The Gambler's Fallacy = Believing past random outcomes affect future random ones.`,
+    detail: `The Gambler's Fallacy
+
+Description:
+Believing that because something happened more (or less) often recently, it will happen less (or more) often next.
+
+Example (question)
+« After losses, expecting win. »
+After losing several times, expecting to win — as if the past rolls "owe" you a win.
+
+Example (everyday)
+- The roulette table is "due" for red after 10 blacks
+- Coin flips: "heads is coming" after tails
+- Lottery numbers that haven't hit are "due"
+
+How it works
+Random events have no memory. Each outcome is independent — past results don't influence future ones.
+
+So:
+- Gamblers "feel" patterns where there are none
+- Each spin/roll/flip is completely independent
+- The "hot hand" is an illusion
+
+Key concept inside it
+Independence:
+Each random event is separate from all previous events — no "balancing" occurs.
+
+Why it matters
+Explains why:
+- Casino games always favor the house
+- Lottery is never "due to win"
+- Investors chase "patterns" that don't exist
+
+One-line version
+The Gambler's Fallacy = Believing past random outcomes affect future random ones.`,
+  },
+  794: {
+    beginner: `The Gambler's Fallacy = Believing past random outcomes affect future random ones.`,
+    detail: `The Gambler's Fallacy
+
+Description:
+Believing that because something happened more (or less) often recently, it will happen less (or more) often next.
+
+Example (question)
+« Hot hand belief. »
+When something works once, we expect it to "continue" — but random events don't work that way.
+
+Example (everyday)
+- "She's on a winning streak" in games
+- "This stock is hot"
+- Believing a slot machine is "ready to pay"
+
+How it works
+Random events have no memory. Each outcome is independent — past results don't influence future ones.
+
+So:
+- Gamblers "feel" patterns where there are none
+- Each spin/roll/flip is completely independent
+- The "hot hand" is an illusion
+
+Key concept inside it
+Independence:
+Each random event is separate from all previous events — no "balancing" occurs.
+
+Why it matters
+Explains why:
+- Casino games always favor the house
+- Lottery is never "due to win"
+- Investors chase "patterns" that don't exist
+
+One-line version
+The Gambler's Fallacy = Believing past random outcomes affect future random ones.`,
+  },
+  795: {
+    beginner: `The Gambler's Fallacy = Believing past random outcomes affect future random ones.`,
+    detail: `The Gambler's Fallacy
+
+Description:
+Believing that because something happened more (or less) often recently, it will happen less (or more) often next.
+
+Example (question)
+« Misjudging probability. »
+Thinking that after many draws, the odds "shift" — but they don't.
+
+Example (everyday)
+- Flipping a coin: 5 heads, then "tails has to come"
+- The lottery "must" have your number soon
+- Losing makes you think you're "due" for a win
+
+How it works
+Random events have no memory. Each outcome is independent — past results don't influence future ones.
+
+So:
+- Gamblers "feel" patterns where there are none
+- Each spin/roll/flip is completely independent
+- The "hot hand" is an illusion
+
+Key concept inside it
+Independence:
+Each random event is separate from all previous events — no "balancing" occurs.
+
+Why it matters
+Explains why:
+- Casino games always favor the house
+- Lottery is never "due to win"
+- Investors chase "patterns" that don't exist
+
+One-line version
+The Gambler's Fallacy = Believing past random outcomes affect future random ones.`,
+  },
+  796: {
+    beginner: `The Halo Effect = Letting one trait influence all your judgments about someone.`,
+    detail: `The Halo Effect
+
+Description:
+When one positive (or negative) trait makes you judge everything else about someone more positively (or negatively).
+
+Example (question)
+« Good in one area means good in all. »
+We assume attractive people are more competent, or nice people are smarter — but these aren't related.
+
+Example (everyday)
+- Attractive people get hired more easily
+- A friendly person seems more competent
+- A good speaker must know what they're talking about
+
+How it works
+Our brains use shortcuts. One strong impression "spreads" to other areas, creating an inflated (or deflated) overall view.
+
+So:
+- First impressions color everything
+- One good trait doesn't predict others
+- We confuse popularity with competence
+
+Key concept inside it
+Halo Spread:
+When one trait influences judgment of unrelated traits.
+
+Why it matters
+Explains why:
+- Charismatic leaders get credit for competence
+- Good looks correlate with higher pay
+- Likeability influences evaluation more than skills
+
+One-line version
+The Halo Effect = Letting one trait influence all your judgments about someone.`,
+  },
+  797: {
+    beginner: `The Halo Effect = Letting one trait influence all your judgments about someone.`,
+    detail: `The Halo Effect
+
+Description:
+When one positive (or negative) trait makes you judge everything else about someone more positively (or negatively).
+
+Example (question)
+« Halo bias. »
+When one quality "shines" on everything, creating an overly positive overall view.
+
+Example (everyday)
+- A nice person seems smarter than they are
+- An articulate person seems right about everything
+- A brand you like seems to make better products
+
+How it works
+Our brains use shortcuts. One strong impression "spreads" to other areas, creating an inflated (or deflated) overall view.
+
+So:
+- First impressions color everything
+- One good trait doesn't predict others
+- We confuse popularity with competence
+
+Key concept inside it
+Halo Spread:
+When one trait influences judgment of unrelated traits.
+
+Why it matters
+Explains why:
+- Charismatic leaders get credit for competence
+- Good looks correlate with higher pay
+- Likeability influences evaluation more than skills
+
+One-line version
+The Halo Effect = Letting one trait influence all your judgments about someone.`,
   },
   792: {
     beginner: `The Fallacy Fallacy = Assuming an argument is wrong because it contains a fallacy.`,
@@ -26839,156 +27028,411 @@ One-line version
 The Halo Effect = Generalizing from one trait to all.`,
   },
   797: {
-    beginner: `The Halo Effect = Generalizing from one trait to all.`,
+    beginner: `The Halo Effect = Letting one positive trait inflate all your judgments about someone.`,
     detail: `The Halo Effect
 
 Description:
-Generalizing from one trait to all.
-
-The Halo Effect = Generalizing from one trait to all
+When one positive trait makes you judge everything else about someone more positively — an inflated overall view.
 
 Example (question)
 « Positive spillover. »
+When something good about someone spreads to make everything about them seem good.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- A friendly person seems more competent
+- Good-looking people get promoted more
+- A charismatic speaker seems smarter
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Our brains use shortcuts. One strong impression "spreads" to other areas, creating an inflated (or deflated) overall view.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- First impressions color everything
+- One good trait doesn't predict others
+- We confuse popularity with competence
 
 Key concept inside it
-The Halo Effect:
-Generalizing from one trait to all.
+Halo Spread:
+When one trait influences judgment of unrelated traits.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Charismatic leaders get credit for competence
+- Good looks correlate with higher pay
+- Likeability influences evaluation more than skills
 
 One-line version
-The Halo Effect = Generalizing from one trait to all.`,
+The Halo Effect = Letting one positive trait inflate all your judgments about someone.`,
   },
   798: {
-    beginner: `The Halo Effect = Generalizing from one trait to all.`,
+    beginner: `The Halo Effect = Letting one positive trait inflate all your judgments about someone.`,
     detail: `The Halo Effect
 
 Description:
-Generalizing from one trait to all.
-
-The Halo Effect = Generalizing from one trait to all
+When one positive trait makes you judge everything else about someone more positively — an inflated overall view.
 
 Example (question)
 « Trait generalization. »
+One good trait makes us generalize to all traits — that's the halo effect.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Nice person must be smart
+- Good writer must be right about facts
+- Attractive means competent
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Our brains use shortcuts. One strong impression "spreads" to other areas, creating an inflated (or deflated) overall view.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- First impressions color everything
+- One good trait doesn't predict others
+- We confuse popularity with competence
 
 Key concept inside it
-The Halo Effect:
-Generalizing from one trait to all.
+Halo Spread:
+When one trait influences judgment of unrelated traits.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Charismatic leaders get credit for competence
+- Good looks correlate with higher pay
+- Likeability influences evaluation more than skills
 
 One-line version
-The Halo Effect = Generalizing from one trait to all.`,
+The Halo Effect = Letting one positive trait inflate all your judgments about someone.`,
   },
   799: {
-    beginner: `The Horn Effect = Generalizing from one negative trait to all.`,
+    beginner: `The Horn Effect = Letting one negative trait darken all your judgments about someone.`,
     detail: `The Horn Effect
 
 Description:
-Generalizing from one negative trait to all.
-
-The Horn Effect = Generalizing from one negative trait to all
+When one negative trait makes you judge everything else about someone more negatively — the dark mirror of the halo effect.
 
 Example (question)
 « Bad in one area means bad in all. »
+One flaw makes us assume all flaws — the horns spread negativity everywhere.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- One mistake and they're "useless"
+- Unattractive people seen as less competent
+- Quiet person assumed to have nothing to say
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Just as positive impressions spread, negative impressions also spread — even more strongly.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- One flaw colors everything else
+- Negative information weighs more heavily
+- It's harder to recover from one mistake
 
 Key concept inside it
-The Horn Effect:
-Generalizing from one negative trait to all.
+Horn Spread:
+When one negative trait darkens judgment of unrelated traits.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- One mistake can end careers
+- First impressions are hard to change
+- People avoid showing weakness
 
 One-line version
-The Horn Effect = Generalizing from one negative trait to all.`,
+The Horn Effect = Letting one negative trait darken all your judgments about someone.`,
   },
-  800: {
-    beginner: `The Horn Effect = Generalizing from one negative trait to all.`,
+800: {
+    beginner: `The Horn Effect = Letting one negative trait darken all your judgments about someone.`,
     detail: `The Horn Effect
 
 Description:
-Generalizing from one negative trait to all.
-
-The Horn Effect = Generalizing from one negative trait to all
+When one negative trait makes you judge everything else about someone more negatively — the dark mirror of the halo effect.
 
 Example (question)
 « Negative spillover. »
+One negative quality makes everything else seem negative too.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- One mistake ruins their reputation
+- An ugly package makes the product seem worse
+- A quiet person is assumed to have nothing to offer
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Just as positive impressions spread, negative impressions also spread — even more strongly.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- One flaw colors everything else
+- Negative information weighs more heavily
+- It's harder to recover from one mistake
 
 Key concept inside it
-The Horn Effect:
-Generalizing from one negative trait to all.
+Horn Spread:
+When one negative trait darkens judgment of unrelated traits.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- One mistake can end careers
+- First impressions are hard to change
+- People avoid showing weakness
 
 One-line version
-The Horn Effect = Generalizing from one negative trait to all.`,
+The Horn Effect = Letting one negative trait darken all your judgments about someone.`,
+  },
+  801: {
+    beginner: `The Sunk Cost Fallacy = Continuing because you've already invested, not because it's best.`,
+    detail: `The Sunk Cost Fallacy
+
+Description:
+Continuing an action because of previously invested resources — time, money, effort — rather than because it's the best choice going forward.
+
+Example (question)
+« Throwing good money after bad. »
+"I already spent so much" — that's the sunk cost fallacy. Past investments shouldn't determine future choices.
+
+Example (everyday)
+- Finishing a boring movie "since you started"
+- Staying in a bad relationship "after all this time"
+- Continuing a failing project
+
+How it works
+We irrationally value what we've paid/invested. But those costs are "sunk" — gone forever. Only future benefits should matter.
+
+So:
+- Past spending doesn't obligate future spending
+- "You've come this far" is a trap
+- The rational choice ignores sunk costs
+
+Key concept inside it
+Sunk Costs:
+Past investments that are unrecoverable — they shouldn't influence current decisions.
+
+Why it matters
+Explains why:
+- People throw away good money after bad
+- Bad relationships persist
+- Failed projects keep getting funded
+
+One-line version
+The Sunk Cost Fallacy = Continuing because you've already invested, not because it's best.`,
+  },
+  802: {
+    beginner: `The Sunk Cost Fallacy = Continuing because you've already invested, not because it's best.`,
+    detail: `The Sunk Cost Fallacy
+
+Description:
+Continuing an action because of previously invested resources — time, money, effort — rather than because it's the best choice going forward.
+
+Example (question)
+« Committing to recover losses. »
+"We've already invested so much" — the fallacy that past spending requires more spending.
+
+Example (everyday)
+- "I already bought the tickets"
+- "We've come this far"
+- Staying in line when the line isn't moving
+
+How it works
+We irrationally value what we've paid/invested. But those costs are "sunk" — gone forever. Only future benefits should matter.
+
+So:
+- Past spending doesn't obligate future spending
+- "You've come this far" is a trap
+- The rational choice ignores sunk costs
+
+Key concept inside it
+Sunk Costs:
+Past investments that are unrecoverable — they shouldn't influence current decisions.
+
+Why it matters
+Explains why:
+- People throw away good money after bad
+- Bad relationships persist
+- Failed projects keep getting funded
+
+One-line version
+The Sunk Cost Fallacy = Continuing because you've already invested, not because it's best.`,
+  },
+  803: {
+    beginner: `The Sunk Cost Fallacy = Continuing because you've already invested, not because it's best.`,
+    detail: `The Sunk Cost Fallacy
+
+Description:
+Continuing an action because of previously invested resources — time, money, effort — rather than because it's the best choice going forward.
+
+Example (question)
+« Spending to recover past spend. »
+After spending money wrongly, spending more to "make it back" — that's the fallacy.
+
+Example (everyday)
+- Doubling down at the casino
+- Buying more of a falling stock
+- Ordering more food to "get your money's worth"
+
+How it works
+We irrationally value what we've paid/invested. But those costs are "sunk" — gone forever. Only future benefits should matter.
+
+So:
+- Past spending doesn't obligate future spending
+- "You've come this far" is a trap
+- The rational choice ignores sunk costs
+
+Key concept inside it
+Sunk Costs:
+Past investments that are unrecoverable — they shouldn't influence current decisions.
+
+Why it matters
+Explains why:
+- People throw away good money after bad
+- Bad relationships persist
+- Failed projects keep getting funded
+
+One-line version
+The Sunk Cost Fallacy = Continuing because you've already invested, not because it's best.`,
+  },
+  804: {
+    beginner: `The Sunk Cost Fallacy = Continuing because you've already invested, not because it's best.`,
+    detail: `The Sunk Cost Fallacy
+
+Description:
+Continuing an action because of previously invested resources — time, money, effort — rather than because it's the best choice going forward.
+
+Example (question)
+« Inability to cut losses. »
+Sunk costs make us unable to "admit failure" — continuing when cutting losses would be better.
+
+Example (everyday)
+- Keeping a malfunctioning car "since I just bought it"
+- Staying in a hotel you hate "non-refundable"
+- Finishing a degree you hate
+
+How it works
+We irrationally value what we've paid/invested. But those costs are "sunk" — gone forever. Only future benefits should matter.
+
+So:
+- Past spending doesn't obligate future spending
+- "You've come this far" is a trap
+- The rational choice ignores sunk costs
+
+Key concept inside it
+Sunk Costs:
+Past investments that are unrecoverable — they shouldn't influence current decisions.
+
+Why it matters
+Explains why:
+- People throw away good money after bad
+- Bad relationships persist
+- Failed projects keep getting funded
+
+One-line version
+The Sunk Cost Fallacy = Continuing because you've already invested, not because it's best.`,
+  },
+  805: {
+    beginner: `The Sunk Cost Fallacy = Continuing because you've already invested, not because it's best.`,
+    detail: `The Sunk Cost Fallacy
+
+Description:
+Continuing an action because of previously invested resources — time, money, effort — rather than because it's the best choice going forward.
+
+Example (question)
+« Too invested to quit. »
+"I've already spent so much time" — that's the fallacy keeping you stuck.
+
+Example (everyday)
+- Not quitting a job you hate
+- Continuing a bad investment
+- Staying in a losing position
+
+How it works
+We irrationally value what we've paid/invested. But those costs are "sunk" — gone forever. Only future benefits should matter.
+
+So:
+- Past spending doesn't obligate future spending
+- "You've come this far" is a trap
+- The rational choice ignores sunk costs
+
+Key concept inside it
+Sunk Costs:
+Past investments that are unrecoverable — they shouldn't influence current decisions.
+
+Why it matters
+Explains why:
+- People throw away good money after bad
+- Bad relationships persist
+- Failed projects keep getting funded
+
+One-line version
+The Sunk Cost Fallacy = Continuing because you've already invested, not because it's best.`,
+  },
+  806: {
+    beginner: `The Regression Fallacy = Attributing improvement to action when it's just natural variation.`,
+    detail: `The Regression Fallacy
+
+Description:
+Mistaking natural fluctuation for a real effect — assuming something you did caused improvement when it would have happened anyway.
+
+Example (question)
+« Misattributing to intervention. »
+After intervening, things improved — but they might have improved anyway. That's regression to the mean.
+
+Example (everyday)
+- Taking vitamins after feeling sick, then feeling better
+- Yelling at someone, then they improve
+- Treating a cold, then recovering
+
+How it works
+Things naturally fluctuate. Extreme events tend to return toward average. This is "regression to the mean."
+
+So:
+- Not everything needs a cause
+- Extreme performance returns to normal
+- Improvement might have happened without intervention
+
+Key concept inside it
+Regression to the Mean:
+Extreme outcomes tend to be followed by more average ones — natural fluctuation, not causation.
+
+Why it matters
+Explains why:
+- Fake treatments seem effective
+- Interventions get credit they don't deserve
+- Regression is mistaken for improvement
+
+One-line version
+The Regression Fallacy = Attributing improvement to action when it's just natural variation.`,
+  },
+  807: {
+    beginner: `The Regression Fallacy = Attributing improvement to action when it's just natural variation.`,
+    detail: `The Regression Fallacy
+
+Description:
+Mistaking natural fluctuation for a real effect — assuming something you did caused improvement when it would have happened anyway.
+
+Example (question)
+« Natural variation ignored. »
+Things tend toward average — ignoring this makes us credit interventions that did nothing.
+
+Example (everyday)
+- After a bad performance, the next is better
+- The storm "passed" after you did something
+- The patient "recovered" after treatment
+
+How it works
+Things naturally fluctuate. Extreme events tend to return toward average. This is "regression to the mean."
+
+So:
+- Not everything needs a cause
+- Extreme performance returns to normal
+- Improvement might have happened without intervention
+
+Key concept inside it
+Regression to the Mean:
+Extreme outcomes tend to be followed by more average ones — natural fluctuation, not causation.
+
+Why it matters
+Explains why:
+- Fake treatments seem effective
+- Interventions get credit they don't deserve
+- Regression is mistaken for improvement
+
+One-line version
+The Regression Fallacy = Attributing improvement to action when it's just natural variation.`,
   },
   801: {
     beginner: `The Horn Effect = Generalizing from one negative trait to all.`,
@@ -27257,80 +27701,78 @@ One-line version
 The Regression Fallacy = Attributing improvement to action when it's natural variation.`,
   },
   808: {
-    beginner: `The Sunk Cost Fallacy = Continuing due to invested resources.`,
+    beginner: `The Sunk Cost Fallacy = Continuing because you've already invested, not because it's best.`,
     detail: `The Sunk Cost Fallacy
 
 Description:
-Continuing due to invested resources.
-
-The Sunk Cost Fallacy = Continuing due to invested resources
+Continuing an action because of previously invested resources — time, money, effort — rather than because it's the best choice going forward.
 
 Example (question)
 « Spending more on bad purchase. »
+Spending more to justify the original spending — rationalizing past decisions with future ones.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Eating more at an all-you-can-eat to "get your money's worth"
+- Continuing to drive a car that needs repairs "since you just bought it"
+- Adding features to a failing project
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+We irrationally value what we've paid/invested. But those costs are "sunk" — gone forever. Only future benefits should matter.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Past spending doesn't obligate future spending
+- Future spending should be justified on its own merits
+- Cutting losses early is rational
 
 Key concept inside it
-The Sunk Cost Fallacy:
-Continuing due to invested resources.
+Sunk Costs:
+Past investments that are unrecoverable — they shouldn't influence current decisions.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- People throw away good money after bad
+- Bad relationships persist
+- Failed projects keep getting funded
 
 One-line version
-The Sunk Cost Fallacy = Continuing due to invested resources.`,
+The Sunk Cost Fallacy = Continuing because you've already invested, not because it's best.`,
   },
   809: {
-    beginner: `The Sunk Cost Fallacy = Continuing due to invested resources.`,
+    beginner: `The Sunk Cost Fallacy = Continuing because you've already invested, not because it's best.`,
     detail: `The Sunk Cost Fallacy
 
 Description:
-Continuing due to invested resources.
-
-The Sunk Cost Fallacy = Continuing due to invested resources
+Continuing an action because of previously invested resources — time, money, effort — rather than because it's the best choice going forward.
 
 Example (question)
 « Commitment to loss. »
+"I can't quit now" — the sunk cost fallacy keeping you locked in losing positions.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Staying in a bad investment
+- Keeping a losing hand in poker
+- Watching a bad movie "since you paid"
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+We irrationally value what we've paid/invested. But those costs are "sunk" — gone forever. Only future benefits should matter.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Past spending doesn't obligate future spending
+- Future spending should be justified on its own merits
+- Cutting losses early is rational
 
 Key concept inside it
-The Sunk Cost Fallacy:
-Continuing due to invested resources.
+Sunk Costs:
+Past investments that are unrecoverable — they shouldn't influence current decisions.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- People throw away good money after bad
+- Bad relationships persist
+- Failed projects keep getting funded
 
 One-line version
-The Sunk Cost Fallacy = Continuing due to invested resources.`,
+The Sunk Cost Fallacy = Continuing because you've already invested, not because it's best.`,
   },
   810: {
     beginner: `The Sunk Cost Fallacy = Continuing due to invested resources.`,
@@ -27370,43 +27812,153 @@ Explains why:
 One-line version
 The Sunk Cost Fallacy = Continuing due to invested resources.`,
   },
-  811: {
-    beginner: `Thought-Terminating Cliché = Using phrases to end critical thinking.`,
-    detail: `Thought-Terminating Cliché
+811: {
+    beginner: `Undistributed Middle = Making conclusions without properly connecting the evidence.`,
+    detail: `Undistributed Middle
 
 Description:
-Using phrases to end critical thinking.
-
-Thought-Terminating Cliché = Using phrases to end critical thinking
+In a syllogism, when the middle term that connects premises to the conclusion isn't properly distributed — the logic breaks.
 
 Example (question)
-« Just believe in yourself. »
+« Syllogism error. »
+All A are B, all C are A, therefore all C are B — but the middle term A wasn't distributed properly.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "Some scientists believe X, I'm a scientist, so X must be true"
+- "Americans value freedom, she values freedom, so she's American"
+- Generalizations that don't actually connect
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+In formal logic, terms must be "distributed" — talked about completely. When the middle term isn't properly covered, the conclusion doesn't follow.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- A appears in both premises but not the conclusion
+- The connecting term doesn't cover all cases
+- The argument looks valid but isn't
 
 Key concept inside it
-Thought-Terminating Cliché:
-Using phrases to end critical thinking.
+Syllogism:
+A formal argument with two premises and a conclusion, connected by a middle term.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Political syllogisms often fail
+- Celebrity endorsements don't prove products work
+- Group membership doesn't imply specific beliefs
 
 One-line version
-Thought-Terminating Cliché = Using phrases to end critical thinking.`,
+Undistributed Middle = Making conclusions without properly connecting the evidence.`,
+  },
+  812: {
+    beginner: `Undistributed Middle = Making conclusions without properly connecting the evidence.`,
+    detail: `Undistributed Middle
+
+Description:
+In a syllogism, when the middle term that connects premises to the conclusion isn't properly distributed — the logic breaks.
+
+Example (question)
+« Distribution mistake. »
+The middle term in the syllogism isn't used correctly to connect premises to conclusion.
+
+Example (everyday)
+- "Dogs bark, Fido barks, therefore Fido is a dog"
+- "Birds fly, this thing flies, therefore this thing is a bird"
+- Flying squirrels are squirrels that fly
+
+How it works
+In formal logic, terms must be "distributed" — talked about completely. When the middle term isn't properly covered, the conclusion doesn't follow.
+
+So:
+- A appears in both premises but not the conclusion
+- The connecting term doesn't cover all cases
+- The argument looks valid but isn't
+
+Key concept inside it
+Syllogism:
+A formal argument with two premises and a conclusion, connected by a middle term.
+
+Why it matters
+Explains why:
+- Political syllogisms often fail
+- Celebrity endorsements don't prove products work
+- Group membership doesn't imply specific beliefs
+
+One-line version
+Undistributed Middle = Making conclusions without properly connecting the evidence.`,
+  },
+  813: {
+    beginner: `Unrepresentative Sample = Drawing conclusions from a sample that doesn't represent the whole.`,
+    detail: `Unrepresentative Sample
+
+Description:
+Drawing conclusions from a sample that's biased or too small — not representing the whole population.
+
+Example (question)
+« Polling only fans. »
+Asking only fans about a product gives inflated results — the sample is biased.
+
+Example (everyday)
+- Polling only people who show up to events
+- Reviewing a movie based on fan reviews only
+- Surveying only your friends
+
+How it works
+Conclusions about a group require a sample that represents the whole group — not just a subset with particular traits.
+
+So:
+- Self-selected samples are always biased
+- Big samples can still be biased
+- Random sampling matters
+
+Key concept inside it
+Sampling:
+Selecting a subset to represent the whole — must be random and large enough.
+
+Why it matters
+Explains why:
+- Polls can be wildly wrong
+- Reviews are biased toward extremes
+- Medical studies need proper sampling
+
+One-line version
+Unrepresentative Sample = Drawing conclusions from a sample that doesn't represent the whole.`,
+  },
+  814: {
+    beginner: `Unrepresentative Sample = Drawing conclusions from a sample that doesn't represent the whole.`,
+    detail: `Unrepresentative Sample
+
+Description:
+Drawing conclusions from a sample that's biased or too small — not representing the whole population.
+
+Example (question)
+« Biased data. »
+Data from a specific group is being treated as representative of everyone.
+
+Example (everyday)
+- Surveying only early respondents
+- Polling only one neighborhood
+- Testing only volunteers
+
+How it works
+Conclusions about a group require a sample that represents the whole group — not just a subset with particular traits.
+
+So:
+- Self-selected samples are always biased
+- Big samples can still be biased
+- Random sampling matters
+
+Key concept inside it
+Sampling:
+Selecting a subset to represent the whole — must be random and large enough.
+
+Why it matters
+Explains why:
+- Polls can be wildly wrong
+- Reviews are biased toward extremes
+- Medical studies need proper sampling
+
+One-line version
+Unrepresentative Sample = Drawing conclusions from a sample that doesn't represent the whole.`,
   },
   812: {
     beginner: `Thought-Terminating Cliché = Using phrases to end critical thinking.`,
@@ -27523,80 +28075,189 @@ One-line version
 Tu Quoque = Responding to criticism by accusing the critic of the same fault.`,
   },
   815: {
-    beginner: `Tu Quoque = Responding to criticism by accusing the critic of the same fault.`,
-    detail: `Tu Quoque
+    beginner: `Unrepresentative Sample = Drawing conclusions from a sample that doesn't represent the whole.`,
+    detail: `Unrepresentative Sample
 
 Description:
-Responding to criticism by accusing the critic of the same fault.
-
-Tu Quoque = Responding to criticism by accusing the critic of the same fault
+Drawing conclusions from a sample that's biased or too small — not representing the whole population.
 
 Example (question)
-« Hypocrisy defense. »
+« Non-representative. »
+The sample doesn't represent the whole — making conclusions unreliable.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Surveying only happy customers
+- Polling only online users
+- Testing only certain demographics
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Conclusions about a group require a sample that represents the whole group — not just a subset with particular traits.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Self-selected samples are always biased
+- Big samples can still be biased
+- Random sampling matters
 
 Key concept inside it
-Tu Quoque:
-Responding to criticism by accusing the critic of the same fault.
+Sampling:
+Selecting a subset to represent the whole — must be random and large enough.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Polls can be wildly wrong
+- Reviews are biased toward extremes
+- Medical studies need proper sampling
 
 One-line version
-Tu Quoque = Responding to criticism by accusing the critic of the same fault.`,
+Unrepresentative Sample = Drawing conclusions from a sample that doesn't represent the whole.`,
   },
-  816: {
-    beginner: `Tu Quoque = Responding to criticism by accusing the critic of the same fault.`,
-    detail: `Tu Quoque
+816: {
+    beginner: `Vagueness = Using unclear language to avoid committing to a position.`,
+    detail: `Vagueness
 
 Description:
-Responding to criticism by accusing the critic of the same fault.
-
-Tu Quoque = Responding to criticism by accusing the critic of the same fault
+Using unclear, ambiguous language — either intentionally or not — to avoid precision and scrutiny.
 
 Example (question)
-« Ad hominem tu quoque. »
+« Ambiguous terms. »
+Words aren't clearly defined, allowing multiple interpretations to avoid being pinned down.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Politicians who "support the troops" without specifics
+- "fair" and "balanced" without definition
+- Vague promises like "some people say"
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Vague language allows flexibility — you can later claim you "didn't mean that" or claim you were right all along.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Definitions can shift as needed
+- Accountability becomes impossible
+- Debate becomes impossible
 
 Key concept inside it
-Tu Quoque:
-Responding to criticism by accusing the critic of the same fault.
+Precision:
+Clear definitions allow accountability — vagueness avoids it.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Political promises are hard to hold
+- Contracts need precise language
+- Debates get nowhere with vague terms
 
 One-line version
-Tu Quoque = Responding to criticism by accusing the critic of the same fault.`,
+Vagueness = Using unclear language to avoid committing to a position.`,
+  },
+  817: {
+    beginner: `Vagueness = Using unclear language to avoid committing to a position.`,
+    detail: `Vagueness
+
+Description:
+Using unclear, ambiguous language — either intentionally or not — to avoid precision and scrutiny.
+
+Example (question)
+« Avoiding specifics. »
+When the arguer won't get specific — keeping things vague to avoid being wrong.
+
+Example (everyday)
+- "things are complicated"
+- "people have different views"
+- "it depends"
+
+How it works
+Vague language allows flexibility — you can later claim you "didn't mean that" or claim you were right all along.
+
+So:
+- Definitions can shift as needed
+- Accountability becomes impossible
+- Debate becomes impossible
+
+Key concept inside it
+Precision:
+Clear definitions allow accountability — vagueness avoids it.
+
+Why it matters
+Explains why:
+- Political promises are hard to hold
+- Contracts need precise language
+- Debates get nowhere with vague terms
+
+One-line version
+Vagueness = Using unclear language to avoid committing to a position.`,
+  },
+  818: {
+    beginner: `Vagueness = Using unclear language to avoid committing to a position.`,
+    detail: `Vagueness
+
+Description:
+Using unclear, ambiguous language — either intentionally or not — to avoid precision and scrutiny.
+
+Example (question)
+« Unclear communication. »
+When it's unclear what is being claimed — no position can be refuted.
+
+Example (everyday)
+- "I think, generally"
+- "it's complicated"
+- Fuzzy language that could mean anything
+
+How it works
+Vague language allows flexibility — you can later claim you "didn't mean that" or claim you were right all along.
+
+So:
+- Definitions can shift as needed
+- Accountability becomes impossible
+- Debate becomes impossible
+
+Key concept inside it
+Precision:
+Clear definitions allow accountability — vagueness avoids it.
+
+Why it matters
+Explains why:
+- Political promises are hard to hold
+- Contracts need precise language
+- Debates get nowhere with vague terms
+
+One-line version
+Vagueness = Using unclear language to avoid committing to a position.`,
+  },
+  819: {
+    beginner: `Optimism Bias = Underestimating negative outcomes for yourself.`,
+    detail: `Optimism Bias
+
+Description:
+Believing negative outcomes are less likely to happen to you than to others.
+
+Example (question)
+« Positive outlook error. »
+Thinking bad things happen to "other people" but not to you.
+
+Example (everyday)
+- "I'll be different" — starting risky ventures
+- "That won't happen to me"
+- Underestimating personal risks
+
+How it works
+We have trouble imagining bad things happening to ourselves. This optimism is often unjustified.
+
+So:
+- We underestimate risks
+- We plan inadequately
+- Bad events catch us off guard
+
+Key concept inside it
+Unrealistic Optimism:
+Believing we're less likely to experience negative events than others.
+
+Why it matters
+Explains why:
+- People don't save enough
+- Underinsurance is common
+- Startups fail more than expected
+
+One-line version
+Optimism Bias = Underestimating negative outcomes for yourself.`,
   },
   817: {
     beginner: `Two Wrongs Make a Right = Justifying wrong action because others do wrong.`,
@@ -27712,43 +28373,116 @@ Explains why:
 One-line version
 Two Wrongs Make a Right = Justifying wrong action because others do wrong.`,
   },
-  820: {
-    beginner: `Undistributed Middle = Middle term not distributed properly in syllogism.`,
-    detail: `Undistributed Middle
+820: {
+    beginner: `Wishful Thinking = Believing something because you want it to be true.`,
+    detail: `Wishful Thinking
 
 Description:
-Middle term not distributed properly in syllogism.
-
-Undistributed Middle = Middle term not distributed properly in syllogism
+Believing something because you want it to be true rather than because the evidence supports it.
 
 Example (question)
-« All men are mortal. Socrates is mortal. Therefore, Socrates is a man. »
+« Hope over evidence. »
+Choosing to believe what feels good rather than what the evidence shows.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Believing your team will win
+- Trusting the weather will be good for your event
+- Hoping for a raise you haven't asked for
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Our desires cloud our judgment. We unconsciously select evidence that supports what we want to believe.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Wanting something makes evidence seems stronger
+- Disconfirming evidence gets discounted
+- Belief becomes self-fulfilling
 
 Key concept inside it
-Undistributed Middle:
-Middle term not distributed properly in syllogism.
+Motivated Reasoning:
+Reasoning that's driven by desired conclusions rather than evidence.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- People stay in bad relationships
+- Gamblers irrationally believe
+- Investors hold losers too long
 
 One-line version
-Undistributed Middle = Middle term not distributed properly in syllogism.`,
+Wishful Thinking = Believing something because you want it to be true.`,
+  },
+  821: {
+    beginner: `Wishful Thinking = Believing something because you want it to be true.`,
+    detail: `Wishful Thinking
+
+Description:
+Believing something because you want it to be true rather than because the evidence supports it.
+
+Example (question)
+« Ignoring evidence for desires. »
+Prioritizing what you want to be true over what's actually true.
+
+Example (everyday)
+- Believing you'll lose weight "starting Monday"
+- Thinking the deal will go through
+- Hoping they'll say yes
+
+How it works
+Our desires cloud our judgment. We unconsciously select evidence that supports what we want to believe.
+
+So:
+- Wanting something makes evidence seems stronger
+- Disconfirming evidence gets discounted
+- Belief becomes self-fulfilling
+
+Key concept inside it
+Motivated Reasoning:
+Reasoning that's driven by desired conclusions rather than evidence.
+
+Why it matters
+Explains why:
+- People stay in bad relationships
+- Gamblers irrationally believe
+- Investors hold losers too long
+
+One-line version
+Wishful Thinking = Believing something because you want it to be true.`,
+  },
+  822: {
+    beginner: `Wishful Thinking = Believing something because you want it to be true.`,
+    detail: `Wishful Thinking
+
+Description:
+Believing something because you want it to be true rather than because the evidence supports it.
+
+Example (question)
+« Optimistic delusion. »
+When hope overrides evidence — wanting doesn't make it so.
+
+Example (everyday)
+- Thinking the project will finish on time
+- Believing the market won't turn
+- Hoping for the best despite signs
+
+How it works
+Our desires cloud our judgment. We unconsciously select evidence that supports what we want to believe.
+
+So:
+- Wanting something makes evidence seems stronger
+- Disconfirming evidence gets discounted
+- Belief becomes self-fulfilling
+
+Key concept inside it
+Motivated Reasoning:
+Reasoning that's driven by desired conclusions rather than evidence.
+
+Why it matters
+Explains why:
+- People stay in bad relationships
+- Gamblers irrationally believe
+- Investors hold losers too long
+
+One-line version
+Wishful Thinking = Believing something because you want it to be true.`,
   },
   821: {
     beginner: `Undistributed Middle = Middle term not distributed properly in syllogism.`,
@@ -27827,346 +28561,374 @@ One-line version
 Undistributed Middle = Middle term not distributed properly in syllogism.`,
   },
   823: {
-    beginner: `Unrepresentative Sample = Drawing conclusions from biased samples.`,
+    beginner: `Unrepresentative Sample = Drawing conclusions from a sample that doesn't represent the whole.`,
     detail: `Unrepresentative Sample
 
 Description:
-Drawing conclusions from biased samples.
-
-Unrepresentative Sample = Drawing conclusions from biased samples
+Drawing conclusions from a sample that's biased or too small — not representing the whole population.
 
 Example (question)
 « Polling only fans. »
+Asking only fans about a product gives inflated results — the sample is biased.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Polling only people who show up to events
+- Reviewing a movie based on fan reviews only
+- Surveying only your friends
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Conclusions about a group require a sample that represents the whole group — not just a subset with particular traits.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Self-selected samples are always biased
+- Big samples can still be biased
+- Random sampling matters
 
 Key concept inside it
-Unrepresentative Sample:
-Drawing conclusions from biased samples.
+Sampling:
+Selecting a subset to represent the whole — must be random and large enough.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Polls can be wildly wrong
+- Reviews are biased toward extremes
+- Medical studies need proper sampling
 
 One-line version
-Unrepresentative Sample = Drawing conclusions from biased samples.`,
+Unrepresentative Sample = Drawing conclusions from a sample that doesn't represent the whole.`,
   },
   824: {
-    beginner: `Unrepresentative Sample = Drawing conclusions from biased samples.`,
+    beginner: `Unrepresentative Sample = Drawing conclusions from a sample that doesn't represent the whole.`,
     detail: `Unrepresentative Sample
 
 Description:
-Drawing conclusions from biased samples.
-
-Unrepresentative Sample = Drawing conclusions from biased samples
+Drawing conclusions from a sample that's biased or too small — not representing the whole population.
 
 Example (question)
 « Biased data. »
+Data from a specific group is being treated as representative of everyone.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Surveying only early respondents
+- Polling only one neighborhood
+- Testing only volunteers
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Conclusions about a group require a sample that represents the whole group — not just a subset with particular traits.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Self-selected samples are always biased
+- Big samples can still be biased
+- Random sampling matters
 
 Key concept inside it
-Unrepresentative Sample:
-Drawing conclusions from biased samples.
+Sampling:
+Selecting a subset to represent the whole — must be random and large enough.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Polls can be wildly wrong
+- Reviews are biased toward extremes
+- Medical studies need proper sampling
 
 One-line version
-Unrepresentative Sample = Drawing conclusions from biased samples.`,
+Unrepresentative Sample = Drawing conclusions from a sample that doesn't represent the whole.`,
   },
   825: {
-    beginner: `Unrepresentative Sample = Drawing conclusions from biased samples.`,
+    beginner: `Unrepresentative Sample = Drawing conclusions from a sample that doesn't represent the whole.`,
     detail: `Unrepresentative Sample
 
 Description:
-Drawing conclusions from biased samples.
-
-Unrepresentative Sample = Drawing conclusions from biased samples
+Drawing conclusions from a sample that's biased or too small — not representing the whole population.
 
 Example (question)
 « Non-representative. »
+The sample doesn't represent the whole — making conclusions unreliable.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Surveying only happy customers
+- Polling only online users
+- Testing only certain demographics
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Conclusions about a group require a sample that represents the whole group — not just a subset with particular traits.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Self-selected samples are always biased
+- Big samples can still be biased
+- Random sampling matters
 
 Key concept inside it
-Unrepresentative Sample:
-Drawing conclusions from biased samples.
+Sampling:
+Selecting a subset to represent the whole — must be random and large enough.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Polls can be wildly wrong
+- Reviews are biased toward extremes
+- Medical studies need proper sampling
 
 One-line version
-Unrepresentative Sample = Drawing conclusions from biased samples.`,
+Unrepresentative Sample = Drawing conclusions from a sample that doesn't represent the whole.`,
   },
   826: {
-    beginner: `Vagueness = Using unclear language to avoid precision.`,
+    beginner: `Vagueness = Using unclear language to avoid committing to a definite position.`,
     detail: `Vagueness
 
 Description:
-Using unclear language to avoid precision.
-
-Vagueness = Using unclear language to avoid precision
+Using unclear, ambiguous language — either intentionally or not — to avoid precision and scrutiny.
 
 Example (question)
 « Ambiguous terms. »
+Words aren't clearly defined, allowing multiple interpretations to avoid being pinned down.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Politicians who "support the troops" without specifics
+- "fair" and "balanced" without definition
+- Vague promises like "some people say"
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Vague language allows flexibility — you can later claim you "didn't mean that" or claim you were right all along.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Definitions can shift as needed
+- Accountability becomes impossible
+- Debate becomes impossible
 
 Key concept inside it
-Vagueness:
-Using unclear language to avoid precision.
+Precision:
+Clear definitions allow accountability — vagueness avoids it.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Political promises are hard to hold
+- Contracts need precise language
+- Debates get nowhere with vague terms
 
 One-line version
-Vagueness = Using unclear language to avoid precision.`,
+Vagueness = Using unclear language to avoid committing to a definite position.`,
   },
   827: {
-    beginner: `Vagueness = Using unclear language to avoid precision.`,
+    beginner: `Vagueness = Using unclear language to avoid committing to a definite position.`,
     detail: `Vagueness
 
 Description:
-Using unclear language to avoid precision.
-
-Vagueness = Using unclear language to avoid precision
+Using unclear, ambiguous language — either intentionally or not — to avoid precision and scrutiny.
 
 Example (question)
 « Avoiding specifics. »
+When the arguer won't get specific — keeping things vague to avoid being wrong.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "things are complicated"
+- "people have different views"
+- "it depends"
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Vague language allows flexibility — you can later claim you "didn't mean that" or claim you were right all along.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Definitions can shift as needed
+- Accountability becomes impossible
+- Debate becomes impossible
 
 Key concept inside it
-Vagueness:
-Using unclear language to avoid precision.
+Precision:
+Clear definitions allow accountability — vagueness avoids it.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Political promises are hard to hold
+- Contracts need precise language
+- Debates get nowhere with vague terms
 
 One-line version
-Vagueness = Using unclear language to avoid precision.`,
+Vagueness = Using unclear language to avoid committing to a definite position.`,
   },
   828: {
-    beginner: `Vagueness = Using unclear language to avoid precision.`,
+    beginner: `Vagueness = Using unclear language to avoid committing to a definite position.`,
     detail: `Vagueness
 
 Description:
-Using unclear language to avoid precision.
-
-Vagueness = Using unclear language to avoid precision
+Using unclear, ambiguous language — either intentionally or not — to avoid precision and scrutiny.
 
 Example (question)
 « Unclear communication. »
+When it's unclear what is being claimed — no position can be refuted.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "I think, generally"
+- "it's complicated"
+- Fuzzy language that could mean anything
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Vague language allows flexibility — you can later claim you "didn't mean that" or claim you were right all along.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Definitions can shift as needed
+- Accountability becomes impossible
+- Debate becomes impossible
 
 Key concept inside it
-Vagueness:
-Using unclear language to avoid precision.
+Precision:
+Clear definitions allow accountability — vagueness avoids it.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Political promises are hard to hold
+- Contracts need precise language
+- Debates get nowhere with vague terms
 
 One-line version
-Vagueness = Using unclear language to avoid precision.`,
+Vagueness = Using unclear language to avoid committing to a definite position.`,
   },
   829: {
-    beginner: `Wishful Thinking = Believing something because you want it to be true.`,
+    beginner: `Wishful Thinking = Believing something because you want it to be true, not because evidence supports it.`,
     detail: `Wishful Thinking
 
 Description:
-Believing something because you want it to be true.
-
-Wishful Thinking = Believing something because you want it to be true
+Believing something because you want it to be true rather than because the evidence supports it.
 
 Example (question)
 « Ignoring evidence for desires. »
+Prioritizing what you want to be true over what's actually true.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Believing your team will win
+- Trusting the weather will be good for your event
+- Hoping for a raise you haven't asked for
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Our desires cloud our judgment. We unconsciously select evidence that supports what we want to believe.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Wanting something makes evidence seems stronger
+- Disconfirming evidence gets discounted
+- Belief becomes self-fulfilling
 
 Key concept inside it
-Wishful Thinking:
-Believing something because you want it to be true.
+Motivated Reasoning:
+Reasoning that's driven by desired conclusions rather than evidence.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- People stay in bad relationships
+- Gamblers irrationally believe
+- Investors hold losers too long
 
 One-line version
-Wishful Thinking = Believing something because you want it to be true.`,
+Wishful Thinking = Believing something because you want it to be true, not because evidence supports it.`,
   },
   830: {
-    beginner: `Wishful Thinking = Believing something because you want it to be true.`,
+    beginner: `Wishful Thinking = Believing something because you want it to be true, not because evidence supports it.`,
     detail: `Wishful Thinking
 
 Description:
-Believing something because you want it to be true.
-
-Wishful Thinking = Believing something because you want it to be true
+Believing something because you want it to be true rather than because the evidence supports it.
 
 Example (question)
 « Optimistic delusion. »
+When hope overrides evidence — wanting doesn't make it so.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Thinking the project will finish on time
+- Believing the market won't turn
+- Hoping for the best despite signs
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Our desires cloud our judgment. We unconsciously select evidence that supports what we want to believe.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Wanting something makes evidence seems stronger
+- Disconfirming evidence gets discounted
+- Belief becomes self-fulfilling
 
 Key concept inside it
-Wishful Thinking:
-Believing something because you want it to be true.
+Motivated Reasoning:
+Reasoning that's driven by desired conclusions rather than evidence.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- People stay in bad relationships
+- Gamblers irrationally believe
+- Investors hold losers too long
 
 One-line version
-Wishful Thinking = Believing something because you want it to be true.`,
+Wishful Thinking = Believing something because you want it to be true, not because evidence supports it.`,
   },
-  831: {
-    beginner: `Wishful Thinking = Believing something because you want it to be true.`,
+831: {
+    beginner: `Wishful Thinking = Believing something because you want it to be true, not because evidence supports it.`,
     detail: `Wishful Thinking
 
 Description:
-Believing something because you want it to be true.
-
-Wishful Thinking = Believing something because you want it to be true
+Believing something because you want it to be true rather than because the evidence supports it.
 
 Example (question)
 « Desire-based belief. »
+When what you want determines what you believe — rather than what evidence shows.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Wanting a deal to be good makes it seem good
+- Hoping for positive reviews
+- Expecting good outcomes without basis
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Our desires cloud our judgment. We unconsciously select evidence that supports what we want to believe.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Wanting something makes evidence seems stronger
+- Disconfirming evidence gets discounted
+- Belief becomes self-fulfilling
 
 Key concept inside it
-Wishful Thinking:
-Believing something because you want it to be true.
+Motivated Reasoning:
+Reasoning that's driven by desired conclusions rather than evidence.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- People stay in bad relationships
+- Gamblers irrationally believe
+- Investors hold losers too long
 
 One-line version
-Wishful Thinking = Believing something because you want it to be true.`,
+Wishful Thinking = Believing something because you want it to be true, not because evidence supports it.`,
+  },
+  832: {
+    beginner: `Zero-Sum Bias = Believing one person's gain must be another person's loss.`,
+    detail: `Zero-Sum Bias
+
+Description:
+Believing that situations are zero-sum — where one person's gain must equal another person's loss — even when they're not.
+
+Example (question)
+« Competitive mindset. »
+Treating non-competitive situations as competitive — as if resources are fixed.
+
+Example (everyday)
+- Thinking your success means others' failure
+- Believing markets are fixed pie
+- Treating collaborations as competitions
+
+How it works
+Many situations are non-zero-sum — both parties can benefit. But our brains think in terms of competition and fixed resources.
+
+So:
+- Not all situations are competitive
+- Win-win is possible
+- Cooperation beats competition in many cases
+
+Key concept inside it
+Non-Zero-Sum:
+Situations where one person's gains don't require another's losses.
+
+Why it matters
+Explains why:
+- People refuse beneficial trades
+- Business partnerships fail
+- International cooperation stalls
+
+One-line version
+Zero-Sum Bias = Believing one person's gain must be another person's loss.`,
   },
   832: {
     beginner: `Wrong Direction Causality = Reversing cause and effect.`,
@@ -28204,83 +28966,155 @@ Explains why:
 - The actual argument gets lost
 
 One-line version
-Wrong Direction Causality = Reversing cause and effect.`,
+Zero-Sum Bias = Believing one person's gain must be another person's loss.`,
   },
   833: {
-    beginner: `Wrong Direction Causality = Reversing cause and effect.`,
+    beginner: `Wrong Direction Causality = Confusing cause with effect, or effect with cause.`,
     detail: `Wrong Direction Causality
 
 Description:
-Reversing cause and effect.
-
-Wrong Direction Causality = Reversing cause and effect
-
-Example (question)
-« Backwards reasoning. »
-
-Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
-
-How it works
-The argument confuses popularity with quality, or familiarity with correctness.
-
-So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
-
-Key concept inside it
-Wrong Direction Causality:
-Reversing cause and effect.
-
-Why it matters
-Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
-
-One-line version
-Wrong Direction Causality = Reversing cause and effect.`,
-  },
-  834: {
-    beginner: `Wrong Direction Causality = Reversing cause and effect.`,
-    detail: `Wrong Direction Causality
-
-Description:
-Reversing cause and effect.
-
-Wrong Direction Causality = Reversing cause and effect
+Reversing cause and effect — believing the effect is the cause, or vice versa.
 
 Example (question)
 « Causal reversal. »
+Getting backwards what causes what — thinking the symptom is the cause.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Thinking crime causes poverty, not poverty contributes to crime
+- Thinking happiness causes success, not success contributes to happiness
+- Believing the map is the territory
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+We see correlations and assume we know the direction. But often the opposite is true — or there's no causation at all.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Correlation doesn't imply causation
+- Direction matters
+- Interventions target wrong causes
 
 Key concept inside it
-Wrong Direction Causality:
-Reversing cause and effect.
+Causation:
+A causes B means A necessarily precedes and produces B — not just correlates.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Interventions fail when targeting effects instead of causes
+- Policy gets backwards
+- Medical treatments miss root causes
 
 One-line version
-Wrong Direction Causality = Reversing cause and effect.`,
+Wrong Direction Causality = Confusing cause with effect, or effect with cause.`,
+  },
+834: {
+    beginner: `Wrong Direction Causality = Confusing cause with effect, or effect with cause.`,
+    detail: `Wrong Direction Causality
+
+Description:
+Reversing cause and effect — believing the effect is the cause, or vice versa.
+
+Example (question)
+« Causal reversal. »
+Getting backwards what causes what — thinking the symptom is the cause.
+
+Example (everyday)
+- Thinking crime causes poverty, not poverty contributes to crime
+- Thinking happiness causes success, not success contributes to happiness
+- Believing the map is the territory
+
+How it works
+We see correlations and assume we know the direction. But often the opposite is true — or there's no causation at all.
+
+So:
+- Correlation doesn't imply causation
+- Direction matters
+- Interventions target wrong causes
+
+Key concept inside it
+Causation:
+A causes B means A necessarily precedes and produces B — not just correlates.
+
+Why it matters
+Explains why:
+- Interventions fail when targeting effects instead of causes
+- Policy gets backwards
+- Medical treatments miss root causes
+
+One-line version
+Wrong Direction Causality = Confusing cause with effect, or effect with cause.`,
+  },
+  835: {
+    beginner: `Zero-Sum Bias = Believing one person's gain must be another person's loss.`,
+    detail: `Zero-Sum Bias
+
+Description:
+Believing that situations are zero-sum — where one person's gain must equal another person's loss — even when they're not.
+
+Example (question)
+« Thinking one win means another loss. »
+Treating non-competitive situations as competitive — as if resources are fixed.
+
+Example (everyday)
+- Thinking your success means others' failure
+- Believing markets are fixed pie
+- Treating collaborations as competitions
+
+How it works
+Many situations are non-zero-sum — both parties can benefit. But our brains think in terms of competition and fixed resources.
+
+So:
+- Not all situations are competitive
+- Win-win is possible
+- Cooperation beats competition in many cases
+
+Key concept inside it
+Non-Zero-Sum:
+Situations where one person's gains don't require another's losses.
+
+Why it matters
+Explains why:
+- People refuse beneficial trades
+- Business partnerships fail
+- International cooperation stalls
+
+One-line version
+Zero-Sum Bias = Believing one person's gain must be another person's loss.`,
+  },
+  836: {
+    beginner: `Zero-Sum Bias = Believing one person's gain must be another person's loss.`,
+    detail: `Zero-Sum Bias
+
+Description:
+Believing that situations are zero-sum — where one person's gain must equal another person's loss — even when they're not.
+
+Example (question)
+« Competitive mindset. »
+Treating non-competitive situations as competitive — as if resources are fixed.
+
+Example (everyday)
+- Thinking your success means others' failure
+- Believing wealth is fixed
+- Treating negotiations as wins/losses
+
+How it works
+Many situations are non-zero-sum — both parties can benefit. But our brains think in terms of competition and fixed resources.
+
+So:
+- Not all situations are competitive
+- Win-win is possible
+- Cooperation beats competition in many cases
+
+Key concept inside it
+Non-Zero-Sum:
+Situations where one person's gains don't require another's losses.
+
+Why it matters
+Explains why:
+- People refuse beneficial trades
+- Business partnerships fail
+- International cooperation stalls
+
+One-line version
+Zero-Sum Bias = Believing one person's gain must be another person's loss.`,
   },
   835: {
     beginner: `Zero Sum Bias = Believing situations are zero-sum when they're not.`,
@@ -28359,156 +29193,189 @@ One-line version
 Zero Sum Bias = Believing situations are zero-sum when they're not.`,
   },
   837: {
-    beginner: `Zero Sum Bias = Believing situations are zero-sum when they're not.`,
-    detail: `Zero Sum Bias
+    beginner: `Zero-Sum Bias = Believing one person's gain must be another person's loss.`,
+    detail: `Zero-Sum Bias
 
 Description:
-Believing situations are zero-sum when they're not.
-
-Zero Sum Bias = Believing situations are zero-sum when they're not
+Believing that situations are zero-sum — where one person's gain must equal another person's loss — even when they're not.
 
 Example (question)
 « Win-lose assumption. »
+Treating situations as competitive when they're actually collaborative.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Thinking profits take from workers
+- Believing someone winning means you losing
+- Treating relationships as competitions
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Many situations are non-zero-sum — both parties can benefit. But our brains think in terms of competition and fixed resources.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Not all situations are competitive
+- Win-win is possible
+- Cooperation beats competition in many cases
 
 Key concept inside it
-Zero Sum Bias:
-Believing situations are zero-sum when they're not.
+Non-Zero-Sum:
+Situations where one person's gains don't require another's losses.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- People refuse beneficial trades
+- Business partnerships fail
+- International cooperation stalls
 
 One-line version
-Zero Sum Bias = Believing situations are zero-sum when they're not.`,
+Zero-Sum Bias = Believing one person's gain must be another person's loss.`,
   },
   838: {
-    beginner: `Ad Hominem Tu Quoque = Attacking the person by pointing out hypocrisy.`,
+    beginner: `Ad Hominem Tu Quoque = Dismissing an argument by pointing out the arguer's hypocrisy.`,
     detail: `Ad Hominem Tu Quoque
 
 Description:
-Attacking the person by pointing out hypocrisy.
-
-Ad Hominem Tu Quoque = Attacking the person by pointing out hypocrisy
+Attacking the person by pointing out their hypocrisy — trying to discredit their argument by pointing out they don't follow their own advice.
 
 Example (question)
 « You smoke, so your anti-smoking argument is invalid. »
+"You say smoking is bad, but you smoke" — this attacks the person, not the argument.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "You eat sugar, so your health advice is invalid"
+- Calling out a politician's spending to invalidate their budget argument
+- Pointing out someone uses a product to invalidate their critique
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+A person's actions don't determine whether their argument is true. Even hypocrites can be right.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- The message is separate from the messenger
+- Appeal to hypocrisy is a fallacy
+- Two wrongs don't make a right
 
 Key concept inside it
 Ad Hominem Tu Quoque:
-Attacking the person by pointing out hypocrisy.
+Attacking the person by pointing out their hypocrisy.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Personal attacks derail debates
+- "Do as I say, not as I do" is common
+- Hypocrisy doesn't invalidate truth
 
 One-line version
-Ad Hominem Tu Quoque = Attacking the person by pointing out hypocrisy.`,
+Ad Hominem Tu Quoque = Dismissing an argument by pointing out the arguer's hypocrisy.`,
   },
   839: {
-    beginner: `Ad Hominem Tu Quoque = Attacking the person by pointing out hypocrisy.`,
+    beginner: `Ad Hominem Tu Quoque = Dismissing an argument by pointing out the arguer's hypocrisy.`,
     detail: `Ad Hominem Tu Quoque
 
 Description:
-Attacking the person by pointing out hypocrisy.
-
-Ad Hominem Tu Quoque = Attacking the person by pointing out hypocrisy
+Attacking the person by pointing out their hypocrisy — trying to discredit their argument by pointing out they don't follow their own advice.
 
 Example (question)
 « Hypocrisy attack. »
+"You say X but do Y" — attacking the person rather than their argument.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "You eat junk food, so ignore your health advice"
+- A politician's voting record used to dismiss their speeches
+- Pointing out someone's past to invalidate current claims
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+A person's actions don't determine whether their argument is true. Even hypocrites can be right.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- The message is separate from the messenger
+- Appeal to hypocrisy is a fallacy
+- Two wrongs don't make a right
 
 Key concept inside it
 Ad Hominem Tu Quoque:
-Attacking the person by pointing out hypocrisy.
+Attacking the person by pointing out their hypocrisy.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Personal attacks derail debates
+- "Do as I say, not as I do" is common
+- Hypocrisy doesn't invalidate truth
 
 One-line version
-Ad Hominem Tu Quoque = Attacking the person by pointing out hypocrisy.`,
+Ad Hominem Tu Quoque = Dismissing an argument by pointing out the arguer's hypocrisy.`,
   },
-  840: {
-    beginner: `Ad Hominem Tu Quoque = Attacking the person by pointing out hypocrisy.`,
+840: {
+    beginner: `Ad Hominem Tu Quoque = Dismissing an argument by pointing out the arguer's hypocrisy.`,
     detail: `Ad Hominem Tu Quoque
 
 Description:
-Attacking the person by pointing out hypocrisy.
-
-Ad Hominem Tu Quoque = Attacking the person by pointing out hypocrisy
+Attacking the person by pointing out their hypocrisy — trying to discredit their argument by pointing out they don't follow their own advice.
 
 Example (question)
 « You too fallacy. »
+"You do it too" — deflecting criticism by pointing out the other person's same flaw.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "You criticizes me, but you do the same thing"
+- Both sides accused, no resolution
+- Whataboutism in debates
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+A person's actions don't determine whether their argument is true. Even hypocrites can be right.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- The message is separate from the messenger
+- Appeal to hypocrisy is a fallacy
+- Two wrongs don't make a right
 
 Key concept inside it
 Ad Hominem Tu Quoque:
-Attacking the person by pointing out hypocrisy.
+Attacking the person by pointing out their hypocrisy.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Personal attacks derail debates
+- "Do as I say, not as I do" is common
+- Hypocrisy doesn't invalidate truth
 
 One-line version
-Ad Hominem Tu Quoque = Attacking the person by pointing out hypocrisy.`,
+Ad Hominem Tu Quoque = Dismissing an argument by pointing out the arguer's hypocrisy.`,
+  },
+  841: {
+    beginner: `Bandwagon Effect = Believing something is true because many believe it.`,
+    detail: `Bandwagon Effect
+
+Description:
+Believing something is true (or good) because many others believe (or do) it — popularity mistaken for proof.
+
+Example (question)
+« Popularity proof. »
+Everyone believes it — so it must be true. That's the bandwagon.
+
+Example (everyday)
+- Buying popular products
+- Following trends
+- Joining movements "because everyone does"
+
+How it works
+We assume crowds have information we don't. But popularity doesn't equal truth or quality.
+
+So:
+- Many can be wrong
+- Popular ≠ correct
+-独立思考 matters
+
+Key concept inside it
+Bandwagon:
+Following the crowd, without independent evaluation.
+
+Why it matters
+Explains why:
+- Fads and bubbles form
+- Groupthink dominates organizations
+- Popular opinions persist even when wrong
+
+One-line version
+Bandwagon Effect = Believing something is true because many believe it.`,
   },
   841: {
     beginner: `Appeal to Antiquity = Arguing something is good because it's old.`,
@@ -28548,43 +29415,79 @@ Explains why:
 One-line version
 Appeal to Antiquity = Arguing something is good because it's old.`,
   },
-  842: {
-    beginner: `Appeal to Antiquity = Arguing something is good because it's old.`,
+842: {
+    beginner: `Appeal to Antiquity = Believing something is better because it's older.`,
     detail: `Appeal to Antiquity
 
 Description:
-Arguing something is good because it's old.
-
-Appeal to Antiquity = Arguing something is good because it's old
+Arguing something is good because it's old — or that old ways are better.
 
 Example (question)
 « Old ways are best. »
+"We've always done it this way" — treating age as evidence of quality.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Traditional medicine over new treatments
+- "Old recipes are the best"
+- Classical education arguments
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Age doesn't equal quality. Old practices are often just familiar — not better.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Old doesn't mean better
+- Traditions form from past preferences
+- New can improve on old
 
 Key concept inside it
-Appeal to Antiquity:
-Arguing something is good because it's old.
+Appeal to Tradition:
+Arguing something is right because it's the way it's been done.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Progress stalls from tradition worship
+- New solutions get rejected
+- "We've always done it" blocks innovation
 
 One-line version
-Appeal to Antiquity = Arguing something is good because it's old.`,
+Appeal to Antiquity = Believing something is better because it's older.`,
+  },
+  843: {
+    beginner: `Appeal to Antiquity = Believing something is better because it's older.`,
+    detail: `Appeal to Antiquity
+
+Description:
+Arguing something is good because it's old — or that old ways are better.
+
+Example (question)
+« Traditional superiority. »
+When tradition is used as proof — old = better.
+
+Example (everyday)
+- "Old stocks are better"
+- Religious traditions as moral proof
+- Old books contain wisdom
+
+How it works
+Age doesn't equal quality. Old practices are often just familiar — not better.
+
+So:
+- Old doesn't mean better
+- Traditions form from past preferences
+- New can improve on old
+
+Key concept inside it
+Appeal to Tradition:
+Arguing something is right because it's the way it's been done.
+
+Why it matters
+Explains why:
+- Progress stalls from tradition worship
+- New solutions get rejected
+- "We've always done it" blocks innovation
+
+One-line version
+Appeal to Antiquity = Believing something is better because it's older.`,
   },
   843: {
     beginner: `Appeal to Antiquity = Arguing something is good because it's old.`,
@@ -28624,43 +29527,79 @@ Explains why:
 One-line version
 Appeal to Antiquity = Arguing something is good because it's old.`,
   },
-  844: {
-    beginner: `Appeal to Common Practice = Arguing something is acceptable because it's common.`,
+844: {
+    beginner: `Appeal to Common Practice = Believing something is acceptable because many do it.`,
     detail: `Appeal to Common Practice
 
 Description:
-Arguing something is acceptable because it's common.
-
-Appeal to Common Practice = Arguing something is acceptable because it's common
+Arguing something is acceptable because many do it — using popularity as moral proof.
 
 Example (question)
 « Everyone does it, so it's okay. »
+"Everyone cheats on taxes" as justification — common ≠ acceptable.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "Everyone late" as an excuse
+- Peer pressure as justification
+- Industry practices as ethical proof
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Common behavior doesn't equal moral behavior. The crowd can be wrong or unethical.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Common ≠ right
+- Many do wrong things
+- Appeal to community doesn't establish correctness
 
 Key concept inside it
-Appeal to Common Practice:
-Arguing something is acceptable because it's common.
+Social Norms vs Morality:
+What's common isn't always what's right.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Unethical practices persist
+- "Industry standard" is often wrong
+- Bad behavior normalizes
 
 One-line version
-Appeal to Common Practice = Arguing something is acceptable because it's common.`,
+Appeal to Common Practice = Believing something is acceptable because many do it.`,
+  },
+  845: {
+    beginner: `Appeal to Common Practice = Believing something is acceptable because many do it.`,
+    detail: `Appeal to Common Practice
+
+Description:
+Arguing something is acceptable because many do it — using popularity as moral proof.
+
+Example (question)
+« Normalizing vice. »
+When common behavior defines what's acceptable.
+
+Example (everyday)
+- Shopping on Sundays because everyone does
+- Fast food as normal
+- Overwork as standard
+
+How it works
+Common behavior doesn't equal moral behavior. The crowd can be wrong or unethical.
+
+So:
+- Common ≠ right
+- Many do wrong things
+- Appeal to community doesn't establish correctness
+
+Key concept inside it
+Social Norms vs Morality:
+What's common isn't always what's right.
+
+Why it matters
+Explains why:
+- Unethical practices persist
+- "Industry standard" is often wrong
+- Bad behavior normalizes
+
+One-line version
+Appeal to Common Practice = Believing something is acceptable because many do it.`,
   },
   845: {
     beginner: `Appeal to Common Practice = Arguing something is acceptable because it's common.`,
@@ -28701,42 +29640,41 @@ One-line version
 Appeal to Common Practice = Arguing something is acceptable because it's common.`,
   },
   846: {
-    beginner: `Appeal to Common Practice = Arguing something is acceptable because it's common.`,
-    detail: `Appeal to Common Practice
+    beginner: `Appeal to Antiquity = Believing something is better because it's older.`,
+    detail: `Appeal to Antiquity
 
 Description:
-Arguing something is acceptable because it's common.
-
-Appeal to Common Practice = Arguing something is acceptable because it's common
+Arguing something is good because it's old — or that old ways are better.
 
 Example (question)
 « Commonality as proof. »
+When old or common becomes proof of correctness.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Traditional methods over new
+- Old medicine over new research
+- "Old ways" arguments
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Age doesn't equal quality. Old practices are often just familiar — not better.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Old doesn't mean better
+- Traditions form from past preferences
+- New can improve on old
 
 Key concept inside it
-Appeal to Common Practice:
-Arguing something is acceptable because it's common.
+Appeal to Tradition:
+Arguing something is right because it's the way it's been done.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Progress stalls from tradition worship
+- New solutions get rejected
+- "We've always done it" blocks innovation
 
 One-line version
-Appeal to Common Practice = Arguing something is acceptable because it's common.`,
+Appeal to Antiquity = Believing something is better because it's older.`,
   },
   847: {
     beginner: `Appeal to Moderation = Assuming the middle ground is always correct.`,
