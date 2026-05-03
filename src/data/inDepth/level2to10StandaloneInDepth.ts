@@ -30459,43 +30459,79 @@ Explains why:
 One-line version
 Argument from Authority = Citing authority without expertise check.`,
   },
-  862: {
-    beginner: `Argument from Ignorance = Claiming truth because unproven false.`,
-    detail: `Argument from Ignorance
+862: {
+    beginner: `Appeal to Ignorance = Claiming something is true because it hasn't been proven false.`,
+    detail: `Appeal to Ignorance
 
 Description:
-Claiming truth because unproven false.
-
-Argument from Ignorance = Claiming truth because unproven false
+Claiming something is true because it hasn't been proven false — or that absence of proof equals proof.
 
 Example (question)
 « Not disproven, so true. »
+When "we can't prove it's false" becomes "it's true."
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "No evidence it doesn't work" as evidence it does
+- "Scientists haven't found the cure" as proof no cure exists
+- Absence of evidence = evidence of absence
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Absence of proof isn't proof of absence. Not finding evidence doesn't equal finding non-evidence.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Unproven ≠ false
+- Science works by finding evidence, not by lack of disproof
+- Mysteries aren't automatically true or false
 
 Key concept inside it
-Argument from Ignorance:
-Claiming truth because unproven false.
+Burden of Proof:
+The one making the claim carries the burden of proof.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Pseudoscience persists
+- Unsolved crimes treated as mysteries
+- Conspiracy theories use this
 
 One-line version
-Argument from Ignorance = Claiming truth because unproven false.`,
+Appeal to Ignorance = Claiming something is true because it hasn't been proven false.`,
+  },
+  863: {
+    beginner: `Appeal to Ignorance = Claiming something is true because it hasn't been proven false.`,
+    detail: `Appeal to Ignorance
+
+Description:
+Claiming something is true because it hasn't been proven false — or that absence of proof equals proof.
+
+Example (question)
+« Unknown equals false. »
+When absence of evidence inverts to truth.
+
+Example (everyday)
+- "No evidence of aliens" treated as proof of no aliens
+- Unexplained phenomena treated as impossible
+- Lack of explanation = explanation
+
+How it works
+Absence of proof isn't proof of absence. Not finding evidence doesn't equal finding non-evidence.
+
+So:
+- Unproven ≠ false
+- Science works by finding evidence, not by lack of disproof
+- Mysteries aren't automatically true or false
+
+Key concept inside it
+Burden of Proof:
+The one making the claim carries the burden of proof.
+
+Why it matters
+Explains why:
+- Pseudoscience persists
+- Unsolved crimes treated as mysteries
+- Conspiracy theories use this
+
+One-line version
+Appeal to Ignorance = Claiming something is true because it hasn't been proven false.`,
   },
   863: {
     beginner: `Argument from Ignorance = Claiming truth because unproven false.`,
