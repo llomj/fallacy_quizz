@@ -28569,68 +28569,196 @@ Here, **Self-Fulfilling Prophecy** is the right name because a prediction that c
 **Topic (bank)**  
 Cognitive Biases`,
   },
-  771: {
-    beginner: `## Self-Fulfilling Prophecy — in-depth (Beginner)
+771: {
+    beginner: `Self-Fulfilling Prophecy = A belief that causes itself to become true.`,
+    detail: `Self-Fulfilling Prophecy
 
-**What this is, in plain English**  
-A prediction that causes itself to become true.
+Description:
+When a prediction somehow makes itself come true.
 
-**The example you’re looking at**  
-« Prophecy fulfillment. »  
+Example (question)
+« Prophecy fulfillment. »
+The prediction is only true because it was made. Without the prediction, it wouldn't have happened.
 
-**Why this is Self-Fulfilling Prophecy**  
-A prediction that causes itself to become true. That is what this label is pointing to in the passage above.
+Example (everyday)
+A teacher believing a student is "gifted" gives extra attention — the student excels, confirming the belief.
 
-**Takeaway**  
-A prediction that causes itself to become true.`,
-    intermediate: `## Self-Fulfilling Prophecy — in-depth (Intermediate)
+How it works
+The argument uses circularity: the belief causes the outcome that validates the belief.
 
-**What this is, in plain English**  
-A prediction that causes itself to become true.
+So:
+- Prediction is made
+- Action follows prediction
+- Outcome matches prediction
+- Proof appears complete
 
-**This example**  
-« Prophecy fulfillment. »  
+Key concept inside it
+Labeling effect:
+When a label applied to someone causes them to become that label.
 
-The passage shows **Self-Fulfilling Prophecy** in action: a prediction that causes itself to become true.
+Why it matters
+Explains why:
+- "Problem child" labels create problem children
+- "Gifted" labels create gifted performance
+- Predictions can shape people
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: a prediction that causes itself to become true.
+The uncomfortable implication
+Your beliefs about others might be creating who they become.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if a prediction that causes itself to become true.
+One-line version
+Self-Fulfilling Prophecy = A belief that causes itself to become true.`,
+  },
+  772: {
+    beginner: `Social Desirability Bias = Answering in socially acceptable ways.`,
+    detail: `Social Desirability Bias
 
-- **Example 3:** In a health or habits story, watch for this pattern: A prediction that causes itself to become true.
+Description:
+Answering questions in a way that makes you look good, regardless of truth.
 
-**In one sentence**  
-Self-Fulfilling Prophecy is the label for reasoning that fits: A prediction that causes itself to become true.`,
-    expert: `## Self-Fulfilling Prophecy — in-depth (Expert)
+Example (question)
+« Lying on surveys. »
+Saying you'd donate to charity when you wouldn't — to sound socially desirable.
 
-**Definition**  
-A prediction that causes itself to become true.
+Example (everyday)
+"I always recycle" — in surveys, even by people who don't.
 
-**Applied to this passage**  
-« Prophecy fulfillment. »  
+How it works
+The argument substitutes "what I'd like to believe" for "what I actually do."
 
-Here, **Self-Fulfilling Prophecy** is the right name because a prediction that causes itself to become true.
+So:
+- The truth becomes socially adjusted
+- Self-image stays positive
+- Actual behavior is hidden
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: a prediction that causes itself to become true.
+Key concept inside it
+Self-report bias:
+The systematic distortion of self-reporting toward social desirability.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if a prediction that causes itself to become true.
+Why it matters
+Explains why:
+- Survey results are often inflated
+- Poll numbers don't match actual behavior
+- Self-reported data is unreliable
 
-- **Example 3:** In a health or habits story, watch for this pattern: A prediction that causes itself to become true.
+The uncomfortable implication
+People genuinely believe their socially-adjusted answers — they don't see the bias.
 
-- **Example 4:** Another everyday spot: school grades or test scores. A prediction that causes itself to become true.
+One-line version
+Social Desirability Bias = Answering in socially acceptable ways.`,
+  },
+  773: {
+    beginner: `Social Desirability Bias = Answering in socially acceptable ways.`,
+    detail: `Social Desirability Bias
 
-- **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** A prediction that causes itself to become true.
+Description:
+Presenting yourself in the best possible light.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Self-Fulfilling Prophecy** means A prediction that causes itself to become true.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
+Example (question)
+« Presenting self favorably. »
+You tell people what makes you look best, not what actually happened.
 
-**Topic (bank)**  
-Cognitive Biases`,
+Example (everyday)
+"I'm a good driver" — everyone thinks they're above average.
+
+How it works
+The argument gives you the benefit of the doubt in your own narrative.
+
+So:
+- Memory is reconstructed positively
+- Blame is externalized
+- Credit is claimed
+
+Key concept inside it
+Self-serving bias:
+Attributing successes to yourself, failures to external factors.
+
+Why it matters
+Explains why:
+- 90% of drivers think they're above average
+- Most people think they're ethical
+- Everyone thinks they're improving
+
+The uncomfortable implication
+Your self-image is systematically inflated — you can't see it.
+
+One-line version
+Social Desirability Bias = Answering in socially acceptable ways.`,
+  },
+  774: {
+    beginner: `Social Desirability Bias = Answering in socially acceptable ways.`,
+    detail: `Social Desirability Bias
+
+Description:
+When the desire to be seen well distorts your answers.
+
+Example (question)
+« Social approval bias. »
+You give the answer that will be viewed positively, not the honest one.
+
+Example (everyday)
+"I'd never date a coworker" — surveys say, but practice shows otherwise.
+
+How it works
+The argument makes you lie to preserve your social image.
+
+So:
+- Answer is filtered through "what should I say"
+- Truth gets distorted
+- Honest answer is abandoned
+
+Key concept inside it
+Social desirability:
+The pressure to present a favorable image.
+
+Why it matters
+Explains why:
+- Anonymous polls have different results
+- Private behavior differs from public claims
+- True attitudes are hidden
+
+The uncomfortable implication
+The pressure to be good blocks seeing yourself clearly.
+
+One-line version
+Social Desirability Bias = Answering in socially acceptable ways.`,
+  },
+  775: {
+    beginner: `Status Quo Bias = Preferring things to stay the same.`,
+    detail: `Status Quo Bias
+
+Description:
+Preferring things to stay the same. Change feels risky even when it's not.
+
+Example (question)
+« Resisting change. »
+Even when a new option is better, sticking with what you know feels safer.
+
+Example (everyday)
+Not switching banks even when another offers better rates. The known feels safer than the unknown.
+
+How it works
+The argument treats the current state as the default and any change as needing justification.
+
+So:
+- Current = neutral, safe
+- Change = risky, requiring proof
+- Loss aversion applies to switching
+
+Key concept inside it
+Loss aversion:
+Losses loom larger than equivalent gains.
+
+Why it matters
+Explains why:
+- People stay with bad jobs, bad relationships, bad finances
+- Innovation is slowed
+- Progress requires overcoming this bias
+
+The uncomfortable implication
+Your comfort zone might be keeping you stuck.
+
+One-line version
+Status Quo Bias = Preferring things to stay the same.`,
   },
   772: {
     beginner: `## Social Desirability Bias — in-depth (Beginner)
