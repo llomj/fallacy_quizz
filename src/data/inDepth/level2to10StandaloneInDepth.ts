@@ -25685,3155 +25685,2005 @@ One-line version
 Faulty Analogy = using a weak comparison to support a conclusion.`,
   },
 
-  711: {
-    beginner: `## Faulty Analogy — in-depth (Beginner)
+711: {
+    beginner: `Faulty Analogy = Drawing a conclusion from a weak comparison.`,
+    detail: `Faulty Analogy
 
-**What this is, in plain English**  
+Description:
 Drawing a conclusion from a weak comparison.
+A comparison that is too different cannot support the claim.
 
-**The example you’re looking at**  
-« Invalid comparison. »  
+Example (question)
+« Invalid comparison. »
+This is the exact kind of move the question is testing.
 
-**Why this is Faulty Analogy**  
-Drawing a conclusion from a weak comparison. That is what this label is pointing to in the passage above.
+Example (everyday)
+Comparing running a business to running a marathon, then claiming business success requires the same training routine.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Drawing a conclusion from a weak comparison.`,
-    intermediate: `## Faulty Analogy — in-depth (Intermediate)
+How it works
+The argument treats a similarity as strong enough to transfer a conclusion.
 
-**What this is, in plain English**  
-Drawing a conclusion from a weak comparison.
+So:
+- Surface similarities often hide deep differences.
+- A weak link cannot bear a strong conclusion.
+- The comparison needs to be examined, not assumed.
 
-**This example**  
-« Invalid comparison. »  
+Key concept inside it
+Weak comparison:
+A resemblance that is too superficial to draw any reliable inference.
 
-The passage shows **Faulty Analogy** in action: drawing a conclusion from a weak comparison.
+Why it matters
+Explains why:
+- Many persuasive arguments rely on flawed analogies.
+- It can make absurd arguments sound reasonable.
+- Critical thinking requires testing the comparison.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: drawing a conclusion from a weak comparison.
+The uncomfortable implication
+A clever analogy can sound right while being completely wrong.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if drawing a conclusion from a weak comparison.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Drawing a conclusion from a weak comparison.
-
-**In one sentence**  
-Faulty Analogy is the label for reasoning that fits: Drawing a conclusion from a weak comparison.`,
-    expert: `## Faulty Analogy — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion from a weak comparison.
-
-**Applied to this passage**  
-« Invalid comparison. »  
-
-Here, **Faulty Analogy** is the right name because drawing a conclusion from a weak comparison.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: drawing a conclusion from a weak comparison.
-
-- **Example 2:** Picture a news headline or social post. People often reason as if drawing a conclusion from a weak comparison.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Drawing a conclusion from a weak comparison.
-
-- **Example 4:** Another everyday spot: school grades or test scores. Drawing a conclusion from a weak comparison.
-
-- **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** Drawing a conclusion from a weak comparison.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Faulty Analogy** means Drawing a conclusion from a weak comparison.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Faulty Analogy = Drawing a conclusion from a weak comparison.`,
   },
-  712: {
-    beginner: `## Four Terms Fallacy — in-depth (Beginner)
+712: {
+    beginner: `Four Terms Fallacy = Using four terms in a syllogism instead of three.`,
+    detail: `Four Terms Fallacy
 
-**What this is, in plain English**  
+Description:
 Using four terms in a syllogism instead of three.
+A valid syllogism needs exactly three terms linking premises to conclusion.
 
-**The example you’re looking at**  
-« All men are mortal. Socrates is wise. Therefore, Socrates is mortal. »  
+Example (question)
+« All men are mortal. Socrates is wise. Therefore, Socrates is mortal. »
+This is the exact kind of move the question is testing.
 
-**Why this is Four Terms Fallacy**  
-Using four terms in a syllogism instead of three. That is what this label is pointing to in the passage above.
+Example (everyday)
+Saying "Birds fly, airplanes fly, therefore birds are airplanes" uses "flies" in two different senses.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Using four terms in a syllogism instead of three.`,
-    intermediate: `## Four Terms Fallacy — in-depth (Intermediate)
+How it works
+The argument secretly changes the meaning of a key term midway through.
 
-**What this is, in plain English**  
+So:
+- The same word becomes two different concepts.
+- The logical link breaks because of the hidden fourth term.
+- The conclusion no longer follows from the premises.
+
+Key concept inside it
+Syllogism:
+A logical argument with two premises and a conclusion, connected by a middle term.
+
+Why it matters
+Explains why:
+- Formal logic requires precise terms.
+- Ambiguous language can invalidate a seemingly sound argument.
+- Many arguments sound right but contain this hidden flaw.
+
+The uncomfortable implication
+A sneaky word change can make a nonsense conclusion appear logical.
+
+One-line version
+Four Terms Fallacy = Using four terms in a syllogism instead of three.`,
+  },
+713: {
+    beginner: `Four Terms Fallacy = Using four terms in a syllogism instead of three.`,
+    detail: `Four Terms Fallacy
+
+Description:
 Using four terms in a syllogism instead of three.
+A syllogism needs three clear terms to connect premises to conclusion.
 
-**This example**  
-« All men are mortal. Socrates is wise. Therefore, Socrates is mortal. »  
+Example (question)
+« Extra term invalidates logic. »
+This is the exact kind of move the question is testing.
 
-The passage shows **Four Terms Fallacy** in action: using four terms in a syllogism instead of three.
+Example (everyday)
+"Fish live in water, whales live in water, so whales are fish" — "lives in water" means different things.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if using four terms in a syllogism instead of three.
+How it works
+A key term shifts meaning between premises, creating a hidden fourth term.
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Using four terms in a syllogism instead of three.
+So:
+- The argument appears valid but has a hidden flaw.
+- The middle term doesn't connect both premises properly.
+- The conclusion relies on an unspoken assumption.
 
-- **Example 3:** Another everyday spot: sports or business results. Using four terms in a syllogism instead of three.
+Key concept inside it
+Middle term:
+The term that links the two premises but disappears from the conclusion.
 
-**In one sentence**  
-Four Terms Fallacy is the label for reasoning that fits: Using four terms in a syllogism instead of three.`,
-    expert: `## Four Terms Fallacy — in-depth (Expert)
+Why it matters
+Explains why:
+- Legal and philosophical arguments often hinge on term consistency.
+- This fallacy explains why seemingly logical arguments fail.
+- Precision in language matters for valid reasoning.
 
-**Definition**  
+The uncomfortable implication
+Most people use ambiguous terms without noticing the logical break.
+
+One-line version
+Four Terms Fallacy = Using four terms in a syllogism instead of three.`,
+  },
+714: {
+    beginner: `Four Terms Fallacy = Using four terms in a syllogism instead of three.`,
+    detail: `Four Terms Fallacy
+
+Description:
 Using four terms in a syllogism instead of three.
+A valid syllogism needs consistent terms throughout.
 
-**Applied to this passage**  
-« All men are mortal. Socrates is wise. Therefore, Socrates is mortal. »  
+Example (question)
+« Syllogism error. »
+This is the exact kind of move the question is testing.
 
-Here, **Four Terms Fallacy** is the right name because using four terms in a syllogism instead of three.
+Example (everyday)
+"Christians pray, Catholics pray, therefore Christians are Catholics" — the middle term "pray" connects differently.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if using four terms in a syllogism instead of three.
+How it works
+The argument uses a term in one sense in the first premise and another sense in the second.
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Using four terms in a syllogism instead of three.
+So:
+- The logical connection breaks silently.
+- The conclusion overreaches what the premises support.
+- This is a formal fallacy that requires careful reading to spot.
 
-- **Example 3:** Another everyday spot: sports or business results. Using four terms in a syllogism instead of three.
+Key concept inside it
+Term consistency:
+Using the same word to mean the same thing throughout the argument.
 
-- **Example 4:** **Setting:** a family argument. **What goes wrong:** Using four terms in a syllogism instead of three.
+Why it matters
+Explains why:
+- Academic and legal reasoning depends on term clarity.
+- Many persuasive speeches rely on this hidden ambiguity.
+- Logical precision prevents this error.
 
-- **Example 5:** Imagine a policy or workplace discussion. The slip is the same: using four terms in a syllogism instead of three.
+The uncomfortable implication
+Smart people fall for this because the flaw is invisible to casual listening.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Four Terms Fallacy** means Using four terms in a syllogism instead of three.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Four Terms Fallacy = Using four terms in a syllogism instead of three.`,
   },
-  713: {
-    beginner: `## Four Terms Fallacy — in-depth (Beginner)
+715: {
+    beginner: `Illicit Major = Distributing the major term in the conclusion but not in the premise.`,
+    detail: `Illicit Major
 
-**What this is, in plain English**  
-Using four terms in a syllogism instead of three.
-
-**The example you’re looking at**  
-« Extra term invalidates logic. »  
-
-**Why this is Four Terms Fallacy**  
-Using four terms in a syllogism instead of three. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Using four terms in a syllogism instead of three.`,
-    intermediate: `## Four Terms Fallacy — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Using four terms in a syllogism instead of three.
-
-**This example**  
-« Extra term invalidates logic. »  
-
-The passage shows **Four Terms Fallacy** in action: using four terms in a syllogism instead of three.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Using four terms in a syllogism instead of three.
-
-- **Example 2:** Another everyday spot: a health or habits story. Using four terms in a syllogism instead of three.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Using four terms in a syllogism instead of three.
-
-**In one sentence**  
-Four Terms Fallacy is the label for reasoning that fits: Using four terms in a syllogism instead of three.`,
-    expert: `## Four Terms Fallacy — in-depth (Expert)
-
-**Definition**  
-Using four terms in a syllogism instead of three.
-
-**Applied to this passage**  
-« Extra term invalidates logic. »  
-
-Here, **Four Terms Fallacy** is the right name because using four terms in a syllogism instead of three.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Using four terms in a syllogism instead of three.
-
-- **Example 2:** Another everyday spot: a health or habits story. Using four terms in a syllogism instead of three.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Using four terms in a syllogism instead of three.
-
-- **Example 4:** Imagine a news headline or social post. The slip is the same: using four terms in a syllogism instead of three.
-
-- **Example 5:** Picture a health or habits story. People often reason as if using four terms in a syllogism instead of three.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Four Terms Fallacy** means Using four terms in a syllogism instead of three.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  714: {
-    beginner: `## Four Terms Fallacy — in-depth (Beginner)
-
-**What this is, in plain English**  
-Using four terms in a syllogism instead of three.
-
-**The example you’re looking at**  
-« Syllogism error. »  
-
-**Why this is Four Terms Fallacy**  
-Using four terms in a syllogism instead of three. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Using four terms in a syllogism instead of three.`,
-    intermediate: `## Four Terms Fallacy — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Using four terms in a syllogism instead of three.
-
-**This example**  
-« Syllogism error. »  
-
-The passage shows **Four Terms Fallacy** in action: using four terms in a syllogism instead of three.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Using four terms in a syllogism instead of three.
-
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Using four terms in a syllogism instead of three.
-
-- **Example 3:** Imagine a family argument. The slip is the same: using four terms in a syllogism instead of three.
-
-**In one sentence**  
-Four Terms Fallacy is the label for reasoning that fits: Using four terms in a syllogism instead of three.`,
-    expert: `## Four Terms Fallacy — in-depth (Expert)
-
-**Definition**  
-Using four terms in a syllogism instead of three.
-
-**Applied to this passage**  
-« Syllogism error. »  
-
-Here, **Four Terms Fallacy** is the right name because using four terms in a syllogism instead of three.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Using four terms in a syllogism instead of three.
-
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Using four terms in a syllogism instead of three.
-
-- **Example 3:** Imagine a family argument. The slip is the same: using four terms in a syllogism instead of three.
-
-- **Example 4:** Picture a policy or workplace discussion. People often reason as if using four terms in a syllogism instead of three.
-
-- **Example 5:** In sports or business results, watch for this pattern: Using four terms in a syllogism instead of three.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Four Terms Fallacy** means Using four terms in a syllogism instead of three.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  715: {
-    beginner: `## Illicit Major — in-depth (Beginner)
-
-**What this is, in plain English**  
+Description:
 Distributing the major term in the conclusion but not in the premise.
+The conclusion claims something about all of a category that was only true of some.
 
-**The example you’re looking at**  
-« All men are mortal. Socrates is a man. Therefore, all mortals are men. »  
+Example (question)
+« All men are mortal. Socrates is a man. Therefore, all mortals are men. »
+This is the exact kind of move the question is testing.
 
-**Why this is Illicit Major**  
-Distributing the major term in the conclusion but not in the premise. That is what this label is pointing to in the passage above.
+Example (everyday)
+"All birds fly, penguins are birds, therefore all flying things are penguins" — "all" is used incorrectly.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Distributing the major term in the conclusion but not in the premise.`,
-    intermediate: `## Illicit Major — in-depth (Intermediate)
+How it works
+The argument treats a partial truth as if it covered all cases.
 
-**What this is, in plain English**  
+So:
+- The premise talks about some mortals.
+- The conclusion claims ALL mortals.
+- The jump from "some" to "all" is invalid.
+
+Key concept inside it
+Distribution:
+Whether a term refers to every member of its category or just some.
+
+Why it matters
+Explains why:
+- This explains why universal claims need universal support.
+- Marketing often uses this: "some users love it" becomes "everyone loves it".
+- Careful reading reveals the gap between "some" and "all".
+
+The uncomfortable implication
+Our brains naturally generalize from partial evidence.
+
+One-line version
+Illicit Major = Distributing the major term in the conclusion but not in the premise.`,
+  },
+716: {
+    beginner: `Illicit Major = Distributing the major term in the conclusion but not in the premise.`,
+    detail: `Illicit Major
+
+Description:
 Distributing the major term in the conclusion but not in the premise.
+The argument claims "all X are Y" when the premise only says "some X are Y".
 
-**This example**  
-« All men are mortal. Socrates is a man. Therefore, all mortals are men. »  
+Example (question)
+« Syllogism distribution error. »
+This is the exact kind of move the question is testing.
 
-The passage shows **Illicit Major** in action: distributing the major term in the conclusion but not in the premise.
+Example (everyday)
+"Some cars are fast, therefore all cars are fast" — the conclusion overreaches the premise.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Distributing the major term in the conclusion but not in the premise.
+How it works
+The argument silently expands from "some" to "all".
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: distributing the major term in the conclusion but not in the premise.
+So:
+- Partial evidence becomes a universal claim.
+- The distribution error is hard to spot in formal language.
+- The conclusion contains more than the premises support.
 
-- **Example 3:** Picture a news headline or social post. People often reason as if distributing the major term in the conclusion but not in the premise.
+Key concept inside it
+Major term:
+The predicate of the conclusion in a syllogism.
 
-**In one sentence**  
-Illicit Major is the label for reasoning that fits: Distributing the major term in the conclusion but not in the premise.`,
-    expert: `## Illicit Major — in-depth (Expert)
+Why it matters
+Explains why:
+- This is a common formal fallacy in academic writing.
+- It shows why "some" never implies "all".
+- Logical precision requires matching the conclusion to the premise scope.
 
-**Definition**  
+The uncomfortable implication
+Even trained logicians sometimes miss this in complex arguments.
+
+One-line version
+Illicit Major = Distributing the major term in the conclusion but not in the premise.`,
+  },
+717: {
+    beginner: `Illicit Major = Distributing the major term in the conclusion but not in the premise.`,
+    detail: `Illicit Major
+
+Description:
 Distributing the major term in the conclusion but not in the premise.
+A formal error where the conclusion stretches what the premise actually says.
 
-**Applied to this passage**  
-« All men are mortal. Socrates is a man. Therefore, all mortals are men. »  
+Example (question)
+« Invalid major term. »
+This is the exact kind of move the question is testing.
 
-Here, **Illicit Major** is the right name because distributing the major term in the conclusion but not in the premise.
+Example (everyday)
+"Some politicians are dishonest, so all politicians are dishonest" — the jump from some to all is the error.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Distributing the major term in the conclusion but not in the premise.
+How it works
+The argument assumes that what is true of some is true of all.
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: distributing the major term in the conclusion but not in the premise.
+So:
+- "Some A are B" does not mean "All A are B".
+- The major term gets distributed in the conclusion without that distribution in the premise.
+- This makes the conclusion go beyond what the evidence supports.
 
-- **Example 3:** Picture a news headline or social post. People often reason as if distributing the major term in the conclusion but not in the premise.
+Key concept inside it
+Universal conclusion from particular premise:
+The logical leap that creates the error.
 
-- **Example 4:** In a health or habits story, watch for this pattern: Distributing the major term in the conclusion but not in the premise.
+Why it matters
+Explains why:
+- Political rhetoric often uses this trick.
+- It explains why overgeneralization is a fallacy.
+- Formal logic requires matching the scope of premise and conclusion.
 
-- **Example 5:** Another everyday spot: school grades or test scores. Distributing the major term in the conclusion but not in the premise.
+The uncomfortable implication
+We all naturally generalize from limited examples.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Illicit Major** means Distributing the major term in the conclusion but not in the premise.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Illicit Major = Distributing the major term in the conclusion but not in the premise.`,
   },
-  716: {
-    beginner: `## Illicit Major — in-depth (Beginner)
+718: {
+    beginner: `Illicit Minor = Distributing the minor term in the conclusion but not in the premise.`,
+    detail: `Illicit Minor
 
-**What this is, in plain English**  
-Distributing the major term in the conclusion but not in the premise.
-
-**The example you’re looking at**  
-« Syllogism distribution error. »  
-
-**Why this is Illicit Major**  
-Distributing the major term in the conclusion but not in the premise. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Distributing the major term in the conclusion but not in the premise.`,
-    intermediate: `## Illicit Major — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Distributing the major term in the conclusion but not in the premise.
-
-**This example**  
-« Syllogism distribution error. »  
-
-The passage shows **Illicit Major** in action: distributing the major term in the conclusion but not in the premise.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: distributing the major term in the conclusion but not in the premise.
-
-- **Example 2:** Picture a family argument. People often reason as if distributing the major term in the conclusion but not in the premise.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Distributing the major term in the conclusion but not in the premise.
-
-**In one sentence**  
-Illicit Major is the label for reasoning that fits: Distributing the major term in the conclusion but not in the premise.`,
-    expert: `## Illicit Major — in-depth (Expert)
-
-**Definition**  
-Distributing the major term in the conclusion but not in the premise.
-
-**Applied to this passage**  
-« Syllogism distribution error. »  
-
-Here, **Illicit Major** is the right name because distributing the major term in the conclusion but not in the premise.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: distributing the major term in the conclusion but not in the premise.
-
-- **Example 2:** Picture a family argument. People often reason as if distributing the major term in the conclusion but not in the premise.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Distributing the major term in the conclusion but not in the premise.
-
-- **Example 4:** Another everyday spot: sports or business results. Distributing the major term in the conclusion but not in the premise.
-
-- **Example 5:** **Setting:** a family argument. **What goes wrong:** Distributing the major term in the conclusion but not in the premise.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Illicit Major** means Distributing the major term in the conclusion but not in the premise.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  717: {
-    beginner: `## Illicit Major — in-depth (Beginner)
-
-**What this is, in plain English**  
-Distributing the major term in the conclusion but not in the premise.
-
-**The example you’re looking at**  
-« Invalid major term. »  
-
-**Why this is Illicit Major**  
-Distributing the major term in the conclusion but not in the premise. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Distributing the major term in the conclusion but not in the premise.`,
-    intermediate: `## Illicit Major — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Distributing the major term in the conclusion but not in the premise.
-
-**This example**  
-« Invalid major term. »  
-
-The passage shows **Illicit Major** in action: distributing the major term in the conclusion but not in the premise.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if distributing the major term in the conclusion but not in the premise.
-
-- **Example 2:** In a news headline or social post, watch for this pattern: Distributing the major term in the conclusion but not in the premise.
-
-- **Example 3:** Another everyday spot: a health or habits story. Distributing the major term in the conclusion but not in the premise.
-
-**In one sentence**  
-Illicit Major is the label for reasoning that fits: Distributing the major term in the conclusion but not in the premise.`,
-    expert: `## Illicit Major — in-depth (Expert)
-
-**Definition**  
-Distributing the major term in the conclusion but not in the premise.
-
-**Applied to this passage**  
-« Invalid major term. »  
-
-Here, **Illicit Major** is the right name because distributing the major term in the conclusion but not in the premise.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if distributing the major term in the conclusion but not in the premise.
-
-- **Example 2:** In a news headline or social post, watch for this pattern: Distributing the major term in the conclusion but not in the premise.
-
-- **Example 3:** Another everyday spot: a health or habits story. Distributing the major term in the conclusion but not in the premise.
-
-- **Example 4:** **Setting:** school grades or test scores. **What goes wrong:** Distributing the major term in the conclusion but not in the premise.
-
-- **Example 5:** Imagine a news headline or social post. The slip is the same: distributing the major term in the conclusion but not in the premise.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Illicit Major** means Distributing the major term in the conclusion but not in the premise.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  718: {
-    beginner: `## Illicit Minor — in-depth (Beginner)
-
-**What this is, in plain English**  
+Description:
 Distributing the minor term in the conclusion but not in the premise.
+The conclusion claims all of something when the premise only covers some.
 
-**The example you’re looking at**  
-« All men are mortal. All mortals are beings. Therefore, all beings are men. »  
+Example (question)
+« All men are mortal. All mortals are beings. Therefore, all beings are men. »
+This is the exact kind of move the question is testing.
 
-**Why this is Illicit Minor**  
-Distributing the minor term in the conclusion but not in the premise. That is what this label is pointing to in the passage above.
+Example (everyday)
+"All dogs bark, all barked things make noise, therefore all noisy things are dogs" — too broad.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Distributing the minor term in the conclusion but not in the premise.`,
-    intermediate: `## Illicit Minor — in-depth (Intermediate)
+How it works
+The argument treats the subject of the conclusion as fully covered when it is not.
 
-**What this is, in plain English**  
+So:
+- The minor term (subject of conclusion) is undistributed in premise.
+- The conclusion claims "all" when the premise supports only "some".
+- This mirror error to Illicit Major flips which term is mishandled.
+
+Key concept inside it
+Minor term:
+The subject of the conclusion in a syllogism.
+
+Why it matters
+Explains why:
+- This error mirrors Illicit Major but flips which term is problematic.
+- Both show why formal logic needs careful term distribution.
+- Understanding this prevents overconfident conclusions.
+
+The uncomfortable implication
+Our intuitions about "all" statements often go beyond what evidence supports.
+
+One-line version
+Illicit Minor = Distributing the minor term in the conclusion but not in the premise.`,
+  },
+719: {
+    beginner: `Illicit Minor = Distributing the minor term in the conclusion but not in the premise.`,
+    detail: `Illicit Minor
+
+Description:
 Distributing the minor term in the conclusion but not in the premise.
+The subject of the conclusion is treated as fully known when it is not.
 
-**This example**  
-« All men are mortal. All mortals are beings. Therefore, all beings are men. »  
+Example (question)
+« Syllogism distribution error. »
+This is the exact kind of move the question is testing.
 
-The passage shows **Illicit Minor** in action: distributing the minor term in the conclusion but not in the premise.
+Example (everyday)
+"All fruits are sweet, all sweet things taste good, therefore everything that tastes good is fruit" — overreach.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Distributing the minor term in the conclusion but not in the premise.
+How it works
+The argument expands from some cases to all cases for the subject.
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Distributing the minor term in the conclusion but not in the premise.
+So:
+- The premise covers some of the minor term.
+- The conclusion claims all of it.
+- This makes the argument invalid.
 
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Distributing the minor term in the conclusion but not in the premise.
+Key concept inside it
+Undistributed term:
+A term that refers only to some members of its class, not all.
 
-**In one sentence**  
-Illicit Minor is the label for reasoning that fits: Distributing the minor term in the conclusion but not in the premise.`,
-    expert: `## Illicit Minor — in-depth (Expert)
+Why it matters
+Explains why:
+- This is the mirror of Illicit Major (flips which term is problematic).
+- Both show why formal logic is counterintuitive.
+- Critical thinking requires checking "all" claims.
 
-**Definition**  
+The uncomfortable implication
+We routinely jump from "some" to "all" without noticing.
+
+One-line version
+Illicit Minor = Distributing the minor term in the conclusion but not in the premise.`,
+  },
+720: {
+    beginner: `Illicit Minor = Distributing the minor term in the conclusion but not in the premise.`,
+    detail: `Illicit Minor
+
+Description:
 Distributing the minor term in the conclusion but not in the premise.
+A formal fallacy where the subject of the conclusion is overreaching.
 
-**Applied to this passage**  
-« All men are mortal. All mortals are beings. Therefore, all beings are men. »  
+Example (question)
+« Invalid minor term. »
+This is the exact kind of move the question is testing.
 
-Here, **Illicit Minor** is the right name because distributing the minor term in the conclusion but not in the premise.
+Example (everyday)
+"All birds are animals, all animals move, therefore everything that moves is a bird" — clear overreach.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Distributing the minor term in the conclusion but not in the premise.
+How it works
+The argument assumes all of something applies when only some was proven.
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Distributing the minor term in the conclusion but not in the premise.
+So:
+- Check if "all" in conclusion matches "some/all" in premise.
+- The minor term needs distribution in at least one premise.
+- Without this, the conclusion goes beyond the evidence.
 
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Distributing the minor term in the conclusion but not in the premise.
+Key concept inside it
+Formal fallacy:
+An error in the structure of the argument, not the content.
 
-- **Example 4:** Imagine a family argument. The slip is the same: distributing the minor term in the conclusion but not in the premise.
+Why it matters
+Explains why:
+- This is a technical error in deductive reasoning.
+- It shows the difference between valid form and true conclusion.
+- Even true conclusions can be reached through invalid logic.
 
-- **Example 5:** Picture a policy or workplace discussion. People often reason as if distributing the minor term in the conclusion but not in the premise.
+The uncomfortable implication
+A conclusion can be true by accident while the reasoning is flawed.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Illicit Minor** means Distributing the minor term in the conclusion but not in the premise.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Illicit Minor = Distributing the minor term in the conclusion but not in the premise.`,
   },
-  719: {
-    beginner: `## Illicit Minor — in-depth (Beginner)
+721: {
+    beginner: `Inconsistency = Holding contradictory beliefs.`,
+    detail: `Inconsistency
 
-**What this is, in plain English**  
-Distributing the minor term in the conclusion but not in the premise.
-
-**The example you’re looking at**  
-« Syllogism distribution error. »  
-
-**Why this is Illicit Minor**  
-Distributing the minor term in the conclusion but not in the premise. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Distributing the minor term in the conclusion but not in the premise.`,
-    intermediate: `## Illicit Minor — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Distributing the minor term in the conclusion but not in the premise.
-
-**This example**  
-« Syllogism distribution error. »  
-
-The passage shows **Illicit Minor** in action: distributing the minor term in the conclusion but not in the premise.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Distributing the minor term in the conclusion but not in the premise.
-
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Distributing the minor term in the conclusion but not in the premise.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: distributing the minor term in the conclusion but not in the premise.
-
-**In one sentence**  
-Illicit Minor is the label for reasoning that fits: Distributing the minor term in the conclusion but not in the premise.`,
-    expert: `## Illicit Minor — in-depth (Expert)
-
-**Definition**  
-Distributing the minor term in the conclusion but not in the premise.
-
-**Applied to this passage**  
-« Syllogism distribution error. »  
-
-Here, **Illicit Minor** is the right name because distributing the minor term in the conclusion but not in the premise.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Distributing the minor term in the conclusion but not in the premise.
-
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Distributing the minor term in the conclusion but not in the premise.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: distributing the minor term in the conclusion but not in the premise.
-
-- **Example 4:** Picture a news headline or social post. People often reason as if distributing the minor term in the conclusion but not in the premise.
-
-- **Example 5:** In a health or habits story, watch for this pattern: Distributing the minor term in the conclusion but not in the premise.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Illicit Minor** means Distributing the minor term in the conclusion but not in the premise.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  720: {
-    beginner: `## Illicit Minor — in-depth (Beginner)
-
-**What this is, in plain English**  
-Distributing the minor term in the conclusion but not in the premise.
-
-**The example you’re looking at**  
-« Invalid minor term. »  
-
-**Why this is Illicit Minor**  
-Distributing the minor term in the conclusion but not in the premise. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Distributing the minor term in the conclusion but not in the premise.`,
-    intermediate: `## Illicit Minor — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Distributing the minor term in the conclusion but not in the premise.
-
-**This example**  
-« Invalid minor term. »  
-
-The passage shows **Illicit Minor** in action: distributing the minor term in the conclusion but not in the premise.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Distributing the minor term in the conclusion but not in the premise.
-
-- **Example 2:** Imagine sports or business results. The slip is the same: distributing the minor term in the conclusion but not in the premise.
-
-- **Example 3:** Picture a family argument. People often reason as if distributing the minor term in the conclusion but not in the premise.
-
-**In one sentence**  
-Illicit Minor is the label for reasoning that fits: Distributing the minor term in the conclusion but not in the premise.`,
-    expert: `## Illicit Minor — in-depth (Expert)
-
-**Definition**  
-Distributing the minor term in the conclusion but not in the premise.
-
-**Applied to this passage**  
-« Invalid minor term. »  
-
-Here, **Illicit Minor** is the right name because distributing the minor term in the conclusion but not in the premise.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Distributing the minor term in the conclusion but not in the premise.
-
-- **Example 2:** Imagine sports or business results. The slip is the same: distributing the minor term in the conclusion but not in the premise.
-
-- **Example 3:** Picture a family argument. People often reason as if distributing the minor term in the conclusion but not in the premise.
-
-- **Example 4:** In a policy or workplace discussion, watch for this pattern: Distributing the minor term in the conclusion but not in the premise.
-
-- **Example 5:** Another everyday spot: sports or business results. Distributing the minor term in the conclusion but not in the premise.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Illicit Minor** means Distributing the minor term in the conclusion but not in the premise.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  721: {
-    beginner: `## Inconsistency — in-depth (Beginner)
-
-**What this is, in plain English**  
+Description:
 Holding contradictory beliefs.
+Saying one thing while doing another creates a logical contradiction.
 
-**The example you’re looking at**  
-« Saying one thing and doing another. »  
+Example (question)
+« Saying one thing and doing another. »
+This is the exact kind of move the question is testing.
 
-**Why this is Inconsistency**  
-Holding contradictory beliefs. That is what this label is pointing to in the passage above.
+Example (everyday)
+A person who argues for environmental protection but flies private jets regularly.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Holding contradictory beliefs.`,
-    intermediate: `## Inconsistency — in-depth (Intermediate)
+How it works
+The argument contradicts itself through action versus claim.
 
-**What this is, in plain English**  
+So:
+- Beliefs conflict with each other.
+- Actions don't match stated principles.
+- This undermines the person's credibility and argument.
+
+Key concept inside it
+Contradiction:
+When two statements cannot both be true at the same time.
+
+Why it matters
+Explains why:
+- Consistency is a basic demand of rational argument.
+- Hypocrisy destroys persuasive power.
+- Logical coherence matters for sound reasoning.
+
+The uncomfortable implication
+We all hold some contradictions without noticing them.
+
+One-line version
+Inconsistency = Holding contradictory beliefs.`,
+  },
+722: {
+    beginner: `Inconsistency = Holding contradictory beliefs.`,
+    detail: `Inconsistency
+
+Description:
 Holding contradictory beliefs.
+When someone's statements or actions clash with each other.
 
-**This example**  
-« Saying one thing and doing another. »  
+Example (question)
+« Contradictory statements. »
+This is the exact kind of move the question is testing.
 
-The passage shows **Inconsistency** in action: holding contradictory beliefs.
+Example (everyday)
+A politician who campaigns on "family values" but is caught in personal scandals.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: holding contradictory beliefs.
+How it works
+The argument fails its own standards.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if holding contradictory beliefs.
+So:
+- What is said doesn't match what is done.
+- The argument collapses under its own weight.
+- Trust erodes when contradictions emerge.
 
-- **Example 3:** In a news headline or social post, watch for this pattern: Holding contradictory beliefs.
+Key concept inside it
+Logical coherence:
+The internal consistency of an argument or belief system.
 
-**In one sentence**  
-Inconsistency is the label for reasoning that fits: Holding contradictory beliefs.`,
-    expert: `## Inconsistency — in-depth (Expert)
+Why it matters
+Explains why:
+- Credibility depends on consistency.
+- Self-contradiction invalidates an argument.
+- Rational discourse requires coherent positions.
 
-**Definition**  
+The uncomfortable implication
+Everyone holds some contradictory beliefs without realizing it.
+
+One-line version
+Inconsistency = Holding contradictory beliefs.`,
+  },
+723: {
+    beginner: `Inconsistency = Holding contradictory beliefs.`,
+    detail: `Inconsistency
+
+Description:
 Holding contradictory beliefs.
+When claims clash with each other, neither can be fully true.
 
-**Applied to this passage**  
-« Saying one thing and doing another. »  
+Example (question)
+« Logical inconsistency. »
+This is the exact kind of move the question is testing.
 
-Here, **Inconsistency** is the right name because holding contradictory beliefs.
+Example (everyday)
+Someone who says "I never lie" but admits to lying about small things.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: holding contradictory beliefs.
+How it works
+The argument contains internal conflict.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if holding contradictory beliefs.
+So:
+- Statement A contradicts statement B.
+- Both cannot be true simultaneously.
+- The argument fails its own test.
 
-- **Example 3:** In a news headline or social post, watch for this pattern: Holding contradictory beliefs.
+Key concept inside it
+Self-defeating argument:
+An argument that undermines itself through contradiction.
 
-- **Example 4:** Another everyday spot: a health or habits story. Holding contradictory beliefs.
+Why it matters
+Explains why:
+- Logical consistency is fundamental to rational argument.
+- Inconsistency reveals underlying problems.
+- Coherence matters for persuasive reasoning.
 
-- **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** Holding contradictory beliefs.
+The uncomfortable implication
+Contradictions are often invisible to the person holding them.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Inconsistency** means Holding contradictory beliefs.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Inconsistency = Holding contradictory beliefs.`,
   },
-  722: {
-    beginner: `## Inconsistency — in-depth (Beginner)
+724: {
+    beginner: `Innuendo = Making an accusation indirectly.`,
+    detail: `Innuendo
 
-**What this is, in plain English**  
-Holding contradictory beliefs.
-
-**The example you’re looking at**  
-« Contradictory statements. »  
-
-**Why this is Inconsistency**  
-Holding contradictory beliefs. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Holding contradictory beliefs.`,
-    intermediate: `## Inconsistency — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Holding contradictory beliefs.
-
-**This example**  
-« Contradictory statements. »  
-
-The passage shows **Inconsistency** in action: holding contradictory beliefs.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if holding contradictory beliefs.
-
-- **Example 2:** In a family argument, watch for this pattern: Holding contradictory beliefs.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Holding contradictory beliefs.
-
-**In one sentence**  
-Inconsistency is the label for reasoning that fits: Holding contradictory beliefs.`,
-    expert: `## Inconsistency — in-depth (Expert)
-
-**Definition**  
-Holding contradictory beliefs.
-
-**Applied to this passage**  
-« Contradictory statements. »  
-
-Here, **Inconsistency** is the right name because holding contradictory beliefs.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if holding contradictory beliefs.
-
-- **Example 2:** In a family argument, watch for this pattern: Holding contradictory beliefs.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Holding contradictory beliefs.
-
-- **Example 4:** **Setting:** sports or business results. **What goes wrong:** Holding contradictory beliefs.
-
-- **Example 5:** Imagine a family argument. The slip is the same: holding contradictory beliefs.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Inconsistency** means Holding contradictory beliefs.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  723: {
-    beginner: `## Inconsistency — in-depth (Beginner)
-
-**What this is, in plain English**  
-Holding contradictory beliefs.
-
-**The example you’re looking at**  
-« Logical inconsistency. »  
-
-**Why this is Inconsistency**  
-Holding contradictory beliefs. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Holding contradictory beliefs.`,
-    intermediate: `## Inconsistency — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Holding contradictory beliefs.
-
-**This example**  
-« Logical inconsistency. »  
-
-The passage shows **Inconsistency** in action: holding contradictory beliefs.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Holding contradictory beliefs.
-
-- **Example 2:** Another everyday spot: a news headline or social post. Holding contradictory beliefs.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Holding contradictory beliefs.
-
-**In one sentence**  
-Inconsistency is the label for reasoning that fits: Holding contradictory beliefs.`,
-    expert: `## Inconsistency — in-depth (Expert)
-
-**Definition**  
-Holding contradictory beliefs.
-
-**Applied to this passage**  
-« Logical inconsistency. »  
-
-Here, **Inconsistency** is the right name because holding contradictory beliefs.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Holding contradictory beliefs.
-
-- **Example 2:** Another everyday spot: a news headline or social post. Holding contradictory beliefs.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Holding contradictory beliefs.
-
-- **Example 4:** Imagine school grades or test scores. The slip is the same: holding contradictory beliefs.
-
-- **Example 5:** Picture a news headline or social post. People often reason as if holding contradictory beliefs.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Inconsistency** means Holding contradictory beliefs.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  724: {
-    beginner: `## Innuendo — in-depth (Beginner)
-
-**What this is, in plain English**  
+Description:
 Making an accusation indirectly.
+Suggesting something without stating it directly, often to imply wrongdoing.
 
-**The example you’re looking at**  
-« Hinting at wrongdoing without stating. »  
+Example (question)
+« Hinting at wrongdoing without stating. »
+This is the exact kind of move the question is testing.
 
-**Why this is Innuendo**  
-Making an accusation indirectly. That is what this label is pointing to in the passage above.
+Example (everyday)
+Saying "I'm not saying he's dishonest, but his business dealings are... interesting."
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Making an accusation indirectly.`,
-    intermediate: `## Innuendo — in-depth (Intermediate)
+How it works
+The argument hints at something while maintaining plausible deniability.
 
-**What this is, in plain English**  
+So:
+- The accusation is implied, not stated.
+- It attacks without taking responsibility for the attack.
+- The listener fills in the harmful implication.
+
+Key concept inside it
+Implicit accusation:
+An allegation conveyed through suggestion rather than direct statement.
+
+Why it matters
+Explains why:
+- This is a common political and media tactic.
+- It allows harmful suggestions without proof.
+- Critical thinking requires distinguishing hint from evidence.
+
+The uncomfortable implication
+Indirect accusations can be more damaging than direct ones because they're harder to refute.
+
+One-line version
+Innuendo = Making an accusation indirectly.`,
+  },
+725: {
+    beginner: `Innuendo = Making an accusation indirectly.`,
+    detail: `Innuendo
+
+Description:
 Making an accusation indirectly.
+When someone implies something harmful without saying it outright.
 
-**This example**  
-« Hinting at wrongdoing without stating. »  
+Example (question)
+« Subtle accusations. »
+This is the exact kind of move the question is testing.
 
-The passage shows **Innuendo** in action: making an accusation indirectly.
+Example (everyday)
+"He's certainly successful, at whatever cost" — the suggestion of unethical behavior is the attack.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Making an accusation indirectly.
+How it works
+The argument uses implication rather than direct statement.
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Making an accusation indirectly.
+So:
+- The speaker can deny saying the harmful thing.
+- The listener receives the harmful message anyway.
+- It creates suspicion without proof.
 
-- **Example 3:** Imagine sports or business results. The slip is the same: making an accusation indirectly.
+Key concept inside it
+Subtle attack:
+An accusation wrapped in plausible language that denies wrongdoing.
 
-**In one sentence**  
-Innuendo is the label for reasoning that fits: Making an accusation indirectly.`,
-    expert: `## Innuendo — in-depth (Expert)
+Why it matters
+Explains why:
+- Politicians often use this to plant ideas.
+- Media uses innuendo to suggest without being liable.
+- It exploits the gap between implication and statement.
 
-**Definition**  
+The uncomfortable implication
+Innuendo can spread false beliefs effectively because it's hard to counter.
+
+One-line version
+Innuendo = Making an accusation indirectly.`,
+  },
+726: {
+    beginner: `Innuendo = Making an accusation indirectly.`,
+    detail: `Innuendo
+
+Description:
 Making an accusation indirectly.
+When harmful suggestions replace direct evidence.
 
-**Applied to this passage**  
-« Hinting at wrongdoing without stating. »  
+Example (question)
+« Indirect attacks. »
+This is the exact kind of move the question is testing.
 
-Here, **Innuendo** is the right name because making an accusation indirectly.
+Example (everyday)
+"Why would he suddenly have that much money?" — implies wrongdoing without stating it.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Making an accusation indirectly.
+How it works
+The argument relies on implication rather than evidence.
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Making an accusation indirectly.
+So:
+- The speaker avoids direct responsibility.
+- The audience infers the harmful meaning.
+- It's a way to attack while maintaining deniability.
 
-- **Example 3:** Imagine sports or business results. The slip is the same: making an accusation indirectly.
+Key concept inside it
+Plausible deniability:
+The ability to deny an implication while still conveying it.
 
-- **Example 4:** Picture a family argument. People often reason as if making an accusation indirectly.
+Why it matters
+Explains why:
+- This tactic is common in politics and media.
+- It spreads suspicion without evidence.
+- It exploits the gap between what's said and what's meant.
 
-- **Example 5:** In a policy or workplace discussion, watch for this pattern: Making an accusation indirectly.
+The uncomfortable implication
+Innuendo is often more effective than direct accusation because it's harder to disprove.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Innuendo** means Making an accusation indirectly.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
+One-line version
+Innuendo = Making an accusation indirectly.`,
   },
-  725: {
-    beginner: `## Innuendo — in-depth (Beginner)
+727: {
+    beginner: `Irrelevant Conclusion = Drawing a conclusion that doesn't follow from the premises.`,
+    detail: `Irrelevant Conclusion
 
-**What this is, in plain English**  
-Making an accusation indirectly.
-
-**The example you’re looking at**  
-« Subtle accusations. »  
-
-**Why this is Innuendo**  
-Making an accusation indirectly. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Making an accusation indirectly.`,
-    intermediate: `## Innuendo — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Making an accusation indirectly.
-
-**This example**  
-« Subtle accusations. »  
-
-The passage shows **Innuendo** in action: making an accusation indirectly.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Making an accusation indirectly.
-
-- **Example 2:** Imagine a health or habits story. The slip is the same: making an accusation indirectly.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if making an accusation indirectly.
-
-**In one sentence**  
-Innuendo is the label for reasoning that fits: Making an accusation indirectly.`,
-    expert: `## Innuendo — in-depth (Expert)
-
-**Definition**  
-Making an accusation indirectly.
-
-**Applied to this passage**  
-« Subtle accusations. »  
-
-Here, **Innuendo** is the right name because making an accusation indirectly.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Making an accusation indirectly.
-
-- **Example 2:** Imagine a health or habits story. The slip is the same: making an accusation indirectly.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if making an accusation indirectly.
-
-- **Example 4:** In a news headline or social post, watch for this pattern: Making an accusation indirectly.
-
-- **Example 5:** Another everyday spot: a health or habits story. Making an accusation indirectly.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Innuendo** means Making an accusation indirectly.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
-  },
-  726: {
-    beginner: `## Innuendo — in-depth (Beginner)
-
-**What this is, in plain English**  
-Making an accusation indirectly.
-
-**The example you’re looking at**  
-« Indirect attacks. »  
-
-**Why this is Innuendo**  
-Making an accusation indirectly. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Making an accusation indirectly.`,
-    intermediate: `## Innuendo — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Making an accusation indirectly.
-
-**This example**  
-« Indirect attacks. »  
-
-The passage shows **Innuendo** in action: making an accusation indirectly.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: making an accusation indirectly.
-
-- **Example 2:** Picture sports or business results. People often reason as if making an accusation indirectly.
-
-- **Example 3:** In a family argument, watch for this pattern: Making an accusation indirectly.
-
-**In one sentence**  
-Innuendo is the label for reasoning that fits: Making an accusation indirectly.`,
-    expert: `## Innuendo — in-depth (Expert)
-
-**Definition**  
-Making an accusation indirectly.
-
-**Applied to this passage**  
-« Indirect attacks. »  
-
-Here, **Innuendo** is the right name because making an accusation indirectly.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: making an accusation indirectly.
-
-- **Example 2:** Picture sports or business results. People often reason as if making an accusation indirectly.
-
-- **Example 3:** In a family argument, watch for this pattern: Making an accusation indirectly.
-
-- **Example 4:** Another everyday spot: a policy or workplace discussion. Making an accusation indirectly.
-
-- **Example 5:** **Setting:** sports or business results. **What goes wrong:** Making an accusation indirectly.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Innuendo** means Making an accusation indirectly.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Rhetorical/Discourse Tactics`,
-  },
-  727: {
-    beginner: `## Irrelevant Conclusion — in-depth (Beginner)
-
-**What this is, in plain English**  
+Description:
 Drawing a conclusion that doesn't follow from the premises.
+The conclusion comes from nowhere, unrelated to the evidence given.
 
-**The example you’re looking at**  
-« Premises don't support conclusion. »  
+Example (question)
+« Premises don't support conclusion. »
+This is the exact kind of move the question is testing.
 
-**Why this is Irrelevant Conclusion**  
-Drawing a conclusion that doesn't follow from the premises. That is what this label is pointing to in the passage above.
+Example (everyday)
+"The weather is nice, therefore the economy will improve" — no logical link.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Drawing a conclusion that doesn't follow from the premises.`,
-    intermediate: `## Irrelevant Conclusion — in-depth (Intermediate)
+How it works
+The argument jumps to a conclusion unrelated to its evidence.
 
-**What this is, in plain English**  
+So:
+- Premises provide no support for the claim.
+- The conclusion appears random or unrelated.
+- This is a non sequitur in formal terms.
+
+Key concept inside it
+Non sequitur:
+A conclusion that does not follow from the premises.
+
+Why it matters
+Explains why:
+- Many arguments disguise weak connections as logical.
+- This explains why correlation doesn't imply causation.
+- Good reasoning requires relevant support.
+
+The uncomfortable implication
+Our brains accept unrelated conclusions when they sound confident.
+
+One-line version
+Irrelevant Conclusion = Drawing a conclusion that doesn't follow from the premises.`,
+  },
+728: {
+    beginner: `Irrelevant Conclusion = Drawing a conclusion that doesn't follow from the premises.`,
+    detail: `Irrelevant Conclusion
+
+Description:
 Drawing a conclusion that doesn't follow from the premises.
+When the conclusion has no logical connection to what was said before.
 
-**This example**  
-« Premises don't support conclusion. »  
+Example (question)
+« Non sequitur. »
+This is the exact kind of move the question is testing.
 
-The passage shows **Irrelevant Conclusion** in action: drawing a conclusion that doesn't follow from the premises.
+Example (everyday)
+"I ate breakfast, therefore the stock market will rise" — no connection exists.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if drawing a conclusion that doesn't follow from the premises.
+How it works
+The argument ignores the logical connection requirement.
 
-- **Example 2:** In school grades or test scores, watch for this pattern: Drawing a conclusion that doesn't follow from the premises.
+So:
+- The premises don't provide a basis for the claim.
+- The conclusion appears randomly.
+- This breaks the basic requirement of valid reasoning.
 
-- **Example 3:** Another everyday spot: a news headline or social post. Drawing a conclusion that doesn't follow from the premises.
+Key concept inside it
+Logical connection:
+The necessary link between evidence and claim in valid argumentation.
 
-**In one sentence**  
-Irrelevant Conclusion is the label for reasoning that fits: Drawing a conclusion that doesn't follow from the premises.`,
-    expert: `## Irrelevant Conclusion — in-depth (Expert)
+Why it matters
+Explains why:
+- Non sequiturs are common in everyday conversation.
+- They reveal gaps in reasoning.
+- Valid arguments require connection between premises and conclusion.
 
-**Definition**  
+The uncomfortable implication
+We often accept conclusions that have no connection to evidence.
+
+One-line version
+Irrelevant Conclusion = Drawing a conclusion that doesn't follow from the premises.`,
+  },
+729: {
+    beginner: `Irrelevant Conclusion = Drawing a conclusion that doesn't follow from the premises.`,
+    detail: `Irrelevant Conclusion
+
+Description:
 Drawing a conclusion that doesn't follow from the premises.
+When evidence is ignored in favor of an unrelated claim.
 
-**Applied to this passage**  
-« Premises don't support conclusion. »  
+Example (question)
+« Irrelevant reasoning. »
+This is the exact kind of move the question is testing.
 
-Here, **Irrelevant Conclusion** is the right name because drawing a conclusion that doesn't follow from the premises.
+Example (everyday)
+"My team lost, so the new policy must be bad" — no logical link.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if drawing a conclusion that doesn't follow from the premises.
+How it works
+The argument substitutes an unrelated conclusion for a relevant one.
 
-- **Example 2:** In school grades or test scores, watch for this pattern: Drawing a conclusion that doesn't follow from the premises.
+So:
+- Evidence is present but ignored.
+- The conclusion comes from somewhere else.
+- This breaks the basic rule that conclusions must follow from premises.
 
-- **Example 3:** Another everyday spot: a news headline or social post. Drawing a conclusion that doesn't follow from the premises.
+Key concept inside it
+Premise-premise gap:
+The missing logical link between what is claimed and what is evidence.
 
-- **Example 4:** **Setting:** a health or habits story. **What goes wrong:** Drawing a conclusion that doesn't follow from the premises.
+Why it matters
+Explains why:
+- This fallacy shows why correlation doesn't prove causation.
+- It explains why confidence doesn't equal correctness.
+- Valid arguments require relevant support.
 
-- **Example 5:** Imagine school grades or test scores. The slip is the same: drawing a conclusion that doesn't follow from the premises.
+The uncomfortable implication
+People often accept unrelated conclusions because they sound plausible.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Irrelevant Conclusion** means Drawing a conclusion that doesn't follow from the premises.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Irrelevant Conclusion = Drawing a conclusion that doesn't follow from the premises.`,
   },
-  728: {
-    beginner: `## Irrelevant Conclusion — in-depth (Beginner)
+730: {
+    beginner: `Missing the Point = Failing to address the main issue.`,
+    detail: `Missing the Point
 
-**What this is, in plain English**  
-Drawing a conclusion that doesn't follow from the premises.
-
-**The example you’re looking at**  
-« Non sequitur. »  
-
-**Why this is Irrelevant Conclusion**  
-Drawing a conclusion that doesn't follow from the premises. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Drawing a conclusion that doesn't follow from the premises.`,
-    intermediate: `## Irrelevant Conclusion — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Drawing a conclusion that doesn't follow from the premises.
-
-**This example**  
-« Non sequitur. »  
-
-The passage shows **Irrelevant Conclusion** in action: drawing a conclusion that doesn't follow from the premises.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Drawing a conclusion that doesn't follow from the premises.
-
-- **Example 2:** Another everyday spot: a family argument. Drawing a conclusion that doesn't follow from the premises.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Drawing a conclusion that doesn't follow from the premises.
-
-**In one sentence**  
-Irrelevant Conclusion is the label for reasoning that fits: Drawing a conclusion that doesn't follow from the premises.`,
-    expert: `## Irrelevant Conclusion — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion that doesn't follow from the premises.
-
-**Applied to this passage**  
-« Non sequitur. »  
-
-Here, **Irrelevant Conclusion** is the right name because drawing a conclusion that doesn't follow from the premises.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Drawing a conclusion that doesn't follow from the premises.
-
-- **Example 2:** Another everyday spot: a family argument. Drawing a conclusion that doesn't follow from the premises.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Drawing a conclusion that doesn't follow from the premises.
-
-- **Example 4:** Imagine sports or business results. The slip is the same: drawing a conclusion that doesn't follow from the premises.
-
-- **Example 5:** Picture a family argument. People often reason as if drawing a conclusion that doesn't follow from the premises.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Irrelevant Conclusion** means Drawing a conclusion that doesn't follow from the premises.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  729: {
-    beginner: `## Irrelevant Conclusion — in-depth (Beginner)
-
-**What this is, in plain English**  
-Drawing a conclusion that doesn't follow from the premises.
-
-**The example you’re looking at**  
-« Irrelevant reasoning. »  
-
-**Why this is Irrelevant Conclusion**  
-Drawing a conclusion that doesn't follow from the premises. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Drawing a conclusion that doesn't follow from the premises.`,
-    intermediate: `## Irrelevant Conclusion — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Drawing a conclusion that doesn't follow from the premises.
-
-**This example**  
-« Irrelevant reasoning. »  
-
-The passage shows **Irrelevant Conclusion** in action: drawing a conclusion that doesn't follow from the premises.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Drawing a conclusion that doesn't follow from the premises.
-
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Drawing a conclusion that doesn't follow from the premises.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: drawing a conclusion that doesn't follow from the premises.
-
-**In one sentence**  
-Irrelevant Conclusion is the label for reasoning that fits: Drawing a conclusion that doesn't follow from the premises.`,
-    expert: `## Irrelevant Conclusion — in-depth (Expert)
-
-**Definition**  
-Drawing a conclusion that doesn't follow from the premises.
-
-**Applied to this passage**  
-« Irrelevant reasoning. »  
-
-Here, **Irrelevant Conclusion** is the right name because drawing a conclusion that doesn't follow from the premises.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Drawing a conclusion that doesn't follow from the premises.
-
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Drawing a conclusion that doesn't follow from the premises.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: drawing a conclusion that doesn't follow from the premises.
-
-- **Example 4:** Picture school grades or test scores. People often reason as if drawing a conclusion that doesn't follow from the premises.
-
-- **Example 5:** In a news headline or social post, watch for this pattern: Drawing a conclusion that doesn't follow from the premises.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Irrelevant Conclusion** means Drawing a conclusion that doesn't follow from the premises.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  730: {
-    beginner: `## Missing the Point — in-depth (Beginner)
-
-**What this is, in plain English**  
+Description:
 Failing to address the main issue.
+When the response avoids what was actually asked.
 
-**The example you’re looking at**  
-« Answering a different question. »  
+Example (question)
+« Answering a different question. »
+This is the exact kind of move the question is testing.
 
-**Why this is Missing the Point**  
-Failing to address the main issue. That is what this label is pointing to in the passage above.
+Example (everyday)
+Someone asks "Did you finish the report?" and you reply "I worked really hard this week."
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Failing to address the main issue.`,
-    intermediate: `## Missing the Point — in-depth (Intermediate)
+How it works
+The argument substitutes a different point for the original one.
 
-**What this is, in plain English**  
+So:
+- The question is ignored.
+- A related but different point is made instead.
+- The original issue remains unresolved.
+
+Key concept inside it
+Sidestep:
+Avoiding the actual question by addressing something else.
+
+Why it matters
+Explains why:
+- This is common in political interviews and debates.
+- It allows evasion while appearing to respond.
+- Real issues get buried under tangents.
+
+The uncomfortable implication
+A clever redirect can feel like a valid answer.
+
+One-line version
+Missing the Point = Failing to address the main issue.`,
+  },
+731: {
+    beginner: `Missing the Point = Failing to address the main issue.`,
+    detail: `Missing the Point
+
+Description:
 Failing to address the main issue.
+When the answer dodge the actual question being asked.
 
-**This example**  
-« Answering a different question. »  
+Example (question)
+« Avoiding the topic. »
+This is the exact kind of move the question is testing.
 
-The passage shows **Missing the Point** in action: failing to address the main issue.
+Example (everyday)
+Asked "Why were you late?" and you respond "The traffic was terrible" without addressing the real issue.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Failing to address the main issue.
+How it works
+The argument provides related but irrelevant information.
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: failing to address the main issue.
+So:
+- The question is sidestepped.
+- Something tangentially related is offered instead.
+- The listener accepts the tangent as an answer.
 
-- **Example 3:** Picture sports or business results. People often reason as if failing to address the main issue.
+Key concept inside it
+Topic dodge:
+Changing the subject to avoid the actual question.
 
-**In one sentence**  
-Missing the Point is the label for reasoning that fits: Failing to address the main issue.`,
-    expert: `## Missing the Point — in-depth (Expert)
+Why it matters
+Explains why:
+- Politicians are famous for this tactic.
+- It prevents accountability by avoiding direct answers.
+- Critical thinking requires staying on topic.
 
-**Definition**  
+The uncomfortable implication
+We often accept evasion as a valid response.
+
+One-line version
+Missing the Point = Failing to address the main issue.`,
+  },
+732: {
+    beginner: `Missing the Point = Failing to address the main issue.`,
+    detail: `Missing the Point
+
+Description:
 Failing to address the main issue.
+When an answer provides information that sounds relevant but doesn't address what was asked.
 
-**Applied to this passage**  
-« Answering a different question. »  
+Example (question)
+« Off-topic response. »
+This is the exact kind of move the question is testing.
 
-Here, **Missing the Point** is the right name because failing to address the main issue.
+Example (everyday)
+When asked "Did you meet your sales target?" you answer "We worked really hard this quarter."
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Failing to address the main issue.
+How it works
+The response sounds like an answer while actually changing the subject.
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: failing to address the main issue.
+So:
+- Something tangentially related is presented as a response.
+- The original question remains unanswered.
+- The listener may not notice the topic shift.
 
-- **Example 3:** Picture sports or business results. People often reason as if failing to address the main issue.
+Key concept inside it
+Relevance gap:
+The difference between what was asked and what was answered.
 
-- **Example 4:** In a family argument, watch for this pattern: Failing to address the main issue.
+Why it matters
+Explains why:
+- This is a key evasion technique in interviews.
+- It allows avoiding difficult questions.
+- Critical reading catches this disconnect.
 
-- **Example 5:** Another everyday spot: a policy or workplace discussion. Failing to address the main issue.
+The uncomfortable implication
+We often don't notice when questions go unanswered.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Missing the Point** means Failing to address the main issue.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Missing the Point = Failing to address the main issue.`,
   },
-  731: {
-    beginner: `## Missing the Point — in-depth (Beginner)
+733: {
+    beginner: `Moving the Goalposts = Changing the criteria for success after the fact.`,
+    detail: `Moving the Goalposts
 
-**What this is, in plain English**  
-Failing to address the main issue.
-
-**The example you’re looking at**  
-« Avoiding the topic. »  
-
-**Why this is Missing the Point**  
-Failing to address the main issue. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Failing to address the main issue.`,
-    intermediate: `## Missing the Point — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Failing to address the main issue.
-
-**This example**  
-« Avoiding the topic. »  
-
-The passage shows **Missing the Point** in action: failing to address the main issue.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: failing to address the main issue.
-
-- **Example 2:** Picture a health or habits story. People often reason as if failing to address the main issue.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: Failing to address the main issue.
-
-**In one sentence**  
-Missing the Point is the label for reasoning that fits: Failing to address the main issue.`,
-    expert: `## Missing the Point — in-depth (Expert)
-
-**Definition**  
-Failing to address the main issue.
-
-**Applied to this passage**  
-« Avoiding the topic. »  
-
-Here, **Missing the Point** is the right name because failing to address the main issue.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: failing to address the main issue.
-
-- **Example 2:** Picture a health or habits story. People often reason as if failing to address the main issue.
-
-- **Example 3:** In school grades or test scores, watch for this pattern: Failing to address the main issue.
-
-- **Example 4:** Another everyday spot: a news headline or social post. Failing to address the main issue.
-
-- **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Failing to address the main issue.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Missing the Point** means Failing to address the main issue.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  732: {
-    beginner: `## Missing the Point — in-depth (Beginner)
-
-**What this is, in plain English**  
-Failing to address the main issue.
-
-**The example you’re looking at**  
-« Off-topic response. »  
-
-**Why this is Missing the Point**  
-Failing to address the main issue. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Failing to address the main issue.`,
-    intermediate: `## Missing the Point — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Failing to address the main issue.
-
-**This example**  
-« Off-topic response. »  
-
-The passage shows **Missing the Point** in action: failing to address the main issue.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if failing to address the main issue.
-
-- **Example 2:** In sports or business results, watch for this pattern: Failing to address the main issue.
-
-- **Example 3:** Another everyday spot: a family argument. Failing to address the main issue.
-
-**In one sentence**  
-Missing the Point is the label for reasoning that fits: Failing to address the main issue.`,
-    expert: `## Missing the Point — in-depth (Expert)
-
-**Definition**  
-Failing to address the main issue.
-
-**Applied to this passage**  
-« Off-topic response. »  
-
-Here, **Missing the Point** is the right name because failing to address the main issue.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a policy or workplace discussion. People often reason as if failing to address the main issue.
-
-- **Example 2:** In sports or business results, watch for this pattern: Failing to address the main issue.
-
-- **Example 3:** Another everyday spot: a family argument. Failing to address the main issue.
-
-- **Example 4:** **Setting:** a policy or workplace discussion. **What goes wrong:** Failing to address the main issue.
-
-- **Example 5:** Imagine sports or business results. The slip is the same: failing to address the main issue.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Missing the Point** means Failing to address the main issue.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  733: {
-    beginner: `## Moving the Goalposts — in-depth (Beginner)
-
-**What this is, in plain English**  
+Description:
 Changing the criteria for success after the fact.
+When standards shift after someone has already met the original requirement.
 
-**The example you’re looking at**  
-« Raising standards post-achievement. »  
+Example (question)
+« Raising standards post-achievement. »
+This is the exact kind of move the question is testing.
 
-**Why this is Moving the Goalposts**  
-Changing the criteria for success after the fact. That is what this label is pointing to in the passage above.
+Example (everyday)
+You meet all the job requirements, then they add "but also need five more years experience."
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Changing the criteria for success after the fact.`,
-    intermediate: `## Moving the Goalposts — in-depth (Intermediate)
+How it works
+The argument changes the rules after seeing the outcome.
 
-**What this is, in plain English**  
+So:
+- Original criteria were met.
+- New requirements appear after success.
+- The target keeps moving, making success impossible.
+
+Key concept inside it
+Moving target:
+A standard that shifts to prevent achievement.
+
+Why it matters
+Explains why:
+- This is common in competitive situations.
+- It creates impossible standards.
+- It prevents honest evaluation.
+
+The uncomfortable implication
+Sometimes the goalposts move because the original goal was never intended to be achievable.
+
+One-line version
+Moving the Goalposts = Changing the criteria for success after the fact.`,
+  },
+734: {
+    beginner: `Moving the Goalposts = Changing the criteria for success after the fact.`,
+    detail: `Moving the Goalposts
+
+Description:
 Changing the criteria for success after the fact.
+When the rules change once someone gets close to winning.
 
-**This example**  
-« Raising standards post-achievement. »  
+Example (question)
+« Shifting requirements. »
+This is the exact kind of move the question is testing.
 
-The passage shows **Moving the Goalposts** in action: changing the criteria for success after the fact.
+Example (everyday)
+You complete all the tasks, then your boss adds new requirements you couldn't have met.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Changing the criteria for success after the fact.
+How it works
+The argument secretly changes the winning condition.
 
-- **Example 2:** Another everyday spot: school grades or test scores. Changing the criteria for success after the fact.
+So:
+- Original goal was achievable.
+- Once approached, new obstacles appear.
+- Success becomes impossible by design.
 
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Changing the criteria for success after the fact.
+Key concept inside it
+Moving the goalposts:
+Shifting the finish line after the race has started.
 
-**In one sentence**  
-Moving the Goalposts is the label for reasoning that fits: Changing the criteria for success after the fact.`,
-    expert: `## Moving the Goalposts — in-depth (Expert)
+Why it matters
+Explains why:
+- This tactic ensures certain outcomes regardless of performance.
+- It's used in negotiations and evaluations.
+- It creates frustration and distrust.
 
-**Definition**  
+The uncomfortable implication
+Some goalposts move because success was never the real goal.
+
+One-line version
+Moving the Goalposts = Changing the criteria for success after the fact.`,
+  },
+735: {
+    beginner: `Moving the Goalposts = Changing the criteria for success after the fact.`,
+    detail: `Moving the Goalposts
+
+Description:
 Changing the criteria for success after the fact.
+When no matter what you do, it's never enough.
 
-**Applied to this passage**  
-« Raising standards post-achievement. »  
+Example (question)
+« Never satisfied. »
+This is the exact kind of move the question is testing.
 
-Here, **Moving the Goalposts** is the right name because changing the criteria for success after the fact.
+Example (everyday)
+You clean the house spotless, then your partner finds something you missed.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a health or habits story, watch for this pattern: Changing the criteria for success after the fact.
+How it works
+The argument keeps the target just out of reach.
 
-- **Example 2:** Another everyday spot: school grades or test scores. Changing the criteria for success after the fact.
+So:
+- You meet one standard.
+- A new standard appears immediately.
+- The goal always remains ahead of you.
 
-- **Example 3:** **Setting:** a news headline or social post. **What goes wrong:** Changing the criteria for success after the fact.
+Key concept inside it
+Impossible standard:
+A moving target that can never be reached.
 
-- **Example 4:** Imagine a health or habits story. The slip is the same: changing the criteria for success after the fact.
+Why it matters
+Explains why:
+- This is used to control or manipulate.
+- It creates constant failure regardless of effort.
+- It's a form of invalidating achievement.
 
-- **Example 5:** Picture school grades or test scores. People often reason as if changing the criteria for success after the fact.
+The uncomfortable implication
+Some people move goalposts intentionally to keep others striving endlessly.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Moving the Goalposts** means Changing the criteria for success after the fact.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Moving the Goalposts = Changing the criteria for success after the fact.`,
   },
-  734: {
-    beginner: `## Moving the Goalposts — in-depth (Beginner)
+736: {
+    beginner: `Overgeneralization = Drawing a broad conclusion from insufficient evidence.`,
+    detail: `Overgeneralization
 
-**What this is, in plain English**  
-Changing the criteria for success after the fact.
-
-**The example you’re looking at**  
-« Shifting requirements. »  
-
-**Why this is Moving the Goalposts**  
-Changing the criteria for success after the fact. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Changing the criteria for success after the fact.`,
-    intermediate: `## Moving the Goalposts — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Changing the criteria for success after the fact.
-
-**This example**  
-« Shifting requirements. »  
-
-The passage shows **Moving the Goalposts** in action: changing the criteria for success after the fact.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Changing the criteria for success after the fact.
-
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Changing the criteria for success after the fact.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: changing the criteria for success after the fact.
-
-**In one sentence**  
-Moving the Goalposts is the label for reasoning that fits: Changing the criteria for success after the fact.`,
-    expert: `## Moving the Goalposts — in-depth (Expert)
-
-**Definition**  
-Changing the criteria for success after the fact.
-
-**Applied to this passage**  
-« Shifting requirements. »  
-
-Here, **Moving the Goalposts** is the right name because changing the criteria for success after the fact.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: sports or business results. Changing the criteria for success after the fact.
-
-- **Example 2:** **Setting:** a family argument. **What goes wrong:** Changing the criteria for success after the fact.
-
-- **Example 3:** Imagine a policy or workplace discussion. The slip is the same: changing the criteria for success after the fact.
-
-- **Example 4:** Picture sports or business results. People often reason as if changing the criteria for success after the fact.
-
-- **Example 5:** In a family argument, watch for this pattern: Changing the criteria for success after the fact.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Moving the Goalposts** means Changing the criteria for success after the fact.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  735: {
-    beginner: `## Moving the Goalposts — in-depth (Beginner)
-
-**What this is, in plain English**  
-Changing the criteria for success after the fact.
-
-**The example you’re looking at**  
-« Never satisfied. »  
-
-**Why this is Moving the Goalposts**  
-Changing the criteria for success after the fact. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Changing the criteria for success after the fact.`,
-    intermediate: `## Moving the Goalposts — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Changing the criteria for success after the fact.
-
-**This example**  
-« Never satisfied. »  
-
-The passage shows **Moving the Goalposts** in action: changing the criteria for success after the fact.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Changing the criteria for success after the fact.
-
-- **Example 2:** Imagine a news headline or social post. The slip is the same: changing the criteria for success after the fact.
-
-- **Example 3:** Picture a health or habits story. People often reason as if changing the criteria for success after the fact.
-
-**In one sentence**  
-Moving the Goalposts is the label for reasoning that fits: Changing the criteria for success after the fact.`,
-    expert: `## Moving the Goalposts — in-depth (Expert)
-
-**Definition**  
-Changing the criteria for success after the fact.
-
-**Applied to this passage**  
-« Never satisfied. »  
-
-Here, **Moving the Goalposts** is the right name because changing the criteria for success after the fact.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** school grades or test scores. **What goes wrong:** Changing the criteria for success after the fact.
-
-- **Example 2:** Imagine a news headline or social post. The slip is the same: changing the criteria for success after the fact.
-
-- **Example 3:** Picture a health or habits story. People often reason as if changing the criteria for success after the fact.
-
-- **Example 4:** In school grades or test scores, watch for this pattern: Changing the criteria for success after the fact.
-
-- **Example 5:** Another everyday spot: a news headline or social post. Changing the criteria for success after the fact.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Moving the Goalposts** means Changing the criteria for success after the fact.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  736: {
-    beginner: `## Overgeneralization — in-depth (Beginner)
-
-**What this is, in plain English**  
+Description:
 Drawing a broad conclusion from insufficient evidence.
+When one or a few cases are used to make a universal claim.
 
-**The example you’re looking at**  
-« One bad experience means all are bad. »  
+Example (question)
+« One bad experience means all are bad. »
+This is the exact kind of move the question is testing.
 
-**Why this is Overgeneralization**  
-Drawing a broad conclusion from insufficient evidence. That is what this label is pointing to in the passage above.
+Example (everyday)
+You have one bad meal at a restaurant and decide all food there is terrible.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Drawing a broad conclusion from insufficient evidence.`,
-    intermediate: `## Overgeneralization — in-depth (Intermediate)
+How it works
+The argument treats a small sample as if it represented everything.
 
-**What this is, in plain English**  
+So:
+- Limited cases become universal rules.
+- Exceptions are ignored.
+- The conclusion goes far beyond what evidence supports.
+
+Key concept inside it
+Hasty generalization:
+Making broad claims from narrow evidence.
+
+Why it matters
+Explains why:
+- Stereotyping is a form of overgeneralization.
+- This explains why anecdotal evidence is unreliable.
+- Scientific thinking requires sufficient sample sizes.
+
+The uncomfortable implication
+We all overgeneralize from personal experience regularly.
+
+One-line version
+Overgeneralization = Drawing a broad conclusion from insufficient evidence.`,
+  },
+737: {
+    beginner: `Overgeneralization = Drawing a broad conclusion from insufficient evidence.`,
+    detail: `Overgeneralization
+
+Description:
 Drawing a broad conclusion from insufficient evidence.
+When specific instances become universal rules without justification.
 
-**This example**  
-« One bad experience means all are bad. »  
+Example (question)
+« Sweeping generalizations. »
+This is the exact kind of move the question is testing.
 
-The passage shows **Overgeneralization** in action: drawing a broad conclusion from insufficient evidence.
+Example (everyday)
+"I met one rude person from that city, so everyone there must be rude."
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: drawing a broad conclusion from insufficient evidence.
+How it works
+The argument expands from particular cases to universal claims.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if drawing a broad conclusion from insufficient evidence.
+So:
+- A few examples become "all" or "always".
+- The evidence cannot support this expansion.
+- This creates false universal rules.
 
-- **Example 3:** In sports or business results, watch for this pattern: Drawing a broad conclusion from insufficient evidence.
+Key concept inside it
+Universal claim:
+A statement about all cases, not just the ones observed.
 
-**In one sentence**  
-Overgeneralization is the label for reasoning that fits: Drawing a broad conclusion from insufficient evidence.`,
-    expert: `## Overgeneralization — in-depth (Expert)
+Why it matters
+Explains why:
+- Stereotypes are overgeneralizations.
+- This explains prejudice and discrimination.
+- Good reasoning requires appropriate evidence for claims.
 
-**Definition**  
+The uncomfortable implication
+Our brains naturally generalize from limited experience.
+
+One-line version
+Overgeneralization = Drawing a broad conclusion from insufficient evidence.`,
+  },
+738: {
+    beginner: `Overgeneralization = Drawing a broad conclusion from insufficient evidence.`,
+    detail: `Overgeneralization
+
+Description:
 Drawing a broad conclusion from insufficient evidence.
+When quick judgments become absolute rules.
 
-**Applied to this passage**  
-« One bad experience means all are bad. »  
+Example (question)
+« Hasty conclusions. »
+This is the exact kind of move the question is testing.
 
-Here, **Overgeneralization** is the right name because drawing a broad conclusion from insufficient evidence.
+Example (everyday)
+One traffic jam makes you declare "this city always has traffic."
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: drawing a broad conclusion from insufficient evidence.
+How it works
+The argument leaps from specific to universal without justification.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if drawing a broad conclusion from insufficient evidence.
+So:
+- A single event becomes "always".
+- One example becomes "everyone".
+- The evidence cannot bear the weight of the claim.
 
-- **Example 3:** In sports or business results, watch for this pattern: Drawing a broad conclusion from insufficient evidence.
+Key concept inside it
+Hasty conclusion:
+A universal claim made from limited observations.
 
-- **Example 4:** Another everyday spot: a family argument. Drawing a broad conclusion from insufficient evidence.
+Why it matters
+Explains why:
+- This is how stereotypes form.
+- It explains prejudice and snap judgments.
+- Careful reasoning requires appropriate evidence.
 
-- **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Drawing a broad conclusion from insufficient evidence.
+The uncomfortable implication
+Our brains prefer quick answers over waiting for better evidence.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Overgeneralization** means Drawing a broad conclusion from insufficient evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Overgeneralization = Drawing a broad conclusion from insufficient evidence.`,
   },
-  737: {
-    beginner: `## Overgeneralization — in-depth (Beginner)
+739: {
+    beginner: `Pathetic Fallacy = Attributing human qualities to inanimate objects.`,
+    detail: `Pathetic Fallacy
 
-**What this is, in plain English**  
-Drawing a broad conclusion from insufficient evidence.
-
-**The example you’re looking at**  
-« Sweeping generalizations. »  
-
-**Why this is Overgeneralization**  
-Drawing a broad conclusion from insufficient evidence. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Drawing a broad conclusion from insufficient evidence.`,
-    intermediate: `## Overgeneralization — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Drawing a broad conclusion from insufficient evidence.
-
-**This example**  
-« Sweeping generalizations. »  
-
-The passage shows **Overgeneralization** in action: drawing a broad conclusion from insufficient evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if drawing a broad conclusion from insufficient evidence.
-
-- **Example 2:** In a health or habits story, watch for this pattern: Drawing a broad conclusion from insufficient evidence.
-
-- **Example 3:** Another everyday spot: school grades or test scores. Drawing a broad conclusion from insufficient evidence.
-
-**In one sentence**  
-Overgeneralization is the label for reasoning that fits: Drawing a broad conclusion from insufficient evidence.`,
-    expert: `## Overgeneralization — in-depth (Expert)
-
-**Definition**  
-Drawing a broad conclusion from insufficient evidence.
-
-**Applied to this passage**  
-« Sweeping generalizations. »  
-
-Here, **Overgeneralization** is the right name because drawing a broad conclusion from insufficient evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a news headline or social post. People often reason as if drawing a broad conclusion from insufficient evidence.
-
-- **Example 2:** In a health or habits story, watch for this pattern: Drawing a broad conclusion from insufficient evidence.
-
-- **Example 3:** Another everyday spot: school grades or test scores. Drawing a broad conclusion from insufficient evidence.
-
-- **Example 4:** **Setting:** a news headline or social post. **What goes wrong:** Drawing a broad conclusion from insufficient evidence.
-
-- **Example 5:** Imagine a health or habits story. The slip is the same: drawing a broad conclusion from insufficient evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Overgeneralization** means Drawing a broad conclusion from insufficient evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  738: {
-    beginner: `## Overgeneralization — in-depth (Beginner)
-
-**What this is, in plain English**  
-Drawing a broad conclusion from insufficient evidence.
-
-**The example you’re looking at**  
-« Hasty conclusions. »  
-
-**Why this is Overgeneralization**  
-Drawing a broad conclusion from insufficient evidence. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Drawing a broad conclusion from insufficient evidence.`,
-    intermediate: `## Overgeneralization — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Drawing a broad conclusion from insufficient evidence.
-
-**This example**  
-« Hasty conclusions. »  
-
-The passage shows **Overgeneralization** in action: drawing a broad conclusion from insufficient evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Drawing a broad conclusion from insufficient evidence.
-
-- **Example 2:** Another everyday spot: sports or business results. Drawing a broad conclusion from insufficient evidence.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Drawing a broad conclusion from insufficient evidence.
-
-**In one sentence**  
-Overgeneralization is the label for reasoning that fits: Drawing a broad conclusion from insufficient evidence.`,
-    expert: `## Overgeneralization — in-depth (Expert)
-
-**Definition**  
-Drawing a broad conclusion from insufficient evidence.
-
-**Applied to this passage**  
-« Hasty conclusions. »  
-
-Here, **Overgeneralization** is the right name because drawing a broad conclusion from insufficient evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a policy or workplace discussion, watch for this pattern: Drawing a broad conclusion from insufficient evidence.
-
-- **Example 2:** Another everyday spot: sports or business results. Drawing a broad conclusion from insufficient evidence.
-
-- **Example 3:** **Setting:** a family argument. **What goes wrong:** Drawing a broad conclusion from insufficient evidence.
-
-- **Example 4:** Imagine a policy or workplace discussion. The slip is the same: drawing a broad conclusion from insufficient evidence.
-
-- **Example 5:** Picture sports or business results. People often reason as if drawing a broad conclusion from insufficient evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Overgeneralization** means Drawing a broad conclusion from insufficient evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  739: {
-    beginner: `## Pathetic Fallacy — in-depth (Beginner)
-
-**What this is, in plain English**  
+Description:
 Attributing human qualities to inanimate objects.
+When non-human things are described as having human emotions or intentions.
 
-**The example you’re looking at**  
-« The wind is angry. »  
+Example (question)
+« The wind is angry. »
+This is the exact kind of move the question is testing.
 
-**Why this is Pathetic Fallacy**  
-Attributing human qualities to inanimate objects. That is what this label is pointing to in the passage above.
+Example (everyday)
+"The stock market crashed because it's punishing us" — markets don't have feelings.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Attributing human qualities to inanimate objects.`,
-    intermediate: `## Pathetic Fallacy — in-depth (Intermediate)
+How it works
+The argument applies human characteristics to non-human things.
 
-**What this is, in plain English**  
+So:
+- Natural phenomena get human motivations.
+- Abstract concepts become sentient.
+- This creates meaningless explanations.
+
+Key concept inside it
+Anthropomorphism:
+Giving human traits to non-human things.
+
+Why it matters
+Explains why:
+- This appears in poetry, religion, and everyday speech.
+- It can lead to magical thinking.
+- It shows how humans project meaning onto the world.
+
+The uncomfortable implication
+We often explain complex systems through simple human narratives.
+
+One-line version
+Pathetic Fallacy = Attributing human qualities to inanimate objects.`,
+  },
+740: {
+    beginner: `Pathetic Fallacy = Attributing human qualities to inanimate objects.`,
+    detail: `Pathetic Fallacy
+
+Description:
 Attributing human qualities to inanimate objects.
+When we describe nature or objects as having human feelings or intentions.
 
-**This example**  
-« The wind is angry. »  
+Example (question)
+« Nature has emotions. »
+This is the exact kind of move the question is testing.
 
-The passage shows **Pathetic Fallacy** in action: attributing human qualities to inanimate objects.
+Example (everyday)
+"The season changed because summer wanted to rest" — seasons don't want anything.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Attributing human qualities to inanimate objects.
+How it works
+The argument treats non-sentient things as if they had consciousness.
 
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Attributing human qualities to inanimate objects.
+So:
+- Natural events get human motivations.
+- Objects are described as if they chose their behavior.
+- This adds meaning that doesn't actually exist.
 
-- **Example 3:** Imagine a news headline or social post. The slip is the same: attributing human qualities to inanimate objects.
+Key concept inside it
+Sentience:
+The capacity to have feelings and intentions.
 
-**In one sentence**  
-Pathetic Fallacy is the label for reasoning that fits: Attributing human qualities to inanimate objects.`,
-    expert: `## Pathetic Fallacy — in-depth (Expert)
+Why it matters
+Explains why:
+- This appears frequently in poetry and mythology.
+- It can lead to supernatural thinking.
+- It shows how humans impose meaning on the world.
 
-**Definition**  
+The uncomfortable implication
+We naturally humanize things to make them easier to understand.
+
+One-line version
+Pathetic Fallacy = Attributing human qualities to inanimate objects.`,
+  },
+741: {
+    beginner: `Pathetic Fallacy = Attributing human qualities to inanimate objects.`,
+    detail: `Pathetic Fallacy
+
+Description:
 Attributing human qualities to inanimate objects.
+When non-human things are given human characteristics.
 
-**Applied to this passage**  
-« The wind is angry. »  
+Example (question)
+« Personifying objects. »
+This is the exact kind of move the question is testing.
 
-Here, **Pathetic Fallacy** is the right name because attributing human qualities to inanimate objects.
+Example (everyday)
+"The computer is sulking" — machines don't have emotions.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a health or habits story. Attributing human qualities to inanimate objects.
+How it works
+The argument projects human traits onto non-human entities.
 
-- **Example 2:** **Setting:** school grades or test scores. **What goes wrong:** Attributing human qualities to inanimate objects.
+So:
+- Objects are described with human feelings.
+- Nature gets human intentions.
+- This adds meaning that doesn't exist.
 
-- **Example 3:** Imagine a news headline or social post. The slip is the same: attributing human qualities to inanimate objects.
+Key concept inside it
+Projection:
+Attributing one's own qualities to external things.
 
-- **Example 4:** Picture a health or habits story. People often reason as if attributing human qualities to inanimate objects.
+Why it matters
+Explains why:
+- This appears in language, poetry, and everyday speech.
+- It shows how humans understand the world.
+- It's a form of metaphorical thinking.
 
-- **Example 5:** In school grades or test scores, watch for this pattern: Attributing human qualities to inanimate objects.
+The uncomfortable implication
+We humanize things because we struggle to think without human frameworks.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Pathetic Fallacy** means Attributing human qualities to inanimate objects.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Pathetic Fallacy = Attributing human qualities to inanimate objects.`,
   },
-  740: {
-    beginner: `## Pathetic Fallacy — in-depth (Beginner)
+742: {
+    beginner: `Post Hoc = Assuming that because one event followed another, it was caused by it.`,
+    detail: `Post Hoc
 
-**What this is, in plain English**  
-Attributing human qualities to inanimate objects.
-
-**The example you’re looking at**  
-« Nature has emotions. »  
-
-**Why this is Pathetic Fallacy**  
-Attributing human qualities to inanimate objects. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Attributing human qualities to inanimate objects.`,
-    intermediate: `## Pathetic Fallacy — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Attributing human qualities to inanimate objects.
-
-**This example**  
-« Nature has emotions. »  
-
-The passage shows **Pathetic Fallacy** in action: attributing human qualities to inanimate objects.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Attributing human qualities to inanimate objects.
-
-- **Example 2:** Imagine a family argument. The slip is the same: attributing human qualities to inanimate objects.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if attributing human qualities to inanimate objects.
-
-**In one sentence**  
-Pathetic Fallacy is the label for reasoning that fits: Attributing human qualities to inanimate objects.`,
-    expert: `## Pathetic Fallacy — in-depth (Expert)
-
-**Definition**  
-Attributing human qualities to inanimate objects.
-
-**Applied to this passage**  
-« Nature has emotions. »  
-
-Here, **Pathetic Fallacy** is the right name because attributing human qualities to inanimate objects.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** sports or business results. **What goes wrong:** Attributing human qualities to inanimate objects.
-
-- **Example 2:** Imagine a family argument. The slip is the same: attributing human qualities to inanimate objects.
-
-- **Example 3:** Picture a policy or workplace discussion. People often reason as if attributing human qualities to inanimate objects.
-
-- **Example 4:** In sports or business results, watch for this pattern: Attributing human qualities to inanimate objects.
-
-- **Example 5:** Another everyday spot: a family argument. Attributing human qualities to inanimate objects.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Pathetic Fallacy** means Attributing human qualities to inanimate objects.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  741: {
-    beginner: `## Pathetic Fallacy — in-depth (Beginner)
-
-**What this is, in plain English**  
-Attributing human qualities to inanimate objects.
-
-**The example you’re looking at**  
-« Personifying objects. »  
-
-**Why this is Pathetic Fallacy**  
-Attributing human qualities to inanimate objects. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Attributing human qualities to inanimate objects.`,
-    intermediate: `## Pathetic Fallacy — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Attributing human qualities to inanimate objects.
-
-**This example**  
-« Personifying objects. »  
-
-The passage shows **Pathetic Fallacy** in action: attributing human qualities to inanimate objects.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: attributing human qualities to inanimate objects.
-
-- **Example 2:** Picture a news headline or social post. People often reason as if attributing human qualities to inanimate objects.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Attributing human qualities to inanimate objects.
-
-**In one sentence**  
-Pathetic Fallacy is the label for reasoning that fits: Attributing human qualities to inanimate objects.`,
-    expert: `## Pathetic Fallacy — in-depth (Expert)
-
-**Definition**  
-Attributing human qualities to inanimate objects.
-
-**Applied to this passage**  
-« Personifying objects. »  
-
-Here, **Pathetic Fallacy** is the right name because attributing human qualities to inanimate objects.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: attributing human qualities to inanimate objects.
-
-- **Example 2:** Picture a news headline or social post. People often reason as if attributing human qualities to inanimate objects.
-
-- **Example 3:** In a health or habits story, watch for this pattern: Attributing human qualities to inanimate objects.
-
-- **Example 4:** Another everyday spot: school grades or test scores. Attributing human qualities to inanimate objects.
-
-- **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** Attributing human qualities to inanimate objects.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Pathetic Fallacy** means Attributing human qualities to inanimate objects.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  742: {
-    beginner: `## Post Hoc — in-depth (Beginner)
-
-**What this is, in plain English**  
+Description:
 Assuming that because one event followed another, it was caused by it.
+When sequence is mistaken for causation.
 
-**The example you’re looking at**  
-« After the rooster crowed, the sun rose, so the rooster caused the sunrise. »  
+Example (question)
+« After the rooster crowed, the sun rose, so the rooster caused the sunrise. »
+This is the exact kind of move the question is testing.
 
-**Why this is Post Hoc**  
-Assuming that because one event followed another, it was caused by it. That is what this label is pointing to in the passage above.
+Example (everyday)
+"I wore my lucky socks and we won, so the socks caused the victory."
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Assuming that because one event followed another, it was caused by it.`,
-    intermediate: `## Post Hoc — in-depth (Intermediate)
+How it works
+The argument treats time sequence as if it proved cause.
 
-**What this is, in plain English**  
+So:
+- A comes before B, so A must cause B.
+- Other explanations are ignored.
+- Correlation is mistaken for causation.
+
+Key concept inside it
+False cause:
+Assuming one event causes another just because they are related in time.
+
+Why it matters
+Explains why:
+- This explains superstitions and lucky charms.
+- It's common in business and sports.
+- It's the basis for many pseudosciences.
+
+The uncomfortable implication
+We naturally see cause everywhere because our brains are designed to find patterns.
+
+One-line version
+Post Hoc = Assuming that because one event followed another, it was caused by it.`,
+  },
+743: {
+    beginner: `Post Hoc = Assuming that because one event followed another, it was caused by it.`,
+    detail: `Post Hoc
+
+Description:
 Assuming that because one event followed another, it was caused by it.
+When temporal sequence is mistaken for causal relationship.
 
-**This example**  
-« After the rooster crowed, the sun rose, so the rooster caused the sunrise. »  
+Example (question)
+« False causation from sequence. »
+This is the exact kind of move the question is testing.
 
-The passage shows **Post Hoc** in action: assuming that because one event followed another, it was caused by it.
+Example (everyday)
+"I took the vitamin and got better — the vitamin cured me" — might have improved anyway.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if assuming that because one event followed another, it was caused by it.
+How it works
+The argument treats "after" as if it meant "because of".
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Assuming that because one event followed another, it was caused by it.
+So:
+- Event B happened after Event A.
+- Therefore A must have caused B.
+- Other factors are ignored.
 
-- **Example 3:** Another everyday spot: sports or business results. Assuming that because one event followed another, it was caused by it.
+Key concept inside it
+Post hoc ergo propter hoc:
+"After this, therefore because of this" — the formal name for this fallacy.
 
-**In one sentence**  
-Post Hoc is the label for reasoning that fits: Assuming that because one event followed another, it was caused by it.`,
-    expert: `## Post Hoc — in-depth (Expert)
+Why it matters
+Explains why:
+- This fallacy underlies many superstitions.
+- It's common in alternative medicine claims.
+- It's the basis for many false causal inferences.
 
-**Definition**  
+The uncomfortable implication
+Our brains are pattern-seeking and naturally assume cause from sequence.
+
+One-line version
+Post Hoc = Assuming that because one event followed another, it was caused by it.`,
+  },
+744: {
+    beginner: `Post Hoc = Assuming that because one event followed another, it was caused by it.`,
+    detail: `Post Hoc
+
+Description:
 Assuming that because one event followed another, it was caused by it.
+When timing alone is used to prove cause.
 
-**Applied to this passage**  
-« After the rooster crowed, the sun rose, so the rooster caused the sunrise. »  
+Example (question)
+« Temporal correlation. »
+This is the exact kind of move the question is testing.
 
-Here, **Post Hoc** is the right name because assuming that because one event followed another, it was caused by it.
+Example (everyday)
+"My cold went away after I ate chicken soup, so the soup cured it."
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a family argument. People often reason as if assuming that because one event followed another, it was caused by it.
+How it works
+The argument ignores other possible causes.
 
-- **Example 2:** In a policy or workplace discussion, watch for this pattern: Assuming that because one event followed another, it was caused by it.
+So:
+- Sequence is treated as proof of causation.
+- Coincidence is mistaken for connection.
+- The actual cause might be something else entirely.
 
-- **Example 3:** Another everyday spot: sports or business results. Assuming that because one event followed another, it was caused by it.
+Key concept inside it
+Temporal precedence:
+A comes before B, but that doesn't prove A causes B.
 
-- **Example 4:** **Setting:** a family argument. **What goes wrong:** Assuming that because one event followed another, it was caused by it.
+Why it matters
+Explains why:
+- This is the most common causal fallacy.
+- It drives superstition and folk remedies.
+- Science must control for this error.
 
-- **Example 5:** Imagine a policy or workplace discussion. The slip is the same: assuming that because one event followed another, it was caused by it.
+The uncomfortable implication
+Most "obvious" causal claims are actually post hoc errors.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Post Hoc** means Assuming that because one event followed another, it was caused by it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Post Hoc = Assuming that because one event followed another, it was caused by it.`,
   },
-  743: {
-    beginner: `## Post Hoc — in-depth (Beginner)
+745: {
+    beginner: `Proof by Example = Using a single example as proof.`,
+    detail: `Proof by Example
 
-**What this is, in plain English**  
-Assuming that because one event followed another, it was caused by it.
-
-**The example you’re looking at**  
-« False causation from sequence. »  
-
-**Why this is Post Hoc**  
-Assuming that because one event followed another, it was caused by it. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Assuming that because one event followed another, it was caused by it.`,
-    intermediate: `## Post Hoc — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Assuming that because one event followed another, it was caused by it.
-
-**This example**  
-« False causation from sequence. »  
-
-The passage shows **Post Hoc** in action: assuming that because one event followed another, it was caused by it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Assuming that because one event followed another, it was caused by it.
-
-- **Example 2:** Another everyday spot: a health or habits story. Assuming that because one event followed another, it was caused by it.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Assuming that because one event followed another, it was caused by it.
-
-**In one sentence**  
-Post Hoc is the label for reasoning that fits: Assuming that because one event followed another, it was caused by it.`,
-    expert: `## Post Hoc — in-depth (Expert)
-
-**Definition**  
-Assuming that because one event followed another, it was caused by it.
-
-**Applied to this passage**  
-« False causation from sequence. »  
-
-Here, **Post Hoc** is the right name because assuming that because one event followed another, it was caused by it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In a news headline or social post, watch for this pattern: Assuming that because one event followed another, it was caused by it.
-
-- **Example 2:** Another everyday spot: a health or habits story. Assuming that because one event followed another, it was caused by it.
-
-- **Example 3:** **Setting:** school grades or test scores. **What goes wrong:** Assuming that because one event followed another, it was caused by it.
-
-- **Example 4:** Imagine a news headline or social post. The slip is the same: assuming that because one event followed another, it was caused by it.
-
-- **Example 5:** Picture a health or habits story. People often reason as if assuming that because one event followed another, it was caused by it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Post Hoc** means Assuming that because one event followed another, it was caused by it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  744: {
-    beginner: `## Post Hoc — in-depth (Beginner)
-
-**What this is, in plain English**  
-Assuming that because one event followed another, it was caused by it.
-
-**The example you’re looking at**  
-« Temporal correlation. »  
-
-**Why this is Post Hoc**  
-Assuming that because one event followed another, it was caused by it. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Assuming that because one event followed another, it was caused by it.`,
-    intermediate: `## Post Hoc — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Assuming that because one event followed another, it was caused by it.
-
-**This example**  
-« Temporal correlation. »  
-
-The passage shows **Post Hoc** in action: assuming that because one event followed another, it was caused by it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Assuming that because one event followed another, it was caused by it.
-
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Assuming that because one event followed another, it was caused by it.
-
-- **Example 3:** Imagine a family argument. The slip is the same: assuming that because one event followed another, it was caused by it.
-
-**In one sentence**  
-Post Hoc is the label for reasoning that fits: Assuming that because one event followed another, it was caused by it.`,
-    expert: `## Post Hoc — in-depth (Expert)
-
-**Definition**  
-Assuming that because one event followed another, it was caused by it.
-
-**Applied to this passage**  
-« Temporal correlation. »  
-
-Here, **Post Hoc** is the right name because assuming that because one event followed another, it was caused by it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a policy or workplace discussion. Assuming that because one event followed another, it was caused by it.
-
-- **Example 2:** **Setting:** sports or business results. **What goes wrong:** Assuming that because one event followed another, it was caused by it.
-
-- **Example 3:** Imagine a family argument. The slip is the same: assuming that because one event followed another, it was caused by it.
-
-- **Example 4:** Picture a policy or workplace discussion. People often reason as if assuming that because one event followed another, it was caused by it.
-
-- **Example 5:** In sports or business results, watch for this pattern: Assuming that because one event followed another, it was caused by it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Post Hoc** means Assuming that because one event followed another, it was caused by it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  745: {
-    beginner: `## Proof by Example — in-depth (Beginner)
-
-**What this is, in plain English**  
+Description:
 Using a single example as proof.
+When one case is treated as sufficient evidence for a general claim.
 
-**The example you’re looking at**  
-« One case proves the rule. »  
+Example (question)
+« One case proves the rule. »
+This is the exact kind of move the question is testing.
 
-**Why this is Proof by Example**  
-Using a single example as proof. That is what this label is pointing to in the passage above.
+Example (everyday)
+"My uncle smoked and lived to 90, so smoking isn't harmful."
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Using a single example as proof.`,
-    intermediate: `## Proof by Example — in-depth (Intermediate)
+How it works
+The argument treats one case as representative of all cases.
 
-**What this is, in plain English**  
+So:
+- A single example becomes universal proof.
+- Exceptions are ignored or dismissed.
+- The sample size of one cannot support a general claim.
+
+Key concept inside it
+Anecdotal evidence:
+Personal stories used as proof instead of data.
+
+Why it matters
+Explains why:
+- This is the basis of many folk beliefs.
+- It's why "my experience" isn't scientific evidence.
+- Statistics require adequate sample sizes.
+
+The uncomfortable implication
+We trust personal stories more than data, even though stories can be misleading.
+
+One-line version
+Proof by Example = Using a single example as proof.`,
+  },
+746: {
+    beginner: `Proof by Example = Using a single example as proof.`,
+    detail: `Proof by Example
+
+Description:
 Using a single example as proof.
+When a personal story overrides statistical evidence.
 
-**This example**  
-« One case proves the rule. »  
+Example (question)
+« Anecdotal evidence as proof. »
+This is the exact kind of move the question is testing.
 
-The passage shows **Proof by Example** in action: using a single example as proof.
+Example (everyday)
+"My friend tried that diet and lost weight, so it works for everyone."
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Using a single example as proof.
+How it works
+The argument substitutes a story for data.
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: using a single example as proof.
+So:
+- One person's experience becomes universal truth.
+- The exception is treated as the rule.
+- Personal anecdotes override research.
 
-- **Example 3:** Picture a news headline or social post. People often reason as if using a single example as proof.
+Key concept inside it
+Selection bias:
+Choosing examples that support your conclusion while ignoring ones that don't.
 
-**In one sentence**  
-Proof by Example is the label for reasoning that fits: Using a single example as proof.`,
-    expert: `## Proof by Example — in-depth (Expert)
+Why it matters
+Explains why:
+- Anecdotes are more memorable than statistics.
+- Marketing heavily uses anecdotal proof.
+- This explains why pseudoscience persists.
 
-**Definition**  
+The uncomfortable implication
+Stories are more persuasive than numbers, even when numbers are more accurate.
+
+One-line version
+Proof by Example = Using a single example as proof.`,
+  },
+747: {
+    beginner: `Proof by Example = Using a single example as proof.`,
+    detail: `Proof by Example
+
+Description:
 Using a single example as proof.
+When one case becomes the basis for a universal claim.
 
-**Applied to this passage**  
-« One case proves the rule. »  
+Example (question)
+« Insufficient sample. »
+This is the exact kind of move the question is testing.
 
-Here, **Proof by Example** is the right name because using a single example as proof.
+Example (everyday)
+"One person recovered without treatment, so treatment isn't needed."
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a health or habits story. **What goes wrong:** Using a single example as proof.
+How it works
+The argument treats too small a sample as sufficient.
 
-- **Example 2:** Imagine school grades or test scores. The slip is the same: using a single example as proof.
+So:
+- One example is not enough for a general rule.
+- The single case may be an outlier.
+- The conclusion requires more evidence.
 
-- **Example 3:** Picture a news headline or social post. People often reason as if using a single example as proof.
+Key concept inside it
+Sample size:
+The number of examples needed to support a claim depends on the claim's scope.
 
-- **Example 4:** In a health or habits story, watch for this pattern: Using a single example as proof.
+Why it matters
+Explains why:
+- This explains why personal experience isn't scientific proof.
+- It shows why case studies aren't sufficient for conclusions.
+- Research requires adequate sample sizes.
 
-- **Example 5:** Another everyday spot: school grades or test scores. Using a single example as proof.
+The uncomfortable implication
+One example can never prove a general rule.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Proof by Example** means Using a single example as proof.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Proof by Example = Using a single example as proof.`,
   },
-  746: {
-    beginner: `## Proof by Example — in-depth (Beginner)
+748: {
+    beginner: `Proof by Intimidation = Using threats to silence opposition.`,
+    detail: `Proof by Intimidation
 
-**What this is, in plain English**  
-Using a single example as proof.
-
-**The example you’re looking at**  
-« Anecdotal evidence as proof. »  
-
-**Why this is Proof by Example**  
-Using a single example as proof. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Using a single example as proof.`,
-    intermediate: `## Proof by Example — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Using a single example as proof.
-
-**This example**  
-« Anecdotal evidence as proof. »  
-
-The passage shows **Proof by Example** in action: using a single example as proof.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: using a single example as proof.
-
-- **Example 2:** Picture a family argument. People often reason as if using a single example as proof.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Using a single example as proof.
-
-**In one sentence**  
-Proof by Example is the label for reasoning that fits: Using a single example as proof.`,
-    expert: `## Proof by Example — in-depth (Expert)
-
-**Definition**  
-Using a single example as proof.
-
-**Applied to this passage**  
-« Anecdotal evidence as proof. »  
-
-Here, **Proof by Example** is the right name because using a single example as proof.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: using a single example as proof.
-
-- **Example 2:** Picture a family argument. People often reason as if using a single example as proof.
-
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Using a single example as proof.
-
-- **Example 4:** Another everyday spot: sports or business results. Using a single example as proof.
-
-- **Example 5:** **Setting:** a family argument. **What goes wrong:** Using a single example as proof.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Proof by Example** means Using a single example as proof.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  747: {
-    beginner: `## Proof by Example — in-depth (Beginner)
-
-**What this is, in plain English**  
-Using a single example as proof.
-
-**The example you’re looking at**  
-« Insufficient sample. »  
-
-**Why this is Proof by Example**  
-Using a single example as proof. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Using a single example as proof.`,
-    intermediate: `## Proof by Example — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Using a single example as proof.
-
-**This example**  
-« Insufficient sample. »  
-
-The passage shows **Proof by Example** in action: using a single example as proof.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if using a single example as proof.
-
-- **Example 2:** In a news headline or social post, watch for this pattern: Using a single example as proof.
-
-- **Example 3:** Another everyday spot: a health or habits story. Using a single example as proof.
-
-**In one sentence**  
-Proof by Example is the label for reasoning that fits: Using a single example as proof.`,
-    expert: `## Proof by Example — in-depth (Expert)
-
-**Definition**  
-Using a single example as proof.
-
-**Applied to this passage**  
-« Insufficient sample. »  
-
-Here, **Proof by Example** is the right name because using a single example as proof.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture school grades or test scores. People often reason as if using a single example as proof.
-
-- **Example 2:** In a news headline or social post, watch for this pattern: Using a single example as proof.
-
-- **Example 3:** Another everyday spot: a health or habits story. Using a single example as proof.
-
-- **Example 4:** **Setting:** school grades or test scores. **What goes wrong:** Using a single example as proof.
-
-- **Example 5:** Imagine a news headline or social post. The slip is the same: using a single example as proof.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Proof by Example** means Using a single example as proof.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  748: {
-    beginner: `## Proof by Intimidation — in-depth (Beginner)
-
-**What this is, in plain English**  
+Description:
 Using threats to silence opposition.
+When fear replaces evidence as the basis for agreement.
 
-**The example you’re looking at**  
-« Agree or face consequences. »  
+Example (question)
+« Agree or face consequences. »
+This is the exact kind of move the question is testing.
 
-**Why this is Proof by Intimidation**  
-Using threats to silence opposition. That is what this label is pointing to in the passage above.
+Example (everyday)
+"You'll regret it if you disagree" — threat replaces argument.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Using threats to silence opposition.`,
-    intermediate: `## Proof by Intimidation — in-depth (Intermediate)
+How it works
+The argument replaces reason with fear.
 
-**What this is, in plain English**  
+So:
+- The claim is not supported by evidence.
+- Instead, negative consequences are threatened.
+- Agreement comes from fear, not persuasion.
+
+Key concept inside it
+Ad baculum:
+Appeal to force — using threat instead of reason.
+
+Why it matters
+Explains why:
+- This is common in authoritarian contexts.
+- It substitutes power for evidence.
+- It prevents honest debate.
+
+The uncomfortable implication
+Fear can make people agree to anything, regardless of truth.
+
+One-line version
+Proof by Intimidation = Using threats to silence opposition.`,
+  },
+749: {
+    beginner: `Proof by Intimidation = Using threats to silence opposition.`,
+    detail: `Proof by Intimidation
+
+Description:
 Using threats to silence opposition.
+When fear becomes the argument instead of evidence.
 
-**This example**  
-« Agree or face consequences. »  
+Example (question)
+« Intimidating to win argument. »
+This is the exact kind of move the question is testing.
 
-The passage shows **Proof by Intimidation** in action: using threats to silence opposition.
+Example (everyday)
+"Believe me or I'll make sure you never work in this industry again."
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Using threats to silence opposition.
+How it works
+The argument replaces reasoning with threats.
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Using threats to silence opposition.
+So:
+- Evidence is replaced by coercion.
+- The threat forces agreement.
+- Truth becomes irrelevant to the outcome.
 
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Using threats to silence opposition.
+Key concept inside it
+Appeal to fear:
+Using scare tactics instead of logic.
 
-**In one sentence**  
-Proof by Intimidation is the label for reasoning that fits: Using threats to silence opposition.`,
-    expert: `## Proof by Intimidation — in-depth (Expert)
+Why it matters
+Explains why:
+- This is common in bullying and intimidation.
+- It substitutes power for truth.
+- It prevents rational discussion.
 
-**Definition**  
+The uncomfortable implication
+Threats can win arguments without proving anything.
+
+One-line version
+Proof by Intimidation = Using threats to silence opposition.`,
+  },
+750: {
+    beginner: `Proof by Intimidation = Using threats to silence opposition.`,
+    detail: `Proof by Intimidation
+
+Description:
 Using threats to silence opposition.
+When power substitutes for proof.
 
-**Applied to this passage**  
-« Agree or face consequences. »  
+Example (question)
+« Threat-based persuasion. »
+This is the exact kind of move the question is testing.
 
-Here, **Proof by Intimidation** is the right name because using threats to silence opposition.
+Example (everyday)
+"You better agree with me or else" — the threat is the argument.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In a family argument, watch for this pattern: Using threats to silence opposition.
+How it works
+The argument uses fear as its main tool.
 
-- **Example 2:** Another everyday spot: a policy or workplace discussion. Using threats to silence opposition.
+So:
+- The claim is not supported by facts.
+- Fear of consequences forces agreement.
+- Discussion is shut down.
 
-- **Example 3:** **Setting:** sports or business results. **What goes wrong:** Using threats to silence opposition.
+Key concept inside it
+Ad populum:
+Appeal to popularity or fear, not reason.
 
-- **Example 4:** Imagine a family argument. The slip is the same: using threats to silence opposition.
+Why it matters
+Explains why:
+- This is how bullies win arguments.
+- It prevents honest debate.
+- It's used to maintain power without evidence.
 
-- **Example 5:** Picture a policy or workplace discussion. People often reason as if using threats to silence opposition.
+The uncomfortable implication
+People often agree out of fear even when they know the claim is false.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Proof by Intimidation** means Using threats to silence opposition.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Proof by Intimidation = Using threats to silence opposition.`,
   },
-  749: {
-    beginner: `## Proof by Intimidation — in-depth (Beginner)
+751: {
+    beginner: `Questionable Cause = Assuming a cause without evidence.`,
+    detail: `Questionable Cause
 
-**What this is, in plain English**  
-Using threats to silence opposition.
-
-**The example you’re looking at**  
-« Intimidating to win argument. »  
-
-**Why this is Proof by Intimidation**  
-Using threats to silence opposition. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Using threats to silence opposition.`,
-    intermediate: `## Proof by Intimidation — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Using threats to silence opposition.
-
-**This example**  
-« Intimidating to win argument. »  
-
-The passage shows **Proof by Intimidation** in action: using threats to silence opposition.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Using threats to silence opposition.
-
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Using threats to silence opposition.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: using threats to silence opposition.
-
-**In one sentence**  
-Proof by Intimidation is the label for reasoning that fits: Using threats to silence opposition.`,
-    expert: `## Proof by Intimidation — in-depth (Expert)
-
-**Definition**  
-Using threats to silence opposition.
-
-**Applied to this passage**  
-« Intimidating to win argument. »  
-
-Here, **Proof by Intimidation** is the right name because using threats to silence opposition.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a news headline or social post. Using threats to silence opposition.
-
-- **Example 2:** **Setting:** a health or habits story. **What goes wrong:** Using threats to silence opposition.
-
-- **Example 3:** Imagine school grades or test scores. The slip is the same: using threats to silence opposition.
-
-- **Example 4:** Picture a news headline or social post. People often reason as if using threats to silence opposition.
-
-- **Example 5:** In a health or habits story, watch for this pattern: Using threats to silence opposition.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Proof by Intimidation** means Using threats to silence opposition.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  750: {
-    beginner: `## Proof by Intimidation — in-depth (Beginner)
-
-**What this is, in plain English**  
-Using threats to silence opposition.
-
-**The example you’re looking at**  
-« Threat-based persuasion. »  
-
-**Why this is Proof by Intimidation**  
-Using threats to silence opposition. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Using threats to silence opposition.`,
-    intermediate: `## Proof by Intimidation — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Using threats to silence opposition.
-
-**This example**  
-« Threat-based persuasion. »  
-
-The passage shows **Proof by Intimidation** in action: using threats to silence opposition.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using threats to silence opposition.
-
-- **Example 2:** Imagine sports or business results. The slip is the same: using threats to silence opposition.
-
-- **Example 3:** Picture a family argument. People often reason as if using threats to silence opposition.
-
-**In one sentence**  
-Proof by Intimidation is the label for reasoning that fits: Using threats to silence opposition.`,
-    expert: `## Proof by Intimidation — in-depth (Expert)
-
-**Definition**  
-Using threats to silence opposition.
-
-**Applied to this passage**  
-« Threat-based persuasion. »  
-
-Here, **Proof by Intimidation** is the right name because using threats to silence opposition.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using threats to silence opposition.
-
-- **Example 2:** Imagine sports or business results. The slip is the same: using threats to silence opposition.
-
-- **Example 3:** Picture a family argument. People often reason as if using threats to silence opposition.
-
-- **Example 4:** In a policy or workplace discussion, watch for this pattern: Using threats to silence opposition.
-
-- **Example 5:** Another everyday spot: sports or business results. Using threats to silence opposition.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Proof by Intimidation** means Using threats to silence opposition.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  751: {
-    beginner: `## Questionable Cause — in-depth (Beginner)
-
-**What this is, in plain English**  
+Description:
 Assuming a cause without evidence.
+When a cause is claimed without proper evidence for the causal link.
 
-**The example you’re looking at**  
-« This must have caused that. »  
+Example (question)
+« This must have caused that. »
+This is the exact kind of move the question is testing.
 
-**Why this is Questionable Cause**  
-Assuming a cause without evidence. That is what this label is pointing to in the passage above.
+Example (everyday)
+"I got a headache after eating chocolate, so chocolate causes headaches."
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Assuming a cause without evidence.`,
-    intermediate: `## Questionable Cause — in-depth (Intermediate)
+How it works
+The argument asserts causation without proving it.
 
-**What this is, in plain English**  
+So:
+- Two things are related in time or place.
+- One is declared the cause of the other.
+- No actual causal mechanism is demonstrated.
+
+Key concept inside it
+Causal assertion:
+Claiming A causes B without demonstrating the mechanism.
+
+Why it matters
+Explains why:
+- Many medical myths start as questionable causes.
+- This underlies superstitious thinking.
+- Science requires rigorous proof of causation.
+
+The uncomfortable implication
+Our brains naturally see causes everywhere, even when they don't exist.
+
+One-line version
+Questionable Cause = Assuming a cause without evidence.`,
+  },
+752: {
+    beginner: `Questionable Cause = Assuming a cause without evidence.`,
+    detail: `Questionable Cause
+
+Description:
 Assuming a cause without evidence.
+When causation is claimed without proper verification.
 
-**This example**  
-« This must have caused that. »  
+Example (question)
+« Unproven causation. »
+This is the exact kind of move the question is testing.
 
-The passage shows **Questionable Cause** in action: assuming a cause without evidence.
+Example (everyday)
+"I sneezed and the sun came out — my sneeze caused the sun to appear."
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: assuming a cause without evidence.
+How it works
+The argument skips the evidence for causation.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if assuming a cause without evidence.
+So:
+- Events happen in sequence or together.
+- One is declared the cause.
+- No mechanism or proof is provided.
 
-- **Example 3:** In a news headline or social post, watch for this pattern: Assuming a cause without evidence.
+Key concept inside it
+Correlation vs causation:
+Just because two things happen together doesn't mean one causes the other.
 
-**In one sentence**  
-Questionable Cause is the label for reasoning that fits: Assuming a cause without evidence.`,
-    expert: `## Questionable Cause — in-depth (Expert)
+Why it matters
+Explains why:
+- Many urban legends involve questionable cause.
+- This is how superstitions form.
+- Scientific thinking requires more than correlation.
 
-**Definition**  
+The uncomfortable implication
+Seeing causation where there is only correlation is one of our most common errors.
+
+One-line version
+Questionable Cause = Assuming a cause without evidence.`,
+  },
+753: {
+    beginner: `Questionable Cause = Assuming a cause without evidence.`,
+    detail: `Questionable Cause
+
+Description:
 Assuming a cause without evidence.
+When causation is imagined without proof.
 
-**Applied to this passage**  
-« This must have caused that. »  
+Example (question)
+« Speculative cause. »
+This is the exact kind of move the question is testing.
 
-Here, **Questionable Cause** is the right name because assuming a cause without evidence.
+Example (everyday)
+"The team lost because they wore red shirts" — no evidence linking color to performance.
+The same logic shows up even when the surface story changes.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: assuming a cause without evidence.
+How it works
+The argument assumes a link that hasn't been proven.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if assuming a cause without evidence.
+So:
+- Something is guessed to be the cause.
+- No evidence supports the claim.
+- The assumption is treated as fact.
 
-- **Example 3:** In a news headline or social post, watch for this pattern: Assuming a cause without evidence.
+Key concept inside it
+Speculation:
+Guessing without evidence.
 
-- **Example 4:** Another everyday spot: a health or habits story. Assuming a cause without evidence.
+Why it matters
+Explains why:
+- Many conspiracy theories are questionable causes.
+- This explains why false remedies persist.
+- Science requires proof, not speculation.
 
-- **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** Assuming a cause without evidence.
+The uncomfortable implication
+We often accept guesses as facts when they feel right.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Questionable Cause** means Assuming a cause without evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Questionable Cause = Assuming a cause without evidence.`,
   },
-  752: {
-    beginner: `## Questionable Cause — in-depth (Beginner)
+754: {
+    beginner: `Quoting Out of Context = Using a quote without its full context.`,
+    detail: `Quoting Out of Context
 
-**What this is, in plain English**  
-Assuming a cause without evidence.
+Description:
+Using a quote without its full context.
+When a statement is extracted and presented to mean something the speaker didn't intend.
 
-**The example you’re looking at**  
-« Unproven causation. »  
+Example (question)
+« Misrepresenting quotes. »
+This is the exact kind of move the question is testing.
 
-**Why this is Questionable Cause**  
-Assuming a cause without evidence. That is what this label is pointing to in the passage above.
+Example (everyday)
+"You said you 'like this idea' — support!" when the full quote was "I like this idea in principle, but..."
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Assuming a cause without evidence.`,
-    intermediate: `## Questionable Cause — in-depth (Intermediate)
+How it works
+The argument cuts away what came before and after.
 
-**What this is, in plain English**  
-Assuming a cause without evidence.
+So:
+- A fragment is presented as the whole.
+- The original meaning is distorted.
+- The speaker's actual position is hidden.
 
-**This example**  
-« Unproven causation. »  
+Key concept inside it
+Cherry-picking:
+Selecting pieces that support your argument while ignoring the rest.
 
-The passage shows **Questionable Cause** in action: assuming a cause without evidence.
+Why it matters
+Explains why:
+- This is common in politics and media.
+- It creates false evidence.
+- It distorts what people actually said.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if assuming a cause without evidence.
+The uncomfortable implication
+Most people won't check the original source to verify the quote.
 
-- **Example 2:** In a family argument, watch for this pattern: Assuming a cause without evidence.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Assuming a cause without evidence.
-
-**In one sentence**  
-Questionable Cause is the label for reasoning that fits: Assuming a cause without evidence.`,
-    expert: `## Questionable Cause — in-depth (Expert)
-
-**Definition**  
-Assuming a cause without evidence.
-
-**Applied to this passage**  
-« Unproven causation. »  
-
-Here, **Questionable Cause** is the right name because assuming a cause without evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture sports or business results. People often reason as if assuming a cause without evidence.
-
-- **Example 2:** In a family argument, watch for this pattern: Assuming a cause without evidence.
-
-- **Example 3:** Another everyday spot: a policy or workplace discussion. Assuming a cause without evidence.
-
-- **Example 4:** **Setting:** sports or business results. **What goes wrong:** Assuming a cause without evidence.
-
-- **Example 5:** Imagine a family argument. The slip is the same: assuming a cause without evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Questionable Cause** means Assuming a cause without evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Quoting Out of Context = Using a quote without its full context.`,
   },
-  753: {
-    beginner: `## Questionable Cause — in-depth (Beginner)
+755: {
+    beginner: `Quoting Out of Context = Using a quote without its full context.`,
+    detail: `Quoting Out of Context
 
-**What this is, in plain English**  
-Assuming a cause without evidence.
+Description:
+Using a quote without its full context.
+When partial information changes the original meaning.
 
-**The example you’re looking at**  
-« Speculative cause. »  
+Example (question)
+« Partial truths. »
+This is the exact kind of move the question is testing.
 
-**Why this is Questionable Cause**  
-Assuming a cause without evidence. That is what this label is pointing to in the passage above.
+Example (everyday)
+"He said he 'sometimes agrees' — claiming he agrees when he rarely does.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Assuming a cause without evidence.`,
-    intermediate: `## Questionable Cause — in-depth (Intermediate)
+How it works
+The argument presents a fragment as the whole.
 
-**What this is, in plain English**  
-Assuming a cause without evidence.
+So:
+- Important context is removed.
+- The quote supports a different point than intended.
+- The original speaker's meaning is distorted.
 
-**This example**  
-« Speculative cause. »  
+Key concept inside it
+Selective presentation:
+Choosing only what supports your argument.
 
-The passage shows **Questionable Cause** in action: assuming a cause without evidence.
+Why it matters
+Explains why:
+- This is common in political attacks.
+- Media often quotes out of context.
+- It can destroy reputations with half-truths.
 
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Assuming a cause without evidence.
+The uncomfortable implication
+Most people accept quoted statements without checking the original.
 
-- **Example 2:** Another everyday spot: a news headline or social post. Assuming a cause without evidence.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Assuming a cause without evidence.
-
-**In one sentence**  
-Questionable Cause is the label for reasoning that fits: Assuming a cause without evidence.`,
-    expert: `## Questionable Cause — in-depth (Expert)
-
-**Definition**  
-Assuming a cause without evidence.
-
-**Applied to this passage**  
-« Speculative cause. »  
-
-Here, **Questionable Cause** is the right name because assuming a cause without evidence.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In school grades or test scores, watch for this pattern: Assuming a cause without evidence.
-
-- **Example 2:** Another everyday spot: a news headline or social post. Assuming a cause without evidence.
-
-- **Example 3:** **Setting:** a health or habits story. **What goes wrong:** Assuming a cause without evidence.
-
-- **Example 4:** Imagine school grades or test scores. The slip is the same: assuming a cause without evidence.
-
-- **Example 5:** Picture a news headline or social post. People often reason as if assuming a cause without evidence.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Questionable Cause** means Assuming a cause without evidence.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Quoting Out of Context = Using a quote without its full context.`,
   },
-  754: {
-    beginner: `## Quoting Out of Context — in-depth (Beginner)
+756: {
+    beginner: `Quoting Out of Context = Using a quote without its full context.`,
+    detail: `Quoting Out of Context
 
-**What this is, in plain English**  
+Description:
 Using a quote without its full context.
+When important context is removed to change meaning.
 
-**The example you’re looking at**  
-« Misrepresenting quotes. »  
+Example (question)
+« Context omission. »
+This is the exact kind of move the question is testing.
 
-**Why this is Quoting Out of Context**  
-Using a quote without its full context. That is what this label is pointing to in the passage above.
+Example (everyday)
+Taking "I'm concerned about this" out of a longer sentence that says "but I think it'll work out fine."
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Using a quote without its full context.`,
-    intermediate: `## Quoting Out of Context — in-depth (Intermediate)
+How it works
+The argument removes what contextualizes the statement.
 
-**What this is, in plain English**  
-Using a quote without its full context.
+So:
+- What came before or after is hidden.
+- The remaining words mean something different.
+- The original position is misrepresented.
 
-**This example**  
-« Misrepresenting quotes. »  
+Key concept inside it
+Context trimming:
+Removing the parts that clarify meaning.
 
-The passage shows **Quoting Out of Context** in action: using a quote without its full context.
+Why it matters
+Explains why:
+- This is a favorite media tactic.
+- It creates false impressions of people's positions.
+- It makes quotes say the opposite of their original meaning.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Using a quote without its full context.
+The uncomfortable implication
+A quote without context can mean almost anything.
 
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using a quote without its full context.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: using a quote without its full context.
-
-**In one sentence**  
-Quoting Out of Context is the label for reasoning that fits: Using a quote without its full context.`,
-    expert: `## Quoting Out of Context — in-depth (Expert)
-
-**Definition**  
-Using a quote without its full context.
-
-**Applied to this passage**  
-« Misrepresenting quotes. »  
-
-Here, **Quoting Out of Context** is the right name because using a quote without its full context.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: a family argument. Using a quote without its full context.
-
-- **Example 2:** **Setting:** a policy or workplace discussion. **What goes wrong:** Using a quote without its full context.
-
-- **Example 3:** Imagine sports or business results. The slip is the same: using a quote without its full context.
-
-- **Example 4:** Picture a family argument. People often reason as if using a quote without its full context.
-
-- **Example 5:** In a policy or workplace discussion, watch for this pattern: Using a quote without its full context.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Quoting Out of Context** means Using a quote without its full context.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Quoting Out of Context = Using a quote without its full context.`,
   },
-  755: {
-    beginner: `## Quoting Out of Context — in-depth (Beginner)
+757: {
+    beginner: `Reductio ad Absurdum = Reducing an argument to absurdity to disprove it.`,
+    detail: `Reductio ad Absurdum
 
-**What this is, in plain English**  
-Using a quote without its full context.
+Description:
+Reducing an argument to absurdity to disprove it.
+When following an argument to its logical extreme shows it's false.
 
-**The example you’re looking at**  
-« Partial truths. »  
+Example (question)
+« If this is true, then absurd consequences follow. »
+This is the exact kind of move the question is testing.
 
-**Why this is Quoting Out of Context**  
-Using a quote without its full context. That is what this label is pointing to in the passage above.
+Example (everyday)
+"If we allow any speed limit, soon we'll allow driving at 500 mph — so we should have no speed limits."
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Using a quote without its full context.`,
-    intermediate: `## Quoting Out of Context — in-depth (Intermediate)
+How it works
+The argument pushes a premise to an extreme.
 
-**What this is, in plain English**  
-Using a quote without its full context.
+So:
+- The claim is followed to its conclusion.
+- The extreme result is absurd.
+- The original claim is rejected because of the extreme.
 
-**This example**  
-« Partial truths. »  
+Key concept inside it
+Logical extension:
+Following an argument to its final consequence.
 
-The passage shows **Quoting Out of Context** in action: using a quote without its full context.
+Why it matters
+Explains why:
+- This can be a valid logical technique.
+- But it can also be a fallacy when the extreme isn't inevitable.
+- It shows why slippery slope arguments are problematic.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Using a quote without its full context.
+The uncomfortable implication
+Not all logical extensions are equally likely.
 
-- **Example 2:** Imagine a health or habits story. The slip is the same: using a quote without its full context.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if using a quote without its full context.
-
-**In one sentence**  
-Quoting Out of Context is the label for reasoning that fits: Using a quote without its full context.`,
-    expert: `## Quoting Out of Context — in-depth (Expert)
-
-**Definition**  
-Using a quote without its full context.
-
-**Applied to this passage**  
-« Partial truths. »  
-
-Here, **Quoting Out of Context** is the right name because using a quote without its full context.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a news headline or social post. **What goes wrong:** Using a quote without its full context.
-
-- **Example 2:** Imagine a health or habits story. The slip is the same: using a quote without its full context.
-
-- **Example 3:** Picture school grades or test scores. People often reason as if using a quote without its full context.
-
-- **Example 4:** In a news headline or social post, watch for this pattern: Using a quote without its full context.
-
-- **Example 5:** Another everyday spot: a health or habits story. Using a quote without its full context.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Quoting Out of Context** means Using a quote without its full context.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Reductio ad Absurdum = Reducing an argument to absurdity to disprove it.`,
   },
-  756: {
-    beginner: `## Quoting Out of Context — in-depth (Beginner)
+758: {
+    beginner: `Reductio ad Absurdum = Reducing an argument to absurdity to disprove it.`,
+    detail: `Reductio ad Absurdum
 
-**What this is, in plain English**  
-Using a quote without its full context.
+Description:
+Reducing an argument to absurdity to disprove it.
+When the logical conclusion makes the original claim untenable.
 
-**The example you’re looking at**  
-« Context omission. »  
+Example (question)
+« Showing ridiculous outcomes. »
+This is the exact kind of move the question is testing.
 
-**Why this is Quoting Out of Context**  
-Using a quote without its full context. That is what this label is pointing to in the passage above.
+Example (everyday)
+"If we tax the rich, they'll leave the country, then no one pays taxes, then no roads" — stretched too far.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Using a quote without its full context.`,
-    intermediate: `## Quoting Out of Context — in-depth (Intermediate)
+How it works
+The argument takes the claim to its limit.
 
-**What this is, in plain English**  
-Using a quote without its full context.
+So:
+- Each step seems logical.
+- The final result becomes ridiculous.
+- The original claim is deemed false.
 
-**This example**  
-« Context omission. »  
+Key concept inside it
+Absurd endpoint:
+The extreme result that shows the problem with the original argument.
 
-The passage shows **Quoting Out of Context** in action: using a quote without its full context.
+Why it matters
+Explains why:
+- This is a valid philosophical technique.
+- But it's fallacious when the steps aren't inevitable.
+- It reveals hidden assumptions.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: using a quote without its full context.
+The uncomfortable implication
+Not all logical chains lead to absurdity at the same rate.
 
-- **Example 2:** Picture sports or business results. People often reason as if using a quote without its full context.
-
-- **Example 3:** In a family argument, watch for this pattern: Using a quote without its full context.
-
-**In one sentence**  
-Quoting Out of Context is the label for reasoning that fits: Using a quote without its full context.`,
-    expert: `## Quoting Out of Context — in-depth (Expert)
-
-**Definition**  
-Using a quote without its full context.
-
-**Applied to this passage**  
-« Context omission. »  
-
-Here, **Quoting Out of Context** is the right name because using a quote without its full context.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: using a quote without its full context.
-
-- **Example 2:** Picture sports or business results. People often reason as if using a quote without its full context.
-
-- **Example 3:** In a family argument, watch for this pattern: Using a quote without its full context.
-
-- **Example 4:** Another everyday spot: a policy or workplace discussion. Using a quote without its full context.
-
-- **Example 5:** **Setting:** sports or business results. **What goes wrong:** Using a quote without its full context.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Quoting Out of Context** means Using a quote without its full context.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Reductio ad Absurdum = Reducing an argument to absurdity to disprove it.`,
   },
-  757: {
-    beginner: `## Reductio ad Absurdum — in-depth (Beginner)
+759: {
+    beginner: `Reductio ad Absurdum = Reducing an argument to absurdity to disprove it.`,
+    detail: `Reductio ad Absurdum
 
-**What this is, in plain English**  
+Description:
 Reducing an argument to absurdity to disprove it.
+When following logic leads to an impossible or ridiculous conclusion.
 
-**The example you’re looking at**  
-« If this is true, then absurd consequences follow. »  
+Example (question)
+« Absurd reduction. »
+This is the exact kind of move the question is testing.
 
-**Why this is Reductio ad Absurdum**  
-Reducing an argument to absurdity to disprove it. That is what this label is pointing to in the passage above.
+Example (everyday)
+"If pets have rights, then we'd have to arrest people for stepping on ants — so pets shouldn't have rights."
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Reducing an argument to absurdity to disprove it.`,
-    intermediate: `## Reductio ad Absurdum — in-depth (Intermediate)
+How it works
+The argument pushes until it breaks.
 
-**What this is, in plain English**  
-Reducing an argument to absurdity to disprove it.
+So:
+- Each step follows logically.
+- The end result is clearly wrong.
+- Therefore the beginning must be wrong too.
 
-**This example**  
-« If this is true, then absurd consequences follow. »  
+Key concept inside it
+Proof by contradiction:
+Showing an assumption leads to impossibility.
 
-The passage shows **Reductio ad Absurdum** in action: reducing an argument to absurdity to disprove it.
+Why it matters
+Explains why:
+- This is a valid tool in mathematics and logic.
+- But it can be fallacious when steps aren't required.
+- It reveals hidden implications.
 
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if reducing an argument to absurdity to disprove it.
+The uncomfortable implication
+The path to absurdity might not be as straight as it appears.
 
-- **Example 2:** In school grades or test scores, watch for this pattern: Reducing an argument to absurdity to disprove it.
-
-- **Example 3:** Another everyday spot: a news headline or social post. Reducing an argument to absurdity to disprove it.
-
-**In one sentence**  
-Reductio ad Absurdum is the label for reasoning that fits: Reducing an argument to absurdity to disprove it.`,
-    expert: `## Reductio ad Absurdum — in-depth (Expert)
-
-**Definition**  
-Reducing an argument to absurdity to disprove it.
-
-**Applied to this passage**  
-« If this is true, then absurd consequences follow. »  
-
-Here, **Reductio ad Absurdum** is the right name because reducing an argument to absurdity to disprove it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Picture a health or habits story. People often reason as if reducing an argument to absurdity to disprove it.
-
-- **Example 2:** In school grades or test scores, watch for this pattern: Reducing an argument to absurdity to disprove it.
-
-- **Example 3:** Another everyday spot: a news headline or social post. Reducing an argument to absurdity to disprove it.
-
-- **Example 4:** **Setting:** a health or habits story. **What goes wrong:** Reducing an argument to absurdity to disprove it.
-
-- **Example 5:** Imagine school grades or test scores. The slip is the same: reducing an argument to absurdity to disprove it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Reductio ad Absurdum** means Reducing an argument to absurdity to disprove it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Reductio ad Absurdum = Reducing an argument to absurdity to disprove it.`,
   },
-  758: {
-    beginner: `## Reductio ad Absurdum — in-depth (Beginner)
+760: {
+    beginner: `Reification = Treating an abstract concept as concrete.`,
+    detail: `Reification
 
-**What this is, in plain English**  
-Reducing an argument to absurdity to disprove it.
-
-**The example you’re looking at**  
-« Showing ridiculous outcomes. »  
-
-**Why this is Reductio ad Absurdum**  
-Reducing an argument to absurdity to disprove it. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Reducing an argument to absurdity to disprove it.`,
-    intermediate: `## Reductio ad Absurdum — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Reducing an argument to absurdity to disprove it.
-
-**This example**  
-« Showing ridiculous outcomes. »  
-
-The passage shows **Reductio ad Absurdum** in action: reducing an argument to absurdity to disprove it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Reducing an argument to absurdity to disprove it.
-
-- **Example 2:** Another everyday spot: a family argument. Reducing an argument to absurdity to disprove it.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Reducing an argument to absurdity to disprove it.
-
-**In one sentence**  
-Reductio ad Absurdum is the label for reasoning that fits: Reducing an argument to absurdity to disprove it.`,
-    expert: `## Reductio ad Absurdum — in-depth (Expert)
-
-**Definition**  
-Reducing an argument to absurdity to disprove it.
-
-**Applied to this passage**  
-« Showing ridiculous outcomes. »  
-
-Here, **Reductio ad Absurdum** is the right name because reducing an argument to absurdity to disprove it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** In sports or business results, watch for this pattern: Reducing an argument to absurdity to disprove it.
-
-- **Example 2:** Another everyday spot: a family argument. Reducing an argument to absurdity to disprove it.
-
-- **Example 3:** **Setting:** a policy or workplace discussion. **What goes wrong:** Reducing an argument to absurdity to disprove it.
-
-- **Example 4:** Imagine sports or business results. The slip is the same: reducing an argument to absurdity to disprove it.
-
-- **Example 5:** Picture a family argument. People often reason as if reducing an argument to absurdity to disprove it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Reductio ad Absurdum** means Reducing an argument to absurdity to disprove it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  759: {
-    beginner: `## Reductio ad Absurdum — in-depth (Beginner)
-
-**What this is, in plain English**  
-Reducing an argument to absurdity to disprove it.
-
-**The example you’re looking at**  
-« Absurd reduction. »  
-
-**Why this is Reductio ad Absurdum**  
-Reducing an argument to absurdity to disprove it. That is what this label is pointing to in the passage above.
-
-**Takeaway**  
-Reducing an argument to absurdity to disprove it.`,
-    intermediate: `## Reductio ad Absurdum — in-depth (Intermediate)
-
-**What this is, in plain English**  
-Reducing an argument to absurdity to disprove it.
-
-**This example**  
-« Absurd reduction. »  
-
-The passage shows **Reductio ad Absurdum** in action: reducing an argument to absurdity to disprove it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Reducing an argument to absurdity to disprove it.
-
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Reducing an argument to absurdity to disprove it.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: reducing an argument to absurdity to disprove it.
-
-**In one sentence**  
-Reductio ad Absurdum is the label for reasoning that fits: Reducing an argument to absurdity to disprove it.`,
-    expert: `## Reductio ad Absurdum — in-depth (Expert)
-
-**Definition**  
-Reducing an argument to absurdity to disprove it.
-
-**Applied to this passage**  
-« Absurd reduction. »  
-
-Here, **Reductio ad Absurdum** is the right name because reducing an argument to absurdity to disprove it.
-
-**More examples (same fallacy only)**  
-- **Example 1:** Another everyday spot: school grades or test scores. Reducing an argument to absurdity to disprove it.
-
-- **Example 2:** **Setting:** a news headline or social post. **What goes wrong:** Reducing an argument to absurdity to disprove it.
-
-- **Example 3:** Imagine a health or habits story. The slip is the same: reducing an argument to absurdity to disprove it.
-
-- **Example 4:** Picture school grades or test scores. People often reason as if reducing an argument to absurdity to disprove it.
-
-- **Example 5:** In a news headline or social post, watch for this pattern: Reducing an argument to absurdity to disprove it.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Reductio ad Absurdum** means Reducing an argument to absurdity to disprove it.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
-  },
-  760: {
-    beginner: `## Reification — in-depth (Beginner)
-
-**What this is, in plain English**  
+Description:
 Treating an abstract concept as concrete.
+When an idea is spoken about as if it were a real thing.
 
-**The example you’re looking at**  
-« Society is a person. »  
+Example (question)
+« Society is a person. »
+This is the exact kind of move the question is testing.
 
-**Why this is Reification**  
-Treating an abstract concept as concrete. That is what this label is pointing to in the passage above.
+Example (everyday)
+"Society owes us jobs" — society isn't a person that owes things.
+The same logic shows up even when the surface story changes.
 
-**Takeaway**  
-Treating an abstract concept as concrete.`,
-    intermediate: `## Reification — in-depth (Intermediate)
+How it works
+The argument gives abstract ideas concrete properties.
 
-**What this is, in plain English**  
-Treating an abstract concept as concrete.
+So:
+- Concepts like "society" or "the economy" get treated as agents.
+- They can "want," "decide," or "act."
+- This simplifies complex systems incorrectly.
 
-**This example**  
-« Society is a person. »  
+Key concept inside it
+Hypostatization:
+Treating abstractions as if they were concrete entities.
 
-The passage shows **Reification** in action: treating an abstract concept as concrete.
+Why it matters
+Explains why:
+- This appears in economics and politics constantly.
+- It makes complex systems seem simpler.
+- It can lead to false conclusions about who or what is responsible.
 
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Treating an abstract concept as concrete.
+The uncomfortable implication
+Much political discourse treats abstractions as decision-makers.
 
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: treating an abstract concept as concrete.
-
-- **Example 3:** Picture sports or business results. People often reason as if treating an abstract concept as concrete.
-
-**In one sentence**  
-Reification is the label for reasoning that fits: Treating an abstract concept as concrete.`,
-    expert: `## Reification — in-depth (Expert)
-
-**Definition**  
-Treating an abstract concept as concrete.
-
-**Applied to this passage**  
-« Society is a person. »  
-
-Here, **Reification** is the right name because treating an abstract concept as concrete.
-
-**More examples (same fallacy only)**  
-- **Example 1:** **Setting:** a family argument. **What goes wrong:** Treating an abstract concept as concrete.
-
-- **Example 2:** Imagine a policy or workplace discussion. The slip is the same: treating an abstract concept as concrete.
-
-- **Example 3:** Picture sports or business results. People often reason as if treating an abstract concept as concrete.
-
-- **Example 4:** In a family argument, watch for this pattern: Treating an abstract concept as concrete.
-
-- **Example 5:** Another everyday spot: a policy or workplace discussion. Treating an abstract concept as concrete.
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Reification** means Treating an abstract concept as concrete.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-Logical Fallacies`,
+One-line version
+Reification = Treating an abstract concept as concrete.`,
   },
   761: {
     beginner: `## Reification — in-depth (Beginner)
@@ -62031,20 +60881,20 @@ Ici, **Triviality effect** convient parce que une erreur logique ou un biais cog
 **Thème (banque)**  
 Heuristique Système`,
   },
-  718: {
-    beginner: `## Sayre's law — approfondi (Débutant)
+718: {
+    beginner: `## Terme mineur illicite — approfondi (Débutant)
 
 **En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Sayre's law, où le raisonnement est défaillant.
+Distribuer le terme mineur dans la conclusion mais pas dans la prémisse.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+**L'exemple affiché**  
+« Tous les hommes sont mortels. Tous les mortels sont des êtres. Donc, tous les êtres sont des hommes. »  
 
-**Pourquoi c’est bien Sayre's law**  
-Une erreur logique ou un biais cognitif impliquant Sayre's law, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+**Pourquoi c'est bien Terme mineur illicite**  
+Distribuer le terme mineur dans la conclusion mais pas dans la prémisse. C'est ce que ce libellé vise dans le passage ci-dessus.
 
 **À retenir**  
-Une erreur logique ou un biais cognitif impliquant Sayre's law, où le raisonnement est défaillant.`,
+Distribuer le terme mineur dans la conclusion mais pas dans la prémisse.`,
     intermediate: `## Sayre's law — approfondi (Intermédiaire)
 
 **En termes simples**  
@@ -62094,20 +60944,20 @@ Ici, **Sayre's law** convient parce que une erreur logique ou un biais cognitif 
 **Thème (banque)**  
 Protocole Social`,
   },
-  719: {
-    beginner: `## Sayre's law — approfondi (Débutant)
+719: {
+    beginner: `## Terme mineur illicite — approfondi (Débutant)
 
 **En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Sayre's law, où le raisonnement est défaillant.
+Distribuer le terme mineur dans la conclusion mais pas dans la prémisse.
 
-**L’exemple affiché**  
-« Un système complexe est comme une horloge ; si vous ajustez un rouage, vous pouvez tout prédire. »  
+**L'exemple affiché**  
+« Erreur de distribution du syllogisme. »  
 
-**Pourquoi c’est bien Sayre's law**  
-Une erreur logique ou un biais cognitif impliquant Sayre's law, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+**Pourquoi c'est bien Terme mineur illicite**  
+Distribuer le terme mineur dans la conclusion mais pas dans la prémisse. C'est ce que ce libellé vise dans le passage ci-dessus.
 
 **À retenir**  
-Une erreur logique ou un biais cognitif impliquant Sayre's law, où le raisonnement est défaillant.`,
+Distribuer le terme mineur dans la conclusion mais pas dans la prémisse.`,
     intermediate: `## Sayre's law — approfondi (Intermédiaire)
 
 **En termes simples**  
@@ -62157,20 +61007,20 @@ Ici, **Sayre's law** convient parce que une erreur logique ou un biais cognitif 
 **Thème (banque)**  
 Protocole Social`,
   },
-  720: {
-    beginner: `## Sayre's law — approfondi (Débutant)
+720: {
+    beginner: `## Terme mineur illicite — approfondi (Débutant)
 
 **En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Sayre's law, où le raisonnement est défaillant.
+Distribuer le terme mineur dans la conclusion mais pas dans la prémisse.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux, où le raisonnement est défaillant.". »  
+**L'exemple affiché**  
+« Terme mineur invalide. »  
 
-**Pourquoi c’est bien Sayre's law**  
-Une erreur logique ou un biais cognitif impliquant Sayre's law, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+**Pourquoi c'est bien Terme mineur illicite**  
+Distribuer le terme mineur dans la conclusion mais pas dans la prémisse. C'est ce que ce libellé vise dans le passage ci-dessus.
 
 **À retenir**  
-Une erreur logique ou un biais cognitif impliquant Sayre's law, où le raisonnement est défaillant.`,
+Distribuer le terme mineur dans la conclusion mais pas dans la prémisse.`,
     intermediate: `## Sayre's law — approfondi (Intermédiaire)
 
 **En termes simples**  
@@ -62220,20 +61070,20 @@ Ici, **Sayre's law** convient parce que une erreur logique ou un biais cognitif 
 **Thème (banque)**  
 Protocole Social`,
   },
-  721: {
-    beginner: `## Parkinson's law of triviality — approfondi (Débutant)
+721: {
+    beginner: `## Incohérence — approfondi (Débutant)
 
 **En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Parkinson's law of triviality, où le raisonnement est défaillant.
+Maintenir des croyances contradictoires.
 
-**L’exemple affiché**  
-« Scénario : Vous débattez avec quelqu'un qui s'appuie sur la logique suivante : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux d'un raisonnement défectueux, où le raisonnement est défaillant.". »  
+**L'exemple affiché**  
+« Dire une chose et en faire une autre. »  
 
-**Pourquoi c’est bien Parkinson's law of triviality**  
-Une erreur logique ou un biais cognitif impliquant Parkinson's law of triviality, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+**Pourquoi c'est bien Incohérence**  
+Maintenir des croyances contradictoires. C'est ce que ce libellé vise dans le passage ci-dessus.
 
 **À retenir**  
-Une erreur logique ou un biais cognitif impliquant Parkinson's law of triviality, où le raisonnement est défaillant.`,
+Maintenir des croyances contradictoires.`,
     intermediate: `## Parkinson's law of triviality — approfondi (Intermédiaire)
 
 **En termes simples**  
@@ -62283,20 +61133,20 @@ Ici, **Parkinson's law of triviality** convient parce que une erreur logique ou 
 **Thème (banque)**  
 Nœud Logique`,
   },
-  722: {
-    beginner: `## Parkinson's law of triviality — approfondi (Débutant)
+722: {
+    beginner: `## Incohérence — approfondi (Débutant)
 
 **En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Parkinson's law of triviality, où le raisonnement est défaillant.
+Maintenir des croyances contradictoires.
 
-**L’exemple affiché**  
-« Le chercheur en chef dit que les données sont cryptées, nous devons donc supposer qu’elles contiennent la vérité. »  
+**L'exemple affiché**  
+« Déclarations contradictoires. »  
 
-**Pourquoi c’est bien Parkinson's law of triviality**  
-Une erreur logique ou un biais cognitif impliquant Parkinson's law of triviality, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+**Pourquoi c'est bien Incohérence**  
+Maintenir des croyances contradictoires. C'est ce que ce libellé vise dans le passage ci-dessus.
 
 **À retenir**  
-Une erreur logique ou un biais cognitif impliquant Parkinson's law of triviality, où le raisonnement est défaillant.`,
+Maintenir des croyances contradictoires.`,
     intermediate: `## Parkinson's law of triviality — approfondi (Intermédiaire)
 
 **En termes simples**  
@@ -62346,20 +61196,20 @@ Ici, **Parkinson's law of triviality** convient parce que une erreur logique ou 
 **Thème (banque)**  
 Nœud Logique`,
   },
-  723: {
-    beginner: `## Parkinson's law of triviality — approfondi (Débutant)
+723: {
+    beginner: `## Incohérence — approfondi (Débutant)
 
 **En termes simples**  
-Une erreur logique ou un biais cognitif impliquant Parkinson's law of triviality, où le raisonnement est défaillant.
+Maintenir des croyances contradictoires.
 
-**L’exemple affiché**  
-« Lorsqu'une personne soutient que : "Une erreur logique ou un biais cognitif impliquant un raisonnement défectueux d'un raisonnement défectueux, où le raisonnement est défaillant.". »  
+**L'exemple affiché**  
+« Incohérence logique. »  
 
-**Pourquoi c’est bien Parkinson's law of triviality**  
-Une erreur logique ou un biais cognitif impliquant Parkinson's law of triviality, où le raisonnement est défaillant. C’est ce que ce libellé vise dans le passage ci-dessus.
+**Pourquoi c'est bien Incohérence**  
+Maintenir des croyances contradictoires. C'est ce que ce libellé vise dans le passage ci-dessus.
 
 **À retenir**  
-Une erreur logique ou un biais cognitif impliquant Parkinson's law of triviality, où le raisonnement est défaillant.`,
+Maintenir des croyances contradictoires.`,
     intermediate: `## Parkinson's law of triviality — approfondi (Intermédiaire)
 
 **En termes simples**  

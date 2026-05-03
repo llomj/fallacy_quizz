@@ -118,7 +118,7 @@
 
 **Apr 2026 style pass:** Level **10** IDs **811–827** were rewritten in the plain numbered lesson format (EN + FR) to match the easier-to-scan style used in Level 0.
 
-**Completed IDs (Levels 2–10) — NEW FORMAT:** **650 / 810** (Batches 1–21: 91–710 complete)
+**Completed IDs (Levels 2–10) — NEW FORMAT:** **710 / 810** (Batches 1–21: 91–710 complete; **EN 711–760 done** in this pass; 140 more IDs needed for EN 761-900)
 
 ---
 
@@ -153,9 +153,12 @@
 - Keep `AGENTS.md` glossary and `glossary.md` consistency for fallacy definitions.  
 - After completing a batch, update the **Range** table and **Last updated** below.
 
-**Last updated:** 2026-05-03 (Batch 21 complete for Levels 2–10; next up: 711–740)
+**Last updated:** 2026-05-03 (EN 711-740 converted to new format; 130 more IDs needed for EN 741-900)
 
 ### Next steps (optional, not blocking)
+
+- **FR question bank:** IDs 730+ in `FALLACY_QUESTIONS_FR` have garbled/placeholder text. Fix FR bank first before converting FR in-depth content.
+- **Editorial:** Replace or augment template-heavy entries where pedagogical value would benefit from bespoke copy (same section structure; EN/FR parity).
 
 - **Editorial:** Replace or augment template-heavy entries where pedagogical value would benefit from bespoke copy (same section structure; EN/FR parity).
 - **Bank changes:** After edits to `fallaciesData.ts` or Level 0 question banks, rerun the relevant generator (`generate-level1-standalone.mjs`, `generate-standalone-levels-2-10.mjs`, or Level 0 authoring flow) and `npm run build`.

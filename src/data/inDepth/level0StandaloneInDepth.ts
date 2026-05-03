@@ -12,8 +12,9 @@
 
 export type StandaloneInDepthLevels = {
   beginner: string;
-  intermediate: string;
-  expert: string;
+  detail?: string;
+  intermediate?: string;
+  expert?: string;
 };
 
 /** English — completed IDs tracked in task.md */
