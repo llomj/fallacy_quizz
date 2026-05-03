@@ -29896,68 +29896,195 @@ Here, **Survivor Bias** is the right name because focusing on successes while ig
 **Topic (bank)**  
 Cognitive Biases`,
   },
-  786: {
-    beginner: `## Survivor Bias — in-depth (Beginner)
+786: {
+    beginner: `Suggestion Effect = Being influenced by what others suggest.`,
+    detail: `Suggestion Effect
 
-**What this is, in plain English**  
-Focusing on successes while ignoring failures.
+Description:
+When suggestion becomes belief without your awareness.
 
-**The example you’re looking at**  
-« Biased success view. »  
+Example (question)
+« Internalized suggestion. »
+You "realize" something you never thought before — someone planted it.
 
-**Why this is Survivor Bias**  
-Focusing on successes while ignoring failures. That is what this label is pointing to in the passage above.
+Example (everyday)
+"You deserve this treat" — after hearing ads, you feel you deserve it.
 
-**Takeaway**  
-Focusing on successes while ignoring failures.`,
-    intermediate: `## Survivor Bias — in-depth (Intermediate)
+How it works
+The argument treats implanted suggestions as natural conclusions.
 
-**What this is, in plain English**  
-Focusing on successes while ignoring failures.
+So:
+- The idea seems like yours
+- Source is forgotten
+- Critical examination is bypassed
 
-**This example**  
-« Biased success view. »  
+Key concept inside it
+Latent learning:
+Ideas absorbed without conscious awareness.
 
-The passage shows **Survivor Bias** in action: focusing on successes while ignoring failures.
+Why it matters
+Explains why:
+- Marketing installs "desires"
+- Political campaigns install "values"
+- Media installs narratives
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: focusing on successes while ignoring failures.
+The uncomfortable implication
+Your internal voice might be other people's scripts.
 
-- **Example 2:** Picture sports or business results. People often reason as if focusing on successes while ignoring failures.
+One-line version
+Suggestion Effect = Being influenced by what others suggest.`,
+  },
+  787: {
+    beginner: `Suggestion Effect = Being influenced by what others suggest.`,
+    detail: `Suggestion Effect
 
-- **Example 3:** In a family argument, watch for this pattern: Focusing on successes while ignoring failures.
+Description:
+When others' expectations shape your behavior.
 
-**In one sentence**  
-Survivor Bias is the label for reasoning that fits: Focusing on successes while ignoring failures.`,
-    expert: `## Survivor Bias — in-depth (Expert)
+Example (question)
+« Expectation influence. »
+If others expect greatness, you perform better — the Pygmalion effect.
 
-**Definition**  
-Focusing on successes while ignoring failures.
+Example (everyday)
+A teacher expects success — students deliver because of the expectation.
 
-**Applied to this passage**  
-« Biased success view. »  
+How it works
+The argument treats expectations as causal.
 
-Here, **Survivor Bias** is the right name because focusing on successes while ignoring failures.
+So:
+- Belief influences behavior
+- Others' expectations matter
+- The prophecy creates the outcome
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a policy or workplace discussion. The slip is the same: focusing on successes while ignoring failures.
+Key concept inside it
+Pygmalion effect:
+Performance rises to meet expectations.
 
-- **Example 2:** Picture sports or business results. People often reason as if focusing on successes while ignoring failures.
+Why it matters
+Explains why:
+- Self-fulfilling prophecies work
+- Teacher expectations affect grades
+- Manager expectations affect employees
 
-- **Example 3:** In a family argument, watch for this pattern: Focusing on successes while ignoring failures.
+The uncomfortable implication
+Your potential might be shaped by others' beliefs about you.
 
-- **Example 4:** Another everyday spot: a policy or workplace discussion. Focusing on successes while ignoring failures.
+One-line version
+Suggestion Effect = Being influenced by what others suggest.`,
+  },
+  788: {
+    beginner: `Suggestion Effect = Being influenced by what others suggest.`,
+    detail: `Suggestion Effect
 
-- **Example 5:** **Setting:** sports or business results. **What goes wrong:** Focusing on successes while ignoring failures.
+Description:
+When you do what others do, without thinking.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Survivor Bias** means Focusing on successes while ignoring failures.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
+Example (question)
+« Automatic mimicry. »
+You yawn because someone else yawned. Copying happens automatically.
 
-**Topic (bank)**  
-Cognitive Biases`,
+Example (everyday)
+In a crowd, you match group behavior — even if wrong.
+
+How it works
+The argument treats mimicry as automatic influence.
+
+So:
+- You copy without awareness
+- Social contagion spreads
+- Rational analysis is bypassed
+
+Key concept inside it
+Social contagion:
+Behaviors and emotions spread through imitation.
+
+Why it matters
+Explains why:
+- Mass hysteria events
+- Viral behaviors spread
+- Peer pressure works subconsciously
+
+The uncomfortable implication
+Much of your "choice" behavior is automatic copying.
+
+One-line version
+Suggestion Effect = Being influenced by what others suggest.`,
+  },
+  789: {
+    beginner: `Suggestion Effect = Being influenced by what others suggest.`,
+    detail: `Suggestion Effect
+
+Description:
+When group opinion feels like fact.
+
+Example (question)
+« Everyone knows. »
+Appeals to universal belief substitute for evidence.
+
+Example (everyday)
+"Everyone knows that X is true" — but is it?
+
+How it works
+The argument uses numbers as proof.
+
+So:
+- Popular belief is cited
+- Evidence is skipped
+- Social proof replaces logic
+
+Key concept inside it
+Bandwagon effect:
+Adopting beliefs because others hold them.
+
+Why it matters
+Explains why:
+- Viral "facts" spread
+- Consensus substitutes for verification
+- Truth becomes popularity contest
+
+The uncomfortable implication
+"Everyone knows" often means "no one verified."
+
+One-line version
+Suggestion Effect = Being influenced by what others suggest.`,
+  },
+  790: {
+    beginner: `Suggestion Effect = Being influenced by what others suggest.`,
+    detail: `Suggestion Effect
+
+Description:
+When authority tells you what's true.
+
+Example (question)
+« Authority definition. »
+"If the expert says it, it must be true." Authority substitutes for evidence.
+
+Example (everyday)
+"We followed the expert rules" — but the expert was wrong.
+
+How it works
+The argument trusts authority without verification.
+
+So:
+- Authority is trusted
+- Evidence is secondary
+- Credential substitutes for logic
+
+Key concept inside it
+Appeal to authority:
+Using authority as proof instead of evidence.
+
+Why it matters
+Explains why:
+- Expert testimony can be wrong
+- Credentials don't guarantee accuracy
+- Authority has limits
+
+The uncomfortable implication
+Experts are often wrong — credentials aren't proof.
+
+One-line version
+Suggestion Effect = Being influenced by what others suggest.`,
   },
   787: {
     beginner: `## Telescoping Effect — in-depth (Beginner)
