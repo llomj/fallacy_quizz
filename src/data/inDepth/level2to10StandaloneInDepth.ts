@@ -29677,118 +29677,152 @@ One-line version
 Appeal to Antiquity = Believing something is better because it's older.`,
   },
   847: {
-    beginner: `Appeal to Moderation = Assuming the middle ground is always correct.`,
+    beginner: `Appeal to Moderation = Believing the middle ground is always correct.`,
     detail: `Appeal to Moderation
 
 Description:
-Assuming the middle ground is always correct.
-
-Appeal to Moderation = Assuming the middle ground is always correct
+Assuming the middle ground between two positions is always correct — just to find a compromise.
 
 Example (question)
 « Compromise is truth. »
+When compromise is treated as truth — middle position automatically wins.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "The truth is somewhere in the middle"
+- 50/50 splits accepted as fair
+- Both-sides journalism fallacy
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Compromise isn't correctness. Some positions are simply wrong — no middle fixes them.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Middle ground can be worse than either extreme
+- One side can be more correct
+- Truth isn't about compromise
 
 Key concept inside it
-Appeal to Moderation:
-Assuming the middle ground is always correct.
+False Balance:
+Treating unequal positions as equally valid.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Bad policy from "bipartisan" compromise
+- Misinformation gets equal time
+- Science gets balanced with junk
 
 One-line version
-Appeal to Moderation = Assuming the middle ground is always correct.`,
+Appeal to Moderation = Believing the middle ground is always correct.`,
   },
   848: {
-    beginner: `Appeal to Moderation = Assuming the middle ground is always correct.`,
+    beginner: `Appeal to Moderation = Believing the middle ground is always correct.`,
     detail: `Appeal to Moderation
 
 Description:
-Assuming the middle ground is always correct.
-
-Appeal to Moderation = Assuming the middle ground is always correct
+Assuming the middle ground between two positions is always correct — just to find a compromise.
 
 Example (question)
 « Middle way fallacy. »
+Compromise as the automatic answer — middle position automatically correct.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Splitting differences as fair
+- Meeting in the middle when one side is wrong
+- The fallacy of "half-right"
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Compromise isn't correctness. Some positions are simply wrong — no middle fixes them.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Middle ground can be worse than either extreme
+- One side can be more correct
+- Truth isn't about compromise
 
 Key concept inside it
-Appeal to Moderation:
-Assuming the middle ground is always correct.
+False Balance:
+Treating unequal positions as equally valid.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Bad policy from "bipartisan" compromise
+- Misinformation gets equal time
+- Science gets balanced with junk
 
 One-line version
-Appeal to Moderation = Assuming the middle ground is always correct.`,
+Appeal to Moderation = Believing the middle ground is always correct.`,
   },
-  849: {
-    beginner: `Appeal to Moderation = Assuming the middle ground is always correct.`,
+849: {
+    beginner: `Appeal to Moderation = Believing the middle ground is always correct.`,
     detail: `Appeal to Moderation
 
 Description:
-Assuming the middle ground is always correct.
-
-Appeal to Moderation = Assuming the middle ground is always correct
+Assuming the middle ground between two positions is always correct — just to find a compromise.
 
 Example (question)
 « Balanced but wrong. »
+When "balance" becomes truth — middle automatically correct.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Both politicians "have points"
+- Compromise facts
+- Half-truths accepted
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Compromise isn't correctness. Some positions are simply wrong — no middle fixes them.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Middle ground can be worse than either extreme
+- One side can be more correct
+- Truth isn't about compromise
 
 Key concept inside it
-Appeal to Moderation:
-Assuming the middle ground is always correct.
+False Balance:
+Treating unequal positions as equally valid.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Bad policy from "bipartisan" compromise
+- Misinformation gets equal time
+- Science gets balanced with junk
 
 One-line version
-Appeal to Moderation = Assuming the middle ground is always correct.`,
+Appeal to Moderation = Believing the middle ground is always correct.`,
+  },
+  850: {
+    beginner: `Appeal to Nature = Believing natural things are inherently better.`,
+    detail: `Appeal to Nature
+
+Description:
+Arguing something is good because it's "natural" — or that natural equals better.
+
+Example (question)
+« Natural products are superior. »
+"Natural" as proof of quality — nature isn't automatically good.
+
+Example (everyday)
+- Natural medicine over science
+- Organic food superiority claims
+- "Back to nature" arguments
+
+How it works
+"Natural" doesn't equal good. Many natural things are harmful, many artificial are safe.
+
+So:
+- Natural doesn't mean better
+- Poison ivy is natural
+- Medicine saves lives
+
+Key concept inside it
+Naturalistic Fallacy:
+Assuming "natural" equals "good" or "right."
+
+Why it matters
+Explains why:
+- Alternative medicine persists
+- Dangerous "natural" products
+- Anti-science movements
+
+One-line version
+Appeal to Nature = Believing natural things are inherently better.`,
   },
   850: {
     beginner: `Appeal to Nature = Assuming natural is better.`,
@@ -29829,118 +29863,189 @@ One-line version
 Appeal to Nature = Assuming natural is better.`,
   },
   851: {
-    beginner: `Appeal to Nature = Assuming natural is better.`,
+    beginner: `Appeal to Nature = Believing natural things are inherently better.`,
     detail: `Appeal to Nature
 
 Description:
-Assuming natural is better.
-
-Appeal to Nature = Assuming natural is better
+Arguing something is good because it's "natural" — or that natural equals better.
 
 Example (question)
 « Artificial is bad. »
+"Artificial" as insult — assuming natural is automatically better.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "Chemicals are bad"
+- "God made nature"
+- Natural supplements over medicine
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+"Natural" doesn't equal good. Many natural things are harmful, many artificial are safe.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Natural doesn't mean better
+- Poison ivy is natural
+- Medicine saves lives
 
 Key concept inside it
-Appeal to Nature:
-Assuming natural is better.
+Naturalistic Fallacy:
+Assuming "natural" equals "good" or "right."
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Alternative medicine persists
+- Dangerous "natural" products
+- Anti-science movements
 
 One-line version
-Appeal to Nature = Assuming natural is better.`,
+Appeal to Nature = Believing natural things are inherently better.`,
   },
   852: {
-    beginner: `Appeal to Nature = Assuming natural is better.`,
+    beginner: `Appeal to Nature = Believing natural things are inherently better.`,
     detail: `Appeal to Nature
 
 Description:
-Assuming natural is better.
-
-Appeal to Nature = Assuming natural is better
+Arguing something is good because it's "natural" — or that natural equals better.
 
 Example (question)
 « Nature bias. »
+When nature is automatically assumed good — no evidence needed.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "It's natural, so it must be good"
+- Herbal remedies over medicine
+- Earth-friendly automatically means safe
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+"Natural" doesn't equal good. Many natural things are harmful, many artificial are safe.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Natural doesn't mean better
+- Poison ivy is natural
+- Medicine saves lives
 
 Key concept inside it
-Appeal to Nature:
-Assuming natural is better.
+Naturalistic Fallacy:
+Assuming "natural" equals "good" or "right."
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Alternative medicine persists
+- Dangerous "natural" products
+- Anti-science movements
 
 One-line version
-Appeal to Nature = Assuming natural is better.`,
+Appeal to Nature = Believing natural things are inherently better.`,
   },
-  853: {
-    beginner: `Appeal to Novelty = Assuming new is better.`,
+853: {
+    beginner: `Appeal to Novelty = Believing new things are inherently better.`,
     detail: `Appeal to Novelty
 
 Description:
-Assuming new is better.
-
-Appeal to Novelty = Assuming new is better
+Arguing something is good because it's new — or assuming new equals better.
 
 Example (question)
 « Latest is greatest. »
+When new automatically means better — no evidence needed.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- New phone must be better
+- Latest version worship
+- "New and improved" as proof
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+New doesn't equal better. New products have bugs, new ideas have flaws.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- New things haven't been tested
+- Old reliable often beats new
+- Novelty is marketing, not quality
 
 Key concept inside it
-Appeal to Novelty:
-Assuming new is better.
+Innovation Bias:
+Assuming new is automatically better.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Tech companies profit from upgrade culture
+- New isn't tested for long-term effects
+- Old medicine still works
 
 One-line version
-Appeal to Novelty = Assuming new is better.`,
+Appeal to Novelty = Believing new things are inherently better.`,
+  },
+  854: {
+    beginner: `Appeal to Novelty = Believing new things are inherently better.`,
+    detail: `Appeal to Novelty
+
+Description:
+Arguing something is good because it's new — or assuming new equals better.
+
+Example (question)
+« New bias. »
+When new becomes the standard for quality.
+
+Example (everyday)
+- Upgrading for upgrading's sake
+- New car smell
+- Latest trends
+
+How it works
+New doesn't equal better. New products have bugs, new ideas have flaws.
+
+So:
+- New things haven't been tested
+- Old reliable often beats new
+- Novelty is marketing, not quality
+
+Key concept inside it
+Innovation Bias:
+Assuming new is automatically better.
+
+Why it matters
+Explains why:
+- Tech companies profit from upgrade culture
+- New isn't tested for long-term effects
+- Old medicine still works
+
+One-line version
+Appeal to Novelty = Believing new things are inherently better.`,
+  },
+  855: {
+    beginner: `False Cause = Misidentifying the cause of an effect.`,
+    detail: `False Cause
+
+Description:
+Assuming one thing caused another when there's no established causal link.
+
+Example (question)
+« Correlation miscausation. »
+Seeing A and B together, assuming A causes B — but correlation isn't causation.
+
+Example (everyday)
+- Rooster crows, sun rises — rooster caused sunrise?
+- The mascot arrived, then team won
+- I wore this shirt and we won
+
+How it works
+Temporal sequence doesn't equal causation. Coincidence is different from cause.
+
+So:
+- Correlation ≠ causation
+- Time sequence is weak evidence
+- Control groups reveal true causation
+
+Key concept inside it
+Causation:
+Requires more than correlation — requires mechanism and control.
+
+Why it matters
+Explains why:
+- Medical treatments fail without controls
+- Policy based on false causes
+- Superstitions persist
+
+One-line version
+False Cause = Misidentifying the cause of an effect.`,
   },
   854: {
     beginner: `Appeal to Novelty = Assuming new is better.`,
