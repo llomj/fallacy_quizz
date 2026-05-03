@@ -31222,68 +31222,195 @@ Here, **The Horn Effect** is the right name because generalizing from one negati
 **Topic (bank)**  
 Memory & Perception Effects`,
   },
-  801: {
-    beginner: `## The Horn Effect — in-depth (Beginner)
+801: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
 
-**What this is, in plain English**  
-Generalizing from one negative trait to all.
+Description:
+When selection bias explains the data you have.
 
-**The example you’re looking at**  
-« Trait generalization negative. »  
+Example (question)
+« Sample selection. »
+You only have data on survivors — so you assume what you have is representative.
 
-**Why this is The Horn Effect**  
-Generalizing from one negative trait to all. That is what this label is pointing to in the passage above.
+Example (everyday)
+Only successful firms respond to business surveys — so "success" looks common.
 
-**Takeaway**  
-Generalizing from one negative trait to all.`,
-    intermediate: `## The Horn Effect — in-depth (Intermediate)
+How it works
+The argument ignores that the sample isn't random.
 
-**What this is, in plain English**  
-Generalizing from one negative trait to all.
+So:
+- Selection is before the study
+- Data only has survivors
+- Statistics are incomplete
 
-**This example**  
-« Trait generalization negative. »  
+Key concept inside it
+Self-selection:
+People choose to be in studies, creating bias.
 
-The passage shows **The Horn Effect** in action: generalizing from one negative trait to all.
+Why it matters
+Explains why:
+- Survey non-response creates bias
+- Self-selected samples differ
+- Data is never random in practice
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: generalizing from one negative trait to all.
+The uncomfortable implication
+Your data is biased from the start — before analysis.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if generalizing from one negative trait to all.
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  802: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
 
-- **Example 3:** In a health or habits story, watch for this pattern: Generalizing from one negative trait to all.
+Description:
+When your data has a built-in filter you forgot.
 
-**In one sentence**  
-The Horn Effect is the label for reasoning that fits: Generalizing from one negative trait to all.`,
-    expert: `## The Horn Effect — in-depth (Expert)
+Example (question)
+« Filtered data. »
+Your "research" only has people who showed up to be measured.
 
-**Definition**  
-Generalizing from one negative trait to all.
+Example (everyday)
+Test scores only include those who took the test — others are missing.
 
-**Applied to this passage**  
-« Trait generalization negative. »  
+How it works
+The argument treats collected data as complete.
 
-Here, **The Horn Effect** is the right name because generalizing from one negative trait to all.
+So:
+- The starting pool is filtered
+- Those filtered out are ignored
+- Results don't generalize
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine school grades or test scores. The slip is the same: generalizing from one negative trait to all.
+Key concept inside it
+Selection into study:
+Those who joined the study are not the full population.
 
-- **Example 2:** Picture a news headline or social post. People often reason as if generalizing from one negative trait to all.
+Why it matters
+Explains why:
+- Clinical trial results don't match real-world use
+- Exit polls have issues
+- Missing data creates bias
 
-- **Example 3:** In a health or habits story, watch for this pattern: Generalizing from one negative trait to all.
+The uncomfortable implication
+What you analyze is not what you think you're analyzing.
 
-- **Example 4:** Another everyday spot: school grades or test scores. Generalizing from one negative trait to all.
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  803: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
 
-- **Example 5:** **Setting:** a news headline or social post. **What goes wrong:** Generalizing from one negative trait to all.
+Description:
+When you select "clean" data and lose outliers.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**The Horn Effect** means Generalizing from one negative trait to all.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
+Example (question)
+« Outlier removal. »
+You remove outliers without justification — but outliers are often real data.
 
-**Topic (bank)**  
-Memory & Perception Effects`,
+Example (everyday)
+Removing "extreme" responses gets you cleaner data but changes the answer.
+
+How it works
+The argument sanitizes data to get desired results.
+
+So:
+- Outliers are often information
+- Removal changes conclusions
+- "Cleaning" = manipulation
+
+Key concept inside it
+Cherry-picking data:
+Removing data points to change results.
+
+Why it matters
+Explains why:
+- Data can be "massaged"
+- Same raw data, different conclusions
+- Outliers matter
+
+The uncomfortable implication
+What looks like robust analysis might be manipulated.
+
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  804: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
+
+Description:
+When you ignore everything you didn't observe.
+
+Example (question)
+« Unseen alternatives. »
+The strategy worked here — but not all places it wasn't tried.
+
+Example (everyday)
+That quit worked for them — ignoring the thousand times it failed.
+
+How it works
+The argument doesn't count what it doesn't see.
+
+So:
+- Successful case is visible
+- Failed attempts are invisible  
+- Counting is incomplete
+
+Key concept inside it
+Unseen cases:
+Evidence of absence requires imagination.
+
+Why it matters
+Explains why:
+- Single cases prove nothing
+- Confirmation ignores failures
+- Need to imagine counterfactuals
+
+The uncomfortable implication
+What works here might not work there — you won't know until you try.
+
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  805: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
+
+Description:
+When "successful" isn't the only relevant outcome.
+
+Example (question)
+« Single metric bias. »
+Optimizing for one metric misses other effects.
+
+Example (everyday)
+A diet "worked" — but other health markers got worse.
+
+How it works
+The argument focuses on one success metric.
+
+So:
+- Success is defined narrowly
+- Other outcomes are ignored
+- The full picture is incomplete
+
+Key concept inside it
+Metric selection:
+Choosing what to measure determines conclusions.
+
+Why it matters
+Explains why:
+- Single metrics miss trade-offs
+- Success requires many dimensions
+- What matters isn't measured
+
+The uncomfortable implication
+Single-minded optimization causes hidden failures that aren't counted.
+
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
   },
   802: {
     beginner: `## The Placebo Effect — in-depth (Beginner)

@@ -118,7 +118,7 @@
 
 **Apr 2026 style pass:** Level **10** IDs **811–827** were rewritten in the plain numbered lesson format (EN + FR) to match the easier-to-scan style used in Level 0.
 
-**Completed IDs (Levels 2–10) — NEW FORMAT:** **745 / 810** (Batches 1–21: 91–710 complete; **EN 711–790 done** in this pass; 110 more IDs needed for EN 791-900)
+**Completed IDs (Levels 2–10) — NEW FORMAT:** **755 / 810** (Batches 1–21: 91–710 complete; **EN 711–800 done** in this pass; 100 more IDs needed for EN 801-900)
 
 ---
 
