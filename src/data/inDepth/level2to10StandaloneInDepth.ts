@@ -30338,68 +30338,195 @@ Here, **The Fallacy Fallacy** is the right name because assuming an argument is 
 **Topic (bank)**  
 Logical Fallacies`,
   },
-  791: {
-    beginner: `## The Fallacy Fallacy — in-depth (Beginner)
+791: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
 
-**What this is, in plain English**  
-Assuming an argument is wrong because it contains a fallacy.
+Description:
+Looking only at successes and ignoring failures. The evidence you see is biased.
 
-**The example you’re looking at**  
-« Fallacy invalidates truth. »  
+Example (question)
+« Only winners visible. »
+You only hear about the successful startups — failures never get told.
 
-**Why this is The Fallacy Fallacy**  
-Assuming an argument is wrong because it contains a fallacy. That is what this label is pointing to in the passage above.
+Example (everyday)
+"I followed the same recipe and failed" — but thousands succeeded quietly.
 
-**Takeaway**  
-Assuming an argument is wrong because it contains a fallacy.`,
-    intermediate: `## The Fallacy Fallacy — in-depth (Intermediate)
+How it works
+The argument uses incomplete evidence. Successes are visible, failures are not.
 
-**What this is, in plain English**  
-Assuming an argument is wrong because it contains a fallacy.
+So:
+- Winners write books
+- Losers disappear
+- The full picture isn't shown
 
-**This example**  
-« Fallacy invalidates truth. »  
+Key concept inside it
+Selection bias:
+Your sample is not representative of all cases.
 
-The passage shows **The Fallacy Fallacy** in action: assuming an argument is wrong because it contains a fallacy.
+Why it matters
+Explains why:
+- Success stories are told, failures aren't
+- Business books are written by winners
+- "Secrets to success" are incomplete
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: assuming an argument is wrong because it contains a fallacy.
+The uncomfortable implication
+Following successful people's advice might not work — you don't see their failures.
 
-- **Example 2:** Picture a health or habits story. People often reason as if assuming an argument is wrong because it contains a fallacy.
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  792: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
 
-- **Example 3:** In school grades or test scores, watch for this pattern: Assuming an argument is wrong because it contains a fallacy.
+Description:
+When the sample only includes successes.
 
-**In one sentence**  
-The Fallacy Fallacy is the label for reasoning that fits: Assuming an argument is wrong because it contains a fallacy.`,
-    expert: `## The Fallacy Fallacy — in-depth (Expert)
+Example (question)
+« Successful entrepreneurs. »
+Those who made it are studied — millions who failed are ignored.
 
-**Definition**  
-Assuming an argument is wrong because it contains a fallacy.
+Example (everyday)
+"See, college pays off!" — but you only check college grads who succeeded.
 
-**Applied to this passage**  
-« Fallacy invalidates truth. »  
+How it works
+The argument mistakes survivors for the population.
 
-Here, **The Fallacy Fallacy** is the right name because assuming an argument is wrong because it contains a fallacy.
+So:
+- Failed cases aren't tracked
+- Success rates are inflated
+- Original pool is forgotten
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: assuming an argument is wrong because it contains a fallacy.
+Key concept inside it
+Sample selection:
+Who you study isn't random.
 
-- **Example 2:** Picture a health or habits story. People often reason as if assuming an argument is wrong because it contains a fallacy.
+Why it matters
+Explains why:
+- Success advice is often survivorship bias
+- "How I did it" books leave out factors
+- Failed attempts aren't visible
 
-- **Example 3:** In school grades or test scores, watch for this pattern: Assuming an argument is wrong because it contains a fallacy.
+The uncomfortable implication
+Success might be luck, not skill — you can't tell which.
 
-- **Example 4:** Another everyday spot: a news headline or social post. Assuming an argument is wrong because it contains a fallacy.
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  793: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
 
-- **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Assuming an argument is wrong because it contains a fallacy.
+Description:
+When failures are filtered out before analysis.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**The Fallacy Fallacy** means Assuming an argument is wrong because it contains a fallacy.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
+Example (question)
+« Filtering out losses. »
+You only analyze companies that "made it" — ignoring those that failed along the way.
 
-**Topic (bank)**  
-Logical Fallacies`,
+Example (everyday)
+The "best schools" are measured only by their successful graduates.
+
+How it works
+The argument excludes failures from the start.
+
+So:
+- Failed entries are removed
+- Success rate looks higher
+- Selection affects statistics
+
+Key concept inside it
+Selection effects:
+What you include changes your conclusions.
+
+Why it matters
+Explains why:
+- Rankings are often survivor bias
+- "Best" means "succeeded" not "likely to succeed"
+- Initial selection matters
+
+The comfortable implication
+The story is told by winners — losers have no voice.
+
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  794: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
+
+Description:
+When failed attempts are un counted.
+
+Example (question)
+« Hidden failures. »
+The same approach that "worked" also failed many times — but failures aren't counted.
+
+Example (everyday)
+A product worked for some, failed for more — but only successes are reported.
+
+How it works
+The argument ignores quantity of failures.
+
+So:
+- Success is visible
+- Failures are hidden
+- Ratio is unknown
+
+Key concept inside it
+Base rate neglect:
+Ignoring how many tried and failed.
+
+Why it matters
+Explains why:
+- "It worked for them!" ignores failure rates
+- Success stories overemphasize winners
+- The full data is incomplete
+
+The uncomfortable implication
+A small success rate can look great with survivor bias.
+
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  795: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
+
+Description:
+When evidence exists only because of survival.
+
+Example (question)
+« Evidence requires survival. »
+The old building is still standing — so it must have been well-built. (Maybe it was just lucky.)
+
+Example (everyday)
+Old companies must be good — they survived! But survival doesn't equal quality.
+
+How it works
+The argument treats survival as proof of quality.
+
+So:
+- Surviving means lucky, not better
+- Selection happens after the fact
+- Quality and survival get confused
+
+Key concept inside it
+Survival trick:
+Those that exist are not random — they've passed a filter.
+
+Why it matters
+Explains why:
+- Oldest institutions aren't necessarily best
+- Survival is a filter, not a test
+- "Still here" proves nothing
+
+The uncomfortable implication
+Many good things didn't survive — you'll never know about them.
+
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
   },
   792: {
     beginner: `## The Fallacy Fallacy — in-depth (Beginner)
