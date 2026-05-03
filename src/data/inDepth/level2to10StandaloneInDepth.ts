@@ -30124,80 +30124,115 @@ One-line version
 Appeal to Novelty = Assuming new is better.`,
   },
   856: {
-    beginner: `Appeal to Tradition = Assuming old is better.`,
+    beginner: `Appeal to Tradition = Believing old ways are inherently better.`,
     detail: `Appeal to Tradition
 
 Description:
-Assuming old is better.
-
-Appeal to Tradition = Assuming old is better
+Arguing something is right because it's the traditional way — or that old equals better.
 
 Example (question)
 « We've always done it this way. »
+"We've always" as proof — tradition becomes truth.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- Traditional gender roles
+- Old customs must be respected
+- Family business arguments
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Tradition doesn't equal correctness. Old ways persisted from preferences, not merit.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Old doesn't mean better
+- Traditions are historical choices
+- Some traditions are harmful
 
 Key concept inside it
-Appeal to Tradition:
-Assuming old is better.
+Appeal to Antiquity:
+Assuming old = better.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Bad policies persist
+- Social norms hard to change
+- "We've always done it" blocks progress
 
 One-line version
-Appeal to Tradition = Assuming old is better.`,
+Appeal to Tradition = Believing old ways are inherently better.`,
   },
-  857: {
-    beginner: `Appeal to Tradition = Assuming old is better.`,
+857: {
+    beginner: `Appeal to Tradition = Believing old ways are inherently better.`,
     detail: `Appeal to Tradition
 
 Description:
-Assuming old is better.
-
-Appeal to Tradition = Assuming old is better
+Arguing something is right because it's the traditional way — or that old equals better.
 
 Example (question)
 « Traditional values. »
+When traditional equals right automatically.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "Traditional marriage"
+- Traditional roles
+- Traditional schooling
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Tradition doesn't equal correctness. Old ways persisted from preferences, not merit.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Old doesn't mean better
+- Traditions are historical choices
+- Some traditions are harmful
 
 Key concept inside it
-Appeal to Tradition:
-Assuming old is better.
+Appeal to Antiquity:
+Assuming old = better.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Bad policies persist
+- Social norms hard to change
+- "We've always done it" blocks progress
 
 One-line version
-Appeal to Tradition = Assuming old is better.`,
+Appeal to Tradition = Believing old ways are inherently better.`,
+  },
+  858: {
+    beginner: `False Authority = Trusting an authority who has no expertise.`,
+    detail: `False Authority
+
+Description:
+Appealing to authority on matters outside their expertise — celebrity endorsements, spokespersons.
+
+Example (question)
+« Celebrity expertise. »
+When a celebrity shares health advice — authority + topic = invalid.
+
+Example (everyday)
+- Athletes endorsing nutrition
+- Actors talking politics
+- Famous people on science
+
+How it works
+Authority transfers from one area doesn't apply to other areas. Expertise is specific.
+
+So:
+- Expert in one field isn't in another
+- Celebrity ≠ authority on all topics
+- Expertise must match the question
+
+Key concept inside it
+Expertise Domain:
+Authority is domain-specific.
+
+Why it matters
+Explains why:
+- Misinformation spreads from celebrities
+- Products get endorsed by unqualified people
+- Bad policy from celebrity advice
+
+One-line version
+False Authority = Trusting an authority who has no expertise.`,
   },
   858: {
     beginner: `Appeal to Tradition = Assuming old is better.`,
@@ -30237,43 +30272,116 @@ Explains why:
 One-line version
 Appeal to Tradition = Assuming old is better.`,
   },
-  859: {
-    beginner: `Argument from Authority = Citing authority without expertise check.`,
-    detail: `Argument from Authority
+859: {
+    beginner: `False Authority = Trusting an authority who has no expertise on the topic.`,
+    detail: `False Authority
 
 Description:
-Citing authority without expertise check.
-
-Argument from Authority = Citing authority without expertise check
+Appealing to authority on matters outside their expertise — celebrity endorsements, spokespersons without qualifications.
 
 Example (question)
 « Expert said so. »
+When authority is cited without checking expertise domain.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "Doctor" on TV endorsing non-medical products
+- Lawyer on talk shows
+- Professional athletes discussing health
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Authority transfers from one area doesn't apply to other areas. Expertise is specific.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Expert in one field isn't in another
+- Celebrity ≠ authority on all topics
+- Expertise must match the question
 
 Key concept inside it
-Argument from Authority:
-Citing authority without expertise check.
+Expertise Domain:
+Authority is domain-specific.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Misinformation spreads from celebrities
+- Products get endorsed by unqualified people
+- Bad policy from celebrity advice
 
 One-line version
-Argument from Authority = Citing authority without expertise check.`,
+False Authority = Trusting an authority who has no expertise on the topic.`,
+  },
+  860: {
+    beginner: `False Authority = Trusting an authority who has no expertise on the topic.`,
+    detail: `False Authority
+
+Description:
+Appealing to authority on matters outside their expertise — celebrity endorsements, spokespersons without qualifications.
+
+Example (question)
+« Authority without authority. »
+When someone is treated as expert without credentials.
+
+Example (everyday)
+- Celebrity doctors
+- Famous person on news
+- Social media influencers
+
+How it works
+Authority transfers from one area doesn't apply to other areas. Expertise is specific.
+
+So:
+- Expert in one field isn't in another
+- Celebrity ≠ authority on all topics
+- Expertise must match the question
+
+Key concept inside it
+Expertise Domain:
+Authority is domain-specific.
+
+Why it matters
+Explains why:
+- Misinformation spreads from celebrities
+- Products get endorsed by unqualified people
+- Bad policy from celebrity advice
+
+One-line version
+False Authority = Trusting an authority who has no expertise on the topic.`,
+  },
+  861: {
+    beginner: `Self-Serving Bias = Interpreting evidence to favor yourself.`,
+    detail: `Self-Serving Bias
+
+Description:
+Interpreting facts to make yourself look good — attributing successes to self, failures to external factors.
+
+Example (question)
+« Credit taking, blame shifting. »
+When good outcomes are "my achievement" and bad are "not my fault."
+
+Example (everyday)
+- Blaming weather for lost sales
+- Taking credit for team work
+- Good memory, bad memory blamed on external factors
+
+How it works
+We have a self-enhancing motive — protecting self-image overrides objective interpretation.
+
+So:
+- Success blamed on internal factors
+- Failure attributed to external factors
+- We see ourselves more positively
+
+Key concept inside it
+Self-Enhancement:
+Motivating processing that favors the self.
+
+Why it matters
+Explains why:
+- Performance reviews are biased
+- Investors think they're above average
+- Everyone thinks they're above-average drivers
+
+One-line version
+Self-Serving Bias = Interpreting evidence to favor yourself.`,
   },
   860: {
     beginner: `Argument from Authority = Citing authority without expertise check.`,
