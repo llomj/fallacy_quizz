@@ -28127,68 +28127,195 @@ Here, **Retrospective Determinism** is the right name because believing that eve
 **Topic (bank)**  
 Cognitive Biases`,
   },
-  766: {
-    beginner: `## Selective Attention — in-depth (Beginner)
+766: {
+    beginner: `Selective Attention = Focusing only on certain information.`,
+    detail: `Selective Attention
 
-**What this is, in plain English**  
-Focusing only on certain information.
+Description:
+Focusing only on certain information while ignoring equally relevant data.
 
-**The example you’re looking at**  
-« Ignoring inconvenient facts. »  
+Example (question)
+« Ignoring inconvenient facts. »
+Notice the answer that fits your belief, miss the evidence against it.
 
-**Why this is Selective Attention**  
-Focusing only on certain information. That is what this label is pointing to in the passage above.
+Example (everyday)
+Only remembering the times you warned someone who ignored advice. Forgetting all the times you were wrong.
 
-**Takeaway**  
-Focusing only on certain information.`,
-    intermediate: `## Selective Attention — in-depth (Intermediate)
+How it works
+The argument selects evidence that confirms while filtering out evidence that disconfirms.
 
-**What this is, in plain English**  
-Focusing only on certain information.
+So:
+- What fits the narrative is remembered
+- What conflicts is ignored
+- This creates false certainty
 
-**This example**  
-« Ignoring inconvenient facts. »  
+Key concept inside it
+Confirmation bias:
+The tendency to seek information that confirms existing beliefs.
 
-The passage shows **Selective Attention** in action: focusing only on certain information.
+Why it matters
+Explains why:
+- Investors see "signals" everywhere
+- Conspiracy theories find "evidence" everywhere
+- Medical patients find cures that "work"
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: focusing only on certain information.
+The uncomfortable implication
+We see what we're looking for — and miss what we're not.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if focusing only on certain information.
+One-line version
+Selective Attention = Focusing only on certain information.`,
+  },
+  767: {
+    beginner: `Selective Attention = Focusing only on certain information.`,
+    detail: `Selective Attention
 
-- **Example 3:** In sports or business results, watch for this pattern: Focusing only on certain information.
+Description:
+Noticing only what fits and missing what doesn't. Your perception is filtered.
 
-**In one sentence**  
-Selective Attention is the label for reasoning that fits: Focusing only on certain information.`,
-    expert: `## Selective Attention — in-depth (Expert)
+Example (question)
+« Biased perception. »
+You're focused on one aspect, so everything looks like confirmation of that focus.
 
-**Definition**  
-Focusing only on certain information.
+Example (everyday)
+After buying a new car, suddenly you "see" that car model everywhere. You didn't notice before because you weren't focused on it.
 
-**Applied to this passage**  
-« Ignoring inconvenient facts. »  
+How it works
+The argument ignores base rates and selection effects.
 
-Here, **Selective Attention** is the right name because focusing only on certain information.
+So:
+- What you're attending to becomes all you see
+- Frequency increases in perception, not in reality
+- Other possibilities drop from awareness
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: focusing only on certain information.
+Key concept inside it
+Attentional bias:
+The filter of attention changes what you perceive.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if focusing only on certain information.
+Why it matters
+Explains why:
+- Confirmation bias is everywhere
+- "I knew it!" after the fact
+- Creates illusion of predictive skill
 
-- **Example 3:** In sports or business results, watch for this pattern: Focusing only on certain information.
+The uncomfortable implication
+Your attention is filtered — you're not seeing reality, you're seeing your focus.
 
-- **Example 4:** Another everyday spot: a family argument. Focusing only on certain information.
+One-line version
+Selective Attention = Focusing only on certain information.`,
+  },
+  768: {
+    beginner: `Selective Attention = Focusing only on certain information.`,
+    detail: `Selective Attention
 
-- **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Focusing only on certain information.
+Description:
+When focus on one thing blinds you to everything else.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Selective Attention** means Focusing only on certain information.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
+Example (question)
+« Selective focus. »
+You're only seeing what's directly in front of you, missing the broader context.
 
-**Topic (bank)**  
-Memory & Perception Effects`,
+Example (everyday)
+Looking at your phone while driving — your perceptual field narrows to the screen.
+
+How it works
+The argument zooms in while ignoring context.
+
+So:
+- Narrow attention excludes relevant info
+- Details are missed
+- Overall picture is lost
+
+Key concept inside it
+Tunnel vision:
+Narrow focus that excludes relevant peripheral information.
+
+Why it matters
+Explains why:
+- Experts miss obvious solutions
+- Specialists see only their domain
+- Context gets lost in detail
+
+The uncomfortable implication
+Your expertise might be making you blind.
+
+One-line version
+Selective Attention = Focusing only on certain information.`,
+  },
+  769: {
+    beginner: `Self-Fulfilling Prophecy = A belief that causes itself to become true.`,
+    detail: `Self-Fulfilling Prophecy
+
+Description:
+A prediction that causes itself to become true through the act of being believed.
+
+Example (question)
+« Expecting failure leads to failure. »
+If you believe you'll fail, you don't try — making failure inevitable.
+
+Example (everyday)
+A run on a bank: if everyone believes the bank might fail, they all withdraw — causing it to fail.
+
+How it works
+The belief changes behavior in a way that makes the belief true.
+
+So:
+- The prediction alters actions
+- Those actions cause the outcome predicted
+- Without the belief, the outcome wouldn't have happened
+
+Key concept inside it
+Reflexivity:
+When beliefs about a system change the system itself.
+
+Why it matters
+Explains why:
+- Market expectations affect markets
+- Political expectations affect politics
+- Self-fulfilling prophecies are everywhere
+
+The uncomfortable implication
+If you believe the system will collapse, you might cause it.
+
+One-line version
+Self-Fulfilling Prophecy = A belief that causes itself to become true.`,
+  },
+  770: {
+    beginner: `Self-Fulfilling Prophecy = A belief that causes itself to become true.`,
+    detail: `Self-Fulfilling Prophecy
+
+Description:
+When your belief creates the reality you believe in.
+
+Example (question)
+« Beliefs create reality. »
+If you believe "this will work," you act in ways that make it work.
+
+Example (everyday)
+Believing a relationship will fail leads to behaviors that cause failure.
+
+How it works
+The argument mistakes correlation for causation, or creates causation where none existed.
+
+So:
+- Belief influences behavior
+- Behavior influences outcomes
+- Outcome matches belief
+
+Key concept inside it
+Behavioral confirmation:
+Acting in ways that cause others to react as predicted.
+
+Why it matters
+Explains why:
+- Positive thinking can help
+- Negative thinking can harm
+- Expectations shape reality
+
+The uncomfortable implication
+You might be creating what you fear.
+
+One-line version
+Self-Fulfilling Prophecy = A belief that causes itself to become true.`,
   },
   767: {
     beginner: `## Selective Attention — in-depth (Beginner)
