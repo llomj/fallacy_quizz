@@ -29012,68 +29012,195 @@ Here, **Status Quo Bias** is the right name because preferring things to stay th
 **Topic (bank)**  
 Cognitive Biases`,
   },
-  776: {
-    beginner: `## Status Quo Bias — in-depth (Beginner)
+776: {
+    beginner: `Status Quo Bias = Preferring things to stay the same.`,
+    detail: `Status Quo Bias
 
-**What this is, in plain English**  
-Preferring things to stay the same.
+Description:
+When the default option has built-in advantage.
 
-**The example you’re looking at**  
-« Sticking with familiar. »  
+Example (question)
+« Default preference. »
+Keeping the preselected option because it's already chosen for you.
 
-**Why this is Status Quo Bias**  
-Preferring things to stay the same. That is what this label is pointing to in the passage above.
+Example (everyday)
+Keeping all the default settings on a new phone because changing them feels like "work."
 
-**Takeaway**  
-Preferring things to stay the same.`,
-    intermediate: `## Status Quo Bias — in-depth (Intermediate)
+How it works
+The argument gives the current state extra weight.
 
-**What this is, in plain English**  
-Preferring things to stay the same.
+So:
+- Current state is frictionless
+- Changing requires action
+- Inaction becomes the path of least resistance
 
-**This example**  
-« Sticking with familiar. »  
+Key concept inside it
+Default bias:
+The tendency to accept preset options without consideration.
 
-The passage shows **Status Quo Bias** in action: preferring things to stay the same.
+Why it matters
+Explains why:
+- "Default" retirement savings stay low
+- Organ donor rates differ by default
+- Privacy settings stay open
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: preferring things to stay the same.
+The uncomfortable implication
+Your "choices" might just be defaults you never questioned.
 
-- **Example 2:** Picture a family argument. People often reason as if preferring things to stay the same.
+One-line version
+Status Quo Bias = Preferring things to stay the same.`,
+  },
+  777: {
+    beginner: `Status Quo Bias = Preferring things to stay the same.`,
+    detail: `Status Quo Bias
 
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Preferring things to stay the same.
+Description:
+The comfort of the familiar beats the promise of the new.
 
-**In one sentence**  
-Status Quo Bias is the label for reasoning that fits: Preferring things to stay the same.`,
-    expert: `## Status Quo Bias — in-depth (Expert)
+Example (question)
+« Familiarity preference. »
+Choosing the known even when it's worse because it feels safer.
 
-**Definition**  
-Preferring things to stay the same.
+Example (everyday)
+Ordering the same dish you've had before rather than trying something new.
 
-**Applied to this passage**  
-« Sticking with familiar. »  
+How it works
+The argument treats the familiar as emotionally safe.
 
-Here, **Status Quo Bias** is the right name because preferring things to stay the same.
+So:
+- Familiar = emotional comfort
+- Unfamiliar = anxiety
+- Comfort wins over logic
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: preferring things to stay the same.
+Key concept inside it
+Familiarity heuristic:
+Using "I've seen this before" as a shortcut to "this is good."
 
-- **Example 2:** Picture a family argument. People often reason as if preferring things to stay the same.
+Why it matters
+Explains why:
+- People repeat past mistakes
+- New ideas are resisted
+- Comfort blocks growth
 
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Preferring things to stay the same.
+The uncomfortable implication
+Your comfort might be your cage.
 
-- **Example 4:** Another everyday spot: sports or business results. Preferring things to stay the same.
+One-line version
+Status Quo Bias = Preferring things to stay the same.`,
+  },
+  778: {
+    beginner: `Status Quo Bias = Preferring things to stay the same.`,
+    detail: `Status Quo Bias
 
-- **Example 5:** **Setting:** a family argument. **What goes wrong:** Preferring things to stay the same.
+Description:
+When change feels like loss, even when it's gain.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Status Quo Bias** means Preferring things to stay the same.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
+Example (question)
+« Change resistance. »
+The new option has advantages, but giving up the old feels like a loss.
 
-**Topic (bank)**  
-Cognitive Biases`,
+Example (everyday)
+Keeping an old phone that works fine, even though a new one is better.
+
+How it works
+The argument incorrectly frames change as loss.
+
+So:
+- Old benefits are emphasized
+- New benefits are discounted
+- Switching feels like abandoning gains
+
+Key concept inside it
+Endowment effect:
+Valuing what you have more than what you might gain.
+
+Why it matters
+Explains why:
+- People don't upgrade
+- Old habits persist
+- Better options are rejected
+
+The uncomfortable implication
+Your attachment to what you have blocks getting what you could have.
+
+One-line version
+Status Quo Bias = Preferring things to stay the same.`,
+  },
+  779: {
+    beginner: `Status Quo Bias = Preferring things to stay the same.`,
+    detail: `Status Quo Bias
+
+Description:
+The safest decision feels like no decision.
+
+Example (question)
+« Inertia. »
+Doing nothing feels like the conservative choice when it's actually a choice.
+
+Example (everyday)
+"Not investing" is actually investing 100% in cash — a choice with consequences.
+
+How it works
+The argument treats inaction as neutral when it's not.
+
+So:
+- Not deciding is a decision
+- The default state has effects
+- Inertia has costs
+
+Key concept inside it
+Action-inaction asymmetry:
+Treating action as risky and inaction as safe, when both have consequences.
+
+Why it matters
+Explains why:
+- "Do nothing" portfolios lose to market
+- Avoiding decisions is a decision
+- Nothing is never truly neutral
+
+The uncomfortable implication
+Not choosing is choosing the status quo.
+
+One-line version
+Status Quo Bias = Preferring things to stay the same.`,
+  },
+  780: {
+    beginner: `Status Quo Bias = Preferring things to stay the same.`,
+    detail: `Status Quo Bias
+
+Description:
+When doing nothing seems safest, but has the highest cost.
+
+Example (question)
+« Passive persistence. »
+Keeping things the same because changing feels like too much effort.
+
+Example (everyday)
+Never changing your password — the risk feels abstract, the effort feels concrete.
+
+How it works
+The argument makes the small effort to change loom larger than the abstract risk.
+
+So:
+- Risk is future, uncertain
+- Effort is now, concrete
+- Now beats future
+
+Key concept inside it
+Temporal discounting:
+Valuing present effort more than future risk.
+
+Why it matters
+Explains why:
+- Security risks stay unpatched
+- Health is neglected
+- Financial planning is deferred
+
+The uncomfortable implication
+You're trading future safety for present comfort.
+
+One-line version
+Status Quo Bias = Preferring things to stay the same.`,
   },
   777: {
     beginner: `## Status Quo Bias — in-depth (Beginner)
