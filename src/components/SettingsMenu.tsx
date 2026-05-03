@@ -202,28 +202,30 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               <span className="text-sm font-medium">{t('settings.back')}</span>
             </button>
             {onShowIdSearch && (
-              <div className="flex items-center gap-2 px-4 py-3" onClick={(e) => e.stopPropagation()}>
-                <i className="fas fa-hashtag text-sm w-5 flex-shrink-0 text-slate-400"></i>
-                <input
-                  type="text"
-                  inputMode="numeric"
-                  pattern="[0-9]*"
-                  value={logSearchId}
-                  onChange={(e) => setLogSearchId(e.target.value.replace(/\D/g, ''))}
-                  onKeyDown={(e) => e.key === 'Enter' && handleLogSearchById()}
-                  placeholder={formatTranslation(t('idSearch.enterId'), { max: MAX_QUESTION_ID })}
-                  min={1}
-                  max={MAX_QUESTION_ID}
-                  className="flex-1 px-3 py-2 text-sm bg-white/5 border border-white/10 rounded-lg text-white placeholder-slate-500 focus:outline-none focus:border-yellow-400"
-                />
-                <button
-                  type="button"
-                  onClick={withClickSound(handleLogSearchById)}
-                  className="p-2 rounded-lg bg-yellow-400/20 hover:bg-yellow-400/30 text-yellow-300 transition-all"
-                  title={t('idSearch.search')}
-                >
-                  <i className="fas fa-search text-xs"></i>
-                </button>
+              <div className="w-full px-4 py-3" onClick={(e) => e.stopPropagation()}>
+                <div className="flex items-center gap-2">
+                  <i className="fas fa-hashtag text-sm w-5 flex-shrink-0 text-slate-400"></i>
+                  <input
+                    type="text"
+                    inputMode="numeric"
+                    pattern="[0-9]*"
+                    value={logSearchId}
+                    onChange={(e) => setLogSearchId(e.target.value.replace(/\D/g, ''))}
+                    onKeyDown={(e) => e.key === 'Enter' && handleLogSearchById()}
+                    placeholder={formatTranslation(t('idSearch.enterId'), { max: MAX_QUESTION_ID })}
+                    min={1}
+                    max={MAX_QUESTION_ID}
+                    className="w-full px-3 py-2 text-sm bg-white/5 border border-white/10 rounded-lg text-white placeholder-slate-500 focus:outline-none focus:border-yellow-400"
+                  />
+                  <button
+                    type="button"
+                    onClick={withClickSound(handleLogSearchById)}
+                    className="p-2 rounded-lg bg-yellow-400/20 hover:bg-yellow-400/30 text-yellow-300 transition-all shrink-0"
+                    title={t('idSearch.search')}
+                  >
+                    <i className="fas fa-search text-xs"></i>
+                  </button>
+                </div>
               </div>
             )}
             {onShowIdLog && (

@@ -15,84 +15,80 @@ import type { StandaloneInDepthLevels } from './level0StandaloneInDepth';
 /** English */
 export const LEVELS_2_TO_10_STANDALONE_EN: Partial<Record<number, StandaloneInDepthLevels>> = {
   91: {
-    beginner: `Guilt by Association = Judging a person or idea by the company it keeps.`,
+    beginner: `Guilt by Association = Judging by the company someone keeps.`,
     detail: `Guilt by Association
 
 Description:
-Judging a person or idea by the company it keeps.
-A person's contacts do not prove the claim is true or false.
+Judging a person or idea by the company it keeps. Who someone associates with doesn't prove their argument.
 
 Example (question)
 « He hangs out with criminals, so he must be a criminal. »
-This is the exact kind of move the question is testing.
+Just because someone knows criminals doesn't make them one. The friend's behavior is not evidence.
 
 Example (everyday)
-The argument treats who someone is linked to as if it decided the truth of the claim.
-The same logic shows up even when the surface story changes.
+"She's friends with liberals, so her ideas are wrong." Political affiliation says nothing about whether her arguments are valid.
 
 How it works
-The argument uses the surface clue as if it were enough to settle the claim.
+The argument attacks the person's associations instead of their actual reasoning.
 
 So:
-- It is easy to mistake social ties for evidence.
-- A disliked friend or group does not settle the issue.
-- The message still has to be checked on its own.
+- Social links become "evidence"
+- The actual argument is ignored
+- Guilt by association sounds logical but isn't
 
 Key concept inside it
-Association:
-Being linked to a group or person. That link by itself does not prove guilt or error.
+Association fallacy:
+Inferring something about an argument from the people who hold it.
 
 Why it matters
 Explains why:
-- It is easy to mistake social ties for evidence.
-- A disliked friend or group does not settle the issue.
-- The message still has to be checked on its own.
+- Ad hominem attacks use this
+- Character assassination works
+- Ideas get dismissed based on their supporters
 
 The uncomfortable implication
-You end up judging the messenger instead of the message.
+You might dismiss good ideas because you don't like who supports them.
 
 One-line version
-Guilt by Association = Judging a person or idea by the company it keeps.`,
+Guilt by Association = Judging by the company someone keeps.`,
   },
   92: {
-    beginner: `Guilt by Association = Judging a person or idea by the company it keeps.`,
+    beginner: `Guilt by Association = Judging by the company someone keeps.`,
     detail: `Guilt by Association
 
 Description:
-Judging a person or idea by the company it keeps.
-A person's contacts do not prove the claim is true or false.
+Judging an idea wrong because of who else believes it.
 
 Example (question)
 « She's friends with liberals, so her ideas are wrong. »
-This is the exact kind of move the question is testing.
+The person's friendship is used as evidence against her arguments.
 
 Example (everyday)
-The argument treats who someone is linked to as if it decided the truth of the claim.
-The same logic shows up even when the surface story changes.
+"He hangs out with that crowd, so he must think like them." Assumed guilt by association.
 
 How it works
-The argument uses the surface clue as if it were enough to settle the claim.
+The argument substitutes social connection for evidence.
 
 So:
-- It is easy to mistake social ties for evidence.
-- A disliked friend or group does not settle the issue.
-- The message still has to be checked on its own.
+- Who you know becomes what you think
+- Actual arguments are never addressed
+- Guilt transfers by proximity
 
 Key concept inside it
-Association:
-Being linked to a group or person. That link by itself does not prove guilt or error.
+Transferable guilt:
+Assuming beliefs transfer through social contact.
 
 Why it matters
 Explains why:
-- It is easy to mistake social ties for evidence.
-- A disliked friend or group does not settle the issue.
-- The message still has to be checked on its own.
+- Guilt by association is common in politics
+- It shortcuts real debate
+- Good ideas get rejected due to bad company
 
 The uncomfortable implication
-You end up judging the messenger instead of the message.
+You might be rejecting valid arguments because of who else holds them.
 
 One-line version
-Guilt by Association = Judging a person or idea by the company it keeps.`,
+Guilt by Association = Judging by the company someone keeps.`,
   },
   93: {
     beginner: `Guilt by Association = Judging a person or idea by the company it keeps.`,
