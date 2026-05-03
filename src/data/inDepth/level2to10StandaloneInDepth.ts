@@ -31664,68 +31664,195 @@ Here, **The Regression Fallacy** is the right name because attributing improveme
 **Topic (bank)**  
 Cognitive Biases`,
   },
-  806: {
-    beginner: `## The Regression Fallacy — in-depth (Beginner)
+806: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
 
-**What this is, in plain English**  
-Attributing improvement to action when it's natural variation.
+Description:
+When success definition is circular.
 
-**The example you’re looking at**  
-« Misattributing to intervention. »  
+Example (question)
+« Success defined by survival. »
+Those who survived are defined as "successful" — but survival itself isn't evidence.
 
-**Why this is The Regression Fallacy**  
-Attributing improvement to action when it's natural variation. That is what this label is pointing to in the passage above.
+Example (everyday)
+"Successful" companies are those still operating — ignoring that failure rates vary.
 
-**Takeaway**  
-Attributing improvement to action when it's natural variation.`,
-    intermediate: `## The Regression Fallacy — in-depth (Intermediate)
+How it works
+The argument defines success by outcome.
 
-**What this is, in plain English**  
-Attributing improvement to action when it's natural variation.
+So:
+- Survival = success
+- But many successful things die
+- Many failed things survived
 
-**This example**  
-« Misattributing to intervention. »  
+Key concept inside it
+Circular definition:
+Using outcome to define the category.
 
-The passage shows **The Regression Fallacy** in action: attributing improvement to action when it's natural variation.
+Why it matters
+Explains why:
+- Rankings are often after-the-fact
+- "Survivors" aren't necessarily better
+- Selection criteria are hidden
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: attributing improvement to action when it's natural variation.
+The uncomfortable implication
+Whatever survives gets defined as successful — it's circular.
 
-- **Example 2:** Picture a family argument. People often reason as if attributing improvement to action when it's natural variation.
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  807: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
 
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Attributing improvement to action when it's natural variation.
+Description:
+When you look at survivors across different selection criteria.
 
-**In one sentence**  
-The Regression Fallacy is the label for reasoning that fits: Attributing improvement to action when it's natural variation.`,
-    expert: `## The Regression Fallacy — in-depth (Expert)
+Example (question)
+« Cross-survivor. »
+Companies that survived different eras might not survive this one.
 
-**Definition**  
-Attributing improvement to action when it's natural variation.
+Example (everyday)
+A company that survived the 70s, 80s, 90s, and 2000s — might not survive today.
 
-**Applied to this passage**  
-« Misattributing to intervention. »  
+How it works
+The argument generalizes across different filters.
 
-Here, **The Regression Fallacy** is the right name because attributing improvement to action when it's natural variation.
+So:
+- Each era had different winners
+- What survived then dies now
+- Future is not past
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine sports or business results. The slip is the same: attributing improvement to action when it's natural variation.
+Key concept inside it
+Time-varying selection:
+What survives changes over time.
 
-- **Example 2:** Picture a family argument. People often reason as if attributing improvement to action when it's natural variation.
+Why it matters
+Explains why:
+- Historical success doesn't guarantee future
+- Different eras have different survivors
+- "Survived so far" is limited evidence
 
-- **Example 3:** In a policy or workplace discussion, watch for this pattern: Attributing improvement to action when it's natural variation.
+The uncomfortable implication
+Past survivors won't necessarily survive the next era.
 
-- **Example 4:** Another everyday spot: sports or business results. Attributing improvement to action when it's natural variation.
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  808: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
 
-- **Example 5:** **Setting:** a family argument. **What goes wrong:** Attributing improvement to action when it's natural variation.
+Description:
+When you miss that many successful outcomes are invisible.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**The Regression Fallacy** means Attributing improvement to action when it's natural variation.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
+Example (question)
+« Invisible successes. »
+Failed attempts that could have worked but didn't are invisible.
 
-**Topic (bank)**  
-Cognitive Biases`,
+Example (everyday)
+Someone started a similar business and failed — but their failure isn't counted.
+
+How it works
+The argument only sees confirmed outcomes.
+
+So:
+- Failures are undocumented
+- No comparison data
+- Confidence is inflated
+
+Key concept inside it
+Unseen failures:
+Many attempts never get recorded.
+
+Why it matters
+Explains why:
+- Your "great idea" might have failed hundreds of times
+- Success rates are inflated by invisible failures
+- The baseline is unknown
+
+The uncomfortable implication
+Many good ideas died in silence — you'll never know.
+
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  809: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
+
+Description:
+When environment matters but isn't counted.
+
+Example (question)
+« Survival environment. »
+Successful in this environment — but would succeed elsewhere?
+
+Example (everyday)
+A plant survived in your garden — but would it survive in the wild?
+
+How it works
+The argument ignores environment specificity.
+
+So:
+- Local success ≠ universal success
+- Context matters
+- Generalization is risky
+
+Key concept inside it
+Selection environment:
+Where you survive shapes what you are.
+
+Why it matters
+Explains why:
+- What works in one org fails in another
+- Context transfers are risky
+- Local success isn't universal truth
+
+The uncomfortable implication
+Success is always local — there's no universal answer.
+
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  810: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
+
+Description:
+When you ignore what selection criteria are.
+
+Example (question)
+« Filter forgotten. »
+You study survivors but forgot what got filtered out.
+
+Example (everyday)
+The "best performers" in your data — forgetting they were selected for performance.
+
+How it works
+The argument forgets the filter that created sample.
+
+So:
+- Sample has built-in bias
+- The filter is the key insight
+- Without it, analysis is wrong
+
+Key concept inside it
+Filter amnesia:
+Forgetting the selection process.
+
+Why it matters
+Explains why:
+- Start with selection criteria
+- They're always important
+- Without knowing filter, you can't analyze
+
+The uncomfortable implication
+What got selected tells you everything — forgetting it ruins analysis.
+
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
   },
   807: {
     beginner: `## The Regression Fallacy — in-depth (Beginner)
