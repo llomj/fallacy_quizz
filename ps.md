@@ -345,3 +345,25 @@ The workflow (`.github/workflows/deploy.yml`) must match the **last successful r
    - command example relevance
    - consistency between Beginner/Intermediate/Expert depth.
 2. Tune per-topic templates if needed (networking/security/containers levels) to reduce generic examples.
+
+---
+
+## CRITICAL: Codon panel != ID Log explanation — they should be identical
+
+**Issue:** The codon explanation in the Quiz view (when you tap to see the detailed explanation) shows **different** text than what's shown in the ID Log view for the same question ID.
+
+**Example (ID 379):**
+- ID Log shows: Generic template "This is the exact kind of move the question is testing"
+- Codon panel shows: (different, possibly the codon Fallback definition)
+
+**Expected:** Both views should display **identical** text for the same question ID and depth selection.
+
+**Root cause:** Different code paths:
+- ID Log uses: `getDetailedExplanationForLevel(question, depth)` (direct)
+- Quiz codon uses: `getTranslatedDetailedExplanation(...)` which adds extra processing
+
+**Solution:** Make Quiz codon path produce identical output to ID Log. Either:
+1. Remove the extra wrapper in Quiz codon, OR
+2. Ensure both paths resolve to the same standalone file content
+
+Verify by checking: Open ID 379 in ID Log with "Detail" depth, then open the same ID in Quiz mode and compare the codon panel text.

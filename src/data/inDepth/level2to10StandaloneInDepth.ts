@@ -27685,68 +27685,195 @@ Much political discourse treats abstractions as decision-makers.
 One-line version
 Reification = Treating an abstract concept as concrete.`,
   },
-  761: {
-    beginner: `## Reification — in-depth (Beginner)
+761: {
+    beginner: `Reification = Treating an abstract concept as concrete.`,
+    detail: `Reification
 
-**What this is, in plain English**  
-Treating an abstract concept as concrete.
+Description:
+Treating an abstract concept as concrete. When you talk about something intangible as if it were a real thing.
 
-**The example you’re looking at**  
-« Abstract as real. »  
+Example (question)
+« Abstract as real. »
+Saying "the economy is struggling" treats the economy — an abstract concept — as if it were a physical object.
 
-**Why this is Reification**  
-Treating an abstract concept as concrete. That is what this label is pointing to in the passage above.
+Example (everyday)
+"The market wants higher prices." Markets don't want anything. This projects human desire onto an abstract system.
 
-**Takeaway**  
-Treating an abstract concept as concrete.`,
-    intermediate: `## Reification — in-depth (Intermediate)
+How it works
+The argument treats abstract concepts as agents that can act or feel.
 
-**What this is, in plain English**  
-Treating an abstract concept as concrete.
+So:
+- Abstract nouns are given human qualities
+- Non-things are described as having intentions
+- This adds agency that doesn't exist
 
-**This example**  
-« Abstract as real. »  
+Key concept inside it
+Hypostatization:
+Treating an abstraction as if it were a concrete entity.
 
-The passage shows **Reification** in action: treating an abstract concept as concrete.
+Why it matters
+Explains why:
+- Economic and political discourse often use this
+- It makes policies seem like natural forces
+- It hides human agency and choice
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: treating an abstract concept as concrete.
+The uncomfortable implication
+When we say "the market decided," we're hiding who actually made the decision.
 
-- **Example 2:** Picture a health or habits story. People often reason as if treating an abstract concept as concrete.
+One-line version
+Reification = Treating an abstract concept as concrete.`,
+  },
+  762: {
+    beginner: `Reification = Treating an abstract concept as concrete.`,
+    detail: `Reification
 
-- **Example 3:** In school grades or test scores, watch for this pattern: Treating an abstract concept as concrete.
+Description:
+Treating an abstract concept as concrete. Treating ideas as if they were physical things.
 
-**In one sentence**  
-Reification is the label for reasoning that fits: Treating an abstract concept as concrete.`,
-    expert: `## Reification — in-depth (Expert)
+Example (question)
+« Conceptual reification. »
+Saying an idea "exists" treats the concept as a real object.
 
-**Definition**  
-Treating an abstract concept as concrete.
+Example (everyday)
+Saying "crime is on the rise" treats crime — an abstract category — as if it were a thing moving through the streets.
 
-**Applied to this passage**  
-« Abstract as real. »  
+How it works
+The fallacy treats conceptual categories as tangible entities.
 
-Here, **Reification** is the right name because treating an abstract concept as concrete.
+So:
+- Abstract categories become "things"
+- They're given properties only real objects can have
+- This enables false reasoning about cause and effect
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a news headline or social post. The slip is the same: treating an abstract concept as concrete.
+Key concept inside it
+Category error:
+Applying predicates to groups that only apply to individuals.
 
-- **Example 2:** Picture a health or habits story. People often reason as if treating an abstract concept as concrete.
+Why it matters
+Explains why:
+- Policy discussions often reference "the economy" as an agent
+- It obscures individual responsibility
+- Makes complex problems seem like simple forces
 
-- **Example 3:** In school grades or test scores, watch for this pattern: Treating an abstract concept as concrete.
+The uncomfortable implication
+"Society is changing" hides whose choices are actually changing things.
 
-- **Example 4:** Another everyday spot: a news headline or social post. Treating an abstract concept as concrete.
+One-line version
+Reification = Treating an abstract concept as concrete.`,
+  },
+  763: {
+    beginner: `Retrospective Determinism = Believing past events were inevitable.`,
+    detail: `Retrospective Determinism
 
-- **Example 5:** **Setting:** a health or habits story. **What goes wrong:** Treating an abstract concept as concrete.
+Description:
+Believing that events were inevitable after they occurred. "I knew it all along."
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Reification** means Treating an abstract concept as concrete.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
+Example (question)
+« It was bound to happen. »
+After something happens, we retroactively declare it was always going to happen. This ignores the uncertainty that existed before.
 
-**Topic (bank)**  
-Logical Fallacies`,
+Example (everyday)
+"Everyone knew the pandemic would happen." No, most people were surprised. Hindsight rewrites history.
+
+How it works
+The argument assumes past knowledge that didn't exist at the time. What was uncertain becomes "obvious."
+
+So:
+- Past uncertainty is forgotten
+- Probability is replaced with certainty
+- The "signs" were only visible after the outcome
+
+Key concept inside it
+Hindsight bias:
+The tendency to see past events as having been predictable.
+
+Why it matters
+Explains why:
+- People claim they "knew it all along"
+- It makes decision-making seem easier than it was
+- It prevents learning from genuine uncertainty
+
+The uncomfortable implication
+Most outcomes genuinely couldn't be predicted — admitting this is uncomfortable.
+
+One-line version
+Retrospective Determinism = Believing past events were inevitable.`,
+  },
+  764: {
+    beginner: `Retrospective Determinism = Believing past events were inevitable.`,
+    detail: `Retrospective Determinism
+
+Description:
+Rewriting history to make events seem predictable. "It was only a matter of time."
+
+Example (question)
+« Hindsight bias. »
+After the fact, claiming the outcome was obvious. The initial uncertainty vanishes from memory.
+
+Example (everyday)
+"Smart people saw the housing crash coming." No, those same experts were saying "housing never goes down" months before.
+
+How it works
+The fallacy erases the original uncertainty and backfills "inevitable" markers.
+
+So:
+- What was surprising becomes "obvious"
+- The unexpected becomes "inevitable"
+- Original opinions are forgotten
+
+Key concept inside it
+Memory reconstruction:
+Our memories change based on what we now know happened.
+
+Why it matters
+Explains why:
+- After-action reviews often show "obvious" failures
+- It's hard to blame decision-makers when everything "was inevitable"
+- Creates false confidence in future predictions
+
+The uncomfortable implication
+Most failures genuinely couldn't be predicted — that's what makes them failures.
+
+One-line version
+Retrospective Determinism = Believing past events were inevitable.`,
+  },
+  765: {
+    beginner: `Retrospective Determinism = Believing past events were inevitable.`,
+    detail: `Retrospective Determinism
+
+Description:
+Claiming past outcomes were always going to happen.
+
+Example (question)
+« Post-event inevitability. »
+Once an event occurs, claiming "it was bound to happen" ignores the genuine unpredictability.
+
+Example (everyday)
+"The war was inevitable once [X] happened." No, many paths led elsewhere.
+
+How it works
+The argument selects only the path to the outcome, forgetting all the alternative paths that seemed equally possible.
+
+So:
+- Contingency becomes inevitability
+- Alternative futures are erased
+- The decision looks easier than it was
+
+Key concept inside it
+Determinism assumption:
+Believing past events could not have unfolded differently.
+
+Why it matters
+Explains why:
+- It makes past decisions seem foolish if they didn't predict this
+- Prevents learning genuine lessons
+- Overfits explanation to outcome
+
+The uncomfortable implication
+Most things could have gone either way — that's what makes outcomes probabilistic.
+
+One-line version
+Retrospective Determinism = Believing past events were inevitable.`,
   },
   762: {
     beginner: `## Reification — in-depth (Beginner)
