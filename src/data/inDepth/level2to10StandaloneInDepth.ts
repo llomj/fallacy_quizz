@@ -30780,68 +30780,195 @@ Here, **The Gambler's Fallacy** is the right name because believing past events 
 **Topic (bank)**  
 Cognitive Biases`,
   },
-  796: {
-    beginner: `## The Halo Effect — in-depth (Beginner)
+796: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
 
-**What this is, in plain English**  
-Generalizing from one trait to all.
+Description:
+When past successes are used to predict future successes.
 
-**The example you’re looking at**  
-« Good in one area means good in all. »  
+Example (question)
+« Past winners. »
+Past winners in any field are assumed to have higher odds of winning again.
 
-**Why this is The Halo Effect**  
-Generalizing from one trait to all. That is what this label is pointing to in the passage above.
+Example (everyday)
+"The stock went up last year, so it will go up again" — ignores that winners rotate.
 
-**Takeaway**  
-Generalizing from one trait to all.`,
-    intermediate: `## The Halo Effect — in-depth (Intermediate)
+How it works
+The argument treats past performance as future predictor.
 
-**What this is, in plain English**  
-Generalizing from one trait to all.
+So:
+- Past success is visible
+- Future is uncertain
+- Correlation doesn't continue
 
-**This example**  
-« Good in one area means good in all. »  
+Key concept inside it
+Performance persistence assumption:
+Assuming what worked before will work again.
 
-The passage shows **The Halo Effect** in action: generalizing from one trait to all.
+Why it matters
+Explains why:
+- Past performance doesn't guarantee future returns
+- Winners start losing
+- "Hot hands" prove false
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: generalizing from one trait to all.
+The uncomfortable implication
+Past winners are often just lucky — and luck changes.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if generalizing from one trait to all.
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  797: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
 
-- **Example 3:** In sports or business results, watch for this pattern: Generalizing from one trait to all.
+Description:
+When you only see what's left.
 
-**In one sentence**  
-The Halo Effect is the label for reasoning that fits: Generalizing from one trait to all.`,
-    expert: `## The Halo Effect — in-depth (Expert)
+Example (question)
+« Assets that remain. »
+Old companies still have the "best" practices — they survived, so they must be good.
 
-**Definition**  
-Generalizing from one trait to all.
+Example (everyday)
+The oldest restaurants "must be good" — but many good ones closed.
 
-**Applied to this passage**  
-« Good in one area means good in all. »  
+How it works
+The argument mistakes remaining for best.
 
-Here, **The Halo Effect** is the right name because generalizing from one trait to all.
+So:
+- Survival isn't quality
+- Many good things close
+- Selection isn't a quality test
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a family argument. The slip is the same: generalizing from one trait to all.
+Key concept inside it
+Selection through time:
+Those that lasted aren't necessarily best.
 
-- **Example 2:** Picture a policy or workplace discussion. People often reason as if generalizing from one trait to all.
+Why it matters
+Explains why:
+- Oldest isn't always best
+- Many better alternatives closed
+- "Still around" is survival, not quality seal
 
-- **Example 3:** In sports or business results, watch for this pattern: Generalizing from one trait to all.
+The uncomfortable implication
+The best restaurants may have already closed.
 
-- **Example 4:** Another everyday spot: a family argument. Generalizing from one trait to all.
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  798: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
 
-- **Example 5:** **Setting:** a policy or workplace discussion. **What goes wrong:** Generalizing from one trait to all.
+Description:
+When data is selected on one dimension but analyzed on another.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**The Halo Effect** means Generalizing from one trait to all.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
+Example (question)
+« Selection mismatch. »
+You select winners and then analyze what made them win — ignoring what losers had too.
 
-**Topic (bank)**  
-Memory & Perception Effects`,
+Example (everyday)
+Analyzing "why startups succeed" using only startups — not comparing to those that failed.
+
+How it works
+The argument compares in-sample, not to the full population.
+
+So:
+- Selection criteria vary
+- Comparison is incomplete
+- Explanation is incomplete
+
+Key concept inside it
+Selection on dependent variable:
+Using outcome to select what's analyzed.
+
+Why it matters
+Explains why:
+- Many studies have this flaw
+- Explanations are sample-dependent
+- Analysis needs full population
+
+The uncomfortable implication
+This is how "research" can be misleading.
+
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  799: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
+
+Description:
+When failures are hidden behind success.
+
+Example (question)
+« Partial success framing. »
+"One out of five succeeded" sounds better than "80% failure."
+
+Example (everyday)
+"Four out of five doctors recommend" — what about patients?
+
+How it works
+The argument uses selective framing.
+
+So:
+- Success rate looks higher
+- Failure is hidden
+- Same data, different story
+
+Key concept inside it
+Framing of rates:
+Success and failure numbers can be flipped.
+
+Why it matters
+Explains why:
+- Marketing uses survivor bias
+- Same stats can be gamed
+- Look at what isn't shown
+
+The uncomfortable implication
+"Success stories" might hide worse statistics.
+
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
+  },
+  800: {
+    beginner: `Survivor Bias = Focusing on successful examples only.`,
+    detail: `Survivor Bias
+
+Description:
+When your comparison group excludes dropouts.
+
+Example (question)
+« Incomplete comparison. »
+Comparing successful dropouts to those still in — but dropping out is also an outcome.
+
+Example (everyday)
+Comparing successful quitters to unsuccessful stayers.
+
+How it works
+The argument ignores all non-completions.
+
+So:
+- Dropouts are removed
+- The sample changes
+- Conclusion is biased
+
+Key concept inside it
+Censoring:
+Removing cases that didn't "finish."
+
+Why it matters
+Explains why:
+- Many analyses remove dropouts
+- Success has many definitions
+- Incomplete data creates bias
+
+The uncomfortable implication
+Dropping out might be smart — but it's treated as failure.
+
+One-line version
+Survivor Bias = Focusing on successful examples only.`,
   },
   797: {
     beginner: `## The Halo Effect — in-depth (Beginner)
