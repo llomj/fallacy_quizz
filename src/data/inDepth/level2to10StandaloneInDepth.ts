@@ -29454,68 +29454,195 @@ Here, **Stereotyping** is the right name because applying generalizations to ind
 **Topic (bank)**  
 Social & Institutional Behaviors`,
   },
-  781: {
-    beginner: `## Suggestibility — in-depth (Beginner)
+781: {
+    beginner: `Suggestion Effect = Being influenced by what others suggest.`,
+    detail: `Suggestion Effect
 
-**What this is, in plain English**  
-Being easily influenced by suggestions.
+Description:
+Being influenced by what others suggest. You adopt ideas because someone suggested them.
 
-**The example you’re looking at**  
-« Adopting suggested ideas. »  
+Example (question)
+« Adopting suggested ideas. »
+You hear an idea and accept it without questioning — the suggestion becomes your thought.
 
-**Why this is Suggestibility**  
-Being easily influenced by suggestions. That is what this label is pointing to in the passage above.
+Example (everyday)
+A doctor suggests a treatment, you accept it immediately without research.
 
-**Takeaway**  
-Being easily influenced by suggestions.`,
-    intermediate: `## Suggestibility — in-depth (Intermediate)
+How it works
+The argument treats suggestion as proof. Authority or social pressure replaces evidence.
 
-**What this is, in plain English**  
-Being easily influenced by suggestions.
+So:
+- Suggestions are accepted as facts
+- Critical thinking is bypassed
+- Authority substitutes for evidence
 
-**This example**  
-« Adopting suggested ideas. »  
+Key concept inside it
+Authority bias:
+The tendency to accept authority claims without evidence.
 
-The passage shows **Suggestibility** in action: being easily influenced by suggestions.
+Why it matters
+Explains why:
+- Marketing uses "expert" suggestions
+- Medical compliance follows suggestions
+- Social influences shape beliefs
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: being easily influenced by suggestions.
+The uncomfortable implication
+Your "own" thoughts might be suggestions you absorbed.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if being easily influenced by suggestions.
+One-line version
+Suggestion Effect = Being influenced by what others suggest.`,
+  },
+  782: {
+    beginner: `Suggestion Effect = Being influenced by what others suggest.`,
+    detail: `Suggestion Effect
 
-- **Example 3:** In a news headline or social post, watch for this pattern: Being easily influenced by suggestions.
+Description:
+When your thoughts are actually other people's ideas.
 
-**In one sentence**  
-Suggestibility is the label for reasoning that fits: Being easily influenced by suggestions.`,
-    expert: `## Suggestibility — in-depth (Expert)
+Example (question)
+« Accepting suggested beliefs. »
+You believe something because it was suggested, not because you reasoned it.
 
-**Definition**  
-Being easily influenced by suggestions.
+Example (everyday)
+"I'm colorblind to brands" — actually you chose because of branding suggestions.
 
-**Applied to this passage**  
-« Adopting suggested ideas. »  
+How it works
+The argument mistakes suggestion for original thought.
 
-Here, **Suggestibility** is the right name because being easily influenced by suggestions.
+So:
+- You think it's your idea
+- It was planted by others
+- No independent verification happened
 
-**More examples (same fallacy only)**  
-- **Example 1:** Imagine a health or habits story. The slip is the same: being easily influenced by suggestions.
+Key concept inside it
+Source confusion:
+Mixing your thoughts with implanted ones.
 
-- **Example 2:** Picture school grades or test scores. People often reason as if being easily influenced by suggestions.
+Why it matters
+Explains why:
+- Viral "ideas" spread as if original
+- Marketing works subconsciously
+- Political messaging shapes "independent" views
 
-- **Example 3:** In a news headline or social post, watch for this pattern: Being easily influenced by suggestions.
+The uncomfortable implication
+Much of what you "think" was put there by others.
 
-- **Example 4:** Another everyday spot: a health or habits story. Being easily influenced by suggestions.
+One-line version
+Suggestion Effect = Being influenced by what others suggest.`,
+  },
+  783: {
+    beginner: `Suggestion Effect = Being influenced by what others suggest.`,
+    detail: `Suggestion Effect
 
-- **Example 5:** **Setting:** school grades or test scores. **What goes wrong:** Being easily influenced by suggestions.
+Description:
+When suggestions create false memories.
 
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**Suggestibility** means Being easily influenced by suggestions.
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
+Example (question)
+« Suggested memory. »
+Someone suggests an event happened — you "remember" it even if it didn't.
 
-**Topic (bank)**  
-Cognitive Biases`,
+Example (everyday)
+A therapist suggests abuse — the patient develops false memory of events that never occurred.
+
+How it works
+The argument treats suggestions as evidence of actual events.
+
+So:
+- Suggestion creates "memory"
+- The memory feels real
+- No external verification exists
+
+Key concept inside it
+False memory syndrome:
+Genuine-seeming memories of events that never occurred.
+
+Why it matters
+Explains why:
+- Some "recovered memories" are suggested
+- Eyewitness testimony can be contaminated
+- Legal cases depend on memory accuracy
+
+The uncomfortable implication
+Your most confident memories might be suggestions.
+
+One-line version
+Suggestion Effect = Being influenced by what others suggest.`,
+  },
+  784: {
+    beginner: `Suggestion Effect = Being influenced by what others suggest.`,
+    detail: `Suggestion Effect
+
+Description:
+When the way questions are asked shapes the answers.
+
+Example (question)
+« Leading questions. »
+"How angry were you?" assumes anger — you answer the degree, not whether.
+
+Example (everyday)
+Poll "Do you prefer X or Y?" — neither, but you pick one.
+
+How it works
+The argument frames choices to shape responses.
+
+So:
+- Question structure creates response
+- Options are not neutral
+- The "answer" is manufactured
+
+Key concept inside it
+Framing effect:
+How options are presented changes what seems correct.
+
+Why it matters
+Explains why:
+- Polls can be manipulated
+- Surveys manufacture consent
+- Leading questions produce desired results
+
+The uncomfortable implication
+Your "opinion" might be designed by the questioner.
+
+One-line version
+Suggestion Effect = Being influenced by what others suggest.`,
+  },
+  785: {
+    beginner: `Suggestion Effect = Being influenced by what others suggest.`,
+    detail: `Suggestion Effect
+
+Description:
+When wording influences interpretation.
+
+Example (question)
+« Semantic framing. »
+"Tax relief" vs "tax burden" — same policy, different feeling.
+
+Example (everyday)
+"Enhanced interrogation" sounds better than "torture."
+
+How it works
+The argument uses language to shape perception.
+
+So:
+- Words carry emotional weight
+- Same facts get different reactions
+- Language becomes persuasion
+
+Key concept inside it
+Framing:
+Selecting words to produce desired reactions.
+
+Why it matters
+Explains why:
+- Political language is carefully crafted
+- Marketing uses euphemisms
+- Media framing shapes stories
+
+The uncomfortable implication
+Your emotional reactions might follow someone else's word choices.
+
+One-line version
+Suggestion Effect = Being influenced by what others suggest.`,
   },
   782: {
     beginner: `## Suggestibility — in-depth (Beginner)
