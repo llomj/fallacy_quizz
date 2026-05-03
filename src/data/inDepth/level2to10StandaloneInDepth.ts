@@ -30608,43 +30608,153 @@ Explains why:
 One-line version
 Appeal to Ignorance = Claiming something is true because it hasn't been proven false.`,
   },
-  865: {
-    beginner: `Argument from Incredulity = Rejecting because hard to believe.`,
-    detail: `Argument from Incredulity
+865: {
+    beginner: `Appeal to Incredulity = Rejecting something because it's hard to believe.`,
+    detail: `Appeal to Incredulity
 
 Description:
-Rejecting because hard to believe.
-
-Argument from Incredulity = Rejecting because hard to believe
+Rejecting something because it's hard to believe — or because you can't understand it.
 
 Example (question)
 « Can't imagine, so false. »
+If I can't understand it, it must be false — that's the fallacy.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "I don't understand quantum mechanics, so it's fake"
+- Complex science dismissed
+- "Too complicated to be real"
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Personal incredulity isn't evidence. Your ability to understand doesn't determine truth.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Hard to understand ≠ false
+- Expertise lets others see what you can't
+- Truth exists beyond your understanding
 
 Key concept inside it
-Argument from Incredulity:
-Rejecting because hard to believe.
+Cognitive Limits:
+Personal understanding limitations don't constrain truth.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Science gets dismissed
+- Conspiracy theories thrive
+- Complexity ignored
 
 One-line version
-Argument from Incredulity = Rejecting because hard to believe.`,
+Appeal to Incredulity = Rejecting something because it's hard to believe.`,
+  },
+  866: {
+    beginner: `Appeal to Incredulity = Rejecting something because it's hard to believe.`,
+    detail: `Appeal to Incredulity
+
+Description:
+Rejecting something because it's hard to believe — or because you can't understand it.
+
+Example (question)
+« Hard to accept. »
+When something is too much to accept, leading to rejection.
+
+Example (everyday)
+- "Too shocking to be true"
+- Rejecting evidence that's uncomfortable
+- Choosing not to know
+
+How it works
+Personal incredulity isn't evidence. Your ability to understand doesn't determine truth.
+
+So:
+- Hard to understand ≠ false
+- Expertise lets others see what you can't
+- Truth exists beyond your understanding
+
+Key concept inside it
+Cognitive Limits:
+Personal understanding limitations don't constrain truth.
+
+Why it matters
+Explains why:
+- Science gets dismissed
+- Conspiracy theories thrive
+- Complexity ignored
+
+One-line version
+Appeal to Incredulity = Rejecting something because it's hard to believe.`,
+  },
+  867: {
+    beginner: `Post Hoc = Believing one event caused another because it followed.`,
+    detail: `Post Hoc
+
+Description:
+Assuming that because one event followed another, the first caused the second — when correlation doesn't equal causation.
+
+Example (question)
+« After, therefore because. »
+The rooster crows, then sun rises — rooster caused sunrise.
+
+Example (everyday)
+- Sports fan rituals before games
+- Lucky socks
+- Superstitions
+
+How it works
+Temporal sequence doesn't imply causation. We see patterns that aren't there.
+
+So:
+- Post hoc isn't propter hoc
+- Coincidence is common
+- Need controls to prove causation
+
+Key concept inside it
+Correlation ≠ Causation:
+Temporal sequence is weak evidence for causation.
+
+Why it matters
+Explains why:
+- False treatments seem to work
+- Superstitions persist
+- Wrong policies from misidentified cause
+
+One-line version
+Post Hoc = Believing one event caused another because it followed.`,
+  },
+  868: {
+    beginner: `Post Hoc = Believing one event caused another because it followed.`,
+    detail: `Post Hoc
+
+Description:
+Assuming that because one event followed another, the first caused the second — when correlation doesn't equal causation.
+
+Example (question)
+« Temporal assumption. »
+Assuming time sequence proves cause.
+
+Example (everyday)
+- I took pills, got better
+- The rain came after the ceremony
+- Stock went up after I bought
+
+How it works
+Temporal sequence doesn't imply causation. We see patterns that aren't there.
+
+So:
+- Post hoc isn't propter hoc
+- Coincidence is common
+- Need controls to prove causation
+
+Key concept inside it
+Correlation ≠ Causation:
+Temporal sequence is weak evidence for causation.
+
+Why it matters
+Explains why:
+- False treatments seem to work
+- Superstitions persist
+- Wrong policies from misidentified cause
+
+One-line version
+Post Hoc = Believing one event caused another because it followed.`,
   },
   866: {
     beginner: `Argument from Incredulity = Rejecting because hard to believe.`,
@@ -30760,43 +30870,79 @@ Explains why:
 One-line version
 Argument from Personal Incredulity = Dismissing based on personal disbelief.`,
   },
-  869: {
-    beginner: `Argument from Personal Incredulity = Dismissing based on personal disbelief.`,
-    detail: `Argument from Personal Incredulity
+869: {
+    beginner: `Appeal to Incredulity = Rejecting something because it's hard to believe.`,
+    detail: `Appeal to Incredulity
 
 Description:
-Dismissing based on personal disbelief.
-
-Argument from Personal Incredulity = Dismissing based on personal disbelief
+Rejecting something because it's hard to believe — or because you can't understand it.
 
 Example (question)
 « Personal confusion. »
+When personal difficulty understanding becomes truth determination.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "I can't understand it, so it's not true"
+- Complex topics dismissed
+- Anything too advanced gets rejected
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Personal incredulity isn't evidence. Your ability to understand doesn't determine truth.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Hard to understand ≠ false
+- Expertise lets others see what you can't
+- Truth exists beyond your understanding
 
 Key concept inside it
-Argument from Personal Incredulity:
-Dismissing based on personal disbelief.
+Cognitive Limits:
+Personal understanding limitations don't constrain truth.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Science gets dismissed
+- Conspiracy theories thrive
+- Complexity ignored
 
 One-line version
-Argument from Personal Incredulity = Dismissing based on personal disbelief.`,
+Appeal to Incredulity = Rejecting something because it's hard to believe.`,
+  },
+  870: {
+    beginner: `Slippery Slope = Assuming one event will lead to extreme consequences.`,
+    detail: `Slippery Slope
+
+Description:
+Arguing that one event will inevitably lead to extreme consequences — without evidence for the chain.
+
+Example (question)
+« Cascade failure. »
+If we allow X, Y will definitely follow — that's the slippery slope.
+
+Example (everyday)
+- "If we allow gay marriage, we'll allow bestiality"
+- "One traffic ticket leads to license suspension"
+- Small changes lead to doom
+
+How it works
+Each step requires evidence. The slope isn't always slippery — sometimes you can stop.
+
+So:
+- Each step needs proof
+- Not all dominos fall
+- Moderate positions exist
+
+Key concept inside it
+Causal Chain:
+Each link requires evidence, not assumption.
+
+Why it matters
+Explains why:
+- Fear-mongering works
+- Reasonable regulations get blocked
+- Extreme positions dominate debates
+
+One-line version
+Slippery Slope = Assuming one event will lead to extreme consequences.`,
   },
   870: {
     beginner: `Argument from Personal Incredulity = Dismissing based on personal disbelief.`,
@@ -30836,43 +30982,79 @@ Explains why:
 One-line version
 Argument from Personal Incredulity = Dismissing based on personal disbelief.`,
   },
-  871: {
-    beginner: `Argument to the Stone = Dismissing argument as absurd without reason.`,
-    detail: `Argument to the Stone
+871: {
+    beginner: `Appeal to the Stone = Dismissing an argument as absurd without engaging with it.`,
+    detail: `Appeal to the Stone
 
 Description:
-Dismissing argument as absurd without reason.
-
-Argument to the Stone = Dismissing argument as absurd without reason
+Dismissing an argument as absurd — without actually addressing it or providing counterarguments.
 
 Example (question)
 « That's ridiculous. »
+Simply declaring something ridiculous without reasoning.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "That's crazy talk"
+- "Don't be ridiculous"
+- Dismissive language
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Declaring something absurd isn't an argument. You must engage with the content, not just reject it.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Absurdity needs justification
+- Ridicule is not refutation
+- Counterarguments required
 
 Key concept inside it
-Argument to the Stone:
-Dismissing argument as absurd without reason.
+Engagement:
+Addressing arguments requires engaging, not dismissing.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Debates get derailed
+- Dismissiveness blocks learning
+- Emotional rejection replaces reason
 
 One-line version
-Argument to the Stone = Dismissing argument as absurd without reason.`,
+Appeal to the Stone = Dismissing an argument as absurd without engaging with it.`,
+  },
+  872: {
+    beginner: `Red Herring = Introducing irrelevant information to distract from the main issue.`,
+    detail: `Red Herring
+
+Description:
+Introducing irrelevant information to divert attention from the main issue — changing the subject.
+
+Example (question)
+« Subject change. »
+Bringing up something unrelated to avoid the main point.
+
+Example (everyday)
+- Politician avoids question by talking about something else
+- "What aboutism" in debates
+- Distracting with emotions
+
+How it works
+The new topic sounds related but isn't. It shifts attention from the real issue.
+
+So:
+- Stay on topic
+- Address the actual argument
+- Don't accept subject changes
+
+Key concept inside it
+Topic Shift:
+Changing the subject to avoid the argument.
+
+Why it matters
+Explains why:
+- Debates go nowhere
+- Politicians avoid accountability
+- Real issues get obscured
+
+One-line version
+Red Herring = Introducing irrelevant information to distract from the main issue.`,
   },
   872: {
     beginner: `Argument to the Stone = Dismissing argument as absurd without reason.`,
