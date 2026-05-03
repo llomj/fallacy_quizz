@@ -30572,42 +30572,41 @@ One-line version
 Argument from Ignorance = Claiming truth because unproven false.`,
   },
   864: {
-    beginner: `Argument from Ignorance = Claiming truth because unproven false.`,
-    detail: `Argument from Ignorance
+    beginner: `Appeal to Ignorance = Claiming something is true because it hasn't been proven false.`,
+    detail: `Appeal to Ignorance
 
 Description:
-Claiming truth because unproven false.
-
-Argument from Ignorance = Claiming truth because unproven false
+Claiming something is true because it hasn't been proven false — or that absence of proof equals proof.
 
 Example (question)
 « Ignorance argument. »
+When "can't prove false" becomes "true."
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "You can't prove ghosts don't exist"
+- Unexplained treated as impossible
+- No evidence treated as evidence none
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Absence of proof isn't proof of absence. Not finding evidence doesn't equal finding non-evidence.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Unproven ≠ false
+- Science works by finding evidence
+- Mysteries aren't automatically true or false
 
 Key concept inside it
-Argument from Ignorance:
-Claiming truth because unproven false.
+Burden of Proof:
+The one making the claim carries the burden of proof.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Pseudoscience persists
+- Conspiracy theories use this
+- Legal innocently until proven guilty
 
 One-line version
-Argument from Ignorance = Claiming truth because unproven false.`,
+Appeal to Ignorance = Claiming something is true because it hasn't been proven false.`,
   },
   865: {
     beginner: `Argument from Incredulity = Rejecting because hard to believe.`,
