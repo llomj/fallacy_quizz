@@ -31095,42 +31095,41 @@ One-line version
 Argument to the Stone = Dismissing argument as absurd without reason.`,
   },
   873: {
-    beginner: `Argument to the Stone = Dismissing argument as absurd without reason.`,
-    detail: `Argument to the Stone
+    beginner: `Appeal to the Stone = Dismissing an argument as absurd without engaging with it.`,
+    detail: `Appeal to the Stone
 
 Description:
-Dismissing argument as absurd without reason.
-
-Argument to the Stone = Dismissing argument as absurd without reason
+Dismissing an argument as absurd — without actually addressing it or providing counterarguments.
 
 Example (question)
 « Stone throwing. »
+Simply declaring something absurd without reasoning.
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+- "That's crazy"
+- "Don't be absurd"
+- Dismissive language
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+Declaring something absurd isn't an argument. You must engage with the content, not just reject it.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- Absurdity needs justification
+- Ridicule is not refutation
+- Counterarguments required
 
 Key concept inside it
-Argument to the Stone:
-Dismissing argument as absurd without reason.
+Engagement:
+Addressing arguments requires engaging, not dismissing.
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- Debates get derailed
+- Dismissiveness blocks learning
+- Emotional rejection replaces reason
 
 One-line version
-Argument to the Stone = Dismissing argument as absurd without reason.`,
+Appeal to the Stone = Dismissing an argument as absurd without engaging with it.`,
   },
   874: {
     beginner: `Avoiding the Issue = Dodging the main point.`,
