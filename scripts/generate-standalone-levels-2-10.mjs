@@ -2,8 +2,8 @@
  * Generates LEVELS_2_TO_10_STANDALONE_EN / FR for IDs **91–900** from `fallaciesData.ts`
  * (game levels 2–10: 90 questions each).
  *
+ * Output: **NEW beginner/detail format** (not beginner/intermediate/expert).
  * Run: node scripts/generate-standalone-levels-2-10.mjs
- * Output: src/data/inDepth/level2to10StandaloneInDepth.ts
  */
 import fs from 'fs';
 import path from 'path';
@@ -57,10 +57,9 @@ function parseFallacyBlock(block) {
   if (!qm || !optMatch || !cm || !expm) return null;
   const question = unescapeTsString(qm[1]);
   const opts = [];
-  const raw = optMatch[1];
   const re = /"((?:\\.|[^"\\])*)"/g;
   let m;
-  while ((m = re.exec(raw))) opts.push(unescapeTsString(m[1]));
+  while ((m = re.exec(optMatch[1]))) opts.push(unescapeTsString(m[1]));
   return {
     question,
     options: opts,
@@ -98,192 +97,96 @@ function tsEscape(s) {
   return String(s).replace(/\\/g, '\\\\').replace(/`/g, '\\`').replace(/\$\{/g, '\\${');
 }
 
-/** Layperson in-depth: only the named fallacy—no multiple-choice comparison. */
-function mechClause(expl) {
-  const t = expl.trim();
-  if (!t) return 'the reasoning slips in the way described above';
-  const lower = t.charAt(0).toLowerCase() + t.slice(1);
-  return lower.endsWith('.') ? lower.slice(0, -1) : lower;
-}
-
-function examplesEn(id, name, expl) {
-  const m = mechClause(expl);
-  const cap = m.charAt(0).toUpperCase() + m.slice(1);
-  const settings = [
-    'a policy or workplace discussion',
-    'a health or habits story',
-    'sports or business results',
-    'school grades or test scores',
-    'a family argument',
-    'a news headline or social post',
-  ];
-  const openers = [
-    (s) => `**Setting:** ${s}. **What goes wrong:** ${cap}.`,
-    (s) => `Imagine ${s}. The slip is the same: ${m}.`,
-    (s) => `Picture ${s}. People often reason as if ${m}.`,
-    (s) => `In ${s}, watch for this pattern: ${cap}.`,
-    (s) => `Another everyday spot: ${s}. ${cap}.`,
-  ];
-  const lines = [];
-  for (let k = 0; k < 5; k++) {
-    const s = settings[(id + k * 2) % settings.length];
-    const fn = openers[(id + k) % openers.length];
-    lines.push(`- **Example ${k + 1}:** ${fn(s)}`);
-  }
-  return lines;
-}
-
-function examplesFr(id, name, expl) {
-  const m = mechClause(expl);
-  const cap = m.charAt(0).toUpperCase() + m.slice(1);
-  const settings = [
-    'un débat sur une politique ou au travail',
-    'un récit sur la santé ou les habitudes',
-    'des résultats sportifs ou d’entreprise',
-    'des notes ou examens',
-    'une discussion en famille',
-    'un titre de presse ou un fil sur les réseaux',
-  ];
-  const openers = [
-    (s) => `**Contexte :** ${s}. **Ce qui cloche :** ${cap}.`,
-    (s) => `Imaginez ${s}. C’est la même erreur : ${m}.`,
-    (s) => `Pensez à ${s}. Souvent, on raisonne comme si ${m}.`,
-    (s) => `Dans ${s}, repérez ce schéma : ${cap}.`,
-    (s) => `Autre situation courante : ${s}. ${cap}.`,
-  ];
-  const lines = [];
-  for (let k = 0; k < 5; k++) {
-    const s = settings[(id + k * 2) % settings.length];
-    const fn = openers[(id + k) % openers.length];
-    lines.push(`- **Exemple ${k + 1} :** ${fn(s)}`);
-  }
-  return lines;
-}
-
 function buildEn(id, q) {
   const scenario = extractScenario(q.question);
   const name = q.options[q.correct];
   const expl = q.explanation;
-  const ex = examplesEn(id, name, expl);
 
-  const capExplain = expl.trim().endsWith('.') ? expl.trim() : `${expl.trim()}.`;
+  const beginner = `${name} = ${expl}`;
 
-  const beginner = `## ${name} — in-depth (Beginner)
+  const detail = `${name}
 
-**What this is, in plain English**  
+Description:
 ${expl}
 
-**The example you’re looking at**  
-« ${scenario} »  
+${name} = ${expl.slice(-1) === '.' ? expl.slice(0, -1) : expl}
 
-**Why this is ${name}**  
-${capExplain} That is what this label is pointing to in the passage above.
+Example (question)
+« ${scenario} »
 
-**Takeaway**  
-${expl}`;
+Example (everyday)
+Same fallacy, different context:
+- Assuming a popular movie is good because everyone watches it
+- Believing an expensive product works better
 
-  const intermediate = `## ${name} — in-depth (Intermediate)
+How it works
+The argument confuses popularity with quality, or familiarity with correctness.
 
-**What this is, in plain English**  
+So:
+- A widely held belief isn't necessarily true
+- Majority doesn't equal right
+- The real question gets obscured
+
+Key concept inside it
+${name}:
 ${expl}
 
-**This example**  
-« ${scenario} »  
+Why it matters
+Explains why:
+- Marketing uses "most popular" to mean "best"
+- Social pressure masquerades as evidence
+- The actual argument gets lost
 
-The passage shows **${name}** in action: ${mechClause(expl)}.
+One-line version
+${name} = ${expl}`;
 
-**More examples (same fallacy only)**  
-${ex.slice(0, 3).join('\n\n')}
-
-**In one sentence**  
-${name} is the label for reasoning that fits: ${expl}`;
-
-  const expert = `## ${name} — in-depth (Expert)
-
-**Definition**  
-${expl}
-
-**Applied to this passage**  
-« ${scenario.slice(0, 700)}${scenario.length > 700 ? '…' : ''} »  
-
-Here, **${name}** is the right name because ${mechClause(expl)}.
-
-**More examples (same fallacy only)**  
-${ex.join('\n\n')}
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**${name}** means ${expl}
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-${q.concept}`;
-
-  return { beginner, intermediate, expert };
+  return { beginner, detail };
 }
 
 function buildFr(id, q) {
   const scenario = extractScenario(q.question);
   const name = q.options[q.correct];
   const expl = q.explanation;
-  const ex = examplesFr(id, name, expl);
 
-  const capExplainFr = expl.trim().endsWith('.') ? expl.trim() : `${expl.trim()}.`;
+  const beginner = `${name} = ${expl}`;
 
-  const beginner = `## ${name} — approfondi (Débutant)
+  const detail = `${name}
 
-**En termes simples**  
+Description:
 ${expl}
 
-**L’exemple affiché**  
-« ${scenario} »  
+${name} = ${expl.slice(-1) === '.' ? expl.slice(0, -1) : expl}
 
-**Pourquoi c’est bien ${name}**  
-${capExplainFr} C’est ce que ce libellé vise dans le passage ci-dessus.
+Exemple (question)
+« ${scenario} »
 
-**À retenir**  
-${expl}`;
+Exemple (autre contexte)
+Même erreur, autre contexte :
+- Supposer qu'un film populaire est bon parce que tout le monde le regarde
+- Croire qu'un produit cher fonctionne mieux
 
-  const intermediate = `## ${name} — approfondi (Intermédiaire)
+Comment ça fonctionne
+L'argument confond popularite avec qualite, ou familiarite avec exactitude.
 
-**En termes simples**  
+Donc :
+- Une croyance largement partagée n'est pas nécessairement vraie
+- La majorité n'équivaut pas à correctness
+- La vraie question se perd
+
+Concept clé
+${name} :
 ${expl}
 
-**Cet exemple**  
-« ${scenario} »  
+Pourquoi c'est important
+Explique pourquoi :
+- Le marketing utilise "le plus populaire" pour signifier "le meilleur"
+- La pression sociale se fait passer pour de la preuve
+- L'argument réel se perd
 
-Le passage montre **${name}** : ${mechClause(expl)}.
+En une phrase
+${name} = ${expl}`;
 
-**Autres exemples (même erreur seulement)**  
-${ex.slice(0, 3).join('\n\n')}
-
-**En une phrase**  
-**${name}**, c’est quand le raisonnement correspond à : ${expl}`;
-
-  const expert = `## ${name} — approfondi (Expert)
-
-**Définition**  
-${expl}
-
-**Appliqué à ce passage**  
-« ${scenario.slice(0, 700)}${scenario.length > 700 ? '…' : ''} »  
-
-Ici, **${name}** convient parce que ${mechClause(expl)}.
-
-**Autres exemples (même erreur seulement)**  
-${ex.join('\n\n')}
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**${name}**, c’est ${expl}
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-${q.concept}`;
-
-  return { beginner, intermediate, expert };
+  return { beginner, detail };
 }
 
 let enBody = '';
@@ -304,20 +207,16 @@ for (let id = MIN_ID; id <= MAX_ID; id++) {
   }
   const en = buildEn(id, enQ);
   const fr = buildFr(id, frQ);
-  enBody += `\n  ${id}: {\n    beginner: \`${tsEscape(en.beginner)}\`,\n    intermediate: \`${tsEscape(en.intermediate)}\`,\n    expert: \`${tsEscape(en.expert)}\`,\n  },`;
-  frBody += `\n  ${id}: {\n    beginner: \`${tsEscape(fr.beginner)}\`,\n    intermediate: \`${tsEscape(fr.intermediate)}\`,\n    expert: \`${tsEscape(fr.expert)}\`,\n  },`;
+  enBody += `\n  ${id}: {\n    beginner: \`${tsEscape(en.beginner)}\`,\n    detail: \`${tsEscape(en.detail)}\`,\n  },`;
+  frBody += `\n  ${id}: {\n    beginner: \`${tsEscape(fr.beginner)}\`,\n    detail: \`${tsEscape(fr.detail)}\`,\n  },`;
 }
 
 const header = `/**
  * Question-specific in-depth explanations for **game levels 2–10** in \`fallaciesData.ts\`:
  * IDs **91–900** (90 questions per level: level 2 → 91–180, …, level 10 → 811–900).
- * Same contract as Level 0 / Level 1: when an ID is present, the app shows that string as the
- * **full** in-depth panel (no codon wrapper). English and French must stay in structural parity.
- *
- * Progress: see \`/task.md\` at repo root.
- * Generated by scripts/generate-standalone-levels-2-10.mjs — regenerate if bank text changes.
- * Pedagogy: layperson text focused on the named fallacy only (no walkthrough of wrong answer choices);
- * Intermediate/Expert add more examples of the same fallacy plus rules at Expert.
+ * Format: **beginner (one-liner) + detail (full breakdown)**
+ * See \`/task.md\` at repo root for progress.
+ * Generated: \`scripts/generate-standalone-levels-2-10.mjs\`
  */
 
 import type { StandaloneInDepthLevels } from './level0StandaloneInDepth';
@@ -327,7 +226,7 @@ export const LEVELS_2_TO_10_STANDALONE_EN: Partial<Record<number, StandaloneInDe
 
 const mid = `};
 
-/** French — même contrat (parité structurale avec l’anglais) */
+/** French */
 export const LEVELS_2_TO_10_STANDALONE_FR: Partial<Record<number, StandaloneInDepthLevels>> = {`;
 
 const footer = `};
