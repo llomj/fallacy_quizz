@@ -218,6 +218,7 @@ Weber–Fechner Law = you perceive changes proportionally, not absolutely.
 - **Plain language only.** No jargon without a definition. Write for someone with no logic training.
 - **No label soup.** Do not stack bold labels on every line. Use headers + plain prose/bullets.
 - **Concrete examples.** Every Detail panel needs at least **two examples** in different contexts.
+- **No boilerplate examples.** Do not use generic filler like `Same fallacy, different context:` or recycled movie/product examples. Each Detail panel's examples must be specific to that fallacy and meaningfully different from the other example in the same panel.
 - **One-line version is mandatory.** It must appear at the bottom of every Detail panel AND is the text shown in the **Beginner** tier.
 - **EN + FR in the same batch pass.** A batch is incomplete if French is missing. French must follow the same structure and be written in natural French — not a word-for-word translation when the scenario differs for that ID (check `LEVEL_0_GEN_FR` / `FALLACY_QUESTIONS_FR`).
 - **30 questions per batch for the current Levels 2–10 pass.** Process 30 IDs at a time, then stop for a commit/push checkpoint. Do not jump ahead.

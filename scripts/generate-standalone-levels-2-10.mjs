@@ -97,35 +97,158 @@ function tsEscape(s) {
   return String(s).replace(/\\/g, '\\\\').replace(/`/g, '\\`').replace(/\$\{/g, '\\${');
 }
 
+const enEverydayThemes = [
+  'a work meeting',
+  'a classroom discussion',
+  'a family conversation',
+  'a shopping decision',
+  'a local news thread',
+  'a sports debate',
+  'a planning meeting',
+  'a group chat',
+];
+
+const enOtherThemes = [
+  'an email thread',
+  'a comment section',
+  'a hiring decision',
+  'a policy debate',
+  'a team briefing',
+  'a neighborhood discussion',
+  'a product review',
+  'a budget meeting',
+];
+
+const frEverydayThemes = [
+  'une réunion de travail',
+  'une discussion en classe',
+  'une conversation familiale',
+  'un achat',
+  'un fil d’actualité local',
+  'un débat sportif',
+  'une réunion de planification',
+  'une discussion de groupe',
+];
+
+const frOtherThemes = [
+  'un échange de courriels',
+  'une section de commentaires',
+  'une décision d’embauche',
+  'un débat de politique publique',
+  'un briefing d’équipe',
+  'une discussion de quartier',
+  'un avis de produit',
+  'une réunion de budget',
+];
+
+function pickTheme(list, id, offset = 0) {
+  return list[(id + offset) % list.length];
+}
+
+const enSoLines = [
+  'The conclusion sounds stronger than the evidence.',
+  'The real issue gets replaced by a shortcut.',
+  'A quick answer takes the place of careful checking.',
+  'The listener is nudged toward agreement before the claim is tested.',
+  'The missing step stays hidden.',
+  'A weak move can feel persuasive if nobody stops to inspect it.',
+];
+
+const enWhyLines = [
+  'It can make weak reasoning feel normal.',
+  'It can hide the evidence the listener should be looking for.',
+  'It can reward confidence, popularity, or emotion instead of proof.',
+  'It can turn a useful discussion into a distraction.',
+  'It can spread a bad idea simply because the shortcut is easy to repeat.',
+  'It can make the real issue harder to see.',
+];
+
+const enImplicationLines = [
+  'A claim can feel convincing for the wrong reason.',
+  'Confidence is not the same thing as support.',
+  'A good-sounding shortcut can still leave the argument empty.',
+  'If the reasoning is off, the conclusion still needs checking.',
+];
+
+const frSoLines = [
+  'La conclusion paraît plus solide que la preuve.',
+  'Le vrai sujet est remplacé par un raccourci.',
+  'Une réponse rapide prend la place d’un vrai contrôle.',
+  'L’auditeur est poussé vers l’accord avant que l’argument soit testé.',
+  'L’étape manquante reste cachée.',
+  'Un mauvais raisonnement peut sembler convaincant si personne ne l’examine.',
+];
+
+const frWhyLines = [
+  'Cela peut faire passer un raisonnement faible pour normal.',
+  'Cela peut cacher la preuve que l’on devrait vraiment chercher.',
+  'Cela peut récompenser la confiance, la popularité ou l’émotion au lieu de la preuve.',
+  'Cela peut transformer une discussion utile en distraction.',
+  'Cela peut propager une mauvaise idée simplement parce que le raccourci est facile à répéter.',
+  'Cela peut rendre le vrai sujet plus difficile à voir.',
+];
+
+const frImplicationLines = [
+  'Une idée peut paraître convaincante pour la mauvaise raison.',
+  'La confiance n’est pas la même chose qu’une preuve.',
+  'Un raccourci qui sonne bien peut quand même laisser l’argument vide.',
+  'Si le raisonnement est faux, la conclusion doit encore être vérifiée.',
+];
+
+function pickLines(list, id, count = 3, offset = 0) {
+  const out = [];
+  for (let i = 0; i < count; i++) {
+    out.push(list[(id + offset + i) % list.length]);
+  }
+  return out;
+}
+
+function cleanSentence(s) {
+  return String(s).replace(/\s+/g, ' ').trim().replace(/[.]+$/, '');
+}
+
+function lowerFirst(s) {
+  const text = cleanSentence(s);
+  if (!text) return text;
+  return text.charAt(0).toLowerCase() + text.slice(1);
+}
+
 function buildEn(id, q) {
   const scenario = extractScenario(q.question);
   const name = q.options[q.correct];
   const expl = q.explanation;
+  const everydayTheme = pickTheme(enEverydayThemes, id);
+  const otherTheme = pickTheme(enOtherThemes, id, 3);
+  const soLines = pickLines(enSoLines, id);
+  const whyLines = pickLines(enWhyLines, id, 3, 1);
+  const implicationLine = pickLines(enImplicationLines, id, 1, 2)[0];
+  const explClause = lowerFirst(expl);
 
   const beginner = `${name} = ${expl}`;
 
   const detail = `${name}
 
 Description:
-${expl}
-
-${name} = ${expl.slice(-1) === '.' ? expl.slice(0, -1) : expl}
+In this question, the quoted claim is "${scenario}".
+That is ${explClause}.
 
 Example (question)
 « ${scenario} »
 
 Example (everyday)
-Same fallacy, different context:
-- Assuming a popular movie is good because everyone watches it
-- Believing an expensive product works better
+In ${everydayTheme}, someone makes the same mistake by ${explClause}.
+
+Example (another context)
+In ${otherTheme}, the same error shows up when a person is ${explClause} instead of checking the claim.
 
 How it works
-The argument confuses popularity with quality, or familiarity with correctness.
+The argument uses a shortcut instead of real evidence.
+It sounds settled because the speaker is ${explClause}.
 
 So:
-- A widely held belief isn't necessarily true
-- Majority doesn't equal right
-- The real question gets obscured
+- ${soLines[0]}
+- ${soLines[1]}
+- ${soLines[2]}
 
 Key concept inside it
 ${name}:
@@ -133,9 +256,13 @@ ${expl}
 
 Why it matters
 Explains why:
-- Marketing uses "most popular" to mean "best"
-- Social pressure masquerades as evidence
-- The actual argument gets lost
+- ${whyLines[0]}
+- ${whyLines[1]}
+- ${whyLines[2]}
+
+The uncomfortable implication
+${implicationLine}
+The argument can still fail even when it feels obvious.
 
 One-line version
 ${name} = ${expl}`;
@@ -147,31 +274,38 @@ function buildFr(id, q) {
   const scenario = extractScenario(q.question);
   const name = q.options[q.correct];
   const expl = q.explanation;
+  const everydayTheme = pickTheme(frEverydayThemes, id);
+  const otherTheme = pickTheme(frOtherThemes, id, 3);
+  const soLines = pickLines(frSoLines, id);
+  const whyLines = pickLines(frWhyLines, id, 3, 1);
+  const implicationLine = pickLines(frImplicationLines, id, 1, 2)[0];
+  const explClause = lowerFirst(expl);
 
   const beginner = `${name} = ${expl}`;
 
   const detail = `${name}
 
 Description:
-${expl}
-
-${name} = ${expl.slice(-1) === '.' ? expl.slice(0, -1) : expl}
+Dans cette question, la phrase citée est « ${scenario} ».
+C’est ${explClause}.
 
 Exemple (question)
 « ${scenario} »
 
+Exemple (vie courante)
+Dans ${everydayTheme}, quelqu’un commet la même erreur en ${explClause}.
+
 Exemple (autre contexte)
-Même erreur, autre contexte :
-- Supposer qu'un film populaire est bon parce que tout le monde le regarde
-- Croire qu'un produit cher fonctionne mieux
+Dans ${otherTheme}, la même erreur apparaît quand une personne est ${explClause} au lieu de vérifier la proposition.
 
 Comment ça fonctionne
-L'argument confond popularite avec qualite, ou familiarite avec exactitude.
+L’argument utilise un raccourci au lieu d’une vraie preuve.
+Il semble réglé parce que l’orateur ${explClause}.
 
 Donc :
-- Une croyance largement partagée n'est pas nécessairement vraie
-- La majorité n'équivaut pas à correctness
-- La vraie question se perd
+- ${soLines[0]}
+- ${soLines[1]}
+- ${soLines[2]}
 
 Concept clé
 ${name} :
@@ -179,9 +313,13 @@ ${expl}
 
 Pourquoi c'est important
 Explique pourquoi :
-- Le marketing utilise "le plus populaire" pour signifier "le meilleur"
-- La pression sociale se fait passer pour de la preuve
-- L'argument réel se perd
+- ${whyLines[0]}
+- ${whyLines[1]}
+- ${whyLines[2]}
+
+L'implication inconfortable
+${implicationLine}
+L’argument peut encore échouer même quand il semble évident.
 
 En une phrase
 ${name} = ${expl}`;
