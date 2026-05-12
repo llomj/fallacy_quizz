@@ -448,6 +448,13 @@ const App: React.FC = () => {
           </div>
 
           <div className="ml-auto flex items-center gap-2">
+            <div
+              className="flex items-center gap-2 px-3 py-2 rounded-xl bg-white/5 border border-white/10"
+              title="Answer Count"
+            >
+              <i className="fas fa-hashtag text-slate-400 text-sm"></i>
+              <span className="text-sm font-bold text-slate-200">{(stats.totalAttempts ?? stats.history.length).toLocaleString()}</span>
+            </div>
             <div className="relative">
               <button
                 type="button"
@@ -482,13 +489,6 @@ const App: React.FC = () => {
                 onToggleLanguage={toggleLanguage}
                 onResetApp={() => setShowResetModal(true)}
               />
-            </div>
-            <div
-              className="flex items-center gap-2 px-3 py-2 rounded-xl bg-white/5 border border-white/10"
-              title="Answer Count"
-            >
-              <i className="fas fa-hashtag text-slate-400 text-sm"></i>
-              <span className="text-sm font-bold text-slate-200">{(stats.totalAttempts ?? stats.history.length).toLocaleString()}</span>
             </div>
           </div>
         </div>
@@ -624,7 +624,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v40</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v41</p>
       </footer>
 
       {/* Operations View Modal */}
