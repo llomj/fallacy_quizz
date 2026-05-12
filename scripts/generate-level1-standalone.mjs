@@ -1,7 +1,7 @@
 /**
  * Generates LEVEL_1_STANDALONE_EN / FR content for IDs 1–90 from fallaciesData.ts.
+ * Output format: beginner (one-line) + detail (full breakdown).
  * Run: node scripts/generate-level1-standalone.mjs
- * Then paste output into src/data/inDepth/level1StandaloneInDepth.ts (or use stdout redirect).
  */
 import fs from 'fs';
 import path from 'path';
@@ -48,7 +48,6 @@ function parseFallacyBlock(block) {
   const optMatch = block.match(/options:\s*\[([\s\S]*?)\]\s*,\s*correct_option_index/);
   const cm = block.match(/correct_option_index:\s*(\d+)/);
   const expm = block.match(/explanation:\s*"((?:\\.|[^"\\])*)"/);
-  const conc = block.match(/concept:\s*"([^"]*)"/);
   if (!qm || !optMatch || !cm || !expm) return null;
   const question = unescapeTsString(qm[1]);
   const opts = [];
@@ -61,7 +60,6 @@ function parseFallacyBlock(block) {
     options: opts,
     correct: +cm[1],
     explanation: unescapeTsString(expm[1]),
-    concept: conc ? conc[1] : 'Logical Fallacies',
   };
 }
 
@@ -93,192 +91,307 @@ function tsEscape(s) {
   return String(s).replace(/\\/g, '\\\\').replace(/`/g, '\\`').replace(/\$\{/g, '\\${');
 }
 
-/** Layperson in-depth: only the named fallacy—no multiple-choice comparison. Beginner = core; Intermediate = + examples; Expert = + more examples + rules. */
-function mechClause(expl) {
-  const t = expl.trim();
-  if (!t) return 'the reasoning slips in the way described above';
-  const lower = t.charAt(0).toLowerCase() + t.slice(1);
-  return lower.endsWith('.') ? lower.slice(0, -1) : lower;
+const enEverydayThemes = [
+  'a work meeting',
+  'a classroom discussion',
+  'a family conversation',
+  'a shopping decision',
+  'a local news thread',
+  'a sports debate',
+  'a planning meeting',
+  'a group chat',
+];
+
+const enOtherThemes = [
+  'an email thread',
+  'a comment section',
+  'a hiring decision',
+  'a policy debate',
+  'a team briefing',
+  'a neighborhood discussion',
+  'a product review',
+  'a budget meeting',
+];
+
+const frEverydayThemes = [
+  'une réunion de travail',
+  'une discussion en classe',
+  'une conversation familiale',
+  'un achat',
+  'un fil d’actualité local',
+  'un débat sportif',
+  'une réunion de planification',
+  'une discussion de groupe',
+];
+
+const frOtherThemes = [
+  'un échange de courriels',
+  'une section de commentaires',
+  'une décision d’embauche',
+  'un débat de politique publique',
+  'un briefing d’équipe',
+  'une discussion de quartier',
+  'un avis de produit',
+  'une réunion de budget',
+];
+
+const enSoLines = [
+  'The conclusion sounds stronger than the evidence.',
+  'The real issue gets replaced by a shortcut.',
+  'A quick answer takes the place of careful checking.',
+  'The listener is nudged toward agreement before the claim is tested.',
+  'The missing step stays hidden.',
+  'A weak move can feel persuasive if nobody stops to inspect it.',
+];
+
+const enWhyLines = [
+  'It can make weak reasoning feel normal.',
+  'It can hide the evidence the listener should be looking for.',
+  'It can reward confidence, popularity, or emotion instead of proof.',
+  'It can turn a useful discussion into a distraction.',
+  'It can spread a bad idea simply because the shortcut is easy to repeat.',
+  'It can make the real issue harder to see.',
+];
+
+const enImplicationLines = [
+  'A claim can feel convincing for the wrong reason.',
+  'Confidence is not the same thing as support.',
+  'A good-sounding shortcut can still leave the argument empty.',
+  'If the reasoning is off, the conclusion still needs checking.',
+];
+
+const frSoLines = [
+  'La conclusion paraît plus solide que la preuve.',
+  'Le vrai sujet est remplacé par un raccourci.',
+  'Une réponse rapide prend la place d’un vrai contrôle.',
+  'L’auditeur est poussé vers l’accord avant que l’argument soit testé.',
+  'L’étape manquante reste cachée.',
+  'Un mauvais raisonnement peut sembler convaincant si personne ne l’examine.',
+];
+
+const frWhyLines = [
+  'Cela peut faire passer un raisonnement faible pour normal.',
+  'Cela peut cacher la preuve que l’on devrait vraiment chercher.',
+  'Cela peut récompenser la confiance, la popularité ou l’émotion au lieu de la preuve.',
+  'Cela peut transformer une discussion utile en distraction.',
+  'Cela peut propager une mauvaise idée simplement parce que le raccourci est facile à répéter.',
+  'Cela peut rendre le vrai sujet plus difficile à voir.',
+];
+
+const frImplicationLines = [
+  'Une idée peut paraître convaincante pour la mauvaise raison.',
+  'La confiance n’est pas la même chose qu’une preuve.',
+  'Un raccourci qui sonne bien peut quand même laisser l’argument vide.',
+  'Si le raisonnement est faux, la conclusion doit encore être vérifiée.',
+];
+
+function pickTheme(list, id, offset = 0) {
+  return list[(id + offset) % list.length];
 }
 
-function examplesEn(id, name, expl) {
-  const m = mechClause(expl);
-  const cap = m.charAt(0).toUpperCase() + m.slice(1);
-  const settings = [
-    'a policy or workplace discussion',
-    'a health or habits story',
-    'sports or business results',
-    'school grades or test scores',
-    'a family argument',
-    'a news headline or social post',
-  ];
-  const openers = [
-    (s) => `**Setting:** ${s}. **What goes wrong:** ${cap}.`,
-    (s) => `Imagine ${s}. The slip is the same: ${m}.`,
-    (s) => `Picture ${s}. People often reason as if ${m}.`,
-    (s) => `In ${s}, watch for this pattern: ${cap}.`,
-    (s) => `Another everyday spot: ${s}. ${cap}.`,
-  ];
-  const lines = [];
-  for (let k = 0; k < 5; k++) {
-    const s = settings[(id + k * 2) % settings.length];
-    const fn = openers[(id + k) % openers.length];
-    lines.push(`- **Example ${k + 1}:** ${fn(s)}`);
+function pickLines(list, id, count = 3, offset = 0) {
+  const out = [];
+  for (let i = 0; i < count; i++) {
+    out.push(list[(id + offset + i) % list.length]);
   }
-  return lines;
+  return out;
 }
 
-function examplesFr(id, name, expl) {
-  const m = mechClause(expl);
-  const cap = m.charAt(0).toUpperCase() + m.slice(1);
-  const settings = [
-    'un débat sur une politique ou au travail',
-    'un récit sur la santé ou les habitudes',
-    'des résultats sportifs ou d’entreprise',
-    'des notes ou examens',
-    'une discussion en famille',
-    'un titre de presse ou un fil sur les réseaux',
-  ];
-  const openers = [
-    (s) => `**Contexte :** ${s}. **Ce qui cloche :** ${cap}.`,
-    (s) => `Imaginez ${s}. C’est la même erreur : ${m}.`,
-    (s) => `Pensez à ${s}. Souvent, on raisonne comme si ${m}.`,
-    (s) => `Dans ${s}, repérez ce schéma : ${cap}.`,
-    (s) => `Autre situation courante : ${s}. ${cap}.`,
-  ];
-  const lines = [];
-  for (let k = 0; k < 5; k++) {
-    const s = settings[(id + k * 2) % settings.length];
-    const fn = openers[(id + k) % openers.length];
-    lines.push(`- **Exemple ${k + 1} :** ${fn(s)}`);
+function cleanSentence(s) {
+  return String(s).replace(/\s+/g, ' ').trim().replace(/[.]+$/, '');
+}
+
+function lowerFirst(s) {
+  const text = cleanSentence(s);
+  if (!text) return text;
+  return text.charAt(0).toLowerCase() + text.slice(1);
+}
+
+function getCue(name, locale) {
+  const n = name.toLowerCase();
+  const en = {
+    'ad hominem': 'as if insulting the person could answer the argument',
+    'appeal to authority': 'as if a respected person being convinced made the claim true',
+    'appeal to popularity': 'as if many people repeating it made it correct',
+    'appeal to tradition': 'as if age alone made a habit right',
+    'appeal to novelty': 'as if being new made it better',
+    'appeal to emotion': 'as if feeling strongly were the same as proving the point',
+    'appeal to fear': 'as if a scare story counted as evidence',
+    'appeal to ignorance': 'as if lack of disproof counted as proof',
+    'appeal to incredulity': 'as if "I cannot imagine it" were a refutation',
+    'anecdotal fallacy': 'as if one story could replace the bigger pattern',
+    'base rate fallacy': 'as if the base rate did not matter',
+    'begging the question': 'as if the conclusion could quietly act as its own support',
+    'biased sample': 'as if a narrow sample stood for everyone',
+    'causal oversimplification': 'as if one obvious cause explained everything',
+    'cherry picking': 'as if only the convenient evidence counted',
+    'complex question': 'as if the question already smuggled in a hidden claim',
+    'false analogy': 'as if two things being similar in one way made them similar in the needed way',
+    'false dilemma': 'as if there were only two choices',
+    'genetic fallacy': 'as if the origin of an idea decided whether it was true',
+    'guilt by association': 'as if the people nearby proved the claim',
+    'halo effect': 'as if one good trait guaranteed all the others',
+    'hasty generalization': 'as if one case proved the whole group',
+    'irrelevant conclusion': 'as if the conclusion followed even though it did not',
+    'missing the point': 'as if answering a nearby question solved the real one',
+    'reification': 'as if an abstract idea were a real person or object',
+    'red herring': 'as if a side issue could replace the main issue',
+    'regression fallacy': 'as if a normal swing were caused by the last thing that happened',
+    'slippery slope': 'as if one small step automatically led to the worst outcome',
+    'straw man': 'as if a weaker version of the argument were the real one',
+    'weak analogy': 'as if a shallow comparison proved the point',
+  };
+  const fr = {
+    'ad hominem': "comme si insulter la personne suffisait à répondre à l'argument",
+    'appeal to authority': "comme si le fait qu'une personne respectée y croit rendait la proposition vraie",
+    'appeal to popularity': "comme si le fait que beaucoup de gens le répètent le rendait correct",
+    'appeal to tradition': "comme si l'ancienneté suffisait à rendre une habitude juste",
+    'appeal to novelty': "comme si le fait d'être nouveau le rendait meilleur",
+    'appeal to emotion': "comme si une forte émotion remplaçait la preuve",
+    'appeal to fear': "comme si un récit alarmiste comptait comme preuve",
+    'appeal to ignorance': "comme si l'absence de preuve contraire prouvait la chose",
+    'appeal to incredulity': "comme si le fait de ne pas pouvoir l'imaginer suffisait à le réfuter",
+    'anecdotal fallacy': "comme si une seule histoire pouvait remplacer l'ensemble",
+    'base rate fallacy': "comme si le taux de base n'avait pas d'importance",
+    'begging the question': "comme si la conclusion pouvait servir discrètement de preuve",
+    'biased sample': "comme si un échantillon étroit représentait tout le monde",
+    'causal oversimplification': "comme si une cause évidente expliquait tout",
+    'cherry picking': "comme si seules les preuves commodes comptaient",
+    'complex question': "comme si la question contenait déjà une affirmation cachée",
+    'false analogy': "comme si une ressemblance superficielle suffisait à prouver la ressemblance utile",
+    'false dilemma': "comme s'il n'existait que deux choix",
+    'genetic fallacy': "comme si l'origine d'une idée décidait si elle est vraie",
+    'guilt by association': "comme si les personnes autour prouvaient la proposition",
+    'halo effect': "comme si une qualité positive garantissait toutes les autres",
+    'hasty generalization': "comme si un seul cas prouvait tout le groupe",
+    'irrelevant conclusion': "comme si la conclusion suivait alors qu'elle ne suit pas",
+    'missing the point': "comme si répondre à une question voisine réglait la vraie question",
+    'reification': "comme si une idée abstraite était une personne ou un objet réel",
+    'red herring': "comme si un sujet secondaire pouvait remplacer le sujet principal",
+    'regression fallacy': "comme si une variation normale venait forcément du dernier événement",
+    'slippery slope': "comme si un petit pas menait automatiquement au pire scénario",
+    'straw man': "comme si une version affaiblie de l'argument était la vraie",
+    'weak analogy': "comme si une comparaison superficielle prouvait le point",
+  };
+  const table = locale === 'fr' ? fr : en;
+  for (const key of Object.keys(table)) {
+    if (n.includes(key)) return table[key];
   }
-  return lines;
+  return locale === 'fr'
+    ? "comme si le raccourci suffisait à prouver la conclusion"
+    : 'as if the shortcut alone were enough to prove the conclusion';
 }
 
 function buildEn(id, q) {
   const scenario = extractScenario(q.question);
   const name = q.options[q.correct];
   const expl = q.explanation;
-  const ex = examplesEn(id, name, expl);
+  const cue = getCue(name, 'en');
+  const everydayTheme = pickTheme(enEverydayThemes, id);
+  const otherTheme = pickTheme(enOtherThemes, id, 3);
+  const soLines = pickLines(enSoLines, id);
+  const whyLines = pickLines(enWhyLines, id, 3, 1);
+  const implicationLine = pickLines(enImplicationLines, id, 1, 2)[0];
 
-  const capExplain = expl.trim().endsWith('.') ? expl.trim() : `${expl.trim()}.`;
+  return {
+    beginner: `${name} = ${expl}`,
+    detail: `${name}
 
-  const beginner = `## ${name} — in-depth (Beginner)
+Description:
+In this question, the quoted claim is "${scenario}".
+That is ${cue}.
 
-**What this is, in plain English**  
+Example (question)
+« ${scenario} »
+
+Example (everyday)
+In ${everydayTheme}, someone says "${scenario}" ${cue}.
+
+Example (another context)
+In ${otherTheme}, the same error shows up when people treat the claim ${cue}.
+
+How it works
+The argument uses a shortcut instead of real evidence.
+It sounds settled because the speaker is doing that ${cue}.
+
+So:
+- ${soLines[0]}
+- ${soLines[1]}
+- ${soLines[2]}
+
+Key concept inside it
+${name}:
 ${expl}
 
-**The example you’re looking at**  
-« ${scenario} »  
+Why it matters
+Explains why:
+- ${whyLines[0]}
+- ${whyLines[1]}
+- ${whyLines[2]}
 
-**Why this is ${name}**  
-${capExplain} That is what this label is pointing to in the passage above.
+The uncomfortable implication
+${implicationLine}
+The argument can still fail even when it feels obvious.
 
-**Takeaway**  
-${expl}`;
-
-  const intermediate = `## ${name} — in-depth (Intermediate)
-
-**What this is, in plain English**  
-${expl}
-
-**This example**  
-« ${scenario} »  
-
-The passage shows **${name}** in action: ${mechClause(expl)}.
-
-**More examples (same fallacy only)**  
-${ex.slice(0, 3).join('\n\n')}
-
-**In one sentence**  
-${name} is the label for reasoning that fits: ${expl}`;
-
-  const expert = `## ${name} — in-depth (Expert)
-
-**Definition**  
-${expl}
-
-**Applied to this passage**  
-« ${scenario.slice(0, 700)}${scenario.length > 700 ? '…' : ''} »  
-
-Here, **${name}** is the right name because ${mechClause(expl)}.
-
-**More examples (same fallacy only)**  
-${ex.join('\n\n')}
-
-**Rules and checks (useful habits)**  
-- **Anchor:** Start from the bank definition—**${name}** means ${expl}
-- **Slow down:** Separate what happened from what someone *claims* caused it; coincidence is not proof.
-- **Ask:** What else could explain the same outcome, even if it is less exciting than the story being told?
-- **Stay focused:** Does this passage mainly illustrate the pattern in the definition above?
-
-**Topic (bank)**  
-${q.concept}`;
-
-  return { beginner, intermediate, expert };
+One-line version
+${name} = ${expl}`,
+  };
 }
 
 function buildFr(id, q) {
   const scenario = extractScenario(q.question);
   const name = q.options[q.correct];
   const expl = q.explanation;
-  const ex = examplesFr(id, name, expl);
+  const cue = getCue(name, 'fr');
+  const everydayTheme = pickTheme(frEverydayThemes, id);
+  const otherTheme = pickTheme(frOtherThemes, id, 3);
+  const soLines = pickLines(frSoLines, id);
+  const whyLines = pickLines(frWhyLines, id, 3, 1);
+  const implicationLine = pickLines(frImplicationLines, id, 1, 2)[0];
 
-  const capExplainFr = expl.trim().endsWith('.') ? expl.trim() : `${expl.trim()}.`;
+  return {
+    beginner: `${name} = ${expl}`,
+    detail: `${name}
 
-  const beginner = `## ${name} — approfondi (Débutant)
+Description:
+Dans cette question, la phrase citée est « ${scenario} ».
+C’est ${cue}.
 
-**En termes simples**  
+Exemple (question)
+« ${scenario} »
+
+Exemple (vie courante)
+Dans ${everydayTheme}, quelqu’un dit « ${scenario} » ${cue}.
+
+Exemple (autre contexte)
+Dans ${otherTheme}, la même erreur apparaît quand on traite la proposition ${cue}.
+
+Comment ça fonctionne
+L’argument utilise un raccourci au lieu d’une vraie preuve.
+Il semble réglé parce que l’orateur fait cela ${cue}.
+
+Donc :
+- ${soLines[0]}
+- ${soLines[1]}
+- ${soLines[2]}
+
+Concept clé
+${name} :
 ${expl}
 
-**L’exemple affiché**  
-« ${scenario} »  
+Pourquoi c'est important
+Explique pourquoi :
+- ${whyLines[0]}
+- ${whyLines[1]}
+- ${whyLines[2]}
 
-**Pourquoi c’est bien ${name}**  
-${capExplainFr} C’est ce que ce libellé vise dans le passage ci-dessus.
+L'implication inconfortable
+${implicationLine}
+L’argument peut encore échouer même quand il semble évident.
 
-**À retenir**  
-${expl}`;
-
-  const intermediate = `## ${name} — approfondi (Intermédiaire)
-
-**En termes simples**  
-${expl}
-
-**Cet exemple**  
-« ${scenario} »  
-
-Le passage montre **${name}** : ${mechClause(expl)}.
-
-**Autres exemples (même erreur seulement)**  
-${ex.slice(0, 3).join('\n\n')}
-
-**En une phrase**  
-**${name}**, c’est quand le raisonnement correspond à : ${expl}`;
-
-  const expert = `## ${name} — approfondi (Expert)
-
-**Définition**  
-${expl}
-
-**Appliqué à ce passage**  
-« ${scenario.slice(0, 700)}${scenario.length > 700 ? '…' : ''} »  
-
-Ici, **${name}** convient parce que ${mechClause(expl)}.
-
-**Autres exemples (même erreur seulement)**  
-${ex.join('\n\n')}
-
-**Règles et repères**  
-- **Ancrage :** repartir de la définition—**${name}**, c’est ${expl}
-- **Ralentir :** distinguer ce qui s’est passé de ce qu’on *dit* qui l’a causé ; la coïncidence ne prouve pas.
-- **Question :** qu’est-ce qui pourrait expliquer le même résultat autrement, même si c’est moins spectaculaire ?
-- **Cible :** le passage illustre-t-il surtout le schéma décrit dans la définition ci-dessus ?
-
-**Thème (banque)**  
-${q.concept}`;
-
-  return { beginner, intermediate, expert };
+En une phrase
+${name} = ${expl}`,
+  };
 }
 
 let enBody = '';
@@ -299,19 +412,15 @@ for (let id = 1; id <= 90; id++) {
   }
   const en = buildEn(id, enQ);
   const fr = buildFr(id, frQ);
-  enBody += `\n  ${id}: {\n    beginner: \`${tsEscape(en.beginner)}\`,\n    intermediate: \`${tsEscape(en.intermediate)}\`,\n    expert: \`${tsEscape(en.expert)}\`,\n  },`;
-  frBody += `\n  ${id}: {\n    beginner: \`${tsEscape(fr.beginner)}\`,\n    intermediate: \`${tsEscape(fr.intermediate)}\`,\n    expert: \`${tsEscape(fr.expert)}\`,\n  },`;
+  enBody += `\n  ${id}: {\n    beginner: \`${tsEscape(en.beginner)}\`,\n    detail: \`${tsEscape(en.detail)}\`,\n  },`;
+  frBody += `\n  ${id}: {\n    beginner: \`${tsEscape(fr.beginner)}\`,\n    detail: \`${tsEscape(fr.detail)}\`,\n  },`;
 }
 
 const header = `/**
  * Question-specific in-depth explanations for **Level 1** (Plankton): IDs **1–90** in \`fallaciesData.ts\`.
- * Same contract as Level 0 (\`level0StandaloneInDepth.ts\`): when an ID is present, the app shows that
- * string as the **full** in-depth panel (no codon wrapper). English and French must stay in structural parity.
- *
+ * Format: beginner (one-liner) + detail (full breakdown).
  * Progress: see \`/task.md\` at repo root.
- * Generated by scripts/generate-level1-standalone.mjs — regenerate if bank text changes.
- * Pedagogy: layperson text focused on the named fallacy only (no walkthrough of wrong answer choices);
- * Intermediate/Expert add more examples of the same fallacy plus rules at Expert.
+ * Generated by scripts/generate-level1-standalone.mjs
  */
 
 import type { StandaloneInDepthLevels } from './level0StandaloneInDepth';
@@ -321,7 +430,7 @@ export const LEVEL_1_STANDALONE_EN: Partial<Record<number, StandaloneInDepthLeve
 
 const mid = `};
 
-/** French — même contrat (parité structurale avec l’anglais) */
+/** French */
 export const LEVEL_1_STANDALONE_FR: Partial<Record<number, StandaloneInDepthLevels>> = {`;
 
 const footer = `};
@@ -330,4 +439,4 @@ const footer = `};
 const out = header + enBody + '\n' + mid + frBody + '\n' + footer;
 const outPath = path.join(root, 'src/data/inDepth/level1StandaloneInDepth.ts');
 fs.writeFileSync(outPath, out);
-console.log('Wrote', outPath, 'bytes', out.length);
+console.log('Wrote', outPath, 'chars', out.length);
