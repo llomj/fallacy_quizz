@@ -213,6 +213,81 @@ function lowerFirst(s) {
   return text.charAt(0).toLowerCase() + text.slice(1);
 }
 
+function getCue(name, locale) {
+  const n = name.toLowerCase();
+  const en = {
+    'ad hominem': 'as if insulting the person could answer the argument',
+    'appeal to authority': 'as if a respected person being convinced made the claim true',
+    'appeal to popularity': 'as if many people repeating it made it correct',
+    'appeal to tradition': 'as if age alone made a habit right',
+    'appeal to novelty': 'as if being new made it better',
+    'appeal to emotion': 'as if feeling strongly were the same as proving the point',
+    'appeal to fear': 'as if a scare story counted as evidence',
+    'appeal to ignorance': 'as if lack of disproof counted as proof',
+    'appeal to incredulity': 'as if "I cannot imagine it" were a refutation',
+    'anecdotal fallacy': 'as if one story could replace the bigger pattern',
+    'base rate fallacy': 'as if the base rate did not matter',
+    'begging the question': 'as if the conclusion could quietly act as its own support',
+    'biased sample': 'as if a narrow sample stood for everyone',
+    'causal oversimplification': 'as if one obvious cause explained everything',
+    'cherry picking': 'as if only the convenient evidence counted',
+    'complex question': 'as if the question already smuggled in a hidden claim',
+    'false analogy': 'as if two things being similar in one way made them similar in the needed way',
+    'false dilemma': 'as if there were only two choices',
+    'genetic fallacy': 'as if the origin of an idea decided whether it was true',
+    'guilt by association': 'as if the people nearby proved the claim',
+    'halo effect': 'as if one good trait guaranteed all the others',
+    'hasty generalization': 'as if one case proved the whole group',
+    'irrelevant conclusion': 'as if the conclusion followed even though it did not',
+    'missing the point': 'as if answering a nearby question solved the real one',
+    'reification': 'as if an abstract idea were a real person or object',
+    'red herring': 'as if a side issue could replace the main issue',
+    'regression fallacy': 'as if a normal swing were caused by the last thing that happened',
+    'slippery slope': 'as if one small step automatically led to the worst outcome',
+    'straw man': 'as if a weaker version of the argument were the real one',
+    'weak analogy': 'as if a shallow comparison proved the point',
+  };
+  const fr = {
+    'ad hominem': "comme si insulter la personne suffisait à répondre à l'argument",
+    'appeal to authority': "comme si le fait qu'une personne respectée y croit rendait la proposition vraie",
+    'appeal to popularity': "comme si le fait que beaucoup de gens le répètent le rendait correct",
+    'appeal to tradition': "comme si l'ancienneté suffisait à rendre une habitude juste",
+    'appeal to novelty': "comme si le fait d'être nouveau le rendait meilleur",
+    'appeal to emotion': "comme si une forte émotion remplaçait la preuve",
+    'appeal to fear': "comme si un récit alarmiste comptait comme preuve",
+    'appeal to ignorance': "comme si l'absence de preuve contraire prouvait la chose",
+    'appeal to incredulity': "comme si le fait de ne pas pouvoir l'imaginer suffisait à le réfuter",
+    'anecdotal fallacy': "comme si une seule histoire pouvait remplacer l'ensemble",
+    'base rate fallacy': "comme si le taux de base n'avait pas d'importance",
+    'begging the question': "comme si la conclusion pouvait servir discrètement de preuve",
+    'biased sample': "comme si un échantillon étroit représentait tout le monde",
+    'causal oversimplification': "comme si une cause évidente expliquait tout",
+    'cherry picking': "comme si seules les preuves commodes comptaient",
+    'complex question': "comme si la question contenait déjà une affirmation cachée",
+    'false analogy': "comme si une ressemblance superficielle suffisait à prouver la ressemblance utile",
+    'false dilemma': "comme s'il n'existait que deux choix",
+    'genetic fallacy': "comme si l'origine d'une idée décidait si elle est vraie",
+    'guilt by association': "comme si les personnes autour prouvaient la proposition",
+    'halo effect': "comme si une qualité positive garantissait toutes les autres",
+    'hasty generalization': "comme si un seul cas prouvait tout le groupe",
+    'irrelevant conclusion': "comme si la conclusion suivait alors qu'elle ne suit pas",
+    'missing the point': "comme si répondre à une question voisine réglait la vraie question",
+    'reification': "comme si une idée abstraite était une personne ou un objet réel",
+    'red herring': "comme si un sujet secondaire pouvait remplacer le sujet principal",
+    'regression fallacy': "comme si une variation normale venait forcément du dernier événement",
+    'slippery slope': "comme si un petit pas menait automatiquement au pire scénario",
+    'straw man': "comme si une version affaiblie de l'argument était la vraie",
+    'weak analogy': "comme si une comparaison superficielle prouvait le point",
+  };
+  const table = locale === 'fr' ? fr : en;
+  for (const key of Object.keys(table)) {
+    if (n.includes(key)) return table[key];
+  }
+  return locale === 'fr'
+    ? "comme si le raccourci suffisait à prouver la conclusion"
+    : 'as if the shortcut alone were enough to prove the conclusion';
+}
+
 function buildEn(id, q) {
   const scenario = extractScenario(q.question);
   const name = q.options[q.correct];
@@ -222,7 +297,7 @@ function buildEn(id, q) {
   const soLines = pickLines(enSoLines, id);
   const whyLines = pickLines(enWhyLines, id, 3, 1);
   const implicationLine = pickLines(enImplicationLines, id, 1, 2)[0];
-  const explClause = lowerFirst(expl);
+  const cue = getCue(name, 'en');
 
   const beginner = `${name} = ${expl}`;
 
@@ -230,20 +305,20 @@ function buildEn(id, q) {
 
 Description:
 In this question, the quoted claim is "${scenario}".
-That is ${explClause}.
+That is ${cue}.
 
 Example (question)
 « ${scenario} »
 
 Example (everyday)
-In ${everydayTheme}, someone makes the same mistake by ${explClause}.
+In ${everydayTheme}, someone says "${scenario}" ${cue}.
 
 Example (another context)
-In ${otherTheme}, the same error shows up when a person is ${explClause} instead of checking the claim.
+In ${otherTheme}, the same error shows up when people treat the claim ${cue}.
 
 How it works
 The argument uses a shortcut instead of real evidence.
-It sounds settled because the speaker is ${explClause}.
+It sounds settled because the speaker is doing that ${cue}.
 
 So:
 - ${soLines[0]}
@@ -279,7 +354,7 @@ function buildFr(id, q) {
   const soLines = pickLines(frSoLines, id);
   const whyLines = pickLines(frWhyLines, id, 3, 1);
   const implicationLine = pickLines(frImplicationLines, id, 1, 2)[0];
-  const explClause = lowerFirst(expl);
+  const cue = getCue(name, 'fr');
 
   const beginner = `${name} = ${expl}`;
 
@@ -287,20 +362,20 @@ function buildFr(id, q) {
 
 Description:
 Dans cette question, la phrase citée est « ${scenario} ».
-C’est ${explClause}.
+C’est ${cue}.
 
 Exemple (question)
 « ${scenario} »
 
 Exemple (vie courante)
-Dans ${everydayTheme}, quelqu’un commet la même erreur en ${explClause}.
+Dans ${everydayTheme}, quelqu’un dit « ${scenario} » ${cue}.
 
 Exemple (autre contexte)
-Dans ${otherTheme}, la même erreur apparaît quand une personne est ${explClause} au lieu de vérifier la proposition.
+Dans ${otherTheme}, la même erreur apparaît quand on traite la proposition ${cue}.
 
 Comment ça fonctionne
 L’argument utilise un raccourci au lieu d’une vraie preuve.
-Il semble réglé parce que l’orateur ${explClause}.
+Il semble réglé parce que l’orateur fait cela ${cue}.
 
 Donc :
 - ${soLines[0]}
