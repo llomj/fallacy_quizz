@@ -459,7 +459,7 @@ const App: React.FC = () => {
               <button
                 type="button"
                 onClick={() => { playClickSound(); setShowSettingsMenu(!showSettingsMenu); }}
-                className="flex items-center justify-center w-9 h-9 rounded-xl bg-white/10 border border-white/10 hover:bg-white/20 text-slate-400 hover:text-white transition-colors"
+                className="flex items-center justify-center w-9 h-9 rounded-xl bg-white/25 border border-white/10 hover:bg-white/30 text-slate-400 hover:text-white transition-colors"
                 title={t('settings.settings')}
                 aria-label={t('settings.settings')}
               >
@@ -624,7 +624,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v42</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v43</p>
       </footer>
 
       {/* Operations View Modal */}
