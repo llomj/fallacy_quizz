@@ -57,6 +57,7 @@ interface SettingsMenuProps {
   lightMode?: boolean;
   onToggleLightMode?: () => void;
   onShowGlossary?: () => void;
+  onShowGameRules?: () => void;
   onShowArgumentation?: () => void;
   onShowIdSearch?: (initialId?: number) => void;
   onShowIdLog?: () => void;
@@ -82,6 +83,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   lightMode = false,
   onToggleLightMode,
   onShowGlossary,
+  onShowGameRules,
   onShowArgumentation,
   onShowIdSearch,
   onShowIdLog,
@@ -132,7 +134,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
 
   if (!isOpen) return null;
 
-  const hasRulesContent = Boolean(onShowArgumentation || onShowGlossary);
+  const hasRulesContent = Boolean(onShowGameRules || onShowArgumentation || onShowGlossary);
   const withClickSound = (fn: () => void) => () => { onPlayClickSound?.(); fn(); };
 
   // Fixed order (see AGENTS.md §11): do not change unless explicitly requested.
@@ -317,7 +319,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     );
   }
 
-  // When Rules submenu is open, show only Back + Logical rules + Glossary (same-size panel, no enlargement)
+  // When Rules submenu is open, show only Back + rules/info entries (same-size panel, no enlargement)
   if (rulesSubmenuOpen && hasRulesContent) {
     return (
       <>
@@ -331,6 +333,15 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               <i className="fas fa-arrow-left text-sm w-5 flex-shrink-0"></i>
               <span className="text-sm font-medium">{t('settings.back')}</span>
             </button>
+            {onShowGameRules && (
+              <button
+                onClick={withClickSound(() => { onShowGameRules(); onClose(); })}
+                className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+              >
+                <i className="fas fa-circle-info text-sm w-5 flex-shrink-0"></i>
+                <span className="text-sm font-medium">{t('gameRules.title')}</span>
+              </button>
+            )}
             {onShowArgumentation && (
               <button
                 onClick={withClickSound(() => { onShowArgumentation(); onClose(); })}

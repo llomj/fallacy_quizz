@@ -448,15 +448,41 @@ const App: React.FC = () => {
           </div>
 
           <div className="ml-auto flex items-center gap-2">
-            <button
-              type="button"
-              onClick={() => { playClickSound(); setShowGameRulesModal(true); }}
-              className="flex items-center justify-center w-9 h-9 rounded-xl bg-white/5 border border-white/10 hover:bg-white/10 text-slate-400 hover:text-yellow-300 transition-colors"
-              title={t('gameRules.title')}
-              aria-label={t('gameRules.title')}
-            >
-              <i className="fas fa-circle-info text-sm"></i>
-            </button>
+            <div className="relative">
+              <button
+                type="button"
+                onClick={() => { playClickSound(); setShowSettingsMenu(!showSettingsMenu); }}
+                className="flex items-center justify-center w-9 h-9 rounded-xl bg-white/5 border border-white/10 hover:bg-white/10 text-slate-400 hover:text-white transition-colors"
+                title={t('settings.settings')}
+                aria-label={t('settings.settings')}
+              >
+                <i className="fas fa-gear text-sm"></i>
+              </button>
+              <SettingsMenu
+                isOpen={showSettingsMenu}
+                onClose={() => setShowSettingsMenu(false)}
+                onPlayClickSound={playClickSound}
+                view={view}
+                randomMode={randomMode}
+                onToggleRandomMode={view === 'hub' || view === 'quiz' ? handleRandomModeToggle : undefined}
+                soundEnabled={prefs.soundEnabled}
+                onToggleSound={() => setPrefs(p => ({ ...p, soundEnabled: !p.soundEnabled }))}
+                hapticEnabled={prefs.hapticEnabled}
+                onToggleHaptic={() => setPrefs(p => ({ ...p, hapticEnabled: !p.hapticEnabled }))}
+                lightMode={prefs.lightMode}
+                onToggleLightMode={() => setPrefs(p => ({ ...p, lightMode: !p.lightMode }))}
+                onShowGameRules={() => setShowGameRulesModal(true)}
+                onShowGlossary={() => setView('glossary')}
+                onShowArgumentation={() => setShowArgumentation(true)}
+                onShowIdSearch={(initialId?: number) => { setIdSearchInitialId(initialId ?? null); setShowIdSearch(true); }}
+                onShowIdLog={() => setShowIdLog(true)}
+                onShowLearningLog={() => setView('log')}
+                onShowFallacyLog={() => setShowFallacyLog(true)}
+                onShowLevelSelector={() => setShowLevelSelector(true)}
+                onToggleLanguage={toggleLanguage}
+                onResetApp={() => setShowResetModal(true)}
+              />
+            </div>
             <div
               className="flex items-center gap-2 px-3 py-2 rounded-xl bg-white/5 border border-white/10"
               title="Answer Count"
@@ -468,41 +494,6 @@ const App: React.FC = () => {
         </div>
 
       </nav>
-
-      {/* Settings at bottom - pb lifts gear above iPhone home-indicator; min 2rem when env is 0 in PWA */}
-      <div className="fixed bottom-0 left-0 right-0 z-40 flex justify-center pb-[max(2rem,env(safe-area-inset-bottom))] pt-2 bg-gradient-to-t from-slate-950 to-transparent">
-        <button
-          onClick={() => { playClickSound(); setShowSettingsMenu(!showSettingsMenu); }}
-          className="w-16 h-16 flex items-center justify-center rounded-2xl border border-white/10 bg-white/5 hover:bg-white/10 text-slate-400 hover:text-white transition-all shadow-lg min-w-[64px] min-h-[64px]"
-          title={t('settings.settings')}
-        >
-          <i className="fas fa-gear text-xl"></i>
-        </button>
-      </div>
-      <SettingsMenu
-        isOpen={showSettingsMenu}
-        onClose={() => setShowSettingsMenu(false)}
-        onPlayClickSound={playClickSound}
-        view={view}
-        anchorBottom
-        randomMode={randomMode}
-        onToggleRandomMode={view === 'hub' || view === 'quiz' ? handleRandomModeToggle : undefined}
-        soundEnabled={prefs.soundEnabled}
-        onToggleSound={() => setPrefs(p => ({ ...p, soundEnabled: !p.soundEnabled }))}
-        hapticEnabled={prefs.hapticEnabled}
-        onToggleHaptic={() => setPrefs(p => ({ ...p, hapticEnabled: !p.hapticEnabled }))}
-        lightMode={prefs.lightMode}
-        onToggleLightMode={() => setPrefs(p => ({ ...p, lightMode: !p.lightMode }))}
-        onShowGlossary={() => setView('glossary')}
-        onShowArgumentation={() => setShowArgumentation(true)}
-        onShowIdSearch={(initialId?: number) => { setIdSearchInitialId(initialId ?? null); setShowIdSearch(true); }}
-        onShowIdLog={() => setShowIdLog(true)}
-        onShowLearningLog={() => setView('log')}
-        onShowFallacyLog={() => setShowFallacyLog(true)}
-        onShowLevelSelector={() => setShowLevelSelector(true)}
-        onToggleLanguage={toggleLanguage}
-        onResetApp={() => setShowResetModal(true)}
-      />
 
       <main className="container mx-auto px-4 py-1 max-w-4xl min-h-[calc(100dvh-160px)]">
         {view === 'quiz' ? (
@@ -633,7 +624,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v39</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v40</p>
       </footer>
 
       {/* Operations View Modal */}
