@@ -2,21 +2,26 @@ import type { Question } from './types';
 import { FALLACY_QUESTIONS_EN, FALLACY_QUESTIONS_FR } from './data/questions/fallaciesData';
 import { LEVEL_0_GEN_EN, LEVEL_0_GEN_FR } from './data/questions/level0Data';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
+import { LEVEL_2_OVERRIDES_EN, LEVEL_2_OVERRIDES_FR } from './data/questions/level2Overrides';
 
 function applyQuestionOverrides(base: Question[], overrides: Question[]): Question[] {
   const overrideMap = new Map(overrides.map((question) => [question.id, question]));
   return base.map((question) => overrideMap.get(question.id) ?? question);
 }
 
+function applyAllQuestionOverrides(base: Question[], overrideSets: Question[][]): Question[] {
+  return overrideSets.reduce((questions, overrides) => applyQuestionOverrides(questions, overrides), base);
+}
+
 // Level 0 owns IDs 1001–1300. Filter out any overlapping legacy entries from
 // fallaciesData so every question ID resolves to exactly one canonical record.
-const FALLACY_GAME_IDS_ONLY_EN = applyQuestionOverrides(
+const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
   FALLACY_QUESTIONS_EN.filter((q) => q.id < 1000),
-  LEVEL_1_OVERRIDES_EN
+  [LEVEL_1_OVERRIDES_EN, LEVEL_2_OVERRIDES_EN]
 );
-const FALLACY_GAME_IDS_ONLY_FR = applyQuestionOverrides(
+const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
   FALLACY_QUESTIONS_FR.filter((q) => q.id < 1000),
-  LEVEL_1_OVERRIDES_FR
+  [LEVEL_1_OVERRIDES_FR, LEVEL_2_OVERRIDES_FR]
 );
 
 export const QUESTIONS_BANK_EN: Question[] = [...FALLACY_GAME_IDS_ONLY_EN, ...LEVEL_0_GEN_EN];
