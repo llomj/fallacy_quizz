@@ -50,21 +50,22 @@ const ViewLoading: React.FC = () => (
   </div>
 );
 
-const DEFAULT_PREFS = { soundEnabled: true, hapticEnabled: true, lightMode: false };
+const DEFAULT_PREFS = { soundEnabled: true, hapticEnabled: true, lightMode: false, panelOpacity: 20 };
 
 const App: React.FC = () => {
   const { language, setLanguage, t } = useLanguage();
   const [stats, setStats] = useState<UserStats>(INITIAL_STATS);
-  const [prefs, setPrefs] = useState<{ soundEnabled: boolean; hapticEnabled: boolean; lightMode: boolean }>(() => {
+  const [prefs, setPrefs] = useState<{ soundEnabled: boolean; hapticEnabled: boolean; lightMode: boolean; panelOpacity: number }>(() => {
     if (typeof window === 'undefined') return DEFAULT_PREFS;
     try {
       const raw = localStorage.getItem(PREFS_STORAGE_KEY);
       if (raw) {
-        const p = JSON.parse(raw) as { soundEnabled?: boolean; hapticEnabled?: boolean; lightMode?: boolean };
+        const p = JSON.parse(raw) as { soundEnabled?: boolean; hapticEnabled?: boolean; lightMode?: boolean; panelOpacity?: number };
         return {
           soundEnabled: p.soundEnabled !== false,
           hapticEnabled: p.hapticEnabled !== false,
-          lightMode: p.lightMode === true
+          lightMode: p.lightMode === true,
+          panelOpacity: typeof p.panelOpacity === 'number' ? p.panelOpacity : 20
         };
       }
     } catch (_) {}
@@ -459,7 +460,7 @@ const App: React.FC = () => {
               <button
                 type="button"
                 onClick={() => { playClickSound(); setShowSettingsMenu(!showSettingsMenu); }}
-                className="flex items-center justify-center w-11 h-11 rounded-xl bg-white/25 border border-white/10 hover:bg-white/30 text-slate-400 hover:text-white transition-colors"
+                className="flex items-center justify-center w-11 h-11 text-slate-400 hover:text-white transition-colors"
                 title={t('settings.settings')}
                 aria-label={t('settings.settings')}
               >
@@ -488,6 +489,8 @@ const App: React.FC = () => {
                 onShowLevelSelector={() => setShowLevelSelector(true)}
                 onToggleLanguage={toggleLanguage}
                 onResetApp={() => setShowResetModal(true)}
+                panelOpacity={prefs.panelOpacity}
+                onSetPanelOpacity={(opacity) => setPrefs(p => ({ ...p, panelOpacity: opacity }))}
               />
             </div>
           </div>
