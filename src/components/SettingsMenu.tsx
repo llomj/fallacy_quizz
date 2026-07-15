@@ -188,6 +188,16 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     label: 'Customise',
     onClick: withClickSound(() => setCustomiseSubmenuOpen(prev => !prev))
   });
+  if (onResetApp) {
+    menuItems.push({
+      icon: 'fa-arrows-rotate',
+      label: t('settings.refreshApp'),
+      onClick: withClickSound(() => {
+        localStorage.setItem('needsRefresh', 'true');
+        window.location.reload();
+      })
+    });
+  }
 
   const basePath = typeof window !== 'undefined' ? (import.meta.env.BASE_URL || '/') : '/';
 
