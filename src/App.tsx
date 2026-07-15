@@ -429,7 +429,7 @@ const App: React.FC = () => {
           <div className="h-8 w-[1px] bg-white/10 mx-2 hidden sm:block"></div>
 
           <div className="flex items-center gap-2">
-            <div className="flex items-center gap-3 bg-white/5 px-3 py-1.5 rounded-2xl border border-white/10">
+            <div className="flex items-center gap-3">
               <div className="w-8 h-8 rounded-full bg-gradient-to-br from-yellow-300 to-[#FF00FF] flex items-center justify-center text-sm">
                 <span className="text-white">{PERSONA_EMOJI[currentPersona] ?? '🐟'}</span>
               </div>
@@ -449,7 +449,7 @@ const App: React.FC = () => {
 
           <div className="ml-auto flex items-center gap-2">
             <div
-              className="flex items-center gap-2 px-3 py-2 rounded-xl bg-white/5 border border-white/10"
+              className="flex items-center gap-2"
               title="Answer Count"
             >
               <i className="fas fa-hashtag text-slate-400 text-sm"></i>
@@ -459,11 +459,11 @@ const App: React.FC = () => {
               <button
                 type="button"
                 onClick={() => { playClickSound(); setShowSettingsMenu(!showSettingsMenu); }}
-                className="flex items-center justify-center w-9 h-9 rounded-xl bg-white/25 border border-white/10 hover:bg-white/30 text-slate-400 hover:text-white transition-colors"
+                className="flex items-center justify-center w-11 h-11 rounded-xl bg-white/25 border border-white/10 hover:bg-white/30 text-slate-400 hover:text-white transition-colors"
                 title={t('settings.settings')}
                 aria-label={t('settings.settings')}
               >
-                <i className="fas fa-gear text-sm"></i>
+                <i className="fas fa-gear text-base"></i>
               </button>
               <SettingsMenu
                 isOpen={showSettingsMenu}
