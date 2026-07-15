@@ -50,7 +50,7 @@ const ViewLoading: React.FC = () => (
   </div>
 );
 
-const DEFAULT_PREFS = { soundEnabled: true, hapticEnabled: true, lightMode: false, panelOpacity: 20 };
+const DEFAULT_PREFS = { soundEnabled: true, hapticEnabled: true, lightMode: false, panelOpacity: 100 };
 
 const App: React.FC = () => {
   const { language, setLanguage, t } = useLanguage();
@@ -65,7 +65,7 @@ const App: React.FC = () => {
           soundEnabled: p.soundEnabled !== false,
           hapticEnabled: p.hapticEnabled !== false,
           lightMode: p.lightMode === true,
-          panelOpacity: typeof p.panelOpacity === 'number' ? p.panelOpacity : 20
+          panelOpacity: typeof p.panelOpacity === 'number' ? p.panelOpacity : 100
         };
       }
     } catch (_) {}
