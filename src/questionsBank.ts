@@ -13,6 +13,7 @@ import { LEVEL_4_INTERMEDIATE_OVERRIDES_EN, LEVEL_4_INTERMEDIATE_OVERRIDES_FR } 
 import { LEVEL_4_EXPERT_OVERRIDES_EN, LEVEL_4_EXPERT_OVERRIDES_FR } from './data/questions/level4ExpertOverrides';
 import { LEVEL_5_OVERRIDES_EN, LEVEL_5_OVERRIDES_FR } from './data/questions/level5Overrides';
 import { LEVEL_5_INTERMEDIATE_OVERRIDES_EN, LEVEL_5_INTERMEDIATE_OVERRIDES_FR } from './data/questions/level5IntermediateOverrides';
+import { LEVEL_5_EXPERT_OVERRIDES_EN, LEVEL_5_EXPERT_OVERRIDES_FR } from './data/questions/level5ExpertOverrides';
 
 function applyQuestionOverrides(base: Question[], overrides: Question[]): Question[] {
   const overrideMap = new Map(overrides.map((question) => [question.id, question]));
@@ -40,6 +41,7 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     LEVEL_4_EXPERT_OVERRIDES_EN,
     LEVEL_5_OVERRIDES_EN,
     LEVEL_5_INTERMEDIATE_OVERRIDES_EN,
+    LEVEL_5_EXPERT_OVERRIDES_EN,
   ]
 );
 const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
@@ -57,6 +59,7 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     LEVEL_4_EXPERT_OVERRIDES_FR,
     LEVEL_5_OVERRIDES_FR,
     LEVEL_5_INTERMEDIATE_OVERRIDES_FR,
+    LEVEL_5_EXPERT_OVERRIDES_FR,
   ]
 );
 
