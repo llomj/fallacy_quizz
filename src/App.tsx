@@ -460,11 +460,11 @@ const App: React.FC = () => {
               <button
                 type="button"
                 onClick={() => { playClickSound(); setShowSettingsMenu(!showSettingsMenu); }}
-                className="flex items-center justify-center w-11 h-11 text-slate-400 hover:text-white transition-colors"
+                className="flex items-center justify-center w-12 h-12 text-slate-400 hover:text-white transition-colors"
                 title={t('settings.settings')}
                 aria-label={t('settings.settings')}
               >
-                <i className="fas fa-gear text-base"></i>
+                <i className="fas fa-gear text-lg"></i>
               </button>
               <SettingsMenu
                 isOpen={showSettingsMenu}

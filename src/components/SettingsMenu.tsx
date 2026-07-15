@@ -195,12 +195,9 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   if (panelSubmenuOpen) {
     return (
       <>
-        <div className="fixed inset-0 z-40" onClick={onClose} />
+        <div className="fixed inset-0 z-40 bg-black/50" style={{ opacity: panelOpacity / 100 }} onClick={onClose} />
         <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
-          <div
-            className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200"
-            style={{ backgroundColor: `rgba(255,255,255,${panelOpacity / 100})`, backdropFilter: 'blur(12px)' }}
-          >
+          <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-slate-900/95 backdrop-blur-xl">
             <button
               onClick={withClickSound(() => { setPanelSubmenuOpen(false); setCustomiseSubmenuOpen(true); })}
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
@@ -239,12 +236,9 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   if (soundsSubmenuOpen) {
     return (
       <>
-        <div className="fixed inset-0 z-40" onClick={onClose} />
+        <div className="fixed inset-0 z-40 bg-black/50" style={{ opacity: panelOpacity / 100 }} onClick={onClose} />
         <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
-          <div
-            className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200"
-            style={{ backgroundColor: `rgba(255,255,255,${panelOpacity / 100})`, backdropFilter: 'blur(12px)' }}
-          >
+          <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-slate-900/95 backdrop-blur-xl">
             <button
               onClick={withClickSound(() => { setSoundsSubmenuOpen(false); setCustomiseSubmenuOpen(true); })}
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
@@ -286,12 +280,9 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   if (customiseSubmenuOpen) {
     return (
       <>
-        <div className="fixed inset-0 z-40" onClick={onClose} />
+        <div className="fixed inset-0 z-40 bg-black/50" style={{ opacity: panelOpacity / 100 }} onClick={onClose} />
         <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
-          <div
-            className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200"
-            style={{ backgroundColor: `rgba(255,255,255,${panelOpacity / 100})`, backdropFilter: 'blur(12px)' }}
-          >
+          <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-slate-900/95 backdrop-blur-xl">
             <button
               onClick={withClickSound(() => setCustomiseSubmenuOpen(false))}
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
@@ -325,12 +316,9 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   if (logSubmenuOpen && hasLogContent) {
     return (
       <>
-        <div className="fixed inset-0 z-40" onClick={onClose} />
+        <div className="fixed inset-0 z-40 bg-black/50" style={{ opacity: panelOpacity / 100 }} onClick={onClose} />
         <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
-          <div
-            className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200"
-            style={{ backgroundColor: `rgba(255,255,255,${panelOpacity / 100})`, backdropFilter: 'blur(12px)' }}
-          >
+          <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-slate-900/95 backdrop-blur-xl">
             <button
               onClick={withClickSound(() => setLogSubmenuOpen(false))}
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
@@ -402,12 +390,9 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   if (rulesSubmenuOpen && hasRulesContent) {
     return (
       <>
-        <div className="fixed inset-0 z-40" onClick={onClose} />
+        <div className="fixed inset-0 z-40 bg-black/50" style={{ opacity: panelOpacity / 100 }} onClick={onClose} />
         <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
-          <div
-            className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200"
-            style={{ backgroundColor: `rgba(255,255,255,${panelOpacity / 100})`, backdropFilter: 'blur(12px)' }}
-          >
+          <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-slate-900/95 backdrop-blur-xl">
             <button
               onClick={withClickSound(() => setRulesSubmenuOpen(false))}
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
@@ -475,14 +460,12 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   return (
     <>
       <div
-        className="fixed inset-0 z-40"
+        className="fixed inset-0 z-40 bg-black/50"
+        style={{ opacity: panelOpacity / 100 }}
         onClick={onClose}
       />
       <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
-        <div
-          className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200"
-          style={{ backgroundColor: `rgba(255,255,255,${panelOpacity / 100})`, backdropFilter: 'blur(12px)' }}
-        >
+        <div className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 bg-slate-900/95 backdrop-blur-xl">
           {menuItems.map((item, index) => (
             <React.Fragment key={index}>
               <button
