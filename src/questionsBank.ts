@@ -17,6 +17,8 @@ import { SLIPPERY_SLOPE_PACK_1_EN, SLIPPERY_SLOPE_PACK_1_FR } from './data/quest
 import { SLIPPERY_SLOPE_PACK_2_EN, SLIPPERY_SLOPE_PACK_2_FR } from './data/questions/fallacyExpansions/slipperySlopePack2';
 import { RED_HERRING_PACK_1_EN, RED_HERRING_PACK_1_FR } from './data/questions/fallacyExpansions/redHerringPack1';
 import { RED_HERRING_PACK_2_EN, RED_HERRING_PACK_2_FR } from './data/questions/fallacyExpansions/redHerringPack2';
+import { FALSE_DILEMMA_PACK_1_EN, FALSE_DILEMMA_PACK_1_FR } from './data/questions/fallacyExpansions/falseDilemmaPack1';
+import { FALSE_DILEMMA_PACK_2_EN, FALSE_DILEMMA_PACK_2_FR } from './data/questions/fallacyExpansions/falseDilemmaPack2';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -94,6 +96,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     SLIPPERY_SLOPE_PACK_2_EN,
     RED_HERRING_PACK_1_EN,
     RED_HERRING_PACK_2_EN,
+    FALSE_DILEMMA_PACK_1_EN,
+    FALSE_DILEMMA_PACK_2_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -158,6 +162,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     SLIPPERY_SLOPE_PACK_2_FR,
     RED_HERRING_PACK_1_FR,
     RED_HERRING_PACK_2_FR,
+    FALSE_DILEMMA_PACK_1_FR,
+    FALSE_DILEMMA_PACK_2_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
