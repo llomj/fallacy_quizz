@@ -1,6 +1,7 @@
 import type { Question } from './types';
 import { FALLACY_QUESTIONS_EN, FALLACY_QUESTIONS_FR } from './data/questions/fallaciesData';
 import { LEVEL_0_GEN_EN, LEVEL_0_GEN_FR } from './data/questions/level0Data';
+import { APPEAL_TO_AUTHORITY_PACK_1_EN, APPEAL_TO_AUTHORITY_PACK_1_FR } from './data/questions/fallacyExpansions/appealToAuthorityPack1';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -62,6 +63,7 @@ function applyAllQuestionOverrides(base: Question[], overrideSets: Question[][])
 const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
   FALLACY_QUESTIONS_EN.filter((q) => q.id < 1001 || q.id > 1300),
   [
+    APPEAL_TO_AUTHORITY_PACK_1_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -110,6 +112,7 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
 const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
   FALLACY_QUESTIONS_FR.filter((q) => q.id < 1001 || q.id > 1300),
   [
+    APPEAL_TO_AUTHORITY_PACK_1_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
