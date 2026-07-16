@@ -13,6 +13,8 @@ import { APPEAL_TO_IGNORANCE_PACK_4_EN, APPEAL_TO_IGNORANCE_PACK_4_FR } from './
 import { APPEAL_TO_IGNORANCE_PACK_5_EN, APPEAL_TO_IGNORANCE_PACK_5_FR } from './data/questions/fallacyExpansions/appealToIgnorancePack5';
 import { APPEAL_TO_INCREDULITY_PACK_1_EN, APPEAL_TO_INCREDULITY_PACK_1_FR } from './data/questions/fallacyExpansions/appealToIncredulityPack1';
 import { APPEAL_TO_INCREDULITY_PACK_2_EN, APPEAL_TO_INCREDULITY_PACK_2_FR } from './data/questions/fallacyExpansions/appealToIncredulityPack2';
+import { APPEAL_TO_NOVELTY_PACK_1_EN, APPEAL_TO_NOVELTY_PACK_1_FR } from './data/questions/fallacyExpansions/appealToNoveltyPack1';
+import { APPEAL_TO_NOVELTY_PACK_2_EN, APPEAL_TO_NOVELTY_PACK_2_FR } from './data/questions/fallacyExpansions/appealToNoveltyPack2';
 import { STRAW_MAN_PACK_1_EN, STRAW_MAN_PACK_1_FR } from './data/questions/fallacyExpansions/strawManPack1';
 import { STRAW_MAN_PACK_2_EN, STRAW_MAN_PACK_2_FR } from './data/questions/fallacyExpansions/strawManPack2';
 import { SLIPPERY_SLOPE_PACK_1_EN, SLIPPERY_SLOPE_PACK_1_FR } from './data/questions/fallacyExpansions/slipperySlopePack1';
@@ -128,6 +130,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     APPEAL_TO_IGNORANCE_PACK_5_EN,
     APPEAL_TO_INCREDULITY_PACK_1_EN,
     APPEAL_TO_INCREDULITY_PACK_2_EN,
+    APPEAL_TO_NOVELTY_PACK_1_EN,
+    APPEAL_TO_NOVELTY_PACK_2_EN,
     STRAW_MAN_PACK_1_EN,
     STRAW_MAN_PACK_2_EN,
     SLIPPERY_SLOPE_PACK_1_EN,
@@ -230,6 +234,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     APPEAL_TO_IGNORANCE_PACK_5_FR,
     APPEAL_TO_INCREDULITY_PACK_1_FR,
     APPEAL_TO_INCREDULITY_PACK_2_FR,
+    APPEAL_TO_NOVELTY_PACK_1_FR,
+    APPEAL_TO_NOVELTY_PACK_2_FR,
     STRAW_MAN_PACK_1_FR,
     STRAW_MAN_PACK_2_FR,
     SLIPPERY_SLOPE_PACK_1_FR,
