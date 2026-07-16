@@ -39,6 +39,8 @@ import { LEVEL_8_MIXED_PART14_OVERRIDES_EN, LEVEL_8_MIXED_PART14_OVERRIDES_FR } 
 import { LEVEL_8_MIXED_PART15_OVERRIDES_EN, LEVEL_8_MIXED_PART15_OVERRIDES_FR } from './data/questions/level8MixedPart15Overrides';
 import { LEVEL_8_MIXED_PART16_OVERRIDES_EN, LEVEL_8_MIXED_PART16_OVERRIDES_FR } from './data/questions/level8MixedPart16Overrides';
 import { LEVEL_8_MIXED_PART17_OVERRIDES_EN, LEVEL_8_MIXED_PART17_OVERRIDES_FR } from './data/questions/level8MixedPart17Overrides';
+import { LEVEL_8_MIXED_PART18_OVERRIDES_EN, LEVEL_8_MIXED_PART18_OVERRIDES_FR } from './data/questions/level8MixedPart18Overrides';
+import { LEVEL_8_MIXED_PART19_OVERRIDES_EN, LEVEL_8_MIXED_PART19_OVERRIDES_FR } from './data/questions/level8MixedPart19Overrides';
 
 function applyQuestionOverrides(base: Question[], overrides: Question[]): Question[] {
   const overrideMap = new Map(overrides.map((question) => [question.id, question]));
@@ -92,6 +94,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     LEVEL_8_MIXED_PART15_OVERRIDES_EN,
     LEVEL_8_MIXED_PART16_OVERRIDES_EN,
     LEVEL_8_MIXED_PART17_OVERRIDES_EN,
+    LEVEL_8_MIXED_PART18_OVERRIDES_EN,
+    LEVEL_8_MIXED_PART19_OVERRIDES_EN,
   ]
 );
 const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
@@ -135,6 +139,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     LEVEL_8_MIXED_PART15_OVERRIDES_FR,
     LEVEL_8_MIXED_PART16_OVERRIDES_FR,
     LEVEL_8_MIXED_PART17_OVERRIDES_FR,
+    LEVEL_8_MIXED_PART18_OVERRIDES_FR,
+    LEVEL_8_MIXED_PART19_OVERRIDES_FR,
   ]
 );
 
