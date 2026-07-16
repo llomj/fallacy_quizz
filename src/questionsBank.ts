@@ -39,6 +39,8 @@ import { CONFIRMATION_BIAS_PACK_1_EN, CONFIRMATION_BIAS_PACK_1_FR } from './data
 import { CONFIRMATION_BIAS_PACK_2_EN, CONFIRMATION_BIAS_PACK_2_FR } from './data/questions/fallacyExpansions/confirmationBiasPack2';
 import { REIFICATION_PACK_1_EN, REIFICATION_PACK_1_FR } from './data/questions/fallacyExpansions/reificationPack1';
 import { REIFICATION_PACK_2_EN, REIFICATION_PACK_2_FR } from './data/questions/fallacyExpansions/reificationPack2';
+import { ANCHORING_BIAS_PACK_1_EN, ANCHORING_BIAS_PACK_1_FR } from './data/questions/fallacyExpansions/anchoringBiasPack1';
+import { ANCHORING_BIAS_PACK_2_EN, ANCHORING_BIAS_PACK_2_FR } from './data/questions/fallacyExpansions/anchoringBiasPack2';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -138,6 +140,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     CONFIRMATION_BIAS_PACK_2_EN,
     REIFICATION_PACK_1_EN,
     REIFICATION_PACK_2_EN,
+    ANCHORING_BIAS_PACK_1_EN,
+    ANCHORING_BIAS_PACK_2_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -224,6 +228,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     CONFIRMATION_BIAS_PACK_2_FR,
     REIFICATION_PACK_1_FR,
     REIFICATION_PACK_2_FR,
+    ANCHORING_BIAS_PACK_1_FR,
+    ANCHORING_BIAS_PACK_2_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
