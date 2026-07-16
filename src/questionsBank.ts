@@ -23,6 +23,8 @@ import { AD_HOMINEM_PACK_1_EN, AD_HOMINEM_PACK_1_FR } from './data/questions/fal
 import { AD_HOMINEM_PACK_2_EN, AD_HOMINEM_PACK_2_FR } from './data/questions/fallacyExpansions/adHominemPack2';
 import { BANDWAGON_PACK_1_EN, BANDWAGON_PACK_1_FR } from './data/questions/fallacyExpansions/bandwagonPack1';
 import { BANDWAGON_PACK_2_EN, BANDWAGON_PACK_2_FR } from './data/questions/fallacyExpansions/bandwagonPack2';
+import { APPEAL_TO_EMOTION_PACK_1_EN, APPEAL_TO_EMOTION_PACK_1_FR } from './data/questions/fallacyExpansions/appealToEmotionPack1';
+import { APPEAL_TO_EMOTION_PACK_2_EN, APPEAL_TO_EMOTION_PACK_2_FR } from './data/questions/fallacyExpansions/appealToEmotionPack2';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -106,6 +108,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     AD_HOMINEM_PACK_2_EN,
     BANDWAGON_PACK_1_EN,
     BANDWAGON_PACK_2_EN,
+    APPEAL_TO_EMOTION_PACK_1_EN,
+    APPEAL_TO_EMOTION_PACK_2_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -176,6 +180,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     AD_HOMINEM_PACK_2_FR,
     BANDWAGON_PACK_1_FR,
     BANDWAGON_PACK_2_FR,
+    APPEAL_TO_EMOTION_PACK_1_FR,
+    APPEAL_TO_EMOTION_PACK_2_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
