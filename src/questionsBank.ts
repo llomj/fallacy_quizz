@@ -11,6 +11,8 @@ import { APPEAL_TO_IGNORANCE_PACK_2_EN, APPEAL_TO_IGNORANCE_PACK_2_FR } from './
 import { APPEAL_TO_IGNORANCE_PACK_3_EN, APPEAL_TO_IGNORANCE_PACK_3_FR } from './data/questions/fallacyExpansions/appealToIgnorancePack3';
 import { APPEAL_TO_IGNORANCE_PACK_4_EN, APPEAL_TO_IGNORANCE_PACK_4_FR } from './data/questions/fallacyExpansions/appealToIgnorancePack4';
 import { APPEAL_TO_IGNORANCE_PACK_5_EN, APPEAL_TO_IGNORANCE_PACK_5_FR } from './data/questions/fallacyExpansions/appealToIgnorancePack5';
+import { STRAW_MAN_PACK_1_EN, STRAW_MAN_PACK_1_FR } from './data/questions/fallacyExpansions/strawManPack1';
+import { STRAW_MAN_PACK_2_EN, STRAW_MAN_PACK_2_FR } from './data/questions/fallacyExpansions/strawManPack2';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -82,6 +84,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     APPEAL_TO_IGNORANCE_PACK_3_EN,
     APPEAL_TO_IGNORANCE_PACK_4_EN,
     APPEAL_TO_IGNORANCE_PACK_5_EN,
+    STRAW_MAN_PACK_1_EN,
+    STRAW_MAN_PACK_2_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -140,6 +144,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     APPEAL_TO_IGNORANCE_PACK_3_FR,
     APPEAL_TO_IGNORANCE_PACK_4_FR,
     APPEAL_TO_IGNORANCE_PACK_5_FR,
+    STRAW_MAN_PACK_1_FR,
+    STRAW_MAN_PACK_2_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
