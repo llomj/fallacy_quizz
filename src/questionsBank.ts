@@ -27,6 +27,8 @@ import { APPEAL_TO_EMOTION_PACK_1_EN, APPEAL_TO_EMOTION_PACK_1_FR } from './data
 import { APPEAL_TO_EMOTION_PACK_2_EN, APPEAL_TO_EMOTION_PACK_2_FR } from './data/questions/fallacyExpansions/appealToEmotionPack2';
 import { APPEAL_TO_FEAR_PACK_1_EN, APPEAL_TO_FEAR_PACK_1_FR } from './data/questions/fallacyExpansions/appealToFearPack1';
 import { APPEAL_TO_FEAR_PACK_2_EN, APPEAL_TO_FEAR_PACK_2_FR } from './data/questions/fallacyExpansions/appealToFearPack2';
+import { APPEAL_TO_PITY_PACK_1_EN, APPEAL_TO_PITY_PACK_1_FR } from './data/questions/fallacyExpansions/appealToPityPack1';
+import { APPEAL_TO_PITY_PACK_2_EN, APPEAL_TO_PITY_PACK_2_FR } from './data/questions/fallacyExpansions/appealToPityPack2';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -114,6 +116,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     APPEAL_TO_EMOTION_PACK_2_EN,
     APPEAL_TO_FEAR_PACK_1_EN,
     APPEAL_TO_FEAR_PACK_2_EN,
+    APPEAL_TO_PITY_PACK_1_EN,
+    APPEAL_TO_PITY_PACK_2_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -188,6 +192,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     APPEAL_TO_EMOTION_PACK_2_FR,
     APPEAL_TO_FEAR_PACK_1_FR,
     APPEAL_TO_FEAR_PACK_2_FR,
+    APPEAL_TO_PITY_PACK_1_FR,
+    APPEAL_TO_PITY_PACK_2_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
