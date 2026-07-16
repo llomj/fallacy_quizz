@@ -3,6 +3,7 @@ import { FALLACY_QUESTIONS_EN, FALLACY_QUESTIONS_FR } from './data/questions/fal
 import { LEVEL_0_GEN_EN, LEVEL_0_GEN_FR } from './data/questions/level0Data';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
+import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
 import { LEVEL_2_OVERRIDES_EN, LEVEL_2_OVERRIDES_FR } from './data/questions/level2Overrides';
 import { LEVEL_2_INTERMEDIATE_OVERRIDES_EN, LEVEL_2_INTERMEDIATE_OVERRIDES_FR } from './data/questions/level2IntermediateOverrides';
 import { LEVEL_2_EXPERT_OVERRIDES_EN, LEVEL_2_EXPERT_OVERRIDES_FR } from './data/questions/level2ExpertOverrides';
@@ -62,6 +63,7 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
   [
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
+    LEVEL_1_EXPANSION_PACK_2_EN,
     LEVEL_2_OVERRIDES_EN,
     LEVEL_2_INTERMEDIATE_OVERRIDES_EN,
     LEVEL_2_EXPERT_OVERRIDES_EN,
@@ -108,6 +110,7 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
   [
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
+    LEVEL_1_EXPANSION_PACK_2_FR,
     LEVEL_2_OVERRIDES_FR,
     LEVEL_2_INTERMEDIATE_OVERRIDES_FR,
     LEVEL_2_EXPERT_OVERRIDES_FR,
