@@ -35,6 +35,8 @@ import { APPEAL_TO_TRADITION_PACK_1_EN, APPEAL_TO_TRADITION_PACK_1_FR } from './
 import { APPEAL_TO_TRADITION_PACK_2_EN, APPEAL_TO_TRADITION_PACK_2_FR } from './data/questions/fallacyExpansions/appealToTraditionPack2';
 import { WISHFUL_THINKING_PACK_1_EN, WISHFUL_THINKING_PACK_1_FR } from './data/questions/fallacyExpansions/wishfulThinkingPack1';
 import { WISHFUL_THINKING_PACK_2_EN, WISHFUL_THINKING_PACK_2_FR } from './data/questions/fallacyExpansions/wishfulThinkingPack2';
+import { CONFIRMATION_BIAS_PACK_1_EN, CONFIRMATION_BIAS_PACK_1_FR } from './data/questions/fallacyExpansions/confirmationBiasPack1';
+import { CONFIRMATION_BIAS_PACK_2_EN, CONFIRMATION_BIAS_PACK_2_FR } from './data/questions/fallacyExpansions/confirmationBiasPack2';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -130,6 +132,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     APPEAL_TO_TRADITION_PACK_2_EN,
     WISHFUL_THINKING_PACK_1_EN,
     WISHFUL_THINKING_PACK_2_EN,
+    CONFIRMATION_BIAS_PACK_1_EN,
+    CONFIRMATION_BIAS_PACK_2_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -212,6 +216,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     APPEAL_TO_TRADITION_PACK_2_FR,
     WISHFUL_THINKING_PACK_1_FR,
     WISHFUL_THINKING_PACK_2_FR,
+    CONFIRMATION_BIAS_PACK_1_FR,
+    CONFIRMATION_BIAS_PACK_2_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
