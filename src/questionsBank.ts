@@ -172,7 +172,7 @@ export const MAX_QUESTION_ID = Math.max(...QUESTIONS_BANK_EN.map((q) => q.id));
 
 /** Returns the question bank for the given language (EN or FR). */
 export function getQuestionBank(language: string): Question[] {
-  return language === 'fr' ? 'fr' === language ? QUESTIONS_BANK_FR : QUESTIONS_BANK_EN : QUESTIONS_BANK_EN;
+  return language === 'fr' ? QUESTIONS_BANK_FR : QUESTIONS_BANK_EN;
 }
 
 /** Returns a canonical question by id from the EN or FR bank for language remapping. */
