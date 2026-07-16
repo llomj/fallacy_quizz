@@ -19,6 +19,8 @@ import { RED_HERRING_PACK_1_EN, RED_HERRING_PACK_1_FR } from './data/questions/f
 import { RED_HERRING_PACK_2_EN, RED_HERRING_PACK_2_FR } from './data/questions/fallacyExpansions/redHerringPack2';
 import { FALSE_DILEMMA_PACK_1_EN, FALSE_DILEMMA_PACK_1_FR } from './data/questions/fallacyExpansions/falseDilemmaPack1';
 import { FALSE_DILEMMA_PACK_2_EN, FALSE_DILEMMA_PACK_2_FR } from './data/questions/fallacyExpansions/falseDilemmaPack2';
+import { AD_HOMINEM_PACK_1_EN, AD_HOMINEM_PACK_1_FR } from './data/questions/fallacyExpansions/adHominemPack1';
+import { AD_HOMINEM_PACK_2_EN, AD_HOMINEM_PACK_2_FR } from './data/questions/fallacyExpansions/adHominemPack2';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -98,6 +100,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     RED_HERRING_PACK_2_EN,
     FALSE_DILEMMA_PACK_1_EN,
     FALSE_DILEMMA_PACK_2_EN,
+    AD_HOMINEM_PACK_1_EN,
+    AD_HOMINEM_PACK_2_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -164,6 +168,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     RED_HERRING_PACK_2_FR,
     FALSE_DILEMMA_PACK_1_FR,
     FALSE_DILEMMA_PACK_2_FR,
+    AD_HOMINEM_PACK_1_FR,
+    AD_HOMINEM_PACK_2_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
