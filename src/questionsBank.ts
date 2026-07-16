@@ -43,6 +43,8 @@ import { ANCHORING_BIAS_PACK_1_EN, ANCHORING_BIAS_PACK_1_FR } from './data/quest
 import { ANCHORING_BIAS_PACK_2_EN, ANCHORING_BIAS_PACK_2_FR } from './data/questions/fallacyExpansions/anchoringBiasPack2';
 import { SUNK_COST_PACK_1_EN, SUNK_COST_PACK_1_FR } from './data/questions/fallacyExpansions/sunkCostPack1';
 import { SUNK_COST_PACK_2_EN, SUNK_COST_PACK_2_FR } from './data/questions/fallacyExpansions/sunkCostPack2';
+import { GAMBLERS_FALLACY_PACK_1_EN, GAMBLERS_FALLACY_PACK_1_FR } from './data/questions/fallacyExpansions/gamblersFallacyPack1';
+import { GAMBLERS_FALLACY_PACK_2_EN, GAMBLERS_FALLACY_PACK_2_FR } from './data/questions/fallacyExpansions/gamblersFallacyPack2';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -146,6 +148,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     ANCHORING_BIAS_PACK_2_EN,
     SUNK_COST_PACK_1_EN,
     SUNK_COST_PACK_2_EN,
+    GAMBLERS_FALLACY_PACK_1_EN,
+    GAMBLERS_FALLACY_PACK_2_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -236,6 +240,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     ANCHORING_BIAS_PACK_2_FR,
     SUNK_COST_PACK_1_FR,
     SUNK_COST_PACK_2_FR,
+    GAMBLERS_FALLACY_PACK_1_FR,
+    GAMBLERS_FALLACY_PACK_2_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
