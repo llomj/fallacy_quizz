@@ -2,6 +2,7 @@ import type { Question } from './types';
 import { FALLACY_QUESTIONS_EN, FALLACY_QUESTIONS_FR } from './data/questions/fallaciesData';
 import { LEVEL_0_GEN_EN, LEVEL_0_GEN_FR } from './data/questions/level0Data';
 import { APPEAL_TO_AUTHORITY_PACK_1_EN, APPEAL_TO_AUTHORITY_PACK_1_FR } from './data/questions/fallacyExpansions/appealToAuthorityPack1';
+import { APPEAL_TO_AUTHORITY_PACK_2_EN, APPEAL_TO_AUTHORITY_PACK_2_FR } from './data/questions/fallacyExpansions/appealToAuthorityPack2';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -64,6 +65,7 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
   FALLACY_QUESTIONS_EN.filter((q) => q.id < 1001 || q.id > 1300),
   [
     APPEAL_TO_AUTHORITY_PACK_1_EN,
+    APPEAL_TO_AUTHORITY_PACK_2_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -113,6 +115,7 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
   FALLACY_QUESTIONS_FR.filter((q) => q.id < 1001 || q.id > 1300),
   [
     APPEAL_TO_AUTHORITY_PACK_1_FR,
+    APPEAL_TO_AUTHORITY_PACK_2_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
@@ -169,7 +172,7 @@ export const MAX_QUESTION_ID = Math.max(...QUESTIONS_BANK_EN.map((q) => q.id));
 
 /** Returns the question bank for the given language (EN or FR). */
 export function getQuestionBank(language: string): Question[] {
-  return language === 'fr' ? QUESTIONS_BANK_FR : QUESTIONS_BANK_EN;
+  return language === 'fr' ? 'fr' === language ? QUESTIONS_BANK_FR : QUESTIONS_BANK_EN : QUESTIONS_BANK_EN;
 }
 
 /** Returns a canonical question by id from the EN or FR bank for language remapping. */
