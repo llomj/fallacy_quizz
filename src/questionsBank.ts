@@ -2,6 +2,7 @@ import type { Question } from './types';
 import { FALLACY_QUESTIONS_EN, FALLACY_QUESTIONS_FR } from './data/questions/fallaciesData';
 import { LEVEL_0_GEN_EN, LEVEL_0_GEN_FR } from './data/questions/level0Data';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
+import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_2_OVERRIDES_EN, LEVEL_2_OVERRIDES_FR } from './data/questions/level2Overrides';
 import { LEVEL_2_INTERMEDIATE_OVERRIDES_EN, LEVEL_2_INTERMEDIATE_OVERRIDES_FR } from './data/questions/level2IntermediateOverrides';
 import { LEVEL_2_EXPERT_OVERRIDES_EN, LEVEL_2_EXPERT_OVERRIDES_FR } from './data/questions/level2ExpertOverrides';
@@ -42,21 +43,25 @@ import { LEVEL_8_MIXED_PART17_OVERRIDES_EN, LEVEL_8_MIXED_PART17_OVERRIDES_FR } 
 import { LEVEL_8_MIXED_PART18_OVERRIDES_EN, LEVEL_8_MIXED_PART18_OVERRIDES_FR } from './data/questions/level8MixedPart18Overrides';
 import { LEVEL_8_MIXED_PART19_OVERRIDES_EN, LEVEL_8_MIXED_PART19_OVERRIDES_FR } from './data/questions/level8MixedPart19Overrides';
 
-function applyQuestionOverrides(base: Question[], overrides: Question[]): Question[] {
-  const overrideMap = new Map(overrides.map((question) => [question.id, question]));
-  return base.map((question) => overrideMap.get(question.id) ?? question);
+function mergeQuestionSet(base: Question[], additions: Question[]): Question[] {
+  const additionMap = new Map(additions.map((question) => [question.id, question]));
+  const merged = base.map((question) => additionMap.get(question.id) ?? question);
+  const existingIds = new Set(base.map((question) => question.id));
+  const appended = additions.filter((question) => !existingIds.has(question.id));
+  return [...merged, ...appended];
 }
 
 function applyAllQuestionOverrides(base: Question[], overrideSets: Question[][]): Question[] {
-  return overrideSets.reduce((questions, overrides) => applyQuestionOverrides(questions, overrides), base);
+  return overrideSets.reduce((questions, overrides) => mergeQuestionSet(questions, overrides), base);
 }
 
-// Level 0 owns IDs 1001–1300. Filter out any overlapping legacy entries from
-// fallaciesData so every question ID resolves to exactly one canonical record.
+// Level 0 owns IDs 1001–1300. Exclude only that window from fallaciesData so
+// expanded fallacy packs can safely use IDs above 1300 without being dropped.
 const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
-  FALLACY_QUESTIONS_EN.filter((q) => q.id < 1000),
+  FALLACY_QUESTIONS_EN.filter((q) => q.id < 1001 || q.id > 1300),
   [
     LEVEL_1_OVERRIDES_EN,
+    LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_2_OVERRIDES_EN,
     LEVEL_2_INTERMEDIATE_OVERRIDES_EN,
     LEVEL_2_EXPERT_OVERRIDES_EN,
@@ -99,9 +104,10 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
   ]
 );
 const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
-  FALLACY_QUESTIONS_FR.filter((q) => q.id < 1000),
+  FALLACY_QUESTIONS_FR.filter((q) => q.id < 1001 || q.id > 1300),
   [
     LEVEL_1_OVERRIDES_FR,
+    LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_2_OVERRIDES_FR,
     LEVEL_2_INTERMEDIATE_OVERRIDES_FR,
     LEVEL_2_EXPERT_OVERRIDES_FR,
@@ -149,7 +155,7 @@ export const QUESTIONS_BANK_FR: Question[] = [...FALLACY_GAME_IDS_ONLY_FR, ...LE
 
 export const QUESTIONS_BANK: Question[] = QUESTIONS_BANK_EN; // Default fallback
 
-/** Max question ID (1-based). Must match the highest id in fallaciesData. */
+/** Max question ID (1-based). Must match the highest id in the active English bank. */
 export const MAX_QUESTION_ID = Math.max(...QUESTIONS_BANK_EN.map((q) => q.id));
 
 /** Returns the question bank for the given language (EN or FR). */
