@@ -49,6 +49,8 @@ import { AVAILABILITY_HEURISTIC_PACK_1_EN, AVAILABILITY_HEURISTIC_PACK_1_FR } fr
 import { AVAILABILITY_HEURISTIC_PACK_2_EN, AVAILABILITY_HEURISTIC_PACK_2_FR } from './data/questions/fallacyExpansions/availabilityHeuristicPack2';
 import { SURVIVORSHIP_BIAS_PACK_1_EN, SURVIVORSHIP_BIAS_PACK_1_FR } from './data/questions/fallacyExpansions/survivorshipBiasPack1';
 import { SURVIVORSHIP_BIAS_PACK_2_EN, SURVIVORSHIP_BIAS_PACK_2_FR } from './data/questions/fallacyExpansions/survivorshipBiasPack2';
+import { HALO_EFFECT_PACK_1_EN, HALO_EFFECT_PACK_1_FR } from './data/questions/fallacyExpansions/haloEffectPack1';
+import { HALO_EFFECT_PACK_2_EN, HALO_EFFECT_PACK_2_FR } from './data/questions/fallacyExpansions/haloEffectPack2';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -158,6 +160,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     AVAILABILITY_HEURISTIC_PACK_2_EN,
     SURVIVORSHIP_BIAS_PACK_1_EN,
     SURVIVORSHIP_BIAS_PACK_2_EN,
+    HALO_EFFECT_PACK_1_EN,
+    HALO_EFFECT_PACK_2_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -254,6 +258,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     AVAILABILITY_HEURISTIC_PACK_2_FR,
     SURVIVORSHIP_BIAS_PACK_1_FR,
     SURVIVORSHIP_BIAS_PACK_2_FR,
+    HALO_EFFECT_PACK_1_FR,
+    HALO_EFFECT_PACK_2_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
