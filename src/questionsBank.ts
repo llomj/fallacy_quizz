@@ -10,6 +10,7 @@ import { APPEAL_TO_IGNORANCE_PACK_1_EN, APPEAL_TO_IGNORANCE_PACK_1_FR } from './
 import { APPEAL_TO_IGNORANCE_PACK_2_EN, APPEAL_TO_IGNORANCE_PACK_2_FR } from './data/questions/fallacyExpansions/appealToIgnorancePack2';
 import { APPEAL_TO_IGNORANCE_PACK_3_EN, APPEAL_TO_IGNORANCE_PACK_3_FR } from './data/questions/fallacyExpansions/appealToIgnorancePack3';
 import { APPEAL_TO_IGNORANCE_PACK_4_EN, APPEAL_TO_IGNORANCE_PACK_4_FR } from './data/questions/fallacyExpansions/appealToIgnorancePack4';
+import { APPEAL_TO_IGNORANCE_PACK_5_EN, APPEAL_TO_IGNORANCE_PACK_5_FR } from './data/questions/fallacyExpansions/appealToIgnorancePack5';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -66,7 +67,7 @@ function applyAllQuestionOverrides(base: Question[], overrideSets: Question[][])
   return overrideSets.reduce((questions, overrides) => mergeQuestionSet(questions, overrides), base);
 }
 
-// Level 0 owns IDs 1001–1300. Exclude only that window from fallaciesData so
+// Level 0 owns IDs 1001-1300. Exclude only that window from fallaciesData so
 // expanded fallacy packs can safely use IDs above 1300 without being dropped.
 const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
   FALLACY_QUESTIONS_EN.filter((q) => q.id < 1001 || q.id > 1300),
@@ -80,6 +81,7 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     APPEAL_TO_IGNORANCE_PACK_2_EN,
     APPEAL_TO_IGNORANCE_PACK_3_EN,
     APPEAL_TO_IGNORANCE_PACK_4_EN,
+    APPEAL_TO_IGNORANCE_PACK_5_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -137,6 +139,7 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     APPEAL_TO_IGNORANCE_PACK_2_FR,
     APPEAL_TO_IGNORANCE_PACK_3_FR,
     APPEAL_TO_IGNORANCE_PACK_4_FR,
+    APPEAL_TO_IGNORANCE_PACK_5_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
