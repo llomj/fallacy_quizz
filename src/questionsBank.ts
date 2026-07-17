@@ -55,6 +55,8 @@ import { FALSE_ANALOGY_PACK_1_EN, FALSE_ANALOGY_PACK_1_FR } from './data/questio
 import { FALSE_ANALOGY_PACK_2_EN, FALSE_ANALOGY_PACK_2_FR } from './data/questions/fallacyExpansions/falseAnalogyPack2';
 import { APPEAL_TO_TRADITION_PACK_1_EN, APPEAL_TO_TRADITION_PACK_1_FR } from './data/questions/fallacyExpansions/appealToTraditionPack1';
 import { APPEAL_TO_TRADITION_PACK_2_EN, APPEAL_TO_TRADITION_PACK_2_FR } from './data/questions/fallacyExpansions/appealToTraditionPack2';
+import { GENETIC_FALLACY_PACK_1_EN, GENETIC_FALLACY_PACK_1_FR } from './data/questions/fallacyExpansions/geneticFallacyPack1';
+import { GENETIC_FALLACY_PACK_2_EN, GENETIC_FALLACY_PACK_2_FR } from './data/questions/fallacyExpansions/geneticFallacyPack2';
 import { WISHFUL_THINKING_PACK_1_EN, WISHFUL_THINKING_PACK_1_FR } from './data/questions/fallacyExpansions/wishfulThinkingPack1';
 import { WISHFUL_THINKING_PACK_2_EN, WISHFUL_THINKING_PACK_2_FR } from './data/questions/fallacyExpansions/wishfulThinkingPack2';
 import { CONFIRMATION_BIAS_PACK_1_EN, CONFIRMATION_BIAS_PACK_1_FR } from './data/questions/fallacyExpansions/confirmationBiasPack1';
@@ -200,6 +202,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     FALSE_ANALOGY_PACK_2_EN,
     APPEAL_TO_TRADITION_PACK_1_EN,
     APPEAL_TO_TRADITION_PACK_2_EN,
+    GENETIC_FALLACY_PACK_1_EN,
+    GENETIC_FALLACY_PACK_2_EN,
     WISHFUL_THINKING_PACK_1_EN,
     WISHFUL_THINKING_PACK_2_EN,
     CONFIRMATION_BIAS_PACK_1_EN,
@@ -332,6 +336,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     FALSE_ANALOGY_PACK_2_FR,
     APPEAL_TO_TRADITION_PACK_1_FR,
     APPEAL_TO_TRADITION_PACK_2_FR,
+    GENETIC_FALLACY_PACK_1_FR,
+    GENETIC_FALLACY_PACK_2_FR,
     WISHFUL_THINKING_PACK_1_FR,
     WISHFUL_THINKING_PACK_2_FR,
     CONFIRMATION_BIAS_PACK_1_FR,
