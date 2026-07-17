@@ -8,6 +8,8 @@ import { APPEAL_TO_AUTHORITY_PACK_4_EN, APPEAL_TO_AUTHORITY_PACK_4_FR } from './
 import { APPEAL_TO_AUTHORITY_PACK_5_EN, APPEAL_TO_AUTHORITY_PACK_5_FR } from './data/questions/fallacyExpansions/appealToAuthorityPack5';
 import { COMPOSITION_FALLACY_PACK_1_EN, COMPOSITION_FALLACY_PACK_1_FR } from './data/questions/fallacyExpansions/compositionFallacyPack1';
 import { COMPOSITION_FALLACY_PACK_2_EN, COMPOSITION_FALLACY_PACK_2_FR } from './data/questions/fallacyExpansions/compositionFallacyPack2';
+import { DIVISION_FALLACY_PACK_1_EN, DIVISION_FALLACY_PACK_1_FR } from './data/questions/fallacyExpansions/divisionFallacyPack1';
+import { DIVISION_FALLACY_PACK_2_EN, DIVISION_FALLACY_PACK_2_FR } from './data/questions/fallacyExpansions/divisionFallacyPack2';
 import { APPEAL_TO_CONSEQUENCES_PACK_1_EN, APPEAL_TO_CONSEQUENCES_PACK_1_FR } from './data/questions/fallacyExpansions/appealToConsequencesPack1';
 import { APPEAL_TO_CONSEQUENCES_PACK_2_EN, APPEAL_TO_CONSEQUENCES_PACK_2_FR } from './data/questions/fallacyExpansions/appealToConsequencesPack2';
 import { APPEAL_TO_FORCE_PACK_1_EN, APPEAL_TO_FORCE_PACK_1_FR } from './data/questions/fallacyExpansions/appealToForcePack1';
@@ -159,6 +161,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     APPEAL_TO_AUTHORITY_PACK_5_EN,
     COMPOSITION_FALLACY_PACK_1_EN,
     COMPOSITION_FALLACY_PACK_2_EN,
+    DIVISION_FALLACY_PACK_1_EN,
+    DIVISION_FALLACY_PACK_2_EN,
     APPEAL_TO_CONSEQUENCES_PACK_1_EN,
     APPEAL_TO_CONSEQUENCES_PACK_2_EN,
     APPEAL_TO_FORCE_PACK_1_EN,
@@ -297,6 +301,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     APPEAL_TO_AUTHORITY_PACK_5_FR,
     COMPOSITION_FALLACY_PACK_1_FR,
     COMPOSITION_FALLACY_PACK_2_FR,
+    DIVISION_FALLACY_PACK_1_FR,
+    DIVISION_FALLACY_PACK_2_FR,
     APPEAL_TO_CONSEQUENCES_PACK_1_FR,
     APPEAL_TO_CONSEQUENCES_PACK_2_FR,
     APPEAL_TO_FORCE_PACK_1_FR,
