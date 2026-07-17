@@ -10,6 +10,8 @@ import { APPEAL_TO_MODERATION_PACK_1_EN, APPEAL_TO_MODERATION_PACK_1_FR } from '
 import { APPEAL_TO_MODERATION_PACK_2_EN, APPEAL_TO_MODERATION_PACK_2_FR } from './data/questions/fallacyExpansions/appealToModerationPack2';
 import { BURDEN_OF_PROOF_PACK_1_EN, BURDEN_OF_PROOF_PACK_1_FR } from './data/questions/fallacyExpansions/burdenOfProofPack1';
 import { BURDEN_OF_PROOF_PACK_2_EN, BURDEN_OF_PROOF_PACK_2_FR } from './data/questions/fallacyExpansions/burdenOfProofPack2';
+import { CIRCULAR_REASONING_PACK_1_EN, CIRCULAR_REASONING_PACK_1_FR } from './data/questions/fallacyExpansions/circularReasoningPack1';
+import { CIRCULAR_REASONING_PACK_2_EN, CIRCULAR_REASONING_PACK_2_FR } from './data/questions/fallacyExpansions/circularReasoningPack2';
 import { COMPOSITION_FALLACY_PACK_1_EN, COMPOSITION_FALLACY_PACK_1_FR } from './data/questions/fallacyExpansions/compositionFallacyPack1';
 import { COMPOSITION_FALLACY_PACK_2_EN, COMPOSITION_FALLACY_PACK_2_FR } from './data/questions/fallacyExpansions/compositionFallacyPack2';
 import { DIVISION_FALLACY_PACK_1_EN, DIVISION_FALLACY_PACK_1_FR } from './data/questions/fallacyExpansions/divisionFallacyPack1';
@@ -167,6 +169,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     APPEAL_TO_MODERATION_PACK_2_EN,
     BURDEN_OF_PROOF_PACK_1_EN,
     BURDEN_OF_PROOF_PACK_2_EN,
+    CIRCULAR_REASONING_PACK_1_EN,
+    CIRCULAR_REASONING_PACK_2_EN,
     COMPOSITION_FALLACY_PACK_1_EN,
     COMPOSITION_FALLACY_PACK_2_EN,
     DIVISION_FALLACY_PACK_1_EN,
@@ -311,6 +315,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     APPEAL_TO_MODERATION_PACK_2_FR,
     BURDEN_OF_PROOF_PACK_1_FR,
     BURDEN_OF_PROOF_PACK_2_FR,
+    CIRCULAR_REASONING_PACK_1_FR,
+    CIRCULAR_REASONING_PACK_2_FR,
     COMPOSITION_FALLACY_PACK_1_FR,
     COMPOSITION_FALLACY_PACK_2_FR,
     DIVISION_FALLACY_PACK_1_FR,
