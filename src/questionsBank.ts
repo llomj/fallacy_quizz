@@ -67,6 +67,8 @@ import { HALO_EFFECT_PACK_1_EN, HALO_EFFECT_PACK_1_FR } from './data/questions/f
 import { HALO_EFFECT_PACK_2_EN, HALO_EFFECT_PACK_2_FR } from './data/questions/fallacyExpansions/haloEffectPack2';
 import { FRAMING_EFFECT_PACK_1_EN, FRAMING_EFFECT_PACK_1_FR } from './data/questions/fallacyExpansions/framingEffectPack1';
 import { FRAMING_EFFECT_PACK_2_EN, FRAMING_EFFECT_PACK_2_FR } from './data/questions/fallacyExpansions/framingEffectPack2';
+import { TU_QUOQUE_PACK_1_EN, TU_QUOQUE_PACK_1_FR } from './data/questions/fallacyExpansions/tuQuoquePack1';
+import { TU_QUOQUE_PACK_2_EN, TU_QUOQUE_PACK_2_FR } from './data/questions/fallacyExpansions/tuQuoquePack2';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -194,6 +196,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     HALO_EFFECT_PACK_2_EN,
     FRAMING_EFFECT_PACK_1_EN,
     FRAMING_EFFECT_PACK_2_EN,
+    TU_QUOQUE_PACK_1_EN,
+    TU_QUOQUE_PACK_2_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -308,6 +312,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     HALO_EFFECT_PACK_2_FR,
     FRAMING_EFFECT_PACK_1_FR,
     FRAMING_EFFECT_PACK_2_FR,
+    TU_QUOQUE_PACK_1_FR,
+    TU_QUOQUE_PACK_2_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
