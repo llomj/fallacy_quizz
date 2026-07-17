@@ -1,6 +1,8 @@
 import type { Question } from './types';
 import { FALLACY_QUESTIONS_EN, FALLACY_QUESTIONS_FR } from './data/questions/fallaciesData';
 import { LEVEL_0_GEN_EN, LEVEL_0_GEN_FR } from './data/questions/level0Data';
+import { ANECDOTAL_EVIDENCE_PACK_1_EN, ANECDOTAL_EVIDENCE_PACK_1_FR } from './data/questions/fallacyExpansions/anecdotalEvidencePack1';
+import { ANECDOTAL_EVIDENCE_PACK_2_EN, ANECDOTAL_EVIDENCE_PACK_2_FR } from './data/questions/fallacyExpansions/anecdotalEvidencePack2';
 import { APPEAL_TO_AUTHORITY_PACK_1_EN, APPEAL_TO_AUTHORITY_PACK_1_FR } from './data/questions/fallacyExpansions/appealToAuthorityPack1';
 import { APPEAL_TO_AUTHORITY_PACK_2_EN, APPEAL_TO_AUTHORITY_PACK_2_FR } from './data/questions/fallacyExpansions/appealToAuthorityPack2';
 import { APPEAL_TO_AUTHORITY_PACK_3_EN, APPEAL_TO_AUTHORITY_PACK_3_FR } from './data/questions/fallacyExpansions/appealToAuthorityPack3';
@@ -164,6 +166,8 @@ function applyAllQuestionOverrides(base: Question[], overrideSets: Question[][])
 const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
   FALLACY_QUESTIONS_EN.filter((q) => q.id < 1001 || q.id > 1300),
   [
+    ANECDOTAL_EVIDENCE_PACK_1_EN,
+    ANECDOTAL_EVIDENCE_PACK_2_EN,
     APPEAL_TO_AUTHORITY_PACK_1_EN,
     APPEAL_TO_AUTHORITY_PACK_2_EN,
     APPEAL_TO_AUTHORITY_PACK_3_EN,
@@ -314,6 +318,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
 const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
   FALLACY_QUESTIONS_FR.filter((q) => q.id < 1001 || q.id > 1300),
   [
+    ANECDOTAL_EVIDENCE_PACK_1_FR,
+    ANECDOTAL_EVIDENCE_PACK_2_FR,
     APPEAL_TO_AUTHORITY_PACK_1_FR,
     APPEAL_TO_AUTHORITY_PACK_2_FR,
     APPEAL_TO_AUTHORITY_PACK_3_FR,
