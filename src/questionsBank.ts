@@ -12,6 +12,8 @@ import { APPEAL_TO_SILENCE_PACK_1_EN, APPEAL_TO_SILENCE_PACK_1_FR } from './data
 import { APPEAL_TO_SILENCE_PACK_2_EN, APPEAL_TO_SILENCE_PACK_2_FR } from './data/questions/fallacyExpansions/appealToSilencePack2';
 import { BURDEN_OF_PROOF_PACK_1_EN, BURDEN_OF_PROOF_PACK_1_FR } from './data/questions/fallacyExpansions/burdenOfProofPack1';
 import { BURDEN_OF_PROOF_PACK_2_EN, BURDEN_OF_PROOF_PACK_2_FR } from './data/questions/fallacyExpansions/burdenOfProofPack2';
+import { CHERRY_PICKING_PACK_1_EN, CHERRY_PICKING_PACK_1_FR } from './data/questions/fallacyExpansions/cherryPickingPack1';
+import { CHERRY_PICKING_PACK_2_EN, CHERRY_PICKING_PACK_2_FR } from './data/questions/fallacyExpansions/cherryPickingPack2';
 import { CIRCULAR_REASONING_PACK_1_EN, CIRCULAR_REASONING_PACK_1_FR } from './data/questions/fallacyExpansions/circularReasoningPack1';
 import { CIRCULAR_REASONING_PACK_2_EN, CIRCULAR_REASONING_PACK_2_FR } from './data/questions/fallacyExpansions/circularReasoningPack2';
 import { COMPOSITION_FALLACY_PACK_1_EN, COMPOSITION_FALLACY_PACK_1_FR } from './data/questions/fallacyExpansions/compositionFallacyPack1';
@@ -173,6 +175,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     APPEAL_TO_SILENCE_PACK_2_EN,
     BURDEN_OF_PROOF_PACK_1_EN,
     BURDEN_OF_PROOF_PACK_2_EN,
+    CHERRY_PICKING_PACK_1_EN,
+    CHERRY_PICKING_PACK_2_EN,
     CIRCULAR_REASONING_PACK_1_EN,
     CIRCULAR_REASONING_PACK_2_EN,
     COMPOSITION_FALLACY_PACK_1_EN,
@@ -321,6 +325,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     APPEAL_TO_SILENCE_PACK_2_FR,
     BURDEN_OF_PROOF_PACK_1_FR,
     BURDEN_OF_PROOF_PACK_2_FR,
+    CHERRY_PICKING_PACK_1_FR,
+    CHERRY_PICKING_PACK_2_FR,
     CIRCULAR_REASONING_PACK_1_FR,
     CIRCULAR_REASONING_PACK_2_FR,
     COMPOSITION_FALLACY_PACK_1_FR,
