@@ -71,6 +71,8 @@ import { TU_QUOQUE_PACK_1_EN, TU_QUOQUE_PACK_1_FR } from './data/questions/falla
 import { TU_QUOQUE_PACK_2_EN, TU_QUOQUE_PACK_2_FR } from './data/questions/fallacyExpansions/tuQuoquePack2';
 import { DUNNING_KRUGER_PACK_1_EN, DUNNING_KRUGER_PACK_1_FR } from './data/questions/fallacyExpansions/dunningKrugerPack1';
 import { DUNNING_KRUGER_PACK_2_EN, DUNNING_KRUGER_PACK_2_FR } from './data/questions/fallacyExpansions/dunningKrugerPack2';
+import { HASTY_GENERALIZATION_PACK_1_EN, HASTY_GENERALIZATION_PACK_1_FR } from './data/questions/fallacyExpansions/hastyGeneralizationPack1';
+import { HASTY_GENERALIZATION_PACK_2_EN, HASTY_GENERALIZATION_PACK_2_FR } from './data/questions/fallacyExpansions/hastyGeneralizationPack2';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -202,6 +204,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     TU_QUOQUE_PACK_2_EN,
     DUNNING_KRUGER_PACK_1_EN,
     DUNNING_KRUGER_PACK_2_EN,
+    HASTY_GENERALIZATION_PACK_1_EN,
+    HASTY_GENERALIZATION_PACK_2_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -320,6 +324,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     TU_QUOQUE_PACK_2_FR,
     DUNNING_KRUGER_PACK_1_FR,
     DUNNING_KRUGER_PACK_2_FR,
+    HASTY_GENERALIZATION_PACK_1_FR,
+    HASTY_GENERALIZATION_PACK_2_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
