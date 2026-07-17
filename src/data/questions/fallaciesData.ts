@@ -14401,38 +14401,8 @@ export const FALLACY_QUESTIONS_EN: Question[] = [
     detailedExplanationExpert: "Logical Fallacies - Informal Logic - Argument structure failure.",
     questionFormat: "standard"
   },
-  {
-    id: 1001,
-    level: 0,
-    persona_stage: PersonaStage.TADPOLE,
-    concept: "argument-basics",
-    difficulty: 1,
-    subLevel: SubLevel.BEGINNER,
-    question: "Which of the following is a simple argument (premises supporting a conclusion), not just a statement?",
-    options: ['"Chocolate ice cream is the best."', '"If it rains, the ground gets wet. It is raining, so the ground will get wet."', '"Close the window!"', '"Ouch!"'],
-    correct_option_index: 1,
-    explanation: "An argument gives reasons (premises) for a conclusion. Only one option clearly presents premises leading to a conclusion.",
-    detailedExplanationBeginner: "An argument is more than an opinion: it gives reasons. \"If it rains, the ground gets wet. It is raining, so the ground will get wet.\" has two premises and one conclusion.",
-    detailedExplanationIntermediate: "Arguments contain at least one premise and one conclusion. The conditional plus the fact that it is raining support the conclusion about the ground. The other options express feelings, commands, or bare opinions.",
-    detailedExplanationExpert: "Formally, we have: (1) If R then W. (2) R. Therefore (3) W. This is an instance of Modus Ponens, a valid argument form. The other options lack the premise–conclusion structure.",
-    questionFormat: "standard"
-  },
-  {
-    id: 1002,
-    level: 0,
-    persona_stage: PersonaStage.TADPOLE,
-    concept: "argument-vs-explanation",
-    difficulty: 1,
-    subLevel: SubLevel.BEGINNER,
-    question: "Which option is best described as an explanation rather than an argument?",
-    options: ['"You should save money because emergencies can happen."', '"The glass broke because it fell on the floor."', '"If taxes rise, many people will move away."', '"Everyone says this brand is the best, so it must be."'],
-    correct_option_index: 1,
-    explanation: "An explanation tries to clarify why something is already accepted as true, not to persuade you that it is true.",
-    detailedExplanationBeginner: "Saying \"The glass broke because it fell on the floor\" assumes that the glass did break, and then gives a cause. That is an explanation.",
-    detailedExplanationIntermediate: "Arguments support a claim that might still be in doubt; explanations presuppose the fact and give its cause. Here, the broken glass is taken for granted and the fall is offered as its cause.",
-    detailedExplanationExpert: "The broken glass is the explanandum; the fall is the explanans. In contrast, \"You should save money because emergencies can happen\" uses a reason to support a recommendation—an argument.",
-    questionFormat: "standard"
-  },
+
+
   {
     id: 901,
     level: 1,
@@ -30388,36 +30358,6 @@ export const FALLACY_QUESTIONS_FR: Question[] = [
     detailedExplanationExpert: "Protocole Social - Logique Informelle - Échec de structure de l'argument.",
     questionFormat: "standard"
   },
-  {
-    id: 1001,
-    level: 0,
-    persona_stage: PersonaStage.TADPOLE,
-    concept: "argument-basics",
-    difficulty: 1,
-    subLevel: SubLevel.BEGINNER,
-    question: "Laquelle des options suivantes est un argument simple (prémisses soutenant une conclusion), et non une simple affirmation ?",
-    options: ['"La glace au chocolat est la meilleure."', '"S\'il pleut, le sol est mouillé. Il pleut, donc le sol sera mouillé."', '"Fermez la fenêtre !"', '"Aïe !"'],
-    correct_option_index: 1,
-    explanation: "Un argument donne des raisons (prémisses) pour une conclusion. Une seule option présente clairement des prémisses menant à une conclusion.",
-    detailedExplanationBeginner: "Un argument est plus qu'une opinion : il donne des raisons. « S'il pleut, le sol est mouillé. Il pleut, donc le sol sera mouillé » a deux prémisses et une conclusion.",
-    detailedExplanationIntermediate: "Les arguments contiennent au moins une prémisse et une conclusion. Le conditionnel plus le fait qu'il pleut soutiennent la conclusion sur le sol. Les autres options expriment des sentiments, des ordres ou de simples opinions.",
-    detailedExplanationExpert: "Formellement : (1) Si R alors M. (2) R. Donc (3) M. C'est une instance du Modus Ponens, une forme d'argument valide. Les autres options n'ont pas la structure prémisse–conclusion.",
-    questionFormat: "standard"
-  },
-  {
-    id: 1002,
-    level: 0,
-    persona_stage: PersonaStage.TADPOLE,
-    concept: "argument-vs-explanation",
-    difficulty: 1,
-    subLevel: SubLevel.BEGINNER,
-    question: "Laquelle des options est mieux décrite comme une explication plutôt qu'un argument ?",
-    options: ['"Vous devriez économiser car les imprévus peuvent arriver."', '"Le verre s\'est cassé car il est tombé par terre."', '"Si les impôts augmentent, beaucoup partiront."', '"Tout le monde dit que cette marque est la meilleure, donc c\'est vrai."'],
-    correct_option_index: 1,
-    explanation: "Une explication vise à clarifier pourquoi quelque chose est déjà accepté comme vrai, et non à vous persuader qu'il est vrai.",
-    detailedExplanationBeginner: "Dire « Le verre s'est cassé car il est tombé par terre » suppose que le verre s'est cassé, puis en donne la cause. C'est une explication.",
-    detailedExplanationIntermediate: "Les arguments soutiennent une affirmation qui peut encore être en doute ; les explications présupposent le fait et en donnent la cause. Ici, le verre cassé est acquis et la chute en est la cause.",
-    detailedExplanationExpert: "Le verre cassé est l'explanandum ; la chute est l'explanans. À l'inverse, « Vous devriez économiser car les imprévus peuvent arriver » utilise une raison pour soutenir une recommandation — un argument.",
-    questionFormat: "standard"
-  },
+
+
 ];
