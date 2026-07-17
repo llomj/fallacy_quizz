@@ -8,6 +8,8 @@ import { APPEAL_TO_AUTHORITY_PACK_4_EN, APPEAL_TO_AUTHORITY_PACK_4_FR } from './
 import { APPEAL_TO_AUTHORITY_PACK_5_EN, APPEAL_TO_AUTHORITY_PACK_5_FR } from './data/questions/fallacyExpansions/appealToAuthorityPack5';
 import { APPEAL_TO_MODERATION_PACK_1_EN, APPEAL_TO_MODERATION_PACK_1_FR } from './data/questions/fallacyExpansions/appealToModerationPack1';
 import { APPEAL_TO_MODERATION_PACK_2_EN, APPEAL_TO_MODERATION_PACK_2_FR } from './data/questions/fallacyExpansions/appealToModerationPack2';
+import { APPEAL_TO_SILENCE_PACK_1_EN, APPEAL_TO_SILENCE_PACK_1_FR } from './data/questions/fallacyExpansions/appealToSilencePack1';
+import { APPEAL_TO_SILENCE_PACK_2_EN, APPEAL_TO_SILENCE_PACK_2_FR } from './data/questions/fallacyExpansions/appealToSilencePack2';
 import { BURDEN_OF_PROOF_PACK_1_EN, BURDEN_OF_PROOF_PACK_1_FR } from './data/questions/fallacyExpansions/burdenOfProofPack1';
 import { BURDEN_OF_PROOF_PACK_2_EN, BURDEN_OF_PROOF_PACK_2_FR } from './data/questions/fallacyExpansions/burdenOfProofPack2';
 import { CIRCULAR_REASONING_PACK_1_EN, CIRCULAR_REASONING_PACK_1_FR } from './data/questions/fallacyExpansions/circularReasoningPack1';
@@ -167,6 +169,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     APPEAL_TO_AUTHORITY_PACK_5_EN,
     APPEAL_TO_MODERATION_PACK_1_EN,
     APPEAL_TO_MODERATION_PACK_2_EN,
+    APPEAL_TO_SILENCE_PACK_1_EN,
+    APPEAL_TO_SILENCE_PACK_2_EN,
     BURDEN_OF_PROOF_PACK_1_EN,
     BURDEN_OF_PROOF_PACK_2_EN,
     CIRCULAR_REASONING_PACK_1_EN,
@@ -313,6 +317,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     APPEAL_TO_AUTHORITY_PACK_5_FR,
     APPEAL_TO_MODERATION_PACK_1_FR,
     APPEAL_TO_MODERATION_PACK_2_FR,
+    APPEAL_TO_SILENCE_PACK_1_FR,
+    APPEAL_TO_SILENCE_PACK_2_FR,
     BURDEN_OF_PROOF_PACK_1_FR,
     BURDEN_OF_PROOF_PACK_2_FR,
     CIRCULAR_REASONING_PACK_1_FR,
