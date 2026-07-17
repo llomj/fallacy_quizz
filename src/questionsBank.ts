@@ -23,6 +23,8 @@ import { APPEAL_TO_NOVELTY_PACK_1_EN, APPEAL_TO_NOVELTY_PACK_1_FR } from './data
 import { APPEAL_TO_NOVELTY_PACK_2_EN, APPEAL_TO_NOVELTY_PACK_2_FR } from './data/questions/fallacyExpansions/appealToNoveltyPack2';
 import { APPEAL_TO_POPULARITY_PACK_1_EN, APPEAL_TO_POPULARITY_PACK_1_FR } from './data/questions/fallacyExpansions/appealToPopularityPack1';
 import { APPEAL_TO_POPULARITY_PACK_2_EN, APPEAL_TO_POPULARITY_PACK_2_FR } from './data/questions/fallacyExpansions/appealToPopularityPack2';
+import { EQUIVOCATION_PACK_1_EN, EQUIVOCATION_PACK_1_FR } from './data/questions/fallacyExpansions/equivocationPack1';
+import { EQUIVOCATION_PACK_2_EN, EQUIVOCATION_PACK_2_FR } from './data/questions/fallacyExpansions/equivocationPack2';
 import { STRAW_MAN_PACK_1_EN, STRAW_MAN_PACK_1_FR } from './data/questions/fallacyExpansions/strawManPack1';
 import { STRAW_MAN_PACK_2_EN, STRAW_MAN_PACK_2_FR } from './data/questions/fallacyExpansions/strawManPack2';
 import { SLIPPERY_SLOPE_PACK_1_EN, SLIPPERY_SLOPE_PACK_1_FR } from './data/questions/fallacyExpansions/slipperySlopePack1';
@@ -148,6 +150,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     APPEAL_TO_NOVELTY_PACK_2_EN,
     APPEAL_TO_POPULARITY_PACK_1_EN,
     APPEAL_TO_POPULARITY_PACK_2_EN,
+    EQUIVOCATION_PACK_1_EN,
+    EQUIVOCATION_PACK_2_EN,
     STRAW_MAN_PACK_1_EN,
     STRAW_MAN_PACK_2_EN,
     SLIPPERY_SLOPE_PACK_1_EN,
@@ -260,6 +264,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     APPEAL_TO_NOVELTY_PACK_2_FR,
     APPEAL_TO_POPULARITY_PACK_1_FR,
     APPEAL_TO_POPULARITY_PACK_2_FR,
+    EQUIVOCATION_PACK_1_FR,
+    EQUIVOCATION_PACK_2_FR,
     STRAW_MAN_PACK_1_FR,
     STRAW_MAN_PACK_2_FR,
     SLIPPERY_SLOPE_PACK_1_FR,
