@@ -27,6 +27,8 @@ import { APPEAL_TO_RIDICULE_PACK_1_EN, APPEAL_TO_RIDICULE_PACK_1_FR } from './da
 import { APPEAL_TO_RIDICULE_PACK_2_EN, APPEAL_TO_RIDICULE_PACK_2_FR } from './data/questions/fallacyExpansions/appealToRidiculePack2';
 import { EQUIVOCATION_PACK_1_EN, EQUIVOCATION_PACK_1_FR } from './data/questions/fallacyExpansions/equivocationPack1';
 import { EQUIVOCATION_PACK_2_EN, EQUIVOCATION_PACK_2_FR } from './data/questions/fallacyExpansions/equivocationPack2';
+import { FALSE_EQUIVALENCE_PACK_1_EN, FALSE_EQUIVALENCE_PACK_1_FR } from './data/questions/fallacyExpansions/falseEquivalencePack1';
+import { FALSE_EQUIVALENCE_PACK_2_EN, FALSE_EQUIVALENCE_PACK_2_FR } from './data/questions/fallacyExpansions/falseEquivalencePack2';
 import { STRAW_MAN_PACK_1_EN, STRAW_MAN_PACK_1_FR } from './data/questions/fallacyExpansions/strawManPack1';
 import { STRAW_MAN_PACK_2_EN, STRAW_MAN_PACK_2_FR } from './data/questions/fallacyExpansions/strawManPack2';
 import { SLIPPERY_SLOPE_PACK_1_EN, SLIPPERY_SLOPE_PACK_1_FR } from './data/questions/fallacyExpansions/slipperySlopePack1';
@@ -164,6 +166,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     APPEAL_TO_RIDICULE_PACK_2_EN,
     EQUIVOCATION_PACK_1_EN,
     EQUIVOCATION_PACK_2_EN,
+    FALSE_EQUIVALENCE_PACK_1_EN,
+    FALSE_EQUIVALENCE_PACK_2_EN,
     STRAW_MAN_PACK_1_EN,
     STRAW_MAN_PACK_2_EN,
     SLIPPERY_SLOPE_PACK_1_EN,
@@ -288,6 +292,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     APPEAL_TO_RIDICULE_PACK_2_FR,
     EQUIVOCATION_PACK_1_FR,
     EQUIVOCATION_PACK_2_FR,
+    FALSE_EQUIVALENCE_PACK_1_FR,
+    FALSE_EQUIVALENCE_PACK_2_FR,
     STRAW_MAN_PACK_1_FR,
     STRAW_MAN_PACK_2_FR,
     SLIPPERY_SLOPE_PACK_1_FR,
