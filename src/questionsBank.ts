@@ -73,6 +73,8 @@ import { DUNNING_KRUGER_PACK_1_EN, DUNNING_KRUGER_PACK_1_FR } from './data/quest
 import { DUNNING_KRUGER_PACK_2_EN, DUNNING_KRUGER_PACK_2_FR } from './data/questions/fallacyExpansions/dunningKrugerPack2';
 import { HASTY_GENERALIZATION_PACK_1_EN, HASTY_GENERALIZATION_PACK_1_FR } from './data/questions/fallacyExpansions/hastyGeneralizationPack1';
 import { HASTY_GENERALIZATION_PACK_2_EN, HASTY_GENERALIZATION_PACK_2_FR } from './data/questions/fallacyExpansions/hastyGeneralizationPack2';
+import { FALSE_ANALOGY_PACK_1_EN, FALSE_ANALOGY_PACK_1_FR } from './data/questions/fallacyExpansions/falseAnalogyPack1';
+import { FALSE_ANALOGY_PACK_2_EN, FALSE_ANALOGY_PACK_2_FR } from './data/questions/fallacyExpansions/falseAnalogyPack2';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -206,6 +208,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     DUNNING_KRUGER_PACK_2_EN,
     HASTY_GENERALIZATION_PACK_1_EN,
     HASTY_GENERALIZATION_PACK_2_EN,
+    FALSE_ANALOGY_PACK_1_EN,
+    FALSE_ANALOGY_PACK_2_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -326,6 +330,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     DUNNING_KRUGER_PACK_2_FR,
     HASTY_GENERALIZATION_PACK_1_FR,
     HASTY_GENERALIZATION_PACK_2_FR,
+    FALSE_ANALOGY_PACK_1_FR,
+    FALSE_ANALOGY_PACK_2_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
