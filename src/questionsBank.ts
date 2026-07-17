@@ -83,6 +83,8 @@ import { HASTY_GENERALIZATION_PACK_1_EN, HASTY_GENERALIZATION_PACK_1_FR } from '
 import { HASTY_GENERALIZATION_PACK_2_EN, HASTY_GENERALIZATION_PACK_2_FR } from './data/questions/fallacyExpansions/hastyGeneralizationPack2';
 import { MOVING_GOALPOSTS_PACK_1_EN, MOVING_GOALPOSTS_PACK_1_FR } from './data/questions/fallacyExpansions/movingGoalpostsPack1';
 import { MOVING_GOALPOSTS_PACK_2_EN, MOVING_GOALPOSTS_PACK_2_FR } from './data/questions/fallacyExpansions/movingGoalpostsPack2';
+import { NO_TRUE_SCOTSMAN_PACK_1_EN, NO_TRUE_SCOTSMAN_PACK_1_FR } from './data/questions/fallacyExpansions/noTrueScotsmanPack1';
+import { NO_TRUE_SCOTSMAN_PACK_2_EN, NO_TRUE_SCOTSMAN_PACK_2_FR } from './data/questions/fallacyExpansions/noTrueScotsmanPack2';
 import { LEVEL_1_OVERRIDES_EN, LEVEL_1_OVERRIDES_FR } from './data/questions/level1Overrides';
 import { LEVEL_1_EXPANSION_PACK_1_EN, LEVEL_1_EXPANSION_PACK_1_FR } from './data/questions/level1ExpansionPack1';
 import { LEVEL_1_EXPANSION_PACK_2_EN, LEVEL_1_EXPANSION_PACK_2_FR } from './data/questions/level1ExpansionPack2';
@@ -226,6 +228,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     HASTY_GENERALIZATION_PACK_2_EN,
     MOVING_GOALPOSTS_PACK_1_EN,
     MOVING_GOALPOSTS_PACK_2_EN,
+    NO_TRUE_SCOTSMAN_PACK_1_EN,
+    NO_TRUE_SCOTSMAN_PACK_2_EN,
     LEVEL_1_OVERRIDES_EN,
     LEVEL_1_EXPANSION_PACK_1_EN,
     LEVEL_1_EXPANSION_PACK_2_EN,
@@ -356,6 +360,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     HASTY_GENERALIZATION_PACK_2_FR,
     MOVING_GOALPOSTS_PACK_1_FR,
     MOVING_GOALPOSTS_PACK_2_FR,
+    NO_TRUE_SCOTSMAN_PACK_1_FR,
+    NO_TRUE_SCOTSMAN_PACK_2_FR,
     LEVEL_1_OVERRIDES_FR,
     LEVEL_1_EXPANSION_PACK_1_FR,
     LEVEL_1_EXPANSION_PACK_2_FR,
