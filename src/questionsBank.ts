@@ -8,6 +8,8 @@ import { APPEAL_TO_AUTHORITY_PACK_4_EN, APPEAL_TO_AUTHORITY_PACK_4_FR } from './
 import { APPEAL_TO_AUTHORITY_PACK_5_EN, APPEAL_TO_AUTHORITY_PACK_5_FR } from './data/questions/fallacyExpansions/appealToAuthorityPack5';
 import { APPEAL_TO_CONSEQUENCES_PACK_1_EN, APPEAL_TO_CONSEQUENCES_PACK_1_FR } from './data/questions/fallacyExpansions/appealToConsequencesPack1';
 import { APPEAL_TO_CONSEQUENCES_PACK_2_EN, APPEAL_TO_CONSEQUENCES_PACK_2_FR } from './data/questions/fallacyExpansions/appealToConsequencesPack2';
+import { APPEAL_TO_FORCE_PACK_1_EN, APPEAL_TO_FORCE_PACK_1_FR } from './data/questions/fallacyExpansions/appealToForcePack1';
+import { APPEAL_TO_FORCE_PACK_2_EN, APPEAL_TO_FORCE_PACK_2_FR } from './data/questions/fallacyExpansions/appealToForcePack2';
 import { APPEAL_TO_IGNORANCE_PACK_1_EN, APPEAL_TO_IGNORANCE_PACK_1_FR } from './data/questions/fallacyExpansions/appealToIgnorancePack1';
 import { APPEAL_TO_IGNORANCE_PACK_2_EN, APPEAL_TO_IGNORANCE_PACK_2_FR } from './data/questions/fallacyExpansions/appealToIgnorancePack2';
 import { APPEAL_TO_IGNORANCE_PACK_3_EN, APPEAL_TO_IGNORANCE_PACK_3_FR } from './data/questions/fallacyExpansions/appealToIgnorancePack3';
@@ -131,6 +133,8 @@ const FALLACY_GAME_IDS_ONLY_EN = applyAllQuestionOverrides(
     APPEAL_TO_AUTHORITY_PACK_5_EN,
     APPEAL_TO_CONSEQUENCES_PACK_1_EN,
     APPEAL_TO_CONSEQUENCES_PACK_2_EN,
+    APPEAL_TO_FORCE_PACK_1_EN,
+    APPEAL_TO_FORCE_PACK_2_EN,
     APPEAL_TO_IGNORANCE_PACK_1_EN,
     APPEAL_TO_IGNORANCE_PACK_2_EN,
     APPEAL_TO_IGNORANCE_PACK_3_EN,
@@ -241,6 +245,8 @@ const FALLACY_GAME_IDS_ONLY_FR = applyAllQuestionOverrides(
     APPEAL_TO_AUTHORITY_PACK_5_FR,
     APPEAL_TO_CONSEQUENCES_PACK_1_FR,
     APPEAL_TO_CONSEQUENCES_PACK_2_FR,
+    APPEAL_TO_FORCE_PACK_1_FR,
+    APPEAL_TO_FORCE_PACK_2_FR,
     APPEAL_TO_IGNORANCE_PACK_1_FR,
     APPEAL_TO_IGNORANCE_PACK_2_FR,
     APPEAL_TO_IGNORANCE_PACK_3_FR,
