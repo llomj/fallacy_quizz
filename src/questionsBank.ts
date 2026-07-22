@@ -5,10 +5,10 @@ import { LEVEL_0_GEN_EN, LEVEL_0_GEN_FR } from './data/questions/level0Data';
 // Level 0 owns IDs 1001–1300 via level0Data. Fallacy questions use IDs <1000
 // (legacy) plus 1003+ (Level 1 expansion). Exclude only the Level 0 range.
 const FALLACY_GAME_IDS_ONLY_EN = FALLACY_QUESTIONS_EN.filter(
-  (q) => q.id < 1000 || (q.id >= 1003 && q.id < 10000)
+  (q) => q.id < 1000 || (q.id >= 1003 && q.id < 11000)
 );
 const FALLACY_GAME_IDS_ONLY_FR = FALLACY_QUESTIONS_FR.filter(
-  (q) => q.id < 1000 || (q.id >= 1003 && q.id < 10000)
+  (q) => q.id < 1000 || (q.id >= 1003 && q.id < 11000)
 );
 
 export const QUESTIONS_BANK_EN: Question[] = [...FALLACY_GAME_IDS_ONLY_EN, ...LEVEL_0_GEN_EN];
