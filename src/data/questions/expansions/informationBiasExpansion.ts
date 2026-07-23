@@ -49,6 +49,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo keeps adding context to a small decision until it becomes paralyzing.', "Leo continue d ajouter du contexte a une petite decision jusqu a ce qu elle devienne paralysante."],
   ['Maya thinks one more fact about a notebook would finally make the answer obvious.', "Maya pense qu un fait de plus sur un carnet rendrait enfin la reponse evidente."],
   ['Nina keeps searching for a perfect answer even though the choice is already simple.', "Nina continue de chercher une reponse parfaite alors que le choix est deja simple."],
+  [`After reading five reviews of a toaster, Mila starts hunting for five more even though she already knows she wants one with wide slots.`, `Apres avoir lu cinq avis sur un grille-pain, Mila cherche encore cinq autres avis alors qu elle sait deja qu elle en veut un avec de larges fentes.`],
+  [`Owen keeps opening tabs about a sandwich order and makes the lunch decision harder than it needs to be.`, `Owen ouvre sans cesse des onglets sur une commande de sandwich et rend la decision du dejeuner plus difficile qu elle ne devrait l etre.`],
+  [`Priya wants one more comparison for a cheap backpack, then one more, then one more, and never buys anything.`, `Priya veut une comparaison de plus pour un sac a dos bon marche, puis encore une, puis encore une, et n achete jamais rien.`],
+  [`Ben asks for every detail about a bus route even though he only needs to know one departure time.`, `Ben demande chaque detail sur un trajet de bus alors qu il a seulement besoin de connaitre une heure de depart.`],
+  [`Tara keeps researching a basic coffee maker until the decision feels bigger than her budget.`, `Tara continue de rechercher une machine a cafe basique jusqu a ce que la decision paraisse plus grande que son budget.`],
+  [`Jules insists he needs another article about a phone case before choosing between two colors.`, `Jules insiste pour lire encore un article sur une coque de telephone avant de choisir entre deux couleurs.`],
+  [`Mina turns a simple lunch choice into a spreadsheet of opinions, prices, and ratings.`, `Mina transforme un choix simple de dejeuner en tableau de calcul avec opinions, prix et notes.`],
+  [`Theo keeps gathering facts about a movie until he is too tired to go.`, `Theo continue de reunir des faits sur un film jusqu a etre trop fatigue pour y aller.`],
+  [`Lina says she needs every possible detail about a notebook before deciding whether to buy it.`, `Lina dit qu elle a besoin de chaque detail possible sur un carnet avant de decider de l acheter.`],
+  [`Noah keeps reading more and more about a weekend hike until the trail feels impossible to choose.`, `Noah lit toujours plus sur une randonnee de week-end jusqu a ce que le sentier paraisse impossible a choisir.`],
 ];
 
 const OPTIONS_EN = ['Information Bias', 'Availability Heuristic', 'Analysis Paralysis', 'Confirmation Bias'];

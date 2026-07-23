@@ -49,6 +49,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo says, "All dogs are animals. This animal is a dog."', "Leo dit : « Tous les chiens sont des animaux. Cet animal est un chien. »"],
   ['Maya says, "If the lights flicker, the storm is near. The storm is near, so the lights flicker."', "Maya dit : « Si les lumieres clignotent, l orage est proche. L orage est proche, donc les lumieres clignotent. »"],
   ['Nina says, "Some artists are quiet. She is quiet, so she is an artist."', "Nina dit : « Certains artistes sont calmes. Elle est calme, donc c est une artiste. »"],
+  ['Owen says, "If the cafe is busy, the line is long. The line is long, so the cafe must be busy."', "Owen dit : « Si le cafe est rempli, la file est longue. La file est longue, donc le cafe doit etre rempli. »"],
+  ['Priya says, "All pens are tools. This tool is a pen."', "Priya dit : « Tous les stylos sont des outils. Cet outil est un stylo. »"],
+  ['Ben says, "If the app is updated, it works well. It works well, so it must be updated."', "Ben dit : « Si l application est mise a jour, elle marche bien. Elle marche bien, donc elle doit etre mise a jour. »"],
+  ['Tara says, "Some singers are loud. He is loud, so he is a singer."', "Tara dit : « Certains chanteurs sont bruyants. Il est bruyant, donc c est un chanteur. »"],
+  ['Kai says, "If the light is on, the room is occupied. The room is occupied, so the light is on."', "Kai dit : « Si la lumiere est allumee, la piece est occupee. La piece est occupee, donc la lumiere est allumee. »"],
+  ['Jules says, "All buses are vehicles. This vehicle is a bus."', "Jules dit : « Tous les bus sont des vehicules. Ce vehicule est un bus. »"],
+  ['Ava says, "If the soup is salty, it needs water. It needs water, so it is salty."', "Ava dit : « Si la soupe est salee, elle a besoin d eau. Elle a besoin d eau, donc elle est salee. »"],
+  ['Mina says, "Some teachers are funny. She is funny, so she is a teacher."', "Mina dit : « Certains professeurs sont drôles. Elle est drôle, donc c est une professeure. »"],
+  ['Theo says, "If the alarm rings, it is morning. It is morning, so the alarm rings."', "Theo dit : « Si le reveil sonne, c est le matin. C est le matin, donc le reveil sonne. »"],
+  ['Rina says, "If the jar is open, the lid is off. The lid is off, so the jar is open."', "Rina dit : « Si le bocal est ouvert, le couvercle est enleve. Le couvercle est enleve, donc le bocal est ouvert. »"],
 ];
 
 const OPTIONS_EN = ['Invalid Syllogism', 'Affirming the Consequent', 'Denying the Antecedent', 'False Dilemma'];

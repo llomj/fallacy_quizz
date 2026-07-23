@@ -49,6 +49,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo says the explanation is "novel" after it is obviously nonsense.', "Leo dit que l explication est « novatrice » alors qu elle est manifestement absurde."],
   ['Maya says the conversation was "lively" after it was mostly people talking over each other.', "Maya dit que la conversation etait « animee » alors qu il s agissait surtout de gens qui se coupaient la parole."],
   ['Nina says the service is "personalized" after it was just inconsistent.', "Nina dit que le service est « personnalise » alors qu il etait juste incoherent."],
+  [`Sam says the manager is "very hands-on" after the manager kept interrupting everyone.`, `Sam dit que la responsable est « tres proche du terrain » alors qu elle interrompait tout le monde.`],
+  [`Tia says the new policy is "interesting" while clearly meaning it is a mess.`, `Tia dit que la nouvelle regle est « interessante » alors qu elle veut clairement dire que c est un bazar.`],
+  [`Milo calls the report "creative" after it leaves out the main facts.`, `Milo appelle le rapport « creatif » apres qu il a laisse de cote les faits principaux.`],
+  [`Ava says the speaker is "confident" after he ignored the question entirely.`, `Ava dit que l orateur est « confiant » apres avoir ignore totalement la question.`],
+  [`Nora describes the deadline as "generous" after it is obviously too tight.`, `Nora decrit le delai comme « genereux » alors qu il est clairement trop serre.`],
+  [`Jules says the explanation is "unique" because nobody can follow it.`, `Jules dit que l explication est « unique » parce que personne ne peut la suivre.`],
+  [`Ben says the meeting was "efficient" after it ended with no decisions at all.`, `Ben dit que la reunion etait « efficace » apres qu elle s est terminee sans aucune decision.`],
+  [`Lina says the design is "bold" after it is so cluttered that it hurts to look at.`, `Lina dit que le design est « audacieux » alors qu il est tellement charge que c est penible a regarder.`],
+  [`Grant says the team was "adventurous" after it ignored all the basic rules.`, `Grant dit que l equipe etait « aventureuse » apres avoir ignore toutes les regles de base.`],
+  [`Parker says the email is "friendly" after it clearly sounds like a warning.`, `Parker dit que le courriel est « amical » alors qu il sonne clairement comme un avertissement.`],
 ];
 
 const OPTIONS_EN = ['Innuendo', 'Ad Hominem', 'Ambiguity', 'Loaded Question'];

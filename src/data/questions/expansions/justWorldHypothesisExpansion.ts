@@ -49,6 +49,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo says the person who got lost must not have been paying attention.', "Leo dit que la personne qui s est perdue ne devait pas faire attention."],
   ['Maya assumes the person who failed was morally lacking, not just unlucky.', "Maya suppose que la personne qui a echoue manquait moralement, pas seulement de chance."],
   ['Nina says the family that struggled probably caused their own suffering.', "Nina dit que la famille en difficulte a probablement cause sa propre souffrance."],
+  [`After a stranger gets laid off, Maya says they must have done something to deserve it.`, `Apres qu un inconnu est licencie, Maya dit qu il a forcement fait quelque chose pour meriter cela.`],
+  [`Leo sees a student fail a quiz and assumes the student must be lazy, not unlucky or unprepared.`, `Leo voit un eleve echouer a un quiz et suppose que l eleve doit etre paresseux, pas malchanceux ou mal prepare.`],
+  [`Nina says the person who was robbed probably was not careful enough to avoid it.`, `Nina dit que la personne cambriolee n etait probablement pas assez prudente pour eviter cela.`],
+  [`Owen thinks a family that lost their apartment must have made terrible choices.`, `Owen pense qu une famille qui a perdu son appartement a forcement fait de terribles choix.`],
+  [`Priya says the worker who got passed over for promotion probably did not deserve it.`, `Priya dit que le travailleur oublie pour la promotion ne la meritait probablement pas.`],
+  [`Ben assumes the kid who got bullied must have somehow invited it.`, `Ben suppose que l enfant harcele a forcement en quelque sorte provoque cela.`],
+  [`Tara thinks the person who got sick probably brought it on themselves.`, `Tara pense que la personne malade l a probablement provoque elle-meme.`],
+  [`Kai says the neighbor who had bad luck probably made bad life choices.`, `Kai dit que le voisin malchanceux a probablement fait de mauvais choix de vie.`],
+  [`Jules believes the person who got a parking ticket must have deserved the hassle.`, `Jules croit que la personne qui a eu une contravention de stationnement meritait forcement cette galere.`],
+  [`Ava says the person rejected from the club probably was not good enough to belong.`, `Ava dit que la personne rejetee du club n etait probablement pas assez bonne pour en faire partie.`],
 ];
 
 const OPTIONS_EN = ['Just-World Hypothesis', 'Fundamental Attribution Error', 'Survivorship Bias', 'Optimism Bias'];
