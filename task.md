@@ -45,9 +45,9 @@
 - [x] Added runtime checks for duplicate IDs, answer-index validity, EN/FR bank length, ID parity, and level parity.
 - [x] Production build and both GitHub Pages deployment workflows passed for recovery commit `0330e6f`.
 - [x] Created `reports/fallacy-expansion-audit.json` with counts, IDs, and EN/FR label mappings.
-- [ ] Normalize the 205 raw English correct-answer labels into the canonical fallacy catalogue. Exclude formulas, explanatory responses, aliases, and non-fallacy concepts from the generation target.
+- [x] Normalize 205 raw English correct-answer labels into 168 canonical educational targets: 92 fallacies/reasoning errors, 69 biases/effects, and 7 named principles. Excluded 24 non-concept answer fragments and merged 13 aliases. See `reports/canonical-fallacy-catalog.json`.
 - [ ] Repair the 461 legacy EN/FR option-position mismatches below ID 1000; many are different scenarios rather than translations.
-- [ ] Generate and validate +50 unique EN/FR pairs for each approved canonical fallacy.
+- [ ] Generate and validate +50 unique EN/FR pairs for each of the 168 approved canonical targets (8,400 pairs / 16,800 language records). Canonical French labels are approved with zero gaps.
 - [ ] Run duplicate, parity, random-mode, level-mode, language-switch, offline, and production-build validation after every batch.
 
 **Important:** The raw label count is not the final canonical count. Do not generate 50 questions for every raw label until its `catalogStatus` is reviewed in the audit manifest.
