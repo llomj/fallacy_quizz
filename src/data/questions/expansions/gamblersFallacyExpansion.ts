@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['After three coin flips land heads, Owen is sure tails is due on the next flip.', "Apres trois lancers de piece sur face, Owen est sur que pile va tomber au prochain lancer."],
-  ['Maya loses three roulette rounds and bets bigger because the wheel must "owe" her a win.', "Maya perd trois tours de roulette et mise plus gros parce que la roue lui « doit » bien une victoire."],
+  ['After three coin flips land heads, Owen is sure tails is due on the next flip at the park table.', "Apres trois lancers de piece sur face, Owen est sur que pile va tomber au prochain lancer a la table du parc."],
+  ['Maya loses three roulette rounds and bets bigger because the wheel must "owe" her a win by now.', "Maya perd trois tours de roulette et mise plus gros parce que la roue lui « doit » bien une victoire maintenant."],
   ['Leo sees four red cars in a row and thinks the next car has to be blue.', "Leo voit quatre voitures rouges d'affilee et pense que la prochaine doit etre bleue."],
   ['Nina misses a bus twice and assumes the next bus will be late, so she stops hurrying.', "Nina rate le bus deux fois et suppose que le prochain sera en retard, alors elle arrete de se presser."],
   ['After five rainy days, Ben says tomorrow is almost guaranteed to be sunny.', "Apres cinq jours de pluie, Ben dit que demain sera presque surement ensoleille."],

@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["A doctor says the new disease is rare, but Sam panics because one friend tested positive in his office.", "Un medecin dit que la nouvelle maladie est rare, mais Sam panique parce qu'un ami de son bureau a ete teste positif."],
-  ["Nora thinks she must have the rarest job in town because her neighbor asked about it once.", "Nora pense qu'elle doit avoir le metier le plus rare de la ville parce que son voisin lui en a parle une fois."],
+  ["A doctor says the new disease is rare, but Sam panics because one friend tested positive in his office last week.", "Un medecin dit que la nouvelle maladie est rare, mais Sam panique parce qu'un ami de son bureau a ete teste positif la semaine derniere."],
+  ["Nora thinks she must have the rarest job in town because her neighbor asked about it once at the mailbox.", "Nora pense qu'elle doit avoir le metier le plus rare de la ville parce que son voisin lui en a parle une fois a la boite aux lettres."],
   ["After hearing one fraud story, Eli assumes every online store is a scam.", "Apres avoir entendu une histoire d'arnaque, Eli suppose que chaque boutique en ligne est une escroquerie."],
   ["A weather warning makes Lina think rain is more likely than the actual forecast says.", "Un avertissement meteo fait penser a Lina que la pluie est plus probable que ne l'indique le vrai bulletin."],
   ["Kai sees one viral post about a shark and thinks shark attacks are common.", "Kai voit une publication virale sur un requin et pense que les attaques de requins sont courantes."],

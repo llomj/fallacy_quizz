@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['A news show put a climate scientist and a random caller on the same level, even though only one had evidence.', "Une emission d'information a mis une climatologue et un appelant au hasard sur le meme plan, alors qu'une seule personne avait des preuves."],
-  ['The debate club gave the same time to a doctor and a rumor thread about medicine.', "Le club de debat a donne le meme temps de parole a une medecin et a un fil de rumeurs sur la medecine."],
+  ['A news show put a climate scientist and a random caller on the same level, even though only one had evidence and charts.', "Une emission d'information a mis une climatologue et un appelant au hasard sur le meme plan, alors qu'une seule personne avait des preuves et des graphiques."],
+  ['The debate club gave the same time to a doctor and a rumor thread about medicine, as if both were equally reliable.', "Le club de debat a donne le meme temps de parole a une medecin et a un fil de rumeurs sur la medecine, comme si les deux etaient aussi fiables."],
   ['Mina treated a restaurant review from one customer as equal to a full inspection report.', "Mina a traite l'avis d'un seul client sur un restaurant comme l'equivalent d'un rapport d'inspection complet."],
   ['Theo said a broken watch and the atomic clock were both "just opinions" about the time.', "Theo a dit qu'une montre casse et l'horloge atomique n'etaient que des \"opinions\" sur l'heure."],
   ['A podcast host gave a vaccine expert and a conspiracy blogger the same credibility.', "L'animateur d'un podcast a donne la meme credibilite a une experte en vaccins et a un blogueur complotiste."],
