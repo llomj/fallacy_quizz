@@ -200,6 +200,46 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   [
     "Do not follow Rina's emergency-drill plan; she screamed when she saw a spider.",
     "Ne suivez pas le plan d'évacuation de Rina : elle a crié en voyant une araignée."
+  ],
+  [
+    "Maya's charity bake-sale idea is useless because she once burned toast.",
+    "L'idée de Maya pour une vente de pâtisseries caritative est inutile parce qu'elle a déjà brûlé du pain grillé."
+  ],
+  [
+    "Ignore Leo's recycling reminder; his socks never match.",
+    "Ignorez le rappel au tri de Leo : ses chaussettes ne sont jamais assorties."
+  ],
+  [
+    "Nina's budget tip cannot be trusted because she arrived late to brunch.",
+    "Le conseil de Nina sur le budget n'est pas fiable parce qu'elle est arrivée en retard au brunch."
+  ],
+  [
+    "Owen's school-garden plan is nonsense since he forgot his umbrella.",
+    "Le projet de jardin scolaire d'Owen est absurde puisqu'il a oublié son parapluie."
+  ],
+  [
+    "Do not listen to Priya about bus safety; she has a messy backpack.",
+    "N'écoutez pas Priya au sujet de la sécurité dans le bus : son sac est en désordre."
+  ],
+  [
+    "Ben's homework policy is bad because he laughs too loudly at cartoons.",
+    "La règle de Ben sur les devoirs est mauvaise parce qu'il rit trop fort devant les dessins animés."
+  ],
+  [
+    "Tara's app idea is not worth hearing because she forgot her lunchbox.",
+    "L'idée d'application de Tara ne mérite pas d'être entendue parce qu'elle a oublié sa boîte à lunch."
+  ],
+  [
+    "Kai cannot give good rent advice; he owns a cracked mug.",
+    "Kai ne peut pas donner de bon conseil sur le loyer ; il possède une tasse fendue."
+  ],
+  [
+    "Jules's cafe-opening plan fails because he pronounces one word strangely.",
+    "Le projet d'ouverture de café de Jules est nul parce qu'il prononce un mot bizarrement."
+  ],
+  [
+    "Ava's parking suggestion should be dismissed because she wears bright nail polish.",
+    "La suggestion d'Ava sur le stationnement devrait être rejetée parce qu'elle porte du vernis à ongles vif."
   ]
 ];
 

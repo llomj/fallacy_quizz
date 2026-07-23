@@ -200,6 +200,46 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   [
     'A notice says, "Guests should leave coats by the door with wet umbrellas." Priya hangs the coats on the umbrellas.',
     'Une notice dit : « Les invités doivent laisser les manteaux près de la porte avec les parapluies mouillés. » Priya suspend les manteaux aux parapluies.'
+  ],
+  [
+    'A sign reads, "Sell paintings from local artists on weekends." Theo thinks only the artists work on weekends.',
+    'Une pancarte dit : « Vendre des tableaux d’artistes locaux le week-end. » Theo pense que seuls les artistes travaillent le week-end.'
+  ],
+  [
+    'A memo says, "Call the office about the broken printer in room four." Jade assumes the office is broken.',
+    'Une note dit : « Appeler le bureau à propos de l’imprimante cassée dans la salle quatre. » Jade suppose que le bureau est cassé.'
+  ],
+  [
+    'A poster says, "Students should bring notebooks and snacks in the morning." Ben thinks only the snacks must be in the morning.',
+    'Une affiche dit : « Les élèves doivent apporter des cahiers et des collations le matin. » Ben pense que seules les collations doivent être apportées le matin.'
+  ],
+  [
+    'A brochure offers "museum tours for families and children under twelve." Lina concludes the families must be under twelve.',
+    'Une brochure propose des « visites de musée pour les familles et les enfants de moins de douze ans ». Lina conclut que les familles doivent avoir moins de douze ans.'
+  ],
+  [
+    'A recipe says "Serve soup with bread and butter." Omar serves the soup on top of bread and butter.',
+    'Une recette dit : « Servez la soupe avec du pain et du beurre. » Omar sert la soupe sur le pain et le beurre.'
+  ],
+  [
+    'A notice says, "Workers with dogs please use the side gate." Priya thinks only the dogs should use the gate.',
+    'Une notice dit : « Les travailleurs avec des chiens, veuillez utiliser la porte latérale. » Priya pense que seuls les chiens doivent utiliser la porte.'
+  ],
+  [
+    'A warning says, "Doctor warns about nurses with masks." Eli assumes the nurses are the ones warning.',
+    'Un avertissement dit : « Le médecin met en garde au sujet des infirmières avec des masques. » Eli suppose que ce sont les infirmières qui préviennent.'
+  ],
+  [
+    'A label says, "Place the cake in the box with the ribbon." Maya puts the ribbon inside the box as well.',
+    'Une étiquette dit : « Placez le gâteau dans la boîte avec le ruban. » Maya met aussi le ruban dans la boîte.'
+  ],
+  [
+    'A flyer advertises "fresh apples in baskets on sale." Noah thinks only baskets are fresh.',
+    'Un prospectus annonce des « pommes fraîches dans des paniers en promotion ». Noah pense que seuls les paniers sont frais.'
+  ],
+  [
+    'A note says, "Meet the lawyer from the station in office two." Ava waits for the station lawyer to arrive at office two.',
+    'Une note dit : « Rencontrez l’avocat de la gare dans le bureau deux. » Ava attend que l’avocat de la gare arrive au bureau deux.'
   ]
 ];
 
@@ -222,7 +262,7 @@ function subLevelFor(index: number): SubLevel {
 export const AMPHIBOLY_EXPANSION_EN: Question[] = SCENARIOS.map(([english], index) => {
   const correctIndex = index % 4;
   return {
-    id: 30151 + index,
+    id: 30181 + index,
     level: 4,
     persona_stage: PersonaStage.SMALL_FISH,
     concept: 'Amphiboly',
@@ -242,7 +282,7 @@ export const AMPHIBOLY_EXPANSION_EN: Question[] = SCENARIOS.map(([english], inde
 export const AMPHIBOLY_EXPANSION_FR: Question[] = SCENARIOS.map(([, french], index) => {
   const correctIndex = index % 4;
   return {
-    id: 30151 + index,
+    id: 30181 + index,
     level: 4,
     persona_stage: PersonaStage.SMALL_FISH,
     concept: 'Amphibologie',

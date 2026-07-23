@@ -50,7 +50,17 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["No socks lost in dryers are successful escape artists. No successful escape artists leave their partners behind. Therefore, some lost socks leave their partners behind.", "Aucune chaussette perdue dans un sèche-linge n'est une reine de l'évasion. Aucune reine de l'évasion n'abandonne sa partenaire. Donc, certaines chaussettes perdues abandonnent leur partenaire."],
   ["No cracked phone screens are stained-glass windows. No stained-glass windows make texting difficult. Therefore, some cracked phone screens make texting difficult.", "Aucun écran de téléphone fissuré n'est un vitrail. Aucun vitrail ne rend les SMS difficiles. Donc, certains écrans fissurés rendent les SMS difficiles."],
   ["No leftover noodles are charging cables. No charging cables taste better the next day. Therefore, some leftover noodles taste better the next day.", "Aucune nouille restante n'est un câble de recharge. Aucun câble de recharge n'est meilleur le lendemain. Donc, certaines nouilles restantes sont meilleures le lendemain."],
-  ["No weekend naps are calendar meetings. No calendar meetings restore energy. Therefore, some weekend naps restore energy.", "Aucune sieste du week-end n'est une réunion inscrite au calendrier. Aucune réunion inscrite au calendrier ne redonne de l'énergie. Donc, certaines siestes du week-end redonnent de l'énergie."]
+    ["No weekend naps are calendar meetings. No calendar meetings restore energy. Therefore, some weekend naps restore energy.", "Aucune sieste du week-end n'est une réunion inscrite au calendrier. Aucune réunion inscrite au calendrier ne redonne de l'énergie. Donc, certaines siestes du week-end redonnent de l'énergie."],
+    ["No soccer balls are kitchen sinks. No kitchen sinks race down hills. Therefore, some soccer balls race down hills.", "Aucun ballon de foot n'est un évier de cuisine. Aucun évier de cuisine ne dévale les collines. Donc, certains ballons de foot dévalent les collines."],
+    ["No paper clips are winter coats. No winter coats ring in the morning. Therefore, every paper clip rings in the morning.", "Aucun trombone n'est un manteau d'hiver. Aucun manteau d'hiver ne sonne le matin. Donc, tous les trombones sonnent le matin."],
+    ["No lunchboxes are thunderclouds. No thunderclouds sit on shelves. Therefore, some lunchboxes sit on shelves.", "Aucune boîte à lunch n'est un nuage d'orage. Aucun nuage d'orage ne reste sur une étagère. Donc, certaines boîtes à lunch restent sur une étagère."],
+    ["No rubber boots are poetry books. No poetry books fit in a mailbox. Therefore, some rubber boots fit in a mailbox.", "Aucune botte en caoutchouc n'est un livre de poésie. Aucun livre de poésie ne rentre dans une boîte aux lettres. Donc, certaines bottes en caoutchouc rentrent dans une boîte aux lettres."],
+    ["No keyboards are sandwich wrappers. No sandwich wrappers wake up early. Therefore, all keyboards wake up early.", "Aucun clavier n'est un emballage de sandwich. Aucun emballage de sandwich ne se lève tôt. Donc, tous les claviers se lèvent tôt."],
+    ["No library cards are basketball hoops. No basketball hoops are easy to pocket. Therefore, some library cards are easy to pocket.", "Aucune carte de bibliothèque n'est un panier de basket. Aucun panier de basket n'est facile à mettre dans une poche. Donc, certaines cartes de bibliothèque sont faciles à mettre dans une poche."],
+    ["No muffins are traffic cones. No traffic cones taste sweet. Therefore, some muffins taste sweet.", "Aucun muffin n'est un cône de circulation. Aucun cône de circulation n'a un goût sucré. Donc, certains muffins ont un goût sucré."],
+    ["No watering cans are tax forms. No tax forms float in bathtubs. Therefore, every watering can floats in bathtubs.", "Aucun arrosoir n'est une déclaration d'impôts. Aucune déclaration d'impôts ne flotte dans une baignoire. Donc, tous les arrosoirs flottent dans les baignoires."],
+    ["No bookmarks are fire alarms. No fire alarms belong in backpacks. Therefore, some bookmarks belong in backpacks.", "Aucun marque-page n'est une alarme incendie. Aucune alarme incendie n'a sa place dans un sac à dos. Donc, certains marque-pages ont leur place dans un sac à dos."],
+    ["No umbrellas are train stations. No train stations fold in half. Therefore, some umbrellas fold in half.", "Aucun parapluie n'est une gare. Aucune gare ne se plie en deux. Donc, certains parapluies se plient en deux."]
 ];
 
 const OPTIONS_EN = [
@@ -82,7 +92,7 @@ function subLevelFor(index: number): SubLevel {
 export const AFFIRMATIVE_FROM_NEGATIVE_EXPANSION_EN: Question[] = SCENARIOS.map(([english], index) => {
   const correctIndex = index % 4;
   return {
-    id: 30051 + index,
+    id: 30061 + index,
     level: 6,
     persona_stage: PersonaStage.SEAL,
     concept: 'Affirmative Conclusion from Negative Premises',
@@ -102,7 +112,7 @@ export const AFFIRMATIVE_FROM_NEGATIVE_EXPANSION_EN: Question[] = SCENARIOS.map(
 export const AFFIRMATIVE_FROM_NEGATIVE_EXPANSION_FR: Question[] = SCENARIOS.map(([, french], index) => {
   const correctIndex = index % 4;
   return {
-    id: 30051 + index,
+    id: 30061 + index,
     level: 6,
     persona_stage: PersonaStage.SEAL,
     concept: 'Conclusion affirmative à partir de prémisses négatives',

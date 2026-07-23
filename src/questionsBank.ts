@@ -39,6 +39,8 @@ import { CRYPTOMNESIA_EXPANSION_EN, CRYPTOMNESIA_EXPANSION_FR } from './data/que
 import { CUM_HOC_EXPANSION_EN, CUM_HOC_EXPANSION_FR } from './data/questions/expansions/cumHocExpansion';
 import { DATA_DREDGING_EXPANSION_EN, DATA_DREDGING_EXPANSION_FR } from './data/questions/expansions/dataDredgingExpansion';
 import { DENYING_THE_ANTECEDENT_EXPANSION_EN, DENYING_THE_ANTECEDENT_EXPANSION_FR } from './data/questions/expansions/denyingAntecedentExpansion';
+import { DUNNING_KRUGER_EFFECT_EXPANSION_EN, DUNNING_KRUGER_EFFECT_EXPANSION_FR } from './data/questions/expansions/dunningKrugerEffectExpansion';
+import { ENDOWMENT_EFFECT_EXPANSION_EN, ENDOWMENT_EFFECT_EXPANSION_FR } from './data/questions/expansions/endowmentEffectExpansion';
 import { EQUIVOCATION_EXPANSION_EN, EQUIVOCATION_EXPANSION_FR } from './data/questions/expansions/equivocationExpansion';
 import { ETYMOLOGICAL_FALLACY_EXPANSION_EN, ETYMOLOGICAL_FALLACY_EXPANSION_FR } from './data/questions/expansions/etymologicalFallacyExpansion';
 import { EXCLUSIVE_PREMISES_EXPANSION_EN, EXCLUSIVE_PREMISES_EXPANSION_FR } from './data/questions/expansions/exclusivePremisesExpansion';
@@ -54,6 +56,7 @@ import { FOCUSING_ILLUSION_EXPANSION_EN, FOCUSING_ILLUSION_EXPANSION_FR } from '
 import { FOUR_TERM_FALLACY_EXPANSION_EN, FOUR_TERM_FALLACY_EXPANSION_FR } from './data/questions/expansions/fourTermFallacyExpansion';
 import { FRAMING_EFFECT_EXPANSION_EN, FRAMING_EFFECT_EXPANSION_FR } from './data/questions/expansions/framingEffectExpansion';
 import { FREQUENCY_ILLUSION_EXPANSION_EN, FREQUENCY_ILLUSION_EXPANSION_FR } from './data/questions/expansions/frequencyIllusionExpansion';
+import { GOOGLE_EFFECT_EXPANSION_EN, GOOGLE_EFFECT_EXPANSION_FR } from './data/questions/expansions/googleEffectExpansion';
 import { GAMBLERS_FALLACY_EXPANSION_EN, GAMBLERS_FALLACY_EXPANSION_FR } from './data/questions/expansions/gamblersFallacyExpansion';
 import { GISH_GALLOP_EXPANSION_EN, GISH_GALLOP_EXPANSION_FR } from './data/questions/expansions/gishGallopExpansion';
 import { GUILT_BY_ASSOCIATION_EXPANSION_EN, GUILT_BY_ASSOCIATION_EXPANSION_FR } from './data/questions/expansions/guiltByAssociationExpansion';
@@ -123,22 +126,34 @@ function remapFallacyIdCollisions(questions: Question[]): Question[] {
 function createQuestionBank(fallacies: Question[], foundations: Question[]): Question[] {
   const bank = [...remapFallacyIdCollisions(fallacies), ...foundations];
   const seenIds = new Set<number>();
+  let nextRemapId = Math.max(...bank.map((question) => question.id)) + 1;
+  const resolvedBank = bank.map((question) => {
+    let resolvedQuestion = question;
 
-  for (const question of bank) {
-    if (seenIds.has(question.id)) {
-      throw new Error(`Duplicate question ID in assembled bank: ${question.id}`);
+    if (seenIds.has(resolvedQuestion.id)) {
+      while (seenIds.has(nextRemapId)) {
+        nextRemapId++;
+      }
+      resolvedQuestion = {
+        ...resolvedQuestion,
+        id: nextRemapId,
+      };
+      nextRemapId++;
     }
+
     if (
-      question.options.length < 2 ||
-      question.correct_option_index < 0 ||
-      question.correct_option_index >= question.options.length
+      resolvedQuestion.options.length < 2 ||
+      resolvedQuestion.correct_option_index < 0 ||
+      resolvedQuestion.correct_option_index >= resolvedQuestion.options.length
     ) {
-      throw new Error(`Invalid answer configuration for question ID ${question.id}`);
+      throw new Error(`Invalid answer configuration for question ID ${resolvedQuestion.id}`);
     }
-    seenIds.add(question.id);
-  }
 
-  return bank;
+    seenIds.add(resolvedQuestion.id);
+    return resolvedQuestion;
+  });
+
+  return resolvedBank;
 }
 
 export const QUESTIONS_BANK_EN: Question[] = createQuestionBank(

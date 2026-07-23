@@ -50,7 +50,17 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["If Emma wears her new boots, friends compliment them. Friends complimented her boots, so she wore the new pair.", "Si Emma porte ses nouvelles bottes, ses amis les complimentent. Ses amis ont complimenté ses bottes, donc elle portait forcément la nouvelle paire."],
   ["If the aquarium light turns on, the fish gather near the glass. The fish gathered there, so the light was turned on.", "Si la lumière de l'aquarium s'allume, les poissons se rassemblent près de la vitre. Ils s'y sont rassemblés, donc la lumière a forcément été allumée."],
   ["If the neighbor grills onions, our balcony smells smoky. The balcony smells smoky, so the neighbor grilled onions.", "Si le voisin fait griller des oignons, notre balcon sent la fumée. Le balcon sent la fumée, donc le voisin a forcément grillé des oignons."],
-  ["If Yara wins at board games, she sings a victory song. Yara is singing it, so she must have won.", "Si Yara gagne à un jeu de société, elle chante sa chanson de victoire. Elle la chante, donc elle a forcément gagné."]
+    ["If Yara wins at board games, she sings a victory song. Yara is singing it, so she must have won.", "Si Yara gagne à un jeu de société, elle chante sa chanson de victoire. Elle la chante, donc elle a forcément gagné."],
+    ["If the bakery opens early, the street smells like bread. It smells like bread, so the bakery opened early.", "Si la boulangerie ouvre tôt, la rue sent le pain. Elle sent le pain, donc la boulangerie a forcément ouvert tôt."],
+    ["If Maya waters the basil, the leaves look greener. The leaves look greener, so Maya watered the basil.", "Si Maya arrose le basilic, les feuilles paraissent plus vertes. Elles paraissent plus vertes, donc Maya a forcément arrosé le basilic."],
+    ["If the movie is over, the lights come on. The lights are on, so the movie is over.", "Si le film est terminé, les lumières s'allument. Les lumières sont allumées, donc le film est forcément terminé."],
+    ["If Zoe bakes bread, the apartment feels warm. The apartment feels warm, so Zoe baked bread.", "Si Zoé fait du pain, l'appartement paraît chaud. L'appartement paraît chaud, donc Zoé a forcément fait du pain."],
+    ["If the dog plays outside, muddy paw prints appear. Muddy paw prints are there, so the dog played outside.", "Si le chien joue dehors, des traces de pattes boueuses apparaissent. Il y a des traces boueuses, donc le chien a forcément joué dehors."],
+    ["If the bus brakes hard, passengers lean forward. The passengers leaned forward, so the bus braked hard.", "Si le bus freine brusquement, les passagers se penchent vers l'avant. Les passagers se sont penchés en avant, donc le bus a forcément freiné brusquement."],
+    ["If Priya adds cinnamon, the pudding tastes sweet. The pudding tastes sweet, so Priya added cinnamon.", "Si Priya ajoute de la cannelle, le pudding a un goût sucré. Le pudding a un goût sucré, donc Priya a forcément ajouté de la cannelle."],
+    ["If the concert starts, taxis line up outside. Taxis are lined up outside, so the concert started.", "Si le concert commence, des taxis se rangent dehors. Des taxis sont rangés dehors, donc le concert a forcément commencé."],
+    ["If class ends, everyone packs up quickly. Everyone is packing up quickly, so class must have ended.", "Si le cours se termine, tout le monde range ses affaires rapidement. Tout le monde range ses affaires, donc le cours est forcément terminé."],
+    ["If Omar takes the shortcut, he arrives before lunch. He arrived before lunch, so he took the shortcut.", "Si Omar prend le raccourci, il arrive avant le déjeuner. Il est arrivé avant le déjeuner, donc il a forcément pris le raccourci."]
 ];
 
 const OPTIONS_EN = ['Affirming the Consequent', 'Denying the Antecedent', 'Post Hoc', 'False Cause'];
@@ -72,7 +82,7 @@ function subLevelFor(index: number): SubLevel {
 export const AFFIRMING_CONSEQUENT_EXPANSION_EN: Question[] = SCENARIOS.map(([english], index) => {
   const correctIndex = index % 4;
   return {
-    id: 30101 + index,
+    id: 30121 + index,
     level: 5,
     persona_stage: PersonaStage.OCTOPUS,
     concept: 'Affirming the Consequent',
@@ -92,7 +102,7 @@ export const AFFIRMING_CONSEQUENT_EXPANSION_EN: Question[] = SCENARIOS.map(([eng
 export const AFFIRMING_CONSEQUENT_EXPANSION_FR: Question[] = SCENARIOS.map(([, french], index) => {
   const correctIndex = index % 4;
   return {
-    id: 30101 + index,
+    id: 30121 + index,
     level: 5,
     persona_stage: PersonaStage.OCTOPUS,
     concept: 'Affirmation du conséquent',
