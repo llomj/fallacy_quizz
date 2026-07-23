@@ -49,6 +49,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo thinks touching the lucky poster in the hall will make the announcement better.', "Leo pense qu en touchant l affiche porte-bonheur dans le couloir il ameliorera l annonce."],
   ['Maya says the order of the playlist will control the mood of the whole party.', "Maya dit que l ordre de la playlist controlera l ambiance de toute la fete."],
   ['Nina believes one exact route to school controls how many questions she gets asked.', "Nina croit qu un trajet precis vers l ecole controle le nombre de questions qu on lui pose."],
+  ['After tapping her phone screen three times, Selma thinks the app will definitely stop freezing.', "Apres avoir tape trois fois sur l ecran de son telephone, Selma pense que l application arretera forcement de geler."],
+  ['Jasper arranges his pens in a straight line and believes it will make his presentation stronger.', "Jasper aligne ses stylos et croit que cela rendra sa presentation plus forte."],
+  ['After choosing the same checkout lane, Ella assumes it controls whether the store will be busy.', "Apres avoir choisi la meme caisse, Ella suppose que cela controle si le magasin sera charge."],
+  ['Marcus thinks carrying the same lucky coin will control the outcome of every interview.', "Marcus pense qu emporter la meme piece porte-bonheur controle le resultat de chaque entretien."],
+  ['After setting his alarm in a certain order, Ben believes he can force a calm commute.', "Apres avoir regle son reveil dans un certain ordre, Ben croit pouvoir forcer un trajet calme."],
+  ['Tina rubs a festival wristband before exams because she thinks it influences the grade.', "Tina frotte un bracelet de festival avant les examens parce qu elle pense qu il influence la note."],
+  ['Owen thinks reloading the page twice gives him more control over the website load time.', "Owen pense que recharger la page deux fois lui donne plus de controle sur le temps de chargement du site."],
+  ['After moving her chair closer to the window, Rina feels she can control the afternoon weather.', "Apres avoir rapproche sa chaise de la fenetre, Rina sent qu elle peut controler le temps de l apres-midi."],
+  ['Leo believes the exact order of his morning tasks controls whether traffic will be light.', "Leo croit que l ordre exact de ses taches du matin controle si la circulation sera fluide."],
+  ['Mina thinks whispering a phrase to her laptop can control how smoothly the update installs.', "Mina pense que murmurer une phrase a son ordinateur peut controler la fluidite de l installation de la mise a jour."],
 ];
 
 const OPTIONS_EN = ['Illusion of Control', 'Illusion of Transparency', 'Confirmation Bias', 'Anchoring Bias'];

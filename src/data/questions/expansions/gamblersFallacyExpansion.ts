@@ -49,6 +49,17 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Grant thinks the next bus will be empty after a crowded week.', "Grant pense que le prochain bus sera vide apres une semaine de foule."],
   ['Sofia assumes the next coin flip is owed to her after a long losing run.', "Sofia suppose que le prochain lancer de piece lui est du apres une longue serie de defaites."],
   ['Hugo says the next paint sample has to be the right shade because the last five were wrong.', "Hugo dit que le prochain echantillon de peinture doit etre la bonne teinte parce que les cinq derniers etaient faux."],
+  ['After six heads in a row, Mara is certain the next flip must be tails, even though the coin has no memory.', 'Apres six faces d affilee, Mara est certaine que le prochain lancer doit etre pile, meme si la piece n a pas de memoire.'],
+  ['Rory loses three basketball shots and bets the next one is guaranteed to go in.', 'Rory rate trois tirs au basket et parie que le prochain va forcement rentrer.'],
+  ['After five empty parking spots, Elise thinks the next one has to be free in front of the store.', "Apres cinq places de parking occupees, Elise pense que la prochaine doit etre libre devant le magasin."],
+  ['Kai sees four bad spins on the prize wheel and doubles down because the wheel is "due" to pay out.', "Kai voit quatre mauvais tours sur la roue des prix et mise davantage parce que la roue est « prete » a payer."],
+  ['After four failed password guesses, Priya assumes the next guess is somehow more likely to work.', "Apres quatre essais de mot de passe rates, Priya suppose que le prochain essai a plus de chances de marcher."],
+  ['Nina loses on three scratch cards and buys another because the next one must be lucky.', 'Nina perd sur trois tickets a gratter et en achete un autre parce que le prochain doit etre chanceux.'],
+  ['After the team misses two penalties, Luca says the third penalty is guaranteed to be a goal.', 'Apres que l equipe a rate deux penalties, Luca dit que le troisieme sera garanti but.'],
+  ['Tia flips a coin at lunch and thinks the last four tails mean heads is imminent.', 'Tia lance une piece au dejeuner et pense que les quatre dernieres piles signifient que face est imminent.'],
+  ['After a week of bad raffle draws, Hugo believes the next ticket cannot possibly be unlucky again.', 'Apres une semaine de mauvais tirages de tombola, Hugo croit que le prochain ticket ne peut pas encore etre malchanceux.'],
+  [`Mila keeps choosing "one more try" at the claw machine because the machine must eventually balance out.`, `Mila continue de tenter encore une fois la pince parce que la machine doit finir par se regler.`],
+  ['Ben assumes a row of red traffic lights means the next light will definitely be green.', 'Ben suppose qu une serie de feux rouges veut dire que le prochain feu sera forcement vert.'],
 ];
 
 const OPTIONS_EN = ["Gambler's Fallacy", 'Hot Hand Fallacy', 'Availability Heuristic', 'Confirmation Bias'];

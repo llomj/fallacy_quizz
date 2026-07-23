@@ -49,6 +49,17 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['After buying a striped towel, Kira notices striped towels at every pool.', "Apres avoir achete une serviette rayee, Kira remarque des serviettes rayees a chaque piscine."],
   ['Milo learns about a local volunteer group and then notices their shirts all over town.', "Milo apprend l'existence d'un groupe de benevoles local puis remarque leurs t-shirts partout en ville."],
   ['After hearing a new coffee roast name, Juno starts seeing that roast on every shelf.', "Apres avoir entendu le nom d'une nouvelle torréfaction de cafe, Juno la voit sur chaque etagere."],
+  ['After buying a yellow notebook, Quinn suddenly notices yellow notebooks in every classroom photo online.', 'Apres avoir achete un carnet jaune, Quinn remarque soudain des carnets jaunes dans chaque photo de classe en ligne.'],
+  ['Lena hears a new neighborhood cafe name once and then spots it on every delivery bike in town.', "Lena entend une fois le nom d'un nouveau cafe de quartier puis le voit sur chaque velo de livraison en ville."],
+  ['After reading about a type of mushroom, Ben starts noticing that mushroom in grocery ads and cooking shows.', "Apres avoir lu sur un type de champignon, Ben commence a le remarquer dans les pubs d epicerie et les emissions de cuisine."],
+  ['Tara buys a striped tote bag and then feels like every commuter has the same bag on the train.', "Tara achete un sac cabas raye et a l impression que tous les usagers du train ont le meme sac."],
+  ['After hearing one comedian mention "rest days", Omar thinks every fitness post is talking about rest days.', 'Apres avoir entendu un comedien parler de « jours de repos », Omar pense que chaque publication sportive parle de jours de repos.'],
+  ['Mina learns a new plant name and then sees it written on signs, labels, and receipts all week.', "Mina apprend un nouveau nom de plante puis le voit ecrit sur des panneaux, des etiquettes et des tickets toute la semaine."],
+  ['After trying a cinnamon latte, Ava notices cinnamon lattes on every menu board she passes.', 'Apres avoir essaye un latte a la cannelle, Ava remarque des lattes a la cannelle sur chaque tableau de menu qu elle croise.'],
+  ['Jules hears a new gaming term once and then keeps hearing it in every livestream chat.', "Jules entend une fois un nouveau terme de jeu puis le reentend dans chaque chat de diffusion en direct."],
+  ['After buying a white lamp, Iris starts seeing white lamps in apartment ads everywhere.', "Apres avoir achete une lampe blanche, Iris commence a voir des lampes blanches partout dans les annonces d appartement."],
+  ['Theo reads one article about electric bikes and then feels like every street now has one.', "Theo lit un article sur les velos electriques puis a l impression que chaque rue en a un maintenant."],
+  ['After hearing a new band name, Nora notices posters for that band in every cafe window.', "Apres avoir entendu le nom d un nouveau groupe, Nora remarque des affiches de ce groupe dans chaque vitrine de cafe."],
 ];
 
 const OPTIONS_EN = ['Frequency Illusion', 'Confirmation Bias', 'Availability Heuristic', 'Apophenia'];

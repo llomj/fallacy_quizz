@@ -49,6 +49,17 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo thinks the mistaken delivery was just a mix-up, not a cruel joke.', "Leo pense que la mauvaise livraison etait simplement une confusion, pas une blague cruelle."],
   ['Maya says the delayed response was probably a busy day, not passive aggression.', "Maya dit que la reponse retardee venait probablement d une journee chargee, pas d une aggression passive."],
   ['Nina believes the messy notes were rushed work, not a way to make someone fail.', "Nina croit que les notes brouillonnes etaient du travail precipite, pas une maniere de faire echouer quelqu un."],
+  ['After the cafe closes early, Liam assumes the owner forgot to update the hours instead of trying to annoy customers.', "Apres que le cafe ferme tot, Liam suppose que le proprietaire a oublie de mettre a jour les horaires plutot que d essayer d embeter les clients."],
+  ['Sophie thinks the missing signature on the form was probably an oversight, not a secret attempt to block the request.', "Sophie pense que la signature manquante sur le formulaire etait probablement un oubli, pas une tentative cachee de bloquer la demande."],
+  ['After a friend cancels dinner, Owen assumes she is overwhelmed with work, not mad at him.', "Apres qu une amie annule le diner, Owen suppose qu elle est debordee par le travail, pas qu elle lui en veut."],
+  ['Priya says the broken link in the email was likely a copy-paste mistake, not sabotage.', "Priya dit que le lien casse dans le courriel etait probablement une erreur de copier-coller, pas du sabotage."],
+  ['When the shop gives the wrong size, Maya thinks the clerk was rushed, not rude on purpose.', "Quand la boutique donne la mauvaise taille, Maya pense que le vendeur etait presse, pas impoli expres."],
+  ['Theo believes the silent group chat came from people being busy, not from them freezing him out.', "Theo croit que le groupe silencieux venait des gens occupes, pas d une mise a l ecart volontaire."],
+  ['After a printer jams, Nina assumes old equipment is the cause, not that someone wanted to ruin her report.', "Apres qu une imprimante se bloque, Nina suppose que le vieux materiel est la cause, pas que quelqu un voulait ruiner son rapport."],
+  ['Ben says the weird typo on the poster was probably done in a rush, not as a hidden insult.', "Ben dit que l etrange faute sur l affiche etait probablement due a la precipitation, pas a une insulte cachee."],
+  ['When the neighbor forgets to wave, Iris thinks he simply did not notice her, rather than trying to snub her.', "Quand le voisin oublie de saluer, Iris pense qu il ne l a simplement pas vue, plutot que d essayer de la snober."],
+  ['Grant believes the late package was routed badly by the courier, not delivered late out of spite.', "Grant croit que le colis en retard a ete mal achemine par le livreur, pas remis en retard par vengeance."],
+  ['After a teacher sounds abrupt, Zoe assumes stress is the reason, not that the teacher dislikes the class.', "Apres qu un professeur semble abrupt, Zoe suppose que le stress en est la raison, pas que le professeur n aime pas la classe."],
 ];
 
 const OPTIONS_EN = ["Hanlon's Razor", 'Fundamental Attribution Error', 'Just-World Hypothesis', 'Ad Hominem'];
