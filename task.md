@@ -43,6 +43,7 @@
 - [x] Remapped the 298 fallacy IDs colliding with Level 0 IDs 1001-1300 into the reserved 21001-21300 range.
 - [x] Assembled 5,680 unique gameplay records per language, including 300 Level 0 foundations.
 - [x] Added runtime checks for duplicate IDs, answer-index validity, EN/FR bank length, ID parity, and level parity.
+- [x] Fixed random-mode startup crashes caused by 499 sparse French array slots and 375 unqualified enum values in generated records; direct bank import now assembles 5,830 unique records per language.
 - [x] Production build and both GitHub Pages deployment workflows passed for recovery commit `0330e6f`.
 - [x] Created `reports/fallacy-expansion-audit.json` with counts, IDs, and EN/FR label mappings.
 - [x] Normalize 205 raw English correct-answer labels into 168 canonical educational targets: 92 fallacies/reasoning errors, 69 biases/effects, and 7 named principles. Excluded 24 non-concept answer fragments and merged 13 aliases. See `reports/canonical-fallacy-catalog.json`.
