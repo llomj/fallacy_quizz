@@ -1,7 +1,7 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["After hearing one complaint about the app, Sam ignores all the positive reviews and says it is clearly bad.", "Apres avoir entendu une seule plainte sur l'application, Sam ignore tous les avis positifs et dit qu'elle est clairement mauvaise."],
+  ["After hearing one complaint about the app, Sam ignores the stack of positive reviews and says it is clearly bad.", "Apres avoir entendu une seule plainte sur l'application, Sam ignore la pile d'avis positifs et dit qu'elle est clairement mauvaise."],
   ["Mia already thinks homework is pointless, so she only notices stories that make homework look useless.", "Mia pense deja que les devoirs sont inutiles, donc elle ne remarque que les histoires qui font passer les devoirs pour inutiles."],
   ["Omar loves his new phone, so he keeps reading tests that praise it and skips the critical ones.", "Omar adore son nouveau telephone, donc il ne lit que les tests qui le louent et saute ceux qui le critiquent."],
   ["Priya believes the city is unsafe, and every siren she hears becomes proof in her mind.", "Priya croit que la ville est dangereuse, et chaque sirene qu'elle entend devient une preuve dans son esprit."],

@@ -1,7 +1,7 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["After hearing one story about a plane delay, Jules assumes every flight is a mess.", "Apres avoir entendu une histoire de retard d'avion, Jules suppose que tous les vols sont desastreux."],
+  ["After hearing one story about a missed train, Jules assumes every trip is a disaster.", "Apres avoir entendu une histoire de train manque, Jules suppose que chaque trajet est un desastre."],
   ["A bad news clip makes Nina think the whole city is unsafe.", "Un extrait d'actualites inquietant fait penser a Nina que toute la ville est dangereuse."],
   ["Milo saw two dog bites on social media and now assumes every dog is aggressive.", "Milo a vu deux morsures de chien sur les reseaux sociaux et suppose maintenant que tous les chiens sont agressifs."],
   ["Because her uncle had car trouble last winter, Sana thinks every electric car is unreliable.", "Parce que son oncle a eu une panne de voiture l'hiver dernier, Sana pense que toutes les voitures electriques sont peu fiables."],
