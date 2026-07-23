@@ -1,13 +1,13 @@
-import { Question, PersonaStage, SubLevel } from "../../types";
+import { Question } from "../../types";
 
 export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1001,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument (claim + reason) about single-use plastics?",
     "options": [
       "Single-use plastics are everywhere.",
@@ -25,10 +25,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1002,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about fixing the late bus problem?",
     "options": [
       "The bus is late every morning, so the transit app needs real-time updates.",
@@ -46,10 +46,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1003,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about the campus Wi-Fi?",
     "options": [
       "Campus Wi-Fi keeps dropping, so the university should add more access points.",
@@ -67,10 +67,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1004,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about the vending machines on campus?",
     "options": [
       "The vending machines are empty, so we should restock them twice a day.",
@@ -88,10 +88,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1005,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about exam-week library hours?",
     "options": [
       "Finals week packs the library, so hours should extend to midnight.",
@@ -109,10 +109,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1006,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about safer bike lanes?",
     "options": [
       "The bike lane vanishes at intersections, so riders are forced into traffic; the city should finish the lane.",
@@ -130,10 +130,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1007,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about upgrading streetlights?",
     "options": [
       "LED bulbs use less energy, so the city should retrofit the streetlights.",
@@ -151,10 +151,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1008,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about cafeteria food waste?",
     "options": [
       "Students toss untouched food, so the cafeteria should let people choose smaller portions.",
@@ -172,10 +172,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1009,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about hybrid cars and air quality?",
     "options": [
       "Hybrid cars are very quiet.",
@@ -193,10 +193,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1010,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about remote work and overhead costs?",
     "options": [
       "Remote work uses video calls.",
@@ -214,10 +214,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1011,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about organic farming and soil health?",
     "options": [
       "Organic farming avoids synthetic pesticides, so it preserves long-term soil health.",
@@ -235,10 +235,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1012,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about public transport and traffic?",
     "options": [
       "Public transport carries more people per vehicle, so it reduces traffic congestion.",
@@ -256,10 +256,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1013,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about solar panels and energy bills?",
     "options": [
       "Solar panels are shiny.",
@@ -277,10 +277,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1014,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: History",
     "options": [
       "I prefer History.",
@@ -298,10 +298,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1015,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Art",
     "options": [
       "I prefer Art.",
@@ -319,10 +319,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1016,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Traffic",
     "options": [
       "I prefer Traffic.",
@@ -340,10 +340,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1017,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Biology",
     "options": [
       "I prefer Biology.",
@@ -361,10 +361,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1018,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Economics",
     "options": [
       "I prefer Economics.",
@@ -382,10 +382,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1019,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Zoology",
     "options": [
       "I prefer Zoology.",
@@ -403,10 +403,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1020,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which of these is an argument (a claim supported by a reason)? Scene: Music",
     "options": [
       "I prefer Music.",
@@ -424,10 +424,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1021,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "At a community bake-off, which statement is an argument (a claim backed by a reason)?",
     "options": [
       "Cupcakes are trendy this year.",
@@ -445,10 +445,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1022,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Before a sprint heat, which line is an argument\u2014not merely a preference?",
     "options": [
       "You trained all month, so you should beat your previous heat time.",
@@ -466,10 +466,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1023,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Forecasting a hike, which statement is an argument?",
     "options": [
       "The barometer is falling fast, so expect rain before noon.",
@@ -487,10 +487,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1024,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Roadside with a car that will not crank, which line is an argument?",
     "options": [
       "Jump starters are heavy.",
@@ -508,10 +508,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1025,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "On a dim office desk, which statement is an argument about the plants?",
     "options": [
       "Succulents never need water.",
@@ -529,10 +529,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1026,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In a reading room with a strict noise policy, which line is an argument?",
     "options": [
       "Whispering is fashionable.",
@@ -550,10 +550,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1027,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "When a friend skips walks for weeks, which line is an argument for daily walking?",
     "options": [
       "Walking is boring.",
@@ -571,10 +571,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1028,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "On an algebra quiz, which line is an argument (not just a calculation claim)?",
     "options": [
       "Let x be a number.",
@@ -592,10 +592,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1029,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Lifeguards flag a rising tide at the public beach. Which line is an argument?",
     "options": [
       "Sand is fun to dig.",
@@ -613,10 +613,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1030,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "At a planetarium talk, which line is an argument?",
     "options": [
       "Stars are pretty dots.",
@@ -634,10 +634,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1031,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dropping an apple from a balcony for a demo, which line is an argument?",
     "options": [
       "Apples can be red or green.",
@@ -655,10 +655,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1032,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Choosing a language-practice plan, which line is an argument?",
     "options": [
       "Accents are interesting.",
@@ -676,10 +676,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1033,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Home office Wi-Fi fails during a video call. Which line is an argument?",
     "options": [
       "Calls should always use video.",
@@ -697,10 +697,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1034,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Handling fragile museum pieces, which line is an argument?",
     "options": [
       "Artifacts are old.",
@@ -718,10 +718,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1035,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Mixing paint for a mural, which line is an argument?",
     "options": [
       "Purple is trendy this season.",
@@ -739,10 +739,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1036,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Approaching a red traffic light as a new driver, which line is an argument?",
     "options": [
       "Red lights are bright.",
@@ -760,10 +760,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1037,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Explaining why a study group takes breaks, which line is an argument?",
     "options": [
       "Sleep debt impairs attention, so short rests will help the session stay sharp.",
@@ -781,10 +781,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1038,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Discussing a sold-out concert, which line is an argument about ticket prices?",
     "options": [
       "Merch tables sell T-shirts.",
@@ -802,10 +802,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1039,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which of these is an argument (a claim supported by a reason) about city noise rules?",
     "options": [
       "The city has noise rules.",
@@ -823,10 +823,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1040,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Tuning a school jazz band before rehearsal, which line is an argument?",
     "options": [
       "Jazz began in the United States.",
@@ -844,10 +844,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1041,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Re-checking cupcakes pulled early from the oven, which line is an argument?",
     "options": [
       "The crumb still looks wet, so give them five more minutes or they will collapse.",
@@ -865,10 +865,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1042,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Comparing two relay teams' training logs, which line is an argument?",
     "options": [
       "Their split times improved all spring, so they are likely to beat last year's record.",
@@ -886,10 +886,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1043,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Planning a picnic from a morning forecast, which line is an argument?",
     "options": [
       "Picnic baskets are wicker.",
@@ -907,10 +907,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1044,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about securing the community garden tools?",
     "options": [
       "We should build a lockable shed because tools keep getting stolen.",
@@ -928,10 +928,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1045,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about monitoring the night sky before storms?",
     "options": [
       "Meteorologists track the night sky so coastal towns can warn fishers early.",
@@ -949,10 +949,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1046,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about replacing a school water fountain?",
     "options": [
       "Lead was detected in the fountain, so the school should replace it immediately.",
@@ -970,10 +970,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1047,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Which statement is an argument about shortening counseling waitlists?",
     "options": [
       "The counseling waitlist is six weeks long, so the university should hire another therapist.",
@@ -991,10 +991,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1048,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Peer-reviewing a friend's homework proof, which line is an argument?",
     "options": [
       "Proofs use logic.",
@@ -1012,10 +1012,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1049,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Reading a tide table before a shoreline survey, which line is an argument?",
     "options": [
       "Low tide exposes more tide pools, so schedule the transect for that window.",
@@ -1033,10 +1033,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1050,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Explaining starlight to a tour group, which line is an argument?",
     "options": [
       "Telescopes are expensive.",
@@ -1054,10 +1054,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1051,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Gravity pulls objects down, the apple will fall.\", identify the PREMISE.",
     "options": [
       "Gravity pulls objects down",
@@ -1075,10 +1075,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1052,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Practice improves fluency, you should speak daily.\", identify the PREMISE.",
     "options": [
       "Practice improves fluency",
@@ -1096,10 +1096,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1053,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The router is off, the Wi-Fi won't work.\", identify the PREMISE.",
     "options": [
       "The router is off",
@@ -1117,10 +1117,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1054,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Artifacts are fragile, they need careful handling.\", identify the PREMISE.",
     "options": [
       "Artifacts are fragile",
@@ -1138,10 +1138,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1055,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Red and blue make purple, mix them for violet.\", identify the PREMISE.",
     "options": [
       "Red and blue make purple",
@@ -1159,10 +1159,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1056,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The light is red, drivers must stop.\", identify the PREMISE.",
     "options": [
       "The light is red",
@@ -1180,10 +1180,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1057,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Lack of sleep affects focus, students should rest.\", identify the PREMISE.",
     "options": [
       "Lack of sleep affects focus",
@@ -1201,10 +1201,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1058,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Supply is low, prices will rise.\", identify the PREMISE.",
     "options": [
       "Supply is low",
@@ -1222,10 +1222,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1059,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Dogs are social, they need company.\", identify the PREMISE.",
     "options": [
       "Dogs are social",
@@ -1243,10 +1243,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1060,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The guitar is out of tune, it will sound bad.\", identify the PREMISE.",
     "options": [
       "The guitar is out of tune",
@@ -1264,10 +1264,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1061,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The oven is too hot, the cake will burn.\", identify the PREMISE.",
     "options": [
       "The oven is too hot",
@@ -1285,10 +1285,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1062,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since You practiced hard, you will finish faster.\", identify the PREMISE.",
     "options": [
       "You practiced hard",
@@ -1306,10 +1306,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1063,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The clouds are dark, it is going to rain.\", identify the PREMISE.",
     "options": [
       "The clouds are dark",
@@ -1327,10 +1327,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1064,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The battery is empty, the car won't start.\", identify the PREMISE.",
     "options": [
       "The battery is empty",
@@ -1348,10 +1348,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1065,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Plants need light, they should be near the window.\", identify the PREMISE.",
     "options": [
       "Plants need light",
@@ -1369,10 +1369,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1066,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Silence is required, we must speak softly.\", identify the PREMISE.",
     "options": [
       "Silence is required",
@@ -1390,10 +1390,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1067,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Exercise improves health, we should walk daily.\", identify the PREMISE.",
     "options": [
       "Exercise improves health",
@@ -1411,10 +1411,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1068,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since X equals 5, X plus 2 equals 7.\", identify the PREMISE.",
     "options": [
       "X equals 5",
@@ -1432,10 +1432,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1069,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The tide is coming in, the beach will get smaller.\", identify the PREMISE.",
     "options": [
       "The tide is coming in",
@@ -1453,10 +1453,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1070,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Light takes time to travel, we see stars as they were.\", identify the PREMISE.",
     "options": [
       "Light takes time to travel",
@@ -1474,10 +1474,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1071,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Gravity pulls objects down, the apple will fall.\", identify the PREMISE.",
     "options": [
       "Gravity pulls objects down",
@@ -1495,10 +1495,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1072,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Practice improves fluency, you should speak daily.\", identify the PREMISE.",
     "options": [
       "Practice improves fluency",
@@ -1516,10 +1516,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1073,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The router is off, the Wi-Fi won't work.\", identify the PREMISE.",
     "options": [
       "The router is off",
@@ -1537,10 +1537,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1074,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Artifacts are fragile, they need careful handling.\", identify the PREMISE.",
     "options": [
       "Artifacts are fragile",
@@ -1558,10 +1558,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1075,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Red and blue make purple, mix them for violet.\", identify the PREMISE.",
     "options": [
       "Red and blue make purple",
@@ -1579,10 +1579,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1076,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The light is red, drivers must stop.\", identify the PREMISE.",
     "options": [
       "The light is red",
@@ -1600,10 +1600,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1077,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Lack of sleep affects focus, students should rest.\", identify the PREMISE.",
     "options": [
       "Lack of sleep affects focus",
@@ -1621,10 +1621,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1078,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Supply is low, prices will rise.\", identify the PREMISE.",
     "options": [
       "Supply is low",
@@ -1642,10 +1642,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1079,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Dogs are social, they need company.\", identify the PREMISE.",
     "options": [
       "Dogs are social",
@@ -1663,10 +1663,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1080,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The guitar is out of tune, it will sound bad.\", identify the PREMISE.",
     "options": [
       "The guitar is out of tune",
@@ -1684,10 +1684,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1081,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The oven is too hot, the cake will burn.\", identify the PREMISE.",
     "options": [
       "The oven is too hot",
@@ -1705,10 +1705,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1082,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since You practiced hard, you will finish faster.\", identify the PREMISE.",
     "options": [
       "You practiced hard",
@@ -1726,10 +1726,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1083,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The clouds are dark, it is going to rain.\", identify the PREMISE.",
     "options": [
       "The clouds are dark",
@@ -1747,10 +1747,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1084,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The battery is empty, the car won't start.\", identify the PREMISE.",
     "options": [
       "The battery is empty",
@@ -1768,10 +1768,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1085,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Plants need light, they should be near the window.\", identify the PREMISE.",
     "options": [
       "Plants need light",
@@ -1789,10 +1789,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1086,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Silence is required, we must speak softly.\", identify the PREMISE.",
     "options": [
       "Silence is required",
@@ -1810,10 +1810,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1087,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Exercise improves health, we should walk daily.\", identify the PREMISE.",
     "options": [
       "Exercise improves health",
@@ -1831,10 +1831,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1088,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since X equals 5, X plus 2 equals 7.\", identify the PREMISE.",
     "options": [
       "X equals 5",
@@ -1852,10 +1852,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1089,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The tide is coming in, the beach will get smaller.\", identify the PREMISE.",
     "options": [
       "The tide is coming in",
@@ -1873,10 +1873,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1090,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Light takes time to travel, we see stars as they were.\", identify the PREMISE.",
     "options": [
       "Light takes time to travel",
@@ -1894,10 +1894,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1091,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Gravity pulls objects down, the apple will fall.\", identify the PREMISE.",
     "options": [
       "Gravity pulls objects down",
@@ -1915,10 +1915,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1092,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Practice improves fluency, you should speak daily.\", identify the PREMISE.",
     "options": [
       "Practice improves fluency",
@@ -1936,10 +1936,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1093,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The router is off, the Wi-Fi won't work.\", identify the PREMISE.",
     "options": [
       "The router is off",
@@ -1957,10 +1957,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1094,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Artifacts are fragile, they need careful handling.\", identify the PREMISE.",
     "options": [
       "Artifacts are fragile",
@@ -1978,10 +1978,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1095,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Red and blue make purple, mix them for violet.\", identify the PREMISE.",
     "options": [
       "Red and blue make purple",
@@ -1999,10 +1999,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1096,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The light is red, drivers must stop.\", identify the PREMISE.",
     "options": [
       "The light is red",
@@ -2020,10 +2020,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1097,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Lack of sleep affects focus, students should rest.\", identify the PREMISE.",
     "options": [
       "Lack of sleep affects focus",
@@ -2041,10 +2041,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1098,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Supply is low, prices will rise.\", identify the PREMISE.",
     "options": [
       "Supply is low",
@@ -2062,10 +2062,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1099,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since Dogs are social, they need company.\", identify the PREMISE.",
     "options": [
       "Dogs are social",
@@ -2083,10 +2083,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1100,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "In the argument \"Since The guitar is out of tune, it will sound bad.\", identify the PREMISE.",
     "options": [
       "The guitar is out of tune",
@@ -2104,10 +2104,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1101,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The oven is too hot, therefore the cake will burn.\", identify the CONCLUSION.",
     "options": [
       "The oven is too hot",
@@ -2125,10 +2125,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1102,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"You practiced hard, therefore you will finish faster.\", identify the CONCLUSION.",
     "options": [
       "You practiced hard",
@@ -2146,10 +2146,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1103,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The clouds are dark, therefore it is going to rain.\", identify the CONCLUSION.",
     "options": [
       "The clouds are dark",
@@ -2167,10 +2167,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1104,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The battery is empty, therefore the car won't start.\", identify the CONCLUSION.",
     "options": [
       "The battery is empty",
@@ -2188,10 +2188,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1105,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Plants need light, therefore they should be near the window.\", identify the CONCLUSION.",
     "options": [
       "Plants need light",
@@ -2209,10 +2209,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1106,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Silence is required, therefore we must speak softly.\", identify the CONCLUSION.",
     "options": [
       "Silence is required",
@@ -2230,10 +2230,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1107,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Exercise improves health, therefore we should walk daily.\", identify the CONCLUSION.",
     "options": [
       "Exercise improves health",
@@ -2251,10 +2251,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1108,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"X equals 5, therefore X plus 2 equals 7.\", identify the CONCLUSION.",
     "options": [
       "X equals 5",
@@ -2272,10 +2272,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1109,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The tide is coming in, therefore the beach will get smaller.\", identify the CONCLUSION.",
     "options": [
       "The tide is coming in",
@@ -2293,10 +2293,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1110,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Light takes time to travel, therefore we see stars as they were.\", identify the CONCLUSION.",
     "options": [
       "Light takes time to travel",
@@ -2314,10 +2314,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1111,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Gravity pulls objects down, therefore the apple will fall.\", identify the CONCLUSION.",
     "options": [
       "Gravity pulls objects down",
@@ -2335,10 +2335,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1112,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Practice improves fluency, therefore you should speak daily.\", identify the CONCLUSION.",
     "options": [
       "Practice improves fluency",
@@ -2356,10 +2356,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1113,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The router is off, therefore the Wi-Fi won't work.\", identify the CONCLUSION.",
     "options": [
       "The router is off",
@@ -2377,10 +2377,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1114,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Artifacts are fragile, therefore they need careful handling.\", identify the CONCLUSION.",
     "options": [
       "Artifacts are fragile",
@@ -2398,10 +2398,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1115,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Red and blue make purple, therefore mix them for violet.\", identify the CONCLUSION.",
     "options": [
       "Red and blue make purple",
@@ -2419,10 +2419,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1116,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The light is red, therefore drivers must stop.\", identify the CONCLUSION.",
     "options": [
       "The light is red",
@@ -2440,10 +2440,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1117,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Lack of sleep affects focus, therefore students should rest.\", identify the CONCLUSION.",
     "options": [
       "Lack of sleep affects focus",
@@ -2461,10 +2461,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1118,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Supply is low, therefore prices will rise.\", identify the CONCLUSION.",
     "options": [
       "Supply is low",
@@ -2482,10 +2482,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1119,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Dogs are social, therefore they need company.\", identify the CONCLUSION.",
     "options": [
       "Dogs are social",
@@ -2503,10 +2503,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1120,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The guitar is out of tune, therefore it will sound bad.\", identify the CONCLUSION.",
     "options": [
       "The guitar is out of tune",
@@ -2524,10 +2524,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1121,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The oven is too hot, therefore the cake will burn.\", identify the CONCLUSION.",
     "options": [
       "The oven is too hot",
@@ -2545,10 +2545,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1122,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"You practiced hard, therefore you will finish faster.\", identify the CONCLUSION.",
     "options": [
       "You practiced hard",
@@ -2566,10 +2566,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1123,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The clouds are dark, therefore it is going to rain.\", identify the CONCLUSION.",
     "options": [
       "The clouds are dark",
@@ -2587,10 +2587,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1124,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The battery is empty, therefore the car won't start.\", identify the CONCLUSION.",
     "options": [
       "The battery is empty",
@@ -2608,10 +2608,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1125,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Plants need light, therefore they should be near the window.\", identify the CONCLUSION.",
     "options": [
       "Plants need light",
@@ -2629,10 +2629,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1126,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Silence is required, therefore we must speak softly.\", identify the CONCLUSION.",
     "options": [
       "Silence is required",
@@ -2650,10 +2650,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1127,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Exercise improves health, therefore we should walk daily.\", identify the CONCLUSION.",
     "options": [
       "Exercise improves health",
@@ -2671,10 +2671,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1128,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"X equals 5, therefore X plus 2 equals 7.\", identify the CONCLUSION.",
     "options": [
       "X equals 5",
@@ -2692,10 +2692,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1129,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The tide is coming in, therefore the beach will get smaller.\", identify the CONCLUSION.",
     "options": [
       "The tide is coming in",
@@ -2713,10 +2713,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1130,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Light takes time to travel, therefore we see stars as they were.\", identify the CONCLUSION.",
     "options": [
       "Light takes time to travel",
@@ -2734,10 +2734,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1131,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Gravity pulls objects down, therefore the apple will fall.\", identify the CONCLUSION.",
     "options": [
       "Gravity pulls objects down",
@@ -2755,10 +2755,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1132,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Practice improves fluency, therefore you should speak daily.\", identify the CONCLUSION.",
     "options": [
       "Practice improves fluency",
@@ -2776,10 +2776,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1133,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The router is off, therefore the Wi-Fi won't work.\", identify the CONCLUSION.",
     "options": [
       "The router is off",
@@ -2797,10 +2797,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1134,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Artifacts are fragile, therefore they need careful handling.\", identify the CONCLUSION.",
     "options": [
       "Artifacts are fragile",
@@ -2818,10 +2818,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1135,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Red and blue make purple, therefore mix them for violet.\", identify the CONCLUSION.",
     "options": [
       "Red and blue make purple",
@@ -2839,10 +2839,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1136,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The light is red, therefore drivers must stop.\", identify the CONCLUSION.",
     "options": [
       "The light is red",
@@ -2860,10 +2860,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1137,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Lack of sleep affects focus, therefore students should rest.\", identify the CONCLUSION.",
     "options": [
       "Lack of sleep affects focus",
@@ -2881,10 +2881,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1138,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Supply is low, therefore prices will rise.\", identify the CONCLUSION.",
     "options": [
       "Supply is low",
@@ -2902,10 +2902,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1139,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Dogs are social, therefore they need company.\", identify the CONCLUSION.",
     "options": [
       "Dogs are social",
@@ -2923,10 +2923,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1140,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The guitar is out of tune, therefore it will sound bad.\", identify the CONCLUSION.",
     "options": [
       "The guitar is out of tune",
@@ -2944,10 +2944,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1141,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The oven is too hot, therefore the cake will burn.\", identify the CONCLUSION.",
     "options": [
       "The oven is too hot",
@@ -2965,10 +2965,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1142,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"You practiced hard, therefore you will finish faster.\", identify the CONCLUSION.",
     "options": [
       "You practiced hard",
@@ -2986,10 +2986,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1143,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The clouds are dark, therefore it is going to rain.\", identify the CONCLUSION.",
     "options": [
       "The clouds are dark",
@@ -3007,10 +3007,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1144,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The battery is empty, therefore the car won't start.\", identify the CONCLUSION.",
     "options": [
       "The battery is empty",
@@ -3028,10 +3028,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1145,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Plants need light, therefore they should be near the window.\", identify the CONCLUSION.",
     "options": [
       "Plants need light",
@@ -3049,10 +3049,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1146,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Silence is required, therefore we must speak softly.\", identify the CONCLUSION.",
     "options": [
       "Silence is required",
@@ -3070,10 +3070,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1147,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Exercise improves health, therefore we should walk daily.\", identify the CONCLUSION.",
     "options": [
       "Exercise improves health",
@@ -3091,10 +3091,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1148,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"X equals 5, therefore X plus 2 equals 7.\", identify the CONCLUSION.",
     "options": [
       "X equals 5",
@@ -3112,10 +3112,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1149,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"The tide is coming in, therefore the beach will get smaller.\", identify the CONCLUSION.",
     "options": [
       "The tide is coming in",
@@ -3133,10 +3133,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1150,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "In the argument \"Light takes time to travel, therefore we see stars as they were.\", identify the CONCLUSION.",
     "options": [
       "Light takes time to travel",
@@ -3154,10 +3154,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1151,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
       "DNA stores genetic info.",
@@ -3175,10 +3175,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1152,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
       "Jupiter is the largest planet.",
@@ -3196,10 +3196,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1153,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
       "Gold does not rust.",
@@ -3217,10 +3217,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1154,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
       "A dozen is twelve units.",
@@ -3238,10 +3238,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1155,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
       "The Nile is in Africa.",
@@ -3259,10 +3259,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1156,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
       "DNA stores genetic info.",
@@ -3280,10 +3280,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1157,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
       "Jupiter is the largest planet.",
@@ -3301,10 +3301,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1158,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
       "Gold does not rust.",
@@ -3322,10 +3322,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1159,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
       "A dozen is twelve units.",
@@ -3343,10 +3343,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1160,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
       "The Nile is in Africa.",
@@ -3364,10 +3364,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1161,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
       "DNA stores genetic info.",
@@ -3385,10 +3385,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1162,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
       "Jupiter is the largest planet.",
@@ -3406,10 +3406,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1163,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
       "Gold does not rust.",
@@ -3427,10 +3427,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1164,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
       "A dozen is twelve units.",
@@ -3448,10 +3448,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1165,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
       "The Nile is in Africa.",
@@ -3469,10 +3469,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1166,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
       "DNA stores genetic info.",
@@ -3490,10 +3490,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1167,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
       "Jupiter is the largest planet.",
@@ -3511,10 +3511,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1168,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
       "Gold does not rust.",
@@ -3532,10 +3532,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1169,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
       "A dozen is twelve units.",
@@ -3553,10 +3553,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1170,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
       "The Nile is in Africa.",
@@ -3574,10 +3574,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1171,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
       "DNA stores genetic info.",
@@ -3595,10 +3595,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1172,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
       "Jupiter is the largest planet.",
@@ -3616,10 +3616,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1173,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
       "Gold does not rust.",
@@ -3637,10 +3637,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1174,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
       "A dozen is twelve units.",
@@ -3658,10 +3658,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1175,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
       "The Nile is in Africa.",
@@ -3679,10 +3679,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1176,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
       "DNA stores genetic info.",
@@ -3700,10 +3700,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1177,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
       "Jupiter is the largest planet.",
@@ -3721,10 +3721,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1178,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
       "Gold does not rust.",
@@ -3742,10 +3742,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1179,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
       "A dozen is twelve units.",
@@ -3763,10 +3763,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1180,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
       "The Nile is in Africa.",
@@ -3784,10 +3784,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1181,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
       "DNA stores genetic info.",
@@ -3805,10 +3805,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1182,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
       "Jupiter is the largest planet.",
@@ -3826,10 +3826,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1183,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
       "Gold does not rust.",
@@ -3847,10 +3847,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1184,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
       "A dozen is twelve units.",
@@ -3868,10 +3868,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1185,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
       "The Nile is in Africa.",
@@ -3889,10 +3889,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1186,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
       "DNA stores genetic info.",
@@ -3910,10 +3910,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1187,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
       "Jupiter is the largest planet.",
@@ -3931,10 +3931,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1188,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
       "Gold does not rust.",
@@ -3952,10 +3952,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1189,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
       "A dozen is twelve units.",
@@ -3973,10 +3973,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1190,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
       "The Nile is in Africa.",
@@ -3994,10 +3994,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1191,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
       "DNA stores genetic info.",
@@ -4015,10 +4015,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1192,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
       "Jupiter is the largest planet.",
@@ -4036,10 +4036,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1193,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
       "Gold does not rust.",
@@ -4057,10 +4057,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1194,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
       "A dozen is twelve units.",
@@ -4078,10 +4078,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1195,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
       "The Nile is in Africa.",
@@ -4099,10 +4099,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1196,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Bio",
     "options": [
       "DNA stores genetic info.",
@@ -4120,10 +4120,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1197,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Space",
     "options": [
       "Jupiter is the largest planet.",
@@ -4141,10 +4141,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1198,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Chem",
     "options": [
       "Gold does not rust.",
@@ -4162,10 +4162,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1199,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Math",
     "options": [
       "A dozen is twelve units.",
@@ -4183,10 +4183,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1200,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Which statement is a FACT? Scene: Geo",
     "options": [
       "The Nile is in Africa.",
@@ -4204,10 +4204,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1201,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "In deductive logic, an argument is valid when:",
     "options": [
       "If every premise were true, the conclusion could not be false.",
@@ -4225,10 +4225,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1202,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which option best matches the standard definition of deductive validity?",
     "options": [
       "The reasoning stirs strong emotions.",
@@ -4246,10 +4246,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1203,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Your instructor says: \"Treat the premises as true in a thought experiment\u2014the conclusion still cannot be false.\" That describes:",
     "options": [
       "The speaker cites many sources.",
@@ -4267,10 +4267,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1204,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Validity is a structural property. It means:",
     "options": [
       "Most experts find the argument persuasive.",
@@ -4288,10 +4288,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1205,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which statement captures what logicians mean by a valid argument?",
     "options": [
       "The argument's pattern makes it impossible for all premises to be true while the conclusion is false.",
@@ -4309,10 +4309,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1206,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A valid deductive argument is one in which:",
     "options": [
       "Each premise has been empirically verified.",
@@ -4330,10 +4330,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1207,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "If someone asks only about validity (not soundness), they are asking whether:",
     "options": [
       "Most experts find the argument persuasive.",
@@ -4351,10 +4351,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1208,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "The \"validity\" of an argument concerns:",
     "options": [
       "The argument is popular on social media.",
@@ -4372,10 +4372,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1209,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which characterization fits validity (as opposed to soundness)?",
     "options": [
       "Assuming the premises in a model, the conclusion must come out true.",
@@ -4393,10 +4393,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1210,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "In a proof system, a rule preserves truth. Likewise, an argument is valid when:",
     "options": [
       "Most experts find the argument persuasive.",
@@ -4414,10 +4414,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1211,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "You cannot have true premises and a false conclusion in a valid argument. Equivalently, validity means:",
     "options": [
       "The premises are widely believed to be true.",
@@ -4435,10 +4435,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1212,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which option states the truth-preserving condition for validity?",
     "options": [
       "The speaker cares deeply about the topic.",
@@ -4456,10 +4456,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1213,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Validity answers which question?",
     "options": [
       "The logical structure guarantees the conclusion whenever the premises hold.",
@@ -4477,10 +4477,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1214,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A student confuses validity with \"having true premises.\" What is validity actually about?",
     "options": [
       "The argument is popular on social media.",
@@ -4498,10 +4498,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1215,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Pick the option that describes formal validity in deductive logic:",
     "options": [
       "Each premise has been empirically verified.",
@@ -4519,10 +4519,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1216,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "When philosophers say an argument is valid, they mean:",
     "options": [
       "Every premise is actually true in the real world.",
@@ -4540,10 +4540,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1217,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "The textbook: the conclusion follows necessarily from the premises. That is equivalent to:",
     "options": [
       "The inference form is truth-preserving: true premises cannot yield a false conclusion.",
@@ -4561,10 +4561,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1218,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which option is about logical consequence\u2014not popularity or emotion?",
     "options": [
       "The speaker cares deeply about the topic.",
@@ -4582,10 +4582,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1219,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "If you know an argument is valid, you know that:",
     "options": [
       "The conclusion feels satisfying to accept.",
@@ -4603,10 +4603,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1220,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Validity is about the link between premises and conclusion, namely:",
     "options": [
       "The reasoning stirs strong emotions.",
@@ -4624,10 +4624,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1221,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Necessarily: if the premises hold, the conclusion holds. That matches:",
     "options": [
       "If every premise were true, the conclusion could not be false.",
@@ -4645,10 +4645,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1222,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A counterexample to validity would be all premises true and conclusion false. So validity means:",
     "options": [
       "The conclusion is likely true given background knowledge.",
@@ -4666,10 +4666,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1223,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which option correctly contrasts validity with \"the premises are true\"?",
     "options": [
       "The argument is popular on social media.",
@@ -4687,10 +4687,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1224,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "The pattern of the argument works. That means:",
     "options": [
       "The speaker cares deeply about the topic.",
@@ -4708,10 +4708,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1225,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Choose the best paraphrase of: \"No interpretation makes all premises true and the conclusion false.\"",
     "options": [
       "The argument's pattern makes it impossible for all premises to be true while the conclusion is false.",
@@ -4729,10 +4729,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1226,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "For deductive validity, which condition must hold?",
     "options": [
       "The premises are widely believed to be true.",
@@ -4750,10 +4750,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1227,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which statement would a logic exam mark as the definition of validity?",
     "options": [
       "The speaker cites many sources.",
@@ -4771,10 +4771,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1228,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Validity is structural. Which option reflects that?",
     "options": [
       "Most experts find the argument persuasive.",
@@ -4792,10 +4792,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1229,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "If the premises were true in some scenario, validity requires that:",
     "options": [
       "Assuming the premises in a model, the conclusion must come out true.",
@@ -4813,10 +4813,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1230,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "You are checking only the inference, not factual accuracy. You are checking:",
     "options": [
       "The speaker cares deeply about the topic.",
@@ -4834,10 +4834,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1231,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which option mistakes a soundness condition for the definition of validity?",
     "options": [
       "If every premise were true, the conclusion could not be false.",
@@ -4855,10 +4855,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1232,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "The conclusion follows from the premises. In formal logic, that means:",
     "options": [
       "The premises are widely believed to be true.",
@@ -4876,10 +4876,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1233,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Pick the option that matches: logical consequence from premises to conclusion.",
     "options": [
       "The logical structure guarantees the conclusion whenever the premises hold.",
@@ -4897,10 +4897,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1234,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A valid argument can have false premises. Validity still means:",
     "options": [
       "The conclusion feels satisfying to accept.",
@@ -4918,10 +4918,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1235,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Soundness adds true premises; validity alone means:",
     "options": [
       "The reasoning stirs strong emotions.",
@@ -4939,10 +4939,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1236,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which is the standard textbook gloss for deductive validity?",
     "options": [
       "Each premise has been empirically verified.",
@@ -4960,10 +4960,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1237,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "\"If all premises are true, the conclusion must be true\" is one phrasing. Another equivalent is:",
     "options": [
       "The inference form is truth-preserving: true premises cannot yield a false conclusion.",
@@ -4981,10 +4981,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1238,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Necessity of the conclusion given the premises means:",
     "options": [
       "The argument is popular on social media.",
@@ -5002,10 +5002,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1239,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Select the definition of validity without claiming the premises are actually true:",
     "options": [
       "The speaker cites many sources.",
@@ -5023,10 +5023,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1240,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Truth of premises is a separate issue. Validity is the claim that:",
     "options": [
       "The conclusion feels satisfying to accept.",
@@ -5044,10 +5044,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1241,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "In a valid argument, which situation is ruled out?",
     "options": [
       "If every premise were true, the conclusion could not be false.",
@@ -5065,10 +5065,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1242,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "The form is such that truth flows to the conclusion. That is:",
     "options": [
       "The speaker cites many sources.",
@@ -5086,10 +5086,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1243,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which option would a TA accept as the definition of validity on a first quiz?",
     "options": [
       "Every premise is actually true in the real world.",
@@ -5107,10 +5107,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1244,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "The premises jointly imply the conclusion. So validity means:",
     "options": [
       "The argument is popular on social media.",
@@ -5128,10 +5128,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1245,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "If you grant the premises for the sake of argument, validity forces you to grant:",
     "options": [
       "The argument's pattern makes it impossible for all premises to be true while the conclusion is false.",
@@ -5149,10 +5149,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1246,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "The conclusion is a logical consequence of the premises. So validity means:",
     "options": [
       "Every premise is actually true in the real world.",
@@ -5170,10 +5170,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1247,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Choose the definition that matches the usual turnstile (\u22a8) in introductory logic:",
     "options": [
       "The argument is popular on social media.",
@@ -5191,10 +5191,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1248,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A valid argument never permits: all premises true and conclusion false. Hence:",
     "options": [
       "Each premise has been empirically verified.",
@@ -5212,10 +5212,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1249,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which option is synonymous with \"the conclusion follows necessarily from the premises\"?",
     "options": [
       "Assuming the premises in a model, the conclusion must come out true.",
@@ -5233,10 +5233,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1250,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which option best states that the argument has no counterexample with true premises and a false conclusion?",
     "options": [
       "The premises are widely believed to be true.",
@@ -5254,10 +5254,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1251,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A climate memo says the inference is airtight and every factual claim checks out. In logic, that describes:",
     "options": [
       "A sound argument (valid reasoning with true premises).",
@@ -5275,10 +5275,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1252,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "You are grading: the form is valid, but one premise is false. The argument is:",
     "options": [
       "Not sound (soundness needs validity plus true premises).",
@@ -5296,10 +5296,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1253,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which package matches what logicians call a sound argument?",
     "options": [
       "Deductive validity plus all premises actually true.",
@@ -5317,10 +5317,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1254,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Soundness is the combination of:",
     "options": [
       "Valid structure and true premises.",
@@ -5338,10 +5338,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1255,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "If an argument is sound, what follows about its conclusion?",
     "options": [
       "The conclusion must be true (given soundness implies valid inference from true premises).",
@@ -5359,10 +5359,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1256,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Pick the best gloss: soundness =",
     "options": [
       "Truth-preserving form plus true inputs.",
@@ -5380,10 +5380,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1257,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A proof is valid, but a premise cites a retracted study. Then the argument is:",
     "options": [
       "Not sound, because a premise is not actually true.",
@@ -5401,10 +5401,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1258,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which statement is NOT enough for soundness?",
     "options": [
       "The argument is rhetorically powerful.",
@@ -5422,10 +5422,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1259,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "In a courtroom analogy: the legal rule is applied correctly, and every entered fact is verified. Logically, that mirrors:",
     "options": [
       "Soundness (correct rule plus true factual premises).",
@@ -5443,10 +5443,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1260,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Sound arguments guarantee their conclusions because:",
     "options": [
       "Validity transmits truth from true premises, and soundness supplies true premises.",
@@ -5464,10 +5464,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1261,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which option confuses validity with soundness?",
     "options": [
       "Calling an argument \"sound\" just because it is valid.",
@@ -5485,10 +5485,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1262,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A researcher says: \"Our model is sound.\" In logic class, the charitable reading is:",
     "options": [
       "The reasoning pattern is valid and the assumptions are true.",
@@ -5506,10 +5506,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1263,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "To show an argument is NOT sound, you can:",
     "options": [
       "Show a false premise or show invalid reasoning.",
@@ -5527,10 +5527,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1264,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Soundness is a stricter standard than validity because it also demands:",
     "options": [
       "That the premises are actually true.",
@@ -5548,10 +5548,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1265,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which scenario describes a valid but unsound argument?",
     "options": [
       "Modus ponens form, but a premise about the crime is false.",
@@ -5569,10 +5569,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1266,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "If you have established soundness, you have established:",
     "options": [
       "Both validity and truth of premises.",
@@ -5590,10 +5590,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1267,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A sound argument cannot have:",
     "options": [
       "A false premise (by definition of soundness).",
@@ -5611,10 +5611,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1268,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Philosophy quiz: \"Sound\" arguments are the gold standard because they combine:",
     "options": [
       "Good structure with factual accuracy of premises.",
@@ -5632,10 +5632,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1269,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Choose the option that completes: Sound = valid + ___",
     "options": [
       "True premises.",
@@ -5653,10 +5653,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1270,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which is the odd one out for soundness?",
     "options": [
       "The argument went viral online.",
@@ -5674,10 +5674,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1271,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "In logic, what does it mean to say an argument is SOUND?",
     "options": [
       "It is valid and every premise is actually true.",
@@ -5695,10 +5695,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1272,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Software audit: the protocol is implemented correctly and the logged inputs match the real traffic. That parallels:",
     "options": [
       "Sound reasoning.",
@@ -5716,10 +5716,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1273,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A student says: \"The premises are all true, so the argument is sound.\" This can still fail if:",
     "options": [
       "The inference pattern is invalid.",
@@ -5737,10 +5737,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1274,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Medical triage note: the treatment rule is applied correctly and the patient facts are accurate. That mirrors:",
     "options": [
       "Sound reasoning.",
@@ -5758,10 +5758,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1275,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Soundness excludes which possibility?",
     "options": [
       "Valid reasoning from false premises treated as if they settle the case.",
@@ -5779,10 +5779,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1276,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "An argument can be valid yet unsound. The extra ingredient soundness adds is:",
     "options": [
       "Actual truth of the premises.",
@@ -5800,10 +5800,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1277,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "In one line: soundness means you have the right form and:",
     "options": [
       "The right facts in the premises.",
@@ -5821,10 +5821,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1278,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Why care about soundness, not just validity?",
     "options": [
       "Validity alone can still rely on false premises.",
@@ -5842,10 +5842,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1279,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A podcast says an argument is \"sound.\" Careful listeners should hear:",
     "options": [
       "Valid structure with true premises.",
@@ -5863,10 +5863,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1280,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Match concepts: \"All premises true\" + \"valid form\" =",
     "options": [
       "Sound argument.",
@@ -5884,10 +5884,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1281,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which undermines soundness instantly?",
     "options": [
       "Any false premise in the support set.",
@@ -5905,10 +5905,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1282,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Soundness is about:",
     "options": [
       "Getting both the logic and the facts right.",
@@ -5926,10 +5926,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1283,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A student says: \"It is valid, therefore it is sound.\" The mistake is:",
     "options": [
       "Validity does not guarantee true premises.",
@@ -5947,10 +5947,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1284,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Complete the slogan: No false premises + valid pattern \u21d2",
     "options": [
       "Sound argument (and a true conclusion, given validity).",
@@ -5968,10 +5968,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1285,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Engineering report: calculations follow the right theorem, but a measured value was mistyped. The proof is:",
     "options": [
       "Valid but not sound.",
@@ -5989,10 +5989,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1286,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Soundness is stricter than validity the same way a healthy meal is stricter than:",
     "options": [
       "A recipe that looks good on paper but uses spoiled ingredients.",
@@ -6010,10 +6010,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1287,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Pick the best description of an unsound yet valid argument:",
     "options": [
       "True logical form with at least one false premise.",
@@ -6031,10 +6031,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1288,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "When philosophers praise an argument as sound, they are not merely saying:",
     "options": [
       "It is persuasive or widely believed.",
@@ -6052,10 +6052,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1289,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A sound argument's premises are:",
     "options": [
       "Actually true, not just assumed for an exercise.",
@@ -6073,10 +6073,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1290,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Validity is the lock; soundness also checks:",
     "options": [
       "Whether the keys (premises) are real.",
@@ -6094,10 +6094,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1291,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "If you refute a premise, you show the argument is:",
     "options": [
       "Not sound (and maybe still valid).",
@@ -6115,10 +6115,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1292,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Soundness \u2261",
     "options": [
       "Valid \u2227 true premises.",
@@ -6136,10 +6136,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1293,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A deductively sound argument with a controversial conclusion still requires:",
     "options": [
       "That the premises be true and the form valid\u2014controversy alone is not enough.",
@@ -6157,10 +6157,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1294,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which pair is sufficient for soundness?",
     "options": [
       "Valid argument + all premises true.",
@@ -6178,10 +6178,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1295,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Unlike mere validity, soundness anchors the argument in:",
     "options": [
       "The real truth of its premises.",
@@ -6199,10 +6199,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1296,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "A critic says: \"Your logic is fine; your facts are not.\" They attack:",
     "options": [
       "Soundness (truth of premises), while granting validity.",
@@ -6220,10 +6220,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1297,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "In short: soundness asks both \"Does it follow?\" and:",
     "options": [
       "\"Are the starting claims actually true?\"",
@@ -6241,10 +6241,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1298,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Which is a recipe for soundness?",
     "options": [
       "Check validity first, then verify each premise in the world.",
@@ -6262,10 +6262,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1299,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "If premises are true and the argument is valid, the argument is:",
     "options": [
       "Sound.",
@@ -6283,10 +6283,10 @@ export const LEVEL_0_GEN_EN: Question[] = [
   {
     "id": 1300,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Soundness closes the gap between \"good form\" and:",
     "options": [
       "\"True content\" in the premises.",
@@ -6307,10 +6307,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1001,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument (conclusion + raison) \u00e0 propos des plastiques \u00e0 usage unique ?",
     "options": [
       "Les plastiques \u00e0 usage unique sont partout.",
@@ -6328,10 +6328,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1002,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument sur le probl\u00e8me du bus en retard ?",
     "options": [
       "Le bus est en retard chaque matin, donc l'appli doit afficher les horaires en temps r\u00e9el.",
@@ -6349,10 +6349,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1003,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument \u00e0 propos du Wi-Fi du campus ?",
     "options": [
       "Le Wi-Fi du campus coupe sans arr\u00eat, donc l'universit\u00e9 devrait ajouter des points d'acc\u00e8s.",
@@ -6370,10 +6370,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1004,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument \u00e0 propos des distributeurs sur le campus ?",
     "options": [
       "Les distributeurs sont vides, donc il faut les recharger deux fois par jour.",
@@ -6391,10 +6391,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1005,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument sur les horaires de biblioth\u00e8que pendant les partiels ?",
     "options": [
       "La biblioth\u00e8que est bond\u00e9e pendant les partiels, donc elle devrait fermer \u00e0 minuit.",
@@ -6412,10 +6412,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1006,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument sur la s\u00e9curit\u00e9 des pistes cyclables ?",
     "options": [
       "La piste cyclable dispara\u00eet aux carrefours et pousse les cyclistes dans la circulation; la ville doit la prolonger.",
@@ -6433,10 +6433,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1007,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument sur la modernisation des lampadaires ?",
     "options": [
       "Les LED consomment moins, donc la ville devrait r\u00e9nover les lampadaires.",
@@ -6454,10 +6454,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1008,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument sur le gaspillage \u00e0 la caf\u00e9t\u00e9ria ?",
     "options": [
       "Les \u00e9tudiants jettent des plateaux intacts, donc la caf\u00e9t\u00e9ria devrait proposer des portions plus petites.",
@@ -6475,10 +6475,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1009,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument sur les voitures hybrides et la qualité de l'air ?",
     "options": [
       "Les voitures hybrides sont très silencieuses.",
@@ -6496,10 +6496,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1010,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument sur le télétravail et les frais généraux ?",
     "options": [
       "Le télétravail utilise des appels vidéo.",
@@ -6517,10 +6517,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1011,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument sur l'agriculture biologique et la santé des sols ?",
     "options": [
       "L'agriculture bio évite les pesticides de synthèse, donc elle préserve la santé du sol à long terme.",
@@ -6538,10 +6538,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1012,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Linguistique",
     "options": [
       "Je pr\u00e9f\u00e8re Linguistique.",
@@ -6559,10 +6559,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1013,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Technologie",
     "options": [
       "Je pr\u00e9f\u00e8re Technologie.",
@@ -6580,10 +6580,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1014,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Histoire",
     "options": [
       "Je pr\u00e9f\u00e8re Histoire.",
@@ -6601,10 +6601,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1015,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Art",
     "options": [
       "Je pr\u00e9f\u00e8re Art.",
@@ -6622,10 +6622,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1016,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Circulation",
     "options": [
       "Je pr\u00e9f\u00e8re Circulation.",
@@ -6643,10 +6643,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1017,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Biologie",
     "options": [
       "Je pr\u00e9f\u00e8re Biologie.",
@@ -6664,10 +6664,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1018,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : \u00c9conomie",
     "options": [
       "Je pr\u00e9f\u00e8re \u00c9conomie.",
@@ -6685,10 +6685,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1019,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Zoologie",
     "options": [
       "Je pr\u00e9f\u00e8re Zoologie.",
@@ -6706,10 +6706,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1020,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Musique",
     "options": [
       "Je pr\u00e9f\u00e8re Musique.",
@@ -6727,10 +6727,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1021,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Lors d'un concours de p\u00e2tisserie communautaire, quelle phrase est un argument (une affirmation appuy\u00e9e sur une raison) ?",
     "options": [
       "Les cupcakes sont \u00e0 la mode cette ann\u00e9e.",
@@ -6748,10 +6748,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1022,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Avant une manche de sprint, quelle phrase est un argument \u2014 pas seulement une pr\u00e9f\u00e9rence ?",
     "options": [
       "Tu t'es entra\u00een\u00e9 tout le mois, donc tu devrais battre ton temps de la manche pr\u00e9c\u00e9dente.",
@@ -6769,10 +6769,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1023,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Pour pr\u00e9voir une randonn\u00e9e, quelle phrase est un argument ?",
     "options": [
       "Le barom\u00e8tre chute vite, donc attendez-vous \u00e0 de la pluie avant midi.",
@@ -6790,10 +6790,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1024,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Au bord d'une voiture qui ne d\u00e9marre pas, quelle phrase est un argument ?",
     "options": [
       "Les boosters sont lourds.",
@@ -6811,10 +6811,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1025,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Sur un bureau peu lumineux, quelle phrase est un argument sur les plantes ?",
     "options": [
       "Les succulentes n'ont jamais besoin d'eau.",
@@ -6832,10 +6832,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1026,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans une salle de lecture au r\u00e8glement strict, quelle phrase est un argument ?",
     "options": [
       "Chuchoter est \u00e0 la mode.",
@@ -6853,10 +6853,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1027,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Quand un ami n'a pas march\u00e9 depuis des semaines, quelle phrase plaide pour une marche quotidienne ?",
     "options": [
       "La marche est ennuyeuse.",
@@ -6874,10 +6874,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1028,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Sur une interrogation d'alg\u00e8bre, quelle phrase est un argument ?",
     "options": [
       "Soit x un nombre.",
@@ -6895,10 +6895,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1029,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Les ma\u00eetres-nageurs signalent une mar\u00e9e montante. Quelle phrase est un argument ?",
     "options": [
       "Le sable est amusant \u00e0 creuser.",
@@ -6916,10 +6916,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1030,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Au plan\u00e9tarium, quelle phrase est un argument ?",
     "options": [
       "Les \u00e9toiles sont de jolis points.",
@@ -6937,10 +6937,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1031,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "En faisant tomber une pomme pour une d\u00e9mo, quelle phrase est un argument ?",
     "options": [
       "Les pommes peuvent \u00eatre rouges ou vertes.",
@@ -6958,10 +6958,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1032,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Pour un plan de pratique linguistique, quelle phrase est un argument ?",
     "options": [
       "Les accents sont int\u00e9ressants.",
@@ -6979,10 +6979,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1033,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Le Wi-Fi du bureau coupe pendant un appel vid\u00e9o. Quelle phrase est un argument ?",
     "options": [
       "Les appels devraient toujours \u00eatre en vid\u00e9o.",
@@ -7000,10 +7000,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1034,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Pour manipuler des pi\u00e8ces fragiles de mus\u00e9e, quelle phrase est un argument ?",
     "options": [
       "Les art\u00e9facts sont vieux.",
@@ -7021,10 +7021,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1035,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "En m\u00e9langeant de la peinture pour une fresque, quelle phrase est un argument ?",
     "options": [
       "Le violet est \u00e0 la mode cette saison.",
@@ -7042,10 +7042,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1036,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Face \u00e0 un feu rouge en tant que jeune conducteur, quelle phrase est un argument ?",
     "options": [
       "Les feux rouges sont brillants.",
@@ -7063,10 +7063,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1037,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Pour expliquer les pauses d'un groupe d'\u00e9tude, quelle phrase est un argument ?",
     "options": [
       "La dette de sommeil nuit \u00e0 l'attention, donc de courtes pauses aideront \u00e0 rester concentr\u00e9.",
@@ -7084,10 +7084,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1038,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Pour un concert complet, quelle phrase est un argument sur le prix des billets ?",
     "options": [
       "Les stands vendent des T-shirts.",
@@ -7105,10 +7105,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1039,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) \u00e0 propos du bruit en ville ?",
     "options": [
       "La ville a un r\u00e8glement sur le bruit.",
@@ -7126,10 +7126,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1040,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Avant r\u00e9p\u00e9tition avec un big band scolaire, quelle phrase est un argument ?",
     "options": [
       "Le jazz est n\u00e9 aux \u00c9tats-Unis.",
@@ -7147,10 +7147,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1041,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "En retirant des cupcakes du four trop t\u00f4t, quelle phrase est un argument ?",
     "options": [
       "La mie para\u00eet encore humide, donc donnez cinq minutes de plus sinon ils vont s'affaisser.",
@@ -7168,10 +7168,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1042,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "En comparant deux relais \u00e0 l'entra\u00eenement, quelle phrase est un argument ?",
     "options": [
       "Leurs chronos se sont am\u00e9lior\u00e9s tout le printemps, donc ils devraient battre le record de l'an dernier.",
@@ -7189,10 +7189,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1043,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Pour un pique-nique selon la m\u00e9t\u00e9o du matin, quelle phrase est un argument ?",
     "options": [
       "Les paniers sont en osier.",
@@ -7210,10 +7210,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1044,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument sur la s\u00e9curisation des outils du jardin partag\u00e9 ?",
     "options": [
       "Il faut construire un abri verrouillable parce que les outils disparaissent.",
@@ -7231,10 +7231,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1045,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument sur la surveillance du ciel nocturne avant les temp\u00eates ?",
     "options": [
       "Les m\u00e9t\u00e9orologues observent le ciel nocturne pour que les ports p\u00e9ch\u00e9s puissent alerter t\u00f4t les marins.",
@@ -7252,10 +7252,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1046,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument sur le remplacement d'une fontaine \u00e0 eau d'\u00e9cole ?",
     "options": [
       "Du plomb a \u00e9t\u00e9 d\u00e9tect\u00e9 dans la fontaine, donc l'\u00e9cole doit la remplacer imm\u00e9diatement.",
@@ -7273,10 +7273,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1047,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Laquelle de ces affirmations est un argument pour r\u00e9duire la file d'attente en soutien psychologique ?",
     "options": [
       "L'attente en consultation est de six semaines, donc l'universit\u00e9 devrait embaucher un th\u00e9rapeute suppl\u00e9mentaire.",
@@ -7294,10 +7294,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1048,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "En relisant le devoir d'un camarade, quelle phrase est un argument ?",
     "options": [
       "Les preuves utilisent la logique.",
@@ -7315,10 +7315,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1049,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Avec un calendrier des mar\u00e9es avant un relev\u00e9 du littoral, quelle phrase est un argument ?",
     "options": [
       "La basse mer d\u00e9couvre plus de flaques, donc planifiez le transect sur ce cr\u00e9neau.",
@@ -7336,10 +7336,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1050,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "argument-vs-assertion",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Pour expliquer la lumi\u00e8re des \u00e9toiles \u00e0 un groupe, quelle phrase est un argument ?",
     "options": [
       "Les t\u00e9lescopes sont chers.",
@@ -7357,10 +7357,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1051,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La gravit\u00e9 tire les objets vers le bas, la pomme tombera. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La gravit\u00e9 tire les objets vers le bas \u00bb",
@@ -7378,10 +7378,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1052,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La pratique am\u00e9liore l'aisance, tu devrais parler tous les jours. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La pratique am\u00e9liore l'aisance \u00bb",
@@ -7399,10 +7399,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1053,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le routeur est \u00e9teint, le Wi-Fi ne fonctionnera pas. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le routeur est \u00e9teint \u00bb",
@@ -7420,10 +7420,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1054,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Les art\u00e9facts sont fragiles, ils n\u00e9cessitent une manipulation prudente. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Les art\u00e9facts sont fragiles \u00bb",
@@ -7441,10 +7441,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1055,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le rouge et le bleu font du violet, m\u00e9langez-les pour du violet. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le rouge et le bleu font du violet \u00bb",
@@ -7462,10 +7462,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1056,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le feu est rouge, les conducteurs doivent s'arr\u00eater. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le feu est rouge \u00bb",
@@ -7483,10 +7483,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1057,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le manque de sommeil affecte la concentration, les \u00e9tudiants doivent se reposer. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le manque de sommeil affecte la concentration \u00bb",
@@ -7504,10 +7504,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1058,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme L'offre est faible, les prix augmenteront. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab L'offre est faible \u00bb",
@@ -7525,10 +7525,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1059,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Les chiens sont sociaux, ils ont besoin de compagnie. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Les chiens sont sociaux \u00bb",
@@ -7546,10 +7546,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1060,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La guitare n'est pas accord\u00e9e, elle sonnera mal. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La guitare n'est pas accord\u00e9e \u00bb",
@@ -7567,10 +7567,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1061,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le four est trop chaud, le g\u00e2teau va br\u00fbler. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le four est trop chaud \u00bb",
@@ -7588,10 +7588,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1062,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Tu t'es entra\u00een\u00e9 dur, tu finiras plus vite. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Tu t'es entra\u00een\u00e9 dur \u00bb",
@@ -7609,10 +7609,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1063,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Les nuages sont sombres, il va pleuvoir. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Les nuages sont sombres \u00bb",
@@ -7630,10 +7630,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1064,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La batterie est vide, la voiture ne d\u00e9marrera pas. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La batterie est vide \u00bb",
@@ -7651,10 +7651,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1065,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Les plantes ont besoin de lumi\u00e8re, elles devraient \u00eatre pr\u00e8s de la fen\u00eatre. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Les plantes ont besoin de lumi\u00e8re \u00bb",
@@ -7672,10 +7672,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1066,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le silence est requis, nous devons parler bas. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le silence est requis \u00bb",
@@ -7693,10 +7693,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1067,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme L'exercice am\u00e9liore la sant\u00e9, nous devrions marcher quotidiennement. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab L'exercice am\u00e9liore la sant\u00e9 \u00bb",
@@ -7714,10 +7714,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1068,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme X est \u00e9gal \u00e0 5, X plus 2 est \u00e9gal \u00e0 7. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab X est \u00e9gal \u00e0 5 \u00bb",
@@ -7735,10 +7735,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1069,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La mar\u00e9e monte, la plage va r\u00e9tr\u00e9cir. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La mar\u00e9e monte \u00bb",
@@ -7756,10 +7756,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1070,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La lumi\u00e8re prend du temps pour voyager, nous voyons les \u00e9toiles telles qu'elles \u00e9taient. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La lumi\u00e8re prend du temps pour voyager \u00bb",
@@ -7777,10 +7777,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1071,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La gravit\u00e9 tire les objets vers le bas, la pomme tombera. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La gravit\u00e9 tire les objets vers le bas \u00bb",
@@ -7798,10 +7798,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1072,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La pratique am\u00e9liore l'aisance, tu devrais parler tous les jours. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La pratique am\u00e9liore l'aisance \u00bb",
@@ -7819,10 +7819,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1073,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le routeur est \u00e9teint, le Wi-Fi ne fonctionnera pas. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le routeur est \u00e9teint \u00bb",
@@ -7840,10 +7840,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1074,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Les art\u00e9facts sont fragiles, ils n\u00e9cessitent une manipulation prudente. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Les art\u00e9facts sont fragiles \u00bb",
@@ -7861,10 +7861,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1075,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le rouge et le bleu font du violet, m\u00e9langez-les pour du violet. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le rouge et le bleu font du violet \u00bb",
@@ -7882,10 +7882,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1076,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le feu est rouge, les conducteurs doivent s'arr\u00eater. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le feu est rouge \u00bb",
@@ -7903,10 +7903,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1077,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le manque de sommeil affecte la concentration, les \u00e9tudiants doivent se reposer. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le manque de sommeil affecte la concentration \u00bb",
@@ -7924,10 +7924,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1078,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme L'offre est faible, les prix augmenteront. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab L'offre est faible \u00bb",
@@ -7945,10 +7945,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1079,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Les chiens sont sociaux, ils ont besoin de compagnie. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Les chiens sont sociaux \u00bb",
@@ -7966,10 +7966,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1080,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La guitare n'est pas accord\u00e9e, elle sonnera mal. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La guitare n'est pas accord\u00e9e \u00bb",
@@ -7987,10 +7987,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1081,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le four est trop chaud, le g\u00e2teau va br\u00fbler. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le four est trop chaud \u00bb",
@@ -8008,10 +8008,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1082,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Tu t'es entra\u00een\u00e9 dur, tu finiras plus vite. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Tu t'es entra\u00een\u00e9 dur \u00bb",
@@ -8029,10 +8029,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1083,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Les nuages sont sombres, il va pleuvoir. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Les nuages sont sombres \u00bb",
@@ -8050,10 +8050,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1084,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La batterie est vide, la voiture ne d\u00e9marrera pas. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La batterie est vide \u00bb",
@@ -8071,10 +8071,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1085,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Les plantes ont besoin de lumi\u00e8re, elles devraient \u00eatre pr\u00e8s de la fen\u00eatre. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Les plantes ont besoin de lumi\u00e8re \u00bb",
@@ -8092,10 +8092,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1086,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le silence est requis, nous devons parler bas. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le silence est requis \u00bb",
@@ -8113,10 +8113,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1087,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme L'exercice am\u00e9liore la sant\u00e9, nous devrions marcher quotidiennement. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab L'exercice am\u00e9liore la sant\u00e9 \u00bb",
@@ -8134,10 +8134,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1088,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme X est \u00e9gal \u00e0 5, X plus 2 est \u00e9gal \u00e0 7. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab X est \u00e9gal \u00e0 5 \u00bb",
@@ -8155,10 +8155,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1089,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La mar\u00e9e monte, la plage va r\u00e9tr\u00e9cir. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La mar\u00e9e monte \u00bb",
@@ -8176,10 +8176,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1090,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La lumi\u00e8re prend du temps pour voyager, nous voyons les \u00e9toiles telles qu'elles \u00e9taient. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La lumi\u00e8re prend du temps pour voyager \u00bb",
@@ -8197,10 +8197,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1091,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La gravit\u00e9 tire les objets vers le bas, la pomme tombera. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La gravit\u00e9 tire les objets vers le bas \u00bb",
@@ -8218,10 +8218,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1092,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La pratique am\u00e9liore l'aisance, tu devrais parler tous les jours. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La pratique am\u00e9liore l'aisance \u00bb",
@@ -8239,10 +8239,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1093,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le routeur est \u00e9teint, le Wi-Fi ne fonctionnera pas. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le routeur est \u00e9teint \u00bb",
@@ -8260,10 +8260,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1094,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Les art\u00e9facts sont fragiles, ils n\u00e9cessitent une manipulation prudente. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Les art\u00e9facts sont fragiles \u00bb",
@@ -8281,10 +8281,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1095,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le rouge et le bleu font du violet, m\u00e9langez-les pour du violet. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le rouge et le bleu font du violet \u00bb",
@@ -8302,10 +8302,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1096,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le feu est rouge, les conducteurs doivent s'arr\u00eater. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le feu est rouge \u00bb",
@@ -8323,10 +8323,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1097,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Le manque de sommeil affecte la concentration, les \u00e9tudiants doivent se reposer. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Le manque de sommeil affecte la concentration \u00bb",
@@ -8344,10 +8344,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1098,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme L'offre est faible, les prix augmenteront. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab L'offre est faible \u00bb",
@@ -8365,10 +8365,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1099,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme Les chiens sont sociaux, ils ont besoin de compagnie. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab Les chiens sont sociaux \u00bb",
@@ -8386,10 +8386,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1100,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "premise-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.BEGINNER,
+    "subLevel": "Beginner",
     "question": "Dans l'argument \u00ab Comme La guitare n'est pas accord\u00e9e, elle sonnera mal. \u00bb, identifiez la PR\u00c9MISSE.",
     "options": [
       "\u00ab La guitare n'est pas accord\u00e9e \u00bb",
@@ -8407,10 +8407,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1101,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Le four est trop chaud, par cons\u00e9quent le g\u00e2teau va br\u00fbler. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Le four est trop chaud \u00bb",
@@ -8428,10 +8428,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1102,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Tu t'es entra\u00een\u00e9 dur, par cons\u00e9quent tu finiras plus vite. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Tu t'es entra\u00een\u00e9 dur \u00bb",
@@ -8449,10 +8449,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1103,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Les nuages sont sombres, par cons\u00e9quent il va pleuvoir. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Les nuages sont sombres \u00bb",
@@ -8470,10 +8470,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1104,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La batterie est vide, par cons\u00e9quent la voiture ne d\u00e9marrera pas. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La batterie est vide \u00bb",
@@ -8491,10 +8491,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1105,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Les plantes ont besoin de lumi\u00e8re, par cons\u00e9quent elles devraient \u00eatre pr\u00e8s de la fen\u00eatre. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Les plantes ont besoin de lumi\u00e8re \u00bb",
@@ -8512,10 +8512,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1106,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Le silence est requis, par cons\u00e9quent nous devons parler bas. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Le silence est requis \u00bb",
@@ -8533,10 +8533,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1107,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab L'exercice am\u00e9liore la sant\u00e9, par cons\u00e9quent nous devrions marcher quotidiennement. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab L'exercice am\u00e9liore la sant\u00e9 \u00bb",
@@ -8554,10 +8554,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1108,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab X est \u00e9gal \u00e0 5, par cons\u00e9quent X plus 2 est \u00e9gal \u00e0 7. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab X est \u00e9gal \u00e0 5 \u00bb",
@@ -8575,10 +8575,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1109,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La mar\u00e9e monte, par cons\u00e9quent la plage va r\u00e9tr\u00e9cir. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La mar\u00e9e monte \u00bb",
@@ -8596,10 +8596,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1110,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La lumi\u00e8re prend du temps pour voyager, par cons\u00e9quent nous voyons les \u00e9toiles telles qu'elles \u00e9taient. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La lumi\u00e8re prend du temps pour voyager \u00bb",
@@ -8617,10 +8617,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1111,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La gravit\u00e9 tire les objets vers le bas, par cons\u00e9quent la pomme tombera. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La gravit\u00e9 tire les objets vers le bas \u00bb",
@@ -8638,10 +8638,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1112,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La pratique am\u00e9liore l'aisance, par cons\u00e9quent tu devrais parler tous les jours. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La pratique am\u00e9liore l'aisance \u00bb",
@@ -8659,10 +8659,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1113,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Le routeur est \u00e9teint, par cons\u00e9quent le Wi-Fi ne fonctionnera pas. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Le routeur est \u00e9teint \u00bb",
@@ -8680,10 +8680,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1114,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Les art\u00e9facts sont fragiles, par cons\u00e9quent ils n\u00e9cessitent une manipulation prudente. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Les art\u00e9facts sont fragiles \u00bb",
@@ -8701,10 +8701,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1115,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Le rouge et le bleu font du violet, par cons\u00e9quent m\u00e9langez-les pour du violet. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Le rouge et le bleu font du violet \u00bb",
@@ -8722,10 +8722,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1116,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Le feu est rouge, par cons\u00e9quent les conducteurs doivent s'arr\u00eater. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Le feu est rouge \u00bb",
@@ -8743,10 +8743,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1117,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Le manque de sommeil affecte la concentration, par cons\u00e9quent les \u00e9tudiants doivent se reposer. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Le manque de sommeil affecte la concentration \u00bb",
@@ -8764,10 +8764,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1118,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab L'offre est faible, par cons\u00e9quent les prix augmenteront. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab L'offre est faible \u00bb",
@@ -8785,10 +8785,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1119,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Les chiens sont sociaux, par cons\u00e9quent ils ont besoin de compagnie. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Les chiens sont sociaux \u00bb",
@@ -8806,10 +8806,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1120,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La guitare n'est pas accord\u00e9e, par cons\u00e9quent elle sonnera mal. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La guitare n'est pas accord\u00e9e \u00bb",
@@ -8827,10 +8827,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1121,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Le four est trop chaud, par cons\u00e9quent le g\u00e2teau va br\u00fbler. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Le four est trop chaud \u00bb",
@@ -8848,10 +8848,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1122,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Tu t'es entra\u00een\u00e9 dur, par cons\u00e9quent tu finiras plus vite. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Tu t'es entra\u00een\u00e9 dur \u00bb",
@@ -8869,10 +8869,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1123,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Les nuages sont sombres, par cons\u00e9quent il va pleuvoir. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Les nuages sont sombres \u00bb",
@@ -8890,10 +8890,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1124,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La batterie est vide, par cons\u00e9quent la voiture ne d\u00e9marrera pas. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La batterie est vide \u00bb",
@@ -8911,10 +8911,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1125,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Les plantes ont besoin de lumi\u00e8re, par cons\u00e9quent elles devraient \u00eatre pr\u00e8s de la fen\u00eatre. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Les plantes ont besoin de lumi\u00e8re \u00bb",
@@ -8932,10 +8932,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1126,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Le silence est requis, par cons\u00e9quent nous devons parler bas. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Le silence est requis \u00bb",
@@ -8953,10 +8953,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1127,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab L'exercice am\u00e9liore la sant\u00e9, par cons\u00e9quent nous devrions marcher quotidiennement. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab L'exercice am\u00e9liore la sant\u00e9 \u00bb",
@@ -8974,10 +8974,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1128,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab X est \u00e9gal \u00e0 5, par cons\u00e9quent X plus 2 est \u00e9gal \u00e0 7. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab X est \u00e9gal \u00e0 5 \u00bb",
@@ -8995,10 +8995,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1129,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La mar\u00e9e monte, par cons\u00e9quent la plage va r\u00e9tr\u00e9cir. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La mar\u00e9e monte \u00bb",
@@ -9016,10 +9016,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1130,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La lumi\u00e8re prend du temps pour voyager, par cons\u00e9quent nous voyons les \u00e9toiles telles qu'elles \u00e9taient. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La lumi\u00e8re prend du temps pour voyager \u00bb",
@@ -9037,10 +9037,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1131,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La gravit\u00e9 tire les objets vers le bas, par cons\u00e9quent la pomme tombera. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La gravit\u00e9 tire les objets vers le bas \u00bb",
@@ -9058,10 +9058,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1132,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La pratique am\u00e9liore l'aisance, par cons\u00e9quent tu devrais parler tous les jours. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La pratique am\u00e9liore l'aisance \u00bb",
@@ -9079,10 +9079,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1133,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Le routeur est \u00e9teint, par cons\u00e9quent le Wi-Fi ne fonctionnera pas. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Le routeur est \u00e9teint \u00bb",
@@ -9100,10 +9100,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1134,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Les art\u00e9facts sont fragiles, par cons\u00e9quent ils n\u00e9cessitent une manipulation prudente. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Les art\u00e9facts sont fragiles \u00bb",
@@ -9121,10 +9121,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1135,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Le rouge et le bleu font du violet, par cons\u00e9quent m\u00e9langez-les pour du violet. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Le rouge et le bleu font du violet \u00bb",
@@ -9142,10 +9142,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1136,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Le feu est rouge, par cons\u00e9quent les conducteurs doivent s'arr\u00eater. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Le feu est rouge \u00bb",
@@ -9163,10 +9163,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1137,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Le manque de sommeil affecte la concentration, par cons\u00e9quent les \u00e9tudiants doivent se reposer. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Le manque de sommeil affecte la concentration \u00bb",
@@ -9184,10 +9184,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1138,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab L'offre est faible, par cons\u00e9quent les prix augmenteront. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab L'offre est faible \u00bb",
@@ -9205,10 +9205,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1139,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Les chiens sont sociaux, par cons\u00e9quent ils ont besoin de compagnie. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Les chiens sont sociaux \u00bb",
@@ -9226,10 +9226,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1140,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La guitare n'est pas accord\u00e9e, par cons\u00e9quent elle sonnera mal. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La guitare n'est pas accord\u00e9e \u00bb",
@@ -9247,10 +9247,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1141,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Le four est trop chaud, par cons\u00e9quent le g\u00e2teau va br\u00fbler. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Le four est trop chaud \u00bb",
@@ -9268,10 +9268,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1142,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Tu t'es entra\u00een\u00e9 dur, par cons\u00e9quent tu finiras plus vite. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Tu t'es entra\u00een\u00e9 dur \u00bb",
@@ -9289,10 +9289,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1143,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Les nuages sont sombres, par cons\u00e9quent il va pleuvoir. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Les nuages sont sombres \u00bb",
@@ -9310,10 +9310,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1144,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La batterie est vide, par cons\u00e9quent la voiture ne d\u00e9marrera pas. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La batterie est vide \u00bb",
@@ -9331,10 +9331,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1145,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Les plantes ont besoin de lumi\u00e8re, par cons\u00e9quent elles devraient \u00eatre pr\u00e8s de la fen\u00eatre. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Les plantes ont besoin de lumi\u00e8re \u00bb",
@@ -9352,10 +9352,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1146,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab Le silence est requis, par cons\u00e9quent nous devons parler bas. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab Le silence est requis \u00bb",
@@ -9373,10 +9373,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1147,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab L'exercice am\u00e9liore la sant\u00e9, par cons\u00e9quent nous devrions marcher quotidiennement. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab L'exercice am\u00e9liore la sant\u00e9 \u00bb",
@@ -9394,10 +9394,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1148,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab X est \u00e9gal \u00e0 5, par cons\u00e9quent X plus 2 est \u00e9gal \u00e0 7. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab X est \u00e9gal \u00e0 5 \u00bb",
@@ -9415,10 +9415,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1149,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La mar\u00e9e monte, par cons\u00e9quent la plage va r\u00e9tr\u00e9cir. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La mar\u00e9e monte \u00bb",
@@ -9436,10 +9436,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1150,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "conclusion-identification",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Dans l'argument \u00ab La lumi\u00e8re prend du temps pour voyager, par cons\u00e9quent nous voyons les \u00e9toiles telles qu'elles \u00e9taient. \u00bb, identifiez la CONCLUSION.",
     "options": [
       "\u00ab La lumi\u00e8re prend du temps pour voyager \u00bb",
@@ -9457,10 +9457,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1151,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Bio",
     "options": [
       "\u00ab L'ADN stocke l'info g\u00e9n\u00e9tique. \u00bb",
@@ -9478,10 +9478,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1152,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Espace",
     "options": [
       "\u00ab Jupiter est la plus grande plan\u00e8te. \u00bb",
@@ -9499,10 +9499,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1153,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Chimie",
     "options": [
       "\u00ab L'or ne rouille pas. \u00bb",
@@ -9520,10 +9520,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1154,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Math",
     "options": [
       "\u00ab Une douzaine c'est douze unit\u00e9s. \u00bb",
@@ -9541,10 +9541,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1155,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : G\u00e9o",
     "options": [
       "\u00ab Le Nil est en Afrique. \u00bb",
@@ -9562,10 +9562,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1156,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Bio",
     "options": [
       "\u00ab L'ADN stocke l'info g\u00e9n\u00e9tique. \u00bb",
@@ -9583,10 +9583,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1157,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Espace",
     "options": [
       "\u00ab Jupiter est la plus grande plan\u00e8te. \u00bb",
@@ -9604,10 +9604,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1158,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Chimie",
     "options": [
       "\u00ab L'or ne rouille pas. \u00bb",
@@ -9625,10 +9625,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1159,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Math",
     "options": [
       "\u00ab Une douzaine c'est douze unit\u00e9s. \u00bb",
@@ -9646,10 +9646,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1160,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : G\u00e9o",
     "options": [
       "\u00ab Le Nil est en Afrique. \u00bb",
@@ -9667,10 +9667,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1161,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Bio",
     "options": [
       "\u00ab L'ADN stocke l'info g\u00e9n\u00e9tique. \u00bb",
@@ -9688,10 +9688,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1162,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Espace",
     "options": [
       "\u00ab Jupiter est la plus grande plan\u00e8te. \u00bb",
@@ -9709,10 +9709,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1163,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Chimie",
     "options": [
       "\u00ab L'or ne rouille pas. \u00bb",
@@ -9730,10 +9730,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1164,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Math",
     "options": [
       "\u00ab Une douzaine c'est douze unit\u00e9s. \u00bb",
@@ -9751,10 +9751,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1165,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : G\u00e9o",
     "options": [
       "\u00ab Le Nil est en Afrique. \u00bb",
@@ -9772,10 +9772,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1166,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Bio",
     "options": [
       "\u00ab L'ADN stocke l'info g\u00e9n\u00e9tique. \u00bb",
@@ -9793,10 +9793,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1167,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Espace",
     "options": [
       "\u00ab Jupiter est la plus grande plan\u00e8te. \u00bb",
@@ -9814,10 +9814,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1168,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Chimie",
     "options": [
       "\u00ab L'or ne rouille pas. \u00bb",
@@ -9835,10 +9835,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1169,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Math",
     "options": [
       "\u00ab Une douzaine c'est douze unit\u00e9s. \u00bb",
@@ -9856,10 +9856,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1170,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : G\u00e9o",
     "options": [
       "\u00ab Le Nil est en Afrique. \u00bb",
@@ -9877,10 +9877,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1171,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Bio",
     "options": [
       "\u00ab L'ADN stocke l'info g\u00e9n\u00e9tique. \u00bb",
@@ -9898,10 +9898,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1172,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Espace",
     "options": [
       "\u00ab Jupiter est la plus grande plan\u00e8te. \u00bb",
@@ -9919,10 +9919,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1173,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Chimie",
     "options": [
       "\u00ab L'or ne rouille pas. \u00bb",
@@ -9940,10 +9940,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1174,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Math",
     "options": [
       "\u00ab Une douzaine c'est douze unit\u00e9s. \u00bb",
@@ -9961,10 +9961,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1175,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : G\u00e9o",
     "options": [
       "\u00ab Le Nil est en Afrique. \u00bb",
@@ -9982,10 +9982,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1176,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Bio",
     "options": [
       "\u00ab L'ADN stocke l'info g\u00e9n\u00e9tique. \u00bb",
@@ -10003,10 +10003,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1177,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Espace",
     "options": [
       "\u00ab Jupiter est la plus grande plan\u00e8te. \u00bb",
@@ -10024,10 +10024,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1178,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Chimie",
     "options": [
       "\u00ab L'or ne rouille pas. \u00bb",
@@ -10045,10 +10045,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1179,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Math",
     "options": [
       "\u00ab Une douzaine c'est douze unit\u00e9s. \u00bb",
@@ -10066,10 +10066,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1180,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : G\u00e9o",
     "options": [
       "\u00ab Le Nil est en Afrique. \u00bb",
@@ -10087,10 +10087,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1181,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Bio",
     "options": [
       "\u00ab L'ADN stocke l'info g\u00e9n\u00e9tique. \u00bb",
@@ -10108,10 +10108,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1182,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Espace",
     "options": [
       "\u00ab Jupiter est la plus grande plan\u00e8te. \u00bb",
@@ -10129,10 +10129,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1183,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Chimie",
     "options": [
       "\u00ab L'or ne rouille pas. \u00bb",
@@ -10150,10 +10150,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1184,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Math",
     "options": [
       "\u00ab Une douzaine c'est douze unit\u00e9s. \u00bb",
@@ -10171,10 +10171,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1185,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : G\u00e9o",
     "options": [
       "\u00ab Le Nil est en Afrique. \u00bb",
@@ -10192,10 +10192,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1186,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Bio",
     "options": [
       "\u00ab L'ADN stocke l'info g\u00e9n\u00e9tique. \u00bb",
@@ -10213,10 +10213,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1187,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Espace",
     "options": [
       "\u00ab Jupiter est la plus grande plan\u00e8te. \u00bb",
@@ -10234,10 +10234,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1188,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Chimie",
     "options": [
       "\u00ab L'or ne rouille pas. \u00bb",
@@ -10255,10 +10255,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1189,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Math",
     "options": [
       "\u00ab Une douzaine c'est douze unit\u00e9s. \u00bb",
@@ -10276,10 +10276,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1190,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : G\u00e9o",
     "options": [
       "\u00ab Le Nil est en Afrique. \u00bb",
@@ -10297,10 +10297,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1191,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Bio",
     "options": [
       "\u00ab L'ADN stocke l'info g\u00e9n\u00e9tique. \u00bb",
@@ -10318,10 +10318,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1192,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Espace",
     "options": [
       "\u00ab Jupiter est la plus grande plan\u00e8te. \u00bb",
@@ -10339,10 +10339,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1193,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Chimie",
     "options": [
       "\u00ab L'or ne rouille pas. \u00bb",
@@ -10360,10 +10360,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1194,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Math",
     "options": [
       "\u00ab Une douzaine c'est douze unit\u00e9s. \u00bb",
@@ -10381,10 +10381,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1195,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : G\u00e9o",
     "options": [
       "\u00ab Le Nil est en Afrique. \u00bb",
@@ -10402,10 +10402,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1196,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Bio",
     "options": [
       "\u00ab L'ADN stocke l'info g\u00e9n\u00e9tique. \u00bb",
@@ -10423,10 +10423,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1197,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Espace",
     "options": [
       "\u00ab Jupiter est la plus grande plan\u00e8te. \u00bb",
@@ -10444,10 +10444,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1198,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Chimie",
     "options": [
       "\u00ab L'or ne rouille pas. \u00bb",
@@ -10465,10 +10465,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1199,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : Math",
     "options": [
       "\u00ab Une douzaine c'est douze unit\u00e9s. \u00bb",
@@ -10486,10 +10486,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1200,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "fact-vs-opinion",
     "difficulty": 1,
-    "subLevel": SubLevel.INTERMEDIATE,
+    "subLevel": "Intermediate",
     "question": "Laquelle de ces propositions est un FAIT ? Sc\u00e8ne : G\u00e9o",
     "options": [
       "\u00ab Le Nil est en Afrique. \u00bb",
@@ -10507,10 +10507,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1201,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "En logique d\u00e9ductive, un argument est valide lorsque :",
     "options": [
       "Si toutes les pr\u00e9misses \u00e9taient vraies, la conclusion ne pourrait pas \u00eatre fausse.",
@@ -10528,10 +10528,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1202,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle option correspond le mieux \u00e0 la d\u00e9finition standard de la validit\u00e9 d\u00e9ductive ?",
     "options": [
       "L'argument est populaire sur les r\u00e9seaux sociaux.",
@@ -10549,10 +10549,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1203,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Votre professeur dit : \u00ab Supposez les pr\u00e9misses vraies dans une exp\u00e9rience de pens\u00e9e \u2014 la conclusion ne peut pas rester fausse. \u00bb Cela d\u00e9crit :",
     "options": [
       "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
@@ -10570,10 +10570,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1204,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La validit\u00e9 est une propri\u00e9t\u00e9 structurelle. Elle signifie :",
     "options": [
       "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
@@ -10591,10 +10591,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1205,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle formulation capture ce que les logiciens entendent par argument valide ?",
     "options": [
       "Le sch\u00e9ma de l'argument rend impossible des pr\u00e9misses toutes vraies avec une conclusion fausse.",
@@ -10612,10 +10612,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1206,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Un argument d\u00e9ductif valide est un argument dans lequel :",
     "options": [
       "L'orateur tient profond\u00e9ment au sujet.",
@@ -10633,10 +10633,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1207,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Si l'on ne demande que la validit\u00e9 (pas la correction), on demande si :",
     "options": [
       "La conclusion est agr\u00e9able \u00e0 accepter.",
@@ -10654,10 +10654,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1208,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La \u00ab validit\u00e9 \u00bb d'un argument concerne :",
     "options": [
       "L'argument est populaire sur les r\u00e9seaux sociaux.",
@@ -10675,10 +10675,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1209,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle caract\u00e9risation correspond \u00e0 la validit\u00e9 (par opposition \u00e0 la correction) ?",
     "options": [
       "En supposant les pr\u00e9misses dans un mod\u00e8le, la conclusion doit ressortir vraie.",
@@ -10696,10 +10696,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1210,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Dans un syst\u00e8me de preuve, une r\u00e8gle pr\u00e9serve la v\u00e9rit\u00e9. De m\u00eame, un argument est valide lorsque :",
     "options": [
       "La plupart des experts trouvent l'argument convaincant.",
@@ -10717,10 +10717,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1211,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "On ne peut pas avoir des pr\u00e9misses vraies et une conclusion fausse dans un argument valide. \u00c9quivalemment, la validit\u00e9 signifie :",
     "options": [
       "Les pr\u00e9misses sont largement crues vraies.",
@@ -10738,10 +10738,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1212,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle option exprime la condition de pr\u00e9servation de la v\u00e9rit\u00e9 pour la validit\u00e9 ?",
     "options": [
       "L'orateur cite de nombreuses sources.",
@@ -10759,10 +10759,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1213,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La validit\u00e9 r\u00e9pond \u00e0 quelle question ?",
     "options": [
       "La structure logique garantit la conclusion d\u00e8s que les pr\u00e9misses tiennent.",
@@ -10780,10 +10780,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1214,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Un \u00e9tudiant confond validit\u00e9 et \u00ab pr\u00e9misses vraies \u00bb. De quoi parle donc la validit\u00e9 ?",
     "options": [
       "Les pr\u00e9misses sont largement crues vraies.",
@@ -10801,10 +10801,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1215,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Choisissez l'option qui d\u00e9crit la validit\u00e9 formelle en logique d\u00e9ductive :",
     "options": [
       "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
@@ -10822,10 +10822,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1216,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Lorsque les philosophes disent qu'un argument est valide, ils veulent dire :",
     "options": [
       "La plupart des experts trouvent l'argument convaincant.",
@@ -10843,10 +10843,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1217,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Le manuel : la conclusion d\u00e9coule n\u00e9cessairement des pr\u00e9misses. Cela \u00e9quivaut \u00e0 :",
     "options": [
       "La forme d'inf\u00e9rence pr\u00e9serve la v\u00e9rit\u00e9 : des pr\u00e9misses vraies ne peuvent pas donner une conclusion fausse.",
@@ -10864,10 +10864,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1218,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle option parle de cons\u00e9quence logique \u2014 pas de popularit\u00e9 ni d'\u00e9motion ?",
     "options": [
       "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
@@ -10885,10 +10885,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1219,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Si vous savez qu'un argument est valide, vous savez que :",
     "options": [
       "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
@@ -10906,10 +10906,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1220,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La validit\u00e9 porte sur le lien entre pr\u00e9misses et conclusion, \u00e0 savoir :",
     "options": [
       "Le raisonnement suscite de fortes \u00e9motions.",
@@ -10927,10 +10927,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1221,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "N\u00e9cessairement : si les pr\u00e9misses tiennent, la conclusion tient. Cela correspond \u00e0 :",
     "options": [
       "Si toutes les pr\u00e9misses \u00e9taient vraies, la conclusion ne pourrait pas \u00eatre fausse.",
@@ -10948,10 +10948,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1222,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Un contre-exemple \u00e0 la validit\u00e9 serait : pr\u00e9misses toutes vraies, conclusion fausse. Donc la validit\u00e9 signifie :",
     "options": [
       "La conclusion est vraisemblablement vraie au vu du contexte.",
@@ -10969,10 +10969,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1223,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle option distingue correctement la validit\u00e9 de \u00ab les pr\u00e9misses sont vraies \u00bb ?",
     "options": [
       "Les pr\u00e9misses sont largement crues vraies.",
@@ -10990,10 +10990,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1224,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Le sch\u00e9ma de l'argument fonctionne. Cela signifie :",
     "options": [
       "L'orateur cite de nombreuses sources.",
@@ -11011,10 +11011,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1225,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Choisissez la meilleure paraphrase de : \u00ab Aucune interpr\u00e9tation ne rend toutes les pr\u00e9misses vraies et la conclusion fausse. \u00bb",
     "options": [
       "Le sch\u00e9ma de l'argument rend impossible des pr\u00e9misses toutes vraies avec une conclusion fausse.",
@@ -11032,10 +11032,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1226,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Pour la validit\u00e9 d\u00e9ductive, quelle condition doit \u00eatre satisfaite ?",
     "options": [
       "Les pr\u00e9misses sont largement crues vraies.",
@@ -11053,10 +11053,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1227,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle phrase un examen de logique accepterait-il comme d\u00e9finition de la validit\u00e9 ?",
     "options": [
       "L'orateur cite de nombreuses sources.",
@@ -11074,10 +11074,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1228,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La validit\u00e9 est structurelle. Quelle option le refl\u00e8te ?",
     "options": [
       "La conclusion est agr\u00e9able \u00e0 accepter.",
@@ -11095,10 +11095,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1229,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Si les pr\u00e9misses \u00e9taient vraies dans un sc\u00e9nario, la validit\u00e9 exige que :",
     "options": [
       "En supposant les pr\u00e9misses dans un mod\u00e8le, la conclusion doit ressortir vraie.",
@@ -11116,10 +11116,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1230,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Vous v\u00e9rifiez seulement l'inf\u00e9rence, pas le fait empirique. Vous v\u00e9rifiez :",
     "options": [
       "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
@@ -11137,10 +11137,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1231,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle option confond une condition de correction avec la d\u00e9finition de la validit\u00e9 ?",
     "options": [
       "Si toutes les pr\u00e9misses \u00e9taient vraies, la conclusion ne pourrait pas \u00eatre fausse.",
@@ -11158,10 +11158,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1232,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La conclusion d\u00e9coule des pr\u00e9misses. En logique formelle, cela signifie :",
     "options": [
       "Le raisonnement suscite de fortes \u00e9motions.",
@@ -11179,10 +11179,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1233,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Choisissez l'option qui correspond \u00e0 la cons\u00e9quence logique des pr\u00e9misses \u00e0 la conclusion.",
     "options": [
       "La structure logique garantit la conclusion d\u00e8s que les pr\u00e9misses tiennent.",
@@ -11200,10 +11200,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1234,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Un argument valide peut avoir des pr\u00e9misses fausses. La validit\u00e9 signifie malgr\u00e9 tout :",
     "options": [
       "La plupart des experts trouvent l'argument convaincant.",
@@ -11221,10 +11221,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1235,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La correction ajoute des pr\u00e9misses vraies ; la seule validit\u00e9 signifie :",
     "options": [
       "L'argument est populaire sur les r\u00e9seaux sociaux.",
@@ -11242,10 +11242,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1236,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle est la formulation type des manuels pour la validit\u00e9 d\u00e9ductive ?",
     "options": [
       "La conclusion est vraisemblablement vraie au vu du contexte.",
@@ -11263,10 +11263,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1237,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "\u00ab Si toutes les pr\u00e9misses sont vraies, la conclusion doit \u00eatre vraie \u00bb est une formulation. Une autre \u00e9quivalente est :",
     "options": [
       "La forme d'inf\u00e9rence pr\u00e9serve la v\u00e9rit\u00e9 : des pr\u00e9misses vraies ne peuvent pas donner une conclusion fausse.",
@@ -11284,10 +11284,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1238,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La n\u00e9cessit\u00e9 de la conclusion \u00e9tant donn\u00e9es les pr\u00e9misses signifie :",
     "options": [
       "Le raisonnement suscite de fortes \u00e9motions.",
@@ -11305,10 +11305,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1239,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Choisissez la d\u00e9finition de la validit\u00e9 sans affirmer que les pr\u00e9misses sont vraies dans le monde r\u00e9el :",
     "options": [
       "L'orateur cite de nombreuses sources.",
@@ -11326,10 +11326,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1240,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La v\u00e9rit\u00e9 des pr\u00e9misses est une autre question. La validit\u00e9 affirme que :",
     "options": [
       "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
@@ -11347,10 +11347,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1241,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Dans un argument valide, quelle situation est exclue ?",
     "options": [
       "Si toutes les pr\u00e9misses \u00e9taient vraies, la conclusion ne pourrait pas \u00eatre fausse.",
@@ -11368,10 +11368,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1242,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La forme est telle que la v\u00e9rit\u00e9 se transmet jusqu'\u00e0 la conclusion. C'est :",
     "options": [
       "Chaque pr\u00e9misse a \u00e9t\u00e9 v\u00e9rifi\u00e9e empiriquement.",
@@ -11389,10 +11389,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1243,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle option un assistant accepterait-il comme d\u00e9finition de la validit\u00e9 au premier quiz ?",
     "options": [
       "Chaque pr\u00e9misse est vraie dans le monde r\u00e9el.",
@@ -11410,10 +11410,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1244,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Les pr\u00e9misses impliquent ensemble la conclusion. Donc la validit\u00e9 signifie :",
     "options": [
       "Les pr\u00e9misses sont largement crues vraies.",
@@ -11431,10 +11431,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1245,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Si vous accordez les pr\u00e9misses pour la discussion, la validit\u00e9 vous oblige \u00e0 accorder :",
     "options": [
       "Le sch\u00e9ma de l'argument rend impossible des pr\u00e9misses toutes vraies avec une conclusion fausse.",
@@ -11452,10 +11452,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1246,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La conclusion est une cons\u00e9quence logique des pr\u00e9misses. Donc la validit\u00e9 signifie :",
     "options": [
       "La plupart des experts trouvent l'argument convaincant.",
@@ -11473,10 +11473,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1247,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Choisissez la d\u00e9finition qui correspond au symbole (\u22a8) des cours introductifs :",
     "options": [
       "Le raisonnement suscite de fortes \u00e9motions.",
@@ -11494,10 +11494,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1248,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Un argument valide n'autorise jamais : pr\u00e9misses toutes vraies et conclusion fausse. Donc :",
     "options": [
       "L'orateur cite de nombreuses sources.",
@@ -11515,10 +11515,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1249,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle option est synonyme de \u00ab la conclusion d\u00e9coule n\u00e9cessairement des pr\u00e9misses \u00bb ?",
     "options": [
       "En supposant les pr\u00e9misses dans un mod\u00e8le, la conclusion doit ressortir vraie.",
@@ -11536,10 +11536,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1250,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "validity-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle option exprime le mieux l'absence de contre-exemple \u00e0 pr\u00e9misses vraies et conclusion fausse ?",
     "options": [
       "L'argument est populaire sur les r\u00e9seaux sociaux.",
@@ -11557,10 +11557,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1251,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Une note climatique dit que l'inf\u00e9rence est irr\u00e9prochable et que chaque fait est v\u00e9rifi\u00e9. En logique, cela d\u00e9crit :",
     "options": [
       "Un argument sain (raisonnement valide avec pr\u00e9misses vraies).",
@@ -11578,10 +11578,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1252,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Vous corrigez : la forme est valide, mais une pr\u00e9misse est fausse. L'argument est :",
     "options": [
       "Non sain (la correction exige validit\u00e9 et pr\u00e9misses vraies).",
@@ -11599,10 +11599,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1253,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quel ensemble correspond \u00e0 ce que les logiciens appellent un argument sain ?",
     "options": [
       "Validit\u00e9 d\u00e9ductive plus pr\u00e9misses toutes vraies dans le monde r\u00e9el.",
@@ -11620,10 +11620,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1254,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La correction (soundness) combine :",
     "options": [
       "Une forme valide et des pr\u00e9misses vraies.",
@@ -11641,10 +11641,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1255,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Si un argument est sain, qu'en est-il de la conclusion ?",
     "options": [
       "La conclusion doit \u00eatre vraie (un argument sain inf\u00e8re valablement depuis des pr\u00e9misses vraies).",
@@ -11662,10 +11662,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1256,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Choisissez la meilleure \u00e9quivalence : correction =",
     "options": [
       "Forme pr\u00e9servant la v\u00e9rit\u00e9 plus entr\u00e9es vraies.",
@@ -11683,10 +11683,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1257,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Une preuve est valide, mais une pr\u00e9misse cite une \u00e9tude r\u00e9tract\u00e9e. Alors l'argument est :",
     "options": [
       "Non sain, car une pr\u00e9misse n'est pas vraie en fait.",
@@ -11704,10 +11704,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1258,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle affirmation ne suffit pas pour la correction ?",
     "options": [
       "L'argument est puissant sur le plan rh\u00e9torique.",
@@ -11725,10 +11725,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1259,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Au tribunal : la r\u00e8gle est appliqu\u00e9e correctement et chaque fait est v\u00e9rifi\u00e9. Cela illustre :",
     "options": [
       "La correction (r\u00e8gle correcte plus faits vrais).",
@@ -11746,10 +11746,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1260,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Les arguments sains garantissent leur conclusion parce que :",
     "options": [
       "La validit\u00e9 transmet la v\u00e9rit\u00e9 depuis des pr\u00e9misses vraies, et la correction fournit des pr\u00e9misses vraies.",
@@ -11767,10 +11767,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1261,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle option confond validit\u00e9 et correction ?",
     "options": [
       "Dire qu'un argument est \u00ab sain \u00bb seulement parce qu'il est valide.",
@@ -11788,10 +11788,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1262,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Un chercheur dit : \u00ab Notre mod\u00e8le est sain. \u00bb En cours de logique, la lecture la plus charitable est :",
     "options": [
       "Le sch\u00e9ma de raisonnement est valide et les hypoth\u00e8ses sont vraies.",
@@ -11809,10 +11809,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1263,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Pour montrer qu'un argument n'est PAS sain, vous pouvez :",
     "options": [
       "Montrer une pr\u00e9misse fausse ou un raisonnement invalide.",
@@ -11830,10 +11830,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1264,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La correction est plus exigeante que la validit\u00e9 car elle exige aussi :",
     "options": [
       "Que les pr\u00e9misses soient vraies dans le monde r\u00e9el.",
@@ -11851,10 +11851,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1265,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quel cas d\u00e9crit un argument valide mais non sain ?",
     "options": [
       "Un modus ponens, mais une pr\u00e9misse sur le crime est fausse.",
@@ -11872,10 +11872,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1266,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Si vous avez \u00e9tabli la correction, vous avez \u00e9tabli :",
     "options": [
       "\u00c0 la fois la validit\u00e9 et la v\u00e9rit\u00e9 des pr\u00e9misses.",
@@ -11893,10 +11893,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1267,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Un argument sain ne peut pas avoir :",
     "options": [
       "Une pr\u00e9misse fausse (par d\u00e9finition de la correction).",
@@ -11914,10 +11914,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1268,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quiz de philo : les arguments \u00ab sains \u00bb sont l'\u00e9talon car ils combinent :",
     "options": [
       "Une bonne structure avec l'exactitude factuelle des pr\u00e9misses.",
@@ -11935,10 +11935,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1269,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Compl\u00e9tez : Sain = valide + ___",
     "options": [
       "Pr\u00e9misses vraies.",
@@ -11956,10 +11956,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1270,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Laquelle est l'intruse pour la notion de correction ?",
     "options": [
       "L'argument a fait le buzz en ligne.",
@@ -11977,10 +11977,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1271,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Un argument \u00ab SAIN \u00bb est :",
     "options": [
       "Valide + Pr\u00e9misses vraies.",
@@ -11998,10 +11998,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1272,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Audit logiciel : le protocole est correctement impl\u00e9ment\u00e9 et les journaux refl\u00e8tent le trafic r\u00e9el. Cela correspond \u00e0 :",
     "options": [
       "Un raisonnement sain.",
@@ -12019,10 +12019,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1273,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Un \u00e9tudiant dit : \u00ab Toutes les pr\u00e9misses sont vraies, donc l'argument est sain. \u00bb Cela peut encore \u00e9chouer si :",
     "options": [
       "Le sch\u00e9ma d'inf\u00e9rence est invalide.",
@@ -12040,10 +12040,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1274,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Note de tri : la r\u00e8gle th\u00e9rapeutique est appliqu\u00e9e correctement et les faits sont exacts. Cela illustre :",
     "options": [
       "Un raisonnement sain.",
@@ -12061,10 +12061,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1275,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La correction exclut quelle possibilit\u00e9 ?",
     "options": [
       "Un raisonnement valide \u00e0 partir de fausses pr\u00e9misses pr\u00e9sent\u00e9 comme d\u00e9cisif.",
@@ -12082,10 +12082,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1276,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Un argument peut \u00eatre valide mais non sain. Ce que la correction ajoute :",
     "options": [
       "La v\u00e9rit\u00e9 r\u00e9elle des pr\u00e9misses.",
@@ -12103,10 +12103,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1277,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "En une ligne : la correction exige la bonne forme et :",
     "options": [
       "Les bons faits dans les pr\u00e9misses.",
@@ -12124,10 +12124,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1278,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Pourquoi se soucier de la correction, pas seulement de la validit\u00e9 ?",
     "options": [
       "La validit\u00e9 seule peut reposer sur de fausses pr\u00e9misses.",
@@ -12145,10 +12145,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1279,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Un podcast dit qu'un argument est \u00ab sain \u00bb. Les auditeurs attentifs entendent :",
     "options": [
       "Une structure valide avec des pr\u00e9misses vraies.",
@@ -12166,10 +12166,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1280,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Associez : \u00ab toutes les pr\u00e9misses vraies \u00bb + \u00ab forme valide \u00bb =",
     "options": [
       "Argument sain.",
@@ -12187,10 +12187,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1281,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Qu'est-ce qui ruine la correction imm\u00e9diatement ?",
     "options": [
       "Toute pr\u00e9misse fausse dans l'ensemble de soutien.",
@@ -12208,10 +12208,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1282,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La correction concerne :",
     "options": [
       "La justesse de la logique et des faits.",
@@ -12229,10 +12229,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1283,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Un \u00e9tudiant dit : \u00ab C'est valide, donc c'est sain. \u00bb L'erreur :",
     "options": [
       "La validit\u00e9 ne garantit pas des pr\u00e9misses vraies.",
@@ -12250,10 +12250,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1284,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Compl\u00e9tez : pas de pr\u00e9misse fausse + sch\u00e9ma valide \u21d2",
     "options": [
       "Argument sain (et conclusion vraie, la validit\u00e9 donn\u00e9e).",
@@ -12271,10 +12271,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1285,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Rapport d'ing\u00e9nierie : les calculs suivent le bon th\u00e9or\u00e8me, mais une valeur mesur\u00e9e est mal saisie. La preuve est :",
     "options": [
       "Valide mais non saine.",
@@ -12292,10 +12292,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1286,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La correction est plus stricte que la validit\u00e9 comme un repas sain est plus strict qu'",
     "options": [
       "Une recette jolie sur le papier mais avec des ingr\u00e9dients avari\u00e9s.",
@@ -12313,10 +12313,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1287,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Le meilleur portrait d'un argument valide mais non sain :",
     "options": [
       "Une forme logique correcte avec au moins une pr\u00e9misse fausse.",
@@ -12334,10 +12334,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1288,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quand les philosophes disent qu'un argument est sain, ils ne veulent pas dire seulement :",
     "options": [
       "Qu'il est persuasif ou largement cru.",
@@ -12355,10 +12355,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1289,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Les pr\u00e9misses d'un argument sain sont :",
     "options": [
       "Vraies dans le monde r\u00e9el, pas seulement suppos\u00e9es pour un exercice.",
@@ -12376,10 +12376,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1290,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La validit\u00e9 est la serrure ; la correction v\u00e9rifie aussi :",
     "options": [
       "Si les cl\u00e9s (pr\u00e9misses) sont r\u00e9elles.",
@@ -12397,10 +12397,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1291,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Si vous r\u00e9futez une pr\u00e9misse, vous montrez que l'argument est :",
     "options": [
       "Non sain (peut-\u00eatre encore valide).",
@@ -12418,10 +12418,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1292,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Correction \u2261",
     "options": [
       "Valide \u2227 pr\u00e9misses vraies.",
@@ -12439,10 +12439,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1293,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Un argument sain \u00e0 conclusion controvers\u00e9e exige encore :",
     "options": [
       "Des pr\u00e9misses vraies et une forme valide \u2014 la controverse ne suffit pas.",
@@ -12460,10 +12460,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1294,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quel couple suffit pour la correction ?",
     "options": [
       "Argument valide + toutes les pr\u00e9misses vraies.",
@@ -12481,10 +12481,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1295,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Contrairement \u00e0 la seule validit\u00e9, la correction ancre l'argument dans :",
     "options": [
       "La v\u00e9rit\u00e9 r\u00e9elle de ses pr\u00e9misses.",
@@ -12502,10 +12502,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1296,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Un critique dit : \u00ab Votre logique est bonne ; vos faits ne le sont pas. \u00bb Il attaque :",
     "options": [
       "La correction (v\u00e9rit\u00e9 des pr\u00e9misses), tout en accordant la validit\u00e9.",
@@ -12523,10 +12523,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1297,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "En bref : la correction demande \u00ab est-ce que \u00e7a suit ? \u00bb et :",
     "options": [
       "\u00ab Les points de d\u00e9part sont-ils vrais ? \u00bb",
@@ -12544,10 +12544,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1298,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Quelle recette m\u00e8ne \u00e0 la correction ?",
     "options": [
       "V\u00e9rifier d'abord la validit\u00e9, puis chaque pr\u00e9misse dans le monde.",
@@ -12565,10 +12565,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1299,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "Si les pr\u00e9misses sont vraies et l'argument valide, l'argument est :",
     "options": [
       "Sain.",
@@ -12586,10 +12586,10 @@ export const LEVEL_0_GEN_FR: Question[] = [
   {
     "id": 1300,
     "level": 0,
-    "persona_stage": PersonaStage.TADPOLE,
+    "persona_stage": "Tadpole",
     "concept": "soundness-definition",
     "difficulty": 1,
-    "subLevel": SubLevel.EXPERT,
+    "subLevel": "Expert",
     "question": "La correction comble l'\u00e9cart entre \u00ab bonne forme \u00bb et :",
     "options": [
       "\u00ab contenu vrai \u00bb dans les pr\u00e9misses.",

@@ -80,9 +80,10 @@ export default defineConfig(({ mode }) => {
           manualChunks(id) {
             if (id.includes('node_modules/react-syntax-highlighter')) return 'syntax-highlighter';
             if (id.includes('node_modules/react') || id.includes('node_modules/react-dom')) return 'react-vendor';
-            if (id.includes('/src/data/questions/')) return 'questions-data';
-            if (id.includes('/src/data/detailedExplanationsTranslations.ts')) return 'detailed-explanations';
-            if (id.includes('/src/data/shortExplanationsTranslations.ts')) return 'short-explanations';
+            // Split fallacy questions per-level for smaller initial load
+            const levelMatch = id.match(/\/src\/data\/questions\/fallaciesL(\d+)\.ts/);
+            if (levelMatch) return `fallacies-level-${levelMatch[1]}`;
+            if (id.includes('/src/data/questions/')) return 'other-data';
           }
         }
       }
