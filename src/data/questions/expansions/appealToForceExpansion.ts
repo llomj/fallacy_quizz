@@ -1,7 +1,7 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["The manager says, 'Agree with the new schedule or start looking for another job,' so Carla nods even though she has concerns.", "Le manager dit : « Accepte le nouvel horaire ou cherche un autre travail », alors Carla acquiesce même si elle a des réserves."],
+  ["The supervisor says, 'Skip lunch or explain yourself to HR,' so Carla nods even though she is hungry.", "Le superviseur dit : « Saute le déjeuner ou explique-toi aux ressources humaines », alors Carla acquiesce même si elle a faim."],
   ["A coach says, 'If you question my training plan, you are off the team,' so Ben stays quiet.", "Un entraîneur dit : « Si tu remets en question mon plan d'entraînement, tu sors de l'équipe », alors Ben se tait."],
   ["The landlord says the rent increase is final and anyone who complains can move out tomorrow, so Maya gives up.", "Le propriétaire dit que l'augmentation du loyer est définitive et que ceux qui se plaignent peuvent partir demain, alors Maya abandonne."],
   ["A parent says, 'Eat your vegetables or you will be grounded,' instead of explaining why the food matters.", "Un parent dit : « Mange tes légumes ou tu seras puni », au lieu d'expliquer pourquoi cet aliment est important."],

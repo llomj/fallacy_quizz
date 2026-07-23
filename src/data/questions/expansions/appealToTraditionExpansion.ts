@@ -1,7 +1,7 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["The bakery says the old recipe must be best because it has been used for fifty years.", "La boulangerie dit que l'ancienne recette doit être la meilleure parce qu'elle est utilisée depuis cinquante ans."],
+  ["The bakery keeps the same frosting recipe because the founder used it in 1985.", "La boulangerie garde la même recette de glaçage parce que le fondateur l'utilisait en 1985."],
   ["Maya refuses the new filing app because her team always used paper folders.", "Maya refuse la nouvelle application de classement parce que son équipe a toujours utilisé des dossiers papier."],
   ["Theo says the family always eats dinner at 7, so changing the time would be wrong.", "Theo dit que la famille dîne toujours à 19 h, donc changer l'heure serait mal."],
   ["A neighbor rejects the updated mailbox because the old one has been there since childhood.", "Un voisin rejette la boîte aux lettres modernisée parce que l'ancienne est là depuis son enfance."],
