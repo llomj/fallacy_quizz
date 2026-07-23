@@ -4,6 +4,7 @@ import { LEVEL_0_GEN_EN, LEVEL_0_GEN_FR } from './data/questions/level0Data';
 import { AD_HOMINEM_EXPANSION_EN, AD_HOMINEM_EXPANSION_FR } from './data/questions/expansions/adHominemExpansion';
 import { AFFIRMATIVE_FROM_NEGATIVE_EXPANSION_EN, AFFIRMATIVE_FROM_NEGATIVE_EXPANSION_FR } from './data/questions/expansions/affirmativeConclusionFromNegativePremisesExpansion';
 import { AFFIRMING_CONSEQUENT_EXPANSION_EN, AFFIRMING_CONSEQUENT_EXPANSION_FR } from './data/questions/expansions/affirmingConsequentExpansion';
+import { AMPHIBOLY_EXPANSION_EN, AMPHIBOLY_EXPANSION_FR } from './data/questions/expansions/amphibolyExpansion';
 
 const LEVEL_0_ID_START = 1001;
 const LEVEL_0_ID_END = 1300;
@@ -53,11 +54,11 @@ function createQuestionBank(fallacies: Question[], foundations: Question[]): Que
 }
 
 export const QUESTIONS_BANK_EN: Question[] = createQuestionBank(
-  [...FALLACY_QUESTIONS_EN, ...AD_HOMINEM_EXPANSION_EN, ...AFFIRMATIVE_FROM_NEGATIVE_EXPANSION_EN, ...AFFIRMING_CONSEQUENT_EXPANSION_EN],
+  [...FALLACY_QUESTIONS_EN, ...AD_HOMINEM_EXPANSION_EN, ...AFFIRMATIVE_FROM_NEGATIVE_EXPANSION_EN, ...AFFIRMING_CONSEQUENT_EXPANSION_EN, ...AMPHIBOLY_EXPANSION_EN],
   LEVEL_0_GEN_EN
 );
 export const QUESTIONS_BANK_FR: Question[] = createQuestionBank(
-  [...FALLACY_QUESTIONS_FR, ...AD_HOMINEM_EXPANSION_FR, ...AFFIRMATIVE_FROM_NEGATIVE_EXPANSION_FR, ...AFFIRMING_CONSEQUENT_EXPANSION_FR],
+  [...FALLACY_QUESTIONS_FR, ...AD_HOMINEM_EXPANSION_FR, ...AFFIRMATIVE_FROM_NEGATIVE_EXPANSION_FR, ...AFFIRMING_CONSEQUENT_EXPANSION_FR, ...AMPHIBOLY_EXPANSION_FR],
   LEVEL_0_GEN_FR
 );
 
