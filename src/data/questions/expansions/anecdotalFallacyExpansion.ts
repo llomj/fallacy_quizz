@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['My uncle ate fried food every day and lived to ninety, so fried food cannot harm your health.', 'Mon oncle a mangé des aliments frits chaque jour et a vécu jusqu’à quatre-vingt-dix ans, donc la friture ne peut pas nuire à la santé.'],
-  ['This phone brand must be unreliable because my cousin bought one that broke.', 'Cette marque de téléphone est forcément peu fiable, car celui de mon cousin est tombé en panne.'],
+  ['My uncle ate fried food every day and lived to ninety, so fried food cannot harm your health at all.', 'Mon oncle a mangé des aliments frits chaque jour et a vécu jusqu’à quatre-vingt-dix ans, donc la friture ne peut nuire en rien à la santé.'],
+  ['This phone brand must be unreliable because my cousin bought one that broke after a week of selfies.', 'Cette marque de téléphone est forcément peu fiable, car celui de mon cousin est tombé en panne après une semaine de selfies.'],
   ['Online classes never work; I took one course and found it boring.', 'Les cours en ligne ne fonctionnent jamais : j’en ai suivi un et je l’ai trouvé ennuyeux.'],
   ['Seat belts are unnecessary because my neighbor survived a crash without wearing one.', 'Les ceintures de sécurité sont inutiles puisque mon voisin a survécu à un accident sans en porter.'],
   ['That restaurant is always excellent; my dinner there last Tuesday was perfect.', 'Ce restaurant est toujours excellent : mon dîner de mardi dernier était parfait.'],

@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["Everyone in the office starts buying the same lunch, so Mina assumes it must be the best lunch.", "Tout le bureau commence a acheter le meme dejeuner, alors Mina suppose que c'est forcement le meilleur."],
-  ["Jay joins the club only because all his friends joined it.", "Jay rejoint le club uniquement parce que tous ses amis l'ont rejoint."],
+  ["Everyone in the office starts buying the same lunch, so Mina assumes it must be the best lunch, even though she has never tasted it.", "Tout le bureau commence a acheter le meme dejeuner, alors Mina suppose que c'est forcement le meilleur, meme si elle ne l'a jamais goute."],
+  ["Jay joins the club only because all his friends joined it, not because he likes the club.", "Jay rejoint le club uniquement parce que tous ses amis l'ont rejoint, pas parce qu'il aime le club."],
   ["Ava says the new cafe is great because the line is longer there than anywhere else.", "Ava dit que le nouveau cafe est genial parce que la file y est plus longue qu'ailleurs."],
   ["Noah buys the sneakers after seeing half his class wear them.", "Noah achete les baskets apres avoir vu la moitie de sa classe les porter."],
   ["Leah wants the streaming service just because everyone at school is talking about it.", "Leah veut l'abonnement de streaming juste parce que tout le monde a l'ecole en parle."],
