@@ -10,7 +10,9 @@
     "cognitiveBiasOrEffectTargets": 69,
     "lawOrReasoningPrincipleTargets": 7,
     "requestedAdditionalPairs": 8400,
-    "requestedAdditionalRecordsAcrossEnglishAndFrench": 16800
+    "requestedAdditionalRecordsAcrossEnglishAndFrench": 16800,
+    "canonicalFrenchLabelsApproved": 168,
+    "canonicalFrenchLabelsPending": 0
   },
   "excludedLabels": [
     {
@@ -129,7 +131,7 @@
     {
       "canonicalEnglishLabel": "Ad Hominem",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Ad Hominem": 120,
         "No True Scotsman": 1,
@@ -400,12 +402,13 @@
         10056,
         10065,
         10077
-      ]
+      ],
+      "canonicalFrenchLabel": "Attaque ad hominem"
     },
     {
       "canonicalEnglishLabel": "Affirmative Conclusion from Negative Premises",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Affirmative Conclusion from Negative Premises": 100
       },
@@ -620,12 +623,13 @@
         6400,
         6401,
         6402
-      ]
+      ],
+      "canonicalFrenchLabel": "Conclusion affirmative à partir de prémisses négatives"
     },
     {
       "canonicalEnglishLabel": "Affirming the Consequent",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Affirming the Consequent": 99,
         "Affirmating the Consequent": 1,
@@ -845,12 +849,13 @@
         5201,
         5202,
         10104
-      ]
+      ],
+      "canonicalFrenchLabel": "Affirmation du conséquent"
     },
     {
       "canonicalEnglishLabel": "Amphiboly",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Self-Sealing Argument": 3,
         "Amphiboly": 100
@@ -1072,12 +1077,13 @@
         4200,
         4201,
         4202
-      ]
+      ],
+      "canonicalFrenchLabel": "Amphibologie"
     },
     {
       "canonicalEnglishLabel": "Anchoring Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "False Equivalence": 3
       },
@@ -1098,12 +1104,13 @@
         178,
         179,
         180
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais d'ancrage"
     },
     {
       "canonicalEnglishLabel": "Anecdotal Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Popularity": 3,
         "Fallacy of necessity": 3,
@@ -1145,12 +1152,13 @@
         10072,
         10082,
         10120
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme anecdotique"
     },
     {
       "canonicalEnglishLabel": "Apophenia",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Historian's Fallacy": 3
       },
@@ -1171,12 +1179,13 @@
         217,
         218,
         219
-      ]
+      ],
+      "canonicalFrenchLabel": "Apophénie"
     },
     {
       "canonicalEnglishLabel": "Appeal to Authority",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Abusive Ad Hominem": 3,
         "Appeal to Authority": 120,
@@ -1464,12 +1473,13 @@
         10098,
         10111,
         10118
-      ]
+      ],
+      "canonicalFrenchLabel": "Appel à l'autorité"
     },
     {
       "canonicalEnglishLabel": "Appeal to Emotion",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to False Authority": 3,
         "Fallacy of four terms": 3,
@@ -1957,12 +1967,13 @@
         10090,
         10095,
         10112
-      ]
+      ],
+      "canonicalFrenchLabel": "Appel à l'émotion"
     },
     {
       "canonicalEnglishLabel": "Appeal to Fear",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Anonymous Authority": 3,
         "Illicit major": 3,
@@ -1998,12 +2009,13 @@
         477,
         10029,
         10103
-      ]
+      ],
+      "canonicalFrenchLabel": "Appel à la peur"
     },
     {
       "canonicalEnglishLabel": "Appeal to Force",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Existential fallacy": 3
       },
@@ -2024,12 +2036,13 @@
         457,
         458,
         459
-      ]
+      ],
+      "canonicalFrenchLabel": "Appel à la force"
     },
     {
       "canonicalEnglishLabel": "Appeal to Ignorance",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Tradition": 3,
         "Illicit minor": 3,
@@ -2062,12 +2075,13 @@
         479,
         480,
         10124
-      ]
+      ],
+      "canonicalFrenchLabel": "Appel à l'ignorance"
     },
     {
       "canonicalEnglishLabel": "Appeal to Incredulity",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Novelty": 3,
         "Division Fallacy": 3,
@@ -2113,12 +2127,13 @@
         589,
         590,
         591
-      ]
+      ],
+      "canonicalFrenchLabel": "Appel à l'incrédulité"
     },
     {
       "canonicalEnglishLabel": "Appeal to Nature",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Fallacy of exclusive premises": 3,
         "Argument from Numbers": 1
@@ -2143,12 +2158,13 @@
         461,
         462,
         10038
-      ]
+      ],
+      "canonicalFrenchLabel": "Appel à la nature"
     },
     {
       "canonicalEnglishLabel": "Appeal to Novelty",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Tu Quoque": 3,
         "Denying the antecedent": 3
@@ -2177,12 +2193,13 @@
         466,
         467,
         468
-      ]
+      ],
+      "canonicalFrenchLabel": "Appel à la nouveauté"
     },
     {
       "canonicalEnglishLabel": "Appeal to Popularity",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Authority": 4,
         "Affirming the consequent": 3,
@@ -2433,12 +2450,13 @@
         10096,
         10117,
         10121
-      ]
+      ],
+      "canonicalFrenchLabel": "Appel à la popularité"
     },
     {
       "canonicalEnglishLabel": "Appeal to Tradition",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Circumstantial Ad Hominem": 3,
         "Affirming the disjunct": 3,
@@ -2474,12 +2492,13 @@
         465,
         10037,
         10127
-      ]
+      ],
+      "canonicalFrenchLabel": "Appel à la tradition"
     },
     {
       "canonicalEnglishLabel": "Argument from Numbers",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Circular Reasoning": 1
       },
@@ -2496,12 +2515,13 @@
       ],
       "gameplayIds": [
         10014
-      ]
+      ],
+      "canonicalFrenchLabel": "Appel au nombre"
     },
     {
       "canonicalEnglishLabel": "Availability Heuristic",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to the Majority": 3,
         "Quantifier shift": 3
@@ -2530,12 +2550,13 @@
         487,
         488,
         489
-      ]
+      ],
+      "canonicalFrenchLabel": "Heuristique de disponibilité"
     },
     {
       "canonicalEnglishLabel": "Bandwagon",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Bandwagon": 13
       },
@@ -2576,12 +2597,13 @@
         9107,
         9108,
         9122
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de mode"
     },
     {
       "canonicalEnglishLabel": "Barnum Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Halo Effect": 3
       },
@@ -2602,12 +2624,13 @@
         211,
         212,
         213
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet Barnum"
     },
     {
       "canonicalEnglishLabel": "Base Rate Neglect",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Bandwagon Fallacy": 3,
         "Masked Man Fallacy": 3,
@@ -2850,12 +2873,13 @@
         7101,
         7102,
         7249
-      ]
+      ],
+      "canonicalFrenchLabel": "Négligence du taux de base"
     },
     {
       "canonicalEnglishLabel": "Begging the Question",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Emotion": 3,
         "Vicious circle": 3
@@ -2884,12 +2908,13 @@
         493,
         494,
         495
-      ]
+      ],
+      "canonicalFrenchLabel": "Pétition de principe"
     },
     {
       "canonicalEnglishLabel": "Ben Franklin Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Overgeneralization": 3
       },
@@ -2910,12 +2935,13 @@
         202,
         203,
         204
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet Benjamin Franklin"
     },
     {
       "canonicalEnglishLabel": "Biased Sample",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Fear": 3,
         "Double standard": 3
@@ -2944,12 +2970,13 @@
         496,
         497,
         498
-      ]
+      ],
+      "canonicalFrenchLabel": "Échantillon biaisé"
     },
     {
       "canonicalEnglishLabel": "Brandolini's Law",
       "category": "law_or_reasoning_principle",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Regression to the Mean Fallacy": 3
       },
@@ -2970,12 +2997,13 @@
         277,
         278,
         279
-      ]
+      ],
+      "canonicalFrenchLabel": "Loi de Brandolini"
     },
     {
       "canonicalEnglishLabel": "Cherry Picking",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Pity": 3,
         "Equivocation": 3,
@@ -3217,12 +3245,13 @@
         10052,
         10087,
         10093
-      ]
+      ],
+      "canonicalFrenchLabel": "Sélection des faits"
     },
     {
       "canonicalEnglishLabel": "Choice-Supportive Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Spotlight Fallacy": 3
       },
@@ -3243,12 +3272,13 @@
         301,
         302,
         303
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais de soutien au choix"
     },
     {
       "canonicalEnglishLabel": "Circular Reasoning",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Flattery": 3,
         "Ambiguity fallacy": 3,
@@ -3523,12 +3553,13 @@
         10086,
         10089,
         10122
-      ]
+      ],
+      "canonicalFrenchLabel": "Raisonnement circulaire"
     },
     {
       "canonicalEnglishLabel": "Clustering Illusion",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Middle Ground Fallacy": 3
       },
@@ -3549,12 +3580,13 @@
         238,
         239,
         240
-      ]
+      ],
+      "canonicalFrenchLabel": "Illusion des séries"
     },
     {
       "canonicalEnglishLabel": "Composition Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Spite": 3,
         "Sunk cost fallacy": 3,
@@ -3588,12 +3620,13 @@
         509,
         510,
         10105
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme de composition"
     },
     {
       "canonicalEnglishLabel": "Confirmation Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Nature": 3,
         "Gambler's fallacy": 3
@@ -3622,12 +3655,13 @@
         514,
         515,
         516
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais de confirmation"
     },
     {
       "canonicalEnglishLabel": "Consistency Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Straw Man": 3
       },
@@ -3648,12 +3682,13 @@
         304,
         305,
         306
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais de cohérence"
     },
     {
       "canonicalEnglishLabel": "Continuum Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Ignorance": 3,
         "Base rate neglect": 3
@@ -3682,12 +3717,13 @@
         517,
         518,
         519
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme du continuum"
     },
     {
       "canonicalEnglishLabel": "Correlation Equals Causation",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Incredulity": 3,
         "Clustering illusion": 3
@@ -3716,12 +3752,13 @@
         520,
         521,
         522
-      ]
+      ],
+      "canonicalFrenchLabel": "Confusion entre corrélation et causalité"
     },
     {
       "canonicalEnglishLabel": "Cryptomnesia",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Suppressed Evidence": 3
       },
@@ -3742,12 +3779,13 @@
         307,
         308,
         309
-      ]
+      ],
+      "canonicalFrenchLabel": "Cryptomnésie"
     },
     {
       "canonicalEnglishLabel": "Cum Hoc",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Cum Hoc": 100,
         "Hasty Generalization": 1
@@ -3966,12 +4004,13 @@
         3201,
         3202,
         10026
-      ]
+      ],
+      "canonicalFrenchLabel": "Cum hoc"
     },
     {
       "canonicalEnglishLabel": "Data Dredging",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Illusory Correlation": 3
       },
@@ -3992,12 +4031,13 @@
         223,
         224,
         225
-      ]
+      ],
+      "canonicalFrenchLabel": "Exploration abusive des données"
     },
     {
       "canonicalEnglishLabel": "Denying the Antecedent",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Denying the Antecedent": 100
       },
@@ -4212,12 +4252,13 @@
         5300,
         5301,
         5302
-      ]
+      ],
+      "canonicalFrenchLabel": "Négation de l'antécédent"
     },
     {
       "canonicalEnglishLabel": "Division Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Consequences": 3,
         "Concorde fallacy": 3
@@ -4246,12 +4287,13 @@
         511,
         512,
         513
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme de division"
     },
     {
       "canonicalEnglishLabel": "Dunning-Kruger Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Fallacy Fallacy": 3
       },
@@ -4272,12 +4314,13 @@
         190,
         191,
         192
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet Dunning-Kruger"
     },
     {
       "canonicalEnglishLabel": "Ecological Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Special Pleading": 3
       },
@@ -4298,12 +4341,13 @@
         298,
         299,
         300
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme écologique"
     },
     {
       "canonicalEnglishLabel": "Egocentric Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Texas Sharpshooter Fallacy": 3
       },
@@ -4324,12 +4368,13 @@
         310,
         311,
         312
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais égocentrique"
     },
     {
       "canonicalEnglishLabel": "Endowment Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "False Premise": 3
       },
@@ -4350,12 +4395,13 @@
         184,
         185,
         186
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de dotation"
     },
     {
       "canonicalEnglishLabel": "Equivocation",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Equivocation": 101
       },
@@ -4573,12 +4619,13 @@
         4101,
         4102,
         10123
-      ]
+      ],
+      "canonicalFrenchLabel": "Équivoque"
     },
     {
       "canonicalEnglishLabel": "Etymological Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Retroactive Causation": 3
       },
@@ -4599,12 +4646,13 @@
         286,
         287,
         288
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme étymologique"
     },
     {
       "canonicalEnglishLabel": "Exclusive Premises",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Exclusive Premises": 100
       },
@@ -4819,12 +4867,13 @@
         6300,
         6301,
         6302
-      ]
+      ],
+      "canonicalFrenchLabel": "Prémisses exclusives"
     },
     {
       "canonicalEnglishLabel": "Existential Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Sophisme existentiel": 100
       },
@@ -5039,12 +5088,13 @@
         6500,
         6501,
         6502
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme existentiel"
     },
     {
       "canonicalEnglishLabel": "Fallacy Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Faith": 3,
         "Loss aversion": 3
@@ -5073,12 +5123,13 @@
         538,
         539,
         540
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme du sophisme"
     },
     {
       "canonicalEnglishLabel": "False Attribution",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Common Sense": 3,
         "Hindsight bias": 3
@@ -5107,12 +5158,13 @@
         526,
         527,
         528
-      ]
+      ],
+      "canonicalFrenchLabel": "Fausse attribution"
     },
     {
       "canonicalEnglishLabel": "False Balance",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Intuition": 3,
         "Anchoring bias": 3
@@ -5141,12 +5193,13 @@
         529,
         530,
         531
-      ]
+      ],
+      "canonicalFrenchLabel": "Faux équilibre"
     },
     {
       "canonicalEnglishLabel": "False Consensus Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Third Variable Fallacy": 3
       },
@@ -5167,12 +5220,13 @@
         313,
         314,
         315
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de faux consensus"
     },
     {
       "canonicalEnglishLabel": "False Dilemma",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Personal Experience": 3,
         "Framing effect": 3,
@@ -5440,12 +5494,13 @@
         10043,
         10109,
         10126
-      ]
+      ],
+      "canonicalFrenchLabel": "Faux dilemme"
     },
     {
       "canonicalEnglishLabel": "False Equivalence",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Belief": 3,
         "Endowment effect": 3
@@ -5474,12 +5529,13 @@
         535,
         536,
         537
-      ]
+      ],
+      "canonicalFrenchLabel": "Fausse équivalence"
     },
     {
       "canonicalEnglishLabel": "False Memories",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Non Sequitur": 3
       },
@@ -5500,12 +5556,13 @@
         253,
         254,
         255
-      ]
+      ],
+      "canonicalFrenchLabel": "Faux souvenirs"
     },
     {
       "canonicalEnglishLabel": "Faulty Generalization",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Motive": 3,
         "Dunning-Kruger effect": 3
@@ -5534,12 +5591,13 @@
         541,
         542,
         543
-      ]
+      ],
+      "canonicalFrenchLabel": "Généralisation fautive"
     },
     {
       "canonicalEnglishLabel": "Focusing Illusion",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Undistributed Middle": 3
       },
@@ -5560,12 +5618,13 @@
         316,
         317,
         318
-      ]
+      ],
+      "canonicalFrenchLabel": "Illusion de focalisation"
     },
     {
       "canonicalEnglishLabel": "Four-Term Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Four-Term Fallacy": 100
       },
@@ -5780,12 +5839,13 @@
         5500,
         5501,
         5502
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme des quatre termes"
     },
     {
       "canonicalEnglishLabel": "Framing Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "False Precision": 3,
         "Framing Effects": 125
@@ -6059,12 +6119,13 @@
         8375,
         8376,
         8377
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de cadrage"
     },
     {
       "canonicalEnglishLabel": "Frequency Illusion",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Unfalsifiable Claim": 3
       },
@@ -6085,12 +6146,13 @@
         319,
         320,
         321
-      ]
+      ],
+      "canonicalFrenchLabel": "Illusion de fréquence"
     },
     {
       "canonicalEnglishLabel": "Gambler's Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Loaded Question": 3,
         "Gambler's Fallacy": 100,
@@ -6317,12 +6379,13 @@
         7201,
         7202,
         10053
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme du joueur"
     },
     {
       "canonicalEnglishLabel": "Genetic Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Hypocrisy": 3,
         "Planning fallacy": 3,
@@ -6355,12 +6418,13 @@
         545,
         546,
         10097
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme génétique"
     },
     {
       "canonicalEnglishLabel": "Gish Gallop",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Regression Fallacy": 3
       },
@@ -6381,12 +6445,13 @@
         274,
         275,
         276
-      ]
+      ],
+      "canonicalFrenchLabel": "Déluge argumentatif"
     },
     {
       "canonicalEnglishLabel": "Google Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Weak Analogy": 3
       },
@@ -6407,12 +6472,13 @@
         322,
         323,
         324
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet Google"
     },
     {
       "canonicalEnglishLabel": "Groupthink",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Wishful Thinking": 3
       },
@@ -6433,12 +6499,13 @@
         325,
         326,
         327
-      ]
+      ],
+      "canonicalFrenchLabel": "Pensée de groupe"
     },
     {
       "canonicalEnglishLabel": "Guilt by Association",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Force": 3,
         "Zeigarnik effect": 3
@@ -6467,12 +6534,13 @@
         547,
         548,
         549
-      ]
+      ],
+      "canonicalFrenchLabel": "Culpabilité par association"
     },
     {
       "canonicalEnglishLabel": "Halo Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Threat": 3,
         "IKEA effect": 3
@@ -6501,12 +6569,13 @@
         550,
         551,
         552
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de halo"
     },
     {
       "canonicalEnglishLabel": "Hanlon's Razor",
       "category": "law_or_reasoning_principle",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Poisoning the Well": 3
       },
@@ -6527,12 +6596,13 @@
         265,
         266,
         267
-      ]
+      ],
+      "canonicalFrenchLabel": "Rasoir de Hanlon"
     },
     {
       "canonicalEnglishLabel": "Hard-Easy Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Zero-Sum Fallacy": 3
       },
@@ -6553,12 +6623,13 @@
         328,
         329,
         330
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet difficile-facile"
     },
     {
       "canonicalEnglishLabel": "Hasty Generalization",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Hasty Generalization": 216,
         "Straw Man": 2,
@@ -7053,12 +7124,13 @@
         10113,
         10114,
         10115
-      ]
+      ],
+      "canonicalFrenchLabel": "Généralisation hâtive"
     },
     {
       "canonicalEnglishLabel": "Herd Mentality",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Loki's Wager": 3
       },
@@ -7079,12 +7151,13 @@
         331,
         332,
         333
-      ]
+      ],
+      "canonicalFrenchLabel": "Mentalité de troupeau"
     },
     {
       "canonicalEnglishLabel": "Hindsight Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Moralistic Fallacy": 3,
         "Gish Gallop": 3
@@ -7113,12 +7186,13 @@
         334,
         335,
         336
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais rétrospectif"
     },
     {
       "canonicalEnglishLabel": "Historian's Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Loyalty": 3,
         "Ben Franklin effect": 3
@@ -7147,12 +7221,13 @@
         553,
         554,
         555
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme de l'historien"
     },
     {
       "canonicalEnglishLabel": "Hitchens's Razor",
       "category": "law_or_reasoning_principle",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Red Herring": 3
       },
@@ -7173,12 +7248,13 @@
         271,
         272,
         273
-      ]
+      ],
+      "canonicalFrenchLabel": "Rasoir de Hitchens"
     },
     {
       "canonicalEnglishLabel": "Hot Hand Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Patriotism": 3,
         "Brandolini's Law": 3,
@@ -7216,12 +7292,13 @@
         556,
         557,
         558
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme de la main chaude"
     },
     {
       "canonicalEnglishLabel": "Identifiable Victim Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "The Kettle Logic": 3
       },
@@ -7242,12 +7319,13 @@
         340,
         341,
         342
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de la victime identifiable"
     },
     {
       "canonicalEnglishLabel": "IKEA Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Sweeping Generalization": 3
       },
@@ -7268,12 +7346,13 @@
         199,
         200,
         201
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet IKEA"
     },
     {
       "canonicalEnglishLabel": "Illicit Major",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Illicit Major": 100
       },
@@ -7488,12 +7567,13 @@
         6100,
         6101,
         6102
-      ]
+      ],
+      "canonicalFrenchLabel": "Terme majeur illicite"
     },
     {
       "canonicalEnglishLabel": "Illicit Minor",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Illicit Minor": 100
       },
@@ -7708,12 +7788,13 @@
         6200,
         6201,
         6202
-      ]
+      ],
+      "canonicalFrenchLabel": "Terme mineur illicite"
     },
     {
       "canonicalEnglishLabel": "Illusion of Control",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Moving the Goalposts": 3
       },
@@ -7734,12 +7815,13 @@
         343,
         344,
         345
-      ]
+      ],
+      "canonicalFrenchLabel": "Illusion de contrôle"
     },
     {
       "canonicalEnglishLabel": "Illusion of Transparency",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Etymological Fallacy": 3
       },
@@ -7760,12 +7842,13 @@
         346,
         347,
         348
-      ]
+      ],
+      "canonicalFrenchLabel": "Illusion de transparence"
     },
     {
       "canonicalEnglishLabel": "Illusion of Validity",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Fallacy of Accent": 3
       },
@@ -7786,12 +7869,13 @@
         349,
         350,
         351
-      ]
+      ],
+      "canonicalFrenchLabel": "Illusion de validité"
     },
     {
       "canonicalEnglishLabel": "Illusory Correlation",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Antiquity": 3,
         "Spotlight effect": 3
@@ -7820,12 +7904,13 @@
         559,
         560,
         561
-      ]
+      ],
+      "canonicalFrenchLabel": "Corrélation illusoire"
     },
     {
       "canonicalEnglishLabel": "Impact Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Amphiboly": 3
       },
@@ -7846,12 +7931,13 @@
         352,
         353,
         354
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais d'impact"
     },
     {
       "canonicalEnglishLabel": "Incomplete Comparison",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Anecdotal Fallacy": 3,
         "Barnum effect": 3
@@ -7880,12 +7966,13 @@
         562,
         563,
         564
-      ]
+      ],
+      "canonicalFrenchLabel": "Comparaison incomplète"
     },
     {
       "canonicalEnglishLabel": "Information Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Fallacy of Quoting Out of Context": 3
       },
@@ -7906,12 +7993,13 @@
         355,
         356,
         357
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais d'information"
     },
     {
       "canonicalEnglishLabel": "Innuendo",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Innuendo": 125
       },
@@ -8176,12 +8264,13 @@
         8250,
         8251,
         8252
-      ]
+      ],
+      "canonicalFrenchLabel": "Sous-entendu"
     },
     {
       "canonicalEnglishLabel": "Invalid Syllogism",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Invalid Syllogism": 100
       },
@@ -8396,12 +8485,13 @@
         5100,
         5101,
         5102
-      ]
+      ],
+      "canonicalFrenchLabel": "Syllogisme invalide"
     },
     {
       "canonicalEnglishLabel": "Just-World Hypothesis",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Proof by Assertion": 3
       },
@@ -8422,12 +8512,13 @@
         358,
         359,
         360
-      ]
+      ],
+      "canonicalFrenchLabel": "Hypothèse du monde juste"
     },
     {
       "canonicalEnglishLabel": "Kettle Logic",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Reification": 3
       },
@@ -8448,12 +8539,13 @@
         280,
         281,
         282
-      ]
+      ],
+      "canonicalFrenchLabel": "Logique de la bouilloire"
     },
     {
       "canonicalEnglishLabel": "Loaded Question",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Ridicule": 3,
         "Availability Heuristic": 3,
@@ -8701,12 +8793,13 @@
         4300,
         4301,
         4302
-      ]
+      ],
+      "canonicalFrenchLabel": "Question piège"
     },
     {
       "canonicalEnglishLabel": "Loss Aversion",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "False Representation": 3
       },
@@ -8727,12 +8820,13 @@
         187,
         188,
         189
-      ]
+      ],
+      "canonicalFrenchLabel": "Aversion à la perte"
     },
     {
       "canonicalEnglishLabel": "Mere Exposure Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Genetic Fallacy": 3
       },
@@ -8753,12 +8847,13 @@
         205,
         206,
         207
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de simple exposition"
     },
     {
       "canonicalEnglishLabel": "Middle Ground Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Base Rate Fallacy": 3,
         "Pareidolia": 3
@@ -8787,12 +8882,13 @@
         568,
         569,
         570
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme du juste milieu"
     },
     {
       "canonicalEnglishLabel": "Moralistic Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Begging the Question": 3,
         "Apophenia": 3
@@ -8821,12 +8917,13 @@
         571,
         572,
         573
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme moraliste"
     },
     {
       "canonicalEnglishLabel": "Motte-and-Bailey",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Motte-and-Bailey": 125
       },
@@ -9091,12 +9188,13 @@
         8500,
         8501,
         8502
-      ]
+      ],
+      "canonicalFrenchLabel": "Motte castrale"
     },
     {
       "canonicalEnglishLabel": "Moving the Goalposts",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Relative Privation": 3,
         "Moving Goalposts": 100,
@@ -9323,12 +9421,13 @@
         4501,
         4502,
         10063
-      ]
+      ],
+      "canonicalFrenchLabel": "Déplacement des critères"
     },
     {
       "canonicalEnglishLabel": "Naturalistic Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Biased Sample": 3,
         "Selection bias": 3
@@ -9357,12 +9456,13 @@
         574,
         575,
         576
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme naturaliste"
     },
     {
       "canonicalEnglishLabel": "Negativity Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Vacuous Truth": 3
       },
@@ -9383,12 +9483,13 @@
         361,
         362,
         363
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais de négativité"
     },
     {
       "canonicalEnglishLabel": "Neglecting Confounders",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Neglecting Confounders": 100
       },
@@ -9603,12 +9704,13 @@
         3500,
         3501,
         3502
-      ]
+      ],
+      "canonicalFrenchLabel": "Négligence des facteurs de confusion"
     },
     {
       "canonicalEnglishLabel": "Nirvana Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Cherry Picking": 3,
         "Sampling bias": 3
@@ -9637,12 +9739,13 @@
         577,
         578,
         579
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme du nirvana"
     },
     {
       "canonicalEnglishLabel": "No True Scotsman",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Circular Reasoning": 3,
         "Data dredging": 3,
@@ -9675,12 +9778,13 @@
         581,
         582,
         10020
-      ]
+      ],
+      "canonicalFrenchLabel": "Aucun vrai Écossais"
     },
     {
       "canonicalEnglishLabel": "Non Sequitur",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Complex Question": 3,
         "P-hacking": 3
@@ -9709,12 +9813,13 @@
         583,
         584,
         585
-      ]
+      ],
+      "canonicalFrenchLabel": "Non sequitur"
     },
     {
       "canonicalEnglishLabel": "Occam's Razor Fallacy",
       "category": "law_or_reasoning_principle",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Prosecutor's Fallacy": 3
       },
@@ -9735,12 +9840,13 @@
         268,
         269,
         270
-      ]
+      ],
+      "canonicalFrenchLabel": "Mauvais usage du rasoir d'Occam"
     },
     {
       "canonicalEnglishLabel": "Omission Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Ecological Fallacy": 3
       },
@@ -9761,12 +9867,13 @@
         364,
         365,
         366
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais d'omission"
     },
     {
       "canonicalEnglishLabel": "Optimism Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Ludic Fallacy": 3
       },
@@ -9787,12 +9894,13 @@
         367,
         368,
         369
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais d'optimisme"
     },
     {
       "canonicalEnglishLabel": "Ostrich Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "McNamara Fallacy": 3
       },
@@ -9813,12 +9921,13 @@
         370,
         371,
         372
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet autruche"
     },
     {
       "canonicalEnglishLabel": "Outcome Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Moral Luck": 3
       },
@@ -9839,12 +9948,13 @@
         373,
         374,
         375
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais de résultat"
     },
     {
       "canonicalEnglishLabel": "Overconfidence Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Anthropomorphism": 3
       },
@@ -9865,12 +9975,13 @@
         376,
         377,
         378
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de surconfiance"
     },
     {
       "canonicalEnglishLabel": "Oversimplified Cause",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Oversimplified Cause": 100,
         "Circular Reasoning": 1,
@@ -10092,12 +10203,13 @@
         3402,
         10028,
         10074
-      ]
+      ],
+      "canonicalFrenchLabel": "Cause simplifiée à l'excès"
     },
     {
       "canonicalEnglishLabel": "Package Deal Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Composition Fallacy": 3,
         "Wrong direction": 3
@@ -10126,12 +10238,13 @@
         586,
         587,
         588
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme du tout-en-un"
     },
     {
       "canonicalEnglishLabel": "Pareidolia",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Horn Effect": 3
       },
@@ -10152,12 +10265,13 @@
         214,
         215,
         216
-      ]
+      ],
+      "canonicalFrenchLabel": "Paréidolie"
     },
     {
       "canonicalEnglishLabel": "Pessimism Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Psychologist's Fallacy": 3
       },
@@ -10178,12 +10292,13 @@
         379,
         380,
         381
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais de pessimisme"
     },
     {
       "canonicalEnglishLabel": "Placebo Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Retrospective Determinism": 3
       },
@@ -10204,12 +10319,13 @@
         382,
         383,
         384
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet placebo"
     },
     {
       "canonicalEnglishLabel": "Planning Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Faulty Generalization": 3
       },
@@ -10230,12 +10346,13 @@
         193,
         194,
         195
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme de planification"
     },
     {
       "canonicalEnglishLabel": "Poisoning the Well",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Confirmation Bias": 3,
         "Fallacy of the single cause": 3,
@@ -10516,12 +10633,13 @@
         8125,
         8126,
         8127
-      ]
+      ],
+      "canonicalFrenchLabel": "Empoisonnement du puits"
     },
     {
       "canonicalEnglishLabel": "Post Hoc",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Post Hoc": 102,
         "Moving Goalposts": 1,
@@ -10759,12 +10877,13 @@
         10088,
         10119,
         10125
-      ]
+      ],
+      "canonicalFrenchLabel": "Post hoc"
     },
     {
       "canonicalEnglishLabel": "Post-Purchase Rationalization",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Historian's Error": 3
       },
@@ -10785,12 +10904,13 @@
         385,
         386,
         387
-      ]
+      ],
+      "canonicalFrenchLabel": "Rationalisation après achat"
     },
     {
       "canonicalEnglishLabel": "Present Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Line-Drawing Fallacy": 3
       },
@@ -10811,12 +10931,13 @@
         388,
         389,
         390
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais du présent"
     },
     {
       "canonicalEnglishLabel": "Primacy Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Naturalistic Fallacy": 3
       },
@@ -10837,12 +10958,13 @@
         244,
         245,
         246
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de primauté"
     },
     {
       "canonicalEnglishLabel": "Projection Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Fallacy of the Beard": 3
       },
@@ -10863,12 +10985,13 @@
         391,
         392,
         393
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais de projection"
     },
     {
       "canonicalEnglishLabel": "Proof by Assertion",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Shifting the Burden of Proof": 3
       },
@@ -10889,12 +11012,13 @@
         292,
         293,
         294
-      ]
+      ],
+      "canonicalFrenchLabel": "Preuve par affirmation"
     },
     {
       "canonicalEnglishLabel": "Prosecutor's Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Continuum Fallacy": 3,
         "Complex cause": 3,
@@ -11072,12 +11196,13 @@
         7298,
         7300,
         7301
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme du procureur"
     },
     {
       "canonicalEnglishLabel": "Reactance",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Sorites Fallacy": 3
       },
@@ -11098,12 +11223,13 @@
         394,
         395,
         396
-      ]
+      ],
+      "canonicalFrenchLabel": "Réactance"
     },
     {
       "canonicalEnglishLabel": "Recency Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Nirvana Fallacy": 3
       },
@@ -11124,12 +11250,13 @@
         247,
         248,
         249
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de récence"
     },
     {
       "canonicalEnglishLabel": "Red Herring",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Correlation Equals Causation": 3,
         "Joint effect": 3,
@@ -11591,12 +11718,13 @@
         10061,
         10066,
         10110
-      ]
+      ],
+      "canonicalFrenchLabel": "Fausse piste"
     },
     {
       "canonicalEnglishLabel": "Regression Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Causal Oversimplification": 3,
         "Insignificant cause": 3
@@ -11625,12 +11753,13 @@
         601,
         602,
         603
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme de régression"
     },
     {
       "canonicalEnglishLabel": "Regression to the Mean",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Perfect Solution Fallacy": 3
       },
@@ -11651,12 +11780,13 @@
         397,
         398,
         399
-      ]
+      ],
+      "canonicalFrenchLabel": "Régression vers la moyenne"
     },
     {
       "canonicalEnglishLabel": "Reification",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Causal Reductionism": 3,
         "Bad comparison": 3
@@ -11685,12 +11815,13 @@
         604,
         605,
         606
-      ]
+      ],
+      "canonicalFrenchLabel": "Réification"
     },
     {
       "canonicalEnglishLabel": "Restraint Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "If-By-Whiskey": 3
       },
@@ -11711,12 +11842,13 @@
         400,
         401,
         402
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais de retenue"
     },
     {
       "canonicalEnglishLabel": "Reversed Causation",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Incomplete Comparison": 3,
         "Reversed Causation": 100
@@ -11939,12 +12071,13 @@
         3300,
         3301,
         3302
-      ]
+      ],
+      "canonicalFrenchLabel": "Causalité inversée"
     },
     {
       "canonicalEnglishLabel": "Rhyme as Reason Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Shred of Truth Fallacy": 3
       },
@@ -11965,12 +12098,13 @@
         403,
         404,
         405
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de la rime comme raison"
     },
     {
       "canonicalEnglishLabel": "Risk Compensation",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Overwhelming Exception": 3
       },
@@ -11991,12 +12125,13 @@
         406,
         407,
         408
-      ]
+      ],
+      "canonicalFrenchLabel": "Compensation du risque"
     },
     {
       "canonicalEnglishLabel": "Rosy Retrospection",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Thought-Terminating Cliche": 3
       },
@@ -12017,12 +12152,13 @@
         409,
         410,
         411
-      ]
+      ],
+      "canonicalFrenchLabel": "Rétrospection idyllique"
     },
     {
       "canonicalEnglishLabel": "Salience Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Tone Policing": 3
       },
@@ -12043,12 +12179,13 @@
         412,
         413,
         414
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais de saillance"
     },
     {
       "canonicalEnglishLabel": "Sayre's Law",
       "category": "law_or_reasoning_principle",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Perfectionist Fallacy": 3
       },
@@ -12069,12 +12206,13 @@
         259,
         260,
         261
-      ]
+      ],
+      "canonicalFrenchLabel": "Loi de Sayre"
     },
     {
       "canonicalEnglishLabel": "Scarcity Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "No True Scotsman": 3
       },
@@ -12095,12 +12233,13 @@
         250,
         251,
         252
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de rareté"
     },
     {
       "canonicalEnglishLabel": "Selection Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Hot Hand Fallacy": 3,
         "Circular Reasoning": 1
@@ -12125,12 +12264,13 @@
         221,
         222,
         10062
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais de sélection"
     },
     {
       "canonicalEnglishLabel": "Self-Serving Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Traitorous Critic Fallacy": 3
       },
@@ -12151,12 +12291,13 @@
         415,
         416,
         417
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais d'auto-complaisance"
     },
     {
       "canonicalEnglishLabel": "Slippery Slope",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "False Cause": 3,
         "Argument from age": 3,
@@ -12638,12 +12779,13 @@
         10083,
         10106,
         10107
-      ]
+      ],
+      "canonicalFrenchLabel": "Pente glissante"
     },
     {
       "canonicalEnglishLabel": "Social Comparison Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Ergo Ipse": 3
       },
@@ -12664,12 +12806,13 @@
         418,
         419,
         420
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais de comparaison sociale"
     },
     {
       "canonicalEnglishLabel": "Social Proof",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Ipse Dixit": 3
       },
@@ -12690,12 +12833,13 @@
         421,
         422,
         423
-      ]
+      ],
+      "canonicalFrenchLabel": "Preuve sociale"
     },
     {
       "canonicalEnglishLabel": "Special Pleading",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Post Hoc Ergo Propter Hoc": 3,
         "Argument from youth": 3
@@ -12724,12 +12868,13 @@
         610,
         611,
         612
-      ]
+      ],
+      "canonicalFrenchLabel": "Plaidoyer spécial"
     },
     {
       "canonicalEnglishLabel": "Spotlight Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Guilt by Association": 3
       },
@@ -12750,12 +12895,13 @@
         208,
         209,
         210
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de projecteur"
     },
     {
       "canonicalEnglishLabel": "Spotlight Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Cum Hoc Ergo Propter Hoc": 3,
         "Appeal to money": 3
@@ -12784,12 +12930,13 @@
         613,
         614,
         615
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme du projecteur"
     },
     {
       "canonicalEnglishLabel": "Status Quo Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Bulverism": 3
       },
@@ -12810,12 +12957,13 @@
         424,
         425,
         426
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais du statu quo"
     },
     {
       "canonicalEnglishLabel": "Stereotyping",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Chronological Snobbery": 3
       },
@@ -12836,12 +12984,13 @@
         427,
         428,
         429
-      ]
+      ],
+      "canonicalFrenchLabel": "Stéréotypage"
     },
     {
       "canonicalEnglishLabel": "Straw Man",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "False Analogy": 3,
         "Appeal to poverty": 3,
@@ -13106,12 +13255,13 @@
         10007,
         10085,
         10108
-      ]
+      ],
+      "canonicalFrenchLabel": "Homme de paille"
     },
     {
       "canonicalEnglishLabel": "Sturgeon's Law",
       "category": "law_or_reasoning_principle",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Personal Incredulity": 3
       },
@@ -13132,12 +13282,13 @@
         262,
         263,
         264
-      ]
+      ],
+      "canonicalFrenchLabel": "Loi de Sturgeon"
     },
     {
       "canonicalEnglishLabel": "Subadditivity Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Not as bad as": 3
       },
@@ -13158,12 +13309,13 @@
         430,
         431,
         432
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de sous-additivité"
     },
     {
       "canonicalEnglishLabel": "Sunk Cost Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Inconsistent Comparison": 3
       },
@@ -13184,12 +13336,13 @@
         229,
         230,
         231
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme des coûts irrécupérables"
     },
     {
       "canonicalEnglishLabel": "Suppressed Evidence",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "False Attribution": 3,
         "Ad lazarum": 3
@@ -13218,12 +13371,13 @@
         619,
         620,
         621
-      ]
+      ],
+      "canonicalFrenchLabel": "Dissimulation de preuves"
     },
     {
       "canonicalEnglishLabel": "Survivorship Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Reductio ad Hitlerum": 3,
         "Survivorship Bias": 100,
@@ -13453,12 +13607,13 @@
         7502,
         10021,
         10099
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais du survivant"
     },
     {
       "canonicalEnglishLabel": "System Justification",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Godwin's Law": 3
       },
@@ -13479,12 +13634,13 @@
         436,
         437,
         438
-      ]
+      ],
+      "canonicalFrenchLabel": "Justification du système"
     },
     {
       "canonicalEnglishLabel": "Taboo Tradeoff",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Is-Ought Fallacy": 3
       },
@@ -13505,12 +13661,13 @@
         439,
         440,
         441
-      ]
+      ],
+      "canonicalFrenchLabel": "Arbitrage tabou"
     },
     {
       "canonicalEnglishLabel": "Telescoping Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Fact-Value Distinction": 3
       },
@@ -13531,12 +13688,13 @@
         442,
         443,
         444
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de télescopage"
     },
     {
       "canonicalEnglishLabel": "Texas Sharpshooter Fallacy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "False Balance": 3,
         "Ad crumenam": 3
@@ -13565,12 +13723,13 @@
         622,
         623,
         624
-      ]
+      ],
+      "canonicalFrenchLabel": "Sophisme du tireur d'élite texan"
     },
     {
       "canonicalEnglishLabel": "Triviality Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Package Deal Fallacy": 3
       },
@@ -13591,12 +13750,13 @@
         256,
         257,
         258
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet de trivialité"
     },
     {
       "canonicalEnglishLabel": "Undistributed Middle",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "False Consensus Effect": 3,
         "Style over substance": 3,
@@ -13827,12 +13987,13 @@
         5400,
         5401,
         5402
-      ]
+      ],
+      "canonicalFrenchLabel": "Terme moyen non distribué"
     },
     {
       "canonicalEnglishLabel": "Unit Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to closure": 3
       },
@@ -13853,12 +14014,13 @@
         445,
         446,
         447
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais de l'unité"
     },
     {
       "canonicalEnglishLabel": "Vacuous Truth",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Slippery Slope": 3
       },
@@ -13879,12 +14041,13 @@
         295,
         296,
         297
-      ]
+      ],
+      "canonicalFrenchLabel": "Vérité vide"
     },
     {
       "canonicalEnglishLabel": "Vagueness",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Vagueness": 100
       },
@@ -14099,12 +14262,13 @@
         4400,
         4401,
         4402
-      ]
+      ],
+      "canonicalFrenchLabel": "Imprécision"
     },
     {
       "canonicalEnglishLabel": "Weak Analogy",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Appeal to Probability": 3,
         "False Dichotomy": 3,
@@ -14362,12 +14526,13 @@
         10100,
         10102,
         10116
-      ]
+      ],
+      "canonicalFrenchLabel": "Analogie faible"
     },
     {
       "canonicalEnglishLabel": "Weber-Fechner Law",
       "category": "law_or_reasoning_principle",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Argument from silence": 3
       },
@@ -14388,12 +14553,13 @@
         448,
         449,
         450
-      ]
+      ],
+      "canonicalFrenchLabel": "Loi de Weber-Fechner"
     },
     {
       "canonicalEnglishLabel": "Well-Traveled Road Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Argument from ignorance": 3
       },
@@ -14414,12 +14580,13 @@
         451,
         452,
         453
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet du chemin bien connu"
     },
     {
       "canonicalEnglishLabel": "Wishful Thinking",
       "category": "fallacy_or_reasoning_error",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "False Dilemma": 3
       },
@@ -14440,12 +14607,13 @@
         175,
         176,
         177
-      ]
+      ],
+      "canonicalFrenchLabel": "Pensée magique"
     },
     {
       "canonicalEnglishLabel": "Zeigarnik Effect",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Hasty Generalization": 3
       },
@@ -14466,12 +14634,13 @@
         196,
         197,
         198
-      ]
+      ],
+      "canonicalFrenchLabel": "Effet Zeigarnik"
     },
     {
       "canonicalEnglishLabel": "Zero-Risk Bias",
       "category": "cognitive_bias_or_effect",
-      "frenchLabelStatus": "needs_natural_french_review",
+      "frenchLabelStatus": "approved",
       "observedFrenchLabels": {
         "Negative proof": 3
       },
@@ -14492,7 +14661,9 @@
         454,
         455,
         456
-      ]
+      ],
+      "canonicalFrenchLabel": "Biais du risque zéro"
     }
-  ]
+  ],
+  "frenchNormalizationNote": "All new bilingual pairs must use these canonical learner-facing labels. Existing records retain their original labels until migrated."
 }
