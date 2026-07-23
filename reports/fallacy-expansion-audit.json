@@ -15,9 +15,9 @@
     "requestedNewPairsIfEveryRawLabelWereCanonical": 10250,
     "requestedNewRecordsAcrossBothLanguagesIfEveryRawLabelWereCanonical": 20500,
     "legacyCorrectOptionPositionMismatchesBelowId1000": 461,
-    "completedExpansionTargets": 26,
-    "completedNewBilingualPairs": 1300,
-    "remainingNewBilingualPairs": 7100
+    "completedExpansionTargets": 27,
+    "completedNewBilingualPairs": 1350,
+    "remainingNewBilingualPairs": 7050
   },
   "cautions": [
     "Raw correct-answer labels are not yet the canonical fallacy catalogue.",
