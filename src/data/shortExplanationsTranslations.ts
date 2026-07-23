@@ -1,3 +1,5 @@
+import { isQuestionBankId } from '../questionsBank';
+
 /**
  * French translations for short explanations (e field).
  * When user selects French and a translation exists, the short explanation panel shows French.
@@ -3014,10 +3016,7 @@ export const SHORT_EXPLANATIONS_FR: Record<number, string> = {
  */
 /** Exported for `detailedExplanationsTranslations.ts` (same ID-range rule). */
 export function isLogicalFallaciesAppQuestionId(questionId: number): boolean {
-  return (
-    (questionId >= 1 && questionId <= 900) ||
-    (questionId >= 1001 && questionId <= 1300)
-  );
+  return isQuestionBankId(questionId);
 }
 
 /**
