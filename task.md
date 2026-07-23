@@ -32,6 +32,26 @@
 
 ---
 
+
+## Per-fallacy question expansion (July 2026)
+
+**User target:** Preserve all existing questions, then add **50 genuinely unique bilingual question pairs per canonical fallacy**. See `AGENTS.md` Section 0.
+
+**Recovery status:**
+- [x] Audited `fallaciesData.ts`: 5,380 source records per language with complete ID and level parity.
+- [x] Recovered all generated records in gameplay without deleting content.
+- [x] Remapped the 298 fallacy IDs colliding with Level 0 IDs 1001-1300 into the reserved 21001-21300 range.
+- [x] Assembled 5,680 unique gameplay records per language, including 300 Level 0 foundations.
+- [x] Added runtime checks for duplicate IDs, answer-index validity, EN/FR bank length, ID parity, and level parity.
+- [x] Production build and both GitHub Pages deployment workflows passed for recovery commit `0330e6f`.
+- [x] Created `reports/fallacy-expansion-audit.json` with counts, IDs, and EN/FR label mappings.
+- [ ] Normalize the 205 raw English correct-answer labels into the canonical fallacy catalogue. Exclude formulas, explanatory responses, aliases, and non-fallacy concepts from the generation target.
+- [ ] Repair the 461 legacy EN/FR option-position mismatches below ID 1000; many are different scenarios rather than translations.
+- [ ] Generate and validate +50 unique EN/FR pairs for each approved canonical fallacy.
+- [ ] Run duplicate, parity, random-mode, level-mode, language-switch, offline, and production-build validation after every batch.
+
+**Important:** The raw label count is not the final canonical count. Do not generate 50 questions for every raw label until its `catalogStatus` is reviewed in the audit manifest.
+
 ## Scope
 
 | Level | Question IDs (`fallaciesData`) | Count | Status |
