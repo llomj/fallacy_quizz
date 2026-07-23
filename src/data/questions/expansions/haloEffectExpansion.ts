@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['After one helpful comment, Maya assumes the new coworker must be excellent at every part of the job.', "Apres un seul commentaire utile, Maya suppose que la nouvelle collegue doit etre excellente dans tous les aspects du travail."],
-  ["Ben likes a teacher's style, so he decides the teacher must also be smart about every subject.", "Ben aime le style d un professeur, donc il decide que ce professeur doit aussi etre competent dans chaque sujet."],
+  ['After one helpful comment, Maya assumes the new coworker must be excellent at every part of the job in the office.', "Apres un seul commentaire utile, Maya suppose que la nouvelle collegue doit etre excellente dans tous les aspects du travail au bureau."],
+  ["Ben likes a teacher's style, so he decides the teacher must also be smart about every subject in school.", "Ben aime le style d un professeur, donc il decide que ce professeur doit aussi etre competent dans chaque sujet a l ecole."],
   ['Priya thinks the receptionist is great at fixing problems because she greeted everyone warmly.', "Priya pense que la receptionniste est tres douee pour resoudre les problemes parce qu elle a salue tout le monde chaleureusement."],
   ['Noah assumes the coach is a genius because the coach gave one sharp pep talk.', "Noah suppose que l entraineur est un genie parce qu il a donne un seul discours motivant tres convaincant."],
   ['Lina trusts the new neighbor with her plants because his apartment looks tidy.', "Lina fait confiance au nouveau voisin pour ses plantes parce que son appartement a l air bien range."],

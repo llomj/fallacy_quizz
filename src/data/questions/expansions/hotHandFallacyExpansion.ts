@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['After three perfect free throws, Jade thinks the next one is "locked in."', "Apres trois lancers francs parfaits, Jade pense que le prochain est « assure »."],
-  ['Milo scores twice in a row and starts taking every shot like it cannot miss.', "Milo marque deux fois d'affilee et commence a tirer comme s'il ne pouvait plus rater."],
+  ['After three perfect free throws, Jade thinks the next one is "locked in" for the rest of the quarter.', "Apres trois lancers francs parfaits, Jade pense que le prochain est « assure » pour le reste du quart-temps."],
+  ['Milo scores twice in a row and starts taking every shot like it cannot miss on the school court.', "Milo marque deux fois d'affilee et commence a tirer comme s'il ne pouvait plus rater sur le terrain de l'ecole."],
   ['Nina wins three online matches and says her team is unstoppable for the rest of the night.', "Nina gagne trois matchs en ligne et dit que son equipe est imbattable pour le reste de la soiree."],
   ['After two good pitches, Evan believes the pitcher is "in the zone" and will stay perfect.', "Apres deux bons lancers, Evan croit que le lanceur est « en feu » et restera parfait."],
   ['Tara hits three tennis winners and assumes her next serve is definitely going in.', "Tara réussit trois coups gagnants au tennis et suppose que son prochain service va forcement rentrer."],

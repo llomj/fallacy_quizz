@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['A cashier misread the receipt, and Sam blamed the printer for stealing money.', "Une caissiere a mal lu le ticket, et Sam a accuse l'imprimante d'avoir vole de l'argent."],
-  ['Rita heard a quote on a meme and assumed her uncle said it at dinner.', "Rita a vu une citation sur un mème et a suppose que son oncle l'avait dite au dîner."],
+  ['A cashier misread the receipt, and Sam blamed the printer for stealing money from his account.', "Une caissiere a mal lu le ticket, et Sam a accuse l'imprimante d'avoir vole de l'argent sur son compte."],
+  ['Rita heard a quote on a meme and assumed her uncle said it at dinner on Sunday.', "Rita a vu une citation sur un mème et a suppose que son oncle l'avait dite au dîner du dimanche."],
   ['After the lamp flickered, Ben said the lamp was possessed by the same ghost as the attic.', "Apres que la lampe a clignote, Ben a dit que la lampe etait hantee par le meme fantome que le grenier."],
   ['Nina forgot her password and blamed the keyboard for changing it.', "Nina a oublie son mot de passe et a accuse le clavier de l'avoir change."],
   ['Theo heard a joke online and told everyone his friend invented it.', "Theo a entendu une blague en ligne et a dit a tout le monde que son ami l'avait inventee."],

@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['At the committee meeting, everyone nods along because nobody wants to be the first to disagree.', "Lors de la reunion du comite, tout le monde acquiesce parce que personne ne veut etre le premier a ne pas etre d'accord."],
-  ['Maya changes her opinion in the group chat after seeing three friends pile on the same view.', "Maya change d'avis dans le chat de groupe apres avoir vu trois amis se rallier a la meme opinion."],
+  ['At the committee meeting, everyone nods along because nobody wants to be the first to disagree about the lunch budget.', "Lors de la reunion du comite, tout le monde acquiesce parce que personne ne veut etre le premier a ne pas etre d'accord sur le budget du dejeuner."],
+  ['Maya changes her opinion in the group chat after seeing three friends pile on the same view about the new logo.', "Maya change d'avis dans le chat de groupe apres avoir vu trois amis se rallier a la meme opinion sur le nouveau logo."],
   ['The office team approves a bad plan because the loudest voice in the room says it feels safer.', "L equipe du bureau approuve un mauvais plan parce que la voix la plus forte de la salle dit que cela semble plus sur."],
   ['Ben keeps quiet during the school project because he thinks disagreeing would make him the difficult one.', "Ben se tait pendant le projet scolaire parce qu il pense que s opposer ferait de lui la personne difficile."],
   ['At lunch, the friends agree on a boring restaurant just so the conversation stays smooth.', "Au dejeuner, les amis choisissent un restaurant ennuyeux juste pour que la conversation reste fluide."],

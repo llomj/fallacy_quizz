@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['Maya trusts the forecast because the graph looks polished, even though it is based on a tiny sample.', "Maya fait confiance a la prevision parce que le graphique a l air soigné, meme s il repose sur un echantillon minuscule."],
-  ['Leo assumes his gut feeling is reliable just because it felt strong in the moment.', "Leo suppose que son intuition est fiable juste parce qu elle semblait tres forte sur le moment."],
+  ['Maya trusts the forecast because the graph looks polished, even though it is based on a tiny sample from one neighborhood.', "Maya fait confiance a la prevision parce que le graphique a l air soigné, meme s il repose sur un echantillon minuscule d un seul quartier."],
+  ['Leo assumes his gut feeling is reliable just because it felt strong in the moment before lunch.', "Leo suppose que son intuition est fiable juste parce qu elle semblait tres forte sur le moment avant le déjeuner."],
   ['Nina believes the first quiz result must be accurate because the teacher wrote it in red pen.', "Nina croit que le premier resultat du quiz doit etre juste parce que le professeur l a ecrit au stylo rouge."],
   ['Owen thinks a neat spreadsheet automatically means the conclusion is solid.', "Owen pense qu un tableau bien range veut automatiquement dire que la conclusion est solide."],
   ['Priya accepts a confident forecast because the speaker sounded calm and certain.', "Priya accepte une prevision sure simplement parce que l orateur avait l air calme et certain."],

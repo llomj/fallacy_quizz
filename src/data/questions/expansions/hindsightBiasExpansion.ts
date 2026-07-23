@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['After the store runs out of apples, Maya says she knew the shipment would fail.', 'Apres que le magasin est en rupture de pommes, Maya dit qu elle savait que la livraison allait echouer.'],
-  ['Leo reads the weather app after the picnic and says the rain was obvious all along.', 'Leo lit l application meteo apres le pique-nique et dit que la pluie etait evidente depuis le debut.'],
+  ['After the store runs out of apples, Maya says she knew the shipment would fail by Tuesday.', 'Apres que le magasin est en rupture de pommes, Maya dit qu elle savait que la livraison allait echouer mardi.'],
+  ['Leo reads the weather app after the picnic and says the rain was obvious all along from the start.', 'Leo lit l application meteo apres le pique-nique et dit que la pluie etait evidente depuis le debut.'],
   ['Nina hears about a broken elevator and says the building was obviously unsafe.', 'Nina entend parler d un ascenseur en panne et dit que le batiment etait evidemment dangereux.'],
   ['Owen sees the team lose and says he knew the coach picked the wrong strategy.', 'Owen voit l equipe perdre et dit qu il savait que l entraineur avait choisi la mauvaise strategie.'],
   ['Priya gets the answer key and says the quiz was clearly easy the whole time.', 'Priya recoit le corrigé et dit que le quiz etait clairement facile depuis le debut.'],
