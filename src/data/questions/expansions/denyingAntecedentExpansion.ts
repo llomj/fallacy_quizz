@@ -1,0 +1,102 @@
+import { PersonaStage, type Question, SubLevel } from '../../../types';
+
+const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
+  ['If the dog hears the door, it barks. The dog is not barking, so it must not have heard the door.', "Si le chien entend la porte, il aboie. Le chien n'aboie pas, donc il n'a sans doute pas entendu la porte."],
+  ['If the app is premium, it has no ads. This app has no ads, so it must be premium.', "Si l'application est premium, elle n'a pas de pub. Cette application n'a pas de pub, donc elle doit etre premium."],
+  ['If the cake is baked, the center is warm. The center is not warm, so the cake is not baked.', "Si le gateau est cuit, le milieu est chaud. Le milieu n'est pas chaud, donc le gateau n'est pas cuit."],
+  ['If the printer is on, the light is green. The light is not green, so the printer is off.', "Si l'imprimante est allumee, le voyant est vert. Le voyant n'est pas vert, donc l'imprimante est eteinte."],
+  ['If the movie is funny, people laugh. People are not laughing, so the movie is not funny.', "Si le film est drole, les gens rient. Les gens ne rient pas, donc le film n'est pas drole."],
+  ['If the room is reserved, there is a sign on the door. There is no sign, so the room is not reserved.', "Si la salle est reservee, il y a un panneau sur la porte. Il n'y a pas de panneau, donc la salle n'est pas reservee."],
+  ['If the coffee is decaf, it will not keep Sam awake. It did not keep Sam awake, so it must be decaf.', "Si le cafe est decafeine, il ne tiendra pas Sam eveille. Il ne l'a pas tenu eveille, donc il est surement decafeine."],
+  ['If the shop is open, the lights are on. The lights are off, so the shop is closed.', "Si la boutique est ouverte, les lumieres sont allumees. Les lumieres sont eteintes, donc la boutique est fermee."],
+  ['If the chart is clear, everyone understands it. People do not understand it, so the chart is not clear.', "Si le graphique est clair, tout le monde le comprend. Les gens ne le comprennent pas, donc le graphique n'est pas clair."],
+  ['If the package was delivered, it is on the porch. It is not on the porch, so it was never delivered.', "Si le colis a ete livre, il est sur le perron. Il n'est pas sur le perron, donc il n'a jamais ete livre."],
+  ['If the playlist is premium, it skips ads. It skips ads, so it must be premium.', "Si la playlist est premium, elle saute les pubs. Elle saute les pubs, donc elle doit etre premium."],
+  ['If the plant is healthy, the leaves are green. The leaves are not green, so the plant is not healthy.', "Si la plante est en bonne sante, les feuilles sont vertes. Les feuilles ne sont pas vertes, donc la plante n'est pas en bonne sante."],
+  ['If the train is delayed, the platform is crowded. The platform is not crowded, so the train is on time.', "Si le train est en retard, le quai est bondé. Le quai n'est pas bondé, donc le train est a l'heure."],
+  ['If the homework is finished, the desk is clean. The desk is messy, so the homework is not finished.', "Si les devoirs sont finis, le bureau est range. Le bureau est en bazar, donc les devoirs ne sont pas finis."],
+  ['If the game is online, the server icon is blue. The icon is not blue, so the game is offline.', "Si le jeu est en ligne, l'icone du serveur est bleue. L'icone n'est pas bleue, donc le jeu est hors ligne."],
+  ['If the soup is hot, steam rises. No steam is rising, so the soup is not hot.', "Si la soupe est chaude, de la vapeur monte. Il ne monte pas de vapeur, donc la soupe n'est pas chaude."],
+  ['If the phone is charged, the battery icon is full. The icon is not full, so the phone is not charged.', "Si le telephone est charge, l'icone de batterie est pleine. L'icone n'est pas pleine, donc le telephone n'est pas charge."],
+  ['If the store is busy, the line is long. The line is not long, so the store is not busy.', "Si le magasin est occupe, la file est longue. La file n'est pas longue, donc le magasin n'est pas occupe."],
+  ['If the jacket is waterproof, rain rolls off. Rain is not rolling off, so the jacket is not waterproof.', "Si la veste est impermeable, la pluie glisse dessus. La pluie ne glisse pas, donc la veste n'est pas impermeable."],
+  ['If the new shoes fit, they feel comfortable. They do not feel comfortable, so they do not fit.', "Si les nouvelles chaussures vont bien, elles sont confortables. Elles ne sont pas confortables, donc elles ne vont pas bien."],
+  ['If the calendar is synced, the event appears. The event does not appear, so the calendar is not synced.', "Si le calendrier est synchronise, l'evenement apparait. L'evenement n'apparait pas, donc le calendrier n'est pas synchronise."],
+  ['If the room is quiet, the fan is off. The fan is not off, so the room is not quiet.', "Si la piece est calme, le ventilateur est eteint. Le ventilateur n'est pas eteint, donc la piece n'est pas calme."],
+  ['If the package is fragile, it has a sticker. There is no sticker, so it is not fragile.', "Si le colis est fragile, il a une etiquette. Il n'y a pas d'etiquette, donc il n'est pas fragile."],
+  ['If the bread is fresh, it smells good. It does not smell good, so it is not fresh.', "Si le pain est frais, il sent bon. Il ne sent pas bon, donc il n'est pas frais."],
+  ['If the ticket is valid, the scanner beeps green. It does not beep green, so the ticket is invalid.', "Si le billet est valide, le lecteur bippe en vert. Il ne bippe pas en vert, donc le billet n'est pas valide."],
+  ['If the spreadsheet is shared, comments appear. No comments appear, so it is not shared.', "Si le tableur est partage, les commentaires apparaissent. Aucun commentaire n'apparait, donc il n'est pas partage."],
+  ['If the road is icy, the car slides. The car is not sliding, so the road is not icy.', "Si la route est glacee, la voiture glisse. La voiture ne glisse pas, donc la route n'est pas glacee."],
+  ['If the coffee shop is open, music plays. No music is playing, so the coffee shop is closed.', "Si le cafe est ouvert, de la musique joue. Il ne joue pas de musique, donc le cafe est ferme."],
+  ['If the battery is low, the alert appears. The alert does not appear, so the battery is not low.', "Si la batterie est faible, l'alerte apparait. L'alerte n'apparait pas, donc la batterie n'est pas faible."],
+  ['If the class is canceled, the teacher sends a text. No text was sent, so the class is not canceled.', "Si le cours est annule, le professeur envoie un message. Aucun message n'a ete envoye, donc le cours n'est pas annule."],
+  ['If the jar is sealed, the lid is tight. The lid is not tight, so the jar is not sealed.', "Si le bocal est ferme, le couvercle est serre. Le couvercle n'est pas serre, donc le bocal n'est pas ferme."],
+  ['If the route is correct, the map icon is blue. The icon is not blue, so the route is wrong.', "Si l'itineraire est correct, l'icone de la carte est bleue. L'icone n'est pas bleue, donc l'itineraire est faux."],
+  ['If the concert is sold out, tickets are gone. Tickets are not gone, so the concert is not sold out.', "Si le concert est complet, les billets sont partis. Les billets ne sont pas partis, donc le concert n'est pas complet."],
+  ['If the recipe is followed, the batter thickens. The batter did not thicken, so the recipe was not followed.', "Si la recette est suivie, la pate epaissit. La pate n'a pas epaissi, donc la recette n'a pas ete suivie."],
+  ['If the alarm is armed, the light blinks red. It is not blinking red, so the alarm is not armed.', "Si l'alarme est activee, la lumiere clignote en rouge. Elle ne clignote pas en rouge, donc l'alarme n'est pas activee."],
+  ['If the cereal is sugary, the label says so. The label does not say so, therefore it is not sugary.', "Si les cereales sont sucrees, l'etiquette le dit. L'etiquette ne le dit pas, donc elles ne sont pas sucrees."],
+  ['If the app is updated, the version number changes. The version number did not change, so the app is not updated.', "Si l'application est mise a jour, le numero de version change. Le numero de version n'a pas change, donc l'application n'est pas a jour."],
+  ['If the gym is crowded, the parking lot fills up. The parking lot is not full, so the gym is not crowded.', "Si la salle de sport est bondee, le parking se remplit. Le parking n'est pas plein, donc la salle de sport n'est pas bondee."],
+  ['If the sweater is wool, it feels warm. It does not feel warm, so it is not wool.', "Si le pull est en laine, il est chaud. Il ne semble pas chaud, donc il n'est pas en laine."],
+  ['If the parcel is insured, the sticker is visible. The sticker is not visible, so the parcel is not insured.', "Si le colis est assure, l'autocollant est visible. L'autocollant n'est pas visible, donc le colis n'est pas assure."],
+  ['If the library is open, the lights are on. The lights are off, so the library is closed.', "Si la bibliotheque est ouverte, les lumieres sont allumees. Les lumieres sont eteintes, donc la bibliotheque est fermee."],
+  ['If the kettle is boiling, steam comes out. No steam comes out, so the kettle is not boiling.', "Si la bouilloire bout, de la vapeur sort. Aucune vapeur ne sort, donc la bouilloire ne bout pas."],
+  ['If the meeting started, the room is occupied. The room is not occupied, so the meeting did not start.', "Si la reunion a commence, la salle est occupee. La salle n'est pas occupee, donc la reunion n'a pas commence."],
+  ['If the charger works, the phone screen lights up. The screen did not light up, so the charger does not work.', "Si le chargeur fonctionne, l'ecran du telephone s'allume. L'ecran ne s'est pas allume, donc le chargeur ne fonctionne pas."],
+  ['If the shoes are new, they squeak. They do not squeak, so they are not new.', "Si les chaussures sont neuves, elles couinent. Elles ne couinent pas, donc elles ne sont pas neuves."],
+  ['If the drawer is unlocked, it opens easily. It does not open easily, so it is not unlocked.', "Si le tiroir est deverrouille, il s'ouvre facilement. Il ne s'ouvre pas facilement, donc il n'est pas deverrouille."],
+  ['If the cake is vegan, it has no eggs. It has eggs, so it is not vegan.', "Si le gateau est vegan, il n'a pas d'oeufs. Il a des oeufs, donc il n'est pas vegan."],
+  ['If the message is urgent, the sender uses caps. The sender did not use caps, so the message is not urgent.', "Si le message est urgent, l'expediteur utilise des majuscules. Il n'a pas utilise de majuscules, donc le message n'est pas urgent."],
+  ['If the scooter is charged, the display turns on. The display is off, so the scooter is not charged.', "Si la trottinette est chargee, l'ecran s'allume. L'ecran est eteint, donc la trottinette n'est pas chargee."],
+  ['If the fish is fresh, it smells clean. It does not smell clean, so it is not fresh.', "Si le poisson est frais, il sent bon. Il ne sent pas bon, donc il n'est pas frais."],
+  ['If the meeting is virtual, a link is sent. No link was sent, so the meeting is not virtual.', "Si la reunion est virtuelle, un lien est envoye. Aucun lien n'a ete envoye, donc la reunion n'est pas virtuelle."],
+  ['If the note was approved, it gets a stamp. It has no stamp, so it was not approved.', "Si la note est approuvee, elle recoit un tampon. Elle n'a pas de tampon, donc elle n'a pas ete approuvee."],
+];
+
+const OPTIONS_EN = ['Denying the Antecedent', 'Affirming the Consequent', 'False Dilemma', 'Appeal to Authority'];
+const OPTIONS_FR = ["Nier l'antécédent", 'Affirmer le conséquent', 'Fausse dichotomie', "Appel à l'autorité"];
+
+function rotate(a: string[], i: number) {
+  const r = a.slice(1);
+  r.splice(i, 0, a[0]);
+  return r;
+}
+
+function sub(i: number) {
+  return i < 17 ? SubLevel.BEGINNER : i < 34 ? SubLevel.INTERMEDIATE : SubLevel.EXPERT;
+}
+
+function make(fr = false): Question[] {
+  return SCENARIOS.map((s, i) => {
+    const c = i % 4;
+    return {
+      id: 33351 + i,
+      level: 5,
+      persona_stage: PersonaStage.CRAB,
+      concept: fr ? "Nier l'antécédent" : 'Denying the Antecedent',
+      difficulty: i < 17 ? 1 : i < 34 ? 2 : 3,
+      subLevel: sub(i),
+      question: `${fr ? 'Quel sophisme est illustré ici ?' : 'Which fallacy is illustrated here?'}\n\n"${s[fr ? 1 : 0]}"`,
+      options: rotate(fr ? OPTIONS_FR : OPTIONS_EN, c),
+      correct_option_index: c,
+      explanation: fr
+        ? "On suppose que l'absence d'un effet prouve l'absence de la cause, ce qui n'est pas logique."
+        : 'The absence of the expected effect is treated as proof that the cause was absent, which does not follow logically.',
+      detailedExplanationBeginner: fr
+        ? "Pas d'effet visible ne veut pas dire pas de cause."
+        : 'No visible effect does not automatically mean no cause.',
+      detailedExplanationIntermediate: fr
+        ? "Nier l'antécédent inverse mal un lien conditionnel: si A implique B, l'absence de B ne prouve pas toujours l'absence de A."
+        : 'Denying the antecedent wrongly reverses a conditional: if A implies B, the absence of B does not always prove the absence of A.',
+      detailedExplanationExpert: fr
+        ? "Le raisonnement ignore les autres raisons possibles pour lesquelles l'effet attendu n'apparaît pas, comme une panne, un retard ou une observation incomplète."
+        : 'The reasoning ignores other reasons the expected effect may not appear, such as failure, delay, or incomplete observation.',
+      questionFormat: 'standard',
+    };
+  });
+}
+
+export const DENYING_THE_ANTECEDENT_EXPANSION_EN: Question[] = make();
+export const DENYING_THE_ANTECEDENT_EXPANSION_FR: Question[] = make(true);
