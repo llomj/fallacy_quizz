@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["Maya dismisses the volunteer group because one member also plays loud music at parties.", "Maya rejette le groupe de benevoles parce qu un membre joue aussi de la musique forte aux fetes."],
-  ["Ben says the school fundraiser is shady because the organizer once argued with the principal.", "Ben dit que la collecte de l ecole est louche parce que l organisateur s est un jour dispute avec le directeur."],
+  ["Maya dismisses the volunteer group because one member also plays loud music at parties on Fridays after work and dances badly.", "Maya rejette le groupe de benevoles parce qu un membre joue aussi de la musique forte aux fetes le vendredi apres le travail et danse mal."],
+  ["Ben says the school fundraiser is shady because the organizer once argued with the principal in the hallway before class about lunch tickets.", "Ben dit que la collecte de l ecole est louche parce que l organisateur s est un jour dispute avec le directeur dans le couloir avant les cours au sujet des tickets de cantine."],
   ["Priya refuses to join the club because it shares a room with a group she does not like.", "Priya refuse de rejoindre le club parce qu il partage une salle avec un groupe qu elle n aime pas."],
   ["Noah claims the app must be bad because a rude influencer recommended it.", "Noah affirme que l application doit etre mauvaise parce qu un influenceur impoli l a recommandee."],
   ["Lina says the neighborhood petition is wrong because one signer is known for gossip.", "Lina dit que la petition du quartier est fausse parce qu une personne qui l a signee est connue pour les commérages."],

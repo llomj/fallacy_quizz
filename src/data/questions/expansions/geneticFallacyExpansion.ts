@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["The mayor's recycling proposal is dismissed because she used to work in marketing.", "La proposition de recyclage de la maire est rejetée parce qu'elle a travaillé dans le marketing."],
-  ["Ben says the charity report is useless because the accountant once worked for a big bank.", "Ben dit que le rapport de l'association ne vaut rien parce que le comptable a autrefois travaillé pour une grande banque."],
+  ["The mayor's recycling proposal is dismissed because she used to work in marketing at a billboard company near downtown, so people assume she is just selling slogans.", "La proposition de recyclage de la maire est rejetée parce qu'elle a travaillé dans le marketing dans une entreprise de panneaux publicitaires pres du centre-ville, alors les gens supposent qu'elle vend juste des slogans."],
+  ["Ben says the charity report is useless because the accountant once worked for a big bank downtown and wore suits on Fridays.", "Ben dit que le rapport de l'association ne vaut rien parce que le comptable a autrefois travaillé pour une grande banque du centre-ville et portait des costumes le vendredi."],
   ["Maya rejects the science article because the author studied at a community college.", "Maya rejette l'article scientifique parce que l'auteur a étudié dans un collège communautaire."],
   ["Theo insists the opinion about food trucks is wrong because the speaker grew up in a wealthy suburb.", "Theo insiste pour dire que l'avis sur les food trucks est faux parce que l'orateur a grandi dans une banlieue aisée."],
   ["Lina thinks the budget idea is bad because it came from a startup founder.", "Lina pense que l'idée budgétaire est mauvaise parce qu'elle vient d'un fondateur de start-up."],

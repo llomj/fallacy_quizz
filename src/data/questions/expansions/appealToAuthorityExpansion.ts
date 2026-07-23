@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['A mechanic says this soup cures colds after hearing it once from a chef at a birthday party, so Maya adds it to her menu without checking the recipe.', 'Un mécanicien dit que cette soupe guérit les rhumes apres l avoir entendu une fois d un chef a une fete d anniversaire, alors Maya l ajoute a son menu sans verifier la recette.'],
-  ['A dentist says this bike helmet is the best one for mountain climbing, so Leo buys it for his commute across flat streets and bike lanes.', 'Un dentiste dit que ce casque de velo est le meilleur pour l alpinisme, alors Leo l achete pour aller au travail sur des rues plates et des pistes cyclables.'],
+  ['A mechanic says this soup cures colds after hearing it once from a chef at a birthday party, so Maya adds it to her menu without checking the recipe, ingredients, price, or the soup itself.', 'Un mécanicien dit que cette soupe guérit les rhumes apres l avoir entendu une fois d un chef a une fete d anniversaire, alors Maya l ajoute a son menu sans verifier la recette, les ingredients, le prix ni la soupe elle-meme.'],
+  ['A dentist says this bike helmet is the best one for mountain climbing, so Leo buys it for his commute across flat streets, bike lanes, and crosswalks after work.', 'Un dentiste dit que ce casque de velo est le meilleur pour l alpinisme, alors Leo l achete pour aller au travail sur des rues plates, des pistes cyclables et des passages piétons apres le travail.'],
   ['A chef says this tax form is the simplest to use, so Nina trusts him.', 'Un chef dit que ce formulaire fiscal est le plus simple à utiliser, alors Nina le croit.'],
   ['A weather presenter says this pillow fixes back pain, so Omar orders it.', 'Une présentatrice météo dit que cet oreiller soigne le mal de dos, alors Omar le commande.'],
   ['A singer says this credit card is the safest, so Priya applies for it.', 'Une chanteuse dit que cette carte de crédit est la plus sûre, alors Priya en fait la demande.'],
