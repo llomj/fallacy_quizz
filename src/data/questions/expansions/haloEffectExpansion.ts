@@ -2,7 +2,7 @@ import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['After one helpful comment, Maya assumes the new coworker must be excellent at every part of the job.', "Apres un seul commentaire utile, Maya suppose que la nouvelle collegue doit etre excellente dans tous les aspects du travail."],
-  ['Ben likes a teacher\'s style, so he decides the teacher must also be smart about every subject.', "Ben aime le style d un professeur, donc il decide que ce professeur doit aussi etre competent dans chaque sujet."],
+  ["Ben likes a teacher's style, so he decides the teacher must also be smart about every subject.", "Ben aime le style d un professeur, donc il decide que ce professeur doit aussi etre competent dans chaque sujet."],
   ['Priya thinks the receptionist is great at fixing problems because she greeted everyone warmly.', "Priya pense que la receptionniste est tres douee pour resoudre les problemes parce qu elle a salue tout le monde chaleureusement."],
   ['Noah assumes the coach is a genius because the coach gave one sharp pep talk.', "Noah suppose que l entraineur est un genie parce qu il a donne un seul discours motivant tres convaincant."],
   ['Lina trusts the new neighbor with her plants because his apartment looks tidy.', "Lina fait confiance au nouveau voisin pour ses plantes parce que son appartement a l air bien range."],
@@ -41,7 +41,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Mina says the babysitter must be great at planning because the kids were happy.', "Mina dit que la baby-sitter doit etre tres douee pour planifier parce que les enfants etaient heureux."],
   ['Leo thinks the artist is also a skilled accountant because the gallery looked polished.', "Leo pense que l artiste est aussi un excellent comptable parce que la galerie avait l air bien presente."],
   ['Tara believes the neighbor can handle any conflict because they smiled during the meeting.', "Tara croit que le voisin peut gerer n importe quel conflit parce qu il a souri pendant la reunion."],
-  ['Hana assumes the speaker is accurate on the facts because the delivery was confident.', "Hana suppose que l orateur est exact sur les faits parce que la presentation etait assurée."],
+  ['Hana assumes the speaker is accurate on the facts because the delivery was confident.', "Hana suppose que l orateur est exact sur les faits parce que la presentation etait assuree."],
   ['Dylan says the new hire is dependable in every situation because they responded quickly once.', "Dylan dit que la nouvelle recrue est fiable dans toute situation parce qu elle a repondu vite une fois."],
   ['Penny believes the judge is fair about all issues because the ruling sounded balanced.', "Penny croit que le juge est juste sur tous les sujets parce que la decision semblait equilibree."],
   ['Grant assumes the driver is also a great teacher because the directions were clear.', "Grant suppose que le conducteur est aussi un excellent professeur parce que les indications etaient claires."],
