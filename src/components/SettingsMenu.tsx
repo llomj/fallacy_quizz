@@ -151,7 +151,10 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     menuItems.push({
       icon: 'fa-shuffle',
       label: randomMode ? t('settings.switchToLevelMode') : t('settings.switchToRandomMode'),
-      onClick: withClickSound(() => { onToggleRandomMode(); onClose(); })
+      onClick: withClickSound(() => {
+        onClose();
+        window.requestAnimationFrame(() => onToggleRandomMode());
+      })
     });
   }
   if (onShowLevelSelector) {
