@@ -52,6 +52,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Hugo said an awkward pause is the same as the conversation failing.', "Hugo a dit qu'un silence genant etait la meme chose que l'echec de la conversation."],
   ['Mina said a modest raise is the same as being rich.', "Mina a dit qu'une petite augmentation etait la meme chose qu'etre riche."],
   ['Theo said a temporary inconvenience is the same as a total disaster.', "Theo a dit qu'un derangement temporaire etait la meme chose qu'un desastre total."],
+  ['Maya said a scratch on a phone case is the same as a broken phone screen.', "Maya a dit qu'une rayure sur une coque de telephone etait la meme chose qu'un ecran de telephone casse."],
+  ['Theo said a five minute delay is the same as missing the whole train.', "Theo a dit qu'un retard de cinq minutes etait la meme chose que rater tout le train."],
+  ['Ava said a rude tone in a text is the same as a breakup.', "Ava a dit qu'un ton brusque dans un message etait la meme chose qu'une rupture."],
+  ['Ben said a typo in a recipe is the same as ruining dinner.', "Ben a dit qu'une faute de frappe dans une recette etait la meme chose que gacher le diner."],
+  ['Nina said a messy backpack is the same as failing school.', "Nina a dit qu'un sac a dos en desordre etait la meme chose qu'echouer a l'ecole."],
+  ['Omar said a quiet friend is the same as an unfriendly friend.', "Omar a dit qu'un ami discret etait la meme chose qu'un ami froid."],
+  ['Priya said a small fee is the same as being robbed.', "Priya a dit qu'un petit frais etait la meme chose qu'un vol."],
+  ['Leo said a boring meeting is the same as a useless team.', "Leo a dit qu'une reunion ennuyeuse etait la meme chose qu'une equipe inutile."],
+  ['Rina said a late reply is the same as ignoring someone forever.', "Rina a dit qu'une reponse tardive etait la meme chose qu'ignorer quelqu'un pour toujours."],
+  ['Jasper said a bad haircut is the same as a bad personality.', "Jasper a dit qu'une mauvaise coupe de cheveux etait la meme chose qu'une mauvaise personnalite."],
 ];
 
 const OPTIONS_EN = ['False Equivalence', 'False Dilemma', 'Appeal to Popularity', 'Hasty Generalization'];

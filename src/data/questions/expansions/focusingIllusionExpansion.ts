@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Grant believes a bigger kitchen sink would make dishes enjoyable because he fixates on depth.', "Grant croit qu'un evier de cuisine plus grand rendrait la vaisselle agreable parce qu'il se focalise sur la profondeur."],
   ['Juno says a better jacket would improve every trip because she focuses on the zipper.', "Juno dit qu'une meilleure veste ameliorerait chaque trajet parce qu'elle se concentre sur la fermeture eclair."],
   ['Pia thinks a cleaner dashboard would make driving calm because she fixates on the icons.', "Pia pense qu'un tableau de bord plus propre rendrait la conduite calme parce qu'elle se focalise sur les icones."],
+  ['Maya thinks a bigger apartment would solve loneliness because she focuses on the extra room.', "Maya pense qu'un appartement plus grand reglerait la solitude parce qu'elle se concentre sur l'espace supplementaire."],
+  ['Theo believes moving to the city would fix every problem because he only imagines the lights.', "Theo croit que demenager en ville reglerait tous les problemes parce qu'il n'imagine que les lumieres."],
+  ['Ava says a new laptop would make work magical because she fixates on the bigger screen.', "Ava dit qu'un nouvel ordinateur portable rendrait le travail magique parce qu'elle se focalise sur l'ecran plus grand."],
+  ['Ben thinks a beach house would end stress because he pictures the ocean view.', "Ben pense qu'une maison de plage mettrait fin au stress parce qu'il imagine la vue sur l'ocean."],
+  ['Nina says a fancier phone would make mornings better because she focuses on the camera.', "Nina dit qu'un telephone plus chic rendrait les matins meilleurs parce qu'elle se concentre sur l'appareil photo."],
+  ['Omar thinks a shorter commute would make him happy because he only imagines the saved time.', "Omar pense qu'un trajet plus court le rendrait heureux parce qu'il n'imagine que le temps gagne."],
+  ['Priya says a new sofa would fix family time because she focuses on the cushion depth.', "Priya dit qu'un nouveau canape reglerait le temps en famille parce qu'elle se concentre sur la profondeur des coussins."],
+  ['Leo believes a nicer kitchen would make cooking fun because he fixates on the countertop.', "Leo croit qu'une cuisine plus belle rendrait la cuisine amusante parce qu'il se focalise sur le plan de travail."],
+  ['Rina says a bigger TV would make weekends perfect because she keeps picturing the screen size.', "Rina dit qu'une plus grande television rendrait les week-ends parfaits parce qu'elle imagine sans cesse la taille de l'ecran."],
+  ['Jade thinks a quieter car would make life peaceful because she focuses on the engine noise.', "Jade pense qu'une voiture plus silencieuse rendrait la vie paisible parce qu'elle se concentre sur le bruit du moteur."],
 ];
 
 const OPTIONS_EN = ['Focusing Illusion', 'Anchoring Bias', 'False Balance', 'False Equivalence'];

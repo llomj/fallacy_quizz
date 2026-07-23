@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Grant had one awkward group project and claimed collaboration never works.', "Grant a eu un projet de groupe genant et a affirme que la collaboration ne marchait jamais."],
   ['Juno saw one tiny typo and said the entire article is unprofessional.', "Juno a vu une minuscule faute de frappe et a dit que tout l'article etait non professionnel."],
   ['Pia met one impatient customer and said all customers are difficult.', "Pia a rencontre un client impatient et a dit que tous les clients etaient difficiles."],
+  ['Maya saw two rude drivers and said every driver in town is rude.', "Maya a vu deux conducteurs impolis et a dit que tous les conducteurs de la ville etaient impolis."],
+  ['Theo had one bad salad and decided all healthy food is awful.', "Theo a eu une mauvaise salade et a decide que toute la nourriture saine etait horrible."],
+  ['Ava met one distracted student and concluded every student is careless.', "Ava a rencontre un etudiant distrait et a conclu que tous les etudiants etaient negligents."],
+  ['Ben saw one slow cashier and said every store has terrible service.', "Ben a vu une caissiere lente et a dit que tous les magasins avaient un service terrible."],
+  ['Nina tried one hard puzzle and declared all puzzles impossible.', "Nina a essaye un puzzle difficile et a declare que tous les puzzles etaient impossibles."],
+  ['Omar heard one bad joke and said all comedians are unfunny.', "Omar a entendu une mauvaise blague et a dit que tous les humoristes n'etaient pas drôles."],
+  ['Priya met one impatient customer and assumed every customer is difficult.', "Priya a rencontre un client impatient et a suppose que tous les clients etaient difficiles."],
+  ['Leo had one noisy neighbor and concluded the whole apartment building is unbearable.', "Leo a eu un voisin bruyant et a conclu que tout l'immeuble etait insupportable."],
+  ['Rina saw one messy desk and said every coworker is disorganized.', "Rina a vu un bureau en desordre et a dit que tous les collegues etaient desordonnes."],
+  ['Jasper tried one overcooked pasta dish and decided all restaurant pasta is bad.', "Jasper a essaye un plat de pates trop cuites et a decide que toutes les pates au restaurant etaient mauvaises."],
 ];
 
 const OPTIONS_EN = ['Faulty Generalization', 'False Equivalence', 'Appeal to Popularity', 'False Dilemma'];

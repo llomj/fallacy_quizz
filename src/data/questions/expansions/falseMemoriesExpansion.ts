@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Grant thinks he heard the deadline change, but he only heard a rumor about it.', "Grant pense avoir entendu le delai changer, mais il n'a entendu qu'une rumeur a ce sujet."],
   ['Juno remembers the meeting starting late, but she is thinking of another meeting.', "Juno se souvient que la reunion a commence en retard, mais elle pense a une autre reunion."],
   ['Pia is sure the receipt was in the envelope, but it was the envelope from a different bill.', "Pia est sure que le recu etait dans l'enveloppe, mais c'etait l'enveloppe d'une autre facture."],
+  ['Maya thinks she parked on the third floor, but she is remembering a different garage.', "Maya pense s'etre garee au troisieme etage, mais elle se rappelle d'un autre parking."],
+  ['Theo remembers a blue notebook from class, but it was actually the cover of a textbook.', "Theo se souvient d'un carnet bleu en classe, mais c'etait en fait la couverture d'un manuel."],
+  ['Ava is sure she heard the phone ring, but it was a ringtone from a video.', "Ava est sure d'avoir entendu le telephone sonner, mais c'etait une sonnerie dans une video."],
+  ['Ben recalls a full apology, but only a quick sorry was said.', "Ben se rappelle des excuses completes, mais un simple desole a ete dit."],
+  ['Nina thinks the cashier handed back the wrong bill, but she is mixing up two receipts.', "Nina pense que la caissiere a rendu le mauvais billet, mais elle melange deux tickets de caisse."],
+  ['Omar remembers the class visiting a zoo, but it was a wildlife documentary shown in class.', "Omar se souvient que la classe a visite un zoo, mais c'etait un documentaire animalier montre en classe."],
+  ['Priya is certain the warning came from the teacher, but it was a message on the projector.', "Priya est certaine que l'avertissement venait du professeur, mais c'etait un message affiche au projecteur."],
+  ['Leo thinks the red shirt was on a friend, but it was on a mannequin in the store.', "Leo pense que la chemise rouge etait sur un ami, mais elle etait sur un mannequin dans le magasin."],
+  ['Rina recalls a whole conversation about moving, but it was only a text thread she skimmed.', "Rina se rappelle toute une conversation sur un demenagement, mais c'etait seulement une discussion qu'elle a parcourue rapidement."],
+  ['Jade believes the package arrived in the morning, but she is remembering the tracking update time.', "Jade croit que le colis est arrive le matin, mais elle se souvient de l'heure de mise a jour du suivi."],
 ];
 
 const OPTIONS_EN = ['False Memories', 'Availability Heuristic', 'Cryptomnesia', 'Confirmation Bias'];
