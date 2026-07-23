@@ -48,7 +48,8 @@
 - [x] Created `reports/fallacy-expansion-audit.json` with counts, IDs, and EN/FR label mappings.
 - [x] Normalize 205 raw English correct-answer labels into 168 canonical educational targets: 92 fallacies/reasoning errors, 69 biases/effects, and 7 named principles. Excluded 24 non-concept answer fragments and merged 13 aliases. See `reports/canonical-fallacy-catalog.json`.
 - [ ] Repair the 461 legacy EN/FR option-position mismatches below ID 1000; many are different scenarios rather than translations.
-- [ ] Generate and validate +50 unique EN/FR pairs for each of the 168 approved canonical targets (8,400 pairs / 16,800 language records). Canonical French labels are approved with zero gaps. **Progress: 73 / 168 targets, 3,650 / 8,400 pairs.**
+- [ ] Generate and validate +50 unique EN/FR pairs for each of the 168 approved canonical targets (8,400 pairs / 16,800 language records). Canonical French labels are approved with zero gaps. **Progress: 74 / 168 targets, 3,700 / 8,400 pairs.**
+  - [x] Endowment Effect: IDs 37001-37050, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Egocentric Bias: IDs 36901-36950, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Dunning-Kruger Effect: IDs 36801-36850, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Division Fallacy: IDs 36701-36750, 50 EN + 50 FR, additive to 6 existing questions.
