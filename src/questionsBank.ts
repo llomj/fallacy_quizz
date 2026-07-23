@@ -15,15 +15,19 @@ const FALLACY_COLLISION_OFFSET = 20000;
  * generated question and keeping the same deterministic IDs in EN and FR.
  */
 function remapFallacyIdCollisions(questions: Question[]): Question[] {
-  return questions.map((question) => {
+  // Some legacy generated arrays contain sparse slots. flatMap skips those
+  // slots instead of turning them into undefined values during bank assembly.
+  return questions.flatMap((question) => {
+    if (!question) return [];
+
     if (question.id < LEVEL_0_ID_START || question.id > LEVEL_0_ID_END) {
-      return question;
+      return [question];
     }
 
-    return {
+    return [{
       ...question,
       id: question.id + FALLACY_COLLISION_OFFSET,
-    };
+    }];
   });
 }
 
