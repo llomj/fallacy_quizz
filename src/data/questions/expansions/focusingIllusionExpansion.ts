@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['Mia thinks a bigger house would fix everything because she only imagines the extra room.', "Mia pense qu'une maison plus grande reglerait tout parce qu'elle imagine seulement la piece en plus."],
-  ['Theo assumes moving to the city will make life perfect because he focuses on nightlife.', "Theo suppose que déménager en ville rendrait la vie parfaite parce qu'il se concentre sur la vie nocturne."],
+  ['Mia thinks a bigger house would fix everything because she only imagines the extra room and not the cleaning.', "Mia pense qu'une maison plus grande reglerait tout parce qu'elle imagine seulement la piece en plus et pas le nettoyage."],
+  ['Theo assumes moving to the city will make life perfect because he focuses on nightlife and forgets the rent.', "Theo suppose que déménager en ville rendrait la vie parfaite parce qu'il se concentre sur la vie nocturne et oublie le loyer."],
   ['Ava says a new phone will make every day better because she is fixated on the camera.', "Ava dit qu'un nouveau telephone rendra chaque jour meilleur parce qu'elle se fixe sur l'appareil photo."],
   ['Ben thinks one vacation spot would solve his stress because he keeps picturing the beach.', "Ben pense qu'un seul endroit de vacances reglerait son stress parce qu'il imagine sans cesse la plage."],
   ['Rina believes a pay raise would fix her whole job because she only focuses on salary.', "Rina croit qu'une augmentation reglerait tout son travail parce qu'elle se concentre seulement sur le salaire."],

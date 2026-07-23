@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["After talking to three rude drivers, Ava says every driver in the city is rude.", "Apres avoir parle a trois conducteurs impolis, Ava dit que tous les conducteurs de la ville sont impolis."],
-  ["Milo interviews only his two happiest coworkers and concludes the office is perfect.", "Milo interroge seulement ses deux collegues les plus heureux et conclut que le bureau est parfait."],
+  ["After talking to three rude drivers at rush hour, Ava says every driver in the city is rude.", "Apres avoir parle a trois conducteurs impolis a l heure de pointe, Ava dit que tous les conducteurs de la ville sont impolis."],
+  ["Milo interviews only his two happiest coworkers and concludes the office is perfect for everyone.", "Milo interroge seulement ses deux collegues les plus heureux et conclut que le bureau est parfait pour tout le monde."],
   ["Nora samples one busy subway line and decides public transit is always crowded.", "Nora teste une seule ligne de metro tres chargee et decide que les transports publics sont toujours bondes."],
   ["After one bad hotel stay, Leo says all hotels are dirty.", "Apres un seul mauvais sejour a l'hotel, Leo dit que tous les hotels sont sales."],
   ["Priya asks only her friends who love spicy food and claims everyone likes spicy food.", "Priya ne demande qu'a des amis qui aiment les plats epices et affirme que tout le monde aime les plats epices."],

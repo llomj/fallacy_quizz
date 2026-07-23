@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['After hearing one new song at a party, Maya starts noticing it in every store.', "Apres avoir entendu une nouvelle chanson a une fete, Maya la remarque dans chaque magasin."],
-  ['Leo buys a blue jacket and suddenly sees blue jackets on every commute.', "Leo achete une veste bleue et voit soudain des vestes bleues a chaque trajet."],
+  ['After hearing one new song at a party, Maya starts noticing it in every store and cafe.', "Apres avoir entendu une nouvelle chanson a une fete, Maya la remarque dans chaque magasin et cafe."],
+  ['Leo buys a blue jacket and suddenly sees blue jackets on every commute to work.', "Leo achete une veste bleue et voit soudain des vestes bleues a chaque trajet vers le travail."],
   ['Once Priya learns a word from a podcast, she keeps spotting it in books all week.', "Une fois que Priya apprend un mot dans un podcast, elle le repere dans des livres toute la semaine."],
   ['Noah adopts a corgi and feels like every neighbor now owns a corgi too.', "Noah adopte un corgi et a l'impression que tous ses voisins en ont un aussi."],
   ['After buying a green water bottle, Emma notices green bottles everywhere in class.', "Apres avoir achete une gourde verte, Emma remarque des gourdes vertes partout en cours."],

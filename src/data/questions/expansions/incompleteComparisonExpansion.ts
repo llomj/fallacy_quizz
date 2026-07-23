@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['Maya says the laptop is bad because the battery is weak, ignoring that the processor and screen are excellent.', "Maya dit que l ordinateur portable est mauvais parce que la batterie est faible, en ignorant que le processeur et l ecran sont excellents."],
-  ['Leo calls the restaurant awful because one dish arrived late, without mentioning the great service and food quality.', "Leo dit que le restaurant est affreux parce qu un plat est arrive en retard, sans mentionner le bon service ni la qualite des plats."],
+  ['Maya says the laptop is bad because the battery is weak, ignoring that the processor and screen are excellent for school.', "Maya dit que l ordinateur portable est mauvais parce que la batterie est faible, en ignorant que le processeur et l ecran sont excellents pour l ecole."],
+  ['Leo calls the restaurant awful because one dish arrived late, without mentioning the great service and food quality at dinner.', "Leo dit que le restaurant est affreux parce qu un plat est arrive en retard, sans mentionner le bon service ni la qualite des plats au dîner."],
   ['Nina says the car is unreliable because the paint is scratched, even though the engine and brakes are fine.', "Nina dit que la voiture est peu fiable parce que la peinture est rayee, alors que le moteur et les freins vont bien."],
   ['Owen judges the school by one messy hallway and ignores the strong teachers and programs.', "Owen juge l ecole sur un seul couloir en desordre et ignore la qualite des enseignants et des programmes."],
   ['Priya says the phone is expensive, so the whole deal is bad, while ignoring the long warranty and good camera.', "Priya dit que le telephone est cher, donc que toute l offre est mauvaise, en ignorant la longue garantie et la bonne camera."],

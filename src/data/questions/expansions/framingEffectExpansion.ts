@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['A cereal box says "90% fat-free" instead of "10% fat," and Mia feels better about buying it.', "Une boite de cereales dit « 90% sans gras » au lieu de « 10% de gras », et Mia se sent mieux en l'achetant."],
-  ['Theo chooses the surgery described as "98% survival" rather than "2% mortality."', "Theo choisit la chirurgie decrite comme « 98% de survie » plutot que « 2% de mortalite »."],
+  ['A cereal box says "90% fat-free" instead of "10% fat," and Mia feels better about buying it for breakfast.', "Une boite de cereales dit « 90% sans gras » au lieu de « 10% de gras », et Mia se sent mieux en l'achetant pour le petit-dejeuner."],
+  ['Theo chooses the surgery described as "98% survival" rather than "2% mortality" at the clinic.', "Theo choisit la chirurgie decrite comme « 98% de survie » plutot que « 2% de mortalite » a la clinique."],
   ['Ava reacts differently to "3 out of 10 fail" than to "7 out of 10 pass," even though it is the same data.', "Ava reagit differemment a « 3 sur 10 echouent » qu'a « 7 sur 10 reussissent », meme si ce sont les memes donnees."],
   ['Ben prefers the app that says "only 1 in 100 errors" over the one that says "1% error rate."', "Ben prefere l'application qui dit « seulement 1 erreur sur 100 » plutot que celle qui dit « 1% de taux d'erreur »."],
   ['Rina thinks a refund of "up to $50" is better than "average refund of $20," without checking details.', "Rina pense qu'un remboursement « jusqu'a 50 $ » est meilleur qu'un « remboursement moyen de 20 $ », sans verifier les details."],
