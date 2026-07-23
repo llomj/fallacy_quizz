@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['A mechanic says this soup cures colds, so Maya adds it to her menu.', 'Un mécanicien dit que cette soupe guérit les rhumes, alors Maya l ajoute à son menu.'],
-  ['A dentist says this bike helmet is the best one, so Leo buys it.', 'Un dentiste dit que ce casque de vélo est le meilleur, alors Leo l achète.'],
+  ['A mechanic says this soup cures colds after hearing it once from a chef, so Maya adds it to her menu.', 'Un mécanicien dit que cette soupe guérit les rhumes apres l avoir entendu une fois d un chef, alors Maya l ajoute a son menu.'],
+  ['A dentist says this bike helmet is the best one for mountain climbing, so Leo buys it for his commute.', 'Un dentiste dit que ce casque de velo est le meilleur pour l alpinisme, alors Leo l achete pour aller au travail.'],
   ['A chef says this tax form is the simplest to use, so Nina trusts him.', 'Un chef dit que ce formulaire fiscal est le plus simple à utiliser, alors Nina le croit.'],
   ['A weather presenter says this pillow fixes back pain, so Omar orders it.', 'Une présentatrice météo dit que cet oreiller soigne le mal de dos, alors Omar le commande.'],
   ['A singer says this credit card is the safest, so Priya applies for it.', 'Une chanteuse dit que cette carte de crédit est la plus sûre, alors Priya en fait la demande.'],

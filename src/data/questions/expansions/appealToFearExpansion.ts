@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["A pop-up says your family photos will vanish unless you install this security app, so Jules installs it immediately.", "Une fenêtre surgissante dit que vos photos de famille disparaîtront si vous n'installez pas cette application de sécurité, alors Jules l'installe immédiatement."],
-  ["The email warns that skipping this webinar will ruin your career, and Mia signs up in a panic.", "Le courriel avertit que manquer ce webinaire ruinera votre carrière, et Mia s'inscrit dans la panique."],
+  ["A pop-up says your family photos will vanish in ten minutes unless you install this security app, so Jules installs it immediately.", "Une fenêtre surgissante dit que vos photos de famille disparaîtront dans dix minutes si vous n'installez pas cette application de sécurité, alors Jules l'installe immédiatement."],
+  ["The email warns that skipping this webinar will ruin your career by Friday, and Mia signs up in a panic.", "Le courriel avertit que manquer ce webinaire ruinera votre carrière d'ici vendredi, et Mia s'inscrit dans la panique."],
   ["A neighbor says, 'If you do not sign the petition, our street will become unsafe,' so Omar signs without checking.", "Un voisin dit : « Si tu ne signes pas la pétition, notre rue deviendra dangereuse », alors Omar signe sans vérifier."],
   ["A radio ad says one missed payment will destroy your future, so Priya buys the insurance plan.", "Une pub radio dit qu'un seul paiement manqué détruira votre avenir, alors Priya achète le contrat d'assurance."],
   ["The flyer shows a dark alley and says this charity is the only way to stop disaster, so Ben donates.", "Le prospectus montre une ruelle sombre et dit que cette association est le seul moyen d'éviter la catastrophe, alors Ben donne."],

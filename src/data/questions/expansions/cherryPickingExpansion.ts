@@ -1,7 +1,7 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["After six rainy picnic days and one sunny one, Sam only mentions the sunny day to prove summer is perfect.", "Apres six jours de pique-nique pluvieux et un seul ensoleille, Sam ne parle que du jour ensoleille pour prouver que l'ete est parfait."],
+  ["After six rainy picnic days and one sunny one, Sam says the whole summer is perfect because of the single sunny picnic.", "Apres six jours de pique-nique pluvieux et un seul ensoleille, Sam dit que tout l'ete est parfait a cause du seul pique-nique ensoleille."],
   ["Mia highlights the one positive review and ignores the ten bad ones.", "Mia met en avant le seul avis positif et ignore les dix mauvais."],
   ["Omar says the neighborhood is safe because one street had no crime last year, leaving out the rest.", "Omar dit que le quartier est sur parce qu'une rue n'a pas connu de crime l'an dernier, en laissant de cote le reste."],
   ["Priya only cites the two successful sales and forgets the eight failed launches.", "Priya ne cite que les deux ventes reussies et oublie les huit lancements rates."],

@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["The office buys a neon desk lamp because it was the most photographed item at the trade show.", "Le bureau achète une lampe de bureau néon parce que c'était l'objet le plus photographié au salon."],
-  ["Maya says the new café must be great because there is always a line outside.", "Maya dit que le nouveau café doit être excellent parce qu'il y a toujours une file dehors."],
+  ["The office buys a neon desk lamp because it was the most photographed item at the trade show, not because anyone checked if it works.", "Le bureau achète une lampe de bureau néon parce que c'était l'objet le plus photographié au salon, pas parce que quelqu'un a vérifié si elle marche."],
+  ["Maya says the new café must be great because there is always a line outside for iced lattes.", "Maya dit que le nouveau café doit être excellent parce qu'il y a toujours une file dehors pour les lattes glacés."],
   ["Theo trusts the shampoo because all his friends say they use it.", "Theo fait confiance au shampoing parce que tous ses amis disent l'utiliser."],
   ["The ad says millions love the sneakers, so they must be the right choice.", "La pub dit que des millions de personnes adorent les baskets, donc elles doivent être le bon choix."],
   ["Nina buys the same mug as the influencer because it is trending.", "Nina achète la même tasse que l'influenceuse parce qu'elle est à la mode."],
