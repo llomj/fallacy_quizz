@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Finn believes the joke is original, but it was already in his saved bookmarks.", "Finn croit que la blague est originale, mais elle était déjà dans ses favoris enregistrés."],
   ["Mia is convinced she coined the phrase, then finds it in a note from last week.", "Mia est convaincue d'avoir inventé la phrase, puis la retrouve dans une note de la semaine dernière."],
   ["Theo thinks his slogan came from nowhere, forgetting the flyer he copied by memory.", "Theo pense que son slogan est sorti de nulle part, en oubliant le prospectus qu'il a recopié de mémoire."],
+  ["Ava believes her new caption is fresh, not realizing it was a quote she liked yesterday.", "Ava croit que sa nouvelle légende est originale, sans réaliser que c'était une citation qu'elle avait aimée hier."],
+  ["Leo shares a study tip and forgets it came from the training session he attended.", "Leo partage un conseil d'étude et oublie qu'il venait de la séance de formation à laquelle il a assisté."],
+  ["Nina thinks the slogan popped into her head, but she saw it on a sticker at the gym.", "Nina pense que le slogan lui est venu spontanément, mais elle l'avait vu sur un autocollant à la salle de sport."],
+  ["Omar says the recipe is his own idea, not remembering the cooking show he copied it from.", "Omar dit que la recette vient de lui, sans se rappeler l'émission de cuisine qu'il a copiée."],
+  ["Priya is sure she invented the phrase, then notices it in an old note app screenshot.", "Priya est sûre d'avoir inventé la phrase, puis la remarque dans une capture d'écran d'une vieille note."],
+  ["Ben thinks the team name is original, but it was on a poster in the hallway.", "Ben pense que le nom de l'équipe est original, mais il figurait sur une affiche dans le couloir."],
+  ["Maya writes a line for a post and later realizes it came from a song lyric she heard all week.", "Maya écrit une phrase pour une publication et réalise plus tard qu'elle venait d'une parole de chanson entendue toute la semaine."],
+  ["Theo says the advice is his, forgetting the article he highlighted yesterday.", "Theo dit que le conseil est le sien, en oubliant l'article qu'il a surligné hier."],
+  ["Ava tells friends the joke is brand new, but it was in a meme she laughed at earlier.", "Ava dit à ses amis que la blague est toute nouvelle, mais elle était dans un meme qui l'a fait rire plus tôt."],
+  ["Mia is convinced the phrase is hers, then sees it in a notebook from class.", "Mia est convaincue que la phrase est à elle, puis la voit dans un cahier de cours."]
 ];
 
 const EN = ['Cryptomnesia', 'False Memory', 'Confirmation Bias', 'Anecdotal Fallacy'];

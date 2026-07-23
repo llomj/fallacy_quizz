@@ -53,6 +53,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Mina wore a sweater and the movie ended well, so sweaters improve endings.", "Mina a porte un pull et le film s'est bien termine, donc les pulls ameliorent les fins."],
   ["Kai used a highlighter and the meeting was kinder, so highlighters create kindness.", "Kai a utilise un surligneur et la reunion etait plus aimable, donc les surligneurs creent de la gentillesse."],
   ["Aria packed a charger and the coffee was delicious, so chargers improve coffee.", "Aria a emporte un chargeur et le cafe etait delicieux, donc les chargeurs ameliorent le cafe."],
+  ['A student notices people with umbrellas also buy coffee and says umbrellas make people want coffee.', 'Un eleve remarque que les gens avec des parapluies achetent aussi du cafe et dit que les parapluies donnent envie de cafe.'],
+  ['Mia sees tidy desks in rooms with happy teams and says tidy desks create happy teams.', 'Mia voit des bureaux ranges dans des pieces avec des equipes heureuses et dit que les bureaux ranges creent des equipes heureuses.'],
+  ['Omar sees more headphones in quiet cars and says headphones make cars quiet.', 'Omar voit plus de casques audio dans les voitures calmes et dit que les casques rendent les voitures calmes.'],
+  ['Priya notices snacks and laughter together and says snacks directly create laughter.', 'Priya remarque des collations et des rires ensemble et dit que les collations creeent directement les rires.'],
+  ['Ben sees clean kitchens in homes with relaxed families and says clean kitchens cause relaxation.', 'Ben voit des cuisines propres dans des maisons avec des familles detendues et dit que les cuisines propres causent la detente.'],
+  ['Ava sees more phones at concerts and says phones cause the concerts.', 'Ava voit plus de telephones aux concerts et dit que les telephones causent les concerts.'],
+  ['Leo notices gym bags and sore legs and says the bags made people sore.', 'Leo remarque des sacs de gym et des jambes douloureuses et dit que les sacs ont rendu les gens douloureux.'],
+  ['Nina sees calmer afternoons after school clubs start and says clubs magically calm afternoons.', 'Nina voit des apres-midis plus calmes apres le debut des clubs scolaires et dit que les clubs apaisent magiquement les apres-midis.'],
+  ['Theo notices more open books in quiet rooms and says books create silence.', 'Theo remarque plus de livres ouverts dans les pieces calmes et dit que les livres creent le silence.'],
+  ['Jade sees brighter screens in busy offices and says screens make offices busy.', 'Jade voit des ecrans plus lumineux dans les bureaux occupes et dit que les ecrans rendent les bureaux occupes.']
 ];
 
 const EN = ['Cum Hoc', 'Correlation Equals Causation', 'Post Hoc Ergo Propter Hoc', 'Coincidence'];

@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Priya says the bus delay caused everyone to chat because chatty people wait for buses.', 'Priya dit que le retard du bus a fait discuter tout le monde parce que les personnes bavardes attendent les bus.'],
   ['Finn says the garden caused calm evenings because calm people care for gardens.', 'Finn dit que le jardin a cause des soirees calmes parce que les gens calmes s occupent des jardins.'],
   ['Jade says the new schedule caused better focus because focused people like schedules.', 'Jade dit que le nouvel emploi du temps a cause une meilleure concentration parce que les personnes concentrees aiment les emplois du temps.'],
+  ['A student sees more library visits on rainy days and says rain makes people love books.', 'Un eleve voit plus de visites a la bibliotheque les jours de pluie et dit que la pluie rend les gens amateurs de livres.'],
+  ['Mia notices more tea sales when exams are near and says tea improves exam pressure.', 'Mia remarque plus de ventes de the quand les examens approchent et dit que le the ameliore la pression des examens.'],
+  ['Omar sees people wear coats on cold mornings and says coats create cold weather.', 'Omar voit des gens porter des manteaux les matins froids et dit que les manteaux creent le froid.'],
+  ['Priya notices more umbrellas after forecasts mention storms and says umbrellas cause storms.', 'Priya remarque plus de parapluies quand les previsions parlent d orages et dit que les parapluies causent les orages.'],
+  ['Ben sees more coffee cups in meetings that run long and says cups make meetings longer.', 'Ben voit plus de tasses de cafe dans les reunions qui durent longtemps et dit que les tasses rendent les reunions plus longues.'],
+  ['Ava notices smiling customers near a bakery and says the smiles come from the bread alone.', 'Ava remarque des clients souriants pres d une boulangerie et dit que les sourires viennent du pain seul.'],
+  ['Leo sees more traffic after the new mall opens and says malls create traffic.', 'Leo voit plus de trafic apres l ouverture du nouveau centre commercial et dit que les centres commerciaux creent le trafic.'],
+  ['Nina sees plants grow after she plays music and says music grows plants.', 'Nina voit les plantes pousser apres avoir joue de la musique et dit que la musique fait pousser les plantes.'],
+  ['Theo notices more homework on nights when he drinks soda and says soda causes homework.', 'Theo remarque plus de devoirs les soirs ou il boit du soda et dit que le soda cause les devoirs.'],
+  ['Jade sees more people outside when the weather is nice and says people make nice weather.', 'Jade voit plus de gens dehors quand il fait beau et dit que les gens fabriquent le beau temps.']
 ];
 
 const EN = ['Correlation Equals Causation', 'Post Hoc Ergo Propter Hoc', 'False Cause', 'Coincidence'];
