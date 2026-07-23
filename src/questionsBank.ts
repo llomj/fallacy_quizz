@@ -2,30 +2,89 @@ import type { Question } from './types';
 import { FALLACY_QUESTIONS_EN, FALLACY_QUESTIONS_FR } from './data/questions/fallaciesData';
 import { LEVEL_0_GEN_EN, LEVEL_0_GEN_FR } from './data/questions/level0Data';
 
-// Level 0 owns IDs 1001–1300 via level0Data. Fallacy questions use IDs <1000
-// (legacy) plus 1003+ (Level 1 expansion). Exclude only the Level 0 range.
-const FALLACY_GAME_IDS_ONLY_EN = FALLACY_QUESTIONS_EN.filter(
-  (q) => q.id < 1000 || (q.id >= 1003 && q.id < 11000)
+const LEVEL_0_ID_START = 1001;
+const LEVEL_0_ID_END = 1300;
+const FALLACY_COLLISION_OFFSET = 20000;
+
+/**
+ * Level 0 permanently owns IDs 1001-1300. Earlier expansion work reused 298
+ * of those IDs, so remap only that collision range while preserving every
+ * generated question and keeping the same deterministic IDs in EN and FR.
+ */
+function remapFallacyIdCollisions(questions: Question[]): Question[] {
+  return questions.map((question) => {
+    if (question.id < LEVEL_0_ID_START || question.id > LEVEL_0_ID_END) {
+      return question;
+    }
+
+    return {
+      ...question,
+      id: question.id + FALLACY_COLLISION_OFFSET,
+    };
+  });
+}
+
+function createQuestionBank(fallacies: Question[], foundations: Question[]): Question[] {
+  const bank = [...remapFallacyIdCollisions(fallacies), ...foundations];
+  const seenIds = new Set<number>();
+
+  for (const question of bank) {
+    if (seenIds.has(question.id)) {
+      throw new Error(`Duplicate question ID in assembled bank: ${question.id}`);
+    }
+    if (
+      question.options.length < 2 ||
+      question.correct_option_index < 0 ||
+      question.correct_option_index >= question.options.length
+    ) {
+      throw new Error(`Invalid answer configuration for question ID ${question.id}`);
+    }
+    seenIds.add(question.id);
+  }
+
+  return bank;
+}
+
+export const QUESTIONS_BANK_EN: Question[] = createQuestionBank(
+  FALLACY_QUESTIONS_EN,
+  LEVEL_0_GEN_EN
 );
-const FALLACY_GAME_IDS_ONLY_FR = FALLACY_QUESTIONS_FR.filter(
-  (q) => q.id < 1000 || (q.id >= 1003 && q.id < 11000)
+export const QUESTIONS_BANK_FR: Question[] = createQuestionBank(
+  FALLACY_QUESTIONS_FR,
+  LEVEL_0_GEN_FR
 );
 
-export const QUESTIONS_BANK_EN: Question[] = [...FALLACY_GAME_IDS_ONLY_EN, ...LEVEL_0_GEN_EN];
-export const QUESTIONS_BANK_FR: Question[] = [...FALLACY_GAME_IDS_ONLY_FR, ...LEVEL_0_GEN_FR];
+function assertLanguageBankParity(en: Question[], fr: Question[]): void {
+  if (en.length !== fr.length) {
+    throw new Error(`EN/FR question-bank length mismatch: ${en.length} vs ${fr.length}`);
+  }
 
-export const QUESTIONS_BANK: Question[] = QUESTIONS_BANK_EN; // Default fallback
+  const frById = new Map(fr.map((question) => [question.id, question]));
+  for (const question of en) {
+    const frenchQuestion = frById.get(question.id);
+    if (!frenchQuestion) {
+      throw new Error(`Missing French question for ID ${question.id}`);
+    }
+    if (frenchQuestion.level !== question.level) {
+      throw new Error(`EN/FR level mismatch for question ID ${question.id}`);
+    }
+  }
+}
 
-/** Max question ID (1-based). Must match the highest id in fallaciesData. */
-export const MAX_QUESTION_ID = Math.max(...QUESTIONS_BANK_EN.map((q) => q.id));
+assertLanguageBankParity(QUESTIONS_BANK_EN, QUESTIONS_BANK_FR);
 
-/** Returns the question bank for the given language (EN or FR). */
+export const QUESTIONS_BANK: Question[] = QUESTIONS_BANK_EN;
+
+/** Highest assembled question ID, including remapped expansion records. */
+export const MAX_QUESTION_ID = Math.max(...QUESTIONS_BANK_EN.map((question) => question.id));
+
+/** Returns the question bank for the requested language. */
 export function getQuestionBank(language: string): Question[] {
   return language === 'fr' ? QUESTIONS_BANK_FR : QUESTIONS_BANK_EN;
 }
 
-/** Returns a canonical question by id from the EN or FR bank for language remapping. */
+/** Returns the matching localized question without changing its scenario ID. */
 export function getQuestionById(id: number, lang: 'en' | 'fr'): Question | undefined {
   const bank = lang === 'fr' ? QUESTIONS_BANK_FR : QUESTIONS_BANK_EN;
-  return bank.find((q) => q.id === id);
+  return bank.find((question) => question.id === id);
 }
