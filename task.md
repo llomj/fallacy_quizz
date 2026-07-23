@@ -48,7 +48,8 @@
 - [x] Created `reports/fallacy-expansion-audit.json` with counts, IDs, and EN/FR label mappings.
 - [x] Normalize 205 raw English correct-answer labels into 168 canonical educational targets: 92 fallacies/reasoning errors, 69 biases/effects, and 7 named principles. Excluded 24 non-concept answer fragments and merged 13 aliases. See `reports/canonical-fallacy-catalog.json`.
 - [ ] Repair the 461 legacy EN/FR option-position mismatches below ID 1000; many are different scenarios rather than translations.
-- [ ] Generate and validate +50 unique EN/FR pairs for each of the 168 approved canonical targets (8,400 pairs / 16,800 language records). Canonical French labels are approved with zero gaps. **Progress: 87 / 168 targets, 4,350 / 8,400 pairs.**
+- [ ] Generate and validate +50 unique EN/FR pairs for each of the 168 approved canonical targets (8,400 pairs / 16,800 language records). Canonical French labels are approved with zero gaps. **Progress: 88 / 168 targets, 4,400 / 8,400 pairs.**
+  - [x] Historian's Fallacy: IDs 38301-38350, 50 EN + 50 FR, additive to 6 existing questions.
   - [x] Hindsight Bias: IDs 38201-38250, 50 EN + 50 FR, additive to 6 existing questions.
   - [x] Herd Mentality: IDs 38101-38150, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Hasty Generalization: IDs 38001-38050, 50 EN + 50 FR, additive to 232 existing questions.
