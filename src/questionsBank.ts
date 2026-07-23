@@ -73,6 +73,13 @@ function assertLanguageBankParity(en: Question[], fr: Question[]): void {
 
 assertLanguageBankParity(QUESTIONS_BANK_EN, QUESTIONS_BANK_FR);
 
+const QUESTION_BANK_IDS = new Set(QUESTIONS_BANK_EN.map((question) => question.id));
+
+/** True when an ID belongs to the assembled fallacy quiz rather than legacy CLI content. */
+export function isQuestionBankId(id: number): boolean {
+  return QUESTION_BANK_IDS.has(id);
+}
+
 export const QUESTIONS_BANK: Question[] = QUESTIONS_BANK_EN;
 
 /** Highest assembled question ID, including remapped expansion records. */
