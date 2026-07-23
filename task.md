@@ -48,7 +48,7 @@
 - [x] Created `reports/fallacy-expansion-audit.json` with counts, IDs, and EN/FR label mappings.
 - [x] Normalize 205 raw English correct-answer labels into 168 canonical educational targets: 92 fallacies/reasoning errors, 69 biases/effects, and 7 named principles. Excluded 24 non-concept answer fragments and merged 13 aliases. See `reports/canonical-fallacy-catalog.json`.
 - [ ] Repair the 461 legacy EN/FR option-position mismatches below ID 1000; many are different scenarios rather than translations.
-- [ ] Generate and validate +50 unique EN/FR pairs for each of the 168 approved canonical targets (8,400 pairs / 16,800 language records). Canonical French labels are approved with zero gaps. **Progress: 32 / 168 targets, 1,600 / 8,400 pairs.**
+- [ ] Generate and validate +50 unique EN/FR pairs for each of the 168 approved canonical targets (8,400 pairs / 16,800 language records). Canonical French labels are approved with zero gaps. **Progress: 33 / 168 targets, 1,650 / 8,400 pairs.**
   - [x] Ad Hominem: IDs 30001-30050, 50 EN + 50 FR, additive to 125 existing questions.
   - [x] Affirmative Conclusion from Negative Premises: IDs 30051-30100, 50 EN + 50 FR, additive to 100 existing questions.
   - [x] Affirming the Consequent: IDs 30101-30150, 50 EN + 50 FR, additive to 101 existing questions.
@@ -80,6 +80,7 @@
   - [x] Clustering Illusion: IDs 32751-32800, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Composition Fallacy: IDs 32801-32850, 50 EN + 50 FR, additive to 7 existing questions.
   - [x] Confirmation Bias: IDs 32851-32900, 50 EN + 50 FR, additive to 6 existing questions.
+  - [x] Consistency Bias: IDs 32901-32950, 50 EN + 50 FR, additive to 3 existing questions.
 - [ ] Run duplicate, parity, random-mode, level-mode, language-switch, offline, and production-build validation after every batch.
 
 **Important:** The raw label count is not the final canonical count. Do not generate 50 questions for every raw label until its `catalogStatus` is reviewed in the audit manifest.
