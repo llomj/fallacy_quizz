@@ -1,7 +1,24 @@
 # Logical Fallacies Learn - AI Agent Operational Rules
 
+## 0. Canonical Fallacy Expansion Contract (USER-DIRECTED, DO NOT REINTERPRET)
+
+- **Preserve existing work:** Never delete, replace, or rewrite the existing question bank merely to satisfy an expansion target. New questions are additive unless the user explicitly requests corrections or removal.
+- **Target is per fallacy, not per level:** The expansion target applies to every canonical fallacy used as a **correct answer** in gameplay. It does not mean 50 or 100 questions per level.
+- **Current expansion target:** Add **50 new unique bilingual question pairs per canonical fallacy**, in addition to questions already present. Only the user may change this number.
+- **Audit before generation:** Build the canonical target list from normalized correct answers. Do not treat every distractor in `options` as a taught fallacy. Identify and document aliases, spelling variants, French equivalents, biases, foundation concepts, and `No fallacy` separately before counting targets.
+- **No scope substitution:** An agent must not silently replace this target with a smaller level-based target, a fixed total-question target, only the fallacies named in `LEVELS`, or only a convenient subset. If the full task cannot be completed in one pass, preserve the target and record exact completed and remaining counts.
+- **English and French are one unit:** Every new English question must have a natural French counterpart with the **same ID, level, correct fallacy, logical structure, difficulty, and answer position**. Switching languages must show the same scenario localized into the selected language, never a different question.
+- **Meaningful uniqueness:** Each new question must use a genuinely different scenario and wording. Changing only names, objects, numbers, locations, or a few synonyms does not make a question unique.
+- **Writing standard:** Questions must be fun, clear, concise, and easy for a general audience to understand. Prefer recognizable everyday situations such as family, friends, school, work, shopping, food, hobbies, sport, social media, travel, and neighborhood life. Avoid generic textbook filler and unnecessarily obscure knowledge.
+- **Educational correctness:** The scenario must clearly instantiate its correct fallacy. Wrong answers must be plausible but unambiguously less accurate. Explanations must state, in plain language, exactly what the reasoning mistake is.
+- **Controlled batches:** Generate additions in reviewable batches with a machine-readable manifest recording canonical fallacy, aliases, existing count, added count, English IDs, French IDs, and validation status. Batching is a delivery method only; it does not reduce or redefine the final target.
+- **Required validation:** Before a batch is complete, verify EN/FR ID parity, equal bank lengths, valid answer indexes, matching correct-answer meanings, unique question text, no superficial scenario duplicates, valid levels, and a successful production build.
+- **Progress truthfulness:** Never report a fallacy or batch complete based only on generated file size or question count. Report exact validated totals and clearly identify any remaining work or quality-review risk.
+- **Standing Git instruction:** After a requested task is fully implemented and validated, commit it and push with `git push fallacy main`. Do not push this app to `origin`. The user's standing instruction removes the need to ask again before routine task commits; ask only if a commit would include unrelated or uncertain changes.
+
+
 ## 1. Genome Checkpoint (STRICT STATE)
-- **Target**: 900 logical fallacy questions (current question bank).
+- **Baseline**: The original gameplay bank contains 900 logical-fallacy questions. This is a historical baseline, not the final expansion target; Section 0 controls all additive question work.
 - **Domain**: 100% logical fallacies and argument analysis (formal, informal, syllogistic, probabilistic, rhetorical, etc.). The previous Python/CLI genome is deprecated and treated as legacy content only.
 - **Uniqueness Level**: HIGH VARIANCE MANDATED.
 - **Rule**: All 900 questions must be unique. Every question must present a distinct argumentative scenario or reasoning pattern. No duplicated stories with only surface changes. Repetitive patterns are considered a failure of educational integrity.
@@ -22,8 +39,8 @@
 - **Batch memory**: `task.md` is the source of truth for which batch is complete and what comes next. Check it before starting a batch, and update it immediately after finishing one so the next agent can continue without guessing.
 - **Debugging Reference**: Agents must always consult `ps.md` for debugging information and urgent issues.
 
-## 4. The 900-Question Genome Goal
-- **Current State**: 900 logical fallacy questions. All 900 must be unique with distinct argumentative scenarios.
+## 4. Original 900-Question Genome Baseline
+- **Baseline state**: The original 900 logical-fallacy questions must remain unique with distinct argumentative scenarios. New per-fallacy additions required by Section 0 expand beyond this baseline.
 - **In-depth UI (beginner / detail)**: EN+FR standalone panels for fallacy IDs **1–900** are wired via `level1StandaloneInDepth.ts` and `level2to10StandaloneInDepth.ts`; Level **0** uses `level0StandaloneInDepth.ts` (1001–1300). The new **two-tier format** (beginner = one-liner; detail = full breakdown) replaces the old beginner/intermediate/expert system. **Authoring tracker:** `task.md`.
 - **Codon display contract**: when a codon / fallback explanation is shown, `Beginner` means the one-line version only; `Detail` means the full breakdown, including `Description`, `Example`, `How it works`, `So:`, `Key concept inside it`, `Why it matters`, `The uncomfortable implication`, and `One-line version`. English and French must stay structurally identical.
 - **Status**: Logical fallacy genome IN PROGRESS. Existing CLI question genome is archived/legacy and must not be used for new gameplay content.
@@ -34,7 +51,7 @@
 - **Layout Preservation**: Agents must never change the layout of the app when making changes unless explicitly asked by the user.
 - **Debugging Reference**: Agents must always consult ps.md for debugging information.
 - **Browser Testing**: Agents must always test the app in the browser first to ensure it works and opens correctly before pushing to Git.
-- **User Consent for Commits**: Agents must always ask the user for approval before committing to Git.
+- **Commit authorization**: Follow the standing Git instruction in Section 0. Routine completed task commits do not require repeated approval.
 - **Deploy mismatch**: When "local (Cursor) looks correct but deployed site is different", follow the **DIAGNOSTIC CHECKLIST** in ps.md. Do NOT repeat cache-clearing advice. Check Pages Source = GitHub Actions first; check two remotes (push to `fallacy`, not `origin`).
 
 ### 5.1 GitHub remote and deploy path (CRITICAL — avoid wrong-repo deploy)
