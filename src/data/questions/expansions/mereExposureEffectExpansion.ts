@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['Mia starts liking a brand of tea only because she has seen the box on the shelf every week.', 'Mia commence à aimer une marque de thé simplement parce qu elle voit la boîte sur l étagère chaque semaine.'],
-  ['Leo keeps choosing the same sandwich because the wrapper has become familiar.', 'Leo continue de choisir le même sandwich parce que son emballage lui est devenu familier.'],
+  ['Mia starts liking a brand of tea only because she has seen the box on the shelf every week at the store.', 'Mia commence à aimer une marque de thé simplement parce qu elle voit la boîte sur l étagère chaque semaine au magasin.'],
+  ['Leo keeps choosing the same sandwich because the wrapper has become familiar from lunch breaks.', 'Leo continue de choisir le même sandwich parce que son emballage lui est devenu familier pendant les pauses déjeuner.'],
   ['Nina trusts a song more after hearing it in the cafe every morning.', 'Nina fait davantage confiance à une chanson après l avoir entendue tous les matins au café.'],
   ['Owen says he prefers the blue notebook because he has seen it around the office for months.', 'Owen dit qu il préfère le carnet bleu parce qu il l a vu traîner au bureau pendant des mois.'],
   ['Priya starts thinking the new bakery is better simply because she passes it every day.', 'Priya commence à penser que la nouvelle boulangerie est meilleure simplement parce qu elle passe devant tous les jours.'],

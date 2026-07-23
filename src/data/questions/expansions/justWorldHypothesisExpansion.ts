@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['Maya hears about a neighbor losing a job and says they must have done something to deserve it.', "Maya apprend qu un voisin a perdu son emploi et dit qu il a forcement fait quelque chose pour meriter cela."],
-  ['Leo sees a classmate fail a test and assumes the student was lazy or careless.', "Leo voit un camarade echouer a un test et suppose que l eleve etait paresseux ou negligéant."],
+  ['Maya hears about a neighbor losing a job and says they must have done something to deserve it at work.', "Maya apprend qu un voisin a perdu son emploi et dit qu il a forcement fait quelque chose pour meriter cela au travail."],
+  ['Leo sees a classmate fail a test and assumes the student was lazy or careless during the week.', "Leo voit un camarade echouer a un test et suppose que l eleve etait paresseux ou negligéant pendant la semaine."],
   ['Nina says the person who got sick probably did not take enough care of themselves.', "Nina dit que la personne malade n a probablement pas assez pris soin d elle-meme."],
   ['Owen hears about a family losing their home and says it must be because they made bad choices.', "Owen entend parler d une famille qui a perdu sa maison et dit que c est forcement parce qu elle a fait de mauvais choix."],
   ['Priya says anyone who gets scammed probably was not smart enough to avoid it.', "Priya dit que toute personne arnaquee n etait probablement pas assez intelligente pour eviter cela."],
