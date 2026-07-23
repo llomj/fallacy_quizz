@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["Alex says the article must be wrong because one paragraph had a typo, even though the data in the report still supports it.", "Alex dit que l'article doit être faux parce qu'un paragraphe contenait une faute de frappe, même si les données du rapport l'appuient toujours."],
-  ["Maya rejects the budget proposal because the speaker cleared her throat twice.", "Maya rejette la proposition budgétaire parce que l'oratrice s'est raclé la gorge deux fois."],
+  ["Alex says the article must be wrong because one paragraph had a typo, even though the data in the report still supports it.", "Alex dit que l'article doit etre faux parce qu'un paragraphe contenait une faute de frappe, meme si les donnees du rapport l'appuient toujours."],
+  ["Maya rejects the budget proposal because the speaker cleared her throat twice before lunch.", "Maya rejette la proposition budgetaire parce que l'oratrice s'est racle la gorge deux fois avant le déjeuner."],
   ["Theo says the weather forecast is invalid because the presenter wore bright socks.", "Theo dit que la météo n'est pas crédible parce que le présentateur portait des chaussettes voyantes."],
   ["Lina dismisses the safety plan because the manager mixed up two slide titles.", "Lina rejette le plan de sécurité parce que la responsable a inversé deux titres de diapositives."],
   ["Omar insists the new rule is false since the debater sounded nervous.", "Omar insiste pour dire que la nouvelle règle est fausse puisque le débatteur avait l'air nerveux."],

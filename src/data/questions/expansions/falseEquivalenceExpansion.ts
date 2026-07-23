@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['Megan said forgetting one meeting is the same as missing a whole work shift, as if the impact were identical.', "Megan a dit qu'oublier une reunion est la meme chose que manquer tout un quart de travail, comme si l'impact etait identique."],
-  ['Owen compared being late to class with failing every exam, as if the two problems were equal.', "Owen a compare arriver en retard en cours avec echouer a tous les examens, comme si les deux problemes etaient equivalents."],
+  ['Megan said forgetting one meeting is the same as missing a whole work shift, as if the impact were identical at the office.', "Megan a dit qu'oublier une reunion est la meme chose que manquer tout un quart de travail, comme si l'impact etait identique au bureau."],
+  ['Owen compared being late to class with failing every exam, as if the two problems were equal on a report card.', "Owen a compare arriver en retard en cours avec echouer a tous les examens, comme si les deux problemes etaient equivalentes sur un bulletin."],
   ['Rita said a rude email is the same as a threat, even though one is far less severe.', "Rita a dit qu'un e-mail grossier est la meme chose qu'une menace, meme si l'un est bien moins grave."],
   ['Ben treated a typo in a report as equal to lying in the report.', "Ben a traite une faute de frappe dans un rapport comme l'equivalent de mentir dans le rapport."],
   ['Ava said buying a snack is the same as being irresponsible with money.', "Ava a dit qu'acheter un snack etait la meme chose qu'etre irresponsable avec son argent."],

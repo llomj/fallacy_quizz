@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["The app is the best because it says it is the best.", "L'application est la meilleure parce qu'elle dit qu'elle est la meilleure."],
-  ["Marta trusts the rumor because everybody says the rumor is true.", "Marta fait confiance a la rumeur parce que tout le monde dit que la rumeur est vraie."],
+  ["The app is the best because it says in its own banner that it is the best.", "L'application est la meilleure parce qu'elle le dit dans sa propre bannière."],
+  ["Marta trusts the rumor because everybody repeats that the rumor is true at lunch.", "Marta fait confiance a la rumeur parce que tout le monde repete qu'elle est vraie au déjeuner."],
   ["The coach is right because the coach always knows the right answer.", "L'entraineur a raison parce que l'entraineur connait toujours la bonne reponse."],
   ["Leo says the class is fair because fair classes are the ones Leo likes.", "Leo dit que le cours est juste parce que les cours justes sont ceux que Leo aime."],
   ["Ava insists the new policy works because working policies are the ones that work.", "Ava insiste pour dire que la nouvelle politique fonctionne parce que les politiques qui fonctionnent sont celles qui fonctionnent."],

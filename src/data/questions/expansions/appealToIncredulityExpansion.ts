@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["Mira says the app cannot be useful because she cannot picture using it on the bus while standing.", "Mira dit que l'application ne peut pas être utile parce qu'elle n'arrive pas à l'imaginer dans le bus debout."],
-  ["Theo refuses the repair estimate because the price seems impossible to him for a broken toaster.", "Theo refuse le devis de réparation parce que le prix lui paraît impossible pour un grille-pain cassé."],
+  ["Mira says the app cannot be useful because she cannot picture using it on the bus while standing with a backpack.", "Mira dit que l'application ne peut pas etre utile parce qu'elle n'arrive pas a l'imaginer dans le bus debout avec un sac a dos."],
+  ["Theo refuses the repair estimate because the price seems impossible to him for a broken toaster in the kitchen.", "Theo refuse le devis de reparation parce que le prix lui parait impossible pour un grille-pain casse dans la cuisine."],
   ["The class rejects the schedule because it feels too neat to be real.", "La classe rejette l'horaire parce qu'il paraît trop bien organisé pour être réel."],
   ["A shopper says the discount must be fake because it sounds unbelievable.", "Une cliente dit que la réduction doit être fausse parce qu'elle semble incroyable."],
   ["Nina dismisses the science article because the result does not make intuitive sense to her.", "Nina rejette l'article scientifique parce que le résultat ne lui paraît pas logique."],

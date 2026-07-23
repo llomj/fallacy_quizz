@@ -2,16 +2,16 @@ import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   [
-    "Maya's bike-lane idea is obviously terrible; she cannot even parallel park.",
-    "L'idée de Maya sur les pistes cyclables est forcément mauvaise : elle ne sait même pas faire un créneau."
+    "Maya's bike-lane idea is obviously terrible; she cannot even parallel park at the grocery store.",
+    "L'idée de Maya sur les pistes cyclables est forcément mauvaise : elle ne sait même pas faire un créneau au supermarché."
   ],
   [
-    "Do not listen to Leo's lunch-menu proposal; he burns toast at home.",
-    "N'écoutez pas la proposition de Leo pour le menu : chez lui, il brûle même ses tartines."
+    "Do not listen to Leo's lunch-menu proposal; he burns toast at home and forgets salt.",
+    "N'écoutez pas la proposition de Leo pour le menu : chez lui, il brûle même ses tartines et oublie le sel."
   ],
   [
-    "Nina's remote-work plan cannot be sensible because she wears pajamas during video calls.",
-    "Le plan de télétravail de Nina ne peut pas être sérieux puisqu'elle porte un pyjama pendant les visioconférences."
+    "Nina's remote-work plan cannot be sensible because she wears pajamas during video calls on Mondays.",
+    "Le plan de télétravail de Nina ne peut pas être sérieux puisqu'elle porte un pyjama pendant les visioconférences du lundi."
   ],
   [
     "Omar says our building should recycle more, but his bedroom is a mess, so ignore him.",

@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["Sam drank coffee before the meeting and then spoke well, so coffee must make people smart.", "Sam a bu du cafe avant la reunion puis a bien parle, donc le cafe doit rendre les gens intelligents."],
-  ["Mia wore her lucky socks and the team won, so the socks caused the win.", "Mia a porte ses chaussettes porte-bonheur et l'equipe a gagne, donc les chaussettes ont cause la victoire."],
+  ["Sam drank coffee before the meeting and then spoke well, so coffee must make people smart during meetings.", "Sam a bu du cafe avant la reunion puis a bien parle, donc le cafe doit rendre les gens intelligents pendant les reunions."],
+  ["Mia wore her lucky socks and the team won, so the socks caused the win on Friday night.", "Mia a porte ses chaussettes porte-bonheur et l'equipe a gagne, donc les chaussettes ont cause la victoire vendredi soir."],
   ["Omar noticed more ice cream sales on hot days, so ice cream causes heat.", "Omar a remarque plus de ventes de glace les jours chauds, donc la glace cause la chaleur."],
   ["Priya got a good grade after staying up late, so sleep loss must improve grades.", "Priya a eu une bonne note apres etre restee eveillee tard, donc le manque de sommeil doit ameliorer les notes."],
   ["Ben saw that rainy days come with umbrella use, so umbrellas make it rain.", "Ben a vu que les jours de pluie viennent avec des parapluies, donc les parapluies font tomber la pluie."],

@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["The team has three strong players, so the whole team must be unbeatable.", "L'equipe a trois joueurs forts, donc toute l'equipe doit etre imbattable."],
-  ["Because each brick is small, the wall must be weak.", "Parce que chaque brique est petite, le mur doit etre fragile."],
+  ["The team has three strong players, so the whole team must be unbeatable on game night.", "L'equipe a trois joueurs forts, donc toute l'equipe doit etre imbattable le soir du match."],
+  ["Because each brick is small, the wall must be weak around the garage.", "Parce que chaque brique est petite, le mur doit etre fragile autour du garage."],
   ["Every ingredient tastes good on its own, so the soup has to be excellent.", "Chaque ingredient a bon gout seul, donc la soupe doit etre excellente."],
   ["The city has many quiet streets, so the entire city is peaceful.", "La ville a beaucoup de rues calmes, donc toute la ville est paisible."],
   ["The class has smart students, so the whole class must understand everything.", "La classe a des eleves intelligents, donc toute la classe doit tout comprendre."],

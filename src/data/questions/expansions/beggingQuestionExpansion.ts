@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["The app must be trustworthy because trustworthy apps are the ones people trust.", "L'application doit etre fiable parce que les applications fiables sont celles auxquelles on fait confiance."],
-  ["Mila says the policy is fair because fair policies are the ones that seem fair.", "Mila dit que la politique est juste parce que les politiques justes sont celles qui paraissent justes."],
+  ["The app must be trustworthy because its own ad says it is the best app.", "L'application doit etre fiable parce que sa propre pub dit que c'est la meilleure application."],
+  ["Mila says the policy is fair because fair policies are the ones that seem fair to everyone.", "Mila dit que la politique est juste parce que les politiques justes sont celles qui paraissent justes a tout le monde."],
   ["The town is safe because safe towns are towns where nothing bad happens.", "La ville est sure parce que les villes sures sont des villes ou rien de mauvais n'arrive."],
   ["Ben says the movie is funny because funny movies are the ones that make people laugh.", "Ben dit que le film est drole parce que les films droles sont ceux qui font rire les gens."],
   ["The plan will work because successful plans are the ones that work.", "Le plan marchera parce que les plans qui reussissent sont ceux qui marchent."],
