@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["This soap must be safe because it is made from natural oils.", "Ce savon doit être sans danger parce qu'il est fabriqué à partir d'huiles naturelles."],
-  ["A friend says the medicine is bad because it is synthetic, while the herb tea is good because it is natural.", "Un ami dit que le médicament est mauvais parce qu'il est synthétique, alors que la tisane est bonne parce qu'elle est naturelle."],
+  ["This soap must be safe because it is made from natural oils and smells like lavender.", "Ce savon doit être sans danger parce qu'il est fabriqué à partir d'huiles naturelles et sent la lavande."],
+  ["A friend says the medicine is bad because it is synthetic, while the herb tea is good because it is natural and 'from the earth'.", "Un ami dit que le médicament est mauvais parce qu'il est synthétique, alors que la tisane est bonne parce qu'elle est naturelle et « vient de la terre »."],
   ["The ad claims the wooden toy is healthier than the plastic one just because it comes from a tree.", "La pub affirme que le jouet en bois est plus sain que le jouet en plastique simplement parce qu'il vient d'un arbre."],
   ["Mira refuses the clean water filter because 'real' water should come straight from a stream.", "Mira refuse le filtre à eau propre parce que la vraie eau devrait venir directement d'une rivière."],
   ["A shopper says the raw snack is better than the cooked one because it is less processed.", "Une cliente dit que la collation crue est meilleure que la cuite parce qu'elle est moins transformée."],

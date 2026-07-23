@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['Sam says you either work overtime every night or you do not care about the team, as if normal effort does not exist.', "Sam dit que soit tu fais des heures sup tous les soirs soit tu ne te soucies pas de l'equipe, comme si l effort normal n existait pas."],
-  ['Mia says the trip was either luxury or a disaster, with no normal vacation in between, so she ignores the decent parts.', "Mia dit que le voyage etait soit luxueux soit desastreux, sans vacance normale entre les deux, alors elle ignore les parties correctes."],
+  ['Sam says you either work overtime every night or you do not care about the team, as if normal effort does not exist on weekdays.', "Sam dit que soit tu fais des heures sup tous les soirs soit tu ne te soucies pas de l'equipe, comme si l effort normal n existait pas en semaine."],
+  ['Mia says the trip was either luxury or a disaster, with no normal vacation in between, so she ignores the decent parts from the beach days.', "Mia dit que le voyage etait soit luxueux soit desastreux, sans vacance normale entre les deux, alors elle ignore les parties correctes des jours a la plage."],
   ['Theo says the new phone is either perfect or useless because one feature bugs him.', "Theo dit que le nouveau telephone est soit parfait soit inutile parce qu'une seule fonction le derange."],
   ['Ava says you either agree with every rule at the office or you want chaos.', "Ava dit que soit tu es d'accord avec chaque regle au bureau soit tu veux le chaos."],
   ['Leo says the movie is either genius or trash, so mixed feelings are impossible.', "Leo dit que le film est soit genial soit nul, donc les sentiments melanges sont impossibles."],

@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["After hearing one story about a missed train, Jules assumes every trip is a disaster and starts packing snacks for three days.", "Apres avoir entendu une histoire de train manque, Jules suppose que chaque trajet est un desastre et commence a preparer des collations pour trois jours."],
-  ["A bad news clip makes Nina think the whole city is unsafe, even though she has only visited the airport.", "Un extrait d'actualites inquietant fait penser a Nina que toute la ville est dangereuse, alors qu'elle n'a visite que l'aeroport."],
+  ["After hearing one story about a missed train, Jules assumes every trip is a disaster and starts packing snacks for three days before leaving.", "Apres avoir entendu une histoire de train manque, Jules suppose que chaque trajet est un desastre et commence a preparer des collations pour trois jours avant de partir."],
+  ["A bad news clip makes Nina think the whole city is unsafe, even though she has only visited the airport gift shop.", "Un extrait d'actualites inquietant fait penser a Nina que toute la ville est dangereuse, alors qu'elle n'a visite que la boutique de souvenirs de l'aeroport."],
   ["Milo saw two dog bites on social media and now assumes every dog is aggressive.", "Milo a vu deux morsures de chien sur les reseaux sociaux et suppose maintenant que tous les chiens sont agressifs."],
   ["Because her uncle had car trouble last winter, Sana thinks every electric car is unreliable.", "Parce que son oncle a eu une panne de voiture l'hiver dernier, Sana pense que toutes les voitures electriques sont peu fiables."],
   ["Theo remembers one expensive restaurant mistake and decides all restaurants downtown are overpriced.", "Theo se souvient d'une seule mauvaise note au restaurant et decide que tous les restaurants du centre-ville sont hors de prix."],

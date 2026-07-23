@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["After hearing one complaint about the app, Sam ignores the stack of positive reviews and says it is clearly bad, because the complaint matches what he wanted to believe.", "Apres avoir entendu une seule plainte sur l'application, Sam ignore la pile d'avis positifs et dit qu'elle est clairement mauvaise, parce que la plainte correspond a ce qu'il voulait croire."],
-  ["Mia already thinks homework is pointless, so she only notices stories that make homework look useless and skips the rest.", "Mia pense deja que les devoirs sont inutiles, donc elle ne remarque que les histoires qui font passer les devoirs pour inutiles et saute le reste."],
+  ["After hearing one complaint about the app, Sam ignores the stack of positive reviews and says it is clearly bad, because the complaint matches what he wanted to believe about updates.", "Apres avoir entendu une seule plainte sur l'application, Sam ignore la pile d'avis positifs et dit qu'elle est clairement mauvaise, parce que la plainte correspond a ce qu'il voulait croire sur les mises a jour."],
+  ["Mia already thinks homework is pointless, so she only notices stories that make homework look useless and skips the rest from teachers.", "Mia pense deja que les devoirs sont inutiles, donc elle ne remarque que les histoires qui font passer les devoirs pour inutiles et saute le reste venant des professeurs."],
   ["Omar loves his new phone, so he keeps reading tests that praise it and skips the critical ones.", "Omar adore son nouveau telephone, donc il ne lit que les tests qui le louent et saute ceux qui le critiquent."],
   ["Priya believes the city is unsafe, and every siren she hears becomes proof in her mind.", "Priya croit que la ville est dangereuse, et chaque sirene qu'elle entend devient une preuve dans son esprit."],
   ["Ben thinks the cafe is amazing, so he remembers every nice barista and forgets the rude cashier.", "Ben pense que le cafe est genial, donc il se souvient de chaque barista aimable et oublie le caissier impoli."],
