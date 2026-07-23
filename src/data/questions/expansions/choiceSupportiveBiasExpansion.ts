@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["After buying a loud blender, Sam keeps talking about the smoothie speed and ignores the noise and cleanup in the morning.", "Apres avoir achete un blender bruyant, Sam ne parle que de la vitesse pour les smoothies et ignore le bruit et le nettoyage du matin."],
-  ["Nina picks the expensive gym membership and then focuses only on the free towels and smoothies at the desk.", "Nina choisit l'abonnement de salle de sport cher puis ne retient que les serviettes et les smoothies gratuits a l'accueil."],
+  ["After buying a loud blender, Sam keeps talking about the smoothie speed and ignores the noise and cleanup in the morning kitchen.", "Apres avoir achete un blender bruyant, Sam ne parle que de la vitesse pour les smoothies et ignore le bruit et le nettoyage de la cuisine le matin."],
+  ["Nina picks the expensive gym membership and then focuses only on the free towels and smoothies at the front desk.", "Nina choisit l'abonnement de salle de sport cher puis ne retient que les serviettes et les smoothies gratuits a l'accueil."],
   ["Omar chooses the new laptop and later brags about the screen while forgetting the battery complaints.", "Omar choisit le nouvel ordinateur portable puis vante l'ecran en oubliant les plaintes sur la batterie."],
   ["Mia buys the apartment and keeps pointing to the sunny window while dismissing the long commute.", "Mia achete l'appartement et ne cesse de parler de la fenetre ensoleillee en minimisant le long trajet."],
   ["Theo orders the fancy coffee machine and only mentions the perfect foam, not the broken settings.", "Theo commande la machine a cafe chic et ne parle que de la mousse parfaite, pas des reglages defectueux."],

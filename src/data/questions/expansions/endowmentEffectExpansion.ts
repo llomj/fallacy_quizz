@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["Leo refuses to sell the mug he got for free at work, even though he never uses it and a neighbor offered good money for it.", "Leo refuse de vendre la tasse gratuite reçue au travail, même s'il ne l'utilise jamais et qu'un voisin a offert un bon prix pour elle."],
-  ["Maya thinks her old chair is worth more than a better new one just because she has sat in it for years by her desk.", "Maya pense que sa vieille chaise vaut plus qu'une chaise neuve plus confortable simplement parce qu'elle l'utilise depuis des années a son bureau."],
+  ["Leo refuses to sell the mug he got for free at work, even though he never uses it and a neighbor offered good money for it at lunch.", "Leo refuse de vendre la tasse gratuite reçue au travail, même s'il ne l'utilise jamais et qu'un voisin a offert un bon prix pour elle au déjeuner."],
+  ["Maya thinks her old chair is worth more than a better new one just because she has sat in it for years by her desk at home.", "Maya pense que sa vieille chaise vaut plus qu'une chaise neuve plus confortable simplement parce qu'elle l'utilise depuis des années a son bureau a la maison."],
   ["Nora will not trade the plain notebook she was given, because it already feels like hers.", "Nora ne veut pas échanger le carnet simple qu'on lui a donné, parce qu'il lui semble déjà être à elle."],
   ["Omar refuses a free upgrade at the store because he likes the cheap gadget he already owns.", "Omar refuse une mise à niveau gratuite en magasin parce qu'il aime le gadget bon marché qu'il possède déjà."],
   ["Priya would rather keep the old lamp she assembled herself than take a nicer one for the same price.", "Priya préfère garder l'ancienne lampe qu'elle a montée elle-même plutôt que d'en prendre une plus jolie au même prix."],

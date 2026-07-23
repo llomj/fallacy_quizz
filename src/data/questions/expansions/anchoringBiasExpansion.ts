@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['A jacket first marked $300 feels cheap to Mia at $120, although similar jackets normally cost $80 and are on sale.', 'Une veste d’abord affichée à 300 € paraît bon marché à Mia à 120 €, alors que des modèles comparables coûtent 80 € et sont en promotion.'],
-  ['The seller mentions $9,000 before negotiations, so Leo treats $7,500 as a bargain for a car worth about $6,000 in the market.', 'Le vendeur annonce 9 000 € avant de négocier ; Leo trouve donc 7 500 € avantageux pour une voiture qui vaut environ 6 000 € sur le marché.'],
+  ['A jacket first marked $300 feels cheap to Mia at $120, although similar jackets normally cost $80 and are on sale downtown.', 'Une veste d’abord affichée à 300 € paraît bon marché à Mia à 120 €, alors que des modèles comparables coûtent 80 € et sont en promotion en ville.'],
+  ['The seller mentions $9,000 before negotiations, so Leo treats $7,500 as a bargain for a car worth about $6,000 in the local market.', 'Le vendeur annonce 9 000 € avant de négocier ; Leo trouve donc 7 500 € avantageux pour une voiture qui vaut environ 6 000 € sur le marché local.'],
   ['After seeing a 90-minute estimate, Ana calls a 60-minute wait fast, even though the service usually takes 30 minutes.', 'Après avoir vu une estimation de 90 minutes, Ana trouve une attente de 60 minutes rapide, alors que le service prend normalement 30 minutes.'],
   ['A menu lists a $100 seafood tower first, making the $42 pasta seem reasonably priced.', 'Un menu présente d’abord un plateau de fruits de mer à 100 €, ce qui fait paraître raisonnables les pâtes à 42 €.'],
   ['The first apartment Omar sees costs $2,500, so the next one at $2,100 feels affordable despite his $1,600 budget.', 'Le premier appartement visité par Omar coûte 2 500 € ; le suivant à 2 100 € lui paraît abordable malgré son budget de 1 600 €.'],

@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['A charity ad says your child will cry in the rain if you do not donate, so Mia gives money right away even before reading the charity name.', 'Une pub caritative dit que votre enfant pleurera sous la pluie si vous ne donnez pas, alors Mia donne tout de suite sans même lire le nom de l association.'],
-  ['A sales email says only a cold person would ignore this deal on pet sweaters, so Leo clicks buy without checking the price.', 'Un courriel de vente dit que seule une personne froide ignorerait cette offre de pulls pour animaux, alors Leo clique sur acheter sans vérifier le prix.'],
+  ['A charity ad says your child will cry in the rain if you do not donate, so Mia gives money right away even before reading the charity name on the screen.', 'Une pub caritative dit que votre enfant pleurera sous la pluie si vous ne donnez pas, alors Mia donne tout de suite sans même lire le nom de l association a l ecran.'],
+  ['A sales email says only a cold person would ignore this deal on pet sweaters, so Leo clicks buy without checking the price or size.', 'Un courriel de vente dit que seule une personne froide ignorerait cette offre de pulls pour animaux, alors Leo clique sur acheter sans vérifier le prix ni la taille.'],
   ['A poster shows a sad puppy and says this is your last chance to be kind, so Nina orders the product.', 'Une affiche montre un chiot triste et dit que c est votre dernière chance d être gentil, alors Nina commande le produit.'],
   ['A speaker says the policy will save children, so Omar stops asking for details.', 'Un orateur dit que la politique sauvera les enfants, alors Omar cesse de demander des détails.'],
   ['A message says good people will support this cause, so Priya signs up from guilt.', 'Un message dit que les bonnes personnes soutiendront cette cause, alors Priya s inscrit par culpabilité.'],

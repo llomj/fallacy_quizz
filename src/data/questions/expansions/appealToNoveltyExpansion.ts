@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["The ad says this smartwatch is better because it is the newest model on the shelf and has a brighter screen.", "La pub dit que cette montre connectée est meilleure parce que c'est le modèle le plus récent en rayon et qu'elle a un écran plus lumineux."],
-  ["Mia buys a planner only because the cover says '2026 edition' and the old one still works.", "Mia achète un agenda seulement parce que la couverture dit « édition 2026 » alors que l'ancien fonctionne encore."],
+  ["The ad says this smartwatch is better because it is the newest model on the shelf and has a brighter screen for night walks.", "La pub dit que cette montre connectée est meilleure parce que c'est le modèle le plus récent en rayon et qu'elle a un écran plus lumineux pour les sorties de nuit."],
+  ["Mia buys a planner only because the cover says '2026 edition' and the old one still works fine at her desk.", "Mia achète un agenda seulement parce que la couverture dit « édition 2026 » alors que l'ancien fonctionne encore bien à son bureau."],
   ["Theo rejects his old recipe because a brand-new version just came out online.", "Theo rejette sa vieille recette parce qu'une toute nouvelle version vient de sortir en ligne."],
   ["A student assumes the latest note-taking app must be superior to every older one.", "Un élève suppose que la dernière application de prise de notes doit être supérieure à toutes les anciennes."],
   ["Nina says the new coffee machine is automatically better because nobody has used it before.", "Nina dit que la nouvelle machine à café est automatiquement meilleure parce que personne ne l'a encore utilisée."],
