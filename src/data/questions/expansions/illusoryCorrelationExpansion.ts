@@ -49,6 +49,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo sees several people wearing rain jackets in the hallway and assumes the hallway makes people expect storms.', "Leo voit plusieurs personnes avec des vestes de pluie dans le couloir et suppose que le couloir fait attendre des orages."],
   ['Maya sees a few people from one department arrive early and concludes that department is naturally early.', "Maya voit quelques personnes d un departement arriver tot et conclut que ce departement est naturellement ponctuel."],
   ['Nina sees two people use the same planner and thinks the planner causes the same personality.', "Nina voit deux personnes utiliser le meme agenda et pense que l agenda cause la meme personnalite."],
+  [`Maya notices one loud customer in a baseball cap and starts linking baseball caps with rude behavior.`, `Maya remarque un client bruyant avec une casquette de baseball et commence a lier les casquettes de baseball au comportement impoli.`],
+  [`Leo sees a few people in hoodies at a cafe and assumes hoodies make people secretive.`, `Leo voit quelques personnes en sweat a capuche dans un cafe et suppose que les sweats a capuche rendent les gens secrets.`],
+  [`Nina spots two messy desks in the same office and decides that office creates messy workers.`, `Nina repere deux bureaux en desordre dans le meme bureau et decide que ce bureau cree des travailleurs desordonnes.`],
+  [`Owen notices the same song playing when he gets bad news and thinks the song causes the bad news.`, `Owen remarque que la meme chanson passe quand il recoit de mauvaises nouvelles et pense que la chanson cause les mauvaises nouvelles.`],
+  [`Priya sees three people from the same gym wear matching water bottles and concludes the bottles make them act alike.`, `Priya voit trois personnes de la meme salle de sport avec des gourdes assorties et conclut que les gourdes les font agir pareil.`],
+  [`Ben sees a few students from one club all laugh loudly and assumes the club makes people loud.`, `Ben voit quelques eleves d un club rire fort et suppose que le club rend les gens bruyants.`],
+  [`Tara notices that every time her cousin visits, someone is late, and blames the cousin for lateness in general.`, `Tara remarque que chaque fois que son cousin vient, quelqu un est en retard, et accuse le cousin de provoquer les retards en general.`],
+  [`Jules sees two people at the market with the same tote bag and decides the tote bag attracts the same kind of shopper.`, `Jules voit deux personnes au marche avec le meme sac et decide que ce sac attire le meme type d acheteur.`],
+  [`Ava observes a handful of noisy commuters and decides the train station makes people noisy.`, `Ava observe quelques navetteurs bruyants et decide que la gare rend les gens bruyants.`],
+  [`Milo sees a few neighbors from one street all own dogs and concludes the street creates dog lovers.`, `Milo voit quelques voisins d une rue posseder des chiens et conclut que la rue cree des amoureux des chiens.`],
 ];
 
 const OPTIONS_EN = ['Illusory Correlation', 'Clustering Illusion', 'False Cause', 'Faulty Generalization'];

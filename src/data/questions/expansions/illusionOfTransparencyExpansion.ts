@@ -49,6 +49,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo assumes his family can tell he is jealous from one overly casual compliment.', "Leo suppose que sa famille devine qu il est jaloux a partir d un compliment un peu trop detendu."],
   ['Maya thinks the group can read her relief when she finally stops fidgeting.', "Maya pense que le groupe peut lire son soulagement quand elle cesse enfin de gigoter."],
   ['Nina believes her manager can tell she is worried because she asks to clarify one detail.', "Nina croit que sa responsable voit qu elle est preoccupee parce qu elle demande un seul detail."],
+  [`After one quiet meeting, Ravi assumes everyone could tell he was angry from the way he folded his arms.`, `Apres une reunion calme, Ravi suppose que tout le monde pouvait voir qu il etait en colere a la facon dont il a croise les bras.`],
+  [`Tara thinks her awkward laugh gave away exactly how embarrassed she felt at the lunch table.`, `Tara pense que son rire genant a revele exactement a quel point elle etait genee a la table du dejeuner.`],
+  [`Milo believes the room can read his disappointment because he looked at the floor for a second.`, `Milo croit que la salle peut lire sa deception parce qu il a regarde le sol pendant une seconde.`],
+  [`Nora assumes her quiet "okay" makes her frustration obvious to everyone in the group chat.`, `Nora suppose que son « d accord » silencieux rend sa frustration evidente pour tout le monde dans le groupe.`],
+  [`Jules thinks his red ears announce his panic to every person in the elevator.`, `Jules pense que ses oreilles rouges annoncent sa panique a chaque personne dans l ascenseur.`],
+  [`Ava believes her careful smile makes it impossible to hide that she is annoyed.`, `Ava croit que son sourire prudent rend impossible de cacher qu elle est agacee.`],
+  [`Ben assumes the whole office can tell he is tired because he leaned on the copier for a moment.`, `Ben suppose que tout le bureau sait qu il est fatigue parce qu il s est appuye un instant sur la photocopieuse.`],
+  [`Lina thinks one deep breath makes her nervousness obvious to the audience.`, `Lina pense qu une seule grande inspiration rend son nervosisme evident pour le public.`],
+  [`Theo believes his short reply shows the teacher that he is offended.`, `Theo croit que sa reponse courte montre au professeur qu il est offense.`],
+  [`Iris assumes her pause before answering was loud enough to reveal her doubt.`, `Iris suppose que sa pause avant de repondre etait assez parlante pour reveler son doute.`],
 ];
 
 const OPTIONS_EN = ['Illusion of Transparency', 'Illusion of Control', 'False Consensus Effect', 'Mind Reading'];

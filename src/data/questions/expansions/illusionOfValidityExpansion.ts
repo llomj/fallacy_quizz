@@ -49,6 +49,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo trusts the prediction because the presenter drew a convincing arrow upward.', "Leo fait confiance a la prediction parce que le presentateur a dessine une fleche ascendante convaincante."],
   ['Maya thinks the recommendation is sound because the report feels polished and final.', "Maya pense que la recommandation est solide parce que le rapport semble propre et definitif."],
   ['Nina assumes a clinical score is correct because the app presents it as a precise number.', "Nina suppose qu un score clinique est correct parce que l application le presente comme un nombre precis."],
+  [`Ava believes the forecast is reliable because the dashboard is full of neat icons and calm colors.`, `Ava croit que la prevision est fiable parce que le tableau de bord est rempli d icones nettes et de couleurs calmes.`],
+  [`Owen trusts the recommendation because it came from a slide deck with perfect spacing.`, `Owen fait confiance a la recommandation parce qu elle vient d un diaporama avec un espacement parfait.`],
+  [`Mina assumes the diagnosis is right because the medical app displays a precise percentage.`, `Mina suppose que le diagnostic est juste parce que l application medicale affiche un pourcentage precis.`],
+  [`Theo thinks a forecast must be accurate because the presenter used a serious voice and a sharp chart.`, `Theo pense qu une prevision doit etre exacte parce que le presentateur a utilise une voix serieuse et un graphique net.`],
+  [`Jade believes the ranking is valid because the spreadsheet looks technical and official.`, `Jade croit que le classement est valable parce que le tableur a l air technique et officiel.`],
+  [`Ben trusts the hiring test because the result page uses polished wording and a confidence bar.`, `Ben fait confiance au test de recrutement parce que la page de resultat utilise un langage soigné et une barre de confiance.`],
+  [`Lara assumes the stock tip is solid because it is wrapped in charts and jargon.`, `Lara suppose que le conseil boursier est solide parce qu il est enveloppe de graphiques et de jargon.`],
+  [`Pia thinks the weather prediction is right because the app looks premium and expensive.`, `Pia pense que la prevision meteo est juste parce que l application a l air premium et chere.`],
+  [`Nora believes the performance score is trustworthy because it appears in a bold badge.`, `Nora croit que le score de performance est digne de confiance parce qu il apparait dans un badge en gras.`],
+  [`Finn trusts the advice because the presenter sounded like an expert and used exact numbers.`, `Finn fait confiance au conseil parce que le presentateur avait l air d un expert et utilisait des nombres precis.`],
 ];
 
 const OPTIONS_EN = ['Illusion of Validity', 'Availability Heuristic', 'Appeal to Authority', 'Confirmation Bias'];

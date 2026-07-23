@@ -49,6 +49,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Leo believes one missed opportunity would feel much bigger than it really is.", "Leo croit qu une occasion ratee semblerait beaucoup plus grande qu elle ne l est vraiment."],
   ["Maya says one small failure would sink her confidence for the rest of the month.", "Maya dit qu un petit echec ferait sombrer sa confiance pour le reste du mois."],
   ["Nina imagines one awkward silence would make the whole dinner feel like a flop.", "Nina imagine qu un silence genant ferait paraitre tout le diner comme un fiasco."],
+  [`After one awkward comment at breakfast, Sam assumes the whole day will feel ruined.`, `Apres un commentaire genant au petit dejeuner, Sam suppose que toute la journee semblera ruinee.`],
+  [`Mila imagines that one bad presentation slide would make the audience remember only the mistake.`, `Mila imagine qu une seule diapositive ratee ferait que le public ne retiendrait que l erreur.`],
+  [`Owen thinks one tense email would make the whole week feel heavy.`, `Owen pense qu un seul courriel tendu rendrait toute la semaine lourde.`],
+  [`Priya believes one missed handshake at a networking event would ruin the evening.`, `Priya croit qu une poignée de main ratee lors d un reseautage ruinerait la soiree.`],
+  [`Leo says one burnt pancake would make brunch feel embarrassing for hours.`, `Leo dit qu une seule crepe brulee rendrait le brunch genant pendant des heures.`],
+  [`Tara assumes one clumsy joke at work would haunt her all afternoon.`, `Tara suppose qu une blague maladroite au travail la hanterait tout l apres-midi.`],
+  [`Ben imagines one wrong turn on a trip would spoil the entire vacation.`, `Ben imagine qu un mauvais virage en voyage gacherait toute la vacance.`],
+  [`Jade thinks one awkward pause in a speech would overshadow everything else she said.`, `Jade pense qu une pause genante dans un discours eclipsait tout le reste de ce qu elle a dit.`],
+  [`Nora believes one bad photo would ruin how she remembers the whole party.`, `Nora croit qu une mauvaise photo ruinerait la facon dont elle se souviendrait de toute la fete.`],
+  [`Finn says one confusing comment would make the rest of the meeting feel pointless.`, `Finn dit qu un commentaire confus rendrait le reste de la reunion inutile.`],
 ];
 
 const OPTIONS_EN = ['Impact Bias', 'Availability Heuristic', 'Catastrophizing', 'Overgeneralization'];
