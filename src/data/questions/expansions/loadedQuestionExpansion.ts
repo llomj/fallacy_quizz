@@ -1,7 +1,7 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["Mia asks, 'Why did you hide the missing charger?' even though Leo only asked where it was.", "Mia demande : « Pourquoi as-tu cache le chargeur manquant ? » alors que Leo a seulement demande ou il etait."],
+  ["Mia asks, 'Why did you hide the missing charger?' even though Leo only asked where it was.", "Mia demande : « Pourquoi as-tu cache le chargeur manquant ? » alors que Leo a seulement demande où il était."],
   ["A teacher says, 'When did you start cheating on the quiz?' even though nobody accused the student of cheating.", "Un professeur demande : « Quand as-tu commence a tricher au quiz ? » alors que personne n'a accuse l'eleve de triche."],
   ["Jules asks his brother, 'How long have you been lying about the broken vase?' before checking the shelf.", "Jules demande a son frere : « Depuis combien de temps mens-tu sur le vase casse ? » avant de regarder l'etagere."],
   ["A manager says, 'Why are you still wasting company time on your side project?' when the employee is talking about a hobby at home.", "Une manager dit : « Pourquoi gaspilles-tu encore le temps de l'entreprise avec ton projet perso ? » alors que l'employe parle d'un loisir a la maison."],
