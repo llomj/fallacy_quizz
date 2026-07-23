@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Pia says the art is either meaningful or pointless, so simple decoration is not allowed.', "Pia dit que l'art est soit significatif soit inutile, donc la decoration simple n'est pas permise."],
   ['Mason says the road is either smooth or destroyed, so slightly bumpy roads are treated as failures.', "Mason dit que la route est soit lisse soit detruite, donc les routes un peu cahoteuses sont traitees comme des echecs."],
   ['Tessa says the meeting is either productive or wasted, so partially useful meetings are ignored.', "Tessa dit que la reunion est soit productive soit perdue, donc les reunions partiellement utiles sont ignorees."],
+  ['Maya says the movie is either a masterpiece or trash, so a pretty good film cannot exist.', "Maya dit que le film est soit un chef-d'oeuvre soit nul, donc un film plutot bon ne peut pas exister."],
+  ['Theo says the dinner is either homemade or fake, so restaurant food does not count as real food.', "Theo dit que le dîner est soit fait maison soit faux, donc la nourriture du restaurant ne compte pas comme de la vraie nourriture."],
+  ['Ava says the class is either easy or impossible, so a challenging but manageable class is ignored.', "Ava dit que le cours est soit facile soit impossible, donc un cours difficile mais gerable est ignore."],
+  ['Ben says the policy is either freedom or oppression, so routine rules disappear from the discussion.', "Ben dit que la politique est soit la liberte soit l'oppression, donc les regles de routine disparaissent du debat."],
+  ['Nina says the city is either safe or doomed, so ordinary neighborhood differences are erased.', "Nina dit que la ville est soit sure soit condamnee, donc les differences ordinaires entre quartiers sont effacees."],
+  ['Omar says the app is either brilliant or useless, so useful but imperfect software is ignored.', "Omar dit que l'application est soit brillante soit inutile, donc les logiciels utiles mais imparfaits sont ignores."],
+  ['Priya says the lunch is either healthy or junk, so a balanced meal does not count.', "Priya dit que le dejeuner est soit sain soit de la malbouffe, donc un repas equilibre ne compte pas."],
+  ['Leo says the teacher is either strict or lazy, so steady, normal teaching is excluded.', "Leo dit que le professeur est soit strict soit paresseux, donc un enseignement normal et regulier est exclu."],
+  ['Rina says the team is either focused or distracted, so mild off-topic moments are treated like failure.', "Rina dit que l'equipe est soit concentree soit distraite, donc les petits ecarts de sujet sont traites comme un echec."],
+  ['Jade says the relationship is either perfect or broken, so ordinary work-in-progress relationships vanish.', "Jade dit que la relation est soit parfaite soit brisee, donc les relations ordinaires en evolution disparaissent."]
 ];
 
 const OPTIONS_EN = ['False Dilemma', 'Exclusive Premises', 'Bandwagon', 'Appeal to Popularity'];

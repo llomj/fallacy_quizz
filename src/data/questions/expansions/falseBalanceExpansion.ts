@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Ray gave a bridge engineer and a passing cyclist the same weight on structural safety.', "Ray a donne a une ingenieure de pont et a un cycliste de passage le meme poids sur la securite structurelle."],
   ['Jade said a textbook and a joke thread were equally strong on grammar rules.', "Jade a dit qu'un manuel scolaire et un fil de blagues etaient egalement solides sur les regles de grammaire."],
   ['Drew said a documented measurement and a vibe check should both decide the answer.', "Drew a dit qu'une mesure documentee et un simple ressenti devaient tous les deux decider de la reponse."],
+  ['Maya said a climate report and a random comment under a video were equally solid on weather trends.', "Maya a dit qu'un rapport climatique et un commentaire au hasard sous une video etaient egalement solides sur les tendances meteo."],
+  ['Theo gave a surgeon and a rumor blogger the same credibility about surgery risks.', "Theo a donne a un chirurgien et a un blogueur de rumeurs la meme credibilite sur les risques chirurgicaux."],
+  ['Nina said a traffic study and a joke from a friend deserved equal trust about road safety.', "Nina a dit qu'une etude sur le trafic et une blague d'une amie meritaient une confiance egale sur la securite routiere."],
+  ['Ben treated a school handbook and a hallway whisper as equally authoritative about the rules.', "Ben a traite un guide scolaire et un murmure de couloir comme egalement autoritaires sur les regles."],
+  ['Ava said a lab result and a random forum guess were equally convincing about the medicine.', "Ava a dit qu'un resultat de laboratoire et une supposition au hasard d'un forum etaient egalement convaincants sur le medicament."],
+  ['Priya said a city audit and a gossip clip should have the same say on spending.', "Priya a dit qu'un audit municipal et un extrait de potins devaient avoir le meme poids sur les depenses."],
+  ['Leo gave a pilot and a comment from a snack line equal authority about flight safety.', "Leo a donne a un pilote et a un commentaire de file de snack la meme autorite sur la securite des vols."],
+  ['Rina said a university study and a meme caption were equally good evidence for diet claims.', "Rina a dit qu'une etude universitaire et une legende de meme etaient egalement de bonnes preuves pour des affirmations sur le regime."],
+  ['Omar treated a documented repair guide and a guess from the parking lot as equal advice.', "Omar a traite un guide de reparation documente et une estimation du parking comme des conseils equivalents."],
+  ['Mina said a certified electrician and a social post were equally reliable about wiring.', "Mina a dit qu'une electricienne certifiee et une publication sociale etaient egalement fiables sur le cablage."]
 ];
 
 const OPTIONS_EN = ['False Balance', 'False Equivalence', 'Appeal to Authority', 'Cherry Picking'];

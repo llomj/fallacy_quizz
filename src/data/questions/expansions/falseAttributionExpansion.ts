@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Oli read an anonymous tip and treated it as if the tipster had investigated the case alone.', "Oli a lu un tuyau anonyme et l'a traite comme si la personne l'avait enquete seule."],
   ['Tessa heard her cousin repeat a rumor and concluded her cousin was the first source.', "Tessa a entendu sa cousine repeter une rumeur et a conclu que sa cousine en etait la premiere source."],
   ['Mason blamed the GPS for choosing the route, though he had selected it manually.', "Mason a accuse le GPS d'avoir choisi l'itineraire, alors qu'il l'avait selectionne manuellement."],
+  ['Mia blamed the oven for a cold pie that had been left in the fridge.', "Mia a accuse le four pour une tarte froide qui avait ete laisse au frigo."],
+  ['Theo credited the cashier with making the sale when the promotion came from the store manager.', "Theo a attribue la vente a la caissiere alors que la promotion venait du responsable du magasin."],
+  ['Ava thought the podcast host invented a quote that was actually read from a book review.', "Ava a pense que l'animateur du podcast avait invente une citation qui venait en fait d'un avis de livre."],
+  ['Ben blamed the printer for a missing file that was deleted by accident on the laptop.', "Ben a accuse l'imprimante pour un fichier manquant qui avait ete supprime par erreur sur l'ordinateur portable."],
+  ['Nina thought the neighbor wrote the warning sign because she saw him standing nearby.', "Nina a pense que le voisin avait ecrit le panneau d'avertissement parce qu'elle l'avait vu debout a cote."],
+  ['Omar credited the app with the idea when the suggestion came from a group chat screenshot.', "Omar a attribue l'idee a l'application alors que la suggestion venait d'une capture d'ecran de discussion."],
+  ['Priya blamed the oven for the burnt cake even though the timer had been ignored.', "Priya a accuse le four pour le gateau brule alors que le minuteur avait ete ignore."],
+  ['Leo assumed the museum guide wrote the quote on the wall, but it was from a placard nearby.', "Leo a suppose que le guide du musee avait ecrit la citation sur le mur, mais elle venait d'une plaque voisine."],
+  ['Rina thought the teacher created the meme because the teacher had forwarded it in class.', "Rina a pense que le professeur avait cree le meme parce qu'il l'avait transfere en classe."],
+  ['Jade blamed the bike for the flat tire even though a nail in the road caused it.', "Jade a accuse le velo pour le pneu creve alors qu'un clou sur la route en etait la cause."]
 ];
 
 const OPTIONS_EN = ['False Attribution', 'Hasty Generalization', 'False Cause', 'Anecdotal Fallacy'];
