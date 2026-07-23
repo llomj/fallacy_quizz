@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['Mia keeps a broken phone case because replacing it would feel like losing something, even though a new case would protect the phone better on the bus.', "Mia garde une coque de telephone cassee parce que la remplacer lui donnerait l'impression de perdre quelque chose, alors qu'une nouvelle coque protegerait mieux le telephone dans le bus."],
-  ['Leo refuses to switch to a cheaper plan because he does not want to lose his old perks on streaming apps.', "Leo refuse de changer pour une offre moins chere parce qu'il ne veut pas perdre ses anciens avantages sur les applications de streaming."],
+  ['Mia keeps a broken phone case because replacing it would feel like losing something, even though a new case would protect the phone better on the bus and at school.', "Mia garde une coque de telephone cassee parce que la remplacer lui donnerait l'impression de perdre quelque chose, alors qu'une nouvelle coque protegerait mieux le telephone dans le bus et a l ecole."],
+  ['Leo refuses to switch to a cheaper plan because he does not want to lose his old perks on streaming apps and cloud storage.', "Leo refuse de changer pour une offre moins chere parce qu'il ne veut pas perdre ses anciens avantages sur les applications de streaming et le stockage nuage."],
   ['Nina will not sell an unused game console because parting with it feels worse than the cash would feel good.', "Nina ne veut pas vendre une console de jeu inutilisee parce que s'en separer lui semble pire que l'argent ne lui ferait plaisir."],
   ['Owen stays with a bad streaming bundle because canceling feels like a loss, even though he barely uses it.', "Owen garde un mauvais forfait de streaming parce qu'annuler lui semble etre une perte, meme s'il l'utilise a peine."],
   ['Priya avoids trying the new phone trade-in because she hates the idea of losing her current device.', "Priya evite d'essayer le nouvel echange de telephone parce qu'elle deteste l'idee de perdre son appareil actuel."],

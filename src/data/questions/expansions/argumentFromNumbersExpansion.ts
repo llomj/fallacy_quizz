@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["Twelve coworkers voted for the loud printer, so it must be the best printer.", "Douze collègues ont voté pour l'imprimante bruyante, donc ce doit être la meilleure imprimante."],
-  ["Mia says the route is correct because three cars took it first.", "Mia dit que l'itinéraire est correct parce que trois voitures l'ont pris en premier."],
+  ["Twelve coworkers voted for the loud printer, so it must be the best printer in the office by the break room.", "Douze collègues ont voté pour l'imprimante bruyante, donc ce doit être la meilleure imprimante au bureau, près de la salle de pause."],
+  ["Mia says the route is correct because three cars took it first this morning on the way to school.", "Mia dit que l'itinéraire est correct parce que trois voitures l'ont pris en premier ce matin en allant a l ecole."],
   ["Theo believes the snack is better because nine classmates chose it.", "Theo croit que l'en-cas est meilleur parce que neuf camarades l'ont choisi."],
   ["The store claims the kettle is superior because 48 people bought it today.", "Le magasin affirme que la bouilloire est supérieure parce que 48 personnes l'ont achetée aujourd'hui."],
   ["Nina trusts the app because the download count is huge.", "Nina fait confiance à l'application parce que le nombre de téléchargements est énorme."],

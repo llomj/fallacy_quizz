@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["Mia asks, 'Why did you hide the missing charger under your bed last night?' even though Leo only asked where it was.", "Mia demande : « Pourquoi as-tu cache le chargeur manquant sous ton lit hier soir ? » alors que Leo a seulement demande ou il etait."],
-  ["A teacher says, 'When did you start cheating on the quiz with your friend yesterday?' even though nobody accused the student of cheating.", "Un professeur demande : « Quand as-tu commence a tricher au quiz avec ton ami hier ? » alors que personne n'a accuse l'eleve de triche."],
+  ["Mia asks, 'Why did you hide the missing charger under your bed last night after school?' even though Leo only asked where it was.", "Mia demande : « Pourquoi as-tu cache le chargeur manquant sous ton lit hier soir apres l ecole ? » alors que Leo a seulement demande ou il etait."],
+  ["A teacher says, 'When did you start cheating on the quiz with your friend yesterday at lunch?' even though nobody accused the student of cheating.", "Un professeur demande : « Quand as-tu commence a tricher au quiz avec ton ami hier au déjeuner ? » alors que personne n'a accuse l eleve de triche."],
   ["Jules asks his brother, 'How long have you been lying about the broken vase?' before checking the shelf.", "Jules demande a son frere : « Depuis combien de temps mens-tu sur le vase casse ? » avant de regarder l'etagere."],
   ["A manager says, 'Why are you still wasting company time on your side project?' when the employee is talking about a hobby at home.", "Une manager dit : « Pourquoi gaspilles-tu encore le temps de l'entreprise avec ton projet perso ? » alors que l'employe parle d'un loisir a la maison."],
   ["Nina asks, 'How often do you lie to your customers?' during a first meeting with a new seller.", "Nina demande : « A quelle frequence mens-tu a tes clients ? » pendant un premier rendez-vous avec un nouveau vendeur."],

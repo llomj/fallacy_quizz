@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-['Mia sees 11:11 three days running and decides the universe approves her new job interview.','Mia voit 11 h 11 trois jours de suite et décide que l’univers approuve son nouvel entretien.'],
-['Leo wins twice while wearing red socks and concludes the socks control his luck at cards.','Leo gagne deux fois avec des chaussettes rouges et conclut qu’elles contrôlent sa chance aux cartes.'],
+['Mia sees 11:11 three days running and decides the universe approves her new job interview in the morning commute.','Mia voit 11 h 11 trois jours de suite et décide que l’univers approuve son nouvel entretien du trajet du matin.'],
+['Leo wins twice while wearing red socks and concludes the socks control his luck at cards on Fridays at home.','Leo gagne deux fois avec des chaussettes rouges et conclut qu’elles contrôlent sa chance aux cartes le vendredi a la maison.'],
 ['Three songs mention rain, so Ana thinks the radio is warning her about a storm.','Trois chansons parlent de pluie ; Ana pense donc que la radio annonce une tempête.'],
 ['Omar notices two delayed buses numbered 7 and calls seven the city’s unlucky number.','Omar remarque deux bus 7 retardés et déclare que sept porte malheur à la ville.'],
 ['Priya finds heart shapes in coffee foam and believes they predict a romance.','Priya voit des cœurs dans la mousse du café et croit qu’ils prédisent une histoire d’amour.'],

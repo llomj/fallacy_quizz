@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['Maya likes quiet cafes and assumes everyone at work does too, even the loud coworkers after lunch.', "Maya aime les cafes calmes et suppose que tout le monde au travail aime aussi ca, meme les collegues bruyants apres le déjeuner."],
-  ['Theo thinks showing up early is normal, so he believes the whole school prefers early arrivals to the first bell on exam days.', "Theo pense qu'arriver tot est normal, alors il croit que toute l'ecole prefere arriver avant la premiere sonnerie les jours d examen."],
+  ['Maya likes quiet cafes and assumes everyone at work does too, even the loud coworkers after lunch in the break room.', "Maya aime les cafes calmes et suppose que tout le monde au travail aime aussi ca, meme les collegues bruyants apres le déjeuner dans la salle de pause."],
+  ['Theo thinks showing up early is normal, so he believes the whole school prefers early arrivals to the first bell on exam days and field trips.', "Theo pense qu'arriver tot est normal, alors il croit que toute l'ecole prefere arriver avant la premiere sonnerie les jours d examen et de sortie scolaire."],
   ['Rina hates spicy food and says most people find pepper annoying.', "Rina deteste la nourriture epicee et dit que la plupart des gens trouvent le poivre derangeant."],
   ['Ben prefers text messages and assumes his friends all do as well.', "Ben prefere les messages texte et suppose que ses amis font tous pareil."],
   ['Ava loves rainy weekends and assumes the neighborhood is cheering for storms.', "Ava adore les week-ends pluvieux et suppose que le quartier applaudit les tempetes."],

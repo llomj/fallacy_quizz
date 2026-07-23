@@ -2,16 +2,16 @@ import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   [
-    'The sign says, "Kids make nutritious snacks." Leo concludes the café turns children into food.',
-    'La pancarte dit : « Les enfants font de bons goûters. » Leo conclut que le café transforme les enfants en nourriture.'
+    'The sign says, "Kids make nutritious snacks at the café after school." Leo concludes the café turns children into food.',
+    'La pancarte dit : « Les enfants font de bons goûters au café apres l ecole. » Leo conclut que le café transforme les enfants en nourriture.'
   ],
   [
-    'A listing says, "Apartment for rent by owner with balcony." Mia assumes the owner comes with a balcony.',
-    'Une annonce dit : « Appartement à louer par propriétaire avec balcon. » Mia croit que le propriétaire possède lui-même un balcon.'
+    'A listing says, "Apartment for rent by owner with balcony view near park." Mia assumes the owner comes with a balcony.',
+    'Une annonce dit : « Appartement à louer par propriétaire avec vue sur balcon pres du parc. » Mia croit que le propriétaire possède lui-même un balcon.'
   ],
   [
-    'The headline reads, "Police help dog bite victim." Ben concludes the police helped a dog bite someone.',
-    'Le titre dit : « La police aide un chien à mordre une victime. » Ben comprend que la police a aidé le chien à mordre.'
+    'The headline reads, "Police help dog bite victim at parade downtown." Ben concludes the police helped a dog bite someone.',
+    'Le titre dit : « La police aide la victime d une morsure de chien au défilé en centre-ville. » Ben comprend que la police a aidé le chien à mordre.'
   ],
   [
     'Nora says, "I saw the cyclist with binoculars." Sam insists the cyclist must have been carrying binoculars.',

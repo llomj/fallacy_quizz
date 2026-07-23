@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['Maya taps the elevator button three times and thinks that makes it arrive faster, so she keeps doing it at the mall and at school.', "Maya appuie trois fois sur le bouton de l ascenseur et pense que cela le fait arriver plus vite, alors elle continue au centre commercial et a l ecole."],
-  ['Leo wears his "lucky" socks to the exam and says they will help him control the result of the math quiz at noon.', "Leo porte ses chaussettes « porte-bonheur » a l examen et dit qu elles vont l aider a controler le resultat du quiz de maths a midi."],
+  ['Maya taps the elevator button three times and thinks that makes it arrive faster, so she keeps doing it at the mall and at school after class.', "Maya appuie trois fois sur le bouton de l ascenseur et pense que cela le fait arriver plus vite, alors elle continue au centre commercial et a l ecole apres les cours."],
+  ['Leo wears his "lucky" socks to the exam and says they will help him control the result of the math quiz at noon in room 4.', "Leo porte ses chaussettes « porte-bonheur » a l examen et dit qu elles vont l aider a controler le resultat du quiz de maths a midi dans la salle 4."],
   ['Nina blows on the dice before each roll because she believes it changes the outcome.', "Nina souffle sur les des avant chaque lancer parce qu elle croit que cela change le resultat."],
   ['Owen keeps shaking the lottery ticket and assumes that gives him better odds.', "Owen secoue sans cesse son billet de loterie et suppose que cela lui donne de meilleures chances."],
   ['Priya chooses the front-row seat and feels sure that placement will make the speaker like her more.', "Priya choisit la place au premier rang et se sent sure que cet emplacement fera davantage apprecier l orateur."],

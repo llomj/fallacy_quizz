@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["Your horoscope says you are friendly but guarded, and Zuri says it describes her perfectly.", "Votre horoscope dit que vous etes sympathique mais reserve, et Zuri dit que cela la decrit parfaitement."],
-  ["A personality test says Kai can be sensitive and strong at the same time, which he takes as a deep insight.", "Un test de personnalite dit que Kai peut etre sensible et fort a la fois, et il prend cela pour une observation profonde."],
+  ["Your horoscope says you are friendly but guarded, and Zuri says it describes her perfectly after work at the bookstore.", "Votre horoscope dit que vous etes sympathique mais reserve, et Zuri dit que cela la decrit parfaitement apres le travail a la librairie."],
+  ["A personality test says Kai can be sensitive and strong at the same time, which he takes as a deep insight about himself after lunch.", "Un test de personnalite dit que Kai peut etre sensible et fort a la fois, et il prend cela pour une observation profonde sur lui-meme apres le déjeuner."],
   ["The fortune cookie claims you dislike being rushed, and Mira says that is totally true.", "Le biscuit fortune dit que vous n'aimez pas etre presse, et Mira dit que c'est totalement vrai."],
   ["A class quiz says you value loyalty, but also need space, and Leo feels uniquely seen.", "Un quiz de classe dit que vous accordez de la valeur a la fidelite, mais que vous avez aussi besoin d'espace, et Leo se sent vraiment compris."],
   ["A friend reads a tarot card message about hidden talent and says it fits almost anyone.", "Une amie lit un message de tarot sur un talent cache et dit que cela convient a presque tout le monde."],
