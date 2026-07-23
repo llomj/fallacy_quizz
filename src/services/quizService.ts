@@ -1,5 +1,5 @@
 import { Question, PersonaStage } from "../types";
-import { getQuestionBankAsync } from "../questionsBank";
+import { getQuestionBank } from "../questionsBank";
 
 export class QuizService {
   async getBatch(
@@ -10,7 +10,7 @@ export class QuizService {
     language: string = 'en',
     exhaustedIds: number[] = []
   ): Promise<Question[]> {
-    const questionBank = await getQuestionBankAsync(language);
+    const questionBank = getQuestionBank(language);
 
     const exhaustedSet = new Set(exhaustedIds);
 
