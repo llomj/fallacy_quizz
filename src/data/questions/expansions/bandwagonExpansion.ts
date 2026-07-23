@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["A shop assistant pushes the sold-out item because 'people line up for it for a reason'.", "Un vendeur pousse l'article en rupture parce que 'les gens font la queue pour une raison'."],
   ["Kai joins the trendy running club because the town seems obsessed with it.", "Kai rejoint le club de course a la mode parce que la ville semble obsedee par lui."],
   ["The teacher says the answer must be right because the loudest students all agree.", "L'enseignant dit que la reponse doit etre juste parce que les eleves les plus bruyants sont tous d'accord."],
+  ["Maya buys the expensive candle because every coworker says it is the one to have.", "Maya achete la bougie chere parce que tous ses collegues disent que c'est celle qu'il faut avoir."],
+  ["Evan signs up for the gym class because the hallway posters make it look popular.", "Evan s'inscrit au cours de sport parce que les affiches du couloir le font paraitre populaire."],
+  ["Priya orders the same dessert as the whole table, thinking the crowd has already chosen wisely.", "Priya commande le meme dessert que toute la table, pensant que le groupe a deja fait le bon choix."],
+  ["Leo trusts the crowded food truck more than the quiet one across the street.", "Leo fait plus confiance au camion-restaurant bondé qu'a celui, tranquille, de l'autre cote de la rue."],
+  ["Nina joins the new study group because the most confident people are in it.", "Nina rejoint le nouveau groupe d'etude parce que les personnes les plus confiantes y sont."],
+  ["Omar thinks the loudest podcast must be the best one because it has so many fans.", "Omar pense que le podcast le plus bruyant doit etre le meilleur parce qu'il a tant de fans."],
+  ["Jade buys the jacket after hearing the whole bus talk about it.", "Jade achete la veste apres avoir entendu tout le bus en parler."],
+  ["Tara follows the same workout trend because all her friends keep posting it.", "Tara suit la meme tendance d'entrainement parce que tous ses amis la publient sans cesse."],
+  ["Ben believes the crowded bakery must be better than the empty one next door.", "Ben croit que la boulangerie bondée doit etre meilleure que celle vide d'a cote."],
+  ["Lina picks the phone case everyone in class has, even though she likes another color better.", "Lina choisit la coque de telephone que tout le monde a en classe, meme si elle prefere une autre couleur."]
 ];
 
 const EN = ['Bandwagon', 'Appeal to Popularity', 'Appeal to Authority', 'False Dilemma'];

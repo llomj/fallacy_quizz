@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Luca believes every new gadget fails because his last one broke.", "Luca croit que chaque nouveau gadget tombe en panne parce que le dernier a casse."],
   ["Rina says the park is unsafe because she saw one broken bottle.", "Rina dit que le parc est dangereux parce qu'elle a vu une seule bouteille cassee."],
   ["Theo thinks all recipes are hard because one cake collapsed.", "Theo pense que toutes les recettes sont difficiles parce qu'un gateau s'est effondre."],
+  ["After one mugging story, Priya assumes every downtown street is dangerous, ignoring how many people walk there safely each day.", "Apres une seule histoire d'agression, Priya suppose que chaque rue du centre-ville est dangereuse, en ignorant combien de personnes y marchent en toute securite chaque jour."],
+  ["One rare allergy case makes Leo think the snack is unsafe for everyone, even though millions eat it without problems.", "Un seul cas d'allergie rare fait croire a Leo que l'en-cas est dangereux pour tout le monde, alors que des millions de personnes en mangent sans probleme."],
+  ["Mia hears about a shark sighting and decides every beach trip is risky, even though shark sightings are extremely uncommon.", "Mia entend parler d'un requin aperçu et decide que chaque sortie a la plage est risquee, alors que ces observations sont tres rares."],
+  ["A single bad taxi ride convinces Omar that all taxis are unreliable, despite thousands of normal rides every day.", "Un seul mauvais trajet en taxi convainc Omar que tous les taxis sont peu fiables, malgre des milliers de trajets normaux chaque jour."],
+  ["After one scary article, Ava thinks every airplane trip is dangerous and ignores the tiny crash rate.", "Apres un seul article effrayant, Ava pense que chaque vol est dangereux et ignore le faible taux d'accident."],
+  ["Jade sees one noisy teenager and concludes all teenagers are impossible, overlooking how many are calm and helpful.", "Jade voit un seul adolescent bruyant et conclut que tous les adolescents sont impossibles, en oubliant combien sont calmes et serviables."],
+  ["A bad experience with one hotel makes Ben assume all hotels are dirty, even though cleanliness varies widely.", "Une mauvaise experience dans un hotel pousse Ben a supposer que tous les hotels sont sales, alors que la proprete varie beaucoup."],
+  ["Nina hears one story of a scam and decides every online seller is dishonest, ignoring the much larger number of honest sellers.", "Nina entend une histoire d'escroquerie et decide que chaque vendeur en ligne est malhonnete, en ignorant le bien plus grand nombre de vendeurs honnetes."],
+  ["Theo meets one rude customer and assumes the whole store is full of rude people, despite the usual crowd being polite.", "Theo rencontre un seul client impoli et suppose que tout le magasin est plein de gens impolis, malgre une clientele habituellement polie."],
+  ["After one bad haircut, Eli concludes every barber in town is terrible, even though most customers are satisfied.", "Apres une seule mauvaise coupe, Eli conclut que tous les coiffeurs de la ville sont nuls, alors que la plupart des clients sont satisfaits."]
 ];
 
 const EN = ['Base Rate Neglect', 'Availability Heuristic', 'Confirmation Bias', 'False Dilemma'];

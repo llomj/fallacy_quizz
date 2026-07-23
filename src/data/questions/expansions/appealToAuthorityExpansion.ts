@@ -52,6 +52,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['A vet says this podcast is the most reliable source on plumbing, so Sam keeps listening.', 'Un vétérinaire dit que ce podcast est la source la plus fiable sur la plomberie, alors Sam continue d écouter.'],
   ['A baker says this credit union is the healthiest choice, so Ava trusts the pitch.', 'Un boulanger dit que cette coopérative de crédit est le choix le plus sain, alors Ava croit le discours.'],
   ['A dentist says this road map is the funniest, so Ken uses it for travel.', 'Un dentiste dit que cette carte routière est la plus drôle, alors Ken l utilise pour voyager.'],
+  ['A bartender says this laptop is medically certified, so June believes him.', 'Un barman dit que cet ordinateur portable est certifié médicalement, alors June le croit.'],
+  ['A poet says this insurance form is the most scientific one, so Theo files it immediately.', 'Un poète dit que ce formulaire d’assurance est le plus scientifique, alors Théo le remplit aussitôt.'],
+  ['A mechanic says this salad is the best choice for exam prep, so Mara follows his recommendation.', 'Un mécanicien dit que cette salade est le meilleur choix pour réviser un examen, alors Mara suit sa recommandation.'],
+  ['A movie star says this train app is safer than walking, so Eli installs it.', 'Une star de cinéma dit que cette appli de train est plus sûre que marcher, alors Eli l’installe.'],
+  ['A librarian says this sunscreen improves the stock market, so Priya treats the claim as useful advice.', 'Une bibliothécaire dit que cette crème solaire améliore la Bourse, alors Priya prend l’affirmation pour un bon conseil.'],
+  ['A chef says this law textbook is the easiest in the city, so Noah trusts the review.', 'Un chef dit que ce manuel de droit est le plus facile de la ville, alors Noah fait confiance à l’avis.'],
+  ['A pilot says this toothpaste is the smartest investment, so Ava buys two tubes.', 'Un pilote dit que ce dentifrice est le meilleur investissement, alors Ava achète deux tubes.'],
+  ['A judge says this bicycle is the most romantic gift, so Lina accepts the endorsement.', 'Un juge dit que ce vélo est le cadeau le plus romantique, alors Lina accepte l approbation.'],
+  ['A baker says this thermostat will cure insomnia, so Omar nods and orders one.', 'Un boulanger dit que ce thermostat guérit l’insomnie, alors Omar acquiesce et en commande un.'],
+  ['A nurse says this picnic basket is the fastest way to learn guitar, so Mia buys it.', 'Une infirmière dit que ce panier de pique-nique est le moyen le plus rapide d’apprendre la guitare, alors Mia l’achète.']
 ];
 
 const OPTIONS_EN = ['Appeal to Authority', 'Straw Man', 'Appeal to Popularity', 'False Dilemma'];

@@ -50,7 +50,17 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
 ['Nadia believes random elevator stops spell out a lucky number sequence.','Nadia croit que les arrêts aléatoires de l’ascenseur composent une suite porte-bonheur.'],
 ['Alex sees a map in spilled cereal and claims it marks a future destination.','Alex voit une carte dans des céréales renversées et croit qu’elle indique une destination future.'],
 ['Sara connects three Wi-Fi outages with full moons and declares a lunar effect.','Sara relie trois pannes Wi-Fi à la pleine lune et annonce un effet lunaire.'],
-['Romain hears repeated words in unrelated podcasts and thinks they coordinate a warning.','Romain entend les mêmes mots dans des podcasts sans rapport et croit à un avertissement coordonné.']
+['Romain hears repeated words in unrelated podcasts and thinks they coordinate a warning.','Romain entend les mêmes mots dans des podcasts sans rapport et croit à un avertissement coordonné.'],
+['Priya thinks the number on her grocery receipt predicts the weather.','Priya pense que le numéro sur son ticket de caisse prédit le temps qu’il fera.'],
+['Ben believes two red cars passing his house mean a warning from the universe.','Ben croit que deux voitures rouges passant devant sa maison sont un avertissement de l’univers.'],
+['Lina sees a smile in a cracked mug and says it is encouraging her.','Lina voit un sourire dans une tasse fissurée et dit qu’elle l’encourage.'],
+['Omar links every time his mug is empty to a bad day ahead.','Omar relie chaque fois où sa tasse est vide à une mauvaise journée à venir.'],
+['Maya finds secret meaning in the spacing of text messages from her friend.','Maya trouve un sens secret dans l’espacement des messages de son amie.'],
+['Jules thinks the order of coins in his pocket spells out advice.','Jules pense que l’ordre des pièces dans sa poche lui donne des conseils.'],
+['Ava sees a heart shape in spilled ketchup and calls it a sign.','Ava voit une forme de cœur dans du ketchup renversé et y voit un signe.'],
+['Noah believes three bus delays in a week are a coded pattern.','Noah croit que trois retards de bus en une semaine forment un schéma codé.'],
+['Sara treats a repeated ringtone as proof her weekend will be lucky.','Sara prend une sonnerie répétée pour une preuve que son week-end sera chanceux.'],
+['Eli connects a random cloud shape with a promise he made yesterday.','Eli relie une forme de nuage au hasard à une promesse qu’il a faite hier.']
 ];
 
 const EN=['Apophenia','Confirmation Bias','Gambler’s Fallacy','Illusory Correlation'];

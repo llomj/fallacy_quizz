@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['The drawers all open smoothly, so the dresser can never have a structural problem.', 'Tous les tiroirs s ouvrent bien, donc la commode ne peut pas avoir de probleme structurel.'],
   ['The classroom has bright posters and nice desks, so the lesson itself is perfect.', 'La salle de classe a des affiches lumineuses et de bons bureaux, donc la lecon elle-meme est parfaite.'],
   ['Each part of the playlist sounds good, so the whole party soundtrack will energize everyone.', 'Chaque morceau de la playlist sonne bien, donc toute la bande-son de la fete va energiser tout le monde.'],
+  ['Each runner on the relay team is fast, so the team must break the record without practice.', 'Chaque coureur de l’equipe de relais est rapide, donc l’equipe doit battre le record sans s’entrainer.'],
+  ['Every brick in the wall is light, so the wall must be easy to lift by hand.', 'Chaque brique du mur est legere, donc le mur doit etre facile a soulever a la main.'],
+  ['All the ingredients are tasty on their own, so the stew will automatically be delicious.', 'Tous les ingredients sont bons chacun de leur cote, donc le ragoût sera automatiquement delicieux.'],
+  ['Each worker is polite, so the whole office can never have conflict.', 'Chaque employe est poli, donc tout le bureau ne peut jamais avoir de conflit.'],
+  ['The car has strong tires and a strong engine, so the whole car is indestructible.', 'La voiture a des pneus solides et un moteur solide, donc toute la voiture est indestructible.'],
+  ['Every student solved one part of the worksheet, so the class has mastered the subject completely.', 'Chaque eleve a resolu une partie de la fiche, donc la classe a totalement maitrise la matiere.'],
+  ['The movie has great acting and great music, so the entire plot cannot be confusing.', 'Le film a un excellent jeu d’acteur et une excellente musique, donc toute l’intrigue ne peut pas etre confuse.'],
+  ['Each ingredient in the salad is fresh, so the whole buffet must be healthy no matter how much people eat.', 'Chaque ingredient de la salade est frais, donc tout le buffet doit etre sain quelle que soit la quantite mangee.'],
+  ['The computer has a fast keyboard and a bright screen, so the whole machine is automatically professional-grade.', 'L’ordinateur a un clavier rapide et un ecran lumineux, donc toute la machine est automatiquement de niveau professionnel.'],
+  ['Every seat in the stadium is comfortable, so the crowd experience must be perfect.', 'Chaque siege du stade est confortable, donc l’experience de la foule doit etre parfaite.']
 ];
 
 const EN = ['Composition Fallacy', 'Division Fallacy', 'Hasty Generalization', 'False Cause'];

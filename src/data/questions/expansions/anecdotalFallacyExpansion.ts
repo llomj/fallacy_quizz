@@ -51,6 +51,17 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Everyone should use this budgeting app because it stopped me from overspending last month.', 'Tout le monde devrait utiliser cette application de budget puisqu’elle m’a empêché de trop dépenser le mois dernier.'],
   ['The river water must be clean because I swam in it once and did not get sick.', 'L’eau de la rivière est forcément propre puisque je m’y suis baigné une fois sans tomber malade.'],
   ['Early morning flights are never delayed; my 6 a.m. flight left exactly on time.', 'Les vols tôt le matin ne sont jamais retardés : mon vol de six heures est parti exactement à l’heure.']
+  ,['My neighbor’s dog barked at the mail carrier, so all dogs are hostile to mail carriers.', 'Le chien de mon voisin a aboyé sur le facteur, donc tous les chiens sont hostiles aux facteurs.'],
+  ['A cousin wore lucky socks and passed the test, so lucky socks improve exam results for everyone.', 'Une cousine a porté des chaussettes porte-bonheur et a réussi son examen, donc les chaussettes porte-bonheur améliorent les résultats de tout le monde.'],
+  ['One person at the gym lost weight on a juice cleanse, so juice cleanses are the best weight-loss method.', 'Une personne à la salle a perdu du poids avec un jeûne aux jus, donc les cures de jus sont la meilleure méthode pour maigrir.'],
+  ['My friend got a job after rewriting her resume, so rewriting resumes guarantees employment.', 'Mon amie a trouvé un travail après avoir réécrit son CV, donc réécrire son CV garantit un emploi.'],
+  ['A single calm flight convinces Owen that all flights are relaxing.', 'Un seul vol paisible convainc Owen que tous les vols sont reposants.'],
+  ['My aunt’s plant lived after she talked to it, so talking to plants keeps them alive.', 'La plante de ma tante a survécu parce qu’elle lui parlait, donc parler aux plantes les maintient en vie.'],
+  ['One rainy parade day made Mia think parades always bring bad weather.', 'Une seule parade sous la pluie a fait croire à Mia que les parades apportent toujours du mauvais temps.'],
+  ['A coworker’s online course helped her, so every online course must help the same way.', 'Un cours en ligne a aidé une collègue, donc tous les cours en ligne doivent aider de la même façon.'],
+  ['A single quiet classroom makes Ben think silence is the key to better grades in every school.', 'Une seule classe calme fait croire à Ben que le silence est la clé de meilleures notes dans toutes les écoles.'],
+  ['After one good dinner at a new place, Lea says all meals there are amazing.', 'Après un bon dîner dans un nouveau restaurant, Léa dit que tous les repas y sont incroyables.'],
+  ['One bad road trip in a small car leads Theo to conclude small cars are always uncomfortable.', 'Un seul mauvais trajet en petite voiture conduit Theo à conclure que les petites voitures sont toujours inconfortables.']
 ];
 
 const OPTIONS_EN = ['Anecdotal Fallacy', 'Hasty Generalization', 'Confirmation Bias', 'Appeal to Popularity'];

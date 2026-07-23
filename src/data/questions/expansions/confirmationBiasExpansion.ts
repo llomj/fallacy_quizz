@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Owen thinks the class is fun, so every good joke becomes a reason to agree.", "Owen pense que la classe est amusante, donc chaque bonne blague devient une raison d'etre d'accord."],
   ["Mina believes the new recipe is terrible, so she zeroes in on every tiny mistake.", "Mina croit que la nouvelle recette est horrible, donc elle se concentre sur chaque petite erreur."],
   ["Jade thinks the presentation was boring, so she only remembers the parts that dragged.", "Jade pense que la presentation etait ennuyeuse, donc elle ne se souvient que des passages qui trainaient."],
+  ["After hearing one compliment, Leo ignores the rest of the mixed feedback and keeps quoting only the praise.", "Apres avoir entendu un seul compliment, Leo ignore le reste des avis partages et ne cite que l'eloge."],
+  ["Mia already thinks the new boss is tough, so she remembers every strict email and forgets the helpful ones.", "Mia pense deja que la nouvelle cheffe est dure, donc elle retient chaque email strict et oublie les messages utiles."],
+  ["Ben likes the bike route, so he only notices the pleasant rides and skips the complaints.", "Ben aime l'itineraire a velo, donc il ne remarque que les trajets agreables et ignore les plaintes."],
+  ["Ava expects the book to be brilliant, so she reads every clever line as proof and ignores the weak chapters.", "Ava s'attend a ce que le livre soit genial, donc elle lit chaque phrase ingenieuse comme une preuve et ignore les chapitres faibles."],
+  ["Theo thinks the neighborhood is getting worse, so he notices every siren and ignores the peaceful nights.", "Theo pense que le quartier se degrade, donc il remarque chaque sirene et ignore les nuits tranquilles."],
+  ["Nina already distrusts the app, so a single bug feels like confirmation while the working features disappear from view.", "Nina se mefie deja de l'application, donc un seul bug lui semble confirmer son idee pendant que les fonctions qui marchent passent inaperçues."],
+  ["Omar believes his team is unlucky, so every close loss becomes a sign and every win is an exception.", "Omar croit que son equipe n'a pas de chance, donc chaque defaite serre de pres devient un signe et chaque victoire une exception."],
+  ["Priya likes the teacher, so she only remembers the kind comments and forgets the harsher ones.", "Priya aime le professeur, donc elle ne retient que les remarques gentilles et oublie les plus severes."],
+  ["Maya thinks the city is safe, so she filters out the headlines that say otherwise.", "Maya pense que la ville est sure, donc elle filtre les titres qui disent le contraire."],
+  ["Jade is convinced the podcast is smart, so she only hears the episodes that sound thoughtful.", "Jade est convaincue que le podcast est intelligent, donc elle n'entend que les episodes qui paraissent reflechis."]
 ];
 
 const EN = ['Confirmation Bias', 'Disconfirmation Bias', 'Cherry Picking', 'Availability Heuristic'];
