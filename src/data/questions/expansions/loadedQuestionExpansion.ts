@@ -1,10 +1,10 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["Mia asks, 'Why did you stop cheating on the quiz?' even though Leo never cheated.", "Mia demande : « Pourquoi as-tu arrete de tricher au quiz ? » alors que Leo n'a jamais triche."],
-  ["A teacher says, 'When did you start copying homework from the class chat?' even though no copying was proven.", "Un professeur demande : « Quand as-tu commence a copier les devoirs du groupe ? » alors que rien n'a ete prouve."],
-  ["Jules asks his brother, 'How long have you been hiding the broken vase?' before checking whether he touched it.", "Jules demande a son frere : « Depuis combien de temps caches-tu le vase casse ? » avant de verifier s'il l'a touche."],
-  ["A manager says, 'Why are you still wasting company time on your side project?' when the employee has never worked on one at work.", "Une manager dit : « Pourquoi gaspilles-tu encore le temps de l'entreprise avec ton projet perso ? » alors que l'employe n'en fait pas au travail."],
+  ["Mia asks, 'Why did you hide the missing charger?' even though Leo only asked where it was.", "Mia demande : « Pourquoi as-tu cache le chargeur manquant ? » alors que Leo a seulement demande ou il etait."],
+  ["A teacher says, 'When did you start cheating on the quiz?' even though nobody accused the student of cheating.", "Un professeur demande : « Quand as-tu commence a tricher au quiz ? » alors que personne n'a accuse l'eleve de triche."],
+  ["Jules asks his brother, 'How long have you been lying about the broken vase?' before checking the shelf.", "Jules demande a son frere : « Depuis combien de temps mens-tu sur le vase casse ? » avant de regarder l'etagere."],
+  ["A manager says, 'Why are you still wasting company time on your side project?' when the employee is talking about a hobby at home.", "Une manager dit : « Pourquoi gaspilles-tu encore le temps de l'entreprise avec ton projet perso ? » alors que l'employe parle d'un loisir a la maison."],
   ["Nina asks, 'How often do you lie to your customers?' during a first meeting with a new seller.", "Nina demande : « A quelle frequence mens-tu a tes clients ? » pendant un premier rendez-vous avec un nouveau vendeur."],
   ["Owen asks, 'What made you steal the snack?' before anyone has said it was stolen.", "Owen demande : « Qu'est-ce qui t'a pousse a voler le snack ? » avant que quiconque affirme qu'il a ete vole."],
   ["Priya says, 'So you finally admitted the app is a scam?' when the person only asked for more information.", "Priya dit : « Donc tu admets enfin que l'application est une arnaque ? » alors que la personne a seulement demande plus d'infos."],
