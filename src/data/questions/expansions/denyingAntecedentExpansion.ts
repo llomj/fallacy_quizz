@@ -53,6 +53,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['If the fish is fresh, it smells clean. It does not smell clean, so it is not fresh.', "Si le poisson est frais, il sent bon. Il ne sent pas bon, donc il n'est pas frais."],
   ['If the meeting is virtual, a link is sent. No link was sent, so the meeting is not virtual.', "Si la reunion est virtuelle, un lien est envoye. Aucun lien n'a ete envoye, donc la reunion n'est pas virtuelle."],
   ['If the note was approved, it gets a stamp. It has no stamp, so it was not approved.', "Si la note est approuvee, elle recoit un tampon. Elle n'a pas de tampon, donc elle n'a pas ete approuvee."],
+  ['If the bus is late, the app shows a delay. The app shows a delay, so the bus is late.', "Si le bus est en retard, l'application affiche un retard. L'application affiche un retard, donc le bus est en retard."],
+  ['If the lights are on, someone is home. Someone is home, so the lights are on.', "Si les lumieres sont allumees, quelqu'un est a la maison. Quelqu'un est a la maison, donc les lumieres sont allumees."],
+  ['If the soup is spicy, your nose runs. Your nose runs, so the soup is spicy.', "Si la soupe est epicee, votre nez coule. Votre nez coule, donc la soupe est epicee."],
+  ['If the shop is closed, the sign is flipped. The sign is flipped, so the shop is closed.', "Si la boutique est fermee, l'enseigne est retournee. L'enseigne est retournee, donc la boutique est fermee."],
+  ['If the plant is watered, the soil is damp. The soil is damp, so the plant was watered.', "Si la plante est arrosee, la terre est humide. La terre est humide, donc la plante a ete arrosee."],
+  ['If the game is online, friends appear in the lobby. Friends are in the lobby, so the game is online.', "Si le jeu est en ligne, des amis apparaissent dans le salon. Des amis sont dans le salon, donc le jeu est en ligne."],
+  ['If the cake is frosted, the top looks glossy. The top looks glossy, so the cake is frosted.', "Si le gateau est glace, le dessus brille. Le dessus brille, donc le gateau est glace."],
+  ['If the printer is jammed, the queue grows. The queue grows, so the printer is jammed.', "Si l'imprimante est bloquee, la file s'allonge. La file s'allonge, donc l'imprimante est bloquee."],
+  ['If the room is reserved, there is a sign. There is a sign, so the room is reserved.', "Si la salle est reservee, il y a un panneau. Il y a un panneau, donc la salle est reservee."],
+  ['If the coffee is cold, the mug sits untouched. The mug sits untouched, so the coffee is cold.', "Si le cafe est froid, la tasse reste intacte. La tasse reste intacte, donc le cafe est froid."]
 ];
 
 const OPTIONS_EN = ['Denying the Antecedent', 'Affirming the Consequent', 'False Dilemma', 'Appeal to Authority'];

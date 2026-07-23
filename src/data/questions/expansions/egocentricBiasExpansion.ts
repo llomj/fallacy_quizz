@@ -53,6 +53,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Tia thinks the meeting ignored the truth because the final slide did not include her note.", "Tia pense que la réunion a ignoré la vérité parce que la diapositive finale n'incluait pas sa note."],
   ["Paul assumes the whole office is frustrated with him because one email felt short.", "Paul suppose que tout le bureau est frustré contre lui parce qu'un courriel lui a paru bref."],
   ["Yara believes the project failed because her suggestion was not highlighted in bold.", "Yara croit que le projet a échoué parce que sa suggestion n'a pas été mise en gras."],
+  ["Mia thinks the entire schedule should be built around her lunch break.", "Mia pense que tout l'emploi du temps devrait être construit autour de sa pause déjeuner."],
+  ["Ben assumes the office meeting was about him because the topic affected his department.", "Ben suppose que la réunion du bureau parlait de lui parce que le sujet touchait son service."],
+  ["Ava believes the team vote was unfair because nobody quoted her exact words.", "Ava croit que le vote de l'équipe était injuste parce que personne n'a cité ses mots exacts."],
+  ["Theo thinks the class discussion was narrow because it did not focus on his favorite example.", "Theo pense que la discussion de classe était étroite parce qu'elle ne se concentrait pas sur son exemple préféré."],
+  ["Nina assumes the neighborhood app is broken because it does not track her shortcut.", "Nina suppose que l'application de quartier est cassée parce qu'elle ne suit pas son raccourci."],
+  ["Omar thinks the event planner was rude because she moved to the next speaker before he finished.", "Omar pense que l'organisatrice de l'événement était impolie parce qu'elle est passée à l'intervenant suivant avant qu'il ne finisse."],
+  ["Priya believes the policy was written badly because it does not mention her exact situation.", "Priya croit que la politique a été mal rédigée parce qu'elle ne mentionne pas sa situation exacte."],
+  ["Jules thinks the restaurant ignored customer service because the waiter was busy with another table.", "Jules pense que le restaurant a ignoré le service client parce que le serveur était occupé avec une autre table."],
+  ["Rosa says the whole conversation was disrespectful because her point was challenged.", "Rosa dit que toute la conversation était irrespectueuse parce que son point a été contesté."],
+  ["Eli thinks the office memo was confusing because it was not written around his schedule.", "Eli pense que la note de service était confuse parce qu'elle n'était pas rédigée autour de son horaire."]
 ];
 
 const OPTIONS_EN = ['Egocentric Bias', 'Spotlight Fallacy', 'Self-Serving Bias', 'False Consensus Effect'];

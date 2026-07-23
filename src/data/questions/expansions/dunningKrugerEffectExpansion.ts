@@ -52,6 +52,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Tia learns a painting technique and claims she is ready for an art gallery commission.", "Tia apprend une technique de peinture et affirme qu'elle est prête pour une commande de galerie d'art."],
   ["Paul scores well on a practice quiz and tells the teacher the exam was easy for him, so he must be very advanced.", "Paul réussit bien un quiz d'entraînement et dit au professeur que l'examen était facile pour lui, donc il doit être très avancé."],
   ["Yara reads one science article and starts explaining medicine to her doctor.", "Yara lit un article scientifique et commence à expliquer la médecine à son médecin."],
+  ["A trainee watches two plumbing clips and says he can redesign the city's water system.", "Un apprenti regarde deux vidéos de plomberie et dit qu'il peut redessiner tout le réseau d'eau de la ville."],
+  ["Mia learns one design tool and tells her coworkers she is ready to run the whole studio.", "Mia apprend un outil de design et dit à ses collègues qu'elle est prête à diriger tout le studio."],
+  ["Theo fixes a login bug once and starts giving security advice to the IT department.", "Theo corrige un bug de connexion une fois et commence à donner des conseils de sécurité au service informatique."],
+  ["Ben reads a beginner guide to finance and tells his friends he can beat professional traders.", "Ben lit un guide de finance pour débutants et dit à ses amis qu'il peut battre des traders professionnels."],
+  ["Ava memorizes a few medical terms and acts like she can diagnose the whole clinic.", "Ava mémorise quelques termes médicaux et agit comme si elle pouvait diagnostiquer toute la clinique."],
+  ["Omar learns one guitar chord and says he is basically ready for a world tour.", "Omar apprend un accord de guitare et dit qu'il est pratiquement prêt pour une tournée mondiale."],
+  ["Priya solves a couple of logic puzzles and starts correcting the teacher's reasoning.", "Priya résout quelques énigmes logiques et commence à corriger le raisonnement du professeur."],
+  ["Nina changes a website color and says she can now manage the entire product team.", "Nina change une couleur de site web et dit qu'elle peut maintenant gérer toute l'équipe produit."],
+  ["Eli follows one fitness video and announces he is qualified to coach athletes.", "Eli suit une vidéo de fitness et annonce qu'il est qualifié pour entraîner des athlètes."],
+  ["Rosa fixes one typo in an email and says she should oversee corporate communications.", "Rosa corrige une faute de frappe dans un e-mail et dit qu'elle devrait superviser les communications de l'entreprise."]
 ];
 
 const OPTIONS_EN = ['Dunning-Kruger Effect', 'Overconfidence Effect', 'Impostor Syndrome', 'Self-Serving Bias'];

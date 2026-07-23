@@ -52,6 +52,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["The chocolate bar is rich, so every square must be rich in flavor.", "La tablette de chocolat est riche, donc chaque carré doit être riche en goût."],
   ["The festival was eco-friendly, so every vendor must have been perfectly green.", "Le festival était écologique, donc chaque stand devait être parfaitement vert."],
   ["The phone is premium, so every feature must be premium.", "Le téléphone est haut de gamme, donc chaque fonction doit être haut de gamme."],
+  ["The team won, so every player must have played perfectly.", "L'équipe a gagné, donc chaque joueur doit avoir joué parfaitement."],
+  ["The class is advanced, so every student must understand every topic instantly.", "La classe est avancée, donc chaque élève doit comprendre chaque sujet instantanément."],
+  ["The hotel is luxurious, so every room must feel like a suite.", "L'hôtel est luxueux, donc chaque chambre doit ressembler à une suite."],
+  ["The app is popular, so every tool inside it must be excellent.", "L'application est populaire, donc chaque outil à l'intérieur doit être excellent."],
+  ["The orchestra sounded brilliant, so every instrument player must be a virtuoso.", "L'orchestre sonnait brillamment, donc chaque musicien doit être un virtuose."],
+  ["The city is busy, so every neighborhood must be crowded at all times.", "La ville est animée, donc chaque quartier doit être bondé en permanence."],
+  ["The cake is rich, so every bite must be heavy and fancy.", "Le gâteau est riche, donc chaque bouchée doit être lourde et chic."],
+  ["The library is quiet, so every book inside must be silent and serious.", "La bibliothèque est silencieuse, donc chaque livre à l'intérieur doit être silencieux et sérieux."],
+  ["The festival was famous, so every volunteer must have been famous too.", "Le festival était célèbre, donc chaque bénévole devait être célèbre lui aussi."],
+  ["The car is fast, so every screw in it must be fast.", "La voiture est rapide, donc chaque vis à l'intérieur doit être rapide."]
 ];
 
 const OPTIONS_EN = ['Division Fallacy', 'Composition Fallacy', 'Hasty Generalization', 'False Equivalence'];
