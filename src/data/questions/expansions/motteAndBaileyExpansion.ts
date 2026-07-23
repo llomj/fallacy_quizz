@@ -49,6 +49,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo says the new rule makes life totally fair, then says it just makes one step fairer.', 'Leo dit que la nouvelle regle rend la vie totalement juste, puis dit qu elle rend juste une etape un peu plus juste.'],
   ['Maya says the argument is complete freedom, then says it is just one allowed action.', 'Maya dit que l argument est la liberte complete, puis dit que c est juste une action autorisee.'],
   ['Nina says the product is the answer to everything, then says it only helps with one task.', 'Nina dit que le produit est la reponse a tout, puis dit qu il aide seulement pour une tache.'],
+  [`Owen says the app is total freedom, then backs off to say it only adds one extra setting.`, `Owen dit que l application est une liberte totale, puis se ravise en disant qu elle ajoute seulement un reglage de plus.`],
+  [`Priya says the club is for geniuses, then says she only meant people who like learning.`, `Priya dit que le club est reserve aux genies, puis dit qu elle voulait seulement parler des gens qui aiment apprendre.`],
+  [`Ben says the policy solves every problem, then retreats to saying it helps one small issue.`, `Ben dit que la politique resout tous les problemes, puis se replie en disant qu elle aide pour un seul petit souci.`],
+  [`Tara says the website is open to everyone, then narrows it to anyone who already agrees.`, `Tara dit que le site est ouvert a tout le monde, puis la restreint a ceux qui sont deja d accord.`],
+  [`Kai says the rule is pure equality, then says it only makes one part more fair.`, `Kai dit que la regle est une egalite pure, puis dit qu elle rend seulement une partie plus juste.`],
+  [`Jules says the idea is complete freedom, then explains it is just one permitted choice.`, `Jules dit que l idee est une liberte complete, puis explique que c est juste un choix autorise.`],
+  [`Ava says the group is for the best thinkers, then says she only meant people with good ideas.`, `Ava dit que le groupe est reserve aux meilleurs penseurs, puis dit qu elle voulait seulement parler des gens qui ont de bonnes idees.`],
+  [`Mina says the product is the only fair choice, then backs off to say it is merely a reasonable choice.`, `Mina dit que le produit est le seul choix juste, puis se replie en disant que c est simplement un choix raisonnable.`],
+  [`Theo says the policy fixes everything, then weakens it to say it just improves one thing.`, `Theo dit que la politique resout tout, puis l affaiblit en disant qu elle ameliore juste une chose.`],
+  [`Nora says the plan is perfect, then says she only meant it is fine for now.`, `Nora dit que le plan est parfait, puis dit qu elle voulait seulement dire qu il est correct pour l instant.`],
 ];
 
 const OPTIONS_EN = ['Motte-and-Bailey', 'Loaded Question', 'Equivocation', 'Appeal to Popularity'];

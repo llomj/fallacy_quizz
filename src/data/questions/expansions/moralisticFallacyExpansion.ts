@@ -49,6 +49,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo says a restaurant cannot be dirty because dirty places should not be allowed.', 'Leo dit qu un restaurant ne peut pas etre sale parce que les lieux sales ne devraient pas etre autorises.'],
   ['Maya says the rule must be right because it encourages kindness.', 'Maya dit que la regle doit etre juste parce qu elle encourage la gentillesse.'],
   ['Nina says a claim cannot be true if believing it would feel cruel.', 'Nina dit qu une affirmation ne peut pas etre vraie si y croire semblerait cruel.'],
+  [`Owen says a law must be false because it feels too harsh on people.`, `Owen dit qu une loi doit etre fausse parce qu elle semble trop dure pour les gens.`],
+  [`Priya says a medicine cannot be dangerous because medicine is meant to help.`, `Priya dit qu un medicament ne peut pas etre dangereux parce qu un medicament est cense aider.`],
+  [`Ben says a product should not exist if buying it feels wasteful.`, `Ben dit qu un produit ne devrait pas exister si l acheter lui semble du gaspillage.`],
+  [`Tara says a neighbor must be honest because honest people are better neighbors.`, `Tara dit qu un voisin doit etre honnete parce que les gens honnetes sont de meilleurs voisins.`],
+  [`Kai says a school rule cannot be correct if it makes students unhappy.`, `Kai dit qu une regle scolaire ne peut pas etre correcte si elle rend les eleves malheureux.`],
+  [`Jules says a claim about history is false because it does not make the heroes look good.`, `Jules dit qu une affirmation sur l histoire est fausse parce qu elle ne fait pas passer les heros pour bons.`],
+  [`Ava says a policy is wrong because it does not help everyone equally.`, `Ava dit qu une politique est fausse parce qu elle n aide pas tout le monde de la meme facon.`],
+  [`Mina says a theory about behavior must be false because it sounds unfair.`, `Mina dit qu une theorie sur le comportement doit etre fausse parce qu elle semble injuste.`],
+  [`Theo says a restaurant cannot be good if it serves something unhealthy.`, `Theo dit qu un restaurant ne peut pas etre bon s il sert quelque chose de malsain.`],
+  [`Nora says a plan should be rejected because it is not morally satisfying enough.`, `Nora dit qu un plan devrait etre rejete parce qu il n est pas assez moralement satisfaisant.`],
 ];
 
 const OPTIONS_EN = ['Moralistic Fallacy', 'Naturalistic Fallacy', 'Begging the Question', 'Appeal to Emotion'];
