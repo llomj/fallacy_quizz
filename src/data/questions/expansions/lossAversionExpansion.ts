@@ -49,6 +49,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo keeps a broken water bottle because buying a new one feels like wasting the old one.', "Leo garde une gourde cassee parce qu'en acheter une nouvelle lui semble gaspiller l'ancienne."],
   ['Maya stays with the crowded workshop because a switch would mean losing the familiar instructor.', "Maya reste dans l'atelier bondé parce qu'un changement voudrait dire perdre l'instructeur habituel."],
   ['Nina refuses the free calendar app because syncing would make her lose the old notes layout.', "Nina refuse l'application de calendrier gratuite parce que la synchronisation lui ferait perdre l'ancienne mise en page des notes."],
+  [`Owen keeps paying for a storage unit full of junk because clearing it out feels like losing options.`, `Owen continue de payer pour un box de stockage plein de bric-a-brac parce que le vider lui semble faire perdre des options.`],
+  [`Priya refuses the cheaper phone plan because giving up the old perks feels worse than saving money.`, `Priya refuse l offre telephone moins chere parce qu abandonner les anciens avantages lui semble pire que d economiser.`],
+  [`Ben will not sell an unused game console because the idea of losing it feels more upsetting than the cash would feel good.`, `Ben ne veut pas vendre une console de jeu inutilisee parce que l idee de la perdre lui semble plus derangeante que l argent lui ferait plaisir.`],
+  [`Tara keeps a broken lamp because replacing it feels like admitting a loss.`, `Tara garde une lampe cassee parce que la remplacer lui donne l impression d admettre une perte.`],
+  [`Kai sticks with the expensive plan because switching feels risky, even though the new one is better.`, `Kai reste sur le forfait cher parce que changer lui semble risqué, meme si le nouveau est meilleur.`],
+  [`Jules refuses the cash refund for the concert because he wants to keep the ticket stub.`, `Jules refuse le remboursement en argent du concert parce qu il veut garder le billet.`],
+  [`Ava will not trade the old bike because losing it feels harder than gaining the newer one.`, `Ava ne veut pas echanger l ancien velo parce que le perdre lui semble plus dur que gagner le plus recent.`],
+  [`Mina avoids the free upgrade because losing the familiar layout feels worse than getting new features.`, `Mina evite la mise a niveau gratuite parce que perdre la mise en page familiere lui semble pire que de gagner de nouvelles fonctions.`],
+  [`Theo keeps the broken umbrella because replacing it feels like throwing away what is left.`, `Theo garde le parapluie casse parce que le remplacer lui semble jeter ce qu il reste.`],
+  [`Lina stays with the noisy apartment because leaving would mean losing the current deposit.`, `Lina reste dans l appartement bruyant parce que partir voudrait dire perdre la caution actuelle.`],
 ];
 
 const OPTIONS_EN = ['Loss Aversion', 'Status Quo Bias', 'Endowment Effect', 'Risk Aversion'];

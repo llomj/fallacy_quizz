@@ -49,6 +49,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo says the dinner menu should be exactly halfway between healthy and indulgent choices.', 'Leo dit que le menu du dîner devrait être exactement à mi-chemin entre des choix sains et gourmands.'],
   ['Maya says the plan must be moderate because the two complaints sound equally strong.', 'Maya dit que le plan doit être modéré parce que les deux plaintes semblent aussi fortes.'],
   ['Nina says the answer to the report should be a compromise, even though one side has the data.', 'Nina dit que la réponse au rapport devrait être un compromis, même si un camp a les données.'],
+  [`Owen says the thermostat should stay exactly in the middle even though one roommate is freezing and the other is sweaty.`, `Owen dit que le thermostat doit rester exactement au milieu même si un colocataire grelotte et que l autre transpire.`],
+  [`Priya says the truth about the movie must be between "masterpiece" and "trash", so she settles on average.`, `Priya dit que la vérité sur le film doit être entre « chef-d oeuvre » et « nul », alors elle choisit moyen.`],
+  [`Ben says the best dinner is always half healthy and half junk food, no matter what the budget is.`, `Ben dit que le meilleur dîner est toujours moitié sain et moitié malbouffe, quel que soit le budget.`],
+  [`Tara says the debate about homework should end with a compromise even though one side has the evidence.`, `Tara dit que le débat sur les devoirs devrait se terminer par un compromis même si un camp a les preuves.`],
+  [`Kai says if one review loves the cafe and another review hates it, the cafe must be average.`, `Kai dit que si un avis adore le café et qu un autre le déteste, le café doit être moyen.`],
+  [`Jules says a policy cannot be too strict or too loose, so the only reasonable answer is the exact middle.`, `Jules dit qu une règle ne peut être ni trop stricte ni trop souple, donc la seule réponse raisonnable est le milieu exact.`],
+  [`Ava says the answer to the budget problem must be halfway between saving everything and spending everything.`, `Ava dit que la réponse au problème de budget doit être à mi-chemin entre tout économiser et tout dépenser.`],
+  [`Mina says the room temperature should be split down the middle because one person is cold and one is hot.`, `Mina dit que la température de la pièce doit être coupée en deux parce qu une personne a froid et qu une autre a chaud.`],
+  [`Leo says the school rule should be average because one student wants no homework and another wants homework every night.`, `Leo dit que la règle de l école doit être moyenne parce qu un élève ne veut aucun devoir et qu un autre veut des devoirs tous les soirs.`],
+  [`Hana says the best seat is always the middle one when people disagree about the view.`, `Hana dit que la meilleure place est toujours celle du milieu quand les gens se disputent au sujet de la vue.`],
 ];
 
 const OPTIONS_EN = ['Middle Ground Fallacy', 'False Dilemma', 'False Balance', 'Appeal to Moderation'];

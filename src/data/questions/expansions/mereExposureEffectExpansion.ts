@@ -49,6 +49,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo starts preferring the same chips brand because it has been in his lunch bag all semester.', 'Leo commence à préférer la même marque de chips parce qu elle est dans son sac de déjeuner tout le semestre.'],
   ['Maya trusts a book more after seeing it on the nightstand for a month.', 'Maya fait davantage confiance à un livre après l avoir vu sur la table de nuit pendant un mois.'],
   ['Nina feels attached to a plant because she has passed it on the windowsill every morning.', 'Nina s attache à une plante parce qu elle est passée devant sur le rebord de la fenêtre chaque matin.'],
+  [`After seeing the same bakery sign on every commute, Owen starts feeling like the bakery must be good.`, `Apres avoir vu la meme enseigne de boulangerie a chaque trajet, Owen commence a se dire que la boulangerie doit etre bonne.`],
+  [`Priya likes a podcast more after hearing the intro every morning for a week.`, `Priya aime davantage un podcast apres avoir entendu son introduction chaque matin pendant une semaine.`],
+  [`Ben trusts the same coffee blend more after spotting the box in every break room.`, `Ben fait davantage confiance au meme melange de cafe apres avoir vu la boite dans chaque salle de pause.`],
+  [`Tara feels warmer toward a coworker after seeing them by the kettle every day.`, `Tara se sent plus chaleureuse envers un collegue apres l avoir vu chaque jour pres de la bouilloire.`],
+  [`Mina starts preferring a local park after walking through it on every school run.`, `Mina commence a preferer un parc local apres le traverser a chaque trajet scolaire.`],
+  [`Jules likes the same ringtone more after hearing it hundreds of times on his phone.`, `Jules aime davantage la meme sonnerie apres l avoir entendue des centaines de fois sur son telephone.`],
+  [`Ava thinks a neighbor seems friendlier after exchanging the same greeting all month.`, `Ava pense qu une voisine parait plus sympathique apres avoir echangé le meme salut tout le mois.`],
+  [`Theo starts favoring a cereal brand after seeing it in ads again and again.`, `Theo commence a favoriser une marque de cereales apres l avoir vue dans les pubs encore et encore.`],
+  [`Nora grows more attached to a mug after using it every morning for weeks.`, `Nora s attache davantage a une tasse apres l avoir utilisee chaque matin pendant des semaines.`],
+  [`Milo thinks a shop looks better just because he has passed it for months.`, `Milo pense qu une boutique a meilleure allure simplement parce qu il est passe devant pendant des mois.`],
 ];
 
 const OPTIONS_EN = ['Mere Exposure Effect', 'Availability Heuristic', 'Endowment Effect', 'Halo Effect'];
