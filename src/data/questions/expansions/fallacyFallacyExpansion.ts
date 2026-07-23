@@ -1,10 +1,10 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["Alex says the article must be wrong because it used one weak analogy, even though the main claim is supported by data.", "Alex dit que l'article doit être faux parce qu'il utilisait une analogie faible, même si l'affirmation principale est appuyée par des données."],
-  ["Maya rejects the budget proposal because the speaker stumbled over one word.", "Maya rejette la proposition budgétaire parce que l'orateur a buté sur un mot."],
-  ["Theo says the weather forecast is invalid because the presenter wore a goofy tie.", "Theo dit que la météo n'est pas crédible parce que le présentateur portait une cravate ridicule."],
-  ["Lina dismisses the safety plan because the manager made a spelling mistake in the email.", "Lina rejette le plan de sécurité parce que le responsable a fait une faute d'orthographe dans le courriel."],
+  ["Alex says the article must be wrong because one paragraph had a typo, even though the data in the report still supports it.", "Alex dit que l'article doit être faux parce qu'un paragraphe contenait une faute de frappe, même si les données du rapport l'appuient toujours."],
+  ["Maya rejects the budget proposal because the speaker cleared her throat twice.", "Maya rejette la proposition budgétaire parce que l'oratrice s'est raclé la gorge deux fois."],
+  ["Theo says the weather forecast is invalid because the presenter wore bright socks.", "Theo dit que la météo n'est pas crédible parce que le présentateur portait des chaussettes voyantes."],
+  ["Lina dismisses the safety plan because the manager mixed up two slide titles.", "Lina rejette le plan de sécurité parce que la responsable a inversé deux titres de diapositives."],
   ["Omar insists the new rule is false since the debater sounded nervous.", "Omar insiste pour dire que la nouvelle règle est fausse puisque le débatteur avait l'air nerveux."],
   ["Priya thinks the charity appeal is worthless because the flyer had a typo.", "Priya pense que l'appel aux dons ne vaut rien parce que le prospectus contenait une faute de frappe."],
   ["Ben says the doctor's advice must be wrong because the doctor arrived late.", "Ben dit que le conseil du médecin doit être faux parce que le médecin est arrivé en retard."],
