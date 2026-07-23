@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ['Maya met one rude tourist at the station and decided the whole city is rude.', 'Maya a rencontre un touriste impoli a la gare et a decide que toute la ville etait impolie.'],
-  ['Ben had one bad burger at lunch and declared every fast-food place terrible.', 'Ben a eu un mauvais burger au déjeuner et a declare que tous les fast-foods etaient terribles.'],
+  ['Maya met one rude tourist at the station and decided the whole city is rude and impatient.', 'Maya a rencontre un touriste impoli a la gare et a decide que toute la ville etait impolie et impatiente.'],
+  ['Ben had one bad burger at lunch and declared every fast-food place terrible for the rest of the year.', "Ben a eu un mauvais burger au déjeuner et a declare que tous les fast-foods etaient terribles pour le reste de l annee."],
   ['Rina saw two messy desks and said the whole office is lazy.', 'Rina a vu deux bureaux en desordre et a dit que tout le bureau etait paresseux.'],
   ['Theo had one awkward date and concluded dating is hopeless.', 'Theo a eu un rendez-vous genant et a conclu que les rencontres etaient sans espoir.'],
   ['Ava heard one noisy train ride and said public transit is always awful.', 'Ava a entendu parler d un trajet en train bruyant et a dit que les transports publics etaient toujours horribles.'],

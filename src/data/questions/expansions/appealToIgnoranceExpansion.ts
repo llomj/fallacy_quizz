@@ -1,8 +1,8 @@
 import { PersonaStage, type Question, SubLevel } from '../../../types';
 
 const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
-  ["No one has proven this tea is unsafe, so it must be healthy enough to drink every day.", "Personne n'a prouvé que ce thé est dangereux, donc il doit être assez sain pour en boire tous les jours."],
-  ["We have no evidence that the attic is empty, so a ghost must live there and knock at night.", "Nous n'avons aucune preuve que le grenier est vide, donc un fantôme doit y vivre et frapper la nuit."],
+  ["No one has proven this tea is unsafe, so it must be healthy enough to drink every day before work.", "Personne n'a prouvé que ce thé est dangereux, donc il doit être assez sain pour en boire tous les jours avant le travail."],
+  ["We have no evidence that the attic is empty, so a ghost must live there and knock at night during storms.", "Nous n'avons aucune preuve que le grenier est vide, donc un fantôme doit y vivre et frapper la nuit pendant les orages."],
   ["Nobody has disproved the rumor, so it is definitely true.", "Personne n'a réfuté la rumeur, donc elle est forcément vraie."],
   ["I have not seen any report against the app, so it must protect privacy.", "Je n'ai vu aucun rapport contre cette application, donc elle doit protéger la vie privée."],
   ["Since no one can prove the shortcut is bad, our team should use it.", "Puisque personne ne peut prouver que le raccourci est mauvais, notre équipe devrait l'utiliser."],
