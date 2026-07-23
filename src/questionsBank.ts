@@ -1,6 +1,7 @@
 import type { Question } from './types';
 import { FALLACY_QUESTIONS_EN, FALLACY_QUESTIONS_FR } from './data/questions/fallaciesData';
 import { LEVEL_0_GEN_EN, LEVEL_0_GEN_FR } from './data/questions/level0Data';
+import { AD_HOMINEM_EXPANSION_EN, AD_HOMINEM_EXPANSION_FR } from './data/questions/expansions/adHominemExpansion';
 
 const LEVEL_0_ID_START = 1001;
 const LEVEL_0_ID_END = 1300;
@@ -46,11 +47,11 @@ function createQuestionBank(fallacies: Question[], foundations: Question[]): Que
 }
 
 export const QUESTIONS_BANK_EN: Question[] = createQuestionBank(
-  FALLACY_QUESTIONS_EN,
+  [...FALLACY_QUESTIONS_EN, ...AD_HOMINEM_EXPANSION_EN],
   LEVEL_0_GEN_EN
 );
 export const QUESTIONS_BANK_FR: Question[] = createQuestionBank(
-  FALLACY_QUESTIONS_FR,
+  [...FALLACY_QUESTIONS_FR, ...AD_HOMINEM_EXPANSION_FR],
   LEVEL_0_GEN_FR
 );
 
