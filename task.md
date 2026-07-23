@@ -48,7 +48,7 @@
 - [x] Created `reports/fallacy-expansion-audit.json` with counts, IDs, and EN/FR label mappings.
 - [x] Normalize 205 raw English correct-answer labels into 168 canonical educational targets: 92 fallacies/reasoning errors, 69 biases/effects, and 7 named principles. Excluded 24 non-concept answer fragments and merged 13 aliases. See `reports/canonical-fallacy-catalog.json`.
 - [ ] Repair the 461 legacy EN/FR option-position mismatches below ID 1000; many are different scenarios rather than translations.
-- [ ] Generate and validate +50 unique EN/FR pairs for each of the 168 approved canonical targets (8,400 pairs / 16,800 language records). Canonical French labels are approved with zero gaps. **Progress: 95 / 168 targets, 4,750 / 8,400 pairs.**
+- [ ] Generate and validate +50 unique EN/FR pairs for each of the 168 approved canonical targets (8,400 pairs / 16,800 language records). Canonical French labels are approved with zero gaps. **Progress: 97 / 168 targets, 4,850 / 8,400 pairs.**
   - [x] Kettle Logic: IDs 38501-38550, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Just-World Hypothesis: IDs 36501-36550, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Hitchens's Razor: IDs 38401-38450, 50 EN + 50 FR, additive to 3 existing questions.
@@ -56,6 +56,8 @@
   - [x] Loss Aversion: IDs 38701-38750, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Mere Exposure Effect: IDs 38801-38850, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Middle Ground Fallacy: IDs 38901-38950, 50 EN + 50 FR, additive to 6 existing questions.
+  - [x] Moralistic Fallacy: IDs 39001-39050, 50 EN + 50 FR, additive to 6 existing questions.
+  - [x] Motte-and-Bailey: IDs 39101-39150, 50 EN + 50 FR, additive to 125 existing questions.
   - [x] Historian's Fallacy: IDs 38301-38350, 50 EN + 50 FR, additive to 6 existing questions.
   - [x] Hindsight Bias: IDs 38201-38250, 50 EN + 50 FR, additive to 6 existing questions.
   - [x] Herd Mentality: IDs 38101-38150, 50 EN + 50 FR, additive to 3 existing questions.
