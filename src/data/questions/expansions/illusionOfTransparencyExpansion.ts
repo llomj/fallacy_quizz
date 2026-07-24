@@ -59,6 +59,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   [`Lina thinks one deep breath makes her nervousness obvious to the audience.`, `Lina pense qu une seule grande inspiration rend son nervosisme evident pour le public.`],
   [`Theo believes his short reply shows the teacher that he is offended.`, `Theo croit que sa reponse courte montre au professeur qu il est offense.`],
   [`Iris assumes her pause before answering was loud enough to reveal her doubt.`, `Iris suppose que sa pause avant de repondre etait assez parlante pour reveler son doute.`],
+  [`Maya thinks her clenched jaw tells the whole table she is angry.`, `Maya pense que sa machoire serree dit a toute la table qu elle est en colere.`],
+  [`Leo assumes his polite nod makes it obvious he disagrees.`, `Leo suppose que son hochement poli rend evidente sa desapprobation.`],
+  [`Nina believes her shaky voice gives away every worry she has.`, `Nina croit que sa voix tremblante revele toutes ses inquietudes.`],
+  [`Owen thinks one nervous joke makes his fear obvious to the room.`, `Owen pense qu une seule blague nerveuse rend sa peur evidente pour la salle.`],
+  [`Priya assumes her crossed arms shout her disappointment to everyone nearby.`, `Priya suppose que ses bras croises crient sa deception a tous ceux qui sont proches.`],
+  [`Ben thinks his quiet text message makes his annoyance impossible to miss.`, `Ben pense que son message texte bref rend son agacement impossible a manquer.`],
+  [`Ava believes one flushed face means everyone knows she is embarrassed.`, `Ava croit qu un visage rouge signifie que tout le monde sait qu elle est genee.`],
+  [`Rita assumes her careful smile gives away that she is hurt.`, `Rita suppose que son sourire prudent revele qu elle est blessee.`],
+  [`Jules thinks his long pause told the whole class he was unsure.`, `Jules pense que sa longue pause a dit a toute la classe qu il etait incertain.`],
+  [`Mina believes a single sigh makes her frustration obvious to the manager.`, `Mina croit qu un seul soupir rend sa frustration evidente pour la responsable.`],
 ];
 
 const OPTIONS_EN = ['Illusion of Transparency', 'Illusion of Control', 'False Consensus Effect', 'Mind Reading'];

@@ -59,6 +59,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   [`Pia thinks the weather prediction is right because the app looks premium and expensive.`, `Pia pense que la prevision meteo est juste parce que l application a l air premium et chere.`],
   [`Nora believes the performance score is trustworthy because it appears in a bold badge.`, `Nora croit que le score de performance est digne de confiance parce qu il apparait dans un badge en gras.`],
   [`Finn trusts the advice because the presenter sounded like an expert and used exact numbers.`, `Finn fait confiance au conseil parce que le presentateur avait l air d un expert et utilisait des nombres precis.`],
+  [`Maya trusts the forecast because the chart looks expensive, even though the data is old.`, `Maya fait confiance a la prevision parce que le graphique a l air cher, meme si les donnees sont anciennes.`],
+  [`Leo believes the diagnosis because the app shows a precise percentage and a clean layout.`, `Leo croit au diagnostic parce que l application affiche un pourcentage precis et une mise en page propre.`],
+  [`Nina assumes the stock tip is correct because the dashboard looks sophisticated.`, `Nina suppose que le conseil boursier est juste parce que le tableau de bord a l air sophistique.`],
+  [`Owen trusts the ranking because the report uses technical wording and a neat table.`, `Owen fait confiance au classement parce que le rapport utilise un vocabulaire technique et un tableau net.`],
+  [`Priya thinks the forecast is valid because the presenter sounded calm and certain.`, `Priya pense que la prevision est valide parce que le presentateur semblait calme et certain.`],
+  [`Ben believes the budget projection because the spreadsheet is color coded and tidy.`, `Ben croit a la projection budgetaire parce que le tableur est code en couleur et bien range.`],
+  [`Ava accepts the hiring test because the result page looks official and final.`, `Ava accepte le test de recrutement parce que la page de resultat a l air officielle et finale.`],
+  [`Rita thinks the risk score must be real because it is shown in a polished badge.`, `Rita pense que le score de risque doit etre reel parce qu il est affiche dans un badge soigné.`],
+  [`Jules trusts the recommendation because the slide deck has perfect spacing and a confident tone.`, `Jules fait confiance a la recommandation parce que le diaporama a un espacement parfait et un ton assure.`],
+  [`Mina assumes the ranking is accurate because the chart is neat and easy to read.`, `Mina suppose que le classement est exact parce que le graphique est net et facile a lire.`],
 ];
 
 const OPTIONS_EN = ['Illusion of Validity', 'Availability Heuristic', 'Appeal to Authority', 'Confirmation Bias'];

@@ -59,6 +59,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   [`Jules sees two people at the market with the same tote bag and decides the tote bag attracts the same kind of shopper.`, `Jules voit deux personnes au marche avec le meme sac et decide que ce sac attire le meme type d acheteur.`],
   [`Ava observes a handful of noisy commuters and decides the train station makes people noisy.`, `Ava observe quelques navetteurs bruyants et decide que la gare rend les gens bruyants.`],
   [`Milo sees a few neighbors from one street all own dogs and concludes the street creates dog lovers.`, `Milo voit quelques voisins d une rue posseder des chiens et conclut que la rue cree des amoureux des chiens.`],
+  [`Maya sees two people in red jackets arguing and concludes red jackets cause arguments.`, `Maya voit deux personnes en veste rouge se disputer et conclut que les vestes rouges causent les disputes.`],
+  [`Ben notices that his mood is bad whenever the coffee shop is crowded and assumes the crowd creates bad moods.`, `Ben remarque que son humeur est mauvaise chaque fois que le cafe est plein et suppose que la foule cree les mauvaises humeurs.`],
+  [`Priya sees a few people from one suburb driving nice cars and thinks the suburb causes luxury cars.`, `Priya voit quelques personnes d une banlieue conduire de belles voitures et pense que la banlieue cause les voitures de luxe.`],
+  [`Leo sees one messy classroom after lunch and decides lunch makes classrooms messy.`, `Leo voit une classe en desordre apres le dejeuner et decide que le dejeuner rend les classes en desordre.`],
+  [`Nina spots two quiet people in headphones and assumes headphones make people quiet.`, `Nina repere deux personnes calmes avec des ecouteurs et suppose que les ecouteurs rendent les gens calmes.`],
+  [`Owen sees three students from one club all wear the same hoodie and thinks the hoodie causes the club behavior.`, `Owen voit trois eleves d un club porter le meme sweat et pense que le sweat cause le comportement du club.`],
+  [`Ava notices a few cheerful customers at the bakery and decides bakeries make people cheerful.`, `Ava remarque quelques clients joyeux a la boulangerie et decide que les boulangeries rendent les gens joyeux.`],
+  [`Rita sees one bad commute after a rainy day and assumes rain causes every bad commute.`, `Rita voit un mauvais trajet apres une journee pluvieuse et suppose que la pluie cause tous les mauvais trajets.`],
+  [`Jules sees several people in the same sneakers acting alike and links the sneakers to personality.`, `Jules voit plusieurs personnes portant les memes baskets agir pareil et lie les baskets a la personnalite.`],
+  [`Mina sees two coworkers from one department arrive late and concludes the department makes people late.`, `Mina voit deux collegues d un meme departement arriver en retard et conclut que le departement rend les gens en retard.`],
 ];
 
 const OPTIONS_EN = ['Illusory Correlation', 'Clustering Illusion', 'False Cause', 'Faulty Generalization'];

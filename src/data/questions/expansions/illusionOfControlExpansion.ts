@@ -59,6 +59,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['After moving her chair closer to the window, Rina feels she can control the afternoon weather.', "Apres avoir rapproche sa chaise de la fenetre, Rina sent qu elle peut controler le temps de l apres-midi."],
   ['Leo believes the exact order of his morning tasks controls whether traffic will be light.', "Leo croit que l ordre exact de ses taches du matin controle si la circulation sera fluide."],
   ['Mina thinks whispering a phrase to her laptop can control how smoothly the update installs.', "Mina pense que murmurer une phrase a son ordinateur peut controler la fluidite de l installation de la mise a jour."],
+  ['Maya thinks wearing her lucky hat can control how crowded the cafe will be.', "Maya pense que porter son chapeau porte-bonheur peut controler le niveau d affluence du cafe."],
+  ['Ben believes choosing the exact checkout lane controls whether the line will move fast.', "Ben croit que choisir la file de caisse exacte controle la vitesse de la file."],
+  ['Priya taps the screen in a pattern and thinks it will control the app freezing.', "Priya tape sur l ecran selon un motif et pense que cela controlera le gel de l application."],
+  ['Leo thinks placing his keys on the same hook each day controls his luck at work.', "Leo pense que poser ses cles sur le meme crochet chaque jour controle sa chance au travail."],
+  ['Nina believes a lucky playlist can control the tone of the entire meeting.', "Nina croit qu une playlist porte-bonheur peut controler le ton de toute la reunion."],
+  ['Owen thinks standing in the same spot before the bus arrives controls the bus timing.', "Owen pense que rester au meme endroit avant l arrivee du bus controle l horaire du bus."],
+  ['Ava believes folding the napkin a certain way controls how kind the waiter will be.', "Ava croit qu en pliant la serviette d une certaine facon elle controle la gentillesse du serveur."],
+  ['Rita thinks saying a phrase under her breath controls the result of the quiz.', "Rita pense que dire une phrase a voix basse controle le resultat du quiz."],
+  ['Jules believes moving his chair once will control the entire mood of the room.', "Jules croit qu en deplaçant sa chaise une fois il controle toute l ambiance de la piece."],
+  ['Mina thinks a special pen can control whether the contract gets approved.', "Mina pense qu un stylo special peut controler si le contrat est approuve."],
 ];
 
 const OPTIONS_EN = ['Illusion of Control', 'Illusion of Transparency', 'Confirmation Bias', 'Anchoring Bias'];
