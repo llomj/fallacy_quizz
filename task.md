@@ -190,6 +190,7 @@
   - [x] The likelihood ratio: IDs 42601-42650, 50 EN + 50 FR, additive to 1 existing question.
   - [x] The probability of innocence: IDs 42701-42750, 50 EN + 50 FR, additive to 1 existing question.
   - [x] The same evidence can support different conclusions depending on the prior probability: IDs 42801-42850, 50 EN + 50 FR, additive to 1 existing question.
+  - [x] The two probabilities are conditional on different things: IDs 42901-42950, 50 EN + 50 FR, additive to 1 existing question.
   - [x] Slippery Slope: IDs 40801-40850, 50 EN + 50 FR, additive to 227 existing questions.
 - [ ] Run duplicate, parity, random-mode, level-mode, language-switch, offline, and production-build validation after every batch.
 
