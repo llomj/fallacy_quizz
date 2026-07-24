@@ -61,6 +61,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Rina said a university study and a meme caption were equally good evidence for diet claims.', "Rina a dit qu'une etude universitaire et une legende de meme etaient egalement de bonnes preuves pour des affirmations sur le regime."],
   ['Omar treated a documented repair guide and a guess from the parking lot as equal advice.', "Omar a traite un guide de reparation documente et une estimation du parking comme des conseils equivalents."],
   ['Mina said a certified electrician and a social post were equally reliable about wiring.', "Mina a dit qu'une electricienne certifiee et une publication sociale etaient egalement fiables sur le cablage."]
+  ['A news show put a climate scientist and a random caller on the same level, even though only one had evidence, charts, and years of study.', "Une emission d'information a mis une climatologue et un appelant au hasard sur le meme plan, alors qu'une seule personne avait des preuves, des graphiques et des annees d'etude."],
+  ['The debate club gave the same time to a doctor and a rumor thread about medicine, as if both were equally reliable after one person heard a story.', "Le club de debat a donne le meme temps de parole a une medecin et a un fil de rumeurs sur la medecine, comme si les deux etaient aussi fiables apres qu'une seule personne a entendu une histoire."],
+  ['Mina treated a restaurant review from one customer as equal to a full inspection report.', "Mina a traite l'avis d'un seul client sur un restaurant comme l'equivalent d'un rapport d'inspection complet."],
+  ['Theo said a broken watch and the atomic clock were both "just opinions" about the time.', "Theo a dit qu'une montre casse et l'horloge atomique n'etaient que des \"opinions\" sur l'heure."],
+  ['A podcast host gave a vaccine expert and a conspiracy blogger the same credibility.', "L'animateur d'un podcast a donne la meme credibilite a une experte en vaccins et a un blogueur complotiste."],
+  ['Rita thought a weather app error and a meteorologist forecast were equally reliable.', "Rita a pense qu'une erreur d'application meteo et la prevision d'une meteorologue etaient egalement fiables."],
+  ['Sam said a librarian and a troll comment were equally strong sources for a history claim.', "Sam a dit qu'une bibliothecaire et un commentaire de troll etaient des sources aussi solides pour une affirmation historique."],
+  ['Owen treated a lab result and a guess from the hallway as two sides of the same story.', "Owen a traite un resultat de laboratoire et une supposition de couloir comme deux cotes de la meme histoire."],
+  ['Ava gave a traffic camera and a blurry phone clip the same weight in court.', "Ava a donne le meme poids a une camera de circulation et a une video de telephone floue au tribunal."],
+  ["Ben said a mayor's budget chart and a random spreadsheet screenshot were equally trustworthy.", "Ben a dit qu'un graphique budgetaire du maire et une capture d'ecran de tableur au hasard etaient tout aussi dignes de confiance."]
 ];
 
 const OPTIONS_EN = ['False Balance', 'False Equivalence', 'Appeal to Authority', 'Cherry Picking'];

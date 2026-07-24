@@ -53,6 +53,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Iris says the survey result is fake because the presenter shuffled her notes.', 'Iris dit que le resultat du sondage est faux parce que la presentatrice a melange ses notes.'],
   ['Gabe says the city plan is garbage because the architect wore a red tie.', "Gabe dit que le plan de la ville est nul parce que l architecte portait une cravate rouge."],
   ['Tara dismisses the workshop because the host repeated one word.', 'Tara rejette l atelier parce que l animatrice a repete un mot.'],
+  ['A cashier misread the receipt, and Sam blamed the printer for stealing money from his account at the store.', "Une caissiere a mal lu le ticket, et Sam a accuse l'imprimante d'avoir vole de l'argent sur son compte au magasin."],
+  ['Rita heard a quote on a meme and assumed her uncle said it at dinner on Sunday after football.', "Rita a vu une citation sur un mème et a suppose que son oncle l'avait dite au dîner du dimanche apres le foot."],
+  ['After the lamp flickered, Ben said the lamp was possessed by the same ghost as the attic.', "Apres que la lampe a clignote, Ben a dit que la lampe etait hantee par le meme fantome que le grenier."],
+  ['Nina forgot her password and blamed the keyboard for changing it.', "Nina a oublie son mot de passe et a accuse le clavier de l'avoir change."],
+  ['Theo heard a joke online and told everyone his friend invented it.', "Theo a entendu une blague en ligne et a dit a tout le monde que son ami l'avait inventee."],
+  ['Mia saw a chart in a blog post and assumed the blog author had collected the data personally.', "Mia a vu un graphique dans un article de blog et a suppose que l'auteur avait recueilli les donnees lui-meme."],
+  ['Owen found a broken mug and blamed the dishwasher, even though the cat was nearby.', "Owen a trouve une tasse cassee et a accuse le lave-vaisselle, meme si le chat etait proche."],
+  ['Ava heard a rumor about the mayor and treated it as a direct quote from the mayor.', "Ava a entendu une rumeur sur le maire et l'a traitee comme une citation directe du maire."],
+  ['Leo saw a typo in a school email and claimed the principal must be careless with every document.', "Leo a vu une faute de frappe dans un courriel scolaire et a affirme que le directeur devait etre negligent avec tous les documents."],
+  ['Priya heard a weather joke from a coworker and credited the coworker with creating the forecast itself.', "Priya a entendu une blague meteo d'un collegue et a attribue au collegue la creation du bulletin lui-meme."]
 ];
 
 const OPTIONS_EN = ['Fallacy Fallacy', 'Ad Hominem', 'Red Herring', 'No True Scotsman'];

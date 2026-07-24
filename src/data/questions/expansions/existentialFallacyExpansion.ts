@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['All happy dogs in the note have wagging tails, so wagging tails mean a dog is happy.', "Tous les chiens heureux de la note remuent la queue, donc une queue qui remue signifie qu'un chien est heureux."],
   ['Every accurate map in the drawer is folded, so folded maps are accurate.', "Chaque carte exacte du tiroir est pliee, donc les cartes pliees sont exactes."],
   ['All good teammates in the story text each other, so people who text are good teammates.', "Tous les bons coéquipiers du récit s'envoient des messages, donc les personnes qui envoient des messages sont de bons coéquipiers."],
+  ["Maya says there must be a real unicorn because every unicorn in the story has a horn.", "Maya dit qu'il doit y avoir une vraie licorne parce que chaque licorne du récit a une corne."],
+  ["Theo says a red emergency phone proves all red phones are for emergencies.", "Theo dit qu'un téléphone rouge d'urgence prouve que tous les téléphones rouges servent aux urgences."],
+  ["Nina says a green door is definitely an emergency exit because all emergency exits are green.", "Nina dit qu'une porte verte est forcément une sortie de secours parce que toutes les sorties de secours sont vertes."],
+  ["Ben says a tall person must be a prime minister because every prime minister in the puzzle is tall.", "Ben dit qu'une personne grande doit être un premier ministre parce que chaque premier ministre de l'énigme est grand."],
+  ["Omar says a round pizza must be perfect because every perfect pizza is round.", "Omar dit qu'une pizza ronde doit être parfaite parce que chaque pizza parfaite est ronde."],
+  ["Priya says a silver coin must be lucky because every lucky coin in the cartoon is silver.", "Priya dit qu'une pièce en argent doit être chanceuse parce que chaque pièce chanceuse du dessin animé est en argent."],
+  ["Leo says any lock proves a door is secure because secure doors in the puzzle have locks.", "Leo dit que toute serrure prouve qu'une porte est sûre parce que les portes sûres de l'énigme ont des serrures."],
+  ["Rina says a folded shirt must be clean because every clean shirt in the bag is folded.", "Rina dit qu'une chemise pliée doit être propre parce que chaque chemise propre du sac est pliée."],
+  ["Jules says a quiet kid must be smart because all smart kids in the note are quiet.", "Jules dit qu'un enfant calme doit être intelligent parce que tous les enfants intelligents de la note sont calmes."],
+  ["Ava says blue walls must make a classroom quiet because every quiet classroom in the story has blue walls.", "Ava dit que des murs bleus doivent rendre une classe calme parce que toutes les classes calmes du récit ont des murs bleus."]
 ];
 
 const OPTIONS_EN = ['Existential Fallacy', 'False Dilemma', 'Equivocation', 'Hasty Generalization'];

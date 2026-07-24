@@ -60,6 +60,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo assumed the museum guide wrote the quote on the wall, but it was from a placard nearby.', "Leo a suppose que le guide du musee avait ecrit la citation sur le mur, mais elle venait d'une plaque voisine."],
   ['Rina thought the teacher created the meme because the teacher had forwarded it in class.', "Rina a pense que le professeur avait cree le meme parce qu'il l'avait transfere en classe."],
   ['Jade blamed the bike for the flat tire even though a nail in the road caused it.', "Jade a accuse le velo pour le pneu creve alors qu'un clou sur la route en etait la cause."]
+  ['Maya blamed the thermostat for a hot apartment that was really caused by closed windows.', 'Maya a accuse le thermostat pour un appartement chaud alors que c\'etait vraiment cause par les fenetres fermees.'],
+  ['Theo credited the cashier with making the sale when the promotion came from the store manager.', 'Theo a attribue la vente a la caissiere alors que la promotion venait du responsable du magasin.'],
+  ['Nina thought the teacher wrote the warning sign because she saw him standing nearby.', 'Nina a pense que le professeur avait ecrit le panneau d\'avertissement parce qu\'elle l\'avait vu debout a cote.'],
+  ['Ben assumed the person repeating the rule had written the company policy.', "Ben a suppose que la personne qui repetait la regle avait ecrit la politique de l'entreprise."],
+  ['Ava heard a joke online and told everyone her friend invented it.', 'Ava a entendu une blague en ligne et a dit a tout le monde que son ami l\'avait inventee.'],
+  ['Omar saw a chart in a blog post and assumed the blogger had collected the data personally.', "Omar a vu un graphique dans un article de blog et a suppose que le blogueur avait recueilli les donnees lui-meme."],
+  ['Priya saw a meme about taxes and thought the page had written the tax law.', 'Priya a vu un mème sur les impôts et a pense que la page avait redige la loi fiscale.'],
+  ['Leo blamed the printer for a missing file that was deleted on the laptop.', 'Leo a accuse l\'imprimante pour un fichier manquant qui avait ete supprime sur l\'ordinateur portable.'],
+  ['Rina heard a rumor about the mayor and treated it as a direct quote from the mayor.', 'Rina a entendu une rumeur sur le maire et l\'a traitee comme une citation directe du maire.'],
+  ['Jules saw a screenshot of a chat and assumed the screenshot creator wrote every message.', "Jules a vu une capture d'ecran d'une discussion et a suppose que la personne qui l'avait prise avait ecrit chaque message."]
 ];
 
 const OPTIONS_EN = ['False Attribution', 'Hasty Generalization', 'False Cause', 'Anecdotal Fallacy'];
