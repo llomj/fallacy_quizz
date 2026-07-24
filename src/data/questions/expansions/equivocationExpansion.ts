@@ -55,6 +55,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['The article said the key was missing, so the missing key on the keyboard must unlock the house.', "L'article disait que la clé manquait, alors la touche manquante du clavier doit ouvrir la maison."],
   ['The conductor said the chorus was bright, so the bright future of the choir must be glowing.', "Le chef d'orchestre a dit que le chœur était brillant, alors l'avenir brillant du chœur doit luire."],
   ['The sign said the corner was hard, so the hard corner in the street must be stubborn.', "Le panneau disait que le coin était dur, alors le coin dur dans la rue doit être têtu."],
+  ['The teacher says "decimate" once meant to kill one in ten, so using it to mean "destroy heavily" is wrong forever.', "Le professeur dit que « décimer » voulait autrefois dire tuer un sur dix, donc l'utiliser pour dire « détruire fortement » est faux à jamais."],
+  ['A friend says "awesome" used to mean awe, so it should never mean really great at all.', "Un ami dit que « awesome » signifiait autrefois la crainte, donc cela ne devrait jamais vouloir dire vraiment génial."],
+  ['Mia says "birthday" once meant the day of birth, so no one can celebrate a birthday party.', "Mia dit que « birthday » voulait autrefois dire le jour de la naissance, donc personne ne peut faire de fête d'anniversaire."],
+  ['Omar claims a "salary" came from salt money, so salaries today should be paid in salt.', "Omar affirme que « salaire » vient de l'argent du sel, donc les salaires d'aujourd'hui devraient être payés en sel."],
+  ['Priya says "candidate" meant white-clothed person, so only people in white can run for office.', "Priya dit que « candidat » voulait dire personne en blanc, donc seules les personnes en blanc peuvent se présenter."],
+  ['Ben says "broadcast" once meant scattering seed, so podcasts are not real broadcasts.', "Ben dit que « broadcast » voulait autrefois dire semer des graines, donc les podcasts ne sont pas de vraies diffusions."],
+  ['Ava says "holiday" used to mean holy day, so a beach holiday is a misuse of the word.', "Ava dit que « holiday » voulait autrefois dire jour saint, donc des vacances à la plage sont un mauvais usage du mot."],
+  ['Leo says "manufacture" once meant made by hand, so factory production cannot count.', "Leo dit que « manufacture » voulait autrefois dire fait à la main, donc la production en usine ne peut pas compter."],
+  ['Nina says "mentor" was a character name, so anyone giving advice should be named Mentor.', "Nina dit que « mentor » était un nom de personnage, donc toute personne donnant des conseils devrait s'appeler Mentor."],
+  ['Theo says "nice" once meant foolish, so calling a cake nice is historically incorrect.', "Theo dit que « nice » voulait autrefois dire stupide, donc dire qu'un gâteau est sympa est historiquement faux."]
 ];
 
 const OPTIONS_EN = ['Equivocation', 'False Dilemma', 'Appeal to Popularity', 'Cherry Picking'];

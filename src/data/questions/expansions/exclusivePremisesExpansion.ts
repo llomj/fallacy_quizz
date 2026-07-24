@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Finn says the roommate is either quiet or unbearable, so normal annoyances are dismissed.', "Finn dit que le colocataire est soit calme soit insupportable, donc les petites irritations normales sont rejetees."],
   ['Mina says the app is either safe or dangerous, so a few warnings do not matter.', "Mina dit que l'application est soit sure soit dangereuse, donc quelques avertissements ne comptent pas."],
   ['Kai says the day was either great or terrible, so an ordinary good day does not count.', "Kai dit que la journee etait soit super soit terrible, donc une journee ordinaire mais bonne ne compte pas."],
+  ['The company says the budget is either huge or tiny, so a normal-sized budget cannot exist.', "L'entreprise dit que le budget est soit énorme soit minuscule, donc un budget de taille normale ne peut pas exister."],
+  ['Mia says the meeting was either a win or a waste, so ordinary usefulness is impossible.', "Mia dit que la réunion était soit une victoire soit une perte, donc une utilité ordinaire est impossible."],
+  ['Theo says the lunch was either delicious or disgusting, so average is not allowed.', "Theo dit que le déjeuner était soit délicieux soit dégoûtant, donc la moyenne n'est pas permise."],
+  ['Nina says the app is either useful or useless, so it cannot be somewhat helpful.', "Nina dit que l'application est soit utile soit inutile, donc elle ne peut pas être un peu aidante."],
+  ['Ben says the road is either open or closed, so partial closures cannot happen.', "Ben dit que la route est soit ouverte soit fermée, donc les fermetures partielles ne peuvent pas exister."],
+  ['Priya says the plan is either brilliant or stupid, so ordinary plans are impossible.', "Priya dit que le plan est soit brillant soit stupide, donc les plans ordinaires sont impossibles."],
+  ['Omar says the car is either safe or dangerous, so good brakes on a noisy car are meaningless.', "Omar dit que la voiture est soit sûre soit dangereuse, donc de bons freins sur une voiture bruyante ne signifient rien."],
+  ['Ava says the phone is either broken or perfect, so minor glitches prove total failure.', "Ava dit que le téléphone est soit cassé soit parfait, donc de petits bugs prouvent un échec total."],
+  ['Leo says the movie is either genius or worthless, so mixed reactions make no sense.', "Leo dit que le film est soit génial soit sans valeur, donc les réactions partagées n'ont aucun sens."],
+  ['Rina says the dinner is either fancy or cheap, so a good mid-range meal cannot exist.', "Rina dit que le dîner est soit chic soit bon marché, donc un bon repas de milieu de gamme ne peut pas exister."]
 ];
 
 const OPTIONS_EN = ['Exclusive Premises', 'False Dilemma', 'Appeal to Popularity', 'Equivocation'];

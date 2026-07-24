@@ -53,6 +53,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Max gives the old headphones a premium price because they were his first big purchase.", "Max donne aux vieux écouteurs un prix premium parce qu'ils ont été son premier gros achat."],
   ["Tia considers the free tote bag valuable just because she chose it from the stack.", "Tia considère le sac gratuit comme précieux simplement parce qu'elle l'a choisi dans la pile."],
   ["Paul refuses to replace the scuffed mug because it has his favorite logo.", "Paul refuse de remplacer la tasse rayée parce qu'elle porte son logo préféré."],
+  ["Ava refuses to sell the concert poster because it was pinned on her wall first.", "Ava refuse de vendre l'affiche du concert parce qu'elle a été accrochée sur son mur en premier."],
+  ["Theo insists his old headphones are better than the new pair, even though the new ones sound clearer.", "Theo insiste pour dire que ses vieux écouteurs sont meilleurs que la nouvelle paire, même si les nouveaux sonnent mieux."],
+  ["Lina will not part with the coupon booklet she never opens, because it feels like a personal treasure.", "Lina ne veut pas se séparer du carnet de coupons qu'elle n'ouvre jamais, parce qu'il lui semble être un trésor personnel."],
+  ["Jules overvalues the glass he painted himself and will not let anyone buy it.", "Jules surestime la valeur du verre qu'il a peint lui-même et ne veut laisser personne l'acheter."],
+  ["Rosa rejects a trade for her old backpack because she has carried it to every class.", "Rosa refuse un échange pour son vieux sac à dos parce qu'elle l'a porté à chaque cours."],
+  ["Eli says his free kitchen timer is worth more than a digital one simply because he received it as a gift.", "Eli dit que son minuteur de cuisine gratuit vaut plus qu'un minuteur numérique simplement parce qu'il l'a reçu en cadeau."],
+  ["Mina will not replace a scratched bottle because it was her first purchase after moving out.", "Mina ne veut pas remplacer une bouteille rayée parce que c'était son premier achat après avoir quitté la maison."],
+  ["Noah thinks his souvenir keychain has special value that a new one can never match.", "Noah pense que son porte-clés souvenir a une valeur spéciale qu'un nouveau ne pourra jamais égaler."],
+  ["Kim refuses a better desk chair because the old one is 'the chair I started with.'", "Kim refuse une meilleure chaise de bureau parce que l'ancienne est « celle avec laquelle j'ai commencé »."],
+  ["Salma will not exchange her plain jacket for a warmer one because she already made memories in it.", "Salma ne veut pas échanger sa veste simple contre une plus chaude parce qu'elle y a déjà fait des souvenirs."]
 ];
 
 const OPTIONS_EN = ['Endowment Effect', 'IKEA Effect', 'Status Quo Bias', 'Sunk Cost Fallacy'];
