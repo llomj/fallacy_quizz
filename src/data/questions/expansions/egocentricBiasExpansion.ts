@@ -63,6 +63,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Jules thinks the restaurant ignored customer service because the waiter was busy with another table.", "Jules pense que le restaurant a ignoré le service client parce que le serveur était occupé avec une autre table."],
   ["Rosa says the whole conversation was disrespectful because her point was challenged.", "Rosa dit que toute la conversation était irrespectueuse parce que son point a été contesté."],
   ["Eli thinks the office memo was confusing because it was not written around his schedule.", "Eli pense que la note de service était confuse parce qu'elle n'était pas rédigée autour de son horaire."]
+  ["Maya thinks the meeting failed because nobody mentioned her idea first.", "Maya pense que la réunion a échoué parce que personne n'a mentionné son idée en premier."],
+  ["Theo believes the whole office cared about his haircut because two people glanced at him.", "Theo croit que tout le bureau se souciait de sa coupe de cheveux parce que deux personnes l'ont regardé."],
+  ["Nina assumes the event was about her because the host looked her way once.", "Nina suppose que l'événement parlait d'elle parce que l'hôte a regardé dans sa direction une fois."],
+  ["Ben says the class discussion was narrow because it did not quote his favorite source.", "Ben dit que la discussion de classe était étroite parce qu'elle n'a pas cité sa source préférée."],
+  ["Omar thinks the city plan was bad because it did not focus on his commute.", "Omar pense que le plan de la ville était mauvais parce qu'il ne se concentrait pas sur son trajet."],
+  ["Priya believes the project ignored the truth because her paragraph was edited.", "Priya croit que le projet ignorait la vérité parce que son paragraphe a été modifié."],
+  ["Leo says the office memo was rude because it was not written around his schedule.", "Leo dit que la note de service était impolie parce qu'elle n'était pas rédigée autour de son horaire."],
+  ["Rina thinks the test was unfair because it did not reward her best skill.", "Rina pense que le test était injuste parce qu'il ne récompensait pas sa meilleure compétence."],
+  ["Jules assumes the whole conversation was about him because people laughed after he spoke.", "Jules suppose que toute la conversation parlait de lui parce que les gens ont ri après qu'il a parlé."],
+  ["Ava believes the policy was written badly because it did not mention her exact situation.", "Ava croit que la politique a été mal rédigée parce qu'elle ne mentionnait pas sa situation exacte."]
 ];
 
 const OPTIONS_EN = ['Egocentric Bias', 'Spotlight Fallacy', 'Self-Serving Bias', 'False Consensus Effect'];

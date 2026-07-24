@@ -62,6 +62,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["The library is quiet, so every book inside must be silent and serious.", "La bibliothèque est silencieuse, donc chaque livre à l'intérieur doit être silencieux et sérieux."],
   ["The festival was famous, so every volunteer must have been famous too.", "Le festival était célèbre, donc chaque bénévole devait être célèbre lui aussi."],
   ["The car is fast, so every screw in it must be fast.", "La voiture est rapide, donc chaque vis à l'intérieur doit être rapide."]
+  ["The company is profitable, so every employee must be rich.", "L'entreprise fait des bénéfices, donc chaque employé doit être riche."],
+  ["The team is undefeated, so each player must be unbeatable in every situation.", "L'équipe est invaincue, donc chaque joueur doit être imbattable dans toutes les situations."],
+  ["The cake is delicious, so every ingredient must taste delicious on its own.", "Le gâteau est délicieux, donc chaque ingrédient doit être délicieux tout seul."],
+  ["The movie was a masterpiece, so every scene in it must be a masterpiece.", "Le film était un chef-d'œuvre, donc chaque scène doit être un chef-d'œuvre."],
+  ["The apartment building is luxurious, so every apartment inside must be luxurious.", "L'immeuble est luxueux, donc chaque appartement à l'intérieur doit être luxueux."],
+  ["The school is famous for excellent test scores, so every student must be a genius.", "L'école est connue pour ses excellents résultats, donc chaque élève doit être un génie."],
+  ["The orchestra sounded amazing, so every instrument must sound amazing alone.", "L'orchestre sonnait très bien, donc chaque instrument doit sonner très bien tout seul."],
+  ["The neighborhood is peaceful, so every street is perfectly quiet at all times.", "Le quartier est paisible, donc chaque rue est parfaitement calme en permanence."],
+  ["The restaurant is expensive, so every dish on the menu must be expensive too.", "Le restaurant est cher, donc chaque plat du menu doit être cher lui aussi."],
+  ["The city is safe overall, so every block must be safe at midnight.", "La ville est globalement sûre, donc chaque quartier doit être sûr à minuit."]
 ];
 
 const OPTIONS_EN = ['Division Fallacy', 'Composition Fallacy', 'Hasty Generalization', 'False Equivalence'];

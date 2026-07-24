@@ -62,6 +62,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Nina changes a website color and says she can now manage the entire product team.", "Nina change une couleur de site web et dit qu'elle peut maintenant gérer toute l'équipe produit."],
   ["Eli follows one fitness video and announces he is qualified to coach athletes.", "Eli suit une vidéo de fitness et annonce qu'il est qualifié pour entraîner des athlètes."],
   ["Rosa fixes one typo in an email and says she should oversee corporate communications.", "Rosa corrige une faute de frappe dans un e-mail et dit qu'elle devrait superviser les communications de l'entreprise."]
+  ["Maya watches two cooking videos and says she could cater a wedding better than a chef.", "Maya regarde deux vidéos de cuisine et dit qu'elle pourrait mieux gérer un mariage qu'un chef."],
+  ["Theo fixes one squeaky door and starts offering construction advice to the whole block.", "Theo répare une porte qui grince et commence à donner des conseils de construction à tout le quartier."],
+  ["Nina reads one finance article and calls herself ready to run a bank.", "Nina lit un article de finance et se dit prête à diriger une banque."],
+  ["Ben wins one trivia round and says he could write a university textbook.", "Ben gagne une manche de quiz et dit qu'il pourrait écrire un manuel universitaire."],
+  ["Omar learns one magic trick and announces he is ready for television.", "Omar apprend un tour de magie et annonce qu'il est prêt pour la télévision."],
+  ["Priya gets one compliment on a slide deck and says she should lead all company talks.", "Priya reçoit un compliment sur son diaporama et dit qu'elle devrait diriger tous les exposés de l'entreprise."],
+  ["Leo passes one driving practice test and starts giving parking advice to everyone.", "Leo réussit un test de conduite d'entraînement et commence à donner des conseils de stationnement à tout le monde."],
+  ["Rina solves one math puzzle and decides she is a natural genius at statistics.", "Rina résout une petite énigme de maths et décide qu'elle est un génie naturel des statistiques."],
+  ["Jules repairs a phone screen and says he could build a phone from scratch.", "Jules répare un écran de téléphone et dit qu'il pourrait construire un téléphone de zéro."],
+  ["Ava watches a debate clip and assumes she can out-argue a lawyer at city hall.", "Ava regarde un extrait de débat et suppose qu'elle peut battre un avocat en arguments à l'hôtel de ville."]
 ];
 
 const OPTIONS_EN = ['Dunning-Kruger Effect', 'Overconfidence Effect', 'Impostor Syndrome', 'Self-Serving Bias'];

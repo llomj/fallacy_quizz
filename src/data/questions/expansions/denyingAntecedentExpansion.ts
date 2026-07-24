@@ -63,6 +63,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['If the printer is jammed, the queue grows. The queue grows, so the printer is jammed.', "Si l'imprimante est bloquee, la file s'allonge. La file s'allonge, donc l'imprimante est bloquee."],
   ['If the room is reserved, there is a sign. There is a sign, so the room is reserved.', "Si la salle est reservee, il y a un panneau. Il y a un panneau, donc la salle est reservee."],
   ['If the coffee is cold, the mug sits untouched. The mug sits untouched, so the coffee is cold.', "Si le cafe est froid, la tasse reste intacte. La tasse reste intacte, donc le cafe est froid."]
+  ['If the app is premium, it has no ads. This app has ads, so it is not premium.', "Si l'application est premium, elle n'a pas de pub. Cette application a de la pub, donc elle n'est pas premium."],
+  ['If the soup is hot, steam rises. Steam is rising, so the soup is hot.', 'Si la soupe est chaude, de la vapeur monte. De la vapeur monte, donc la soupe est chaude.'],
+  ['If the movie is funny, people laugh. People are laughing, so the movie is funny.', 'Si le film est drole, les gens rient. Les gens rient, donc le film est drole.'],
+  ['If the room is reserved, a sign is on the door. A sign is on the door, so the room is reserved.', 'Si la salle est reservee, un panneau est sur la porte. Un panneau est sur la porte, donc la salle est reservee.'],
+  ['If the phone is charged, the battery icon is full. The battery icon is full, so the phone is charged.', "Si le telephone est charge, l'icone de batterie est pleine. L'icone de batterie est pleine, donc le telephone est charge."],
+  ['If the plan is approved, the manager signs it. The manager signed it, so the plan is approved.', 'Si le plan est approuve, le manager le signe. Le manager l a signe, donc le plan est approuve.'],
+  ['If the bus is late, the app shows a delay. The app shows a delay, so the bus is late.', "Si le bus est en retard, l'application affiche un retard. L'application affiche un retard, donc le bus est en retard."],
+  ['If the cake is baked, the center is warm. The center is warm, so the cake is baked.', 'Si le gateau est cuit, le milieu est chaud. Le milieu est chaud, donc le gateau est cuit.'],
+  ['If the library is open, lights are on. Lights are on, so the library is open.', "Si la bibliotheque est ouverte, les lumieres sont allumees. Les lumieres sont allumees, donc la bibliotheque est ouverte."],
+  ['If the store is busy, the line is long. The line is long, so the store is busy.', "Si le magasin est occupe, la file est longue. La file est longue, donc le magasin est occupe."]
 ];
 
 const OPTIONS_EN = ['Denying the Antecedent', 'Affirming the Consequent', 'False Dilemma', 'Appeal to Authority'];
