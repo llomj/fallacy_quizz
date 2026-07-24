@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["The poster says this course is superior because it was launched last week.", "L'affiche dit que ce cours est supérieur parce qu'il a été lancé la semaine dernière."],
   ["A customer assumes the newest blender is better than her reliable old one.", "Une cliente suppose que le nouveau blender est meilleur que son ancien blender fiable."],
   ["Maya thinks the latest phone wallpaper app must improve her phone.", "Maya pense que la dernière application de fonds d'écran doit améliorer son téléphone."],
+  ["Theo says the newest budgeting app must be better because it just launched this morning.", "Theo dit que la nouvelle application de budget doit être meilleure parce qu'elle vient d'être lancée ce matin."],
+  ["Nina buys the latest desk organizer without checking whether the old one already works well.", "Nina achète le dernier organiseur de bureau sans vérifier si l'ancien fonctionne déjà bien."],
+  ["Ben trusts the newest recipe trend because the video called it the future of cooking.", "Ben fait confiance à la dernière tendance culinaire parce que la vidéo l'a appelée l'avenir de la cuisine."],
+  ["Priya says the fresh bus route app must be superior because it is the app everyone just downloaded.", "Priya dit que la nouvelle appli d'itinéraire de bus doit être supérieure parce que c'est celle que tout le monde vient de télécharger."],
+  ["Omar believes the latest mop is better because it looks more modern than the one he owns.", "Omar croit que la dernière serpillière est meilleure parce qu'elle paraît plus moderne que celle qu'il possède."],
+  ["Maya swaps to a brand-new calendar tool because new feels more efficient.", "Maya passe à un tout nouvel outil de calendrier parce que le nouveau semble plus efficace."],
+  ["Leo chooses the newly released lunch app because it is trending in the office chat.", "Leo choisit la nouvelle application de déjeuner parce qu'elle est à la mode dans le chat du bureau."],
+  ["Rina assumes the newest note-taking style must help because it came out after the old one.", "Rina suppose que la nouvelle façon de prendre des notes doit aider parce qu'elle est sortie après l'ancienne."],
+  ["Jules says the latest lamp design must be best because it is the newest version on the shelf.", "Jules dit que le dernier modèle de lampe doit être le meilleur parce que c'est la version la plus récente en rayon."],
+  ["Ava thinks the fresh haircut trend is superior just because it is this season's trend.", "Ava pense que la nouvelle coupe à la mode est supérieure simplement parce que c'est la tendance de la saison."],
 ];
 
 const EN = ['Appeal to Novelty', 'Appeal to Popularity', 'False Dilemma', 'Bandwagon'];

@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["A customer says the toy is the best because every kid in the video wanted it.", "Une cliente dit que le jouet est le meilleur parce que tous les enfants de la vidéo le voulaient."],
   ["Theo believes the plan is smart because the audience cheered at the end.", "Theo croit que le plan est intelligent parce que le public a applaudi à la fin."],
   ["Mia says the brand-new desk is the right choice because it is the one everyone seems to share.", "Mia dit que le bureau tout neuf est le bon choix parce que c'est celui que tout le monde semble partager."],
+  ["Maya trusts the new coffee blend because everyone in her feed ordered it.", "Maya fait confiance au nouveau mélange de café parce que tout son fil l'a commandé."],
+  ["Leo buys the jacket because the launch crowd clapped when it appeared.", "Leo achète la veste parce que la foule du lancement a applaudi quand elle est apparue."],
+  ["Priya says the fitness plan must work because all her friends are talking about it.", "Priya dit que le programme sportif doit marcher parce que tous ses amis en parlent."],
+  ["Ben believes the new burger is the best because the whole group photo was eating it.", "Ben croit que le nouveau burger est le meilleur parce que toute la photo de groupe en mangeait."],
+  ["Nina assumes the app is trustworthy because the comments are packed with praise.", "Nina suppose que l'application est fiable parce que les commentaires sont remplis d'éloges."],
+  ["Omar says the team strategy is correct because the crowd at the game shouted for it.", "Omar dit que la stratégie d'équipe est correcte parce que la foule du match l'a réclamée."],
+  ["Rina trusts the podcast because everyone at lunch said it was brilliant.", "Rina fait confiance au podcast parce que tout le monde au déjeuner a dit qu'il était génial."],
+  ["Jules thinks the new school rule is right because the student council approved it.", "Jules pense que la nouvelle règle scolaire est juste parce que le conseil des élèves l'a approuvée."],
+  ["Ava buys the lamp because it is the top-rated choice in the office chat.", "Ava achète la lampe parce que c'est le choix le mieux noté dans le chat du bureau."],
+  ["Theo trusts the snack because the release video got a standing ovation from the crowd.", "Theo fait confiance à l'en-cas parce que la vidéo de lancement a reçu une ovation de la foule."],
 ];
 
 const EN = ['Appeal to Popularity', 'Appeal to Authority', 'False Dilemma', 'Bandwagon'];

@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["A renter says the landlord's promise cannot be honest because it seems too convenient.", "Un locataire dit que la promesse du propriétaire ne peut pas être honnête parce qu'elle paraît trop commode."],
   ["Lea says the solution is false because she cannot explain it in one sentence.", "Lea dit que la solution est fausse parce qu'elle ne peut pas l'expliquer en une phrase."],
   ["A passenger says the train delay update cannot be real because it sounds too neat.", "Un passager dit que la mise à jour du retard du train ne peut pas être réelle parce qu'elle semble trop bien formulée."],
+  ["Maya says the clinic advice cannot be right because it feels too strange to follow.", "Maya dit que le conseil de la clinique ne peut pas être juste parce qu'il paraît trop étrange à suivre."],
+  ["Theo rejects the repair guide because he cannot picture the steps working together.", "Theo rejette le guide de réparation parce qu'il n'arrive pas à imaginer les étapes fonctionner ensemble."],
+  ["Nina says the weather update is false because the forecast sounds backwards to her.", "Nina dit que la mise à jour météo est fausse parce que la prévision lui paraît inversée."],
+  ["Omar dismisses the travel tip because the route seems too odd to succeed.", "Omar rejette le conseil de voyage parce que l'itinéraire semble trop bizarre pour réussir."],
+  ["Ben says the budget plan must be wrong because the numbers do not feel intuitive.", "Ben dit que le plan budgétaire doit être faux parce que les chiffres ne lui paraissent pas intuitifs."],
+  ["Priya rejects the school rule because she cannot imagine it helping.", "Priya rejette la règle scolaire parce qu'elle n'arrive pas à l'imaginer utile."],
+  ["Leo says the report is impossible because the conclusion feels too clean.", "Leo dit que le rapport est impossible parce que la conclusion semble trop nette."],
+  ["Rina doubts the new map because she cannot see how it fits the streets she knows.", "Rina doute de la nouvelle carte parce qu'elle ne voit pas comment elle s'adapte aux rues qu'elle connaît."],
+  ["Jules says the answer is false because it sounds like a trick.", "Jules dit que la réponse est fausse parce qu'elle ressemble à une astuce."],
+  ["Ava rejects the schedule because it seems too neat for real life.", "Ava rejette l'horaire parce qu'il paraît trop bien rangé pour la vraie vie."],
 ];
 
 const EN = ['Appeal to Incredulity', 'Appeal to Authority', 'False Dilemma', 'Appeal to Popularity'];

@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["A parent says the mud mask is better because it came from the earth.", "Un parent dit que le masque à la boue est meilleur parce qu'il vient de la terre."],
   ["The ad says the organic sticker proves the snack is automatically good.", "La pub dit que l'étiquette bio prouve que la collation est automatiquement bonne."],
   ["Lea rejects the modern chair because wood is more natural than metal.", "Lea rejette la chaise moderne parce que le bois est plus naturel que le métal."],
+  ["Maya says the herbal tincture must be harmless because it is made from roots.", "Maya dit que la teinture à base de plantes doit être inoffensive parce qu'elle est faite de racines."],
+  ["A customer rejects the lab-grown leather because real leather sounds more natural.", "Une cliente rejette le cuir cultivé en laboratoire parce que le cuir réel semble plus naturel."],
+  ["Theo believes the unfiltered juice is healthier because it looks cloudy and raw.", "Theo croit que le jus non filtré est plus sain parce qu'il paraît trouble et brut."],
+  ["Nina says the stone face cream is better because it comes from minerals.", "Nina dit que la crème pour le visage à base de pierre est meilleure parce qu'elle vient des minéraux."],
+  ["Omar refuses the filtered water bottle because pure water should taste like a stream.", "Omar refuse la bouteille d'eau filtrée parce que l'eau pure devrait avoir le goût d'un ruisseau."],
+  ["Ben thinks the handmade soap is safer because factories are artificial.", "Ben pense que le savon fait main est plus sûr parce que les usines sont artificielles."],
+  ["Priya says the wildflower syrup must be healthy because flowers are natural.", "Priya dit que le sirop aux fleurs sauvages doit être sain parce que les fleurs sont naturelles."],
+  ["Leo argues the clay mug is better because it was shaped from earth.", "Leo affirme que la tasse en argile est meilleure parce qu'elle a été façonnée à partir de la terre."],
+  ["Rina rejects the pasteurized drink because heating it feels unnatural.", "Rina rejette la boisson pasteurisée parce que la chauffer lui paraît contre nature."],
+  ["Jules says the raw veggie wrap is automatically superior because it was not cooked.", "Jules dit que le wrap de légumes crus est automatiquement supérieur parce qu'il n'a pas été cuit."],
 ];
 
 const EN = ['Appeal to Nature', 'Appeal to Popularity', 'False Dilemma', 'Bandwagon'];
