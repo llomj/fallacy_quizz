@@ -179,6 +179,7 @@
   - [x] Stereotyping: IDs 41501-41550, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Straw Man: IDs 41601-41650, 50 EN + 50 FR, additive to 121 existing questions.
   - [x] Sturgeon's Law: IDs 41701-41750, 50 EN + 50 FR, additive to 3 existing questions.
+  - [x] Subadditivity Effect: IDs 41801-41850, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Slippery Slope: IDs 40801-40850, 50 EN + 50 FR, additive to 227 existing questions.
 - [ ] Run duplicate, parity, random-mode, level-mode, language-switch, offline, and production-build validation after every batch.
 
