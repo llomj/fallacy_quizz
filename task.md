@@ -186,6 +186,7 @@
   - [x] System Justification: IDs 42201-42250, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Taboo Tradeoff: IDs 42301-42350, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Telescoping Effect: IDs 42401-42450, 50 EN + 50 FR, additive to 3 existing questions.
+  - [x] Texas Sharpshooter Fallacy: IDs 42501-42550, 50 EN + 50 FR, additive to 6 existing questions.
   - [x] Slippery Slope: IDs 40801-40850, 50 EN + 50 FR, additive to 227 existing questions.
 - [ ] Run duplicate, parity, random-mode, level-mode, language-switch, offline, and production-build validation after every batch.
 
