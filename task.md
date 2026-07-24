@@ -96,6 +96,7 @@
   - [x] Bandwagon: IDs 32101-32150, 50 EN + 50 FR, additive to 13 existing questions.
   - [x] Barnum Effect: IDs 32151-32200, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Base Rate Neglect: IDs 32201-32250, 50 EN + 50 FR, additive to 110 existing questions.
+  - [x] Neglecting Confounders: IDs 3503-3552, 50 EN + 50 FR, additive to 100 existing questions.
   - [x] Begging the Question: IDs 32301-32350, 50 EN + 50 FR, additive to 6 existing questions.
   - [x] Ben Franklin Effect: IDs 32401-32450, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Biased Sample: IDs 32501-32550, 50 EN + 50 FR, additive to 6 existing questions.

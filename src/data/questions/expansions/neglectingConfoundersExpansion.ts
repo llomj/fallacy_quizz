@@ -1,0 +1,126 @@
+import { PersonaStage, type Question, SubLevel } from '../../../types';
+
+const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
+  ['Maya says students who drink more coffee also get better grades, but she forgets that exam season pushes both habits up.', 'Maya dit que les etudiants qui boivent plus de cafe ont aussi de meilleures notes, mais elle oublie que la periode d examens fait monter les deux en meme temps.'],
+  ['Leo says people who carry umbrellas seem happier, but he ignores that sunny days change both mood and umbrella use.', 'Leo dit que les personnes qui portent un parapluie semblent plus heureuses, mais il ignore que les jours ensoleilles changent a la fois l humeur et l usage du parapluie.'],
+  ['Priya says a new app makes users calmer, but she does not control for the fact that its fans are already less stressed.', 'Priya dit qu une nouvelle application rend les utilisateurs plus calmes, mais elle ne controle pas le fait que ses fans sont deja moins stresses.'],
+  ['Omar says neighborhoods with more ice cream sales also have more crime, but he forgets summer heat raises both.', 'Omar dit que les quartiers qui vendent plus de glace ont aussi plus de criminalite, mais il oublie que la chaleur de l ete augmente les deux.'],
+  ['Rina says taller kids read better, but she ignores age as the hidden factor driving both growth and reading skill.', 'Rina dit que les enfants plus grands lisent mieux, mais elle ignore l age comme facteur cache qui fait monter a la fois la croissance et la lecture.'],
+  ['Ben says morning joggers are healthier, but he ignores that healthy people are more likely to jog in the first place.', 'Ben dit que les personnes qui courent le matin sont en meilleure sante, mais il ignore que les personnes deja en bonne sante sont plus susceptibles de courir.'],
+  ['Zoe says a city with more bike lanes has fewer accidents, but she forgets those cities also slow cars down in many ways.', 'Zoé dit qu une ville avec plus de pistes cyclables a moins d accidents, mais elle oublie que ces villes ralentissent aussi les voitures de plusieurs facons.'],
+  ['Kai says students who join clubs get better jobs, but he ignores family support and school quality.', 'Kai dit que les etudiants qui rejoignent des clubs trouvent de meilleurs emplois, mais il ignore le soutien familial et la qualite de l ecole.'],
+  ['Nora says a new vitamin helps people sleep, but she ignores that people who buy supplements also change their bedtime routines.', 'Nora dit qu une nouvelle vitamine aide a dormir, mais elle ignore que les personnes qui achetent des complements changent aussi leur routine du coucher.'],
+  ['Eli says customers with loyalty cards spend more, but he overlooks that frequent shoppers are the ones who get the cards.', 'Eli dit que les clients avec une carte de fidelite depensent plus, mais il oublie que ce sont surtout les clients frequents qui prennent la carte.'],
+  ['Lina says online classes lead to lower scores, but she ignores that weaker students were more likely to enroll online.', 'Lina dit que les cours en ligne mènent a de plus mauvaises notes, mais elle ignore que les eleves plus faibles etaient plus susceptibles de s inscrire en ligne.'],
+  ['Grant says a city park made people friendlier, but he forgets that neighborhoods with more trust also build nicer parks.', 'Grant dit qu un parc de ville rend les gens plus aimables, mais il oublie que les quartiers avec plus de confiance construisent aussi de plus beaux parcs.'],
+  ['Tia says people who wear fitness trackers lose more weight, but she ignores motivation and health-consciousness.', 'Tia dit que les personnes qui portent des bracelets connectes perdent plus de poids, mais elle ignore la motivation et l esprit de sante.'],
+  ['Noah says a neighborhood newsletter improved civic pride, but he forgets it launched in the same year as a major festival.', 'Noah dit qu un bulletin de quartier a ameliore la fierte civique, mais il oublie qu il a ete lance la meme annee qu un grand festival.'],
+  ['Mia says people who listen to study playlists focus better, but she ignores that disciplined students choose those playlists.', 'Mia dit que les personnes qui ecoutent des playlists d etude se concentrent mieux, mais elle ignore que les etudiants disciplinés choisissent ces playlists.'],
+  ['Jules says a school with more art classes has fewer discipline problems, but he ignores leadership and funding.', 'Jules dit qu une ecole avec plus de cours d art a moins de problemes de discipline, mais il ignore le leadership et le financement.'],
+  ['Ava says customers who read reviews are happier, but she forgets careful shoppers already look harder before buying.', 'Ava dit que les clients qui lisent les avis sont plus satisfaits, mais elle oublie que les acheteurs prudents regardent deja plus avant d acheter.'],
+  ['Finn says a town with more streetlights has lower theft, but he ignores that wealthier towns can afford both.', 'Finn dit qu une ville avec plus de lampadaires a moins de vols, mais il ignore que les villes plus riches peuvent se payer les deux.'],
+  ['Mina says kids who take music lessons do better in math, but she ignores parental involvement and household resources.', 'Mina dit que les enfants qui prennent des cours de musique reussissent mieux en maths, mais elle ignore l implication parentale et les ressources du foyer.'],
+  ['Theo says a sales team got better after a new chat tool, but he ignores that the company also hired more experienced staff.', 'Theo dit qu une equipe commerciale a progresse apres un nouvel outil de chat, mais il ignore que l entreprise a aussi recrute du personnel plus experimente.'],
+  ['Juno says people who commute by train arrive less stressed, but he ignores that train riders can live in more walkable areas.', 'Juno dit que les personnes qui prennent le train arrivent moins stressees, mais il ignore que les usagers du train peuvent vivre dans des zones plus faciles a parcourir a pied.'],
+  ['Iris says a restaurant with more candles has better reviews, but she ignores that it also has better food and service.', 'Iris dit qu un restaurant avec plus de bougies a de meilleurs avis, mais elle ignore qu il a aussi une meilleure cuisine et un meilleur service.'],
+  ['Cole says people who use a language app speak more fluently, but he ignores that motivated learners use the app more often.', 'Cole dit que les personnes qui utilisent une application de langue parlent plus couramment, mais il ignore que les apprenants motives l utilisent plus souvent.'],
+  ['Riley says a hospital ward with more nurses has fewer complications, but he ignores that sicker patients get assigned there.', 'Riley dit qu un service hospitalier avec plus d infirmieres a moins de complications, mais il ignore que les patients les plus malades y sont affectes.'],
+  ['Pia says neighborhoods with more murals have more walking, but she ignores that walkable streets attract both.', 'Pia dit que les quartiers avec plus de fresques ont plus de marche, mais elle ignore que les rues faciles a parcourir attirent les deux.'],
+  ['Hugo says a webinar produced more signups than email, but he ignores that the webinar topic was already more popular.', 'Hugo dit qu un webinaire a genere plus d inscriptions que l email, mais il ignore que le sujet du webinaire etait deja plus populaire.'],
+  ['Sam says people who meditate are calmer at work, but he ignores that calm people are the ones who keep meditating.', 'Sam dit que les personnes qui meditent sont plus calmes au travail, mais il ignore que les personnes calmes sont justement celles qui continuent a mediter.'],
+  ['Jade says a suburb with more playgrounds has more children, but she ignores that families with children choose those suburbs.', 'Jade dit qu une banlieue avec plus de terrains de jeu a plus d enfants, mais elle ignore que les familles avec enfants choisissent ces banlieues.'],
+  ['Owen says students who highlight notes remember more, but he ignores that strong students also highlight more carefully.', 'Owen dit que les etudiants qui surlignent leurs notes se souviennent mieux, mais il ignore que les bons etudiants surlignent aussi plus soigneusement.'],
+  ['Lea says a neighborhood with more dog parks has more friendly people, but she ignores the social type of residents who move there.', 'Lea dit qu un quartier avec plus de parcs pour chiens a des habitants plus amicaux, mais elle ignore le type social des residents qui s y installent.'],
+  ['Maya says a company with flexible hours has happier staff, but she ignores that well-run companies often offer both.', 'Maya dit qu une entreprise avec des horaires flexibles a un personnel plus heureux, mais elle ignore que les entreprises bien gerées proposent souvent les deux.'],
+  ['Ben says teachers who use colorful slides get higher ratings, but he ignores that better teachers often design better slides too.', 'Ben dit que les enseignants qui utilisent des diapositives colorees obtiennent de meilleures notes, mais il ignore que les meilleurs enseignants conçoivent souvent aussi de meilleures diapositives.'],
+  ['Ava says a town with more libraries has more readers, but she ignores income and education levels.', 'Ava dit qu une ville avec plus de bibliotheques a plus de lecteurs, mais elle ignore les niveaux de revenu et d education.'],
+  ['Omar says a fitness class with loud music works better, but he ignores that the class is also led by a more energetic coach.', 'Omar dit qu un cours de fitness avec de la musique forte fonctionne mieux, mais il ignore qu il est aussi anime par un coach plus dynamique.'],
+  ['Nina says a team with morning meetings hits deadlines better, but she ignores that only the organized teams keep morning meetings.', 'Nina dit qu une equipe avec des reunions du matin respecte mieux les delais, mais elle ignore que seules les equipes organisees gardent ces reunions.'],
+  ['Eli says people who own houseplants are less lonely, but he ignores that people with more time and space are more likely to buy plants.', 'Eli dit que les personnes qui ont des plantes sont moins seules, mais il ignore que les personnes ayant plus de temps et d espace sont plus susceptibles d acheter des plantes.'],
+  ['Lina says a store with a scent diffuser sells more, but she ignores that the store also has better lighting and layout.', 'Lina dit qu un magasin avec un diffuseur de parfum vend plus, mais elle ignore qu il a aussi un meilleur eclairage et une meilleure disposition.'],
+  ['Grant says a school with more field trips has better test scores, but he ignores the privilege and parent support behind both.', 'Grant dit qu une ecole avec plus de sorties scolaires a de meilleurs resultats, mais il ignore le privilege et le soutien parental qui expliquent les deux.'],
+  ['Tia says people who use a budgeting app save more, but she ignores that savers are the ones most likely to use it.', 'Tia dit que les personnes qui utilisent une appli de budget economisent plus, mais elle ignore que les personnes economes sont celles qui l utilisent le plus.'],
+  ['Noah says a cafe with more board games is friendlier, but he ignores the neighborhood crowd that chooses it.', 'Noah dit qu un cafe avec plus de jeux de societe est plus convivial, mais il ignore le public du quartier qui le frequente.'],
+  ['Mia says students who sit near the front learn more, but she ignores that motivated students choose front seats.', 'Mia dit que les etudiants assis devant apprennent plus, mais elle ignore que les etudiants motives choisissent les places devant.'],
+  ['Jules says a city with more murals has lower vandalism, but he ignores that civic investment is raising both quality and care.', 'Jules dit qu une ville avec plus de fresques a moins de vandalisme, mais il ignore que l investissement civique eleve a la fois la qualite et le soin.'],
+  ['Iris says people who eat breakfast are more successful, but she ignores sleep, income, and routine.', 'Iris dit que les personnes qui prennent un petit-dejeuner reussissent mieux, mais elle ignore le sommeil, le revenu et la routine.'],
+  ['Cole says a gym with more mirrors makes people train harder, but he ignores that upscale gyms also have better equipment.', 'Cole dit qu une salle de sport avec plus de miroirs pousse plus a s entrainer, mais il ignore que les salles haut de gamme ont aussi un meilleur materiel.'],
+  ['Riley says a podcast with more guests is more credible, but he ignores topic quality and audience size.', 'Riley dit qu un podcast avec plus d invites est plus credible, mais il ignore la qualite du sujet et la taille du public.'],
+  ['Pia says families who vacation by the sea are closer, but she ignores that wealth and free time make those trips possible.', 'Pia dit que les familles qui partent en vacances au bord de la mer sont plus proches, mais elle ignore que la richesse et le temps libre rendent ces voyages possibles.'],
+  ['Hugo says people who keep a tidy desk are more productive, but he ignores that organized workers do both.', 'Hugo dit que les personnes qui gardent un bureau range sont plus productives, mais il ignore que les travailleurs organises font les deux.'],
+  ['Sam says a phone battery lasts longer when the screen is dark, but he ignores the hidden factor of lower usage.', 'Sam dit qu une batterie de telephone dure plus longtemps quand l ecran est sombre, mais il ignore le facteur cache d une utilisation plus faible.'],
+  ['Jade says employees who attend workshops improve faster, but she ignores that ambitious employees are the ones who attend.', 'Jade dit que les employes qui assistent a des ateliers progressent plus vite, mais elle ignore que les employes ambitieux sont ceux qui s y rendent.'],
+  ['Owen says a village with more festivals has more happiness, but he ignores that prosperous villages can afford both.', 'Owen dit qu un village avec plus de festivals a plus de bonheur, mais il ignore que les villages prospères peuvent se permettre les deux.'],
+  ['Lea says students who rewrite notes are more confident, but she ignores the planning and patience behind rewriting.', 'Lea dit que les etudiants qui retapent leurs notes sont plus confiants, mais elle ignore la planification et la patience qu exige ce travail.'],
+  ['Maya says a store with self-checkout is faster, but she ignores that the store also has fewer customers at that hour.', 'Maya dit qu un magasin avec caisses automatiques est plus rapide, mais elle ignore qu il a aussi moins de clients a cette heure.'],
+  ['Ben says neighbors who know each other have fewer complaints, but he ignores that stable neighborhoods create both.', 'Ben dit que les voisins qui se connaissent ont moins de plaintes, mais il ignore que les quartiers stables produisent les deux.'],
+  ['Ava says people who take nature walks are calmer, but she ignores the self-selection of people already seeking calm.', 'Ava dit que les personnes qui font des promenades en nature sont plus calmes, mais elle ignore l auto-selection des personnes qui cherchent deja le calme.'],
+  ['Omar says a company with more staff lunches has better teamwork, but he ignores that leadership quality also shapes both.', 'Omar dit qu une entreprise avec plus de repas d equipe a un meilleur travail collectif, mais il ignore que la qualite du leadership façonne aussi les deux.'],
+  ['Nina says kids who use flashcards score higher, but she ignores that stronger students also like flashcards.', 'Nina dit que les enfants qui utilisent des cartes memoires ont de meilleurs scores, mais elle ignore que les eleves les plus forts aiment aussi les cartes memoires.'],
+  ['Eli says a city with more festivals is happier, but he ignores tourism, income, and seasonal weather.', 'Eli dit qu une ville avec plus de festivals est plus heureuse, mais il ignore le tourisme, le revenu et la meteo saisonniere.'],
+  ['Lina says people who answer surveys quickly are more satisfied, but she ignores that extreme opinions are faster to report.', 'Lina dit que les personnes qui repondent vite aux sondages sont plus satisfaites, mais elle ignore que les opinions extremes sont plus rapides a declarer.'],
+  ['Grant says an office with standing desks is healthier, but he ignores that health-conscious firms buy them first.', 'Grant dit qu un bureau avec des bureaux debout est plus sain, mais il ignore que les entreprises soucieuses de la sante les achetent en premier.'],
+  ['Tia says a class with more participation learns more, but she ignores that confident students both speak and study more.', 'Tia dit qu une classe avec plus de participation apprend plus, mais elle ignore que les etudiants confiants parlent plus et etudient plus.'],
+  ['Noah says a street with more cafes feels safer, but he ignores foot traffic and police presence.', 'Noah dit qu une rue avec plus de cafes semble plus sure, mais il ignore le passage pieton et la presence policiere.'],
+  ['Mia says people who use grocery lists spend less, but she ignores that planners both write lists and spend less.', 'Mia dit que les personnes qui utilisent des listes de courses depensent moins, mais elle ignore que les personnes organisees ecrivent des listes et depensent moins.'],
+  ['Jules says a city with more trees has better health, but he ignores wealth, zoning, and traffic patterns.', 'Jules dit qu une ville avec plus d arbres a une meilleure sante, mais il ignore la richesse, le zonage et les flux de circulation.'],
+  ['Iris says people who take fewer selfies are less vain, but she ignores personality and age differences.', 'Iris dit que les personnes qui prennent moins de selfies sont moins vaniteuses, mais elle ignore les differences de personnalite et d age.'],
+  ['Cole says a classroom with more posters is more engaging, but he ignores that stronger teachers decorate more too.', 'Cole dit qu une salle de classe avec plus d affiches est plus engageante, mais il ignore que les enseignants les plus forts decorent davantage aussi.'],
+  ['Riley says a town with more farmers markets is healthier, but he ignores demographics and local wealth.', 'Riley dit qu une ville avec plus de marches de producteurs est plus saine, mais il ignore les donnees demographiques et la richesse locale.'],
+  ['Pia says people who keep a gratitude journal are happier, but she ignores that happier people are more likely to keep one.', 'Pia dit que les personnes qui tiennent un journal de gratitude sont plus heureuses, mais elle ignore que les personnes plus heureuses sont plus susceptibles d en tenir un.'],
+  ['Hugo says a carpool group arrives on time more often, but he ignores route simplicity and group size.', 'Hugo dit qu un groupe de covoiturage arrive plus souvent a l heure, mais il ignore la simplicite de l itineraire et la taille du groupe.'],
+  ['Sam says a village with more murals has less boredom, but he ignores cultural funding and youth programs.', 'Sam dit qu un village avec plus de fresques a moins d ennui, mais il ignore les subventions culturelles et les programmes pour jeunes.'],
+  ['Jade says people who use noise-canceling headphones study better, but she ignores that quiet study spaces matter too.', 'Jade dit que les personnes qui utilisent des ecouteurs anti-bruit etudient mieux, mais elle ignore que les espaces de travail calmes comptent aussi.'],
+  ['Owen says a gym with more mirrors produces better form, but he ignores coaching quality and member experience.', 'Owen dit qu une salle de sport avec plus de miroirs produit une meilleure posture, mais il ignore la qualite du coaching et l experience des membres.'],
+  ['Lea says a neighborhood with more gardens has nicer people, but she ignores that nicer neighbors are the ones who start gardens.', 'Lea dit qu un quartier avec plus de jardins a des gens plus sympas, mais elle ignore que les voisins sympas sont ceux qui lancent les jardins.'],
+];
+
+const OPTIONS_EN = ['Neglecting Confounders', 'Post Hoc', 'Correlation Implies Causation', 'Hasty Generalization'];
+const OPTIONS_FR = ['Négligence des facteurs de confusion', 'Post hoc', 'La corrélation implique la causalité', 'Généralisation hâtive'];
+
+function rotatedOptions(options: string[], correctIndex: number): string[] {
+  const distractors = options.slice(1);
+  const result = [...distractors];
+  result.splice(correctIndex, 0, options[0]);
+  return result;
+}
+
+function subLevelFor(index: number): SubLevel {
+  if (index < 17) return SubLevel.BEGINNER;
+  if (index < 34) return SubLevel.INTERMEDIATE;
+  return SubLevel.EXPERT;
+}
+
+function createQuestions(language: 'en' | 'fr'): Question[] {
+  return SCENARIOS.map(([english, french], index) => {
+    const isFrench = language === 'fr';
+    const correctIndex = index % 4;
+    return {
+      id: 3503 + index,
+      level: 3,
+      persona_stage: PersonaStage.CRAB,
+      concept: isFrench ? 'Négligence des facteurs de confusion' : 'Neglecting Confounders',
+      difficulty: index < 17 ? 1 : index < 34 ? 2 : 3,
+      subLevel: subLevelFor(index),
+      question: `${isFrench ? 'Quel raisonnement est illustré ici ?' : 'Which reasoning error is illustrated here?'}\n\n"${isFrench ? french : english}"`,
+      options: rotatedOptions(isFrench ? OPTIONS_FR : OPTIONS_EN, correctIndex),
+      correct_option_index: correctIndex,
+      explanation: isFrench
+        ? 'La comparaison oublie un troisieme facteur qui explique probablement les deux choses a la fois.'
+        : 'The comparison forgets a third factor that probably explains both things at once.',
+      detailedExplanationBeginner: isFrench
+        ? 'Un troisieme facteur peut faire bouger les deux variables en meme temps.'
+        : 'A third factor can move both variables at the same time.',
+      detailedExplanationIntermediate: isFrench
+        ? 'Le probleme est de prendre une correlation pour une preuve alors qu un facteur cache peut tout expliquer.'
+        : 'The mistake is treating a correlation as proof when a hidden factor may explain everything.',
+      detailedExplanationExpert: isFrench
+        ? 'Cette erreur ignore une variable de confusion, aussi appelee facteur cache ou variable de confusion. Quand une meme cause influence a la fois la cause apparente et l effet apparent, la relation observee peut disparaitre une fois ce facteur controle. Le bon reflexe est de demander quel est le troisieme facteur, pas seulement si deux choses semblent aller ensemble.'
+        : 'This error ignores a confounding variable, also called a lurking variable or omitted variable. When the same cause influences both the apparent cause and the apparent effect, the observed relationship can disappear once that factor is controlled. The right move is to ask what the third factor is, not just whether two things seem to move together.',
+      questionFormat: 'standard',
+    };
+  });
+}
+
+export const NEGLECTING_CONFOUNDERS_EXPANSION_EN: Question[] = createQuestions('en');
+export const NEGLECTING_CONFOUNDERS_EXPANSION_FR: Question[] = createQuestions('fr');

@@ -282,6 +282,7 @@ const FALLACY_OPTION_FR: Record<string, string> = {
   'Naturalistic Fallacy': 'Sophisme naturaliste',
   'Negative proof': 'Preuve négative',
   'Negativity Bias': 'Biais de négativité',
+  'Neglecting Confounders': 'Négligence des facteurs de confusion',
   'Nirvana Fallacy': 'Sophisme du nirvana',
   'No True Scotsman': 'Vrai Écossais',
   'Non Sequitur': 'Non sequitur',
