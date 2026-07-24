@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CLI Exercises Learn</title>
+    <script>
+        // Redirect to app base for GitHub Pages (e.g. /CLI_exercises/)
+        const seg = location.pathname.split('/').filter(Boolean)[0];
+        const basePath = '/' + (seg || 'CLI_exercises') + '/';
+        const path = window.location.pathname;
+        if (path !== basePath && path !== basePath.replace(/\/$/, '')) {
+            window.location.replace(basePath);
+        }
+    </script>
+</head>
+<body>
+    <p>Redirecting...</p>
+</body>
+</html>
