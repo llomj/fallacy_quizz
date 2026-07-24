@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Finn says the market survey is wrong because one analyst also belongs to a team he considers arrogant.", "Finn dit que l etude de marche est fausse parce qu un analyste fait aussi partie d une equipe qu il juge arrogante."],
   ["Juno rejects the city event because a neighbor she does not like volunteered there.", "Juno rejette l evenement municipal parce qu un voisin qu elle n aime pas y a fait du benevolat."],
   ["Olivia assumes the podcast advice is bad because the host follows a creator she thinks is ridiculous.", "Olivia suppose que le conseil du podcast est mauvais parce que l animateur suit un createur qu elle trouve ridicule."],
+  ["Maya rejects the neighborhood cleanup because it is organized by people who know a coworker she dislikes.", "Maya rejette le nettoyage du quartier parce qu il est organise par des personnes qui connaissent un collegue qu elle n aime pas."],
+  ["Ben says the food drive is suspicious because a volunteer once joked with his rival online.", "Ben dit que la collecte alimentaire est suspecte parce qu un benevole a deja plaisante en ligne avec son rival."],
+  ["Priya dismisses the study session because one organizer is friends with a loud neighbor she avoids.", "Priya rejette la session d etude parce qu une organisatrice est amie avec un voisin bruyant qu elle evite."],
+  ["Noah thinks the new app is unsafe because someone he distrusts follows the developer.", "Noah pense que la nouvelle application est peu sure parce que quelqu un en qui il n a pas confiance suit le developpeur."],
+  ["Lina refuses the team invite because the host once worked at the same shop as her ex.", "Lina refuse l invitation de l equipe parce que l hote a autrefois travaille dans la meme boutique que son ex."],
+  ["Theo says the town cleanup is bad because the poster was shared by a person from a clique he hates.", "Theo dit que le nettoyage de la ville est mauvais parce que l affiche a ete partagee par une personne d une clique qu il deteste."],
+  ["Ava rejects the club offer because one member also comments on a page she finds annoying.", "Ava rejette l offre du club parce qu un membre commente aussi sur une page qu elle trouve penible."],
+  ["Omar believes the workshop is flawed because the organizer knows a teacher he blames for a bad year.", "Omar croit que l atelier est defectueux parce que l organisateur connait un professeur qu il tient pour responsable d une mauvaise annee."],
+  ["Rosa dismisses the charity stream because the streamer once followed a family member she argues with.", "Rosa rejette le stream caritatif parce que le streamer a deja suivi un membre de sa famille avec qui elle se dispute."],
+  ["Jules says the event is no good because a speaker is linked to a group he stereotypes.", "Jules dit que l evenement n est pas bon parce qu un orateur est lie a un groupe qu il stereotype."],
 ];
 
 const OPTIONS_EN = ['Guilt by Association', 'Ad Hominem', 'False Equivalence', 'Bandwagon'];

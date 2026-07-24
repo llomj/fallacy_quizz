@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Finn forgets the neighborhood notice after snapping a photo of it for later.', "Finn oublie l avis du quartier apres en avoir pris une photo pour plus tard."],
   ['Juno says it is pointless to memorize museum facts because the audio guide will explain them.', "Juno dit qu il est inutile de memoriser les faits du musee parce que l audioguide les expliquera."],
   ['Olivia only remembers how to retrieve the guide, not what was in it.', "Olivia ne se souvient que de la facon de recuperer le guide, pas de son contenu."],
+  ['After saving a recipe link, Maya stops learning the ingredients and just trusts the bookmark.', "Apres avoir enregistre un lien de recette, Maya arrete d apprendre les ingredients et fait juste confiance au favori."],
+  ['Ben only memorizes the search term for the club schedule and not the schedule itself.', "Ben ne memorise que le terme de recherche du programme du club et pas le programme lui-meme."],
+  ['Priya forgets the phone charger instructions because she knows the manual is online.', "Priya oublie les instructions du chargeur parce qu elle sait que le manuel est en ligne."],
+  ['Noah stops practicing the formula after realizing his notes are synced to the cloud.', "Noah cesse de pratiquer la formule apres avoir realise que ses notes sont synchronisees dans le cloud."],
+  ['Lina remembers where the answer is stored, not the answer, because the app can fetch it later.', "Lina se souvient de l endroit ou la reponse est stockee, pas de la reponse, parce que l application peut la recuperer plus tard."],
+  ['Theo does not try to recall the street names because navigation will always show them.', "Theo n essaie pas de se rappeler les noms des rues parce que la navigation les affichera toujours."],
+  ['Ava deletes her study card after scanning it once, trusting the image will be enough.', "Ava supprime sa fiche d etude apres l avoir scannee une fois, en faisant confiance a l image."],
+  ['Omar stops learning the recipe steps because the video is only a tap away.', "Omar cesse d apprendre les etapes de la recette parce que la video est a un simple toucher."],
+  ['Rosa only memorizes the file name, not the facts, because search will retrieve the document.', "Rosa ne memorise que le nom du fichier, pas les faits, parce que la recherche retrouvera le document."],
+  ['Jules says remembering the quote is unnecessary because he can open the page anytime.', "Jules dit qu il est inutile de memoriser la citation parce qu il peut ouvrir la page a tout moment."],
 ];
 
 const OPTIONS_EN = ['Google Effect', 'Availability Heuristic', 'Transactive Memory', 'Confirmation Bias'];

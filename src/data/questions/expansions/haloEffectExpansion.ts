@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Finn assumes the mechanic is a genius because the car started immediately.', "Finn suppose que le mecanicien est un genie parce que la voiture a demarre tout de suite."],
   ['Juno says the friend is wise about relationships because they gave one good compliment.', "Juno dit que l ami est sage en relations parce qu il a fait un seul compliment pertinent."],
   ['Olivia believes the principal is competent in every area because the announcement was smooth.', "Olivia croit que le directeur est competent dans tous les domaines parce que l annonce etait fluide."],
+  ['After one witty joke, Maya assumes the presenter must also be an amazing scientist.', "Apres une seule blague spirituelle, Maya suppose que le presentateur doit aussi etre un scientifique genial."],
+  ['Ben sees a clean desk and decides the new coworker is organized in every part of life.', "Ben voit un bureau propre et decide que la nouvelle collegue est organisee dans tous les domaines de sa vie."],
+  ['Priya likes one careful email and concludes the sender is reliable at everything.', "Priya aime un courriel soigne et conclut que l expéditeur est fiable dans tout."],
+  ['Noah hears a clear explanation and assumes the speaker is brilliant on all topics.', "Noah entend une explication claire et suppose que l orateur est brillant sur tous les sujets."],
+  ['Lina watches one smooth presentation and thinks the student must be excellent at teamwork too.', "Lina regarde une presentation fluide et pense que l eleve doit aussi etre excellent en travail d equipe."],
+  ['Theo sees a friendly smile and decides the cashier is automatically trustworthy.', "Theo voit un sourire amical et decide que la caissiere est automatiquement digne de confiance."],
+  ['Ava notices a polished interview answer and concludes the candidate is strong at every job skill.', "Ava remarque une reponse d entretien tres soignee et conclut que la candidate est forte dans toutes les competences du poste."],
+  ['Omar likes one smart comment and starts treating the whole person like an expert.', "Omar aime un seul commentaire intelligent et commence a traiter toute la personne comme une experte."],
+  ['Rosa sees the teacher handle one problem well and assumes every class issue will be easy for them.', "Rosa voit le professeur gerer un probleme avec succes et suppose que tous les problemes de classe seront faciles pour lui."],
+  ['Jules thinks a warm greeting means the neighbor must be excellent at everything else too.', "Jules pense qu un accueil chaleureux signifie que le voisin doit aussi etre excellent dans tout le reste."],
 ];
 
 const OPTIONS_EN = ['Halo Effect', 'Egocentric Bias', 'False Consensus Effect', 'Bandwagon'];

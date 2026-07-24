@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Yara nods along after the group frames disagreement as negativity.', "Yara acquiesce apres que le groupe a presente le desaccord comme de la negativite."],
   ['Dan accepts the claim because every person in the room says it with the same confidence.', "Dan accepte l affirmation parce que chaque personne dans la salle la dit avec la meme assurance."],
   ['Mina joins the final vote because she does not want to stand out in front of her peers.', "Mina rejoint le vote final parce qu elle ne veut pas se demarquer devant ses pairs."],
+  ['After one person raises a concern, the rest of the group jokes it away so nobody has to slow down.', "Apres qu une personne a souleve une inquietude, le reste du groupe la balaie par une blague pour que personne n ait a ralentir."],
+  ['The committee approves the plan because everyone assumes someone else already checked the details.', "Le comite approuve le plan parce que tout le monde suppose que quelqu un d autre a deja verifie les details."],
+  ['Maya hides her objection once the room starts praising the proposal like it is already settled.', "Maya cache son objection une fois que la salle commence a louer la proposition comme si elle etait deja reglee."],
+  ['Ben goes along with the bad deadline because the team is acting like doubts are a personal attack.', "Ben suit le mauvais delai parce que l equipe agit comme si les doutes etaient une attaque personnelle."],
+  ['Priya agrees to the menu choice just to keep the lunch chat from turning awkward.', "Priya accepte le choix du menu juste pour que la conversation du dejeuner ne devienne pas genante."],
+  ['Noah supports the risky shortcut because the loudest people make caution sound embarrassing.', "Noah soutient le raccourci risque parce que les personnes les plus bruyantes font passer la prudence pour quelque chose de genant."],
+  ['Lina stops questioning the plan when she notices everyone is smiling too hard to disagree.', "Lina cesse de questionner le plan quand elle remarque que tout le monde sourit trop pour contredire."],
+  ['Theo says yes to the proposal because nobody wants to be the person who "kills the vibe".', "Theo dit oui a la proposition parce que personne ne veut etre la personne qui « casse l ambiance »."],
+  ['Ava changes her mind after the group leader calls skepticism a bad attitude.', "Ava change d avis apres que le chef du groupe a qualifie le scepticisme de mauvaise attitude."],
+  ['Omar signs off on the decision because the room is acting like speed matters more than accuracy.', "Omar approuve la decision parce que la salle agit comme si la vitesse comptait plus que la precision."],
 ];
 
 const OPTIONS_EN = ['Groupthink', 'Bandwagon', 'False Consensus Effect', 'Appeal to Popularity'];
