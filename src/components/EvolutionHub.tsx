@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { UserStats, PersonaStage } from '../types';
-import { LEVELS, QUESTIONS_PER_LEVEL, getQuestionsNeededForLevel, getStarsFromAccuracy, getPersonaFromRandomStats, getNextRandomModeTier, getPersonaTranslationKey } from '../constants';
+import { LEVELS, getQuestionsNeededForLevel, getStarsFromAccuracy, getPersonaFromRandomStats, getNextRandomModeTier, getPersonaTranslationKey } from '../constants';
 import { PersonaBadge } from './PersonaBadge';
 import { ProgressBar } from './ProgressBar';
 import { ConceptTooltipModal } from './ConceptTooltipModal';

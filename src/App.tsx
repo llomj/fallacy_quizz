@@ -3,7 +3,7 @@ import { UserStats, PersonaStage, QuestionAttempt, FallacyLogEntry } from './typ
 import { EvolutionHub } from './components/EvolutionHub';
 import { SettingsMenu } from './components/SettingsMenu';
 import { IdLogEntry } from './types';
-import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getQuestionsNeededForLevel, getStarsFromAccuracy, getStarsFromProgress, getRandomModeStarsFromAccuracy, getPersonaFromRandomStats, getPersonaTranslationKey, PERSONA_EMOJI } from './constants';
+import { LEVELS, XP_PER_QUESTION, getQuestionsNeededForLevel, getStarsFromAccuracy, getRandomModeStarsFromAccuracy, getPersonaFromRandomStats, getPersonaTranslationKey, PERSONA_EMOJI } from './constants';
 import { useLanguage } from './contexts/LanguageContext';
 import { formatTranslation } from './translations';
 import { playStarCelebrationSound, playFiveStarCelebrationSound, playRandomFiveStarCelebrationSound, playAllLevelsCelebrationSound, playCorrectAnswerSound, playWrongAnswerSound, playButtonClickSound } from './utils/sounds';
