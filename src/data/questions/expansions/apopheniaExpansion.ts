@@ -60,7 +60,17 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
 ['Ava sees a heart shape in spilled ketchup and calls it a sign.','Ava voit une forme de cœur dans du ketchup renversé et y voit un signe.'],
 ['Noah believes three bus delays in a week are a coded pattern.','Noah croit que trois retards de bus en une semaine forment un schéma codé.'],
 ['Sara treats a repeated ringtone as proof her weekend will be lucky.','Sara prend une sonnerie répétée pour une preuve que son week-end sera chanceux.'],
-['Eli connects a random cloud shape with a promise he made yesterday.','Eli relie une forme de nuage au hasard à une promesse qu’il a faite hier.']
+['Eli connects a random cloud shape with a promise he made yesterday.','Eli relie une forme de nuage au hasard à une promesse qu’il a faite hier.'],
+['Maya sees three socks on a line and decides they signal three upcoming surprises.','Maya voit trois chaussettes sur une corde et décide qu’elles annoncent trois surprises à venir.'],
+['Theo notices repeating menu letters and invents a hidden message from the cafe owner.','Theo remarque des lettres répétées sur le menu et invente un message secret du patron du café.'],
+['Ava finds two similar bus ads and says the city is communicating through them.','Ava trouve deux pubs de bus semblables et dit que la ville lui parle à travers elles.'],
+['Ben sees a pattern in spilled cereal and claims breakfast is giving him advice.','Ben voit un motif dans des céréales renversées et affirme que le petit déjeuner lui donne un conseil.'],
+['Nina connects random elevator beeps to her exam date and calls it a sign.','Nina relie des bips aléatoires d’ascenseur à la date de son examen et y voit un signe.'],
+['Omar notices matching license-plate numbers and thinks they predict a lottery win.','Omar remarque des numéros de plaques identiques et pense qu’ils prédisent un gain à la loterie.'],
+['Priya sees a face in a shadow on the wall and says the house is warning her.','Priya voit un visage dans une ombre sur le mur et dit que la maison l’avertit.'],
+['Leo hears the same word in two podcasts and concludes the hosts planned a code.','Leo entend le même mot dans deux podcasts et conclut que les animateurs ont préparé un code.'],
+['Rina spots heart shapes in foam and says her coffee is confirming a relationship.','Rina remarque des cœurs dans la mousse et dit que son café confirme une relation.'],
+['Jade links three rain days to one argument and claims the weather is taking sides.','Jade relie trois jours de pluie à une dispute et affirme que la météo prend parti.']
 ];
 
 const EN=['Apophenia','Confirmation Bias','Gambler’s Fallacy','Illusory Correlation'];

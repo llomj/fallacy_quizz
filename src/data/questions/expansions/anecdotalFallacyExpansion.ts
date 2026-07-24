@@ -61,7 +61,17 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['A coworker’s online course helped her, so every online course must help the same way.', 'Un cours en ligne a aidé une collègue, donc tous les cours en ligne doivent aider de la même façon.'],
   ['A single quiet classroom makes Ben think silence is the key to better grades in every school.', 'Une seule classe calme fait croire à Ben que le silence est la clé de meilleures notes dans toutes les écoles.'],
   ['After one good dinner at a new place, Lea says all meals there are amazing.', 'Après un bon dîner dans un nouveau restaurant, Léa dit que tous les repas y sont incroyables.'],
-  ['One bad road trip in a small car leads Theo to conclude small cars are always uncomfortable.', 'Un seul mauvais trajet en petite voiture conduit Theo à conclure que les petites voitures sont toujours inconfortables.']
+  ['One bad road trip in a small car leads Theo to conclude small cars are always uncomfortable.', 'Un seul mauvais trajet en petite voiture conduit Theo à conclure que les petites voitures sont toujours inconfortables.'],
+  ['A single rude waiter makes Maya say every cafe in town has awful service.', 'Un seul serveur impoli suffit à Maya pour dire que tous les cafés de la ville ont un service horrible.'],
+  ['One neighbor’s loud music makes Omar claim apartment living is impossible everywhere.', 'La musique forte d’un seul voisin fait dire à Omar que vivre en appartement est impossible partout.'],
+  ['After one broken toy, Priya says all cheap toys fall apart immediately.', 'Après un seul jouet cassé, Priya dit que tous les jouets bon marché se cassent tout de suite.'],
+  ['A cousin’s good experience with a delivery app makes Ben say every delivery app is perfect.', 'La bonne expérience d’un cousin avec une appli de livraison fait dire à Ben que toutes les applis de livraison sont parfaites.'],
+  ['One bad flight convinces Nina that flying is always miserable.', 'Un seul mauvais vol convainc Nina que prendre l’avion est toujours pénible.'],
+  ['A friend’s success with late-night studying makes Leo declare all-night study sessions work for everyone.', 'Le succès d’un ami en étudiant tard fait déclarer à Leo que les nuits blanches marchent pour tout le monde.'],
+  ['After seeing one messy campsite, Rina says all campers are careless.', 'Après avoir vu un seul camping en désordre, Rina dit que tous les campeurs sont négligents.'],
+  ['A single calm dog makes Jade think every rescue dog is gentle by nature.', 'Un seul chien calme fait penser à Jade que tous les chiens de refuge sont naturellement doux.'],
+  ['One expensive smoothie leads Theo to say healthy food is overpriced everywhere.', 'Un seul smoothie hors de prix conduit Theo à dire que la nourriture saine est chère partout.'],
+  ['A neighbor’s toddler tantrum makes Ava say all toddlers are impossible.', 'La crise d’un seul tout-petit chez le voisin fait dire à Ava que tous les tout-petits sont impossibles.']
 ];
 
 const OPTIONS_EN = ['Anecdotal Fallacy', 'Hasty Generalization', 'Confirmation Bias', 'Appeal to Popularity'];

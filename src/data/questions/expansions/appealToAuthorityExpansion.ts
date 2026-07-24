@@ -61,7 +61,17 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['A pilot says this toothpaste is the smartest investment, so Ava buys two tubes.', 'Un pilote dit que ce dentifrice est le meilleur investissement, alors Ava achète deux tubes.'],
   ['A judge says this bicycle is the most romantic gift, so Lina accepts the endorsement.', 'Un juge dit que ce vélo est le cadeau le plus romantique, alors Lina accepte l approbation.'],
   ['A baker says this thermostat will cure insomnia, so Omar nods and orders one.', 'Un boulanger dit que ce thermostat guérit l’insomnie, alors Omar acquiesce et en commande un.'],
-  ['A nurse says this picnic basket is the fastest way to learn guitar, so Mia buys it.', 'Une infirmière dit que ce panier de pique-nique est le moyen le plus rapide d’apprendre la guitare, alors Mia l’achète.']
+  ['A nurse says this picnic basket is the fastest way to learn guitar, so Mia buys it.', 'Une infirmière dit que ce panier de pique-nique est le moyen le plus rapide d’apprendre la guitare, alors Mia l’achète.'],
+  ['A famous actor says this protein powder fixes math anxiety, so Jules buys it immediately.', 'Un acteur célèbre dit que cette poudre protéinée guérit l’anxiété en maths, alors Jules l’achète immédiatement.'],
+  ['A professional athlete says this notebook is the best legal advice, so Rina trusts the claim.', 'Une athlète professionnelle dit que ce carnet offre le meilleur conseil juridique, alors Rina croit l’affirmation.'],
+  ['A singer says this vacuum cleaner cures headaches, so Leo adds it to the cart.', 'Une chanteuse dit que cet aspirateur guérit les maux de tête, alors Leo l’ajoute au panier.'],
+  ['A chef says this stock app predicts earthquakes, so Maya follows the tip.', 'Un chef dit que cette appli boursière prédit les séismes, alors Maya suit le conseil.'],
+  ['A doctor says this guitar pedal is perfect for taxes, so Ben takes the recommendation seriously.', 'Un médecin dit que cette pédale de guitare est parfaite pour les impôts, alors Ben prend la recommandation au sérieux.'],
+  ['A judge says this sunscreen is the safest school supply, so Nina ignores the mismatch.', 'Un juge dit que cette crème solaire est la fourniture scolaire la plus sûre, alors Nina ignore l’incohérence.'],
+  ['A mechanic says this novel is the most scientific one, so Omar checks it out.', 'Un mécanicien dit que ce roman est le plus scientifique, alors Omar l’emprunte.'],
+  ['A pilot says this pasta recipe is the best medicine, so Priya serves it for dinner.', 'Un pilote dit que cette recette de pâtes est le meilleur médicament, alors Priya la sert au dîner.'],
+  ['A teacher says this car battery is a great romance tip, so Eli believes her.', 'Une enseignante dit que cette batterie de voiture est un excellent conseil amoureux, alors Eli la croit.'],
+  ['A dentist says this subway map is unbeatable for gardening, so Zoe trusts the review.', 'Un dentiste dit que cette carte de métro est imbattable pour le jardinage, alors Zoe fait confiance à l’avis.']
 ];
 
 const OPTIONS_EN = ['Appeal to Authority', 'Straw Man', 'Appeal to Popularity', 'False Dilemma'];
