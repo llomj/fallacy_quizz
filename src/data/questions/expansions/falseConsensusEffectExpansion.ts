@@ -60,6 +60,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Priya assumes students all want the same snack break schedule she prefers.', "Priya suppose que les etudiants veulent tous le meme horaire de pause snack qu'elle prefere."],
   ['Leo thinks the neighborhood loves board games because his friends do.', "Leo pense que le quartier adore les jeux de societe parce que ses amis les aiment."],
   ['Jade believes most parents want the same strict bedtime she uses.', "Jade croit que la plupart des parents veulent le meme coucher strict qu'elle impose."]
+  ["Maya says everybody must love quiet cafes because she does.", "Maya dit que tout le monde doit aimer les cafes calmes parce qu'elle les aime."],
+  ["Theo assumes the office prefers early meetings since he does.", "Theo suppose que le bureau prefere les reunions matinales puisqu'il les aime."],
+  ["Rina says most people enjoy cold pizza because she does.", "Rina dit que la plupart des gens aiment la pizza froide parce qu'elle, oui."],
+  ["Ben thinks everyone wants the same phone wallpaper he uses.", "Ben pense que tout le monde veut le meme fond d'ecran de telephone que lui."],
+  ["Ava assumes the town agrees with her that rainy weekends are relaxing.", "Ava suppose que la ville est d'accord avec elle pour dire que les week-ends pluvieux sont reposants."],
+  ["Nina believes her coworkers all hate loud music because she does.", "Nina croit que ses collegues detestent tous la musique forte parce qu'elle la deteste."],
+  ["Omar says everyone must like silent lunches because he enjoys them.", "Omar dit que tout le monde doit aimer les dejeuners silencieux parce qu'il les aime."],
+  ["Priya assumes students all want the same snack break schedule she prefers.", "Priya suppose que les etudiants veulent tous le meme horaire de pause snack qu'elle prefere."],
+  ["Leo thinks the neighborhood loves board games because his friends do.", "Leo pense que le quartier adore les jeux de societe parce que ses amis les aiment."],
+  ["Jade believes most parents want the same strict bedtime she uses.", "Jade croit que la plupart des parents veulent le meme coucher strict qu'elle impose."]
 ];
 
 const OPTIONS_EN = ['False Consensus Effect', 'Bandwagon', 'Projection Bias', 'Hasty Generalization'];

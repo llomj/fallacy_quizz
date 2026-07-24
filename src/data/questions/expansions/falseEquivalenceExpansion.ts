@@ -62,6 +62,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo said a boring meeting is the same as a useless team.', "Leo a dit qu'une reunion ennuyeuse etait la meme chose qu'une equipe inutile."],
   ['Rina said a late reply is the same as ignoring someone forever.', "Rina a dit qu'une reponse tardive etait la meme chose qu'ignorer quelqu'un pour toujours."],
   ['Jasper said a bad haircut is the same as a bad personality.', "Jasper a dit qu'une mauvaise coupe de cheveux etait la meme chose qu'une mauvaise personnalite."],
+  ["Mason said a teacher's rubric and a student rumor were equally objective grading tools.", "Mason a dit qu'une grille de notation d'enseignant et une rumeur d'etudiant etaient des outils de notation aussi objectifs."],
+  ['Iris claimed a physics demo and a random hunch should share the same conclusion.', "Iris a affirme qu'une demonstration de physique et une intuition au hasard devaient partager la meme conclusion."],
+  ['Dylan said a city budget audit and a viral post deserved equal confidence about spending.', "Dylan a dit qu'un audit du budget municipal et une publication virale meritaient la meme confiance sur les depenses."],
+  ['Sofia treated a professional translator and an auto-generated subtitle as equal sources of meaning.', "Sofia a traite une traductrice professionnelle et un sous-titre genere automatiquement comme des sources de sens equivalentes."],
+  ["Reed said a nutrition label and a neighbor's snack opinion were equally informative.", "Reed a dit qu'une etiquette nutritionnelle et l'avis d'un voisin sur un snack etaient egalement informatifs."],
+  ['Hugo gave a road safety study and a "feels like" hunch the same voice in the conversation.', "Hugo a donne une etude sur la securite routiere et une intuition du type « j'ai l'impression » la meme place dans la conversation."],
+  ['Layla said a crime statistic and a dramatic podcast guess were equally enough to judge the city.', "Layla a dit qu'une statistique sur la criminalite et une supposition dramatique de podcast suffisaient aussi bien pour juger la ville."],
+  ['Noah treated a tax form and a napkin calculation as matching evidence.', "Noah a traite un formulaire fiscal et un calcul sur serviette comme des preuves correspondantes."],
+  ['Emma said a professional chef and a random cooking thread were equally authoritative about salt.', "Emma a dit qu'un chef professionnel et un fil de cuisine au hasard etaient egalement autorises sur le sel."],
+  ['Ari claimed a lab technician and a horoscope column were equally informative about health.', "Ari a affirme qu'un technicien de laboratoire et une colonne d'horoscope etaient egalement informatifs sur la sante."]
 ];
 
 const OPTIONS_EN = ['False Equivalence', 'False Dilemma', 'Appeal to Popularity', 'Hasty Generalization'];
