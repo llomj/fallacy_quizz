@@ -86,6 +86,7 @@ Before any commit that should go live, confirm with `git remote -v` that you wil
 
 ## 9. Scope and Restraint
 - **Do not do things the user never asked for.** Implement only what is explicitly requested. Do not add extra features, change unrelated code, or "improve" things without being asked.
+- **No rogue scope expansion:** If a task is narrow, keep it narrow. Do not silently turn a request into a broader rewrite, a different level, a different language pass, or a separate feature. If the best fix would expand the scope materially, stop and ask.
 - **Visual clarity for highlight panels:** Keep syntax highlighting / emphasis aesthetic and readable. Avoid large blocks in a single highlight color—ensure comments, examples, and explanations remain legible and consistent with the app’s dark theme.
 
 ## 10. Logical Fallacy Quiz — Question Text and Wrong-Answer Highlight
