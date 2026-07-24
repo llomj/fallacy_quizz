@@ -1,4 +1,5 @@
 import { PersonaStage, LevelInfo, RandomModeStats } from './types';
+import { QUESTIONS_BANK_EN } from './questionsBank';
 
 /** Width (px) for subwindows (Rules, Log, ID Log, etc.) so they match the main menu panel. Menu panel stays min-w-[200px]; subwindows use this. See ps.md. */
 export const MENU_SUBWINDOW_WIDTH_PX = 240;
@@ -7,7 +8,7 @@ export const XP_PER_QUESTION = 10;
 export const QUESTIONS_PER_LEVEL = 100; // Matches fallaciesData.ts (100 per level × 10 levels)
 export const SUBLEVELS_PER_LEVEL = 3;
 export const QUESTIONS_PER_SUBLEVEL = Math.floor(QUESTIONS_PER_LEVEL / 3); // ~100/3 for star thresholds
-export const TOTAL_QUESTIONS = 900; // 900 (levels 1-9) + 2 (level 0 foundations)
+export const TOTAL_QUESTIONS = QUESTIONS_BANK_EN.length;
 
 /** Questions needed to complete a level and unlock the next (including Level 0 foundations). */
 export const getQuestionsNeededForLevel = (_level: number): number =>
