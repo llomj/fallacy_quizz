@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["A benefit dinner gets more tips when the host tells one patient's story.", "Un diner de charite recoit plus de pourboires quand l animateur raconte l histoire d un patient."],
   ['Tia is moved by one photo of a collapsed roof more than by the damage estimate.', "Tia est touchee par une photo d un toit effondre plus que par l estimation des degats."],
   ["Hugo agrees to help after hearing one family's story about losing heat in winter.", "Hugo accepte d aider apres avoir entendu l histoire d une famille qui a perdu le chauffage en hiver."],
+  ['Maya donates faster after hearing one child describe sleeping in a cold room.', "Maya donne plus vite apres avoir entendu un enfant decrire qu il dort dans une piece froide."],
+  ['Ben skips the charts but responds to one photo of a flooded apartment.', "Ben ignore les graphiques mais reagit a une photo d un appartement inonde."],
+  ['Priya backs the shelter after meeting one dog with an injured leg.', "Priya soutient le refuge apres avoir rencontre un chien avec une patte blessee."],
+  ['Leo cares more once he hears one tenant describe mold in her kitchen.', "Leo se soucie davantage une fois qu il entend une locataire decrire la moisissure dans sa cuisine."],
+  ['Nina changes her vote after one nurse explains buying her own gloves.', "Nina change son vote apres qu une infirmiere explique acheter ses propres gants."],
+  ['Owen gives after one veteran describes choosing between medicine and rent.', "Owen donne de l argent apres qu un veterant decrit devoir choisir entre medicaments et loyer."],
+  ['Ava reacts to one named patient more than to the whole clinic report.', "Ava reagit davantage a un patient nomme qu au rapport complet de la clinique."],
+  ['Rita stops scrolling after one grandparent says the bus stop is too far to reach.', "Rita arrete de faire defiler apres qu un grand-parent dit que l arret de bus est trop loin pour etre atteint."],
+  ['Jules is persuaded by one teacher who has to buy school supplies with her own money.', "Jules est persuade par un professeur qui doit acheter les fournitures scolaires avec son propre argent."],
+  ['Mina cares more after hearing one family describe losing power during the storm.', "Mina se soucie davantage apres avoir entendu une famille decrire la perte d electricite pendant la tempete."],
 ];
 
 const OPTIONS_EN = ['Identifiable Victim Effect', 'Appeal to Emotion', 'False Balance', 'Availability Heuristic'];

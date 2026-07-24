@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo claims all pencils make marks, so everything that makes marks is a pencil.', 'Leo affirme que tous les crayons font des marques, donc tout ce qui fait des marques est un crayon.'],
   ['Maya says all movies are stories, so all stories are movies.', 'Maya dit que tous les films sont des histoires, donc toutes les histoires sont des films.'],
   ['Nina thinks every helmet protects a head, so every head protection must be a helmet.', 'Nina pense que chaque casque protege une tete, donc toute protection de tete doit etre un casque.'],
+  ['Maya says every dolphin is a mammal, so every mammal must be a dolphin.', 'Maya dit que chaque dauphin est un mammifere, donc tout mammifere doit etre un dauphin.'],
+  ['Ben thinks every square is a shape, so every shape is a square.', 'Ben pense que chaque carre est une forme, donc toute forme est un carre.'],
+  ['Priya says every violin is a string instrument, so every string instrument is a violin.', 'Priya dit que chaque violon est un instrument a cordes, donc tout instrument a cordes est un violon.'],
+  ['Leo argues every apple is fruit, so every fruit is an apple.', 'Leo soutient que chaque pomme est un fruit, donc tout fruit est une pomme.'],
+  ['Ava says every coat is clothing, so every piece of clothing is a coat.', 'Ava dit que chaque manteau est un vetement, donc toute piece de vetement est un manteau.'],
+  ['Owen believes every rose is a flower, so every flower is a rose.', 'Owen croit que chaque rose est une fleur, donc toute fleur est une rose.'],
+  ['Nina says every triangle is a polygon, so every polygon is a triangle.', 'Nina dit que chaque triangle est un polygone, donc tout polygone est un triangle.'],
+  ['Milo thinks every laptop is a computer, so every computer is a laptop.', 'Milo pense que chaque ordinateur portable est un ordinateur, donc chaque ordinateur est un ordinateur portable.'],
+  ['Tara says every mug is a cup, so every cup is a mug.', 'Tara dit que chaque tasse a cafe est une tasse, donc toute tasse est une tasse a cafe.'],
+  ['Jules argues every bicycle is a vehicle, so every vehicle is a bicycle.', 'Jules soutient que chaque velo est un vehicule, donc tout vehicule est un velo.'],
 ];
 
 const OPTIONS_EN = ['Illicit Major', 'Undistributed Middle', 'Affirming the Consequent', 'Composition Fallacy'];

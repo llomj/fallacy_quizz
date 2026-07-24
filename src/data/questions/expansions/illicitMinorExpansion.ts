@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo says all clocks tell time, so nothing that tells time can be a clock.', 'Leo dit que toutes les horloges donnent l heure, donc rien de ce qui donne l heure ne peut etre une horloge.'],
   ['Maya argues all sneakers are shoes, so no shoes can be sneakers.', 'Maya soutient que toutes les baskets sont des chaussures, donc aucune chaussure ne peut etre une basket.'],
   ['Nina says every lamp lights a room, so nothing that lights a room can be a lamp.', 'Nina dit que chaque lampe eclaire une piece, donc rien de ce qui eclaire une piece ne peut etre une lampe.'],
+  ['Maya says every violin string belongs to a violin, so no violin strings can belong to violins.', 'Maya dit que chaque corde de violon appartient a un violon, donc aucune corde de violon ne peut appartenir a un violon.'],
+  ['Ben says every coat has sleeves, so no sleeves can belong to coats.', 'Ben dit que chaque manteau a des manches, donc aucune manche ne peut appartenir aux manteaux.'],
+  ['Priya says every map shows a place, so nothing that shows a place can be a map.', 'Priya dit que chaque carte montre un lieu, donc rien de ce qui montre un lieu ne peut etre une carte.'],
+  ['Leo says every book has pages, so no pages can be part of books.', 'Leo dit que chaque livre a des pages, donc aucune page ne peut faire partie des livres.'],
+  ['Ava says every chair has legs, so no legs can belong to chairs.', 'Ava dit que chaque chaise a des pieds, donc aucun pied ne peut appartenir aux chaises.'],
+  ['Owen says every clock tells time, so nothing that tells time can be a clock.', 'Owen dit que chaque horloge donne l heure, donc rien de ce qui donne l heure ne peut etre une horloge.'],
+  ['Nina says every phone has a screen, so no screens can be phone screens.', 'Nina dit que chaque telephone a un ecran, donc aucun ecran ne peut etre un ecran de telephone.'],
+  ['Milo says every car has wheels, so no wheels can belong to cars.', 'Milo dit que chaque voiture a des roues, donc aucune roue ne peut appartenir aux voitures.'],
+  ['Tara says every song has sound, so no sound can be part of songs.', 'Tara dit que chaque chanson a du son, donc aucun son ne peut faire partie des chansons.'],
+  ['Jules says every umbrella protects from rain, so nothing that protects from rain can be an umbrella.', 'Jules dit que chaque parapluie protege de la pluie, donc rien de ce qui protege de la pluie ne peut etre un parapluie.'],
 ];
 
 const OPTIONS_EN = ['Illicit Minor', 'Undistributed Middle', 'Affirming the Consequent', 'Composition Fallacy'];

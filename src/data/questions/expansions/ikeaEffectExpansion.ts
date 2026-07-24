@@ -50,6 +50,17 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Rina gets attached to the cake she decorated herself and refuses objective feedback.', "Rina s attache au gateau qu elle a decoore elle-meme et refuse un avis objectif."],
   ['Noah believes his homemade sign is more persuasive than a clearer printed one.', "Noah croit que son panneau fait maison est plus persuasif qu un panneau imprime plus clair."],
   ['Hana thinks the jacket she altered is worth more because she personally changed it.', "Hana pense que la veste qu elle a retouchee vaut plus parce qu elle l a modifiee elle-meme."],
+  ['Maya rates the flower arrangement she made higher than the professional one next to it.', "Maya note la composition florale qu elle a faite plus haut que celle du professionnel a cote."],
+  ['Ben refuses to replace the lopsided shelf because he built it with his own hands.', "Ben refuse de remplacer l etagere bancale parce qu il l a construite de ses propres mains."],
+  ['Priya thinks the notebook she decorated is the best one on the desk because it took effort.', "Priya pense que le carnet qu elle a decoore est le meilleur sur le bureau parce qu il a demande des efforts."],
+  ['Leo values the hand-painted sign more than the cleaner printed sign across the room.', "Leo valorise le panneau peint a la main plus que le panneau imprime plus net de l autre cote de la piece."],
+  ['Nina keeps the homemade organizer even though the store version is sturdier.', "Nina garde l organiseur fait maison meme si la version du magasin est plus solide."],
+  ['Owen says the pie he baked is better than the bakery pie because he made it himself.', "Owen dit que la tarte qu il a cuite est meilleure que celle de la boulangerie parce qu il l a faite lui-meme."],
+  ['Ava loves the stitched pillow cover she made and ignores the straight seams on the store one.', "Ava adore la housse de coussin qu elle a cousue et ignore les coutures droites de celle du magasin."],
+  ['Rita thinks the DIY lamp is worth keeping because she spent hours wiring it.', "Rita pense que la lampe bricolée vaut la peine d etre gardee parce qu elle a passe des heures a la cabler."],
+  ['Jules rates the custom board game higher because he invented the rules.', "Jules note le jeu de societe personnalise plus haut parce qu il a invente les regles."],
+  ['Mina insists the repaired drawer is nicer now because she fixed it herself.', "Mina insiste pour dire que le tiroir repare est maintenant plus beau parce qu elle l a repare elle-meme."],
+  ['Eli prefers the handmade mug because it feels more valuable than the factory one.', "Eli prefere la tasse faite main parce qu elle lui semble plus precieuse que celle d usine."],
 ];
 
 const OPTIONS_EN = ['IKEA Effect', 'Effort Justification', 'Endowment Effect', 'Sunk Cost Fallacy'];
