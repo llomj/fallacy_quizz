@@ -58,7 +58,7 @@ export default defineConfig(({ mode }) => {
         includeAssets: ['icons/*'],
         workbox: {
           globPatterns: ['**/*.{js,css,html,ico,png,svg,json,woff2,woff}'],
-          maximumFileSizeToCacheInBytes: 15 * 1024 * 1024,
+          maximumFileSizeToCacheInBytes: 20 * 1024 * 1024,
           cleanupOutdatedCaches: true,
           sourcemap: true,
           navigateFallback: startUrl,
