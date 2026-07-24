@@ -121,6 +121,7 @@ const App: React.FC = () => {
       currentLevel: level,
       randomMode: false
     }));
+    setShowResult(null);
   };
 
   useEffect(() => {
