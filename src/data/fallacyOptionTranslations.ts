@@ -436,6 +436,7 @@ const FALLACY_OPTION_FR: Record<string, string> = {
   'The complementary fallacy': 'Le sophisme du complément',
   'Ignoring the base rate': 'Ignorer le taux de base',
   'Treating the complement of the false positive rate as the probability of guilt': 'Traiter le complément du taux de faux positifs comme la probabilité de culpabilité',
+  'It sounds scientific and precise while being mathematically wrong': 'Cela sonne scientifique et précis tout en étant mathématiquement faux',
   'The False Consensus Effect': 'L\'effet de faux consensus',
   'The Focusing Effect': 'L\'effet de focalisation',
   'The Forer Effect': 'L\'effet Forer',

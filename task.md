@@ -194,6 +194,7 @@
   - [x] Thompson & Schumann: IDs 43001-43050, 50 EN + 50 FR, additive to 1 existing question.
   - [x] The complementary fallacy: IDs 43101-43150, 50 EN + 50 FR, additive to 1 existing question.
   - [x] Treating the complement of the false positive rate as the probability of guilt: IDs 43201-43250, 50 EN + 50 FR, additive to 1 existing question.
+  - [x] It sounds scientific and precise while being mathematically wrong: IDs 43301-43350, 50 EN + 50 FR, additive to 1 existing question.
   - [x] Slippery Slope: IDs 40801-40850, 50 EN + 50 FR, additive to 227 existing questions.
 - [ ] Run duplicate, parity, random-mode, level-mode, language-switch, offline, and production-build validation after every batch.
 
