@@ -184,6 +184,7 @@
   - [x] Suppressed Evidence: IDs 42001-42050, 50 EN + 50 FR, additive to 6 existing questions.
   - [x] Survivorship Bias: IDs 42101-42150, 50 EN + 50 FR, additive to 105 existing questions.
   - [x] System Justification: IDs 42201-42250, 50 EN + 50 FR, additive to 3 existing questions.
+  - [x] Taboo Tradeoff: IDs 42301-42350, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Slippery Slope: IDs 40801-40850, 50 EN + 50 FR, additive to 227 existing questions.
 - [ ] Run duplicate, parity, random-mode, level-mode, language-switch, offline, and production-build validation after every batch.
 
