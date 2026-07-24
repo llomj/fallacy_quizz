@@ -3,7 +3,7 @@ import { UserStats, PersonaStage, QuestionAttempt, FallacyLogEntry } from './typ
 import { EvolutionHub } from './components/EvolutionHub';
 import { SettingsMenu } from './components/SettingsMenu';
 import { IdLogEntry } from './types';
-import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, TOTAL_QUESTIONS, getQuestionsNeededForLevel, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getStarsFromProgress, getRandomModeStarsFromAccuracy, getPersonaFromRandomStats, getPersonaTranslationKey, PERSONA_EMOJI } from './constants';
+import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getQuestionsNeededForLevel, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getStarsFromProgress, getRandomModeStarsFromAccuracy, getPersonaFromRandomStats, getPersonaTranslationKey, PERSONA_EMOJI } from './constants';
 import { useLanguage } from './contexts/LanguageContext';
 import { formatTranslation } from './translations';
 import { playStarCelebrationSound, playFiveStarCelebrationSound, playRandomFiveStarCelebrationSound, playAllLevelsCelebrationSound, playCorrectAnswerSound, playWrongAnswerSound, playButtonClickSound } from './utils/sounds';
@@ -312,9 +312,9 @@ const App: React.FC = () => {
         const rm = prev.randomModeStats ?? { totalAnswered: 0, totalCorrect: 0 };
         const newTotalAnswered = rm.totalAnswered + total;
         const newTotalCorrect = rm.totalCorrect + score;
-        const overallPercent =
-          TOTAL_QUESTIONS > 0 ? (100 * newTotalCorrect) / TOTAL_QUESTIONS : 0;
-        const starsForRandomMode = getRandomModeStarsFromAccuracy(overallPercent);
+        const newPercentCorrect =
+          newTotalAnswered > 0 ? Math.round((100 * newTotalCorrect) / newTotalAnswered) : 0;
+        const starsForRandomMode = getRandomModeStarsFromAccuracy(newPercentCorrect);
         const newRm = {
           ...rm,
           totalAnswered: newTotalAnswered,
@@ -336,9 +336,7 @@ const App: React.FC = () => {
       const newTotalAnswered = rm.totalAnswered + total;
       const newTotalCorrect = rm.totalCorrect + score;
       const newPercentCorrect = newTotalAnswered > 0 ? Math.round((100 * newTotalCorrect) / newTotalAnswered) : 0;
-      const overallPercent =
-        TOTAL_QUESTIONS > 0 ? (100 * newTotalCorrect) / TOTAL_QUESTIONS : 0;
-      const starsForRandomMode = getRandomModeStarsFromAccuracy(overallPercent);
+      const starsForRandomMode = getRandomModeStarsFromAccuracy(newPercentCorrect);
       const newRm = { totalAnswered: newTotalAnswered, totalCorrect: newTotalCorrect };
 
       setShowResult({
