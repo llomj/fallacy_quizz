@@ -61,6 +61,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Theo says the advice is his, forgetting the article he highlighted yesterday.", "Theo dit que le conseil est le sien, en oubliant l'article qu'il a surligné hier."],
   ["Ava tells friends the joke is brand new, but it was in a meme she laughed at earlier.", "Ava dit à ses amis que la blague est toute nouvelle, mais elle était dans un meme qui l'a fait rire plus tôt."],
   ["Mia is convinced the phrase is hers, then sees it in a notebook from class.", "Mia est convaincue que la phrase est à elle, puis la voit dans un cahier de cours."]
+  ["Maya thinks the slogan is hers until she remembers reading it on a bus ad.", "Maya pense que le slogan vient d'elle jusqu'a ce qu'elle se rappelle l'avoir lu sur une pub de bus."],
+  ["Theo believes he invented the joke, but it was from a meme he saved last week.", "Theo croit avoir invente la blague, mais elle venait d'un mème qu'il a enregistre la semaine derniere."],
+  ["Nina is sure the tip is original, then finds it in her cooking notes.", "Nina est sure que l'astuce est originale, puis la retrouve dans ses notes de cuisine."],
+  ["Ben shares a phrase and later realizes it came from a podcast he heard on the commute.", "Ben partage une phrase et realise plus tard qu'elle venait d'un podcast entendu pendant le trajet."],
+  ["Omar says the nickname is his idea, forgetting the sign he saw at the rink.", "Omar dit que le surnom est son idee, oubliant l enseigne qu'il a vue a la patinoire."],
+  ["Priya thinks she coined the warning, but it was printed on the package already.", "Priya pense avoir invente l'avertissement, mais il etait deja imprime sur l'emballage."],
+  ["Leo believes the study hack is new, then remembers the handout from class.", "Leo croit que l'astuce d'etude est nouvelle, puis se rappelle la fiche de cours."],
+  ["Rina tells friends she made up the line, but it was in a song lyric she heard yesterday.", "Rina dit a ses amis qu'elle a invente la phrase, mais elle etait dans des paroles de chanson entendues hier."],
+  ["Jules claims the recipe tweak is his own, not the one he heard on a video.", "Jules affirme que l'astuce de recette vient de lui, et non de celle qu'il a entendue dans une video."],
+  ["Ava thinks the caption is original until she spots the same wording in a newsletter.", "Ava pense que la legende est originale jusqu'a ce qu'elle repere la meme formulation dans une newsletter."]
 ];
 
 const EN = ['Cryptomnesia', 'False Memory', 'Confirmation Bias', 'Anecdotal Fallacy'];

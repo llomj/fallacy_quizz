@@ -63,6 +63,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Nina sees calmer afternoons after school clubs start and says clubs magically calm afternoons.', 'Nina voit des apres-midis plus calmes apres le debut des clubs scolaires et dit que les clubs apaisent magiquement les apres-midis.'],
   ['Theo notices more open books in quiet rooms and says books create silence.', 'Theo remarque plus de livres ouverts dans les pieces calmes et dit que les livres creent le silence.'],
   ['Jade sees brighter screens in busy offices and says screens make offices busy.', 'Jade voit des ecrans plus lumineux dans les bureaux occupes et dit que les ecrans rendent les bureaux occupes.']
+  ['Maya sees coffee and rain show up together and says coffee must make storms.', 'Maya voit le cafe et la pluie apparaitre ensemble et dit que le cafe doit provoquer les orages.'],
+  ['Theo sees more umbrellas on wet days and says umbrellas are the reason for wet days.', 'Theo voit plus de parapluies les jours humides et dit que les parapluies sont la raison des jours humides.'],
+  ['Nina notices music at the gym and says music creates exercise.', 'Nina remarque de la musique a la salle de sport et dit que la musique cree l exercice.'],
+  ['Ben sees candles and birthday cake in the same room and says candles cause birthdays.', 'Ben voit des bougies et un gateau d anniversaire dans la meme piece et dit que les bougies causent les anniversaires.'],
+  ['Omar notices more hats in winter and says hats create winter.', 'Omar remarque plus de chapeaux en hiver et dit que les chapeaux creent l hiver.'],
+  ['Priya sees phones and long lines together and says phones make lines longer.', 'Priya voit des telephones et de longues files ensemble et dit que les telephones rallongent les files.'],
+  ['Leo sees laughter near the snack table and says snacks cause jokes.', 'Leo voit des rires pres de la table de collations et dit que les collations causent les blagues.'],
+  ['Rina notices quiet rooms and open books together and says books cause silence.', 'Rina remarque des pieces calmes et des livres ouverts ensemble et dit que les livres causent le silence.'],
+  ['Jules sees raincoats and gray skies together and says raincoats bring clouds.', 'Jules voit des impermeables et un ciel gris ensemble et dit que les impermeables apportent les nuages.'],
+  ['Ava sees clean desks and focused students at the same time and says desks create concentration.', 'Ava voit des bureaux ranges et des eleves concentres en meme temps et dit que les bureaux creent la concentration.']
 ];
 
 const EN = ['Cum Hoc', 'Correlation Equals Causation', 'Post Hoc Ergo Propter Hoc', 'Coincidence'];

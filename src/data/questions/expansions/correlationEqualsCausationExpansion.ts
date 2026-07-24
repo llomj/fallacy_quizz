@@ -61,6 +61,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Nina sees plants grow after she plays music and says music grows plants.', 'Nina voit les plantes pousser apres avoir joue de la musique et dit que la musique fait pousser les plantes.'],
   ['Theo notices more homework on nights when he drinks soda and says soda causes homework.', 'Theo remarque plus de devoirs les soirs ou il boit du soda et dit que le soda cause les devoirs.'],
   ['Jade sees more people outside when the weather is nice and says people make nice weather.', 'Jade voit plus de gens dehors quand il fait beau et dit que les gens fabriquent le beau temps.']
+  ['Maya sees more umbrellas on rainy days and says umbrellas create rain.', 'Maya voit plus de parapluies les jours de pluie et dit que les parapluies creent la pluie.'],
+  ['Theo notices more ice cream sales during heat waves and says ice cream causes heat waves.', 'Theo remarque plus de ventes de glace pendant les vagues de chaleur et dit que la glace cause les vagues de chaleur.'],
+  ['Nina sees people bring jackets when it gets cold and says jackets make it cold.', 'Nina voit les gens apporter des vestes quand il fait froid et dit que les vestes rendent le temps froid.'],
+  ['Ben notices more coffee cups at meetings that run long and says cups make meetings drag on.', 'Ben remarque plus de tasses de cafe dans les reunions qui durent longtemps et dit que les tasses font durer les reunions.'],
+  ['Omar sees more sales after a billboard goes up and says the billboard alone caused the sales.', 'Omar voit plus de ventes apres la pose d un panneau publicitaire et dit que le panneau a lui seul a cause les ventes.'],
+  ['Priya sees more smiles near the bakery and says the bakery creates happiness instantly.', 'Priya voit plus de sourires pres de la boulangerie et dit que la boulangerie cree instantanement le bonheur.'],
+  ['Leo notices better grades after a student buys a planner and says the planner causes good grades.', 'Leo remarque de meilleures notes apres qu un eleve a achete un agenda et dit que l agenda cause les bonnes notes.'],
+  ['Rina sees traffic after a new mall opens and says the mall makes roads busy by magic.', 'Rina voit du trafic apres l ouverture d un nouveau centre commercial et dit que le centre commercial rend les routes chargees par magie.'],
+  ['Jules sees more chatting when the bus is late and says the delay causes conversation.', 'Jules voit plus de bavardage quand le bus est en retard et dit que le retard provoque la conversation.'],
+  ['Ava sees calm evenings after a new park opens and says the park causes peace everywhere.', 'Ava voit des soirees calmes apres l ouverture d un nouveau parc et dit que le parc cree la paix partout.']
 ];
 
 const EN = ['Correlation Equals Causation', 'Post Hoc Ergo Propter Hoc', 'False Cause', 'Coincidence'];
