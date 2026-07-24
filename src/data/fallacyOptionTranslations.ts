@@ -435,6 +435,7 @@ const FALLACY_OPTION_FR: Record<string, string> = {
   'Treating 1 - P(E|¬G) as P(G|E)': 'Traiter 1 - P(E|¬G) comme P(G|E)',
   'The complementary fallacy': 'Le sophisme du complément',
   'Ignoring the base rate': 'Ignorer le taux de base',
+  'Treating the complement of the false positive rate as the probability of guilt': 'Traiter le complément du taux de faux positifs comme la probabilité de culpabilité',
   'The False Consensus Effect': 'L\'effet de faux consensus',
   'The Focusing Effect': 'L\'effet de focalisation',
   'The Forer Effect': 'L\'effet Forer',
