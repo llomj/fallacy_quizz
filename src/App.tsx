@@ -302,8 +302,7 @@ const App: React.FC = () => {
     }));
   };
 
-  const handleQuizComplete = (score: number) => {
-    const total = 15;
+  const handleQuizComplete = (score: number, total: number = 15) => {
     const xpGained = score * XP_PER_QUESTION;
 
     if (randomMode) {

@@ -576,7 +576,7 @@ interface QuizViewProps {
   /** Earned stars for current level (0 until ~10% progress); used for star display in level mode. */
   earnedStarsForLevel?: number;
   onAttempt: (attempt: QuestionAttempt) => void;
-  onComplete: (score: number) => void;
+  onComplete: (score: number, total: number) => void;
   onExit: () => void;
   onSaveToIdLog?: (entry: { id: number; question: string; correctAnswer: string; explanation: string }) => void;
   savedIdLogIds?: number[];
@@ -791,7 +791,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
       setIsAnswered(false);
       setShowDetailedExplanation(false);
     } else {
-      onComplete(score);
+      onComplete(score, questions.length);
     }
   };
 
