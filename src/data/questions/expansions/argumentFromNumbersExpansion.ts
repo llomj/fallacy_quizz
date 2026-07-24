@@ -53,6 +53,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["The poster says the club is excellent because many students joined.", "L'affiche dit que le club est excellent parce que beaucoup d'élèves l'ont rejoint."],
   ["Mia picks the route because 60 drivers rated it first.", "Mia choisit l'itinéraire parce que 60 conducteurs l'ont classé en premier."],
   ["Ben says the city rule is correct because the vote margin was huge.", "Ben dit que la règle de la ville est correcte parce que l'écart de vote était énorme."],
+  ["Theo says the bus route must be the best because 700 riders use it every day.", "Theo dit que la ligne de bus doit être la meilleure parce que 700 passagers l'utilisent chaque jour."],
+  ["Nina believes the phone plan is great because it has the largest subscriber count.", "Nina croit que le forfait téléphonique est excellent parce qu'il a le plus grand nombre d'abonnés."],
+  ["Ben trusts the cafe because the receipt stack shows it sold the most drinks.", "Ben fait confiance au café parce que la pile de reçus montre qu'il a vendu le plus de boissons."],
+  ["Priya says the app is correct because 500 users clicked the same answer.", "Priya dit que l'application est correcte parce que 500 utilisateurs ont cliqué sur la même réponse."],
+  ["Omar assumes the route is safest because most drivers take it after work.", "Omar suppose que l'itinéraire est le plus sûr parce que la plupart des conducteurs le prennent après le travail."],
+  ["Maya believes the jacket is the right choice because it has the highest likes online.", "Maya croit que la veste est le bon choix parce qu'elle a le plus de j'aime en ligne."],
+  ["Leo says the school rule is right because the vote margin was huge.", "Leo dit que la règle de l'école est juste parce que l'écart de vote était énorme."],
+  ["Rina trusts the dinner spot because the waitlist is the longest in town.", "Rina fait confiance au restaurant parce que la liste d'attente est la plus longue de la ville."],
+  ["Jules thinks the newsletter is true because it reached the most inboxes.", "Jules pense que la lettre d'information est vraie parce qu'elle a atteint le plus grand nombre de boîtes de réception."],
+  ["Ava says the gadget is superior because 2,000 people preordered it.", "Ava dit que le gadget est supérieur parce que 2 000 personnes l'ont précommandé."],
 ];
 
 const EN = ['Argument from Numbers', 'Appeal to Popularity', 'Appeal to Authority', 'False Dilemma'];

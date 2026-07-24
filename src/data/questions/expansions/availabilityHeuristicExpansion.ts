@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Because one relative got lost abroad, Yara assumes travel is too risky.", "Parce qu'un proche s'est perdu a l'etranger, Yara suppose que voyager est trop risque."],
   ["A dramatic clip of one kitchen accident makes Hugo fear every knife.", "Un extrait dramatique d'accident de cuisine fait craindre a Hugo tous les couteaux."],
   ["After one bad supermarket coupon error, Petra thinks every self-checkout machine is broken.", "Apres une seule erreur de coupon au supermarche, Petra pense que toutes les bornes de caisse automatique sont cassees."],
+  ["Maya remembers one plane delay and now expects every flight to be late.", "Maya se souvient d'un seul retard d'avion et s'attend maintenant à ce que tous les vols soient en retard."],
+  ["Theo sees one post about a scam and starts distrusting every online seller.", "Theo voit une publication sur une arnaque et commence à se méfier de tous les vendeurs en ligne."],
+  ["Nina hears one bad story about a dog and assumes every dog is dangerous.", "Nina entend une seule mauvaise histoire de chien et suppose que tous les chiens sont dangereux."],
+  ["Ben watches one video of a food allergy and thinks all snacks are risky.", "Ben regarde une vidéo sur une allergie alimentaire et pense que tous les en-cas sont risqués."],
+  ["Omar experiences one rude cashier and now expects bad service everywhere.", "Omar vit l'expérience d'un seul caissier impoli et attend maintenant un mauvais service partout."],
+  ["Priya reads one storm warning and cancels every outdoor plan for the month.", "Priya lit un seul avertissement de tempête et annule tous les projets extérieurs du mois."],
+  ["Leo hears one story about a bad landlord and assumes every landlord is awful.", "Leo entend une seule histoire de mauvais propriétaire et suppose que tous les propriétaires sont horribles."],
+  ["Rina sees one meme about a failed app update and treats every update as a disaster.", "Rina voit un mème sur une mise à jour ratée et considère chaque mise à jour comme un désastre."],
+  ["Jules remembers one embarrassing speech and now avoids speaking at all.", "Jules se souvient d'un seul discours gênant et évite maintenant de parler du tout."],
+  ["Ava watches one scary clip about a bicycle crash and decides cycling is always unsafe.", "Ava regarde un clip effrayant sur un accident de vélo et décide que le vélo est toujours dangereux."],
 ];
 
 const EN = ['Availability Heuristic', 'Bias Blind Spot', 'Base Rate Fallacy', 'Confirmation Bias'];

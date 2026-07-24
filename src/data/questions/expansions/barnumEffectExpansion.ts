@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["The horoscope says you are independent but still appreciate support, and Priya feels fully understood.", "L'horoscope dit que vous etes independant mais appreciez quand meme le soutien, et Priya se sent parfaitement comprise."],
   ["The reader's note says you have likely been through something hard and learned from it, and Ava says it fits.", "La note du lecteur dit que vous avez probablement traverse quelque chose de difficile et en avez tire des lecons, et Ava dit que cela colle."],
   ["A magazine quiz says you sometimes overthink but care deeply, and Noah says it is spooky how true it is.", "Un quiz de magazine dit que vous reflechissez parfois trop mais que vous vous souciez profondement, et Noah dit que c'est troublant de justesse."],
+  ["Maya reads a profile that says she is creative but practical, and she thinks it describes her exactly.", "Maya lit un profil qui dit qu'elle est créative mais pratique, et elle pense qu'il la décrit exactement."],
+  ["Theo sees a fortune that says he is strong but secretly sensitive, and he feels understood.", "Theo voit une fortune qui dit qu'il est fort mais secrètement sensible, et il se sent compris."],
+  ["Nina gets a quiz result saying she wants connection yet values independence, and she says that is her.", "Nina obtient un résultat disant qu'elle veut du lien mais tient à son indépendance, et elle dit que c'est elle."],
+  ["Ben reads a card that says he can seem calm while worrying inside, and he calls it eerily accurate.", "Ben lit une carte qui dit qu'il peut paraître calme tout en s'inquiétant intérieurement, et il la trouve étrangement juste."],
+  ["Omar sees a horoscope that says he is loyal, thoughtful, and occasionally stubborn, and he nods.", "Omar voit un horoscope qui dit qu'il est loyal, réfléchi et parfois têtu, et il acquiesce."],
+  ["Priya reads a personality blurb saying she likes peace but also excitement, and she takes it personally.", "Priya lit un texte de personnalité disant qu'elle aime le calme mais aussi l'excitation, et elle le prend comme un portrait personnel."],
+  ["Leo gets a quiz saying he is a dreamer with a realistic streak, and he thinks it nailed him.", "Leo obtient un quiz disant qu'il est rêveur avec une fibre réaliste, et il pense que cela le décrit parfaitement."],
+  ["Rina sees a reading that says she wants honesty but dislikes bluntness, and she feels seen.", "Rina voit une lecture disant qu'elle veut de l'honnêteté mais n'aime pas la brusquerie, et elle se sent comprise."],
+  ["Jules reads a result that says he is independent but still appreciates support, and he says that is so true.", "Jules lit un résultat disant qu'il est indépendant mais apprécie quand même le soutien, et il dit que c'est tellement vrai."],
+  ["Ava gets a card saying she may appear confident while quietly doubting herself, and she believes it.", "Ava obtient une carte disant qu'elle peut paraître confiante tout en doutant silencieusement d'elle-même, et elle y croit."],
 ];
 
 const EN = ['Barnum Effect', 'Confirmation Bias', 'Halo Effect', 'False Dilemma'];
