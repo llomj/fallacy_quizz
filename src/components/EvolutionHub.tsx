@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { UserStats, PersonaStage } from '../types';
-import { LEVELS, QUESTIONS_PER_LEVEL, TOTAL_QUESTIONS, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getPersonaFromRandomStats, getNextRandomModeTier, getPersonaTranslationKey } from '../constants';
+import { LEVELS, QUESTIONS_PER_LEVEL, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getPersonaFromRandomStats, getNextRandomModeTier, getPersonaTranslationKey } from '../constants';
 import { PersonaBadge } from './PersonaBadge';
 import { ProgressBar } from './ProgressBar';
 import { ConceptTooltipModal } from './ConceptTooltipModal';
@@ -9,6 +9,7 @@ import { useTranslatedGlossary } from '../hooks/useTranslatedData';
 import { getConceptDefinition } from '../utils/conceptDefinitions';
 import { formatTranslation } from '../translations';
 import { RandomModeStatRow } from './RandomModeStatRow';
+import { getQuestionBank } from '../questionsBank';
 
 interface EvolutionHubProps {
   stats: UserStats;
@@ -29,7 +30,7 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
   const progress = stats.levelProgress[stats.currentLevel] || 0;
 
   const totalCompleted = stats.completedQuestionIds.length;
-  const totalPossible = TOTAL_QUESTIONS;
+  const totalPossible = getQuestionBank(language).length;
   const globalPercentage = Math.round((totalCompleted / totalPossible) * 100);
 
   const lastAccuracy = stats.lastSessionScore !== undefined && stats.lastSessionTotal
