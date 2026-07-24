@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Nora says the water fountain has opinions, and because no proof exists, Owen moves on.', 'Nora dit que la fontaine a des opinions, et comme aucune preuve n existe, Owen passe a autre chose.'],
   ['Ari says the desk lamp can read homework, but without evidence, Juno does not believe him.', 'Ari dit que la lampe de bureau peut lire les devoirs, mais sans preuve, Juno ne le croit pas.'],
   ['Parker says the sidewalk is secretly listening, but since he cannot show proof, Sara ignores it.', 'Parker dit que le trottoir ecoute en secret, mais comme il ne peut pas montrer de preuve, Sara l ignore.'],
+  ['Maya says the coffee cup is a tiny weather oracle, but without proof, Ben does not take it seriously.', 'Maya dit que la tasse de cafe est un petit oracle meteorologique, mais sans preuve, Ben ne prend pas cela au serieux.'],
+  ['Leo says the school bell predicts homework, but because he cannot back it up, Nina dismisses it.', 'Leo dit que la cloche de l ecole predit les devoirs, mais comme il ne peut pas l appuyer, Nina ecarte cela.'],
+  ['Priya says the park bench is sending messages, yet with no evidence, Owen ignores the claim.', 'Priya dit que le banc du parc envoie des messages, mais sans preuve, Owen ignore l affirmation.'],
+  ['Noah says the laptop screen can sense feelings, but since he offers no proof, Ava moves on.', 'Noah dit que l ecran de l ordinateur portable peut sentir les emotions, mais comme il n apporte aucune preuve, Ava passe a autre chose.'],
+  ['Lina says the bakery sign gives life advice, and without evidence, Omar treats it as a joke.', 'Lina dit que l enseigne de la boulangerie donne des conseils de vie, et sans preuve, Omar y voit une blague.'],
+  ['Theo says the bus seat is plotting against him, but no evidence means Priya does not buy it.', 'Theo dit que le siege du bus complote contre lui, mais l absence de preuve fait que Priya n y croit pas.'],
+  ['Ava says the water bottle knows secrets, but because she cannot prove it, Cole shrugs.', 'Ava dit que la bouteille d eau connait des secrets, mais comme elle ne peut pas le prouver, Cole hausse les epaules.'],
+  ['Omar says the office plant is judging performance, but with no support, Rita ignores the idea.', 'Omar dit que la plante du bureau juge la performance, mais sans soutien, Rita ignore l idee.'],
+  ['Jules says the hallway echo is a hidden code, but because he has no proof, Finn lets it go.', 'Jules dit que l echo du couloir est un code cache, mais comme il n a aucune preuve, Finn laisse tomber.'],
+  ['Mina says the toaster is forecasting meetings, and since she cannot show evidence, Zoe dismisses it.', 'Mina dit que le grille-pain predit les reunions, et comme elle ne peut pas montrer de preuve, Zoe rejette cela.'],
 ];
 
 const OPTIONS_EN = ["Hitchens's Razor", 'Appeal to Ignorance', 'Shifting the Burden of Proof', 'False Equivalence'];

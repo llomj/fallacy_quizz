@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Maya says an old harbor was unsafe because it did not have modern warning sirens.', 'Maya dit qu un vieux port etait dangereux parce qu il n avait pas de sirenes d alerte modernes.'],
   ['Nina says an old newspaper office was inefficient because it did not use cloud storage.', 'Nina dit qu une ancienne redaction etait inefficace parce qu elle n utilisait pas le stockage cloud.'],
   ['Owen says a 1700s classroom was bad because students had no tablets.', 'Owen dit qu une classe du 18e siecle etait mauvaise parce que les eleves n avaient pas de tablettes.'],
+  ['Maya says a 1700s town meeting was badly run because it had no livestream chat.', 'Maya dit qu une reunion de ville de 1700 etait mal geree parce qu elle n avait pas de chat en direct.'],
+  ['Ben says an old bakery was unfair because it did not accept contactless payment.', 'Ben dit qu une vieille boulangerie etait injuste parce qu elle n acceptait pas le paiement sans contact.'],
+  ['Priya says a historic library was useless because it did not have searchable PDFs.', 'Priya dit qu une bibliotheque historique etait inutile parce qu elle n avait pas de PDF consultables.'],
+  ['Noah says a medieval market was bad because shoppers could not compare prices on phones.', 'Noah dit qu un marche medieval etait mauvais parce que les acheteurs ne pouvaient pas comparer les prix sur telephone.'],
+  ['Lina says an old village school was backward because it had no smartboard.', 'Lina dit qu une ancienne ecole de village etait arrieree parce qu elle n avait pas de tableau interactif.'],
+  ['Theo says a historical inn was badly designed because it lacked USB chargers.', 'Theo dit qu une auberge historique etait mal con cue parce qu elle manquait de chargeurs USB.'],
+  ['Ava says an old ship was unsafe because it had no weather app alerts.', 'Ava dit qu un vieux navire etait dangereux parce qu il n avait pas d alertes d application meteo.'],
+  ['Omar says a 1900s classroom was terrible because students could not submit homework online.', 'Omar dit qu une salle de classe de 1900 etait terrible parce que les eleves ne pouvaient pas rendre leurs devoirs en ligne.'],
+  ['Rosa says a vintage cafe was bad because it had no app for reviews.', 'Rosa dit qu un cafe vintage etait mauvais parce qu il n avait pas d application pour les avis.'],
+  ['Jules says an old town council was useless because it did not post updates on social media.', 'Jules dit qu un vieux conseil municipal etait inutile parce qu il ne publiait pas de mises a jour sur les reseaux sociaux.'],
 ];
 
 const OPTIONS_EN = ["Historian's Fallacy", 'Hindsight Bias', 'False Attribution', 'Appeal to Tradition'];

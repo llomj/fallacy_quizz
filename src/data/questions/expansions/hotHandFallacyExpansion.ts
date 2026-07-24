@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Milo opens a jar on the first try after a long run of bad luck and says the luck is back.', "Milo ouvre un bocal du premier coup apres une longue serie de malchance et dit que la chance est revenue."],
   ['After three nice compliments, Ava assumes the whole room is impressed with her.', "Apres trois compliments gentils, Ava suppose que toute la salle est impressionnee par elle."],
   ['Cole makes a few great saves in goal and thinks the next shot cannot beat him.', "Cole fait quelques arrets superbes au but et pense que le prochain tir ne pourra pas le battre."],
+  ['Jade makes four perfect free throws and thinks the next one is basically guaranteed.', "Jade reussit quatre lancers francs parfaits et pense que le prochain est presque garanti."],
+  ['Milo hits three good tennis serves and starts talking like the next one cannot miss.', "Milo reussit trois bons services de tennis et commence a parler comme si le suivant ne pouvait pas rater."],
+  ['Nina wins two card rounds and assumes the next round will stay lucky.', "Nina gagne deux tours de cartes et suppose que le prochain tour restera chanceux."],
+  ['After several strong sales calls, Evan says the next call will definitely land too.', "Apres plusieurs appels de vente reussis, Evan dit que le prochain appel aboutira lui aussi forcement."],
+  ['Tara scores on three practice shots and believes the game shot will be automatic.', "Tara marque sur trois tirs d entrainement et croit que le tir du match sera automatique."],
+  ['Ben makes two great chess moves and says the streak means the whole match is won.', "Ben fait deux excellents coups d echecs et dit que la serie signifie que toute la partie est gagnee."],
+  ['Priya lands a lucky first pitch and starts acting like every pitch today will work.', "Priya reussit un premier lancer chanceux et commence a agir comme si tous les lancers du jour allaient marcher."],
+  ['Theo gets three clean hits in batting practice and assumes the game will stay hot.', "Theo reussit trois coups nets a l entrainement et suppose que le match restera chaud."],
+  ['Ava makes two great presentations in a row and thinks the next one cannot go wrong.', "Ava fait deux excellentes presentations d'affilee et pense que la prochaine ne peut pas mal tourner."],
+  ['Omar sees a player score on three shots and starts calling the player unstoppable.', "Omar voit un joueur marquer sur trois tirs et commence a appeler le joueur imbattable."],
 ];
 
 const OPTIONS_EN = ['Hot Hand Fallacy', "Gambler's Fallacy", 'Confirmation Bias', 'Availability Heuristic'];

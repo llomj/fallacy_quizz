@@ -52,6 +52,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Owen says the old laptop slowing down was predictable after it freezes.', 'Owen dit que le vieux portable qui ralentit etait previsible une fois qu il se fige.'],
   ['Priya says the picnic weather was "obviously" going to be bad after clouds gather.', 'Priya dit que le temps du pique-nique allait "evidemment" etre mauvais une fois les nuages rassembles.'],
   ['Ben says the group project failure was obvious after the final slide is missing.', 'Ben dit que l echec du projet de groupe etait evident une fois la derniere diapositive manquante.'],
+  ['Maya says the market crash was easy to predict after the chart already drops.', 'Maya dit que le krach boursier etait facile a prevoir une fois que le graphique a deja baisse.'],
+  ['Ben says the spelling bee loss was obvious after the final round ends badly.', 'Ben dit que la defaite au concours d orthographe etait evidente une fois que la derniere manche se termine mal.'],
+  ['Priya says the picnic rain was "always coming" after the umbrella opens.', 'Priya dit que la pluie du pique-nique allait "forcément" arriver une fois le parapluie ouvert.'],
+  ['Noah says the committee breakup was predictable after the meeting already falls apart.', 'Noah dit que la rupture du comite etait previsible une fois la reunion deja en train de s effondrer.'],
+  ['Lina says the app review was obvious after the star rating tanks.', 'Lina dit que la critique de l application etait evidente une fois que la note chute.'],
+  ['Theo says the soccer loss made sense after the red card is shown.', 'Theo dit que la defaite au football avait du sens une fois que le carton rouge est sorti.'],
+  ['Ava says the friendship fallout was "clear" after the last message goes unanswered.', 'Ava dit que la dispute entre amis etait "claire" une fois que le dernier message reste sans reponse.'],
+  ['Omar says the concert delay was bound to happen after the stage lights fail.', 'Omar dit que le retard du concert devait arriver une fois que les lumieres de scene tombent en panne.'],
+  ['Rita says the dessert disaster was obvious after the oven timer breaks.', 'Rita dit que le desastre du dessert etait evident une fois que le minuteur du four casse.'],
+  ['Jules says the meeting ran long because it was "obviously" going to after the agenda ballooned.', 'Jules dit que la reunion a dure longtemps parce qu elle allait "evidemment" durer ainsi une fois l ordre du jour allonge.'],
 ];
 
 const OPTIONS_EN = ['Hindsight Bias', 'Availability Heuristic', 'False Consensus Effect', 'Outcome Bias'];
