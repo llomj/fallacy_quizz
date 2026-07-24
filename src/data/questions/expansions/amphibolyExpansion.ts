@@ -284,6 +284,122 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   [
     'The sign says, "We recommend food for dogs with chicken flavor." Alex wonders if the dogs are flavored like chicken.',
     'L’affiche dit : « Nous recommandons une nourriture pour chiens au goût de poulet. » Alex se demande si les chiens ont un goût de poulet.'
+  ],
+  [
+    'Mia reads, "Call the artist with the blue scarf." She thinks the artist is wearing a scarf-shaped blue call.',
+    'Mia lit : « Appelez l’artiste avec l’écharpe bleue. » Elle pense que l’artiste porte un appel bleu en forme d’écharpe.'
+  ],
+  [
+    'Ben sees, "I watched the chef with the camera." He assumes the chef is made of camera.',
+    'Ben lit : « J’ai regardé le chef avec la caméra. » Il suppose que le chef est fait de caméra.'
+  ],
+  [
+    'Nina reads, "We invited the dancers with glitter shoes." She thinks the glitter shoes sent the invitation.',
+    'Nina lit : « Nous avons invité les danseurs avec des chaussures à paillettes. » Elle pense que les chaussures ont envoyé l’invitation.'
+  ],
+  [
+    'Theo sees, "Find the keys in the drawer with the receipts." He looks for a drawer made of receipts.',
+    'Theo lit : « Trouvez les clés dans le tiroir avec les reçus. » Il cherche un tiroir fait de reçus.'
+  ],
+  [
+    'Ava reads, "Meet the teacher with the map in room four." She thinks the teacher is inside the map.',
+    'Ava lit : « Rencontrez l’enseignante avec la carte en salle quatre. » Elle pense que l’enseignante est dans la carte.'
+  ],
+  [
+    'Omar sees, "Bring soup for the guests in the garden." He assumes the guests are in the soup.',
+    'Omar lit : « Apportez de la soupe pour les invités dans le jardin. » Il suppose que les invités sont dans la soupe.'
+  ],
+  [
+    'Priya reads, "Students with laptops may enter." She thinks only laptop-shaped students are allowed.',
+    'Priya lit : « Les élèves avec des ordinateurs portables peuvent entrer. » Elle pense que seuls les élèves en forme d’ordinateur sont autorisés.'
+  ],
+  [
+    'Leo sees, "Talk to the guard with questions about the gate." He thinks the guard is made of questions.',
+    'Leo lit : « Parlez au gardien avec des questions sur la porte. » Il pense que le gardien est fait de questions.'
+  ],
+  [
+    'Rina reads, "We need towels for kids at the pool." She thinks the kids are in the towels.',
+    'Rina lit : « Nous avons besoin de serviettes pour les enfants à la piscine. » Elle pense que les enfants sont dans les serviettes.'
+  ],
+  [
+    'Jasper sees, "The manager interviewed workers with microphones." He assumes the workers were holding the microphones.',
+    'Jasper lit : « Le responsable a interrogé les employés avec des micros. » Il suppose que les employés tenaient les micros.'
+  ],
+  [
+    'Maya reads, "Bring snacks for the team in the office." She thinks the team is inside the office snacks.',
+    'Maya lit : « Apportez des collations pour l’équipe dans le bureau. » Elle pense que l’équipe se trouve dans les collations du bureau.'
+  ],
+  [
+    'Hugo sees, "The chef cooked the fish with white wine." He assumes the fish had the white wine.',
+    'Hugo lit : « Le chef a cuisiné le poisson avec du vin blanc. » Il suppose que le poisson avait le vin blanc.'
+  ],
+  [
+    'Layla reads, "Visitors can see the tower with binoculars." She thinks the tower owns the binoculars.',
+    'Layla lit : « Les visiteurs peuvent voir la tour avec des jumelles. » Elle pense que la tour possède les jumelles.'
+  ],
+  [
+    'Clara sees, "We need volunteers for the concert with smiles." She thinks only smiles can volunteer.',
+    'Clara lit : « Nous avons besoin de bénévoles pour le concert avec le sourire. » Elle pense que seuls les sourires peuvent être bénévoles.'
+  ],
+  [
+    'Dylan reads, "Parents with strollers should use the side door." He thinks the side door belongs to the strollers.',
+    'Dylan lit : « Les parents avec des poussettes doivent utiliser la porte latérale. » Il pense que la porte appartient aux poussettes.'
+  ],
+  [
+    'Sofia sees, "Give the dog food to the puppy in the bowl." She thinks the puppy is made of the bowl.',
+    'Sofia lit : « Donnez la nourriture pour chien au chiot dans le bol. » Elle pense que le chiot est fait du bol.'
+  ],
+  [
+    'Reed reads, "Call the doctor about the patient with a fever." He thinks the patient is the fever.',
+    'Reed lit : « Appelez le médecin au sujet du patient avec de la fièvre. » Il pense que le patient est la fièvre.'
+  ],
+  [
+    'Emma sees, "The artist painted the wall with stars." She assumes the wall is covered in star-shaped paint.',
+    'Emma lit : « L’artiste a peint le mur avec des étoiles. » Elle suppose que le mur est couvert de peinture en forme d’étoiles.'
+  ],
+  [
+    'Ari reads, "Meet the mechanic with the red toolbox." He thinks the mechanic is inside the toolbox.',
+    'Ari lit : « Rencontrez le mécanicien avec la boîte à outils rouge. » Il pense que le mécanicien est dans la boîte à outils.'
+  ],
+  [
+    'Mina sees, "We invited the singers and actors from Lyon." She thinks only the actors are from Lyon.',
+    'Mina lit : « Nous avons invité les chanteurs et les acteurs de Lyon. » Elle pense que seuls les acteurs viennent de Lyon.'
+  ],
+  [
+    'Tessa reads, "Serve dessert to the children at the table." She thinks the table is a child.',
+    'Tessa lit : « Servez le dessert aux enfants à la table. » Elle pense que la table est un enfant.'
+  ],
+  [
+    'Jonah sees, "The reporter interviewed the runner with a camera." He thinks the runner had the camera as clothing.',
+    'Jonah lit : « La journaliste a interrogé le coureur avec une caméra. » Il pense que le coureur avait la caméra comme vêtement.'
+  ],
+  [
+    'Kira reads, "Bring the books for the class in backpacks." She thinks only backpack-shaped classes may read.',
+    'Kira lit : « Apportez les livres pour la classe dans les sacs à dos. » Elle pense que seules les classes en forme de sac à dos peuvent lire.'
+  ],
+  [
+    'Evan sees, "We need chairs for the guests in the hall." He assumes the guests are inside the chairs.',
+    'Evan lit : « Nous avons besoin de chaises pour les invités dans le hall. » Il suppose que les invités sont dans les chaises.'
+  ],
+  [
+    'Rory reads, "The farmer fed the chickens with grain." He thinks the chickens are made of grain.',
+    'Rory lit : « Le fermier a nourri les poules avec du grain. » Il pense que les poules sont faites de grain.'
+  ],
+  [
+    'Hugo sees, "Photos of the bridge with boats are on display." He assumes the bridge is made of boats.',
+    'Hugo lit : « Des photos du pont avec des bateaux sont exposées. » Il suppose que le pont est fait de bateaux.'
+  ],
+  [
+    'Maya reads, "Students with questions should see the tutor." She thinks the tutor is full of questions.',
+    'Maya lit : « Les élèves avec des questions doivent voir le tuteur. » Elle pense que le tuteur est plein de questions.'
+  ],
+  [
+    'Theo sees, "The nurse spoke to the child with the book." He thinks the child is a book.',
+    'Theo lit : « L’infirmière a parlé à l’enfant avec le livre. » Il pense que l’enfant est un livre.'
+  ],
+  [
+    'Ava reads, "The artist left the gallery with the paintings." She thinks the gallery was carrying the paintings.',
+    'Ava lit : « L’artiste a quitté la galerie avec les tableaux. » Elle pense que la galerie portait les tableaux.'
   ]
 ];
 
