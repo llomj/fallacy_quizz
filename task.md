@@ -176,6 +176,7 @@
   - [x] Spotlight Effect: IDs 41201-41250, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Spotlight Fallacy: IDs 41301-41350, 50 EN + 50 FR, additive to 6 existing questions.
   - [x] Status Quo Bias: IDs 41401-41450, 50 EN + 50 FR, additive to 3 existing questions.
+  - [x] Stereotyping: IDs 41501-41550, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Slippery Slope: IDs 40801-40850, 50 EN + 50 FR, additive to 227 existing questions.
 - [ ] Run duplicate, parity, random-mode, level-mode, language-switch, offline, and production-build validation after every batch.
 
