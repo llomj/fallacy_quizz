@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Grant says "light" as not heavy and light as illumination are the same proof.', "Grant dit que « leger » et la lumiere sont la meme preuve."],
   ['Juno says "sheet" as paper and sheet as a bed cover are the same material.', "Juno dit qu'une « feuille » de papier et un drap sont le meme materiau."],
   ['Pia says "watch" the verb and watch the noun are the same instruction.', "Pia dit que « regarder » et montre sont la meme instruction."],
+  ['Jade says a "crane" bird and a crane machine must support the same claim.', "Jade dit qu'une grue oiseau et une grue machine doivent soutenir la meme affirmation."],
+  ['Drew says "digest" as a summary and digest as a body process are interchangeable conclusions.', "Drew dit que « resumer » et digerer sont des conclusions interchangeables."],
+  ['Lara says a "well" of water and well as in okay are the same source of support.', "Lara dit qu'un « puits » d'eau et bien au sens de okay sont la meme source de soutien."],
+  ['Oli says "order" as a command and order as tidiness prove the same case.', "Oli dit que l'« ordre » comme commande et l'ordre comme rangement prouvent le meme cas."],
+  ['Mia says "club" as a group and club as a tool are identical because the word repeats.', "Mia dit que le « club » comme groupe et comme outil sont identiques parce que le mot se repete."],
+  ['Felix says "mean" as a value and mean as rude are the same metric.', "Felix dit que « moyenne » et mechant sont la meme mesure."],
+  ['Iris says "object" as a thing and object as to protest are the same premise.', "Iris dit que « objet » comme chose et objecter sont la meme premise."],
+  ['Grant says "light" as not heavy and light as illumination are the same proof.', "Grant dit que « leger » et la lumiere sont la meme preuve."],
+  ['Juno says "sheet" as paper and sheet as a bed cover are the same material.', "Juno dit qu'une « feuille » de papier et un drap sont le meme materiau."],
+  ['Pia says "watch" the verb and watch the noun are the same instruction.', "Pia dit que « regarder » et montre sont la meme instruction."]
 ];
 
 const OPTIONS_EN = ['Four-Term Fallacy', 'Equivocation', 'False Dilemma', 'False Equivalence'];

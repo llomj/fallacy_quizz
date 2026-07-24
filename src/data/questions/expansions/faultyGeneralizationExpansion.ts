@@ -60,6 +60,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo had one noisy neighbor and concluded the whole apartment building is unbearable.', "Leo a eu un voisin bruyant et a conclu que tout l'immeuble etait insupportable."],
   ['Rina saw one messy desk and said every coworker is disorganized.', "Rina a vu un bureau en desordre et a dit que tous les collegues etaient desordonnes."],
   ['Jasper tried one overcooked pasta dish and decided all restaurant pasta is bad.', "Jasper a essaye un plat de pates trop cuites et a decide que toutes les pates au restaurant etaient mauvaises."],
+  ['Maya met one rude tourist and decided the whole city is rude.', "Maya a rencontre un touriste impoli et a conclu que toute la ville etait impolie."],
+  ['Ben had one bad burger and declared every fast-food place terrible.', "Ben a mange un seul mauvais burger et a declare que tous les fast-foods etaient terribles."],
+  ['Rina saw two messy desks and said the whole office is lazy.', "Rina a vu deux bureaux en désordre et a dit que tout le bureau etait paresseux."],
+  ['Theo had one awkward date and concluded dating is hopeless.', "Theo a eu un rendez-vous genant et a conclu que sortir ensemble etait sans espoir."],
+  ['Ava heard one noisy train ride and said public transit is always awful.', "Ava a entendu parler d'un seul trajet de train bruyant et a dit que les transports publics etaient toujours horribles."],
+  ['Leo tried one hard puzzle and decided all puzzles are impossible.', "Leo a essaye une seule enigme difficile et a decide que toutes les enigmes etaient impossibles."],
+  ['Nina saw one rude cashier and claimed every cashier is rude.', "Nina a vu une caissiere impolie et a affirme que toutes les caissieres etaient impolies."],
+  ['Owen got one slow internet day and said the provider never works.', "Owen a eu une seule journee d'internet lente et a dit que le fournisseur ne fonctionnait jamais."],
+  ['Priya met one forgetful neighbor and said all neighbors are unreliable.', "Priya a rencontre un voisin tete en l'air et a dit que tous les voisins etaient peu fiables."],
+  ['Milo had one burnt pancake and declared himself bad at cooking forever.', "Milo a eu une seule crepe brulee et a declare qu'il cuisinait mal pour toujours."]
 ];
 
 const OPTIONS_EN = ['Faulty Generalization', 'False Equivalence', 'Appeal to Popularity', 'False Dilemma'];

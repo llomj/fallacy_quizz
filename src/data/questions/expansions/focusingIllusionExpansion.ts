@@ -60,6 +60,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Leo believes a nicer kitchen would make cooking fun because he fixates on the countertop.', "Leo croit qu'une cuisine plus belle rendrait la cuisine amusante parce qu'il se focalise sur le plan de travail."],
   ['Rina says a bigger TV would make weekends perfect because she keeps picturing the screen size.', "Rina dit qu'une plus grande television rendrait les week-ends parfaits parce qu'elle imagine sans cesse la taille de l'ecran."],
   ['Jade thinks a quieter car would make life peaceful because she focuses on the engine noise.', "Jade pense qu'une voiture plus silencieuse rendrait la vie paisible parce qu'elle se concentre sur le bruit du moteur."],
+  ['Maya thinks a bigger apartment would solve everything because she only imagines the extra room and not the cleaning.', "Maya pense qu'une maison plus grande reglerait tout parce qu'elle imagine seulement la piece en plus et pas le nettoyage."],
+  ['Theo assumes moving to the city will make life perfect because he focuses on nightlife and forgets the rent.', "Theo suppose que déménager en ville rendrait la vie parfaite parce qu'il se concentre sur la vie nocturne et oublie le loyer."],
+  ['Ava says a new phone will make every day better because she is fixated on the camera.', "Ava dit qu'un nouveau telephone rendra chaque jour meilleur parce qu'elle se fixe sur l'appareil photo."],
+  ['Ben thinks one vacation spot would solve his stress because he keeps picturing the beach.', "Ben pense qu'un seul endroit de vacances reglerait son stress parce qu'il imagine sans cesse la plage."],
+  ['Rina believes a pay raise would fix her whole job because she only focuses on salary.', "Rina croit qu'une augmentation reglerait tout son travail parce qu'elle se concentre seulement sur le salaire."],
+  ['Owen says a fancy car would change his life because he is stuck on the parking lot image.', "Owen dit qu'une voiture chic changerait sa vie parce qu'il est bloque sur l'image du parking."],
+  ['Nina thinks one new gadget would make her organized because she focuses on the desk setup.', "Nina pense qu'un seul nouveau gadget la rendrait organisee parce qu'elle se concentre sur l'installation du bureau."],
+  ['Priya says a bigger TV would make movie nights magical because she only thinks about the screen size.', "Priya dit qu'une plus grande television rendrait les soirees film magiques parce qu'elle ne pense qu'a la taille de l'ecran."],
+  ['Leo believes a better apartment would end all conflicts because he focuses on the kitchen.', "Leo croit qu'un meilleur appartement mettrait fin a tous les conflits parce qu'il se focalise sur la cuisine."],
+  ['Milo says a longer lunch break would fix the day because he only imagines the extra time.', "Milo dit qu'une pause dejeuner plus longue reglerait la journee parce qu'il imagine seulement le temps en plus."]
 ];
 
 const OPTIONS_EN = ['Focusing Illusion', 'Anchoring Bias', 'False Balance', 'False Equivalence'];
