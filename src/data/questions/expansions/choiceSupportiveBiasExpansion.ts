@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Noah chooses the solar lamp and later talks about the first bright evening while ignoring cloudy days.", "Noah choisit la lampe solaire et parle ensuite de la premiere soiree lumineuse en ignorant les jours nuageux."],
   ["Tara picks the new purse and keeps saying it was smart because the color matches everything.", "Tara choisit le nouveau sac et dit sans cesse que c'etait intelligent parce que la couleur va avec tout."],
   ["Mina chooses the wireless router and later praises the easy setup while forgetting the dead zones.", "Mina choisit le routeur sans fil et loue ensuite l'installation facile en oubliant les zones sans signal."],
+  ["Maya says the blue mug was the right buy because it looks nicer now that she owns it.", "Maya dit que la tasse bleue etait le bon achat parce qu'elle parait plus jolie maintenant qu'elle la possede."],
+  ["Theo says the expensive backpack was worth it because he is already using it every day.", "Theo dit que le sac a dos cher valait le coup parce qu'il l'utilise deja tous les jours."],
+  ["Nina says the noisy blender was a smart choice because she can still make smoothies with it.", "Nina dit que le mixeur bruyant etait un choix intelligent parce qu'elle peut quand meme faire des smoothies avec."],
+  ["Ben says the class ring was a great purchase because it reminds him of graduation.", "Ben dit que la bague de classe etait un excellent achat parce qu'elle lui rappelle la remise des diplomes."],
+  ["Omar says the garden bench was perfect because it looks charming in the yard.", "Omar dit que le banc de jardin etait parfait parce qu'il a l'air charmant dans la cour."],
+  ["Priya says the new planner was a genius choice because the cover matches her desk.", "Priya dit que le nouvel agenda etait un choix genial parce que la couverture va avec son bureau."],
+  ["Leo says the guitar was obviously the best option because he has already learned one song on it.", "Leo dit que la guitare etait evidemment la meilleure option parce qu'il a deja appris une chanson dessus."],
+  ["Rina says the travel mug was worth every cent because it fits in her bag.", "Rina dit que le gobelet de voyage valait chaque centime parce qu'il rentre dans son sac."],
+  ["Jules says the couch was the perfect pick because it looks good in photos.", "Jules dit que le canape etait le choix parfait parce qu'il rend bien en photo."],
+  ["Ava says the bright red shoes were the smartest buy because she gets compliments on them.", "Ava dit que les chaussures rouges etaient l'achat le plus intelligent parce qu'elle recoit des compliments dessus."]
 ];
 
 const EN = ['Choice-Supportive Bias', 'Confirmation Bias', 'Sunk Cost Fallacy', 'Anchoring Bias'];

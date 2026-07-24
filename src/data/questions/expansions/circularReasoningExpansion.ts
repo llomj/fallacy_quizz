@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Jade says the theory is true because true theories are theories that are true.", "Jade dit que la theorie est vraie parce que les theories vraies sont celles qui sont vraies."],
   ["Owen says the apartment is desirable because desirable apartments are apartments people want.", "Owen dit que l'appartement est desirable parce que les appartements desirables sont ceux que les gens veulent."],
   ["Nora says the recipe is reliable because reliable recipes are recipes that always work.", "Nora dit que la recette est fiable parce que les recettes fiables sont celles qui marchent toujours."],
+  ["Maya says the new chair is comfortable because comfortable chairs are chairs that feel comfortable.", "Maya dit que la nouvelle chaise est confortable parce que les chaises confortables sont des chaises qui sont confortables."],
+  ["Theo says the policy is smart because smart policies are the ones that are smart.", "Theo dit que la politique est intelligente parce que les politiques intelligentes sont celles qui sont intelligentes."],
+  ["Nina says the plan will work because working plans are plans that work.", "Nina dit que le plan marchera parce que les plans qui marchent sont des plans qui marchent."],
+  ["Ben says the game is good because good games are the games that are good.", "Ben dit que le jeu est bon parce que les bons jeux sont les jeux qui sont bons."],
+  ["Owen says the cafe is welcoming because welcoming cafes are cafes that welcome people.", "Owen dit que le cafe est accueillant parce que les cafes accueillants sont des cafes qui accueillent les gens."],
+  ["Priya says the teacher is wise because wise teachers are teachers who are wise.", "Priya dit que le professeur est sage parce que les professeurs sages sont des professeurs sages."],
+  ["Leo says the shortcut is safe because safe shortcuts are shortcuts that are safe.", "Leo dit que le raccourci est sur parce que les raccourcis surs sont des raccourcis surs."],
+  ["Rina says the song is meaningful because meaningful songs are songs with meaning.", "Rina dit que la chanson est significative parce que les chansons significatives sont des chansons qui ont du sens."],
+  ["Jules says the answer is correct because correct answers are the answers that are correct.", "Jules dit que la reponse est correcte parce que les bonnes reponses sont les reponses qui sont correctes."],
+  ["Ava says the route is best because the best routes are the routes that are best.", "Ava dit que l'itineraire est le meilleur parce que les meilleurs itineraires sont les itineraires qui sont les meilleurs."]
 ];
 
 const EN = ['Circular Reasoning', 'Begging the Question', 'False Dilemma', 'Appeal to Authority'];

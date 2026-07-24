@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Omar says the lie is lightweight, but the repair job is heavy.", "Omar dit que le mensonge est leger, mais que la reparation est lourde."],
   ["Maya says the bad idea can be posted by anyone, but only specialists can undo it well.", "Maya dit que la mauvaise idee peut etre publiee par n'importe qui, mais que seuls des specialistes peuvent bien la demeler."],
   ["Ben says one bad take can multiply meetings.", "Ben dit qu'un seul mauvais avis peut multiplier les reunions."],
+  ["Ava says one sloppy rumor can take over the whole group chat by lunch.", "Ava dit qu'une rumeur mal ficelée peut envahir tout le groupe de discussion avant le dejeuner."],
+  ["Theo says a single wrong chart can waste an entire afternoon of debate.", "Theo dit qu'un seul graphique faux peut faire perdre toute une apres-midi de debat."],
+  ["Nina says correcting one fake tip takes ten real explanations.", "Nina dit que corriger un seul faux conseil demande dix vraies explications."],
+  ["Omar says a bad meme spreads in seconds while the correction arrives after dinner.", "Omar dit qu'un mauvais mème se repand en quelques secondes tandis que la correction arrive apres le diner."],
+  ["Maya says one misleading headline can hijack the whole office conversation.", "Maya dit qu'un seul titre trompeur peut detourner toute la conversation du bureau."],
+  ["Leo says it is easy to post nonsense but hard to untangle it later.", "Leo dit qu'il est facile de publier des absurdites mais difficile de les demeler ensuite."],
+  ["Priya says the false claim gets applause, but the fact check has to climb uphill.", "Priya dit que la fausse affirmation obtient des applaudissements, mais que la verification des faits doit gravir la pente."],
+  ["Jade says one exaggerated claim can create three meetings, two follow-ups, and a headache.", "Jade dit qu'une seule affirmation exageree peut creer trois reunions, deux relances et un mal de tete."],
+  ["Rina says every correction feels like unpacking a suitcase someone else packed badly.", "Rina dit que chaque correction ressemble a vider une valise mal faite par quelqu'un d'autre."],
+  ["Ben says a sloppy claim can travel faster than the person who made it can explain it.", "Ben dit qu'une affirmation brouillonne peut voyager plus vite que son auteur ne peut l'expliquer."]
 ];
 
 const EN = ["Brandolini's Law", 'Appeal to Authority', 'Red Herring', 'False Dilemma'];

@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Eli says the class trip is safe because one bus ride was smooth.", "Eli dit que la sortie de classe est sure parce qu'un trajet en bus s'est bien passe."],
   ["Mina says the mayor is a genius because one speech sounded strong.", "Mina dit que le maire est un genie parce qu'un discours sonnait fort."],
   ["Kai says the store is honest because one cashier was polite.", "Kai dit que le magasin est honnete parce qu'un caissier etait poli."],
+  ["Maya says the movie is perfect because she only talks about the ending she liked.", "Maya dit que le film est parfait parce qu'elle ne parle que de la fin qu'elle a aimee."],
+  ["Theo praises the app because he ignores the crashes and only mentions the cute icon.", "Theo vante l'application parce qu'il ignore les plantages et ne mentionne que la jolie icone."],
+  ["Nina says the school lunch is amazing because she only counts the one good day.", "Nina dit que la cantine scolaire est incroyable parce qu'elle ne compte que le seul bon jour."],
+  ["Ben says the trip was a success because he only remembers the beach photo.", "Ben dit que le voyage etait une reussite parce qu'il ne se souvient que de la photo de plage."],
+  ["Omar claims the car is reliable because he only mentions the week it started on the first try.", "Omar affirme que la voiture est fiable parce qu'il ne parle que de la semaine ou elle a demarre du premier coup."],
+  ["Priya says the teacher is fair because she only brings up the one kind grading comment.", "Priya dit que le professeur est juste parce qu'elle ne mentionne que le seul commentaire de notation gentil."],
+  ["Leo says the new phone is great because he only compares the camera and ignores the battery.", "Leo dit que le nouveau telephone est super parce qu'il ne compare que l'appareil photo et ignore la batterie."],
+  ["Rina says the town festival was perfect because she only recalls the fireworks.", "Rina dit que la fete de la ville etait parfaite parce qu'elle ne se rappelle que des feux d'artifice."],
+  ["Jules says the book was inspiring because he only quotes the one chapter he liked.", "Jules dit que le livre etait inspirant parce qu'il ne cite que le chapitre qu'il a aime."],
+  ["Ava says the restaurant is wonderful because she only talks about the dessert and not the slow service.", "Ava dit que le restaurant est merveilleux parce qu'elle ne parle que du dessert et pas du service lent."]
 ];
 
 const EN = ['Cherry Picking', 'Biased Sample', 'Availability Heuristic', 'False Dilemma'];
