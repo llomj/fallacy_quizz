@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Juno saw one tiny typo and said the entire article is unprofessional.', 'Juno a vu une minuscule faute de frappe et a dit que tout l article etait non professionnel.'],
   ['Pia met one impatient customer and said all customers are difficult.', 'Pia a rencontre un client impatient et a dit que tous les clients etaient difficiles.'],
   ['Noah saw one cheap charger fail and decided every phone accessory brand is unreliable.', 'Noah a vu un chargeur bon marche tomber en panne et a decide que toutes les marques d accessoires telephoniques etaient peu fiables.'],
+  ['Maya met one rude tourist at the station and decided every traveler from that country is rude.', 'Maya a rencontre un touriste impoli a la gare et a decide que tous les voyageurs de ce pays etaient impolis.'],
+  ['Ben had one bad café visit and said every café in town is overrated.', 'Ben a eu une mauvaise visite dans un café et a dit que tous les cafés de la ville etaient surevalues.'],
+  ['Rina saw one noisy neighbor and concluded apartment living is always awful.', 'Rina a vu un voisin bruyant et a conclu que vivre en appartement etait toujours horrible.'],
+  ['Theo tried one hard hobby and said all hobbies are a waste of time.', 'Theo a essaye un hobby difficile et a dit que tous les loisirs etaient une perte de temps.'],
+  ['Ava heard one confused customer and decided retail workers are all bad at their jobs.', 'Ava a entendu une cliente perdue et a decide que tous les vendeurs etaient mauvais dans leur travail.'],
+  ['Leo had one bad commute and said public transit is useless everywhere.', 'Leo a eu un mauvais trajet et a dit que les transports publics etaient inutiles partout.'],
+  ['Nina saw one messy kitchen and concluded every restaurant is dirty.', 'Nina a vu une cuisine en desordre et a conclu que tous les restaurants etaient sales.'],
+  ['Owen met one impatient driver and decided every driver in the city is aggressive.', 'Owen a rencontre un conducteur impatient et a decide que tous les conducteurs de la ville etaient agressifs.'],
+  ['Priya tried one confusing app and said all apps are impossible to learn.', 'Priya a essaye une application confuse et a dit que toutes les applications etaient impossibles a apprendre.'],
+  ['Milo heard one loud student and decided every classroom is chaotic.', 'Milo a entendu un eleve bruyant et a decide que toutes les classes etaient chaotiques.'],
 ];
 
 const OPTIONS_EN = ['Hasty Generalization', 'Anecdotal Fallacy', 'Confirmation Bias', 'Appeal to Popularity'];

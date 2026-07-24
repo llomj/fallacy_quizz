@@ -60,6 +60,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['When the neighbor forgets to wave, Iris thinks he simply did not notice her, rather than trying to snub her.', "Quand le voisin oublie de saluer, Iris pense qu il ne l a simplement pas vue, plutot que d essayer de la snober."],
   ['Grant believes the late package was routed badly by the courier, not delivered late out of spite.', "Grant croit que le colis en retard a ete mal achemine par le livreur, pas remis en retard par vengeance."],
   ['After a teacher sounds abrupt, Zoe assumes stress is the reason, not that the teacher dislikes the class.', "Apres qu un professeur semble abrupt, Zoe suppose que le stress en est la raison, pas que le professeur n aime pas la classe."],
+  ['Maya assumes the missing stapler was simply borrowed and forgotten, not taken to cause trouble.', "Maya suppose que l agrafeuse manquante a simplement ete empruntee puis oubliee, pas prise pour causer des problemes."],
+  ['Ben thinks the typo in the group message came from rushing, not from someone trying to be rude.', "Ben pense que la faute de frappe dans le message de groupe venait de la precipitation, pas de quelqu un qui voulait etre impoli."],
+  ['Priya says the late reply was probably an inbox flood, not a deliberate brush-off.', "Priya dit que la reponse tardive venait probablement d une boite de reception surchargee, pas d un rejet volontaire."],
+  ['Noah assumes the broken chair was old and weak, not broken on purpose.', "Noah suppose que la chaise cassee etait vieille et fragile, pas cassee volontairement."],
+  ['Lina believes the awkward comment came from nerves, not from mean intent.', "Lina croit que le commentaire genant venait du trac, pas d une intention mechant."],
+  ['Theo says the misfiled document was a filing error, not a secret trick.', "Theo dit que le document mal classe etait une erreur de classement, pas un stratageme secret."],
+  ['Ava thinks the missed call was accidental because the phone was probably in a bag.', "Ava pense que l appel manque etait accidentel parce que le telephone etait probablement dans un sac."],
+  ['Omar assumes the sloppy cleanup came from being short-staffed, not from not caring.', "Omar suppose que le nettoyage brouillon venait d un manque de personnel, pas d un manque d interet."],
+  ['Rosa says the rude tone was likely exhaustion, not hostility.', "Rosa dit que le ton sec venait probablement de la fatigue, pas de l hostilite."],
+  ['Jules thinks the lost note was mislaid in the rush, not hidden to be annoying.', "Jules pense que la note perdue a ete egaree dans la precipitation, pas cachee pour etre enervante."],
 ];
 
 const OPTIONS_EN = ["Hanlon's Razor", 'Fundamental Attribution Error', 'Just-World Hypothesis', 'Ad Hominem'];

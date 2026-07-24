@@ -52,6 +52,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Kai says the new product must be reliable because everyone in the office is replacing their old one.', 'Kai dit que le nouveau produit doit etre fiable parce que tout le bureau remplace son ancien.'],
   ['Nora follows the crowd to the new bakery because "that is where people are going".', 'Nora suit la foule jusqu a la nouvelle boulangerie parce que « c est la ou les gens vont ».'],
   ['Ben treats the crowd favorite as the correct answer because many people picked it fast.', 'Ben traite la reponse preferee de la foule comme la bonne reponse parce que beaucoup de gens l ont choisie vite.'],
+  ['Maya joins the line for the new cafe because she sees everyone else heading there after work.', 'Maya rejoint la file pour le nouveau cafe parce qu elle voit tout le monde y aller apres le travail.'],
+  ['Ben buys the same sneakers as the whole class because he does not want to be the only one different.', 'Ben achete les memes baskets que toute la classe parce qu il ne veut pas etre le seul different.'],
+  ['Priya downloads the trending app because her friends keep treating it like the obvious choice.', 'Priya telecharge l application a la mode parce que ses amis la traitent sans cesse comme le choix evident.'],
+  ['Theo joins the long queue for pastries even though he has no idea what is being sold.', 'Theo rejoint la longue file pour des patisseries meme s il ne sait pas du tout ce qui est vendu.'],
+  ['Ava starts repeating the office slogan because everyone around her is saying it.', 'Ava commence a repeter le slogan du bureau parce que tout le monde autour d elle le dit.'],
+  ['Omar agrees with the group opinion after noticing nobody wants to look uncertain.', 'Omar est d accord avec l opinion du groupe apres avoir remarque que personne ne veut avoir l air incertain.'],
+  ['Lina copies the crowd choice on the lunch spot because she thinks it is safer than standing apart.', 'Lina copie le choix de la foule pour le restaurant parce qu elle pense que c est plus sur que de se demarquer.'],
+  ['Nora signs up for the same club as her friends because she assumes the group already knows best.', 'Nora s inscrit au meme club que ses amies parce qu elle suppose que le groupe sait deja mieux.'],
+  ['Jules follows the room vote because everybody else seems ready to move on quickly.', 'Jules suit le vote de la salle parce que tout le monde semble pret a passer vite a autre chose.'],
+  ['Mina adopts the same planner as her coworkers because she wants to fit in with the team.', 'Mina adopte le meme agenda que ses collegues parce qu elle veut s integrer a l equipe.'],
 ];
 
 const OPTIONS_EN = ['Herd Mentality', 'Bandwagon', 'Groupthink', 'Appeal to Popularity'];
