@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Aria asks only the people who passed the test and says the test was fair.", "Aria ne demande qu'aux personnes qui ont reussi le test et dit que le test etait juste."],
   ["Mina checks one happy crowd at a concert and says every concert is amazing.", "Mina regarde une seule foule heureuse a un concert et dit que tous les concerts sont incroyables."],
   ["Leo surveys only his own family and says the new rule is popular.", "Leo interroge seulement sa propre famille et dit que la nouvelle regle est populaire."],
+  ["Maya only asks people already inside the bookstore and says everyone in town loves reading.", "Maya ne demande qu'aux personnes deja dans la librairie et dit que tout le monde en ville aime lire."],
+  ["After polling only the fans in the front row, Theo says the singer is the nation's favorite.", "Apres avoir interroge seulement les fans au premier rang, Theo dit que la chanteuse est la preferee du pays."],
+  ["Nina interviews only people who came to a free sample day and says the product is a huge hit.", "Nina interroge seulement des personnes venues pour une journee d'echantillons gratuits et dit que le produit est un enorme succes."],
+  ["Ben asks only the students who passed and concludes the exam was easy for everyone.", "Ben demande seulement aux eleves qui ont reussi et conclut que l'examen etait facile pour tout le monde."],
+  ["Omar checks only the busiest hour and says the cafe is packed all day.", "Omar regarde seulement l'heure la plus chargee et dit que le cafe est plein toute la journee."],
+  ["Priya surveys only people who already like the policy and says the whole city supports it.", "Priya interroge seulement les personnes qui aiment deja la politique et dit que toute la ville la soutient."],
+  ["After asking only the runners who finished, Leo says the marathon was simple.", "Apres avoir demande seulement aux coureurs qui ont termine, Leo dit que le marathon etait simple."],
+  ["Rina talks only to customers on opening day and says the new shop is universally loved.", "Rina parle seulement aux clients du jour d'ouverture et dit que la nouvelle boutique est adoree de tous."],
+  ["Jules interviews only the people with reserved seats and says the theater is always full.", "Jules interroge seulement les personnes ayant des places reservees et dit que le theatre est toujours plein."],
+  ["Ava asks only her friends who like horror movies and says every person enjoys scary films.", "Ava demande seulement a ses amis qui aiment les films d'horreur et dit que tout le monde aime les films effrayants."]
 ];
 
 const EN = ['Biased Sample', 'Availability Heuristic', 'Bandwagon', 'False Dilemma'];

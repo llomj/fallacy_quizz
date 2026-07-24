@@ -60,7 +60,17 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["A bad experience with one hotel makes Ben assume all hotels are dirty, even though cleanliness varies widely.", "Une mauvaise experience dans un hotel pousse Ben a supposer que tous les hotels sont sales, alors que la proprete varie beaucoup."],
   ["Nina hears one story of a scam and decides every online seller is dishonest, ignoring the much larger number of honest sellers.", "Nina entend une histoire d'escroquerie et decide que chaque vendeur en ligne est malhonnete, en ignorant le bien plus grand nombre de vendeurs honnetes."],
   ["Theo meets one rude customer and assumes the whole store is full of rude people, despite the usual crowd being polite.", "Theo rencontre un seul client impoli et suppose que tout le magasin est plein de gens impolis, malgre une clientele habituellement polie."],
-  ["After one bad haircut, Eli concludes every barber in town is terrible, even though most customers are satisfied.", "Apres une seule mauvaise coupe, Eli conclut que tous les coiffeurs de la ville sont nuls, alors que la plupart des clients sont satisfaits."]
+  ["After one bad haircut, Eli concludes every barber in town is terrible, even though most customers are satisfied.", "Apres une seule mauvaise coupe, Eli conclut que tous les coiffeurs de la ville sont nuls, alors que la plupart des clients sont satisfaits."],
+  ["Maya hears that one expensive concert sold out and assumes every event ticket is out of reach, even though most shows are affordable.", "Maya entend qu'un seul concert cher a fait salle comble et suppose que tous les billets d'evenement sont hors de prix, alors que la plupart des spectacles restent abordables."],
+  ["After one friend wins a prize in a raffle, Owen thinks raffles are easy money, ignoring the tiny odds.", "Apres qu'un ami a gagne un lot a une tombola, Owen pense que les tombolas rapportent facilement de l'argent, en ignorant les faibles probabilites."],
+  ["Priya sees one viral video about a broken scooter and decides every rental scooter is unsafe.", "Priya voit une video virale d'une trottinette cassee et decide que toutes les trottinettes de location sont dangereuses."],
+  ["Ava hears one story about a bad waiter and assumes every restaurant staff member is rude.", "Ava entend une histoire sur un mauvais serveur et suppose que tout le personnel de restaurant est impoli."],
+  ["Leo reads one post about a failed group project and thinks all teamwork is a mess.", "Leo lit une publication sur un projet de groupe rate et pense que tout travail d'equipe est un desastre."],
+  ["Rina sees one commuter miss the train and concludes public transit is always unreliable.", "Rina voit un navetteur rater le train et conclut que les transports publics sont toujours peu fiables."],
+  ["After one loud gym class, Noah says every fitness studio is unbearable.", "Apres un seul cours de sport bruyant, Noah dit que tous les studios de fitness sont insupportables."],
+  ["Jade meets one forgetful landlord and assumes every landlord ignores repairs.", "Jade rencontre un proprietaire oublieux et suppose que tous les proprietaires ignorent les reparations."],
+  ["Theo sees one scary headline about a power outage and decides the whole city grid is failing.", "Theo voit un titre effrayant sur une panne de courant et decide que tout le reseau de la ville est en train de s'effondrer."],
+  ["Ben hears that one cousin got lucky at the casino and thinks gambling is a smart strategy.", "Ben entend qu'un cousin a eu de la chance au casino et pense que le jeu est une strategie intelligente."]
 ];
 
 const EN = ['Base Rate Neglect', 'Availability Heuristic', 'Confirmation Bias', 'False Dilemma'];

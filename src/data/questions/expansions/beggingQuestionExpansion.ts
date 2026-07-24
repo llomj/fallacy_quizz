@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["The job candidate is ready because ready candidates are candidates who are ready.", "Le candidat est pret parce que les candidats prets sont des candidats qui sont prets."],
   ["The new menu is welcoming because welcoming menus are menus that welcome everyone.", "Le nouveau menu est accueillant parce que les menus accueillants sont des menus qui accueillent tout le monde."],
   ["The meeting was productive because productive meetings are meetings that produce useful results.", "La reunion etait productive parce que les reunions productives sont des reunions qui produisent des resultats utiles."],
+  ["Maya says the cafe is the best because the best cafes are the ones people call the best.", "Maya dit que le café est le meilleur parce que les meilleurs cafés sont ceux que les gens appellent les meilleurs."],
+  ["Theo says the shortcut is safe because safe shortcuts are shortcuts you can safely take.", "Theo dit que le raccourci est sur parce que les raccourcis surs sont des raccourcis qu'on peut emprunter en toute securite."],
+  ["Nina says the app is reliable because reliable apps are apps you can rely on.", "Nina dit que l'application est fiable parce que les applications fiables sont des applications sur lesquelles on peut compter."],
+  ["Ben says the coach is wise because wise coaches are coaches who know wise things.", "Ben dit que l'entraineur est sage parce que les entraineurs sages sont des entraineurs qui savent des choses sages."],
+  ["Omar says the rule is fair because fair rules are rules that are fair to everyone.", "Omar dit que la regle est juste parce que les regles justes sont des regles justes pour tout le monde."],
+  ["Priya says the book is insightful because insightful books are books full of insight.", "Priya dit que le livre est eclairant parce que les livres eclairants sont pleins d'eclairages."],
+  ["Leo says the team is strong because strong teams are teams that stay strong.", "Leo dit que l'equipe est forte parce que les equipes fortes sont des equipes qui restent fortes."],
+  ["Rina says the film is moving because moving films are films that move you emotionally.", "Rina dit que le film est emouvant parce que les films emouvants sont des films qui vous emeuvent."],
+  ["Jules says the party was fun because fun parties are the parties that are fun.", "Jules dit que la fete etait amusante parce que les fetes amusantes sont les fetes qui sont amusantes."],
+  ["Ava says the plan will succeed because successful plans are plans that succeed.", "Ava dit que le plan reussira parce que les plans qui reussissent sont des plans qui reussissent."]
 ];
 
 const EN = ['Begging the Question', 'Vicious Circle', 'Confirmation Bias', 'False Dilemma'];

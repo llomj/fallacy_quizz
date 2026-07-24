@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Zoe borrows a ladder and later describes the lender as unusually generous.", "Zoe emprunte une echelle et decrit ensuite le preteur comme particulierement genereux."],
   ["A teammate thanks Ava for a quick assist, and Ava feels more invested in the team.", "Une coequipiere remercie Ava pour une aide rapide, et Ava se sent plus investie dans l'equipe."],
   ["After helping move a couch, Luca sees the roommate as friendlier than before.", "Apres avoir aide a deplacer un canape, Luca voit le colocataire comme plus sympathique qu'avant."],
+  ["Maya lends her spare umbrella to a coworker and afterward likes the coworker more.", "Maya prete son parapluie de secours a un collegue et l'aime davantage ensuite."],
+  ["Theo helps carry a stack of books upstairs and starts feeling warmer toward the librarian.", "Theo aide a monter une pile de livres et commence a se sentir plus chaleureux envers la bibliothecaire."],
+  ["Nina holds the elevator for a neighbor and then decides the neighbor seems nicer.", "Nina retient l'ascenseur pour une voisine et decide ensuite que la voisine a l'air plus gentille."],
+  ["Ben lends his headphones for a bus ride and later sees the borrower as more considerate.", "Ben prete ses ecouteurs pour un trajet en bus et voit ensuite l'emprunteur comme plus attentionne."],
+  ["Omar helps a teammate set up chairs and then trusts the teammate's judgment more.", "Omar aide un coequipier a installer les chaises et fait ensuite davantage confiance au jugement de ce coequipier."],
+  ["Priya fills a water bottle for a classmate and afterward feels more positive about the classmate.", "Priya remplit une bouteille d'eau pour une camarade et se sent ensuite plus positive a propos de cette camarade."],
+  ["Leo runs a quick errand for his aunt and later thinks she is easier to get along with.", "Leo fait une petite course pour sa tante et pense ensuite qu'il est plus facile de s'entendre avec elle."],
+  ["Rina lets a neighbor borrow her bike lock and then judges the neighbor as more reliable.", "Rina laisse une voisine emprunter son antivol de velo et juge ensuite la voisine plus fiable."],
+  ["Jules helps the club president move boxes and begins to admire the president more.", "Jules aide le president du club a deplacer des cartons et commence a admirer davantage le president."],
+  ["Ava helps a friend carry lunch trays and later finds the friend much more likable.", "Ava aide une amie a porter des plateaux-repas et trouve ensuite cette amie beaucoup plus sympathique."]
 ];
 
 const EN = ['Ben Franklin Effect', 'Halo Effect', 'Overgeneralization', 'False Dilemma'];
