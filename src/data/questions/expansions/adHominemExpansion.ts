@@ -240,7 +240,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   [
     "Ava's parking suggestion should be dismissed because she wears bright nail polish.",
     "La suggestion d'Ava sur le stationnement devrait être rejetée parce qu'elle porte du vernis à ongles vif."
-  ]
+  ],
   [
     "Tara's proposal for a safer crosswalk should be ignored because she forgot her lunch.",
     "La proposition de Tara pour un passage pieton plus sur doit etre ignoree puisqu'elle a oublie son dejeuner."
@@ -280,7 +280,127 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   [
     "Alex's call for cleaner train stations is invalid because he forgets his keys.",
     "L'appel d'Alex pour des gares plus propres est invalide puisqu'il oublie ses cles."
-  ]
+  ],
+  [
+    "Mina's suggestion for quieter buses should be ignored because she talks with her mouth full.",
+    "La suggestion de Mina pour des bus plus calmes devrait etre ignoree parce qu'elle parle la bouche pleine."
+  ],
+  [
+    "Do not listen to Ravi's library-hours idea; he forgot his umbrella at home.",
+    "N'ecoutez pas l'idee de Ravi sur les horaires de la bibliotheque ; il a oublie son parapluie a la maison."
+  ],
+  [
+    "Lea's recycling proposal is silly because she wears mismatched shoes.",
+    "La proposition de Lea sur le recyclage est ridicule parce qu'elle porte des chaussures non assorties."
+  ],
+  [
+    "Ken's case for better bike lanes should be rejected because his backpack is messy.",
+    "Le plaidoyer de Ken pour de meilleures pistes cyclables devrait etre rejete parce que son sac a dos est en desordre."
+  ],
+  [
+    "Do not trust Sofia's argument about shorter meetings; she spilled juice on her shirt.",
+    "Ne faites pas confiance a l'argument de Sofia pour des reunions plus courtes ; elle a renverse du jus sur sa chemise."
+  ],
+  [
+    "Maya's idea for healthier snacks is bad because she arrived late to brunch.",
+    "L'idee de Maya pour des collations plus saines est mauvaise parce qu'elle est arrivee en retard au brunch."
+  ],
+  [
+    "Ben's bus-route suggestion is worthless because he laughs too loudly.",
+    "La suggestion de Ben sur l'itineraire du bus ne vaut rien parce qu'il rit trop fort."
+  ],
+  [
+    "Priya's plan for more park benches can be dismissed because she forgot her keys.",
+    "Le plan de Priya pour plus de bancs dans le parc peut etre rejete parce qu'elle a oublie ses cles."
+  ],
+  [
+    "Omar's case for a later school start is weak because he wears bright socks.",
+    "L'argument d'Omar pour commencer l'ecole plus tard est faible parce qu'il porte des chaussettes voyantes."
+  ],
+  [
+    "Jules's request for a cleaner cafeteria should be ignored because he has a noisy laugh.",
+    "La demande de Jules pour une cafeteria plus propre devrait etre ignoree parce qu'il a un rire bruyant."
+  ],
+  [
+    "Ava's neighborhood-lighting idea is foolish because her backpack is too big.",
+    "L'idee d'Ava pour l'eclairage du quartier est insensee parce que son sac a dos est trop grand."
+  ],
+  [
+    "Noah's suggestion for better sidewalks is nonsense because he forgot to charge his phone.",
+    "La suggestion de Noah pour de meilleurs trottoirs est absurde parce qu'il a oublie de charger son telephone."
+  ],
+  [
+    "Tara's app-feedback is not worth hearing because she chews gum loudly.",
+    "L'avis de Tara sur l'application ne merite pas d'etre entendu parce qu'elle machonne du chewing-gum bruyamment."
+  ],
+  [
+    "Kai's budget advice is invalid because he owns a cracked mug.",
+    "Les conseils budgetaires de Kai sont invalides parce qu'il possede une tasse fendue."
+  ],
+  [
+    "Lina's proposal for more bike racks is silly because she wears a funny hat.",
+    "La proposition de Lina pour plus de supports a velos est ridicule parce qu'elle porte un chapeau amusant."
+  ],
+  [
+    "Theo's science-fair idea should be rejected because he doodles in class.",
+    "L'idee de Theo pour la foire scientifique devrait etre rejetee parce qu'il gribouille en classe."
+  ],
+  [
+    "Zoe's case for better lighting is weak because she is bad at karaoke.",
+    "L'argument de Zoe pour un meilleur eclairage est faible parce qu'elle chante mal au karaoke."
+  ],
+  [
+    "Grant's safer-crosswalk idea is laughable because he forgot his coffee at home.",
+    "L'idee de Grant pour un passage pieton plus sur est risible parce qu'il a oublie son cafe a la maison."
+  ],
+  [
+    "Rita's schedule change proposal is bad because her handwriting is messy.",
+    "La proposition de Rita pour changer les horaires est mauvaise parce que son ecriture est brouillonne."
+  ],
+  [
+    "Hugo's city-park plan can be ignored because he arrived with mud on his shoes.",
+    "Le projet de parc urbain de Hugo peut etre ignore parce qu'il est arrive avec de la boue sur les chaussures."
+  ],
+  [
+    "Nina's grocery-hours suggestion is nonsense because she likes reality TV.",
+    "La suggestion de Nina sur les horaires du supermarche est absurde parce qu'elle aime la tele-réalite."
+  ],
+  [
+    "Milo's school-menu critique should be dismissed because he cannot fold a map.",
+    "La critique du menu scolaire par Milo devrait etre rejetee parce qu'il ne sait pas plier une carte."
+  ],
+  [
+    "Pia's office-chair idea is worthless because she left her umbrella in the car.",
+    "L'idee de Pia pour les chaises de bureau ne vaut rien parce qu'elle a laisse son parapluie dans la voiture."
+  ],
+  [
+    "Eli's proposal for quieter trains is bad because he mispronounces one word.",
+    "La proposition d'Eli pour des trains plus silencieux est mauvaise parce qu'il prononce mal un mot."
+  ],
+  [
+    "Maya's recycling-reminder sign should be ignored because she snorts when she laughs.",
+    "Le panneau de rappel au tri de Maya devrait etre ignore parce qu'elle renifle quand elle rit."
+  ],
+  [
+    "Ben's lunchroom rule is silly because his desk is cluttered.",
+    "La regle de Ben pour la salle de pause est ridicule parce que son bureau est encombre."
+  ],
+  [
+    "Jade's proposal for better library seating is weak because she wears bright nail polish.",
+    "La proposition de Jade pour plus de places assises a la bibliotheque est faible parce qu'elle porte du vernis vif."
+  ],
+  [
+    "Owen's traffic-safety idea should be ignored because he spilled soup on his shirt.",
+    "L'idee d'Owen pour la securite routiere devrait etre ignoree parce qu'il a renverse de la soupe sur sa chemise."
+  ],
+  [
+    "Lara's cleaner-bus campaign is silly because she forgot her lunchbox.",
+    "La campagne de Lara pour des bus plus propres est ridicule parce qu'elle a oublie sa boite a lunch."
+  ],
+  [
+    "Sam's study-hall proposal is bad because he laughs at his own jokes.",
+    "La proposition de Sam pour une salle d'etude est mauvaise parce qu'il rit de ses propres blagues."
+  ],
 ];
 
 const OPTIONS_EN = ['Ad Hominem', 'Straw Man', 'Red Herring', 'Appeal to Popularity'];
