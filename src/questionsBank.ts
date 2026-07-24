@@ -65,6 +65,7 @@ import { HALO_EFFECT_EXPANSION_EN, HALO_EFFECT_EXPANSION_FR } from './data/quest
 import { HANLONS_RAZOR_EXPANSION_EN, HANLONS_RAZOR_EXPANSION_FR } from './data/questions/expansions/hanlonsRazorExpansion';
 import { HARD_EASY_EFFECT_EXPANSION_EN, HARD_EASY_EFFECT_EXPANSION_FR } from './data/questions/expansions/hardEasyEffectExpansion';
 import { HASTY_GENERALIZATION_EXPANSION_EN, HASTY_GENERALIZATION_EXPANSION_FR } from './data/questions/expansions/hastyGeneralizationExpansion';
+import { NEGATIVITY_BIAS_EXPANSION_EN, NEGATIVITY_BIAS_EXPANSION_FR } from './data/questions/expansions/negativityBiasExpansion';
 import { HERD_MENTALITY_EXPANSION_EN, HERD_MENTALITY_EXPANSION_FR } from './data/questions/expansions/herdMentalityExpansion';
 import { HINDSIGHT_BIAS_EXPANSION_EN, HINDSIGHT_BIAS_EXPANSION_FR } from './data/questions/expansions/hindsightBiasExpansion';
 import { HISTORIANS_FALLACY_EXPANSION_EN, HISTORIANS_FALLACY_EXPANSION_FR } from './data/questions/expansions/historianFallacyExpansion';
