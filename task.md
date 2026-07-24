@@ -48,7 +48,7 @@
 - [x] Created `reports/fallacy-expansion-audit.json` with counts, IDs, and EN/FR label mappings.
 - [x] Normalize 205 raw English correct-answer labels into 168 canonical educational targets: 92 fallacies/reasoning errors, 69 biases/effects, and 7 named principles. Excluded 24 non-concept answer fragments and merged 13 aliases. See `reports/canonical-fallacy-catalog.json`.
 - [ ] Repair the 461 legacy EN/FR option-position mismatches below ID 1000; many are different scenarios rather than translations.
-- [ ] Generate and validate +50 unique EN/FR pairs for each of the 168 approved canonical targets (8,400 pairs / 16,800 language records). Canonical French labels are approved with zero gaps. **Progress: 129 / 168 targets, 6,450 / 8,400 pairs.**
+- [ ] Generate and validate +50 unique EN/FR pairs for each of the 168 approved canonical targets (8,400 pairs / 16,800 language records). Canonical French labels are approved with zero gaps. **Progress: 132 / 168 targets, 6,600 / 8,400 pairs.**
   - [x] Kettle Logic: IDs 38501-38550, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Just-World Hypothesis: IDs 36501-36550, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Hitchens's Razor: IDs 38401-38450, 50 EN + 50 FR, additive to 3 existing questions.
@@ -147,6 +147,7 @@
   - [x] Ecological Fallacy: IDs 37051-37100, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Moving the Goalposts: IDs 37151-37200, 50 EN + 50 FR, additive to 104 existing questions.
   - [x] Negativity Bias: IDs 37251-37300, 50 EN + 50 FR, additive to 3 existing questions.
+  - [x] Nirvana Fallacy: IDs 43401-43450, 50 EN + 50 FR, additive to 6 existing questions.
   - [x] Optimism Bias: IDs 37351-37400, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Pessimism Bias: IDs 37451-37500, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Placebo Effect: IDs 37551-37600, 50 EN + 50 FR, additive to 3 existing questions.
