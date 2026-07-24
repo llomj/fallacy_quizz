@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["An email says the world will be worse by morning unless you respond now, so Omar replies instantly.", "Un courriel dit que le monde sera pire au matin si vous ne répondez pas maintenant, alors Omar répond aussitôt."],
   ["A flyer says 'do not become the person who ignores this danger,' so Tia follows the advice without evidence.", "Un prospectus dit : « Ne deviens pas la personne qui ignore ce danger », alors Tia suit le conseil sans preuve."],
   ["A road sign says the bridge is unsafe unless you take the longer toll route, so Eva pays the toll.", "Un panneau routier dit que le pont est dangereux si vous ne prenez pas la route à péage plus longue, alors Eva paie le péage."],
+  ["A text says the town will be ruined by sunset unless people buy the alarm kit, so Maya orders it.", "Un texto dit que la ville sera ruinée au coucher du soleil si les gens n'achètent pas le kit d'alarme, alors Maya le commande."],
+  ["A banner warns that the park will become a crime zone if you do not fund the fence, so Leo donates.", "Une bannière avertit que le parc deviendra une zone de crime si vous ne financez pas la clôture, alors Leo donne."],
+  ["A speaker says the school will be unsafe by Monday unless the fee is paid, so Priya pays it.", "Un orateur dit que l'école sera dangereuse d'ici lundi si les frais ne sont pas payés, alors Priya les paie."],
+  ["A message claims your house will be targeted tonight without this upgrade, so Ben buys the upgrade.", "Un message prétend que votre maison sera visée ce soir sans cette amélioration, alors Ben achète l'amélioration."],
+  ["A flyer says not joining the patrol will invite disaster, so Nora joins from fear.", "Un prospectus dit que ne pas rejoindre la patrouille invitera le désastre, alors Nora rejoint par peur."],
+  ["A pop-up warns that your files will vanish forever unless you pay, so Omar pays immediately.", "Une fenêtre surgissante avertit que vos fichiers disparaîtront pour toujours si vous ne payez pas, alors Omar paie immédiatement."],
+  ["A post says ignoring the alert means leaving your children unprotected, so Ava acts fast.", "Une publication dit qu'ignorer l'alerte signifie laisser vos enfants sans protection, alors Ava agit vite."],
+  ["A commercial says the neighborhood will be overrun by strangers unless you buy their system, so Sam buys it.", "Une publicité dit que le quartier sera envahi par des inconnus si vous n'achetez pas leur système, alors Sam l'achète."],
+  ["A warning says the wrong answer will bring embarrassment for life, so Tia avoids it.", "Un avertissement dit que la mauvaise réponse apportera une honte à vie, alors Tia l'évite."],
+  ["A note says the street will be unsafe by morning unless someone calls the guard, so Eva calls.", "Une note dit que la rue sera dangereuse au matin si quelqu'un n'appelle pas le gardien, alors Eva appelle."],
 ];
 
 const EN = ['Appeal to Fear', 'Appeal to Emotion', 'False Dilemma', 'Slippery Slope'];

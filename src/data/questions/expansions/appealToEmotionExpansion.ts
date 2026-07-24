@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['A donation page says one click can break your heart, so Hugo gives before reading the mission.', 'Une page de dons dit qu un seul clic peut vous briser le cœur, alors Hugo donne avant de lire la mission.'],
   ['A politician says vote yes or your street will be next, so the crowd votes yes.', 'Un politicien dit de voter oui ou votre rue sera la prochaine, alors la foule vote oui.'],
   ['A brochure says the world will be worse by morning unless you respond, so Nina replies instantly.', 'Une brochure dit que le monde sera pire au matin si vous ne répondez pas, alors Nina répond immédiatement.'],
+  ['A fundraiser video shows a lonely child and says only heartless people ignore this cause, so Leo donates.', 'Une vidéo de collecte montre un enfant seul et dit que seuls les cœurs durs ignorent cette cause, alors Leo donne.'],
+  ['A poster says your grandmother would be proud if you buy now, so Priya feels pushed to purchase.', 'Une affiche dit que votre grand-mère serait fière si vous achetez maintenant, alors Priya se sent poussée à acheter.'],
+  ['A message says this deal will make your family smile forever, so Ben clicks buy.', 'Un message dit que cette offre fera sourire votre famille pour toujours, alors Ben clique sur acheter.'],
+  ['A commercial shows a tearful reunion and says the product will heal your life, so Tara trusts it.', 'Une publicité montre des retrouvailles en larmes et dit que le produit guérira votre vie, alors Tara le croit.'],
+  ['A flyer says good parents choose this class, so Omar signs up to avoid guilt.', 'Un prospectus dit que les bons parents choisissent ce cours, alors Omar s inscrit par culpabilité.'],
+  ['A charity page says imagine your child in this pain, so Ava donates without comparing causes.', 'Une page caritative dit d imaginer votre enfant dans cette douleur, alors Ava donne sans comparer les causes.'],
+  ['A post says refusing this event would make you selfish, so Mia accepts the invite.', 'Une publication dit que refuser cet événement vous rendrait égoïste, alors Mia accepte l invitation.'],
+  ['A video with sad music says this policy will fix your grief, so Noah agrees too fast.', 'Une vidéo avec musique triste dit que cette politique réparera votre chagrin, alors Noah est d accord trop vite.'],
+  ['A banner says every kind person backs this plan, so Rina feels forced to support it.', 'Une bannière dit que toute personne gentille soutient ce plan, alors Rina se sent forcée de le soutenir.'],
+  ['A text says think of the children who will cry if you say no, so Jules replies yes.', 'Un texto dit de penser aux enfants qui pleureront si vous dites non, alors Jules répond oui.'],
 ];
 
 const EN = ['Appeal to Emotion', 'Appeal to Popularity', 'False Dilemma', 'Slippery Slope'];

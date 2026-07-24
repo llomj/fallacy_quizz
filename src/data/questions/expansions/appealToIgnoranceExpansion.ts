@@ -51,6 +51,17 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Nobody proved the message is a scam, so I should send my details.", "Personne n'a prouvé que le message était une arnaque, donc je devrais envoyer mes coordonnées."],
   ["No evidence says the snack is unhealthy, so it is definitely nutritious.", "Aucune preuve ne dit que la collation est malsaine, donc elle est forcément nutritive."],
   ["Since nobody proved the rumor is false, it is worth repeating.", "Puisque personne n'a prouvé que la rumeur est fausse, elle vaut la peine d'être répétée."],
+  ["Nobody has proven the shortcut is dangerous, so Maya says the shortcut is perfect for kids.", "Personne n'a prouvé que le raccourci est dangereux, donc Maya dit qu'il est parfait pour les enfants."],
+  ["No one can prove the old house is haunted, so Leo insists ghosts definitely live there.", "Personne ne peut prouver que la vieille maison est hantée, donc Leo insiste pour dire que des fantômes y vivent forcément."],
+  ["There is no evidence the app steals data, so Priya says it is completely safe.", "Il n'y a aucune preuve que l'application vole des données, donc Priya dit qu'elle est totalement sûre."],
+  ["Nobody has disproved the claim that the soup cures headaches, so Ben adds it to the menu.", "Personne n'a réfuté l'affirmation que la soupe guérit les maux de tête, donc Ben l'ajoute au menu."],
+  ["We do not know the bridge is unsafe, so Omar says it must be the best route.", "Nous ne savons pas que le pont est dangereux, donc Omar dit que c'est forcément la meilleure route."],
+  ["No expert has shown the lamp is faulty, so Nora buys it without checking.", "Aucun expert n'a montré que la lampe est défectueuse, donc Nora l'achète sans vérifier."],
+  ["Because nobody proved the rumor false, Ava repeats it at lunch.", "Parce que personne n'a prouvé que la rumeur était fausse, Ava la répète au déjeuner."],
+  ["I cannot prove the neighbor is rude, so Mia says he is definitely friendly.", "Je ne peux pas prouver que le voisin est impoli, donc Mia dit qu'il est forcément gentil."],
+  ["There is no proof the policy hurts anyone, so Noah claims it helps everyone.", "Il n'y a pas de preuve que la politique nuit à qui que ce soit, donc Noah affirme qu'elle aide tout le monde."],
+  ["Since nobody disproved the lucky coin story, Theo says the coin brings success.", "Puisque personne n'a réfuté l'histoire de la pièce porte-bonheur, Theo dit que la pièce apporte la réussite."],
+  ["We do not know the cake is bland, so Rina says it must be delicious.", "Nous ne savons pas que le gâteau est fade, donc Rina dit qu'il doit être délicieux."],
 ];
 
 const EN = ['Appeal to Ignorance', 'Appeal to Authority', 'Hasty Generalization', 'False Dilemma'];
