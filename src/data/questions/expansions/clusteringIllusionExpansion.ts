@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Zoe sees a cluster of rain clouds and says the sky is targeting her weekend.", "Zoe voit un amas de nuages de pluie et dit que le ciel vise son week-end."],
   ["Kai notices three great naps on the same couch and calls it a couch of destiny.", "Kai remarque trois bonnes siestes sur le meme canape et appelle cela un canape du destin."],
   ["Mina sees two people in matching jackets and assumes the store has a secret club.", "Mina voit deux personnes en vestes assorties et suppose que le magasin a un club secret."],
+  ["Maya hears three rainy Mondays and decides Mondays themselves are unlucky.", "Maya entend trois lundis pluvieux et decide que les lundis eux-memes portent malheur."],
+  ["Theo sees two red umbrellas at the bus stop and thinks red umbrellas attract delays.", "Theo voit deux parapluies rouges a l'arret de bus et pense que les parapluies rouges attirent les retards."],
+  ["Nina notices four people wearing green in one cafe and calls it a lucky color spot.", "Nina remarque quatre personnes habillees en vert dans un cafe et appelle cela une tache de couleur porte-bonheur."],
+  ["Ben spots a run of green lights and says the route is blessed.", "Ben remarque une serie de feux verts et dit que la route est benie."],
+  ["Omar sees three people cough in one room and decides the room is cursed.", "Omar voit trois personnes tousser dans une piece et decide que la piece est maudite."],
+  ["Priya sees a cluster of late trains and thinks that line has a personality problem.", "Priya voit un groupe de trains en retard et pense que cette ligne a un probleme de caractere."],
+  ["Leo notices two customers with the same backpack and assumes the bag is a secret sign.", "Leo remarque deux clients avec le meme sac a dos et suppose que le sac est un signe secret."],
+  ["Rina sees several good birthdays in the same week and says that week is magical.", "Rina voit plusieurs anniversaires heureux dans la meme semaine et dit que cette semaine est magique."],
+  ["Jules spots three dogs barking near the park gate and calls it a bad omen for the park.", "Jules remarque trois chiens qui aboient pres de la porte du parc et appelle cela un mauvais presage pour le parc."],
+  ["Ava notices two people in matching jackets and concludes the store has a hidden club.", "Ava remarque deux personnes en vestes assorties et conclut que le magasin a un club cache."]
 ];
 
 const EN = ['Clustering Illusion', 'Apophenia', 'Gambler\'s Fallacy', 'Confirmation Bias'];

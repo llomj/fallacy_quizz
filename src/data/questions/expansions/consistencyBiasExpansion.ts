@@ -51,6 +51,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Finn wants the coach to be great, so he forgets the bad drills.", "Finn veut que l'entraineur soit genial, donc il oublie les mauvais exercices."],
   ["Mina keeps her opinion stable by selecting only the examples that match it.", "Mina garde son opinion stable en selectionnant seulement les exemples qui y correspondent."],
   ["Kai wants to stay committed to his first answer, so he hears the world through that answer.", "Kai veut rester engage envers sa premiere reponse, donc il entend le monde a travers cette reponse."],
+  ["Maya wants her first take on the app to look right, so she keeps selecting only supportive examples.", "Maya veut que sa premiere opinion sur l'application paraisse juste, donc elle continue a selectionner seulement les exemples favorables."],
+  ["Theo told his friends the trip was a disaster, so now he remembers every minor delay.", "Theo a dit a ses amis que le voyage etait une catastrophe, donc il se souvient maintenant de chaque petit retard."],
+  ["Nina said the rule was unfair, so she keeps finding new ways to make it sound unfair.", "Nina a dit que la regle etait injuste, donc elle continue a trouver de nouvelles manieres de la faire paraitre injuste."],
+  ["Ben promised to love his new bike route, so he highlights every smooth ride.", "Ben a promis d'aimer son nouvel itineraire a velo, donc il souligne chaque trajet fluide."],
+  ["Omar wants to stay loyal to his choice of laptop, so he edits out the complaints.", "Omar veut rester fidele a son choix d'ordinateur portable, donc il efface les plaintes."],
+  ["Priya said the cafe was great, so she keeps retelling the one perfect lunch.", "Priya a dit que le cafe etait genial, donc elle continue a raconter le seul dejeuner parfait."],
+  ["Leo wants his vote to seem wise, so he only notices the reasons that agree with it.", "Leo veut que son vote paraisse sage, donc il ne remarque que les raisons qui y correspondent."],
+  ["Rina already told everyone the movie was boring, so she filters out the clever scenes.", "Rina a deja dit a tout le monde que le film etait ennuyeux, donc elle filtre les scenes malines."],
+  ["Jules said the coach was unfair, so now every strict whistle feels personal.", "Jules a dit que l'entraineur etait injuste, donc maintenant chaque coup de sifflet strict lui semble personnel."],
+  ["Ava wants to keep her original impression, so she treats mixed feedback as support.", "Ava veut garder sa premiere impression, donc elle traite les avis partages comme un soutien."]
 ];
 
 const EN = ['Consistency Bias', 'Confirmation Bias', 'Commitment Bias', 'Status Quo Bias'];

@@ -61,6 +61,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Each ingredient in the salad is fresh, so the whole buffet must be healthy no matter how much people eat.', 'Chaque ingredient de la salade est frais, donc tout le buffet doit etre sain quelle que soit la quantite mangee.'],
   ['The computer has a fast keyboard and a bright screen, so the whole machine is automatically professional-grade.', 'L’ordinateur a un clavier rapide et un ecran lumineux, donc toute la machine est automatiquement de niveau professionnel.'],
   ['Every seat in the stadium is comfortable, so the crowd experience must be perfect.', 'Chaque siege du stade est confortable, donc l’experience de la foule doit etre parfaite.']
+  ['The teacher says each student is smart, so the whole class must solve every problem instantly.', 'Le professeur dit que chaque eleve est intelligent, donc toute la classe doit resoudre chaque probleme instantanement.'],
+  ['Because every tile is smooth, the whole floor must be impossible to slip on.', 'Parce que chaque carrelage est lisse, tout le sol doit etre impossible a glisser.'],
+  ['The office has tidy desks and a quiet printer, so the whole company must be perfectly run.', 'Le bureau a des bureaux ranges et une imprimante silencieuse, donc toute l entreprise doit etre parfaitement geree.'],
+  ['Every ingredient is fresh, so the soup must be healthy no matter how much salt is added.', 'Chaque ingredient est frais, donc la soupe doit etre saine quelle que soit la quantite de sel ajoutee.'],
+  ['Each wheel rolls well, so the whole bike cannot ever wobble.', 'Chaque roue roule bien, donc tout le velo ne peut jamais vaciller.'],
+  ['The team has fast runners and a smart coach, so the team as a whole will always win.', 'L equipe a des coureurs rapides et un coach intelligent, donc l equipe dans son ensemble gagnera toujours.'],
+  ['Because each chapter is short, the book must be simple for everyone to master in one hour.', 'Parce que chaque chapitre est court, le livre doit etre simple a maitriser pour tout le monde en une heure.'],
+  ['The playground has safe swings and a bright slide, so the entire park is perfectly safe.', 'Le terrain de jeu a des balancoires surs et un toboggan lumineux, donc tout le parc est parfaitement sur.'],
+  ['Every song on the playlist sounds good, so the whole party will be unforgettable.', 'Chaque chanson de la playlist sonne bien, donc toute la fete sera inoubliable.'],
+  ['The apartment has a nice kitchen and clean walls, so the whole building must be luxury quality.', "L appartement a une belle cuisine et des murs propres, donc tout l immeuble doit etre de qualite luxe."]
 ];
 
 const EN = ['Composition Fallacy', 'Division Fallacy', 'Hasty Generalization', 'False Cause'];

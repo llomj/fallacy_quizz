@@ -61,6 +61,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Priya likes the teacher, so she only remembers the kind comments and forgets the harsher ones.", "Priya aime le professeur, donc elle ne retient que les remarques gentilles et oublie les plus severes."],
   ["Maya thinks the city is safe, so she filters out the headlines that say otherwise.", "Maya pense que la ville est sure, donc elle filtre les titres qui disent le contraire."],
   ["Jade is convinced the podcast is smart, so she only hears the episodes that sound thoughtful.", "Jade est convaincue que le podcast est intelligent, donc elle n'entend que les episodes qui paraissent reflechis."]
+  ["Maya already thinks the app is useless, so she only opens bug reports that agree.", "Maya pense deja que l'application est inutile, donc elle n'ouvre que les rapports de bug qui vont dans son sens."],
+  ["Theo believes the coach is brilliant, so he only notices articles that praise the coach.", "Theo croit que l'entraineur est genial, donc il ne remarque que les articles qui louent l'entraineur."],
+  ["Nina wants the rumor to be true, so every vague detail feels like proof.", "Nina veut que la rumeur soit vraie, donc chaque detail vague lui semble etre une preuve."],
+  ["Ben thinks the class is unfair, so he only remembers the strict parts.", "Ben pense que le cours est injuste, donc il ne se souvient que des parties strictes."],
+  ["Omar already likes the restaurant, so he filters out the slow service stories.", "Omar aime deja le restaurant, donc il filtre les histoires de service lent."],
+  ["Priya believes the city is unsafe, so she keeps reading only scary headlines.", "Priya croit que la ville n'est pas sure, donc elle continue a lire seulement les titres effrayants."],
+  ["Leo wants his first opinion to survive, so he ignores every counterexample.", "Leo veut que sa premiere opinion survive, donc il ignore chaque contre-exemple."],
+  ["Rina trusts the mechanic, so she only notices the successful repairs.", "Rina fait confiance au mecanicien, donc elle ne remarque que les reparations reussies."],
+  ["Jules thinks the game is rigged, so every loss feels like confirmation.", "Jules pense que le jeu est truque, donc chaque defaite lui semble confirmer son idee."],
+  ["Ava decides the teacher is kind, so she forgets the sharp feedback and keeps the warm comments.", "Ava decide que le professeur est gentil, donc elle oublie les retours tranchants et garde les commentaires chaleureux."]
 ];
 
 const EN = ['Confirmation Bias', 'Disconfirmation Bias', 'Cherry Picking', 'Availability Heuristic'];
