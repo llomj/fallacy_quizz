@@ -3,7 +3,7 @@ import { UserStats, PersonaStage, QuestionAttempt, FallacyLogEntry } from './typ
 import { EvolutionHub } from './components/EvolutionHub';
 import { SettingsMenu } from './components/SettingsMenu';
 import { IdLogEntry } from './types';
-import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getQuestionsNeededForLevel, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getStarsFromProgress, getRandomModeStarsFromAccuracy, getPersonaFromRandomStats, getPersonaTranslationKey, PERSONA_EMOJI } from './constants';
+import { LEVELS, XP_PER_QUESTION, QUESTIONS_PER_LEVEL, getQuestionsNeededForLevel, getStarsFromAccuracy, getStarsFromProgress, getRandomModeStarsFromAccuracy, getPersonaFromRandomStats, getPersonaTranslationKey, PERSONA_EMOJI } from './constants';
 import { useLanguage } from './contexts/LanguageContext';
 import { formatTranslation } from './translations';
 import { playStarCelebrationSound, playFiveStarCelebrationSound, playRandomFiveStarCelebrationSound, playAllLevelsCelebrationSound, playCorrectAnswerSound, playWrongAnswerSound, playButtonClickSound } from './utils/sounds';
@@ -220,10 +220,12 @@ const App: React.FC = () => {
     : currentLevelInfo.persona;
   const currentProgress = stats.levelProgress[stats.currentLevel] || 0;
   const correctForLevel = stats.correctPerLevel?.[stats.currentLevel] ?? 0;
-  // Stars are based on how many of the 100 questions in this level are correct (10/100→1★, 20/100→2★, etc.).
-  const percentCorrect = (100 * correctForLevel) / QUESTIONS_PER_LEVEL;
+  const questionsNeededForCurrentLevel = getQuestionsNeededForLevel(stats.currentLevel);
+  const starProgressThreshold = Math.ceil(questionsNeededForCurrentLevel * 0.10);
+  // Stars are based on how many questions in the current level are correct.
+  const percentCorrect = (100 * correctForLevel) / questionsNeededForCurrentLevel;
   const earnedStarsForLevel =
-    currentProgress < STAR_PROGRESS_THRESHOLD ? 0 : getStarsFromAccuracy(percentCorrect);
+    currentProgress < starProgressThreshold ? 0 : getStarsFromAccuracy(percentCorrect);
 
   const handleStartEvolution = () => {
     setView('quiz');
@@ -366,7 +368,7 @@ const App: React.FC = () => {
           [prev.currentLevel]: newCorrect
         };
 
-        const percentCorrectLevel = (100 * newCorrect) / QUESTIONS_PER_LEVEL;
+        const percentCorrectLevel = (100 * newCorrect) / getQuestionsNeededForLevel(prev.currentLevel);
         const newStars = getStarsFromAccuracy(percentCorrectLevel);
         const updatedAcquiredStars = {
           ...(prev.acquiredStars || {}),
@@ -396,7 +398,7 @@ const App: React.FC = () => {
       const newLevelProgress = currentLevelProgress + total;
       const currentCorrect = stats.correctPerLevel?.[stats.currentLevel] || 0;
       const newCorrect = currentCorrect + score;
-      const percentCorrectLevel = (100 * newCorrect) / QUESTIONS_PER_LEVEL;
+      const percentCorrectLevel = (100 * newCorrect) / getQuestionsNeededForLevel(stats.currentLevel);
       const newStars = getStarsFromAccuracy(percentCorrectLevel);
       const currentStars = stats.acquiredStars?.[stats.currentLevel] || 0;
       const starEarned = newStars > currentStars ? newStars : null;

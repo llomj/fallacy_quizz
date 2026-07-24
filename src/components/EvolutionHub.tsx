@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { UserStats, PersonaStage } from '../types';
-import { LEVELS, QUESTIONS_PER_LEVEL, STAR_PROGRESS_THRESHOLD, getStarsFromAccuracy, getPersonaFromRandomStats, getNextRandomModeTier, getPersonaTranslationKey } from '../constants';
+import { LEVELS, QUESTIONS_PER_LEVEL, getQuestionsNeededForLevel, getStarsFromAccuracy, getPersonaFromRandomStats, getNextRandomModeTier, getPersonaTranslationKey } from '../constants';
 import { PersonaBadge } from './PersonaBadge';
 import { ProgressBar } from './ProgressBar';
 import { ConceptTooltipModal } from './ConceptTooltipModal';
@@ -28,6 +28,8 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
   const nextThreshold = getNextRandomModeTier(rm.totalCorrect, randomPercentCorrect, rm.totalAnswered);
   const currentLevelInfo = LEVELS.find(l => l.level === stats.currentLevel) || LEVELS[0];
   const progress = stats.levelProgress[stats.currentLevel] || 0;
+  const questionsNeeded = getQuestionsNeededForLevel(stats.currentLevel);
+  const starProgressThreshold = Math.ceil(questionsNeeded * 0.10);
 
   const totalCompleted = stats.completedQuestionIds.length;
   const totalPossible = getQuestionBank(language).length;
@@ -37,11 +39,10 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
     ? Math.round((stats.lastSessionScore / stats.lastSessionTotal) * 100)
     : null;
 
-  // Stars 0–5 from accuracy; stay blank until progress reaches STAR_PROGRESS_THRESHOLD (~10% of the level).
-  // Stars are based on how many of the 100 questions for this level are correct (10/100→1★, 20/100→2★, etc.).
+  // Stars 0–5 from accuracy; stay blank until progress reaches ~10% of the current level.
   const correct = stats.correctPerLevel?.[stats.currentLevel] ?? 0;
-  const percentCorrect = (100 * correct) / QUESTIONS_PER_LEVEL;
-  const earnedStars = progress < STAR_PROGRESS_THRESHOLD ? 0 : getStarsFromAccuracy(percentCorrect);
+  const percentCorrect = (100 * correct) / questionsNeeded;
+  const earnedStars = progress < starProgressThreshold ? 0 : getStarsFromAccuracy(percentCorrect);
 
   const displayPersona = randomMode ? randomPersona : currentLevelInfo.persona;
 
@@ -111,7 +112,7 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
             </div>
 
             <p className="text-slate-300 text-xs leading-relaxed">
-              {randomMode ? t('hub.randomModeAbsorbText') : `${t('hub.absorbText')} ${formatTranslation(t('hub.mutationsRemaining'), { count: QUESTIONS_PER_LEVEL - progress })}`}
+              {randomMode ? t('hub.randomModeAbsorbText') : `${t('hub.absorbText')} ${formatTranslation(t('hub.mutationsRemaining'), { count: questionsNeeded - progress })}`}
             </p>
           </div>
 
@@ -203,9 +204,9 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
                     {earnedStars === 4 && t('subLevels.expertProgress')}
                     {earnedStars === 5 && t('subLevels.masteryProgress')}
                   </span>
-                  <span>{progress} / {QUESTIONS_PER_LEVEL}</span>
+                  <span>{progress} / {questionsNeeded}</span>
                 </div>
-                <ProgressBar current={progress} total={QUESTIONS_PER_LEVEL} colorClass="bg-yellow-400" />
+                <ProgressBar current={progress} total={questionsNeeded} colorClass="bg-yellow-400" />
                 <div className="flex justify-between text-[8px] text-slate-600 font-black tracking-widest px-1">
                   <span>{t('subLevels.beginnerCaps')}</span>
                   <span className="ml-4">{t('subLevels.intermediateCaps')}</span>

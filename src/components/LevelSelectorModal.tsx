@@ -1,5 +1,5 @@
 import React from 'react';
-import { LEVELS, PERSONA_EMOJI, STAR_PROGRESS_THRESHOLD, QUESTIONS_PER_LEVEL, getStarsFromAccuracy } from '../constants';
+import { LEVELS, PERSONA_EMOJI, getQuestionsNeededForLevel, getStarsFromAccuracy } from '../constants';
 import { PersonaStage } from '../types';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
@@ -30,8 +30,10 @@ export const LevelSelectorModal: React.FC<LevelSelectorModalProps> = ({
   const getStarsForLevel = (level: number) => {
     const progress = levelProgress[level] || 0;
     const correct = correctPerLevel[level] ?? 0;
-    if (progress < STAR_PROGRESS_THRESHOLD) return 0;
-    const percentCorrect = (100 * correct) / QUESTIONS_PER_LEVEL;
+    const questionsNeeded = getQuestionsNeededForLevel(level);
+    const starProgressThreshold = Math.ceil(questionsNeeded * 0.10);
+    if (progress < starProgressThreshold) return 0;
+    const percentCorrect = (100 * correct) / questionsNeeded;
     return getStarsFromAccuracy(percentCorrect);
   };
 

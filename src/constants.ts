@@ -11,8 +11,8 @@ export const QUESTIONS_PER_SUBLEVEL = Math.floor(QUESTIONS_PER_LEVEL / 3); // ~1
 export const TOTAL_QUESTIONS = QUESTIONS_BANK_EN.length;
 
 /** Questions needed to complete a level and unlock the next (including Level 0 foundations). */
-export const getQuestionsNeededForLevel = (_level: number): number =>
-  QUESTIONS_PER_LEVEL;
+export const getQuestionsNeededForLevel = (level: number): number =>
+  level === 0 ? 300 : QUESTIONS_PER_LEVEL;
 
 /** Minimum progress (as fraction of QUESTIONS_PER_LEVEL) before any star is shown. Stars stay blank until ~10–20%. */
 export const STAR_PROGRESS_THRESHOLD = Math.ceil(QUESTIONS_PER_LEVEL * 0.10);
