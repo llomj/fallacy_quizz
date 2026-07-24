@@ -19,7 +19,11 @@ export class QuizService {
       : questionBank.filter(q => q.level === level)
     ).filter(q => !exhaustedSet.has(q.id));
 
-    if (levelQuestions.length === 0) {
+    const allEligibleQuestions = randomMode
+      ? questionBank
+      : questionBank.filter(q => q.level === level);
+
+    if (allEligibleQuestions.length === 0) {
       return [];
     }
 
@@ -35,15 +39,26 @@ export class QuizService {
     const completedIdsSet = new Set(completedIds);
     let available = levelQuestions.filter(q => !completedIdsSet.has(q.id));
     let completed = levelQuestions.filter(q => completedIdsSet.has(q.id));
+    const exhaustedFallback = allEligibleQuestions.filter(q => exhaustedSet.has(q.id));
 
     available = shuffleArray(available);
     completed = shuffleArray(completed);
+    const fallback = shuffleArray(exhaustedFallback);
 
     let selected = available.slice(0, count);
 
     if (selected.length < count && completed.length > 0) {
       const needed = count - selected.length;
       selected = [...selected, ...completed.slice(0, needed)];
+    }
+
+    if (selected.length < count && fallback.length > 0) {
+      const needed = count - selected.length;
+      const selectedIds = new Set(selected.map(q => q.id));
+      selected = [
+        ...selected,
+        ...fallback.filter(q => !selectedIds.has(q.id)).slice(0, needed)
+      ];
     }
 
     return shuffleArray(selected);
