@@ -900,7 +900,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
               </div>
             </div>
             <div className="flex flex-wrap items-center justify-end gap-x-4 gap-y-1 shrink-0">
-              {liveRandomCorrect !== null && liveRandomPercent !== null && !randomMode && (
+              {randomMode && liveRandomCorrect !== null && liveRandomPercent !== null && (
                 <span className="text-yellow-400">
                   {liveRandomCorrect} {t('quiz.correct')} · {liveRandomPercent}%
                 </span>
