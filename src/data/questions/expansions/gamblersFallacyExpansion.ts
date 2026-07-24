@@ -60,6 +60,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['After a week of bad raffle draws, Hugo believes the next ticket cannot possibly be unlucky again.', 'Apres une semaine de mauvais tirages de tombola, Hugo croit que le prochain ticket ne peut pas encore etre malchanceux.'],
   [`Mila keeps choosing "one more try" at the claw machine because the machine must eventually balance out.`, `Mila continue de tenter encore une fois la pince parce que la machine doit finir par se regler.`],
   ['Ben assumes a row of red traffic lights means the next light will definitely be green.', 'Ben suppose qu une serie de feux rouges veut dire que le prochain feu sera forcement vert.'],
+  ['After four failed arcade tickets, Sam is sure the next swipe has to pay out.', "Apres quatre tickets d arcade rates, Sam est sur que le prochain passage doit payer."],
+  ['Nina sees three missed basketball shots and thinks the next shot is automatically a swish.', "Nina voit trois tirs de basket rates et pense que le prochain tir sera automatiquement parfait."],
+  ['After five bad spins on a prize wheel, Jules bets the wheel is now "due" to land on the jackpot.', "Apres cinq mauvais tours sur une roue de lots, Jules parie que la roue est maintenant « prete » a tomber sur le jackpot."],
+  ['Maya loses several card hands and believes the next hand cannot also be bad.', "Maya perd plusieurs mains de cartes et croit que la prochaine main ne peut pas etre mauvaise elle aussi."],
+  ['After three late buses, Theo stops worrying because the next one must be early.', "Apres trois bus en retard, Theo arrete de s inquieter parce que le prochain doit etre en avance."],
+  ['Omar thinks the next dice roll has to be a six after five low rolls in a row.', "Omar pense que le prochain lancer de des doit etre un six apres cinq lancers bas d affilee."],
+  ['After a string of wrong answers, Priya changes her last guess because the pattern "has to flip."', "Apres une serie de mauvaises reponses, Priya change sa derniere supposition parce que le motif « doit s inverser »."],
+  ['Lina believes the next raffle ticket is guaranteed to win because the box has been unlucky for too long.', "Lina croit que le prochain ticket de tombola est garanti gagnant parce que la boite a ete malchanceuse trop longtemps."],
+  ['After four missed putts, Ben says the next one must drop because the streak cannot continue.', "Apres quatre putts rates, Ben dit que le prochain doit rentrer parce que la serie ne peut pas continuer."],
+  ['Rosa assumes the next coin flip will be heads simply because tails has shown up too much already.', "Rosa suppose que le prochain lancer de piece sera face simplement parce que pile est deja trop sorti."],
 ];
 
 const OPTIONS_EN = ["Gambler's Fallacy", 'Hot Hand Fallacy', 'Availability Heuristic', 'Confirmation Bias'];

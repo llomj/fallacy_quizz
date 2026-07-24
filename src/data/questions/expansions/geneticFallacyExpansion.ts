@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ["Hugo says the donation pitch is bad because the speaker once sold used cars.", "Hugo dit que la proposition de don est mauvaise parce que l'orateur vendait des voitures d'occasion."],
   ["Lea thinks the workshop plan is wrong because the facilitator worked in customer support.", "Lea pense que le plan de l'atelier est faux parce que l'animateur a travaillé au support client."],
   ["Max dismisses the team memo because the writer is an immigrant.", "Max balaie la note d'équipe parce que l'auteur est immigrant."],
+  ["Mia rejects the neighborhood cleanup idea because the organizer once worked at a theme park.", "Mia rejette l'idee de nettoyage du quartier parce que l'organisateur a autrefois travaille dans un parc a theme."],
+  ["Noah says the book recommendation is useless because the reviewer used to be a taxi driver.", "Noah dit que la recommandation de livre ne vaut rien parce que le critique etait autrefois chauffeur de taxi."],
+  ["Ava dismisses the cooking tip because the chef learned in a small village kitchen.", "Ava rejette le conseil de cuisine parce que le chef a appris dans une petite cuisine de village."],
+  ["Eli thinks the budget plan is bad because the speaker once ran a flower shop.", "Eli pense que le plan budgetaire est mauvais parce que l'orateur tenait autrefois une boutique de fleurs."],
+  ["Zoe rejects the school survey because the student who wrote it is homeschooled.", "Zoe rejette le sondage de l'ecole parce que l'eleve qui l'a ecrit fait l'ecole a la maison."],
+  ["Jules says the health warning is false because the author used to sell bicycles.", "Jules dit que l'avertissement sante est faux parce que l'auteur vendait des velos autrefois."],
+  ["Priya dismisses the concert review because the critic studied painting instead of music.", "Priya rejette la critique du concert parce que le critique a etudie la peinture au lieu de la musique."],
+  ["Ben believes the city plan is wrong because the architect grew up in a farming town.", "Ben croit que le plan de la ville est faux parce que l'architecte a grandi dans une ville agricole."],
+  ["Lina rejects the safety checklist because the writer used to work on boats.", "Lina rejette la liste de securite parce que l'auteur travaillait autrefois sur des bateaux."],
+  ["Omar says the volunteer idea is bad because it came from a student who wears hand-me-down clothes.", "Omar dit que l'idee de benevolat est mauvaise parce qu'elle vient d'un eleve qui porte des vetements d'occasion."],
 ];
 
 const OPTIONS_EN = ['Genetic Fallacy', 'Appeal to Authority', 'Ad Hominem', 'False Dichotomy'];

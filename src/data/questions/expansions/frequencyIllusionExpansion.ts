@@ -60,6 +60,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['After buying a white lamp, Iris starts seeing white lamps in apartment ads everywhere.', "Apres avoir achete une lampe blanche, Iris commence a voir des lampes blanches partout dans les annonces d appartement."],
   ['Theo reads one article about electric bikes and then feels like every street now has one.', "Theo lit un article sur les velos electriques puis a l impression que chaque rue en a un maintenant."],
   ['After hearing a new band name, Nora notices posters for that band in every cafe window.', "Apres avoir entendu le nom d un nouveau groupe, Nora remarque des affiches de ce groupe dans chaque vitrine de cafe."],
+  ['After buying a travel mug, Sam keeps spotting the exact same mug in office kitchens and train cars.', "Apres avoir achete un mug de voyage, Sam ne cesse de voir le meme mug dans les cuisines de bureau et les wagons de train."],
+  ['Once Lina tries a lemon cake, she suddenly notices lemon cake on every bakery shelf.', "Une fois que Lina essaie un gateau au citron, elle remarque soudain du gateau au citron sur chaque etagere de boulangerie."],
+  ['After hearing about a dog breed, Omar starts seeing that breed at every park walk.', "Apres avoir entendu parler d une race de chien, Omar commence a voir cette race a chaque promenade au parc."],
+  ['Maya gets into birdwatching and then feels like every tree branch has the same bird on it.', "Maya se met a observer les oiseaux puis a l impression que chaque branche porte le meme oiseau."],
+  ['After one friend mentions a podcast, Priya hears that podcast name in cars, shops, and headlines all day.', "Apres qu une amie mentionne un podcast, Priya entend son nom dans les voitures, les magasins et les titres toute la journee."],
+  ['Ben buys a black notebook and then notices black notebooks in every meeting and lecture.', "Ben achete un carnet noir puis remarque des carnets noirs dans chaque reunion et chaque cours."],
+  ['After reading one article on sour candy, Tia feels like every checkout aisle has sour candy now.', "Apres avoir lu un article sur les bonbons acidules, Tia a l impression que chaque caisse en propose maintenant."],
+  ['Jin hears a new street food name once and then keeps spotting it on menus all over town.', "Jin entend une fois le nom d un nouveau plat de rue puis le voit partout sur les menus en ville."],
+  ['After getting a green mug, Rosa suddenly notices green mugs in every office photo online.', "Apres avoir achete une tasse verte, Rosa remarque soudain des tasses vertes dans chaque photo de bureau en ligne."],
+  ['Luca learns a new bike brand and then thinks every rider on the road is using it.', "Luca apprend le nom d une nouvelle marque de velo et pense ensuite que tous les cyclistes l utilisent."],
 ];
 
 const OPTIONS_EN = ['Frequency Illusion', 'Confirmation Bias', 'Availability Heuristic', 'Apophenia'];

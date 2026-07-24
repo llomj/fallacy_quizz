@@ -50,6 +50,16 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['The customer support chat gets buried under a stream of unrelated complaints, each one barely finished.', "Le chat du support client est enseveli sous un flot de plaintes sans rapport, chacune a peine terminee."],
   ['The activist speech keeps moving so fast that one weak claim hides the next weak claim.', "Le discours militant avance si vite qu une affirmation faible en cache une autre."],
   ['The assistant coach overwhelms the room with a dozen mini-points and then says the case is obvious.', "L adjoint de l entraineur submerge la salle avec une douzaine de mini-points puis dit que le dossier est evident."],
+  ['At the town debate, one speaker keeps adding fresh accusations faster than anyone can write them down.', "Lors du debat municipal, un orateur ajoute sans arret de nouvelles accusations plus vite que quiconque ne peut les noter."],
+  ['The panelist fires off seven unrelated complaints and then asks why the crowd is not convinced.', "La paneliste lance sept plaintes sans rapport puis demande pourquoi la foule n est pas convaincue."],
+  ['In the livestream comments, the host rattles through a pile of claims so fast that each one blurs into the next.', "Dans les commentaires du direct, l animateur enchaine une pile d affirmations si vite que chacune se fond dans la suivante."],
+  ['At the school meeting, the parent keeps stacking tiny objections until the principal cannot answer any one of them.', "A la reunion de l ecole, le parent empile de petites objections jusqu a ce que le directeur ne puisse en repondre a aucune."],
+  ['The podcast guest dumps a dozen talking points and treats the flood itself as proof.', "L invite du podcast deverse une douzaine de points de discussion et traite le flot lui-meme comme une preuve."],
+  ['During the family argument, one cousin keeps switching to a new accusation before the old one is checked.', "Pendant la dispute familiale, un cousin passe sans cesse a une nouvelle accusation avant que l ancienne soit verifiee."],
+  ['The customer service rant is so packed with complaints that no one can separate facts from noise.', "La plainte au service client est si remplie de reproches que personne ne peut separer les faits du bruit."],
+  ['At the city forum, the speaker lists every worry imaginable and calls the pile a conclusion.', "Au forum de la ville, l orateur liste toutes les inquietudes imaginables et appelle cette pile une conclusion."],
+  ['The streamer throws out rumor after rumor until the chat gives up on checking sources.', "Le streamer lance rumeur apres rumeur jusqu a ce que le chat abandonne l idee de verifier les sources."],
+  ['In the job interview, the candidate answers one question with nine new complaints about everything else.', "Pendant l entretien, la candidate repond a une question avec neuf nouveaux reproches sur tout le reste."],
 ];
 
 const OPTIONS_EN = ['Gish Gallop', 'Red Herring', 'Appeal to Authority', 'Straw Man'];
