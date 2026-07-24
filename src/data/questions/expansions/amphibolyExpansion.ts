@@ -241,6 +241,50 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
     'A note says, "Meet the lawyer from the station in office two." Ava waits for the station lawyer to arrive at office two.',
     'Une note dit : « Rencontrez l’avocat de la gare dans le bureau deux. » Ava attend que l’avocat de la gare arrive au bureau deux.'
   ]
+  [
+    'The sign says, "Students with tablets get help from tutors." Maya thinks only tablet owners may ask for help.',
+    'L’affiche dit : « Les élèves avec des tablettes obtiennent de l’aide des tuteurs. » Maya pense que seuls les propriétaires de tablettes peuvent demander de l’aide.'
+  ],
+  [
+    'A poster reads, "Bring pizza for kids and teachers." Theo assumes the pizza is for the teachers only.',
+    'Une affiche dit : « Apportez de la pizza pour les enfants et les enseignants. » Theo suppose que la pizza est réservée aux enseignants.'
+  ],
+  [
+    'The note says, "Borrow a ladder from the neighbor near the garage." Ava thinks the neighbor is near the garage.',
+    'La note dit : « Emprunte une échelle au voisin près du garage. » Ava pense que le voisin se trouve près du garage.'
+  ],
+  [
+    'The flyer says, "We need volunteers to serve soup and coffee." Ben believes the volunteers must be soup and coffee.',
+    'Le tract dit : « Nous avons besoin de bénévoles pour servir la soupe et le café. » Ben croit que les bénévoles doivent être de la soupe et du café.'
+  ],
+  [
+    'A message says, "I saw the artist with the telescope at the station." Nina concludes the artist owns the telescope.',
+    'Un message dit : « J’ai vu l’artiste avec le télescope à la gare. » Nina conclut que l’artiste possède le télescope.'
+  ],
+  [
+    'The announcement says, "Tickets for parents and kids are available online." Omar thinks only parents can buy the tickets.',
+    'L’annonce dit : « Les billets pour parents et enfants sont disponibles en ligne. » Omar pense que seuls les parents peuvent acheter les billets.'
+  ],
+  [
+    'The sign says, "Call the doctor on duty after lunch." Priya assumes the doctor is on duty after lunch only.',
+    'Le panneau dit : « Appelle le médecin de garde après le déjeuner. » Priya suppose que le médecin n’est de garde qu’après le déjeuner.'
+  ],
+  [
+    'A caption says, "The chef served the guests with forks." Leo thinks the guests brought the forks.',
+    'Une légende dit : « Le chef a servi les invités avec des fourchettes. » Leo pense que les invités ont apporté les fourchettes.'
+  ],
+  [
+    'The form says, "Parents of children with allergies must sign." Rina thinks only allergic children have parents.',
+    'Le formulaire dit : « Les parents d’enfants allergiques doivent signer. » Rina pense que seuls les enfants allergiques ont des parents.'
+  ],
+  [
+    'A review says, "The coach interviewed players with microphones." Jade assumes the players were carrying the microphones.',
+    'Une critique dit : « L’entraîneur a interrogé les joueurs avec des microphones. » Jade suppose que les joueurs tenaient les microphones.'
+  ],
+  [
+    'The sign says, "We recommend food for dogs with chicken flavor." Alex wonders if the dogs are flavored like chicken.',
+    'L’affiche dit : « Nous recommandons une nourriture pour chiens au goût de poulet. » Alex se demande si les chiens ont un goût de poulet.'
+  ]
 ];
 
 const OPTIONS_EN = ['Amphiboly', 'Equivocation', 'Accent Fallacy', 'Composition Fallacy'];

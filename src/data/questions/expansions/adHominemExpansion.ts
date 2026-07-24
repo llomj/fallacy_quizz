@@ -241,6 +241,46 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
     "Ava's parking suggestion should be dismissed because she wears bright nail polish.",
     "La suggestion d'Ava sur le stationnement devrait être rejetée parce qu'elle porte du vernis à ongles vif."
   ]
+  [
+    "Tara's proposal for a safer crosswalk should be ignored because she forgot her lunch.",
+    "La proposition de Tara pour un passage pieton plus sur doit etre ignoree puisqu'elle a oublie son dejeuner."
+  ],
+  [
+    "Ben's recycling plan is stupid because he arrived late to the meeting.",
+    "Le plan de Ben pour le recyclage est idiot puisqu'il est arrive en retard a la reunion."
+  ],
+  [
+    "Maya's request for quieter buses is pointless because she wears bright socks.",
+    "La demande de Maya pour des bus plus silencieux ne sert a rien puisqu'elle porte des chaussettes voyantes."
+  ],
+  [
+    "Omar's idea for a community garden is bad because he cannot juggle.",
+    "L'idee d'Omar pour un jardin collectif est mauvaise puisqu'il ne sait pas jongler."
+  ],
+  [
+    "Priya's suggestion to add bike racks is foolish because she laughed too loudly at lunch.",
+    "La suggestion de Priya d'ajouter des supports a velos est ridicule puisqu'elle a ri trop fort au dejeuner."
+  ],
+  [
+    "Leo's budget advice is worthless because he spilled coffee on his notes.",
+    "Les conseils budgetaires de Leo ne valent rien puisqu'il a renverse du cafe sur ses notes."
+  ],
+  [
+    "Nina's idea for later homework deadlines is wrong because she likes video games.",
+    "L'idee de Nina pour rendre les devoirs plus tardifs est fausse puisqu'elle aime les jeux video."
+  ],
+  [
+    "Ravi's proposal for better park lighting should be dismissed because he has a messy backpack.",
+    "La proposition de Ravi pour mieux eclairer le parc devrait etre rejetee puisqu'il a un sac a dos en desordre."
+  ],
+  [
+    "Jade's case for more library seating is silly because she wears mismatched shoes.",
+    "L'argument de Jade pour avoir plus de places assises a la bibliotheque est absurde puisqu'elle porte des chaussures non assorties."
+  ],
+  [
+    "Alex's call for cleaner train stations is invalid because he forgets his keys.",
+    "L'appel d'Alex pour des gares plus propres est invalide puisqu'il oublie ses cles."
+  ]
 ];
 
 const OPTIONS_EN = ['Ad Hominem', 'Straw Man', 'Red Herring', 'Appeal to Popularity'];
