@@ -62,7 +62,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Owen found a broken mug and blamed the dishwasher, even though the cat was nearby.', "Owen a trouve une tasse cassee et a accuse le lave-vaisselle, meme si le chat etait proche."],
   ['Ava heard a rumor about the mayor and treated it as a direct quote from the mayor.', "Ava a entendu une rumeur sur le maire et l'a traitee comme une citation directe du maire."],
   ['Leo saw a typo in a school email and claimed the principal must be careless with every document.', "Leo a vu une faute de frappe dans un courriel scolaire et a affirme que le directeur devait etre negligent avec tous les documents."],
-  ['Priya heard a weather joke from a coworker and credited the coworker with creating the forecast itself.', "Priya a entendu une blague meteo d'un collegue et a attribue au collegue la creation du bulletin lui-meme."]
+  ['Priya heard a weather joke from a coworker and credited the coworker with creating the forecast itself.', "Priya a entendu une blague meteo d'un collegue et a attribue au collegue la creation du bulletin lui-meme."],
   ['A bad spelling mistake in a speech does not prove the speaker is wrong about the main issue.', "Une faute d orthographe dans un discours ne prouve pas que l orateur a tort sur la question principale."],
   ['Theo rejects the safety plan because the presenter mixed up one date on a slide.', "Theo rejette le plan de securite parce que la presentatrice a melange une date sur une diapositive."],
   ['Maya says a charity idea is useless because the volunteer forgot one detail in the email.', "Maya dit qu une idee caritative est inutile parce que le benevole a oublie un detail dans le courriel."],

@@ -59,7 +59,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Iris says "object" as a thing and object as to protest are the same premise.', "Iris dit que « objet » comme chose et objecter sont la meme premise."],
   ['Grant says "light" as not heavy and light as illumination are the same proof.', "Grant dit que « leger » et la lumiere sont la meme preuve."],
   ['Juno says "sheet" as paper and sheet as a bed cover are the same material.', "Juno dit qu'une « feuille » de papier et un drap sont le meme materiau."],
-  ['Pia says "watch" the verb and watch the noun are the same instruction.', "Pia dit que « regarder » et montre sont la meme instruction."]
+  ['Pia says "watch" the verb and watch the noun are the same instruction.', "Pia dit que « regarder » et montre sont la meme instruction."],
   ['Mina says "pitch" as throw and pitch as music are the same clue.', 'Mina dit que « lancer » et la hauteur musicale sont le meme indice.'],
   ['Eli says "duck" the bird and duck the action prove the same point.', 'Eli dit que le canard et le fait d esquiver prouvent le meme point.'],
   ['Tara says "park" the place and park the car are identical evidence.', 'Tara dit que le parc et le fait de garer une voiture sont la meme preuve.'],

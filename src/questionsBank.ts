@@ -117,9 +117,11 @@ import { STRAW_MAN_EXPANSION_EN, STRAW_MAN_EXPANSION_FR } from './data/questions
 import { STURGEONS_LAW_EXPANSION_EN, STURGEONS_LAW_EXPANSION_FR } from './data/questions/expansions/sturgeonsLawExpansion';
 import { SUBADDITIVITY_EFFECT_EXPANSION_EN, SUBADDITIVITY_EFFECT_EXPANSION_FR } from './data/questions/expansions/subadditivityEffectExpansion';
 import { SUNK_COST_FALLACY_EXPANSION_EN, SUNK_COST_FALLACY_EXPANSION_FR } from './data/questions/expansions/sunkCostFallacyExpansion';
+import { SYSTEM_JUSTIFICATION_EXPANSION_EN, SYSTEM_JUSTIFICATION_EXPANSION_FR } from './data/questions/expansions/systemJustificationExpansion';
 import { SLIPPERY_SLOPE_EXPANSION_EN, SLIPPERY_SLOPE_EXPANSION_FR } from './data/questions/expansions/slipperySlopeExpansion';
 import { SUPPRESSED_EVIDENCE_EXPANSION_EN, SUPPRESSED_EVIDENCE_EXPANSION_FR } from './data/questions/expansions/suppressedEvidenceExpansion';
 import { SURVIVORSHIP_BIAS_EXPANSION_EN, SURVIVORSHIP_BIAS_EXPANSION_FR } from './data/questions/expansions/survivorshipBiasExpansion';
+import { TEXAS_SHARPSHOOTER_EXPANSION_EN, TEXAS_SHARPSHOOTER_EXPANSION_FR } from './data/questions/expansions/texasSharpshooterExpansion';
 import { TABOO_TRADEOFF_EXPANSION_EN, TABOO_TRADEOFF_EXPANSION_FR } from './data/questions/expansions/tabooTradeoffExpansion';
 import { TELESCOPING_EFFECT_EXPANSION_EN, TELESCOPING_EFFECT_EXPANSION_FR } from './data/questions/expansions/telescopingEffectExpansion';
 import { LIKELIHOOD_RATIO_EXPANSION_EN, LIKELIHOOD_RATIO_EXPANSION_FR } from './data/questions/expansions/likelihoodRatioExpansion';

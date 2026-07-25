@@ -240,7 +240,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   [
     'A note says, "Meet the lawyer from the station in office two." Ava waits for the station lawyer to arrive at office two.',
     'Une note dit : « Rencontrez l’avocat de la gare dans le bureau deux. » Ava attend que l’avocat de la gare arrive au bureau deux.'
-  ]
+  ],
   [
     'The sign says, "Students with tablets get help from tutors." Maya thinks only tablet owners may ask for help.',
     'L’affiche dit : « Les élèves avec des tablettes obtiennent de l’aide des tuteurs. » Maya pense que seuls les propriétaires de tablettes peuvent demander de l’aide.'
