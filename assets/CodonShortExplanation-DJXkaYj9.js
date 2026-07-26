@@ -1,0 +1,1 @@
+import{j as t}from"./react-vendor-vrmkM06s.js";import{n as e}from"./detailedExplanationLevel-CVG9CJRl.js";const r=({text:a})=>t.jsx("p",{className:"quiz-accent-text whitespace-pre-wrap text-sm font-medium leading-relaxed tracking-normal",children:e(a)});export{r as C};
