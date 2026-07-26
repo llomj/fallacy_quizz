@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Rosa says tutorial sites are poor because many lessons end with "and then you are done."', 'Rosa dit que les sites de tutoriels sont faibles parce que beaucoup de lecons se terminent par "et puis c est fini".'],
   ['Alicia thinks event calendars are useless because some entries are only titles without detail.', 'Alicia pense que les calendriers d evenements sont inutiles parce que certaines entrees ne contiennent que des titres sans detail.'],
   ['Owen says fan forums are bad because many posts are just screenshots and emojis.', 'Owen dit que les forums de fans sont mauvais parce que beaucoup de publications ne sont que des captures d ecran et des emojis.'],
+  ['Maya says recipe blogs are worthless because a lot of posts are just photos with no explanation.', 'Maya dit que les blogs de recettes ne valent rien parce que beaucoup de publications ne sont que des photos sans explication.'],
 ];
 
 const OPTIONS_EN = ['Sturgeon\'s Law', 'Hasty Generalization', 'Selection Bias', 'Survivorship Bias'];
