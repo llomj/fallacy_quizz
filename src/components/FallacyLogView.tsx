@@ -85,7 +85,7 @@ export const FallacyLogView: React.FC<FallacyLogViewProps> = ({
   };
 
   return (
-    <div className="min-h-[calc(100dvh-64px)] animate-in slide-in-from-right duration-300">
+    <div className="min-h-[calc(100dvh-64px)] animate-in slide-in-from-right duration-300 pt-12">
       <div className="flex items-center justify-between mb-6">
         <h2 className="text-lg sm:text-xl font-black text-white flex items-center gap-2">
           <i className="fas fa-bookmark text-yellow-300"></i> {t('app.fallacyLog') || 'Fallacy Log'}
