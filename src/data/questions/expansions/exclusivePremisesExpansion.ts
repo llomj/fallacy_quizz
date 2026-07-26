@@ -114,7 +114,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Theo says the game is either fun or boring, so mixed feelings are not allowed.', "Theo dit que le jeu est soit amusant soit ennuyeux, donc les sentiments mitigés ne sont pas autorisés."],
   ['Ben says the meal is either healthy or unhealthy, so a balanced plate is impossible.', "Ben dit que le repas est soit sain soit malsain, donc une assiette équilibrée est impossible."],
   ['Maya says the path is either safe or unsafe, so mostly safe is not treated as real.', "Maya dit que le chemin est soit sûr soit dangereux, donc plutôt sûr n'est pas traité comme réel."],
-  ['Hugo says the answer is either yes or no, so maybe is treated as weakness.', "Hugo dit que la réponse est soit oui soit non, donc peut-être est traité comme une faiblesse."]
+  ['Hugo says the answer is either yes or no, so maybe is treated as weakness.', "Hugo dit que la réponse est soit oui soit non, donc peut-être est traité comme une faiblesse."],
   ['Milo says the project is either a success or a failure, so a partly useful result does not count.', "Milo dit que le projet est soit un succès soit un échec, donc un résultat partiellement utile ne compte pas."],
   ['Nora says the bag is either stylish or ugly, so plain but nice does not exist.', "Nora dit que le sac est soit élégant soit laid, donc simple mais joli n'existe pas."],
   ['Theo says the class is either easy or impossible, so challenging but fair is ignored.', "Theo dit que le cours est soit facile soit impossible, donc difficile mais juste est ignore."],
