@@ -864,10 +864,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
       </div>
 
       <div className="rounded-3xl p-6 md:p-10 space-y-8 shadow-2xl relative overflow-hidden bg-slate-950/40 backdrop-blur-2xl border border-white/10">
-        <div className="absolute top-3 left-3 z-10 flex items-center gap-2">
-          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-yellow-400/10 text-yellow-400 text-[10px] font-black uppercase tracking-[0.2em] border border-yellow-400/40">
-            {currentQuestion.concept}
-          </div>
+        <div className="absolute top-3 left-3 z-10">
           <button
             onClick={() => { onPlayClickSound?.(); handleSaveCurrentId(); }}
             className={`inline-flex items-center gap-2 px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.2em] border transition-colors min-w-[4.25rem] ${isIdSaved
