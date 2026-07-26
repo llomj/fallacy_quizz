@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Rosa believes the whole café noticed her spilled sugar packet, but the cashier is ringing up another order.', 'Rosa croit que tout le cafe a remarque son sachet de sucre renverse, mais la caissiere enregistre une autre commande.'],
   ['Alicia assumes the class saw her notebook cover peel, though several students are packing up.', 'Alicia suppose que la classe a vu la couverture de son carnet se decoller, alors que plusieurs eleves rangent leurs affaires.'],
   ['Owen feels the whole room heard his timer beep, but the speaker is already on the next slide.', 'Owen a l impression que toute la salle a entendu son minuteur biper, mais l orateur est déjà sur la diapositive suivante.'],
+  ['Maya thinks the whole café saw her sunglasses slip off her head, but the crowd is focused on ordering.', 'Maya pense que tout le café a vu ses lunettes de soleil glisser de sa tête, mais la foule se concentre sur les commandes.'],
 ];
 
 const OPTIONS_EN = ['Spotlight Fallacy', 'Halo Effect', 'Egocentric Bias', 'False Consensus Effect'];
