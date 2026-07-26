@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Rosa wants the cafe to keep the old table numbers because regulars know the system.', 'Rosa veut que le cafe garde les anciens numeros de table parce que les habitués connaissent le systeme.'],
   ['Alicia says the office should keep the old supply cabinet because a new cabinet would change the routine.', 'Alicia dit que le bureau devrait garder l ancienne armoire à fournitures parce qu une nouvelle armoire changerait la routine.'],
   ['Owen argues the classroom should keep the same project partners because mixing them up would be uncomfortable.', 'Owen soutient que la salle de classe devrait garder les memes partenaires de projet parce que les melanger serait inconfortable.'],
+  ['Maya says the team should keep the old attendance sheet because a new one would feel like extra work.', 'Maya dit que l equipe devrait garder l ancienne feuille de presence parce qu une nouvelle donnerait l impression de faire du travail en plus.'],
 ];
 
 const OPTIONS_EN = ['Status Quo Bias', 'Appeal to Tradition', 'Loss Aversion', 'Familiarity Bias'];
