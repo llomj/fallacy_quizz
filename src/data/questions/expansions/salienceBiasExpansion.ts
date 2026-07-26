@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Maya says the office day was a disaster because one tense meeting became the only thing she can picture.', 'Maya dit que la journée au bureau etait catastrophique parce qu une reunion tendue est devenue la seule chose qu elle peut imaginer.'],
   ['Leo thinks the city festival was boring because one long queue is the detail that dominates his memory.', 'Leo pense que le festival de la ville etait ennuyeux parce qu une longue file d attente est le détail qui domine sa mémoire.'],
   ['Priya says the school event was a mess because one microphone crackle drowned out the rest of the evening in her head.', 'Priya dit que l evenement scolaire etait un bazar parce qu un craquement du micro a noye tout le reste de la soirée dans sa tete.'],
+  ['Omar says the whole neighborhood must be unsafe because one broken streetlamp is what he notices first.', 'Omar dit que tout le quartier doit etre dangereux parce qu un lampadaire casse est la premiere chose qu il remarque.'],
 ];
 
 const OPTIONS_EN = ['Salience Bias', 'Availability Heuristic', 'Negativity Bias', 'Confirmation Bias'];
