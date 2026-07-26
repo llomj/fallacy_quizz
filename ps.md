@@ -70,13 +70,13 @@ This lists EN questions where long tokens from the keyed answer appear in the st
 
 ---
 
-## Random mode stats: Total / Incorrect / Correct
+## Random mode stats: Total / Incorrect / Correct / Accuracy
 
 **Code:** `src/components/RandomModeStatRow.tsx` — Incorrect = `totalAnswered - totalCorrect` (not stored separately).
 
 **Hub layout (critical):** The stat row sits **directly under** `hub.randomModeDescription` in the **right** (fuchsia) “Random Mode” card — same card as the title + “Questions from all levels…”. Users scan that block as one unit; if tiles lived only in the **left** “Next Mutation” card, the **Incorrect** column looked missing relative to the Random Mode copy.
 
-**Styling:** Three identical slate tiles (**`RandomModeStatRow`**); numbers: Total **white**, Incorrect **`#FF00FF`**, Correct **green** (`text-green-400`).
+**Styling:** One compact four-column row (**`RandomModeStatRow`**) with no individual tile backgrounds, borders, or padding. Numbers: Total **white**, Incorrect **`#FF00FF`**, Correct **green** (`text-green-400`), Accuracy **cyan** (`text-cyan-300`). Accuracy must not be rendered as a separate panel below the row.
 
 **Quiz:** `variant="quiz"` — row under the mutation line, above the question progress bar.
 
@@ -90,7 +90,7 @@ This lists EN questions where long tokens from the keyed answer appear in the st
 
 **Past mistakes (don’t re-introduce):** Only flex + left-column placement; JSX that failed `vite build`; clipping in quiz header only.
 
-**Verification (prod build):** `npm run build && npm run preview` → open `/fallacy_quizz/` → Settings → confirm Random mode → page search (**Cmd+F**) for `Incorrect` — one hit under the Random Mode description; three matching panels, magenta digit for Incorrect, green for Correct.
+**Verification (prod build):** `npm run build && npm run preview` → open `/fallacy_quizz/` → Settings → confirm Random mode → return to the hub → Total Answered, Incorrect, Correct, and Accuracy appear on one row under the Random Mode description, with no separate Accuracy panel.
 
 ---
 
