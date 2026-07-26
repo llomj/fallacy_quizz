@@ -500,8 +500,9 @@ const App: React.FC = () => {
               <div
                 className="flex items-center gap-2"
                 title="Answer Count"
+                data-testid="answer-count"
               >
-                <span className="text-xs font-bold text-slate-400 uppercase tracking-wider">Count</span>
+                <span className="text-xs font-bold text-slate-400 uppercase tracking-wider">{t('settings.count')}</span>
                 <span className="text-sm font-bold text-slate-200">{(stats.totalAttempts ?? stats.history.length).toLocaleString()}</span>
               </div>
             )}
@@ -691,7 +692,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v78</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v79</p>
       </footer>
 
       {/* Operations View Modal */}

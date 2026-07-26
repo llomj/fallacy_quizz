@@ -1,10 +1,7 @@
-# Fallback: if Pages Source = "Deploy from a branch" (not Actions), this pushes built output to gh-pages.
-# Use when deploy.yml output is ignored. See ps.md "Branch deploy fallback".
+# Manual fallback only. The live site uses the Deploy to GitHub Pages workflow.
 name: Deploy to gh-pages branch
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:

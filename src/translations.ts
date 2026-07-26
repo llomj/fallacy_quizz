@@ -173,6 +173,7 @@ export const translations = {
     // Settings Menu
     settings: {
       searchById: "Search by ID",
+      count: "Count",
       idLog: "ID Log",
       selectLevel: "Select Level",
       switchToLevelMode: "Switch to Level Mode",
@@ -479,6 +480,7 @@ export const translations = {
     // Settings Menu
     settings: {
       searchById: "Rechercher par ID",
+      count: "Compteur",
       idLog: "Journal ID",
       selectLevel: "Sélectionner le Niveau",
       switchToLevelMode: "Passer en Mode Niveau",

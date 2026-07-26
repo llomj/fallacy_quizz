@@ -110,7 +110,7 @@ This lists EN questions where long tokens from the keyed answer appear in the st
 
 **Why there are several deployment runs:**  
 - **Deploy to GitHub Pages** (deploy.yml): runs on every push to main; deploys the built `dist/` as an **artifact**. This is what the live site uses **only when** Pages Source = **GitHub Actions**.  
-- **Deploy to gh-pages branch** (deploy-branch.yml): runs on every push to main; pushes the built `dist/` into the **gh-pages** branch. The live site uses this **only when** Pages Source = **Deploy from a branch** and Branch = gh-pages.  
+- **Deploy to gh-pages branch** (deploy-branch.yml): manual fallback only. It does not run on pushes while GitHub Actions is the authoritative Pages source.
 - **pages build and deployment**: GitHub’s automatic run when the **gh-pages** branch is updated. It does not deploy the artifact from deploy.yml; it just reflects the branch.  
 
 So the live site content comes from **one** of: (1) the artifact of **Deploy to GitHub Pages**, or (2) the **gh-pages** branch. Pick one in **Settings → Pages → Source** and use the checklist below.
@@ -143,7 +143,7 @@ The repo has `.github/workflows/deploy-branch.yml` — it pushes built `dist/` t
 3. Wait for "Deploy to gh-pages branch" workflow to complete
 4. Site will serve from gh-pages branch
 
-**If Pages Source is "GitHub Actions":** The main `deploy.yml` workflow deploys. `deploy-branch.yml` also runs but its gh-pages output is not used — no conflict.
+**If Pages Source is "GitHub Actions":** The main `deploy.yml` workflow deploys. `deploy-branch.yml` is manual-only and must not run automatically.
 
 ### Deploy attempts that did NOT fix "browser app vs live site" (do not repeat)
 
