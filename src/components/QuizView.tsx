@@ -14,6 +14,7 @@ import { ExplanationWithStepNumbers } from './ExplanationWithStepNumbers';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
 import { balanceDisplayedOptionLengths } from '../utils/optionLengthBalancer';
 import { primeAudioContext } from '../utils/sounds';
+import { getQuestionById } from '../questionsBank';
 
 // Function to format code snippets with proper Python indentation
 // Ensures newline after : and 4-space indentation for the next line
@@ -770,10 +771,30 @@ export const QuizView: React.FC<QuizViewProps> = ({
   );
 
   const currentQuestion = questions[currentIndex];
-  const bankMatchesUi = batchLanguage === language;
-  const { question: displayQuestion, options: translatedOptions } = bankMatchesUi
-    ? getQuestionDisplayNativeBank(currentQuestion.question, currentQuestion.options, language)
-    : getQuestionDisplay(language, currentQuestion.question, currentQuestion.options);
+  const canUseAuthoredTranslation =
+    language === 'fr' &&
+    (currentQuestion.id >= 30000 || currentQuestion.level === 0);
+  const canonicalQuestion = canUseAuthoredTranslation
+    ? getQuestionById(currentQuestion.id, 'en')
+    : undefined;
+  const localizedQuestion = canUseAuthoredTranslation
+    ? getQuestionById(currentQuestion.id, 'fr')
+    : undefined;
+  const localizedOptions =
+    canonicalQuestion && localizedQuestion
+      ? currentQuestion.options.map((option) => {
+        const canonicalIndex = canonicalQuestion.options.indexOf(option);
+        return canonicalIndex >= 0
+          ? localizedQuestion.options[canonicalIndex] ?? option
+          : option;
+      })
+      : currentQuestion.options;
+  const hasAuthoredTranslation = !!canonicalQuestion && !!localizedQuestion;
+  const { question: displayQuestion, options: translatedOptions } = hasAuthoredTranslation
+    ? getQuestionDisplayNativeBank(localizedQuestion.question, localizedOptions, language)
+    : batchLanguage === language
+      ? getQuestionDisplayNativeBank(currentQuestion.question, currentQuestion.options, language)
+      : getQuestionDisplay(language, currentQuestion.question, currentQuestion.options);
   const displayOptions = balanceDisplayedOptionLengths(
     translatedOptions,
     currentQuestion.correct_option_index,

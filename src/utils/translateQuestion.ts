@@ -1230,24 +1230,65 @@ const sanitizeFrenchArtifacts = (text: string): string => {
   return out;
 };
 
-/** Strip quiz instruction headers so only the scenario text is shown to the player. */
-export const stripFallacyInstructionPrefix = (q: string): string => {
-  const instructionPrefixes = [
-    /^Identify the logical fallacy in this example:\s*\n*\s*/i,
-    /^Which fallacy is illustrated here\?\s*\n*\s*/i,
-    /^Quel sophisme est illustr[ée] ici\s*\?\s*\n*\s*/i,
-    /^Quel sophisme est illustre ici\s*\?\s*\n*\s*/i,
-    /^Identifiez le sophisme (?:logique )?dans cet exemple\s*:\s*\n*\s*/i,
-    /^Identifiez l'erreur logique dans cet exemple\s*:\s*\n*\s*/i,
+const isFallacyInstruction = (text: string): boolean => {
+  const line = text.trim();
+  const englishInstruction =
+    /^(?:identify|name|select|choose|which|what)\b/i.test(line) &&
+    /\b(?:fallac(?:y|ies)|bias(?:es)?|reasoning|logical error|statistical concept|concept)\b/i.test(line);
+  const frenchInstruction =
+    /^(?:identifiez|identifier|nommez|sélectionnez|selectionnez|choisissez|quel|quelle|quels|quelles)\b/i.test(line) &&
+    /\b(?:sophisme|biais|raisonnement|erreur logique|concept statistique|concept)\b/i.test(line);
+
+  return englishInstruction || frenchInstruction;
+};
+
+const stripOuterQuotationMarks = (text: string): string => {
+  const quotePairs: Array<[string, string]> = [
+    ['"', '"'],
+    ['“', '”'],
+    ['«', '»'],
   ];
+
+  for (const [opening, closing] of quotePairs) {
+    if (text.startsWith(opening) && text.endsWith(closing)) {
+      return text.slice(opening.length, -closing.length).trim();
+    }
+  }
+
+  return text;
+};
+
+/** Remove answer-category prompts and leave only the scenario shown to the player. */
+export const stripFallacyInstructionPrefix = (q: string): string => {
   let rest = q.trim();
-  for (const prefix of instructionPrefixes) {
-    rest = rest.replace(prefix, '').trim();
+
+  // Most generated questions put the instruction on its own first line.
+  const firstSeparator = rest.search(/\r?\n|\\n/);
+  if (firstSeparator >= 0) {
+    const firstLine = rest.slice(0, firstSeparator);
+    if (isFallacyInstruction(firstLine)) {
+      rest = rest
+        .slice(firstSeparator)
+        .replace(/^(?:(?:\r?\n)|(?:\\n))+\s*/, '')
+        .replace(/^\\?"/, '"')
+        .replace(/\\?"$/, '"')
+        .trim();
+    }
   }
-  if (rest.length >= 2 && rest.startsWith('"') && rest.endsWith('"')) {
-    rest = rest.slice(1, -1).trim();
+
+  // Also support compact records where the prompt and quoted scenario share a line.
+  const inlineScenario = rest.match(/^(.+?[?:])\s*(["“«].+)$/s);
+  if (inlineScenario && isFallacyInstruction(inlineScenario[1])) {
+    rest = inlineScenario[2].trim();
   }
-  return rest || q;
+
+  // Older records append the same unnecessary prompt after the scenario.
+  const trailingInstruction =
+    /(?:\s+)(?:(?:which|what)\b[^.!?]*(?:fallac(?:y|ies)|bias(?:es)?|reasoning|logical error|statistical concept|concept)[^.!?]*\?|(?:quel|quelle|quels|quelles)\b[^.!?]*(?:sophisme|biais|raisonnement|erreur logique|concept statistique|concept)[^.!?]*\?)\s*$/i;
+  rest = rest.replace(trailingInstruction, '').trim();
+
+  rest = stripOuterQuotationMarks(rest);
+  return rest || q.trim();
 };
 
 /** Two FR passes on MC options: map EN fallacy names; second pass is idempotent for already-FR strings. */
