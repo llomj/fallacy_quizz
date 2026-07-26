@@ -232,3 +232,93 @@ function make(fr = false): Question[] {
 
 export const APPEAL_TO_EMOTION_EXPANSION_EN: Question[] = make();
 export const APPEAL_TO_EMOTION_EXPANSION_FR: Question[] = make(true);
+const EXTRA_SCENARIOS: ReadonlyArray<readonly [string, string]> = [
+  ['A bakery ad says only a heartless person would skip this cupcake, so Mina buys it even though she is not hungry.', 'Une pub de boulangerie dit que seule une personne sans cœur sauterait ce cupcake, alors Mina l achète même si elle n a pas faim.'],
+  ['A charity page says think of the children crying tonight, so Leo donates without reading the details.', 'Une page caritative dit de penser aux enfants qui pleureront ce soir, alors Leo donne sans lire les détails.'],
+  ['A message says brave people do not hesitate, so Ava accepts the risky change.', 'Un message dit que les personnes courageuses n hésitent pas, alors Ava accepte le changement risqué.'],
+  ['A poster says your family deserves comfort after a hard week, so Omar orders the expensive blanket.', 'Une affiche dit que votre famille mérite du confort après une semaine difficile, alors Omar commande la couverture chère.'],
+  ['A seller says the premium version is what generous people choose, so Priya pays extra.', 'Un vendeur dit que la version premium est ce que choisissent les personnes généreuses, alors Priya paie plus.'],
+  ['A sad piano track plays while the app asks for a tip, so Ben pays before reading the details.', "Un piano triste joue pendant que l application demande un pourboire, alors Ben paie avant de lire les détails."],
+  ['A speaker says only a cold person would question this rescue story, so Nora stops asking about the budget.', 'Un orateur dit que seule une personne froide remettrait en question cette histoire de sauvetage, alors Nora cesse de demander des détails sur le budget.'],
+  ['A warning says the wrong choice will embarrass your whole family, so Theo changes his answer quickly.', 'Un avertissement dit que le mauvais choix embarrassera toute votre famille, alors Theo change vite sa réponse.'],
+  ['A charity video says imagine your own child in this photo, so Rina donates on emotion alone.', 'Une vidéo caritative dit d imaginer votre propre enfant sur cette photo, alors Rina donne sous le coup de l émotion.'],
+  ['A post says refusing this event would make you selfish, so Hugo accepts the invite.', 'Une publication dit que refuser cet événement vous rendrait égoïste, alors Hugo accepte l invitation.'],
+  ['A family member tears up and says refusing would be cruel, so Lina says yes.', 'Un membre de la famille a les larmes aux yeux et dit que refuser serait cruel, alors Lina dit oui.'],
+  ['A commercial shows puppies and says the product proves you care, so Grant trusts it.', 'Une pub montre des chiots et dit que le produit prouve que vous vous souciez des autres, alors Grant y croit.'],
+  ['A friend says only selfish people would ask for more time, so Tara rushes her answer.', 'Un ami dit que seules les personnes égoïstes demanderaient plus de temps, alors Tara se précipite pour répondre.'],
+  ['A fundraising message says the children are counting on you tonight, so Sam donates without checking the cause.', 'Un message de collecte dit que les enfants comptent sur vous ce soir, alors Sam donne sans vérifier la cause.'],
+  ['A warning says your heart will regret scrolling past, so Zoe keeps reading.', 'Un avertissement dit que votre cœur regrettera de faire défiler la page, alors Zoe continue de lire.'],
+  ['A seller says this is the kind choice, so Milo accepts the premium upgrade.', 'Un vendeur dit que c est le choix le plus gentil, alors Milo accepte la mise à niveau premium.'],
+  ['A trailer uses tragic strings and slow motion, so Maya thinks the movie must be meaningful.', 'Une bande-annonce utilise des cordes tragiques et du ralenti, alors Maya pense que le film doit être profond.'],
+  ['A petition says signing now is how decent people respond, so Jules signs first and reads later.', 'Une pétition dit que signer maintenant est la façon dont les gens décents réagissent, alors Jules signe d abord et lit ensuite.'],
+  ['A post says if you ignore this story, you are ignoring suffering itself, so Mia shares it.', 'Une publication dit que si vous ignorez cette histoire, vous ignorez la souffrance elle-même, alors Mia la partage.'],
+  ['A message says your future self will thank you forever if you buy now, so Noah hits purchase.', 'Un message dit que votre futur vous vous remerciera pour toujours si vous achetez maintenant, alors Noah clique sur acheter.'],
+  ['A speaker says the only humane answer is yes, so Priya agrees even though the facts are unclear.', 'Un orateur dit que la seule réponse humaine est oui, alors Priya accepte même si les faits sont flous.'],
+  ['A charity ad says every caring person helps today, so Ben contributes right away.', 'Une pub caritative dit que toute personne attentionnée aide aujourd hui, alors Ben contribue immédiatement.'],
+  ['A social clip says the tears are real so the product must matter, so Eli trusts it.', 'Un clip social dit que les larmes sont vraies donc le produit doit compter, alors Eli y croit.'],
+  ['A plea says your kindness could save someone tonight, so Nora gives before thinking.', 'Un appel dit que votre gentillesse pourrait sauver quelqu un ce soir, alors Nora donne avant de réfléchir.'],
+  ['A banner says no loving person would walk past this need, so Kai stops to help.', 'Une bannière dit qu aucune personne aimante ne passerait devant ce besoin, alors Kai s arrête pour aider.'],
+  ['A message says the only decent response is to buy now, so Pia clicks purchase.', 'Un message dit que la seule réponse décente est d acheter maintenant, alors Pia clique sur acheter.'],
+  ['A poster says your community is begging you to help, so Omar volunteers without reading the plan.', 'Une affiche dit que votre communauté vous supplie d aider, alors Omar se porte volontaire sans lire le plan.'],
+  ['A story says the child has nobody else, so Ava sends money quickly.', 'Une histoire dit que l enfant n a personne d autre, alors Ava envoie de l argent rapidement.'],
+  ['A commercial says this purchase will make your whole house feel loved, so Leo buys it.', 'Une pub dit que cet achat fera sentir toute votre maison aimée, alors Leo l achète.'],
+  ['A flyer says good friends do not hesitate, so Rina says yes out of guilt.', 'Un prospectus dit que les vrais amis n hésitent pas, alors Rina dit oui par culpabilité.'],
+  ['A donation request says your heart will regret saying no, so Hugo contributes.', 'Une demande de don dit que votre cœur regrettera de dire non, alors Hugo contribue.'],
+  ['A headline says this is your last chance to be brave, so Lina clicks without thinking.', 'Un titre dit que c est votre dernière chance d être courageux, alors Lina clique sans réfléchir.'],
+  ['A seller says the premium version is what generous people choose, so Grant pays extra.', 'Un vendeur dit que la version premium est ce que choisissent les personnes généreuses, alors Grant paie plus.'],
+  ['A charity page says imagine your own child in this pain, so Zoe donates on emotion alone.', 'Une page caritative dit d imaginer votre propre enfant dans cette douleur, alors Zoe donne sous le coup de l émotion.'],
+  ['A message says brave people do not hesitate, so Theo accepts the risky change.', 'Un message dit que les personnes courageuses n hésitent pas, alors Theo accepte le changement risqué.'],
+  ['A video with sad music says the policy will heal your grief, so Rina agrees too quickly.', 'Une vidéo avec musique triste dit que cette politique guérira votre chagrin, alors Rina est d accord trop vite.'],
+  ['A family member says refusing the favor would be cruel, so Ben gives in.', 'Un membre de la famille dit que refuser ce service serait cruel, alors Ben cède.'],
+  ['A sales page says your family deserves this treat, so Maya buys the expensive mug.', 'Une page de vente dit que votre famille mérite cette récompense, alors Maya achète la tasse chère.'],
+  ['A warning says this is your only chance to show you care, so Sam signs immediately.', 'Un avertissement dit que c est votre seule chance de montrer que vous vous souciez des autres, alors Sam signe immédiatement.'],
+  ['A poster says the children are depending on your courage, so Priya donates without checking the facts.', 'Une affiche dit que les enfants dépendent de votre courage, alors Priya donne sans vérifier les faits.'],
+  ['A message says decent people do not ask questions, so Noah accepts the deal.', 'Un message dit que les gens décents ne posent pas de questions, alors Noah accepte l offre.'],
+  ['A commercial shows tears and says the product will mend your life, so Iris trusts it.', 'Une pub montre des larmes et dit que le produit réparera votre vie, alors Iris y croit.'],
+  ['A billboard says only selfish people walk away, so Cole stays involved.', 'Un panneau dit que seuls les gens égoïstes s éloignent, alors Cole reste impliqué.'],
+  ['A campaign ad says the world will be kinder if you buy now, so Tia treats it like a moral duty.', 'Une pub de campagne dit que le monde sera plus gentil si vous achetez maintenant, alors Tia traite cela comme un devoir moral.'],
+  ['A plea says the rescue needs you this minute, so Evan gives before thinking.', 'Un appel dit que le sauvetage a besoin de vous à cette minute, alors Evan donne avant de réfléchir.'],
+  ['A speaker says real friends would support this, so Juno goes along.', 'Un orateur dit que les vrais amis soutiendraient cela, alors Juno suit le mouvement.'],
+  ['A charity ad says think of the crying puppy, so Lena donates without looking at the organization.', 'Une pub caritative dit de penser au chiot qui pleure, alors Lena donne sans regarder l organisation.'],
+  ['A text says saying no would disappoint everyone who believes in you, so Owen agrees.', 'Un texto dit que dire non décevrait tous ceux qui croient en vous, alors Owen accepte.'],
+  ['A seller says the more expensive option is the loving option, so Mia pays more.', 'Un vendeur dit que l option la plus chère est l option aimante, alors Mia paie plus.'],
+  ['A video says the child has no one else, so Noah gives up his doubts and donates.', 'Une vidéo dit que l enfant n a personne d autre, alors Noah renonce à ses doutes et donne.'],
+  ['A poster says your grandmother would be proud if you buy now, so Priya feels pushed to purchase.', 'Une affiche dit que votre grand-mère serait fière si vous achetez maintenant, alors Priya se sent poussée à acheter.'],
+  ['A warning says this offer is your last chance to be kind, so Ben clicks buy.', 'Un avertissement dit que cette offre est votre dernière chance d être gentil, alors Ben clique sur acheter.'],
+  ['A fundraiser says children will suffer tonight unless you act, so Tara gives on impulse.', 'Une collecte dit que des enfants souffriront ce soir si vous n agissez pas, alors Tara donne sur un coup de tête.'],
+  ['A message says good neighbors help immediately, so Kai accepts a bad bargain.', 'Un message dit que les bons voisins aident immédiatement, alors Kai accepte une mauvaise affaire.'],
+];
+
+function appendExtra(language: 'en' | 'fr'): Question[] {
+  return EXTRA_SCENARIOS.map(([english, french], index) => {
+    const correctIndex = index % 4;
+    const isFrench = language === 'fr';
+    return {
+      id: 30451 + index,
+      level: 1,
+      persona_stage: PersonaStage.PLANKTON,
+      concept: isFrench ? "Appel à l'émotion" : 'Appeal to Emotion',
+      difficulty: index < 17 ? 1 : index < 34 ? 2 : 3,
+      subLevel: sub(index),
+      question: `${isFrench ? 'Quel sophisme est illustré ici ?' : 'Which fallacy is illustrated here?'}\n\n"${isFrench ? french : english}"`,
+      options: rotate(isFrench ? FR : EN, correctIndex),
+      correct_option_index: correctIndex,
+      explanation: isFrench
+        ? "Le message essaie de déclencher la peur, la culpabilité ou la pitié pour vous faire accepter la conclusion."
+        : 'The message tries to trigger fear, guilt, or pity to get you to accept the conclusion.',
+      detailedExplanationBeginner: isFrench
+        ? "L émotion remplace la preuve."
+        : 'Emotion is replacing evidence.',
+      detailedExplanationIntermediate: isFrench
+        ? "Le sentiment peut pousser à agir vite, mais il ne montre pas si la conclusion est vraie ou juste."
+        : 'The feeling may push you to act quickly, but it does not show whether the conclusion is true or fair.',
+      detailedExplanationExpert: isFrench
+        ? "L appel à l émotion devient fautif quand l intensité affective sert de preuve à la place des faits et du contexte."
+        : 'Appeal to emotion becomes faulty when emotional intensity is used in place of facts and context.',
+      questionFormat: 'standard',
+    };
+  });
+}
+
+export const APPEAL_TO_EMOTION_EXPANSION_EXTRA_EN: Question[] = appendExtra('en');
+export const APPEAL_TO_EMOTION_EXPANSION_EXTRA_FR: Question[] = appendExtra('fr');

@@ -94,6 +94,7 @@
   - [x] Appeal to Authority: IDs 30351-30400, 50 EN + 50 FR, additive to 132 existing questions.
     - [x] Appeal to Authority extra batch: appended 54 bilingual scenarios in `src/data/questions/expansions/appealToAuthorityExpansion.ts`.
   - [x] Appeal to Emotion: IDs 30401-30450, 50 EN + 50 FR, additive to 231 existing questions.
+    - [x] Appeal to Emotion extra batch: appended 54 bilingual scenarios in `src/data/questions/expansions/appealToEmotionExpansion.ts`.
   - [x] Appeal to Fear: IDs 30451-30500, 50 EN + 50 FR, additive to 8 existing questions.
   - [x] Appeal to Ignorance: IDs 30501-30550, 50 EN + 50 FR, additive to 7 existing questions.
   - [x] Appeal to Incredulity: IDs 30551-30600, 50 EN + 50 FR, additive to 12 existing questions.
