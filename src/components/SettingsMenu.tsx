@@ -248,7 +248,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return colorPickerShell(
       <>
         <button
-          onClick={withClickSound(() => { setMutationColorsSubmenuOpen(false); setCustomiseSubmenuOpen(true); })}
+          onClick={withClickSound(() => { setMutationColorsSubmenuOpen(false); setPanelSubmenuOpen(true); })}
           className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
         >
           <i className="fas fa-arrow-left text-sm w-5 flex-shrink-0"></i>
@@ -291,7 +291,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return colorPickerShell(
       <>
         <button
-          onClick={withClickSound(() => { setQuizAccentSubmenuOpen(false); setCustomiseSubmenuOpen(true); })}
+          onClick={withClickSound(() => { setQuizAccentSubmenuOpen(false); setPanelSubmenuOpen(true); })}
           className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
         >
           <i className="fas fa-arrow-left text-sm w-5 flex-shrink-0"></i>
@@ -376,6 +376,22 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               <i className="fas fa-arrow-left text-sm w-5 flex-shrink-0"></i>
               <span className="text-sm font-medium">{t('settings.back')}</span>
             </button>
+            <button
+              onClick={withClickSound(() => { setPanelSubmenuOpen(false); setMutationColorsSubmenuOpen(true); })}
+              className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+            >
+              <i className="fas fa-wand-magic-sparkles text-sm w-5 flex-shrink-0"></i>
+              <span className="text-sm font-medium">{t('settings.mutationButtonColors')}</span>
+              <i className="fas fa-chevron-right text-xs ml-auto"></i>
+            </button>
+            <button
+              onClick={withClickSound(() => { setPanelSubmenuOpen(false); setQuizAccentSubmenuOpen(true); })}
+              className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+            >
+              <i className="fas fa-highlighter text-sm w-5 flex-shrink-0"></i>
+              <span className="text-sm font-medium">{t('settings.quizAccentColor')}</span>
+              <i className="fas fa-chevron-right text-xs ml-auto"></i>
+            </button>
             <div className="px-4 py-3">
               <div className="flex items-center gap-3 mb-3">
                 <i className="fas fa-sliders text-sm w-5 flex-shrink-0 text-slate-400"></i>
@@ -394,7 +410,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                 />
               </div>
               <p className="text-[10px] text-slate-500 mt-2 text-center">
-                Low = more see-through, High = more solid
+                {t('settings.panelOpacityHint')}
               </p>
             </div>
           </div>
@@ -473,22 +489,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             >
               <i className="fas fa-volume-high text-sm w-5 flex-shrink-0"></i>
               <span className="text-sm font-medium">{t('settings.sounds')}</span>
-              <i className="fas fa-chevron-right text-xs ml-auto"></i>
-            </button>
-            <button
-              onClick={withClickSound(() => { setCustomiseSubmenuOpen(false); setMutationColorsSubmenuOpen(true); })}
-              className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
-            >
-              <i className="fas fa-wand-magic-sparkles text-sm w-5 flex-shrink-0"></i>
-              <span className="text-sm font-medium">{t('settings.mutationButtonColors')}</span>
-              <i className="fas fa-chevron-right text-xs ml-auto"></i>
-            </button>
-            <button
-              onClick={withClickSound(() => { setCustomiseSubmenuOpen(false); setQuizAccentSubmenuOpen(true); })}
-              className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
-            >
-              <i className="fas fa-highlighter text-sm w-5 flex-shrink-0"></i>
-              <span className="text-sm font-medium">{t('settings.quizAccentColor')}</span>
               <i className="fas fa-chevron-right text-xs ml-auto"></i>
             </button>
             <button
