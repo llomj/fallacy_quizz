@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Dan says the rare beep at the gate means the visitor is guilty of sneaking in.', 'Dan dit que le rare bip a la porte signifie que le visiteur est coupable de s etre infiltre.'],
   ['Rosa says the positive signal is so specific that the suspect is guilty for sure.', 'Rosa dit que le signal positif est si specifique que le suspect est certainement coupable.'],
   ['Alicia says the evidence should be treated as a conviction because honest cases almost never produce it.', 'Alicia dit que la preuve devrait etre traitee comme une condamnation parce que les cas honnetes la produisent presque jamais.'],
+  ['Marek says the scanner warning is so rare in innocent cases that it is basically proof of guilt.', 'Marek dit que l avertissement du scanner est si rare dans les cas innocents que c est pratiquement une preuve de culpabilite.'],
 ];
 
 const OPTIONS_EN = [
