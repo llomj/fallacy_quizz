@@ -696,6 +696,15 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             </React.Fragment>
           ))}
 
+          {onToggleStats !== undefined && (
+            <ToggleSwitch
+              checked={statsEnabled}
+              onChange={withClickSound(onToggleStats)}
+              label={t('settings.stats')}
+              icon={statsEnabled ? 'fa-chart-simple' : 'fa-eye-slash'}
+            />
+          )}
+
           <div className="px-4 py-2 text-[10px] text-slate-500 text-center border-t border-white/5">
             v{typeof __APP_VERSION__ !== 'undefined' ? __APP_VERSION__ : 'dev'} • Build: {typeof __BUILD_TIME__ !== 'undefined' ? __BUILD_TIME__ : 'dev'}
           </div>
