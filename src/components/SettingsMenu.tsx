@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 
 declare const __BUILD_TIME__: string | undefined;
 declare const __APP_VERSION__: string | undefined;
@@ -18,10 +18,12 @@ const ToggleSwitch: React.FC<{
   onChange: () => void;
   label: string;
   icon: string;
-}> = ({ checked, onChange, label, icon }) => (
+  order?: number;
+}> = ({ checked, onChange, label, icon, order }) => (
   <button
     type="button"
     onClick={onChange}
+    style={{ order }}
     className="w-full flex items-center justify-between gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
   >
     <div className="flex items-center gap-3">
@@ -129,6 +131,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   const [quizAccentSubmenuOpen, setQuizAccentSubmenuOpen] = useState(false);
   const [rulesSearchId, setRulesSearchId] = useState('');
   const [logSearchId, setLogSearchId] = useState('');
+  const panelRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     if (!isOpen) {
@@ -143,6 +146,22 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
       setLogSearchId('');
     }
   }, [isOpen]);
+
+  useEffect(() => {
+    if (!isOpen) return;
+
+    const closeWhenOutside = (event: MouseEvent) => {
+      const target = event.target;
+      if (target instanceof Node && !panelRef.current?.contains(target)) {
+        event.preventDefault();
+        event.stopPropagation();
+        onClose();
+      }
+    };
+
+    document.addEventListener('click', closeWhenOutside, true);
+    return () => document.removeEventListener('click', closeWhenOutside, true);
+  }, [isOpen, onClose]);
 
   const handleRulesSearchById = () => {
     const id = parseInt(rulesSearchId.trim(), 10);
@@ -171,12 +190,23 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   const hasRulesContent = Boolean(onShowGameRules || onShowArgumentation || onShowGlossary);
   const withClickSound = (fn: () => void) => () => { onPlayClickSound?.(); fn(); };
 
-  const menuItems: { icon: string; label: string; onClick: () => void; active?: boolean }[] = [];
+  const collator = new Intl.Collator(language, { sensitivity: 'base' });
+  const orderFor = (labels: string[]) =>
+    new Map([...labels].sort((a, b) => collator.compare(a, b)).map((label, index) => [label, index]));
+  const menuItems: {
+    icon: string;
+    label: string;
+    onClick: () => void;
+    active?: boolean;
+    destructive?: boolean;
+    hasSubmenu?: boolean;
+  }[] = [];
 
   menuItems.push({
     icon: 'fa-palette',
     label: t('settings.customise'),
-    onClick: withClickSound(() => setCustomiseSubmenuOpen(prev => !prev))
+    onClick: withClickSound(() => setCustomiseSubmenuOpen(prev => !prev)),
+    hasSubmenu: true,
   });
 
   if (onToggleLanguage) {
@@ -192,7 +222,8 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     menuItems.push({
       icon: 'fa-clipboard-list',
       label: t('settings.log'),
-      onClick: withClickSound(() => setLogSubmenuOpen(prev => !prev))
+      onClick: withClickSound(() => setLogSubmenuOpen(prev => !prev)),
+      hasSubmenu: true,
     });
   }
 
@@ -211,7 +242,8 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     menuItems.push({
       icon: 'fa-gavel',
       label: t('settings.rules'),
-      onClick: withClickSound(() => setRulesSubmenuOpen(prev => !prev))
+      onClick: withClickSound(() => setRulesSubmenuOpen(prev => !prev)),
+      hasSubmenu: true,
     });
   }
 
@@ -234,12 +266,64 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     });
   }
 
+  if (onResetApp) {
+    menuItems.push({
+      icon: 'fa-rotate-left',
+      label: t('settings.resetApp'),
+      destructive: true,
+      onClick: withClickSound(() => {
+        onResetApp();
+        onClose();
+      }),
+    });
+  }
+
+  menuItems.sort((a, b) => collator.compare(a.label, b.label));
+
+  const customiseOrder = orderFor([
+    t('settings.customiseSettingsPanel'),
+    t('settings.sounds'),
+    t('settings.stats'),
+  ]);
+  const soundsOrder = orderFor([
+    t('settings.haptic'),
+    t('settings.lightMode'),
+    t('settings.sound'),
+  ]);
+  const panelOrder = orderFor([
+    t('settings.mutationButtonColors'),
+    t('settings.panelTransparency'),
+    t('settings.quizAccentColor'),
+  ]);
+  const logOrder = orderFor([
+    t('app.fallacyLog') || 'Fallacy Log',
+    t('settings.idLog'),
+    t('app.learningLog'),
+    t('settings.searchById'),
+  ]);
+  const rulesOrder = orderFor([
+    t('gameRules.title'),
+    t('app.glossary'),
+    t('settings.logicalRules'),
+    t('settings.searchById'),
+  ]);
+  const sortedMutationGradients = [...MUTATION_GRADIENTS].sort((a, b) =>
+    collator.compare(language === 'fr' ? a.labelFr : a.labelEn, language === 'fr' ? b.labelFr : b.labelEn)
+  );
+  const sortedQuizAccents = [...QUIZ_ACCENTS].sort((a, b) =>
+    collator.compare(language === 'fr' ? a.labelFr : a.labelEn, language === 'fr' ? b.labelFr : b.labelEn)
+  );
+  const quizAccentOrder = orderFor([
+    ...QUIZ_ACCENTS.map((accent) => language === 'fr' ? accent.labelFr : accent.labelEn),
+    t('settings.customColor'),
+  ]);
+
   const basePath = typeof window !== 'undefined' ? (import.meta.env.BASE_URL || '/') : '/';
 
   const colorPickerShell = (children: React.ReactNode) => (
     <>
       <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
-      <div className={`z-[70] min-w-[200px] w-[300px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+      <div ref={panelRef} className={`z-[70] min-w-[200px] w-[300px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
         <div
           className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
           style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
@@ -266,7 +350,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             <span className="text-sm font-semibold text-slate-200">{t('settings.mutationButtonColors')}</span>
           </div>
           <div className="grid grid-cols-2 gap-2 mt-2">
-            {MUTATION_GRADIENTS.map((gradient) => (
+            {sortedMutationGradients.map((gradient) => (
               <button
                 key={gradient.id}
                 type="button"
@@ -309,12 +393,13 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             <span className="text-sm font-semibold text-slate-200">{t('settings.quizAccentColor')}</span>
           </div>
           <div className="grid grid-cols-3 gap-2 mt-2">
-            {QUIZ_ACCENTS.map((accent) => (
+            {sortedQuizAccents.map((accent) => (
               <button
                 key={accent.id}
                 type="button"
                 aria-pressed={quizAccent === accent.id}
                 onClick={withClickSound(() => onSetQuizAccent?.(accent.id))}
+                style={{ order: quizAccentOrder.get(language === 'fr' ? accent.labelFr : accent.labelEn) }}
                 className={`rounded-xl border p-2 text-center transition-all ${
                   quizAccent === accent.id
                     ? 'border-white/80 bg-white/10'
@@ -331,6 +416,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               </button>
             ))}
             <label
+              style={{ order: quizAccentOrder.get(t('settings.customColor')) }}
               className={`col-span-3 rounded-xl border p-2.5 cursor-pointer transition-all ${
                 quizAccent === 'custom'
                   ? 'border-white/80 bg-white/10'
@@ -370,9 +456,9 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return (
       <>
         <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
-        <div className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+        <div ref={panelRef} className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
-            className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
+            className="flex flex-col rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
             style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
           >
             <button
@@ -384,6 +470,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             </button>
             <button
               onClick={withClickSound(() => { setPanelSubmenuOpen(false); setMutationColorsSubmenuOpen(true); })}
+              style={{ order: panelOrder.get(t('settings.mutationButtonColors')) }}
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
             >
               <i className="fas fa-wand-magic-sparkles text-sm w-5 flex-shrink-0"></i>
@@ -392,13 +479,17 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             </button>
             <button
               onClick={withClickSound(() => { setPanelSubmenuOpen(false); setQuizAccentSubmenuOpen(true); })}
+              style={{ order: panelOrder.get(t('settings.quizAccentColor')) }}
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
             >
               <i className="fas fa-highlighter text-sm w-5 flex-shrink-0"></i>
               <span className="text-sm font-medium">{t('settings.quizAccentColor')}</span>
               <i className="fas fa-chevron-right text-xs ml-auto"></i>
             </button>
-            <div className="px-4 py-3">
+            <div
+              className="px-4 py-3"
+              style={{ order: panelOrder.get(t('settings.panelTransparency')) }}
+            >
               <div className="flex items-center gap-3 mb-3">
                 <i className="fas fa-sliders text-sm w-5 flex-shrink-0 text-slate-400"></i>
                 <span className="text-sm font-medium text-slate-300">{t('settings.panelTransparency')}</span>
@@ -430,9 +521,9 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return (
       <>
         <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
-        <div className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+        <div ref={panelRef} className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
-            className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
+            className="flex flex-col rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
             style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
           >
             <button
@@ -448,6 +539,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                 onChange={withClickSound(onToggleHaptic)}
                 label={t('settings.haptic')}
                 icon="fa-hand"
+                order={soundsOrder.get(t('settings.haptic'))}
               />
             )}
             {onToggleLightMode !== undefined && (
@@ -456,6 +548,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                 onChange={withClickSound(onToggleLightMode)}
                 label={t('settings.lightMode')}
                 icon={lightMode ? 'fa-sun' : 'fa-moon'}
+                order={soundsOrder.get(t('settings.lightMode'))}
               />
             )}
             {onToggleSound !== undefined && (
@@ -464,6 +557,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                 onChange={withClickSound(onToggleSound)}
                 label={t('settings.sound')}
                 icon={soundEnabled ? 'fa-volume-high' : 'fa-volume-xmark'}
+                order={soundsOrder.get(t('settings.sound'))}
               />
             )}
           </div>
@@ -477,9 +571,9 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return (
       <>
         <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
-        <div className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+        <div ref={panelRef} className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
-            className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
+            className="flex flex-col rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
             style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
           >
             <button
@@ -491,6 +585,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             </button>
             <button
               onClick={withClickSound(() => { setCustomiseSubmenuOpen(false); setPanelSubmenuOpen(true); })}
+              style={{ order: customiseOrder.get(t('settings.customiseSettingsPanel')) }}
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
             >
               <i className="fas fa-sliders text-sm w-5 flex-shrink-0"></i>
@@ -499,6 +594,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             </button>
             <button
               onClick={withClickSound(() => { setCustomiseSubmenuOpen(false); setSoundsSubmenuOpen(true); })}
+              style={{ order: customiseOrder.get(t('settings.sounds')) }}
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
             >
               <i className="fas fa-volume-high text-sm w-5 flex-shrink-0"></i>
@@ -511,6 +607,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                 onChange={withClickSound(onToggleStats)}
                 label={t('settings.stats')}
                 icon={statsEnabled ? 'fa-chart-simple' : 'fa-eye-slash'}
+                order={customiseOrder.get(t('settings.stats'))}
               />
             )}
           </div>
@@ -524,9 +621,9 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return (
       <>
         <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
-        <div className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+        <div ref={panelRef} className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
-            className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
+            className="flex flex-col rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
             style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
           >
             <button
@@ -539,6 +636,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             {onShowFallacyLog && (
               <button
                 onClick={withClickSound(() => { onShowFallacyLog(); onClose(); })}
+                style={{ order: logOrder.get(t('app.fallacyLog') || 'Fallacy Log') }}
                 className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
               >
                 <i className="fas fa-bookmark text-sm w-5 flex-shrink-0"></i>
@@ -548,6 +646,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             {onShowIdLog && (
               <button
                 onClick={withClickSound(() => { onShowIdLog(); onClose(); })}
+                style={{ order: logOrder.get(t('settings.idLog')) }}
                 className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
               >
                 <i className="fas fa-list text-sm w-5 flex-shrink-0"></i>
@@ -557,6 +656,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             {onShowLearningLog && (
               <button
                 onClick={withClickSound(() => { onShowLearningLog(); onClose(); })}
+                style={{ order: logOrder.get(t('app.learningLog')) }}
                 className={`w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left ${view === 'log' ? 'bg-yellow-400/15 text-yellow-300' : 'text-slate-300 hover:bg-white/10 hover:text-white'}`}
               >
                 <i className="fas fa-book-open text-sm w-5 flex-shrink-0"></i>
@@ -564,7 +664,11 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               </button>
             )}
             {onShowIdSearch && (
-              <div className="w-full px-4 py-3" onClick={(e) => e.stopPropagation()}>
+              <div
+                className="w-full px-4 py-3"
+                style={{ order: logOrder.get(t('settings.searchById')) }}
+                onClick={(e) => e.stopPropagation()}
+              >
                 <div className="flex items-center gap-2">
                   <i className="fas fa-hashtag text-sm w-5 flex-shrink-0 text-slate-400"></i>
                   <input
@@ -601,9 +705,9 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return (
       <>
         <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
-        <div className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+        <div ref={panelRef} className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
-            className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
+            className="flex flex-col rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
             style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
           >
             <button
@@ -616,6 +720,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             {onShowGameRules && (
               <button
                 onClick={withClickSound(() => { onShowGameRules(); onClose(); })}
+                style={{ order: rulesOrder.get(t('gameRules.title')) }}
                 className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
               >
                 <i className="fas fa-circle-info text-sm w-5 flex-shrink-0"></i>
@@ -625,6 +730,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             {onShowGlossary && (
               <button
                 onClick={withClickSound(() => { onShowGlossary(); onClose(); })}
+                style={{ order: rulesOrder.get(t('app.glossary')) }}
                 className={`w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left ${view === 'glossary' ? 'bg-yellow-400/15 text-yellow-300' : 'text-slate-300 hover:bg-white/10 hover:text-white'}`}
               >
                 <i className="fas fa-circle-info text-sm w-5 flex-shrink-0"></i>
@@ -634,6 +740,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             {onShowArgumentation && (
               <button
                 onClick={withClickSound(() => { onShowArgumentation(); onClose(); })}
+                style={{ order: rulesOrder.get(t('settings.logicalRules')) }}
                 className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
               >
                 <i className="fas fa-scale-balanced text-sm w-5 flex-shrink-0"></i>
@@ -641,7 +748,11 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               </button>
             )}
             {onShowIdSearch && (
-              <div className="flex items-center gap-2 px-4 py-3" onClick={(e) => e.stopPropagation()}>
+              <div
+                className="flex items-center gap-2 px-4 py-3"
+                style={{ order: rulesOrder.get(t('settings.searchById')) }}
+                onClick={(e) => e.stopPropagation()}
+              >
                 <i className="fas fa-magnifying-glass text-sm w-5 flex-shrink-0 text-slate-400"></i>
                 <input
                   type="text"
@@ -676,7 +787,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
         className="absolute inset-0 bg-black/60 cursor-pointer"
         onClick={onClose}
       />
-      <div className={`relative z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}
+      <div ref={panelRef} className={`relative z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}
         onClick={(e) => e.stopPropagation()}
       >
         <div
@@ -689,7 +800,9 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                 onClick={item.onClick}
                 className={`
                   w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left
-                  ${item.active
+                  ${item.destructive
+                    ? 'text-amber-400 hover:bg-amber-500/10 hover:text-amber-300'
+                    : item.active
                     ? 'bg-yellow-400/15 text-yellow-300'
                     : 'text-slate-300 hover:bg-white/10 hover:text-white'
                   }
@@ -697,7 +810,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               >
                 <i className={`fas ${item.icon} text-sm w-5 flex-shrink-0`}></i>
                 <span className="text-sm font-medium">{item.label}</span>
-                {(item.label === t('settings.rules') || item.label === 'Customise' || item.label === t('settings.log')) && (
+                {item.hasSubmenu && (
                   <i className="fas fa-chevron-right text-xs ml-auto"></i>
                 )}
               </button>
@@ -707,21 +820,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
           <div className="px-4 py-2 text-[10px] text-slate-500 text-center border-t border-white/5">
             v{typeof __APP_VERSION__ !== 'undefined' ? __APP_VERSION__ : 'dev'} • Build: {typeof __BUILD_TIME__ !== 'undefined' ? __BUILD_TIME__ : 'dev'}
           </div>
-          {onResetApp && (
-            <>
-              <div className="my-2 border-t border-white/10" />
-              <button
-                onClick={withClickSound(() => {
-                  onResetApp();
-                  onClose();
-                })}
-                className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-amber-400 hover:bg-amber-500/10 hover:text-amber-300"
-              >
-                <i className="fas fa-rotate-left text-sm w-5 flex-shrink-0"></i>
-                <span className="text-sm font-medium">{t('settings.resetApp')}</span>
-              </button>
-            </>
-          )}
         </div>
       </div>
     </div>

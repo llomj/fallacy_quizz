@@ -80,6 +80,8 @@ This lists EN questions where long tokens from the keyed answer appear in the st
 
 **Quiz:** `variant="quiz"` — row under the mutation line, above the question progress bar.
 
+**No wrapping:** Both variants use an explicit `flex-nowrap` four-column row. All four stat containers have zero padding, border, and background so Accuracy cannot drop into a separate panel or second row on mobile.
+
 **Still wrong on device?**
 
 | Check | Action |
@@ -91,6 +93,16 @@ This lists EN questions where long tokens from the keyed answer appear in the st
 **Past mistakes (don’t re-introduce):** Only flex + left-column placement; JSX that failed `vite build`; clipping in quiz header only.
 
 **Verification (prod build):** `npm run build && npm run preview` → open `/fallacy_quizz/` → Settings → confirm Random mode → return to the hub → Total Answered, Incorrect, Correct, and Accuracy appear on one row under the Random Mode description, with no separate Accuracy panel.
+
+---
+
+## Active quiz refresh persistence
+
+**Rule:** Refreshing while a quiz question is visible must restore the exact batch, question ID, option order, question index, answer state, score, Codon expansion state, and explanation depth. It must not return to the hub.
+
+**Startup requirement:** Saved stats are loaded synchronously in the `useState` initializer before the initial view is chosen. Do not move stats hydration back into a mount effect: the persistence effect can otherwise overwrite saved stats with defaults, and React Strict Mode can then invalidate and clear the active quiz session.
+
+**Verification:** Start a quiz, record the question ID, and reload before answering; the same ID and options must remain. Answer it, reload again, and confirm the same ID, disabled answer state, feedback, Codon explanation, and Random Mode statistics remain.
 
 ---
 

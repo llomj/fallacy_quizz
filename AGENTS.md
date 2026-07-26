@@ -95,8 +95,10 @@ Before any commit that should go live, confirm with `git remote -v` that you wil
 - **Wrong-answer highlight:** When the user selects the wrong answer, only the **option panel** (the clicked wrong-answer button) must light up with **#FF00FF** (border/glow). The main quiz card border must **not** change to FF00FF; only the wrong-answer choice panel should use that color.
 
 ## 11. Settings Menu Order (STRICT)
-- **Do not change the order of settings menu items** unless the user explicitly asks to do so.
-- **Canonical order** (top to bottom): (1) Random mode (switch), (2) Select level, (3) Search by ID, (4) ID Log, (5) Learning log, (6) Logical rules, (7) Glossary, (8) Translation (language toggle), (9) Refresh app, (10) Reset. Items are only shown when their handler is provided; the order of those that appear must follow this list.
+- **Alphabetical order:** Every visible list in Settings must be alphabetized by its displayed label in the active language. This includes the main menu, Customize, Sounds, Customize Settings, Log, Rules, mutation gradients, quiz accent colors, and custom color.
+- **Navigation exception:** Back remains first in submenus. Build/version information is metadata and remains after the menu items.
+- **Dynamic labels:** Mode and language controls must be sorted using the label currently shown to the user, not a fixed English key.
+- **Outside dismissal:** Tapping or clicking outside any open Settings panel must close it without activating the control underneath.
 
 ## 12. Offline PWA Requirement (CRITICAL)
 - **Goal**: The application must run fully offline when opened from the phone's home screen or browser.

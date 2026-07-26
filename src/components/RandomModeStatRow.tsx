@@ -21,43 +21,12 @@ export const RandomModeStatRow: React.FC<RandomModeStatRowProps> = ({
   const incorrect = totalAnswered - totalCorrect;
   const isQuiz = variant === 'quiz';
   const accuracy = totalAnswered > 0 ? Math.round((totalCorrect / totalAnswered) * 100) : 0;
-
-  if (isQuiz) {
-    const quizStat = (label: string, value: string | number, colorClass: string) => (
-      <div className="grid min-w-0 grid-rows-[2rem_1.5rem] text-center">
-        <div className="flex min-h-0 items-end justify-center">
-          <span className="text-[8px] font-bold uppercase leading-tight tracking-wider text-slate-400">
-            {label}
-          </span>
-        </div>
-        <span className={`flex h-6 items-center justify-center text-base font-black tabular-nums ${colorClass}`}>
-          {value}
-        </span>
-      </div>
-    );
-
-    return (
-      <div
-        className="grid w-full grid-cols-4 gap-3"
-        role="group"
-        aria-label={`${t('hub.totalAnswered')}, ${t('hub.incorrect')}, ${t('hub.correct')}, ${t('hub.accuracy')}`}
-      >
-        {quizStat(t('hub.totalAnswered'), totalAnswered, 'text-white')}
-        {quizStat(t('hub.incorrect'), incorrect, 'text-[#FF00FF]')}
-        {quizStat(t('hub.correct'), totalCorrect, 'text-green-400')}
-        {quizStat(t('hub.accuracy'), `${accuracy}%`, 'text-cyan-300')}
-      </div>
-    );
-  }
-
-  const hubStat = (label: string, value: string | number, colorClass: string) => (
-    <div className="grid min-w-0 grid-rows-[2.25rem_1.75rem] text-center">
-      <div className="flex min-h-0 items-end justify-center">
-        <span className="text-[8px] font-bold uppercase leading-tight tracking-wider text-slate-400">
-          {label}
-        </span>
-      </div>
-      <span className={`flex h-7 items-center justify-center text-lg font-black tabular-nums ${colorClass}`}>
+  const stat = (label: string, value: string | number, colorClass: string) => (
+    <div className="flex min-w-0 flex-1 flex-col items-center justify-start gap-1 text-center">
+      <span className="flex h-8 items-end justify-center text-[8px] font-bold uppercase leading-tight tracking-normal text-slate-400">
+        {label}
+      </span>
+      <span className={`flex h-7 items-center justify-center font-black tabular-nums ${isQuiz ? 'text-base' : 'text-lg'} ${colorClass}`}>
         {value}
       </span>
     </div>
@@ -65,14 +34,15 @@ export const RandomModeStatRow: React.FC<RandomModeStatRowProps> = ({
 
   return (
     <div
-      className="grid w-full grid-cols-4 gap-2 sm:gap-3"
+      className="flex w-full flex-nowrap items-start gap-0"
+      data-testid={`random-mode-stats-${variant}`}
       role="group"
       aria-label={`${t('hub.totalAnswered')}, ${t('hub.incorrect')}, ${t('hub.correct')}, ${t('hub.accuracy')}`}
     >
-      {hubStat(t('hub.totalAnswered'), totalAnswered, 'text-white')}
-      {hubStat(t('hub.incorrect'), incorrect, 'text-[#FF00FF]')}
-      {hubStat(t('hub.correct'), totalCorrect, 'text-green-400')}
-      {hubStat(t('hub.accuracy'), `${accuracy}%`, 'text-cyan-300')}
+      {stat(t('hub.totalAnswered'), totalAnswered, 'text-white')}
+      {stat(t('hub.incorrect'), incorrect, 'text-[#FF00FF]')}
+      {stat(t('hub.correct'), totalCorrect, 'text-green-400')}
+      {stat(t('hub.accuracy'), `${accuracy}%`, 'text-cyan-300')}
     </div>
   );
 };

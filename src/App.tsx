@@ -43,6 +43,71 @@ const INITIAL_STATS: UserStats = {
   randomMode: false
 };
 
+const loadStoredStats = (): UserStats => {
+  if (typeof window === 'undefined') return INITIAL_STATS;
+
+  const saved = localStorage.getItem(LOCAL_STORAGE_KEY);
+  if (!saved) return INITIAL_STATS;
+
+  try {
+    const parsed = JSON.parse(saved) as UserStats;
+    if (!parsed.history) parsed.history = [];
+    if (!parsed.completedQuestionIds) parsed.completedQuestionIds = [];
+    if (!parsed.idLog) parsed.idLog = [];
+    if (parsed.totalAttempts === undefined) parsed.totalAttempts = parsed.history.length || 0;
+
+    const stateVersion = parsed.stateVersion ?? 0;
+    if (stateVersion < 2 && Array.isArray(parsed.completedQuestionIds)) {
+      parsed.completedQuestionIds = parsed.completedQuestionIds.map((id: number) =>
+        id >= 1 && id <= 3000 ? id + 300 : id
+      );
+      parsed.stateVersion = 2;
+    }
+
+    const levelProgress = parsed.levelProgress || {};
+    const history = Array.isArray(parsed.history) ? parsed.history : [];
+    const levels = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+    if ((parsed.stateVersion ?? 0) < 3) {
+      const correctPerLevel: Record<number, number> = parsed.correctPerLevel || {};
+      for (const level of levels) {
+        const atLevel = history.filter((attempt: QuestionAttempt) => attempt.level === level);
+        const totalInHistory = atLevel.length;
+        const correctInHistory = atLevel.filter((attempt: QuestionAttempt) => attempt.isCorrect).length;
+        if (totalInHistory > 0) {
+          correctPerLevel[level] = correctInHistory;
+          levelProgress[level] = Math.max(levelProgress[level] || 0, totalInHistory);
+        }
+      }
+      parsed.correctPerLevel = correctPerLevel;
+      parsed.levelProgress = levelProgress;
+      const migratedStars: Record<number, number> = {};
+      for (const level of levels) {
+        const progress = levelProgress[level] || 0;
+        const correct = parsed.correctPerLevel[level] || 0;
+        if (progress > 0) migratedStars[level] = getStarsFromAccuracy((100 * correct) / progress);
+      }
+      parsed.acquiredStars = { ...(parsed.acquiredStars || {}), ...migratedStars };
+      parsed.stateVersion = 3;
+    } else if (!parsed.correctPerLevel) {
+      parsed.correctPerLevel = {};
+    }
+
+    if (!parsed.randomModeStats) parsed.randomModeStats = { totalAnswered: 0, totalCorrect: 0 };
+    if (parsed.randomMode === undefined) parsed.randomMode = false;
+    if ((parsed.stateVersion ?? 0) < 4) {
+      parsed.randomModeXp = 0;
+      parsed.stateVersion = 4;
+    }
+    if (parsed.randomModeXp === undefined) parsed.randomModeXp = 0;
+    if (!parsed.fallacyLog) parsed.fallacyLog = [];
+    return parsed;
+  } catch (error) {
+    console.error('Corrupted state, resetting', error);
+    clearActiveQuizSession();
+    return INITIAL_STATS;
+  }
+};
+
 
 const QuizView = lazy(() => import('./components/QuizView').then((module) => ({ default: module.QuizView })));
 const HistoryLog = lazy(() => import('./components/HistoryLog').then((module) => ({ default: module.HistoryLog })));
@@ -87,7 +152,7 @@ const DEFAULT_PREFS: AppPreferences = {
 
 const App: React.FC = () => {
   const { language, setLanguage, t } = useLanguage();
-  const [stats, setStats] = useState<UserStats>(INITIAL_STATS);
+  const [stats, setStats] = useState<UserStats>(loadStoredStats);
   const [prefs, setPrefs] = useState<AppPreferences>(() => {
     if (typeof window === 'undefined') return DEFAULT_PREFS;
     try {
@@ -108,7 +173,12 @@ const App: React.FC = () => {
     } catch (_) {}
     return DEFAULT_PREFS;
   });
-  const [view, setView] = useState<'hub' | 'quiz' | 'log' | 'glossary'>('hub');
+  const [view, setView] = useState<'hub' | 'quiz' | 'log' | 'glossary'>(() => {
+    const activeQuiz = readActiveQuizSession();
+    if (isQuizSessionCompatible(activeQuiz, stats.currentLevel, stats.randomMode === true)) return 'quiz';
+    if (activeQuiz) clearActiveQuizSession();
+    return 'hub';
+  });
   const [showResult, setShowResult] = useState<{
     score: number;
     total: number;
@@ -161,84 +231,6 @@ const App: React.FC = () => {
     }));
     setShowResult(null);
   };
-
-  useEffect(() => {
-    const saved = localStorage.getItem(LOCAL_STORAGE_KEY);
-    if (saved) {
-      try {
-        const parsed = JSON.parse(saved);
-        if (!parsed.history) parsed.history = [];
-        if (!parsed.completedQuestionIds) parsed.completedQuestionIds = [];
-        if (!parsed.idLog) parsed.idLog = [];
-        if (parsed.totalAttempts === undefined) parsed.totalAttempts = parsed.history.length || 0;
-        // Migration: shift question IDs when Level 0 was added (old 1–3000 → 301–3300)
-        const stateVersion = parsed.stateVersion ?? 0;
-        if (stateVersion < 2 && Array.isArray(parsed.completedQuestionIds)) {
-          parsed.completedQuestionIds = parsed.completedQuestionIds.map((id: number) =>
-            id >= 1 && id <= 3000 ? id + 300 : id
-          );
-          parsed.stateVersion = 2;
-        }
-        // Migration (stateVersion 3): accuracy-based stars + correctPerLevel
-        const levelProgress = parsed.levelProgress || {};
-        const history = Array.isArray(parsed.history) ? parsed.history : [];
-        const levels = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-        if (parsed.stateVersion < 3) {
-          const correctPerLevel: Record<number, number> = parsed.correctPerLevel || {};
-          for (const level of levels) {
-            const atLevel = history.filter((a: QuestionAttempt) => a.level === level);
-            const totalInHistory = atLevel.length;
-            const correctInHistory = atLevel.filter((a: QuestionAttempt) => a.isCorrect).length;
-            if (totalInHistory > 0) {
-              correctPerLevel[level] = correctInHistory;
-              const prevProgress = levelProgress[level] || 0;
-              levelProgress[level] = Math.max(prevProgress, totalInHistory);
-            }
-          }
-          parsed.correctPerLevel = correctPerLevel;
-          parsed.levelProgress = levelProgress;
-          const migratedStars: Record<number, number> = {};
-          for (const level of levels) {
-            const progress = levelProgress[level] || 0;
-            const correct = parsed.correctPerLevel[level] || 0;
-            if (progress > 0) {
-              migratedStars[level] = getStarsFromAccuracy((100 * correct) / progress);
-            }
-          }
-          parsed.acquiredStars = { ...(parsed.acquiredStars || {}), ...migratedStars };
-          parsed.stateVersion = 3;
-        } else if (!parsed.correctPerLevel) {
-          parsed.correctPerLevel = {};
-        }
-        // Migration: Random mode stats for dual-mode progression
-        if (!parsed.randomModeStats) {
-          parsed.randomModeStats = { totalAnswered: 0, totalCorrect: 0 };
-        }
-        if (parsed.randomMode === undefined) parsed.randomMode = false;
-        // Migration (stateVersion 4): Level and Random have completely separate point/star systems.
-        // Random mode points and stars must start at 0 when user switches to Random; never show level xp in Random.
-        if ((parsed.stateVersion ?? 0) < 4) {
-          parsed.randomModeXp = 0;
-          parsed.stateVersion = 4;
-        }
-        if (parsed.randomModeXp === undefined) parsed.randomModeXp = 0;
-        // Migration: add fallacyLog if missing
-        if (!parsed.fallacyLog) parsed.fallacyLog = [];
-        const activeQuiz = readActiveQuizSession();
-        if (isQuizSessionCompatible(activeQuiz, parsed.currentLevel, parsed.randomMode === true)) {
-          setView('quiz');
-        } else if (activeQuiz) {
-          clearActiveQuizSession();
-        }
-        setStats(parsed);
-      } catch (e) {
-        console.error("Corrupted state, resetting", e);
-        clearActiveQuizSession();
-      }
-    } else {
-      clearActiveQuizSession();
-    }
-  }, []);
 
   useEffect(() => {
     localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(stats));
@@ -699,7 +691,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v76</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v78</p>
       </footer>
 
       {/* Operations View Modal */}
