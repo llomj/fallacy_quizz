@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Rosa says every athlete is obsessed with protein, even the runner who just wants a normal lunch.', 'Rosa dit que chaque sportif est obsede par les proteines, meme le coureur qui veut juste un dejeuner normal.'],
   ['Alicia assumes every grandparent hates change, even the one who keeps trying new phone apps.', 'Alicia suppose que chaque grand-parent deteste le changement, meme celui qui essaie sans cesse de nouvelles applications telephoniques.'],
   ['Owen thinks every student from that school is rich, even the one who works weekends to pay fees.', 'Owen pense que chaque eleve de cette ecole est riche, meme celui qui travaille le week-end pour payer les frais.'],
+  ['Maya says every architect is obsessed with modern glass buildings, even the one who loves renovating old cottages.', 'Maya dit que chaque architecte est obsede par les immeubles de verre modernes, meme celle qui adore renover les vieilles maisons de campagne.'],
 ];
 
 const OPTIONS_EN = ['Stereotyping', 'Confirmation Bias', 'Hasty Generalization', 'Halo Effect'];
