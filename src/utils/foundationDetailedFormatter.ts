@@ -1,3 +1,5 @@
+import { stripFallacyInstructionPrefix } from './translateQuestion';
+
 export type ExplanationDepth = 'beginner' | 'intermediate' | 'expert';
 
 const KNOWN_COMMANDS = new Set([
@@ -458,7 +460,7 @@ export const buildFallacyEnglishDetailed = ({
 }): string => {
   const base = compact(baseText);
   const short = compact(shortText);
-  const question = compact(questionText).replace(/\s+/g, ' ');
+  const question = stripFallacyInstructionPrefix(compact(questionText)).replace(/\s+/g, ' ');
   const answer = compact(correctOption);
   const shortBlock = shouldAppendShort(base, short) ? `\nQuick recap: ${short}` : '';
   const answerHint = answer
@@ -632,7 +634,7 @@ export const buildFallacyFrenchDetailed = ({
 }): string => {
   const base = compact(baseText);
   const short = compact(shortText);
-  const question = compact(questionText).replace(/\s+/g, ' ');
+  const question = stripFallacyInstructionPrefix(compact(questionText)).replace(/\s+/g, ' ');
   const answer = compact(correctOption);
   const shortBlock = shouldAppendShort(base, short) ? `\nRappel rapide : ${short}` : '';
   const answerHint = answer
@@ -703,4 +705,3 @@ export const buildFallacyFrenchDetailed = ({
     .filter(Boolean)
     .join('\n');
 };
-

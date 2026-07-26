@@ -272,29 +272,29 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
 
                 {isExpanded && (
                   <div className="pt-3 border-t border-white/5 space-y-4 animate-in slide-in-from-top duration-200">
-                    <div className="p-6 bg-yellow-400/10 rounded-xl border border-yellow-400/40">
+                    <div className="codon-accent-panel p-6 rounded-xl border">
                       <div className="flex items-center gap-2 mb-3">
-                        <i className="fas fa-lightbulb text-yellow-300 text-sm"></i>
-                        <h4 className="font-black text-[10px] uppercase tracking-[0.2em] text-yellow-300">{t('idLog.codonExplanation')}</h4>
+                        <i className="fas fa-lightbulb quiz-accent-text text-sm"></i>
+                        <h4 className="quiz-accent-text font-black text-[10px] uppercase tracking-[0.2em]">{t('idLog.codonExplanation')}</h4>
                       </div>
                       {shortExplanationLooksLikeCode ? (
                         <div className="p-4 overflow-x-hidden bg-slate-900 rounded-lg">
-                          <pre className="text-yellow-300 text-sm leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
+                          <pre className="quiz-accent-text text-sm leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
                             {formatCodeSnippet(normalizeExplanationWhitespace(shortExplanation))}
                           </pre>
                         </div>
                       ) : (
-                        <p className="text-[11px] text-slate-300 leading-relaxed italic whitespace-pre-wrap">
+                        <p className="quiz-accent-text text-[11px] leading-tight tracking-tight italic whitespace-pre-wrap">
                           {normalizeExplanationWhitespace(shortExplanation)}
                         </p>
                       )}
                     </div>
 
                     {detailedExplanation && (
-                      <div className="p-4 rounded-xl bg-slate-900/90 border border-slate-700/50">
+                      <div className="codon-accent-detail p-4 rounded-xl border">
                         <div className="space-y-2">
                           <div className="flex flex-wrap items-center gap-2">
-                            <h5 className="text-[10px] font-black text-yellow-300 uppercase tracking-[0.2em] flex items-center gap-2">
+                            <h5 className="quiz-accent-text text-[10px] font-black uppercase tracking-[0.2em] flex items-center gap-2">
                               <i className="fas fa-graduation-cap text-xs"></i>
                               {t('glossary.inDepthDescription')}
                             </h5>
@@ -307,7 +307,7 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                                   setDetailedExplanationLevel(e.target.value as DetailedExplanationLevel);
                                 }}
                                 onClick={(e) => e.stopPropagation()}
-                                className="bg-slate-800 border border-slate-600 rounded px-2 py-0.5 text-slate-200 text-[10px] focus:outline-none focus:ring-1 focus:ring-yellow-400 appearance-none cursor-pointer [color-scheme:dark]"
+                                className="codon-accent-focus bg-slate-800 border border-slate-600 rounded px-2 py-0.5 text-slate-200 text-[10px] focus:outline-none focus:ring-1 appearance-none cursor-pointer [color-scheme:dark]"
                                 style={{ minHeight: '1.5rem' }}
                               >
                                 <option value="beginner">{t('subLevels.beginner')}</option>
@@ -317,8 +317,8 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                           </div>
                           <ExplanationWithStepNumbers
                             className="text-sm bg-transparent"
-                            bodyClassName="text-slate-200"
-                            stepClassName="text-yellow-300 font-semibold"
+                            bodyClassName="quiz-accent-text"
+                            stepClassName="quiz-accent-text font-semibold"
                             text={normalizeExplanationWhitespace(
                               getTranslatedDetailedExplanation(
                                 attempt.id,

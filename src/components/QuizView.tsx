@@ -9,9 +9,7 @@ import { RandomModeStatRow } from './RandomModeStatRow';
 import { getQuestionDisplayNativeBank } from '../utils/translateQuestion';
 import {
   getMutationGradient,
-  getQuizAccent,
   MutationGradientId,
-  QuizAccentId,
 } from '../utils/colorThemes';
 import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
 import { ExplanationWithStepNumbers } from './ExplanationWithStepNumbers';
@@ -535,7 +533,6 @@ interface QuizViewProps {
   onPlayCorrectSound?: () => void;
   onPlayWrongSound?: () => void;
   mutationGradient?: MutationGradientId;
-  quizAccent?: QuizAccentId;
 }
 
 export const QuizView: React.FC<QuizViewProps> = ({
@@ -558,7 +555,6 @@ export const QuizView: React.FC<QuizViewProps> = ({
   onPlayCorrectSound,
   onPlayWrongSound,
   mutationGradient = 'sunset',
-  quizAccent = 'yellow',
 }) => {
   const { t, tRaw, language } = useLanguage();
   const [questions, setQuestions] = useState<Question[]>([]);
@@ -571,7 +567,6 @@ export const QuizView: React.FC<QuizViewProps> = ({
   const [detailedExplanationLevel, setDetailedExplanationLevel] = useState<DetailedExplanationLevel>('detail');
   const [justSavedId, setJustSavedId] = useState<number | null>(null);
   const mutationColors = getMutationGradient(mutationGradient);
-  const accent = getQuizAccent(quizAccent);
 
   // Snapshot at the start of each fetch (level / randomize / mode change). Mid-quiz prop updates do not re-run the effect.
   const initialCompletedIds = useRef(completedIds);
@@ -778,13 +773,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
     : null;
 
   return (
-    <div
-      className="max-w-2xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500"
-      style={{
-        '--quiz-accent': accent.hex,
-        '--quiz-accent-rgb': accent.rgb,
-      } as React.CSSProperties}
-    >
+    <div className="max-w-2xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
       <div className="flex justify-between items-center bg-slate-900/40 backdrop-blur-xl p-4 rounded-2xl border border-white/10">
         <button onClick={() => { onPlayClickSound?.(); onExit(); }} className="w-10 h-10 flex items-center justify-center rounded-xl bg-slate-800 text-slate-400 hover:text-white transition-colors border border-white/5">
           <i className="fas fa-times"></i>
@@ -937,23 +926,23 @@ export const QuizView: React.FC<QuizViewProps> = ({
               <i className="fas fa-arrow-right text-sm"></i>
             </button>
 
-            <div className="p-6 rounded-2xl bg-yellow-400/10 border border-yellow-400/40">
+            <div className="codon-accent-panel p-6 rounded-2xl border">
               {hasDetailedExplanation ? (
                 <button
                   onClick={() => { onPlayClickSound?.(); setShowDetailedExplanation(!showDetailedExplanation); }}
-                  className="w-full flex items-center justify-between gap-2 mb-3 text-yellow-400 hover:text-yellow-200 transition-colors group cursor-pointer"
+                  className="quiz-accent-text w-full flex items-center justify-between gap-2 mb-3 transition-opacity hover:opacity-80 group cursor-pointer"
                 >
                   <div className="flex items-center gap-2">
                     <i className="fas fa-lightbulb text-sm"></i>
                     <h4 className="font-black text-[10px] uppercase tracking-[0.2em]">{t('idLog.codonExplanation')}</h4>
-                    <span className="text-[9px] text-yellow-400/80 font-normal normal-case">
+                    <span className="text-[9px] opacity-80 font-normal normal-case">
                       {showDetailedExplanation ? `(${t('quiz.hideExplanation')})` : `(${t('quiz.showExplanation')})`}
                     </span>
                   </div>
                   <i className={`fas fa-chevron-${showDetailedExplanation ? 'up' : 'down'} text-xs transition-transform group-hover:scale-110`}></i>
                 </button>
               ) : (
-                <div className="flex items-center gap-2 mb-3 text-yellow-400">
+                <div className="quiz-accent-text flex items-center gap-2 mb-3">
                   <i className="fas fa-lightbulb text-sm"></i>
                   <h4 className="font-black text-[10px] uppercase tracking-[0.2em]">{t('idLog.codonExplanation')}</h4>
                 </div>
@@ -961,20 +950,20 @@ export const QuizView: React.FC<QuizViewProps> = ({
               <div className="space-y-4">
                 {displayQuestionRecord.explanation.match(/\b(def|print|for|if|while|class|import)\b/) ? (
                     <div className="p-4 overflow-x-hidden bg-slate-900 rounded-lg">
-                      <pre className="text-yellow-400 text-sm leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
+                      <pre className="quiz-accent-text text-sm leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
                         {formatCodeSnippet(normalizeExplanationWhitespace(displayShortExplanation))}
                       </pre>
                     </div>
                   ) : (
-                    <p className="text-yellow-400 leading-relaxed text-sm font-medium whitespace-pre-wrap">
+                    <p className="quiz-accent-text leading-tight tracking-tight text-sm font-medium whitespace-pre-wrap">
                       {normalizeExplanationWhitespace(displayShortExplanation)}
                     </p>
                   )}
                 {showDetailedExplanation && hasDetailedExplanation && (
-                  <div className="animate-in slide-in-from-top-4 duration-300 pt-4 border-t border-yellow-400/40 space-y-6">
-                    <div className="space-y-3 rounded-xl bg-slate-900/90 border border-slate-700/50 p-4">
+                  <div className="codon-accent-divider animate-in slide-in-from-top-4 duration-300 pt-4 border-t space-y-4">
+                    <div className="codon-accent-detail space-y-2 rounded-xl border p-4">
                       <div className="flex flex-wrap items-center gap-2">
-                        <h5 className="text-[10px] font-black text-yellow-400 uppercase tracking-[0.2em] flex items-center gap-2">
+                        <h5 className="quiz-accent-text text-[10px] font-black uppercase tracking-[0.2em] flex items-center gap-2">
                           <i className="fas fa-graduation-cap text-xs"></i>
                           {t('glossary.inDepthDescription')}
                         </h5>
@@ -983,7 +972,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                           <select
                             value={detailedExplanationLevel}
                             onChange={(e) => setDetailedExplanationLevel(e.target.value as DetailedExplanationLevel)}
-                            className="bg-slate-800 border border-slate-600 rounded px-2 py-0.5 text-slate-200 text-[10px] focus:outline-none focus:ring-1 focus:ring-yellow-400 appearance-none cursor-pointer [color-scheme:dark]"
+                            className="codon-accent-focus bg-slate-800 border border-slate-600 rounded px-2 py-0.5 text-slate-200 text-[10px] focus:outline-none focus:ring-1 appearance-none cursor-pointer [color-scheme:dark]"
                             style={{ minHeight: '1.5rem' }}
                           >
                             <option value="beginner">{t('subLevels.beginner')}</option>
@@ -993,8 +982,8 @@ export const QuizView: React.FC<QuizViewProps> = ({
                       </div>
                       <ExplanationWithStepNumbers
                         className="text-sm bg-transparent"
-                        bodyClassName="text-slate-200"
-                        stepClassName="text-yellow-400 font-semibold"
+                        bodyClassName="quiz-accent-text"
+                        stepClassName="quiz-accent-text font-semibold"
                         text={normalizeExplanationWhitespace(displayDetailedExplanation)}
                       />
                     </div>

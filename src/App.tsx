@@ -12,6 +12,8 @@ import { FallingStars } from './components/FallingStars';
 import {
   isMutationGradientId,
   isQuizAccentId,
+  isHexColor,
+  getQuizAccent,
   MutationGradientId,
   QuizAccentId,
 } from './utils/colorThemes';
@@ -63,6 +65,7 @@ interface AppPreferences {
   panelOpacity: number;
   mutationGradient: MutationGradientId;
   quizAccent: QuizAccentId;
+  customQuizAccent: string;
 }
 
 const DEFAULT_PREFS: AppPreferences = {
@@ -72,6 +75,7 @@ const DEFAULT_PREFS: AppPreferences = {
   panelOpacity: 100,
   mutationGradient: 'sunset',
   quizAccent: 'yellow',
+  customQuizAccent: '#4ade80',
 };
 
 const App: React.FC = () => {
@@ -90,6 +94,7 @@ const App: React.FC = () => {
           panelOpacity: typeof p.panelOpacity === 'number' ? p.panelOpacity : 100,
           mutationGradient: isMutationGradientId(p.mutationGradient) ? p.mutationGradient : 'sunset',
           quizAccent: isQuizAccentId(p.quizAccent) ? p.quizAccent : 'yellow',
+          customQuizAccent: isHexColor(p.customQuizAccent) ? p.customQuizAccent : '#4ade80',
         };
       }
     } catch (_) {}
@@ -240,6 +245,7 @@ const App: React.FC = () => {
   }, [prefs]);
 
   const currentLevelInfo = LEVELS.find(l => l.level === stats.currentLevel) || LEVELS[0];
+  const appAccent = getQuizAccent(prefs.quizAccent, prefs.customQuizAccent);
   const currentPersona = (stats.randomMode && stats.randomModeStats)
     ? getPersonaFromRandomStats(stats.randomModeStats)
     : currentLevelInfo.persona;
@@ -442,6 +448,10 @@ const App: React.FC = () => {
     <div
       data-theme={prefs.lightMode ? 'light' : 'dark'}
       className={`min-h-screen selection:bg-yellow-400/30 pb-28 ${prefs.lightMode ? 'bg-slate-100 text-slate-800' : 'bg-slate-950 text-slate-200'}`}
+      style={{
+        '--quiz-accent': appAccent.hex,
+        '--quiz-accent-rgb': appAccent.rgb,
+      } as React.CSSProperties}
     >
       <nav className="pt-[env(safe-area-inset-top)] px-2 pb-1.5 flex items-center justify-between border-b border-white/5 sticky top-0 z-50 glass">
         <div className="flex w-full items-center gap-4">
@@ -523,6 +533,10 @@ const App: React.FC = () => {
                 onSetMutationGradient={(mutationGradient) => setPrefs(p => ({ ...p, mutationGradient }))}
                 quizAccent={prefs.quizAccent}
                 onSetQuizAccent={(quizAccent) => setPrefs(p => ({ ...p, quizAccent }))}
+                customQuizAccent={prefs.customQuizAccent}
+                onSetCustomQuizAccent={(customQuizAccent) =>
+                  setPrefs(p => ({ ...p, quizAccent: 'custom', customQuizAccent }))
+                }
               />
             </div>
           </div>
@@ -553,7 +567,6 @@ const App: React.FC = () => {
               onPlayCorrectSound={playCorrectAnswerSound}
               onPlayWrongSound={playWrongAnswerSound}
               mutationGradient={prefs.mutationGradient}
-              quizAccent={prefs.quizAccent}
             />
           </Suspense>
         ) : view === 'log' ? (
@@ -662,7 +675,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v62</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v63</p>
       </footer>
 
       {/* Operations View Modal */}
