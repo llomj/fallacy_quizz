@@ -276,3 +276,12 @@ export function getQuestionById(id: number, lang: 'en' | 'fr'): Question | undef
   const bank = lang === 'fr' ? QUESTIONS_BANK_FR : QUESTIONS_BANK_EN;
   return bank.find((question) => question.id === id);
 }
+
+/**
+ * These records have authored EN/FR scenarios that are paired one-to-one.
+ * Older fallacy records remain searchable but are excluded from live quizzes
+ * until their mismatched French content has been repaired.
+ */
+export function isBilingualQuizQuestion(question: Question): boolean {
+  return question.level === 0 || question.id >= 30000;
+}

@@ -6,9 +6,7 @@ import { LEVELS } from '../constants';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 import { RandomModeStatRow } from './RandomModeStatRow';
-import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
-import { translateQuestionText, getQuestionDisplay, getQuestionDisplayNativeBank } from '../utils/translateQuestion';
-import { getTranslatedShortExplanation, SHORT_EXPLANATIONS_FR, isLogicalFallaciesAppQuestionId } from '../data/shortExplanationsTranslations';
+import { getQuestionDisplayNativeBank } from '../utils/translateQuestion';
 import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
 import { ExplanationWithStepNumbers } from './ExplanationWithStepNumbers';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
@@ -456,60 +454,6 @@ const enhanceBareMethodCall = (code: string): string => {
   */
 };
 
-// Function to translate common question patterns and explanations
-const translateText = (text: string, language: string): string => {
-  if (language !== 'fr') return text;
-
-  // Question prefix translation (shared with IdSearchModal, IdLogView)
-  let translated = translateQuestionText(text, language);
-
-  // Common explanation pattern translations
-  const explanationTranslations: Record<string, string> = {
-    'returns': 'retourne',
-    'Returns': 'Retourne',
-    'converts': 'convertit',
-    'Converts': 'Convertit',
-    'creates': 'crée',
-    'Creates': 'Crée',
-    'checks': 'vérifie',
-    'Checks': 'Vérifie',
-    'finds': 'trouve',
-    'Finds': 'Trouve',
-    'removes': 'supprime',
-    'Removes': 'Supprime',
-    'adds': 'ajoute',
-    'Adds': 'Ajoute',
-    'The': 'Le',
-    'the': 'le',
-    'This': 'Ceci',
-    'this': 'ceci',
-    'method': 'méthode',
-    'Method': 'Méthode',
-    'function': 'fonction',
-    'Function': 'Fonction',
-    'returns a': 'retourne un',
-    'Returns a': 'Retourne un',
-  };
-
-  // Apply explanation translations (throughout text, but be careful with code)
-  // Only translate if it's clearly an explanation (not code)
-  if (!text.match(/^[a-zA-Z_][a-zA-Z0-9_]*\s*\(/) && !text.includes('def ') && !text.includes('class ')) {
-    for (const [en, fr] of Object.entries(explanationTranslations)) {
-      // Use word boundaries to avoid partial matches
-      const pattern = new RegExp(`\\b${en.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'gi');
-      translated = translated.replace(pattern, (match) => {
-        // Preserve case
-        if (match[0] === match[0].toUpperCase()) {
-          return fr.charAt(0).toUpperCase() + fr.slice(1);
-        }
-        return fr.toLowerCase();
-      });
-    }
-  }
-
-  return translated;
-};
-
 const shouldVisualizeOptionWhitespace = (options: string[]): boolean => {
   const normalized = new Map<string, Set<string>>();
   const noInvisible = new Map<string, Set<string>>();
@@ -623,10 +567,6 @@ export const QuizView: React.FC<QuizViewProps> = ({
   // Ref for session correct count - updated synchronously so live score displays immediately
   const sessionCorrectRef = useRef(0);
 
-  /** Canonical quiz batch language. We keep the loaded questions fixed and only translate display. */
-  const batchLanguageRef = useRef<'en'>('en');
-  const [batchLanguage, setBatchLanguage] = useState<'en'>('en');
-
   // Helper function to shuffle array and track original index of correct answer
   const shuffleOptions = (question: Question): Question => {
     const options = [...question.options];
@@ -667,8 +607,6 @@ export const QuizView: React.FC<QuizViewProps> = ({
         // Shuffle options for each question so correct answer isn't always first
         const shuffledQuestions = data.map(shuffleOptions);
         setQuestions(shuffledQuestions);
-        batchLanguageRef.current = lang;
-        setBatchLanguage(lang);
         // Reset quiz state when questions are re-randomized
         setCurrentIndex(0);
         setSelectedOption(null);
@@ -771,13 +709,10 @@ export const QuizView: React.FC<QuizViewProps> = ({
   );
 
   const currentQuestion = questions[currentIndex];
-  const canUseAuthoredTranslation =
-    language === 'fr' &&
-    (currentQuestion.id >= 30000 || currentQuestion.level === 0);
-  const canonicalQuestion = canUseAuthoredTranslation
+  const canonicalQuestion = language === 'fr'
     ? getQuestionById(currentQuestion.id, 'en')
     : undefined;
-  const localizedQuestion = canUseAuthoredTranslation
+  const localizedQuestion = language === 'fr'
     ? getQuestionById(currentQuestion.id, 'fr')
     : undefined;
   const localizedOptions =
@@ -790,11 +725,10 @@ export const QuizView: React.FC<QuizViewProps> = ({
       })
       : currentQuestion.options;
   const hasAuthoredTranslation = !!canonicalQuestion && !!localizedQuestion;
+  const displayQuestionRecord = localizedQuestion ?? currentQuestion;
   const { question: displayQuestion, options: translatedOptions } = hasAuthoredTranslation
     ? getQuestionDisplayNativeBank(localizedQuestion.question, localizedOptions, language)
-    : batchLanguage === language
-      ? getQuestionDisplayNativeBank(currentQuestion.question, currentQuestion.options, language)
-      : getQuestionDisplay(language, currentQuestion.question, currentQuestion.options);
+    : getQuestionDisplayNativeBank(currentQuestion.question, currentQuestion.options, language);
   const displayOptions = balanceDisplayedOptionLengths(
     translatedOptions,
     currentQuestion.correct_option_index,
@@ -806,11 +740,14 @@ export const QuizView: React.FC<QuizViewProps> = ({
   const showWhitespaceHints = shouldVisualizeOptionWhitespace(displayOptions);
   const hasDetailedExplanation =
     !!(
-      currentQuestion.detailedExplanation ||
-      currentQuestion.detailedExplanationBeginner ||
-      currentQuestion.detailedExplanationIntermediate ||
-      currentQuestion.detailedExplanationExpert
+      displayQuestionRecord.detailedExplanation ||
+      displayQuestionRecord.detailedExplanationBeginner ||
+      displayQuestionRecord.detailedExplanationIntermediate ||
+      displayQuestionRecord.detailedExplanationExpert
     );
+  const displayShortExplanation = displayQuestionRecord.explanation;
+  const displayDetailedExplanation =
+    getDetailedExplanationForLevel(displayQuestionRecord, detailedExplanationLevel) ?? '';
 
   // Live evolution score for Random mode: base stats + session progress
   // Use sessionCorrectRef so it updates immediately (score state may lag)
@@ -1002,24 +939,17 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 </div>
               )}
               <div className="space-y-4">
-                {(() => {
-                  const shortExp = getTranslatedShortExplanation(currentQuestion.id, currentQuestion.explanation, language);
-                  const displayShortExp = (language === 'fr' && !SHORT_EXPLANATIONS_FR[currentQuestion.id])
-                    ? translateText(shortExp, language)
-                    : shortExp;
-                  return !isLogicalFallaciesAppQuestionId(currentQuestion.id) &&
-                    currentQuestion.explanation.match(/\b(def|print|for|if|while|class|import)\b/) ? (
+                {displayQuestionRecord.explanation.match(/\b(def|print|for|if|while|class|import)\b/) ? (
                     <div className="p-4 overflow-x-hidden bg-slate-900 rounded-lg">
                       <pre className="text-yellow-400 text-sm leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
-                        {formatCodeSnippet(normalizeExplanationWhitespace(displayShortExp))}
+                        {formatCodeSnippet(normalizeExplanationWhitespace(displayShortExplanation))}
                       </pre>
                     </div>
                   ) : (
                     <p className="text-yellow-400 leading-relaxed text-sm font-medium whitespace-pre-wrap">
-                      {normalizeExplanationWhitespace(displayShortExp)}
+                      {normalizeExplanationWhitespace(displayShortExplanation)}
                     </p>
-                  );
-                })()}
+                  )}
                 {showDetailedExplanation && hasDetailedExplanation && (
                   <div className="animate-in slide-in-from-top-4 duration-300 pt-4 border-t border-yellow-400/40 space-y-6">
                     <div className="space-y-3 rounded-xl bg-slate-900/90 border border-slate-700/50 p-4">
@@ -1045,17 +975,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                         className="text-sm bg-transparent"
                         bodyClassName="text-slate-200"
                         stepClassName="text-yellow-400 font-semibold"
-                        text={normalizeExplanationWhitespace(
-                          getTranslatedDetailedExplanation(
-                            currentQuestion.id,
-                            getDetailedExplanationForLevel(currentQuestion, detailedExplanationLevel) ?? '',
-                            language,
-                            detailedExplanationLevel,
-                            currentQuestion.question,
-                            currentQuestion.options[currentQuestion.correct_option_index],
-                            currentQuestion.explanation
-                          )
-                        )}
+                        text={normalizeExplanationWhitespace(displayDetailedExplanation)}
                       />
                     </div>
                   </div>

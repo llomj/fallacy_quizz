@@ -1,5 +1,5 @@
 import { Question, PersonaStage } from "../types";
-import { getQuestionBank } from "../questionsBank";
+import { getQuestionBank, isBilingualQuizQuestion } from "../questionsBank";
 
 export class QuizService {
   async getBatch(
@@ -10,7 +10,7 @@ export class QuizService {
     language: string = 'en',
     exhaustedIds: number[] = []
   ): Promise<Question[]> {
-    const questionBank = getQuestionBank(language);
+    const questionBank = getQuestionBank(language).filter(isBilingualQuizQuestion);
 
     const exhaustedSet = new Set(exhaustedIds);
 

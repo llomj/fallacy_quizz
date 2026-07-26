@@ -194,6 +194,10 @@ export const translations = {
       lightModeOn: "Light mode: On",
       lightModeOff: "Light mode: Off",
       previewStarSounds: "Preview star sounds",
+      customise: "Customise",
+      sounds: "Sounds",
+      customiseSettingsPanel: "Customise Settings Panel",
+      panelTransparency: "Panel Transparency",
     },
     
     // Reset App Modal
@@ -491,6 +495,10 @@ export const translations = {
       lightModeOn: "Mode clair : Activé",
       lightModeOff: "Mode clair : Désactivé",
       previewStarSounds: "Écouter les sons des étoiles",
+      customise: "Personnaliser",
+      sounds: "Sons",
+      customiseSettingsPanel: "Personnaliser le panneau",
+      panelTransparency: "Transparence du panneau",
     },
     
     // Reset App Modal

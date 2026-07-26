@@ -188,7 +188,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   }
   menuItems.push({
     icon: 'fa-palette',
-    label: 'Customise',
+    label: t('settings.customise'),
     onClick: withClickSound(() => setCustomiseSubmenuOpen(prev => !prev))
   });
   if (onResetApp) {
@@ -224,7 +224,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             <div className="px-4 py-3">
               <div className="flex items-center gap-3 mb-3">
                 <i className="fas fa-sliders text-sm w-5 flex-shrink-0 text-slate-400"></i>
-                <span className="text-sm font-medium text-slate-300">Panel Transparency</span>
+                <span className="text-sm font-medium text-slate-300">{t('settings.panelTransparency')}</span>
               </div>
               <div className="flex items-center gap-3">
                 <span className="text-[10px] text-slate-500 w-8 text-right">{panelOpacity}%</span>
@@ -317,7 +317,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
             >
               <i className="fas fa-volume-high text-sm w-5 flex-shrink-0"></i>
-              <span className="text-sm font-medium">Sounds</span>
+              <span className="text-sm font-medium">{t('settings.sounds')}</span>
               <i className="fas fa-chevron-right text-xs ml-auto"></i>
             </button>
             <button
@@ -325,7 +325,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
             >
               <i className="fas fa-sliders text-sm w-5 flex-shrink-0"></i>
-              <span className="text-sm font-medium">Customise Settings Panel</span>
+              <span className="text-sm font-medium">{t('settings.customiseSettingsPanel')}</span>
               <i className="fas fa-chevron-right text-xs ml-auto"></i>
             </button>
           </div>
