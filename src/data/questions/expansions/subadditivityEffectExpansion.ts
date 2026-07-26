@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Rosa believes the day hike will be safe because the map, the snack, and the rain are each separate small risks.', 'Rosa croit que la randonnée d une journee sera sûre parce que la carte, le snack et la pluie sont chacun de petits risques distincts.'],
   ['Alicia thinks the online demo will be fine because the login, the sound, and the chat each look tiny on their own.', 'Alicia pense que la demonstration en ligne ira bien parce que la connexion, le son et le chat semblent chacun minuscules pris seuls.'],
   ['Owen says the potluck is okay because the dish mix-up, the missing spoon, and the late friend are each small chances.', 'Owen dit que le repas partage ira bien parce que le melange de plats, la cuillere manquante et l ami en retard sont chacun de petites chances.'],
+  ['Maya thinks the weekend fair will go fine because the ticket line, the cloudy sky, and the broken speaker each seem minor alone.', 'Maya pense que la foire du week-end ira bien parce que la file de billets, le ciel nuageux et le haut-parleur casse semblent chacun mineurs pris seuls.'],
 ];
 
 const OPTIONS_EN = ['Subadditivity Effect', 'Planning Fallacy', 'Base Rate Neglect', 'Optimism Bias'];
