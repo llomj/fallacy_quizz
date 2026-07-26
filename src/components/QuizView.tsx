@@ -16,6 +16,7 @@ import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '.
 import { balanceDisplayedOptionLengths } from '../utils/optionLengthBalancer';
 import { primeAudioContext } from '../utils/sounds';
 import { getQuestionById } from '../questionsBank';
+import { CodonShortExplanation } from './CodonShortExplanation';
 
 // Function to format code snippets with proper Python indentation
 // Ensures newline after : and 4-space indentation for the next line
@@ -887,17 +888,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 </div>
               )}
               <div className="space-y-4">
-                {displayQuestionRecord.explanation.match(/\b(def|print|for|if|while|class|import)\b/) ? (
-                    <div className="p-4 overflow-x-hidden bg-slate-900 rounded-lg">
-                      <pre className="quiz-accent-text text-sm leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
-                        {formatCodeSnippet(normalizeExplanationWhitespace(displayShortExplanation))}
-                      </pre>
-                    </div>
-                  ) : (
-                    <p className="quiz-accent-text leading-tight tracking-tight text-sm font-medium whitespace-pre-wrap">
-                      {normalizeExplanationWhitespace(displayShortExplanation)}
-                    </p>
-                  )}
+                <CodonShortExplanation text={displayShortExplanation} />
                 {showDetailedExplanation && hasDetailedExplanation && (
                   <div className="codon-accent-divider animate-in slide-in-from-top-4 duration-300 pt-4 border-t space-y-4">
                     <div className="codon-accent-detail space-y-2 rounded-xl border p-4">
