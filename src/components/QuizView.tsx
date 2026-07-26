@@ -517,8 +517,6 @@ interface QuizViewProps {
   completedIds: number[];
   /** Question IDs excluded after enough correct answers at that question's level (see quizRepeatLimits). */
   exhaustedIdsFromRepeatCorrect?: number[];
-  /** Earned stars for current level (0 until ~10% progress); used for star display in level mode. */
-  earnedStarsForLevel?: number;
   onAttempt: (attempt: QuestionAttempt) => void;
   onComplete: (score: number, total: number) => void;
   onExit: () => void;
@@ -541,7 +539,6 @@ export const QuizView: React.FC<QuizViewProps> = ({
   currentProgress,
   completedIds,
   exhaustedIdsFromRepeatCorrect = [],
-  earnedStarsForLevel = 0,
   onAttempt,
   onComplete,
   onExit,
@@ -769,65 +766,24 @@ export const QuizView: React.FC<QuizViewProps> = ({
       totalCorrect: base.totalCorrect + sessionCorrect
     }
     : null;
-  const liveRandomCorrect = liveRandomStats ? liveRandomStats.totalCorrect : null;
-  const liveRandomPercent = liveRandomStats && liveRandomStats.totalAnswered > 0
-    ? Math.round((100 * liveRandomStats.totalCorrect) / liveRandomStats.totalAnswered)
-    : null;
-
   return (
     <div className="max-w-2xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <div className="flex justify-between items-center bg-slate-900/40 backdrop-blur-xl p-4 rounded-2xl border border-white/10">
-        <button onClick={() => { onPlayClickSound?.(); onExit(); }} className="w-10 h-10 flex items-center justify-center rounded-xl bg-slate-800 text-slate-400 hover:text-white transition-colors border border-white/5">
+      <div className="flex items-center gap-4">
+        <button
+          onClick={() => { onPlayClickSound?.(); onExit(); }}
+          className="shrink-0 text-xl leading-none text-slate-400 transition-colors hover:text-white"
+          aria-label={t('quiz.returnToHub')}
+          title={t('quiz.returnToHub')}
+        >
           <i className="fas fa-times"></i>
         </button>
-        <div className="flex-1 min-w-0 px-4 sm:px-6 overflow-x-auto">
-          <div className="flex justify-between items-center gap-4 sm:gap-6 text-[10px] font-black tracking-[0.2em] mb-2 min-w-0">
-            <div className="flex min-w-0 items-center gap-3 shrink-0">
-              <span className="text-yellow-400">
-                {currentQuestion.subLevel === 'Beginner' && t('subLevels.beginnerCaps')}
-                {currentQuestion.subLevel === 'Intermediate' && t('subLevels.intermediateCaps')}
-                {currentQuestion.subLevel === 'Expert' && t('subLevels.expertCaps')}
-              </span>
-              {statsEnabled && (
-                <div className="flex gap-0.5">
-                  {[1, 2, 3, 4, 5].map(starNum => {
-                    const isEarned = !randomMode && starNum <= earnedStarsForLevel;
-                    return (
-                      <i
-                        key={starNum}
-                        className={`fas fa-star text-[8px] ${isEarned ? 'text-amber-400' : 'text-slate-700'
-                          }`}
-                      ></i>
-                    );
-                  })}
-                </div>
-              )}
-            </div>
-            <div className="flex flex-wrap items-center justify-end gap-x-4 gap-y-1 shrink-0">
-              {statsEnabled && randomMode && liveRandomCorrect !== null && liveRandomPercent !== null && (
-                <span className="text-yellow-400">
-                  {liveRandomCorrect} {t('quiz.correct')} · {liveRandomPercent}%
-                </span>
-              )}
-              {statsEnabled && randomMode && liveRandomStats != null && (
-                <span className="text-[#FF00FF] text-[10px] font-black tracking-[0.15em]">
-                  {liveRandomPercent != null ? `${liveRandomPercent}%` : '0%'} {t('hub.accuracy')}
-                </span>
-              )}
-              <span className="text-yellow-400">
-                {formatTranslation(t('quiz.mutationOf'), { current: currentIndex + 1, total: questions.length })}
-              </span>
-              <span className="text-slate-400">{Math.round(((currentIndex + 1) / questions.length) * 100)}%</span>
-            </div>
+        <div className="min-w-0 flex-1">
+          <div className="mb-2 flex items-center justify-between gap-3 text-[10px] font-black tracking-[0.15em]">
+            <span className="text-yellow-400">
+              {formatTranslation(t('quiz.mutationOf'), { current: currentIndex + 1, total: questions.length })}
+            </span>
+            <span className="text-slate-400">{Math.round(((currentIndex + 1) / questions.length) * 100)}%</span>
           </div>
-          {statsEnabled && randomMode && liveRandomStats != null && (
-            <RandomModeStatRow
-              variant="quiz"
-              totalAnswered={liveRandomStats.totalAnswered}
-              totalCorrect={liveRandomStats.totalCorrect}
-              t={t}
-            />
-          )}
           <ProgressBar current={currentIndex + 1} total={questions.length} colorClass="bg-yellow-400" />
         </div>
       </div>
@@ -995,6 +951,14 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 )}
               </div>
             </div>
+            {statsEnabled && randomMode && liveRandomStats != null && (
+              <RandomModeStatRow
+                variant="quiz"
+                totalAnswered={liveRandomStats.totalAnswered}
+                totalCorrect={liveRandomStats.totalCorrect}
+                t={t}
+              />
+            )}
           </div>
         )}
       </div>

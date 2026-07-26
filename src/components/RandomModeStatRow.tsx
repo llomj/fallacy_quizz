@@ -3,7 +3,7 @@ import React from 'react';
 export interface RandomModeStatRowProps {
   totalAnswered: number;
   totalCorrect: number;
-  /** 'hub' = EvolutionHub tiles; 'quiz' = compact quiz header */
+  /** 'hub' = EvolutionHub tiles; 'quiz' = borderless row below the Codon explanation */
   variant: 'hub' | 'quiz';
   t: (key: string) => string;
 }
@@ -20,24 +20,39 @@ export const RandomModeStatRow: React.FC<RandomModeStatRowProps> = ({
 }) => {
   const incorrect = totalAnswered - totalCorrect;
   const isQuiz = variant === 'quiz';
+  const accuracy = totalAnswered > 0 ? Math.round((totalCorrect / totalAnswered) * 100) : 0;
 
-  const labelCls = isQuiz
-    ? 'text-[8px] font-bold uppercase leading-tight tracking-wider text-slate-400'
-    : 'text-[9px] font-bold uppercase leading-tight tracking-wider text-slate-400';
-  const numCls = isQuiz ? 'text-base font-black tabular-nums' : 'text-lg font-black tabular-nums';
+  if (isQuiz) {
+    const quizStat = (label: string, value: string | number, colorClass: string) => (
+      <div className="flex min-w-0 flex-col items-center text-center">
+        <span className="text-[8px] font-bold uppercase leading-tight tracking-wider text-slate-400">
+          {label}
+        </span>
+        <span className={`mt-1 text-base font-black tabular-nums ${colorClass}`}>{value}</span>
+      </div>
+    );
+
+    return (
+      <div
+        className="grid w-full grid-cols-4 gap-3"
+        role="group"
+        aria-label={`${t('hub.totalAnswered')}, ${t('hub.incorrect')}, ${t('hub.correct')}, ${t('hub.accuracy')}`}
+      >
+        {quizStat(t('hub.totalAnswered'), totalAnswered, 'text-white')}
+        {quizStat(t('hub.incorrect'), incorrect, 'text-[#FF00FF]')}
+        {quizStat(t('hub.correct'), totalCorrect, 'text-green-400')}
+        {quizStat(t('hub.accuracy'), `${accuracy}%`, 'text-cyan-300')}
+      </div>
+    );
+  }
+
+  const labelCls = 'text-[9px] font-bold uppercase leading-tight tracking-wider text-slate-400';
+  const numCls = 'text-lg font-black tabular-nums';
 
   // Per-tile: top row = label (bottom-aligned so short labels don’t drop the digit); bottom row = fixed height so all 0s share one baseline.
-  const tileCls = isQuiz
-    ? 'grid min-h-[3.25rem] min-w-0 flex-1 grid-rows-[minmax(0,1fr)_1.75rem] rounded-xl border border-white/10 bg-slate-900/70 px-2 py-1.5 text-center'
-    : 'grid min-h-[5rem] grid-rows-[minmax(0,1fr)_2rem] rounded-2xl border border-white/15 bg-slate-900/60 p-3 text-center';
-
-  const outerCls = isQuiz
-    ? 'mb-2 flex w-full min-w-0 gap-2'
-    : 'grid w-full grid-cols-3 gap-3';
-
-  const numRowCls = isQuiz
-    ? 'flex h-7 items-center justify-center'
-    : 'flex h-8 items-center justify-center';
+  const tileCls = 'grid min-h-[5rem] grid-rows-[minmax(0,1fr)_2rem] rounded-2xl border border-white/15 bg-slate-900/60 p-3 text-center';
+  const outerCls = 'grid w-full grid-cols-3 gap-3';
+  const numRowCls = 'flex h-8 items-center justify-center';
 
   return (
     <div

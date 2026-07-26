@@ -253,13 +253,6 @@ const App: React.FC = () => {
     ? getPersonaFromRandomStats(stats.randomModeStats)
     : currentLevelInfo.persona;
   const currentProgress = stats.levelProgress[stats.currentLevel] || 0;
-  const correctForLevel = stats.correctPerLevel?.[stats.currentLevel] ?? 0;
-  const questionsNeededForCurrentLevel = getQuestionsNeededForLevel(stats.currentLevel);
-  const starProgressThreshold = Math.ceil(questionsNeededForCurrentLevel * 0.10);
-  // Stars are based on how many questions in the current level are correct.
-  const percentCorrect = (100 * correctForLevel) / questionsNeededForCurrentLevel;
-  const earnedStarsForLevel =
-    currentProgress < starProgressThreshold ? 0 : getStarsFromAccuracy(percentCorrect);
 
   const handleStartEvolution = () => {
     setView('quiz');
@@ -561,7 +554,6 @@ const App: React.FC = () => {
               currentProgress={currentProgress}
               completedIds={stats.completedQuestionIds}
               exhaustedIdsFromRepeatCorrect={exhaustedIdsFromRepeatCorrect}
-              earnedStarsForLevel={earnedStarsForLevel}
               onAttempt={recordAttempt}
               onComplete={handleQuizComplete}
               onExit={() => setView('hub')}
@@ -688,7 +680,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v66</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v67</p>
       </footer>
 
       {/* Operations View Modal */}
