@@ -173,30 +173,12 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
 
   const menuItems: { icon: string; label: string; onClick: () => void; active?: boolean }[] = [];
 
-  if (onToggleRandomMode) {
-    menuItems.push({
-      icon: 'fa-shuffle',
-      label: randomMode ? t('settings.switchToLevelMode') : t('settings.switchToRandomMode'),
-      onClick: withClickSound(() => {
-        onClose();
-        window.requestAnimationFrame(() => onToggleRandomMode());
-      })
-    });
-  }
-  if (onShowLevelSelector) {
-    menuItems.push({
-      icon: 'fa-layer-group',
-      label: t('settings.selectLevel'),
-      onClick: withClickSound(() => { onShowLevelSelector(); onClose(); })
-    });
-  }
-  if (hasRulesContent) {
-    menuItems.push({
-      icon: 'fa-gavel',
-      label: t('settings.rules'),
-      onClick: withClickSound(() => setRulesSubmenuOpen(prev => !prev))
-    });
-  }
+  menuItems.push({
+    icon: 'fa-palette',
+    label: t('settings.customise'),
+    onClick: withClickSound(() => setCustomiseSubmenuOpen(prev => !prev))
+  });
+
   const hasLogContent = Boolean(onShowIdSearch || onShowIdLog || onShowLearningLog);
   if (hasLogContent) {
     menuItems.push({
@@ -205,18 +187,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
       onClick: withClickSound(() => setLogSubmenuOpen(prev => !prev))
     });
   }
-  if (onToggleLanguage) {
-    menuItems.push({
-      icon: 'fa-language',
-      label: language === 'en' ? 'Français' : 'English',
-      onClick: withClickSound(() => { onToggleLanguage(); onClose(); })
-    });
-  }
-  menuItems.push({
-    icon: 'fa-palette',
-    label: t('settings.customise'),
-    onClick: withClickSound(() => setCustomiseSubmenuOpen(prev => !prev))
-  });
+
   if (onResetApp) {
     menuItems.push({
       icon: 'fa-arrows-rotate',
@@ -228,11 +199,46 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     });
   }
 
+  if (hasRulesContent) {
+    menuItems.push({
+      icon: 'fa-gavel',
+      label: t('settings.rules'),
+      onClick: withClickSound(() => setRulesSubmenuOpen(prev => !prev))
+    });
+  }
+
+  if (onShowLevelSelector) {
+    menuItems.push({
+      icon: 'fa-layer-group',
+      label: t('settings.selectLevel'),
+      onClick: withClickSound(() => { onShowLevelSelector(); onClose(); })
+    });
+  }
+
+  if (onToggleRandomMode) {
+    menuItems.push({
+      icon: 'fa-shuffle',
+      label: randomMode ? t('settings.switchToLevelMode') : t('settings.switchToRandomMode'),
+      onClick: withClickSound(() => {
+        onClose();
+        window.requestAnimationFrame(() => onToggleRandomMode());
+      })
+    });
+  }
+
+  if (onToggleLanguage) {
+    menuItems.push({
+      icon: 'fa-language',
+      label: language === 'en' ? 'Français' : 'English',
+      onClick: withClickSound(() => { onToggleLanguage(); onClose(); })
+    });
+  }
+
   const basePath = typeof window !== 'undefined' ? (import.meta.env.BASE_URL || '/') : '/';
 
   const colorPickerShell = (children: React.ReactNode) => (
     <>
-      <div className="fixed inset-0 z-40 bg-black/60" onClick={onClose} />
+      <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
       <div className={`z-50 min-w-[200px] w-[300px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
         <div
           className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
@@ -363,7 +369,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   if (panelSubmenuOpen) {
     return (
       <>
-        <div className="fixed inset-0 z-40 bg-black/60" onClick={onClose} />
+        <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
         <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
             className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
@@ -423,7 +429,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   if (soundsSubmenuOpen) {
     return (
       <>
-        <div className="fixed inset-0 z-40 bg-black/60" onClick={onClose} />
+        <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
         <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
             className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
@@ -470,7 +476,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   if (customiseSubmenuOpen) {
     return (
       <>
-        <div className="fixed inset-0 z-40 bg-black/60" onClick={onClose} />
+        <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
         <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
             className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
@@ -517,7 +523,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   if (logSubmenuOpen && hasLogContent) {
     return (
       <>
-        <div className="fixed inset-0 z-40 bg-black/60" onClick={onClose} />
+        <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
         <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
             className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
@@ -594,7 +600,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   if (rulesSubmenuOpen && hasRulesContent) {
     return (
       <>
-        <div className="fixed inset-0 z-40 bg-black/60" onClick={onClose} />
+        <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
         <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
             className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
@@ -667,7 +673,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   return (
     <>
       <div
-        className="fixed inset-0 z-40 bg-black/60"
+        className="fixed inset-0 z-[60] bg-black/60"
         onClick={onClose}
       />
       <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
@@ -695,15 +701,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               </button>
             </React.Fragment>
           ))}
-
-          {onToggleStats !== undefined && (
-            <ToggleSwitch
-              checked={statsEnabled}
-              onChange={withClickSound(onToggleStats)}
-              label={t('settings.stats')}
-              icon={statsEnabled ? 'fa-chart-simple' : 'fa-eye-slash'}
-            />
-          )}
 
           <div className="px-4 py-2 text-[10px] text-slate-500 text-center border-t border-white/5">
             v{typeof __APP_VERSION__ !== 'undefined' ? __APP_VERSION__ : 'dev'} • Build: {typeof __BUILD_TIME__ !== 'undefined' ? __BUILD_TIME__ : 'dev'}
