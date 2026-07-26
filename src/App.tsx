@@ -66,6 +66,7 @@ interface AppPreferences {
   mutationGradient: MutationGradientId;
   quizAccent: QuizAccentId;
   customQuizAccent: string;
+  statsEnabled: boolean;
 }
 
 const DEFAULT_PREFS: AppPreferences = {
@@ -76,6 +77,7 @@ const DEFAULT_PREFS: AppPreferences = {
   mutationGradient: 'sunset',
   quizAccent: 'yellow',
   customQuizAccent: '#4ade80',
+  statsEnabled: true,
 };
 
 const App: React.FC = () => {
@@ -95,6 +97,7 @@ const App: React.FC = () => {
           mutationGradient: isMutationGradientId(p.mutationGradient) ? p.mutationGradient : 'sunset',
           quizAccent: isQuizAccentId(p.quizAccent) ? p.quizAccent : 'yellow',
           customQuizAccent: isHexColor(p.customQuizAccent) ? p.customQuizAccent : '#4ade80',
+          statsEnabled: p.statsEnabled !== false,
         };
       }
     } catch (_) {}
@@ -467,33 +470,37 @@ const App: React.FC = () => {
 
           <div className="h-8 w-[1px] bg-white/10 mx-2 hidden sm:block"></div>
 
-          <div className="flex items-center gap-2">
-            <div className="flex items-center gap-3">
-              <div className="w-8 h-8 rounded-full bg-gradient-to-br from-yellow-300 to-[#FF00FF] flex items-center justify-center text-sm">
-                <span className="text-white">{PERSONA_EMOJI[currentPersona] ?? '🐟'}</span>
-              </div>
-              <div className="flex flex-col min-w-[5rem]">
-                <span className="text-[10px] text-slate-500 font-bold uppercase tracking-widest leading-none">{t('app.rank')}</span>
-                <span className="text-sm font-bold text-slate-200 leading-tight whitespace-nowrap" title={currentPersona}>
-                  {t(`personas.${getPersonaTranslationKey(currentPersona)}` as any)}
-                </span>
-              </div>
-            </div>
-
+          {prefs.statsEnabled && (
             <div className="flex items-center gap-2">
-              <i className="fas fa-bolt text-yellow-300 text-sm"></i>
-              <span className="text-sm font-bold text-[#FF00FF]">{displayXp.toLocaleString()}</span>
+              <div className="flex items-center gap-3">
+                <div className="w-8 h-8 rounded-full bg-gradient-to-br from-yellow-300 to-[#FF00FF] flex items-center justify-center text-sm">
+                  <span className="text-white">{PERSONA_EMOJI[currentPersona] ?? '🐟'}</span>
+                </div>
+                <div className="flex flex-col min-w-[5rem]">
+                  <span className="text-[10px] text-slate-500 font-bold uppercase tracking-widest leading-none">{t('app.rank')}</span>
+                  <span className="text-sm font-bold text-slate-200 leading-tight whitespace-nowrap" title={currentPersona}>
+                    {t(`personas.${getPersonaTranslationKey(currentPersona)}` as any)}
+                  </span>
+                </div>
+              </div>
+
+              <div className="flex items-center gap-2">
+                <i className="fas fa-bolt text-yellow-300 text-sm"></i>
+                <span className="text-sm font-bold text-[#FF00FF]">{displayXp.toLocaleString()}</span>
+              </div>
             </div>
-          </div>
+          )}
 
           <div className="ml-auto flex items-center gap-2">
-            <div
-              className="flex items-center gap-2"
-              title="Answer Count"
-            >
-              <i className="fas fa-hashtag text-slate-400 text-sm"></i>
-              <span className="text-sm font-bold text-slate-200">{(stats.totalAttempts ?? stats.history.length).toLocaleString()}</span>
-            </div>
+            {prefs.statsEnabled && (
+              <div
+                className="flex items-center gap-2"
+                title="Answer Count"
+              >
+                <i className="fas fa-hashtag text-slate-400 text-sm"></i>
+                <span className="text-sm font-bold text-slate-200">{(stats.totalAttempts ?? stats.history.length).toLocaleString()}</span>
+              </div>
+            )}
             <div className="relative">
               <button
                 type="button"
@@ -504,40 +511,42 @@ const App: React.FC = () => {
               >
                 <i className="fas fa-gear text-lg"></i>
               </button>
-              <SettingsMenu
-                isOpen={showSettingsMenu}
-                onClose={() => setShowSettingsMenu(false)}
-                onPlayClickSound={playClickSound}
-                view={view}
-                randomMode={randomMode}
-                onToggleRandomMode={view === 'hub' || view === 'quiz' ? handleRandomModeToggle : undefined}
-                soundEnabled={prefs.soundEnabled}
-                onToggleSound={() => setPrefs(p => ({ ...p, soundEnabled: !p.soundEnabled }))}
-                hapticEnabled={prefs.hapticEnabled}
-                onToggleHaptic={() => setPrefs(p => ({ ...p, hapticEnabled: !p.hapticEnabled }))}
-                lightMode={prefs.lightMode}
-                onToggleLightMode={() => setPrefs(p => ({ ...p, lightMode: !p.lightMode }))}
-                onShowGameRules={() => setShowGameRulesModal(true)}
-                onShowGlossary={() => setView('glossary')}
-                onShowArgumentation={() => setShowArgumentation(true)}
-                onShowIdSearch={(initialId?: number) => { setIdSearchInitialId(initialId ?? null); setShowIdSearch(true); }}
-                onShowIdLog={() => setShowIdLog(true)}
-                onShowLearningLog={() => setView('log')}
-                onShowFallacyLog={() => setShowFallacyLog(true)}
-                onShowLevelSelector={() => setShowLevelSelector(true)}
-                onToggleLanguage={toggleLanguage}
-                onResetApp={() => setShowResetModal(true)}
-                panelOpacity={prefs.panelOpacity}
-                onSetPanelOpacity={(opacity) => setPrefs(p => ({ ...p, panelOpacity: opacity }))}
-                mutationGradient={prefs.mutationGradient}
-                onSetMutationGradient={(mutationGradient) => setPrefs(p => ({ ...p, mutationGradient }))}
-                quizAccent={prefs.quizAccent}
-                onSetQuizAccent={(quizAccent) => setPrefs(p => ({ ...p, quizAccent }))}
-                customQuizAccent={prefs.customQuizAccent}
-                onSetCustomQuizAccent={(customQuizAccent) =>
-                  setPrefs(p => ({ ...p, quizAccent: 'custom', customQuizAccent }))
-                }
-              />
+                <SettingsMenu
+                  isOpen={showSettingsMenu}
+                  onClose={() => setShowSettingsMenu(false)}
+                  onPlayClickSound={playClickSound}
+                  view={view}
+                  randomMode={randomMode}
+                  onToggleRandomMode={view === 'hub' || view === 'quiz' ? handleRandomModeToggle : undefined}
+                  soundEnabled={prefs.soundEnabled}
+                  onToggleSound={() => setPrefs(p => ({ ...p, soundEnabled: !p.soundEnabled }))}
+                  hapticEnabled={prefs.hapticEnabled}
+                  onToggleHaptic={() => setPrefs(p => ({ ...p, hapticEnabled: !p.hapticEnabled }))}
+                  lightMode={prefs.lightMode}
+                  onToggleLightMode={() => setPrefs(p => ({ ...p, lightMode: !p.lightMode }))}
+                  onShowGameRules={() => setShowGameRulesModal(true)}
+                  onShowGlossary={() => setView('glossary')}
+                  onShowArgumentation={() => setShowArgumentation(true)}
+                  onShowIdSearch={(initialId?: number) => { setIdSearchInitialId(initialId ?? null); setShowIdSearch(true); }}
+                  onShowIdLog={() => setShowIdLog(true)}
+                  onShowLearningLog={() => setView('log')}
+                  onShowFallacyLog={() => setShowFallacyLog(true)}
+                  onShowLevelSelector={() => setShowLevelSelector(true)}
+                  onToggleLanguage={toggleLanguage}
+                  onResetApp={() => setShowResetModal(true)}
+                  panelOpacity={prefs.panelOpacity}
+                  onSetPanelOpacity={(opacity) => setPrefs(p => ({ ...p, panelOpacity: opacity }))}
+                  mutationGradient={prefs.mutationGradient}
+                  onSetMutationGradient={(mutationGradient) => setPrefs(p => ({ ...p, mutationGradient }))}
+                  quizAccent={prefs.quizAccent}
+                  onSetQuizAccent={(quizAccent) => setPrefs(p => ({ ...p, quizAccent }))}
+                  customQuizAccent={prefs.customQuizAccent}
+                  onSetCustomQuizAccent={(customQuizAccent) =>
+                    setPrefs(p => ({ ...p, quizAccent: 'custom', customQuizAccent }))
+                  }
+                  statsEnabled={prefs.statsEnabled}
+                  onToggleStats={() => setPrefs(p => ({ ...p, statsEnabled: !p.statsEnabled }))}
+                />
             </div>
           </div>
         </div>
@@ -567,6 +576,7 @@ const App: React.FC = () => {
               onPlayCorrectSound={playCorrectAnswerSound}
               onPlayWrongSound={playWrongAnswerSound}
               mutationGradient={prefs.mutationGradient}
+              statsEnabled={prefs.statsEnabled}
             />
           </Suspense>
         ) : view === 'log' ? (
@@ -633,24 +643,26 @@ const App: React.FC = () => {
               )}
             </div>
 
-            <div className="py-4 px-6 bg-white/5 rounded-2xl flex flex-wrap justify-around gap-4 border border-white/5 relative z-10">
-              <div>
-                <div className="text-xs text-slate-500 uppercase font-bold mb-1 tracking-wider">{t('result.evolutionGain')}</div>
-                <div className="text-2xl font-black text-amber-400">+{showResult.score * XP_PER_QUESTION} XP</div>
-              </div>
-              <div>
-                <div className="text-xs text-slate-500 uppercase font-bold mb-1 tracking-wider">{t('result.successRate')}</div>
-                <div className="text-2xl font-black text-sky-400">{Math.round((showResult.score / showResult.total) * 100)}%</div>
-              </div>
-              {showResult.randomMode && showResult.newPersona != null && showResult.newTotalCorrect != null && showResult.newPercentCorrect != null && (
-                <div className="w-full mt-2 pt-2 border-t border-white/10">
-                  <div className="text-xs text-slate-500 uppercase font-bold mb-1 tracking-wider">{t('result.randomEvolution')}</div>
-                  <div className="text-lg font-black text-yellow-300">
-                    {showResult.newTotalCorrect} {t('result.correct')} · {showResult.newPercentCorrect}% <span className="text-slate-400 font-normal">→ {t(`personas.${getPersonaTranslationKey(showResult.newPersona)}` as any)}</span>
-                  </div>
+            {prefs.statsEnabled && (
+              <div className="py-4 px-6 bg-white/5 rounded-2xl flex flex-wrap justify-around gap-4 border border-white/5 relative z-10">
+                <div>
+                  <div className="text-xs text-slate-500 uppercase font-bold mb-1 tracking-wider">{t('result.evolutionGain')}</div>
+                  <div className="text-2xl font-black text-amber-400">+{showResult.score * XP_PER_QUESTION} XP</div>
                 </div>
-              )}
-            </div>
+                <div>
+                  <div className="text-xs text-slate-500 uppercase font-bold mb-1 tracking-wider">{t('result.successRate')}</div>
+                  <div className="text-2xl font-black text-sky-400">{Math.round((showResult.score / showResult.total) * 100)}%</div>
+                </div>
+                {showResult.randomMode && showResult.newPersona != null && showResult.newTotalCorrect != null && showResult.newPercentCorrect != null && (
+                  <div className="w-full mt-2 pt-2 border-t border-white/10">
+                    <div className="text-xs text-slate-500 uppercase font-bold mb-1 tracking-wider">{t('result.randomEvolution')}</div>
+                    <div className="text-lg font-black text-yellow-300">
+                      {showResult.newTotalCorrect} {t('result.correct')} · {showResult.newPercentCorrect}% <span className="text-slate-400 font-normal">→ {t(`personas.${getPersonaTranslationKey(showResult.newPersona)}` as any)}</span>
+                    </div>
+                  </div>
+                )}
+              </div>
+            )}
 
             <button
               onClick={() => { playClickSound(); setShowResult(null); }}
@@ -669,13 +681,14 @@ const App: React.FC = () => {
             onStartQuiz={handleStartEvolution}
             onPlayClickSound={playClickSound}
             mutationGradient={prefs.mutationGradient}
+            statsEnabled={prefs.statsEnabled}
           />
         )}
       </main>
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v63</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v64</p>
       </footer>
 
       {/* Operations View Modal */}

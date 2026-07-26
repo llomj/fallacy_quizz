@@ -17,6 +17,7 @@ interface EvolutionHubProps {
   onStartQuiz: () => void;
   onPlayClickSound?: () => void;
   mutationGradient?: MutationGradientId;
+  statsEnabled?: boolean;
 }
 
 export const EvolutionHub: React.FC<EvolutionHubProps> = ({
@@ -24,6 +25,7 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({
   onStartQuiz,
   onPlayClickSound,
   mutationGradient = 'sunset',
+  statsEnabled = true,
 }) => {
   const { t, language } = useLanguage();
   const glossary = useTranslatedGlossary();
@@ -83,21 +85,23 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({
 
   return (
     <div className="space-y-6 animate-in fade-in duration-700">
-      <div className="flex flex-col items-center gap-1.5 py-1.5 border-b border-white/5 mb-1">
-        <PersonaBadge stage={displayPersona} size="md" />
-        <div className="text-center space-y-1">
-          <h1 className="text-xl font-black text-white tracking-tight uppercase">
-            {randomMode ? t('hub.randomModeLabel') : `${formatTranslation(t('hub.evolutionStage'), { level: stats.currentLevel })} ${stats.currentLevel}`}
-          </h1>
-          <div className="flex items-center gap-2 justify-center">
-            <span className="w-1.5 h-1.5 rounded-full bg-[#FF00FF] animate-pulse"></span>
-            <span className="text-slate-400 font-bold text-[10px] tracking-widest uppercase">
-              {displayPersonaStr} {t('hub.class')}
-            </span>
+      {statsEnabled && (
+        <div className="flex flex-col items-center gap-1.5 py-1.5 border-b border-white/5 mb-1">
+          <PersonaBadge stage={displayPersona} size="md" />
+          <div className="text-center space-y-1">
+            <h1 className="text-xl font-black text-white tracking-tight uppercase">
+              {randomMode ? t('hub.randomModeLabel') : `${formatTranslation(t('hub.evolutionStage'), { level: stats.currentLevel })} ${stats.currentLevel}`}
+            </h1>
+            <div className="flex items-center gap-2 justify-center">
+              <span className="w-1.5 h-1.5 rounded-full bg-[#FF00FF] animate-pulse"></span>
+              <span className="text-slate-400 font-bold text-[10px] tracking-widest uppercase">
+                {displayPersonaStr} {t('hub.class')}
+              </span>
+            </div>
+            {!randomMode && renderStars()}
           </div>
-          {!randomMode && renderStars()}
         </div>
-      </div>
+      )}
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div className="glass rounded-3xl p-8 space-y-6 flex flex-col justify-between border-yellow-300/30 bg-yellow-300/5">
@@ -111,12 +115,14 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({
                 <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider mb-1">{t('hub.batchSize')}</div>
                 <div className="text-lg font-black text-white">15 {t('hub.questions')}</div>
               </div>
-              <div className="bg-slate-900/50 rounded-2xl p-4 border border-white/5">
-                <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider mb-1">{t('hub.lastAccuracy')}</div>
-                <div className={`text-lg font-black ${lastAccuracy !== null ? 'text-amber-400' : 'text-slate-700'}`}>
-                  {lastAccuracy !== null ? `${lastAccuracy}%` : '---'}
+              {statsEnabled && (
+                <div className="bg-slate-900/50 rounded-2xl p-4 border border-white/5">
+                  <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider mb-1">{t('hub.lastAccuracy')}</div>
+                  <div className={`text-lg font-black ${lastAccuracy !== null ? 'text-amber-400' : 'text-slate-700'}`}>
+                    {lastAccuracy !== null ? `${lastAccuracy}%` : '---'}
+                  </div>
                 </div>
-              </div>
+              )}
             </div>
 
             <p className="text-slate-300 text-xs leading-relaxed">
@@ -146,38 +152,44 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({
                 <p className="text-slate-400 leading-relaxed text-xs">
                   {t('hub.randomModeDescription')}
                 </p>
-                {/* Stats belong here so “Random Mode” + description + tiles read as one block (see ps.md). */}
-                <div className="mt-5">
-                  <RandomModeStatRow variant="hub" totalAnswered={rm.totalAnswered} totalCorrect={rm.totalCorrect} t={t} />
-                </div>
-              </div>
-              <div className="space-y-4 pt-6 border-t border-white/5">
-                <div className="bg-slate-900/50 rounded-2xl p-3 border border-white/5">
-                  <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider mb-1">{t('hub.accuracy')}</div>
-                  <div className="text-lg font-black text-[#FF00FF]">
-                    {rm.totalAnswered > 0 ? Math.round((rm.totalCorrect / rm.totalAnswered) * 100) : 0}%
-                  </div>
-                </div>
-                {rm.lastSessionStars != null && (
-                  <div className="bg-slate-900/50 rounded-2xl p-3 border border-amber-500/30 flex items-center gap-2">
-                    <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider">{formatTranslation(t('hub.lastRunStars'), { count: rm.lastSessionStars! })}</div>
-                    <div className="flex gap-0.5 ml-1">
-                      {[1, 2, 3, 4, 5].map(starNum => (
-                        <i key={starNum} className={`fas fa-star text-[10px] ${starNum <= rm.lastSessionStars! ? 'text-amber-400' : 'text-slate-700/50'}`} />
-                      ))}
-                    </div>
-                  </div>
-                )}
-                {nextThreshold && (
+                {statsEnabled && (
                   <>
-                    <div className="flex justify-between text-[10px] font-bold text-slate-500 uppercase tracking-widest">
-                      <span>{formatTranslation(t('hub.correctToNext'), { correct: Math.max(0, nextThreshold.minCorrect - rm.totalCorrect), percent: nextThreshold.minPercent, persona: t(`personas.${getPersonaTranslationKey(nextThreshold.persona)}` as any) })}</span>
-                      <span>{rm.totalCorrect} / {nextThreshold.minCorrect}</span>
+                    {/* Stats belong here so "Random Mode" + description + tiles read as one block (see ps.md). */}
+                    <div className="mt-5">
+                      <RandomModeStatRow variant="hub" totalAnswered={rm.totalAnswered} totalCorrect={rm.totalCorrect} t={t} />
                     </div>
-                    <ProgressBar current={Math.min(rm.totalCorrect, nextThreshold.minCorrect)} total={nextThreshold.minCorrect} colorClass="bg-[#FF00FF]" />
                   </>
                 )}
               </div>
+              {statsEnabled && (
+                <div className="space-y-4 pt-6 border-t border-white/5">
+                  <div className="bg-slate-900/50 rounded-2xl p-3 border border-white/5">
+                    <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider mb-1">{t('hub.accuracy')}</div>
+                    <div className="text-lg font-black text-[#FF00FF]">
+                      {rm.totalAnswered > 0 ? Math.round((rm.totalCorrect / rm.totalAnswered) * 100) : 0}%
+                    </div>
+                  </div>
+                  {rm.lastSessionStars != null && (
+                    <div className="bg-slate-900/50 rounded-2xl p-3 border border-amber-500/30 flex items-center gap-2">
+                      <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider">{formatTranslation(t('hub.lastRunStars'), { count: rm.lastSessionStars! })}</div>
+                      <div className="flex gap-0.5 ml-1">
+                        {[1, 2, 3, 4, 5].map(starNum => (
+                          <i key={starNum} className={`fas fa-star text-[10px] ${starNum <= rm.lastSessionStars! ? 'text-amber-400' : 'text-slate-700/50'}`} />
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                  {nextThreshold && (
+                    <>
+                      <div className="flex justify-between text-[10px] font-bold text-slate-500 uppercase tracking-widest">
+                        <span>{formatTranslation(t('hub.correctToNext'), { correct: Math.max(0, nextThreshold.minCorrect - rm.totalCorrect), percent: nextThreshold.minPercent, persona: t(`personas.${getPersonaTranslationKey(nextThreshold.persona)}` as any) })}</span>
+                        <span>{rm.totalCorrect} / {nextThreshold.minCorrect}</span>
+                      </div>
+                      <ProgressBar current={Math.min(rm.totalCorrect, nextThreshold.minCorrect)} total={nextThreshold.minCorrect} colorClass="bg-[#FF00FF]" />
+                    </>
+                  )}
+                </div>
+              )}
             </>
           ) : (
             <>
@@ -208,58 +220,62 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({
                   ))}
                 </div>
               </div>
-              <div className="space-y-4 pt-6 border-t border-white/5">
-                <div className="flex justify-between text-[10px] font-bold text-slate-500 uppercase tracking-widest">
-                  <span>
-                    {(earnedStars === 0 || earnedStars === 1) && t('subLevels.beginnerProgress')}
-                    {(earnedStars === 2 || earnedStars === 3) && t('subLevels.intermediateProgress')}
-                    {earnedStars === 4 && t('subLevels.expertProgress')}
-                    {earnedStars === 5 && t('subLevels.masteryProgress')}
-                  </span>
-                  <span>{progress} / {questionsNeeded}</span>
+              {statsEnabled && (
+                <div className="space-y-4 pt-6 border-t border-white/5">
+                  <div className="flex justify-between text-[10px] font-bold text-slate-500 uppercase tracking-widest">
+                    <span>
+                      {(earnedStars === 0 || earnedStars === 1) && t('subLevels.beginnerProgress')}
+                      {(earnedStars === 2 || earnedStars === 3) && t('subLevels.intermediateProgress')}
+                      {earnedStars === 4 && t('subLevels.expertProgress')}
+                      {earnedStars === 5 && t('subLevels.masteryProgress')}
+                    </span>
+                    <span>{progress} / {questionsNeeded}</span>
+                  </div>
+                  <ProgressBar current={progress} total={questionsNeeded} colorClass="bg-yellow-400" />
+                  <div className="flex justify-between text-[8px] text-slate-600 font-black tracking-widest px-1">
+                    <span>{t('subLevels.beginnerCaps')}</span>
+                    <span className="ml-4">{t('subLevels.intermediateCaps')}</span>
+                    <span>{t('subLevels.expertCaps')}</span>
+                  </div>
                 </div>
-                <ProgressBar current={progress} total={questionsNeeded} colorClass="bg-yellow-400" />
-                <div className="flex justify-between text-[8px] text-slate-600 font-black tracking-widest px-1">
-                  <span>{t('subLevels.beginnerCaps')}</span>
-                  <span className="ml-4">{t('subLevels.intermediateCaps')}</span>
-                  <span>{t('subLevels.expertCaps')}</span>
-                </div>
-              </div>
+              )}
             </>
           )}
         </div>
       </div>
 
-      <div className="glass rounded-3xl p-6 flex flex-col sm:flex-row items-center justify-between gap-6 border-white/5">
-        <div className="flex items-center gap-4 flex-1">
-          <div className="w-14 h-14 rounded-2xl bg-slate-800 flex flex-col items-center justify-center border border-white/5">
-            <span className="text-xl font-black text-white">{globalPercentage}%</span>
-            <span className="text-[7px] font-bold text-slate-500 uppercase tracking-widest">{t('hub.mastery')}</span>
+      {statsEnabled && (
+        <div className="glass rounded-3xl p-6 flex flex-col sm:flex-row items-center justify-between gap-6 border-white/5">
+          <div className="flex items-center gap-4 flex-1">
+            <div className="w-14 h-14 rounded-2xl bg-slate-800 flex flex-col items-center justify-center border border-white/5">
+              <span className="text-xl font-black text-white">{globalPercentage}%</span>
+              <span className="text-[7px] font-bold text-slate-500 uppercase tracking-widest">{t('hub.mastery')}</span>
+            </div>
+            <div>
+              <h4 className="font-bold text-xs text-slate-200">{t('hub.globalProgress')}</h4>
+              <p className="text-[10px] text-slate-500">{totalCompleted} / {totalPossible} {t('hub.conceptsText')}</p>
+            </div>
           </div>
-          <div>
-            <h4 className="font-bold text-xs text-slate-200">{t('hub.globalProgress')}</h4>
-            <p className="text-[10px] text-slate-500">{totalCompleted} / {totalPossible} {t('hub.conceptsText')}</p>
-          </div>
-        </div>
 
-        <div className="flex items-center gap-4">
-          <div className="flex gap-1.5">
-          {LEVELS.map(l => (
-            <div
-              key={l.level}
-              className={`w-1.5 h-6 rounded-full transition-all duration-500 ${
-                l.level < stats.currentLevel
-                  ? 'bg-yellow-300'
-                  : l.level === stats.currentLevel
-                  ? 'bg-[#FF00FF]/70 animate-pulse'
-                  : 'bg-slate-800'
-              }`}
-              title={t(`personas.${getPersonaTranslationKey(l.persona)}` as any)}
-            />
-          ))}
+          <div className="flex items-center gap-4">
+            <div className="flex gap-1.5">
+            {LEVELS.map(l => (
+              <div
+                key={l.level}
+                className={`w-1.5 h-6 rounded-full transition-all duration-500 ${
+                  l.level < stats.currentLevel
+                    ? 'bg-yellow-300'
+                    : l.level === stats.currentLevel
+                    ? 'bg-[#FF00FF]/70 animate-pulse'
+                    : 'bg-slate-800'
+                }`}
+                title={t(`personas.${getPersonaTranslationKey(l.persona)}` as any)}
+              />
+            ))}
+            </div>
           </div>
         </div>
-      </div>
+      )}
 
       {selectedConcept && (
         <ConceptTooltipModal

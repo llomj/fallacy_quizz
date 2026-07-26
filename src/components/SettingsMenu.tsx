@@ -80,6 +80,8 @@ interface SettingsMenuProps {
   onSetQuizAccent?: (accent: QuizAccentId) => void;
   customQuizAccent?: string;
   onSetCustomQuizAccent?: (color: string) => void;
+  statsEnabled?: boolean;
+  onToggleStats?: () => void;
 }
 
 export const SettingsMenu: React.FC<SettingsMenuProps> = ({
@@ -114,6 +116,8 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   onSetQuizAccent,
   customQuizAccent = '#4ade80',
   onSetCustomQuizAccent,
+  statsEnabled = true,
+  onToggleStats,
 }) => {
   const { t, language } = useLanguage();
   const [rulesSubmenuOpen, setRulesSubmenuOpen] = useState(false);
@@ -495,6 +499,14 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               <span className="text-sm font-medium">{t('settings.customiseSettingsPanel')}</span>
               <i className="fas fa-chevron-right text-xs ml-auto"></i>
             </button>
+            {onToggleStats !== undefined && (
+              <ToggleSwitch
+                checked={statsEnabled}
+                onChange={withClickSound(onToggleStats)}
+                label={t('settings.stats')}
+                icon={statsEnabled ? 'fa-chart-simple' : 'fa-eye-slash'}
+              />
+            )}
           </div>
         </div>
       </>

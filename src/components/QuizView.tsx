@@ -533,6 +533,7 @@ interface QuizViewProps {
   onPlayCorrectSound?: () => void;
   onPlayWrongSound?: () => void;
   mutationGradient?: MutationGradientId;
+  statsEnabled?: boolean;
 }
 
 export const QuizView: React.FC<QuizViewProps> = ({
@@ -555,6 +556,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
   onPlayCorrectSound,
   onPlayWrongSound,
   mutationGradient = 'sunset',
+  statsEnabled = true,
 }) => {
   const { t, tRaw, language } = useLanguage();
   const [questions, setQuestions] = useState<Question[]>([]);
@@ -786,26 +788,28 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 {currentQuestion.subLevel === 'Intermediate' && t('subLevels.intermediateCaps')}
                 {currentQuestion.subLevel === 'Expert' && t('subLevels.expertCaps')}
               </span>
-              <div className="flex gap-0.5">
-                {[1, 2, 3, 4, 5].map(starNum => {
-                  const isEarned = !randomMode && starNum <= earnedStarsForLevel;
-                  return (
-                    <i
-                      key={starNum}
-                      className={`fas fa-star text-[8px] ${isEarned ? 'text-amber-400' : 'text-slate-700'
-                        }`}
-                    ></i>
-                  );
-                })}
-              </div>
+              {statsEnabled && (
+                <div className="flex gap-0.5">
+                  {[1, 2, 3, 4, 5].map(starNum => {
+                    const isEarned = !randomMode && starNum <= earnedStarsForLevel;
+                    return (
+                      <i
+                        key={starNum}
+                        className={`fas fa-star text-[8px] ${isEarned ? 'text-amber-400' : 'text-slate-700'
+                          }`}
+                      ></i>
+                    );
+                  })}
+                </div>
+              )}
             </div>
             <div className="flex flex-wrap items-center justify-end gap-x-4 gap-y-1 shrink-0">
-              {randomMode && liveRandomCorrect !== null && liveRandomPercent !== null && (
+              {statsEnabled && randomMode && liveRandomCorrect !== null && liveRandomPercent !== null && (
                 <span className="text-yellow-400">
                   {liveRandomCorrect} {t('quiz.correct')} · {liveRandomPercent}%
                 </span>
               )}
-              {randomMode && liveRandomStats != null && (
+              {statsEnabled && randomMode && liveRandomStats != null && (
                 <span className="text-[#FF00FF] text-[10px] font-black tracking-[0.15em]">
                   {liveRandomPercent != null ? `${liveRandomPercent}%` : '0%'} {t('hub.accuracy')}
                 </span>
@@ -816,7 +820,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
               <span className="text-slate-400">{Math.round(((currentIndex + 1) / questions.length) * 100)}%</span>
             </div>
           </div>
-          {randomMode && liveRandomStats != null && (
+          {statsEnabled && randomMode && liveRandomStats != null && (
             <RandomModeStatRow
               variant="quiz"
               totalAnswered={liveRandomStats.totalAnswered}

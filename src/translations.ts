@@ -201,6 +201,7 @@ export const translations = {
       customColor: "Custom color",
       customiseSettingsPanel: "Customise Settings Panel",
       panelTransparency: "Panel Transparency",
+      stats: "Stats",
     },
     
     // Reset App Modal
@@ -505,6 +506,7 @@ export const translations = {
       customColor: "Couleur personnalisée",
       customiseSettingsPanel: "Personnaliser le panneau",
       panelTransparency: "Transparence du panneau",
+      stats: "Statistiques",
     },
     
     // Reset App Modal
