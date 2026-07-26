@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Rosa says the rule about quiet voices should not apply because she is only talking in a calm tone, not a loud one.', 'Rosa dit que la regle sur les voix calmes ne devrait pas s appliquer parce qu elle parle seulement d un ton calme, pas fort.'],
   ['Alicia says her broken deadline is different because the assignment was personal, not ordinary.', 'Alicia dit que son retard de deadline est different parce que le devoir etait personnel, pas ordinaire.'],
   ['Owen says the no-entry sign should not apply because he knows the owner and that makes his entry special.', 'Owen dit que le panneau interdit d entrer ne devrait pas s appliquer parce qu il connait le proprietaire et que cela rend son entree speciale.'],
+  ['Maya says she should be allowed to skip the checkout line because she is only buying one thing and that makes it special.', 'Maya dit qu elle devrait etre autorisee à couper la file parce qu elle n achete qu une chose et que cela rend son cas special.'],
 ];
 
 const OPTIONS_EN = ['Special Pleading', 'Double Standard', 'Moving the Goalposts', 'No True Scotsman'];
