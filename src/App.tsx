@@ -490,7 +490,7 @@ const App: React.FC = () => {
                 className="flex items-center gap-2"
                 title="Answer Count"
               >
-                <i className="fas fa-hashtag text-slate-400 text-sm"></i>
+                <span className="text-xs font-bold text-slate-400 uppercase tracking-wider">Count</span>
                 <span className="text-sm font-bold text-slate-200">{(stats.totalAttempts ?? stats.history.length).toLocaleString()}</span>
               </div>
             )}

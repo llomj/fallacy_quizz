@@ -179,6 +179,14 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     onClick: withClickSound(() => setCustomiseSubmenuOpen(prev => !prev))
   });
 
+  if (onToggleLanguage) {
+    menuItems.push({
+      icon: 'fa-language',
+      label: language === 'en' ? 'Français' : 'English',
+      onClick: withClickSound(() => { onToggleLanguage(); onClose(); })
+    });
+  }
+
   const hasLogContent = Boolean(onShowIdSearch || onShowIdLog || onShowLearningLog);
   if (hasLogContent) {
     menuItems.push({
@@ -223,14 +231,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
         onClose();
         window.requestAnimationFrame(() => onToggleRandomMode());
       })
-    });
-  }
-
-  if (onToggleLanguage) {
-    menuItems.push({
-      icon: 'fa-language',
-      label: language === 'en' ? 'Français' : 'English',
-      onClick: withClickSound(() => { onToggleLanguage(); onClose(); })
     });
   }
 
@@ -442,14 +442,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               <i className="fas fa-arrow-left text-sm w-5 flex-shrink-0"></i>
               <span className="text-sm font-medium">{t('settings.back')}</span>
             </button>
-            {onToggleSound !== undefined && (
-              <ToggleSwitch
-                checked={soundEnabled}
-                onChange={withClickSound(onToggleSound)}
-                label={t('settings.sound')}
-                icon={soundEnabled ? 'fa-volume-high' : 'fa-volume-xmark'}
-              />
-            )}
             {onToggleHaptic !== undefined && (
               <ToggleSwitch
                 checked={hapticEnabled}
@@ -464,6 +456,14 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                 onChange={withClickSound(onToggleLightMode)}
                 label={t('settings.lightMode')}
                 icon={lightMode ? 'fa-sun' : 'fa-moon'}
+              />
+            )}
+            {onToggleSound !== undefined && (
+              <ToggleSwitch
+                checked={soundEnabled}
+                onChange={withClickSound(onToggleSound)}
+                label={t('settings.sound')}
+                icon={soundEnabled ? 'fa-volume-high' : 'fa-volume-xmark'}
               />
             )}
           </div>
@@ -490,19 +490,19 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               <span className="text-sm font-medium">{t('settings.back')}</span>
             </button>
             <button
-              onClick={withClickSound(() => { setCustomiseSubmenuOpen(false); setSoundsSubmenuOpen(true); })}
-              className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
-            >
-              <i className="fas fa-volume-high text-sm w-5 flex-shrink-0"></i>
-              <span className="text-sm font-medium">{t('settings.sounds')}</span>
-              <i className="fas fa-chevron-right text-xs ml-auto"></i>
-            </button>
-            <button
               onClick={withClickSound(() => { setCustomiseSubmenuOpen(false); setPanelSubmenuOpen(true); })}
               className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
             >
               <i className="fas fa-sliders text-sm w-5 flex-shrink-0"></i>
               <span className="text-sm font-medium">{t('settings.customiseSettingsPanel')}</span>
+              <i className="fas fa-chevron-right text-xs ml-auto"></i>
+            </button>
+            <button
+              onClick={withClickSound(() => { setCustomiseSubmenuOpen(false); setSoundsSubmenuOpen(true); })}
+              className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+            >
+              <i className="fas fa-volume-high text-sm w-5 flex-shrink-0"></i>
+              <span className="text-sm font-medium">{t('settings.sounds')}</span>
               <i className="fas fa-chevron-right text-xs ml-auto"></i>
             </button>
             {onToggleStats !== undefined && (
@@ -536,6 +536,33 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               <i className="fas fa-arrow-left text-sm w-5 flex-shrink-0"></i>
               <span className="text-sm font-medium">{t('settings.back')}</span>
             </button>
+            {onShowFallacyLog && (
+              <button
+                onClick={withClickSound(() => { onShowFallacyLog(); onClose(); })}
+                className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+              >
+                <i className="fas fa-bookmark text-sm w-5 flex-shrink-0"></i>
+                <span className="text-sm font-medium">{t('app.fallacyLog') || 'Fallacy Log'}</span>
+              </button>
+            )}
+            {onShowIdLog && (
+              <button
+                onClick={withClickSound(() => { onShowIdLog(); onClose(); })}
+                className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+              >
+                <i className="fas fa-list text-sm w-5 flex-shrink-0"></i>
+                <span className="text-sm font-medium">{t('settings.idLog')}</span>
+              </button>
+            )}
+            {onShowLearningLog && (
+              <button
+                onClick={withClickSound(() => { onShowLearningLog(); onClose(); })}
+                className={`w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left ${view === 'log' ? 'bg-yellow-400/15 text-yellow-300' : 'text-slate-300 hover:bg-white/10 hover:text-white'}`}
+              >
+                <i className="fas fa-book-open text-sm w-5 flex-shrink-0"></i>
+                <span className="text-sm font-medium">{t('app.learningLog')}</span>
+              </button>
+            )}
             {onShowIdSearch && (
               <div className="w-full px-4 py-3" onClick={(e) => e.stopPropagation()}>
                 <div className="flex items-center gap-2">
@@ -562,33 +589,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                   </button>
                 </div>
               </div>
-            )}
-            {onShowIdLog && (
-              <button
-                onClick={withClickSound(() => { onShowIdLog(); onClose(); })}
-                className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
-              >
-                <i className="fas fa-list text-sm w-5 flex-shrink-0"></i>
-                <span className="text-sm font-medium">{t('settings.idLog')}</span>
-              </button>
-            )}
-            {onShowLearningLog && (
-              <button
-                onClick={withClickSound(() => { onShowLearningLog(); onClose(); })}
-                className={`w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left ${view === 'log' ? 'bg-yellow-400/15 text-yellow-300' : 'text-slate-300 hover:bg-white/10 hover:text-white'}`}
-              >
-                <i className="fas fa-book-open text-sm w-5 flex-shrink-0"></i>
-                <span className="text-sm font-medium">{t('app.learningLog')}</span>
-              </button>
-            )}
-            {onShowFallacyLog && (
-              <button
-                onClick={withClickSound(() => { onShowFallacyLog(); onClose(); })}
-                className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
-              >
-                <i className="fas fa-bookmark text-sm w-5 flex-shrink-0"></i>
-                <span className="text-sm font-medium">{t('app.fallacyLog') || 'Fallacy Log'}</span>
-              </button>
             )}
           </div>
         </div>
@@ -622,15 +622,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                 <span className="text-sm font-medium">{t('gameRules.title')}</span>
               </button>
             )}
-            {onShowArgumentation && (
-              <button
-                onClick={withClickSound(() => { onShowArgumentation(); onClose(); })}
-                className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
-              >
-                <i className="fas fa-scale-balanced text-sm w-5 flex-shrink-0"></i>
-                <span className="text-sm font-medium">{t('settings.logicalRules')}</span>
-              </button>
-            )}
             {onShowGlossary && (
               <button
                 onClick={withClickSound(() => { onShowGlossary(); onClose(); })}
@@ -638,6 +629,15 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               >
                 <i className="fas fa-circle-info text-sm w-5 flex-shrink-0"></i>
                 <span className="text-sm font-medium">{t('app.glossary')}</span>
+              </button>
+            )}
+            {onShowArgumentation && (
+              <button
+                onClick={withClickSound(() => { onShowArgumentation(); onClose(); })}
+                className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+              >
+                <i className="fas fa-scale-balanced text-sm w-5 flex-shrink-0"></i>
+                <span className="text-sm font-medium">{t('settings.logicalRules')}</span>
               </button>
             )}
             {onShowIdSearch && (
@@ -671,12 +671,14 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
 
   // ── Main menu ──
   return (
-    <>
+    <div className="fixed inset-0 z-[60]">
       <div
-        className="fixed inset-0 z-[60] bg-black/60"
+        className="absolute inset-0 bg-black/60 cursor-pointer"
         onClick={onClose}
       />
-      <div className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+      <div className={`relative z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}
+        onClick={(e) => e.stopPropagation()}
+      >
         <div
           className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
           style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
@@ -722,6 +724,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
           )}
         </div>
       </div>
-    </>
+    </div>
   );
 };
