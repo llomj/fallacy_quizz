@@ -258,16 +258,16 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
                     question.detailedExplanationIntermediate ||
                     question.detailedExplanationExpert) && (
                       <details className="mt-3">
-                        <summary className="cursor-pointer text-sm text-yellow-300 hover:text-yellow-200 font-bold">
+                        <summary className="quiz-accent-text cursor-pointer text-sm hover:opacity-80 font-bold">
                           {t('idSearch.showDetailedExplanation')}
                         </summary>
-                        <div className="mt-2 space-y-2 rounded-xl bg-slate-900/90 border border-slate-700/50 p-4">
+                        <div className="codon-accent-detail mt-2 space-y-2 rounded-xl border p-4">
                           <label className="flex items-center gap-2 text-xs text-slate-400">
                             <span>{t('idSearch.explanationLevel')}:</span>
                             <select
                               value={detailedExplanationLevel}
                               onChange={(e) => setDetailedExplanationLevel(e.target.value as DetailedExplanationLevel)}
-                              className="bg-slate-800 border border-slate-600 rounded px-2 py-1 text-slate-200 text-xs focus:outline-none focus:ring-1 focus:ring-yellow-400 appearance-none cursor-pointer [color-scheme:dark]"
+                              className="codon-accent-focus bg-slate-800 border border-slate-600 rounded px-2 py-1 text-slate-200 text-xs focus:outline-none focus:ring-1 appearance-none cursor-pointer [color-scheme:dark]"
                             >
                               <option value="beginner">{t('subLevels.beginner')}</option>
                               <option value="detail">{t('subLevels.detail')}</option>
@@ -275,8 +275,8 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
                           </label>
                           <ExplanationWithStepNumbers
                             className="text-sm bg-transparent"
-                            bodyClassName="text-slate-300"
-                            stepClassName="text-yellow-300 font-semibold"
+                            bodyClassName="quiz-accent-text"
+                            stepClassName="quiz-accent-text font-semibold"
                             text={normalizeExplanationWhitespace(
                               getTranslatedDetailedExplanation(
                                 question.id,

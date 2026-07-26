@@ -75420,6 +75420,13 @@ const getFrenchDetailedFallback = (questionId: number): string => {
  * puis repli court.
  * Le formatage final (scénario, niveau débutant/intermédiaire/expert) est assuré par buildFallacyFrenchDetailed — parité avec l’anglais.
  */
+const unwrapGeneratedFallacyExplanation = (text: string): string => {
+  const match = text.match(
+    /\nWhy (?:the answer is [^:\n]+|this answer):\n([\s\S]*?)(?=\n\nQuick recap:|\n(?:Step-by-step for|How this maps|Expert structural read))/
+  );
+  return match?.[1]?.trim() || text;
+};
+
 export const getTranslatedDetailedExplanation = (
   questionId: number,
   inputText: string, // Might be EN or already FR
@@ -75451,20 +75458,22 @@ export const getTranslatedDetailedExplanation = (
     if (frL2_10) return frL2_10;
   }
 
+  const unwrappedInputText = unwrapGeneratedFallacyExplanation(inputText);
+
   // If the input text is already in French (e.g. from LEVEL_0_GEN_FR), use it as the base.
   // We detect this by checking if it contains French-specific characters or by common sense for Level 0.
-  const isAlreadyFrench = !containsEnglishProse(normalizeFrenchProse(inputText)) || (questionId >= 1000 && questionId <= 1600);
+  const isAlreadyFrench = !containsEnglishProse(normalizeFrenchProse(unwrappedInputText)) || (questionId >= 1000 && questionId <= 1600);
 
   const mappedFrench = DETAILED_EXPLANATIONS_FR[questionId];
   const codonFr =
     correctOption && getFallacyCodonExplanationFR(correctOption, explanationLevel);
 
   const baseFrench = (() => {
-    if (isAlreadyFrench) return normalizeFrenchProse(inputText);
+    if (isAlreadyFrench) return normalizeFrenchProse(unwrappedInputText);
     // Fallacy app: never use legacy `DETAILED_EXPLANATIONS_FR` (CLI course) — prefer codon FR, then EN in-depth text.
     if (isLogicalFallaciesAppQuestionId(questionId)) {
       if (codonFr) return codonFr;
-      return normalizeFrenchProse(inputText);
+      return normalizeFrenchProse(unwrappedInputText);
     }
     if (mappedFrench && !containsCLITerminalContent(mappedFrench)) {
       return normalizeFrenchProse(mappedFrench);
@@ -75488,4 +75497,3 @@ export const getTranslatedDetailedExplanation = (
     correctOption,
   });
 };
-

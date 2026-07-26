@@ -78,6 +78,8 @@ interface SettingsMenuProps {
   onSetMutationGradient?: (gradient: MutationGradientId) => void;
   quizAccent?: QuizAccentId;
   onSetQuizAccent?: (accent: QuizAccentId) => void;
+  customQuizAccent?: string;
+  onSetCustomQuizAccent?: (color: string) => void;
 }
 
 export const SettingsMenu: React.FC<SettingsMenuProps> = ({
@@ -110,6 +112,8 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   onSetMutationGradient,
   quizAccent = 'yellow',
   onSetQuizAccent,
+  customQuizAccent = '#4ade80',
+  onSetCustomQuizAccent,
 }) => {
   const { t, language } = useLanguage();
   const [rulesSubmenuOpen, setRulesSubmenuOpen] = useState(false);
@@ -316,6 +320,35 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                 </span>
               </button>
             ))}
+            <label
+              className={`col-span-3 rounded-xl border p-2.5 cursor-pointer transition-all ${
+                quizAccent === 'custom'
+                  ? 'border-white/80 bg-white/10'
+                  : 'border-white/10 hover:border-white/30 hover:bg-white/5'
+              }`}
+            >
+              <span className="flex items-center gap-3">
+                <span
+                  className="h-9 flex-1 rounded-lg border border-white/20"
+                  style={{
+                    background:
+                      'linear-gradient(90deg, #ff0000, #ffff00, #00ff00, #00ffff, #0000ff, #ff00ff, #ff0000)',
+                  }}
+                />
+                <span
+                  className="h-9 w-9 rounded-full border-2 border-white/70 shrink-0"
+                  style={{ backgroundColor: customQuizAccent }}
+                />
+                <span className="text-[11px] font-medium text-slate-200">{t('settings.customColor')}</span>
+              </span>
+              <input
+                type="color"
+                aria-label={t('settings.customColor')}
+                value={customQuizAccent}
+                onChange={(event) => onSetCustomQuizAccent?.(event.target.value)}
+                className="mt-2 h-8 w-full cursor-pointer rounded-lg border border-white/10 bg-transparent"
+              />
+            </label>
           </div>
         </div>
       </>

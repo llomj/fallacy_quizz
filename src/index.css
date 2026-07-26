@@ -70,6 +70,25 @@ body {
   background-color: var(--quiz-accent);
 }
 
+.codon-accent-panel {
+  color: var(--quiz-accent);
+  background-color: rgb(var(--quiz-accent-rgb) / 0.08);
+  border-color: rgb(var(--quiz-accent-rgb) / 0.4);
+}
+
+.codon-accent-detail {
+  background-color: rgb(15 23 42 / 0.9);
+  border-color: rgb(var(--quiz-accent-rgb) / 0.28);
+}
+
+.codon-accent-divider {
+  border-color: rgb(var(--quiz-accent-rgb) / 0.35);
+}
+
+.codon-accent-focus:focus {
+  --tw-ring-color: rgb(var(--quiz-accent-rgb) / 0.85);
+}
+
 @media (hover: hover) {
   .quiz-accent-option:hover {
     background-color: rgb(var(--quiz-accent-rgb) / 0.1);
