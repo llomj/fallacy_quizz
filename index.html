@@ -3,11 +3,10 @@
 <head>
     <script>
       (function() {
-        // Force preview to always load latest: on localhost, unregister service worker
-        // so cached old app (no stars, no random mode) is never served.
-        if (typeof window === 'undefined' || window.location.hostname !== 'localhost') return;
+        // Always unregister old service workers on load so stale caches are cleared.
+        if (typeof window === 'undefined') return;
         if (!('serviceWorker' in navigator)) return;
-        var key = 'cli-exercises-sw-cleared';
+        var key = 'fallacy-sw-cleared-v2';
         if (sessionStorage.getItem(key)) return;
         navigator.serviceWorker.getRegistrations().then(function(regs) {
           if (regs.length === 0) return;

@@ -57,13 +57,22 @@ export default defineConfig(({ mode }) => {
         },
         includeAssets: ['icons/*'],
         workbox: {
-          globPatterns: ['**/*.{js,css,html,ico,png,svg,json,woff2,woff}'],
+          globPatterns: ['**/*.{js,css,ico,png,svg,json,woff2,woff}'],
           maximumFileSizeToCacheInBytes: 20 * 1024 * 1024,
           cleanupOutdatedCaches: true,
           sourcemap: true,
           navigateFallback: startUrl,
           navigateFallbackAllowlist: [/^(?!\/__).*/],
-          runtimeCaching: [],
+          runtimeCaching: [
+            {
+              urlPattern: ({ request }) => request.destination === 'document',
+              handler: 'NetworkFirst',
+              options: {
+                cacheName: 'html-cache',
+                expiration: { maxEntries: 1, maxAgeSeconds: 60 },
+              },
+            },
+          ],
           skipWaiting: true,
           clientsClaim: true,
         }
