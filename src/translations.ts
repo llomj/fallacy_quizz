@@ -199,7 +199,8 @@ export const translations = {
       mutationButtonColors: "Mutation Button Colors",
       quizAccentColor: "Quiz Accent Color",
       customColor: "Custom color",
-      customiseSettingsPanel: "Customise Settings Panel",
+      customiseSettingsPanel: "Customize Settings",
+      panelOpacityHint: "Low = more see-through, High = more solid",
       panelTransparency: "Panel Transparency",
     },
     
@@ -503,7 +504,8 @@ export const translations = {
       mutationButtonColors: "Couleurs du bouton Mutation",
       quizAccentColor: "Couleur d'accent du quiz",
       customColor: "Couleur personnalisée",
-      customiseSettingsPanel: "Personnaliser le panneau",
+      customiseSettingsPanel: "Personnaliser les réglages",
+      panelOpacityHint: "Bas = plus transparent, Haut = plus opaque",
       panelTransparency: "Transparence du panneau",
     },
     
