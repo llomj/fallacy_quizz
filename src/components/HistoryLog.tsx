@@ -4,12 +4,13 @@ import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 import { translateQuestionText, translateOptionText, getQuestionDisplay } from '../utils/translateQuestion';
 import { displayStoredQuizOptionLabel } from '../utils/quizStoredOptionDisplay';
-import { getTranslatedShortExplanation, isLogicalFallaciesAppQuestionId } from '../data/shortExplanationsTranslations';
+import { getTranslatedShortExplanation } from '../data/shortExplanationsTranslations';
 import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
 import { ExplanationWithStepNumbers } from './ExplanationWithStepNumbers';
 import { getQuestionBank } from '../questionsBank';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
+import { CodonShortExplanation } from './CodonShortExplanation';
 
 const formatCodeSnippet = (text: string): string => {
   if (!text) return '';
@@ -185,10 +186,6 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                   : attempt.selectedOption;
             const shortExplanation = getTranslatedShortExplanation(attempt.id, attempt.explanation, language);
             const detailedExplanation = getQuestionDetailedExplanation(attempt.id);
-            const shortExplanationLooksLikeCode =
-              !isLogicalFallaciesAppQuestionId(attempt.id) &&
-              /\b(def|print|for|if|while|class|import|from)\b/.test(shortExplanation);
-
             return (
               <div
                 key={entryKey}
@@ -277,17 +274,7 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                         <i className="fas fa-lightbulb quiz-accent-text text-sm"></i>
                         <h4 className="quiz-accent-text font-black text-[10px] uppercase tracking-[0.2em]">{t('idLog.codonExplanation')}</h4>
                       </div>
-                      {shortExplanationLooksLikeCode ? (
-                        <div className="p-4 overflow-x-hidden bg-slate-900 rounded-lg">
-                          <pre className="quiz-accent-text text-sm leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
-                            {formatCodeSnippet(normalizeExplanationWhitespace(shortExplanation))}
-                          </pre>
-                        </div>
-                      ) : (
-                        <p className="quiz-accent-text text-[11px] leading-tight tracking-tight italic whitespace-pre-wrap">
-                          {normalizeExplanationWhitespace(shortExplanation)}
-                        </p>
-                      )}
+                      <CodonShortExplanation text={shortExplanation} />
                     </div>
 
                     {detailedExplanation && (

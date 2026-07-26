@@ -24,11 +24,15 @@ export const RandomModeStatRow: React.FC<RandomModeStatRowProps> = ({
 
   if (isQuiz) {
     const quizStat = (label: string, value: string | number, colorClass: string) => (
-      <div className="flex min-w-0 flex-col items-center text-center">
-        <span className="text-[8px] font-bold uppercase leading-tight tracking-wider text-slate-400">
-          {label}
+      <div className="grid min-w-0 grid-rows-[2rem_1.5rem] text-center">
+        <div className="flex min-h-0 items-end justify-center">
+          <span className="text-[8px] font-bold uppercase leading-tight tracking-wider text-slate-400">
+            {label}
+          </span>
+        </div>
+        <span className={`flex h-6 items-center justify-center text-base font-black tabular-nums ${colorClass}`}>
+          {value}
         </span>
-        <span className={`mt-1 text-base font-black tabular-nums ${colorClass}`}>{value}</span>
       </div>
     );
 

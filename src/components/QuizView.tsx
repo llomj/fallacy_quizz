@@ -1,7 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Question, QuestionAttempt } from '../types';
 import { quizService } from '../services/quizService';
-import { ProgressBar } from './ProgressBar';
 import { LEVELS } from '../constants';
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
@@ -17,6 +16,7 @@ import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '.
 import { balanceDisplayedOptionLengths } from '../utils/optionLengthBalancer';
 import { primeAudioContext } from '../utils/sounds';
 import { getQuestionById } from '../questionsBank';
+import { CodonShortExplanation } from './CodonShortExplanation';
 
 // Function to format code snippets with proper Python indentation
 // Ensures newline after : and 4-space indentation for the next line
@@ -768,26 +768,6 @@ export const QuizView: React.FC<QuizViewProps> = ({
     : null;
   return (
     <div className="max-w-2xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <div className="flex items-center gap-4">
-        <button
-          onClick={() => { onPlayClickSound?.(); onExit(); }}
-          className="shrink-0 text-xl leading-none text-slate-400 transition-colors hover:text-white"
-          aria-label={t('quiz.returnToHub')}
-          title={t('quiz.returnToHub')}
-        >
-          <i className="fas fa-times"></i>
-        </button>
-        <div className="min-w-0 flex-1">
-          <div className="mb-2 flex items-center justify-between gap-3 text-[10px] font-black tracking-[0.15em]">
-            <span className="text-yellow-400">
-              {formatTranslation(t('quiz.mutationOf'), { current: currentIndex + 1, total: questions.length })}
-            </span>
-            <span className="text-slate-400">{Math.round(((currentIndex + 1) / questions.length) * 100)}%</span>
-          </div>
-          <ProgressBar current={currentIndex + 1} total={questions.length} colorClass="bg-yellow-400" />
-        </div>
-      </div>
-
       <div className="rounded-3xl p-6 md:p-10 space-y-8 shadow-2xl relative overflow-hidden bg-slate-950/40 backdrop-blur-2xl border border-white/10">
         <div className="absolute top-3 left-3 z-10">
           <button
@@ -908,17 +888,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 </div>
               )}
               <div className="space-y-4">
-                {displayQuestionRecord.explanation.match(/\b(def|print|for|if|while|class|import)\b/) ? (
-                    <div className="p-4 overflow-x-hidden bg-slate-900 rounded-lg">
-                      <pre className="quiz-accent-text text-sm leading-6 font-['Fira_Code',_monospace] whitespace-pre-wrap">
-                        {formatCodeSnippet(normalizeExplanationWhitespace(displayShortExplanation))}
-                      </pre>
-                    </div>
-                  ) : (
-                    <p className="quiz-accent-text leading-tight tracking-tight text-sm font-medium whitespace-pre-wrap">
-                      {normalizeExplanationWhitespace(displayShortExplanation)}
-                    </p>
-                  )}
+                <CodonShortExplanation text={displayShortExplanation} />
                 {showDetailedExplanation && hasDetailedExplanation && (
                   <div className="codon-accent-divider animate-in slide-in-from-top-4 duration-300 pt-4 border-t space-y-4">
                     <div className="codon-accent-detail space-y-2 rounded-xl border p-4">
@@ -950,16 +920,26 @@ export const QuizView: React.FC<QuizViewProps> = ({
                   </div>
                 )}
               </div>
-              {statsEnabled && randomMode && liveRandomStats != null && (
-                <div className="mt-6">
-                  <RandomModeStatRow
-                    variant="quiz"
-                    totalAnswered={liveRandomStats.totalAnswered}
-                    totalCorrect={liveRandomStats.totalCorrect}
-                    t={t}
-                  />
-                </div>
-              )}
+              <div className="mt-6 flex items-center gap-3">
+                <button
+                  onClick={() => { onPlayClickSound?.(); onExit(); }}
+                  className="shrink-0 text-xl leading-none text-slate-400 transition-colors hover:text-white"
+                  aria-label={t('quiz.returnToHub')}
+                  title={t('quiz.returnToHub')}
+                >
+                  <i className="fas fa-times"></i>
+                </button>
+                {statsEnabled && randomMode && liveRandomStats != null && (
+                  <div className="min-w-0 flex-1">
+                    <RandomModeStatRow
+                      variant="quiz"
+                      totalAnswered={liveRandomStats.totalAnswered}
+                      totalCorrect={liveRandomStats.totalCorrect}
+                      t={t}
+                    />
+                  </div>
+                )}
+              </div>
             </div>
           </div>
         )}
