@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Pia says the topic of the spilled drink got lost under a pile of defensive jokes.', 'Pia dit que le sujet de la boisson renversée a disparu sous une pile de blagues défensives.'],
   ['Hugo says the discussion about the broken window became about who was too sensitive.', 'Hugo dit que la discussion sur la fenêtre cassée est devenue une question de savoir qui etait trop sensible.'],
   ['Nina says the parking complaint stopped being about the spot and became a contest over who could sound more offended.', 'Nina dit que la plainte sur le stationnement a cesse de porter sur la place et est devenue un concours pour savoir qui pouvait paraitre le plus offense.'],
+  ['Maya says the argument about the broken copier became a battle over who deserved respect.', 'Maya dit que l argument sur la photocopieuse en panne est devenu une bataille sur la question de savoir qui meritait du respect.'],
 ];
 
 const OPTIONS_EN = ["Sayre's Law", 'Ad Hominem', 'Motte-and-Bailey', 'Confirmation Bias'];
