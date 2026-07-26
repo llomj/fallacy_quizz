@@ -239,7 +239,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   const colorPickerShell = (children: React.ReactNode) => (
     <>
       <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
-      <div className={`z-50 min-w-[200px] w-[300px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+      <div className={`z-[70] min-w-[200px] w-[300px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
         <div
           className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
           style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
@@ -370,7 +370,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return (
       <>
         <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
-        <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+        <div className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
             className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
             style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
@@ -430,7 +430,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return (
       <>
         <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
-        <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+        <div className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
             className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
             style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
@@ -477,7 +477,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return (
       <>
         <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
-        <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+        <div className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
             className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
             style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
@@ -524,7 +524,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return (
       <>
         <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
-        <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+        <div className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
             className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
             style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
@@ -601,7 +601,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     return (
       <>
         <div className="fixed inset-0 z-[60] bg-black/60" onClick={onClose} />
-        <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+        <div className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
           <div
             className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
             style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
@@ -676,7 +676,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
         className="fixed inset-0 z-[60] bg-black/60"
         onClick={onClose}
       />
-      <div className={`z-50 min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+      <div className={`z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
         <div
           className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
           style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
