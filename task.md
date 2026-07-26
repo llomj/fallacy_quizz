@@ -125,6 +125,7 @@
   - [x] Denying the Antecedent: IDs 33351-33400, 50 EN + 50 FR, additive to 100 existing questions.
   - [x] Equivocation: IDs 33501-33550, 50 EN + 50 FR, additive to 101 existing questions.
     - [x] Equivocation batch update: appended 50 more bilingual scenarios in `src/data/questions/expansions/equivocationExpansion.ts`; current file total is 167 scenarios after validation.
+  - [x] Exclusive Premises: IDs 33701-33750, 50 EN + 50 FR, additive to 154 existing questions.
   - [x] Etymological Fallacy: IDs 33601-33650, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Exclusive Premises: IDs 33701-33750, 50 EN + 50 FR, additive to 100 existing questions.
   - [x] Existential Fallacy: IDs 33801-33850, 50 EN + 50 FR, additive to 100 existing questions.
