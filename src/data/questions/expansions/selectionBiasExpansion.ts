@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Priya checks only the employees who already like spreadsheets and says the new reporting tool is loved by everyone.', 'Priya regarde seulement les employes qui aiment deja les tableurs et dit que le nouvel outil de rapport est adore par tout le monde.'],
   ['Omar talks only to the riders who found an empty seat and says the train is always comfortable.', 'Omar parle seulement aux passagers qui ont trouve une place vide et dit que le train est toujours confortable.'],
   ['Rina asks only the customers who understood the return policy and says the policy is perfectly clear.', 'Rina demande seulement aux clients qui ont compris la politique de retour et dit que la politique est parfaitement claire.'],
+  ['Ben checks only the people who already loved the first class and says the whole workshop is perfect.', 'Ben regarde seulement les personnes qui ont deja adore le premier cours et dit que tout latelier est parfait.'],
 ];
 
 const OPTIONS_EN = ['Selection Bias', 'Sampling Bias', 'Confirmation Bias', 'Availability Heuristic'];
