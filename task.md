@@ -116,6 +116,7 @@
   - [x] Bandwagon: IDs 32101-32150, 50 EN + 50 FR, additive to 13 existing questions.
     - [x] Bandwagon expansion: `src/data/questions/expansions/bandwagonExpansion.ts` now contains 159 bilingual scenarios total.
   - [x] Barnum Effect: IDs 32151-32200, 50 EN + 50 FR, additive to 3 existing questions.
+    - [x] Barnum Effect expansion: `src/data/questions/expansions/barnumEffectExpansion.ts` now contains 161 bilingual scenarios total.
   - [x] Base Rate Neglect: IDs 32201-32250, 50 EN + 50 FR, additive to 110 existing questions.
   - [x] Neglecting Confounders: IDs 3503-3552, 50 EN + 50 FR, additive to 100 existing questions.
   - [x] Begging the Question: IDs 32301-32350, 50 EN + 50 FR, additive to 6 existing questions.
