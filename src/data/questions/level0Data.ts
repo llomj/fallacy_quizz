@@ -6544,12 +6544,12 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "subLevel": "Beginner",
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Linguistique",
     "options": [
+      "La pratique am\u00e9liore l'aisance, donc tu devrais parler tous les jours.",
       "Je pr\u00e9f\u00e8re Linguistique.",
       "Linguistique est d\u00e9finitivement mieux.",
-      "La pratique am\u00e9liore l'aisance, donc tu devrais parler tous les jours.",
       "Linguistique existe."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 0,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
     "detailedExplanationBeginner": "Utilise 'La pratique am\u00e9liore l'aisance' pour soutenir 'tu devrais parler tous les jours'.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
@@ -6566,11 +6566,11 @@ export const LEVEL_0_GEN_FR: Question[] = [
     "question": "Laquelle de ces propositions est un argument (une affirmation soutenue par une raison) ? Sc\u00e8ne : Technologie",
     "options": [
       "Je pr\u00e9f\u00e8re Technologie.",
-      "Technologie est d\u00e9finitivement mieux.",
       "Le routeur est \u00e9teint, donc le Wi-Fi ne fonctionnera pas.",
+      "Technologie est d\u00e9finitivement mieux.",
       "Technologie existe."
     ],
-    "correct_option_index": 2,
+    "correct_option_index": 1,
     "explanation": "Un argument offre une pr\u00e9misse pour soutenir une conclusion.",
     "detailedExplanationBeginner": "Utilise 'Le routeur est \u00e9teint' pour soutenir 'le Wi-Fi ne fonctionnera pas'.",
     "detailedExplanationIntermediate": "Argumentation = affirmation + preuve.",
