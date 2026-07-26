@@ -1232,14 +1232,17 @@ const sanitizeFrenchArtifacts = (text: string): string => {
 
 const isFallacyInstruction = (text: string): boolean => {
   const line = text.trim();
+  const standaloneQuestion =
+    /^(?:identify|name|select|choose|which|what|who)\b.*\?\s*$/i.test(line) ||
+    /^(?:identifiez|identifier|nommez|sélectionnez|selectionnez|choisissez|quel|quelle|quels|quelles|qui)\b.*\?\s*$/i.test(line);
   const englishInstruction =
     /^(?:identify|name|select|choose|which|what)\b/i.test(line) &&
-    /\b(?:fallac(?:y|ies)|bias(?:es)?|reasoning|logical error|statistical concept|concept)\b/i.test(line);
+    /\b(?:fallac(?:y|ies)|bias(?:es)?|reasoning|logical error|statistical concept|concept|principle|effect|phenomenon)\b/i.test(line);
   const frenchInstruction =
     /^(?:identifiez|identifier|nommez|sélectionnez|selectionnez|choisissez|quel|quelle|quels|quelles)\b/i.test(line) &&
-    /\b(?:sophisme|biais|raisonnement|erreur logique|concept statistique|concept)\b/i.test(line);
+    /\b(?:sophisme|biais|raisonnement|erreur logique|concept statistique|concept|principe|effet|phénomène|phenomene)\b/i.test(line);
 
-  return englishInstruction || frenchInstruction;
+  return standaloneQuestion || englishInstruction || frenchInstruction;
 };
 
 const stripOuterQuotationMarks = (text: string): string => {
