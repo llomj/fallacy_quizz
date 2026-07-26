@@ -104,6 +104,7 @@
   - [x] Appeal to Nature: IDs 30601-30650, 50 EN + 50 FR, additive to 4 existing questions.
     - [x] Appeal to Nature expansion: `src/data/questions/expansions/appealToNatureExpansion.ts` now contains 163 bilingual scenarios total.
   - [x] Appeal to Novelty: IDs 30651-30700, 50 EN + 50 FR, additive to 6 existing questions.
+    - [x] Appeal to Novelty expansion: `src/data/questions/expansions/appealToNoveltyExpansion.ts` now contains 194 bilingual scenarios total.
   - [x] Appeal to Popularity: IDs 30701-30750, 50 EN + 50 FR, additive to 114 existing questions.
   - [x] Appeal to Tradition: IDs 30751-30800, 50 EN + 50 FR, additive to 8 existing questions.
   - [x] Argument from Numbers: IDs 30901-30950, 50 EN + 50 FR, additive to 1 existing question.
