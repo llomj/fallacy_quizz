@@ -98,6 +98,7 @@
   - [x] Appeal to Fear: IDs 30451-30500, 50 EN + 50 FR, additive to 8 existing questions.
     - [x] Appeal to Fear expansion: `src/data/questions/expansions/appealToFearExpansion.ts` now contains 187 bilingual scenarios total.
   - [x] Appeal to Ignorance: IDs 30501-30550, 50 EN + 50 FR, additive to 7 existing questions.
+    - [x] Appeal to Ignorance expansion: `src/data/questions/expansions/appealToIgnoranceExpansion.ts` now contains 228 bilingual scenarios total.
   - [x] Appeal to Incredulity: IDs 30551-30600, 50 EN + 50 FR, additive to 12 existing questions.
   - [x] Appeal to Nature: IDs 30601-30650, 50 EN + 50 FR, additive to 4 existing questions.
   - [x] Appeal to Novelty: IDs 30651-30700, 50 EN + 50 FR, additive to 6 existing questions.
