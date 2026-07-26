@@ -108,6 +108,7 @@
   - [x] Appeal to Popularity: IDs 30701-30750, 50 EN + 50 FR, additive to 114 existing questions.
     - [x] Appeal to Popularity expansion: `src/data/questions/expansions/appealToPopularityExpansion.ts` now contains 213 bilingual scenarios total.
   - [x] Appeal to Tradition: IDs 30751-30800, 50 EN + 50 FR, additive to 8 existing questions.
+    - [x] Appeal to Tradition expansion: `src/data/questions/expansions/appealToTraditionExpansion.ts` now contains 198 bilingual scenarios total.
   - [x] Argument from Numbers: IDs 30901-30950, 50 EN + 50 FR, additive to 1 existing question.
   - [x] Availability Heuristic: IDs 32001-32050, 50 EN + 50 FR, additive to 6 existing questions.
   - [x] Bandwagon: IDs 32101-32150, 50 EN + 50 FR, additive to 13 existing questions.
