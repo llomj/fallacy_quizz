@@ -17,6 +17,11 @@ import {
   MutationGradientId,
   QuizAccentId,
 } from './utils/colorThemes';
+import {
+  clearActiveQuizSession,
+  isQuizSessionCompatible,
+  readActiveQuizSession,
+} from './utils/quizSession';
 
 const LOCAL_STORAGE_KEY = 'logical_fallacies_learn_stats_v1';
 const PREFS_STORAGE_KEY = 'logical_fallacies_learn_prefs_v1';
@@ -148,6 +153,7 @@ const App: React.FC = () => {
   };
 
   const handleLevelChange = (level: number) => {
+    clearActiveQuizSession();
     setStats(prev => ({
       ...prev,
       currentLevel: level,
@@ -218,10 +224,19 @@ const App: React.FC = () => {
         if (parsed.randomModeXp === undefined) parsed.randomModeXp = 0;
         // Migration: add fallacyLog if missing
         if (!parsed.fallacyLog) parsed.fallacyLog = [];
+        const activeQuiz = readActiveQuizSession();
+        if (isQuizSessionCompatible(activeQuiz, parsed.currentLevel, parsed.randomMode === true)) {
+          setView('quiz');
+        } else if (activeQuiz) {
+          clearActiveQuizSession();
+        }
         setStats(parsed);
       } catch (e) {
         console.error("Corrupted state, resetting", e);
+        clearActiveQuizSession();
       }
+    } else {
+      clearActiveQuizSession();
     }
   }, []);
 
@@ -255,6 +270,7 @@ const App: React.FC = () => {
   const currentProgress = stats.levelProgress[stats.currentLevel] || 0;
 
   const handleStartEvolution = () => {
+    clearActiveQuizSession();
     setView('quiz');
     setShowResult(null);
   };
@@ -270,6 +286,7 @@ const App: React.FC = () => {
   };
 
   const confirmRandomMode = () => {
+    clearActiveQuizSession();
     setStats(prev => ({ ...prev, randomMode: true }));
     setShowRandomModeModal(false);
     setShowResult(null);
@@ -278,6 +295,7 @@ const App: React.FC = () => {
   };
 
   const confirmLevelMode = () => {
+    clearActiveQuizSession();
     setStats(prev => ({ ...prev, randomMode: false }));
     setShowRandomModeModal(false);
     setShowResult(null);
@@ -287,6 +305,7 @@ const App: React.FC = () => {
 
   const confirmResetApp = () => {
     localStorage.removeItem(LOCAL_STORAGE_KEY);
+    clearActiveQuizSession();
     setStats(INITIAL_STATS);
     setView('hub');
     setShowResetModal(false);
@@ -680,7 +699,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v74</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v75</p>
       </footer>
 
       {/* Operations View Modal */}

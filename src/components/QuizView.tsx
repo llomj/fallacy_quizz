@@ -17,6 +17,12 @@ import { balanceDisplayedOptionLengths } from '../utils/optionLengthBalancer';
 import { primeAudioContext } from '../utils/sounds';
 import { getQuestionById } from '../questionsBank';
 import { CodonShortExplanation } from './CodonShortExplanation';
+import {
+  clearActiveQuizSession,
+  isQuizSessionCompatible,
+  readActiveQuizSession,
+  writeActiveQuizSession,
+} from '../utils/quizSession';
 
 // Function to format code snippets with proper Python indentation
 // Ensures newline after : and 4-space indentation for the next line
@@ -556,14 +562,23 @@ export const QuizView: React.FC<QuizViewProps> = ({
   statsEnabled = true,
 }) => {
   const { t, tRaw, language } = useLanguage();
-  const [questions, setQuestions] = useState<Question[]>([]);
-  const [currentIndex, setCurrentIndex] = useState(0);
-  const [selectedOption, setSelectedOption] = useState<number | null>(null);
-  const [isAnswered, setIsAnswered] = useState(false);
-  const [loading, setLoading] = useState(true);
-  const [score, setScore] = useState(0);
-  const [showDetailedExplanation, setShowDetailedExplanation] = useState(false);
-  const [detailedExplanationLevel, setDetailedExplanationLevel] = useState<DetailedExplanationLevel>('detail');
+  const [initialSession] = useState(() => {
+    const session = readActiveQuizSession();
+    return isQuizSessionCompatible(session, level, randomMode) ? session : null;
+  });
+  const initialRandomizeTrigger = useRef(randomizeTrigger);
+  const [questions, setQuestions] = useState<Question[]>(() => initialSession?.questions ?? []);
+  const [currentIndex, setCurrentIndex] = useState(() => initialSession?.currentIndex ?? 0);
+  const [selectedOption, setSelectedOption] = useState<number | null>(() => initialSession?.selectedOption ?? null);
+  const [isAnswered, setIsAnswered] = useState(() => initialSession?.isAnswered ?? false);
+  const [loading, setLoading] = useState(() => !initialSession);
+  const [score, setScore] = useState(() => initialSession?.score ?? 0);
+  const [showDetailedExplanation, setShowDetailedExplanation] = useState(
+    () => initialSession?.showDetailedExplanation ?? false
+  );
+  const [detailedExplanationLevel, setDetailedExplanationLevel] = useState<DetailedExplanationLevel>(
+    () => initialSession?.detailedExplanationLevel ?? 'detail'
+  );
   const [justSavedId, setJustSavedId] = useState<number | null>(null);
   const mutationColors = getMutationGradient(mutationGradient);
 
@@ -571,7 +586,11 @@ export const QuizView: React.FC<QuizViewProps> = ({
   const initialCompletedIds = useRef(completedIds);
   const initialExhaustedIds = useRef(exhaustedIdsFromRepeatCorrect);
   // Ref for session correct count - updated synchronously so live score displays immediately
-  const sessionCorrectRef = useRef(0);
+  const sessionCorrectRef = useRef(initialSession?.sessionCorrect ?? 0);
+  const batchContextRef = useRef({
+    level: initialSession?.level ?? level,
+    randomMode: initialSession?.randomMode ?? randomMode,
+  });
 
   // Helper function to shuffle array and track original index of correct answer
   const shuffleOptions = (question: Question): Question => {
@@ -595,9 +614,20 @@ export const QuizView: React.FC<QuizViewProps> = ({
   };
 
   useEffect(() => {
+    const restoringInitialSession =
+      !!initialSession &&
+      level === initialSession.level &&
+      randomMode === initialSession.randomMode &&
+      randomizeTrigger === initialRandomizeTrigger.current;
+    if (restoringInitialSession) {
+      setLoading(false);
+      return;
+    }
+
     const fetchQuestions = async () => {
       try {
         setLoading(true);
+        clearActiveQuizSession();
         initialCompletedIds.current = completedIds;
         initialExhaustedIds.current = exhaustedIdsFromRepeatCorrect;
         // Fetch questions from the canonical bank so a language toggle never swaps to a different prompt.
@@ -612,6 +642,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
         );
         // Shuffle options for each question so correct answer isn't always first
         const shuffledQuestions = data.map(shuffleOptions);
+        batchContextRef.current = { level, randomMode };
         setQuestions(shuffledQuestions);
         // Reset quiz state when questions are re-randomized
         setCurrentIndex(0);
@@ -629,6 +660,43 @@ export const QuizView: React.FC<QuizViewProps> = ({
     fetchQuestions();
     // Level / randomize / mode: new canonical batch. UI language changes only affect rendering.
   }, [level, randomizeTrigger, randomMode]);
+
+  useEffect(() => {
+    if (
+      loading ||
+      questions.length === 0 ||
+      batchContextRef.current.level !== level ||
+      batchContextRef.current.randomMode !== randomMode
+    ) {
+      return;
+    }
+
+    writeActiveQuizSession({
+      version: 1,
+      level,
+      randomMode,
+      questions,
+      currentIndex,
+      selectedOption,
+      isAnswered,
+      score,
+      sessionCorrect: sessionCorrectRef.current,
+      showDetailedExplanation,
+      detailedExplanationLevel,
+      savedAt: Date.now(),
+    });
+  }, [
+    currentIndex,
+    detailedExplanationLevel,
+    isAnswered,
+    level,
+    loading,
+    questions,
+    randomMode,
+    score,
+    selectedOption,
+    showDetailedExplanation,
+  ]);
 
   const handleOptionClick = (index: number) => {
     if (isAnswered) return;
@@ -664,6 +732,11 @@ export const QuizView: React.FC<QuizViewProps> = ({
     });
   };
 
+  const handleExitQuiz = () => {
+    clearActiveQuizSession();
+    onExit();
+  };
+
   const handleNext = () => {
     if (currentIndex < questions.length - 1) {
       setCurrentIndex(c => c + 1);
@@ -671,6 +744,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
       setIsAnswered(false);
       setShowDetailedExplanation(false);
     } else {
+      clearActiveQuizSession();
       onComplete(score, questions.length);
     }
   };
@@ -710,7 +784,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
     <div className="text-center p-12 glass rounded-3xl">
       <p className="text-rose-400 font-bold mb-4">{t('quiz.sequenceError')}</p>
       <p className="text-slate-400 text-sm mb-6">{t('quiz.couldNotRetrieve')}</p>
-      <button onClick={() => { onPlayClickSound?.(); onExit(); }} className="px-6 py-2 bg-yellow-400 text-slate-900 rounded-xl font-bold">{t('quiz.returnToHub')}</button>
+      <button onClick={() => { onPlayClickSound?.(); handleExitQuiz(); }} className="px-6 py-2 bg-yellow-400 text-slate-900 rounded-xl font-bold">{t('quiz.returnToHub')}</button>
     </div>
   );
 
@@ -922,7 +996,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
               </div>
               <div className="mt-6 flex items-center gap-3">
                 <button
-                  onClick={() => { onPlayClickSound?.(); onExit(); }}
+                  onClick={() => { onPlayClickSound?.(); handleExitQuiz(); }}
                   className="shrink-0 text-xl leading-none text-slate-400 transition-colors hover:text-white"
                   aria-label={t('quiz.returnToHub')}
                   title={t('quiz.returnToHub')}
