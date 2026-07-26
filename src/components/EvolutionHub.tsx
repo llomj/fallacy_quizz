@@ -153,22 +153,13 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({
                   {t('hub.randomModeDescription')}
                 </p>
                 {statsEnabled && (
-                  <>
-                    {/* Stats belong here so "Random Mode" + description + tiles read as one block (see ps.md). */}
-                    <div className="mt-5">
-                      <RandomModeStatRow variant="hub" totalAnswered={rm.totalAnswered} totalCorrect={rm.totalCorrect} t={t} />
-                    </div>
-                  </>
+                  <div className="mt-5">
+                    <RandomModeStatRow variant="hub" totalAnswered={rm.totalAnswered} totalCorrect={rm.totalCorrect} t={t} />
+                  </div>
                 )}
               </div>
               {statsEnabled && (
                 <div className="space-y-4 pt-6 border-t border-white/5">
-                  <div className="bg-slate-900/50 rounded-2xl p-3 border border-white/5">
-                    <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider mb-1">{t('hub.accuracy')}</div>
-                    <div className="text-lg font-black text-[#FF00FF]">
-                      {rm.totalAnswered > 0 ? Math.round((rm.totalCorrect / rm.totalAnswered) * 100) : 0}%
-                    </div>
-                  </div>
                   {rm.lastSessionStars != null && (
                     <div className="bg-slate-900/50 rounded-2xl p-3 border border-amber-500/30 flex items-center gap-2">
                       <div className="text-[9px] font-bold text-slate-500 uppercase tracking-wider">{formatTranslation(t('hub.lastRunStars'), { count: rm.lastSessionStars! })}</div>

@@ -3,14 +3,14 @@ import React from 'react';
 export interface RandomModeStatRowProps {
   totalAnswered: number;
   totalCorrect: number;
-  /** 'hub' = EvolutionHub tiles; 'quiz' = borderless row below the Codon explanation */
+  /** 'hub' = compact EvolutionHub row; 'quiz' = row below the Codon explanation */
   variant: 'hub' | 'quiz';
   t: (key: string) => string;
 }
 
 /**
- * Total answered → Incorrect → Correct (incorrect = answered − correct).
- * Single implementation for hub + quiz so the Incorrect tile cannot drift out of sync.
+ * Total answered → Incorrect → Correct → Accuracy (incorrect = answered − correct).
+ * Single implementation for hub + quiz keeps both stat rows consistent.
  */
 export const RandomModeStatRow: React.FC<RandomModeStatRowProps> = ({
   totalAnswered,
@@ -50,38 +50,29 @@ export const RandomModeStatRow: React.FC<RandomModeStatRowProps> = ({
     );
   }
 
-  const labelCls = 'text-[9px] font-bold uppercase leading-tight tracking-wider text-slate-400';
-  const numCls = 'text-lg font-black tabular-nums';
-
-  // Per-tile: top row = label (bottom-aligned so short labels don’t drop the digit); bottom row = fixed height so all 0s share one baseline.
-  const tileCls = 'grid min-h-[5rem] grid-rows-[minmax(0,1fr)_2rem] rounded-2xl border border-white/15 bg-slate-900/60 p-3 text-center';
-  const outerCls = 'grid w-full grid-cols-3 gap-3';
-  const numRowCls = 'flex h-8 items-center justify-center';
+  const hubStat = (label: string, value: string | number, colorClass: string) => (
+    <div className="grid min-w-0 grid-rows-[2.25rem_1.75rem] text-center">
+      <div className="flex min-h-0 items-end justify-center">
+        <span className="text-[8px] font-bold uppercase leading-tight tracking-wider text-slate-400">
+          {label}
+        </span>
+      </div>
+      <span className={`flex h-7 items-center justify-center text-lg font-black tabular-nums ${colorClass}`}>
+        {value}
+      </span>
+    </div>
+  );
 
   return (
     <div
-      className={outerCls}
+      className="grid w-full grid-cols-4 gap-2 sm:gap-3"
       role="group"
-      aria-label={`${t('hub.totalAnswered')}, ${t('hub.incorrect')}, ${t('hub.correct')}`}
+      aria-label={`${t('hub.totalAnswered')}, ${t('hub.incorrect')}, ${t('hub.correct')}, ${t('hub.accuracy')}`}
     >
-      <div className={tileCls}>
-        <div className="flex min-h-0 items-end justify-center px-0.5 text-center">
-          <span className={labelCls}>{t('hub.totalAnswered')}</span>
-        </div>
-        <div className={`${numRowCls} ${numCls} text-white`}>{totalAnswered}</div>
-      </div>
-      <div className={tileCls}>
-        <div className="flex min-h-0 items-end justify-center px-0.5 text-center">
-          <span className={labelCls}>{t('hub.incorrect')}</span>
-        </div>
-        <div className={`${numRowCls} ${numCls} text-[#FF00FF]`}>{incorrect}</div>
-      </div>
-      <div className={tileCls}>
-        <div className="flex min-h-0 items-end justify-center px-0.5 text-center">
-          <span className={labelCls}>{t('hub.correct')}</span>
-        </div>
-        <div className={`${numRowCls} ${numCls} text-green-400`}>{totalCorrect}</div>
-      </div>
+      {hubStat(t('hub.totalAnswered'), totalAnswered, 'text-white')}
+      {hubStat(t('hub.incorrect'), incorrect, 'text-[#FF00FF]')}
+      {hubStat(t('hub.correct'), totalCorrect, 'text-green-400')}
+      {hubStat(t('hub.accuracy'), `${accuracy}%`, 'text-cyan-300')}
     </div>
   );
 };
