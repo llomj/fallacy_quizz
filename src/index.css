@@ -48,6 +48,40 @@ body {
   background: linear-gradient(135deg, #10b981 0%, #059669 100%);
 }
 
+.mutation-gradient-button:hover {
+  filter: brightness(1.08) saturate(1.05);
+}
+
+.quiz-accent-text {
+  color: var(--quiz-accent);
+}
+
+.quiz-accent-option {
+  border-color: rgb(var(--quiz-accent-rgb) / 0.3);
+}
+
+.quiz-accent-option-correct {
+  background-color: rgb(var(--quiz-accent-rgb) / 0.18);
+  border-color: rgb(var(--quiz-accent-rgb) / 0.9);
+  box-shadow: 0 10px 15px -3px rgb(var(--quiz-accent-rgb) / 0.25);
+}
+
+.quiz-accent-letter-correct {
+  background-color: var(--quiz-accent);
+}
+
+@media (hover: hover) {
+  .quiz-accent-option:hover {
+    background-color: rgb(var(--quiz-accent-rgb) / 0.1);
+    border-color: rgb(var(--quiz-accent-rgb) / 0.6);
+  }
+
+  .quiz-accent-option:hover .quiz-accent-letter {
+    background-color: var(--quiz-accent);
+    color: #0f172a;
+  }
+}
+
 @media (max-width: 640px) {
   .container {
     padding-left: 1rem;

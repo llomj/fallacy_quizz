@@ -7,6 +7,12 @@ import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 import { RandomModeStatRow } from './RandomModeStatRow';
 import { getQuestionDisplayNativeBank } from '../utils/translateQuestion';
+import {
+  getMutationGradient,
+  getQuizAccent,
+  MutationGradientId,
+  QuizAccentId,
+} from '../utils/colorThemes';
 import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
 import { ExplanationWithStepNumbers } from './ExplanationWithStepNumbers';
 import { getDetailedExplanationForLevel, type DetailedExplanationLevel } from '../utils/detailedExplanationLevel';
@@ -528,6 +534,8 @@ interface QuizViewProps {
   hapticEnabled?: boolean;
   onPlayCorrectSound?: () => void;
   onPlayWrongSound?: () => void;
+  mutationGradient?: MutationGradientId;
+  quizAccent?: QuizAccentId;
 }
 
 export const QuizView: React.FC<QuizViewProps> = ({
@@ -548,7 +556,9 @@ export const QuizView: React.FC<QuizViewProps> = ({
   onPlayClickSound,
   hapticEnabled = true,
   onPlayCorrectSound,
-  onPlayWrongSound
+  onPlayWrongSound,
+  mutationGradient = 'sunset',
+  quizAccent = 'yellow',
 }) => {
   const { t, tRaw, language } = useLanguage();
   const [questions, setQuestions] = useState<Question[]>([]);
@@ -560,6 +570,8 @@ export const QuizView: React.FC<QuizViewProps> = ({
   const [showDetailedExplanation, setShowDetailedExplanation] = useState(false);
   const [detailedExplanationLevel, setDetailedExplanationLevel] = useState<DetailedExplanationLevel>('detail');
   const [justSavedId, setJustSavedId] = useState<number | null>(null);
+  const mutationColors = getMutationGradient(mutationGradient);
+  const accent = getQuizAccent(quizAccent);
 
   // Snapshot at the start of each fetch (level / randomize / mode change). Mid-quiz prop updates do not re-run the effect.
   const initialCompletedIds = useRef(completedIds);
@@ -766,7 +778,13 @@ export const QuizView: React.FC<QuizViewProps> = ({
     : null;
 
   return (
-    <div className="max-w-2xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
+    <div
+      className="max-w-2xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500"
+      style={{
+        '--quiz-accent': accent.hex,
+        '--quiz-accent-rgb': accent.rgb,
+      } as React.CSSProperties}
+    >
       <div className="flex justify-between items-center bg-slate-900/40 backdrop-blur-xl p-4 rounded-2xl border border-white/10">
         <button onClick={() => { onPlayClickSound?.(); onExit(); }} className="w-10 h-10 flex items-center justify-center rounded-xl bg-slate-800 text-slate-400 hover:text-white transition-colors border border-white/5">
           <i className="fas fa-times"></i>
@@ -840,7 +858,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
         <div className="space-y-4 pt-8">
           <div className="max-h-[70vh] overflow-y-auto overflow-x-hidden bg-slate-900/60 rounded-lg border border-white/5">
             <div className="px-6 py-5">
-              <h2 className="text-base md:text-lg font-semibold leading-relaxed text-yellow-400 whitespace-pre-wrap break-words">
+              <h2 className="quiz-accent-text text-base md:text-lg font-semibold leading-relaxed whitespace-pre-wrap break-words">
                 {displayQuestion}
               </h2>
             </div>
@@ -854,13 +872,11 @@ export const QuizView: React.FC<QuizViewProps> = ({
             </div>
           )}
           {displayOptions.map((option, idx) => {
-            // Base yellow-themed styling for all options
-            let colorClass = "bg-slate-900/35 border-yellow-500/30 text-slate-100 hover:bg-yellow-500/10 hover:border-yellow-400/60";
+            let colorClass = "quiz-accent-option bg-slate-900/35 text-slate-100";
 
             if (isAnswered) {
               if (idx === currentQuestion.correct_option_index) {
-                // Correct answer: brightest yellow emphasis
-                colorClass = "bg-yellow-400/18 border-yellow-300/90 text-yellow-50 shadow-lg shadow-yellow-400/25";
+                colorClass = "quiz-accent-option-correct text-slate-50 shadow-lg";
               } else if (idx === selectedOption) {
                 // Selected but incorrect: wrong-answer panel lights up with #FF00FF
                 colorClass = "bg-[#FF00FF]/10 border-2 border-[#FF00FF] text-slate-100 shadow-[0_0_16px_rgba(255,0,255,0.3)]";
@@ -886,8 +902,8 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 <div className="flex items-center gap-4">
                   <div
                     className={`w-8 h-8 rounded-lg flex items-center justify-center text-xs font-bold transition-colors ${isAnswered && idx === currentQuestion.correct_option_index
-                      ? 'bg-yellow-400 text-slate-900'
-                      : 'bg-slate-800 text-slate-200 group-hover:bg-yellow-400 group-hover:text-slate-900'
+                      ? 'quiz-accent-letter-correct text-slate-900'
+                      : 'quiz-accent-letter bg-slate-800 text-slate-200'
                       }`}
                   >
                     {String.fromCharCode(65 + idx)}
@@ -897,7 +913,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                   </span>
                 </div>
                 {isAnswered && idx === currentQuestion.correct_option_index && (
-                  <i className="fas fa-check-circle text-yellow-300 animate-in zoom-in duration-300"></i>
+                  <i className="fas fa-check-circle quiz-accent-text animate-in zoom-in duration-300"></i>
                 )}
                 {isAnswered && idx === selectedOption && idx !== currentQuestion.correct_option_index && (
                   <i className="fas fa-times-circle text-yellow-500 animate-in zoom-in duration-300"></i>
@@ -911,7 +927,11 @@ export const QuizView: React.FC<QuizViewProps> = ({
           <div className="animate-in slide-in-from-bottom-4 duration-500 space-y-6 pt-4">
             <button
               onClick={() => { onPlayClickSound?.(); handleNext(); }}
-              className="w-full py-5 bg-yellow-400 hover:bg-yellow-500 rounded-2xl font-black text-lg text-slate-900 transition-all transform active:scale-95 shadow-2xl shadow-yellow-400/30 flex items-center justify-center gap-3"
+              className="mutation-gradient-button w-full py-5 rounded-2xl font-black text-lg text-slate-900 transition-all transform active:scale-95 shadow-2xl flex items-center justify-center gap-3"
+              style={{
+                backgroundImage: `linear-gradient(90deg, ${mutationColors.from}, ${mutationColors.to})`,
+                boxShadow: `0 20px 25px -5px ${mutationColors.shadow}`,
+              }}
             >
               {currentIndex === questions.length - 1 ? t('quiz.finishEvolution') : t('hub.continueMutation')}
               <i className="fas fa-arrow-right text-sm"></i>

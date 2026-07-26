@@ -9,6 +9,12 @@ import { formatTranslation } from './translations';
 import { playStarCelebrationSound, playFiveStarCelebrationSound, playRandomFiveStarCelebrationSound, playAllLevelsCelebrationSound, playCorrectAnswerSound, playWrongAnswerSound, playButtonClickSound } from './utils/sounds';
 import { getIdsExhaustedByCorrectRepeats } from './utils/quizRepeatLimits';
 import { FallingStars } from './components/FallingStars';
+import {
+  isMutationGradientId,
+  isQuizAccentId,
+  MutationGradientId,
+  QuizAccentId,
+} from './utils/colorThemes';
 
 const LOCAL_STORAGE_KEY = 'logical_fallacies_learn_stats_v1';
 const PREFS_STORAGE_KEY = 'logical_fallacies_learn_prefs_v1';
@@ -50,22 +56,40 @@ const ViewLoading: React.FC = () => (
   </div>
 );
 
-const DEFAULT_PREFS = { soundEnabled: true, hapticEnabled: true, lightMode: false, panelOpacity: 100 };
+interface AppPreferences {
+  soundEnabled: boolean;
+  hapticEnabled: boolean;
+  lightMode: boolean;
+  panelOpacity: number;
+  mutationGradient: MutationGradientId;
+  quizAccent: QuizAccentId;
+}
+
+const DEFAULT_PREFS: AppPreferences = {
+  soundEnabled: true,
+  hapticEnabled: true,
+  lightMode: false,
+  panelOpacity: 100,
+  mutationGradient: 'sunset',
+  quizAccent: 'yellow',
+};
 
 const App: React.FC = () => {
   const { language, setLanguage, t } = useLanguage();
   const [stats, setStats] = useState<UserStats>(INITIAL_STATS);
-  const [prefs, setPrefs] = useState<{ soundEnabled: boolean; hapticEnabled: boolean; lightMode: boolean; panelOpacity: number }>(() => {
+  const [prefs, setPrefs] = useState<AppPreferences>(() => {
     if (typeof window === 'undefined') return DEFAULT_PREFS;
     try {
       const raw = localStorage.getItem(PREFS_STORAGE_KEY);
       if (raw) {
-        const p = JSON.parse(raw) as { soundEnabled?: boolean; hapticEnabled?: boolean; lightMode?: boolean; panelOpacity?: number };
+        const p = JSON.parse(raw) as Partial<AppPreferences>;
         return {
           soundEnabled: p.soundEnabled !== false,
           hapticEnabled: p.hapticEnabled !== false,
           lightMode: p.lightMode === true,
-          panelOpacity: typeof p.panelOpacity === 'number' ? p.panelOpacity : 100
+          panelOpacity: typeof p.panelOpacity === 'number' ? p.panelOpacity : 100,
+          mutationGradient: isMutationGradientId(p.mutationGradient) ? p.mutationGradient : 'sunset',
+          quizAccent: isQuizAccentId(p.quizAccent) ? p.quizAccent : 'yellow',
         };
       }
     } catch (_) {}
@@ -495,6 +519,10 @@ const App: React.FC = () => {
                 onResetApp={() => setShowResetModal(true)}
                 panelOpacity={prefs.panelOpacity}
                 onSetPanelOpacity={(opacity) => setPrefs(p => ({ ...p, panelOpacity: opacity }))}
+                mutationGradient={prefs.mutationGradient}
+                onSetMutationGradient={(mutationGradient) => setPrefs(p => ({ ...p, mutationGradient }))}
+                quizAccent={prefs.quizAccent}
+                onSetQuizAccent={(quizAccent) => setPrefs(p => ({ ...p, quizAccent }))}
               />
             </div>
           </div>
@@ -524,6 +552,8 @@ const App: React.FC = () => {
               hapticEnabled={prefs.hapticEnabled}
               onPlayCorrectSound={playCorrectAnswerSound}
               onPlayWrongSound={playWrongAnswerSound}
+              mutationGradient={prefs.mutationGradient}
+              quizAccent={prefs.quizAccent}
             />
           </Suspense>
         ) : view === 'log' ? (
@@ -625,13 +655,14 @@ const App: React.FC = () => {
             stats={stats}
             onStartQuiz={handleStartEvolution}
             onPlayClickSound={playClickSound}
+            mutationGradient={prefs.mutationGradient}
           />
         )}
       </main>
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v59</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v60</p>
       </footer>
 
       {/* Operations View Modal */}

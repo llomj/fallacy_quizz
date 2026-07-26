@@ -5,6 +5,12 @@ declare const __APP_VERSION__: string | undefined;
 import { useLanguage } from '../contexts/LanguageContext';
 import { formatTranslation } from '../translations';
 import { MAX_QUESTION_ID } from '../questionsBank';
+import {
+  MUTATION_GRADIENTS,
+  QUIZ_ACCENTS,
+  MutationGradientId,
+  QuizAccentId,
+} from '../utils/colorThemes';
 
 /** Swipe-style toggle: green when on, gray when off. */
 const ToggleSwitch: React.FC<{
@@ -68,6 +74,10 @@ interface SettingsMenuProps {
   onResetApp?: () => void;
   panelOpacity?: number;
   onSetPanelOpacity?: (opacity: number) => void;
+  mutationGradient?: MutationGradientId;
+  onSetMutationGradient?: (gradient: MutationGradientId) => void;
+  quizAccent?: QuizAccentId;
+  onSetQuizAccent?: (accent: QuizAccentId) => void;
 }
 
 export const SettingsMenu: React.FC<SettingsMenuProps> = ({
@@ -95,7 +105,11 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   onToggleLanguage,
   onResetApp,
   panelOpacity = 100,
-  onSetPanelOpacity
+  onSetPanelOpacity,
+  mutationGradient = 'sunset',
+  onSetMutationGradient,
+  quizAccent = 'yellow',
+  onSetQuizAccent,
 }) => {
   const { t, language } = useLanguage();
   const [rulesSubmenuOpen, setRulesSubmenuOpen] = useState(false);
@@ -103,6 +117,8 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   const [customiseSubmenuOpen, setCustomiseSubmenuOpen] = useState(false);
   const [soundsSubmenuOpen, setSoundsSubmenuOpen] = useState(false);
   const [panelSubmenuOpen, setPanelSubmenuOpen] = useState(false);
+  const [mutationColorsSubmenuOpen, setMutationColorsSubmenuOpen] = useState(false);
+  const [quizAccentSubmenuOpen, setQuizAccentSubmenuOpen] = useState(false);
   const [rulesSearchId, setRulesSearchId] = useState('');
   const [logSearchId, setLogSearchId] = useState('');
 
@@ -113,6 +129,8 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
       setCustomiseSubmenuOpen(false);
       setSoundsSubmenuOpen(false);
       setPanelSubmenuOpen(false);
+      setMutationColorsSubmenuOpen(false);
+      setQuizAccentSubmenuOpen(false);
       setRulesSearchId('');
       setLogSearchId('');
     }
@@ -203,6 +221,106 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   }
 
   const basePath = typeof window !== 'undefined' ? (import.meta.env.BASE_URL || '/') : '/';
+
+  const colorPickerShell = (children: React.ReactNode) => (
+    <>
+      <div className="fixed inset-0 z-40 bg-black/60" onClick={onClose} />
+      <div className={`z-50 min-w-[200px] w-[300px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}>
+        <div
+          className="rounded-2xl p-2 shadow-lg border border-white/10 animate-in slide-in-from-top-2 duration-200 backdrop-blur-xl"
+          style={{ backgroundColor: `rgba(15,23,42,${panelOpacity / 100})` }}
+        >
+          {children}
+        </div>
+      </div>
+    </>
+  );
+
+  if (mutationColorsSubmenuOpen) {
+    return colorPickerShell(
+      <>
+        <button
+          onClick={withClickSound(() => { setMutationColorsSubmenuOpen(false); setCustomiseSubmenuOpen(true); })}
+          className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+        >
+          <i className="fas fa-arrow-left text-sm w-5 flex-shrink-0"></i>
+          <span className="text-sm font-medium">{t('settings.back')}</span>
+        </button>
+        <div className="px-4 pb-4">
+          <div className="flex items-center gap-3 py-2">
+            <i className="fas fa-wand-magic-sparkles text-sm w-5 text-slate-400"></i>
+            <span className="text-sm font-semibold text-slate-200">{t('settings.mutationButtonColors')}</span>
+          </div>
+          <div className="grid grid-cols-2 gap-2 mt-2">
+            {MUTATION_GRADIENTS.map((gradient) => (
+              <button
+                key={gradient.id}
+                type="button"
+                aria-pressed={mutationGradient === gradient.id}
+                onClick={withClickSound(() => onSetMutationGradient?.(gradient.id))}
+                className={`rounded-xl border p-2 text-left transition-all ${
+                  mutationGradient === gradient.id
+                    ? 'border-white/80 bg-white/10'
+                    : 'border-white/10 hover:border-white/30 hover:bg-white/5'
+                }`}
+              >
+                <span
+                  className="block h-7 rounded-lg mb-1.5"
+                  style={{ backgroundImage: `linear-gradient(90deg, ${gradient.from}, ${gradient.to})` }}
+                />
+                <span className="text-[11px] font-medium text-slate-300">
+                  {language === 'fr' ? gradient.labelFr : gradient.labelEn}
+                </span>
+              </button>
+            ))}
+          </div>
+        </div>
+      </>
+    );
+  }
+
+  if (quizAccentSubmenuOpen) {
+    return colorPickerShell(
+      <>
+        <button
+          onClick={withClickSound(() => { setQuizAccentSubmenuOpen(false); setCustomiseSubmenuOpen(true); })}
+          className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+        >
+          <i className="fas fa-arrow-left text-sm w-5 flex-shrink-0"></i>
+          <span className="text-sm font-medium">{t('settings.back')}</span>
+        </button>
+        <div className="px-4 pb-4">
+          <div className="flex items-center gap-3 py-2">
+            <i className="fas fa-highlighter text-sm w-5 text-slate-400"></i>
+            <span className="text-sm font-semibold text-slate-200">{t('settings.quizAccentColor')}</span>
+          </div>
+          <div className="grid grid-cols-3 gap-2 mt-2">
+            {QUIZ_ACCENTS.map((accent) => (
+              <button
+                key={accent.id}
+                type="button"
+                aria-pressed={quizAccent === accent.id}
+                onClick={withClickSound(() => onSetQuizAccent?.(accent.id))}
+                className={`rounded-xl border p-2 text-center transition-all ${
+                  quizAccent === accent.id
+                    ? 'border-white/80 bg-white/10'
+                    : 'border-white/10 hover:border-white/30 hover:bg-white/5'
+                }`}
+              >
+                <span
+                  className="block h-8 w-8 rounded-full mx-auto mb-1.5 border border-white/20"
+                  style={{ backgroundColor: accent.hex, boxShadow: `0 0 12px rgb(${accent.rgb} / 0.35)` }}
+                />
+                <span className="text-[10px] font-medium text-slate-300">
+                  {language === 'fr' ? accent.labelFr : accent.labelEn}
+                </span>
+              </button>
+            ))}
+          </div>
+        </div>
+      </>
+    );
+  }
 
   // ── Panel Opacity submenu ──
   if (panelSubmenuOpen) {
@@ -318,6 +436,22 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
             >
               <i className="fas fa-volume-high text-sm w-5 flex-shrink-0"></i>
               <span className="text-sm font-medium">{t('settings.sounds')}</span>
+              <i className="fas fa-chevron-right text-xs ml-auto"></i>
+            </button>
+            <button
+              onClick={withClickSound(() => { setCustomiseSubmenuOpen(false); setMutationColorsSubmenuOpen(true); })}
+              className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+            >
+              <i className="fas fa-wand-magic-sparkles text-sm w-5 flex-shrink-0"></i>
+              <span className="text-sm font-medium">{t('settings.mutationButtonColors')}</span>
+              <i className="fas fa-chevron-right text-xs ml-auto"></i>
+            </button>
+            <button
+              onClick={withClickSound(() => { setCustomiseSubmenuOpen(false); setQuizAccentSubmenuOpen(true); })}
+              className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
+            >
+              <i className="fas fa-highlighter text-sm w-5 flex-shrink-0"></i>
+              <span className="text-sm font-medium">{t('settings.quizAccentColor')}</span>
               <i className="fas fa-chevron-right text-xs ml-auto"></i>
             </button>
             <button

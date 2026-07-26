@@ -10,14 +10,21 @@ import { getConceptDefinition } from '../utils/conceptDefinitions';
 import { formatTranslation } from '../translations';
 import { RandomModeStatRow } from './RandomModeStatRow';
 import { getQuestionBank } from '../questionsBank';
+import { getMutationGradient, MutationGradientId } from '../utils/colorThemes';
 
 interface EvolutionHubProps {
   stats: UserStats;
   onStartQuiz: () => void;
   onPlayClickSound?: () => void;
+  mutationGradient?: MutationGradientId;
 }
 
-export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, onPlayClickSound }) => {
+export const EvolutionHub: React.FC<EvolutionHubProps> = ({
+  stats,
+  onStartQuiz,
+  onPlayClickSound,
+  mutationGradient = 'sunset',
+}) => {
   const { t, language } = useLanguage();
   const glossary = useTranslatedGlossary();
   const [selectedConcept, setSelectedConcept] = useState<{ label: string; definition: string | null } | null>(null);
@@ -33,6 +40,7 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
 
   const totalCompleted = stats.completedQuestionIds.length;
   const totalPossible = getQuestionBank(language).length;
+  const mutationColors = getMutationGradient(mutationGradient);
   const globalPercentage = Math.round((totalCompleted / totalPossible) * 100);
 
   const lastAccuracy = stats.lastSessionScore !== undefined && stats.lastSessionTotal
@@ -118,7 +126,11 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({ stats, onStartQuiz, 
 
           <button
             onClick={() => { onPlayClickSound?.(); onStartQuiz(); }}
-            className="w-full py-4 bg-gradient-to-r from-yellow-300 to-[#FF00FF] hover:from-yellow-200 hover:to-fuchsia-400 text-slate-950 rounded-2xl font-black text-lg transition-all transform hover:scale-[1.02] active:scale-95 shadow-2xl shadow-fuchsia-500/40 flex items-center justify-center gap-3"
+            className="mutation-gradient-button w-full py-4 text-slate-950 rounded-2xl font-black text-lg transition-all transform hover:scale-[1.02] active:scale-95 shadow-2xl flex items-center justify-center gap-3"
+            style={{
+              backgroundImage: `linear-gradient(90deg, ${mutationColors.from}, ${mutationColors.to})`,
+              boxShadow: `0 20px 25px -5px ${mutationColors.shadow}`,
+            }}
           >
             {t('hub.continueMutation')} <i className="fas fa-chevron-right text-sm"></i>
           </button>
