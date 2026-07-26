@@ -112,6 +112,7 @@
   - [x] Argument from Numbers: IDs 30901-30950, 50 EN + 50 FR, additive to 1 existing question.
     - [x] Argument from Numbers expansion: `src/data/questions/expansions/argumentFromNumbersExpansion.ts` now contains 156 bilingual scenarios total.
   - [x] Availability Heuristic: IDs 32001-32050, 50 EN + 50 FR, additive to 6 existing questions.
+    - [x] Availability Heuristic expansion: `src/data/questions/expansions/availabilityHeuristicExpansion.ts` now contains 152 bilingual scenarios total.
   - [x] Bandwagon: IDs 32101-32150, 50 EN + 50 FR, additive to 13 existing questions.
   - [x] Barnum Effect: IDs 32151-32200, 50 EN + 50 FR, additive to 3 existing questions.
   - [x] Base Rate Neglect: IDs 32201-32250, 50 EN + 50 FR, additive to 110 existing questions.
