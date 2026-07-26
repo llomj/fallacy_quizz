@@ -950,15 +950,17 @@ export const QuizView: React.FC<QuizViewProps> = ({
                   </div>
                 )}
               </div>
+              {statsEnabled && randomMode && liveRandomStats != null && (
+                <div className="mt-6">
+                  <RandomModeStatRow
+                    variant="quiz"
+                    totalAnswered={liveRandomStats.totalAnswered}
+                    totalCorrect={liveRandomStats.totalCorrect}
+                    t={t}
+                  />
+                </div>
+              )}
             </div>
-            {statsEnabled && randomMode && liveRandomStats != null && (
-              <RandomModeStatRow
-                variant="quiz"
-                totalAnswered={liveRandomStats.totalAnswered}
-                totalCorrect={liveRandomStats.totalCorrect}
-                t={t}
-              />
-            )}
           </div>
         )}
       </div>
