@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useLayoutEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { Question, QuestionAttempt } from '../types';
 import { quizService } from '../services/quizService';
 import { ProgressBar } from './ProgressBar';
@@ -8,11 +8,6 @@ import { formatTranslation } from '../translations';
 import { RandomModeStatRow } from './RandomModeStatRow';
 import { getTranslatedDetailedExplanation } from '../data/detailedExplanationsTranslations';
 import { translateQuestionText, getQuestionDisplay, getQuestionDisplayNativeBank } from '../utils/translateQuestion';
-import {
-  remapQuestionToLanguage,
-  mapSelectedIndexAfterRemap,
-  asUiLang
-} from '../utils/remapQuestionLanguage';
 import { getTranslatedShortExplanation, SHORT_EXPLANATIONS_FR, isLogicalFallaciesAppQuestionId } from '../data/shortExplanationsTranslations';
 import { normalizeExplanationWhitespace } from '../utils/explanationWhitespace';
 import { ExplanationWithStepNumbers } from './ExplanationWithStepNumbers';
@@ -627,21 +622,9 @@ export const QuizView: React.FC<QuizViewProps> = ({
   // Ref for session correct count - updated synchronously so live score displays immediately
   const sessionCorrectRef = useRef(0);
 
-  /** Always read latest language in async fetch (bank selection). */
-  const languageRef = useRef(language);
-  languageRef.current = language;
-
-  /** Question bank locale for the current batch (EN vs FR). Kept in sync with loaded/remapped questions. */
-  const batchLanguageRef = useRef(language);
-  const [batchLanguage, setBatchLanguage] = useState(language);
-
-  const currentIndexRef = useRef(currentIndex);
-  currentIndexRef.current = currentIndex;
-  const selectedOptionRef = useRef(selectedOption);
-  selectedOptionRef.current = selectedOption;
-
-  const questionsRef = useRef(questions);
-  questionsRef.current = questions;
+  /** Canonical quiz batch language. We keep the loaded questions fixed and only translate display. */
+  const batchLanguageRef = useRef<'en'>('en');
+  const [batchLanguage, setBatchLanguage] = useState<'en'>('en');
 
   // Helper function to shuffle array and track original index of correct answer
   const shuffleOptions = (question: Question): Question => {
@@ -670,8 +653,8 @@ export const QuizView: React.FC<QuizViewProps> = ({
         setLoading(true);
         initialCompletedIds.current = completedIds;
         initialExhaustedIds.current = exhaustedIdsFromRepeatCorrect;
-        // Fetch questions based on mode: level-specific or random from all levels
-        const lang = languageRef.current;
+        // Fetch questions from the canonical bank so a language toggle never swaps to a different prompt.
+        const lang: 'en' = 'en';
         const data = await quizService.getBatch(
           level,
           15,
@@ -699,56 +682,8 @@ export const QuizView: React.FC<QuizViewProps> = ({
       }
     };
     fetchQuestions();
-    // Level / randomize / mode: new batch from the bank matching languageRef at fetch time.
-    // Mid-session language changes are handled in useLayoutEffect (remap same IDs, keep progress).
-    // If completedIds (passed from props) changes, we do NOT re-run this.
+    // Level / randomize / mode: new canonical batch. UI language changes only affect rendering.
   }, [level, randomizeTrigger, randomMode]);
-
-  // Only [language]: pin active question by id so we never advance/skip after remap; avoid
-  // re-running when questions.length changes (e.g. initial load) which could desync index.
-  useLayoutEffect(() => {
-    if (batchLanguageRef.current === language) return;
-
-    const fromLang = asUiLang(batchLanguageRef.current);
-    const toLang = asUiLang(language);
-
-    if (questionsRef.current.length === 0) {
-      batchLanguageRef.current = language;
-      setBatchLanguage(language);
-      return;
-    }
-
-    setQuestions((prev) => {
-      if (prev.length === 0) return prev;
-      const idx = currentIndexRef.current;
-      const pinnedId = prev[idx]?.id;
-      const next = prev.map((q) => remapQuestionToLanguage(q, fromLang, toLang));
-      const newIdx = pinnedId != null ? next.findIndex((q) => q.id === pinnedId) : idx;
-      const safeIdx = newIdx >= 0 ? newIdx : idx;
-
-      const oldQ = prev[idx];
-      const newQ = next[safeIdx];
-      const sel = selectedOptionRef.current;
-      queueMicrotask(() => {
-        setCurrentIndex(safeIdx);
-        if (sel !== null && oldQ && newQ) {
-          const newSel = mapSelectedIndexAfterRemap(oldQ, newQ, sel, fromLang, toLang);
-          if (newSel === null) {
-            // Independent question banks (e.g. Levels 1–10): the question changed entirely.
-            // Reset answered state so the user can answer the new language question.
-            setSelectedOption(null);
-            setIsAnswered(false);
-            setShowDetailedExplanation(false);
-          } else {
-            setSelectedOption(newSel);
-          }
-        }
-      });
-      return next;
-    });
-    batchLanguageRef.current = language;
-    setBatchLanguage(language);
-  }, [language]);
 
   const handleOptionClick = (index: number) => {
     if (isAnswered) return;
