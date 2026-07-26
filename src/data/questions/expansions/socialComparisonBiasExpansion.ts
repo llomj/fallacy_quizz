@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Priya compares her steady progress in French to a friend’s fluent speech and calls herself hopeless.', 'Priya compare ses progres reguliers en francais au francais courant d une amie et se traite d esperance perdue.'],
   ['Omar sees a neighbor’s brand-new grill and forgets that his old one still cooks dinner just fine.', 'Omar voit le nouveau barbecue d un voisin et oublie que son ancien barbecue cuisine encore tres bien.'],
   ['Rina reads about a classmate’s scholarship and decides her own hard work has not achieved anything.', 'Rina lit la bourse d une camarade et decide que son propre travail n a rien accompli.'],
+  ['Maya watches a friend’s perfect home gym online and decides her own small workout space is pathetic.', 'Maya regarde la salle de sport maison parfaite d une amie en ligne et decide que son propre petit espace d entrainement est pathétique.'],
 ];
 
 const OPTIONS_EN = ['Social Comparison Bias', 'Egocentric Bias', 'Halo Effect', 'Self-Serving Bias'];
