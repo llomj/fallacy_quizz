@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Rosa keeps a poor restaurant choice because she already sat down and ordered water.', 'Rosa garde un mauvais choix de restaurant parce qu elle s est deja assise et a commande de l eau.'],
   ['Alicia keeps a doomed group chat plan because she already made the invite.', 'Alicia garde un plan de groupe condamne parce qu elle a deja cree l invitation.'],
   ['Owen keeps repairing an old chair because he already sanded it twice.', 'Owen continue de reparer une vieille chaise parce qu il l a deja poncee deux fois.'],
+  ['Maya keeps using a terrible note app because she already spent a weekend organizing it.', 'Maya continue d utiliser une mauvaise application de notes parce qu elle a deja passe un week-end a l organiser.'],
 ];
 
 const OPTIONS_EN = ['Sunk Cost Fallacy', 'Escalation of Commitment', 'Status Quo Bias', 'Post-Purchase Rationalization'];
