@@ -1230,12 +1230,20 @@ const sanitizeFrenchArtifacts = (text: string): string => {
   return out;
 };
 
-/** Strip "Identify the logical fallacy in this example..." / "Identifiez l'erreur logique..." prefix and optional surrounding quotes. */
+/** Strip quiz instruction headers so only the scenario text is shown to the player. */
 export const stripFallacyInstructionPrefix = (q: string): string => {
-  const enPrefix = /^Identify the logical fallacy in this example:\s*\n*\s*/i;
-  const frPrefixSophisme = /^Identifiez le sophisme (?:logique )?dans cet exemple\s*:\s*\n*\s*/i;
-  const frPrefixErreur = /^Identifiez l'erreur logique dans cet exemple\s*:\s*\n*\s*/i;
-  let rest = q.replace(enPrefix, '').replace(frPrefixSophisme, '').replace(frPrefixErreur, '').trim();
+  const instructionPrefixes = [
+    /^Identify the logical fallacy in this example:\s*\n*\s*/i,
+    /^Which fallacy is illustrated here\?\s*\n*\s*/i,
+    /^Quel sophisme est illustr[ée] ici\s*\?\s*\n*\s*/i,
+    /^Quel sophisme est illustre ici\s*\?\s*\n*\s*/i,
+    /^Identifiez le sophisme (?:logique )?dans cet exemple\s*:\s*\n*\s*/i,
+    /^Identifiez l'erreur logique dans cet exemple\s*:\s*\n*\s*/i,
+  ];
+  let rest = q.trim();
+  for (const prefix of instructionPrefixes) {
+    rest = rest.replace(prefix, '').trim();
+  }
   if (rest.length >= 2 && rest.startsWith('"') && rest.endsWith('"')) {
     rest = rest.slice(1, -1).trim();
   }
