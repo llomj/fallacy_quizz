@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Dan says the rare match on the badge reader should settle the case.', 'Dan dit que la rare correspondance sur le lecteur de badge devrait regler l affaire.'],
   ['Rosa says the positive check is almost a conviction, not just a hint.', 'Rosa dit que la verification positive est presque une condamnation, pas juste une piste.'],
   ['Alicia says the tiny false-positive rate means there is no real room for innocence.', 'Alicia dit que le minuscule taux de faux positif signifie qu il n y a pas vraiment de place pour l innocence.'],
+  ['Milo says the tiny error rate on the scanner means the suspect is guilty for sure.', 'Milo dit que le tout petit taux d erreur du scanner signifie que le suspect est coupable a coup sur.'],
 ];
 
 const OPTIONS_EN = [
