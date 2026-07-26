@@ -34,10 +34,10 @@ export function ExplanationWithStepNumbers({
 }: ExplanationWithStepNumbersProps) {
   const lines = text.split('\n');
   return (
-    <div className={`whitespace-pre-wrap leading-snug ${bodyClassName} ${className}`.trim()}>
+    <div className={`whitespace-pre-wrap leading-tight tracking-tight ${bodyClassName} ${className}`.trim()}>
       {lines.map((line, idx) => {
         if (!line.trim()) {
-          return <span key={idx} className="block h-2" aria-hidden="true" />;
+          return <span key={idx} className="block h-1.5" aria-hidden="true" />;
         }
 
         const stepMatch = line.match(STEP_LINE);
