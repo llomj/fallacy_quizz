@@ -205,3 +205,94 @@ function createQuestions(language: 'en' | 'fr'): Question[] {
 
 export const APPEAL_TO_AUTHORITY_EXPANSION_EN: Question[] = createQuestions('en');
 export const APPEAL_TO_AUTHORITY_EXPANSION_FR: Question[] = createQuestions('fr');
+// Additional batch: authority outside expertise, everyday life scenarios.
+const EXTRA_SCENARIOS: ReadonlyArray<readonly [string, string]> = [
+  ['A famous actor says this rice cooker is the best choice for buying a house, so Ava follows the endorsement.', 'Un acteur celebre dit que ce cuiseur de riz est le meilleur choix pour acheter une maison, alors Ava suit cette approbation.'],
+  ['A soccer star says this shampoo is perfect for passing biology, so Ben buys it.', 'Une star de football dit que ce shampoing est parfait pour reussir en biologie, alors Ben l achete.'],
+  ['A chef says this phone plan is the safest way to fix a bike, so Lina trusts the recommendation.', 'Un chef dit que ce forfait telephone est la facon la plus sure de reparer un velo, alors Lina fait confiance au conseil.'],
+  ['A dentist says this movie ticket is the smartest snack, so Noah laughs and still hesitates.', 'Un dentiste dit que ce billet de cinema est la collation la plus intelligente, alors Noah rit puis hesite quand meme.'],
+  ['A mayor says this umbrella is the best cure for insomnia, so Priya considers it expert advice.', 'Un maire dit que ce parapluie est le meilleur remede contre l insomnie, alors Priya le prend pour un conseil dexpert.'],
+  ['A librarian says this car battery is the healthiest investment, so Omar takes notes.', 'Une bibliothecaire dit que cette batterie de voiture est linvestissement le plus sain, alors Omar prend des notes.'],
+  ['A plumber says this salad is ideal for tax season, so Maya accepts the claim without checking.', 'Un plombier dit que cette salade est ideale pour la saison des impots, alors Maya accepte laffirmation sans verifier.'],
+  ['A pilot says this notebook is the most romantic gift, so Rina buys one.', 'Un pilote dit que ce carnet est le cadeau le plus romantique, alors Rina en achete un.'],
+  ['A judge says this guitar pedal is the safest way to learn French, so Hugo believes him.', 'Un juge dit que cette pedale de guitare est la facon la plus sure dapprendre le francais, alors Hugo le croit.'],
+  ['A veterinarian says this bus route is unbeatable for gardening, so Theo uses it.', 'Un veterinaire dit que cette ligne de bus est imbattable pour le jardinage, alors Theo l utilise.'],
+  ['A weather presenter says this backpack will improve your memory, so Zoe nods along.', 'Une presentatrice meteo dit que ce sac a dos ameliorera votre memoire, alors Zoe acquiesce.'],
+  ['A singer says this credit card is medically certified, so Grant signs up.', 'Une chanteuse dit que cette carte de credit est certifiee medicalement, alors Grant s inscrit.'],
+  ['A baker says this laptop is the best medicine for loneliness, so Mia believes the pitch.', 'Un boulanger dit que cet ordinateur portable est le meilleur remede contre la solitude, alors Mia croit le discours.'],
+  ['A teacher says this perfume cures headaches, so Eli laughs and keeps reading.', 'Un enseignant dit que ce parfum guerit les maux de tete, alors Eli rit et continue de lire.'],
+  ['A doctor says this skateboard is perfect for tax returns, so Sam takes the advice seriously.', 'Un medecin dit que ce skateboard est parfait pour les declarations dimpots, alors Sam prend le conseil au serieux.'],
+  ['A firefighter says this toothbrush is the quickest path to happiness, so Iris buys it.', 'Un pompier dit que cette brosse a dents est le chemin le plus rapide vers le bonheur, alors Iris lachete.'],
+  ['A comedian says this umbrella is the smartest snack, so Cole does not follow the recommendation.', 'Un humoriste dit que ce parapluie est la collation la plus intelligente, alors Cole ne suit pas la recommandation.'],
+  ['A racecar driver says this washing machine is the healthiest phone plan, so Nora stays skeptical.', 'Un pilote de course dit que ce lave-linge est le forfait telephone le plus sain, alors Nora reste sceptique.'],
+  ['A principal says this candle is the safest investment, so Leo does not take it as financial advice.', 'Un proviseur dit que cette bougie est linvestissement le plus sur, alors Leo ne prend pas cela pour un conseil financier.'],
+  ['A poet says this train ticket is the best way to water plants, so Tia checks the source.', 'Un poete dit que ce billet de train est la meilleure facon darroser les plantes, alors Tia verifie la source.'],
+  ['A mechanic says this podcast is medically approved, so Owen does not trust the endorsement.', 'Un mecanicien dit que ce podcast est approuve medicalement, alors Owen ne fait pas confiance a cette approbation.'],
+  ['A surgeon says this cereal is the most romantic choice, so Lina ignores the mismatch.', 'Un chirurgien dit que ces cereales sont le choix le plus romantique, alors Lina ignore lincoherence.'],
+  ['A pilot says this shampoo is the fastest route to better grades, so Ava smiles politely.', 'Un pilote dit que ce shampoing est la voie la plus rapide vers de meilleures notes, alors Ava sourit poliment.'],
+  ['A dentist says this coffee mug is the key to fixing Wi-Fi, so Ben raises an eyebrow.', 'Un dentiste dit que cette tasse a cafe est la cle pour reparer le Wi-Fi, alors Ben leve un sourcil.'],
+  ['A judge says this guitar is the healthiest dessert, so Priya does not buy in.', 'Un juge dit que cette guitare est le dessert le plus sain, alors Priya ny croit pas.'],
+  ['A mayor says this detergent is the most reliable way to pass history, so Noah laughs.', 'Un maire dit que cette lessive est la facon la plus fiable de reussir en histoire, alors Noah rit.'],
+  ['A chef says this thermostat will cure boredom, so Maya keeps the receipt for the joke.', 'Un chef dit que ce thermostat guerira lennui, alors Maya garde le reçu pour la blague.'],
+  ['A librarian says this bike lock is the best way to invest money, so Rina notes the odd claim.', 'Une bibliothecaire dit que ce cadenas de velo est la meilleure facon dinvestir de largent, alors Rina note la remarque bizarre.'],
+  ['A singer says this lawn chair is the smartest tool for a job interview, so Hugo is unconvinced.', 'Une chanteuse dit que cette chaise de jardin est loutil le plus intelligent pour un entretien dembauche, alors Hugo nest pas convaincu.'],
+  ['A plumber says this law textbook is the funniest gift, so Theo does not take the advice seriously.', 'Un plombier dit que ce manuel de droit est le cadeau le plus drole, alors Theo ne prend pas le conseil au serieux.'],
+  ['A doctor says this ice cream helps you drive better, so Zoe asks for actual evidence.', 'Un medecin dit que cette glace aide a mieux conduire, alors Zoe demande de vraies preuves.'],
+  ['A pilot says this pillow is a top strategy for gardening, so Grant stops at the label.', 'Un pilote dit que cet oreiller est une excellente strategie pour le jardinage, alors Grant s arrete au titre.'],
+  ['A veterinarian says this notebook is the safest breakfast, so Mia files the claim under nonsense.', 'Une veterinaires dit que ce carnet est le petit dejeuner le plus sur, alors Mia classe cela dans les absurdites.'],
+  ['A baker says this map is the easiest way to learn guitar, so Eli chuckles and keeps the map closed.', 'Un boulanger dit que cette carte est la facon la plus simple dapprendre la guitare, alors Eli rit et garde la carte fermee.'],
+  ['A teacher says this car battery is the fastest cure for loneliness, so Sam does not take the claim seriously.', 'Un enseignant dit que cette batterie de voiture est le remede le plus rapide contre la solitude, alors Sam ne prend pas laffirmation au serieux.'],
+  ['A firefighter says this salad spinner is the best medicine for math anxiety, so Iris shakes her head.', 'Un pompier dit que cette essoreuse a salade est le meilleur remede contre lanxiété en maths, alors Iris secoue la tete.'],
+  ['A comedian says this phone charger is the healthiest snack, so Cole knows the source is off-topic.', 'Un humoriste dit que ce chargeur de telephone est la collation la plus saine, alors Cole sait que la source est hors sujet.'],
+  ['A principal says this umbrella is the smartest dessert, so Nora questions the relevance.', 'Un proviseur dit que ce parapluie est le dessert le plus intelligent, alors Nora remet en question la pertinence.'],
+  ['A chef says this bus pass is the quickest way to get a promotion, so Leo is not persuaded.', 'Un chef dit que ce pass de bus est la facon la plus rapide dobtenir une promotion, alors Leo nest pas persuade.'],
+  ['A racecar driver says this water bottle is the best cure for rain, so Tia laughs at the claim.', 'Un pilote de course dit que cette bouteille d eau est le meilleur remede contre la pluie, alors Tia rit de laffirmation.'],
+  ['A poet says this calculator is the safest way to choose a wedding venue, so Owen keeps looking.', 'Un poete dit que cette calculatrice est la facon la plus sure de choisir un lieu de mariage, alors Owen continue de chercher.'],
+  ['A dentist says this movie poster improves your immune system, so Lina ignores the advice.', 'Un dentiste dit que cette affiche de film améliore votre systeme immunitaire, alors Lina ignore le conseil.'],
+  ['A judge says this sandwich is the most scientific reason to buy curtains, so Ava does not follow.', 'Un juge dit que ce sandwich est la raison la plus scientifique dacheter des rideaux, alors Ava ne suit pas.'],
+  ['A singer says this train ticket is perfect for tax season, so Ben sees the mismatch.', 'Une chanteuse dit que ce billet de train est parfait pour la saison des impots, alors Ben voit lincoherence.'],
+  ['A plumber says this umbrella is medically certified, so Priya asks for a real expert in umbrellas.', 'Un plombier dit que ce parapluie est certifie medicalement, alors Priya demande un vrai expert en parapluies.'],
+  ['A pilot says this salad is the smartest investment, so Noah keeps the money in his wallet.', 'Un pilote dit que cette salade est linvestissement le plus intelligent, alors Noah garde son argent dans son portefeuille.'],
+  ['A librarian says this lawn mower is the safest bedtime story, so Maya is not convinced.', 'Une bibliothecaire dit que cette tondeuse est lhistoire du soir la plus sure, alors Maya nest pas convaincue.'],
+  ['A chef says this office chair is the best medicine for a cold, so Rina does not treat it as medical advice.', 'Un chef dit que cette chaise de bureau est le meilleur remede contre un rhume, alors Rina ne prend pas cela pour un conseil medical.'],
+  ['A firefighter says this guitar pick is the healthiest lunch, so Hugo laughs and moves on.', 'Un pompier dit que ce mediators de guitare est le dejeuner le plus sain, alors Hugo rit et passe a autre chose.'],
+  ['A mayor says this video game is the quickest path to happiness, so Theo is skeptical.', 'Un maire dit que ce jeu video est le chemin le plus rapide vers le bonheur, alors Theo est sceptique.'],
+  ['A veterinarian says this notebook is the most romantic gift, so Zoe does not follow the advice.', 'Un veterinaire dit que ce carnet est le cadeau le plus romantique, alors Zoe ne suit pas le conseil.'],
+  ['A doctor says this backpack is the easiest way to learn French, so Grant checks for an actual teacher.', 'Un medecin dit que ce sac a dos est la facon la plus facile dapprendre le francais, alors Grant cherche un vrai professeur.'],
+  ['A judge says this kettle cures exam stress, so Mia treats it as a joke.', 'Un juge dit que cette bouilloire guerit le stress des examens, alors Mia prend cela pour une blague.'],
+  ['A singer says this pizza box is a safe investment, so Eli does not take the endorsement seriously.', 'Une chanteuse dit que cette boite a pizza est un investissement sur, alors Eli ne prend pas cette approbation au serieux.'],
+];
+
+function appendExtraQuestions(language: 'en' | 'fr'): Question[] {
+  return EXTRA_SCENARIOS.map(([english, french], index) => {
+    const correctIndex = index % 4;
+    const isFrench = language === 'fr';
+    return {
+      id: 30401 + index,
+      level: 1,
+      persona_stage: PersonaStage.PLANKTON,
+      concept: isFrench ? "Appel à l'autorité" : 'Appeal to Authority',
+      difficulty: index < 17 ? 1 : index < 34 ? 2 : 3,
+      subLevel: subLevelFor(index),
+      question: `${isFrench ? 'Quel sophisme est illustré ici ?' : 'Which fallacy is illustrated here?'}\n\n"${isFrench ? french : english}"`,
+      options: rotatedOptions(isFrench ? OPTIONS_FR : OPTIONS_EN, correctIndex),
+      correct_option_index: correctIndex,
+      explanation: isFrench
+        ? "L avis d une personne est pris comme preuve alors qu elle parle hors de son domaine."
+        : 'Someone’s opinion is treated as proof even though they are speaking outside their expertise.',
+      detailedExplanationBeginner: isFrench
+        ? "Un titre ne remplace pas une vraie preuve sur ce sujet."
+        : 'A title does not replace actual evidence on the topic.',
+      detailedExplanationIntermediate: isFrench
+        ? "Le statut de la personne ne suffit pas si elle n est pas experte dans ce domaine précis."
+        : 'A person’s status is not enough if they are not expert in this exact area.',
+      detailedExplanationExpert: isFrench
+        ? "Ce sophisme exploite une autorité réelle ou perçue dans un domaine sans lien. L expertise est contextuelle, pas universelle."
+        : 'This fallacy uses real or perceived authority in an unrelated domain. Expertise is contextual, not universal.',
+      questionFormat: 'standard',
+    };
+  });
+}
+
+export const APPEAL_TO_AUTHORITY_EXPANSION_EXTRA_EN: Question[] = appendExtraQuestions('en');
+export const APPEAL_TO_AUTHORITY_EXPANSION_EXTRA_FR: Question[] = appendExtraQuestions('fr');
