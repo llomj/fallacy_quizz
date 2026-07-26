@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Rosa says the game night was hilarious while leaving out the argument over rules.', 'Rosa dit que la soiree jeux etait hilarante tout en laissant de cote la dispute sur les regles.'],
   ['Alicia says the restaurant review is fair while omitting the free dessert they got.', 'Alicia dit que la critique du restaurant est juste tout en omettant le dessert gratuit qu elle a reçu.'],
   ['Owen says the new desk setup is perfect while leaving out the cable tangle behind it.', 'Owen dit que la nouvelle installation de bureau est parfaite tout en laissant de cote l enchevetrement de cables derriere.'],
+  ['Maya says the new movie app is amazing while ignoring the three crashes she had to restart through.', 'Maya dit que la nouvelle application de films est incroyable tout en ignorant les trois plantages qu elle a dû relancer.'],
 ];
 
 const OPTIONS_EN = ['Suppressed Evidence', 'Cherry Picking', 'Confirmation Bias', 'False Attribution'];
