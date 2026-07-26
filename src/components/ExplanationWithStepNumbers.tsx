@@ -34,14 +34,16 @@ export function ExplanationWithStepNumbers({
 }: ExplanationWithStepNumbersProps) {
   const lines = text.split('\n');
   return (
-    <div className={`whitespace-pre-wrap leading-relaxed ${bodyClassName} ${className}`.trim()}>
+    <div className={`whitespace-pre-wrap leading-tight tracking-tight ${bodyClassName} ${className}`.trim()}>
       {lines.map((line, idx) => {
-        const prefix = idx > 0 ? '\n' : '';
+        if (!line.trim()) {
+          return <span key={idx} className="block h-1.5" aria-hidden="true" />;
+        }
+
         const stepMatch = line.match(STEP_LINE);
         if (stepMatch) {
           return (
-            <span key={idx}>
-              {prefix}
+            <span key={idx} className="block">
               <span className={stepClassName}>
                 {stepMatch[1]}.{' '}
               </span>
@@ -52,20 +54,15 @@ export function ExplanationWithStepNumbers({
         const headerMatch = line.match(HEADER_LINE);
         if (headerMatch) {
           return (
-            <span key={idx}>
-              {prefix}
+            <span key={idx} className="block">
               <span className={stepClassName}>{line}</span>
             </span>
           );
         }
         return (
-          <span key={idx}>
-            {prefix}
-            {line}
-          </span>
+          <span key={idx} className="block">{line}</span>
         );
       })}
     </div>
   );
 }
-
