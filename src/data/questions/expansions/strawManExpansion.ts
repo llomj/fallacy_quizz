@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Noah suggests the app should remember the login, and Rita says he wants to erase passwords from the universe.', 'Noah propose que l application se souvienne de la connexion, et Rita dit qu il veut effacer les mots de passe de l univers.'],
   ['Lina asks for one more support agent on weekends, and Owen says she wants a giant call center in every kitchen.', 'Lina demande un conseiller de soutien de plus le week-end, et Owen dit qu elle veut un immense centre d appels dans chaque cuisine.'],
   ['Hugo says the school should let students swap one elective, and Pia says he wants to redesign the entire curriculum from scratch.', 'Hugo dit que l ecole devrait laisser les eleves echanger une option, et Pia dit qu il veut reinventer tout le programme de zero.'],
+  ['Maya asks for a smaller meeting checklist, and Ben says she wants to abolish all planning.', 'Maya demande une liste de controle de reunion plus courte, et Ben dit qu elle veut abolir toute planification.'],
 ];
 
 const OPTIONS_EN = ['Straw Man', 'Red Herring', 'False Dilemma', 'Appeal to Emotion'];
