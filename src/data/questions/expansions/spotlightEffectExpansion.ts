@@ -100,6 +100,7 @@ const SCENARIOS: ReadonlyArray<readonly [string, string]> = [
   ['Rosa assumes the store staff noticed her dropped coupon, though the staff are helping another customer.', 'Rosa suppose que le personnel du magasin a remarque son coupon tombe, alors que le personnel aide un autre client.'],
   ['Alicia feels sure the whole room heard her whisper, even though the projector fan is louder.', 'Alicia est sure que toute la salle a entendu son chuchotement, alors que le ventilateur du projecteur est plus bruyant.'],
   ['Owen thinks the group noticed his tiny hesitation before speaking, but the conversation is already moving fast.', 'Owen pense que le groupe a remarque sa petite hesitation avant de parler, mais la conversation avance déjà vite.'],
+  ['Maya thinks everyone at the market saw her drop one grape, but the crowd is focused on the fruit stand.', 'Maya pense que tout le monde au marche l a vue faire tomber un raisin, mais la foule se concentre sur l etal de fruits.'],
 ];
 
 const OPTIONS_EN = ['Spotlight Effect', 'Halo Effect', 'Egocentric Bias', 'False Consensus Effect'];
