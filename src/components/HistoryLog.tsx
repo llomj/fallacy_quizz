@@ -128,7 +128,7 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
   };
 
   return (
-    <div className="space-y-6 animate-in slide-in-from-right duration-500">
+    <div className="space-y-6 animate-in slide-in-from-right duration-500 pt-12">
       <div className="flex items-center justify-between mb-8">
         <h2 className="text-2xl font-black text-white flex items-center gap-3">
           <i className="fas fa-book-open text-yellow-300"></i> {t('history.learningLog')}
