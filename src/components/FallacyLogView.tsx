@@ -1,38 +1,73 @@
 import React, { useMemo, useState } from 'react';
 import { FallacyLogEntry } from '../types';
 import { useLanguage } from '../contexts/LanguageContext';
+import { formatTranslation } from '../translations';
 import { GLOSSARY_TERMS_EN, GLOSSARY_TERMS_FR } from './GlossaryView';
+
+const EN_TO_FR_MAP: Record<string, string> = {
+  'Ad Hominem': 'Attaque personnelle',
+  'Appeal to Authority': 'Appel à l\'autorité',
+  'Appeal to Tradition': 'Appel à la tradition',
+  'Appeal to Novelty': 'Appel à la nouveauté',
+  'Appeal to Popularity': 'Appel à la popularité',
+  'Appeal to Emotion': 'Appel à l\'émotion',
+  'Appeal to Fear': 'Appel à la peur',
+  'Appeal to Ignorance': 'Appel à l\'ignorance',
+  'Appeal to Incredulity': 'Appel à l\'incrédulité',
+  'Anecdotal Fallacy': 'Sophisme anecdotique',
+  'Begging the Question': 'Pétition de principe',
+  'False Dilemma': 'Dilemme trompeur',
+  'Straw Man': 'Homme de paille',
+  'Slippery Slope': 'Pente glissante',
+  'Circular Reasoning': 'Raisonnement circulaire',
+  'Post Hoc': 'Post Hoc',
+  'Confirmation Bias': 'Biais de confirmation',
+  'Bandwagon Fallacy': 'Appel à la foule',
+  'Sunk Cost Fallacy': 'Sophisme des coûts irrécupérables',
+  'False Cause': 'Fausse cause',
+};
+
+const FRENCH_TERMS = new Set(Object.values(EN_TO_FR_MAP));
 
 interface FallacyLogViewProps {
   entries: FallacyLogEntry[];
   onClose: () => void;
   onPlayClickSound?: () => void;
   onRemoveEntry?: (term: string) => void;
-  title?: string;
 }
 
 export const FallacyLogView: React.FC<FallacyLogViewProps> = ({ 
   entries, 
   onClose, 
   onPlayClickSound,
-  onRemoveEntry,
-  title,
+  onRemoveEntry 
 }) => {
   const { t, language } = useLanguage();
   const [search, setSearch] = useState('');
   
+  // DEBUG: Show language status
+  console.log('[FallacyLogView] language:', language, 'entries:', entries.length);
+
+  const glossaryMap = useMemo(() => {
+    const target = language === 'fr' ? GLOSSARY_TERMS_FR : GLOSSARY_TERMS_EN;
+    const map = new Map<string, typeof target[0]>();
+    for (const item of target) {
+      map.set(item.term.toLowerCase().trim(), item);
+    }
+    return map;
+  }, [language]);
+
   const getDisplayEntry = (entry: FallacyLogEntry): FallacyLogEntry & { displayTerm: string } => {
-    const englishIndex = GLOSSARY_TERMS_EN.findIndex((item) => item.term === entry.term);
-    const frenchIndex = GLOSSARY_TERMS_FR.findIndex((item) => item.term === entry.term);
-    const index = englishIndex >= 0 ? englishIndex : frenchIndex;
-    const localized = index >= 0
-      ? (language === 'fr' ? GLOSSARY_TERMS_FR[index] : GLOSSARY_TERMS_EN[index])
-      : undefined;
-    return {
-      ...entry,
-      definition: localized?.definition ?? entry.definition,
-      displayTerm: localized?.term ?? entry.term,
-    };
+    if (language === 'fr') {
+      // If term is already French, keep it as-is
+      if (FRENCH_TERMS.has(entry.term)) {
+        return { ...entry, displayTerm: entry.term };
+      }
+      // Translate English to French
+      const frenchTerm = EN_TO_FR_MAP[entry.term] || entry.term;
+      return { ...entry, displayTerm: frenchTerm };
+    }
+    return { ...entry, displayTerm: entry.term };
   };
 
   const displayEntries = useMemo(() => {
@@ -53,7 +88,7 @@ export const FallacyLogView: React.FC<FallacyLogViewProps> = ({
     <div className="min-h-[calc(100dvh-64px)] animate-in slide-in-from-right duration-300 pt-12">
       <div className="flex items-center justify-between mb-6">
         <h2 className="text-lg sm:text-xl font-black text-white flex items-center gap-2">
-          <i className="fas fa-bookmark quiz-accent-text"></i> {title || t('app.fallacyLog') || 'Fallacy Log'}
+          <i className="fas fa-bookmark text-yellow-300"></i> {t('app.fallacyLog') || 'Fallacy Log'}
         </h2>
         <button 
           onClick={() => { onPlayClickSound?.(); onClose(); }}
@@ -73,7 +108,7 @@ export const FallacyLogView: React.FC<FallacyLogViewProps> = ({
             placeholder={t('glossary.searchPlaceholder')?.replace('{count}', String(entries.length)) || 'Search...'}
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            className="quiz-accent-focus w-full pl-10 pr-3 py-3 text-sm bg-slate-900 border border-white/5 rounded-2xl text-white placeholder:text-slate-600 focus:outline-none transition-colors"
+            className="w-full pl-10 pr-3 py-3 text-sm bg-slate-900 border border-white/5 rounded-2xl text-white placeholder:text-slate-600 focus:outline-none focus:border-yellow-400/60 transition-colors"
           />
         </div>
       )}
@@ -83,10 +118,10 @@ export const FallacyLogView: React.FC<FallacyLogViewProps> = ({
           {displayEntries.map((entry, idx) => (
             <div 
               key={`${entry.term}-${idx}`}
-              className="glass quiz-accent-border p-4 rounded-xl space-y-2 transition-all group"
+              className="glass p-4 rounded-xl space-y-2 hover:border-yellow-400/60 transition-all group"
             >
               <div className="flex justify-between items-start">
-                <h4 className="quiz-accent-text text-sm font-bold">
+                <h4 className="text-sm font-bold text-yellow-300">
                   {entry.displayTerm || entry.term}
                 </h4>
                 {onRemoveEntry && (
@@ -102,7 +137,7 @@ export const FallacyLogView: React.FC<FallacyLogViewProps> = ({
                 {entry.definition}
               </p>
               <div className="flex items-center gap-2 text-[8px] text-slate-600">
-                <span className="quiz-accent-surface px-1.5 py-0.5 rounded">
+                <span className="bg-yellow-400/10 text-yellow-400 px-1.5 py-0.5 rounded">
                   Level {entry.levelRange}
                 </span>
                 <span>{formatDate(entry.timestamp)}</span>

@@ -1,4 +1,4 @@
-export type MutationGradientId = 'sunset' | 'ocean' | 'forest' | 'ember' | 'ice' | 'rose' | 'custom';
+export type MutationGradientId = 'sunset' | 'ocean' | 'forest' | 'ember' | 'ice' | 'rose';
 export type QuizAccentId = 'yellow' | 'green' | 'blue' | 'cyan' | 'orange' | 'pink' | 'custom';
 
 export interface MutationGradient {
@@ -37,7 +37,7 @@ export const QUIZ_ACCENTS: QuizAccent[] = [
 ];
 
 export const isMutationGradientId = (value: unknown): value is MutationGradientId =>
-  value === 'custom' || MUTATION_GRADIENTS.some((gradient) => gradient.id === value);
+  MUTATION_GRADIENTS.some((gradient) => gradient.id === value);
 
 export const isQuizAccentId = (value: unknown): value is QuizAccentId =>
   value === 'custom' || QUIZ_ACCENTS.some((accent) => accent.id === value);
@@ -54,23 +54,8 @@ const hexToRgb = (hex: string): string => {
   ].join(' ');
 };
 
-export const getMutationGradient = (
-  id: MutationGradientId,
-  customFrom = '#fde047',
-  customTo = '#ff00ff'
-): MutationGradient => {
-  if (id === 'custom' && isHexColor(customFrom) && isHexColor(customTo)) {
-    return {
-      id: 'custom',
-      labelEn: 'Custom',
-      labelFr: 'Personnalisé',
-      from: customFrom,
-      to: customTo,
-      shadow: `${customTo}61`,
-    };
-  }
-  return MUTATION_GRADIENTS.find((gradient) => gradient.id === id) ?? MUTATION_GRADIENTS[0];
-};
+export const getMutationGradient = (id: MutationGradientId): MutationGradient =>
+  MUTATION_GRADIENTS.find((gradient) => gradient.id === id) ?? MUTATION_GRADIENTS[0];
 
 export const getQuizAccent = (id: QuizAccentId, customColor = '#facc15'): QuizAccent => {
   if (id === 'custom' && isHexColor(customColor)) {

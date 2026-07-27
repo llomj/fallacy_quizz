@@ -537,8 +537,6 @@ interface QuizViewProps {
   onPlayCorrectSound?: () => void;
   onPlayWrongSound?: () => void;
   mutationGradient?: MutationGradientId;
-  customMutationFrom?: string;
-  customMutationTo?: string;
   statsEnabled?: boolean;
 }
 
@@ -561,8 +559,6 @@ export const QuizView: React.FC<QuizViewProps> = ({
   onPlayCorrectSound,
   onPlayWrongSound,
   mutationGradient = 'sunset',
-  customMutationFrom = '#fde047',
-  customMutationTo = '#ff00ff',
   statsEnabled = true,
 }) => {
   const { t, tRaw, language } = useLanguage();
@@ -584,7 +580,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
     () => initialSession?.detailedExplanationLevel ?? 'detail'
   );
   const [justSavedId, setJustSavedId] = useState<number | null>(null);
-  const mutationColors = getMutationGradient(mutationGradient, customMutationFrom, customMutationTo);
+  const mutationColors = getMutationGradient(mutationGradient);
 
   // Snapshot at the start of each fetch (level / randomize / mode change). Mid-quiz prop updates do not re-run the effect.
   const initialCompletedIds = useRef(completedIds);

@@ -17,8 +17,6 @@ interface EvolutionHubProps {
   onStartQuiz: () => void;
   onPlayClickSound?: () => void;
   mutationGradient?: MutationGradientId;
-  customMutationFrom?: string;
-  customMutationTo?: string;
   statsEnabled?: boolean;
 }
 
@@ -27,8 +25,6 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({
   onStartQuiz,
   onPlayClickSound,
   mutationGradient = 'sunset',
-  customMutationFrom = '#fde047',
-  customMutationTo = '#ff00ff',
   statsEnabled = true,
 }) => {
   const { t, language } = useLanguage();
@@ -46,7 +42,7 @@ export const EvolutionHub: React.FC<EvolutionHubProps> = ({
 
   const totalCompleted = stats.completedQuestionIds.length;
   const totalPossible = getQuestionBank(language).length;
-  const mutationColors = getMutationGradient(mutationGradient, customMutationFrom, customMutationTo);
+  const mutationColors = getMutationGradient(mutationGradient);
   const globalPercentage = Math.round((totalCompleted / totalPossible) * 100);
 
   const lastAccuracy = stats.lastSessionScore !== undefined && stats.lastSessionTotal

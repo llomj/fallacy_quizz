@@ -71,7 +71,6 @@ interface SettingsMenuProps {
   onShowIdLog?: () => void;
   onShowLearningLog?: () => void;
   onShowFallacyLog?: () => void;
-  onShowUserGlossary?: () => void;
   onShowLevelSelector?: () => void;
   onToggleLanguage?: () => void;
   onResetApp?: () => void;
@@ -79,10 +78,6 @@ interface SettingsMenuProps {
   onSetPanelOpacity?: (opacity: number) => void;
   mutationGradient?: MutationGradientId;
   onSetMutationGradient?: (gradient: MutationGradientId) => void;
-  customMutationFrom?: string;
-  customMutationTo?: string;
-  onSetCustomMutationFrom?: (color: string) => void;
-  onSetCustomMutationTo?: (color: string) => void;
   quizAccent?: QuizAccentId;
   onSetQuizAccent?: (accent: QuizAccentId) => void;
   customQuizAccent?: string;
@@ -112,7 +107,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   onShowIdLog,
   onShowLearningLog,
   onShowFallacyLog,
-  onShowUserGlossary,
   onShowLevelSelector,
   onToggleLanguage,
   onResetApp,
@@ -120,10 +114,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   onSetPanelOpacity,
   mutationGradient = 'sunset',
   onSetMutationGradient,
-  customMutationFrom = '#fde047',
-  customMutationTo = '#ff00ff',
-  onSetCustomMutationFrom,
-  onSetCustomMutationTo,
   quizAccent = 'yellow',
   onSetQuizAccent,
   customQuizAccent = '#4ade80',
@@ -227,7 +217,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     });
   }
 
-  const hasLogContent = Boolean(onShowIdSearch || onShowIdLog || onShowLearningLog || onShowUserGlossary);
+  const hasLogContent = Boolean(onShowIdSearch || onShowIdLog || onShowLearningLog);
   if (hasLogContent) {
     menuItems.push({
       icon: 'fa-clipboard-list',
@@ -310,7 +300,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     t('settings.idLog'),
     t('app.learningLog'),
     t('settings.searchById'),
-    t('settings.userGlossary'),
   ]);
   const rulesOrder = orderFor([
     t('gameRules.title'),
@@ -321,10 +310,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   const sortedMutationGradients = [...MUTATION_GRADIENTS].sort((a, b) =>
     collator.compare(language === 'fr' ? a.labelFr : a.labelEn, language === 'fr' ? b.labelFr : b.labelEn)
   );
-  const mutationGradientOrder = orderFor([
-    ...MUTATION_GRADIENTS.map((gradient) => language === 'fr' ? gradient.labelFr : gradient.labelEn),
-    t('settings.customGradient'),
-  ]);
   const sortedQuizAccents = [...QUIZ_ACCENTS].sort((a, b) =>
     collator.compare(language === 'fr' ? a.labelFr : a.labelEn, language === 'fr' ? b.labelFr : b.labelEn)
   );
@@ -371,7 +356,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                 type="button"
                 aria-pressed={mutationGradient === gradient.id}
                 onClick={withClickSound(() => onSetMutationGradient?.(gradient.id))}
-                style={{ order: mutationGradientOrder.get(language === 'fr' ? gradient.labelFr : gradient.labelEn) }}
                 className={`rounded-xl border p-2 text-left transition-all ${
                   mutationGradient === gradient.id
                     ? 'border-white/80 bg-white/10'
@@ -387,54 +371,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                 </span>
               </button>
             ))}
-            <div
-              style={{ order: mutationGradientOrder.get(t('settings.customGradient')) }}
-              className={`col-span-2 rounded-xl border p-2.5 transition-all ${
-                mutationGradient === 'custom'
-                  ? 'border-white/80 bg-white/10'
-                  : 'border-white/10 hover:border-white/30 hover:bg-white/5'
-              }`}
-            >
-              <div className="flex items-center gap-3">
-                <span
-                  className="h-9 flex-1 rounded-lg border border-white/20"
-                  style={{
-                    backgroundImage: `linear-gradient(90deg, ${customMutationFrom}, ${customMutationTo})`,
-                  }}
-                />
-                <span className="text-[11px] font-medium text-slate-200">{t('settings.customGradient')}</span>
-              </div>
-              <div className="mt-2 grid grid-cols-2 gap-2">
-                <label className="text-[10px] text-slate-400">
-                  {t('settings.gradientStart')}
-                  <input
-                    type="color"
-                    aria-label={t('settings.gradientStart')}
-                    value={customMutationFrom}
-                    onChange={(event) => onSetCustomMutationFrom?.(event.target.value)}
-                    className="mt-1 h-8 w-full cursor-pointer rounded-lg border border-white/10 bg-transparent"
-                  />
-                </label>
-                <label className="text-[10px] text-slate-400">
-                  {t('settings.gradientEnd')}
-                  <input
-                    type="color"
-                    aria-label={t('settings.gradientEnd')}
-                    value={customMutationTo}
-                    onChange={(event) => onSetCustomMutationTo?.(event.target.value)}
-                    className="mt-1 h-8 w-full cursor-pointer rounded-lg border border-white/10 bg-transparent"
-                  />
-                </label>
-              </div>
-              <div
-                className="mt-2 h-3 rounded-full"
-                style={{
-                  background:
-                    'linear-gradient(90deg, #ff0000, #ffff00, #00ff00, #00ffff, #0000ff, #ff00ff, #ff0000)',
-                }}
-                aria-hidden="true"
-              />
-            </div>
           </div>
         </div>
       </>
@@ -725,16 +661,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               >
                 <i className="fas fa-book-open text-sm w-5 flex-shrink-0"></i>
                 <span className="text-sm font-medium">{t('app.learningLog')}</span>
-              </button>
-            )}
-            {onShowUserGlossary && (
-              <button
-                onClick={withClickSound(() => { onShowUserGlossary(); onClose(); })}
-                style={{ order: logOrder.get(t('settings.userGlossary')) }}
-                className="w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left text-slate-300 hover:bg-white/10 hover:text-white"
-              >
-                <i className="fas fa-book-atlas text-sm w-5 flex-shrink-0"></i>
-                <span className="text-sm font-medium">{t('settings.userGlossary')}</span>
               </button>
             )}
             {onShowIdSearch && (
