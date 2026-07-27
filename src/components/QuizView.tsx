@@ -537,6 +537,8 @@ interface QuizViewProps {
   onPlayCorrectSound?: () => void;
   onPlayWrongSound?: () => void;
   mutationGradient?: MutationGradientId;
+  customMutationFrom?: string;
+  customMutationTo?: string;
   statsEnabled?: boolean;
 }
 
@@ -559,6 +561,8 @@ export const QuizView: React.FC<QuizViewProps> = ({
   onPlayCorrectSound,
   onPlayWrongSound,
   mutationGradient = 'sunset',
+  customMutationFrom = '#fde047',
+  customMutationTo = '#ff00ff',
   statsEnabled = true,
 }) => {
   const { t, tRaw, language } = useLanguage();
@@ -580,7 +584,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
     () => initialSession?.detailedExplanationLevel ?? 'detail'
   );
   const [justSavedId, setJustSavedId] = useState<number | null>(null);
-  const mutationColors = getMutationGradient(mutationGradient);
+  const mutationColors = getMutationGradient(mutationGradient, customMutationFrom, customMutationTo);
 
   // Snapshot at the start of each fetch (level / randomize / mode change). Mid-quiz prop updates do not re-run the effect.
   const initialCompletedIds = useRef(completedIds);
@@ -965,7 +969,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 <CodonShortExplanation text={displayShortExplanation} />
                 {showDetailedExplanation && hasDetailedExplanation && (
                   <div className="codon-accent-divider animate-in slide-in-from-top-4 duration-300 pt-4 border-t space-y-4">
-                    <div className="codon-accent-detail space-y-2 rounded-xl border p-4">
+                    <div className="codon-accent-detail max-h-[55vh] space-y-2 overflow-y-auto rounded-xl border p-4 pr-3">
                       <div className="flex flex-wrap items-center gap-2">
                         <h5 className="quiz-accent-text text-[10px] font-black uppercase tracking-[0.2em] flex items-center gap-2">
                           <i className="fas fa-graduation-cap text-xs"></i>
@@ -986,7 +990,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                       </div>
                       <ExplanationWithStepNumbers
                         className="text-sm bg-transparent"
-                        bodyClassName="quiz-accent-text"
+                        bodyClassName="text-slate-200"
                         stepClassName="quiz-accent-text font-semibold"
                         text={normalizeExplanationWhitespace(displayDetailedExplanation)}
                       />

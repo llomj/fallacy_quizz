@@ -56,6 +56,35 @@ body {
   color: var(--quiz-accent);
 }
 
+.quiz-accent-border {
+  border-color: rgb(var(--quiz-accent-rgb) / 0.55);
+}
+
+.quiz-accent-border-left {
+  border-left-color: var(--quiz-accent);
+}
+
+.quiz-accent-surface {
+  color: var(--quiz-accent);
+  background-color: rgb(var(--quiz-accent-rgb) / 0.1);
+  border-color: rgb(var(--quiz-accent-rgb) / 0.35);
+}
+
+.quiz-accent-button {
+  color: #0f172a;
+  background-color: var(--quiz-accent);
+  box-shadow: 0 10px 24px rgb(var(--quiz-accent-rgb) / 0.25);
+}
+
+.quiz-accent-button:hover {
+  filter: brightness(1.08);
+}
+
+.quiz-accent-focus:focus {
+  border-color: rgb(var(--quiz-accent-rgb) / 0.75);
+  box-shadow: 0 0 0 2px rgb(var(--quiz-accent-rgb) / 0.22);
+}
+
 .quiz-accent-option {
   border-color: rgb(var(--quiz-accent-rgb) / 0.3);
 }

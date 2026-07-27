@@ -132,7 +132,7 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
     <div className="space-y-6 animate-in slide-in-from-right duration-500 pt-12">
       <div className="flex items-center justify-between mb-8">
         <h2 className="text-2xl font-black text-white flex items-center gap-3">
-          <i className="fas fa-book-open text-yellow-300"></i> {t('history.learningLog')}
+          <i className="fas fa-book-open quiz-accent-text"></i> {t('history.learningLog')}
         </h2>
         <button
           onClick={() => { onPlayClickSound?.(); onBack(); }}
@@ -189,7 +189,7 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
             return (
               <div
                 key={entryKey}
-                className={`glass rounded-2xl p-5 border-l-4 transition-all hover:translate-x-1 cursor-pointer ${attempt.isCorrect ? 'border-l-yellow-400' : 'border-l-rose-500'
+                className={`glass rounded-2xl p-5 border-l-4 transition-all hover:translate-x-1 cursor-pointer ${attempt.isCorrect ? 'quiz-accent-border-left' : 'border-l-rose-500'
                   }`}
                 onClick={() => toggleCodonExplanation(entryKey)}
                 onKeyDown={(e) => {
@@ -204,11 +204,11 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
               >
                 <div className="flex justify-between items-start mb-3">
                   <div className="flex flex-wrap items-center gap-2">
-                    <span className={`text-[10px] font-black px-2 py-0.5 rounded uppercase tracking-widest ${attempt.isCorrect ? 'bg-yellow-400/10 text-yellow-300' : 'bg-rose-500/10 text-rose-500'
+                    <span className={`text-[10px] font-black px-2 py-0.5 rounded uppercase tracking-widest ${attempt.isCorrect ? 'quiz-accent-surface' : 'bg-rose-500/10 text-rose-500'
                       }`}>
                       {t('history.level')} {attempt.level} • {attempt.isCorrect ? t('history.correct') : t('history.incorrect')}
                     </span>
-                    <span className="px-3 py-1 bg-yellow-400/10 text-yellow-300 rounded-lg text-xs font-bold flex items-center gap-2 group min-w-[4.25rem]">
+                    <span className="quiz-accent-surface px-3 py-1 rounded-lg text-xs font-bold flex items-center gap-2 group min-w-[4.25rem]">
                       ID: <span className="font-mono tabular-nums">{attempt.id}</span>
                       <i className={`fas fa-chevron-${isExpanded ? 'up' : 'down'} text-[8px] transition-transform group-hover:scale-110`}></i>
                     </span>
@@ -231,8 +231,8 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                           });
                         }}
                         className={`p-1.5 rounded-lg transition-colors ${savedIdLogIds.includes(attempt.id)
-                          ? 'bg-[#FF00FF]/20 text-[#FF00FF]'
-                          : 'bg-white/5 text-slate-400 hover:bg-white/10 hover:text-yellow-300'
+                          ? 'quiz-accent-surface'
+                          : 'bg-white/5 text-slate-400 hover:bg-white/10 hover:text-white'
                           }`}
                         title={savedIdLogIds.includes(attempt.id) ? t('idSearch.saved') : t('idSearch.saveToLog')}
                         aria-label={savedIdLogIds.includes(attempt.id) ? t('idSearch.saved') : t('idSearch.saveToLog')}
@@ -246,7 +246,7 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                 <div className="mb-3">
                   <div className="max-h-[45vh] overflow-y-auto overflow-x-hidden bg-slate-800 rounded-lg">
                     <div className="px-6 py-5">
-                      <h3 className="text-base md:text-lg font-semibold leading-relaxed text-yellow-400 whitespace-pre-wrap break-words">
+                      <h3 className="quiz-accent-text text-base md:text-lg font-semibold leading-relaxed whitespace-pre-wrap break-words">
                         {displayQuestionText}
                       </h3>
                     </div>
@@ -254,13 +254,13 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                 </div>
 
                 <div className="space-y-2 mb-4">
-                  <div className={`text-xs p-2 rounded-lg flex items-center gap-2 ${attempt.isCorrect ? 'bg-yellow-400/10 text-yellow-300' : 'bg-rose-500/10 text-rose-400'
+                  <div className={`text-xs p-2 rounded-lg flex items-center gap-2 ${attempt.isCorrect ? 'quiz-accent-surface' : 'bg-rose-500/10 text-rose-400'
                     }`}>
                     <i className={`fas ${attempt.isCorrect ? 'fa-check' : 'fa-times'}`}></i>
                     <span>{t('quiz.yourAnswer')}: {displaySelectedOption}</span>
                   </div>
                   {!attempt.isCorrect && (
-                    <div className="text-xs p-2 rounded-lg bg-yellow-400/10 text-yellow-300 flex items-center gap-2">
+                    <div className="quiz-accent-surface text-xs p-2 rounded-lg flex items-center gap-2">
                       <i className="fas fa-check"></i>
                       <span>{t('quiz.correctAnswer')}: {displayCorrectAnswer}</span>
                     </div>
@@ -304,7 +304,7 @@ export const HistoryLog: React.FC<HistoryLogProps> = ({ history, onBack, onSaveT
                           </div>
                           <ExplanationWithStepNumbers
                             className="text-sm bg-transparent"
-                            bodyClassName="quiz-accent-text"
+                            bodyClassName="text-slate-200"
                             stepClassName="quiz-accent-text font-semibold"
                             text={normalizeExplanationWhitespace(
                               getTranslatedDetailedExplanation(

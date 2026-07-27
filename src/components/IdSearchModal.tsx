@@ -275,7 +275,7 @@ export const IdSearchModal: React.FC<IdSearchModalProps> = ({ onClose, onSaveToL
                           </label>
                           <ExplanationWithStepNumbers
                             className="text-sm bg-transparent"
-                            bodyClassName="quiz-accent-text"
+                            bodyClassName="text-slate-200"
                             stepClassName="quiz-accent-text font-semibold"
                             text={normalizeExplanationWhitespace(
                               getTranslatedDetailedExplanation(

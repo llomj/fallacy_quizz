@@ -206,6 +206,18 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
   const [exampleTier, setExampleTier] = useState<'beginner' | 'intermediate' | 'expert'>('intermediate');
   
   const glossary = language === 'fr' ? GLOSSARY_TERMS_FR : GLOSSARY_TERMS_EN;
+  const canonicalTermFor = (item: GlossaryTerm) => {
+    const index = glossary.indexOf(item);
+    return GLOSSARY_TERMS_EN[index]?.term ?? item.term;
+  };
+
+  const isTermSaved = (item: GlossaryTerm) => {
+    const index = glossary.indexOf(item);
+    const translatedTerm = GLOSSARY_TERMS_FR[index]?.term;
+    return savedFallacyTerms.includes(item.term)
+      || savedFallacyTerms.includes(canonicalTermFor(item))
+      || (translatedTerm ? savedFallacyTerms.includes(translatedTerm) : false);
+  };
   
   const filteredGlossary = useMemo(() => {
     return glossary
@@ -229,12 +241,12 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
   const itemsByLevel = useMemo(() => {
     const map: Record<number, GlossaryTerm[]> = {};
     for (const level of levels) {
-      map[level] = glossary
+      map[level] = filteredGlossary
         .filter((item) => getLevelsFromRange(item.levelRange).includes(level))
         .sort((a, b) => a.term.localeCompare(b.term));
     }
     return map;
-  }, [glossary, levels]);
+  }, [filteredGlossary, levels]);
 
   const renderAsParagraphs = (text: string, className: string) => {
     const paragraphs = text.split(/\n|\\n/).map((s) => s.trim()).filter(Boolean);
@@ -257,7 +269,7 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
             className="fixed inset-0 bg-slate-950/85 backdrop-blur-md transition-opacity" 
             onClick={() => setSelectedTerm(null)}
           ></div>
-          <div className="glass w-full max-w-2xl my-4 sm:my-8 rounded-3xl p-6 sm:p-10 shadow-2xl relative z-10 border-yellow-400/40 animate-in fade-in zoom-in duration-300 overflow-x-hidden min-h-0">
+          <div className="glass quiz-accent-border w-full max-w-2xl my-4 sm:my-8 rounded-3xl p-6 sm:p-10 shadow-2xl relative z-10 animate-in fade-in zoom-in duration-300 overflow-x-hidden min-h-0">
             <button 
               onClick={() => { onPlayClickSound?.(); setSelectedTerm(null); }}
               className="absolute top-4 right-4 sm:top-6 sm:right-6 w-10 h-10 flex items-center justify-center rounded-xl bg-slate-800 text-slate-400 hover:text-white transition-colors border border-white/10"
@@ -266,23 +278,42 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
             </button>
             <div className="space-y-5 sm:space-y-6">
               <div className="space-y-2 pt-2">
-                <span className="inline-block text-[10px] font-black text-yellow-300 uppercase tracking-[0.2em] px-2.5 py-0.5 bg-yellow-400/10 rounded-full border border-yellow-400/40">
+                <span className="quiz-accent-surface inline-block text-[10px] font-black uppercase tracking-[0.2em] px-2.5 py-0.5 rounded-full border">
                   Level {selectedTerm.levelRange}
                 </span>
                 <h3 className="text-lg sm:text-xl font-black text-white">{selectedTerm.term}</h3>
               </div>
               <div className="space-y-2">
                 <h4 className="text-[10px] sm:text-xs font-black text-slate-500 uppercase tracking-widest flex items-center gap-2">
-                  <i className="fas fa-book-open text-yellow-300"></i> {t('glossary.inDepthDescription')}
+                  <i className="fas fa-book-open quiz-accent-text"></i> {t('glossary.inDepthDescription')}
                 </h4>
                 <div className="text-slate-300 leading-relaxed font-medium text-xs sm:text-sm">
                   {renderAsParagraphs(selectedTerm.detailedDescription || selectedTerm.definition, '')}
                 </div>
               </div>
               <div className="pt-4 pb-2">
+                {onSaveToFallacyLog && (
+                  <button
+                    type="button"
+                    onClick={() => {
+                      onPlayClickSound?.();
+                      if (!isTermSaved(selectedTerm)) {
+                        onSaveToFallacyLog({
+                          term: canonicalTermFor(selectedTerm),
+                          definition: selectedTerm.definition,
+                          levelRange: selectedTerm.levelRange,
+                        });
+                      }
+                    }}
+                    className="quiz-accent-surface mb-3 w-full rounded-2xl border py-3 font-bold transition-all"
+                  >
+                    <i className={`fas fa-${isTermSaved(selectedTerm) ? 'check' : 'bookmark'} mr-2`}></i>
+                    {isTermSaved(selectedTerm) ? t('glossary.saved') : t('glossary.saveToUserGlossary')}
+                  </button>
+                )}
                 <button 
                   onClick={() => { onPlayClickSound?.(); setSelectedTerm(null); }}
-                  className="w-full py-4 bg-yellow-400 hover:bg-yellow-500 text-slate-900 rounded-2xl font-black transition-all shadow-xl shadow-yellow-400/30 active:scale-95"
+                  className="quiz-accent-button w-full py-4 rounded-2xl font-black transition-all active:scale-95"
                 >
                   {t('operations.gotIt')}
                 </button>
@@ -294,7 +325,7 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
 
       <div className="flex items-center justify-between mb-6">
         <h2 className="text-lg sm:text-xl font-black text-white flex items-center gap-2">
-          <i className="fas fa-circle-info text-yellow-300"></i> {t('glossary.title')}
+          <i className="fas fa-circle-info quiz-accent-text"></i> {t('glossary.title')}
         </h2>
         <button 
           onClick={() => { onPlayClickSound?.(); onBack(); }}
@@ -313,7 +344,7 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
           placeholder={formatTranslation(t('glossary.searchPlaceholder'), { count: glossary.length })}
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-          className="w-full pl-10 pr-3 py-3 text-sm bg-slate-900 border border-white/5 rounded-2xl text-white placeholder:text-slate-600 focus:outline-none focus:border-yellow-400/60 transition-colors"
+          className="quiz-accent-focus w-full pl-10 pr-3 py-3 text-sm bg-slate-900 border border-white/5 rounded-2xl text-white placeholder:text-slate-600 focus:outline-none transition-colors"
         />
         {search !== '' && (
           <p className="mt-2 text-xs text-slate-500">
@@ -329,42 +360,41 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
           return (
             <div key={level} className="space-y-4">
               <div className="flex items-center gap-3">
-                <h3 className="text-[10px] font-black text-yellow-300 uppercase tracking-[0.2em]">
+                <h3 className="quiz-accent-text text-[10px] font-black uppercase tracking-[0.2em]">
                   {formatTranslation(t('glossary.levelSection'), { level })}
                 </h3>
                 <div className="h-[1px] flex-1 bg-white/5"></div>
               </div>
               <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
                 {items.map(item => {
-                  const isSaved = savedFallacyTerms.includes(item.term);
+                  const isSaved = isTermSaved(item);
                   return (
                     <div 
                       key={item.term} 
                       onClick={() => { onPlayClickSound?.(); setSelectedTerm(item); }}
-                      className="glass p-4 rounded-xl space-y-1.5 hover:border-yellow-400/60 hover:bg-slate-800/80 transition-all cursor-pointer group active:scale-[0.98] relative"
+                      className="glass quiz-accent-border p-4 rounded-xl space-y-1.5 hover:bg-slate-800/80 transition-all cursor-pointer group active:scale-[0.98] relative"
                     >
                       <button
                         onClick={(e) => {
                           e.stopPropagation();
                           onPlayClickSound?.();
                           if (!isSaved && onSaveToFallacyLog) {
-                            console.log('[GlossaryView] Saving fallacy:', { term: item.term, definition: item.definition, levelRange: item.levelRange });
-                            onSaveToFallacyLog({ term: item.term, definition: item.definition, levelRange: item.levelRange });
+                            onSaveToFallacyLog({ term: canonicalTermFor(item), definition: item.definition, levelRange: item.levelRange });
                           }
                         }}
                         className={`absolute top-2 right-2 w-6 h-6 rounded-full flex items-center justify-center transition-all ${
                           isSaved 
-                            ? 'bg-yellow-400 text-slate-900' 
-                            : 'bg-slate-800 text-slate-500 hover:text-yellow-300 border border-white/10'
+                            ? 'quiz-accent-button text-slate-900'
+                            : 'bg-slate-800 text-slate-500 hover:text-white border border-white/10'
                         }`}
-                        title={isSaved ? 'Saved to fallacy log' : 'Save to fallacy log'}
+                        title={isSaved ? t('glossary.saved') : t('glossary.saveToUserGlossary')}
                       >
-                        <i className={`fas fa-${isSaved ? 'bookmark' : ' bookmark'}`}></i>
+                        <i className="fas fa-bookmark"></i>
                       </button>
-                      <h4 className="text-sm font-bold text-yellow-300 group-hover:text-yellow-200 transition-colors pr-8">
+                      <h4 className="quiz-accent-text text-sm font-bold transition-opacity group-hover:opacity-80 pr-8">
                         {item.term}
                       </h4>
-                      <p className="text-[10px] leading-relaxed line-clamp-2" style={{ color: '#FF00FF' }}>
+                      <p className="text-[10px] leading-relaxed line-clamp-2 text-slate-400">
                         {item.definition}
                       </p>
                     </div>

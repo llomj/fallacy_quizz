@@ -136,9 +136,9 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
 
   return (
     <div className="relative min-h-[600px] animate-in slide-in-from-left duration-500 pb-12 space-y-6">
-      <div className="flex items-center justify-between mb-8">
+      <div className="sticky top-0 z-20 -mx-2 flex items-center justify-between bg-slate-950/95 px-2 pb-4 pt-[max(0.5rem,env(safe-area-inset-top))] backdrop-blur mb-4">
           <h2 className="text-2xl font-black text-white flex items-center gap-3">
-            <i className="fas fa-list text-yellow-300"></i> {t('idSearch.idLog')}
+            <i className="fas fa-list quiz-accent-text"></i> {t('idSearch.idLog')}
           </h2>
           <button
             onClick={() => { onPlayClickSound?.(); onClose(); }}
@@ -156,7 +156,7 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
             value={idFilter}
             onChange={(e) => setIdFilter(e.target.value.replace(/\D/g, ''))}
             placeholder={formatTranslation(t('idSearch.enterId'), { max: MAX_QUESTION_ID })}
-            className="w-full px-4 py-2 bg-white/5 border border-white/10 rounded-xl text-white placeholder-slate-500 focus:outline-none focus:border-yellow-400 focus:ring-2 focus:ring-yellow-400/30 text-sm"
+            className="quiz-accent-focus w-full px-4 py-2 bg-white/5 border border-white/10 rounded-xl text-white placeholder-slate-500 focus:outline-none text-sm"
             min={1}
             max={MAX_QUESTION_ID}
           />
@@ -196,7 +196,7 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
               return (
                 <div
                   key={entryKey}
-                  className="glass rounded-2xl p-5 border-l-4 border-l-yellow-400 transition-all hover:translate-x-1 cursor-pointer"
+                  className="glass quiz-accent-border-left rounded-2xl p-5 border-l-4 transition-all hover:translate-x-1 cursor-pointer"
                   onClick={() => toggleCodonExplanation(entryKey)}
                   onKeyDown={(e) => {
                     if (e.key === 'Enter' || e.key === ' ') {
@@ -210,7 +210,7 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
                 >
                   <div className="flex justify-between items-start mb-3">
                     <div className="flex items-center gap-3">
-                      <span className="px-3 py-1 bg-yellow-400/10 text-yellow-300 rounded-lg text-xs font-bold flex items-center gap-2 group min-w-[4.25rem]">
+                      <span className="quiz-accent-surface px-3 py-1 rounded-lg text-xs font-bold flex items-center gap-2 group min-w-[4.25rem]">
                         ID: <span className="font-mono tabular-nums">{entry.id}</span>
                         <i className={`fas fa-chevron-${isExpanded ? 'up' : 'down'} text-[8px] transition-transform group-hover:scale-110`}></i>
                       </span>
@@ -223,7 +223,7 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
                   <div className="mb-4">
                     <div className="max-h-[45vh] overflow-y-auto overflow-x-hidden bg-slate-800 rounded-lg">
                       <div className="px-6 py-5">
-                        <h3 className="text-base md:text-lg font-semibold leading-relaxed text-yellow-400 whitespace-pre-wrap break-words">
+                        <h3 className="quiz-accent-text text-base md:text-lg font-semibold leading-relaxed whitespace-pre-wrap break-words">
                           {displayQuestion}
                         </h3>
                       </div>
@@ -231,7 +231,7 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
                   </div>
 
                   <div className="mb-4">
-                    <div className="text-xs p-2 rounded-lg bg-yellow-400/10 text-yellow-300 flex items-center gap-2">
+                    <div className="quiz-accent-surface text-xs p-2 rounded-lg flex items-center gap-2">
                       <i className="fas fa-check-circle"></i>
                       <span>{t('quiz.correctAnswer')}: {displayCorrectAnswer}</span>
                     </div>
@@ -270,7 +270,7 @@ export const IdLogView: React.FC<IdLogViewProps> = ({ entries, onClose, onPlayCl
                             </div>
                             <ExplanationWithStepNumbers
                               className="text-sm bg-transparent"
-                              bodyClassName="quiz-accent-text"
+                              bodyClassName="text-slate-200"
                               stepClassName="quiz-accent-text font-semibold"
                               text={normalizeExplanationWhitespace(
                                 getTranslatedDetailedExplanation(

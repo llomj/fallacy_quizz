@@ -26,6 +26,8 @@
 
 ## 2. Consent & Modification Rules
 - **Explicit Consent**: No changes shall be made to the source code without explicit user approval.
+- **Protected educational UI and content**: A request to change one visual property (for example, a number color) does not authorize rewriting, generating, removing, restructuring, or relabeling in-depth explanations, Codon explanations, glossary descriptions, or their surrounding panels. Preserve their text, hierarchy, controls, and layout unless the user explicitly names the additional change. If a broader change appears necessary, stop and ask first.
+- **No generic replacement copy**: Never replace authored educational content with generated generic templates or repeated “plain meaning / how to spot it” filler. Existing question-specific English and French explanations are protected work.
 - **Layout Preservation**: Do not deviate from the existing visual identity.
 - **Incremental Updates**: Keep updates as minimal as possible while satisfying requirements.
 - **Strict Scope Control**: When the user asks for a specific change, implement only that request. Do not add extra UI elements, display changes, or additional features unless explicitly requested.

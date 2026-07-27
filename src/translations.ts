@@ -135,6 +135,8 @@ export const translations = {
       exampleLevelExpert: "Expert",
       noResults: "No terms found matching \"{search}\"",
       showingCount: "{count} of {total} fallacies",
+      saveToUserGlossary: "Save to User Glossary",
+      saved: "Saved",
     },
     
     // Operations View
@@ -175,6 +177,7 @@ export const translations = {
       searchById: "Search by ID",
       count: "Count",
       idLog: "ID Log",
+      userGlossary: "User Glossary",
       selectLevel: "Select Level",
       switchToLevelMode: "Switch to Level Mode",
       switchToRandomMode: "Switch to Random Mode",
@@ -198,6 +201,9 @@ export const translations = {
       customise: "Customise",
       sounds: "Sounds",
       mutationButtonColors: "Mutation Button Colors",
+      customGradient: "Custom gradient",
+      gradientStart: "Start color",
+      gradientEnd: "End color",
       quizAccentColor: "Quiz Accent Color",
       customColor: "Custom color",
       customiseSettingsPanel: "Customize Settings",
@@ -442,6 +448,8 @@ export const translations = {
       exampleLevelExpert: "Expert",
       noResults: "Aucun terme trouvé correspondant à \"{search}\"",
       showingCount: "{count} sur {total} sophismes",
+      saveToUserGlossary: "Enregistrer dans le glossaire utilisateur",
+      saved: "Enregistré",
     },
     
     // Operations View
@@ -482,6 +490,7 @@ export const translations = {
       searchById: "Rechercher par ID",
       count: "Compteur",
       idLog: "Journal ID",
+      userGlossary: "Glossaire utilisateur",
       selectLevel: "Sélectionner le Niveau",
       switchToLevelMode: "Passer en Mode Niveau",
       switchToRandomMode: "Passer en Mode Aléatoire",
@@ -505,6 +514,9 @@ export const translations = {
       customise: "Personnaliser",
       sounds: "Sons",
       mutationButtonColors: "Couleurs du bouton Mutation",
+      customGradient: "Dégradé personnalisé",
+      gradientStart: "Couleur de départ",
+      gradientEnd: "Couleur de fin",
       quizAccentColor: "Couleur d'accent du quiz",
       customColor: "Couleur personnalisée",
       customiseSettingsPanel: "Personnaliser les réglages",
