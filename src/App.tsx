@@ -134,6 +134,8 @@ interface AppPreferences {
   lightMode: boolean;
   panelOpacity: number;
   mutationGradient: MutationGradientId;
+  customMutationFrom: string;
+  customMutationTo: string;
   quizAccent: QuizAccentId;
   customQuizAccent: string;
   statsEnabled: boolean;
@@ -145,6 +147,8 @@ const DEFAULT_PREFS: AppPreferences = {
   lightMode: false,
   panelOpacity: 100,
   mutationGradient: 'sunset',
+  customMutationFrom: '#fde047',
+  customMutationTo: '#ff00ff',
   quizAccent: 'yellow',
   customQuizAccent: '#4ade80',
   statsEnabled: true,
@@ -165,6 +169,8 @@ const App: React.FC = () => {
           lightMode: p.lightMode === true,
           panelOpacity: typeof p.panelOpacity === 'number' ? p.panelOpacity : 100,
           mutationGradient: isMutationGradientId(p.mutationGradient) ? p.mutationGradient : 'sunset',
+          customMutationFrom: isHexColor(p.customMutationFrom) ? p.customMutationFrom : '#fde047',
+          customMutationTo: isHexColor(p.customMutationTo) ? p.customMutationTo : '#ff00ff',
           quizAccent: isQuizAccentId(p.quizAccent) ? p.quizAccent : 'yellow',
           customQuizAccent: isHexColor(p.customQuizAccent) ? p.customQuizAccent : '#4ade80',
           statsEnabled: p.statsEnabled !== false,
@@ -204,6 +210,7 @@ const App: React.FC = () => {
   const [idSearchInitialId, setIdSearchInitialId] = useState<number | null>(null);
   const [showIdLog, setShowIdLog] = useState(false);
   const [showFallacyLog, setShowFallacyLog] = useState(false);
+  const [showUserGlossary, setShowUserGlossary] = useState(false);
   const [showLevelSelector, setShowLevelSelector] = useState(false);
   const [showArgumentation, setShowArgumentation] = useState(false);
   const [showSettingsMenu, setShowSettingsMenu] = useState(false);
@@ -536,6 +543,7 @@ const App: React.FC = () => {
                   onShowIdLog={() => setShowIdLog(true)}
                   onShowLearningLog={() => setView('log')}
                   onShowFallacyLog={() => setShowFallacyLog(true)}
+                  onShowUserGlossary={() => setShowUserGlossary(true)}
                   onShowLevelSelector={() => setShowLevelSelector(true)}
                   onToggleLanguage={toggleLanguage}
                   onResetApp={() => setShowResetModal(true)}
@@ -543,6 +551,14 @@ const App: React.FC = () => {
                   onSetPanelOpacity={(opacity) => setPrefs(p => ({ ...p, panelOpacity: opacity }))}
                   mutationGradient={prefs.mutationGradient}
                   onSetMutationGradient={(mutationGradient) => setPrefs(p => ({ ...p, mutationGradient }))}
+                  customMutationFrom={prefs.customMutationFrom}
+                  customMutationTo={prefs.customMutationTo}
+                  onSetCustomMutationFrom={(customMutationFrom) =>
+                    setPrefs(p => ({ ...p, mutationGradient: 'custom', customMutationFrom }))
+                  }
+                  onSetCustomMutationTo={(customMutationTo) =>
+                    setPrefs(p => ({ ...p, mutationGradient: 'custom', customMutationTo }))
+                  }
                   quizAccent={prefs.quizAccent}
                   onSetQuizAccent={(quizAccent) => setPrefs(p => ({ ...p, quizAccent }))}
                   customQuizAccent={prefs.customQuizAccent}
@@ -580,6 +596,8 @@ const App: React.FC = () => {
               onPlayCorrectSound={playCorrectAnswerSound}
               onPlayWrongSound={playWrongAnswerSound}
               mutationGradient={prefs.mutationGradient}
+              customMutationFrom={prefs.customMutationFrom}
+              customMutationTo={prefs.customMutationTo}
               statsEnabled={prefs.statsEnabled}
             />
           </Suspense>
@@ -685,6 +703,8 @@ const App: React.FC = () => {
             onStartQuiz={handleStartEvolution}
             onPlayClickSound={playClickSound}
             mutationGradient={prefs.mutationGradient}
+            customMutationFrom={prefs.customMutationFrom}
+            customMutationTo={prefs.customMutationTo}
             statsEnabled={prefs.statsEnabled}
           />
         )}
@@ -692,7 +712,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v79</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v80</p>
       </footer>
 
       {/* Operations View Modal */}
@@ -933,7 +953,7 @@ const App: React.FC = () => {
       {/* ID Log View — full-screen overlay, same width as menu (see ps.md) */}
       {showIdLog && (
         <div className="fixed inset-0 z-[100] w-full min-h-screen bg-slate-950 overflow-y-auto">
-          <div className="container mx-auto px-4 py-8 max-w-4xl">
+          <div className="container mx-auto px-4 pb-8 max-w-4xl">
             <Suspense fallback={<ViewLoading />}>
               <IdLogView
                 entries={stats.idLog}
@@ -968,6 +988,25 @@ const App: React.FC = () => {
             <FallacyLogView
               entries={stats.fallacyLog}
               onClose={() => setShowFallacyLog(false)}
+              onPlayClickSound={playClickSound}
+              onRemoveEntry={(term) => {
+                setStats(prev => ({
+                  ...prev,
+                  fallacyLog: prev.fallacyLog.filter(e => e.term !== term)
+                }));
+              }}
+            />
+          </div>
+        </div>
+      )}
+
+      {showUserGlossary && (
+        <div className="fixed inset-0 z-[100] w-full min-h-screen bg-slate-950 overflow-y-auto">
+          <div className="container mx-auto px-4 pt-[max(1rem,env(safe-area-inset-top))] pb-8 max-w-4xl">
+            <FallacyLogView
+              entries={stats.fallacyLog}
+              title={t('settings.userGlossary')}
+              onClose={() => setShowUserGlossary(false)}
               onPlayClickSound={playClickSound}
               onRemoveEntry={(term) => {
                 setStats(prev => ({
