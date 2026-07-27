@@ -969,7 +969,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                 <CodonShortExplanation text={displayShortExplanation} />
                 {showDetailedExplanation && hasDetailedExplanation && (
                   <div className="codon-accent-divider animate-in slide-in-from-top-4 duration-300 pt-4 border-t space-y-4">
-                    <div className="codon-accent-detail max-h-[55vh] space-y-2 overflow-y-auto rounded-xl border p-4 pr-3">
+                    <div className="codon-accent-detail space-y-2 rounded-xl border p-4">
                       <div className="flex flex-wrap items-center gap-2">
                         <h5 className="quiz-accent-text text-[10px] font-black uppercase tracking-[0.2em] flex items-center gap-2">
                           <i className="fas fa-graduation-cap text-xs"></i>
@@ -990,7 +990,7 @@ export const QuizView: React.FC<QuizViewProps> = ({
                       </div>
                       <ExplanationWithStepNumbers
                         className="text-sm bg-transparent"
-                        bodyClassName="text-slate-200"
+                        bodyClassName="quiz-accent-text"
                         stepClassName="quiz-accent-text font-semibold"
                         text={normalizeExplanationWhitespace(displayDetailedExplanation)}
                       />

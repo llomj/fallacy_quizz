@@ -13,19 +13,9 @@ import React from 'react';
  */
 const STEP_LINE = /^(\d{1,3})([.)])\s+(.*)$/;
 const BULLET_LINE = /^([-•→])\s+(.*)$/;
-const MARKDOWN_HEADER_LINE = /^\*\*([^*]+)\*\*$/;
-const LEGACY_DEPTH_TITLE = /^(?:In-depth\s*\([^)]*\)|Approfondi\s*\([^)]*\))\s*[—-]\s*(.+)$/i;
 
 /** Header lines that get yellow accent highlight in the Detail panel. */
 const HEADER_LINE = /^(Description\s*:|Description\s*：|Example\s*\(|Exemple\s*\(|How it works|Comment ça fonctionne|Why it matters|Pourquoi c'est important|One-line version|En une phrase|The uncomfortable implication|L'implication inconfortable|Key concept inside it|Concept clé|So:|Donc\s*:|Why this is a fallacy|Pourquoi c'est une erreur|The formula|La formule|Explains why:|Explique pourquoi\s*:)(.*)$/;
-
-const renderInlineEmphasis = (text: string) =>
-  text.split(/(\*\*[^*]+\*\*)/g).filter(Boolean).map((part, index) => {
-    const match = part.match(/^\*\*([^*]+)\*\*$/);
-    return match
-      ? <strong key={index} className="font-semibold text-slate-100">{match[1]}</strong>
-      : <React.Fragment key={index}>{part}</React.Fragment>;
-  });
 
 export type ExplanationWithStepNumbersProps = {
   text: string;
@@ -43,7 +33,7 @@ export function ExplanationWithStepNumbers({
   text,
   bodyClassName = 'text-slate-300',
   stepClassName = 'text-yellow-300 font-semibold',
-  numberClassName = 'text-white font-black',
+  numberClassName = 'text-cyan-300 font-black',
   className = '',
 }: ExplanationWithStepNumbersProps) {
   const lines = text.split('\n');
@@ -61,7 +51,7 @@ export function ExplanationWithStepNumbers({
               <span className={`shrink-0 ${numberClassName}`}>
                 {stepMatch[1]}{stepMatch[2]}
               </span>
-              <span>{renderInlineEmphasis(stepMatch[3])}</span>
+              <span>{stepMatch[3]}</span>
             </span>
           );
         }
@@ -71,33 +61,21 @@ export function ExplanationWithStepNumbers({
           return (
             <span key={idx} className="mb-2 flex items-start gap-2 last:mb-0">
               <span className="shrink-0 opacity-80">{bulletMatch[1]}</span>
-              <span>{renderInlineEmphasis(bulletMatch[2])}</span>
+              <span>{bulletMatch[2]}</span>
             </span>
           );
         }
 
-        const markdownHeaderMatch = line.match(MARKDOWN_HEADER_LINE);
-        const legacyTitleMatch = line.match(LEGACY_DEPTH_TITLE);
-        const cleanLine = line.replace(/\*\*/g, '');
-        const headerMatch = cleanLine.match(HEADER_LINE);
-        if (markdownHeaderMatch || legacyTitleMatch) {
-          return (
-            <span key={idx} className="mb-2 mt-3 block first:mt-0 last:mb-0">
-              <span className={stepClassName}>
-                {legacyTitleMatch?.[1] ?? markdownHeaderMatch?.[1]}
-              </span>
-            </span>
-          );
-        }
+        const headerMatch = line.match(HEADER_LINE);
         if (headerMatch) {
           return (
             <span key={idx} className="mb-2 mt-3 block first:mt-0 last:mb-0">
-              <span className={stepClassName}>{cleanLine}</span>
+              <span className={stepClassName}>{line}</span>
             </span>
           );
         }
         return (
-          <span key={idx} className="mb-2 block last:mb-0">{renderInlineEmphasis(line)}</span>
+          <span key={idx} className="mb-2 block last:mb-0">{line}</span>
         );
       })}
     </div>
