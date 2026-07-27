@@ -861,7 +861,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
         className="absolute inset-0 bg-black/60 cursor-pointer"
         onClick={onClose}
       />
-      <div ref={panelRef} className={`relative z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)] ${anchorBottom ? 'fixed top-[max(4rem,env(safe-area-inset-top))] right-4' : 'absolute top-full right-0 mt-2'}`}
+      <div ref={panelRef} className="fixed top-[max(4rem,env(safe-area-inset-top))] right-4 z-[70] min-w-[200px] w-[280px] max-w-[calc(100vw-2rem)]"
         onClick={(e) => e.stopPropagation()}
       >
         <div

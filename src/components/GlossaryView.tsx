@@ -248,20 +248,6 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
     return map;
   }, [filteredGlossary, levels]);
 
-  const selectedTermDetails = selectedTerm
-    ? language === 'fr'
-      ? {
-          meaning: `En termes simples, ${selectedTerm.definition.charAt(0).toLowerCase()}${selectedTerm.definition.slice(1)}`,
-          spot: `Repérez le moment où l'argument remplace une preuve vérifiable par le mécanisme décrit ci-dessus. Demandez : « Quelles preuves soutiennent réellement cette conclusion ? »`,
-          check: `Test pratique : retirez l'élément trompeur. Si la conclusion devient beaucoup moins convaincante, vous avez probablement repéré ${selectedTerm.term}.`,
-        }
-      : {
-          meaning: `In plain language, ${selectedTerm.definition.charAt(0).toLowerCase()}${selectedTerm.definition.slice(1)}`,
-          spot: `Look for the moment where the argument replaces checkable evidence with the pattern described above. Ask: "What evidence actually supports this conclusion?"`,
-          check: `Everyday test: remove the misleading element. If the conclusion becomes much less convincing, you have probably spotted ${selectedTerm.term}.`,
-        }
-    : null;
-
   const renderAsParagraphs = (text: string, className: string) => {
     const paragraphs = text.split(/\n|\\n/).map((s) => s.trim()).filter(Boolean);
     return (
@@ -305,22 +291,6 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
                   {renderAsParagraphs(selectedTerm.detailedDescription || selectedTerm.definition, '')}
                 </div>
               </div>
-              {selectedTermDetails && (
-                <div className="grid gap-3">
-                  <div className="quiz-accent-surface rounded-2xl border p-4">
-                    <h4 className="mb-2 text-xs font-black uppercase tracking-wider">{t('glossary.plainMeaning')}</h4>
-                    <p className="text-xs sm:text-sm leading-relaxed text-slate-300">{selectedTermDetails.meaning}</p>
-                  </div>
-                  <div className="rounded-2xl border border-white/10 bg-slate-900/70 p-4">
-                    <h4 className="quiz-accent-text mb-2 text-xs font-black uppercase tracking-wider">{t('glossary.howToSpot')}</h4>
-                    <p className="text-xs sm:text-sm leading-relaxed text-slate-300">{selectedTermDetails.spot}</p>
-                  </div>
-                  <div className="rounded-2xl border border-white/10 bg-slate-900/70 p-4">
-                    <h4 className="quiz-accent-text mb-2 text-xs font-black uppercase tracking-wider">{t('glossary.everydayCheck')}</h4>
-                    <p className="text-xs sm:text-sm leading-relaxed text-slate-300">{selectedTermDetails.check}</p>
-                  </div>
-                </div>
-              )}
               <div className="pt-4 pb-2">
                 {onSaveToFallacyLog && (
                   <button
