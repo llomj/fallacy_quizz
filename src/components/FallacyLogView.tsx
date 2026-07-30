@@ -93,6 +93,8 @@ export const FallacyLogView: React.FC<FallacyLogViewProps> = ({
                   <button
                     onClick={() => onRemoveEntry(entry.term)}
                     className="w-6 h-6 rounded-full flex items-center justify-center bg-slate-800 text-slate-500 hover:text-red-400 transition-colors"
+                    aria-label={`${t('glossary.removeFromSavedGlossary')}: ${entry.displayTerm || entry.term}`}
+                    title={`${t('glossary.removeFromSavedGlossary')}: ${entry.displayTerm || entry.term}`}
                   >
                     <i className="fas fa-times text-[10px]"></i>
                   </button>

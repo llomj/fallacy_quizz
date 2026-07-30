@@ -349,6 +349,13 @@ const App: React.FC = () => {
     }));
   };
 
+  const removeFromFallacyLog = (term: string) => {
+    setStats(prev => ({
+      ...prev,
+      fallacyLog: prev.fallacyLog.filter(entry => entry.term !== term),
+    }));
+  };
+
   const handleQuizComplete = (score: number, total: number = 15) => {
     const xpGained = score * XP_PER_QUESTION;
 
@@ -609,6 +616,7 @@ const App: React.FC = () => {
               onBack={() => setView('hub')} 
               onPlayClickSound={playClickSound}
               onSaveToFallacyLog={saveToFallacyLog}
+              onRemoveFromFallacyLog={removeFromFallacyLog}
               savedFallacyTerms={stats.fallacyLog.map(e => e.term)}
             />
           </div>
@@ -712,7 +720,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto border-t border-white/5 p-8 text-center text-slate-600 text-sm">
         <p>{t('footer.copyright')}</p>
-        <p className="mt-1 text-[10px] text-slate-700">SW v84</p>
+        <p className="mt-1 text-[10px] text-slate-700">SW v85</p>
       </footer>
 
       {/* Operations View Modal */}

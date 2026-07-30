@@ -33,7 +33,7 @@ export function ExplanationWithStepNumbers({
   text,
   bodyClassName = 'text-slate-300',
   stepClassName = 'text-yellow-300 font-semibold',
-  numberClassName = 'text-cyan-300 font-black',
+  numberClassName = 'text-white font-black',
   className = '',
 }: ExplanationWithStepNumbersProps) {
   const lines = text.split('\n');

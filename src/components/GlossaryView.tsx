@@ -196,10 +196,17 @@ interface GlossaryViewProps {
   onBack: () => void;
   onPlayClickSound?: () => void;
   onSaveToFallacyLog?: (entry: { term: string; definition: string; levelRange: string }) => void;
+  onRemoveFromFallacyLog?: (term: string) => void;
   savedFallacyTerms?: string[];
 }
 
-export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickSound, onSaveToFallacyLog, savedFallacyTerms = [] }) => {
+export const GlossaryView: React.FC<GlossaryViewProps> = ({
+  onBack,
+  onPlayClickSound,
+  onSaveToFallacyLog,
+  onRemoveFromFallacyLog,
+  savedFallacyTerms = [],
+}) => {
   const { t, language } = useLanguage();
   const [search, setSearch] = useState('');
   const [selectedTerm, setSelectedTerm] = useState<GlossaryTerm | null>(null);
@@ -217,6 +224,25 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
     return savedFallacyTerms.includes(item.term)
       || savedFallacyTerms.includes(canonicalTermFor(item))
       || (translatedTerm ? savedFallacyTerms.includes(translatedTerm) : false);
+  };
+
+  const toggleSavedTerm = (item: GlossaryTerm) => {
+    const canonicalTerm = canonicalTermFor(item);
+    if (isTermSaved(item)) {
+      const index = glossary.indexOf(item);
+      const storedTerm = [
+        item.term,
+        canonicalTerm,
+        GLOSSARY_TERMS_FR[index]?.term,
+      ].find(term => term && savedFallacyTerms.includes(term));
+      if (storedTerm) onRemoveFromFallacyLog?.(storedTerm);
+      return;
+    }
+    onSaveToFallacyLog?.({
+      term: canonicalTerm,
+      definition: item.definition,
+      levelRange: item.levelRange,
+    });
   };
   
   const filteredGlossary = useMemo(() => {
@@ -292,23 +318,17 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
                 </div>
               </div>
               <div className="pt-4 pb-2">
-                {onSaveToFallacyLog && (
+                {(onSaveToFallacyLog || onRemoveFromFallacyLog) && (
                   <button
                     type="button"
                     onClick={() => {
                       onPlayClickSound?.();
-                      if (!isTermSaved(selectedTerm)) {
-                        onSaveToFallacyLog({
-                          term: canonicalTermFor(selectedTerm),
-                          definition: selectedTerm.definition,
-                          levelRange: selectedTerm.levelRange,
-                        });
-                      }
+                      toggleSavedTerm(selectedTerm);
                     }}
                     className="quiz-accent-surface mb-3 w-full rounded-2xl border py-3 font-bold transition-all"
                   >
-                    <i className={`fas fa-${isTermSaved(selectedTerm) ? 'check' : 'bookmark'} mr-2`}></i>
-                    {isTermSaved(selectedTerm) ? t('glossary.saved') : t('glossary.saveToUserGlossary')}
+                    <i className={`fas fa-${isTermSaved(selectedTerm) ? 'trash' : 'bookmark'} mr-2`}></i>
+                    {isTermSaved(selectedTerm) ? t('glossary.removeFromSavedGlossary') : t('glossary.saveToUserGlossary')}
                   </button>
                 )}
                 <button 
@@ -378,18 +398,16 @@ export const GlossaryView: React.FC<GlossaryViewProps> = ({ onBack, onPlayClickS
                         onClick={(e) => {
                           e.stopPropagation();
                           onPlayClickSound?.();
-                          if (!isSaved && onSaveToFallacyLog) {
-                            onSaveToFallacyLog({ term: canonicalTermFor(item), definition: item.definition, levelRange: item.levelRange });
-                          }
+                          toggleSavedTerm(item);
                         }}
                         className={`absolute top-2 right-2 w-6 h-6 rounded-full flex items-center justify-center transition-all ${
                           isSaved 
                             ? 'quiz-accent-button text-slate-900'
                             : 'bg-slate-800 text-slate-500 hover:text-white border border-white/10'
                         }`}
-                        title={isSaved ? t('glossary.saved') : t('glossary.saveToUserGlossary')}
+                        title={isSaved ? t('glossary.removeFromSavedGlossary') : t('glossary.saveToUserGlossary')}
                       >
-                        <i className="fas fa-bookmark"></i>
+                        <i className={`fas fa-${isSaved ? 'trash' : 'bookmark'}`}></i>
                       </button>
                       <h4 className="quiz-accent-text text-sm font-bold transition-opacity group-hover:opacity-80 pr-8">
                         {item.term}

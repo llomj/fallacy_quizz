@@ -197,7 +197,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
 
   if (!isOpen) return null;
 
-  const hasRulesContent = Boolean(onShowGameRules || onShowArgumentation || onShowGlossary);
+  const hasRulesContent = Boolean(onShowGameRules || onShowArgumentation);
   const withClickSound = (fn: () => void) => () => { onPlayClickSound?.(); fn(); };
 
   const collator = new Intl.Collator(language, { sensitivity: 'base' });
@@ -227,7 +227,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
     });
   }
 
-  const hasLogContent = Boolean(onShowIdSearch || onShowIdLog || onShowLearningLog || onShowUserGlossary);
+  const hasLogContent = Boolean(onShowGlossary || onShowIdSearch || onShowIdLog || onShowLearningLog || onShowUserGlossary);
   if (hasLogContent) {
     menuItems.push({
       icon: 'fa-clipboard-list',
@@ -307,6 +307,7 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   ]);
   const logOrder = orderFor([
     t('app.fallacyLog') || 'Fallacy Log',
+    t('app.glossary'),
     t('settings.idLog'),
     t('app.learningLog'),
     t('settings.searchById'),
@@ -314,7 +315,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
   ]);
   const rulesOrder = orderFor([
     t('gameRules.title'),
-    t('app.glossary'),
     t('settings.logicalRules'),
     t('settings.searchById'),
   ]);
@@ -717,6 +717,16 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
                 <span className="text-sm font-medium">{t('settings.idLog')}</span>
               </button>
             )}
+            {onShowGlossary && (
+              <button
+                onClick={withClickSound(() => { onShowGlossary(); onClose(); })}
+                style={{ order: logOrder.get(t('app.glossary')) }}
+                className={`w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left ${view === 'glossary' ? 'bg-yellow-400/15 text-yellow-300' : 'text-slate-300 hover:bg-white/10 hover:text-white'}`}
+              >
+                <i className="fas fa-circle-info text-sm w-5 flex-shrink-0"></i>
+                <span className="text-sm font-medium">{t('app.glossary')}</span>
+              </button>
+            )}
             {onShowLearningLog && (
               <button
                 onClick={withClickSound(() => { onShowLearningLog(); onClose(); })}
@@ -799,16 +809,6 @@ export const SettingsMenu: React.FC<SettingsMenuProps> = ({
               >
                 <i className="fas fa-circle-info text-sm w-5 flex-shrink-0"></i>
                 <span className="text-sm font-medium">{t('gameRules.title')}</span>
-              </button>
-            )}
-            {onShowGlossary && (
-              <button
-                onClick={withClickSound(() => { onShowGlossary(); onClose(); })}
-                style={{ order: rulesOrder.get(t('app.glossary')) }}
-                className={`w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all text-left ${view === 'glossary' ? 'bg-yellow-400/15 text-yellow-300' : 'text-slate-300 hover:bg-white/10 hover:text-white'}`}
-              >
-                <i className="fas fa-circle-info text-sm w-5 flex-shrink-0"></i>
-                <span className="text-sm font-medium">{t('app.glossary')}</span>
               </button>
             )}
             {onShowArgumentation && (
